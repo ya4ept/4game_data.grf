@@ -1,0 +1,41 @@
+distribution {2}
+    version=20181107.02
+    type=full
+    env=
+    files=../../20181107.02/distr/
+    control-hash=c2f36750469fd00114a808be604e57cc86b05bcd
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=308b8403defc38853a1f42176762d7e1fae6cef6
+    adapter-hash=
+    compressed-size=1569208403
+    size=1715293126
+    compressed-size-total=1569208403
+    size-total=1715293126
+    compressed-stages=
+
+    version=20181113.01
+    type=partial
+    env=
+    files=./
+    control-hash=5ba8f1c1c20fd1051b11648d92b470c3bcacf9e8
+    deleted-control-hash=8507ae78acf6bccf08cae18f0e31860961967abd
+    command-hash=308b8403defc38853a1f42176762d7e1fae6cef6
+    adapter-hash=
+    compressed-size=1260939642
+    size=1377315590
+    compressed-size-total=1569383051
+    size-total=1715293126
+    compressed-stages=
+
+delta {1}
+    version=20181107.02
+    files=../delta/20181107.02/
+    compressed-size=2142818
+    control-hash=ee075e3eeeeeae88a84c5957da220ef00186b8ee
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2018-11-13T07:34:54+03:00
+    date-modified=2018-11-13T07:34:54+03:00
+    running-time-sec=306
+
