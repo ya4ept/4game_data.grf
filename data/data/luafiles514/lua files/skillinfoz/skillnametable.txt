@@ -1,0 +1,916 @@
+NV_BASIC#Базовые умения#
+SM_SWORD#Владение одноручным мечом#
+SM_TWOHAND#Владение двуручным мечом#
+SM_RECOVERY#Восстановление HP#
+SM_BASH#Баш#
+SM_PROVOKE#Провокация#
+SM_MAGNUM#Удар магмы#
+SM_ENDURE#Стойкость#
+MG_SRECOVERY#Восстановление SP#
+MG_SIGHT#Взор#
+MG_NAPALMBEAT#Напалмовый удар#
+MG_SAFETYWALL#Стена безопасности#
+MG_SOULSTRIKE#Призрачный удар#
+MG_COLDBOLT#Ледяной заряд#
+MG_FROSTDIVER#Ледяная волна#
+MG_STONECURSE#Каменное проклятие#
+MG_FIREBALL#Огненный шар#
+MG_FIREWALL#Огненная стена#
+MG_FIREBOLT#Огненный заряд#
+MG_LIGHTNINGBOLT#Молния#
+MG_THUNDERSTORM#Гроза#
+AL_DP#Божественная защита#
+AL_DEMONBANE#Гибель демонов#
+AL_RUWACH#Прозрение#
+AL_PNEUMA#Туман#
+AL_TELEPORT#Телепортация#
+AL_WARP#Портал#
+AL_HEAL#Лечение#
+AL_INCAGI#Повышение ловкости#
+AL_DECAGI#Понижение ловкости#
+AL_HOLYWATER#Аква Бенедикта#
+AL_CRUCIS#Сигнум Круцис#
+AL_ANGELUS#Ангелус#
+AL_BLESSING#Благословение#
+AL_CURE#Очищение#
+MC_INCCARRY#Увеличение носимого веса#
+MC_DISCOUNT#Скидка#
+MC_OVERCHARGE#Наценка#
+MC_PUSHCART#Телега#
+MC_IDENTIFY#Идентификация#
+MC_VENDING#Открыть магазин#
+MC_MAMMONITE#Маммонит#
+AC_OWL#Глаз филина#
+AC_VULTURE#Глаз орла#
+AC_CONCENTRATION#Концентрация#
+AC_DOUBLE#Двойной выстрел#
+AC_SHOWER#Град стрел#
+TF_DOUBLE#Двойная атака#
+TF_MISS#Уклонение#
+TF_STEAL#Кража#
+TF_HIDING#Спрятаться#
+TF_POISON#Отравление#
+TF_DETOXIFY#Противоядие#
+ALL_RESURRECTION#Воскрешение#
+KN_SPEARMASTERY#Владение копьем#
+KN_PIERCE#Удар копьем#
+KN_BRANDISHSPEAR#Взмах копьем#
+KN_SPEARSTAB#Толчок копьем#
+KN_SPEARBOOMERANG#Бросок копья#
+KN_TWOHANDQUICKEN#Стальной вихрь#
+KN_AUTOCOUNTER#Контратака#
+KN_BOWLINGBASH#Боулинг Баш#
+KN_RIDING#Верховая езда#
+KN_CAVALIERMASTERY#Кавалерийская выправка#
+PR_MACEMASTERY#Владение дубиной#
+PR_IMPOSITIO#Импозицио Манус#
+PR_SUFFRAGIUM#Суфрагиум#
+PR_ASPERSIO#Асперсио#
+PR_BENEDICTIO#Бенедикцио Сакраменти#
+PR_SANCTUARY#Святилище#
+PR_SLOWPOISON#Замедление яда#
+PR_STRECOVERY#Восстановление#
+PR_KYRIE#Кирие Элейсон#
+PR_MAGNIFICAT#Магнификат#
+PR_GLORIA#Глория#
+PR_LEXDIVINA#Лекс Дивина#
+PR_TURNUNDEAD#Изгнание нежити#
+PR_LEXAETERNA#Лекс Этерна#
+PR_MAGNUS#Магнус Экзорцизмус#
+WZ_FIREPILLAR#Огненный столб#
+WZ_SIGHTRASHER#Пылающий взор#
+WZ_FIREIVY#Огненная защита#
+WZ_METEOR#Метеоритный дождь#
+WZ_JUPITEL#Гром Юпитера#
+WZ_VERMILION#Владыка Вермилиона#
+WZ_WATERBALL#Водяной шар#
+WZ_ICEWALL#Ледяная стена#
+WZ_FROSTNOVA#Ледяная вспышка#
+WZ_STORMGUST#Ледяной шторм#
+WZ_EARTHSPIKE#Земляной шип#
+WZ_HEAVENDRIVE#Землетрясение#
+WZ_QUAGMIRE#Болотная трясина#
+WZ_ESTIMATION#Сканирование#
+BS_IRON#Выплавка железа#
+BS_STEEL#Выплавка стали#
+BS_ENCHANTEDSTONE#Обработка минералов#
+BS_ORIDEOCON#Изучение оридекона#
+BS_DAGGER#Изготовление кинжала#
+BS_SWORD#Изготовление меча#
+BS_TWOHANDSWORD#Изготовление двуручного меча#
+BS_AXE#Изготовление топора#
+BS_MACE#Изготовление дубины#
+BS_KNUCKLE#Изготовление кастета#
+BS_SPEAR#Изготовление копья#
+BS_HILTBINDING#Переплет рукоятки#
+BS_FINDINGORE#Обнаружение руды#
+BS_WEAPONRESEARCH#Оружейное дело#
+BS_REPAIRWEAPON#Ремонт оружия#
+BS_SKINTEMPER#Огнеупорная кожа#
+BS_HAMMERFALL#Удар молотом#
+BS_ADRENALINE#Адреналин#
+BS_WEAPONPERFECT#Усовершенствование оружия#
+BS_OVERTHRUST#Сила Тора#
+BS_MAXIMIZE#Увеличение мощи#
+HT_SKIDTRAP#Скользкая ловушка#
+HT_LANDMINE#Мина#
+HT_ANKLESNARE#Медвежий капкан#
+HT_SHOCKWAVE#Шоковая ловушка#
+HT_SANDMAN#Дрема#
+HT_FLASHER#Вспышка#
+HT_FREEZINGTRAP#Ледяная ловушка#
+HT_BLASTMINE#Мина-ловушка#
+HT_CLAYMORETRAP#Мина клеймор#
+HT_REMOVETRAP#Убрать ловушку#
+HT_TALKIEBOX#Говорящая коробка#
+HT_BEASTBANE#Искусство охоты#
+HT_FALCON#Контроль сокола#
+HT_STEELCROW#Стальной ворон#
+HT_BLITZBEAT#Стремительный удар#
+HT_DETECTING#Обнаружение#
+HT_SPRINGTRAP#Разрушить ловушку#
+AS_RIGHT#Тренировка правой руки#
+AS_LEFT#Тренировка левой руки#
+AS_KATAR#Владение катаром#
+AS_CLOAKING#Скрыться#
+AS_SONICBLOW#Сверхзвуковой удар#
+AS_GRIMTOOTH#Могильные клыки#
+AS_ENCHANTPOISON#Нанесение яда#
+AS_POISONREACT#Реакция на яд#
+AS_VENOMDUST#Ядовитая пыль#
+AS_SPLASHER#Ядовитые брызги#
+NV_FIRSTAID#Первая помощь#
+NV_TRICKDEAD#Притвориться мертвым#
+SM_MOVINGRECOVERY#Восстановление HP при движении#
+SM_FATALBLOW#Смертельный удар#
+SM_AUTOBERSERK#Бесконтрольная ярость#
+AC_MAKINGARROW#Сделать стрелу#
+AC_CHARGEARROW#Отталкивающая стрела#
+TF_SPRINKLESAND#Бросок песка#
+TF_BACKSLIDING#Обратное скольжение#
+TF_PICKSTONE#Собирание камней#
+TF_THROWSTONE#Бросок камня#
+MC_CARTREVOLUTION#Удар телегой#
+MC_CHANGECART#Изменить вид телеги#
+MC_LOUD#Безумный крик#
+AL_HOLYLIGHT#Святое сияние#
+MG_ENERGYCOAT#Энергетическая защита#
+RG_SNATCHER#Грабеж#
+RG_STEALCOIN#Кража монеты#
+RG_BACKSTAP#Удар в спину#
+RG_TUNNELDRIVE#Сеть туннелей#
+RG_RAID#Испуг#
+RG_STRIPWEAPON#Выбить оружие#
+RG_STRIPSHIELD#Выбить щит#
+RG_STRIPARMOR#Снять броню#
+RG_STRIPHELM#Снять шлем#
+RG_INTIMIDATE#Тет-а-тет#
+RG_GRAFFITI#Граффити#
+RG_FLAGGRAFFITI#Закрасить флаг#
+RG_CLEANER#Очиститель#
+RG_GANGSTER#Гангстерский рай#
+RG_COMPULSION#Рэкет#
+RG_PLAGIARISM#Плагиат#
+AM_AXEMASTERY#Владение топором#
+AM_LEARNINGPOTION#Изучение зелий#
+AM_PHARMACY#Изготовление зелья#
+AM_DEMONSTRATION#Демоническое пламя#
+AM_ACIDTERROR#Кислотный террор#
+AM_POTIONPITCHER#Бросок зелья#
+AM_CANNIBALIZE#Био-каннибализм#
+AM_SPHEREMINE#Сфера-мина#
+AM_CP_WEAPON#Химзащита оружия#
+AM_CP_SHIELD#Химзащита щита#
+AM_CP_ARMOR#Химзащита брони#
+AM_CP_HELM#Химзащита шлема#
+AM_BIOETHICS#Биоэтика#
+AM_BIOTECHNOLOGY#Генная инженерия#
+AM_CREATECREATURE#Создание жизни#
+AM_CULTIVATION#Инкубация#
+AM_FLAMECONTROL#Контроль пламени#
+AM_CALLHOMUN#Призвать гомункула#
+AM_REST#Отдых#
+AM_DRILLMASTER#Инструктаж#
+AM_HEALHOMUN#Исцелить гомункула#
+AM_RESURRECTHOMUN#Воскресить гомункула#
+CR_TRUST#Вера#
+CR_AUTOGUARD#Автозащита#
+CR_SHIELDCHARGE#Отталкивание щитом#
+CR_SHIELDBOOMERANG#Щит-бумеранг#
+CR_REFLECTSHIELD#Отражающий щит#
+CR_HOLYCROSS#Святой крест#
+CR_GRANDCROSS#Великий крест#
+CR_DEVOTION#Преданность#
+CR_PROVIDENCE#Стойкость души#
+CR_DEFENDER#Защитная аура#
+CR_SPEARQUICKEN#Стальной шквал#
+MO_IRONHAND#Стальной кулак#
+MO_SPIRITSRECOVERY#Медитация#
+MO_CALLSPIRITS#Вызов энергетической сферы#
+MO_ABSORBSPIRITS#Поглощение энергетических сфер#
+MO_TRIPLEATTACK#Тройной удар#
+MO_BODYRELOCATION#Перемещение#
+MO_DODGE#Уворот#
+MO_INVESTIGATE#Проникающий удар#
+MO_FINGEROFFENSIVE#Метательная сфера#
+MO_STEELBODY#Стальное тело#
+MO_BLADESTOP#Остановить удар#
+MO_EXPLOSIONSPIRITS#Энергетический взрыв#
+MO_EXTREMITYFIST#Удар Азуры#
+MO_CHAINCOMBO#Цепь ударов#
+MO_COMBOFINISH#Финальный удар#
+SA_ADVANCEDBOOK#Книга ученого#
+SA_CASTCANCEL#Прервать заклинание#
+SA_MAGICROD#Магический посох#
+SA_SPELLBREAKER#Разрушить заклинание#
+SA_FREECAST#Свободное заклинание#
+SA_AUTOSPELL#Автозаклинание#
+SA_FLAMELAUNCHER#Зачаровать огнем#
+SA_FROSTWEAPON#Зачаровать холодом#
+SA_LIGHTNINGLOADER#Зачаровать ветром#
+SA_SEISMICWEAPON#Зачаровать землей#
+SA_DRAGONOLOGY#Драконология#
+SA_VOLCANO#Вулкан#
+SA_DELUGE#Потоп#
+SA_VIOLENTGALE#Вихрь#
+SA_LANDPROTECTOR#Защитник земель#
+SA_DISPELL#Расколдовать#
+SA_ABRACADABRA#Абракадабра#
+SA_MONOCELL#Превращение#
+SA_CLASSCHANGE#Поменять класс#
+SA_SUMMONMONSTER#Призвать монстра#
+SA_REVERSEORCISH#Превращение в орка#
+SA_DEATH#Смерть#
+SA_FORTUNE#Фортуна#
+SA_TAMINGMONSTER#Приручение монстра#
+SA_QUESTION#Вопрос#
+SA_GRAVITY#Корпорация Gravity#
+SA_LEVELUP#Повысить уровень#
+SA_INSTANTDEATH#Самоубийство#
+SA_FULLRECOVERY#Полное восстановление#
+SA_COMA#Кома#
+BD_ADAPTATION#Адаптация#
+BD_ENCORE#Вызвать на бис#
+BD_LULLABY#Колыбельная#
+BD_RICHMANKIM#Ким-богач#
+BD_ETERNALCHAOS#Вечный хаос#
+BD_DRUMBATTLEFIELD#Военный марш#
+BD_RINGNIBELUNGEN#Песнь о Нибелунгах#
+BD_ROKISWEIL#Плач Локи#
+BD_INTOABYSS#Подарок бездны#
+BD_SIEGFRIED#Неуязвимый Зигфрид#
+BD_RAGNAROK#Рагнарёк#
+BA_MUSICALLESSON#Уроки музыки#
+BA_MUSICALSTRIKE#Музыкальный удар#
+BA_DISSONANCE#Дисгармония#
+BA_FROSTJOKE#Плоская шутка#
+BA_WHISTLE#Шепот ветра#
+BA_ASSASSINCROSS#Убийца в лучах заката#
+BA_POEMBRAGI#Песнь Браги#
+BA_APPLEIDUN#Яблоко Идун#
+DC_DANCINGLESSON#Уроки танцев#
+DC_THROWARROW#Метание стрелы#
+DC_UGLYDANCE#Скверный танец#
+DC_SCREAM#Крик#
+DC_HUMMING#Напевы#
+DC_DONTFORGETME#Не забывай меня#
+DC_FORTUNEKISS#Поцелуй Фортуны#
+DC_SERVICEFORYOU#Только для тебя#
+WE_MALE#Нежное прикосновение#
+WE_FEMALE#Вечная любовь#
+WE_CALLPARTNER#Романтическое свидание#
+ITM_TOMAHAWK#Бросок томагавка#
+LK_AURABLADE#Аура клинка#
+LK_PARRYING#Парирование#
+LK_CONCENTRATION#Сосредоточенность#
+LK_TENSIONRELAX#Отдых#
+LK_BERSERK#Берсерк#
+HP_ASSUMPTIO#Ассумпцио#
+HP_BASILICA#Базилика#
+HP_MEDITATIO#Медитацио#
+HW_SOULDRAIN#Глоток магии#
+HW_MAGICCRASHER#Сокрушающий посох#
+HW_MAGICPOWER#Усиление магии#
+PA_PRESSURE#Распятие#
+PA_SACRIFICE#Возмездие мученика#
+PA_GOSPEL#Псалом#
+CH_PALMSTRIKE#Яростный удар#
+CH_TIGERFIST#Удар тигра#
+CH_CHAINCRUSH#Цепное разрушение#
+PF_HPCONVERSION#Конверсия#
+PF_SOULCHANGE#Обмен магией#
+PF_SOULBURN#Сжигание магии#
+ASC_KATAR#Виртуозное владение катаром#
+ASC_EDP#Усиление ядом#
+ASC_BREAKER#Уничтожение души#
+SN_SIGHT#Сила воли#
+SN_FALCONASSAULT#Атака сокола#
+SN_SHARPSHOOTING#Пронзающая стрела#
+SN_WINDWALK#Скорость ветра#
+WS_MELTDOWN#Закалка#
+WS_CREATECOIN#Чеканка монеты#
+WS_CREATENUGGET#Изготовление слитка#
+WS_CARTBOOST#Разгон телеги#
+WS_SYSTEMCREATE#Создать атакующую установку#
+ST_CHASEWALK#Разведка#
+ST_REJECTSWORD#Защитный инстинкт#
+CG_ARROWVULCAN#Вулкан стрел#
+CG_MOONLIT#Блаженный приют#
+CG_MARIONETTE#Марионетка#
+LK_SPIRALPIERCE#Спираль#
+LK_HEADCRUSH#Травмирующий удар#
+LK_JOINTBEAT#Роковой удар#
+HW_NAPALMVULCAN#Напалмовый вулкан#
+CH_SOULCOLLECT#Дзен#
+PF_MINDBREAKER#Искажение разума#
+PF_MEMORIZE#Предвидение#
+PF_FOGWALL#Стена тумана#
+PF_SPIDERWEB#Паутина#
+ASC_METEORASSAULT#Газовая атака#
+ASC_CDP#Создание яда#
+WE_BABY#Мама, папа, я люблю вас!#
+WE_CALLPARENT#Мама, папа, я скучаю!#
+WE_CALLBABY#Иди ко мне, малыш!#
+TK_RUN#Спринт#
+TK_READYSTORM#Стойка торнадо#
+TK_STORMKICK#Удар торнадо#
+TK_READYDOWN#Стойка метеора#
+TK_DOWNKICK#Удар метеора#
+TK_READYTURN#Стойка урагана#
+TK_TURNKICK#Удар урагана#
+TK_READYCOUNTER#Стойка молнии#
+TK_COUNTER#Удар молнии#
+TK_DODGE#Стойка дракона#
+TK_JUMPKICK#Полет дракона#
+TK_HPTIME#Сила женьшеня#
+TK_SPTIME#Сила лотоса#
+TK_POWER#Помощь братства#
+TK_SEVENWIND#Семь ветров#
+TK_HIGHJUMP#Прыжок тигра#
+SG_FEEL#Постижение космоса#
+SG_SUN_WARM#Удар Солнца#
+SG_MOON_WARM#Удар Луны#
+SG_STAR_WARM#Удар Звезды#
+SG_SUN_COMFORT#Защита Солнца#
+SG_MOON_COMFORT#Защита Луны#
+SG_STAR_COMFORT#Защита Звезды#
+SG_HATE#Противостояние космоса#
+SG_SUN_ANGER#Гнев Солнца#
+SG_MOON_ANGER#Гнев Луны#
+SG_STAR_ANGER#Гнев Звезды#
+SG_SUN_BLESS#Дары Солнца#
+SG_MOON_BLESS#Дары Луны#
+SG_STAR_BLESS#Дары Звезды#
+SG_DEVIL#Космические тени#
+SG_FRIEND#Космическая дружба#
+SG_KNOWLEDGE#Космический курьер#
+SG_FUSION#Космический союз#
+SL_ALCHEMIST#Дух алхимика#
+AM_BERSERKPITCHER#Бросок зелья бесстрашия#
+SL_MONK#Дух монаха#
+SL_STAR#Дух гладиатора#
+SL_SAGE#Дух мудреца#
+SL_CRUSADER#Дух крестоносца#
+SL_SUPERNOVICE#Дух суперновичка#
+SL_KNIGHT#Дух рыцаря#
+SL_WIZARD#Дух волшебника#
+SL_PRIEST#Дух священника#
+SL_BARDDANCER#Дух артиста#
+SL_ROGUE#Дух разбойника#
+SL_ASSASIN#Дух убийцы#
+SL_BLACKSMITH#Дух кузнеца#
+BS_ADRENALINE2#Двойной адреналин#
+SL_HUNTER#Дух охотника#
+SL_SOULLINKER#Дух медиума#
+SL_KAIZEL#Ка-Рил#
+SL_KAAHI#Ка-Хи#
+SL_KAUPE#Ка-Пе#
+SL_KAITE#Ка-Тэ#
+SL_KAINA#Ка-Ина#
+SL_STIN#Эс-Тин#
+SL_STUN#Эс-Тун#
+SL_SMA#Эс-Ма#
+SL_SWOO#Эс-Ву#
+SL_SKE#Эс-Ке#
+SL_SKA#Эс-Ка#
+ST_PRESERVE#Слепок памяти#
+ST_FULLSTRIP#Разоружение#
+WS_WEAPONREFINE#Заточка оружия#
+CR_SLIMPITCHER#Бросок уменьшенного зелья#
+CR_FULLPROTECTION#Полная химзащита#
+PA_SHIELDCHAIN#Цепь щитов#
+HP_MANARECHARGE#Экономия магии#
+PF_DOUBLECASTING#Двойной заряд#
+HW_GANBANTEIN#Ганбантейн#
+HW_GRAVITATION#Гравитация#
+WS_CARTTERMINATION#Таран телегой#
+WS_OVERTHRUSTMAX#Ярость Тора#
+CG_LONGINGFREEDOM#Ветер свободы#
+CG_HERMODE#Посох Хермода#
+CG_TAROTCARD#Карты судьбы#
+CR_ACIDDEMONSTRATION#Кислотный ад#
+CR_CULTIVATION#Культивация#
+TK_MISSION#Великая миссия#
+SL_HIGH#Дух экспертов#
+KN_ONEHAND#Стальной ветер#
+AM_TWILIGHT1#Магическое изготовление зелий I#
+AM_TWILIGHT2#Магическое изготовление зелий II#
+AM_TWILIGHT3#Магическое изготовление зелий III#
+HT_POWER#Охота на волков#
+GS_GLITTERING#Орел или решка#
+GS_FLING#Золотой выстрел#
+GS_TRIPLEACTION#Тройной выстрел#
+GS_BULLSEYE#Яблочко#
+GS_MADNESSCANCEL#Противостояние#
+GS_ADJUSTMENT#Ужас стрелка#
+GS_INCREASING#Повышение точности#
+GS_MAGICALBULLET#Магический выстрел#
+GS_CRACKER#Петарда#
+GS_SINGLEACTION#Тир#
+GS_SNAKEEYE#Змеиный глаз#
+GS_CHAINACTION#Цепная реакция#
+GS_TRACKING#Контрольный выстрел#
+GS_DISARM#Разоружение#
+GS_PIERCINGSHOT#Пронзающий выстрел#
+GS_RAPIDSHOWER#Быстрый выстрел#
+GS_DESPERADO#Десперадо#
+GS_GATLINGFEVER#Пулеметная лихорадка#
+GS_DUST#Выстрел в воздух#
+GS_FULLBUSTER#Взрывной выстрел#
+GS_SPREADATTACK#Мульти-выстрел#
+GS_GROUNDDRIFT#Минное поле#
+NJ_TOBIDOUGU#Метание ножа#
+NJ_SYURIKEN#Бросок сюрикена#
+NJ_KUNAI#Бросок куная#
+NJ_HUUMA#Бросок фума сюрикена#
+NJ_ZENYNAGE#Бросок монеты#
+NJ_TATAMIGAESHI#Татами#
+NJ_KASUMIKIRI#Призрачный воин#
+NJ_SHADOWJUMP#Прыжок тени#
+NJ_KIRIKAGE#Призрачный удар#
+NJ_UTSUSEMI#Защита цикады#
+NJ_BUNSINJYUTSU#Зеркальное отражение#
+NJ_NINPOU#Ниндзюцу#
+NJ_KOUENKA#Пылающие лепестки#
+NJ_KAENSIN#Огненный шторм#
+NJ_BAKUENRYU#Огненный дракон#
+NJ_HYOUSENSOU#Копье льда#
+NJ_SUITON#Водяная ловушка#
+NJ_HYOUSYOURAKU#Ледяная атака#
+NJ_HUUJIN#Лезвие ветра#
+NJ_RAIGEKISAI#Сила молнии#
+NJ_KAMAITACHI#Порыв ветра#
+NJ_NEN#Аура ниндзя#
+NJ_ISSEN#Смертельное касание#
+ALL_INCCARRY#Увеличение носимого веса#
+GM_SANDMAN#Колыбельная#
+ALL_CATCRY#Рык зверя#
+ALL_PARTYFLEE#Дуй, цветочный ветер!#
+ALL_ANGEL_PROTECT#Спасибо вам!#
+ALL_DREAM_SUMMERNIGHT#Сон в летнюю ночь#
+ALL_WEWISH#Все мы ждем рождественских колядок.#
+ALL_BUYING_STORE#Открыть магазин#
+ALL_GUARDIAN_RECALL#Призыв стражника#
+ALL_ODINS_POWER#Мощь Одина#
+KN_CHARGEATK#Натиск#
+CR_SHRINK#Сжатие#
+AS_SONICACCEL#Сверхзвуковое мастерство#
+AS_VENOMKNIFE#Ядовитый нож#
+RG_CLOSECONFINE#Обездвиживание#
+WZ_SIGHTBLASTER#Пылающая сфера#
+SA_CREATECON#Создание элемента стихии#
+SA_ELEMENTWATER#Изменить стихию - вода#
+HT_PHANTASMIC#Призрачный выстрел#
+BA_PANGVOICE#Голос боли#
+DC_WINKCHARM#Очарование#
+BS_UNFAIRLYTRICK#Темное дело#
+BS_GREED#Корысть#
+PR_REDEMPTIO#Редемпцио#
+MO_KITRANSLATION#Духовное вознаграждение#
+MO_BALKYOUNG#Карающая длань#
+SA_ELEMENTGROUND#Изменить стихию - земля#
+SA_ELEMENTFIRE#Изменить стихию - огонь#
+SA_ELEMENTWIND#Изменить стихию - ветер#
+RK_ENCHANTBLADE#Зачаровать клинок#
+RK_SONICWAVE#Звуковая волна#
+RK_DEATHBOUND#Зеркало боли#
+RK_HUNDREDSPEAR#Тысяча копий#
+RK_WINDCUTTER#Рассекающий ветер#
+RK_IGNITIONBREAK#Воспламеняющий разлом#
+RK_DRAGONTRAINING#Приручение дракона#
+RK_DRAGONBREATH#Дыхание дракона#
+RK_DRAGONHOWLING#Рев дракона#
+RK_RUNEMASTERY#Знание рун#
+RK_PHANTOMTHRUST#Стальная хватка#
+GC_VENOMIMPRESS#Печать яда#
+GC_CROSSIMPACT#Сверхсветовой удар#
+GC_DARKILLUSION#Смертельный прыжок#
+GC_RESEARCHNEWPOISON#Исследование токсичных ядов#
+GC_CREATENEWPOISON#Создание токсичного яда#
+GC_ANTIDOTE#Антитоксин#
+GC_POISONINGWEAPON#Нанесение токсичного яда#
+GC_WEAPONBLOCKING#Блокировка оружием#
+GC_COUNTERSLASH#Контрудар#
+GC_WEAPONCRUSH#Обезоруживание#
+GC_VENOMPRESSURE#Впрыск яда#
+GC_POISONSMOKE#Ядовитый дым#
+GC_CLOAKINGEXCEED#Исчезновение#
+GC_PHANTOMMENACE#Теневое чутье#
+GC_HALLUCINATIONWALK#Защитная иллюзия#
+GC_ROLLINGCUTTER#Вихрь лезвий#
+GC_CROSSRIPPERSLASHER#Бросок лезвий#
+AB_JUDEX#Правосудие#
+AB_ANCILLA#Анцилла#
+AB_ADORAMUS#Кара#
+AB_CLEMENTIA#Милосердие#
+AB_CANTO#Песнопение#
+AB_CHEAL#Массовое лечение#
+AB_EPICLESIS#Древо жизни#
+AB_PRAEFATIO#Покровительство#
+AB_ORATIO#Отлучение#
+AB_LAUDAAGNUS#Лауда Агнус#
+AB_LAUDARAMUS#Лауда Рамус#
+AB_EUCHARISTICA#Святое причастие#
+AB_RENOVATIO#Обновление#
+AB_HIGHNESSHEAL#Улучшенное лечение#
+AB_CLEARANCE#Исповедь#
+AB_EXPIATIO#Искупление#
+AB_DUPLELIGHT#Двойной свет#
+AB_SILENTIUM#Безмолвие#
+WL_WHITEIMPRISON#Объятия Хель#
+WL_SOULEXPANSION#Призрачная дымка#
+WL_FROSTMISTY#Морозный туман#
+WL_JACKFROST#Ледяные иглы#
+WL_MARSHOFABYSS#Бездонная топь#
+WL_RECOGNIZEDSPELL#Мощь стихий#
+WL_SIENNAEXECRATE#Гнев Ёрд#
+WL_RADIUS#Познание#
+WL_STASIS#Воздушный барьер#
+WL_DRAINLIFE#Поглощение жизни#
+WL_CRIMSONROCK#Огненный метеорит#
+WL_HELLINFERNO#Адское пламя#
+WL_COMET#Комета#
+WL_CHAINLIGHTNING#Цепная молния#
+WL_EARTHSTRAIN#Оползень#
+WL_TETRAVORTEX#Стихийное разрушение#
+WL_SUMMONFB#Сфера огня#
+WL_SUMMONBL#Сфера молнии#
+WL_SUMMONWB#Сфера воды#
+WL_SUMMONSTONE#Сфера земли#
+WL_RELEASE#Стихийный удар#
+WL_READING_SB#Чтение книг заклинаний#
+WL_FREEZE_SP#Печать памяти#
+RA_ARROWSTORM#Ливень стрел#
+RA_FEARBREEZE#Ветер страха#
+RA_RANGERMAIN#Инстинкт рейнджера#
+RA_AIMEDBOLT#Прицельный выстрел#
+RA_DETONATOR#Детонация#
+RA_ELECTRICSHOCKER#Электрошоковая ловушка#
+RA_CLUSTERBOMB#Осколочная бомба#
+RA_WUGMASTERY#Призыв варга#
+RA_WUGRIDER#Вскочить на варга#
+RA_WUGDASH#Рывок варга#
+RA_WUGSTRIKE#Прыжок варга#
+RA_WUGBITE#Укус варга#
+RA_TOOTHOFWUG#Тренировка варга#
+RA_SENSITIVEKEEN#Чутье варга#
+RA_CAMOUFLAGE#Камуфляж#
+RA_RESEARCHTRAP#Исследование ловушек#
+RA_MAGENTATRAP#Красная ловушка#
+RA_COBALTTRAP#Синяя ловушка#
+RA_MAIZETRAP#Желтая ловушка#
+RA_VERDURETRAP#Зеленая ловушка#
+RA_FIRINGTRAP#Обжигающая ловушка#
+RA_ICEBOUNDTRAP#Замораживающая ловушка#
+NC_MADOLICENCE#Лицензия Мадо#
+NC_BOOSTKNUCKLE#Реактивный кулак#
+NC_PILEBUNKER#Отбойник#
+NC_VULCANARM#Вулкан#
+NC_FLAMELAUNCHER#Огнемет#
+NC_COLDSLOWER#Криогенная пушка#
+NC_ARMSCANNON#Плазменная пушка#
+NC_ACCELERATION#Ускорение#
+NC_HOVERING#Антигравитация#
+NC_F_SIDESLIDE#Накат#
+NC_B_SIDESLIDE#Откат#
+NC_MAINFRAME#Преобразование каркаса#
+NC_SELFDESTRUCTION#Самоуничтожение#
+NC_SHAPESHIFT#Трансформация#
+NC_EMERGENCYCOOL#Аварийное охлаждение#
+NC_INFRAREDSCAN#Инфракрасное сканирование#
+NC_ANALYZE#Эвристический анализ#
+NC_MAGNETICFIELD#Магнитное поле#
+NC_NEUTRALBARRIER#Энергетическое поле#
+NC_STEALTHFIELD#Термооптический камуфляж#
+NC_REPAIR#Ремонт#
+NC_TRAININGAXE#Мастер топора#
+NC_RESEARCHFE#Исследование огня и земли#
+NC_AXEBOOMERANG#Бросок топора#
+NC_POWERSWING#Силовой удар#
+NC_AXETORNADO#Вращение топора#
+NC_SILVERSNIPER#Механическая турель#
+NC_MAGICDECOY#Магическая турель#
+NC_DISJOINT#Разобрать турель#
+SC_FATALMENACE#Призрачное объятие#
+SC_REPRODUCE#Репродукция#
+SC_AUTOSHADOWSPELL#Заклинание тени#
+SC_SHADOWFORM#Смертельная связь#
+SC_TRIANGLESHOT#Тройной выстрел#
+SC_BODYPAINT#Облако краски#
+SC_INVISIBILITY#Невидимость#
+SC_DEADLYINFECT#Заражение#
+SC_ENERVATION#Лик истощения#
+SC_GROOMY#Лик скорби#
+SC_IGNORANCE#Лик невежества#
+SC_LAZINESS#Лик апатии#
+SC_UNLUCKY#Лик неудачи#
+SC_WEAKNESS#Лик слабости#
+SC_STRIPACCESSARY#Снять аксессуары#
+SC_MANHOLE#Символ бездны#
+SC_DIMENSIONDOOR#Символ перемещения#
+SC_CHAOSPANIC#Символ хаоса#
+SC_MAELSTROM#Символ искажения#
+SC_BLOODYLUST#Символ крови#
+SC_FEINTBOMB#Призрачный двойник#
+LG_CANNONSPEAR#Гарпун#
+LG_BANISHINGPOINT#Пронзить копьем#
+LG_TRAMPLE#Топот#
+LG_SHIELDPRESS#Давление щитом#
+LG_REFLECTDAMAGE#Отражение#
+LG_PINPOINTATTACK#Бронебойный удар#
+LG_FORCEOFVANGUARD#Ярость#
+LG_RAGEBURST#Взрыв ярости#
+LG_SHIELDSPELL#Магия щита#
+LG_EXEEDBREAK#Разрушающий прорыв#
+LG_OVERBRAND#Нанесение клейма#
+LG_PRESTIGE#Защищающий свет#
+LG_BANDING#Объединение#
+LG_MOONSLASHER#Лунная сабля#
+LG_RAYOFGENESIS#Проблеск бытия#
+LG_PIETY#Благочестие#
+LG_EARTHDRIVE#Сотрясение земли#
+LG_HESPERUSLIT#Звездный свет#
+LG_INSPIRATION#Воодушевление#
+SR_DRAGONCOMBO#Удар дракона#
+SR_SKYNETBLOW#Небесный вихрь#
+SR_EARTHSHAKER#Дрожь земли#
+SR_FALLENEMPIRE#Павшая империя#
+SR_TIGERCANNON#Когти тигра#
+SR_RAMPAGEBLASTER#Буйство энергии#
+SR_CRESCENTELBOW#Отблеск луны#
+SR_CURSEDCIRCLE#Остановка времени#
+SR_LIGHTNINGWALK#Встречный ветер#
+SR_KNUCKLEARROW#Летящий кулак#
+SR_WINDMILL#Ветряная мельница#
+SR_RAISINGDRAGON#Энергия дракона#
+SR_ASSIMILATEPOWER#Поглощение энергии#
+SR_POWERVELOCITY#Передача энергии#
+SR_GATEOFHELL#Врата ада#
+SR_GENTLETOUCH_QUIET#Прикосновение тишины#
+SR_GENTLETOUCH_CURE#Прикосновение очищения#
+SR_GENTLETOUCH_ENERGYGAIN#Прикосновение энергии#
+SR_GENTLETOUCH_CHANGE#Прикосновение силы#
+SR_GENTLETOUCH_REVITALIZE#Прикосновение стойкости#
+WA_SWING_DANCE#Крещендо#
+WA_SYMPHONY_OF_LOVER#Романс#
+WA_MOONLIT_SERENADE#Лунная соната#
+MI_RUSH_WINDMILL#Борьба с ветряными мельницами#
+MI_ECHOSONG#Песнь покровительства#
+MI_HARMONIZE#Гармония#
+WM_LESSON#Сценическое мастерство#
+WM_METALICSOUND#Акустический шок#
+WM_REVERBERATION#Реверберация#
+WM_DOMINION_IMPULSE#Доминанта#
+WM_SEVERE_RAINSTORM#Ария поющих стрел#
+WM_POEMOFNETHERWORLD#Песнь страданий#
+WM_VOICEOFSIREN#Ода соблазна#
+WM_DEADHILLHERE#Гимн возрождения#
+WM_LULLABY_DEEPSLEEP#Шепот Морфея#
+WM_SIRCLEOFNATURE#Круг жизни#
+WM_RANDOMIZESPELL#Импровизация#
+WM_GLOOMYDAY#Элегия#
+WM_GREAT_ECHO#Великое эхо#
+WM_SONG_OF_MANA#Песнь вдохновения#
+WM_DANCE_WITH_WUG#Танец с волками#
+WM_SOUND_OF_DESTRUCTION#Гимн разрушения#
+WM_SATURDAY_NIGHT_FEVER#Лихорадка субботнего вечера#
+WM_LERADS_DEW#Слеза Лерада#
+WM_MELODYOFSINK#Мелодия забвения#
+WM_BEYOND_OF_WARCRY#Боевой клич#
+WM_UNLIMITED_HUMMING_VOICE#Бесконечный напев#
+SO_FIREWALK#След огня#
+SO_ELECTRICWALK#След молнии#
+SO_SPELLFIST#Преобразование#
+SO_EARTHGRAVE#Каменный шип#
+SO_DIAMONDDUST#Алмазная пыль#
+SO_POISON_BUSTER#Интоксикация#
+SO_PSYCHIC_WAVE#Ударная волна#
+SO_CLOUD_KILL#Смертельный туман#
+SO_STRIKING#Стихийное усиление#
+SO_WARMER#Пламя жизни#
+SO_VACUUM_EXTREME#Вакуум#
+SO_VARETYR_SPEAR#Копье Вератюра#
+SO_ARRULLO#Колыбельная ветра#
+SO_SUMMON_AGNI#Элементаль Агни#
+SO_SUMMON_AQUA#Элементаль Аква#
+SO_SUMMON_VENTUS#Элементаль Вентус#
+SO_SUMMON_TERA#Элементаль Тера#
+SO_EL_CONTROL#Управление элементалем#
+SO_EL_ACTION#Атака элементаля#
+SO_EL_ANALYSIS#Исследование элементов#
+SO_EL_SYMPATHY#Повиновение#
+SO_EL_CURE#Жертва#
+SO_FIRE_INSIGNIA#Символ огня#
+SO_WATER_INSIGNIA#Символ воды#
+SO_WIND_INSIGNIA#Символ ветра#
+SO_EARTH_INSIGNIA#Символ земли#
+GN_TRAINING_SWORD#Владение мечом#
+GN_REMODELING_CART#Улучшенная телега#
+GN_CART_TORNADO#Ураган телеги#
+GN_CARTCANNON#Боевая телега#
+GN_CARTBOOST#Ускорение телеги#
+GN_THORNS_TRAP#Терновая ловушка#
+GN_BLOOD_SUCKER#Пиявка#
+GN_SPORE_EXPLOSION#Взрыв спор#
+GN_WALLOFTHORN#Стена терновника#
+GN_CRAZYWEED#Безумная трава#
+GN_DEMONIC_FIRE#Демонический костер#
+GN_FIRE_EXPANSION#Огненный зев#
+GN_HELLS_PLANT#Плотоядное растение#
+GN_MANDRAGORA#Крик мандрагоры#
+GN_SLINGITEM#Праща#
+GN_CHANGEMATERIAL#Изменение материи#
+GN_MIX_COOKING#Готовка#
+GN_MAKEBOMB#Изготовление бомбы#
+GN_S_PHARMACY#Трансмутация#
+AB_SECRAMENT#Таинство#
+SR_HOWLINGOFLION#Рев льва#
+SR_RIDEINLIGHTNING#Ментальная молния#
+RETURN_TO_ELDICASTES#Возврат в Эль Дикастес#
+HLIF_HEAL#Исцеляющее касание#
+HLIF_AVOID#Ускорение#
+HLIF_BRAIN#Вдохновение#
+HLIF_CHANGE#Ментальный обмен#
+HAMI_CASTLE#Рокировка#
+HAMI_DEFENCE#Бастион#
+HAMI_SKIN#Панцирь#
+HAMI_BLOODLUST#Жажда крови#
+HFLI_MOON#Атака клювом#
+HFLI_FLEET#Реактивный полет#
+HFLI_SPEED#Порхание#
+HFLI_SBR44#РЗВ-44#
+HVAN_CAPRICE#Каприз#
+HVAN_CHAOTIC#Хаотичное исцеление#
+HVAN_INSTRUCT#Смена алгоритма#
+HVAN_EXPLOSION#Самоуничтожение#
+MS_BASH#Баш#
+MS_MAGNUM#Удар магмы#
+MS_BOWLINGBASH#Боулинг Баш#
+MS_PARRYING#Парирование#
+MS_REFLECTSHIELD#Отражающий щит#
+MS_BERSERK#Берсерк#
+MA_DOUBLE#Двойной выстрел#
+MA_SHOWER#Град стрел#
+MA_SKIDTRAP#Скользкая ловушка#
+MA_LANDMINE#Мина#
+MA_SANDMAN#Дрема#
+MA_FREEZINGTRAP#Ледяная ловушка#
+MA_REMOVETRAP#Убрать ловушку#
+MA_CHARGEARROW#Отталкивающая стрела#
+MA_SHARPSHOOTING#Пронзающая стрела#
+ML_PIERCE#Удар копьем#
+ML_BRANDISH#Взмах копьем#
+ML_SPIRALPIERCE#Спираль#
+ML_DEFENDER#Защитная аура#
+ML_AUTOGUARD#Автозащита#
+ML_DEVOTION#Преданность#
+MER_MAGNIFICAT#Магнификат#
+MER_QUICKEN#Стальной вихрь#
+MER_SIGHT#Взор#
+MER_CRASH#Сильный удар#
+MER_REGAIN#Восстановление#
+MER_TENDER#Забота#
+MER_BENEDICTION#Благословение#
+MER_RECUPERATE#Выздоровление#
+MER_MENTALCURE#Очищение#
+MER_COMPRESS#Перевязка#
+MER_PROVOKE#Провокация#
+MER_AUTOBERSERK#Бесконтрольная ярость#
+MER_DECAGI#Понижение ловкости#
+MER_SCAPEGOAT#Самопожертвование#
+MER_LEXDIVINA#Лекс Дивина#
+MER_ESTIMATION#Сканирование#
+GD_APPROVAL#Официальное одобрение гильдии#
+GD_KAFRACONTRACT#Контракт с Кафрой#
+GD_GUARDRESEARCH#Призыв защитников#
+GD_GUARDUP#Усиление защитников#
+GD_EXTENSION#Расширение гильдии#
+GD_LEADERSHIP#Лидерство#
+GD_GLORYWOUNDS#Боевые шрамы#
+GD_SOULCOLD#Хладнокровие#
+GD_HAWKEYES#Острый глаз#
+GD_BATTLEORDER#Боевой порядок#
+GD_REGENERATION#Регенерация#
+GD_RESTORE#Второе дыхание#
+GD_EMERGENCYCALL#Призыв гильдии#
+GD_DEVELOPMENT#Перспективное развитие#
+MH_SUMMON_LEGION#Призвать легион#
+MH_NEEDLE_OF_PARALYZE#Паралич#
+MH_POISON_MIST#Отравленный туман#
+MH_PAIN_KILLER#Болевой шок#
+MH_LIGHT_OF_REGENE#Свет Регена#
+MH_OVERED_BOOST#Раздувание#
+MH_ERASER_CUTTER#Резак#
+MH_XENO_SLASHER#Разрез Ксено#
+MH_SILENT_BREEZE#Дуновение ветра#
+MH_STAHL_HORN#Стальной рог#
+MH_GOLDENE_FERSE#Золотые подковы#
+MH_STEINWAND#Каменная стена#
+MH_HEILIGE_STANGE#Святой Рода#
+MH_ANGRIFFS_MODUS#Режим атаки#
+MH_STYLE_CHANGE#Смена стиля#
+MH_SONIC_CRAW#Звуковой захват#
+MH_SILVERVEIN_RUSH#Серебряный порыв#
+MH_MIDNIGHT_FRENZY#Полуночное безумство#
+MH_TINDER_BREAKER#Тесак#
+MH_CBC#Непрерывная комбинация#
+MH_EQC#Комбинация бесконечности#
+MH_MAGMA_FLOW#Поток магмы#
+MH_GRANITIC_ARMOR#Гранитная броня#
+MH_LAVA_SLIDE#Поток лавы#
+MH_PYROCLASTIC#Пирокластика#
+MH_VOLCANIC_ASH#Вулканический пепел#
+KO_YAMIKUMO#Спрятаться#
+KO_RIGHT#Усиление правой руки#
+KO_LEFT#Усиление левой руки#
+KO_JYUMONJIKIRI#Кровавая метка#
+KO_SETSUDAN#Разрыв духовной связи#
+KO_BAKURETSU#Взрывной кунай#
+KO_HAPPOKUNAI#Пронзающий смерч#
+KO_MUCHANAGE#Золотая смерть#
+KO_HUUMARANKA#Вихрь лепестков#
+KO_MAKIBISHI#Макибиши#
+KO_MEIKYOUSISUI#Безупречный дух#
+KO_ZANZOU#Иллюзия тени#
+KO_KYOUGAKU#Иллюзия шока#
+KO_JYUSATSU#Иллюзия смерти#
+KO_KAHU_ENTEN#Мощь огня#
+KO_HYOUHU_HUBUKI#Мощь воды#
+KO_KAZEHU_SEIRAN#Мощь ветра#
+KO_DOHU_KOUKAI#Мощь земли#
+KO_KAIHOU#Высвобождение духа#
+KO_ZENKAI#Печать духов#
+KO_GENWAKU#Иллюзия хаоса#
+KO_IZAYOI#Шестнадцатая ночь#
+KG_KAGEHUMI#Срыв покровов#
+KG_KYOMU#Подавление ауры#
+KG_KAGEMUSYA#Воин тени#
+OB_ZANGETSU#Искажение луны#
+OB_OBOROGENSOU#Фаза луны#
+OB_AKAITSUKI#Кровавая луна#
+ECLAGE_RECALL#Возврат в Эклэйдж#
+ECL_SNOWFLIP#Снежный удар#
+ECL_PEONYMAMY#Огненный цветок#
+ECL_SADAGUI#Лепесток смерти#
+ECL_SEQUOIADUST#Пыль Древа жизни#
+GC_DARKCROW#Темный коготь#
+RA_UNLIMIT#Без ограничений#
+LG_KINGS_GRACE#Благословение короля#
+RK_DRAGONBREATH_WATER#Ледяное дыхание#
+NC_MAGMA_ERUPTION#Потоки лавы#
+WM_FRIGG_SONG#Песнь плодородия#
+SO_ELEMENTAL_SHIELD#Щит элементаля#
+SR_FLASHCOMBO#ј¶±¤ї¬°Э (амОГжжМЄ)#
+SC_ESCAPE#±д±Ю Е»Гв (ESCAPE)#
+AB_OFFERTORIUM#їАЖдёЈЕдё®їт (OFFERTORIUM / єАЗејЫ)#
+WL_TELEKINESIS_INTENSE#ЕЪ·№Е°іЧЖЅ АОЕЩЅє (TELEKINESIS INTENSE)#
+ALL_FULL_THROTTLE#З® Ѕє·ОЖІ (FULL THROTTLE)#
+GN_ILLUSIONDOPING#ИЇ°ў µµЗО (ILLUSION DOPING)#
+MER_INVINCIBLEOFF2#ё¶АОµе єн·ЎЅєЕН#
+GM_ITEM_ATKMAX#№°ё® ѕЖАМЕЫ °ш°Э·В ГЦґл#
+GM_ITEM_ATKMIN#№°ё® ѕЖАМЕЫ °ш°Э·В ГЦјТ#
+GM_ITEM_MATKMAX#ё¶№э ѕЖАМЕЫ °ш°Э·В ГЦґл#
+GM_ITEM_MATKMIN#ё¶№э ѕЖАМЕЫ °ш°Э·В ГЦјТ#
+RL_D_TAIL#µе·Ў°п ЕЧАП (ё¶јцАЗ Іїё®)#
+RL_R_TRIP#¶уїоµе Ж®ёі (їшЗь №«µµ) #
+RL_RICHS_COIN#ё®ДЎЅє ДЪАО (єОАЇЗС АЪАЗ Аз№°) #
+RL_MASS_SPIRAL#ёЕЅє ЅєЖДАМ·І (Аэґл °ьЕл)#
+RL_B_TRAP#№ЩАОµе Ж®·¦ (ѕПИж іЄ¶ф)#
+RL_BANISHING_BUSTER#№иґПЅМ №цЅєЕН (°­Б¦ ГЯ№ж)#
+RL_S_STORM#јЁЕН ЅєЕи (єРјв ЖшЗі)#
+RL_SLUGSHOT#ЅЅ·Ї±Ч ј¦ (±ЩїшАы ЖД±«)#
+RL_AM_BLAST#ѕИЖј ёЕЕНё®ѕу єн·ЎЅєЖ® (јТёкАЗ АП°Э)#
+RL_E_CHAIN#АМЕНіО ГјАО (№«ЗС ї¬јв)#
+RL_QD_SHOT#Дь µе·Оїм ј¦ (јшјУАЗ ЕєИЇ)#
+RL_C_MARKER#Е©ёІБр ё¶Дї (ЗЗАЗ і«АО)#
+RL_FIREDANCE#ЖДАМѕо ґнЅє (»мА°АЗ Гг)#
+RL_FIRE_RAIN#ЖДАМѕо ·№АО (И­ї° Жшїм)#
+RL_FALLEN_ANGEL#ЖЮёҐ їЈБ© (ЕёГµ»з)#
+RL_P_ALTER#ЗГ·ЎЖјіС ѕЛЕН (№й±Э Б¦ґЬ)#
+RL_FLICKER#ЗГё®Дї (БЎёк ЅЕИЈ)#
+RL_H_MINE#ЗПїпёµ ё¶АО (ЖД±«АЗ їЬД§)#
+RL_HAMMER_OF_GOD#ЗШёУ їАєк °« (ЅЕАЗ єРіл)#
+RL_HEAT_BARREL#ИчЖ® №и·І (°ЎјУ ЕєИЇ)#
+BA_POEMBRAGI2#єк¶у±вАЗ ЅГ (A Poem of Bragi)#
+DC_FORTUNEKISS2#ЗаїоАЗ Е°Ѕє (Fortune's kiss)#
+GM_FORCE_TRANSFER#ЖчЅє Ж®·ЈЅєЖЫ#

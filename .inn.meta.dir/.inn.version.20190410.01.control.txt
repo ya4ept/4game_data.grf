@@ -1,0 +1,22 @@
+distribution {1}
+    version=20190410.01
+    type=full
+    env=
+    files=./
+    control-hash=bfe3894b724a8fc2e7ea8778e358f8d3412c584f
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1604871349
+    size=1765621652
+    compressed-size-total=1604871349
+    size-total=1765621652
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2019-04-10T10:05:23+03:00
+    date-modified=2019-04-10T10:05:23+03:00
+    running-time-sec=313
+
