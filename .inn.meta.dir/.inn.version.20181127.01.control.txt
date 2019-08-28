@@ -1,0 +1,79 @@
+distribution {4}
+    version=20181107.02
+    type=full
+    env=
+    files=../../20181107.02/distr/
+    control-hash=c2f36750469fd00114a808be604e57cc86b05bcd
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=308b8403defc38853a1f42176762d7e1fae6cef6
+    adapter-hash=
+    compressed-size=1569208403
+    size=1715293126
+    compressed-size-total=1569208403
+    size-total=1715293126
+    compressed-stages=
+
+    version=20181113.01
+    type=partial
+    env=
+    files=../../20181113.01/distr/
+    control-hash=5ba8f1c1c20fd1051b11648d92b470c3bcacf9e8
+    deleted-control-hash=8507ae78acf6bccf08cae18f0e31860961967abd
+    command-hash=308b8403defc38853a1f42176762d7e1fae6cef6
+    adapter-hash=
+    compressed-size=1260939642
+    size=1377315590
+    compressed-size-total=1569383051
+    size-total=1715293126
+    compressed-stages=
+
+    version=20181120.01
+    type=partial
+    env=
+    files=../../20181120.01/distr/
+    control-hash=9dcc21a7372c505611a86c912e6edeac9c3100d7
+    deleted-control-hash=763764c3bb72a1d9c396aa615c4a1e3c7a632830
+    command-hash=308b8403defc38853a1f42176762d7e1fae6cef6
+    adapter-hash=
+    compressed-size=1260849506
+    size=1377315590
+    compressed-size-total=1569292915
+    size-total=1715293126
+    compressed-stages=
+
+    version=20181127.01
+    type=partial
+    env=
+    files=./
+    control-hash=0dc3e95f81c9b291d449ec44a8d5523228250f77
+    deleted-control-hash=1bb7ab606218344f5fb2954e2b092f8211423e79
+    command-hash=308b8403defc38853a1f42176762d7e1fae6cef6
+    adapter-hash=
+    compressed-size=1260691159
+    size=1377315590
+    compressed-size-total=1569134568
+    size-total=1715293126
+    compressed-stages=
+
+delta {3}
+    version=20181107.02
+    files=../delta/20181107.02/
+    compressed-size=6148956
+    control-hash=dde04f0d515b2828c6333a35f4173dd667fa3f04
+
+    version=20181113.01
+    files=../delta/20181113.01/
+    compressed-size=5452628
+    control-hash=e6e6543c0ee3b96cabc3b3a4f0322306b5ab569c
+
+    version=20181120.01
+    files=../delta/20181120.01/
+    compressed-size=3655701
+    control-hash=69eed663e8d2161ef1905eabcbe479f0bea5defa
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2018-11-27T07:08:57+03:00
+    date-modified=2018-11-27T07:08:57+03:00
+    running-time-sec=301
+
