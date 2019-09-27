@@ -1,0 +1,41 @@
+distribution {2}
+    version=20190807.01
+    type=full
+    env=
+    files=../../20190807.01/distr/
+    control-hash=237451c5ecc478fd08d2520d2859892fb4a92e5a
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1774832857
+    size=1802278280
+    compressed-size-total=1774832857
+    size-total=1802278280
+    compressed-stages=
+
+    version=20190807.02
+    type=partial
+    env=
+    files=./
+    control-hash=c47c63b0d4adeca6987a3ee8c4057df67daefa26
+    deleted-control-hash=5c5421d9d5fe2dcff3507f1af53a4d9b91fe5aae
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1466325600
+    size=1466325600
+    compressed-size-total=1774832857
+    size-total=1802278280
+    compressed-stages=
+
+delta {1}
+    version=20190807.01
+    files=../delta/20190807.01/
+    compressed-size=1074269
+    control-hash=88dff33c62a31f44cc2d766c0cc40bbb2ee0ca8a
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2019-08-07T14:05:43+03:00
+    date-modified=2019-08-07T14:05:43+03:00
+    running-time-sec=302
+

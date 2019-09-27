@@ -1,0 +1,31 @@
+# gameshield32 version:30.17.9.30|30.17.9.29
+# gameshield64 version:0.0.0.0|0.0.0.0
+# driver32 version:10.17.0.31|10.17.0.31
+# driver64 version:10.17.1.31|10.17.1.31
+# launcher32 version:10.3.1.31|10.3.1.31
+# launcher64 version:10.3.1.22|10.3.1.22
+# collector32 version:1.3.9.54|1.3.9.54
+# collector64 version:0.0.0.0|0.0.0.0
+# frostupdater32 version:1.2.0.27|1.2.0.27
+
+balance	100|0
+option	5
+redir ru|185.47.158.75|10001-10016,17453|185.47.156.244|10001-10016,17453|100
+redir ru|185.47.158.76|10001-10016,17453|185.47.156.245|10001-10016,17453|100
+redir ru|185.47.158.77|10001-10016,17453|185.47.156.246|10001-10016,17453|100
+redir ru|185.47.158.78|10001-10016,17453|185.47.156.247|10001-10016,17453|100
+redir ru|185.47.158.79|10001-10016,17453|185.47.156.242|10001-10016,17453|100
+redir ru|185.47.158.80|10001-10016,17453|185.47.156.243|10001-10016,17453|100
+redir ru|185.47.158.81|10001-10016,17453|185.47.156.248|10001-10016,17453|100
+redir ru|185.47.158.82|10001-10016,17453|185.47.156.249|10001-10016,17453|100
+get files/gameshield_32/30.17.9.30/gameShieldDll.dll|2283296|35677abfbce33fd218812bde4bf6f534 files/gameshield_32/30.17.9.29/gameShieldDll.dll|2289440|c22128a1930d7aa349f5343fd64ecd0e
+get files/driver_32/10.17.0.31/frost_32.sys|90936|7ce449b74b926f11c75bf06f62c642f2 files/driver_32/10.17.0.31/frost_32.sys|90936|7ce449b74b926f11c75bf06f62c642f2
+get files/driver_64/10.17.1.31/frost_64.sys|102200|9041cad83ae266a357e0eab9be73fa5d files/driver_64/10.17.1.31/frost_64.sys|102200|9041cad83ae266a357e0eab9be73fa5d
+get files/collector_32/1.3.9.54/frostcollector.dll|1274216|4e333bbcf221d918126b1c7a5c7abc9c files/collector_32/1.3.9.54/frostcollector.dll|1274216|4e333bbcf221d918126b1c7a5c7abc9c
+get files/updater_32/1.2.0.27/frostUpdater.dll|1081192|cc76b17dad21813bb735dc46e8879173 files/updater_32/1.2.0.27/frostUpdater.dll|1081192|cc76b17dad21813bb735dc46e8879173
+get files/launcher_32/10.3.1.31/launcher.exe|2576160|3cde22b927ba60dd72b5add78a84183f files/launcher_32/10.3.1.31/launcher.exe|2576160|3cde22b927ba60dd72b5add78a84183f
+get files/launcher_32/10.3.1.31/launcher.dll|113952|79c18cdbbce08226bbeef2e9e0fc5ebf files/launcher_32/10.3.1.31/launcher.dll|113952|79c18cdbbce08226bbeef2e9e0fc5ebf
+get files/img/roeu_live/back.bmp|231496|1a69e5527fe89864667ce0d340185f01
+get files/img/frost.ico|1218|6d342202659cfea4ab59a3ebaa928b55
+del FrostConfigs.exe
+del whitenames.wl
