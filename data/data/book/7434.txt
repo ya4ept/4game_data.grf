@@ -1,88 +1,65 @@
 %faf0e6
-^000088Пособие по варке элементальных зелий (для чайников)^000000
-Автор - Писрик Куив
-
-----------------Предисловие--------------
-Мало кто знает, что защиту от четырех основных стихий - Огня, Воды, Ветра и Земли -
-можно легко увеличить с помощью особых зелий, которые умеют изготавливать алхимики.
-Я написал эту книгу в надежде, что мои знания о создании подобных зелий помогут всем
-желающим научиться делать это легко и просто.
---------------------------------------------------
-
-Описание:
-Элементальные зелья временно повышают защиту от одной из стихий, однако при этом
-уменьшится ваша сопротивляемость к противоположной стихии. Например, зелье Огня
-помогает противостоять соответствующему элементу, но также снижает защиту от Воды.
+^000088Produce special potions to enhance
+resistance to elemental properties.^000000
 
 
+----------------Preface--------------------
+You can temporarily increase resistance to the
+four basic elements, Fire, Water, Wind, and Earth
+properties, by using catalyzers to produce potions
+that will provide protection for each element. I write
+this book on property resistance with the wish that
+my principles and knowledge of the four basic
+elements will help future Alchemists.
+------------------------------------------
 
 
-
-^ff8040Зелье Огня^000000
-Временно повышает защиту от Огня.
-
-Ингредиенты: ^4b00822 воротника ящерицы, 1 пустой пузырек, 1 красный драгоценный камень^000000
-
-Указания:
-1) Измельчите воротники и красный камень в медицинской ступе.
-2) Используйте умение [Изготовить зелье], чтобы вызвать реакцию между красным
-драгоценным камнем и другими ингредиентами.
-3) Перелейте готовый раствор в пустой пузырек.
+What is a ^ff0000property resistance potion^000000?
 
 
+Property resistance potions temporarily increase
+resistance to one element, but also reduce resistance
+to that element's opposing element. For example, fireproof
+potions can reduce damage from the Fire property, but they
+also increase damage from the Water property.
 
 
+^0000ffFireproof Potion^000000: Enhances Fire property resistance.
+Required Materials: ^4b008222 Frills,
+1 Red Gemstone, 1 Empty potion bottle^000000
+Process: Place the frills and a red gemstone into
+a medicine bowl. Use the Prepare Potion skill so
+that the gemstone will begin to catalyze the other
+ingredients, and then pour the solution into an
+empty potion bottle.
 
-
-
-
-
-^0000ffЗелье Воды^000000
-Временно повышает защиту от Воды.
-
-Ингредиенты: ^4b00823 сердца русалок, 1 пустой пузырек, 1 синий драгоценный камень^000000
-
-Указания:
-1) Измельчите сердца русалок и синий камень в медицинской ступе.
-2) Используйте умение [Изготовить зелье], чтобы вызвать реакцию между синим
-драгоценным камнем и другими ингредиентами.
-3) Перелейте готовый раствор в пустой пузырек.
+^800000Coldproof Potion^000000: Enhances Water property resistance.
+Required Materials: ^4b00823 Heart of Mermaids,
+1 Blue Gemstone, 1 Empty Potion Bottle^000000
+Process: Place the hearts of mermaid and blue
+gemstone into a medicine bowl. Use the Prepare
+Potion skill so that the gemstone will begin to catalyze
+the other ingredients, and then pour the solution
+into an empty potion bottle.
 
 
 
-
-
-
-
-
-
-^008040Зелье Ветра^000000
-Временно повышает защиту от Ветра.
-
-Ингредиенты: ^4b00823 пыльцы мотылька, 1 пустой пузырек, 1 синий драгоценный камень^000000
-
-Указания:
-1) Измельчите пыльцу мотылька и синий камень в медицинской ступе.
-2) Используйте умение [Изготовить зелье], чтобы вызвать реакцию между синим
-драгоценным камнем и другими ингредиентами.
-3) Перелейте готовый раствор в пустой пузырек.
+^008040Thunderproof Potion^000000: Enhances Wind property resistance.
+Required Materials: ^4b00823 Moth Dust,
+1 Blue Gemstone, 1 Empty Potion Bottle^000000
+Process: Place the moth dust and blue gemstone
+into a medicine bowl. Use the Prepare Potion skill
+so that the gemstone will begin to catalyze the
+other ingredients, and then pour the solution
+into an empty potion bottle.
 
 
 
 
-
-
-
-
-
-^800000Зелье Земли^000000
-Временно повышает защиту от Земли.
-
-Ингредиенты: ^4b00822 больших желлопи, 1 пустой пузырек, 1 желтый драгоценный камень^000000
-
-Указания:
-1) Измельчите большие желлопи и желтый камень в медицинской ступе.
-2) Используйте умение [Изготовить зелье], чтобы вызвать реакцию между желтым
-драгоценным камнем и другими ингредиентами.
-3) Перелейте готовый раствор в пустой пузырек.
-
+^ff8040Earthproof Potion^000000: Enhances Earth property resistance.
+Required Materials: ^4b00822 Large Jellopies,
+1 Yellow Gemstone, 1 Empty potion bottle^000000
+Process: Place the large jellopies and yellow gemstone
+into a medicine bowl. Use the Prepare Potion skill so that
+the gemstone will begin to catalyze the other ingredients,
+and then pour the solution into an empty potion bottle.

@@ -1,55 +1,60 @@
 %c0c0c0
-^483d8bБиографический словарь
-Авторство принадлежит Комитету по составлению словарей Университета Юно.^000000
-Опубликован в 1003 г.
+^483d8bBiographical Dictionary coauthored by Juno National University Dictionary 
+Compilation Committee ^000000
+Published in A.W. 1003
 
-^8b008bДоктор Вармунт (667~??? гг.)^000000
+^8b008bDoctor Varmunt (A.W. 667~???)^000000
 
-Доктор Вармунт родился в 667 году в небольшой деревушке в республике Шварцвальт.
-Он был единственным сыном в семье фермера и домохозяйки. Уже в детстве мальчик был
-поразительно умен, но у его родителей не было денег, чтобы отправить его учиться.
-Но мальчику повезло, и он познакомился со старым профессором из университета Юно
-по имени Хейдж, который теперь жил в их деревне. Профессор Хейдж сразу заметил
-необыкновенные способности Вармунта и стал его учителем.
+Doctor Varmunt was born in a small rural village in the Schwaltzvalt Republic A.W. 
+(after War) 667. He was the only son born to a poor yet hardworking couple: his father 
+was a farmer, and his mother was a housekeeper. He demonstrated uncommon intelligence 
+as a child, but his parents couldn't afford to send him to school. 
+Luckily, they introduced him to Professor Hedge, a retired professor from 
+the Juno National University that was now living in their village. Professor Hedge 
+immediately recognized Varmunt's potential, and accepted him as his student.
 
-Когда Вармунту исполнилось 14 лет, профессор Хейдж лично попросил о его приеме
-в университет Юно. Так Вармунт стал самым молодым студентом. Он учился у величайших
-ученых того времени и преуспел во всех областях науки. Особенно он интересовался
-соматологией, археологией и древними науками. В возрасте 21 года гениальный юноша
-получил докторскую степень и стал самым молодым профессорим в университете Юно.
-Вармунт сосредоточился на изучении древностей, что тогда было под запретом в научном
-мире. Из-за этого он поначалу столкнулся со сложностями: никто не хотел финансировать
-его проекты и раскопки.
+Varmunt entered Juno National University under Professor Hedge's personal recommendation 
+as the youngest student in its history when he was fourteen. He studied under 
+the greatest professors of the time, and excelled in all fields of study, specializing in 
+somatology, archeology, and ancient sciences.  Seven years later, the twenty-one year old 
+genius earned his doctorate, becoming the youngest professor of Juno National University. 
+Varmunt focused on researching ancient relics and science, which was considered taboo in 
+the academic world at the time. He had difficulty financing his early projects and relic 
+excavations since few people were willing to fund his research.
 
-Наконец представители корпорации XXX(*) согласились выделить доктору Вармунту
-средства для проведения исследования. Они признали его талант и пообещали
-финансировать все его проекты на том условии, что он будет сообщать им обо всех
-результатах. Такое сотрудничество было выгодным для обеих сторон: доктор Вармунт
-сильно продвинулся вперед в изучении древностей, а его достижения использовались
-крупной корпорацией для разработки передовых технологий.
+Doctor Varmunt finally procured funding for research when he met representatives from 
+a corporation named XXX (Reference 1). The corporation recognized his talents, and 
+promised to finance all of his projects providing that he share his discoveries with them. 
+Their partnership proved profitable to both parties: Doctor Varmunt made tremendous 
+progress in his studies of ancient relics and science, and this knowledge was used to 
+develop advanced technology for use by the corporation.
  
-Также Вармунт добился успехов и в литературе, искусстве, музыке. Целью его жизни было
-воссоздать древний механизм, о котором он узнал в процессе раскопок, и закончить свое
-исследование. Он проводил много времени за работой, уединившись в своем доме, и
-ходили слухи, что он создал множество роботов по примеру обнаруженных им древних
-механизмов. Также у Вармунта было множество прекрасных картин, но все было
-уничтожено во время восстания наемников(**), когда его дом был разграблен и сожжен.
+Doctor was a genius in many fields, and was also prolific in literature, art, and music. 
+He was almost fanatically devoted to pursuing his studies and his art, and accomplishing 
+his lifetime goals: he wanted to recreate the ancient technology he had uncovered in 
+his excavations, and compile his life's research before he died. To these ends, he spent 
+much of his life secluded in his mansion, which is rumored to have been filled with 
+working reproductions of the ancients robots he discovered. Doctor Varmunt's home was 
+also filled with his countless paintins, but all of his possessions were destroyed 
+when his mansion was illegally occupied, plundered, and then burned down by mercenaries 
+in the Mercenary Rebellion (Reference 2). 
 
-Так как доктор Вармунт жил уединенно, никто не знает точную дату и причину его
-смерти. Говорят, он умер потому, что внезапно исчезла его ученица, единственный
-человек из внешнего мира, с которым он поддерживал контакт. Когда во время восстания
-его дом захватили мятежники, чтобы укрыться там от республиканской армии, казалось,
-что там уже несколько лет никто не жил. Наемникам удалось продержаться там несколько
-месяцев, но государственная армия в несколько раз превосходила их численностью и
-в конце концов одержала победу. Все мятежники были убиты, а дом Вармунта разграблен.
-Уцелели лишь несколько писем ученого и кое-какие бумаги, связанные с его научной
-деятельностью.
+The cause of Doctor Varmunt's death has never been determined because of his seclusion. 
+It is widely assumed that he passed away because his female pupil, the one person from 
+the outside world that communicated with him, suddenly disappeared. Doctor Varmunt's 
+mansion and research center were also seemingly abandoned for a few years until they were 
+occupied by rebel mercenaries in the Mercenary Rebellion in an effort to defend themselves 
+from the Republic Army. The mercenaries were able to hold off the Republic Forces 
+in the mansion stronghold for two months, but they were evenually overcome 
+by sheer numbers. The Republic Army used excessive force, did not leave any survivors, 
+and laid waste to all of Doctor Varmunt's remarkable achievements. All that remain of 
+Doctor Varmunt are a few of his letters, and some of his written theoretical papers about 
+ancient science.
 
-
-
-(*) Самая большая корпорация республики Шварцвальт, занимающаяся изучением,
-разработкой и производством стражников.
-(**) Восстание наемников началось в 781 году из-за того, что механические стражи
-стали казаться угрозой для наемных солдат. Восстание было подавлено через год,
-но из-за его последствий премьер-министру пришлось подать в отставку.
-
+Reference 1) Schwaltzvalt's biggest corporation studied, developed, and manufactured 
+                      Guardians
+Reference 2) Rebellion of mercenary soldiers in A.W. 781 that felt threatened by 
+                      mechanical Guardians, and terrorized the republic for a year. 
+                      The rebellion resulted in the prime minister and his secretaries 
+                      stepping down from power.
+Reference 3) Representative creature: Monster Alice

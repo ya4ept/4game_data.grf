@@ -8,12 +8,12 @@
 	<hideaccountlist></hideaccountlist>
 
 	<connection>
-		<display>Russia Server</display>
+		<display>Europe Server</display>
 		<desc>None</desc>
-		<address>109.105.140.145</address>
+		<address>185.47.158.72</address>
 		<port>6800</port>
 		<version>1</version>
-		<registrationweb>https://ru.4game.com/</registrationweb>
+		<registrationweb>https://eu.4game.com/</registrationweb>
 		<aid>
 			<admin>114822</admin><admin>110026</admin><admin>110066</admin><admin>172012</admin><admin>110065</admin><admin>110050</admin><admin>168524</admin><admin>110059</admin><admin>168496</admin><admin>114059</admin><admin>102238</admin>			
 		</aid>
