@@ -25524,41 +25524,26 @@ It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-5214#A hat inspired by the adorable Moonlight Flower. Be sure to hand-wash to prolong the soft Nine Tail Fur lining.
-Dex +2
-Has a chance of casting Lvl 1 Agi Up while attacking.
-
-Location: Upper-Middle headgear
-Def: 3
-Jobs: All
-^ffffff_^000000
-Weight : ^77777720^000000
+5214#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 12278#
 A mercenary contract with Alice to assist you in your battles.
-
 Can be stored.
 Weight : ^7777770^000000
 #
-
 12300#
 A mercenary contract with a Wild Rose to assist you in your battles.
-
 Can be stored.
 Weight : ^7777770^000000
 #
-
 12301#
 A mercenary contract with Doppelganger to assist you in your battles.
-
 Can be stored.
 Weight : ^7777770^000000
 #
-
 12302#
 A mercenary contract with Egnigem Cenia to assist you in your battles.
-
 Can be stored.
 Weight : ^7777770^000000
 #
@@ -28769,7 +28754,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 5360#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 5361#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -28782,7 +28766,6 @@ placeholder
 5365#
 placeholder
 #
-
 5366#
 placeholder
 #
@@ -28811,7 +28794,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5388#
-placeholder
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5390#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -36340,7 +36323,6 @@ Costume Angry Mouth
 Fully Tradable, but once opened the costume inside is account bound.
 Weight: 1
 #
-
 18607#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -53280,11 +53262,7 @@ Lv. req.: ^7777771^000000
 Class: ^777777All classes^000000
 #
 20239#
-A large ribbon muffler
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20240#
 A present of snow
@@ -54245,15 +54223,6 @@ Wing of Great Devel, the famous.
 Class : ^777777Costume^000000
 Location : ^777777Garment ^000000
 Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
-#
-20239#
-Large Ribbon Meffler
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Lower ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
@@ -56781,5 +56750,11 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31547#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20441#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31453#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

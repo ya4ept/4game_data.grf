@@ -1,4 +1,37 @@
+18.09.2019
+
+Mehashefa
+Maintenance is over and server is opened!
+
+Today’s updates:
+
+- Shop and Silvervine exchange update
+https://eu.4gameforum.com/threads/664781/
+- Now, not only are traces of blood on the branches but also a Jelly Drops. Chance to summon MVP is reduced
+- The most delicious sweets of a stranger are over. Only toffees are left. Not so delicious and stick to teeth, but give a pleasant bonus — Candy from a Stranger now gives you Atk/Matk +25 instead of 125
+-Witching hour is over. All witches are going to party.
+-You have one more week to run away from Zombie. Event will end at 25.09
+- Disconnect at Knight Job Change Quest fixed
+- Swordsmen Guildsman dialogue window block fixed
+- Our stylist learned two more hairstyles!
+- and other minor localization fixes
+
+==========
+17.09.2019
+
+Mehashefa
+Tomorrow maintenance will be at 9 CEST till 10-30. Time is estimated and can be changed.
+We will fix:
+- Disconnect at Knight Job Change Quest.
+- Swordsmen Guildsman dialogue window block.
+- Our stylist learned two more hairstyles! You can check it tomorrow
+- and other minor localization fixes
+
+But it's not all. Maintenance results will be published after technical works.
+
+==========
 10.09.2019
+
 Mehashefa
 Tomorrow maintenance will be at 9 CEST. It will be closed at 11-00 CEST. Don’t be worry, it’s usual maintenance :)
 We will fix bugs and localization mistakes.

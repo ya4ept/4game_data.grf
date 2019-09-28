@@ -2836,7 +2836,7 @@
 5211#Dress_Hat#
 5212#Satellite_Hairband#
 5213#Black_Bunny_Band#
-5214#Moonlight_Flower_Hat#
+5214#Moonlight Flower Hat#
 5252#Drooping_Nine_Tail#
 5253#Lif_Doll_Hat#
 5254#Deviling_Hat#
@@ -3248,7 +3248,7 @@
 //---------- 3 hat local item, nekomimi, snake,angel --------------
 
 5387#Nekomimi_Kafra Band#
-5388#Snake Head_Hat#
+5388#Snake on Head#
 5389#Angel_Spirit#
 
 //--------- Anti Drug event 0806------------------
@@ -4033,7 +4033,7 @@
 5337#Party_Recruiter_Hat#
 5338#Bf_Recruiter_Hat#
 5339#Friend_Recruiter_Hat#
-5372#Koneko_Hat#
+5372#White Kitten Hat#
 13905#Hardcore_Set_Box#
 13906#Kitty_Set_Box#
 13907#Softcore_Set_Box#
@@ -4571,7 +4571,7 @@
 // --------- 2010.09.07. Cash item update -------------
 
 16409#Chrysanthemum_Scroll#
-5359#Ship_Captain_Hat#
+5359#Ship Captain Hat#
 13517#Yggdrasilberry_Box#
 12232#Ginger_Bread#
 12710#Guyak_Pudding#
@@ -5436,27 +5436,40 @@
 18575#Wunderkammer#
 18555#General_Helmet#
 //---------------------2012-04.24-----
+
 7199#Free_Pass_Ticket#
 17203#Free_Pass_Box#
+
 //---------------------2012.05.08-----
+
 6235#Guarantee_Armor_6Up#
 6231#Guarantee_Weapon_6Up#
+
 //---------------------3rd job skill balance-----
+
 6415#Strange_Embryo#
+
 //---------------------for test-------------
+
 2904#Naqsi#
 1489#Spearfish#
+
 //---------------------2012.05.22-----
+
 18595#Horn_Of_Ancient#
 18596#Sprout_Hat#
+
 //---------------------2012.05.29-----
+
 18580#Yggdrasil_Crown#
 18620#Heart_Eyepatch#
+
 //---------------------2012.06.05-----
+
 12793#10Battle_Pill_Box#
 12794#10Suprem_Battle_Pill_Box#
 2906#Gauntlet_Of_Happiness#
-18571#Lucky_Hat#
+18571#Lucky Hat#
 17037#Transformer_10pcs_Box(Deviruchi)#
 17038#Transformer_10pcs_Box(Raydric_Archer)#
 17039#Transformer_10pcs_Box(Mavke)#
@@ -8508,7 +8521,7 @@ script
 20765#C Archangel Wing#
 20036#Costume: Sword Master's Crown#
 19912#Costume Cat eye#
-20239#Costume Large Ribbon Muffler#
+20239#Orange Ribbon Muffler#
 20317#Costume: Cat Ear Cyber Headphone#
 19823#Costume: Kitsune Mask Hood#
 20763#Costume Amistr Bag#
@@ -8557,3 +8570,6 @@ script
 20494#Ufo Poring Hat#
 19672#Poring Letter#
 31547#Poporing Mascot Costume#
+
+20441#Red Ribbon Muffler#
+31453#Black Ribbon Muffler#

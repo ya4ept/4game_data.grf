@@ -37705,7 +37705,7 @@ ASPD +5%
 Cast Time -5%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777776^000000    Weight: ^7777771^000000
+Defense: ^7777776^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -39229,16 +39229,19 @@ Jobs: ^777777All^000000
 // --------------- 필리판 자체제작 Headgear 7종 -------------
 
 5372#
-A magical kitty hat which shows various expressions on its face.
-Reduces Cast Delay of all skills by 3%.
-MAtk +3%,  MaxSP +3%
-MDef +3
-^ff0000This item is Account Bound^000000
-Class : ^777777Headgear^000000
-Defense : ^7777771^000000
-Location : ^777777Upper^000000
-Weight : ^77777750^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A magical kitty hat that shows various expressions on its face.
+Int +1
+Mdef +3
+Matk +3%
+Max SP +3%
+Skill cooldown -3%
+^FF0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777750^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5373#
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better. 
@@ -40976,27 +40979,24 @@ It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-5214#A hat inspired by the adorable Moonlight Flower. Be sure to hand-wash to prolong the soft Nine Tail Fur lining.
+5214#
+^ff0000Account bound^000000
+A hat inspired by the adorable Moonlight Flower. It is decorated with soft Nine Tails' fur. Hand-wash only!
 Dex +2
-Has a chance of casting Lvl 1 Agi Up while attacking.
-
-Location: Upper-Middle headgear
-Defense : 3
-Jobs: All
-^ffffff_^000000
-Weight : ^77777720^000000
+A chance to cast Increase Agility Lv. 1 on oneself while attacking
+Class: ^777777Headgear^000000
+Location: ^777777Upper, middle^000000
+Defense: ^7777773^000000    Weight: ^77777720^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
-
 12278#
 A mercenary contract with Alice to assist you in your battles.
-
 Can be stored.
 Weight : ^7777770^000000
 #
-
 12300#
 A mercenary contract with a Wild Rose to assist you in your battles.
-
 Can be stored.
 Weight : ^7777770^000000
 #
@@ -44966,15 +44966,16 @@ Required Level: ^77777770^000000
 Jobs: ^777777All^000000
 #
 5359#
-A replica of the hats worn by the strange antlered captains of the airships that cross Rune Midgard.
-Dex +1, HP +100
-Increases ranged attack power by 7% when worn
-Class : ^777777Headgear^000000
-Defense : ^7777777^000000
-Location : ^777777Upper^000000
-Weight : ^77777730^000000
-Required Level : ^77777760^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A hat that is usually worn by strange antlered captains of the airships that cross Rune Midgard.
+Dex +1
+Max HP +100
+Ranged damage +7%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777777^000000    Weight: ^77777730^000000
+Required Level: ^77777730^000000
+Jobs: ^777777All^000000
 #
 5360#
 Wickebine's black cat ears
@@ -45090,14 +45091,14 @@ Effect: Flee and Magic Defense increased by +7
 Defense: ^7777777^000000
 #
 5388#
-This cute animated Boa will keep you company as you meander around on your adventures. 
-Enables the use of Level 5 Double Attack.
-^ff0000Can be traded, stored, and vended^000000
-Slot: ^7777771^000000
+^ff0000Account bount^000000
+This cute snake will keep you company as you wander around on your adventures.
+Enables Double Attack 5
+^000088Animated^000000
+Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777772^000000
-Weight : ^77777720^000000
-Required Level : ^77777730^000000
+Defense: ^7777772^000000    Weight: ^77777720^000000
+Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5390#
@@ -54975,15 +54976,14 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 18571#
-Decorated with white flowers on a white straw hat. Brings luck to those wearing this hat.
-This item cannot be refined.
-When killing monster, increase Exp.3.
-Class : ^777777Headgear^000000
-Defense : ^7777770^000000
-Location : ^777777Upper ^000000
-Weight : ^777777100^000000
-Req Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A white straw hat decorated with flowers. It is said to bring luck to its owner.
+Exp +3% when killing monsters
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^777777100^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5788#
 Mysterious glasses which are said to show objects stereoscopically.
@@ -65336,7 +65336,7 @@ Weight : ^7777774^000000
 Your mother definitely told you not to take candies from strangers. But the Masked man is your good friend, is he? Sure he is!
 Turns you into a maniac for 10 min.
 Max HP +1000
-Atk/Matk +125
+Atk/Matk +25
 Weight: ^7777773^000000
 #
 11593#
@@ -74011,11 +74011,13 @@ Lv. req.: ^7777771^000000
 Class: ^777777All classes^000000
 #
 20239#
-A large ribbon muffler
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
+^ff0000Account bound^000000
+A large orange scarf tied at the back with a beautiful bow.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 20240#
 A present of snow
@@ -75399,15 +75401,6 @@ Wing of Great Devel, the famous.
 Class : ^777777Costume^000000
 Location : ^777777Garment ^000000
 Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
-#
-20239#
-Large Ribbon Meffler
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Lower ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
@@ -86248,22 +86241,6 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All jobs^000000
 #
-20239#
-A large ribbon muffler
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
-#
-20239#
-Large Ribbon Meffler
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Lower ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
-#
 20317#
 ^808080A headphone with cat ears.^000000
 ^FFFFFF_^000000
@@ -86747,6 +86724,24 @@ Not only has you been eaten by a Poporing, but it unbearably smells like a swamp
 ^ff0000Animated^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20441#
+^ff0000Account bound^000000
+A large red scarf tied at the back with a beautiful bow.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31453#
+^ff0000Account bound^000000
+A large black scarf tied at the back with a beautiful bow.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000

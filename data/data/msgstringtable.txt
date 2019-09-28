@@ -1273,7 +1273,7 @@ VIP Bonus: EXP/JEXP + %d%%, Death Penalty %d%%, Item Drop + %d%%#
 Please try again after 24 hours.#
 Mercenary will follow custom AI.#
 Mercenary will follow basic AI.#
-%s's#
+%s:#
 %s has acquired %s.#
 Public Chat Display#
 Whisper Display#
@@ -1695,7 +1695,7 @@ Only alphabet and numbers are available.#
 Notice#
 Item purchase failed due to incorrect shop information.#
 Can drop from inventory window.#
-hr.#
+h.#
 Map#
 You cannot use, equip or unequip items while trading.#
 You cannot manage equipment or use skills while trading.#
@@ -1844,13 +1844,13 @@ Purchase#
 Empty shopping cart#
 First page#
 Last page#
-New#
 Hot#
-Limited#
+New#
+Prime#
+Buff#
 Rental#
 Gear#
-Buff#
-Heal#
+Costume#
 Other#
 Price#
 Amount#

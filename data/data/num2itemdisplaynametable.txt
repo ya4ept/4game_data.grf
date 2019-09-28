@@ -3942,16 +3942,18 @@
 13898#Alice_Summon_Box5#
 13901#Alice_Summon_Box10#
 
-
 // ---------- April Fool's Day ----------
+
 12396#Gift_Box#
 12397#Gift_Box#
 
 // ---------- Songkran Day Event ----------
+
 2815#Accessory#
 12400#Water_Of_Blessing#
 
 // --------- 2009.05.12. Cash item update -------------
+
 5346#Cap#
 5336#Cap#
 5337#Cap#
@@ -3971,12 +3973,12 @@
 13893#Wind_Converter_Box#
 13894#Earth_Converter_Box#
 
-
 // --------- 2Q Event item -----------
+
 5571#Headgear#
 
-
 // --------- 2009.05.26. Cash item update -------------
+
 5800#Headgear#
 5801#Accessory#
 5378#Hat#
@@ -4502,6 +4504,7 @@
 13517#Yggdrasilberry_Box#
 12232#Ginger_Bread#
 12710#Guyak_Pudding#
+
 // --------- 2010.09.07. Cash item update(2010 RWC Indonesia) -------------
 
 18508#Hat#
@@ -5362,21 +5365,33 @@
 18555#Headgear#
 7199#Free_Pass_Ticket#
 17203#Free_Pass_Box#
+
 //---------------------2012.05.08-----
+
 6235#Guarantee_Armor_6Up#
 6231#Guarantee_Weapon_6Up#
+
 //---------------------3rd job skill balance-----
+
 6415#Strange_Embryo#
+
 //--------------for test--------
+
 2904#Naqsi#
 1489#Two-handed_Spear#
+
 //---------------------2012.05.22-----
+
 18595#Headgear#
 18596#Hat#
+
 //---------------------2012.05.29-----
+
 18580#Headgear#
 18620#Glasses#
+
 //---------------------2012.06.05-----
+
 12793#10Battle_Pill_Box#
 12794#10Suprem_Battle_Pill_Box#
 2906#Accessory#
@@ -7365,3 +7380,7 @@
 19672#Accessory#
 20133#Hat#
 31547#Hat#
+
+20239#Accessory#
+20441#Accessory#
+31453#Accessory#
