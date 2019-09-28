@@ -151,7 +151,7 @@ There is no such character name or the user is offline.#
  is not in the mood to talk with anyone.#
 Killed/Disconnected User.#
 Kill has failed.#
-You got %s (%d).#
+You've got %s (%d).#
 [Alt] + [=]: Fix the interval error between letters#
 [F10]: Toggle chat window size; [Alt] + [F10]: Toggle chat window on/off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
@@ -218,7 +218,7 @@ You haven't learned Warp.#
 Saved location as a Memo Point for Warp Skill.#
 Cancel#
 There is a Delay after using a Skill.#
-You can't have this item because you will exceed the weight limit.#
+You've reached your weight limit or have no free slots at the moments.#
 Out of the maximum capacity#
 Rental Cart Items#
 Unequip Rental Cart#
@@ -254,7 +254,7 @@ Dexterity#
 Luck#
 Attack Power#
 Defense#
-Acccuracy Rate#
+Accuracy Rate#
 Critical Attack#
 Assigned Guild#
 Status Points to allocate#
@@ -488,15 +488,15 @@ Guildsman %s has disconnected.#
 You got %s Base EXP.#
 You got %s Job EXP.#
 You left the guild.#
-You have been expelled from the Guild.#
-Item Appraisal has completed sucessfully.#
+You have been expelled from the guild.#
+The item has been appraised successfully.#
 Item appraisal has failed.#
-Compounding has completed sucessfully.#
+Compounding has been completed successfully.#
 Compounding has failed.#
 Antagonist has been set.#
 Guild has too many Antagonists.#
 Already set as an Antagonist#
-Upgrade has been completed sucessfully.#
+The item has been upgraded successfully.#
 Upgrade has failed.#
 Unavailable Area to Teleport#
 Unavailable Area to Teleport#
@@ -1221,10 +1221,10 @@ User Information is not correct.#
 Another user is using this character name, so please select another one.#
 The party member was not summoned because you are not the party leader.#
 There is no party member to summon in the current map.#
-You cannot find any trace of a Boss Monster in this area.#
-Boss Monster, '%s' will appear in %02d hour(s) and %02d minute(s).#
-The location of Boss Monster, '%s', will be displayed on your Mini-Map.#
-Do you want to open '%s'? Once opened, the contents cannot be placed back inside. The item effect isn't doubled, even if the same items are used more than once.#
+You cannot find any trace of a Boss monster in this area.#
+Boss monster %s will appear in %02d h. %02d min.#
+The location of Boss monster %s will be displayed on your mini-map.#
+Do you want to open %s? Once opened, the contents cannot be placed back inside.#
 The Purchase has failed because the NPC does not exist.#
 The Purchase has failed because the Kafra Shop System is not working correctly.#
 You cannot purchase items while you are in a trade.#
@@ -1250,16 +1250,16 @@ Critical Attack has returned to normal.#
 You will receive 1.5 times more EXP from hunting monsters for the next 30 minutes.#
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
 Regular item drops from monsters will be doubled for the next 30 minutes.#
-Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase this item? %d points will be deducted from your total Kafra Credit Points.#
-You do not have enough Kafra Credit Points.#
+Boss monster map information for the next 10 min.#
+Do you really want to purchase this item? %d EUR will be deducted from your balance.#
+Not enough money.#
 ^ff0000Expiration Date: %s^000000#
 The '%s' item will disappear in %d minutes.#
 '%s' item will be deleted from the Inventory in 1 minute.#
 '%s' item has been deleted from the Inventory.#
 Input Number#
 %m/%d %H:%M#
-Boss Monster '%s' will appear within 1 minute.#
+Boss monster %s will appear within 1 min.#
 Mercenary Soldier Skill List#
 Do you agree to cast the magic spell that consumes 1 Black Gemstone and 1,000,000 Zeny?#
 [Point] You have gained %d Collector Rank Points; you now have a total of %d Collector Rank Points.#
@@ -1327,7 +1327,7 @@ Block all party invitations.#
 Allow all party invitations.#
 This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
 %s is now permanently bound to this character.#
-You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
+Not enough money.#
 Request to Join Party#
 Display WOE Info#
 Memorial Dungeon %s's reservation has been canceled.#
@@ -1855,7 +1855,7 @@ Other#
 Price#
 Amount#
 Total#
-Free: %s #
+#
 Balance: %s EUR#
 Unable to summon monsters in this area.#
 Total free cash exceeded.#
@@ -2024,7 +2024,7 @@ You must leave your current guild to change character name.#
 You must leave your current party to change character name.#
 An unknown error has occurred. Name change failed.#
 You can now change the character slot (%d).#
-You can now change the character name (%d).#
+You've already used %d coupon and can change your character name now.#
 The chosen name is too long.#
 The chosen name contains forbidden characters.#
 The chosen name is forbidden to use.#
@@ -2417,7 +2417,7 @@ $$all         : All list showing (you can divide the type of output in Type.)#
 $$lv30       : Its level monster(Numbers can be changable)#
 $$lv20~30  : Its Level Monster (Numbers can be changable)#
 1 vs 1#
-Special Equipment#
+Costume#
 Suspicious character job info in slot %d. Please contact the customer support. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
@@ -3574,4 +3574,110 @@ Search#
 Taming monster#
 Message#
 Header#
+3577#
+3578#
+3579#
+3580#
+3581#
+3582#
+3583#
+3584#
+3585#
+3586#
+3587#
+3588#
+3589#
+3590#
+3591#
+3592#
+3593#
+3594#
+3595#
+3596#
+3597#
+3598#
+3599#
+3600#
+3601#
+3602#
+3603#
+3604#
+3605#
+3606#
+3607#
+3608#
+3609#
+3610#
+3611#
+3612#
+3613#
+3614#
+3615#
+3616#
+3617#
+3618#
+3619#
+3620#
+3621#
+3622#
+3623#
+3624#
+3625#
+3626#
+3627#
+J.Lv#
+AP#
+3630#
+3631#
+3632#
+3633#
+3634#
+3635#
+3636#
+3637#
+3638#
+3639#
+3640#
+3641#
+3642#
+3643#
+3644#
+3645#
+3646#
+3647#
+?#
+z#
+Total: %s zeny#
+Limited Account Registration Window#
+Item DB Name#
+Item DB Number#
+The sale number#
+Sale start time#
+Sale end time#
+Account only#
+Sale period:% d month% d day% d hours% d#
+% D available#
+limited to% d#
+>> ItemName:% s / Quantity:% d / Sales Period:% d Month:% d Day:% d Hour:% d Minute ~% d Month:% d Day:% d Hour:% d Minute#
+Sold Out#
+% s] is currently in a region that cannot be summoned.#
+% d min% d days% d days#
+Can't add any more items#
+The item being mounted cannot be exchanged. Please unmount it and try again.#
+You can not move to the character selection window while using the Guild Warehouse.#
+Item tag is included and cannot be used.#
+Monster#
+Unknown#
+Undead#
+Animal#
+Plant#
+Insect#
+Marine#
+Devil#
+Human#
+Angel#
+Dragon#
+Balance: %s %c#
+Do you really want to purchase this item? %s Euros will be deducted from your total 4Game balance.#
+Do you really want to purchase this item? %s Euros and %s Free Points will be deducted from your total 4Game balance.#
 

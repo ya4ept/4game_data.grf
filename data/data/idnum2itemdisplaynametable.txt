@@ -580,7 +580,6 @@
 604#Dead_Branch#
 605#Anodyne#
 606#Aloevera#
-607#Yggdrasilberry#
 608#Yggdrasil_Seed#
 609#Amulet#
 610#Yggdrasil_Leaf#
@@ -917,10 +916,12 @@
 4146#Maya_Card#
 4147#Baphomet_Card#
 4148#Pharaoh_Card#
+
 //-------Episode 1.5
+
 1753#Steel_Arrow#
 1754#Crystal_Arrow#
-1755#Arrow_of_Wind#
+1755#Wind Arrow#
 1756#Stone_Arrow#
 1094#Short_Daenggie#
 1095#Clock_Hand#
@@ -964,7 +965,6 @@
 1556#Book_of_Gust_of_Wind#
 1557#Book_of_the_Apocalypse#
 1558#Girl's_Diary#
-
 
 //---- PvP Items ------
 
@@ -1098,14 +1098,13 @@
 1764#Sharp_Arrow#
 1765#Oridecon_Arrow#
 1766#Arrow_of_Counter_Evil#
-1767#Arrow_of_Shadow#
+1767#Shadow Arrow#
 1768#Sleep_Arrow#
 1769#Mute_Arrow#
 1770#Iron_Arrow#
 645#Concentration_Potion#
 656#Awakening_Potion#
 657#Berserk_Potion#
-
 
 // ---- For Japan Event ----------------
 
@@ -1452,8 +1451,8 @@
 560#Handmade_White_Chocolate#
 561#White_Chocolate#
 
-
 // ----- Coins ------
+
 7228#Gold_Bullion#
 7229#Silver_Bullion#
 7230#Platinum_Bullion#
@@ -1854,7 +1853,9 @@
 2511#Skeleton_Manteau#
 2641#Fashion_Hip_Sack#
 5100#Sales_Banner#
+
 // --------- easter event ---------
+
 574#Egg#
 12019#Holy_Egg#
 
@@ -1876,7 +1877,6 @@
 7313#Witch's_Medal#
 7314#The_Sign#
 2644#The_Sign_#
-
 
 // ------- 2005 City of Steel, Einbroch -----
 
@@ -1912,7 +1912,9 @@
 // ------- 2005 Einbroch items -------
 
 5104#Dark_Blinkers#
+
 // test items
+
 12021#Pork#
 12022#Galbi#
 
@@ -1935,9 +1937,10 @@
 12122#Sesame_Pastry#
 12123#Honey_Pastry#
 12124#Rainbow_Cake#
-//----------2005 Christmas Event------------
-12132#Santa's_Bag#
 
+//----------2005 Christmas Event------------
+
+12132#Santa's_Bag#
 
 // ------- China 1st and 2nd anniversary event items --------
 
@@ -2014,6 +2017,7 @@
 1970#Queen's_Whip#
 
 // ---------- additional weapons and armors ----------
+
 2113#Novice_Shield#
 2114#Stone_Buckler#
 2115#Valkyrja's_Shield#
@@ -2120,27 +2124,38 @@
 7359#Crest_Piece#
 
 // ---- Box ----
+
 12027#Giggling_Box#
 12028#Box_of_Thunder#
 12029#Gloomy_Box#
-12030#Box_Of_Grudge#
+12030#Box_of_Grudge#
 12031#Sleepy_Box#
-12032#Box_Of_Storm#
+12032#Box_of_Storm#
 12033#Box_of_Sunlight#
 12034#Painting_Box#
+
 // ----- 2006 White Day event -----
+
 7432#Leather_Pouch#
+
 //----- 2006 Songkran Event -------
+
 7538#Sifted_Sand#
 7539#Poring_Coin#
 5146#Elephant_Hat#
+
 //------2006 Vesak Day
+
 7553#Lotus_Flower#
 7554#Striped_Candle#
 7555#Green_Incense#
+
 //------2006 Soonponfu Event-------
+
 5149#Silver_Tiara#
+
 //------30 kinds of dish
+
 12041#Fried Rocker#
 12042#Flipper Salad#
 12043#Explosion Steak#
@@ -2203,6 +2218,7 @@
 12100#Nine Tail Meal#
 
 // --------- ---------------
+
 12103#Blood Twig#
 12104#Random Arrow Container#
 12105#Taming Gift Box#
@@ -2214,6 +2230,7 @@
 12111#Food Package#
 
 // ---------- Juperos ----------
+
 2659#Vesper_Core_01#
 2660#Vesper_Core_02#
 2661#Vesper_Core_03#
@@ -2351,9 +2368,11 @@
 5202#Pumpkin_Hat_#
 
 //2006 loykrathong
+
 5206#Romantic_White_Flower#
 
 //japanese mobile
+
 5137#Alice_Doll#
 5138#Magic_Eyes#
 5139#Hibiscus#
@@ -2365,6 +2384,7 @@
 // ------------------ Ninja added ------------------------
 // ---------- Client -------------
 // --------------- Kyel Hyre's Cottage Quest ----------------
+
 7487#Culinary_Wine#
 7488#Delivery_Package#
 7489#Cottage_Key#
@@ -2410,6 +2430,7 @@
 7526#Manuscript_Paper#
 
 // ---------- Additional Class- Gunslinger -----------
+
 13100#Six_Shooter#
 13101#Six_Shooter#
 13102#Crimson_Bolt#
@@ -2441,6 +2462,7 @@
 13207#Freezing_Sphere#
 
 // ------------------ Ninja ------------------------
+
 13250#Shuriken#
 13251#Nimbus_Shuriken#
 13252#Flash_Shuriken#
@@ -2476,7 +2498,9 @@
 2118#Arm_Guard#
 2119#Advanced_Arm_Guard#
 2120#Advanced_Arm_Guard#
+
 // ------------ Gunslinger Cartridge-------------
+
 12144#Lightning_Sphere_Pack#
 12145#Blind_Sphere_Pack#
 12146#Poison_Sphere_Pack#
@@ -2495,6 +2519,7 @@
 5187#Twin_Ribbon#
 
 //father's day
+
 5209#Love_Dad_Cap#
 
 //2006 xmas
@@ -2505,19 +2530,22 @@
 9029#Xmas_Goblin's_Egg#
 
 // package flying
+
 5210#Moving_Angel's_Wing#
 
 //RTC Reward
+
 5205#Emperor's_Wreath#
 
 // ------------------ cash item -------------------
+
 12202#Steamed_Tongue#
 12203#Steamed_Scorpion#
 12204#Dragon_Breath_Cocktail#
 12205#Hwergelmir's_Tonic#
 12206#Cooked_Nine_Tail's_Tails#
 12207#Stew_Of_Immortality#
-12208#Field_Manual#
+12208#Battle_Manual#
 12209#Life_Insurance#
 12210#Bubble_Gum#
 12211#Kafra_Card#
@@ -2525,7 +2553,7 @@
 12213#Neuralizer#
 12214#Convex_Mirror#
 12215#LV10_Blessing_Scroll#
-12216#LV10_Agi_Scroll#
+12216#LV10_Increase_Agi_Scroll#
 12217#LV5_Aspersio_Scroll#
 12218#Old_LV5_Assumptio_Scroll#
 12219#LV10_Windwalk_Scroll#
@@ -2533,22 +2561,22 @@
 12221#Megaphone#
 7619#Enriched_Elunium#
 7620#Enriched_Oridecon#
-7621#Token_Of_Ziegfried#
-12900#Field_Manual_Box#
+7621#Token_of_Ziegfried#
+12900#Battle_Manual_Box#
 12901#Insurance_Package#
 12902#Bubble_Gum_Box#
 12903#Steamed_Tongue_Box#
 12904#Steamed_Scorpion_Box#
 12905#Dragon_Breath_Cocktail_Box#
 12906#Hwergelmir's_Tonic_Box#
-12907#Nine_Tail_Dish_Box#
+12907#Cooked Nine Tail's Tails Box#
 12908#Stew_Of_Immortality_Box#
 12909#Kafra_Card_Box#
 12910#Giant_Fly_Wing_Box#
 12911#Neuralizer_Box#
 12912#Convex_Mirror_Box#
-12913#Blessing_Scroll_Box#
-12914#Agi_Scroll_Box#
+12913#LV10 Blessing_Scroll_Box#
+12914#LV10 Increase Agi_Scroll_Box#
 12915#Aspersio_Scroll_Box#
 12916#Assumptio_Scroll_Box#
 12917#Wind_Walk_Scroll_Box#
@@ -2556,9 +2584,10 @@
 12919#Megaphone_Box#
 12920#Enriched_Elunium_Box#
 12921#Enriched_Oridecon_Box#
-12922#Token_Of_Ziegfried_Box#
+12922#Token_of_Ziegfried_Box#
 
 //2007 valentine event
+
 7715#Recipe_for_Hand-made_Chocolate#
 7716#Recipe_for_Strawberry_Chocolate#
 7717#Recipe_for_Chocolate_Tart#
@@ -2572,6 +2601,7 @@
 12237#Dollop_of_Chocolate#
 
 //buddy event
+
 7713#Blue_A_Card(2)#
 7714#Blue_R_Card(2)#
 7719#Blue_G_Card#
@@ -2582,14 +2612,17 @@
 7602#Blue_R_Card#
 
 //thai mobile item
+
 5256#Valkyrie_Feather_Band#
 5257#Soulless_Wing#
 5258#Afro_Wig#
 
 // thai Comodo Festival Event
+
 7854#Comodo_Festival_Ticket#
 
 //April fool Event 2007
+
 12702#Old_Bleu_Box#
 
 //Songkran Event 2007
@@ -2597,6 +2630,7 @@
 5802#Upgrade_Elephant_Hat#
 
 // -------------- Thai 2nd Cach item --------------
+
 13538#Meteor_Storm_Scroll_Box#
 13539#Storm_Gust_Scroll_Box#
 13540#Lord_of_Vermilion_Scroll_Box#
@@ -2617,7 +2651,6 @@
 14513#Storm_Gust_Scroll#
 14514#Lord_of_Vermilion_Scroll#
 14515#Lex_Aeterna_Scroll#
-14516#Magnificat_Scroll_Box#
 14517#Chemical_Protection_Helm_Scroll#
 14518#Chemical_Protection_Shield_Scroll#
 14519#Chemical_Protection_Armor_Scroll#
@@ -2871,30 +2904,30 @@
 13743#Holy_Armor_Scroll_5_Box#
 13744#Holy_Armor_Scroll_10_Box#
 13745#Holy_Armor_Scroll_30_Box#
-13746#Small_Defence_Potion_10_Box#
-13747#Small_Defence_Potion_30_Box#
-13748#Small_Defence_Potion_50_Box#
-13749#Big_Defence_Potion_10_Box#
-13750#Big_Defence_Potion_30_Box#
-13751#Big_Defence_Potion_50_Box#
-13752#Small_Magic_Defence_Potion_10_Box#
-13753#Small_Magic_Defence_Potion_30_Box#
-13754#Small_Magic_Defence_Potion_50_Box#
-13755#Big_Magic_Defence_Potion_10_Box#
-13756#Big_Magic_Defence_Potion_30_Box#
-13757#Big_Magic_Defence_Potion_50_Box#
+13746#Small_Defense_Potion_10_Box#
+13747#Small_Defense_Potion_30_Box#
+13748#Small_Defense_Potion_50_Box#
+13749#Big_Defense_Potion_10_Box#
+13750#Big_Defense_Potion_30_Box#
+13751#Big_Defense_Potion_50_Box#
+13752#Small_Magic_Defense_Potion_10_Box#
+13753#Small_Magic_Defense_Potion_30_Box#
+13754#Small_Magic_Defense_Potion_50_Box#
+13755#Big_Magic_Defense_Potion_10_Box#
+13756#Big_Magic_Defense_Potion_30_Box#
+13757#Big_Magic_Defense_Potion_50_Box#
 14538#Glass_of_Illusion#
 14539#Shadow_Armor_Scroll#
 14540#Holy_Armor_Scroll#
-14541#Small_Defence_Potion#
-14542#Big_Defence_Potion#
-14543#Small_Magic_Defence_Potion#
-14544#Big_Magic_Defence_Potion#
+14541#Small_Defense_Potion#
+14542#Big_Defense_Potion#
+14543#Small_Magic_Defense_Potion#
+14544#Big_Magic_Defense_Potion#
 5294#Whisper_Mask#
 5283#Chick_Hat#
 5284#Water_Lily_Crown#
 5285#Vane_Hairpin#
-5286#Pecopeco_Hariband#
+5286#Peco Peco_Hairband#
 5287#Vacation_Hat#
 5288#Red_Glasses#
 5289#Vanilmirth_Hat#
@@ -3111,6 +3144,7 @@
 13107#Wasteland's_Outlaw#
 13170#Lever_Action_Rifle#
 // ------------ 11.3 Dy=:F. >F@LE[ --------------
+
 7722#Debt_Note#
 7723#Diamond_of_Ruin#
 7724#Forbidden_Secret_Art#
@@ -3118,6 +3152,7 @@
 7726#Token_of_King#
 
 // ----------------- 20070808 =E1T_Card 34A> -----------------
+
 4408#Gloom_Under_Night_Card#
 4409#Agav_Card#
 4410#Echio_Card#
@@ -3185,20 +3220,28 @@
 12182#SpearMercenary_Scroll10#
 12184#Mercenary_Red_Potion#
 12185#Mercenary_Blue_Potion#
+
 //------------- 2008 Songkran F.------------------
+
 5400#Fox_Hat#
 12303#Water_Of_Blessing#
+
 //--------- Hairstyle cash item-----------
-13870#New_Style_Box#
+
 7622#New_Style_Coupon#
+
 //---------- 3 hat local item, nekomimi, snake,angel --------------
+
 5387#Nekomimi_Kafra Band#
 5388#Snake Head_Hat#
 5389#Angel_Spirit#
+
 //--------- Anti Drug event 0806------------------
+
 5412#Sweet_Candy#
 
 // -------------- Rental cash item as of 200807 weapon--------------------
+
 12935#Neo_Infiltrator_Box#
 12936#Neo_Muramasa_Box#
 12937#Neo_Excalibur_Box#
@@ -3286,7 +3329,7 @@
 12964#Neo_Vesper_Core_04_Box#
 13783#Bloody_Iron_Ball_Box#
 13784#Spiritual_Ring_Box#
-13953#All_In_One_Ring_Box#
+13953#All-in-One_Ring_Box (7 d.)#
 
 // -------------- Rental cash item as of 200808 10 monsters ring tem--------------------
 
@@ -3299,7 +3342,7 @@
 14248#Decussate_Ring_Box (7 d.)#
 14249#Bloody_Ring_Box (7 d.)#
 14250#Satanic_Ring_Box (7 d.)#
-14251#Dragoon_Ring_Box (7 d.)#
+14251#Dragon_Ring_Box (7 d.)#
 14252#Beholder_Ring_Box II#
 14253#Hallow_Ring_Box II#
 14254#Clamorous_Ring_Box II#
@@ -3346,12 +3389,16 @@
 2384#Spritual_Tunic#
 5314#Hockey_Mask#
 5315#Observer#
+
 //--------20080826 dye Coupon----------------
+
 6046#Clothing_Dye_Coupon#
 14289#Clothing_Dye_Coupon_Box#
-6047#Clothing_Dye_Coupon2#
-14290#Clothing_Dye_Coupon2_Box#
+6047#Dye_Removal_Coupon#
+14290#Dye_Removal_Coupon_Box#
+
 //---------0829MA rental tem after BOX----------
+
 2688#Neo_Critical_Ring#
 2689#Neo_Earring#
 2690#Neo_Ring#
@@ -3366,7 +3413,7 @@
 2699#Neo_Vesper_Core_04#
 2710#Bloody_Iron_Ball#
 2711#Spiritual_Ring#
-2741#All_In_One_Ring#
+2741#All-in-One_Ring#
 2753#Beholder_Ring#
 2754#Hallow_Ring#
 2755#Clamorous_Ring#
@@ -3376,9 +3423,10 @@
 2759#Decussate_Ring#
 2760#Bloody_Ring#
 2761#Satanic_Ring#
-2762#Dragoon_Ring#
+2762#Dragon_Ring#
 
 // ------------- Ep. 12 ---------------
+
 13036#Assassin_Damascus#
 13037#Assassin_Damascus#
 13410#Gladiator_Blade#
@@ -3586,14 +3634,17 @@
 5373#Darkness_Helm#
 
 // ---------- Thai Pinwheel Cap ----------
+
 5458#Pinwheel_Cap#
 
 // ---------- 2008. 09. 30 Cash item update ----------
+
 5305#Pirate_Dagger#
 
 // ---------- 2008 Poring War ----------
+
 2765#Novice_Figure#
-2766#Swordman_Figure#
+2766#Swordsman_Figure#
 2767#Acolyte_Figure#
 2768#Mage_Figure#
 2769#Archer_Figure#
@@ -3607,6 +3658,7 @@
 7515#Prize_Medal#
 
 // ---------- Summer event item ----------
+
 12260#Cool_Summer_Outfit#
 7801#Girl's_Fan_Letter#
 7802#Autograph_Book#
@@ -3639,7 +3691,7 @@
 13871#Mage_Card_Box#
 13872#Acolyte_Card_Box#
 13873#Archer_Card_Box#
-13874#Swordman_Card_Box#
+13874#Swordsman_Card_Box#
 13875#Thief_Card_Box#
 13876#Merchant_Card_Box#
 
@@ -4027,8 +4079,8 @@
 5498#Wolf_King_Helm#
 14442#Wolf_King_Helm_Box#
 
-
 // --------- 2009.07.07. Cash item update -------------
+
 5504#Chinese_Wedding_Veil#
 5505#Asara_Fairy_Hat#
 5499#Pizza_Hat#
@@ -4037,11 +4089,13 @@
 5358#Pecopeco_Wing_Ears#
 
 // --------- 2009.07.21. Cash item update -------------
+
 5271#Chinese_Crown#
 5354#SONGKOK#
 5355#SELENDANG#
 
 // --------- 2009.08.04. Cash item update -------------
+
 5395#Tiraya_Bonnet#
 5396#Jasper_Crest#
 5377#Gentleman's_Pipe#
@@ -4049,12 +4103,14 @@
 5207#Angel's_Blessing#
 
 // --------- 2009.08.18. Cash item update -------------
+
 5307#Tropical_Fruit_Hat#
 5379#Balloon_Hat#
 5317#Fisherman's_Hat#
 5503#Rabbit_Magic_Hat#
 
 // --------- 2009.09.01. Cash item update -------------
+
 2751#Academy_Badge#
 14485#Academy_Badge_Box#
 14486#Clergyman_Grad_Hat_Box#
@@ -4159,8 +4215,8 @@
 16000#Erde#
 16001#Red_Square_Bag#
 
-
 // -------- 2009-02-20 ----------
+
 4700#STR+1#
 4701#STR+2#
 4702#STR+3#
@@ -4227,15 +4283,15 @@
 7576#Blue_Jewel#
 7577#Gold_Jewel#
 
-
 // --------- 2009.09.29. Cash item update -------------
+
 5526#Lady_Tanee_Doll_Hat#
 5527#Lunatic_Hat#
 16131#Tanee_Doll_Hat_Box#
 16132#Lunatic_Hat_Box#
 
-
 // --------- 2009.10.13. Cash item update -------------
+
 5511#Samambaia#
 5528#Frog_King_Hat#
 5529#Evil's_Bone_Hat#
@@ -4244,19 +4300,23 @@
 16135#Evil's_Bone_Hat#
 
 // ---------- 2009 Halloween Event ------------
+
 5668#Weird_Pumpkin_Hat#
 6298#Crushed_Pumpkin_Hat#
 6299#Worn_Cloth_Piece#
 
 // --------- 2009.10.27. Cash item update -------------
+
 5508#Shark_Hat#
 5509#Sting_Hat#
 
 // ----------- 2009 Love Daddy --------------
+
 5688#Love_Dad#
 16458#Love_Dad_Box#
 
 // --------- 2009.11.10. Cash item update -------------
+
 5490#Anubis_Headgear#
 5501#Pirate's_Pride#
 5502#Necromancer's_Hood#
@@ -4267,18 +4327,20 @@
 5333#Radio_Antenna#
 
 // --------- 2009.12.08. Cash item update -------------
+
 5334#Angeling_Wanna_Fly#
 5335#Jumping_Poring#
 5537#Quati_Hat#
 
 // ------------- 2009 Christmas Event -----------------
+
 7974#A_Piece_Of_Illusion#
 12745#Vivid_Notation#
 12746#Curious_Snowball#
 12317#Powder_Snow#
 
-
 // --------- 2009.12.22. Cash item update -------------
+
 5538#Tucan_Hat#
 5539#Jaguar_Hat#
 5519#Peacock_Feather#
@@ -4286,20 +4348,21 @@
 16543#Snowman_Hat_Box#
 
 13870#New_Style_Coupon_Box#
-7622#New_Style_Coupon#
-
 
 // ------------------- 2009 Reset Status Event ----------------------
+
 6320#Reset_Stone#
 16555#Reset_Stone_Box#
 
 // --------- 2010.01.12. Cash item update -------------
+
 5531#Baby_Dragon_Hat#
 5474#Notice_Board#
 2006#Sunshine_Staff#
 14345#Animal_Scroll#
 
 // --------- 2010.01.26. Cash item update -------------
+
 2149#Upgrade_Guard#
 2150#Upgrade_Buckler#
 2151#Upgrade_Shield#
@@ -4367,22 +4430,26 @@
 12756#New_Year_Gift_Envelope#
 
 // ---------- 2010 Valentine's_Day Event ------------
+
 7975#Cupid_Chocolate#
 
 // --------- 2010.02.09. Cash item update -------------
+
 14229#Cherry_Blossom_Scroll#
 5581#Cancer_Diadem#
 5582#Cancer_Crown#
 
 // --------- 2010.02.23. Cash item update -------------
+
 5574#Pencil_In_Mouth#
 5530#Raven_Cap#
 5579#Wanderer_Sakkat#
 
-11501#Light_White_Pot#
-11502#Light_Blue_Pot#
+11501#Light_White_Potion#
+11502#Light_Blue_Potion#
 
 // ------------------- 2010 03.23. Brasilis Update ------------------------------
+
 6237#Guarana_Fruit#
 11515#Coconut#
 11516#Asai_Fruit#
@@ -4394,24 +4461,29 @@
 5302#Lotus_Hat#
 
 // --------- 2010.03.09. Cash item update -------------
+
 14317#White_Lady_Scroll#
 5465#Celestial_Hat#
 5469#Noble_Hat#
 
 // --------- 2010.03.23. Cash item update -------------
+
 5564#Crown_Of_Deceit#
 5591#Desert_Prince#
 5667#Skull_Hood#
 
 //------- 2010. April Fools Day event -----------
+
 5848#Robin_Eyepatch#
 5849#Doctor_Hairband#
 
 //-------------------- 2010 Family Hat -------------------------------------
+
 5771#Family_Hat#
 5852#Easter_Egg_Shell#
 
 // --------- 2010.04.09. Cash item update -------------
+
 16253#Rabbit_Scroll#
 5575#Rice_Ball_Hat#
 5592#Sigrun's_Wing#
@@ -4419,14 +4491,17 @@
 13858#Sparkling_Candy_Box10#
 
 // --------- 2010.04.20. Cash item update -------------
+
 5403#Fish_In_Mouth#
 5447#Frog_Hat#
 
 // --------- 2010.05.11. Cash item update -------------
+
 16257#Buddah_Scroll#
 5655#Dark_Snake_Lordl_Hat#
 
 // --------- 2010.05.25. Cash item update -------------
+
 5609#Chung_Hairpin#
 5610#Ice_Ear_Wing#
 
@@ -4463,6 +4538,7 @@
 5546#Aries_Crown#
 
 // --------- 2010.08.03. Cash item update -------------
+
 16371#Dreamy_Scroll#
 5659#Sleeper_Hat#
 5660#Gryphon_Hat#
@@ -4474,10 +4550,12 @@
 12708#Lucky_Cookie#
 
 // --------- 2010.08.17. Cash item update -------------
+
 5569#Gemini_Diadem#
 5570#Gemini_Crown#
 
 // --------- 2010.09.07. Cash item update -------------
+
 16409#Chrysanthemum_Scroll#
 5359#Ship_Captain_Hat#
 13517#Yggdrasilberry_Box#
@@ -4485,14 +4563,17 @@
 12710#Guyak_Pudding#
 
 // --------- 2010.09.07. Cash item update(2010 RWC Indonesia) -------------
+
 18508#Garuda_Hat#
 18509#RWC_2010_Indonesia#
 
-// --------- 2010.09.14. Cash item update -------------	
+// --------- 2010.09.14. Cash item update -------------
+
 5588#Leo_Crown#
 5589#Leo_Diadem#
 
-// --------- 2010.10.05. Cash item update -------------	
+// --------- 2010.10.05. Cash item update -------------
+
 16446#Pegasus_Scroll#
 5658#Imp_Hat#
 5580#Indonesia_Beret#
@@ -4500,7 +4581,7 @@
 12328#Charm_Of_Happiness#
 5401#Black_Glasses#
 
-// --------- 2010.10.19. Cash item update -------------	
+// --------- 2010.10.19. Cash item update -------------
 5761#Sloth_Hat#
 5680#Hawk_Eyes#
 
@@ -4790,7 +4871,7 @@
 5760#Driver_Band#
 6111#Mystic_Stone#
 // ---------- ?? ?????? -----------
-2819#Swordman_Manual#
+2819#Swordsman_Manual#
 2820#Thief_Manual#
 2821#Acolyte_Manual#
 2822#Archer_Manual#
@@ -4819,7 +4900,7 @@
 4452#Centipede_Larva_Card#
 4453#Hilsrion_Card#
 
-// --------- 2010.11.23. Cash item update -------------	
+// --------- 2010.11.23. Cash item update -------------
 16457#Bough_Scroll#
 5770#Splash_Hat#
 14508#Zeny_Pet_Egg_Scroll#
@@ -4856,6 +4937,7 @@
 12709#Guyak_Candy#
 
 //---- 2010 X-mas Event -----
+
 6446#Green Paper#
 6447#Red Paper#
 6448#White Paper#
@@ -4863,29 +4945,33 @@
 6450#Honest Diary#
 9058#Snow Rabbit Egg#
 
-// --------- 2010.12.21. Cash item update -------------	
+// --------- 2010.12.21. Cash item update -------------
+
 5739#Sagittarius_Crown#
 5740#Sagittarius_Diadem#
 
-// --------- 2011.1.4. Cash item update -------------	
+// --------- 2011.1.4. Cash item update -------------
+
 14408#New_Year_Scroll#
 14232#Yggdrasilberry10_Box#
 14233#Dead_Branch_10_Box#
 12351#Shout_Megaphone#
 14377#Shout_Megaphone_Box#
 
-// --------- 2011.1.11. Cash item update -------------	
+// --------- 2011.1.11. Cash item update -------------
+
 5744#Capricorn_Crown#
 5745#Capricorn_Diadem#
 6396#Auger_Of_Spirit#
-18507#Elven_Ear#
+18507#Elven_Ears#
 
-// --------- 2011.2.8. Cash item update -------------	
+// --------- 2011.2.8. Cash item update -------------
+
 16195#Soul_Scroll#
-5597#Bubble_Gum_In_Mouth#
-16374#Bubble_Gum_In_Mouth_Box#
-16389#Bubble_Gum_In_Mouth_Box2#
-16390#Bubble_Gum_In_Mouth_Box3#
+5597#Bubble_Gum_in_Mouth#
+16374#Bubble_Gum_in_Mouth_Box#
+16389#Bubble_Gum_in_Mouth_Box2#
+16390#Bubble_Gum_in_Mouth_Box (4 h.)#
 5596#Four_Leaf_Clover_In_Mouth#
 16372#Four_Leaf_Clover_In_Mouth_Box#
 16385#Four_Leaf_Clover_In_Mouth_Box2#
@@ -4893,7 +4979,8 @@
 14532#Basic_Field_Manual#
 13857#Sparkling_Candy_Box5#
 
-// --------- Valentine Event (2011) -------------	
+// --------- Valentine Event (2011) -------------
+
 4846#Fully_Loved_Stone#
 4847#Spelled_Stone#
 6345#Love_Much#
@@ -5230,12 +5317,13 @@
 6343#Faded_Music(Blue)#
 
 //-------------------13.3 Package ----------------
-12622#Boarding_Halter#
-16682#Boarding_Halter_Box#
-16683#Boarding_Halter_Box_30D#
-12580#Universal_Catalog_Silver#
-12581#Universal_Catalog_Gold#
-12591#Universal_Catalog_Bronze#
+
+12622#Halter_Lead#
+16682#Halter_Lead_Box#
+16683#Halter_Lead_Box_30D#
+12580#Universal_Silver_Catalog#
+12581#Universal_Golden_Catalog#
+12591#Universal_Bronze_Catalog#
 16972#Weather_Report_Box#
 16973#Yellow_Hat_Box#
 16974#Comin_Actor_Box#
@@ -5258,42 +5346,56 @@
 19521#Charlie_Hat#
 19522#Mini_Crown1#
 //----------------------2011.11.08---------------------
+
 2573#Archangel_Wing#
 16998#Archangel_Wing_Box#
+
 //----------------------2011.11.15---------------------
+
 12928#Asperiso_Scroll#
-17162#Boarding_Halter_Box_7D#
+17162#Halter Lead Box (7 d.)#
 15008#Flame_Armor#
+
 //----------------------2011.11.22---------------------
+
 9030#Green_Maiden_Egg#
 9055#Succubus_Egg#
 9056#Imp_Egg#
+
 //-------------------------2011.11.29------------Lovedaddy
+
 15059#Love_Daddy_Suite#
+
 //-------------------------2011.12.06------------
+
 16774#Asgard_Scroll#
 18550#Asgard_Bless#
 12261#Secret_Medicine#
 14601#Blessing_Of_Tyr#
+
 //-------------------------2011.12.20------------Xmas Event
+
 6535#Piece_Of_Red_Fabric#
 6536#Star_Shape_Decoration#
 18671#Rudolf_Hairband#
 7629#Pink Gift Box#
 12739#Snow Flower#
 12490#Vivid Notation#
+
 //-------------------------2012.01.09------------
+
 2589#Fallen_Angel_Wing#
 17117#Aries_Scroll#
 17104#HE_Oridecon_50_Box#
 17105#HE_Elunium_50_Box#
 17106#Gym_Membership_Card_10_Box#
+
 //--------------2012.01.27-------------
 18612#White_Musang_Hat#
 18613#Black_Musang_Hat#
 //-------------------------2012.02.13------------
 17056#Mage_Card_Album#
-17057#Swordman_Card_Album#
+17057#Swordsman_Card_Album#
 17058#Thief_Card_Album#
 17059#Acolyte_Card_Album#
 17060#Merchant_Card_Album#
@@ -5520,10 +5622,10 @@
 2967#RWC_Memorial_Ring#
 2968#RWC_Memorial_Pendant#
 2969#RWC_Memorial_Pendant#
-12887#Unlimited_Wing_Of_Fly#
+12887#Wing of Beelzebub#
 13092#RWC_Memory_Knife#
 16026#RWC_Memory_Mace#
-17251#Unlimited_Wing_Of_Fly_3Day_Box#
+17251#Wing of Beelzebub Box (7 d.)#
 17252#RWC_Memorial_Set_Box#
 17253#RWC_Memorial_Ring_Box#
 17254#RWC_Memorial_Pendant_Box#
@@ -5554,18 +5656,20 @@
 18682#Teardrop#
 18679#Abacus_In_Mouth#
 18676#Hexagon_Spectacles#
-12530# Mastela_Fruit_Box #
-16770#Silvervine_Box10#
+12530#Mastela_Fruit_Box#
+16770#Silvervine Box (250 pcs.)#
 5568#Rabbit_Bonnet#
 6453#Undelivered_Gift#
 6454#Santa_Bag#
 
-
 //----------Love Dad Item Update-------------
+
 20724#Love_Dad_Wing_2012#
+
 //ep 14.1
 //----141 ร฿ฐกบป ----------
-2156#Bible_of_Promise(1st_Vol)#
+
+2156#Bible_of_Promise (Vol 1)#
 2467#Golden_Rod_Shoes#
 2468#Aqua_Shoes#
 2469#Crimson_Shoes#
@@ -5746,6 +5850,7 @@
 2570#Shawl_Of_Judgement#
 
 //---------------------------------------------------------- Bottle_Colletion_Cash December 2012
+
 17066#Poison_Bottle_Box#
 17067#Poison_Bottle_100_Box#
 17068#Acidbomb_50_Box#
@@ -5759,13 +5864,12 @@
 17075#Empty_Bottle_100_Box#
 17076#Empty_Bottle_500_Box#
 
-
 //-----------------------------------------------ASPD_Idn_Independ_Scroll < เปลี่ยนชื่อเป็?Lucky_Free_Scroll [December]
-17245#Lucky_Free_Scroll#
-12684#ASPD_Intensifying_Potion#
-17118#ASPD_Intensifying_Potion_Box#
-17126#ASPD_Intensifying_Potion_Box#
 
+17245#Lucky_Free_Scroll#
+12684#Aspd_Potion#
+17118#Aspd_Potion_Box#
+17126#Aspd_Potion_Box#
 
 //---------------------- new item update [15/1/2013]
 
@@ -5779,8 +5883,8 @@
 13081#Octo_kitchen_Knife#
 13438#Magical_Blade#
 
-
 //----------- Cash Item update 23 / 1 / 2013 Scroll Items
+
 12850#Heaven_Scroll#
 12851#Vocation_Scroll#
 12852#Wisdom_Scroll#
@@ -5810,11 +5914,7 @@
 18680#Frog_Hat#
 18681#Puppy_Ears_Hat#
 6423#Anger_Seagod#
-16770#Silvervine_Fruit_10_Box#
 
-6417#Silvervine_Fruit#
-16771#Silvervine_Fruit_40_Box#
-16979#Silvervine_Fruit_4_Box#
 12350#Angeling_Potion#
 12977#Teleport_Scroll1#
 12978#Teleport_Scroll2#
@@ -6017,7 +6117,6 @@
 18108#Brindle Eel#
 18536#Foxtail#
 18537#Malangdo_Hat#
-6417#Silvervine_Fruit#
 6418#Aclass_Coin#
 6419#Bclass_Coin#
 6420#Cclass_Coin#
@@ -6033,9 +6132,8 @@
 16765#Octopus_Hstick_Box#
 16766#Octopus_Hstick_Box2#
 16767#Octopus_Hstick_Box3#
-16770#Silvervine_Box10#
-16771#Silvervine_Box40#
-16979#Silvervine_Box4#
+16771#Silvervine Box (500 pcs.)#
+16979#Silvervine Box (100 pcs.)#
 17013#Malang_Woe_Encard_Box#
 6428#Adventure_Card_A#
 6429#Adventure_Card_B#
@@ -6139,7 +6237,7 @@
 1659#Recovery_Light#
 2160#Giant_Shield#
 2161#Geffenia_Book_Water#
-2162#Bible_Of_Promise2#
+2162#Bible_Of_Promise (Vol 2)#
 2582#Salvage_Cape#
 2892#Assassin_Handcuffs#
 6469#Will_of_Warrior#
@@ -6175,7 +6273,7 @@
 19829#C_Straw_Hat#
 19830#C_Sunglasses#
 19831#C_Filir_Hat#
-19832#C_Poring_Hat#
+19832#Poring_Hat#
 19833#C_Fillet#
 19834#C_Baseball_Cap#
 19835#C_Lif_Doll_Hat#
@@ -6508,7 +6606,7 @@
 12092#Soul_Haunted_Bread#
 12097#Grilled_Skewers#
 12739#Snow_flower#
-607#Yggdrasilberry#
+607#Yggdrasil Berry#
 616#Old_Card_Album#
 12200#Christmas_Cake#
 22870#Christmas_Package#
@@ -6606,7 +6704,7 @@
 19991#Costume_Galanthus_Guard#
 19992#Costume_Chilly_Breath#
 19652#Costume_Rabbit_MagiCostume_Hat#
-19653#Costume_Marcher_Hat#
+19653#Old Guard Marching Hat#
 19654#Costume_J_Captain_Hat#
 19655#Costume_Tiraya_Bonnet#
 19656# Costume_Minstrel_Hat#
@@ -6687,6 +6785,7 @@
 20019#Costume_Beret_Of_Artist#
 
 //----------------------------Costama_Autumn_20150922--------------------
+
 17506#Costama_AutumnParty#
 19834#C_Baseball_Cap#
 20148#C_Noble_Hat#
@@ -6695,11 +6794,12 @@
 20151#C_Poison_Spore_Hat#
 20152#C_Straw_Rice_Bag#
 20153#C_Monochrome_Cap#
-20154#C_Maple_Which_Falls#
+20154#Golden Leaves#
 20155#C_Ladys_Feather_Hat#
 20156#C_Fan_In_Mouth#
 
 //-------------------Physical_Magical_Shadows---------------------
+
 13599#Battle_Manual_5ea_Box#
 17630#TH_Shadow_Box#
 24018#Physical_Earring_Shadow#
@@ -6713,6 +6813,7 @@
 24027#Immuned_Armor_Shadow#
 
 //-------old glast
+
 2022#Staff_Of_Geffen#
 2499#Temporal_Boots#
 2949#Silversmith_Bracelet#
@@ -6998,6 +7099,7 @@
 19969#Costume_Blazing_Spirit#
 
 //------------------EXTREME----------------------
+
 17694#Kafra_Treasure_Box1#
 17695#Kafra_Treasure_Box2#
 13577#AGI_Scroll_Box(50)#
@@ -7015,7 +7117,7 @@
 19795#Costume_Lord_Circlet#
 19629#Costume_Tiara#
 19630#Costume_Crown#
-19549#Costume_Majestic_Goat#
+19549#Majestic_Goat#
 
 //True Money Promotion 2016
 31115#Costume_Inw_True#
@@ -8355,8 +8457,8 @@ script
 18779#RWC Champ Crown First Place#
 18710#Sugared Fruit Stick#
 18716#Strawberry#
-20295#Costume: Poring Sunglasses#
-20285#Costume: Fluttering Cherry Blossom#
+20295#Poring Sunglasses#
+20285#Fluttering Cherry Blossoms#
 20297#Costume: Cactus Hat#
 31123#Costume Ghostring Tall Hat#
 20299#Costume: Face Crasher#
@@ -8396,3 +8498,27 @@ script
 20762#Costume GreatDevil Wing#
 
 11616#Yummy Meat#
+20439#Blessing of the Sun#
+20510#Wings of Steel#
+31533#Warm black cat muffler#
+31055#Poring Bubble Pipe#
+14516#Magnificat Scroll#
+23384#Premium (1 d.)#
+23385#Premium (7 d.)#
+23386#Premium (30 d.)#
+31300#Warm Cat Muffler#
+
+31591#Crown of Might#
+31165#Piggyback#
+
+19816#Peco Peco Cap#
+20488#Golden Ribbons#
+20491#Eagle Eye Laser#
+31164#Brown Stole#
+9685#Treasure of Golden Autumn#
+
+17988#Premium Box (30 d.)#
+17989#Premium Box (60 d.)#
+17990#Premium Box (90 d.)#
+9692#Premium Box (360 d.)#
+

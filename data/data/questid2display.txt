@@ -380,7 +380,7 @@ A druken man confesses that the ore found in Einbech is the piece of Ymir's hear
 Return to Shinokas.#
 
 2078#Cursed Property#SG_FEEL#QUE_NOIMAGE#
-The ore is identified but Shinokas was already assaulted by suspicious guys. He leaves a messages. 'They... wer...." and dies.#
+The ore is identified but Shinokas was already assaulted by suspicious guys. He leaves a messages. 'They... wer....' and dies.#
 Return to Buender Hikeman.#
 
 2079#The past went wrong#SG_FEEL#QUE_NOIMAGE#
@@ -665,16 +665,16 @@ Bring 60 Trunks#
 
 
 3006#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Qualification - "I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FFDecayed Nail, Stinky Scale, Worn-out Prison Uniform, and Daenggie^000000"#
-10 Decayed Nail, 10 Stinky Scale, 10 Worn-out Prison Uniform, and 10 Daenggie#
+Michele Cantonyon asks you to bring him some materials: ^3355FF10 rotten bandages and 10 lanterns^000000. That will show if you are worthy to become a Crusader.#
+Find all the necessary materials.#
 
 3007#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Qualification - "I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FFSkel-Bone, Orc Claw, Manacles, and Short Daenggie^000000"#
-10 Skel-Bone, 10 Orc Claw, 10 Manacles, and 10 Short Daenggie#
+Michele Cantonyon asks you to bring him some materials: ^3355FF10 rotten bandages and 10 lanterns^000000. That will show if you are worthy to become a Crusader.#
+Find all the necessary materials.#
 
 3008#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Qualification - "I will see through your effort and decide whether you are qualified or not. You shall bring ^3355FF10 Horrendous Mouth, 10 Rotten Bandage, 10 Lantern, and 10 Jack o'Pumpkin^000000"#
-10 Rotten Bandage, 10 Lantern#
+Michele Cantonyon asks you to bring him some materials: ^3355FF10 rotten bandages and 10 lanterns^000000. That will show if you are worthy to become a Crusader.#
+Find all the necessary materials.#
 
 3009#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
 "I can see your potential as a crusader. Meet with ^0000FFMoorenak Miyol^000000. He is in the underground prison of Prontera Castle. Talk to him first."#

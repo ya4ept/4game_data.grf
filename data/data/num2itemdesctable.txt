@@ -336,17 +336,15 @@ A basic herbal emollient made from Aloe extract. Despite its stench and sour tas
 Weight: ^77777710^000000
 #
 607#
-Fruit from the Yggdrasil tree which brings life to our world. Its fantastic taste is full of life.
-^000088Fully restores
-HP and SP^000000.
-^ffffff_^000000
+A fruit from the Yggdrasil tree which brings life to our world. Its fantastic taste is full of life.
+^000088Fully restores HP/SP.^000000
+^FFFFFF_^000000
 Weight: ^77777730^000000
 #
 608#
-Seed from the Yggdrasil tree which holds our world together. It has a weird, energizing pungence.
-^000088Restores one half
-of maximum HP and SP.^000000
-^ffffff_^000000
+A seed from the Yggdrasil tree that holds our world together. It has a weird, energizing aroma.
+Restores ^00008850% of max HP/SP^000000.
+^FFFFFF_^000000
 Weight: ^77777730^000000
 #
 609#
@@ -2508,11 +2506,7 @@ using a Magnifier.
 Weight: ^77777770^000000
 #
 1234#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1235#
 Unknown item
@@ -2522,11 +2516,7 @@ using a Magnifier.
 Weight: ^77777770^000000
 #
 1236#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1237#
 Unknown item
@@ -2585,11 +2575,7 @@ using a Magnifier.
 Weight: ^777777120^000000
 #
 1302#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1303#
 Unknown item
@@ -2704,11 +2690,7 @@ using a Magnifier.
 Weight: ^777777400^000000
 #
 1364#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777180^000000
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1365#
 Unknown item
@@ -3750,11 +3732,10 @@ using a Magnifier.
 Weight: ^7777770^000000
 #
 1752#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^7777770^000000
+A flaming arrow that inflicts Fire property damage.
+Class: ^777777Arrow^000000
+Property: ^777777Fire^000000
+Attack: ^77777730^000000    Weight: ^7777770.2^000000
 #
 2101#
 Unknown item
@@ -4485,11 +4466,7 @@ using a Magnifier.
 Weight: ^77777720^000000
 #
 2286#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 2287#
 Unknown item
@@ -4861,11 +4838,7 @@ using a Magnifier.
 Weight: ^77777710^000000
 #
 2620#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2301#
 Unknown item
@@ -6302,40 +6275,32 @@ Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 19997#
+
 //---- Episode 1.5 Item ------
 
 1753#
-An arrow constructed
-from hardened steel.
-Item Class: ^777777Arrow^000000
-Attack Strength: ^77777740^000000
-Weight: ^7777770.2^000000
+An arrow made of hardened steel.
+Class: ^777777Arrow^000000
 Property: ^777777Neutral^000000
+Attack: ^77777740^000000    Weight: ^7777770.2^000000
 #
 1754#
-An arrow made of
-blue crystal imbued
-with the power of Water. Item Class: ^777777Arrow^000000
-Attack Strength: ^77777730^000000
-Weight: ^7777770.2^000000
+An arrow made of blue crystal imbued with the Water power.
+Class: ^777777Arrow^000000
 Property: ^777777Water^000000
+Attack: ^77777730^000000    Weight: ^7777770.2^000000
 #
 1755#
-An arrow enchanted by
-the power of the Wind.
-Item Class: ^777777Arrow^000000
-Attack Strength: ^77777730^000000
-Weight: ^7777770.2^000000
+An arrow enchanted with the Wind power.
+Class: ^777777Arrow^000000
 Property: ^777777Wind^000000
+Attack: ^77777730^000000    Weight: ^7777770.2^000000
 #
 1756#
-An arrow made of
-stone imbued with
-the power of Earth.
-Item Class: ^777777Arrow^000000
-Attack Strength: ^77777730^000000
-Weight: ^7777770.2^000000
+An arrow made of stone imbued with the Earth power.
+Class: ^777777Arrow^000000
 Property: ^777777Earth^000000
+Attack: ^77777730^000000    Weight: ^7777770.2^000000
 #
 1094#
 A short lock
@@ -6604,39 +6569,32 @@ Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1555#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1556#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1557#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1558#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
-
 19999#
+
 // ---- PVP event items ------
+
 #
 7028#
 An invitation to
@@ -7368,7 +7326,7 @@ Weight: ^7777771^000000
 #
 7039#
 An identification tag
-that certifies that its	owner is a Novice.
+that certifies that its owner is a Novice.
 Weight: ^7777771^000000
 #
 7040#
@@ -7566,13 +7524,10 @@ Weight: ^7777770.3^000000
 Property: ^777777Holy^000000
 #
 1767#
-An arrow imbued
-with the power
-of darkness.
-Item Class: ^777777Arrow^000000
-Attack Strength: ^77777730^000000
-Weight: ^7777770.2^000000
+An arrow imbued with the power of darkness.
+Class: ^777777Arrow^000000
 Property: ^777777Shadow^000000
+Attack: ^77777730^000000    Weight: ^7777770.2^000000
 #
 1768#
 An arrow that will
@@ -7596,13 +7551,10 @@ Weight: ^7777770.3^000000
 Property: ^777777Neutral^000000
 #
 1770#
-Forged out of iron,
-this arrow will inflict more damage than
-one crafted of wood.
-Item Class: ^777777Arrow^000000
-Attack Strength: ^77777730^000000
-Weight: ^7777770.1^000000
+Forged out of iron, this arrow will inflict more damage than a wooden one.
+Class: ^777777Arrow^000000
 Property: ^777777Neutral^000000
+Attack: ^77777730^000000    Weight: ^7777770.1^000000
 #
 645#
 A potent medicine that
@@ -7611,20 +7563,18 @@ Attack Speed.^FFFFFFaaaaaaaaaaaaa^000000 Applicable Jobs: ^777777Every Job^00000
 Weight: ^77777710^000000
 #
 656#
-A special tonic that
-combats the effects of
-drowsiness. Temporarily increases Attack Speed.
-Required lvl: ^77777740^000000
-Applicable Jobs: ^777777All
-except Acolyte, Priest, Bard and Dancer^000000
+A special tonic that makes you vigilant.
+ASPD +15% for 30 min.
 Weight: ^77777715^000000
+Required Level: ^77777740^000000
+Job: ^777777All except Acolyte, Priest, Bard and Dancer^000000
 #
 657#
 Remarkably powerful
 medicine that stimulates circulation and amplifies
 quickness. Temporarily
 increases Attack Speed. Required lvl: ^77777785^000000
-Applicable Jobs: ^777777Swordman Class, Merchant Class,
+Applicable Jobs: ^777777Swordsman Class, Merchant Class,
 Rogue, Mage, Wizard^000000
 Weight: ^77777720^000000
 #
@@ -7819,7 +7769,6 @@ Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 7056#
 Payment statement for the Kafra employees.
@@ -7834,12 +7783,16 @@ A iron chain made out of cat whisker, woman's moustache, stone root, fish spirit
 Weight: ^77777750^000000
 #
 7059#
-A ticket that allows its owner to use the Kafra storage service once for free.
-Weight: ^7777771^000000
+^ff0000Character bound^000000
+A ticket that allows to use the Kafra Storage one time without paying any fee.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 7060#
-A ticket that allows its owner to use the Kafra transportation service once for free.
-Weight: ^7777771^000000
+^ff0000Character bound^000000
+A ticket that allows to use the Kafra Teleport Service one time free of charge.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 7061#
 A ticket that allows its owner to use the Kafra rent a cart service once for free.
@@ -8259,35 +8212,27 @@ Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1722#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1145#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1241#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1242#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 7093#
 A cogwheel used in a machine.
@@ -8405,7 +8350,7 @@ A feather from a Harpy. The Harpy's wings are effective in paralyzing its enemie
 Weight: ^7777771^000000
 #
 7116#
-A Talon from a Harpy. 
+A talon from a Harpy.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9259,8 +9204,10 @@ White chocolate which is used to propose to a girl by a boy during White Day.
 Weight: ^7777778^000000
 #
 561#
-A white cacao.
-^ffffff_^000000
+A white chocolate bar.
+Recovers some HP/SP.
+^FFFFFF_^000000
+Type: ^777777Miscellaneous^000000
 Weight: ^7777778^000000
 #
 7227#
@@ -10332,13 +10279,12 @@ Weight: ^7777771^000000
 4153#
 Crab Card.
 Inflict 30% more damage^FFFFFF  ^000000 on Aster. ATK +5. 
-
-^6A5ACDBeach Card Set^000000		
-^3CB371Shell Fish Card^000000		
-^3CB371Crab Card^000000		
-^3CB371Aster Card^000000		
+^6A5ACDBeach Card Set^000000
+^3CB371Shell Fish Card^000000
+^3CB371Crab Card^000000
+^3CB371Aster Card^000000
 +30% damage on ^6996ADWater^000000 
-Property monsters		
+Property monsters
 30% chance of Gaining 
 'Raw Fish'  each time 
 a Fish Monster is killed.
@@ -10421,7 +10367,7 @@ Weight: ^7777771^000000
 4163#
 Gryphon Card.
 Flee Rate +2, Critical +7.
-If worn by Swordman Class characters, it adds the chance of auto casting level 5 Bowling Bash skill
+If worn by Swordsman Class characters, it adds the chance of auto casting level 5 Bowling Bash skill
 on enemy while fighting.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -10444,11 +10390,11 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4166#
-Nightmare Terror Card.
-Add the chance of auto casting 'Curse' on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Nightmare card, the cursing chance will be increased.
+Chance to inflict Curse on an enemy when receiving physical damage
+[Set effect with the Nightmare card]
+Increases the chance to inflict Curse.
 Class: ^777777Card^000000
-Slot: ^777777Armor^000000
+Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4167#
@@ -11165,7 +11111,7 @@ Weight: ^7777771^000000
 Solider Card.
 DEF +2, MDEF +2.
 
-^6A5ACDSwordman Card Set^000000
+^6A5ACDSwordsman Card Set^000000
 ^3CB371Assaulter Card^000000
 ^3CB371Permeter Card^000000
 ^3CB371Solider Card^000000
@@ -11180,7 +11126,7 @@ A chance of gaining
 each time a monster is killed.
 Max HP +20%
 STR +10
-Swordman Class:
+Swordsman Class:
 +50% HP Restoration 
 when using Red, Yellow, 
 and White Potions.
@@ -11545,7 +11491,7 @@ with Critical Attack.
 Critical +7 on 
 Demi Human monsters.
 
-^6A5ACDSwordman Card Set^000000
+^6A5ACDSwordsman Card Set^000000
 ^3CB371Assaulter Card^000000
 ^3CB371Permeter Card^000000
 ^3CB371Solider Card^000000
@@ -11560,7 +11506,7 @@ A chance of gaining
 each time a monster is killed.
 Max HP +20%
 STR +10
-Swordman Class:
+Swordsman Class:
 +50% HP Restoration 
 when using Red, Yellow, 
 and White Potions.
@@ -11574,12 +11520,12 @@ Aster Card.
 Inflict 30% more damage on Shell Fishes.
 ATK +5.
 
-^6A5ACDBeach Card Set^000000		
-^3CB371Shell Fish Card^000000		
-^3CB371Crab Card^000000		
-^3CB371Aster Card^000000		
+^6A5ACDBeach Card Set^000000
+^3CB371Shell Fish Card^000000
+^3CB371Crab Card^000000
+^3CB371Aster Card^000000
 +30% damage on ^6996ADWater^000000 
-Property monsters		
+Property monsters
 30% chance of Gaining 
 'Raw Fish'  each time 
 a Fish Monster is killed.
@@ -11915,12 +11861,12 @@ Shell Fish Card.
 Inflict 30% more damage on Crabs.
 ATK +5.
 
-^6A5ACDBeach Card Set^000000		
-^3CB371Shell Fish Card^000000		
-^3CB371Crab Card^000000		
-^3CB371Aster Card^000000		
+^6A5ACDBeach Card Set^000000
+^3CB371Shell Fish Card^000000
+^3CB371Crab Card^000000
+^3CB371Aster Card^000000
 +30% damage on ^6996ADWater^000000 
-Property monsters		
+Property monsters
 30% chance of Gaining 
 'Raw Fish'  each time 
 a Fish Monster is killed.
@@ -11946,11 +11892,10 @@ Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4276#
-Lord of The Dead Card.
-Add the chance of auto casting 'Coma' on an enemy.
-Add the chance of auto casting 'Stun, Curse, Mute, Poison or Bleeding' in random when attacking the enemy.
+Chance to inflict Coma on an enemy
+Chance to inflict Stun, Curse, Mute, Poison, or Bleeding after a melee attack
 Class: ^777777Card^000000
-Slot: ^777777Weapon^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4277#
@@ -12390,7 +12335,7 @@ Permeter Card.
 Add 15% more tolerance against Shadow Property Attack.
 Add 15% more tolerance against Undead Property Attack.
 
-^6A5ACDSwordman Card Set^000000
+^6A5ACDSwordsman Card Set^000000
 ^3CB371Assaulter Card^000000
 ^3CB371Permeter Card^000000
 ^3CB371Solider Card^000000
@@ -12405,7 +12350,7 @@ A chance of gaining
 each time a monster is killed.
 Max HP +20%
 STR +10
-Swordman Class:
+Swordsman Class:
 +50% HP Restoration 
 when using Red, Yellow, 
 and White Potions.
@@ -12415,16 +12360,16 @@ and White Potions.
 ^3CB371Permeter Card^000000
 ^3CB371Freezer Card^000000
 ^3CB371Heater Card^000000
-Crusader Card set bonus is	
-INT +1 	
-STR +1	
-DEF +2	
-SP Recovery +10%	
+Crusader Card set bonus is
+INT +1 
+STR +1
+DEF +2
+SP Recovery +10%
 +10% Rapid Smiting and 
-Martyr's Reckoning Damage 	
-Cast Speed +10%	
+Martyr's Reckoning Damage 
+Cast Speed +10%
 Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.	
+Armor becomes Holy Property.
 
 Class: ^777777Card^000000
 Slot: ^777777Helmet^000000
@@ -12542,7 +12487,7 @@ with Bash skill
 if the shoes is upgraded 
 up to +9 or higher.
 
-^6A5ACDSwordman Card Set^000000
+^6A5ACDSwordsman Card Set^000000
 ^3CB371Assaulter Card^000000
 ^3CB371Permeter Card^000000
 ^3CB371Solider Card^000000
@@ -12557,7 +12502,7 @@ A chance of gaining
 each time a monster is killed.
 Max HP +20%
 STR +10
-Swordman Class:
+Swordsman Class:
 +50% HP Restoration 
 when using Red, Yellow, 
 and White Potions.
@@ -12567,16 +12512,16 @@ and White Potions.
 ^3CB371Permeter Card^000000
 ^3CB371Freezer Card^000000
 ^3CB371Heater Card^000000
-Crusader Card set bonus is	
-INT +1 	
-STR +1	
-DEF +2	
-SP Recovery +10%	
+Crusader Card set bonus is
+INT +1 
+STR +1
+DEF +2
+SP Recovery +10%
 +10% Rapid Smiting and 
-Martyr's Reckoning Damage 	
-Cast Speed +10%	
+Martyr's Reckoning Damage 
+Cast Speed +10%
 Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.	
+Armor becomes Holy Property.
 
 
 Class: ^777777Card^000000
@@ -12755,9 +12700,9 @@ Weight: ^7777771^000000
 4331#
 Heater Card.
 Critical +3.
-If worn by Swordman Class characters, Perfect Dodge +3.
+If worn by Swordsman Class characters, Perfect Dodge +3.
 
-^6A5ACDSwordman Card Set^000000
+^6A5ACDSwordsman Card Set^000000
 ^3CB371Assaulter Card^000000
 ^3CB371Permeter Card^000000
 ^3CB371Solider Card^000000
@@ -12772,7 +12717,7 @@ A chance of gaining
 each time a monster is killed.
 Max HP +20%
 STR +10
-Swordman Class:
+Swordsman Class:
 +50% HP Restoration 
 when using Red, Yellow, 
 and White Potions.
@@ -12782,16 +12727,16 @@ and White Potions.
 ^3CB371Permeter Card^000000
 ^3CB371Freezer Card^000000
 ^3CB371Heater Card^000000
-Crusader Card set bonus is	
-INT +1 	
-STR +1	
-DEF +2	
-SP Recovery +10%	
+Crusader Card set bonus is
+INT +1 
+STR +1
+DEF +2
+SP Recovery +10%
 +10% Rapid Smiting and 
-Martyr's Reckoning Damage 	
-Cast Speed +10%	
+Martyr's Reckoning Damage 
+Cast Speed +10%
 Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.	
+Armor becomes Holy Property.
 
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
@@ -12934,10 +12879,10 @@ Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 12020#
 A bottle of cursed water.
+Imbues armor with Shadow property for 3 min.
 ^ffffff_^000000
 Weight: ^7777773^000000
 #
@@ -13178,19 +13123,16 @@ those with a sweet tooth. ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12122#
-Doughy, chewy snacks
-made out of pine pollen, chestnut flour and honey, which enhance the flavor of teas. Embossed with
-the characters for safety, luck and longevity, these cookies are made to wish good fortune to those who eat them. Temporarily
-increases Hit by 30.
+Doughy, chewy snacks made out of pine pollen, chestnut flour, and honey. Decorated with characters for safety, luck and longevity, these cookies are made to wish good fortune to those who eat them.
+Hit +30 for 3 min.
 ^ffffff_^000000
-Weight: ^7777777^000000
+Weight: ^7777770^000000
 #
 12123#
-These traditional
-crackers from a nation
-in the far East are made of mixed flour, honey and sweet liquor. Temporarily adds +30 to Flee Rate.
+These traditional crackers from the far East are made of mixed flour, honey, and sweet liquor.
+Flee +30 for 3 min.
 ^ffffff_^000000
-Weight: ^7777777^000000
+Weight: ^7777770^000000
 #
 12124#
 A colorful rice cake
@@ -13569,10 +13511,7 @@ Can be identified by
 using a Magnifier.
 #
 1560#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1561#
 Unknown item
@@ -13593,10 +13532,7 @@ Can be identified by
 using a Magnifier.
 #
 1618#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 1619#
 Unknown item
@@ -13689,10 +13625,7 @@ Can be identified by
 using a Magnifier.
 #
 2114#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 2115#
 Unknown item
@@ -14280,16 +14213,16 @@ on the user.
 Weight : ^77777720^000000
 #
 12030#
-Adds +20 ATK
-for 60 seconds.
+A very strange box.
+Atk +20 for 1 min.
 ^ffffff_^000000
-Weight : ^77777720^000000
+Weight: ^7777770^000000
 #
 12031#
-Adds +20 MATK
-for 60 seconds.
+A very strange box.
+Matk +20 for 1 min.
 ^ffffff_^000000
-Weight : ^77777720^000000
+Weight: ^7777770^000000
 #
 12032#
 Imbues the user's
@@ -14321,30 +14254,29 @@ in a foregin language.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
+
 //---------------------------------2006 White Day-----------------------
+
 7432#
 A sturdy, leather
 pouch used to
 contain goods.
 ^ffffff_^000000
 #
+
 //---------------2006 US St. Patrick's Day------------------------------
+
 12135#
-A wonderfully
-refreshing drink that
-may cause stumbling
-and regrettably hazy
-memories of the night
-before when drank in
-excess. Recovers 50%
-of Max HP and SP, but
-has a 10% chance of
-casting the Chaos
-effect on its user.
+^ff0000Account bound^000000
+A wonderfully refreshing drink that may cause stumbling and regrettably hazy memories of the night before when drank in excess.
+Note! Drinking it may cause unexpected effects!
+Recovers ^00008810% HP^000000.
 ^ffffff_^000000
-Weight: ^77777710^000000
+Weight: ^7777773^000000
 #
+
 // ---------- Juperos ----------
+
 2659#
 Unknown item
 requiring Appraisal.
@@ -14377,14 +14309,13 @@ Weight: ^7777771^000000
 
 //----------------2006 USA 3rd anniversary------------------------------------
 
-5147#				
+5147#
 Unknown item
 requiring Appraisal.
 Can be identified by
-using a Magnifier.			
-#				
-				
-7530#				
+using a Magnifier.
+#
+7530#
 [Amatsu the Land of Destiny]
 The people of Amatsu carry themselves with honor and tranquility.
 During your visit you should see the Beautiful ^ff0000Water Shrine^000000.  The ^ff0000Lord of Amatsu^000000 is much more open 
@@ -14394,10 +14325,10 @@ its branches your marriage will be blessed.
 While in Amatsu you should see the ^ff0000Coy Pond^000000, nobility of Amatsu keep wonderful gardens or plants, sand and rocks. 
 Their careful balance and flow reflect the keeper's state of mind.  
 Part of garden is a Coy Pond, these frolicsome fish are a delight to all. 
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]				
-#				
-7531#				
-[Kunlun The Hermit Land]				
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
+#
+7531#
+[Kunlun The Hermit Land]
 Kunlun is a land in the clouds.  
 Being so high in the air affords an unprecedented view of the world, it also gives 
 a different mindset to those whom allow themselves to think freely.  
@@ -14409,11 +14340,11 @@ you should visit there and see if any grand thoughts take you.
 No matter how great a culture is, there will always be a few among its citizenry that just don't 'get it'. 
 Those in Kunlun's history that always thought small eventually truly shrank, and eventually disappeared.  
 But before that time they had a ^ff0000Mini-town^000000 that they lived in on ground beneath Kunlun.  
-That place is an object lesson against stagnant thinking.	
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]			
-#				
-7532#				
-[Louyang]				
+That place is an object lesson against stagnant thinking.
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
+#
+7532#
+[Louyang]
 Louyang is a spiritual country, where the warrior spirit and clear thinking are highly prized. 
 Such wondrous sites such as the ^ff0000Statue of the Man and the Tiger^000000 may inspire you to do your best.
 Louyang has a different perspective on healing the mind and the body.  While Rune-Midgard relies on the science of potions, 
@@ -14424,34 +14355,34 @@ To go along with their proud heritage of Martial Arts and spirit training, they 
 more robust through exercise. Some of these exercises target the legs others the Lungs.  
 Outside Louyang some practice their ^ff0000Shouting on the Tower^000000.  If you have seen all these sites in Louyang,
 you will have quite a few good memories to take home.
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]				
-#				
-7533#				
-[Ayothaya]				
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
+#
+7533#
+[Ayothaya]
 Thoughts of transcending your limitations, and finding Life's perfect philosophy is Ayothaya's Heritage.  
 In Ayothaya's history is great Philosopher that all Ayothayans seek to emulate.  
 There are numerous statues representing this Philosopher exist in and around Ayothaya.  
-You should visit them to see what differences and significance these ^ff0000Reclining Philosopher Statues^000000 mean to 	you.  
+You should visit them to see what differences and significance these ^ff0000Reclining Philosopher Statues^000000 mean to you.  
 Part of the Philosophy involves many hours of meditation a day to keep balance in your mind and body.  
 You should visit the ^ff0000Shrine in Ayothaya^000000 and meditate upon your life's journey.  
 And when you complete your regimen of Exercise and Introspection you can refuel your body by visiting 
 the ^ff0000Tom Yum Goong restaurant^000000.  The famous soup made here is truly delicious.  
 Don't leave Ayothaya without sampling the dishes there.
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]					
-#				
-7534#				
-Upon seeing all the sites and sights in Amatsu the Rune-Midgard Tour Agency has stamped this  photo album with their official seal.  				
-#				
-7535#				
-Upon seeing all the sites and sights in Kunlun the Rune-Midgard Tour Agency has stamped this  photo album with their official seal. 				
-#				
-7536#				
-Upon seeing all the sites and sights in Louyang the Rune-Midgard Tour Agency has stamped this  photo album with their official seal. 				
-#				
-7537#				
-Upon seeing all the sites and sights in Ayothaya the Rune-Midgard Tour Agency has stamped this  photo album with their official seal. 				
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
 #
-				
+7534#
+Upon seeing all the sites and sights in Amatsu the Rune-Midgard Tour Agency has stamped this  photo album with their official seal.
+#
+7535#
+Upon seeing all the sites and sights in Kunlun the Rune-Midgard Tour Agency has stamped this  photo album with their official seal.
+#
+7536#
+Upon seeing all the sites and sights in Louyang the Rune-Midgard Tour Agency has stamped this  photo album with their official seal.
+#
+7537#
+Upon seeing all the sites and sights in Ayothaya the Rune-Midgard Tour Agency has stamped this  photo album with their official seal.
+#
+
 //------------2006 Lotto Event-----------------------------------------------------------------------------
 
 7397#
@@ -14464,95 +14395,95 @@ Weight: ^7777771^000000
 7398#
 The number ''^FF000038^000000''
 is written on this
-Lotto Ball.	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-12035#	 
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+12035#
 A sealed box that
 contains a Lotto Ball
 from numbers 1-10.
-^ffffff ^000000	 
-Weight: ^7777772^000000	 
-#	 
-12036#	 
+^ffffff ^000000
+Weight: ^7777772^000000
+#
+12036#
 A sealed box that
 contains a Lotto Ball
 from numbers 11-20.
-^ffffff ^000000	 
-Weight: ^7777772^000000	 
-#	 
-12037#	 
+^ffffff ^000000
+Weight: ^7777772^000000
+#
+12037#
 A sealed box that
 contains a Lotto Ball
 from numbers 21-30.
-^ffffff ^000000	 
-Weight: ^7777772^000000	 
-#	 
-12038#	 
+^ffffff ^000000
+Weight: ^7777772^000000
+#
+12038#
 A sealed box that
 contains a Lotto Ball
 from numbers 31-40.
-^ffffff ^000000	 
-Weight: ^7777772^000000	 
-#	 
-12039#	 
+^ffffff ^000000
+Weight: ^7777772^000000
+#
+12039#
 A sealed box that
 contains a Lotto Ball
 from numbers 41-50.
-^ffffff ^000000	 
-Weight: ^7777772^000000	 
-#	 
-7540#	
+^ffffff ^000000
+Weight: ^7777772^000000
+#
+7540#
 The number ''^FF000039^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-7541#	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+7541#
 The number ''^FF000040^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-7542#	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+7542#
 The number ''^FF000041^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-7543#	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+7543#
 The number ''^FF000042^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-7544#	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+7544#
 The number ''^FF000043^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-7545#	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+7545#
 The number ''^FF000044^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
-#	
-7546#	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
+#
+7546#
 The number ''^FF000045^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^7777771^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^7777771^000000
 #
-	
+
 //---------------RO OST item-----------------------------------------
 
 5151#
@@ -14562,9 +14493,9 @@ earmuffs designed to
 resemble music notes.
 Adds 10% tolerance to
 the Stun and Frozen effects.
-MDEF+3						
-Class :^777777Headgear^000000    
-Defense : ^7777774^000000 
+MDEF+3
+Class :^777777Headgear^000000
+Defense : ^7777774^000000
 Location: ^777777Upper, Mid^000000
 Weight: ^77777720^000000
 Applicable Jobs: ^777777All^000000
@@ -14645,13 +14576,12 @@ the drinker the feeling^FFFFFF  ^000000 of lounging on the beach.
 ^FFFFFF ^000000
 Weight: ^77777710^000000
 #
+
 // -----------Prize Items ---------------
+
 12103#
-An ancient, gnarled
-branch with a contract
-written in blood upon
-the bark that can summon stronger creatures than
-regular Dead Branches.
+An ancient gnarled branch with a contract written in blood upon its bark.
+Summons stronger creatures than regular Dead Branches.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
@@ -14821,6 +14751,7 @@ Weight: ^7777771^000000
 #
 
 // ----------- 30 Recipe ------------
+
 12041#
 A dish that is easy
 and convenient for
@@ -14839,11 +14770,9 @@ STR +2
 Weight: ^77777750^000000
 #
 12043#
-It looks like an
-ordinary steak,
-but it is explosively
-flavorful and juicy.
-STR +3
+It looks like an ordinary steak, but it is explosively flavorful and juicy.
+Str +3
+Recovers ^0000885% HP^000000.
 ^FFFFFF ^000000
 Weight: ^77777750^000000
 #
@@ -16303,44 +16232,45 @@ requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
+
 //-----------------------2006 Christmas event-----------------
-5204#	
-Unknown item	
-requiring Appraisal.	
-Can be identified by	
-using a Magnifier.	
-#	
-12200#	
-A Christmas cake	
-that is only available	
-during the Christmas	
-season. Automatically	
-casts Lv.3 Magnificat	
-and restores a small	
-amount of HP.	
-Expiration Date:	
-December 14th~	
-January 4th, 2007	
-Weight : ^7777775^000000	
-#	
-12225#	
-A candy cane that is	
-so sweet, it can melt	
-the human tongue.	
-However, Santa Goblins	
-seem to be fond of it.	
-Item Class: ^777777Taming item^000000	
-Weight : ^7777775^000000	
-#	
-9029#	
-An egg containing	
-a sleeping Santa	
-Goblin Cute Pet.	
-Can be hatched by	
-using a ^33CC33Pet Incubator^000000.	
-Class : ^777777Monster Egg^000000	
+
+5204#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
+12200#
+A Christmas cake
+that is only available
+during the Christmas
+season. Automatically
+casts Lv.3 Magnificat
+and restores a small
+amount of HP.
+Expiration Date:
+December 14th~
+January 4th, 2007
+Weight : ^7777775^000000
+#
+12225#
+A candy cane that is
+so sweet, it can melt
+the human tongue.
+However, Santa Goblins
+seem to be fond of it.
+Item Class: ^777777Taming item^000000
+Weight : ^7777775^000000
+#
+9029#
+An egg containing
+a sleeping Santa
+Goblin Cute Pet.
+Can be hatched by
+using a ^33CC33Pet Incubator^000000.
+Class : ^777777Monster Egg^000000
+#
+
 // --------------- Kyel Hyre's Cottage Quest ----------------
+
 7487#
 A bottle of fine,
 sweet scented
@@ -16554,7 +16484,7 @@ Weight:  ^7777771^000000
 7511#
 A dark rune with
 ancient writing
-engraved inside it.	
+engraved inside it.
 ^ffffff_^000000
 Weight:  ^7777771^000000
 #
@@ -16706,16 +16636,10 @@ Can be identified by
 using a Magnifier.
 #
 13160#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 13161#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 13162#
 Unknown item
@@ -16733,105 +16657,71 @@ Property:^777777Neutral^000000
 #
 
 // ------------------ ???? ???? ------------------------
+
 13250#
-A cross shaped dagger
-that is small enough to^FFFFFF  ^000000 conceal in your hand.
+A cross-shaped weapon small enough to conceal in your hand.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777710^000000
-Weight: ^7777770.5^000000
-Property:^777777Neutral^000000
+Property: ^777777Neutral^000000
+Attack: ^77777710^000000    Weight: ^7777770.5^000000
 #
 13251#
-A shuriken that is
-rumored to show its
-true power during
-a rainstorm.
+A shuriken that is rumored to show its true power during a rainstorm.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777730^000000
+Property: ^777777Neutral^000000
+Attack: ^77777730^000000    Weight: ^7777770.5^000000
 Required Level: ^77777720^000000
-Weight: ^7777770.5^000000
-Property:^777777Neutral^000000
 #
 13252#
-A shuriken that
-can be thrown at
-the speed of light.
+A shuriken that can be thrown at the speed of light.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777745^000000
+Property: ^777777Neutral^000000
+Attack: ^77777745^000000    Weight: ^7777770.5^000000
 Required Level: ^77777740^000000
-Weight: ^7777770.5^000000
-Property:^777777Neutral^000000
 #
 13253#
-A sharp shuriken
-that is surprisingly
-as thin as a leaf.
+A sharp shuriken that is surprisingly as thin as a leaf.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777770^000000
+Property: ^777777Neutral^000000
+Attack: ^77777770^000000    Weight: ^7777770.5^000000
 Required Level: ^77777760^000000
-Weight: ^7777770.5^000000
-Property:^777777Neutral^000000
 #
 13254#
-A dreadful shuriken
-with thorn like barbs
-that hook into its
-target, making them
-painful to pull out.
+A dreadful shuriken with thorn-like barbs that hook into its target, making it painful to pull out.
 Class: ^777777Throwing Weapon^000000
-ATK: ^777777100^000000
+Property: ^777777Neutral^000000
+Attack: ^777777100^000000    Weight: ^7777770.5^000000
 Required Level: ^77777780^000000
-Weight: ^7777770.5^000000
-Property:^777777Neutral^000000
 #
 13255#
-A kunai imbued
-with freezing cold.
+A kunai imbued with freezing cold.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777730^000000
-Weight: ^7777772^000000
-Property:^777777Water^000000
+Property: ^777777Water^000000
+Attack: ^77777730^000000    Weight: ^7777772^000000
 #
 13256#
-An Earth property
-kunai that inflicts
-blunt trauma upon
-targeted enemies.
+An Earth property kunai that inflicts blunt trauma upon its targets.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777730^000000
-Weight: ^7777772^000000
-Property:^777777Earth^000000
+Property: ^777777Earth^000000
+Attack: ^77777730^000000    Weight: ^7777772^000000
 #
 13257#
-A Wind property kunai^FFFFFF    ^000000 that is especially sharp.
+A Wind property kunai that is especially sharp.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777730^000000
-Weight: ^7777772^000000
-Property:^777777Wind^000000
+Property: ^777777Wind^000000
+Attack: ^77777730^000000    Weight: ^7777772^000000
 #
 13258#
-An explosive kunai
-that will inflict
-splashed damage
-around its target.
+An explosive kunai that deals Fire damage to its target.
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777730^000000
-Weight: ^7777772^000000
-Property:^777777Fire^000000
+Property: ^777777Fire^000000
+Attack: ^77777730^000000    Weight: ^7777772^000000
 #
 13259#
-A kunai coated with
-deadly poison that
-has a low chance
-of inflicting the
-Poison status on
-a targeted enemy
-when used in a long
-range physical attack.
+A kunai coated with deadly poison.
+Low chance to inflict Poison on a target after a long range physical attack
 Class: ^777777Throwing Weapon^000000
-ATK: ^77777730^000000
-Weight: ^7777772^000000
-Property:^777777Poison^000000
+Property: ^777777Poison^000000
+Attack: ^77777730^000000    Weight: ^7777772^000000
 #
 7521#
 A bead, imbued with
@@ -16908,16 +16798,10 @@ Can be identified by
 using a Magnifier.
 #
 13012#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 13013#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 13014#
 Unknown item
@@ -17045,117 +16929,112 @@ helping of fish cake.
 ^ffffff_^000000
 Weight: ^7777776^000000
 #
+
 //----------------2007 Valentine's Day & White Day event
-7715#		
-A magic copy of the		
-recipe for making		
-Hand-made Chocolate		
-that can be used at		
-a Kitchen Counter.		
-		
-Ingredients:		
-^0000885 Chocolates^000000		
-^0000881 Milk^000000		
-		
-Weight: ^7777770^000000		
-#		
-7716#		
-A magic copy of the		
-recipe for making		
-Chocolate Strawberries		
-that can be used at		
-a Kitchen Counter.		
-		
-Ingredients:		
-^0000881 White Chocolate		
-2 Strawberries		
-1 Chocolate		
-		
-Weight: ^7777770^000000		
-#		
-7717#		
-A magic copy of the		
-recipe for making		
-Chocolate Tarts that		
-can be used at a		
-Kitchen Counter.		
-		
-Ingredients:		
-^0000883 Chocolates		
-1 Flour		
-3 Milk		
-1 Egg		
-		
-Weight: ^7777770^000000		
-#		
-7718#		
-A fermented and		
-dried Cacao Bean		
-that has been shelled		
-from a raw Cacao.		
-Weight: ^7777771^000000		
-#		
-7604#		
-A bag of finely		
-milled and ground		
-wheat flour that can		
-be used in a variety		
-of different foods.		
-Weight: ^7777771^000000		
-#		
-596#		
-A strawberry that		
-is supposed to be		
-covered in a smooth		
-layer of chocolate,		
-but whoever made 		
-this botched it up.		
-It's not perfect, but		
-this was made with		
-love, if not skill.	
-#							
-597#							
+
+7715#
+A magic copy of the
+recipe for making
+Hand-made Chocolate
+that can be used at
+a Kitchen Counter.
+Ingredients:
+^0000885 Chocolates^000000
+^0000881 Milk^000000
+Weight: ^7777770^000000
+#
+7716#
+A magic copy of the
+recipe for making
+Chocolate Strawberries
+that can be used at
+a Kitchen Counter.
+Ingredients:
+^0000881 White Chocolate
+2 Strawberries
+1 Chocolate
+Weight: ^7777770^000000
+#
+7717#
+A magic copy of the
+recipe for making
+Chocolate Tarts that
+can be used at a
+Kitchen Counter.
+Ingredients:
+^0000883 Chocolates
+1 Flour
+3 Milk
+1 Egg
+Weight: ^7777770^000000
+#
+7718#
+A fermented and
+dried Cacao Bean
+that has been shelled
+from a raw Cacao.
+Weight: ^7777771^000000
+#
+7604#
+A bag of finely
+milled and ground
+wheat flour that can
+be used in a variety
+of different foods.
+Weight: ^7777771^000000
+#
+596#
+A strawberry that
+is supposed to be
+covered in a smooth
+layer of chocolate,
+but whoever made 
+this botched it up.
+It's not perfect, but
+this was made with
+love, if not skill.
+#
+597#
 A tart covered in
 a smooth layer of
 rich chocolate that is
 the perfect dessert
-for romantic dinners.						
-Weight: ^77777710^000000							
-#							
-
-
-
-12234#							
+for romantic dinners.
+Weight: ^77777710^000000
+#
+12234#
 A chocolate bar
 whose content is
 99% Cacao: it tastes
 more bitter than sweet,^FFFFFF   ^000000 but chocolate aficionados
 love it for its rugged
 flavor and various
-health benefits.					
-Weight: ^77777710^000000							
-#							
-12235#							
+health benefits.
+Weight: ^77777710^000000
+#
+12235#
 A ripe, sweet
 strawbery covered
 in a smooth layer of
-luscious chocolate.							
-Weight: ^77777710^000000							
-#							
-12236#							
+luscious chocolate.
+Weight: ^77777710^000000
+#
+12236#
 A crunchy tart
 filled with rich
 chocolate and topped
-with fresh cream.						
-Weight: ^77777710^000000							
-#							
-12237#							
+with fresh cream.
+Weight: ^77777710^000000
+#
+12237#
 This chocolate has
 obviously been cooked
 too long, and its burnt^FFFFFF   ^000000 stench can be smelled
-from a distance.							
-Weight: ^77777710^000000							
+from a distance.
+Weight: ^77777710^000000
+
 //----------------2007 St. Patrick's Day Event ----------------------
+
 #
 12245#
 A frothy green ale
@@ -17564,70 +17443,65 @@ Demon race monsters.
 Class: ^777777Arrow^000000    Attack Strength: ^77777750^000000
 Weight: ^7777770.2^000000      Property: ^777777Holy^000000
 #
+
 //----------------2007 Valentine's Day & White Day event
-7715#		
-A magic copy of the		
-recipe for making		
-Hand-made Chocolate		
-that can be used at		
-a Kitchen Counter.		
-		
-Ingredients:		
-^0000885 Chocolates^000000		
-^0000881 Milk^000000		
-		
-Weight: ^7777770^000000		
-#		
-7716#		
-A magic copy of the		
-recipe for making		
-Chocolate Strawberries		
-that can be used at		
-a Kitchen Counter.		
-		
-Ingredients:		
-^0000881 White Chocolate		
-2 Strawberries		
-1 Chocolate		
-		
-Weight: ^7777770^000000		
-#		
-7717#		
-A magic copy of the		
-recipe for making		
-Chocolate Tarts that		
-can be used at a		
-Kitchen Counter.		
-		
-Ingredients:		
-^0000883 Chocolates		
-1 Flour		
-3 Milk		
-1 Egg		
-		
-Weight: ^7777770^000000		
-#		
-7718#		
-A fermented and		
-dried Cacao Bean		
-that has been shelled		
-from a raw Cacao.		
-Weight: ^7777771^000000		
-#		
-7604#		
-A bag of finely		
-milled and ground		
-wheat flour that can		
-be used in a variety		
-of different foods.		
-Weight: ^7777771^000000		
-#		
+
+7715#
+A magic copy of the
+recipe for making
+Hand-made Chocolate
+that can be used at
+a Kitchen Counter.
+Ingredients:
+^0000885 Chocolates^000000
+^0000881 Milk^000000
+Weight: ^7777770^000000
+#
+7716#
+A magic copy of the
+recipe for making
+Chocolate Strawberries
+that can be used at
+a Kitchen Counter.
+Ingredients:
+^0000881 White Chocolate
+2 Strawberries
+1 Chocolate
+Weight: ^7777770^000000
+#
+7717#
+A magic copy of the
+recipe for making
+Chocolate Tarts that
+can be used at a
+Kitchen Counter.
+Ingredients:
+^0000883 Chocolates
+1 Flour
+3 Milk
+1 Egg
+Weight: ^7777770^000000
+#
+7718#
+A fermented and
+dried Cacao Bean
+that has been shelled
+from a raw Cacao.
+Weight: ^7777771^000000
+#
+7604#
+A bag of finely
+milled and ground
+wheat flour that can
+be used in a variety
+of different foods.
+Weight: ^7777771^000000
+#
+
 // --------------- 패키지아이템 ----------------
+
 5137#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5139#
 Unknown item
@@ -17875,10 +17749,8 @@ Weight: ^7777771^000000
 A pack of consumables to
 aid the adventurer on the 
 long journey.
-
 Contains: 
 Kafra Item Mall Prize Package.
-
 Kafra Item Mall Prize cannot be traded, dropped, or sold.  It can be Stored.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -17890,84 +17762,112 @@ Inside, you have a chance of winning many great prizes.  See the Lucky Box page 
 Weight: ^7777771^000000
 #
 12900#
-A box that contains
-10 Battle Manuals.
-^ffffff_^000000
-Battle Manual - Increases^FFFFFF  ^000000 EXP rate to 150% for
-a 30 minute duration.
-^ffffff_^000000
+Contains 10 Battle Manuals.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Battle Manual]
+^ff0000Account bound^000000
+A manual that explains effective ways to fight. It is very detailed and well composed.
+Exp/job exp rate +50% for 30 min.
+^000088The item effect stacks with that of Job Battle Manual.^000000
+Weight: ^7777770^000000
 #
 12901#
-A box that contains
-10 Life Insurance
-certificates.
-^ffffff_^000000
-Life Insurance -
-Nullifies EXP penalty
-if user is killed within^FFFFFF  ^000000 30 minutes of this
-item's use. Each
-certificate is valid
-for a one time use.
-^ffffff_^000000
+Contains 10 Life Insurances.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Life Insurance]
+^ff0000Account bound^000000
+A life insurance certificate issued by Kafra Headquarters.
+Loses its effect once the character receives its benefit.
+^000088If the character dies within 30 minutes after using this item, there will be no EXP loss penalty.^000000
+Weight: ^7777770^000000
 #
 12902#
-A box containing
-10 Bubble Gums.
-^ffffff_^000000
-Bubble Gum -
-Increase item drop
-rate by 100% for
-30 minutes.
-^ffffff_^000000
+Contains 10 Bubble Gums.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Bubble Gum]
+^ff0000Account bound^000000
+Sweet tasty bubble gum. 
+Item drop rate +100% for 30 min.
+Weight: ^7777770^000000
 #
 12903#
-A box containing
-10 STR +10 dishes.
-^ffffff_^000000
+Contains 10 Steamed Tongues.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Steamed Tongue]
+^ff0000Account bound^000000
+The epitome of Louyang cuisine. Its ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
+Str +10 for 30 min.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12904#
-A box containing
-10 AGI +10 dishes.
-^ffffff_^000000
+Contains 10 Steamed Scorpions.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Steamed Scorpion]
+^ff0000Account bound^000000
+One of the four best dishes of the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands.
+Agi +10 for 30 min.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12905#
-A box containing
-10 INT +10 dishes.
-^ffffff_^000000
+Contains 10 Dragon Breath Cocktails.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Dragon Breath Cocktail]
+^ff0000Account bound^000000
+A cocktail with an unforgettable flavor as impressive as a dragon's breath.
+Int +10 for 30 min.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12906#
-A box containing
-10 DEX +10 dishes.
-^ffffff_^000000
+Contains 10 Hwergelmir's Tonics.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Hwergelmir's Tonic]
+^ff0000Account bound^000000
+Named after the legendary spring believed to be the source of the world's rivers, this beverage is famous for its amazing taste.
+Dex +10 for 30 min.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12907#
-A box containing
-10 LUK +10 dishes.
-^ffffff_^000000
+Contains 10 Cooked Nine Tail's Tails.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Cooked Nine Tail's Tails]
+^ff0000Account bound^000000
+A rare specialty dish from Payon that bestows luck on those fortunate enough to eat it.
+Luk +10 for 30 min.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12908#
-A box containing
-10 VIT +10 dishes.
-^ffffff_^000000
+Contains 10 Stews of Immortality.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Stew of Immortality]
+^ff0000Account bound^000000
+A stew with a funky smell that looks quite suspicious, but it really does give the feeling of immortality.
+Vit +10 for 30 min.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12909#
-A box containing
-10 Kafra Name Cards.
-^ffffff_^000000
-Kafra Name Card -
-Summons the Kafra
-Service when used.
-^ffffff_^000000
+Contains 10 Kafra Cards.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Kafra Card]
+^ff0000Account bound^000000
+A card issued by the Kafra Headquarters.
+Allows to open the Kafra storage.
+Weight: ^7777770^000000
 #
 12910#
 A light box containing
@@ -17983,16 +17883,16 @@ by a Party Master.
 Weight: ^7777771^000000
 #
 12911#
-A box containing
-1 Shining Stick.
-Extremely fragile!
-^ffffff_^000000
-Shining Stick -
-Resets Skill Tree,
-and gives Skill
-Point compensation.
-^ffffff_^000000
+Contains 1 Neuralizer.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Neuralizer]
+^ff0000Account bound^000000
+A strange flashing stick that seems to erase people's memories.
+Resets the skill tree and gives the corresponding number of skill points.
+Can only be used in towns. The character must carry 0 weight.
+Cannot be used by Novices.
+Weight: ^7777770^000000
 #
 12912#
 A box containing
@@ -18012,16 +17912,14 @@ cannot be detected.
 Weight: ^7777771^000000
 #
 12913#
-A box containing
-20 Blessing Scrolls.
-(Lvl 10 Blessing)
+Contains 50 LV10 Blessing Scrolls.
+^ff0000LV10 Blessing Scroll is account bound.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12914#
-A box containing
-20 Agi Scrolls.
-(Lvl 10 Increase AGI)
+Contains 50 LV10 Increase Agi Scrolls.
+^ff0000LV10 Increase Agi Scroll is account bound.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -18054,14 +17952,15 @@ Adrenaline Rush)
 Weight: ^7777771^000000
 #
 12919#
-A box containing
-10 Megaphones.
-^ffffff_^000000
-Megaphone -
-Allows server wide
-message broadcasting.
-^ffffff_^000000
+Contains 10 Megaphones.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Megaphone]
+^ff0000Account bound^000000
+A trumpet-shaped device that seems to amplify sounds.
+Allows you to broadcast your messages to the whole server.
+^000088Note! A message for broadcast must be entered in 3 min. after the item is used, or the effect is cancelled.^000000
+Weight: ^7777770^000000
 #
 12920#
 Contains 5 Enriched Eluniums.
@@ -18080,15 +17979,13 @@ Increases rate of refining a weapon without breaking it.
 Weight: ^7777771^000000
 #
 12922#
-A box containing
-10 Tokens of Ziegfried.^FFFFFF    ^000000 ^ffffff_^000000
-Token of Ziegfried -
-Revives dead character
-when used.
-^ffffff_^000000
+Contains 10 Tokens of Ziegfried.
 Weight: ^7777771^000000
-
-
+^ffffff_^000000
+[Token of Ziegfried]
+^ff0000Account bound^000000
+A token blessed by the great hero Ziegfried.
+Allows your character to revive in the place of death.
 #
 12929#
 A box that contains
@@ -18358,208 +18255,140 @@ sense of danger.
 Weight: ^7777771^000000
 #
 7619#
-Elunium that has been buried deep underground.
-Used as a material to strengthen armor.
-Enhances a chance of successful upgrade.
-Only Suhnbi of Payon is capable of refining with this material.
+^ff0000Account bound^000000
+An enriched elunium that can be found only deep underground. Used as a material to make stronger armor.
+Increases armor's upgrade success rate.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Only Suhnbi of Prontera is capable of working with this material.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 7620#
-Oridecon that has been buried deep underground.
-Used as a material to strengthen weapons.
-Enhances a chance of successful upgrade.
-Only Suhnbi of Payon is capable of refining with this material.
+^ff0000Account bound^000000
+An enriched oridecon that can be found only deep underground. Used as a material to make stronger weapons.
+Increases weapon's upgrade success rate.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Only Suhnbi of Prontera is capable of working with this material.
+Weight: ^7777770^000000
 #
 7621#
-A certificate imbued
-with the power of the
-invulnerable Ziegfried
-which allows its bearer^FFFFFF   ^000000 to overcome death.
-Revives the dead
-character.
+^ff0000Account bound^000000
+A token blessed by the great hero Ziegfried.
+Allows your character to revive in the place of death.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12202#
-A very pricey
-Louyang dish that
-tastes absolutely
-superb. STR +10,
-30 minute duration.
+^ff0000Account bound^000000
+The epitome of Louyang cuisine. Its ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
+Str +10 for 30 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12203#
-This scorpion dish
-is cooked with the
-heat of the desert
-sand, and is one of
-the four best dishes
-in Sograt Desert
-cuisine. AGI +10,
-30 minute duration.
+^ff0000Account bound^000000
+One of the four best dishes of the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands.
+Agi +10 for 30 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12204#
-A cocktail whose
-unforgettable flavor
-is as potent as the
-breath of a dragon.
-INT +10, 30 minute
-duration.
+^ff0000Account bound^000000
+A cocktail with an unforgettable flavor as impressive as a dragon's breath.
+Int +10 for 30 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12205#
-This beverage is
-named after the
-legendary spring
-that is believed to
-be the source of the
-world's rivers, and
-is famous for its pure,^FFFFFF   ^000000 amazing taste. DEX +10,
-30 minute duration.
+^ff0000Account bound^000000
+Named after the legendary spring believed to be the source of the world's rivers, this beverage is famous for its amazing taste.
+Dex +10 for 30 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12206#
-A rare, specialty
-Payon dish that bestows^FFFFFF   ^000000 luck to those fortunate
-enough to eat it. LUK +10, 30 minute duration.
+^ff0000Account bound^000000
+A rare specialty dish from Payon that bestows luck on those fortunate enough to eat it.
+Luk +10 for 30 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12207#
-A funkly smelling,
-suspicious looking
-stew that really does
-make you feel like
-an immortal when
-you eat it. VIT +10,
-30 minute duration.
+^ff0000Account bound^000000
+A stew with a funky smell that looks quite suspicious, but it really does give the feeling of immortality.
+Vit +10 for 30 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12208#
-This well written,
-detailed manual
-explains effective
-battle methods.
-^000088EXP rate increases to^000000
-^000088150% for 30 minutes.^000000
-^ffffff_^000000
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+A manual that explains effective ways to fight. It is very detailed and well composed.
+Exp/job exp rate +50% for 30 min.
+^000088The item effect stacks with that of Job Battle Manual.^000000
+Weight: ^7777770^000000
 #
 12209#
-A life insurance
-certificate issued
-by Kafra Headquarters.
-This item loses its
-effect once the player
-receives its benefit.
-If the character dies
-within 30 minutes
-after using this item,
-there will be no
-EXP loss penalty.
+^ff0000Account bound^000000
+A life insurance certificate issued by Kafra Headquarters.
+Loses its effect once the character receives its benefit.
+^000088If the character dies within 30 minutes after using this item, there will be no EXP loss penalty.^000000
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12210#
-Sweet, tasty bubble
-gum. Item drop rate
-increases by 100%
-for 30 minutes.
-^ffffff_^000000
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+Sweet tasty bubble gum. 
+Item drop rate +100% for 30 min.
+Weight: ^7777770^000000
 #
 12211#
-A Kafra name card
-issued by the Kafra
-Headquarters. Using
-this card will call up
-the Kafra Service.
+^ff0000Account bound^000000
+A card issued by the Kafra Headquarters.
+Allows to open the Kafra storage.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12212#
-An enchanted, giant
-wing from an ancient
-creatures. Enables
-instant teleportation
-of many people when^FFFFFF       ^000000 used by a Party Master.
+^ff0000Account bound^000000
+An enchanted giant wing from an ancient creature.
+Teleport the character to a random spot on the current map.
+If used by a party leader, teleports also all their party members on the current map to the same spot.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12213#
-Pressing the button
-on this stick will
-flash blinding light
-that seems to cause
-memory loss. Resets
-the Skill Tree and
-gives the corresponding^FFFFFF   ^000000 number of Skill Points.
-This item can only be
-used in town, and the
-character must carry
-0 weight, and cannot be^FFFFFF   ^000000 equipped with a Pushcart,
-Falcon, or PecoPeco.
-Cannot be used by
-Novice Class.
+^ff0000Account bound^000000
+A strange flashing stick that seems to erase people's memories.
+Resets the skill tree and gives the corresponding number of skill points.
+Can only be used in towns. The character must carry 0 weight.
+Cannot be used by Novices.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 12214#
-A clean convex
-mirror that can be
-used to detect the
-appearance of Boss
-Monsters. 10 minute
-duration that is canceled^FFFFFF ^000000 when the player leaves
-the map or logs out.
-Lord of the Dead, and
-Boss Monsters in the
-Bio Lab, Ktullanux,
-Memory of Thanatos,
-and some other event
-MVP monsters cannot
-be detected by
-using this item.
+^ff0000Account bound^000000
+A clean convex mirror that can be used to detect Boss monsters.
+Shows the time when a Boss monster appears.
+If a Boss monster is already in game, it shows its location.
+Duration: 10 min. (cancelled if the character goes to another map or logs out)
+Doesn't show the information about Lord of the Dead, Boss monsters from the Bio Lab, and some others.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12215#
-A scroll in which
-a single use of
-Level 10 Blessing
-has been recorded.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
+^ff0000Account bound^000000
+Enables a single cast of Blessing Lv. 10.
+^000088Note! This item won't work if your character is sitting or using skills.^000000
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12216#
-A scroll in which
-a single use of
-Level 10 Increase AGI
-has been recorded.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item consumes
-15 HP and will be
-ineffective if the
-character has fewer
-than 15 HP.
+^ff0000Account bound^000000
+Enables a single cast of Increase Agi Lv. 10.
+^000088Note! This item won't work if your character is sitting or using skills.^000000
+^000088Consumes 15 HP and will be ineffective if the character has less than 15 HP.^000000
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12217#
 A scroll in which
@@ -18612,21 +18441,22 @@ the scroll will be consumed with no effect.
 Weight : ^7777771^000000
 #
 12221#
-A suspicious looking
-piece of machinery
-that allows server
-wide broadcasting.
+^ff0000Account bound^000000
+A trumpet-shaped device that seems to amplify sounds.
+Allows you to broadcast your messages to the whole server.
+^000088Note! A message for broadcast must be entered in 3 min. after the item is used, or the effect is cancelled.^000000
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
+
 //---------rental items
+
 12935#
 A box that contains
 1 Infiltrator. Please
 handle with care.
 ^ffffff_^000000
 Weight : ^7777771^000000
-
 #
 12936#
 A box that contains
@@ -18694,7 +18524,7 @@ Attack Strength: ^777777195^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 12942#
 A box that contains
@@ -18721,7 +18551,7 @@ Weight: ^7777771^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 12944#
@@ -19194,7 +19024,7 @@ Attack Strength: ^777777204^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1267#
 ^000088Rental Item^000000
@@ -19227,7 +19057,7 @@ Weight: ^7777770^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 1728#
@@ -19257,7 +19087,7 @@ Weight: ^7777770^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Merchant, and Thief Classes^000000
+Jobs: ^777777Swordsman, Merchant, and Thief Classes^000000
 #
 13021#
 ^000088Rental Item^000000
@@ -19278,7 +19108,7 @@ Attack Strength: ^777777129^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
+Jobs: ^777777Swordsman, Merchant, Thief Classes; Soul
 Linker and Ninja Jobs^000000
 #
 13022#
@@ -19325,7 +19155,7 @@ Attack Strength: ^777777195^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1563#
 ^000088Rental Item^000000
@@ -19821,17 +19651,16 @@ Cast Time by 20%.
 ^3CB371Permeter Card^000000
 ^3CB371Freezer Card^000000
 ^3CB371Heater Card^000000
-Crusader Card set bonus is	
-INT +1 	
-STR +1	
-DEF +2	
-SP Recovery +10%	
+Crusader Card set bonus is
+INT +1 
+STR +1
+DEF +2
+SP Recovery +10%
 +10% Rapid Smiting and 
-Martyr's Reckoning Damage 	
-Cast Speed +10%	
+Martyr's Reckoning Damage
+Cast Speed +10%
 Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.	
-
+Armor becomes Holy Property.
 Item Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20169,7 +19998,7 @@ Weight: ^7777771^000000
 #
 4402#
 When equipped by
-Swordman, Merchant,
+Swordsman, Merchant,
 and Thief class
 characters, this card
 adds STR +2 and
@@ -20669,41 +20498,29 @@ Warning: After applied, if you do not select any within a minute,
 it will not be effective anymore.
 Weight: ^7777771^000000
 #
-
 14534#
-A small bottle of
-Yggdrasil Tree Sap
-that is effective in
-healing wounds.
-Restores an amount of
-HP equal of 5% of your
-Max HP every 5 seconds^FFFFFF    ^000000 for a 10 minute duration.
+^ff0000Account bound^000000
+A small bottle of Yggdrasil tree sap that is used for healing wounds.
+Restores 5% of max HP every 5 sec.
+Duration: 10 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
-
 14535#
-A sizeable bottle of
-Yggdrasil Tree Sap
-that is effective in
-healing wounds.
-Restores an amount of
-HP equal of 7% of your
-Max HP every 4 seconds^FFFFFF    ^000000 for a 10 minute duration.
+^ff0000Account bound^000000
+A sizeable bottle of Yggdrasil tree sap that is used for healing wounds.
+Restores 7% of max HP every 4 sec.
+Duration: 10 min.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 14536#
-An abrasive that
-adds sharpness to
-a weapon. Increases
-Critical Rate by 30
-for 5 minutes.
+^ff0000Account bound^000000
+An abrasive used for sharpening weapons.
+Crit +30 for 5 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
-
 14537#
 A magic potion made
 with alchemy and magic.^FFFFFF   ^000000 A Rosary is rumored to
@@ -20719,6 +20536,7 @@ Weight: ^7777771^000000
 #
 
 // ---------------- ????? 20070801 -----------------
+
 13738#
 A box that contains
 5 Glasses of Illusion,
@@ -20924,7 +20742,6 @@ for 3 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 13757#
 A box that contains
 50 Big Magic Defense
@@ -20935,15 +20752,14 @@ for 3 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 14538#
-A glass of illusion made from morning dew from an Illusion Flower.
-Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
-Increases your Perfect Dodge by 20 for 1 minute.  Only one may be consumed per 5 minutes.
+^ff0000Account bound^000000
+A potion made from morning dew from an Illusion Flower. Creates an illusion that makes it harder to hit you.
+Perfect dodge +20 for 1 min.
+Cooldown: 5 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
-
 14539#
 A scroll enchanted
 with Shadow Armor
@@ -20956,7 +20772,6 @@ for 30 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 14540#
 A scroll enchanted
 with Holy Armor Magic
@@ -20967,7 +20782,6 @@ a character with Holy^FFFFFF     ^000000 property for 30 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 14541#
 A secret potion made
 using tough dragon
@@ -20978,13 +20792,11 @@ Attacks for 1 minute.
 Weight: ^7777771^000000
 #
 14542#
-A secret potion made
-using tough dragon
-scales. Adds 3% 
-resistance to Physical
-Attacks for 3 minutes.
+^ff0000Account bound^000000
+A potion made from tough dragon scales.
+Physical defense +3% for 3 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 14543#
 A secret potion made
@@ -20996,11 +20808,11 @@ for 1 minute.
 Weight: ^7777771^000000
 #
 14544#
+^ff0000Account bound^000000
 A secret potion made from pixie mustaches.
-Resistance to magic attacks +3% for 3 min.
-If you are incapacitated, the item effect will disappear.
+Magic defense +3% for 3 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 // ---------------- 인도네시아 가벼운 캐쉬 아이템 --------------
@@ -21020,37 +20832,32 @@ A box that contains
 Weight: ^7777771^000000
 #
 13810#
-A box that contains
-25 Slim Blue Potions.
-^ffffff_^000000
+Contains 25 Light Blue Potions.
+^000088Light Blue Potion is account bound.^000000.
 Weight: ^7777771^000000
 #
-
 13811#
 A box that contains^FFFFFF       ^000000 6 kinds of Lv.1 Dishes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 13812#
 A box that contains^FFFFFF       ^000000 6 kinds of Lv.2 Dishes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 13813#
 A box that contains^FFFFFF       ^000000 6 kinds of Lv.3 Dishes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 11502#
-A potion made from
-grinded Blue Herbs that restores about ^00008860 SP^000000.
+^ff0000Account bound^000000
+A potion made from ground blue herbs.
+Restores about ^00008860 SP^000000.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
-
 14551#
 A dish that is easy
 and convenient for
@@ -21221,9 +21028,8 @@ to access its contents.^FFFFFF   ^000000 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 13534#
-A box containing
-50 Slim White Potions.^FFFFFF    ^000000 Double click this item
-to access its contents.^FFFFFF   ^000000 ^FFFFFF_^000000
+Contains 50 Light White Potions.
+^000088Light White Potion is account bound.^000000.
 Weight: ^7777771^000000
 #
 13535#
@@ -21273,7 +21079,7 @@ Remarkably powerful
 medicine that stimulates circulation and amplifies
 quickness. Temporarily
 increases Attack Speed. Required lvl: ^77777785^000000
-Applicable Jobs: ^777777Swordman Class, Merchant Class,
+Applicable Jobs: ^777777Swordsman Class, Merchant Class,
 Rogue, Mage, Wizard^000000
 Weight: ^77777720^000000
 #
@@ -21305,15 +21111,15 @@ effectiveness.
 Weight: ^7777771^000000
 #
 11501#
-A white potion that
-has been condensed
-to reduce its weight
-and increase its
-effectiveness.
+^ff0000Account bound^000000
+A white potion that has been condensed to reduce its weight and increase effectiveness.
+Restores ^000088about 325 HP^000000.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+
 // -------------- 12 Classs of Japanese Headgears -----------------
+
 5294#
 Unknown item
 requiring Appraisal.
@@ -21348,253 +21154,246 @@ requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-
 5287#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-
 5288#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-
 5289#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring appraisal. Can be identified by using a Magnifier.
 #
-
 5290#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-
 5291#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-
 5292#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-
 5293#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
+
 // ------------- 2007 할로윈 축제모자 ---------------
+
 5356#
 Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
+
 //---------- 2007 Remembrance Day -----------------
-7906#							
+
+7906#
 A poppy wreath placed at 
 a location of strong 
 personal meaning to 
 commemorate the memories 
 of events and people 
 that have shaped 
-your life.							
-^ffffff_^000000							
+your life.
+^ffffff_^000000
 #
-// -------- 2007 일본 연말 캐쉬아이템 ----------					
-5380#					
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
-using a Magnifier.					
-#					
-					
-5381#					
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
-using a Magnifier.					
-#					
-					
-5382#					
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
-using a Magnifier.					
-#					
-					
-13902#					
-A box that contains					
-1 Fish Head Hat,					
-a gaping fish head					
-fashioned into a hat.					
-A nasty stench is					
-released whenever					
-it opens its mouth.					
-Adds a low chance					
-of automatically					
-casting Lv.1 Endow					
-Tsunami with each					
-physical attack.					
-Class: ^777777Helmet^000000					
-Defense: ^7777771^000000					
-Head Position: ^777777Upper^000000					
-Weight: ^77777740^000000					
-Jobs: ^777777All^000000					
-^ffffff_^000000					
-Weight: ^7777771^000000					
-#					
-					
-13903#					
-A box that contains					
-1 Santa Poring Hat,					
-a cute hat made					
-from a hopping Poring					
-wearing a Santa's Hat.					
-Adds 3% additional					
-Darkness property					
-damage to monsters,					
-and reduces Darkness					
-property attacks from					
-enemies by 3%.					
-MDEF +2. Cannot					
-be upgraded.					
-Class: ^777777Helmet^000000					
-Defense: ^7777772^000000					
-Head Position: ^777777Upper^000000					
-Weight: ^77777710^000000					
-Jobs: ^777777All^000000					
-^ffffff_^000000					
-Weight: ^7777771^000000					
-#					
-					
-13904#					
-A box that contains					
-1 Bell Ribbon, a cute					
-ribbon adorned with					
-jingling bells.					
-Enables use of					
-Lv.1 Angelus. VIT +1.					
-Class: ^777777Helmet^000000    Defense: ^7777773^000000					
-Head Position: ^777777Upper^000000    Weight: ^77777720^000000					
-Jobs: ^777777All^000000					
-^ffffff_^000000					
-Weight: ^7777771^000000					
-#					
-591#		
-A pancake topped		
-with caviar. Average		
-people have trouble		
-telling the difference		
-between fine caviar		
-and common frog		
-spawn eggs. ^000088Cures		
-all abnormal statuses^000000,		
-^000088recovers HP and SP^000000.		
-^ffffff_^000000		
-Weight: ^77777715^000000		
-#		
-		
-592#		
-A pancake topped		
-with strawberry jam.		
-This looks much more		
-delicious than plain		
-strawberries alone.		
-^000088Cures all abnormal		
-statuses^000000, ^000088recovers		
-HP and SP^000000.		
-^ffffff_^000000		
-Weight: ^77777715^000000		
-#		
-		
-593#		
-A very sweet pancake		
-topped with honey.		
-^000088Cures all abnormal		
-statuses^000000, ^000088recovers		
-HP and SP^000000.		
-^ffffff_^000000		
-Weight: ^77777715^000000		
-#		
-		
-594#		
-A pancake in which		
-sour cream is one of		
-the main ingredients.		
-Biting into just once		
-will make your eyes		
-water. ^000088Cures all		
-abnormal statuses^000000,		
-^000088recovers HP and SP^000000.		
-^ffffff_^000000		
-Weight: ^77777715^000000		
-#		
-		
-595#		
-A pancake made		
-with mushrooms that		
-has a light taste that		
-everyone seems to		
-like. ^000088Cures all		
-abnormal statuses^000088,		
-^000088recovers HP and SP^000000.		
-^ffffff_^000000		
-Weight: ^77777715^000000		
-#		
-// ----- 크리스마스 이벤트 산타 수염 --------			
-7908#			
-A hairstyling coupon			
-that can be redeemed			
-for a one time free			
-hairstyle change			
-service from Artist			
-Louise during the			
-event period.			
-^ffffff_^000000			
-Weight: ^7777771^000000			
-#			
-			
-7909#			
-A cookie that was			
-stolen from the			
-factory in Lutie.			
-^ffffff_^000000			
-Weight: ^7777771^000000			
-#			
-			
-7910#			
-A candy that was			
-stolen from the			
-factory in Lutie.			
-^ffffff_^000000			
-Weight: ^7777771^000000			
-#			
-			
-7911#			
-Yulia claims that			
-this hat was stolen			
-from her by a strange,			
-suspicious man in the			
-middle of the night.			
-^ffffff_^000000			
-Weight: ^7777771^000000			
-#			
-12702#					
+
+// -------- 2007 일본 연말 캐쉬아이템 ----------
+
+5380#
+Unknown item
+requiring Appraisal.
+Can be identified by
+using a Magnifier.
+#
+5381#
+Unknown item
+requiring Appraisal.
+Can be identified by
+using a Magnifier.
+#
+5382#
+Unknown item
+requiring Appraisal.
+Can be identified by
+using a Magnifier.
+#
+13902#
+A box that contains
+1 Fish Head Hat,
+a gaping fish head
+fashioned into a hat.
+A nasty stench is
+released whenever
+it opens its mouth.
+Adds a low chance
+of automatically
+casting Lv.1 Endow
+Tsunami with each
+physical attack.
+Class: ^777777Helmet^000000
+Defense: ^7777771^000000
+Head Position: ^777777Upper^000000
+Weight: ^77777740^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+13903#
+A box that contains
+1 Santa Poring Hat,
+a cute hat made
+from a hopping Poring
+wearing a Santa's Hat.
+Adds 3% additional
+Darkness property
+damage to monsters,
+and reduces Darkness
+property attacks from
+enemies by 3%.
+MDEF +2. Cannot
+be upgraded.
+Class: ^777777Helmet^000000
+Defense: ^7777772^000000
+Head Position: ^777777Upper^000000
+Weight: ^77777710^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+13904#
+A box that contains
+1 Bell Ribbon, a cute
+ribbon adorned with
+jingling bells.
+Enables use of
+Lv.1 Angelus. VIT +1.
+Class: ^777777Helmet^000000    Defense: ^7777773^000000
+Head Position: ^777777Upper^000000    Weight: ^77777720^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+591#
+A pancake topped
+with caviar. Average
+people have trouble
+telling the difference
+between fine caviar
+and common frog
+spawn eggs. ^000088Cures
+all abnormal statuses^000000,
+^000088recovers HP and SP^000000.
+^ffffff_^000000
+Weight: ^77777715^000000
+#
+
+592#
+A pancake topped
+with strawberry jam.
+This looks much more
+delicious than plain
+strawberries alone.
+^000088Cures all abnormal
+statuses^000000, ^000088recovers
+HP and SP^000000.
+^ffffff_^000000
+Weight: ^77777715^000000
+#
+
+593#
+A very sweet pancake
+topped with honey.
+^000088Cures all abnormal
+statuses^000000, ^000088recovers
+HP and SP^000000.
+^ffffff_^000000
+Weight: ^77777715^000000
+#
+
+594#
+A pancake in which
+sour cream is one of
+the main ingredients.
+Biting into just once
+will make your eyes
+water. ^000088Cures all
+abnormal statuses^000000,
+^000088recovers HP and SP^000000.
+^ffffff_^000000
+Weight: ^77777715^000000
+#
+
+595#
+A pancake made
+with mushrooms that
+has a light taste that
+everyone seems to
+like. ^000088Cures all
+abnormal statuses^000088,
+^000088recovers HP and SP^000000.
+^ffffff_^000000
+Weight: ^77777715^000000
+#
+// ----- 크리스마스 이벤트 산타 수염 --------
+7908#
+A hairstyling coupon
+that can be redeemed
+for a one time free
+hairstyle change
+service from Artist
+Louise during the
+event period.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+7909#
+A cookie that was
+stolen from the
+factory in Lutie.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+7910#
+A candy that was
+stolen from the
+factory in Lutie.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+7911#
+Yulia claims that
+this hat was stolen
+from her by a strange,
+suspicious man in the
+middle of the night.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12702#
 A mysterious blue box 
 whose appearance resembles 
 Old Blue Box.
@@ -21606,103 +21405,103 @@ Weight: ^77777720^000000
 #
 //-------- 2008 USA Jan event -------
 
-7912#							
+7912#
 A machine that holds 
 the Essence of Cold, made 
-by the scientist Willis in Morroc.							
+by the scientist Willis in Morroc.
 It can holds a Snowman 
 and protects it from heat 
 while the Snowman is 
-outside of the machine.							
-Weight : ^7777770^000000							
-#							
+outside of the machine.
+Weight : ^7777770^000000
+#
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- 대만 펫 추가 ------------------						
-9038#						
-An egg in which the						
-New Year Doll Cute						
-Pet is sleeping. You						
-can wake it up with						
-a [Portable Incubator.]^FFFFFF   ^000000 Class: ^777777Pet Egg^000000						
-#						
-7869#						
-A sack that						
-contains rice.						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-#						
-554#						
-A tasty rice cake						
-made for celebrating						
-the Lunar New Year.						
+// ----------- 대만 펫 추가 ------------------
+9038#
+An egg in which the
+New Year Doll Cute
+Pet is sleeping. You
+can wake it up with
+a [Portable Incubator.]^FFFFFF   ^000000 Class: ^777777Pet Egg^000000
+#
+7869#
+A sack that
+contains rice.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+554#
+A tasty rice cake
+made for celebrating
+the Lunar New Year.
 Class: ^777777Food^000000
-Weight: ^7777778^000000						
-#						
-663#						
-This is a popular						
-food in traditional						
-Korean festivals.						
-It's made by filling						
-a woven straw, cone						
-shaped container with						
-rice, and then pine						
-needles are used to						
-cover it. Restore						
-10% of Max HP.						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-#						
-668#						
-A small red packet,						
-seemingly containing						
-some exciting gift,						
-that is given by						
-adults to children.						
-^ffffff_^000000						
-Weight: ^7777772^000000						
-#						
-7770#						
-Steamed glutinous						
+Weight: ^7777778^000000
+#
+663#
+This is a popular
+food in traditional
+Korean festivals.
+It's made by filling
+a woven straw, cone
+shaped container with
+rice, and then pine
+needles are used to
+cover it. Restore
+10% of Max HP.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+668#
+A small red packet,
+seemingly containing
+some exciting gift,
+that is given by
+adults to children.
+^ffffff_^000000
+Weight: ^7777772^000000
+#
+7770#
+Steamed glutinous
 rice that is used 
-to make dumplings.						
-Weight: ^7777771^000000						
-Weight: ^7777771^000000						
-#						
-12195#						
-Delicious cookies						
-whose taste contains						
-just a bit of liquor.						
-^000088Restores a small						
-amount of SP.^000000						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-#						
-12196#						
-A white Rice Cake						
-that makes you feel						
-full once you eat it.						
-^000088Restores a small						
-amount of HP.^000000						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-#						
-12197#						
-A salty Rice Cake.						
-^000088Restores a small						
-amount of HP and SP.^000000						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-#						
-12198#						
-A Rice Cake that						
-is flavored with						
-a hint of Vanilla.						
-LUK +21.						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-#						
-//============2008 미국 세인트패트릭 이벤트 아이템============					
-12715#					
+to make dumplings.
+Weight: ^7777771^000000
+Weight: ^7777771^000000
+#
+12195#
+Delicious cookies
+whose taste contains
+just a bit of liquor.
+^000088Restores a small
+amount of SP.^000000
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+12196#
+A white Rice Cake
+that makes you feel
+full once you eat it.
+^000088Restores a small
+amount of HP.^000000
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+12197#
+A salty Rice Cake.
+^000088Restores a small
+amount of HP and SP.^000000
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+12198#
+A Rice Cake that
+is flavored with
+a hint of Vanilla.
+LUK +21.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+//============2008 미국 세인트패트릭 이벤트 아이템============
+12715#
 [This item will be removed
 
 from the game 1 week 
@@ -21715,11 +21514,11 @@ contain something
 
 extremely valuable. 
 
-Let's see whats inside.					
-^ffffff_^000000					
-Weight: ^7777770^000000					
-#					
-7915#					
+Let's see whats inside.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+7915#
 A bronze coin forged by the leprechauns.
 Leprechauns consider these coins as the least valuable in their monetary system.
 ^ffffff_^000000
@@ -21742,7 +21541,7 @@ A box filled with treasure that only a leprechaun can open.
 Somehow this box is easily stolen by snakes.
 ^ffffff_^000000
 Weight: ^7777770^000000
-#					
+#
 // ---------------------- 용병소환서 -------------------------------
 
 12153#
@@ -22650,7 +22449,6 @@ that is usually kept^FFFFFF     ^000000 safe in Prontera Library.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-
 7725#
 A strangely shaped
 emerald that brings
@@ -22660,7 +22458,6 @@ whomever holds it.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-
 7726#
 The perfectly
 crafted, intricate,
@@ -22671,13 +22468,12 @@ Weight: ^7777770^000000
 #
 
 // ----------------- 20070808 신규Card 34종 -----------------
+
 4408#
-Increases Physical
-damage to Holy,
-Shadow, Angel, and
-Demon monsters by 40%.
-Item Class: ^777777Card^000000
-Slot: ^777777Armor^000000
+Physical damage to Angel and Demon monsters +40%
+Physical damage to Holy and Shadow monsters +40%
+Class: ^777777Card^000000
+Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4409#
@@ -22692,7 +22488,7 @@ Weight: ^7777771^000000
 4410#
 ATK +15 and Max
 HP +500 if wearer
-is a Swordman
+is a Swordsman
 Class character.
 Item Class: ^777777Card^000000
 Slot: ^777777Armor^000000
@@ -22802,11 +22598,9 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4421#
-CRI +15 bonus when
-performing long range
-physical attacks.
-Item Class: ^777777Card^000000
-Slot: ^777777Weapon^000000
+Crit +15 upon a long-ranged physical attack
+Class: ^777777Card^000000
+Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4422#
@@ -23020,7 +22814,7 @@ Angel monsters by 50%.
 Item Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
-#						
+#
 //---------------- 2008 Easter ----------------------------
 7605#
 An egg that was
@@ -23046,10 +22840,10 @@ This item cannot be dropped, traded, mailed or vended.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------- 미국 이벤트 아이템 ----------------				
+// -------- 미국 이벤트 아이템 ----------------
 6025#
-A towel that helps you remember those that have passed on.				
-^ffffff_^000000				
+A towel that helps you remember those that have passed on.
+^ffffff_^000000
 Weight: ^7777770^000000
 #
 // -------- 초보자존 아이템 -----------
@@ -23090,7 +22884,7 @@ Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
 Jobs: ^777777Novice,
-Swordman, Merchant
+Swordsman, Merchant
 and Thief Classes^000000
 #
 
@@ -23116,7 +22910,7 @@ Attack Strength: ^77777730^000000
 Weight: ^77777750^000000
 Weapon Level: ^7777771^000000
 Required Level: ^777777NA^000000
-Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 
@@ -23128,7 +22922,7 @@ Attack Strength: ^77777743^000000
 Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^777777NA^000000
-Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 
@@ -23143,7 +22937,7 @@ Weight: ^77777780^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777772^000000
 Jobs: ^777777Novice,
-Swordman, Acolyte,
+Swordsman, Acolyte,
 and Merchant Classes^000000
 #
 
@@ -23169,7 +22963,7 @@ Attack Strength: ^77777780^000000
 Weight: ^777777150^000000
 Weapon Level: ^7777771^000000
 Required Level: ^7777773^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 // -------- Stonecutter Event -----------
@@ -23291,11 +23085,13 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // --------- 태국 모자 아이템 -------------
+
 5387#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // -------------- 2008 일본 아이템 제 2탄 -----------------
+
 5401#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23313,6 +23109,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // --------------- 필리판 자체제작 Headgear 7종 -------------
+
 5372#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23428,6 +23225,7 @@ Weight : ^77777710^000000
 #
 
 // ---------- 필리핀 4월 박스 패키지 ----------------
+
 13994#
 A box containing 5 Speed Potions.
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
@@ -23442,25 +23240,38 @@ Weight : ^7777771^000000
 #
 
 // ------- Clothing Dye Coupon ----------
+
 6046#
-If you give this coupon to the NPC, she will dye your costume.
-Weight : ^7777770^000000
+^ff0000Account bound^000000
+Used for dyeing your clothes.
+Weight: ^7777770^000000
 #
 14289#
-A box that contains 1 coupon to dye your clothes to a new color.
-This item is not refundable.
-Weight : ^7777771^000000
+Contains 1 Clothing Dye Coupon.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Clothing Dye Coupon]
+^ff0000Account bound^000000
+Used for dyeing your clothes.
+Weight: ^7777770^000000
 #
 6047#
-If you give this coupon to the NPC, she will dye your costume to its original color.
-Weight : ^7777770^000000
+^ff0000Account bound^000000
+Used for re-dyeing your clothes to their original color.
+Weight: ^7777770^000000
 #
 14290#
-A box that contains 1 coupon to dye your clothes to the original color.
+Contains 1 Dye Removal Coupon.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+[Dye Removal Coupon]
+^ff0000Account bound^000000
+Used for re-dyeing your clothes to their original color.
+Weight: ^7777770^000000
 #
+
 // -------- 미국 이벤트 아이템 ----------------
+
 2776#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23641,7 +23452,7 @@ Weight: ^7777770^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 
 13402#
@@ -23659,7 +23470,7 @@ Attack Strength: ^777777185^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -23677,7 +23488,7 @@ Attack Strength: ^77777785^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 
@@ -23711,7 +23522,7 @@ Weight: ^7777770^000000
 Property: ^777777Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -23728,10 +23539,9 @@ Weight: ^7777770^000000
 Property: ^777777Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
-
 1729#
 ^000088Rental Item^000000
 A bow imbued with the
@@ -23750,24 +23560,18 @@ Required Level: ^7777771^000000
 Jobs: ^777777Archer Class;
 Rogue Job^000000
 #
-
 2741#
-^000088Rental Item^000000
-A Jewelry Ring
-that contains a
-3 Seal Magic Spell.
-Enables use of Level 1 Heal 
-and Level 1 Teleport.
-Casting cannot be interrupted.
-All Stats +1.
-Increases casting time by 10%.
-This item cannot be Dropped or Traded.
-Item Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All^000000
+^ff0000Account bound^000000
+A valuable ring that contains three magical essences.
+Enables Level 1 Heal and Level 1 Teleport
+Casting cannot be interrupted
+All stats +1
+Casting time +10%
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
-
 5280#
 ^000088Rental Item^000000
 A headgear made from the horns of Baphomet.
@@ -23799,7 +23603,7 @@ Weight: ^7777771^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 
 13509#
@@ -23820,7 +23624,7 @@ Attack Strength: ^777777185^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -23841,7 +23645,7 @@ Attack Strength: ^77777785^000000
 Weight: ^77777771^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 
@@ -23881,7 +23685,7 @@ Weight: ^7777771^000000
 Property: ^777777Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -23901,7 +23705,7 @@ Weight: ^7777771^000000
 Property: ^777777Wind^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 
@@ -23950,30 +23754,26 @@ Attack Strength: ^777777129^000000
 Weight: ^7777771^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
+Jobs: ^777777Swordsman, Merchant, Thief Classes; Soul
 Linker and Ninja Jobs^000000
 #
-
 13953#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 All In One Ring^000000
-Duration: 7 Days after opening.
-A Jewelry Ring
-that contains a
-3 Seal Magic Spell.
-Enables use of Level 1 Heal 
-and Level 1 Teleport.
-Casting cannot be interrupted.
-All Stats +1.
-Increases casting time by 10%.
-This item cannot be Dropped or Traded.
-Item Class: ^777777Accessory^000000
-Defense: ^7777771^000000
+^000088Rental item^000000
+Contains 1 All-in-One Ring (7 d.).
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All^000000
+^ffffff_^000000
+[All-in-One Ring]
+^ff0000Account bound^000000
+A valuable ring that contains three magical essences.
+Enables Level 1 Heal and Level 1 Teleport
+Casting cannot be interrupted
+All stats +1
+Casting time +10%
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
-
 13503#
 A box that contains:
 ^000088Rental Item^000000
@@ -24001,7 +23801,7 @@ Weapon Class: ^777777Dagger^000000    Attack Strength: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice,Swordman,Mage,Archer,Merchant,Thief Classes,Soul Linker,and Ninja^000000
+Jobs: ^777777Novice,Swordsman,Mage,Archer,Merchant,Thief Classes,Soul Linker,and Ninja^000000
 #
 13037#
 A dagger especially used for assassinations such as killing Demihumans.
@@ -24014,7 +23814,7 @@ Weapon Class: ^777777Dagger^000000    Attack Strength: ^777777120^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice,Swordman,Mage,Archer,Merchant,Thief Classes,Soul Linker,and Ninja^000000
+Jobs: ^777777Novice,Swordsman,Mage,Archer,Merchant,Thief Classes,Soul Linker,and Ninja^000000
 #
 13410#
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
@@ -24026,7 +23826,7 @@ Weapon Class: ^777777One Handed Sword^000000      Attack Strength: ^777777115^00
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice,Swordman,Merchant,Thief Classes,and Ninja^000000
+Jobs: ^777777Novice,Swordsman,Merchant,Thief Classes,and Ninja^000000
 #
 13411#
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
@@ -24038,7 +23838,7 @@ Weapon Class: ^777777One Handed Sword^000000      Attack Strength: ^777777115^00
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice,Swordman,Merchant,Thief Classes,and Ninja^000000
+Jobs: ^777777Novice,Swordsman,Merchant,Thief Classes,and Ninja^000000
 #
 1425#
 A special spear made for charging at the enemy´s position. It is especially designed for battles against Demihumans.
@@ -24051,7 +23851,7 @@ Weapon Class: ^777777Spear^000000    Attack Strength: ^77777760^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1632#
 A Rod that has been modified for brave magicians who face enemies in battle.
@@ -24116,7 +23916,7 @@ Weapon Class: ^777777Mace^000000    Attack Strength: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice,Swordman,Merchant,Acolyte^000000
+Jobs: ^777777Novice,Swordsman,Merchant,Acolyte^000000
 #
 1543#
 A deadly mace that is usually worn by the best fighter; it seems to be capable of damaging through an enemy's armor.
@@ -24129,7 +23929,7 @@ Weapon Class: ^777777Mace^000000    Attack Strength: ^777777105^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Novice,Swordman,Merchant,Acolyte^000000
+Jobs: ^777777Novice,Swordsman,Merchant,Acolyte^000000
 #
 1923#
 A guitar which was created to encourage armies amidst battle.  
@@ -24241,7 +24041,7 @@ Weapon Class: ^777777Two-handed Sword^000000  Attack Strength: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1184#
 A Two-handed Sword made to rush at the enemy´s position, especially designed for battles against Demihumans.
@@ -24253,7 +24053,7 @@ Weapon Class: ^777777Two-handed Sword^000000  Attack Strength: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1482#
 A Two-handed Sword made to rush at the enemy´s position, especially designed for battles against Demihumans.
@@ -24265,7 +24065,7 @@ Weapon Class: ^777777Two Handed Spear^000000      Attack Strength: ^777777160^00
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 1379#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
@@ -24277,7 +24077,7 @@ Weapon Class: ^777777Axe^000000    Attack Strength: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman,Merchant^000000
+Jobs: ^777777Swordsman,Merchant^000000
 #
 1380#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
@@ -24289,7 +24089,7 @@ Weapon Class: ^777777Axe^000000    Attack Strength: ^777777200^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman,Merchant^000000
+Jobs: ^777777Swordsman,Merchant^000000
 #
 13305#
 Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
@@ -24461,7 +24261,7 @@ MHP + 100. MDEF + 1.
 Weapon Class: ^777777Shoes^000000    Defense : ^7777774^000000
 Weight: ^7777770^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes(Ninja), Taekwon Master^000000
+Jobs: ^777777Swordsman, Merchant, Thief Classes(Ninja), Taekwon Master^000000
 #
 2436#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
@@ -24487,7 +24287,7 @@ When the wearer receives physical damage, it restores 6000 HP for a 10 sec. dura
 Weapon Class: ^777777Armor^000000    Defense : ^7777777^000000
 Weight: ^7777770^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Swordman,Merchant,Taekwon Boy/Girl,Taekwon Master^000000
+Jobs: ^777777Swordsman,Merchant,Taekwon Boy/Girl,Taekwon Master^000000
 #
 2377#
 Designed to be used by outstanding warriors who have remarkable attack skills. It gives off multiple effects when compounded as a set.
@@ -24627,7 +24427,7 @@ Weapon Class: ^777777Sword^000000      Attack Strength: ^777777150^000000
 Weight: ^777777150^000000      Property: ^777777Water^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
-Jobs: ^777777Transcendent Swordman,Merchant,Thief Classes^000000
+Jobs: ^777777Transcendent Swordsman,Merchant,Thief Classes^000000
 #
 13413#
 One of the twin swords of Naght Sieger. The red blade shows the destructive power of this sword.
@@ -24637,7 +24437,7 @@ Weapon Class: ^777777Sword^000000      Attack Strength: ^777777160^000000
 Weight: ^777777150^000000      Property: ^777777Fire^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
-Jobs: ^777777Transcendent Swordman,Merchant,Thief Classes^000000
+Jobs: ^777777Transcendent Swordsman,Merchant,Thief Classes^000000
 #
 1636#
 A staff which is covered with thorns, containing strong meanings of sorcery.
@@ -24658,7 +24458,7 @@ Weapon Class: ^777777Two-handed Sword^000000  Attack Strength: ^777777275^000000
 Weight: ^777777220^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
-Jobs: ^777777Transcendent Swordman Class^000000
+Jobs: ^777777Transcendent Swordsman Class^000000
 #
 2542#
 A Manteau of Flame that Naght Sieger wore.
@@ -24758,7 +24558,7 @@ Increases additional 5% of tolerance for Stun and Stone.
 When equipped with Diabolus Ring, ATK + 3%, MATK + 3%.
 Weapon Class: ^777777Armor^000000    Defense : ^7777777^000000
 Weight: ^77777760^000000
-Jobs: ^777777Transcendent Swordman,Merchant,Thief^000000
+Jobs: ^777777Transcendent Swordsman,Merchant,Thief^000000
 #
 2433#
 Mysterious boots that automatically adjust their size to the wearer's size. They seem alive.
@@ -24770,165 +24570,165 @@ Jobs: ^777777Above Transcendent 2-1 Classes^000000
 
 // ---------- 할짝 테스트 -----------
 2129#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2130#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2131#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2716#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2717#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2718#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2719#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2720#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2721#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2722#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2723#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2724#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2725#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2726#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 2727#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1629#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1630#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1631#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1181#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1182#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1736#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1737#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1541#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 13034#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 13035#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1572#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 1573#
-Unknown item					
-requiring Appraisal.					
-Can be identified by					
+Unknown item
+requiring Appraisal.
+Can be identified by
 using a Magnifier.
 #
 
@@ -25368,7 +25168,7 @@ Weight : ^7777770^000000
 Shoes which are solidly made and heavy.
 Item Class: ^777777Shoes^^000000
 Defense : ^7777775^000000      Weight : ^777777150^000000
-Jobs: ^777777Swordman,Merchant,Thief Classes,Archer^000000
+Jobs: ^777777Swordsman,Merchant,Thief Classes,Archer^000000
 #
 
 2430#
@@ -25400,7 +25200,7 @@ Contains:
 5x Rachel Town Butterfly Wing, 
 5x Schwartzwalt Town Butterfly Wing,
 5x Rune-Midgard Town Butterfly Wing, and
-12x Small Life Potions.  						
+12x Small Life Potions.  
 
 Cannot be dropped or placed in Cart.
 Weight: ^7777771^000000
@@ -25463,14 +25263,12 @@ placeholder
 14144#
 placeholder
 #
-
 14529#
+^ff0000Account bound^000000
 Enables a single cast of ^880000Greed^000000.
-
-Cannot be traded or dropped.
+Cannot be used in towns and on the ^ff0000PvP Arena^000000.
 Weight: ^7777771^000000
 #
-
 12299#
 Adds 10% resistance to the status effects of:
 ^000000Stun^000000
@@ -25483,7 +25281,6 @@ Adds 10% resistance to the status effects of:
 ^000000Sleep^000000
 ^000000Bleeding^000000
 ^000000Confusion^000000
-
 Cannot be traded or dropped.
 Weight: ^7777771^000000
 #
@@ -25890,95 +25687,93 @@ Please send it to your girl to show your love.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-
 7947#
 Please send it to your guy to show your love.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-
 5817#
 Unknown Item, can be identified by [Magnifier].
 #
 
-// ----------- 포링대전 보상품 아이템 ------------01/07/09		
-2765#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-			
-2766#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-			
-2767#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-			
-2768#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-			
-2769#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-			
-2770#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-			
-2771#			
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
-#			
-// ----------- 상품 아이템 ---------------				
-12109#				
-A wrapped box stamped^FFFFFF    ^000000 with the Poring seal. You				
-can faintly hear rustling coming from inside of it.				
-^FFFFFF ^000000				
-Weight: ^77777720^000000				
-#				
-				
-// ---------------- 포링코인 -----------------				
-7539#				
-A small coin with a monster Poring engraved in it.				
-#				
-				
-// ------------- 전투휘장 ---------------				
-7773#				
-A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.				
-^ffffff_^000000				
-#				
-				
-// -------------- 몬스터레이싱 -----------------				
-7515#				
-A medal crafted from a rare and mysterious metal that can only be found in Hugel.				
-These medals cannot be traded or given to other players.				
-^ffffff_^000000				
-#				
-	
-// 2009-02-16 미국 보병궁 쌍어궁 추가		
-5512#		
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.	
-#		
-5513#		
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
-#		
-5514#		
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
-#		
-5515#		
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
+// ----------- 포링대전 보상품 아이템 ------------01/07/09
+
+2765#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+2766#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+2767#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+2768#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+2769#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+2770#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+2771#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+
+// ----------- 상품 아이템 ---------------
+
+12109#
+A wrapped box stamped^FFFFFF    ^000000 with the Poring seal. You can faintly hear rustling coming from inside of it.
+^FFFFFF ^000000
+Weight: ^77777720^000000
+#
+
+// ---------------- 포링코인 -----------------
+
+7539#
+A small coin with a monster Poring engraved in it.
+#
+
+// ------------- 전투휘장 ---------------
+
+7773#
+A badge indicating that the wearer is currently participated in the war. It was taken off from a failure of the battle.
+^ffffff_^000000
+#
+
+// -------------- 몬스터레이싱 -----------------
+
+7515#
+A medal crafted from a rare and mysterious metal that can only be found in Hugel.
+These medals cannot be traded or given to other players.
+^ffffff_^000000
+#
+
+// 2009-02-16 미국 보병궁 쌍어궁 추가
+
+5512#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+5513#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+5514#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+#
+5515#
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5545#
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5546#
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5549#
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5550#
-Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5569#
 Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
@@ -26020,17 +25815,17 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 A box that contains an Aquarius Diadem Headgear.
 ^ffffff_^000000
 Weight : ^7777771^000000
-#			
+#
 14496#
 A box that contains an Aquarius Crown Headgaer.
 ^ffffff_^000000
 Weight : ^7777771^000000
-#			
+#
 14497#
 A box that contains a Pisces Diadem Headgear.
 ^ffffff_^000000
 Weight : ^7777771^000000
-#			
+#
 14498#
 A box that contains a Pisces Crown Headgear.
 ^ffffff_^000000
@@ -26279,25 +26074,25 @@ The map on the 2nd page of the flyer looks like the shop would be north of the g
 Weight : ^7777771^000000
 #
 
-12310#		
-a branch of cherry blossom Tree with full-blown cherry blossoms. It feels like your body lightens with rich scent of a flower when you wave it.		
-Increases Flee by 10 points for 5 minutes		
-^ffffff_^000000		
-Weight : ^7777775^000000		
-#		
-		
-12311#		
-Made bigger and be more splendid with many spray of flowers put together. Doubled Scent! Doubled Elegance!		
-Increases Flee of the party memebers by 10 for 5 minutes. If not in a party, it will have no effect.		
-^ffffff_^000000		
-Weight : ^77777710^000000		
-#		
-		
-6009#		
-Magical Fan that can stir up a strong wind. Let's try it under the cherry blossom tree.		
-^ffffff_^000000		
-Weight : ^7777770^000000		
-#		
+12310#
+a branch of cherry blossom Tree with full-blown cherry blossoms. It feels like your body lightens with rich scent of a flower when you wave it.
+Increases Flee by 10 points for 5 minutes
+^ffffff_^000000
+Weight : ^7777775^000000
+#
+
+12311#
+Made bigger and be more splendid with many spray of flowers put together. Doubled Scent! Doubled Elegance!
+Increases Flee of the party memebers by 10 for 5 minutes. If not in a party, it will have no effect.
+^ffffff_^000000
+Weight : ^77777710^000000
+#
+
+6009#
+Magical Fan that can stir up a strong wind. Let's try it under the cherry blossom tree.
+^ffffff_^000000
+Weight : ^7777770^000000
+#
 
 
 //=============================Ep13========================================
@@ -26694,7 +26489,7 @@ Class : ^777777Dagger^000000    Attack : ^777777120^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Wizard Class/Archer Class/Merchant Class/Thief Class/Ninja Jobs^000000
+Jobs : ^777777Novice Class/Swordsman Class/Wizard Class/Archer Class/Merchant Class/Thief Class/Ninja Jobs^000000
 #
 
 13416#
@@ -26713,7 +26508,7 @@ Class : ^777777One Handed Sword^000000      Attack : ^777777130^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Merchant Class/Thief Class Jobs^000000
+Jobs : ^777777Novice Class/Swordsman Class/Merchant Class/Thief Class Jobs^000000
 #
 
 13417#
@@ -26730,7 +26525,7 @@ Class : ^777777One Handed Sword^000000      Attack : ^777777130^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Merchant Class/Theif Class Jobs^000000
+Jobs : ^777777Novice Class/Swordsman Class/Merchant Class/Theif Class Jobs^000000
 #
 
 13418#
@@ -26748,7 +26543,7 @@ Class : ^777777One-Handed Sword^000000      Attack : ^777777130^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Swordman Class/Merchant Class Jobs^000000
+Jobs : ^777777Swordsman Class/Merchant Class Jobs^000000
 #
 
 1187#
@@ -26767,7 +26562,7 @@ Class : ^777777Two-Handed Sword^000000   Attack : ^777777220^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Swordman Class Jobs^000000
+Jobs : ^777777Swordsman Class Jobs^000000
 #
 
 1426#
@@ -26787,7 +26582,7 @@ Class : ^777777One-Handed Spear^000000      Attack : ^777777130^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Swordman Class Jobs^000000
+Jobs : ^777777Swordsman Class Jobs^000000
 #
 
 1486#
@@ -26805,7 +26600,7 @@ Class : ^777777Two Handed Spear^000000      Attack : ^777777220^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Swordman Class Jobs^000000
+Jobs : ^777777Swordsman Class Jobs^000000
 #
 
 2002#
@@ -26882,7 +26677,7 @@ Class : ^777777Mace^000000    Attack : ^777777130^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Novice Class/Swordman Class/Acolyte Class/Merchant Class Jobs^000000
+Jobs : ^777777Novice Class/Swordsman Class/Acolyte Class/Merchant Class Jobs^000000
 #
 
 1382#
@@ -26922,7 +26717,7 @@ Class : ^777777One Handed Axe^000000    Attack : ^777777130^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777780^000000
-Jobs : ^777777Swordman Class/Merchant Class Jobs^000000
+Jobs : ^777777Swordsman Class/Merchant Class Jobs^000000
 #
 
 13307#
@@ -27317,35 +27112,41 @@ Weight : ^7777771^000000
 #
 
 // --------- Guild Dungeon Event Item ---------------
+
 6010#
 A hoe. It's a gardening tool, but be careful! This could also be used as a fearful weapon.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 5574#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
-
 5579#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
-
 5564#
 Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
 #
-
 16246#
 A box containing one Crown of Deceit
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 12411#
-Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+^ff0000Account bound^000000
+This well written, detailed manual explains the most efficient battle methods.
+Exp rate +100% for 15 min.
+^000088Replaces the effect of a Battle Manual.^000000
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 12412#
-Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+^ff0000Account bound^000000
+A High Efficiency bubble gum that packs double the punch.
+Item drop rate +200% for 15 min.
+^0000ffReplaces the effect of a common Bubble Gum.^000000
+^ffffff_^000000
+Weight: ^7777770^000000
 #
 16267#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
@@ -27365,12 +27166,14 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 13998#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
-
 5253#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 7622#
-Unknown item requiring Appraisal. Can be identified by using a Magnifier.
+^ff0000Account bound^000000
+Used for changing hairstyle. Absolutely necessary if you want to be different from others!
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 5191#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
@@ -27424,7 +27227,7 @@ but increases damage received by Demihuman monsters by 10%.
 Weapon Class : ^777777Two-handed Sword^000000  Attack Strength : ^777777190^000000
 Weight : ^7777770^000000     Property : ^777777Shadow^000000
 Weapon Level : ^7777774^000000
-Jobs : ^777777Swordman Class^000000
+Jobs : ^777777Swordsman Class^000000
 #
 1314#
 ^000088Rental Item^000000
@@ -27433,7 +27236,7 @@ Enables use of ^008800Tomahawk Throwing^000000.
 Weapon Class : ^777777Axe^000000    Attack Strength : ^777777200^000000
 Weight : ^7777770^000000     Property : ^777777Wind^000000
 Weapon Level : ^7777774^000000
-Jobs : ^777777Swordman and Merchant Classes^000000
+Jobs : ^777777Swordsman and Merchant Classes^000000
 #
 1315#
 ^000088Rental Item^000000
@@ -27445,7 +27248,7 @@ Weapon Class : ^777777Axe^000000    Attack Strength : ^777777229^000000
 Weight : ^7777770^000000     Property : ^777777Holy^000000
 Weapon Level : ^7777774^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman and Merchant Classes^000000
+Jobs : ^777777Swordsman and Merchant Classes^000000
 #
 1431#
 ^000088Rental Item^000000
@@ -27457,7 +27260,7 @@ Weapon Class : ^777777Spear^000000    Attack Strength : ^777777195^000000
 Weight : ^777777480^000000
 Weapon Level : ^7777773^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman Class^000000
+Jobs : ^777777Swordsman Class^000000
 #
 1581#
 ^000088Rental Item^000000
@@ -28009,7 +27812,7 @@ Regain 3 SP with each attack.
 Weapon Class : ^777777Dagger^000000    Attack Strength : ^77777785^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
-Jobs : ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000
+Jobs : ^777777Swordsman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000
 #
 13054#
 ^000088Rental Item^000000
@@ -28020,7 +27823,7 @@ Weapon Class : ^777777Dagger^000000    Attack Strength : ^777777129^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
+Jobs : ^777777Swordsman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
 #
 13055#
 ^000088Rental Item^000000
@@ -28051,7 +27854,7 @@ DEF +1
 Weapon Class : ^777777One-handed Sword^^000000      Attack Strength : ^777777185^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
-Jobs : ^777777Swordman, Merchant, and Thief Classes^000000
+Jobs : ^777777Swordsman, Merchant, and Thief Classes^000000
 #
 13427#
 ^000088Rental Item^000000
@@ -28061,7 +27864,7 @@ Drains 15 SP from its owner every 10 seconds.
 Weapon Class : ^777777One-handed Sword^^000000      Attack Strength : ^777777120^000000
 Weight : ^7777770^000000     Property : ^777777화^000000
 Weapon Level : ^7777774^000000
-Jobs : ^777777Swordman, Merchant, and Thief Classes^000000
+Jobs : ^777777Swordsman, Merchant, and Thief Classes^000000
 #
 14017#
 A box that contains :Rental Item All In One Ring
@@ -28199,7 +28002,7 @@ Weapon Class : ^777777Dagger^000000    Attack Strength : ^777777129^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
+Jobs : ^777777Swordsman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -28229,7 +28032,7 @@ Weapon Class : ^777777Axe^000000    Attack Strength : ^777777229^000000
 Weight : ^7777770^000000     Property : ^777777성^000000
 Weapon Level : ^7777774^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman and Merchant Classes^000000
+Jobs : ^777777Swordsman and Merchant Classes^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -28683,7 +28486,7 @@ Weapon Class : ^777777Spear^000000    Attack Strength : ^777777195^000000
 Weight : ^777777480^000000
 Weapon Level : ^7777773^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman Class^000000
+Jobs : ^777777Swordsman Class^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -28729,8 +28532,9 @@ A crushed pumpkin. It must have been dropped and stepped on by someone.
 Weight : ^7777770^000000
 #
 6299#
-A worn cloth. It seems to have been a transparent and clean cloth.
-Weight : ^7777770^000000
+^ff0000Character bound^000000
+A worn cloth. It seems to have been transparent and clean long time ago.
+Weight: ^7777770^000000
 #
 5681#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
@@ -29122,12 +28926,7 @@ placeholder
 placeholder
 #
 5389#
-Gorgeous golden mask, rumor has it belonged to a goddess.
-HIT + 15, STR + 2
-Class : ^777777Headgear^000000    Defense : ^7777770^000000
-Location : ^777777Middle^000000    Weight : ^77777720^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
 5508#
 placeholder
@@ -29476,20 +29275,15 @@ Unknown item requiring appraisal. Can be identified by using a magnifier.
 2554#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
-
 2787#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
-
 2788#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
-
 2789#
-
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
-
 2790#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
@@ -29545,8 +29339,8 @@ Unknown item requiring appraisal. Can be identified by using a magnifier.
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
 
-
 // ------------------------Jewel Event-------------------------
+
 7577#
 A jewel which shines yellow.
 ^ffffff_^000000
@@ -30909,7 +30703,7 @@ Jobs : ^777777Sniper^000000
 #
 
 2819#
-A guidebook that enables one to experience basic Swordman skills.
+A guidebook that enables one to experience basic Swordsman skills.
 SP + 100.
 Class : ^777777Accessory^000000
 Defense : ^7777770^000000
@@ -31818,7 +31612,7 @@ Class : ^777777Armor^000000
 Defense : ^77777795^000000
 Weight : ^7777770^000000
 Required Level : ^77777799^000000
-Jobs : ^777777Swordman Class^000000
+Jobs : ^777777Swordsman Class^000000
 #
 
 2798#
@@ -32164,7 +31958,7 @@ Class : ^777777Headgear^000000
 Defense : ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777740^000000
-Jobs : ^777777Swordman Class/Merchant Class/Thief^000000
+Jobs : ^777777Swordsman Class/Merchant Class/Thief^000000
 #
 
 5686#
@@ -33738,10 +33532,7 @@ Can be identified by
 using a Magnifier.
 #
 5597#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5602#
 Unknown item
@@ -33852,10 +33643,7 @@ Can be identified by
 using a Magnifier.
 #
 5766#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 5767#
 Unknown item
@@ -34348,38 +34136,24 @@ Contains one of the following headgears:
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 13990#
-A box that contains
-10 Job Battle Manuals.
-^FF0000This box can only be traded and stored. The items inside are account bound.^000000
+Contains 10 Job Manuals.
+Weight: ^7777771^000000
 ^ffffff_^000000
-This well written,
-detailed manual
-explains effective
-battle methods.
-^ff0000This item is account bound^000000
-^000088Job EXP rate increases to
-150% for 30 minutes.
-This bonus stacks with VIP and Battle Manuals to give an additional job bonus.^000000
+[Job Manual]
+^ff0000Account bound^000000
+Job Exp rate +50% for 30 min.
+^000088The item effect stacks with that of Battle Manual.^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
-Box Weight : ^7777771^000000
+Weight: ^7777770^000000
 #
-
 14592#
-This well written,
-detailed manual
-explains effective
-battle methods.
-^ff0000This item is account bound^000000
-^000088Job EXP rate increases to
-150% for 30 minutes.
-This bonus stacks with VIP and Battle Manuals to give an additional job bonus.^000000
+^ff0000Account bound^000000
+Job Exp rate +50% for 30 min.
+^000088The item effect stacks with that of Battle Manual.^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777770^000000
 #
-
 17114#Ancient_Horns_Box#
 17115#Sprout_Hat_Box#
 17116#Mercury_Riser_Box#
@@ -34389,7 +34163,6 @@ Weight : ^7777771^000000
 17119#Premium_Hat_Box#
 12295#
 #
-
 6494#
 A sparkling coin minted in the Kafra Headquarters in Aldebaran. These can be exchanged for various goods and services.
 
@@ -34572,7 +34345,7 @@ Unknown Item, can be identified by [Magnifier].
 Unknown Item, can be identified by [Magnifier].
 #
 
-// --------- Dewata (Indonesia Localizing) -------------	
+// --------- Dewata (Indonesia Localizing) -------------
 15032#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -34600,22 +34373,22 @@ Weight : ^77777710^000000
 #
 6405#
 It's a feather of bird called Cendrawasih. It's splendid and has a strong green color.
-Weight : ^7777771^000000	
-#	
+Weight : ^7777771^000000
+#
 6406#
 It's a feather used when the 1st Jaty Crown was made. Shows beautiful light.
 Weight : ^77777710^000000
-#	
+#
 11532#
 It's the seasoned fried rice mixed with seafoods, meat, and vegitables.
 Recovers small amount of HP.
 Weight : ^7777772^000000
-#	
+#
 11533#
 It's a food you skewer the chopped meat with source on and barbecue it.
 Recovers small amount of HP.
 Weight : ^7777772^000000
-#	
+#
 11534#
 It's a Coconut Juice. Recovers small amount of HP and SP.
 Weight : ^7777775^000000
@@ -34855,10 +34628,12 @@ A magical scroll which is able to 'search what items are on sale and what items 
 Weight : ^7777771^000000
 #
 12581#
-Advanced product from the Geffen Magic Academy than before!
-A magical scroll is able to 'search what items are on sale and what items are on purchasing'. Able to sell or buy items from the searched link!
-^000088Able to search open vendors only in the same map you're located.^000000
-Weight : ^7777771^000000
+^ff0000Account bound^000000
+The latest invention of the Geffen Magic Academy!
+A magical scroll that allows not only to search items on sale, but also to buy or sell your goods wherever you want.
+^0000FFConducts the search only among vendors on the same map.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 12591#
 Advanced product from the Geffen Magic Academy than before!
@@ -34968,7 +34743,6 @@ Weight : ^7777771^000000
 18671#
 Unidentified. You can identify it with a [Magnifier].
 #
-
 12294#
 A costume box that contains 1 Blue Christmas Cheer
 Description:
@@ -34981,7 +34755,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-
 2156#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -35261,9 +35034,12 @@ Weight : ^7777770.1^000000      Property : ^777777None^000000
 Required Level : ^777777100^000000
 #
 1774#
-Strong and rough arrows ideal for hunting large animals. Increases Ranged Attack by 50%, when used together with a Hunter Bow.
-Type : ^777777Arrow^000000    Attack : ^77777735^000000
-Weight : ^7777770.1^000000      Property : ^777777None^000000
+Strong and rough arrows ideal for hunting large animals.
+[Set effect with Hunter Bow]
+Long-ranged damage +50%
+Class: ^777777Arrow^000000
+Property: ^777777Neutral^000000
+Attack: ^77777735^000000    Weight: ^7777770.1^000000
 #
 12490#
 A parchment that plays random christmas music when used.
@@ -35655,15 +35431,12 @@ Weight : ^7777773^000000
 5451#
 Unknown Item, can be identified by [Magnifier].
 #
-
 5452#
 Unknown Item, can be identified by [Magnifier].
 #
-
 5453#
 Unknown Item, can be identified by [Magnifier].
 #
-
 12350#
 A potion that casts Level 5 Bless and Angelus
 Weight : ^77777710^000000
@@ -35673,29 +35446,24 @@ Your precious Homunculus rebuilt into this Strange Embryo.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 12739#
-A rare Flower Grown of Snow, be careful or it will melt.
+A rare flower made from snow. Be careful, or it will melt.
+Recovers HP/SP.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 10038#
 Horn protector, not implemented.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-
-
 7864#
 Cacao stolen from Pinkamenia in Moscovia while she was baking. Return them to her and she will give you some rewards.
 Weight : ^7777770^000000
 #
-
 5146#
 Unknown Item, can be identified by [Magnifier].
 #
-
-
 2576#
 A backpack befitting of any hero.
 Enables the use of level 1 Greed
@@ -36390,7 +36158,7 @@ Weight : ^777777190^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777795^000000
 Jobs: ^777777Transcendent
-Swordman and
+Swordsman and
 Merchant Classes^000000
 #
 1393#
@@ -36402,7 +36170,7 @@ Weight : ^777777190^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777795^000000
 Jobs: ^777777Transcendent
-Swordman and
+Swordsman and
 Merchant Classes^000000
 #
 1435#
@@ -36443,7 +36211,7 @@ Attack Strength: ^777777160^000000
 Weight : ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level : ^777777110^000000
-Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
+Jobs: ^777777Novice, Swordsman, Merchant, Thief Classes^000000
 #
 13070#
 Has a chance of activating curse status while physically attacking and increases the chance with each refine level.
@@ -36453,7 +36221,7 @@ Attack Strength: ^777777160^000000
 Weight : ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level : ^777777110^000000
-Jobs: ^777777Novice, Swordman, Merchant, Thief Classes^000000
+Jobs: ^777777Novice, Swordsman, Merchant, Thief Classes^000000
 #
 16017#
 Has a random chance of casting the Warlock skill Hell Inferno while physically attacking for 20 seconds. The duration multiplies by the refine level of the weapon.
@@ -36462,7 +36230,7 @@ Attack : ^777777170^000000
 Weight : ^777777150^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777100^000000
-Jobs: ^777777Novice, Swordman, Merchant, Acolyte^000000
+Jobs: ^777777Novice, Swordsman, Merchant, Acolyte^000000
 #
 18109#
 Increases the damage of Triangle Shot depending on refine level as well as increasing SP consumption of the skill.
@@ -37121,7 +36889,7 @@ Attack Strength: ^777777129^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Merchant, Thief Classes; Soul
+Jobs: ^777777Swordsman, Merchant, Thief Classes; Soul
 Linker and Ninja Jobs^000000
 #
 19007#
@@ -37172,7 +36940,7 @@ Attack Strength: ^777777185^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -37236,7 +37004,7 @@ Weight : ^7777770^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 19014#
 A box that contains 1 Classic Glove 2 Week Rental
@@ -37266,7 +37034,7 @@ Weight : ^7777770^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 19016#
@@ -37284,7 +37052,7 @@ Attack Strength: ^77777785^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 19017#
@@ -37338,7 +37106,7 @@ Weight : ^7777770^000000
 Property: ^777777Fire^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -37358,7 +37126,7 @@ Attack Strength: ^777777195^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 19022#
 A box that contains 1 Classic Safety Ring 2 Week Rental
@@ -37402,7 +37170,7 @@ Weight : ^7777770^000000
 Property: ^777777Wind^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 19025#
@@ -37782,7 +37550,7 @@ Attack Strength: ^777777145^000000
 Weight : ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -37798,7 +37566,7 @@ Attack Strength: ^777777140^000000
 Weight : ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 20163#
@@ -37814,7 +37582,7 @@ Attack Strength: ^777777105^000000
 Weight : ^77777780^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000
+Jobs: ^777777Swordsman, Acolyte, and Merchant Classes^000000
 #
 20165#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -37839,7 +37607,7 @@ Acolyte Classes, and Soul Linker^000000
 ^0000CC40% Bonus Attack Damage to Water Element Targets^000000
 A protective covering
 that shields the back
-of the hand and forearm, and has raised studs for	
+of the hand and forearm, and has raised studs for
 offensive purposes.
 ^CC0000This item is not Refinable^000000
 Class : ^777777Claw^000000
@@ -37888,7 +37656,7 @@ Attack Strength: ^777777136^000000
 Weight : ^777777160^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 20170#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -38002,7 +37770,7 @@ Attack Strength: ^777777145^000000
 Weight : ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -38019,7 +37787,7 @@ Attack Strength: ^777777140^000000
 Weight : ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 20363#
@@ -38036,7 +37804,7 @@ Attack Strength: ^777777105^000000
 Weight : ^77777780^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000
+Jobs: ^777777Swordsman, Acolyte, and Merchant Classes^000000
 #
 20364#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
@@ -38076,7 +37844,7 @@ Acolyte Classes, and Soul Linker^000000
 ^0000CC40% Bonus Attack Damage to Water Element Targets^000000
 A protective covering
 that shields the back
-of the hand and forearm, and has raised studs for	
+of the hand and forearm, and has raised studs for
 offensive purposes.
 ^CC0000This item is not Refinable^000000
 Class : ^777777Claw^000000
@@ -38128,7 +37896,7 @@ Attack Strength: ^777777136^000000
 Weight : ^777777160^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 20370#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
@@ -38155,7 +37923,7 @@ Attack Strength: ^777777141^000000
 Weight : ^777777200^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 20372#
@@ -38171,7 +37939,7 @@ Attack Strength: ^777777180^000000
 Weight : ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 20373#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
@@ -38474,7 +38242,7 @@ Attack Strength: ^777777145^000000
 Weight : ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -38490,7 +38258,7 @@ Attack Strength: ^777777140^000000
 Weight : ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 20123#
@@ -38506,7 +38274,7 @@ Attack Strength: ^777777105^000000
 Weight : ^77777780^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000
+Jobs: ^777777Swordsman, Acolyte, and Merchant Classes^000000
 #
 20124#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -38543,7 +38311,7 @@ Acolyte Classes, and Soul Linker^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
 A protective covering
 that shields the back
-of the hand and forearm, and has raised studs for	
+of the hand and forearm, and has raised studs for
 offensive purposes.
 ^CC0000This item is not Refinable^000000
 Class : ^777777Claw^000000
@@ -38592,7 +38360,7 @@ Attack Strength: ^777777136^000000
 Weight : ^777777160^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 20130#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -38617,7 +38385,7 @@ Attack Strength: ^777777141^000000
 Weight : ^777777200^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 
@@ -38754,7 +38522,7 @@ Attack Strength: ^777777145^000000
 Weight : ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman,
+Jobs: ^777777Swordsman,
 Merchant, and
 Thief Classes^000000
 #
@@ -38771,7 +38539,7 @@ Attack Strength: ^777777140^000000
 Weight : ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Mage, Archer, Merchant,
+Jobs: ^777777Swordsman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
 20323#
@@ -38788,7 +38556,7 @@ Attack Strength: ^777777105^000000
 Weight : ^77777780^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000
+Jobs: ^777777Swordsman, Acolyte, and Merchant Classes^000000
 #
 20324#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
@@ -38828,7 +38596,7 @@ Acolyte Classes, and Soul Linker^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
 A protective covering
 that shields the back
-of the hand and forearm, and has raised studs for	
+of the hand and forearm, and has raised studs for
 offensive purposes.
 ^CC0000This item is not Refinable^000000
 Class : ^777777Claw^000000
@@ -38881,7 +38649,7 @@ Attack Strength: ^777777141^000000
 Weight : ^777777200^000000
 Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman
+Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
 20332#
@@ -38897,7 +38665,7 @@ Attack Strength: ^777777180^000000
 Weight : ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 20333#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
@@ -39583,7 +39351,6 @@ A very valuable medicinal herb whose unique aroma gratifies one's spirit.
 ^000088Recovers a little SP^000000.
 Weight : ^7777770^000000
 #
-
 5827#
 A stylish stack of geology text books.
 Int +1
@@ -39596,13 +39363,11 @@ Weight : ^77777710^000000
 Required Level : ^77777710^000000
 Jobs: ^777777All^000000
 #
-
 5277#
 Unknown Item, can be identified by [Magnifier]
 #
-
 13802#Pirate's_Booty_Box#
-
+#
 19619#
 A flamboyant hat worn
 only by the strongest
@@ -39678,14 +39443,7 @@ Obtain one of the following by chance:
 Weight : ^7777771^000000
 #
 5270#
-A headgear made from leaves fallen from an enchanted tree.
-Perfect Dodge + 5
-Class : ^777777Headgear^000000
-Defense : ^7777772^000000
-Location: ^777777Upper^000000
-Weight : ^77777710^000000
-Level Requirement: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 10024#
 Red and blue fashionable glasses that aren't suited for everyone.
@@ -39703,15 +39461,7 @@ Class : ^777777Cute Pet Armor^000000
 Applicable Pet: ^777777Imp^000000
 #
 2162#
-An ancient book of sacred songs handed down in the cathedral.
-Mdef +5
-Allows the user to use Level 2 Odin's Power which increases Atk and Matk by 100 while lowering defense and Mdef by 20.
-Increases effectiveness of your Heal, Sanctuary and Potion Pitcher by 5%.
-Type : ^777777Shield^000000
-Defense : ^77777720^000000
-Weight : ^77777750^000000
-Required Level : ^777777140^000000
-Job : ^777777Archbishop^000000
+Unknown Item, can be identified by [Magnifier]
 #
 1670#
 A staff created for the 2012 RWC (Ragnarok World Championship) infused with pure gold.
@@ -39748,7 +39498,7 @@ Attack : ^777777100^000000
 Weight : ^77777780^000000
 Weapon Level : ^7777773^000000
 Required Level : ^7777771^000000
-Jobs : ^777777Swordman Class/Acolyte Class/Merchant Class^000000
+Jobs : ^777777Swordsman Class/Acolyte Class/Merchant Class^000000
 #
 18821#
 A feather decorated with elaborately bright colors to celebrate the 2012 RWC.
@@ -39895,7 +39645,7 @@ Class : ^777777Both HandsSword^000000 Attack : ^777777220^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass^000000
+Jobs : ^777777SwordsmanClass^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed^000000
 Weight : ^7777771^000000
 #
@@ -39910,7 +39660,7 @@ Class : ^777777Both HandsSword^000000 Attack : ^777777220^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass^000000
+Jobs : ^777777SwordsmanClass^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed^000000
 Weight : ^7777771^000000
 #
@@ -39925,7 +39675,7 @@ Class : ^777777Both HandsSpear^000000 Attack : ^777777220^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass^000000
+Jobs : ^777777SwordsmanClass^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed^000000
 Weight : ^7777771^000000
 #
@@ -39940,7 +39690,7 @@ Class : ^777777Both HandsSpear^000000 Attack : ^777777220^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass^000000
+Jobs : ^777777SwordsmanClass^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed.^000000
 Weight : ^7777771^000000
 #
@@ -39956,7 +39706,7 @@ Class : ^777777Sword^000000 Attack : ^777777160^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass/magicianClass/archerClass/merchantClass/ThiefClass/soul linker/ninja^000000
+Jobs : ^777777SwordsmanClass/magicianClass/archerClass/merchantClass/ThiefClass/soul linker/ninja^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed.^000000
 Weight : ^7777771^000000
 #
@@ -39972,7 +39722,7 @@ Class : ^777777Sword^000000 Attack : ^777777160^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass/magicianClass/archerClass/merchantClass/ThiefClass/soul linker/ninja^000000
+Jobs : ^777777SwordsmanClass/magicianClass/archerClass/merchantClass/ThiefClass/soul linker/ninja^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed.^000000
 Weight : ^7777771^000000
 #
@@ -39987,7 +39737,7 @@ Class : ^777777blunt^000000 Attack : ^777777180^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass/acolyteClass/merchantClass^000000
+Jobs : ^777777SwordsmanClass/acolyteClass/merchantClass^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed.^000000
 Weight : ^7777771^000000
 #
@@ -40002,7 +39752,7 @@ Class : ^777777둔기^000000 Attack : ^777777180^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
-Jobs : ^777777SwordmanClass/acolyteClass/merchantClass^000000
+Jobs : ^777777SwordsmanClass/acolyteClass/merchantClass^000000
 ^ff0000For this item, the cancellation of purchase of refund is not allowed.^000000
 Weight : ^7777771^000000
 #
@@ -40073,9 +39823,10 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 6417#
-"Sunkissed Silvervine Fruit. Human think that is normal and tastes bad but it is valuable in Malangdo.
-Use these as currency to exchange for access to memorial dungeons and to exchange for enchanting A-E grade coins with the Special Vending Machine and Coin Exchanger in Malangdo."
-Weight : ^7777770^000000
+^ff0000Account bound^000000
+A ripe Silvervine fruit.
+Can be exchanged for various valuable items from the Kafra shop in Prontera.
+Weight: ^7777770^000000
 #
 6418#
 Glittering high class coin. There is possibility of luxury weapon enchant.
@@ -40175,25 +39926,34 @@ Weight : ^7777770^000000
 Weight : ^7777771^000000
 #
 16770#
-Box containing 10 Silvervine Fruits. 30 Malangdo canned food is included as a bonus.
-Sunkissed Silvervine Fruit. Exchange these for various goods at the Special Vending Machine in Malangdo.
-Weight : ^7777770^000000
-^ff0000Non refundable once opened^000000
-Weight : ^7777771^000000
+Contains 250 Silvervine fruits.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Silvervine]
+^ff0000Account bound^000000
+A ripe Silvervine fruit.
+Can be exchanged for various valuable items from the Kafra shop in Prontera.
+Weight: ^7777770^000000
 #
 16771#
-Box containing 40 Silvervine Fruits. 120 Malangdo canned food is included as a bonus.
-Sunkissed Silvervine Fruit. Exchange these for various goods at the Special Vending Machine in Malangdo.
-Weight : ^7777770^000000
-^ff0000Non refundable once opened^000000
-Weight : ^7777771^000000
+Contains 500 Silvervine fruits.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Silvervine]
+^ff0000Account bound^000000
+A ripe Silvervine fruit.
+Can be exchanged for various valuable items from the Kafra shop in Prontera.
+Weight: ^7777770^000000
 #
 16979#
-Box containing 4 Silvervine Fruits. 12 Malangdo canned food is included as a bonus.
-Sunkissed Silvervine Fruit. Exchange these for various goods at the Special Vending Machine in Malangdo.
-Weight : ^7777770^000000
-^ff0000Non refundable once opened^000000
-Weight : ^7777771^000000
+Contains 100 Silvervine fruits.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Silvervine]
+^ff0000Account bound^000000
+A ripe Silvervine fruit.
+Can be exchanged for various valuable items from the Kafra shop in Prontera.
+Weight: ^7777770^000000
 #
 17013#
 Box containing 1 Octopus Hunting stick and Seagod's Protection (Available 23 hours)
@@ -40655,7 +40415,7 @@ Attack Strength: ^777777350^000000
 Weight : ^777777600^000000
 Weapon Level: ^7777774^000000
 Required Level : ^77777795^000000
-Jobs: ^777777Swordman and
+Jobs: ^777777Swordsman and
 Merchant Classes^000000
 #
 2410#
@@ -40761,7 +40521,7 @@ Attack Strength: ^777777350^000000
 Weight : ^777777600^000000
 Weapon Level: ^7777774^000000
 Required Level : ^77777795^000000
-Jobs: ^777777Swordman and
+Jobs: ^777777Swordsman and
 Merchant Classes^000000
 #
 6451#
@@ -40778,7 +40538,7 @@ A box that contains one of the following:
 1x - Old Card Album
 1x - Merchant Set Card Box
 1x - Thief Set Card Box
-1x - Swordman Set Card Box
+1x - Swordsman Set Card Box
 1x - Archer Set Card Box
 1x - Mage Set Card Box
 1x - Heroic Desocketing Book
@@ -40815,7 +40575,7 @@ Alligator Card
 Weight : ^7777771^000000
 #
 13874#
-This box will give you all of the Swordman Set cards:
+This box will give you all of the Swordsman Set cards:
 Freezer Card
 Heater Card
 Solider Card
@@ -40926,11 +40686,12 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 13294#
-Special Kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!
-Class : ^777777Throwing Weapon^000000
-Atk : ^77777750^000000
-Weight : ^7777773^000000      Property : ^777777무^000000
-Level Limit : ^777777100^000000
+A special kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!
+Class: ^777777Throwing Weapon^000000
+Property: ^777777Neutral^000000
+Attack: ^77777750^000000    Weight: ^7777773^000000
+Required Level: ^777777100^000000
+Jobs: ^777777Ninja^000000
 #
 13311#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
@@ -41099,7 +40860,7 @@ Class : ^777777Shield^000000
 Defense : ^777777130^000000
 Weight : ^777777280^000000
 Required Level : ^777777100^000000
-Job : ^7777773rd job Swordman classes^000000
+Job : ^7777773rd job Swordsman classes^000000
 #
 2161#
 One of Geffenia's secret treasures. There are not many people who can use this shield's magic.
@@ -41136,7 +40897,7 @@ Job : ^777777Guillotine Cross^000000
 18570#
 A Beautiful Golden accessory with ancient magic. It changes its power depending on the owner's class.
 If base Lv. 150, All Stats +2.
-If Swordman, Merchant, Thief class, ATK + 8%
+If Swordsman, Merchant, Thief class, ATK + 8%
 If Mage or Acolyte, MATK + 8%, increase 7% of heal amount,
 If Archer, DEX +3, increase long distance physical attack power 10%.
 Class : ^777777Headgear^000000
@@ -41156,7 +40917,7 @@ Weight : ^777777190^000000
 Property : ^777777Fire^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777795^000000
-Job : ^777777Transcendent Swordman and Merchant Classes^000000
+Job : ^777777Transcendent Swordsman and Merchant Classes^000000
 #
 2959#
 A collar symbolizing a bonding relationship.
@@ -41576,7 +41337,7 @@ Mental Potion x 30
 Heroic Desocketing Book
 Gentlemen's Fez
 Lv 10 Bowman Mercenary x 10
-Lv 10 Swordman Mercenary x 10
+Lv 10 Swordsman Mercenary x 10
 Lv 10 Spearman Mercenary x 10
 Party Buff Scroll Box
 3xBattlemanual x5
@@ -42669,8 +42430,8 @@ Jobs : ^777777All^000000
 17453#luckysox#
 17454#luckysox_box#
 17452#
-Contains 5 Each of all the +20 Stat foods.  Box is not tradable, but the food is.	
-^ffffff_^000000	
+Contains 5 Each of all the +20 Stat foods.  Box is not tradable, but the food is.
+^ffffff_^000000
 Weight : ^7777771^000000
 #
 
@@ -42762,7 +42523,7 @@ Class : ^777777Sword^000000 Atk : ^777777190^000000
 Weight : ^77777770^000000
 Weapon Lev : ^7777773^000000
 Req Lev : ^7777771^000000
-Job : ^777777Swordman/Merchant/Thief^000000
+Job : ^777777Swordsman/Merchant/Thief^000000
 #
 5873#
 Once worn by a slave of a legendary dragon, this headgear is made of actual dragon wings and skin. Wearing it makes you feel adventurous and powerful. 
@@ -42774,7 +42535,7 @@ Indestructible.
 Class : ^777777HeadGear^000000 Def : ^7777777^000000
 Location : ^777777Upper ^000000Weight : ^77777760^000000
 Req Lev : ^77777760^000000
-Job : ^777777Jobchanged Swordman/Merchant Class^000000
+Job : ^777777Jobchanged Swordsman/Merchant Class^000000
 #
 5874#
 This golden eagle crown symbolizes destiny and protects its wearer against demons. Once worn by some brave female warriors, it makes its wearer feel strong and confident.
@@ -45918,7 +45679,7 @@ Weight : ^77777710^000000
 22543#
 This honey syrup boil your blood boil increasing your attack speed.
 Required Level : ^77777785^000000
-Jobs: ^777777Swordman and
+Jobs: ^777777Swordsman and
 Merchant Classes;
 Rogue, Mage, and
 Wizard Jobs^000000
@@ -48421,13 +48182,7 @@ Req Lvl. : ^7777771^000000
 Job : ^777777All^000000
 #
 19653#
-A hat which gives you a holy power and celestial melody in the rim of the ear.
-With celestial protection power, angel guards you from an enemy attack.
-^ff0000This item cannot be traded with other accounts.^000000
-Class : ^777777Costume^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Req Lvl. : ^7777771^000000
-Job : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19655#
 A long and big bonnet. It is not sure when it is used for.
@@ -48890,13 +48645,6 @@ Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required LVL : ^7777771^000000
 Job : ^777777All^000000
 #
-19816#
-The motif of this hat is monster Pecopeco
-Class : ^777777Costume^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required LVL : ^7777771^000000
-Job : ^777777All^000000
-#
 19817#
 A fire-breathing Machine
 It is blazing forever
@@ -48969,11 +48717,7 @@ Required LV : ^7777771^000000
 Job : ^777777all jobs^000000
 #
 19832#
-A hat shaped like the popular monster poring! It is not made by rubber.
-Class : ^777777Costume^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777all jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19833#
 Bind your hair with this cute accessory. A little ribbon makes you charm.
@@ -49756,36 +49500,48 @@ Black leather boots engraved Rune.
 Unable to destroy.
 When pure STR is 90 or higher, ATK + 10. When pure STR is 120 or higher, ATK + 10 additionally.
 When pure INT is 90 or higher, MATK + 3%. When pure INT is 120 or higher, MATK + 2% additionally.
-Class : ^777777Shoes^000000 Defence : ^7777775^000000
+Class : ^777777Shoes^000000 Defense : ^7777775^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 12710#
-A sweet and sour desert made by Guyak. It would be great when it's cool.
-Gives double movement Speed for 5 minutes.
+A sweet and sour desert made from the guyak herb. Better cool it before eating.
+Movement speed +100% for 5 min. (the effect is cancelled when the character moves to another map)
 ^ffffff_^000000
-Weight : ^77777720^000000
+Weight: ^7777771^000000
 #
 14517#
- A scroll which enables using LV 5 Chemical Protection Helm skill. It has some mysterious letters written on the scroll.
+^ff0000Account bound^000000
+A scroll with mysterious letters written on it.
+Enables a single cast of Chemical Protection Helm Lv. 5.
+Equipped helmet and a Glistening Coat are required for using this item.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 14518#
- A scroll which enables using LV 5 Chemical Protection Shield skill. It has some mysterious letters written on the scroll.
+^ff0000Account bound^000000
+A scroll with mysterious letters written on it.
+Enables a single cast of Chemical Protection Shield Lv. 5.
+Equipped shield and a Glistening Coat are required for using this item.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 14519#
- A scroll which enables using LV 5 Chemical Protection Armor skill. It has some mysterious letters written on the scroll.
+^ff0000Account bound^000000
+A scroll with mysterious letters written on it.
+Enables a single cast of Chemical Protection Armor Lv. 5.
+Equipped armor and a Glistening Coat are required for using this item.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 14520#
- A scroll which enables using LV 5 Chemical Protection Weapon skill. It has some mysterious letters written on the scroll.
+^ff0000Account bound^000000
+A scroll with mysterious letters written on it.
+Enables a single cast of Chemical Protection Weapon Lv. 5.
+Equipped weapon and a Glistening Coat are required for using this item.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 1273#
 If it is wet by, blood will be screaming so called as Bloody Roar. It has great affect to Human class enemy.
@@ -49989,14 +49745,14 @@ MHP + 3%
 Class: ^777777Shield^000000 DEF: ^7777776^000000
 Weight : ^77777730^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class, Acolyte Class, Merchant Class, Thief Class, Bard, Dancer^000000
+Jobs: ^777777Swordsman Class, Acolyte Class, Merchant Class, Thief Class, Bard, Dancer^000000
 #
 2151#
 MHP + 3%
 Class: ^777777Shield^000000 DEF: ^7777778^000000
 Weight : ^77777765^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman Class^000000
+Jobs: ^777777Swordsman Class^000000
 #
 2164#
 a shield that has internal resistance.
@@ -50084,7 +49840,7 @@ MHP + 3%
 Class: ^777777Shoes^000000 DEF: ^7777776^000000
 Weight : ^77777730^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,Merchant,Thief Classes,Archer,Taekwon Class,Gunslinger^000000
+Jobs: ^777777Swordsman,Merchant,Thief Classes,Archer,Taekwon Class,Gunslinger^000000
 #
 2461#
 MHP + 3%
@@ -50180,7 +49936,7 @@ MHP + 3%
 Class: ^777777Garment^000000 DEF: ^7777776^000000
 Weight : ^77777730^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Swordman,Merchant,Thief Classes,Taekwon Class^000000
+Jobs: ^777777Swordsman,Merchant,Thief Classes,Taekwon Class^000000
 #
 2565#
 A colorful beach towel used as protection from the sun.
@@ -50288,94 +50044,94 @@ Def : ^7777770^000000      Weight : ^77777710^000000
 Jobs : ^777777All^000000
 #
 2753#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Formless monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Formless monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2754#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Undead monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Undead monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2755#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Animal Class monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Animal monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2756#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Plant monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Plant monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2757#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Insect type monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Insect monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2758#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Fish type monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Fish monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2759#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Demon monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Demon monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2760#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Demi Human monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Demihuman monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2761#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Angel type monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Angel monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2762#
-^000088Rental Item^000000
-A ring that has special power in each shape.
-Receive 15% more EXP from ^000088Dragon type monsters^000000.
-Item Class: ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Dragon monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2763#
 ^000088Rental Item^000000
@@ -50855,7 +50611,7 @@ Item Class : ^777777Headgear^000000    Defense Rate : ^7777773^000000
 Head Position : ^777777Upper, Mid^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
-Applicable Jobs : ^777777Swordman Class/Merchant Class/Thief Class ^000000
+Applicable Jobs : ^777777Swordsman Class/Merchant Class/Thief Class ^000000
 #
 5189#
 It has the appearance of a Maple Leaf in autumn. You have a feeling of sorrow when you equip it.
@@ -50944,7 +50700,7 @@ Available Job : ^777777All^000000
 A gold headgear with star in the middle gorgeously glittering its color.
 STR + 2
 Indestructible.
-If worn by Swordman, Merchant or Thief classes and the character's base DEX is lower than 55, DEX bonus increases according to the wearer's JOBLEVEL.
+If worn by Swordsman, Merchant or Thief classes and the character's base DEX is lower than 55, DEX bonus increases according to the wearer's JOBLEVEL.
 Item Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper^000000    Weight : ^77777750^000000
 Jobs : ^777777All^000000
@@ -51266,7 +51022,7 @@ Jobs : ^777777All^000000
 5595#
 A horn imbued with spirit of devil. Could feel full of vital force from it.
 MDEF + 2.
-If worn by Swordman/Merchant/Thief Class, AGI + 2, decrease damage of Neutral , Water property by (Job Lv / 14), increase VIT.
+If worn by Swordsman/Merchant/Thief Class, AGI + 2, decrease damage of Neutral , Water property by (Job Lv / 14), increase VIT.
 If worn by Wizard/Acolyte/Archer Class, INT + 2, DEX + 2, damage of Neutral , Water property by (Job Lv / 14).
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Upper^000000 Weight : ^77777740^000000
@@ -52282,8 +52038,6 @@ Shadow Critical Armor
 Shadow Dexterous Armor
 Shadow Lucky Armor
 #
-
-
 20132#
 Class : ^777777Costume_Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Bottom ^000000Weight : ^7777770^000000
@@ -52297,10 +52051,7 @@ Required Lv. : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
 20154#
-Class : ^777777Costume_Equipment^000000 Defense : ^7777770^000000
-Location : ^777777Mid ^000000Weight : ^7777770^000000
-Required Lv. : ^7777771^000000
-Job : ^777777All Jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20155#
 Class : ^777777Costume_Equipment^000000 Defense : ^7777770^000000
@@ -54242,13 +53993,7 @@ Required Level: 1
 Required Job: All Jobs
 #
 20285#
-^808080Petals of cherry blossoms are failling gently. The petals dance beautifully as if they inform you that spring has come.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Lower)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20286#
 ^808080Glasses rimmed under the lens only. They fit any types of coordination nicely either cool or cute.^000000
@@ -54287,13 +54032,7 @@ Required Level: 1
 Required Job: All Jobs
 #
 20295#
-^808080Sunglasses with the lenses modeled after Poring. An essential item for drawing everybody's attention.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20296#
 ^808080A hat modeled after mischievous monkey monster Yoyo.^000000
@@ -54341,13 +54080,8 @@ Required Level: 1
 Required Job: All Jobs
 #
 20299#
-^808080A mask made up with a pie to bury one's head in a party. It makes wearer's face dirty, but the liberally spread cream tastes sweet and delicious.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle, Lower)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
+Unknown item requiring Appraisal.
+Can be identified by using a Magnifier.
 #
 20300#
 ^808080A mask resembles a head of Hill Wind inhabiting in Rachel fields. Surprisingly, this complicated expression seems to be popular.^000000
@@ -56049,7 +55783,6 @@ Class : ^777777Card^000000
 Compound on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
-
 27017#
 Decreasing 10% physical and magical damage from Formless monster.,
 +7 Refined, Reducing 5% physical and magical damage from Formless monster.,
@@ -56066,32 +55799,34 @@ Class : ^777777Card^000000
 Compound on : ^777777Accessory^000000
 Weight : ^7777771^000000
 #
-
 27019#
-HIT + 1.
-Base level 90 or higher, additional HIT + 1.
-Base level 120 or higher, additional HIT + 1.
-Equip with GC109 Card,
-Each short ranged physical attack has a chance to ASPD + 5 for 5 seconds
-Class : ^777777Card^000000
-Compound on : ^777777Accessory^000000
-Weight : ^7777771^000000
+HIT +1
+[If base level = 90 or higher]
+Additional HIT +1
+[If base level = 120 or higher]
+Additional HIT +1
+[Set effect with GC109 Card]
+With a certain chance, Aspd +5 for 5 sec. after a melee attack
+Class: ^777777Card^000000
+Compound on: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 27020#
-ATK + 10%.
-Add a chance to take away 40% MSP within 15*15 cell when short ranged physical attack.
-Increase casting rates for each +3 refined.
-Class : ^777777Card^000000
-Compound on : ^777777Weapon^000000
-Weight : ^7777771^000000
+Atk +10%
+With a certain chance, SP -40% of all targets within 15*15 cells after a melee attack
+Increase casting speed for every 3 upgrade levels
+Class: ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight: ^7777771^000000
 #
 4697#
-MSP -300.
-Each short ranged Physical attack has a high chance of destroying an enemy's armor.
-Equip with Kick Step Card, no consumes Madogear energy.
-Class : ^777777Card^000000
-Compound on : ^777777Weapon^000000
-Weight : ^7777771^000000
+Max SP -300
+High chance to destroy an enemy's armor after a melee attack
+[Set effect with Kick Step Card]
+No Madogear energy is consumed
+Class: ^777777Card^000000
+Compound on: ^777777Weapon^000000
+Weight: ^7777771^000000
 #
 4698#
 Increase 30% of [Axe Boomerang] damage.
@@ -56100,7 +55835,6 @@ Class : ^777777Card^000000
 Compound on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
-
 4699#
 Increase 20% of [Arm Cannon] damage.
 Increase additional 20% of [Arm Cannon] damage if weapon has + 10 refined or higher.
@@ -56109,30 +55843,30 @@ Class : ^777777Card^000000
 Compound on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
-
 12684#
-^ff0000You cannot Trade this item.^000000
-the Bonus ASPD is affected by character's AGI point
-If this potion is used with those other ASPD up potion, the effect will be maximized. 
-Increases ASPD for 15 minutes.
-Weight : ^7777771^000000
+^ff0000Account bound^000000
+Increases Aspd for 15 min.
+The potion stacks with other potions that increase Aspd.
+Weight: ^7777770^000000
 #
-
 14586#
-A hard candy that feels like its jumping in your mouth when you eat it.
-You'll need to remember to brush your teeth after!
-1 minute increase ATK + 20, Attack Speed + 25%, and permanent endure.
-Decreases 100HP per 10 seconds. Cooldown for 3 minutes.
+^ff0000Account bound^000000
+A candy that feels like it's jumping in your mouth when you eat it. Don't forget to brush your teeth afterwards!
+Atk +20
+Aspd +25%
+Enables [Endure] effect
+HP -100 per 10 sec.
+Duration: 1 min.
+Cooldown: 3 min.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
-
 17162#
-A box that contains Riding halter. Item will be available for a week.
-^ff0000You cannot Trade this item after it is unpacked.^000000
-Weight : ^7777771^000000
+Contains a halter lead (7 d.).
+^ff0000The unpacked item is account bound.^000000
+Weight: ^7777771^000000
+Jobs: ^777777All^000000
 #
-
 13780#
 Box containing Dark Blinder 1 ea handle with care
 rental period 15 days(360 hours)
@@ -56154,15 +55888,18 @@ Jobs: ^777777Every class except Novice^000000
 Weight : ^7777771^000000
 #
 14242#
-Box containing 1 Beholder Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
- Receive EXP gain by 15% from monsters ^000088Type Shapeless^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Beholder Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Beholder Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Formless monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14252#
 Box containing 1 Beholder Ring beware of damage
@@ -56176,15 +55913,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14243#
-Box containing 1 Hallow Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Undead^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Hallow Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Hallow Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Undead monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14253#
 Box containing 1 Hallow Ring beware of damage
@@ -56198,15 +55938,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14244#
-Box containing 1 Clamorous Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Beast^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Clamorous Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Clamorous Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Animal monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14254#
 Box containing 1 Clamorous Ring beware of damage
@@ -56220,26 +55963,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14245#
-Box containing 1 Chemical Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Plant^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
-#
-14245#
-Box containing 1 Chemical Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Plant^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Chemical Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Chemical Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Plant monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14255#
 Box containing 1 Chemical Ring beware of damage
@@ -56253,15 +55988,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14246#
-Box containing 1 Insecticide Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Insect^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Insecticide Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Insecticide Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Insect monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14256#
 Box containing 1 Insecticide Ring beware of damage
@@ -56275,15 +56013,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14247#
-Box containing 1 Fisher Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Fish^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Fisher Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Fisher Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Fish monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14257#
 Box containing 1 Fisher Ring beware of damage
@@ -56297,15 +56038,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14248#
-Box containing 1 Decussate Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Demon^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Decussate Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Decussate Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Demon monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14258#
 Box containing 1 Decussate Ring beware of damage
@@ -56319,15 +56063,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14249#
-Box containing 1 Bloody Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Demi-human^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Bloody Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Bloody Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Demihuman monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14259#
 Box containing 1 Bloody Ring beware of damage
@@ -56341,15 +56088,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14250#
-Box containing 1 Satanic Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Angel^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Satanic Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Satanic Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Angel monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14260#
 Box containing 1 Satanic Ring beware of damage
@@ -56363,15 +56113,18 @@ Jobs: ^777777Every class^000000
 Weight : ^7777771^000000
 #
 14251#
-Box containing 1 Dragoon Ring beware of damage
-^0000887 days rental item^000000
-ring imbued with special properties
-Receive EXP gain by 15% from monsters ^000088Type Dragon^000000
-Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Every class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains 1 Dragon Ring (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Dragon Ring]
+^ff0000Account bound^000000
+A ring that contains special powers.
+Exp +15% when killing ^000088Dragon monsters^000000
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14261#
 Box containing 1 Dragoon Ring beware of damage
@@ -56744,12 +56497,14 @@ Weight : ^77777740^000000
 A box that contains 50 White Potions
 Box Weight : ^7777770^000000
 #
-
 13870#
-Box containing a special coupon for a special hair style
-1 coupon
-^000088This item cannot be traded^000000
-Weight : ^7777771^000000
+Contains 1 New Style Coupon.
+Weight: ^7777771^000000
+^ffffff_^000000
+[New Style Coupon]
+^ff0000Account bound^000000
+Used for changing hairstyle. Absolutely necessary if you want to be different from others!
+Weight: ^7777771^000000
 #
 19733#
 Unknown item requiring Appraisal.
@@ -56785,4 +56540,241 @@ Yummy meat.
 Recovers ^000088some HP^000000.
 ^ffffff_^000000
 Weight: ^7777775^000000
+#
+20439#
+The sun has imbued you with it's fierce power. Other people can tell that you were chosen by the gods because of the glowing aura.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Middle headgear ^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All jobs^000000
+#
+20510#
+Even valkyries don't have wings of steel. Come on, how cool is that?
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Garment ^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All jobs^000000
+#
+31533#
+This knitted muffler has snuggled up on your neck and won't leave so you don't get cold. It also looks like a cat.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower headgear ^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All jobs^000000
+#
+31055#
+Now you can blow poring bubbles like you've always wanted. The taste like bubble gum and pop with a loud sound.
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Lower headgear ^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Job: ^777777All jobs^000000
+#
+14516#
+^ff0000Account bound^000000
+Enables a single cast of Magnificat Lv. 5.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+12709#
+A candy made from special medicine. Sweet and sour.
+Recovers ^00008830% HP/SP^000000.
+Weight: ^77777715^000000
+#
+12404#
+^ff0000Account bound^000000
+A potion that improves general condition.
+Atk/Matk +2%
+Healing items/skills' efficiency +10%
+Duration: 2 min.
+The effects is cancelled after death or buff removal.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+23386#
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 30 days.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+14601#
+^ff0000Account bound^000000
+A potion that possesses the spirit of Tyr, the god of battle.
+Atk/Matk +20
+Hit/Flee +30
+Duration: 5 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31300#
+Unknown item requiring appraisal. Can be identified by using a Magnifier.
+#
+31591#
+Unknown item requiring appraisal. Can be identified by using a Magnifier.
+#
+31165#
+Unknown item requiring appraisal. Can be identified by using a Magnifier.
+#
+19816#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20488#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20491#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31164#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9685#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12622#
+^ff0000Account bound^000000
+An animal halter lead that summons a creature to ride on.
+Movement speed +25% while on a mount
+Cannot attack while mounted
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+17988#
+Contains 1 Premium (30 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Premium]
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 30 days.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+#
+17989#
+Contains 2 Premiums (30 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Premium]
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 60 days.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+#
+17990#
+Contains 3 Premiums (30 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Premium]
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 30 days.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+#
+9692#
+Contains 12 Premiums (30 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Premium]
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 30 days.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+#
+12887#
+^ff0000Account bound^000000
+Teleports to a random spot on the current map.
+The item doesn't disappear when used.
+Its properties and limitations are the same as those of a Fly Wing.
+Weight: ^7777770^000000
+#
+13542#
+Contains 50 Lv. 5 Magnificat scrolls.
+^ff0000Magnificat Scroll is account bound.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+17251#
+^000088Rental item^000000
+Contains 1 Wing of Beelzebub (7 d.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Wing of Beelzebub]
+^ff0000Account bound^000000
+Teleports to a random spot on the current map.
+The item doesn't disappear when used.
+Its properties and limitations are the same as those of a Fly Wing.
+Weight: ^7777770^000000
+#
+16390#
+^000088Rental item^000000
+Contains Bubble Gum in Mouth (4 h.).
+Weight: ^7777771^000000
+^ffffff_^000000
+[Bubble Gum in Mouth]
+^ff0000Account bound^000000
+A gum for blowing large bubbles. Their size will depend on your lungs' capacity!
+Atk/Matk +5
+Mdef +2
+Item drop rate +5%
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Lower^000000
+Defense: ^7777772^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+23384#
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 1 day.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+23385#
+^ff0000Account bound^000000
+Gives the Premium buff for all characters on the account.
+Duration: 7 days.
+Effect:
+- Exp +30%
+- Item drop rate +15%
+- Inventory slots +300
+- Death penalty Exp loss -2%
+^ffffff_^000000
+Weight: ^7777770^000000
 #

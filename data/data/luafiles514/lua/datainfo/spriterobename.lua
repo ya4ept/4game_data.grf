@@ -60,7 +60,9 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Soldier_Backpack] = "C_Soldier_Backpack",
 	[SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag] = "C_T_Bear_Bag",
 	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move] = "Wing_Of_Angel_Move",
-	[SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail] = "C_Big_Foxtail"
+	[SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail] = "C_Big_Foxtail",
+	[SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag] = "Ru_Bear_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -124,5 +126,7 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Soldier_Backpack] = "C_Soldier_Backpack",
 	[SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag] = "C_T_Bear_Bag",
 	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move] = "Wing_Of_Angel_Move",
-	[SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail] = "C_Big_Foxtail"
+	[SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail] = "C_Big_Foxtail",
+	[SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag] = "Ru_Bear_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon"
 }

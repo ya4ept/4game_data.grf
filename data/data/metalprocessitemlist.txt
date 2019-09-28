@@ -287,22 +287,6 @@
 12118#
 2 Frills
 1 Red Gemstone
-#
-12119#
-3 Hearts of Mermaid
-1 Blue Gemstone
-#
-12120#
-2 Large Jellopies
-1 Yellow Gemstone
-#
-12121#
-3 Moth Dust
-1 Blue Gemstone
-#
-12118#
-2 Frills
-1 Red Gemstone
 1 Empty Potion Bottle
 #
 12119#

@@ -431,6 +431,7 @@ ResetTheHotKey = function(tabNum, idx, inKey1, inKey2)
 			end
 		end
 	end
+	goto 11_[45]
 end
 
 -- Function #11
@@ -441,25 +442,25 @@ SaveUserHotKeys = function(saveFileName)
 		while tabNum <= 3 do
 			userTable = _G[string.format("USERKEY_%d", tabNum)]
 			if userTable ~= nil then
-				saveFile:write(string.format("USERKEY_%d", tabNum), string.format("USERKEY_%d = {\n", tabNum))
+				saveFile:write(string.format("USERKEY_%d", tabNum), string.format("USERKEY_%d", tabNum), string.format("USERKEY_%d = {\n", tabNum))
 				idx = 0
 				key1, key2, keyDes, behaviorDes = GetUserHotKeyInfo(tabNum, idx)
 				tableLen = GetOriginalHotKeyListSize(tabNum)
 				while idx < tableLen do
 					if behaviorDes ~= "" then
-						saveFile:write(tableLen, string.format("\t[%d] = { EXE = \"%s\"", idx, behaviorDes))
+						saveFile:write(tableLen, tableLen, string.format("\t[%d] = { EXE = \"%s\"", idx, behaviorDes))
 						if key1 ~= 0 then
-							saveFile:write(tableLen, string.format(", KEY1 = %d", key1))
+							saveFile:write(tableLen, tableLen, string.format(", KEY1 = %d", key1))
 						end
 						if key2 ~= 0 then
-							saveFile:write(tableLen, string.format(", KEY2 = %d", key2))
+							saveFile:write(tableLen, tableLen, string.format(", KEY2 = %d", key2))
 						end
-						saveFile:write(tableLen, " },\n")
+						saveFile:write(tableLen, tableLen, " },\n")
 					end
 					idx = idx + 1
 					key1, key2, keyDes, behaviorDes = GetUserHotKeyInfo(tabNum, idx)
 				end
-				saveFile:write(tabNum, "}\n\n")
+				saveFile:write(tabNum, tabNum, "}\n\n")
 			end
 			tabNum = tabNum + 1
 		end
