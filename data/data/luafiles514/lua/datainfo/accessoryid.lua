@@ -1901,5 +1901,10 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Fairy_Long_BDK = 1911,
 	ACCESSORY_C_Fairy_Long_SVK = 1912,
 	ACCESSORY_C_Volume_Low_Twin_WHK = 1913,
-	ACCESSORY_C_Volume_Low_TwinK = 1914
+	ACCESSORY_C_Volume_Low_TwinK = 1914,
+	ACCESSORY_C_SavageB_On_Shoulder = 1915,
+	ACCESSORY_C_Piamette_Roll_Hair_SV = 1916,
+	ACCESSORY_Magic_Helm = 1917,
+	ACCESSORY_BeachBall = 1918,
+	ACCESSORY_SharkHead = 1919
 }

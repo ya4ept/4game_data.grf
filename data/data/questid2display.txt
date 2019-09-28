@@ -1305,13 +1305,13 @@ Hurry and bring 5 Iron Ore and 1 Phracon to Cougar.#
 #
 
 //건슬링거
-6020#Master Miller's Letter#SG_FEEL#QUE_NOIMAGE#
-Take the letter to Mr. Wise Bull Horn in Payon.#
-#
+6020#Master Miller's Requst#SG_FEEL#QUE_NOIMAGE#
+According to Master Miller's request, go to Wise Bull Horn in Payon.#
+Talk to Wise Bull Horn.#
 
 6021#Wise Bull Horn's voucher#SG_FEEL#QUE_NOIMAGE#
-"I can make a voucher that will demonstrate your desire to become a warrior of the earth for you to present to Gunslinger drillmasters."#
-3 Zargons, 10 Shells, 3 Fluffs, 1 Trunk, 3 Rainbow Shells, 3 Green Herbs#
+Wise Bull Horn can make you a voucher that will demonstrate your desire to become a warrior of the earth. For that he needs 3 Zargons, 10 Shells, 3 Fluffs, 1 Trunk, 3 Rainbow Shells, and 3 Green Herbs.#
+Gather the materials for Wise Bull Horn.#
 
 6022#Making a voucher#SG_FEEL#QUE_NOIMAGE#
 It's going to take a little while. Talk to him again a bit later.#

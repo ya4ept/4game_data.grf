@@ -11962,13 +11962,10 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4278#
-Gibbet Card.
-Add MDEF +5 when
-character's INT stat
-is equal to or less
-than 20.
+[If Int < 21]
+MDEF +5
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4279#
@@ -12103,13 +12100,10 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4288#
-Carat Card.
-INT +2.
-Increase Max SP by
-an amount equal to
-triple the number of the character's Job Level.
+Int +2
+Max SP is increased by formula (Job Lv. * 3)
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4289#
@@ -23225,6 +23219,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // ------------------ 브라질 가발 시리즈 -----------------------
+
 5273#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23239,16 +23234,19 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // --------------- 브라질 캐쉬 아이템 20070605 ------------
+
 5307#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // -------------- 태국 캐쉬아이템 Headgear 추가 20070809 --------------
+
 5325#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
 // -------------- 2007년 9월 일본 모바일 Headgear 13종 -----------------
+
 5333#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #

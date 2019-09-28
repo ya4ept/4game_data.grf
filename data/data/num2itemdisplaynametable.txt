@@ -508,16 +508,16 @@
 1059#Fabric#
 1060#Golden_Hair#
 1061#Witched_Starsand#
-1062#Jack_o'_Pumpkin#
+1062#Jack_of_Pumpkin#
 1063#Fang#
 1064#Reins#
 1065#Trap#
-1066#Trunk#
-1067#Trunk_#
-1068#Trunk__#
-1069#Orange_Mushroom#
-1070#Orange_Mushroom_#
-1071#Unknown_Test_Tube#
+1066#Fine-grained_Trunk#
+1067#Solid_Trunk#
+1068#Barren_Trunk#
+1069#Orange_Net_Mushroom#
+1070#Orange_Gooey_Mushroom#
+1071#Unknown_Testtube#
 1072#DEL_Message#
 1073#Voucher#
 1074#Voucher#
@@ -531,14 +531,14 @@
 1082#DEL_Box_#
 1083#DEL_Box__#
 1084#Kafra_Pass#
-1085#Unknown_Test_Tube#
-1086#Unknown_Test_Tube#
-1087#Unknown_Test_Tube#
+1085#Unknown_Testtube#
+1086#Unknown_Testtube#
+1087#Unknown_Testtube#
 1088#Morroc_Solution#
 1089#Payon_Solution#
-1090#Unknown_Test_Tube#
+1090#Unknown_Testtube#
 1091#DEL_Box#
-1092#Empty_Test_Tube#
+1092#Empty_Testtube#
 1093#Empty_Potion_Bottle#
 501#Red_Potion#
 502#Orange_Potion#
@@ -957,7 +957,7 @@
 616#Old_Card_Album#
 617#Old_Violet_Box#
 618#Worn_Out_Scroll#
-1553#Book_of_Billows#
+1553#Book#
 1554#Book#
 1555#Book#
 1556#Book#
@@ -1066,7 +1066,7 @@
 
 // ---- Ep 3.0 Comodo ----------------
 7038#Yarn#
-7039#Newbie_Tag#
+7039#Novice_Nametag#
 7040#Megaphone#
 7041#Fine_Grit#
 7042#Leather_Bag_of_Infinity#
@@ -1136,12 +1136,12 @@
 5024#Helm#
 5025#Helm#
 5026#Helm#
-7056#Payment_Statement_for_Kafra_Employee#
+7056#Payroll_of_Kafra#
 7057#Gjallar#
 7058#Gleipnir#
-7059#Free_Ticket_for_Kafra_Storage#
-7060#Free_Ticket_for_Kafra_Transportation#
-7061#Free_Ticket_for_the_Cart_Service#
+7059#Cargo_Free_Ticket#
+7060#Warp_Free_Ticket#
+7061#Cart_Free_Ticket#
 7062#Broken_Turtle_Shell#
 7063#Soft_Feather#
 7064#Wing_of_Dragonfly#
@@ -1166,7 +1166,7 @@
 7083#Spirit_of_Fish#
 7084#Sputum_of_Bird#
 7085#Sinew_of_Bear#
-7086#Amblem_of_the_Sun_God#
+7086#Emblem_of_the_Sun_God#
 7087#Breath_of_Spirit#
 7088#Snow_Crystal#
 7089#Omen_of_Tempest#
@@ -1248,7 +1248,7 @@
 7119#Bacillus#
 7120#Burning_Horseshoe#
 7121#Honey_Pot#
-7122#Burning_Har#
+7122#Burning_Hair#
 7123#Dragon_Skin#
 7124#Sand_Clump#
 7125#Scorpion_Claws#
@@ -1549,13 +1549,13 @@
 2640#Ring#
 1913#Musical_Instrument#
 5098#Mask#
-7285# “¬ ‘≠®πÏ#
-7286#æ√‘°·¥ß#
-566#µÈ¡¬”°ÿÈß#
-567#°ÿÈß #
-568#¡–π“«#
-7287# “¬ ‘≠®πÏ»—°¥‘Ï ‘∑∏‘Ï#
-7288#·À«πÀ¡—Èπ#
+7285#Holy Threads#
+7286#Red Chile#
+566#Tom Yum Goong#
+567#Shrimp#
+568#Lemon#
+7287#Blessed Threads#
+7288#Engagement Ring#
 5099#Neko_Mimi#
 7289#Peridot#
 7290#Phlogopite#
@@ -1566,11 +1566,11 @@
 7295#Citrin#
 7296#Pyroxene#
 7297#Biotite#
-7298#„∫‰¡È#
-7299#°√–®“¥#
-7300#Õ—≠¡≥’#
-7301#æŸË#
-7302#°√–∑ß#
+7298#Fig Leaf#
+7299#Straw Basket#
+7300#Gemstone#
+7301#Tassel#
+7302#Krathong#
 685#Ramadan#
 9026#Zealotus_Egg#
 9027#Alice_Egg#
@@ -1660,7 +1660,7 @@
 4192#Rotar_Zairo_Card#
 4193#Lude_Card#
 4194#Rybio_Card#
-4195#»√’π«≈_Card#
+4195#Leaf_Cat_Card#
 4196#Marin_Card#
 4197#Mastering_Card#
 4198#Maya_Purple_Card#
@@ -1760,7 +1760,7 @@
 4292#Kobold_Archer_Card#
 4293#Cookie_Card#
 4294#Quve_Card#
-4295#°√–À—ß_Card#
+4295#Kraben_Card#
 4296#Cramp_Card#
 4297#Cruiser_Card#
 4298#Creamy_Fear_Card#
@@ -1769,7 +1769,7 @@
 4301#Killer_Mantis_Card#
 4302#Tao_Gunka_Card#
 4303#Whisper_Boss_Card#
-4304#¬—°…Ï_Card#
+4304#Tamruan Card#
 4305#Turtle_General_Card#
 4306#Toad_Card#
 4307#Beetle_Card#
@@ -1834,13 +1834,15 @@
 2645#Accessory#
 5103#Hat#
 1244#Knife#
-7328# ¡È«π∫—π∑÷°µ”π“π ß°√“πµ #
-7329#°ÿ®∑Õß·¥ß‡°Ë“Ê#
+7328#Legendary_Scroll#
+7329#Old_Copper_Key#
 2646#Bunch_of_Carnation#
 5104#Helm#
 12021#Pork#
 12022#Galbi#
+
 //---------- 2005 Halloween Event
+
 5134#Pumpkin-Head#
 7460#Niflheim_Express_Ticket#
 7461#Blue_A_Card#
@@ -2702,14 +2704,17 @@
 1772#Holy_Arrow#
 
 //----------------------Peauch Monkol Day Event-------------------------------
-7867#∂ÿßß“#
-7868#πÈ”‡ª≈Ë“#
-7869#∂ÿß¢È“«#
-7870#¢È“«‚æ¥#
-7871#∂ÿß∂—Ë«#
-7872#À≠È“ÕËÕπ#
+
+7867#Sesame Bag#
+7868#Fresh Water#
+7869#Rice Pouch#
+7870#Corn#
+7871#Bean Bag#
+7872#Herb#
 5300#Helm#
+
 //--------------mobile items added----------------------
+
 5153#Accessory#
 5179#Headgear#
 5211#Hat#
@@ -2728,7 +2733,9 @@
 5225#Hat#
 5151#Note_Headphone#
 5198#Hat#
+
 // -------------- mobile headgear added 20070612 --------------
+
 5189#Hat#
 5188#Hat#
 5150#Hat#
@@ -2736,7 +2743,9 @@
 5148#Headgear#
 2358#Armor#
 5243#Hat#
+
 // ------------------ Package Headgear added(070710) ------------------
+
 5310#Hairband#
 5311#Accessory#
 5312#Hat#
@@ -2744,17 +2753,21 @@
 5314#Mask#
 5315#Accessory#
 5319#Hat#
+
 // ----------------- Package Headgear ------------------
+
 5324#Hat#
 5325#Glass#
 13553#Dungeon_Teleport_Scroll_5_Box#
 14527#Dungeon_Teleport_Scroll#
 
 // ---------------- ??? ??? -----------------
+
 13710#Gym_Membership_Card_Box#
 7776#Gym_Membership_Card#
 
 // ---------------- ????? 20070702 -----------------
+
 13711#Small_Life_Potion_10_Box#
 13712#Small_Life_Potion_30_Box#
 13713#Small_Life_Potion_50_Box#
@@ -2900,7 +2913,7 @@
 12243#Mercenary_Berserk_Potion#
 
 //------------ 2008 Legend of Adventurer--------------------------
-7805#Brown_Jenossís_Family_Ring#
+7805#Brown_Jenoss's_Family_Ring#
 7806#God_Anvil#
 7807#God_Mineral#
 7808#God_Hammer#
@@ -3465,6 +3478,7 @@
 5353#Helm#
 
 // ----------------- Via Moscow (localizing) ------------------
+
 7760#Yaga's_Magic_Book#
 7761#Magic_Gourd_Bottle#
 7762#Yaga's_Pestle#
@@ -3474,6 +3488,7 @@
 2707#Musical_Instrument#
 
 //----Moscovia 2nd---------- Immortal Koshei?---------------
+
 7876#Golden_Key#
 7877#Red_Ring#
 7878#Lusalka's_Hair#
@@ -3486,9 +3501,11 @@
 2430#Shoes#
 
 // ---------- 2008 09.23 Cash item update ----------
+
 5373#Helm#
 
 // ---------- Thai Pinwheel Cap ----------
+
 5458#Pinwheel_Cap#
 
 // ---------- 2008. 09. 30. Cah item update ----------
@@ -3642,7 +3659,6 @@
 5235#Hat#
 5236#Hat#
 5237#Hat#
-
 
 // -------- 2009 Valentine's Day Event ----------
 12742#Valentine_Gift_Box#
@@ -4292,7 +4308,7 @@
 
 // ------------------- 2010 03.23. Brasilis Update ------------------------------
 6237#Guarana_Fruit#
-11515#coconut#
+11515#Coconut#
 11516#Asai_Fruit#
 11517#Puri_Potion#
 12414#Guarana_Candy#
@@ -4486,7 +4502,7 @@
 12737#General_Rough_Runestone#
 12738#Rare_Rough_Runestone#
 12333#Ansila#
-7931#Posison_Kit#
+7931#Poison_Kit#
 7932#Poison_Herb_Nerium#
 7933#Poison_Herb_Rantana#
 7934#Poison_Herb_Makulata#
@@ -5039,7 +5055,9 @@
 18600#Hairband#
 18601#Hairband#
 18603#Glasses#
+
 //------------RWC 2011 furtuneeggs 10.11 -----------------------
+
 12391#Fortune_Egg#
 12403#Fortune_Egg_II#
 12416#Fortune_Egg_III#
@@ -5072,6 +5090,7 @@
 5520#Hat#
 
 // ---------- EP13.3 New items ------------
+
 6321#Rake_Horn_Helm#
 6322#Antler_Helm#
 6323#Twin_Horn_Helm#
@@ -5314,7 +5333,7 @@
 19587#Hat#
 12676#WoE_Violet_Potion_Box#
 12623#High_Weapon_box#
-12531#'White_Potion_Box#
+12531#White_Potion_Box#
 12539#Splendid_Box#
 12608#Splendid_Box_2#
 1290#Katar#
@@ -5562,14 +5581,16 @@
 18679#Accessory#
 
 //-------------------- Event Christmas 2012
+
 6681#XMAS_Cookie#
 6682#Bag_Of_Selling_Goods#
 18850#Hat#
 18851#Hat#
 
 //-------------------- New_22_Card_Items_4456-4477
+
 4456#Nidhogg_Shadow_Card#
-4457#naght_Sieger_Card#
+4457#Naght_Sieger_Card#
 4458#Duneyrr_Card#
 4459#Rata_Card#
 4460#Rhyncho_Card#
@@ -5592,6 +5613,7 @@
 4477#Hell_Apocalypse_Card#
 
 //-------------------- ITem for 14.1 [17/12/2012]
+
 2011#Empowered_Golden_Rod_Staff#
 2012#Empowered_Aqua_Staff#
 2013#Empowered_Crimson_Staff#
@@ -5600,7 +5622,6 @@
 16018#Empowered_Mace_Of_Judgement#
 1657#Wand_Of_Affection#
 16013#Mace_Of_Judgement#
-
 2475#Shoes#
 2476#Shoes#
 2574#Manteau#
@@ -5742,11 +5763,13 @@
 12379#Pope's_Cookie#
 
 //-------- Item update 26 / 2 / 2013
+
 18691#Hairband#
 18731#Head_Gear#
 18695#Hat#
 
 //------ Item Update with Auger Of Spirit --------
+
 18607#Helm#
 18608#Accessory#
 18609#Helm#
@@ -5757,13 +5780,12 @@
 
 18640#Hair_Band#
 2579#Outwear#
-5788#glasses#
+5788#Glasses#
 15058#Garment#
 2913#Accessory#
 
-
-
 //----- Update Songkran event 2013
+
 7652#Kannam#
 7653#Kannam_Sa-ard#
 22572#Songkran1#
@@ -5773,8 +5795,6 @@
 22576#Songkran5#
 22577#Songkran6#
 22578#Songkran7#
-
-
 
 //---------- Update Sealed Card 4/4/2013
 
@@ -5959,8 +5979,8 @@
 13291#Starfish#
 13292#Dried_Squid#
 13293#Flying_Fish#
-16015#club#
-16016#club#
+16015#Club#
+16016#Club#
 18960#Headgear#
 4526#Odd_Coelacanth_Card#
 4527#Black_Coelacanth_Card#
@@ -6047,28 +6067,28 @@
 19662#Helmet#
 19678#Ribbon#
 19733#Helmet#
-19737#hat#
+19737#Hat#
 19744#Accessory#
 19781#Accessory#
 19826#Accessory#
-19827#hat#
-19828#hat#
-19829#hat#
+19827#Hat#
+19828#Hat#
+19829#Hat#
 19830#Glasses#
-19831#hat#
+19831#Hat#
 19832#Helmet#
 19833#Hairband#
-19834#hat#
-19835#hat#
+19834#Hat#
+19835#Hat#
 19836#helm#
-19837#hat#
+19837#Hat#
 19838#Mask#
 19839#hat#
 19840#Helmet#
 19841#Helmet#
 19842#Helmet#
-19852#hat#
-19854#hat#
+19852#Hat#
+19854#Hat#
 2985#Accessory#
 20706#Garment#
 6834#Legendary_Fur#
@@ -6159,18 +6179,18 @@
 19922#Hat#
 19923#Hat#
 19925#Glasses#
-19926#Accessary#
+19926#Accessory#
 19927#Hat#
-19929#Accessary#
+19929#Accessory#
 19930#Hat#
 19928#Hairband#
 19924#Helm#
 19871#Hat#
-18917#Accessary#
+18917#Accessory#
 18892#Hat#
-18895#Accessary#
-18897#Accessary#
-18740#Accessary#
+18895#Accessory#
+18897#Accessory#
+18740#Accessory#
 1322#Axe#
 1936#instrument#
 1991#Whip#
@@ -6185,21 +6205,23 @@
 16036#Mace#
 28005#Katar#
 28600#Book#
+
 //14.2
-2915#Accssory#
-2916#Accssory#
-2917#Accssory#
-2918#Accssory#
-2919#Accssory#
-2920#Accssory#
-2921#Accssory#
-2922#Accssory#
-2923#Accssory#
-2924#Accssory#
-2925#Accssory#
-2926#Accssory#
-2927#Accssory#
-2928#Accssory#
+
+2915#Accessory#
+2916#Accessory#
+2917#Accessory#
+2918#Accessory#
+2919#Accessory#
+2920#Accessory#
+2921#Accessory#
+2922#Accessory#
+2923#Accessory#
+2924#Accessory#
+2925#Accessory#
+2926#Accessory#
+2927#Accessory#
+2928#Accessory#
 6081#Splendide_Coin#
 6539#Old_Left_Lapine#
 6540#Golden_Leaf#
@@ -6231,8 +6253,8 @@
 19548#Hat#
 19549#Headgear#
 19550#Headgear#
-19551#Accssory#
-19552#Accssory#
+19551#Accessory#
+19552#Accessory#
 19553#Mask#
 19554#Mask#
 6564#Captive_Hatchling#
@@ -6244,16 +6266,16 @@
 14711#Lucky_Egg_10TW#
 14712#Luckyspirit Egg#
 18642#Mask#
-18858#accessory#
+18858#Accessory#
 18912#Hat#
-18750#accessory#
+18750#Accessory#
 20707#Garment#
-18740#accessory#
-18919#accessory#
+18740#Accessory#
+18919#Accessory#
 17494#Happy_Time_Scroll#
 18667#Hairband#
 18674#Hat#
-5656#helm#
+5656#Helm#
 11550#Pumpkin_Cake#
 11592#Trans_Candy_Red#
 11593#Trans_Candy_Blue#
@@ -6805,12 +6827,12 @@
 19788#Glasses#
 20020#Hat#
 20021#Hairband#
-20022#accessory#
+20022#Accessory#
 20023#Hat#
-20024#accessory#
-20031#accessory#
-20032#accessory#
-20033#accessory#
+20024#Accessory#
+20031#Accessory#
+20032#Accessory#
+20033#Accessory#
 
 //---------Valentine_2016------------
 20470#Hat#

@@ -24321,14 +24321,11 @@ Compound on: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4278#
-Gibbet Card.
-Add MDEF +5 if the
-headgear to which the
-Gibbet Card is compounded has an Upgrade Level
-no greater than +5.
-Class : ^777777Card^000000
+[If Int < 21]
+MDEF +5
+Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 4279#
 Earth Deleter Card.
@@ -24456,19 +24453,11 @@ Compound on: ^777777Garment^000000
 Weight : ^7777771^000000
 #
 4288#
-Carat Card.
-Int +2.
-This card also adds
-an additional +150
-Max SP bonus if the
-headgear to which
-the Carat Card is
-compounded has been
-upgraded to Upgrade
-Level +9 or higher.
-Class : ^777777Card^000000
+Int +2
+Max SP is increased by formula (Job Lv. * 3)
+Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 4289#
 Caterpillar Card.
@@ -40119,7 +40108,6 @@ Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
 Jobs : ^777777All^000000
 #
-
 5276#
 Wig with red, white and black colors.
 When equipped, increases movement speed.
@@ -40131,6 +40119,7 @@ Jobs : ^777777All^000000
 #
 
 // --------------- 브라질 캐쉬 아이템 20070605 ------------
+
 5307#
 A hat made with tropical fruits. It looks delicious.
 MDEF + 3
@@ -40141,18 +40130,23 @@ Jobs : ^777777All^000000
 #
 
 // -------------- 태국 캐쉬아이템 Headgear 추가 20070809 --------------
+
 5325#
-A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
-ATK, MATK + 2%, Dex + 1
-^ff0000this item is account bound^000000
-Class : ^777777Headgear^000000    Defense : ^7777772^000000
-Location : ^777777Middle^000000
-Weight : ^77777720^000000
-Required Level : ^77777710^000000
-Jobs : ^777777All^000000
+^FF0000Account bound^000000
+Glasses that allow you to emit beams from your eyes. They seem to have been made in the outer space.
+Not refinable
+Dex +1
+P./M. damage +3%
+^FF0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777772^000000    Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 
 // -------------- 2007년 9월 일본 모바일 Headgear 13종 -----------------
+
 5333#
 A hat designed to transmit electric waves. Sometimes it receives electric waves from external worlds.
 MDEF + 2

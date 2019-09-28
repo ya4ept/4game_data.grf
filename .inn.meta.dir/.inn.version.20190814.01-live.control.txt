@@ -1,0 +1,22 @@
+distribution {1}
+    version=20190814.01-live
+    type=env
+    env=live
+    files=./live/
+    control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    deleted-control-hash=79d6a47e513c1104fa921a7eb74498fffd7f8dde
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=0
+    size=0
+    compressed-size-total=1774836914
+    size-total=1802306440
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2019-08-14T06:04:48+03:00
+    date-modified=2019-08-14T06:04:48+03:00
+    running-time-sec=341
+
