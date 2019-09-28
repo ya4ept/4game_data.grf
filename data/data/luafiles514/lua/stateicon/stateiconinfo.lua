@@ -3609,3 +3609,39 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
 		{ "%s", COLOR_TIME }
 	}
 }
+StateIconList[EFST_IDs.EFST_AID_PERIOD_DEADPENALTY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Death penalty reduced", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Death penalty Exp loss -2%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Inventory expanded", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Inventory slots +300" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Item drop rate increased", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Item drop rate +15%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Exp gain increased", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Exp +30%" }
+	}
+}

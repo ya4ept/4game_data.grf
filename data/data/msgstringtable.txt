@@ -1695,7 +1695,7 @@ Only alphabet and numbers are available.#
 Notice#
 Item purchase failed due to incorrect shop information.#
 Can drop from inventory window.#
-Time#
+hr.#
 Map#
 You cannot use, equip or unequip items while trading.#
 You cannot manage equipment or use skills while trading.#
@@ -1805,8 +1805,8 @@ No available shops#
 Out of the price limit.#
 General#
 Costume#
-minute#
-second#
+min.#
+sec.#
 Please enter the item name.#
 Such item does not exist.#
 The map is unavailable.#

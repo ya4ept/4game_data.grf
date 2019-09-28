@@ -1,3 +1,19 @@
+04.09.2019 part2
+
+Mehashefa
+@everyone Fixing Premium  taking more time, than we had expected. We will announce, when all fixes will be done and server will be ready for opening
+
+Mehashefa
+Unscheduled Maintenance results:
+
+- Premium fix. Now it is working on all your characters, not on one 
+- Premium re-use fix. You can use it only once now
+- Bubble Gum, Battle Manual, Job Manual fix. You can't use it twice while effect from previous use is active
+
+Thank you for your patience and understanding. 
+Also, we are working with localization issues and BM(shortcuts) issue too. All your reports are very helpful for us
+
+==========
 04.09.2019
 
 Mehashefa
