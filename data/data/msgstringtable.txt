@@ -3033,7 +3033,7 @@ Please finish your current work and try it again.#
 %.1f%% (Internet-Cafe %.1f%% + TPLUS %.1f%% + %sServer %.1f%%)#
 The item cannot be registered.#
 /300#
-/4000#
+/2000#
 3037#
 3038#
 3039#

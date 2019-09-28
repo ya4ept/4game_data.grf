@@ -1,0 +1,79 @@
+distribution {4}
+    version=20190807.01
+    type=full
+    env=
+    files=../../20190807.01/distr/
+    control-hash=237451c5ecc478fd08d2520d2859892fb4a92e5a
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1774832857
+    size=1802278280
+    compressed-size-total=1774832857
+    size-total=1802278280
+    compressed-stages=
+
+    version=20190807.02
+    type=partial
+    env=
+    files=../../20190807.02/distr/
+    control-hash=c47c63b0d4adeca6987a3ee8c4057df67daefa26
+    deleted-control-hash=5c5421d9d5fe2dcff3507f1af53a4d9b91fe5aae
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1466325600
+    size=1466325600
+    compressed-size-total=1774832857
+    size-total=1802278280
+    compressed-stages=
+
+    version=20190814.01
+    type=partial
+    env=
+    files=../../20190814.01/distr/
+    control-hash=687fb0a903c81a404c69f28c2be6c86da2d5402a
+    deleted-control-hash=79d6a47e513c1104fa921a7eb74498fffd7f8dde
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1468211370
+    size=1475205112
+    compressed-size-total=1774836914
+    size-total=1802306440
+    compressed-stages=
+
+    version=20190821.01
+    type=partial
+    env=
+    files=./
+    control-hash=c11b275c44d8b822296d15c6f7ca2b76b1881b83
+    deleted-control-hash=b4611021527d2b124b13aff5e0993534fa8343be
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=1466407134
+    size=1466488688
+    compressed-size-total=1774360331
+    size-total=1800930840
+    compressed-stages=
+
+delta {3}
+    version=20190807.01
+    files=../delta/20190807.01/
+    compressed-size=6301945
+    control-hash=f05294b6e90e4c870b77b5d592d75c882a75c124
+
+    version=20190807.02
+    files=../delta/20190807.02/
+    compressed-size=5126407
+    control-hash=4b591aac2339669646d665fa0e08c2ac72a8f9c8
+
+    version=20190814.01
+    files=../delta/20190814.01/
+    compressed-size=1325694
+    control-hash=84ee2ecf1752e5d9b0484e3b9c479c8a2a64945e
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2019-08-20T16:48:57+03:00
+    date-modified=2019-08-20T16:48:57+03:00
+    running-time-sec=392
+
