@@ -3645,3 +3645,13 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 		{ "Exp +30%" }
 	}
 }
+StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Steamed Pork Ribs", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "ASPD +5%" },
+		{ "SP consumption decreased by 2%" }
+	}
+}

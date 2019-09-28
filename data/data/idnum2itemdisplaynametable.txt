@@ -374,7 +374,7 @@
 922#Orc's_Fang#
 923#Evil_Horn#
 924#Powder_of_Butterfly#
-925#Bill_of_Birds#
+925#Bill_of_Bird#
 926#Snake_Scale#
 928#Insect_Feeler#
 929#Immortal_Heart#
@@ -459,7 +459,7 @@
 1010#Phracon#
 1011#Emveretarcon#
 1012#Frill#
-1013#Rainbow_Shell#
+1013#Rainbow_Shells#
 1014#Ant_Jaw#
 1015#Tongue#
 1016#Rat_Tail#
@@ -507,7 +507,7 @@
 1058#Moth_Wings#
 1059#Fabric#
 1060#Golden_Hair#
-1061#Witch_Starsand#
+1061#Witch's Starsand#
 1062#Jack_of_Pumpkin#
 1063#Fang#
 1064#Reins#
@@ -579,7 +579,7 @@
 603#Old_Blue_Box#
 604#Dead Branch#
 605#Anodyne#
-606#Aloevera#
+606#Aloe Vera#
 608#Yggdrasil_Seed#
 609#Amulet#
 610#Yggdrasil_Leaf#
@@ -1153,7 +1153,7 @@
 7063#Soft_Feather#
 7064#Wing_of_Dragonfly#
 7065#Sea-otter_Fur#
-7066#Ice_Cubic#
+7066#Ice Cube#
 7067#Stone_Fragment#
 7068#Burnt_Tree#
 7069#Destroyed_Armor#
@@ -1381,7 +1381,7 @@
 7178#Sobbing_Starlight#
 555#Traditional_Rice_Cake#
 7179#Proof_of_Donation#
-668#Red_Envelope#
+668#Red Envelope#
 
 
 
@@ -1491,7 +1491,7 @@
 7250#Spirit_of_Glory#
 7251#Spirit_of_Victory#
 7252#Herbal_Medicine#
-679#Pilule#
+679#Gold Pills#
 7253#Golden_Korean_Flag#
 7254#Digital_Picture_Printing_Coupon#
 11000#History_book_of_Prontera#
@@ -1499,11 +1499,11 @@
 563#Doublecrust_Swiss_Fondue#
 
 // ----- China local map -----
-7262#Folding_Fan_of_Cat_Ghost#
+7262#Folding Fan#
 7263#Cat's_Eye#
 7264#Dry_Sand#
 7265#Dragon_Horn#
-7266#Denture_from_Dragon_Mask#
+7266#Dragon Fangs#
 7267#Tiger_Panty#
 7268#Little_Ghost_Doll#
 7269#Pinafore#
@@ -1720,7 +1720,7 @@
 4199#Merman_Card#
 4200#Megalith_Card#
 4201#Majoruros_Card#
-4202#Cat_Official_Card#
+4202#Mao Guai Card#
 4203#Mutant_Dragonoid_Card#
 4204#Mini_Demon_Card#
 4205#Mimic_Card#
@@ -1783,7 +1783,7 @@
 4262#Cloud_Hermit_Card#
 4263#Incantation_Samurai_Card#
 4264#Wind_Ghost_Card#
-4265#Tiger_Guised_Fiend_Card#
+4265#Jing Guai Card#
 4266#Eclipse_Card#
 4267#Explosion_Card#
 4268#Injustice_Card#
@@ -5123,7 +5123,7 @@
 12375#Akaraje#
 12411#HE_Battle_Manual#
 5601#Banana_Beret#
-12274#HP_Pill#
+12274#Gold Pill Extra#
 5600#Cute_Twin_Ribbon#
 2736#Navel_Ring#
 
@@ -6325,7 +6325,6 @@
 12646#Takoyaki#
 12647#Ink_Ball#
 11538#Fresh_Octopus_Leg#
-668#New_Year_Pocket_Money#
 14699#Garuda Scroll#
 17307#Midgard_Scroll#
 12194#Hometown_Gift#
@@ -7175,7 +7174,6 @@
 14559#Shell_Soup#
 22658#Braised_ShortRibs#
 14562#Tentacle_Cheese_Soup#
-22659#Braised_Spareribs#
 14565#Ice_Blended_Fruits#
 14568#Sugar_Special#
 12266#Sesame_Pastry#
@@ -7405,7 +7403,6 @@
 14883#Music_Scroll#
 14884# Weather_Scroll#
 
-script
 7360#RO Festival Invitation#
 7361#Lotto Ball 01#
 7362#Lotto Ball 02#
@@ -7741,7 +7738,7 @@ script
 14577#Spicy Fried Bao#
 14579#Green Salad#
 7891#Mug#
-5807#October Fest Cap#
+5807#Oktoberfest Cap#
 12711#Pretzel#
 12712#Green Beer#
 5352#Poporing Cap#
@@ -7979,7 +7976,7 @@ script
 5411#White Snake Hat#
 5414#Campfire Hat#
 5415#Poring Cake Hat#
-5416#Beer Hat#
+5416#Beer Cap#
 14296#Angel Scroll#
 7922#RWC Event Ticket#
 5418#Soldier Hat#
@@ -8011,7 +8008,7 @@ script
 14316#Love Scroll#
 2776#Adventurer's Trusty Towel#
 12336#Baked#
-12337#Grilled#
+12337#Grilled Sausage#
 12338#Grilled#
 6060#Beast Summoning Seal#
 12340#Chewy Rice Powder#
@@ -8499,7 +8496,6 @@ script
 20285#Fluttering Cherry Blossoms#
 20297#Costume: Cactus Hat#
 31123#Ghostring Tall Hat#
-20299#Costume: Face Crasher#
 19876#Costume: Rabbit Ear Hat#
 20145#Costume: Robo Eye#
 20146#Costume: Angel's Masquerade#
@@ -8547,7 +8543,6 @@ script
 31300#Warm Cat Muffler#
 
 31591#Crown of Might#
-31165#Piggyback#
 
 19816#Peco Peco Cap#
 20488#Golden Ribbons#
@@ -8573,3 +8568,14 @@ script
 
 20441#Red Ribbon Muffler#
 31453#Black Ribbon Muffler#
+
+// Oktoberfest luckybox 2019
+31087#Mighty Beard#
+31165#Dizzy Novice#
+20299#Cake Pillow#
+9701#Treasure of Oktoberfest#
+22624#Riesen_Brezel#
+22625#Oktoberfest_Bag#
+22659#Steamed Pork Ribs#
+14530#Evasion Scroll#
+12193#Brezel#

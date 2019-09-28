@@ -334,6 +334,9 @@ Weight: ^77777710^000000
 A basic herbal emollient made from Aloe extract. Despite its stench and sour taste, it's addictive if regularly eaten.
 ^ffffff_^000000
 Weight: ^77777710^000000
+^FFFFFF_^000000
+Casts ^0000FFLevel 1 Provoke^000000.
+Decrease DEF, increase ATK for 30 sec.
 #
 607#
 A fruit from the Yggdrasil tree which brings life to our world. Its fantastic taste is full of life.
@@ -5369,7 +5372,7 @@ STR +4
 +20% Mammonite Damage
 +1 SP per attack.
 +7% Max HP/SP
-Alchemist Class Bonus:
+^6A5ACDAlchemist Class Bonus:^000000
 A chance of auto casting 
 level 1 Adrenaline Rush 
 when attacking physically.
@@ -5414,7 +5417,7 @@ A chance of auto casting
 level 5 Strip Armor 
 if level 5 Strip Armor is 
 learned.
-Rogue Class Bonus:
+^6A5ACDRogue Class Bonus:^000000
 -20% SP Consumption
 Disables the Auto-Snatch
 ability of the 
@@ -8767,8 +8770,7 @@ A kind of drink made from chocolate and milk from one of the Royal Court Dessert
 weight: ^77777715^000000
 #
 668#
-A red envelope which is given to children on New Year's Day.
-It seems to contain something that will make its recipient very happy.
+A red envelope. It seems to contain something that will make its recipient very happy.
 ^ffffff_^000000
 Weight: ^7777772^000000
 #
@@ -10294,7 +10296,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4154#
-Dumpling Kid Card.
+Rice Cake Boy Card.
 Add the chance of gaining 'Candy/Candy Cane' item each time a Demi Human monster is killed.
 Candy and Candy Cane restore 50% more HP.
 Class: ^777777Card^000000
@@ -10449,7 +10451,7 @@ when attacking.
 ^3CB371Wanderer Card^000000
 ^3CB371Wild Rose Card^000000
 ^3CB371Shinobi Card^000000
-^3CB371Zhu Po Long Card^000000
+^3CB371Dancing Dragon Card^000000
 ^3CB371The Paper Card^000000
 AGI +5
 STR +5
@@ -10459,7 +10461,7 @@ Increase in attack speed by 5%(Delay after attacking reduces by 5%)
 Disable the Auto-Snatch 
 ability of the 
 Wanderer Card
-Thief Class Bonus: 
+^6A5ACDThief Class Bonus:^000000 
 No Gemstones required to 
 use certain skills.
 
@@ -10523,7 +10525,7 @@ AGI +5
 DEX +3
 +20% Seeking Attack 
 (which never miss its target)
-Archer Class Bonus:
+^6A5ACDArcher Class Bonus:^000000
 A low chance of 
 auto casting Coma on 
 Brute class monsters 
@@ -10541,7 +10543,7 @@ Dex +5
 +5% Arrow Vulcan Damage
 +10% Melody Strike Damage 
 +10% Slinging Arrow Damage
-Bard or Dancer Class Bonus:
+^6A5ACDBard or Dancer Class Bonus:^000000
 A low chance of 
 auto casting
 level 2 Tarot Card of Fate 
@@ -10613,7 +10615,7 @@ Acolyte Class characters.
 VIT +10
 -10% Cast Time
 -10% SP Consumption
-Acolyte Class Bonus:
+^6A5ACDAcolyte Class Bonus:^000000
 -30% damage from Undead 
 and Demon monsters.
 +5% EXP from Demon and 
@@ -10632,7 +10634,7 @@ A chance of casting
 level 5 Signum Crusis with 
 each physical attack.
 Guillotine Fist Damage +10%
-Monk Class Bonus:
+^6A5ACDMonk Class Bonus:^000000
 Uninterruptable Cast
 SP consumpion -10%.
 
@@ -10649,11 +10651,11 @@ STR +1, VIT +1.
 ^3CB371Baby Leopard Card^000000
 ^3CB371Raggler Card^000000
 ^3CB371Myst Case Card^000000
-^3CB371Heirozoist Card^000000
+^3CB371Hylozoist Card^000000
 LUK +10
 +20% Mammonite Damage
 + 2 SP per attack.
-Merchant Class Bonus:
+^6A5ACDMerchant Class Bonus:^000000
 20% chance of reflecting 
 Magic spells.
 A chance of gaining 
@@ -10670,7 +10672,7 @@ STR +4
 +20% Mammonite Damage
 +1 SP per attack.
 +7% Max HP/SP
-Alchemist Class Bonus:
+^6A5ACDAlchemist Class Bonus:^000000
 A chance of auto casting 
 level 1 Adrenaline Rush 
 when attacking physically.
@@ -10718,20 +10720,20 @@ Add the chance of auto
 casting level 3 Heal skill 
 on the user when receiving 
 Physical Damage.
-^99FF66Wizard Card Set^000000
-^00FF00Loli Ruri Card^000000
-^00FF00Parasite Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Evil Nymph^000000
-^00FF00Harpy Card^000000
-^00FF00Bloody Butterfly Card^000000
+^6A5ACDWizard Card Set^000000
+^3CB371Loli Ruri Card^000000
+^3CB371Parasite Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Evil Nymph^000000
+^3CB371Harpy Card^000000
+^3CB371Bloody Butterfly Card^000000
 +500 HP
 +5 MDEF
 +5 DEF
 +10% Damage using 
 the Cold Bolt, Fire Bolt, 
 Lightning Bolt skills.
-^00FF00Mage Class only Bonuses^000000
+^3CB371Mage Class only Bonuses^000000
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
@@ -10812,7 +10814,7 @@ AGI +5
 DEX +3
 +20% Seeking Attack 
 (which never miss its target)
-Archer Class Bonus:
+^6A5ACDArcher Class Bonus:^000000
 A low chance of 
 auto casting Coma on 
 Brute class monsters 
@@ -10840,7 +10842,7 @@ Weight: ^7777771^000000
 #
 4202#
 Mao Guai Card.
-Inflict 20% more damage on Ghost Property.
+Inflict 20% more damage on Ghost type monsters.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -10880,11 +10882,11 @@ a monster is killed.
 ^3CB371Baby Leopard Card^000000
 ^3CB371Raggler Card^000000
 ^3CB371Myst Case Card^000000
-^3CB371Heirozoist Card^000000
+^3CB371Hylozoist Card^000000
 LUK +10
 +20% Mammonite Damage
 + 2 SP per attack.
-Merchant Class Bonus:
+^6A5ACDMerchant Class Bonus:^000000
 20% chance of reflecting 
 Magic spells.
 A chance of gaining 
@@ -10907,16 +10909,16 @@ Weight: ^7777771^000000
 Miyabi Doll Card.
 Max SP +10%.
 Inflict 5% more damage with Frost Diver skill.
-^99FF66Sage Card Set^000000
-^00FF00Yellow Novus Card^000000
-^00FF00Evil Nymph Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Bloody Butterfly Card^000000
-^00FF00Harpy Card^000000
+^6A5ACDSage Card Set^000000
+^3CB371Yellow Novus Card^000000
+^3CB371Evil Nymph Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Bloody Butterfly Card^000000
+^3CB371Harpy Card^000000
 +3 INT
 +10% Thunderstorm Damage
 +10% Heaven Drive Damage
-^00FF00Sage only Bonuses^000000
+^3CB371Sage only Bonuses^000000
 +20% chance to reflect Magic
 20% Faster cast
 Adds a low chance of 
@@ -10924,20 +10926,20 @@ dropping Red or Yellow
 Gemstones when defeating 
 monsters.
 
-^99FF66Wizard Card Set^000000
-^00FF00Loli Ruri Card^000000
-^00FF00Parasite Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Evil Nymph^000000
-^00FF00Harpy Card^000000
-^00FF00Bloody Butterfly Card^000000
+^6A5ACDWizard Card Set^000000
+^3CB371Loli Ruri Card^000000
+^3CB371Parasite Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Evil Nymph^000000
+^3CB371Harpy Card^000000
+^3CB371Bloody Butterfly Card^000000
 +500 HP
 +5 MDEF
 +5 DEF
 +10% Damage using 
 the Cold Bolt, Fire Bolt, 
 and Lightning Bolt skills.
-^00FF00Mage Class only Bonuses^000000
+^3CB371Mage Class only Bonuses^000000
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
@@ -10966,7 +10968,7 @@ Flee Rate +20.
 ^3CB371Wanderer Card^000000
 ^3CB371Wild Rose Card^000000
 ^3CB371Shinobi Card^000000
-^3CB371Zhu Po Long Card^000000
+^3CB371Dancing Dragon Card^000000
 ^3CB371The Paper Card^000000
 AGI +5
 STR +5
@@ -10975,7 +10977,7 @@ ASPD +5%
 Disable the Auto-Snatch 
 ability of the 
 Wanderer Card
-Thief Class Bonus: 
+^6A5ACDThief Class Bonus:^000000 
 No Gemstones required to 
 use certain skills.
 
@@ -10992,7 +10994,7 @@ A chance of auto casting
 level 5 Strip Armor 
 if level 5 Strip Armor is 
 learned.
-Rogue Class Bonus:
+^6A5ACDRogue Class Bonus:^000000
 -20% SP Consumption
 Disables the Auto-Snatch
 ability of the 
@@ -11081,7 +11083,7 @@ level 10 Heal.
 VIT +10
 -10% Cast Time
 -10% SP Consumption
-Acolyte Class Bonus:
+^6A5ACDAcolyte Class Bonus:^000000
 -30% damage from Undead 
 and Demon monsters.
 +5% EXP from Demon and 
@@ -11237,7 +11239,7 @@ near to a wall.
 ^3CB371Wanderer Card^000000
 ^3CB371Wild Rose Card^000000
 ^3CB371Shinobi Card^000000
-^3CB371Zhu Po Long Card^000000
+^3CB371Dancing Dragon Card^000000
 ^3CB371The Paper Card^000000
 AGI +5
 STR +5
@@ -11246,7 +11248,7 @@ ASPD +5%
 Disable the Auto-Snatch 
 ability of the 
 Wanderer Card
-Thief Class Bonus: 
+^6A5ACDThief Class Bonus:^000000 
 No Gemstones required to 
 use certain skills.
 
@@ -11263,7 +11265,7 @@ A chance of auto casting
 level 5 Strip Armor 
 if level 5 Strip Armor is 
 learned.
-Rogue Class Bonus:
+^6A5ACDRogue Class Bonus:^000000
 -20% SP Consumption
 Disables the Auto-Snatch
 ability of the 
@@ -11274,14 +11276,14 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4231#
-Mi Gao Card.
+Enchanted Soil Card.
 Receive 50% less damage from Guardians during War of Emperium hours.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4232#
-Hermit Plant Card.
+Wild Ginseng Card.
 Add the chance of gaining 'Red/Yellow/White Herb' item each time a Plant monster is killed.
 Herb items restore 50% more HP.
 Class: ^777777Card^000000
@@ -11300,11 +11302,11 @@ cannot be damaged.
 ^3CB371Baby Leopard Card^000000
 ^3CB371Raggler Card^000000
 ^3CB371Myst Case Card^000000
-^3CB371Heirozoist Card^000000
+^3CB371Hylozoist Card^000000
 LUK +10
 +20% Mammonite Damage
 + 2 SP per attack.
-Merchant Class Bonus:
+^6A5ACDMerchant Class Bonus:^000000
 20% chance of reflecting 
 Magic spells.
 A chance of gaining 
@@ -11321,7 +11323,7 @@ STR +4
 +20% Mammonite Damage
 +1 SP per attack.
 +7% Max HP/SP
-Alchemist Class Bonus:
+^6A5ACDAlchemist Class Bonus:^000000
 A chance of auto casting 
 level 1 Adrenaline Rush 
 when attacking physically.
@@ -11357,7 +11359,7 @@ AGI +5
 DEX +3
 +20% Seeking Attack 
 (which never miss its target)
-Archer Class Bonus:
+^6A5ACDArcher Class Bonus:^000000
 A low chance of 
 auto casting Coma on 
 Brute class monsters 
@@ -11375,7 +11377,7 @@ Dex +5
 +5% Arrow Vulcan Damage
 +10% Melody Strike Damage 
 +10% Slinging Arrow Damage
-Bard or Dancer Class Bonus:
+^6A5ACDBard or Dancer Class Bonus:^000000
 A low chance of 
 auto casting
 level 2 Tarot Card of Fate 
@@ -11583,7 +11585,7 @@ AGI +5
 DEX +3
 +20% Seeking Attack 
 (which never miss its target)
-Archer Class Bonus:
+^6A5ACDArcher Class Bonus:^000000
 A low chance of 
 auto casting Coma on 
 Brute class monsters 
@@ -11601,7 +11603,7 @@ Dex +5
 +5% Arrow Vulcan Damage
 +10% Melody Strike Damage 
 +10% Slinging Arrow Damage
-Bard or Dancer Class Bonus:
+^6A5ACDBard or Dancer Class Bonus:^000000
 A low chance of 
 auto casting
 level 2 Tarot Card of Fate 
@@ -11651,7 +11653,7 @@ by Thief Class characters.
 ^3CB371Wanderer Card^000000
 ^3CB371Wild Rose Card^000000
 ^3CB371Shinobi Card^000000
-^3CB371Zhu Po Long Card^000000
+^3CB371Dancing Dragon Card^000000
 ^3CB371The Paper Card^000000
 AGI +5
 STR +5
@@ -11660,7 +11662,7 @@ ASPD +5%
 Disable the Auto-Snatch 
 ability of the 
 Wanderer Card
-Thief Class Bonus: 
+^6A5ACDThief Class Bonus:^000000 
 No Gemstones required to 
 use certain skills.
 
@@ -11677,7 +11679,7 @@ A chance of auto casting
 level 5 Strip Armor 
 if level 5 Strip Armor is 
 learned.
-Rogue Class Bonus:
+^6A5ACDRogue Class Bonus:^000000
 -20% SP Consumption
 Disables the Auto-Snatch
 ability of the 
@@ -11690,16 +11692,16 @@ Weight: ^7777771^000000
 4258#
 Evil Nymph Card.
 INT +1, Max SP +50.
-^99FF66Sage Card Set^000000
-^00FF00Yellow Novus Card^000000
-^00FF00Evil Nymph Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Bloody Butterfly Card^000000
-^00FF00Harpy Card^000000
+^6A5ACDSage Card Set^000000
+^3CB371Yellow Novus Card^000000
+^3CB371Evil Nymph Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Bloody Butterfly Card^000000
+^3CB371Harpy Card^000000
 +3 INT
 +10% Thunderstorm Damage
 +10% Heaven Drive Damage
-^00FF00Sage only Bonuses^000000
+^3CB371Sage only Bonuses^000000
 +20% chance to reflect Magic
 20% Faster cast
 Adds a low chance of 
@@ -11707,20 +11709,20 @@ dropping Red or Yellow
 Gemstones when defeating 
 monsters.
 
-^99FF66Wizard Card Set^000000
-^00FF00Loli Ruri Card^000000
-^00FF00Parasite Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Evil Nymph^000000
-^00FF00Harpy Card^000000
-^00FF00Bloody Butterfly Card^000000
+^6A5ACDWizard Card Set^000000
+^3CB371Loli Ruri Card^000000
+^3CB371Parasite Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Evil Nymph^000000
+^3CB371Harpy Card^000000
+^3CB371Bloody Butterfly Card^000000
 +500 HP
 +5 MDEF
 +5 DEF
 +10% Damage using 
 the Cold Bolt, Fire Bolt, 
 and Lightning Bolt skills.
-^00FF00Mage Class only Bonuses^000000
+^3CB371Mage Class only Bonuses^000000
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
@@ -11753,7 +11755,7 @@ Weight: ^7777771^000000
 #
 4262#
 Cloud Hermit Card.
-Add the chance of gaining 'Black Cloud' item each time a Plant monster is killed.
+Add the chance of gaining 'Gloomy Box' item each time a Plant monster is killed.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11777,7 +11779,7 @@ Weight: ^7777771^000000
 #
 4265#
 Jing Guai Card.
-Add the chance of gaining 'Radiance' item each time Angel monster is killed.
+Add the chance of gaining 'Box of Sunlight' each time Angel monster is killed.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11832,15 +11834,16 @@ Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4272#
-Zhu Po Long Card.
+Dancing Dragon Card.
 AGI +1, Critical +3.
 
 ^6A5ACDThief Card Set^000000
 ^3CB371Wanderer Card^000000
 ^3CB371Wild Rose Card^000000
 ^3CB371Shinobi Card^000000
-^3CB371Zhu Po Long Card^000000
+^3CB371Dancing Dragon Card^000000
 ^3CB371The Paper Card^000000
+Increases movement speed
 AGI +5
 STR +5
 ASPD +5%
@@ -11848,7 +11851,7 @@ ASPD +5%
 Disable the Auto-Snatch 
 ability of the 
 Wanderer Card
-Thief Class Bonus: 
+^6A5ACDThief Class Bonus:^000000 
 No Gemstones required to 
 use certain skills.
 
@@ -11942,7 +11945,7 @@ Blessing is learned.
 VIT +10
 -10% Cast Time
 -10% SP Consumption
-Acolyte Class Bonus:
+^6A5ACDAcolyte Class Bonus:^000000
 -30% damage from Undead 
 and Demon monsters.
 +5% EXP from Demon and 
@@ -11960,17 +11963,16 @@ the user is attacking.
 If worn by Merchant Class 
 characters, their weapons 
 cannot be damaged.
-
 ^6A5ACDMerchant Card Set^000000
 ^3CB371Zipper Bear Card^000000
 ^3CB371Baby Leopard Card^000000
 ^3CB371Raggler Card^000000
 ^3CB371Myst Case Card^000000
-^3CB371Heirozoist Card^000000
+^3CB371Hylozoist Card^000000
 LUK +10
 +20% Mammonite Damage
 + 2 SP per attack.
-Merchant Class Bonus:
+^6A5ACDMerchant Class Bonus:^000000
 20% chance of reflecting 
 Magic spells.
 A chance of gaining 
@@ -11987,7 +11989,7 @@ STR +4
 +20% Mammonite Damage
 +1 SP per attack.
 +7% Max HP/SP
-Alchemist Class Bonus:
+^6A5ACDAlchemist Class Bonus:^000000
 A chance of auto casting 
 level 1 Adrenaline Rush 
 when attacking physically.
@@ -12097,7 +12099,7 @@ with Holy Light skill.
 VIT +10
 -10% Cast Time
 -10% SP Consumption
-Acolyte Class Bonus:
+^6A5ACDAcolyte Class Bonus:^000000
 -30% damage from Undead 
 and Demon monsters.
 +5% EXP from Demon and 
@@ -12116,7 +12118,7 @@ A chance of casting
 level 5 Signum Crusis with 
 each physical attack.
 Guillotine Fist Damage +10%
-Monk Class Bonus:
+^6A5ACDMonk Class Bonus:^000000
 Uninterruptable Cast
 SP consumpion -10%.
 
@@ -12169,7 +12171,7 @@ AGI +5
 DEX +3
 +20% Seeking Attack 
 (which never miss its target)
-Archer Class Bonus:
+^6A5ACDArcher Class Bonus:^000000
 A low chance of 
 auto casting Coma on 
 Brute class monsters 
@@ -12187,7 +12189,7 @@ Dex +5
 +5% Arrow Vulcan Damage
 +10% Melody Strike Damage 
 +10% Slinging Arrow Damage
-Bard or Dancer Class Bonus:
+^6A5ACDBard or Dancer Class Bonus:^000000
 A low chance of 
 auto casting
 level 2 Tarot Card of Fate 
@@ -12302,20 +12304,20 @@ Weight: ^7777771^000000
 Parasite Card.
 DEF +1.
 Add 5% more tolerance against Neutral Attack.
-^99FF66Wizard Card Set^000000
-^00FF00Loli Ruri Card^000000
-^00FF00Parasite Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Evil Nymph^000000
-^00FF00Harpy Card^000000
-^00FF00Bloody Butterfly Card^000000
+^6A5ACDWizard Card Set^000000
+^3CB371Loli Ruri Card^000000
+^3CB371Parasite Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Evil Nymph^000000
+^3CB371Harpy Card^000000
+^3CB371Bloody Butterfly Card^000000
 +500 HP
 +5 MDEF
 +5 DEF
 +10% Damage using 
 the Cold Bolt, Fire Bolt, 
 and Lightning Bolt skills.
-^00FF00Mage Class only Bonuses^000000
+^3CB371Mage Class only Bonuses^000000
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
@@ -12391,7 +12393,7 @@ Undead monsters.
 VIT +10
 -10% Cast Time
 -10% SP Consumption
-Acolyte Class Bonus:
+^6A5ACDAcolyte Class Bonus:^000000
 -30% damage from Undead 
 and Demon monsters.
 +5% EXP from Demon and 
@@ -12410,7 +12412,7 @@ A chance of casting
 level 5 Signum Crusis with 
 each physical attack.
 Guillotine Fist Damage +10%
-Monk Class Bonus:
+^6A5ACDMonk Class Bonus:^000000
 Uninterruptable Cast
 SP consumpion -10%.
 
@@ -12542,11 +12544,11 @@ Hylozoist Card.
 ^3CB371Baby Leopard Card^000000
 ^3CB371Raggler Card^000000
 ^3CB371Myst Case Card^000000
-^3CB371Heirozoist Card^000000
+^3CB371Hylozoist Card^000000
 Luk +10
 Mammonite Damage +20%
 SP +2 per attack
-Merchant Class Bonus:
+^6A5ACDMerchant Class Bonus:^000000
 20% chance of reflecting magic spells
 A chance of gaining Old Purple Box each time a monster is killed
 Class: ^777777Card^000000
@@ -12580,16 +12582,16 @@ Weight: ^7777771^000000
 Harpy Card.
 Add 15% more tolerance against Neutral Attack.
 Inflict 5% more damage with Napalm Beat skill.
-^99FF66Sage Card Set^000000
-^00FF00Yellow Novus Card^000000
-^00FF00Evil Nymph Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Bloody Butterfly Card^000000
-^00FF00Harpy Card^000000
+^6A5ACDSage Card Set^000000
+^3CB371Yellow Novus Card^000000
+^3CB371Evil Nymph Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Bloody Butterfly Card^000000
+^3CB371Harpy Card^000000
 +3 INT
 +10% Thunderstorm Damage
 +10% Heaven Drive Damage
-^00FF00Sage only Bonuses^000000
+^3CB371Sage only Bonuses^000000
 +20% chance to reflect Magic
 20% Faster Cast
 Adds a low chance of 
@@ -12597,20 +12599,20 @@ dropping Red or Yellow
 Gemstones when defeating 
 monsters.
 
-^99FF66Wizard Card Set^000000
-^00FF00Loli Ruri Card^000000
-^00FF00Parasite Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Evil Nymph^000000
-^00FF00Harpy Card^000000
-^00FF00Bloody Butterfly Card^000000
+^6A5ACDWizard Card Set^000000
+^3CB371Loli Ruri Card^000000
+^3CB371Parasite Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Evil Nymph^000000
+^3CB371Harpy Card^000000
+^3CB371Bloody Butterfly Card^000000
 +500 HP
 +5 MDEF
 +5 DEF
 +10% Damage using 
 the Cold Bolt, Fire Bolt, 
 and Lightning Bolt skills.
-^00FF00Mage Class only Bonuses^000000
+^3CB371Mage Class only Bonuses^000000
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
@@ -12629,17 +12631,17 @@ Weight: ^7777771^000000
 Bloody Butterfly Card.
 Spell casting cannot be interrupted.
 Increase spell casting time by 30%.
-Inflict 5% more damage with Fire Wall skill.
-^99FF66Sage Card Set^000000
-^00FF00Yellow Novus Card^000000
-^00FF00Evil Nymph Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Bloody Butterfly Card^000000
-^00FF00Harpy Card^000000
+Fire Wall Damage +5%.
+^6A5ACDSage Card Set^000000
+^3CB371Yellow Novus Card^000000
+^3CB371Evil Nymph Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Bloody Butterfly Card^000000
+^3CB371Harpy Card^000000
 +3 INT
 +10% Thunderstorm damage
 +10% Heaven Drive Damage
-^00FF00Sage only Bonuses^000000
+^3CB371Sage only Bonuses^000000
 +20% chance to reflect Magic
 20% Faster cast
 Adds a low chance of 
@@ -12647,20 +12649,20 @@ dropping Red or Yellow
 Gemstones when defeating 
 monsters.
 
-^99FF66Wizard Card Set^000000
-^00FF00Loli Ruri Card^000000
-^00FF00Parasite Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Evil Nymph^000000
-^00FF00Harpy Card^000000
-^00FF00Bloody Butterfly Card^000000
+^6A5ACDWizard Card Set^000000
+^3CB371Loli Ruri Card^000000
+^3CB371Parasite Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Evil Nymph^000000
+^3CB371Harpy Card^000000
+^3CB371Bloody Butterfly Card^000000
 +500 HP
 +5 MDEF
 +5 DEF
 +10% Damage using 
 the Cold Bolt, Fire Bolt, 
 and Lightning Bolt skills.
-^00FF00Mage Class only Bonuses^000000
+^3CB371Mage Class only Bonuses^000000
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
@@ -12668,13 +12670,13 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4328#
-Yao Jun Card.
+Hyegun Card.
 Flee Rate +15, Critical +1.
 
 ^6A5ACDTragic Trio Card Set^000000
 ^3CB371Munak Card^000000
 ^3CB371Bongun Card^000000
-^3CB371Yao Jun Card^000000
+^3CB371Hyegun Card^000000
 All Stats +1
 
 Class: ^777777Card^000000
@@ -12690,8 +12692,8 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4330#
-Evil Snake Lord Card.
-Never be affected by Chaos and Curse effect.
+Dark Snake Lord Card.
+Immunity to Blind and Curse effects.
 INT +3.
 Class: ^777777Card^000000
 Slot: ^777777Helmet^000000
@@ -19207,7 +19209,7 @@ A chance of casting
 level 5 Signum Crusis with 
 each physical attack.
 Guillotine Fist Damage +10%
-Monk Class Bonus:
+^6A5ACDMonk Class Bonus:^000000
 Uninterruptable Cast
 SP consumpion -10%.
 
@@ -19319,7 +19321,7 @@ STR +4
 +20% Mammonite Damage
 +1 SP per attack.
 +7% Max HP/SP
-Alchemist Class Bonus:
+^6A5ACDAlchemist Class Bonus:^000000
 A chance of auto casting 
 level 1 Adrenaline Rush 
 when attacking physically.
@@ -19389,7 +19391,7 @@ A chance of auto casting
 level 5 Strip Armor 
 if level 5 Strip Armor is 
 learned.
-Rogue Class Bonus:
+^6A5ACDRogue Class Bonus:^000000
 -20% SP Consumption
 Disables the Auto-Snatch
 ability of the 
@@ -19661,12 +19663,13 @@ Compound on: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4373#
-LUK -5. LUK and CRIT increase based on refine degree
-But, CRIT increase applies up to refine degree +10
-
-Item Class: ^777777Card^000000
+LUK -5. 
+LUK and CRIT +1 
+for every upgrade level
+of the garment.
+Class : ^777777Card^000000
 Compound on: ^777777Garment^000000
-Weight: ^7777771^000000
+Weight : ^7777771^000000
 #
 4374#
 [Not Yet Implemented]
@@ -19767,7 +19770,7 @@ Dex +5
 +5% Arrow Vulcan Damage
 +10% Melody Strike Damage 
 +10% Slinging Arrow Damage
-Bard or Dancer Class Bonus:
+^6A5ACDBard or Dancer Class Bonus:^000000
 A low chance of 
 auto casting
 level 2 Tarot Card of Fate 
@@ -19780,16 +19783,16 @@ Weight: ^7777771^000000
 4382#
 HP +500. Increases
 HP Recovery by 10%.
-^99FF66Sage Card Set^000000
-^00FF00Yellow Novus Card^000000
-^00FF00Evil Nymph Card^000000
-^00FF00Miyabi Doll Card^000000
-^00FF00Bloody Butterfly Card^000000
-^00FF00Harpy Card^000000
+^6A5ACDSage Card Set^000000
+^3CB371Yellow Novus Card^000000
+^3CB371Evil Nymph Card^000000
+^3CB371Miyabi Doll Card^000000
+^3CB371Bloody Butterfly Card^000000
+^3CB371Harpy Card^000000
 +3 INT
 +10% Thunderstorm Damage
 +10% Heaven's Drive Damage
-^00FF00Sage only Bonuses^000000
+^3CB371Sage only Bonuses^000000
 +20% chance to reflect Magic
 20% Faster Cast
 Adds a low chance of 
@@ -21423,15 +21426,6 @@ cover it. Restore
 10% of Max HP.
 ^ffffff_^000000
 Weight: ^77777710^000000
-#
-668#
-A small red packet,
-seemingly containing
-some exciting gift,
-that is given by
-adults to children.
-^ffffff_^000000
-Weight: ^7777772^000000
 #
 7770#
 Steamed glutinous
@@ -25593,7 +25587,7 @@ A Lucky Box, Please hold onto this box until the next Lucky Box event.
 Weight: ^7777771^000000
 #
 6126#
-The joyful color of yellow makes you feel strangely happy. Every time you think about opening it you resist the temptation. Perhaps a professional ^00FF00"Gift Opener"^000000  could be of assistance.
+The joyful color of yellow makes you feel strangely happy. Every time you think about opening it you resist the temptation. Perhaps a professional ^3CB371"Gift Opener"^000000  could be of assistance.
 
 You seem to recall seeing such a gal at:
 
@@ -28852,9 +28846,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 placeholder
 #
 5806#
-placeholder
-#
-5807#
 placeholder
 #
 5809#
@@ -40504,7 +40495,7 @@ Shinobi Card
 Wanderer Card
 Wild Rose Card
 The Paper Card
-Zhu Po Long Card
+Dancing Dragon Card
 Weight : ^7777771^000000
 #
 13876#
@@ -46478,7 +46469,7 @@ Weight : ^7777771^000000
 #
 4524#
 STR + 2.
-[^00ff00Swordsman Class^000000]
+[^3CB371Swordsman Class^000000]
 Increase STR + 1 every 3 refine.
 Class : ^777777Card^000000
 Location : ^777777Headgear^000000
@@ -46551,9 +46542,9 @@ Weight : ^7777771^000000
 The Shield of the Lord of Death
 Increase damage to Boss-type monsters by 2%
 Receive 10% more damage from normal monsters.
-^99FF66Set Bonus^000000
-^00FF00Lord of Death^000000
-^00FF00Shield of Death^000000
+^6A5ACDSet Bonus^000000
+^3CB371Lord of Death^000000
+^3CB371Shield of Death^000000
 Increase damage to Boss-type monsters by 5%
 if Lord of Death refined +7 above, additional 5% damage to Boss-type monsters.
 Class : ^777777Shield^000000 Def : ^777777150^000000
@@ -46565,8 +46556,8 @@ Jobs : ^777777All^000000
 A rag doll that Piamette is using for both attack and defense? It looks so real and alive!
 Increases resistance to all properties by 5%.
 MDEF +6, DEX +1.
-^99FF66Set Bonus^000000
-^00FF00Piamette's Ribbon^000000
+^6A5ACDSet Bonus^000000
+^3CB371Piamette's Ribbon^000000
 Increases resistance to all properties by 2% per refine, when refine level is over 6.
 Class : ^777777Sheild^000000 Defense : ^77777740^000000
 Weight : ^77777710^000000
@@ -48907,8 +48898,8 @@ Job : ^777777All^000000
 20725#
 A huge ribbon worn by Piamette. Blessed with strong magical power.
 MATK +10, INT +1, DEX +1.
-^99FF66Set Bonus^000000
-^00FF00Mad Bunny^000000
+^6A5ACDSet Bonus^000000
+^3CB371Mad Bunny^000000
 When magically attacking, a certain chance to transform into Piamette for 10 sec.
 While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade.
 Chance to transform increases as refine goes higher.
@@ -53988,10 +53979,6 @@ Weight: 0
 Required Level: 1
 Required Job: All Jobs
 #
-20299#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-#
 20300#
 ^808080A mask resembles a head of Hill Wind inhabiting in Rachel fields. Surprisingly, this complicated expression seems to be popular.^000000
 ^FFFFFF_^000000
@@ -56519,9 +56506,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 31591#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-31165#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 19816#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -56756,5 +56740,33 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31453#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+// Oktoberfest luckybox 2019
+31087#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31165#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20299#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9701#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+22624#
+A traditional snack twisted funny. It's very bigger than usual and you can see this only in Oktoberfest.
+It recovers all your HP instantly.
+#
+22625#
+You can be charming with this bag including a chic costume! Please enjoy the Oktoberfest! 
+With using this, you can wear Oktoberfest Costume for 10 min.
+#
+22659#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5807#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

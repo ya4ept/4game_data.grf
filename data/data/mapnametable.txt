@@ -389,11 +389,11 @@ jawaii_in.rsw#Inside Jawaii#
 jawaii.rsw#Jawaii, the Honeymoon Island#
 lou_in02.rsw#Inside Louyang#
 lou_in01.rsw#Inside Louyang#
-lou_dun03.rsw#Suei Long Gon#
+lou_dun03.rsw#Tomb of Suei Long Gon#
 lou_dun02.rsw#Inside the Royal Tomb#
 lou_dun01.rsw#The Royal Tomb#
 lou_fild01.rsw#Louyang Field#
-louyang.rsw#Louyang, the highland#
+louyang.rsw#Louyang#
 valkyrie.rsw#Valkyrie Hall, the Hall of Honor#
 nif_in.rsw#Inside Nifflheim#
 yggdrasil01.rsw#Hvergelmir's Fountain (Trunk of Yggdrasil)#
