@@ -591,7 +591,6 @@ Weight: 15
 ^FFFFFF_^000000
 Restores ^008000142^000000 to ^008000274^000000 HP and ^00800010^000000 to ^00800030^000000 SP.
 #
-
 567#
 ^808080A shellfish which has a long tail and many legs. When cooked, the color of the body turns red and its flesh is very tasty with a unique scent.^000000
 ^FFFFFF_^000000
@@ -601,7 +600,6 @@ Weight: 5
 ^FFFFFF_^000000
 Restores ^008000117^000000 to ^008000192^000000 HP.
 #
-
 568#
 ^808080A bright yellow fruit with very sour juice and a fresh scent.^000000
 ^FFFFFF_^000000
@@ -611,17 +609,12 @@ Weight: 4
 ^FFFFFF_^000000
 Restores ^00800010^000000 to ^00800020^000000 SP.
 #
-
 569#
-^808080An exclusive red potion for Novices!^000000
+An exclusive red potion for Novices.
+Restores ^00800022-33 HP^000000.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 0
-^FFFFFF_^000000
-Restores ^00800022^000000 to ^00800033^000000 HP.
+Weight: ^7777771^000000
 #
-
 570#
 ^808080A candy which is rumored to bring luck to whomever eats it.^000000
 ^FFFFFF_^000000
@@ -631,7 +624,6 @@ Weight: 3
 ^FFFFFF_^000000
 Restores ^00800045^000000 to ^00800065^000000 HP.
 #
-
 571#
 ^808080A candy cane which is rumored to bring luck to whomever eats it.^000000
 ^FFFFFF_^000000
@@ -895,7 +887,6 @@ Weight: 5
 ^FFFFFF_^000000
 Casts ^0000FFLevel 1 Instant Teleport^000000.
 #
-
 602#
 ^808080An enchanted butterfly's wing that instantly sends its user to his Save Point when waved in the air.^000000
 ^FFFFFF_^000000
@@ -905,7 +896,6 @@ Weight: 5
 ^FFFFFF_^000000
 Teleports the user to Last Saved Location.
 #
-
 603#
 ^808080A mysterious blue box that seems to hold something inside, but you'll have to open it to find out.^000000
 ^FFFFFF_^000000
@@ -913,13 +903,11 @@ Type: Consumable
 Class: Item Producer
 Weight: 20
 #
-
 604#
-^808080A twig which contains the mysterious power of eternity. It can summon a living creature...^000000
+A branch that contains mysterious powers.
+Summons a monster when used.
 ^FFFFFF_^000000
-Type: Consumable
-Class: General
-Weight: 5
+Weight: ^7777775^000000
 #
 605#
 ^808080A medicine made from ground Mint that is used to ease pain and relax muscle tension. It's a popular painkiller because of its potency.^000000
@@ -930,7 +918,6 @@ Weight: 10
 ^FFFFFF_^000000
 Casts ^0000FFLevel 1 Endure^000000.
 #
-
 606#
 ^808080A basic herbal emollient made from Aloe extract. Despite its stench and sour taste, it's addictive if regularly eaten.^000000
 ^FFFFFF_^000000
@@ -15707,10 +15694,10 @@ Jobs: ^777777Thief Class & Ninja^000000
 #
 2338#
 A wedding dress that is immaculately white.
-MDEF +15
+Mdef +15
 Class: ^777777Armor^000000
-Defense: ^7777710^000000    Weight: ^77777750^^000000
-Job: ^777777All except Novice^000000
+Defense: ^7777710^000000    Weight: ^77777750^000000
+Jobs: ^777777All except Novice^000000
 #
 2339#
 A risque undergarment
@@ -36215,16 +36202,20 @@ Required Level : ^7777771^000000
 Jobs: ^777777Ninja^000000
 #
 12947#
-Box containing Apple of Archer 1 ea handle with care
-Rental period 14 days
-Legendary accessory in the shape of an apple
-Legend says a great archer was able to hit this apple with one arrow with great accuracy from a vast distance
-DEX + 4
-Type : ^777777Helmet^000000    DEF : ^7777777^000000
-Type : ^777777Upper^000000    Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Required Class : ^777777Every Class except Novice^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains Neo Apple of Archer.
+Rental term: 14 d.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Neo Apple of Archer]
+^ff0000Account bound^000000
+A headgear made in honor of the legendary archer known for shooting an apple perched on a friend's head from a great distance.
+Dex +4
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777712^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 #
 12948#
 Box containing Bunny band 1 ea handle with care
@@ -36237,22 +36228,37 @@ Required Class : ^777777Every Class^000000
 Weight : ^7777771^000000
 #
 12949#
-Box containing Sakkat 1 ea handle with care
-Rental period 14 days
-A rustic hat knit from rough reeds and bamboos that shields against the rain and the glare of the sun.
-Ssaurabi, the ancient Korean warrior, was known to wear one of these.
-AGI + 3
-Type : ^777777Helmet^000000    DEF : ^77777710^000000
-Type : ^777777Upper^000000    Weight : ^7777770^000000
-Required Class : ^777777Every Class^000000
-Weight : ^7777771^000000
+^000088Rental item^000000
+Contains Neo Sakkat.
+Rental term: 14 d.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Neo Sakkat]
+^ff0000Account bound^000000
+A stylish hat of the Eastern warrior.
+Agi +3
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777710^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 12950#
-A box that contains
-1 Grand Circlet.
-Please handle with care.^FFFFFF  ^000000 ^ffffff_^000000
+^000088Rental item^000000
+Contains Neo Grand Circlet.
+Rental term: 14 d.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+[Neo Grand Circlet]
+^ff0000Account bound^000000
+A unique circlet typically worn by rulers or gentry.
+Str/Int/Luk +3
+Mdef +4
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777712^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 #
 12951#
 A box that contains:
@@ -36411,32 +36417,15 @@ Handle with care.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
-
-
-
-
-
-
-
-
-
-
 5265#
-^000088Rental Item^000000
-A headgear made in
-honor of the legendary
-archer known for shooting an apple perched on
-a friend's head from
-a great distance.
+^ff0000Account bound^000000
+A headgear made in honor of the legendary archer known for shooting an apple perched on a friend's head from a great distance.
 Dex +4
-This item cannot be Dropped or Traded.
-Class : ^777777Headgear^000000
-Defense: ^77777712^000000
-Location : ^777777Upper^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777712^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 #
 5266#
 ^000088Rental Item^000000
@@ -36456,21 +36445,16 @@ Weight : ^7777770^000000
 Jobs: ^777777All^000000
 #
 5268#
-^000088Rental Item^000000
-An exquisitely made
-circlet, typically worn^FFFFFF  ^000000 by rulers or gentry.
-Str +3, Int +3
-Luk +3, MDEF +4
-Class : ^777777Headgear^000000
-Defense: ^77777714^000000
-Location : ^777777Upper^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
+^ff0000Account bound^000000
+A unique circlet typically worn by rulers or gentry.
+Str/Int/Luk +3
+Mdef +4
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777712^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 #
-
-
-
-
 13401#
 ^000088Rental Item^000000
 The one-handed sword
@@ -36851,7 +36835,9 @@ it will be useless.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
+
 // ---------------- ??? ??? -----------------
+
 13710#
 A box that contains a
 special Gym Pass that 
@@ -36865,19 +36851,15 @@ Skill Level 10.
 Weight : ^7777771^000000
 #
 7776#
-A Gym Pass that can be
-given to a special
-NPC to learn a skill
-that will increase your^FFFFFF   ^000000 Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
+A gym pass that allows you to carry more weight.
+Give it to ^120a8fRipped Cabus (Payon 173,141)^000000 to learn a skill that will increase your maximum weight capacity by 200 per each skill level.
+Max skill level: 10.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
+
 // ---------------- ????? 20070702 -----------------
+
 13711#
 A box that contains
 10 Small Life Potions.
@@ -37723,7 +37705,7 @@ ASPD +5%
 Cast Time -5%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777776^000000    Weight: ^7777770^000000
+Defense: ^7777776^000000    Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -37849,24 +37831,22 @@ Weight : ^77777750^000000
 Required Level: ^77777730^000000
 Jobs : ^777777All^000000
 #
+
 // ------------- 2007 할로윈 축제모자 ---------------
+
 5356#
-A pumpkin hat for
-celebrating Halloween:
-wear it when you go
-trick-or-treating!
-All Stats +3.
-Increase Physical
-and Magical Attack
-Strength against
-Devil monsters by 5%.
-Class : ^777777Headgear^000000
-Defense: ^7777773^000000
-Location : ^777777Upper^000000
-Weight : ^77777720^000000
+A pumpkin hat for celebrating Halloween: wear it when you go trick-or-treating!
+Physical/magic attack against Demon monsters +5%
+Exp gain +10%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+
 //---------- 2007 Remembrance Day -----------------
+
 7906#
 A poppy wreath placed at 
 a location of strong 
@@ -44949,7 +44929,14 @@ placeholder
 placeholder
 #
 5331#
-placeholder
+^ff0000Account bound^000000
+A flamboyant hat worn only by the strongest of pirates.
+Vit/Int +3
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777714^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 #
 5352#
 placeholder
@@ -50386,11 +50373,13 @@ Weight : ^7777771^000000
 #
 18527#
 A pumpkin hat with glowing eyes.
-Chance to drop a Pumpkin Pie when killing a monster
+Physical/magic attack against Demon monsters +5%
+Exp gain +25%
+^ff0000Animated.^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777775^000000    Weight: ^77777750^000000
-Required Level: ^77777745^000000
+Defense: ^7777775^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 13993#
@@ -53081,23 +53070,21 @@ Weight : ^7777771^000000
 ^ffffff_^000000
 Crate Weight : ^7777771^000000
 #
-
 6011#
 A card marked with the
 letter ''^000088B^000000'' which is used for special events.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 19507#
+^ff0000Account bound^000000
 A brightly shining sun that floats above your head.
-^ff0000This item is account bound^000000
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19509#
 Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
@@ -53109,96 +53096,98 @@ Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 19510#
-You can look like you just rolled off the assembly line with these bolt-on ear accessories.
-Class : ^777777Costume^000000
-Location: ^777777Middle^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+Bolt-on ear accessories that make you look like you just rolled off the assemble line.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19513#
-A simple bird beak. Wearing this won't make you less fearful of things.
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to add enchantments to it.
-Class : ^777777Lower^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A simple bird's beak. Wearing this won't make you less fearful of things.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19514#
+^ff0000Account bound^000000
 A neatly trimmed mustache reminiscent of the style worn by an 'Old Timey' actor from the past.
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to add enchantments to it.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19515#
-A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A simple yellow hat with a long feather.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19516#
-A newly hatched baby bird chirps it's tunes on a twig of dreams.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A newly hatched baby bird that chirps its tunes sitting on a twig.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19517#
-A roosters dignified comb. But don't be fooled while wearing this or the yolk's on you!
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A red comb of a very proud rooster.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19518#
+^ff0000Account bound^000000
 Share your happiness with others with this brightly colored rainbow.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19519#
+^ff0000Account bound^000000
 A dark thunder cloud that rivals the bolts created by Thor... well maybe not.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19520#
-When it rains it pours. Especially when it's only raining above your head.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+When it rains, it pours. Especially when it's only raining above your head.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19521#
+^ff0000Account bound^000000
 A circular shaped bowler hat reminiscent of the style worn by an 'Old Timey' actor from the past.
-Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19522#
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
@@ -53209,7 +53198,6 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
-
 16973#
 A box that contains
 1 Costume-Yellow Hat
@@ -54813,7 +54801,6 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
-
 19581#
 The lucky, well-worn hat of former adventurer Mort Whimsey.
 Class : ^777777Costume^000000
@@ -54823,21 +54810,16 @@ Weight : ^7777770^000000
 Required Level : ^77777730^000000
 Jobs : ^777777All^000000
 #
-
 5267#
-The stylish Hat of the Eastern warrior.
-East Costume Set :
-Costume Sakkat
-Costume Dark Blindfold,
-Costume Angry Mouth
-Class : ^777777Costume^000000
+^ff0000Account bound^000000
+A stylish hat of the Eastern warrior.
+Agi +3
+Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense : ^7777770^000000
-Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Defense: ^77777710^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
-
 5329#
 Rental Items
 A black Blinker. Since it is black in color, it seems that you may not see the light forever if you wear it for a long time.
@@ -56428,20 +56410,13 @@ Jobs: ^777777Novice, Mage,
 Acolyte Classes, and Soul Linker^000000
 #
 20166#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A protective covering
-that shields the back
-of the hand and forearm, and has raised studs for
-offensive purposes.
-^CC0000This item is not Refinable^000000
-Class : ^777777Claw^000000
-Attack Strength: ^77777771^000000
-Weight : ^77777745^000000
-Weapon Level: ^7777772^000000
-Required Level : ^7777771^000000
-Jobs: ^777777Priest
-and Monk Jobs^000000
+^ff0000Account bound^000000
+A mask that hides and protects your face. Very useful when playing hockey or trying to survive in a deadly game against a horde of zombies.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle, lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 20167#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -57014,24 +56989,6 @@ Weapon Level: ^7777772^000000
 Required Level : ^7777771^000000
 Jobs: ^777777Swordsman
 and Merchant Classes^000000
-#
-20133#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A heavy, giant
-shuriken shaped
-like a bladed wheel.
-Each short range
-physical attack has
-a low chance of
-inflicting the Bleeding^FFFFFF  ^000000 status on enemies.
-^CC0000This item is not Refinable^000000
-Class : ^777777Huuma^000000
-Attack : ^77777792^000000
-Weight : ^777777250^000000
-Weapon Level: ^7777774^000000
-Required Level : ^7777771^000000
-Jobs :^777777Ninja^000000
 #
 20134#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -59887,6 +59844,7 @@ Required Level : ^777777100^000000
 Job : ^777777All^000000
 #
 19549#
+^ff0000Account bound^000000
 A helmet that looks like goat horns. Some people say that it can be used for dark rituals.
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper)^000000
@@ -61983,21 +61941,19 @@ Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
 19511#
-Class : ^777777Headgear^000000
-Location : ^777777Middle^000000
-Defense : ^7777770^000000
-Weight : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
+^ff0000Account bound^000000
+A blue eyepatch with a big heart embroidered on it.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
-
 14146#
 A gift from a prospective Valentine that when opened always gives:
 5x Valentines Fire Crackers
 1x Chocolate
-
 Opener will also receive one of the following:
-
 8x Battle Manual x3
 1x Heroic Desocketing Manual
 7x Bloody Dead Branch
@@ -65376,9 +65332,12 @@ A cake made with smashed moist pumpkin.
 Weight : ^7777774^000000
 #
 11592#
-Recover 45 HP.
-Transforms into Bloody Murderer for 10 minutes. MHP + 1000 while shapeshifting.
-Weight : ^7777773^000000
+^ff0000Account bound^000000
+Your mother definitely told you not to take candies from strangers. But the Masked man is your good friend, is he? Sure he is!
+Turns you into a maniac for 10 min.
+Max HP +1000
+Atk/Matk +125
+Weight: ^7777773^000000
 #
 11593#
 Recover 45 HP.
@@ -75639,15 +75598,6 @@ Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
-20133#
-A hat inspired by the adorable Poring.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
-#
 20230#
 A mask that showing the deep sorrows for losing everything.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
@@ -85334,14 +85284,6 @@ Weight : ^77777750^000000
 Required Level : ^7777771^000000
 Jobs: ^777777All^000000
 #
-19511#
-Class : ^777777Headgear^000000
-Location : ^777777Middle^000000
-Defense : ^7777770^000000
-Weight : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
-#
 19536#
 Korusaju decorated with beautiful roses. .
 INT + 1
@@ -86169,31 +86111,14 @@ Lv. req. : ^7777771^000000
 Class : ^777777All classes^000000
 #
 20133#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A heavy, giant
-shuriken shaped
-like a bladed wheel.
-Each short range
-physical attack has
-a low chance of
-inflicting the Bleeding^FFFFFF  ^000000 status on enemies.
-^CC0000This item is not Refinable^000000
-Class : ^777777Huuma^000000
-Attack : ^77777792^000000
-Weight : ^777777250^000000
-Weapon Level: ^7777774^000000
-Required Level : ^7777771^000000
-Jobs :^777777Ninja^000000
-#
-20133#
+^ff0000Account bound^000000
 A hat inspired by the adorable Poring.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18748#
 An eastern hat that brings mercy and luck.
@@ -86707,4 +86632,122 @@ Effect:
 - Death penalty Exp loss -2%
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+11703#
+^ff0000Account bound^000000
+You don't know whose blood it is. Could it be...yours?
+Restores about 30 SP.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+23968#
+A scary-looking pumpkin that contains a lot of very interesting things. Trick or treat!
+Open it to obtain one of the following items:
+^ffffff_^000000
+Black Cat
+Pumpkin Head
+Ghostring Tall Hat
+Assassin Skull Mask
+Battle Manual x3
+Job Manual x3
+Bubble Gum x3
+Stuffed Pumpkin x3
+Stuffed Pumpkin x5
+Stuffed Pumpkin x10
+Gym Membership Card
+Enriched Elunium x3
+Enriched Oridecon x3
+Silvervine x96
+Pumpkin Cake x66
+Pumpkin Pie x66
+Bat Cookies x66
+Steamed Tongue x6
+Steamed Scorpion x6
+Stew of Immortality x6
+Dragon Breath Cocktail x6
+Hwergelmir's Tonic x6
+Cooked Nine Tail's Tails x6
+Kafra Card x9
+LV10 Blessing Scroll x26
+LV10 Increase Agi Scroll x26
+Magnificat Scroll x36
+Giant Fly Wing x26
+Token of Ziegfried x6
+Universal Golden Catalog x36
+Megaphone x10
+Convex Mirror x3
+Life Insurance Certificate x6
+Weight: ^7777771^000000
+#
+31186#
+A cute black cat. She seems to like you very much, so she's decided to follow you around!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19512#
+^ff0000Account bound^000000
+A red eyepatch with a big heart embroidered on it.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+13782#
+^000088Rental item^000000
+Contains Neo Corsair.
+Rental term: 14 d.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Neo Corsair]
+^ff0000Account bound^000000
+A flamboyant hat worn only by the strongest of pirates.
+Vit/Int +3
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777714^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
+#
+31535#
+^ff0000Account bound^000000
+Yes, this hat actually exists. It reminds of something quite unpleasant, but look at its color!
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20494#
+^ff0000Account bound^000000
+A UFO-shaped hat. It is so stylish that you can wear it even in the strangest of unknown worlds.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19672#
+^ff0000Account bound^000000
+A letter sealed with a cute poring.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31547#
+^ff0000Account bound^000000
+Not only has you been eaten by a Poporing, but it unbearably smells like a swamp...
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #

@@ -159,15 +159,15 @@ Bring 5 of each Chrysalis, Empty Bottle, Iron Ore, Stone Heart, Red Herb, Animal
 Oh and 10 Raccoon Leaf Give all gathered items to Mr. Smith#
 
 2022#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Visit Aragham Jr who lives South of the Sandarman Fortress. That area is located one field east from here. The password is: ^0000FF'Aragham never hoarded upgrade items.'^000000#
+Visit Aragham Jr who lives to the south of the Sandarman Fortress. That area is located one field east from here. The password is: ^0000FF'Aragham didn't steal refining material.'^000000#
 Talk with Aragham Jr.#
 
 2023#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Visit Antonio Jr. who is living near the Kokomo beach in Comodo. The password is: ^0000FF'Antonio doesn't enjoy destroying upgrade items.'^000000#
+Visit Antonio Jr. who is living near the Kokomo beach in Comodo. The password is: ^0000FF'Antonio doesn't like breaking refining material.'^000000#
 Talk with Antonio Jr.#
 
 2024#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Visit Hollgrehenn Jr. who is in the field South of Sandarman Fortress, which is on the way to Morroc from here. He will give you the proper Rogue test. The password is: ^0000FF'My father never hoarded upgrade items.'^000000#
+Visit Hollgrehenn Jr. who is in the field south of the Sandarman Fortress, which is on the way to Morroc from here. He will give you the proper Rogue test. The password is: ^0000FF'My father did not steal refining material.'^000000#
 Talk with Hollgrehenn Jr.#
 
 2025#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#

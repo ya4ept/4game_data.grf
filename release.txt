@@ -1,4 +1,26 @@
+10.09.2019
+Mehashefa
+Tomorrow maintenance will be at 9 CEST. It will be closed at 11-00 CEST. Don’t be worry, it’s usual maintenance :)
+We will fix bugs and localization mistakes.
+Maintenance results will be published after technical works.
+
+Mehashefa
+Sorry, we are extending time of our Maintenance until 11:30
+Nothing special, just additional fixes
+
+Mehashefa	
+Maintenance is over and server is opened!
+
+Today’s updates:
+
+- Shop and Silvervine exchange update
+https://eu.4gameforum.com/threads/664307/
+- Catalog Magician NPC moved to Prontera
+- Unnecessary NPCs and items removed
+
+==========
 04.09.2019
+
 Mehashefa
 Hi!
 We tried very hard to do everything perfectly, but there are times when something goes wrong.

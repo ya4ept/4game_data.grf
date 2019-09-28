@@ -844,7 +844,7 @@ evt_hello.rsw#Dead Angel's landing#
 evt_xmas.rsw#Toy Factory#
 
 //---------- Halloween 2008 ----
-evt_zombie.rsw#Run_From_Zombies#
+evt_zombie.rsw#Nightmare on a poring street#
 
 iz_dun00t.rsw#Overlook Water Dungeon#
 iz_dun01t.rsw#Overlook Water Dungeon#

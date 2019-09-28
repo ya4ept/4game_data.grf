@@ -577,7 +577,7 @@
 601#Fly_Wing#
 602#Butterfly_Wing#
 603#Old_Blue_Box#
-604#Dead_Branch#
+604#Dead Branch#
 605#Anodyne#
 606#Aloevera#
 608#Yggdrasil_Seed#
@@ -1067,7 +1067,9 @@
 537#Pet_Food#
 538#Well-baked_Cookie#
 539#Piece_of_Cake#
+
 // ---- Ep 3.0 Comodo ----------------
+
 7038#Yarn#
 7039#Novice_Nametag#
 7040#Megaphone#
@@ -1607,6 +1609,7 @@
 7297#Biotite#
 
 // ----- Magic Scrolls -----
+
 9026#Zealotus_Egg#
 9027#Alice_Egg#
 569#Novice_Potion#
@@ -2219,7 +2222,7 @@
 
 // --------- ---------------
 
-12103#Blood Twig#
+12103#Bloody Branch#
 12104#Random Arrow Container#
 12105#Taming Gift Box#
 12106#Jewel Box#
@@ -2344,11 +2347,13 @@
 12131#Lucky Potion#
 
 // -----------------
+
 7458#Baphomet's Horn#
 7459#RAMADAN#
 583#KETUPAT_SAYUR#
 
 // ------- japan mobile event item-----
+
 5101#Takius's_Blindfold#
 
 // ----------korean mobild ----------
@@ -2364,7 +2369,7 @@
 // 2006 halloween
 
 7609#Pumpkin_Mojo #
-12192#Pumpkin_Pie #
+12192#Pumpkin Pie#
 5202#Pumpkin_Hat_#
 
 //2006 loykrathong
@@ -2539,44 +2544,44 @@
 
 // ------------------ cash item -------------------
 
-12202#Steamed_Tongue#
-12203#Steamed_Scorpion#
-12204#Dragon_Breath_Cocktail#
-12205#Hwergelmir's_Tonic#
-12206#Cooked_Nine_Tail's_Tails#
-12207#Stew_Of_Immortality#
+12202#Steamed Tongue#
+12203#Steamed Scorpion#
+12204#Dragon Breath Cocktail#
+12205#Hwergelmir's Tonic#
+12206#Cooked Nine Tail's Tails#
+12207#Stew of Immortality#
 12208#Battle_Manual#
 12209#Life_Insurance#
-12210#Bubble_Gum#
-12211#Kafra_Card#
-12212#Giant_Fly_Wing#
+12210#Bubble Gum#
+12211#Kafra Card#
+12212#Giant Fly Wing#
 12213#Neuralizer#
-12214#Convex_Mirror#
-12215#LV10_Blessing_Scroll#
-12216#LV10_Increase_Agi_Scroll#
+12214#Convex Mirror#
+12215#LV10 Blessing Scroll#
+12216#LV10 Increase Agi Scroll#
 12217#LV5_Aspersio_Scroll#
 12218#Old_LV5_Assumptio_Scroll#
 12219#LV10_Windwalk_Scroll#
 12220#LV5_Adrenaline_Scroll#
 12221#Megaphone#
-7619#Enriched_Elunium#
-7620#Enriched_Oridecon#
-7621#Token_of_Ziegfried#
+7619#Enriched Elunium#
+7620#Enriched Oridecon#
+7621#Token of Ziegfried#
 12900#Battle_Manual_Box#
 12901#Insurance_Package#
 12902#Bubble_Gum_Box#
-12903#Steamed_Tongue_Box#
-12904#Steamed_Scorpion_Box#
-12905#Dragon_Breath_Cocktail_Box#
-12906#Hwergelmir's_Tonic_Box#
+12903#Steamed Tongue Box#
+12904#Steamed Scorpion Box#
+12905#Dragon Breath Cocktail Box#
+12906#Hwergelmir's Tonic Box#
 12907#Cooked Nine Tail's Tails Box#
-12908#Stew_Of_Immortality_Box#
+12908#Stew of Immortality Box#
 12909#Kafra_Card_Box#
 12910#Giant_Fly_Wing_Box#
 12911#Neuralizer_Box#
 12912#Convex_Mirror_Box#
-12913#LV10 Blessing_Scroll_Box#
-12914#LV10 Increase Agi_Scroll_Box#
+12913#LV10 Blessing Scroll Box#
+12914#LV10 Increase Agi Scroll Box#
 12915#Aspersio_Scroll_Box#
 12916#Assumptio_Scroll_Box#
 12917#Wind_Walk_Scroll_Box#
@@ -2635,7 +2640,7 @@
 13539#Storm_Gust_Scroll_Box#
 13540#Lord_of_Vermilion_Scroll_Box#
 13541#Lex_Aeterna_Scroll_Box#
-13542#Magnificat_Scroll_Box#
+13542#Magnificat Scroll Box#
 13543#Chemical_Protection_Helm_Scroll_Box#
 13544#Chemical_Protection_Shield_Scroll_Box#
 13545#Chemical_Protection_Armor_Scroll_Box#
@@ -2873,8 +2878,8 @@
 
 // ---------------- ??? ??? -----------------
 
-13710#Gym_Membership_Card_Box#
-7776#Gym_Membership_Card#
+13710#Gym Pass Box#
+7776#Gym Pass#
 
 // ---------------- ????? 20070702 -----------------
 
@@ -2970,6 +2975,7 @@
 2680#Lesser_Elemental_Ring#
 
 //------ Rama the fifth -------------------
+
 7895#Rama5_Book#
 7896#Loykrathong_Book#
 7897#Constitution_Book#
@@ -2977,14 +2983,23 @@
 7899#Dagger_Of_Psychic#
 
 //----- Halloween -----------------
-5356#Halloween_Fest_Hat#
+
+5356#Halloween Fest Hat#
+
 //----King's Hat
+
 5366#Love Dad Bandana#
+
 //------------Loykrathong event-----------------
+
 5370#Orchid Hairband#
-//------------Constitution  event-----------------
+
+//------------Constitution event-----------------
+
 5371#Judge_Cap#
+
 //------------2007 Xmas--------
+
 7908#Louise's_Beauty_Coupon#
 7909#Stolen_Cookie#
 7910#Stolen_Candy#
@@ -3291,10 +3306,10 @@
 
 // -------------- Rental cash item as of 200807 Equipment--------------------
 
-12947#Neo_Apple_of_Archer_Box (14 d.)#
+12947#Apple of Archer Box (14 d.)#
 12948#Neo_Bunny_Band_Box#
-12949#Neo_Sakkat_Box (14 d.)#
-12950#Neo_Grand_Circlet_Box (14 d.)#
+12949#Sakkat Box (14 d.)#
+12950#Grand Circlet Box (14 d.)#
 12951#Neo_Elven_Ears_Box#
 12952#Neo_Steel_Flower_Box#
 13502#Drooping_Kitty_Box#
@@ -3303,7 +3318,7 @@
 13778#Orc_Hero_Helm_Box#
 13779#Evil_Wing_Ears_Box#
 13780#Dark_Blindfold_Box#
-13782#Corsair_Box (14 d.)#
+13782#Corsair Box (14 d.)#
 13864#Hockey_Mask_Box#
 13865#Observer_Box#
 13954#Spiritual_Tunic_Box#
@@ -3368,10 +3383,10 @@
 
 //---------- 200808 open box rental tem , armor---------------
 
-5265#Neo_Apple_of_Archer#
+5265#Neo Apple of Archer#
 5266#Neo_Bunny_Band#
-5267#Neo_Sakkat#
-5268#Neo_Grand_Circlet#
+5267#Neo Sakkat#
+5268#Neo Grand Circlet#
 2686#Neo_Elven_Ears#
 2687#Neo_Steel_Flower#
 5279#Drooping_Kitty#
@@ -3385,7 +3400,7 @@
 5327#Orc_Hero_Helm#
 5328#Evil_Wing_Ears#
 5329#Dark_Blindfold#
-5331#Corsair#
+5331#Neo Corsair#
 2384#Spritual_Tunic#
 5314#Hockey_Mask#
 5315#Observer#
@@ -4047,7 +4062,6 @@
 14005#Poison_Bottle_Box(5)#
 13571#Giant_Fly_Wing_Box(100)#
 13710#Gym_Membership_Card_Box#
-7776#Gym_Membership_Card#
 
 // ---------- 2009 6th Anniversary Package item ----------
 
@@ -5002,7 +5016,7 @@
 16652#Flame_Scroll#
 5584#Majestic_Devil_Horn#
 5776#Blazing_Sun#
-14592#Job_Manual#
+14592#Job Manual#
 13990#Job_Manual_Box#
 
 // --------- 2011.3.22. Cash item update -------------
@@ -5233,7 +5247,9 @@
 18600#2011RWC_Cat_Ears_Beret#
 18601#2011RWC_Red_Bread_Hat#
 18603#2011RWC_Black_Devil's_Mask#
+
 //------------RWC 2011 furtuneeggs 10.11 -----------------------
+
 12391#Fortune_Egg#
 12403#Fortune_Egg_II#
 12416#Fortune_Egg_III#
@@ -5247,9 +5263,9 @@
 12533#Blue_Herb_Box#
 12549#White_Slim_Potion_Box#
 12550#Poison_Bottle_Box#
-12263#Battle_Manual#
+12263#Battle Manual#
 12264#Bubble_Gum#
-12265#Life_Insurance_Certificate#
+12265#Life Insurance Certificate#
 5593#Rabbit_Bonnet#
 5572#Savage_Baby_Hat#
 12361#Delicious_Shaved_Ice#
@@ -5322,7 +5338,7 @@
 16682#Halter_Lead_Box#
 16683#Halter_Lead_Box_30D#
 12580#Universal_Silver_Catalog#
-12581#Universal_Golden_Catalog#
+12581#Universal Golden Catalog#
 12591#Universal_Bronze_Catalog#
 16972#Weather_Report_Box#
 16973#Yellow_Hat_Box#
@@ -5332,19 +5348,20 @@
 16977#Red_Minicrown_Box#
 17014#Butterfly_ear_Box#
 17015#Stuckhead_Screw_Box#
-19507#Fine_Sun#
+19507#Shining Sun#
 19509#Butterfly_Wing_Ear#
-19510#Nut_On_Head#
-19513#Chicken_Beak#
-19514#Charlie_Beard#
-19515#Yellow_Hat#
-19516#Singing_Bird#
-19517#Cocks_Comb#
+19510#Nut on Head#
+19513#Chicken Beak#
+19514#Toothbrush Moustache#
+19515#Yellow Hat#
+19516#Singing Bird#
+19517#Rooster's Comb#
 19518#Rainbow#
-19519#Lightning_Cloud#
-19520#Rain_Cloud#
-19521#Charlie_Hat#
+19519#Lightning Cloud#
+19520#Rain Cloud#
+19521#Bowler Hat#
 19522#Mini_Crown1#
+
 //----------------------2011.11.08---------------------
 
 2573#Archangel_Wing#
@@ -6201,7 +6218,7 @@
 19919#C_Cube_Mask_#
 19920#C_Adv_Whisper_Mask#
 19903#C_Witchs_Hat#
-11550#Pumpkin_Cake#
+11550#Pumpkin Cake#
 22514#Candy_Holder#
 18536#Foxtail#
 18539#Skull_Cap#
@@ -6347,7 +6364,7 @@
 18864#Earth_Goddess_Flower#
 1837#Iron_Nail#
 2985#Gyges_Ring#
-18868#Assassin_Skull_Mask#
+18868#Assassin Skull Mask#
 12195#Plain_Rice_Cake#
 12198#Lucky_Rice_Cake#
 12196#Hearty_Rice_Cake#
@@ -6450,7 +6467,7 @@
 19546#C_Valkyrie_Helm#
 19547#C_Deviruchi_Cap#
 19548#C_Frog_Cap#
-19549#C_Magestic_Goat#
+19549#Magestic Goat#
 19550#Costume_Blush#
 19551#C_Elven_Ears#
 19552#C_Centimental_Flower#
@@ -6476,7 +6493,7 @@
 18674#Planewing_Hat#
 5656#Scooter_Hat_J#
 11550#Pumpkin_Cake#
-11592#Trans_Candy_Red#
+11592#Candy from a Stranger#
 11593#Trans_Candy_Blue#
 11594#Trans_Candy_Yellow#
 11595#Trans_Candy_Green#
@@ -6487,7 +6504,9 @@
 6915#Captured_Soul#
 22838#Something_Candy_Holder#
 14587#Repair_Weapon_Scroll#
+
 //woe te
+
 1299#TE_WoE_Katar#
 1319#TE_WoE_Axe#
 1399#TE_WoE_TwoHand_Axe#
@@ -6857,24 +6876,27 @@
 22011#Temporal_Luk_Boots#
 
 //-------------------Halloween_Event_2015--------------
+
 25132#Pumpkin_Deco#
 25133#Dried_White_Stem#
-11605#Cookies_Bat#
+11605#Bat Cookies#
 
 //---------Costama_Halloween_2----------------
+
 17514#Costama_HalloweenII#
-20166#C_Hockey_Mask#
+20166#Hockey Mask#
 20167#C_Devi_Headphone#
 20168#C_Skull_hood#
 20169#C_Long_Tongue#
 20170#C_Gray_Deviruchi_Cap#
 20171#C_Sepia_Cap#
-20172#C_Pumpkin_Head#
+20172#Pumpkin Head#
 20173#C_Lude_Hood#
 20174#C_Halloween_Hat_Orange#
 20175#C_Diabolic_Headphone#
 
 //---------------LoveDad_2015-------------
+
 28408#LoveDad_2015_Amber_Ring#
 28409#LoveDad_2015_Sapphire_Ring#
 17647#LoveDaddyBox2015#
@@ -7107,6 +7129,7 @@
 17708#Bunny_Scroll#
 
 //2016AUG_New_Cash_Items
+
 17719#Love_Scroll#
 17720#Valkyrie_Scroll#
 17721#Angel_Scroll#
@@ -7114,18 +7137,20 @@
 17725#Lolita_Scroll#
 
 //2016AUG_New_Costumes
+
 19795#Costume_Lord_Circlet#
 19629#Costume_Tiara#
 19630#Costume_Crown#
-19549#Majestic_Goat#
 
 //True Money Promotion 2016
+
 31115#Costume_Inw_True#
 31116#Costume_Inw_True_7_Days#
 17734#Costume_Inw_True_7_Days_Box#
 14814#Costume_Inw_True_Box#
 
 //2016 Thanksgiving Event
+
 18700#Rabbit_Ribbon_Hat#
 25218#Tree_Branch#
 25219#Window_Paper#
@@ -8351,7 +8376,7 @@ script
 16412#Ice Ear Wing Box#
 16461#Red Wing Hat Box#
 18522#Evil Marching Hat#
-19511#Heart Eyepatch#
+19511#Blue Eyepatch#
 19532#placeholder#
 19534#placeholder#
 19535#placeholder#
@@ -8460,7 +8485,7 @@ script
 20295#Poring Sunglasses#
 20285#Fluttering Cherry Blossoms#
 20297#Costume: Cactus Hat#
-31123#Costume Ghostring Tall Hat#
+31123#Ghostring Tall Hat#
 20299#Costume: Face Crasher#
 19876#Costume: Rabbit Ear Hat#
 20145#Costume: Robo Eye#
@@ -8469,7 +8494,7 @@ script
 20725#Ribbon Piamat#
 6125#Bunny Box#
 20458#Costume Wild Poring Rider#
-20133#Rental Underneath Huuma Giant Wheel#
+20133#Poring Mascot Costume#
 18748#Gold Ingot Poring Hat#
 18841#Small Poring Band#
 19780#Costume Rabbit Ear Knit Hat#
@@ -8522,3 +8547,13 @@ script
 17990#Premium Box (90 d.)#
 9692#Premium Box (360 d.)#
 
+11703#Mysterious Blood#
+
+31186#Black Cat#
+23968#Stuffed Pumpkin#
+
+19512#Red Eyepatch#
+31535#Pink Poo Poo Hat#
+20494#Ufo Poring Hat#
+19672#Poring Letter#
+31547#Poporing Mascot Costume#

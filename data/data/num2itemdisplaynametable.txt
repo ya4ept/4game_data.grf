@@ -577,7 +577,7 @@
 601#Fly_Wing#
 602#Butterfly_Wing#
 603#Old_Blue_Box#
-604#Dead_Branch#
+604#Dead Branch#
 605#Anodyne#
 606#Aloevera#
 607#Yggdrasil Berry#
@@ -2144,7 +2144,7 @@
 
 // --------- ---------------
 
-12103#Blood Twig#
+12103#Bloody Branch#
 12104#Random Arrow Container#
 12105#Taming Gift Box#
 12106#Jewel Box#
@@ -2803,8 +2803,8 @@
 
 // ---------------- ??? ??? -----------------
 
-13710#Gym_Membership_Card_Box#
-7776#Gym_Membership_Card#
+13710#Gym Pass Box#
+7776#Gym Pass#
 
 // ---------------- ????? 20070702 -----------------
 
@@ -2899,6 +2899,7 @@
 2680#Ring#
 
 //------ Rama the fifth -------------------
+
 7895#Rama5_Book#
 7895#Loykrathong_Book#
 7897#Constitution_Book#
@@ -2906,16 +2907,23 @@
 7899#Dagger_Of_Psychic#
 
 //------------Halloween ---------------
+
 5356#Hat#
 
 //----King's Hat-----------
+
 5366#King's_Hat#
 
 //------------Loykrathong event----------------
+
 5370#Cap#
+
 //------------Constitution  event-----------------
+
 5371#Cap#
+
 //------------2007 Xmas--------
+
 7908#Louise's_Beauty_Coupon#
 7909#Stolen_Cookie#
 7910#Stolen_Candy#
@@ -3222,10 +3230,10 @@
 
 // -------------- Rental cash item as of 200807 Equipment--------------------
 
-12947#Neo_Apple_of_Archer_Box (14 d.)#
+12947#Apple of Archer Box (14 d.)#
 12948#Neo_Bunny_Band_Box#
-12949#Neo_Sakkat_Box (14 d.)#
-12950#Neo_Grand_Circlet_Box (14 d.)#
+12949#Sakkat Box (14 d.)#
+12950#Grand Circlet Box (14 d.)#
 12951#Neo_Elven_Ears_Box#
 12952#Neo_Steel_Flower_Box#
 13502#Drooping_Kitty_Box#
@@ -3234,7 +3242,7 @@
 13778#Orc_Hero_Helm_Box#
 13779#Evil_Wing_Ears_Box#
 13780#Dark_Blindfold_Box#
-13782#Corsair_Box (14 d.)#
+13782#Corsair Box (14 d.)#
 13864#Hockey_Mask_Box#
 13865#Observer_Box#
 13954#Spiritual_Tunic_Box#
@@ -3299,10 +3307,10 @@
 
 //---------- 200808 open box rental tem , armor---------------
 
-5265#Neo_Apple_of_Archer#
+5265#Hat#
 5266#Neo_Bunny_Band#
-5267#Neo_Sakkat#
-5268#Neo_Grand_Circlet#
+5267#Hat#
+5268#Hat#
 2686#Neo_Elven_Ears#
 2687#Neo_Steel_Flower#
 5279#Drooping_Kitty#
@@ -3316,7 +3324,7 @@
 5327#Orc_Hero_Helm#
 5328#Evil_Wing_Ears#
 5329#Dark_Blindfold#
-5331#Corsair#
+5331#Hat#
 2384#Spritual_Tunic#
 5314#Hockey_Mask#
 5315#Observer#
@@ -3980,7 +3988,6 @@
 14005#Poison_Bottle_Box(5)#
 13571#Giant_Fly_Wing_Box(100)#
 13710#Gym_Membership_Card_Box#
-7776#Gym_Membership_Card#
 
 // ---------- 2009 6th Anniversary Package item ----------
 
@@ -5268,18 +5275,18 @@
 16977#Red_Minicrown_Box#
 17014#Butterfly_ear_Box#
 17015#Stuckhead_Screw_Box#
-19507#Fine_Sun#
+19507#Accessory#
 19509#Butterfly_Wing_Ear#
-19510#Nut_On_Head#
-19513#Chicken_Beak#
-19514#Charlie_Beard#
-19515#Yellow_Hat#
-19516#Singing_Bird#
-19517#Cocks_Comb#
-19518#Rainbow#
-19519#Lightning_Cloud#
-19520#Rain_Cloud#
-19521#Charlie_Hat#
+19510#Hat#
+19513#Accessory#
+19514#Accessory#
+19515#Hat#
+19516#Accessory#
+19517#Accessory#
+19518#Hat#
+19519#Lightning Cloud#
+19520#Accessory#
+19521#Hat#
 19522#Mini_Crown1#
 
 //------------------------------------------2011.11.08--------
@@ -6408,7 +6415,7 @@
 18674#Hat#
 5656#Helm#
 11550#Pumpkin_Cake#
-11592#Trans_Candy_Red#
+11592#Candy from a Stranger#
 11593#Trans_Candy_Blue#
 11594#Trans_Candy_Yellow#
 11595#Trans_Candy_Green#
@@ -6419,7 +6426,9 @@
 6915#Captured_Soul#
 22838#Suspicious_Candy_Holder#
 14587#Repair_Weapon_Scroll#
+
 //woe TE
+
 1299#Katar#
 1319#OneHand_Axe#
 1399#TwoHand_Axe#
@@ -6793,11 +6802,13 @@
 22011#Shoes#
 
 //-------------------Halloween_Event_2015--------------
+
 25132#Pumpkin_Deco#
 25133#Dried_White_Stem#
 11605#Cookies_Bat#
 
 //-------------------Costama_Halloween_2--------------
+
 17514#Costama_HalloweenII#
 20166#Mask#
 20167#Hat#
@@ -6811,11 +6822,13 @@
 20175#Hat#
 
 //---------------LoveDad_2015-------------
+
 28408#Accessory#
 28409#Accessory#
 17647#LoveDaddyBox2015#
 
 //-------------Costama_Animals------------
+
 17517#Costama__Animals#
 19842#Headgear#
 20190#Hat#
@@ -7035,6 +7048,7 @@
 19969#Hairband#
 
 //------------------EXTREME----------------------
+
 17694#Kafra_Treasure_Box1#
 17695#Kafra_Treasure_Box2#
 13577#Increase_AGI_50_Scroll_Box#
@@ -7042,6 +7056,7 @@
 17708#Bunny_Scroll#
 
 //2016AUG_New_Cash_Items
+
 17719#Love_Scroll#
 17720#Valkyrie_Scroll#
 17721#Angel_Scroll#
@@ -7049,18 +7064,20 @@
 17722#Lolita_Scroll#
 
 //2016AUG_New_Costumes
+
 19795#Helm#
 19629#Hat#
 19630#Hat#
-19549#Helm#
 
 //True Money Promotion 2016
+
 31115#Hat#
 31116#Hat#
 17734#Costume_Inw_True_7_Days_Box#
 14814#Costume_Inw_True_Box#
 
 //2016 Thanksgiving Event
+
 18700#Cap#
 25218#Tree_Branch#
 25219#Window_Paper#
@@ -7337,3 +7354,14 @@
 19816#Cap#
 13810#Light Blue Potion Box#
 13534#Light White Potion Box#
+11703#Mysterious Blood#
+
+23968#Stuffed Pumpkin#
+
+19511#Hat#
+19512#Hat#
+31535#Headgear#
+20494#Hat#
+19672#Accessory#
+20133#Hat#
+31547#Hat#
