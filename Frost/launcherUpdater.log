@@ -1,0 +1,60 @@
+CmdLine = -frostGameNameType roru_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
+checking connection to 109.105.133.4:80
+selected httpIp 109.105.133.4
+20:19:42.608 get_game64_name
+20:19:42.608 get_custom_command_line_arg end
+20:19:42.608 get_32bit_client_setting
+20:19:42.608 get_32bit_client_setting end
+20:19:42.655 download_url_to_file(version/roru_live/32/frostinfo.txt) -> I:\Love\4game\rRO\Frost\\frostinfo.txt in 0 seconds, err = 0(OK/200), sysErr = 0
+balance	100|0
+option	13
+redir ru|109.105.140.171|10001-10016,17453|109.105.133.120|10001-10016,17453|100
+redir ru|109.105.140.172|10001-10016,17453|109.105.133.122|10001-10016,17453|100
+redir ru|109.105.140.173|10001-10016,17453|109.105.133.123|10001-10016,17453|100
+redir ru|109.105.140.174|10001-10016,17453|109.105.133.124|10001-10016,17453|100
+redir ru|109.105.140.168|10001-10016,17453|109.105.133.116|10001-10016,17453|100
+redir ru|109.105.140.169|10001-10016,17453|109.105.133.119|10001-10016,17453|100
+mcr 109.105.133.106:8989
+get files/gameshield_32/30.17.9.24/gameShieldDll.dll|2307360|278c4c6b2e40dd07a1ef6e3caa79ddf1 files/gameshield_32/30.17.9.24/gameShieldDll.dll|2307360|278c4c6b2e40dd07a1ef6e3caa79ddf1
+get files/driver_32/10.17.0.31/frost_32.sys|90936|7ce449b74b926f11c75bf06f62c642f2 files/driver_32/10.17.0.31/frost_32.sys|90936|7ce449b74b926f11c75bf06f62c642f2
+get files/driver_64/10.17.1.31/frost_64.sys|102200|9041cad83ae266a357e0eab9be73fa5d files/driver_64/10.17.1.31/frost_64.sys|102200|9041cad83ae266a357e0eab9be73fa5d
+get files/collector_32/1.3.9.56/frostcollector.dll|1271072|99ef4ca4dc9893eea179369bec049aa7 files/collector_32/1.3.9.56/frostcollector.dll|1271072|99ef4ca4dc9893eea179369bec049aa7
+get files/updater_32/1.2.0.27/frostUpdater.dll|1081192|cc76b17dad21813bb735dc46e8879173 files/updater_32/1.2.0.27/frostUpdater.dll|1081192|cc76b17dad21813bb735dc46e8879173
+get files/launcher_32/10.3.1.31/launcher.exe|2576160|3cde22b927ba60dd72b5add78a84183f files/launcher_32/10.3.1.31/launcher.exe|2576160|3cde22b927ba60dd72b5add78a84183f
+get files/launcher_32/10.3.1.31/launcher.dll|113952|79c18cdbbce08226bbeef2e9e0fc5ebf files/launcher_32/10.3.1.31/launcher.dll|113952|79c18cdbbce08226bbeef2e9e0fc5ebf
+get files/img/roru_live/back.bmp|263056|c18d4c426abc99aa891cea3f7b69b054
+get files/img/frost.ico|1218|6d342202659cfea4ab59a3ebaa928b55
+del FrostConfigs.exe
+del whitenames.wl
+frbl not found in shared memory
+balance: 0
+20:19:42.677 check_custom_balance
+20:19:42.677 check_custom_balance end
+frostOptions: 13
+20:19:42.677 get_custom_frost_option
+20:19:42.677 get_custom_frost_option end
+get_preshield_info() failed: no lnch_lst info
+20:19:42.677 get_warning_state
+20:19:42.677 get_warning_state end
+ru|109.105.140.171|10001-10016,17453|109.105.133.120|10001-10016,17453|100
+ru|109.105.140.172|10001-10016,17453|109.105.133.122|10001-10016,17453|100
+ru|109.105.140.173|10001-10016,17453|109.105.133.123|10001-10016,17453|100
+ru|109.105.140.174|10001-10016,17453|109.105.133.124|10001-10016,17453|100
+ru|109.105.140.168|10001-10016,17453|109.105.133.116|10001-10016,17453|100
+ru|109.105.140.169|10001-10016,17453|109.105.133.119|10001-10016,17453|100
+mcr = 109.105.133.106:8989
+frbl not found in shared memory
+20:19:42.786 skipping download (files/gameshield_32/30.17.9.24/gameShieldDll.dll) -> I:\Love\4game\rRO\Frost\gameShieldDll.dll as encountered equal md5s[278c4c6b2e40dd07a1ef6e3caa79ddf1]
+20:19:42.799 skipping download (files/driver_32/10.17.0.31/frost_32.sys) -> I:\Love\4game\rRO\Frost\frost_32.sys as encountered equal md5s[7ce449b74b926f11c75bf06f62c642f2]
+20:19:42.801 skipping download (files/driver_64/10.17.1.31/frost_64.sys) -> I:\Love\4game\rRO\Frost\frost_64.sys as encountered equal md5s[9041cad83ae266a357e0eab9be73fa5d]
+20:19:42.832 skipping download (files/collector_32/1.3.9.56/frostcollector.dll) -> I:\Love\4game\rRO\Frost\frostcollector.dll as encountered equal md5s[99ef4ca4dc9893eea179369bec049aa7]
+20:19:42.843 skipping download (files/updater_32/1.2.0.27/frostUpdater.dll) -> I:\Love\4game\rRO\Frost\frostUpdater.dll as encountered equal md5s[cc76b17dad21813bb735dc46e8879173]
+20:19:42.873 skipping download (files/launcher_32/10.3.1.31/launcher.exe) -> I:\Love\4game\rRO\Frost\launcher.exe as encountered equal md5s[3cde22b927ba60dd72b5add78a84183f]
+20:19:42.876 skipping download (files/launcher_32/10.3.1.31/launcher.dll) -> I:\Love\4game\rRO\Frost\launcher.dll as encountered equal md5s[79c18cdbbce08226bbeef2e9e0fc5ebf]
+20:19:42.910 skipping download (files/img/roru_live/back.bmp) -> I:\Love\4game\rRO\Frost\back.bmp as encountered equal md5s[c18d4c426abc99aa891cea3f7b69b054]
+20:19:42.911 skipping download (files/img/frost.ico) -> I:\Love\4game\rRO\Frost\frost.ico as encountered equal md5s[6d342202659cfea4ab59a3ebaa928b55]
+started perform_delete_command()
+20:19:42.911 delated file I:\Love\4game\rRO\Frost\FrostConfigs.exe GetLastError=2
+20:19:42.911 delated file I:\Love\4game\rRO\Frost\whitenames.wl GetLastError=2
+will start launcher with params: "I:\Love\4game\rRO\Frost\\ro.exe" 1rag1 id:666 pw:999 -frostGame ..\Ragexe.exe -frostOptions 13 -frostGameNameType roru_live, using CreateProcess
+CreateProcess: 1, lastError: 18

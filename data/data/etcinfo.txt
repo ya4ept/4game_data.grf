@@ -1,5 +1,4 @@
-loadingscreen#
-4#
+loadingscreen#6#
 //weather#prontera.rsw#snow#
 //weather#izlude.rsw#snow#
 //weather#geffen.rsw#snow#
