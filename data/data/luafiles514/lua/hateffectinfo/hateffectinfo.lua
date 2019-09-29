@@ -121,28 +121,42 @@ HatEFID = {
 	HAT_EF_160LV_Genetic_YGreen = 120,
 	HAT_EF_WATER_BELOW3 = 121,
 	HAT_EF_WATER_BELOW4 = 122,
-	HAT_EF_C_Valkyrie_Wing = 123
+	HAT_EF_C_Valkyrie_Wing = 123,
+	HAT_EF_2019RTC_CeleAura_TW = 124,
+	HAT_EF_2019RTC1ST_TW = 125,
+	HAT_EF_2019RTC2ST_TW = 126,
+	HAT_EF_2019RTC3ST_TW = 127,
+	HAT_EF_CONS_OF_WIND = 128
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
 		resourceFileName = "efst_blossom_fluttering\\sakura.str",
 		hatEffectPos = -4,
-		hatEffectPosX = 1
+		hatEffectPosX = 1,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_MERMAID_LONGING] = {
 		resourceFileName = "efst_mermaid_loging\\bubblebubble.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		effectsizeAdjustment = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_rl_banishing_buster] = {
 		resourceFileName = "rl_banishing_buster\\vanishing1.str",
 		hatEffectPos = -10,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_LJOSALFAR] = {
 		resourceFileName = "efst_ljosalfar\\ljosalfar.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_CLOCKING] = { hatEffectID = 120 },
 	[HatEFID.HAT_EF_SNOW] = { hatEffectID = 162 },
@@ -154,18 +168,24 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Flutter_Butterfly] = {
 		resourceFileName = "efst_Flutter_Butterfly\\Flutter_Butterfly.str",
 		hatEffectPos = -8,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Angel_Fluttering] = {
 		resourceFileName = "efst_Angel_Fluttering\\Angel_Fluttering.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Blessing_Of_Angels] = {
 		resourceFileName = "efst_blessing_of_angels\\tensi3.str",
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
-		isIgnoreRiding = true
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Electric] = { hatEffectID = 254 },
 	[HatEFID.HAT_EF_Green_Floor] = { hatEffectID = 680 },
@@ -173,13 +193,23 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Valhalla_Idol] = {
 		resourceFileName = "efst_valhalla_idol\\odl2.str",
 		hatEffectPos = -10,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_EF_Angel_Stairs] = { resourceFileName = "cloudh.str", hatEffectPos = 0, hatEffectPosX = 0 },
+	[HatEFID.HAT_EF_Angel_Stairs] = {
+		resourceFileName = "cloudh.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
 	[HatEFID.HAT_EF_Glow_Of_New_Year] = {
 		resourceFileName = "efst_GlowOfNewYear\\halo.str",
 		hatEffectPos = -7,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_BOTTOM_FORTUNEKISS] = { hatEffectID = 293 },
 	[HatEFID.HAT_EF_PINKBODY] = { hatEffectID = 396 },
@@ -193,11 +223,6 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_YELLOWFLY3] = { hatEffectID = 946 },
 	[HatEFID.HAT_EF_KAGEMUSYA] = { hatEffectID = 1004 },
 	[HatEFID.HAT_EF_CHERRYBLOSSOM] = { hatEffectID = 1013 },
-	[HatEFID.HAT_EF_STRANGELIGHTS] = {
-		resourceFileName = "efst_STRANGELIGHTS\\strangelights.str",
-		hatEffectPos = -4,
-		hatEffectPosX = 0
-	},
 	[HatEFID.HAT_EF_WL_TELEKINESIS_INTENSE] = { hatEffectID = 1048 },
 	[HatEFID.HAT_EF_AB_OFFERTORIUM_RING] = { hatEffectID = 1057 },
 	[HatEFID.HAT_EF_WHITEBODY2] = { hatEffectID = 1065 },
@@ -206,12 +231,16 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Feather_Fluttering] = {
 		resourceFileName = "efst_feather_fluttering\\feath.str",
 		hatEffectPos = -4,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Camellia_Hair_Pin] = {
 		resourceFileName = "efst_flowersmoke\\flowersmoke.str",
 		hatEffectPos = -8,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Jp_Ev_Effect01] = { hatEffectID = 293 },
 	[HatEFID.HAT_EF_Jp_Ev_Effect02] = { hatEffectID = 293 },
@@ -219,49 +248,78 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Floral_Waltz] = {
 		resourceFileName = "efst_Floral_Waltz\\Floral_Waltz.str",
 		hatEffectPos = -8,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_magical_feather] = {
 		resourceFileName = "efst_magical_feather\\magical_feather.str",
 		hatEffectPos = -5,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_HAT_EFFECT] = { hatEffectID = 1012 },
 	[HatEFID.HAT_EF_BAKURETSU_HADOU] = { hatEffectID = 1130 },
 	[HatEFID.HAT_EF_gold_shower] = {
 		resourceFileName = "efst_Gold_Shower\\coin2.str",
 		hatEffectPos = -7,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_WHITEBODY] = { hatEffectID = 1131 },
 	[HatEFID.HAT_EF_WATER_BELOW2] = { hatEffectID = 838 },
 	[HatEFID.HAT_EF_firework] = {
 		resourceFileName = "efst_firework\\firework.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Return_TW_1st_Hat] = {
 		resourceFileName = "EFST_Return_TW_1st_Hat\\tensi3.str",
 		hatEffectPos = -7,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_C_FlutterButterfly_BL] = {
 		resourceFileName = "efst_FlutterButterfly_BL\\Flutter_Butterfly.str",
 		hatEffectPos = -8,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Qscaraba] = {
 		resourceFileName = "EFST_Qscaraba\\Qscaraba.str",
 		hatEffectPos = -4,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_EF_FSTONE] = { resourceFileName = "efst_fstone\\fstone.str", hatEffectPos = -6, hatEffectPosX = 0 },
+	[HatEFID.HAT_EF_STRANGELIGHTS] = {
+		resourceFileName = "efst_STRANGELIGHTS\\strangelights.str",
+		hatEffectPos = -4,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_FSTONE] = {
+		resourceFileName = "efst_fstone\\fstone.str",
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
 	[HatEFID.HAT_EF_Magiccircle] = {
 		resourceFileName = "efst_Magiccircle\\mc.str",
-		hatEffectPos = -12,
+		hatEffectPos = -11,
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Brysinggamen] = { hatEffectID = 1193 },
 	[HatEFID.HAT_EF_Magingiorde] = { hatEffectID = 1194 },
@@ -288,17 +346,23 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {
 		resourceFileName = "efst_Full_BloomCherry_Tree\\Full_BloomCherry_Tree.str",
 		hatEffectPos = -6,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_C_Blessings_Of_Soul] = {
-		resourceFileName = "efst_C_Blessings_Of_Soul\\ blessingsofsoul.str",
-		hatEffectPos = 0,
-		hatEffectPosX = 0
+		resourceFileName = "efst_C_Blessings_Of_Soul\\blessingsofsoul.str",
+		hatEffectPos = -8,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_ManyStars] = {
 		resourceFileName = "efst_ManyStars\\hikariga.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_SUBJECT_AURA_GOLD] = { hatEffectID = 1211 },
 	[HatEFID.HAT_EF_SUBJECT_AURA_WHITE] = { hatEffectID = 1212 },
@@ -307,38 +371,50 @@ hatEffectTable = {
 		resourceFileName = "efst_C_Shining_Angel_Wing\\C_Shining_Angel_Wing.str",
 		hatEffectPos = -8,
 		hatEffectPosX = 0,
-		isRenderBeforeCharacter = true
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Magic_Star_TW] = {
 		resourceFileName = "efst_Mstone\\stoneofint2.str",
 		hatEffectPos = -6,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_Digital_Space] = { hatEffectID = 1240 },
 	[HatEFID.HAT_EF_Sleipnir] = { hatEffectID = 1241 },
 	[HatEFID.HAT_EF_C_Maple_Which_Falls_Rd] = {
 		resourceFileName = "efst_C_Maple_Which_Falls_Rd\\C_Maple_Which_Falls_Rd.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_MagiccircleRainbow] = {
-		resourceFileName = "efst_MagiccircleRainbow\\mc.str",
-		hatEffectPos = -12,
+		resourceFileName = "efst_MagiccircleRainbow\\mcr.str",
+		hatEffectPos = -11,
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_SnowFlake_Tiara] = {
 		resourceFileName = "efst_SnowFlake_Tiara\\nnnaaa.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
-		isIgnoreRiding = true
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Midgarts_Glory] = {
 		resourceFileName = "efst_Midgarts_Glory\\halo_2.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
-		isIgnoreRiding = true
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_LEVEL99_TIGER] = { hatEffectID = 1291 },
 	[HatEFID.HAT_EF_LEVEL160_TIGER] = { hatEffectID = 1292 },
@@ -346,22 +422,30 @@ hatEffectTable = {
 		resourceFileName = "efst_FluffyWing\\ypen.str",
 		hatEffectPos = -8,
 		hatEffectPosX = 0,
-		isRenderBeforeCharacter = true
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_C_Ghost_Effect] = {
 		resourceFileName = "efst_C_Ghost_Effect\\C_Ghost_Effect.str",
 		hatEffectPos = 0,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_C_Popping_Poring_Aura] = {
 		resourceFileName = "efst_C_Popping_Poring_Aura\\C_Popping_Poring_Aura.str",
 		hatEffectPos = -10,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_ResonateTaego] = {
 		resourceFileName = "efst_ResonateTaego\\youmei.str",
 		hatEffectPos = -9,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_99LV_Rune_Red] = { hatEffectID = 1325 },
 	[HatEFID.HAT_EF_99LV_Royal_Guard_Blue] = { hatEffectID = 1326 },
@@ -389,16 +473,57 @@ hatEffectTable = {
 		resourceFileName = "efst_Waterfield\\waterfield2.str",
 		hatEffectPos = -10,
 		hatEffectPosX = 0,
-		isRenderBeforeCharacter = true
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_WATER_BELOW4] = {
 		resourceFileName = "efst_Waterfield2\\waterfield3.str",
 		hatEffectPos = -10,
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_EF_C_Valkyrie_Wing] = { hatEffectID = 1377 }
+	[HatEFID.HAT_EF_C_Valkyrie_Wing] = { hatEffectID = 1377 },
+	[HatEFID.HAT_EF_2019RTC_CeleAura_TW] = {
+		resourceFileName = "efst_2019RTC_CeleAura_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_2019RTC1ST_TW] = {
+		resourceFileName = "efst_2019RTC1ST_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_2019RTC2ST_TW] = {
+		resourceFileName = "efst_2019RTC2ST_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_2019RTC3ST_TW] = {
+		resourceFileName = "efst_2019RTC3ST_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_CONS_OF_WIND] = { hatEffectID = 1531 }
 }
 effectHatItemTable = {
 	20285,
@@ -514,6 +639,24 @@ IsIgnoredRidingState = function(index)
 	local hatEfTbl = hatEffectTable[index]
 	if hatEfTbl ~= nil and hatEfTbl.isIgnoreRiding ~= nil then
 		return hatEfTbl.isIgnoreRiding
+	end
+	return false
+end
+
+-- Function #7
+IsAdjustPositionWhenShrinkState = function(index)
+	local hatEfTbl = hatEffectTable[index]
+	if hatEfTbl ~= nil and hatEfTbl.isAdjustPositionWhenShrinkState ~= nil then
+		return hatEfTbl.isAdjustPositionWhenShrinkState
+	end
+	return false
+end
+
+-- Function #8
+IsAdjustSizeWhenShrinkState = function(index)
+	local hatEfTbl = hatEffectTable[index]
+	if hatEfTbl ~= nil and hatEfTbl.isAdjustSizeWhenShrinkState ~= nil then
+		return hatEfTbl.isAdjustSizeWhenShrinkState
 	end
 	return false
 end

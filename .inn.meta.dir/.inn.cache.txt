@@ -1,38 +1,22 @@
-.inn.meta.dir\.inn.cmd.20190813.02.control.txt|e4ee5406bef75409de57504cb70424f54e764aae|0|1565716704
-.inn.meta.dir\.inn.deleted.control.txt|88aef7b56720c271d7af240118baa043b736e600|0|1565716751
-.inn.meta.dir\.inn.delta.20190410.01_20190813.02.control.txt|5cc9932a314a7f85e03237edc937ae504551625e|0|1565716703
-.inn.meta.dir\.inn.delta.20190416.01_20190813.02.control.txt|34c4350cf9f22c3add118a58ddf25151d68ed49a|0|1565716703
-.inn.meta.dir\.inn.delta.20190417.01_20190813.02.control.txt|fb578b841ab556760570be3fe0a01dd679347a99|0|1565716704
-.inn.meta.dir\.inn.delta.20190423.01_20190813.02.control.txt|70ad626c54263c6c27ba245c203b3c18d425ea26|0|1565716704
-.inn.meta.dir\.inn.delta.20190430.01_20190813.02.control.txt|372c82f29edee66d8a947c2438d254af38a83c04|0|1565716704
-.inn.meta.dir\.inn.delta.20190508.01_20190813.02.control.txt|fef5c99198e23a62e44513e3df8c9218789b37e7|0|1565716704
-.inn.meta.dir\.inn.delta.20190508.02_20190813.02.control.txt|02da0d4340645c1e1fdcfa99aee6897ea26a304c|0|1565716704
-.inn.meta.dir\.inn.delta.20190514.02_20190813.02.control.txt|14a481ebdbe15c4dd1d4a3b5509e5b39d9937c91|0|1565716704
-.inn.meta.dir\.inn.delta.20190515.01_20190813.02.control.txt|6154fbfe615611417d1edc030d34ef15c9b0f7e5|0|1565716704
-.inn.meta.dir\.inn.delta.20190521.01_20190813.02.control.txt|409a10e072ad0c51b85decf93fc4f9eb0b2c08c2|0|1565716704
-.inn.meta.dir\.inn.delta.20190528.02_20190813.02.control.txt|8392b81258024cc16b3a02099285648d92fad9d8|0|1565716704
-.inn.meta.dir\.inn.delta.20190529.01_20190813.02.control.txt|a4564dcf3cd8738a11d5954e19d3caa2b9b9d450|0|1565716704
-.inn.meta.dir\.inn.delta.20190604.01_20190813.02.control.txt|3bc8993f859e8084f2b6614e6a89425ff6d88fcf|0|1565716704
-.inn.meta.dir\.inn.delta.20190611.01_20190813.02.control.txt|d3a7423318211c4bd8911acf30e02f2797a98630|0|1565716704
-.inn.meta.dir\.inn.delta.20190618.01_20190813.02.control.txt|b582248e33c2b74601277ca76ee7375b024044cb|0|1565716704
-.inn.meta.dir\.inn.delta.20190625.01_20190813.02.control.txt|3560aae6352ce92ed5ecf28d559dbb5d6d3a72f1|0|1565716704
-.inn.meta.dir\.inn.delta.20190702.01_20190813.02.control.txt|9db45b1aeed569a72bd0a47258e98e407b4ae335|0|1565716704
-.inn.meta.dir\.inn.delta.20190709.01_20190813.02.control.txt|859413136032d3c6a274d307ec9fb39a5f7ca95a|0|1565716704
-.inn.meta.dir\.inn.delta.20190709.02_20190813.02.control.txt|53ee7ad3cba9c31628ca7aca72350747e9f47642|0|1565716704
-.inn.meta.dir\.inn.delta.20190709.03_20190813.02.control.txt|6d46e4495f6384a6368b7012fc4f0911e96f1362|0|1565716704
-.inn.meta.dir\.inn.delta.20190716.01_20190813.02.control.txt|ab1f8c6998f7203c3406ac344dbd75dac7e74d46|0|1565716704
-.inn.meta.dir\.inn.delta.20190716.02_20190813.02.control.txt|61d567c933b83c72637fdb306700f833e54af45e|0|1565716704
-.inn.meta.dir\.inn.delta.20190716.03_20190813.02.control.txt|4f45deb91e9a824505d876070a437a8d83576dc4|0|1565716704
-.inn.meta.dir\.inn.delta.20190723.01_20190813.02.control.txt|82029c8698c8d330f199212868bb94a3650a9d41|0|1565716704
-.inn.meta.dir\.inn.delta.20190730.01_20190813.02.control.txt|4901132dc32714f0b75f9280f5c543e36947c668|0|1565716704
-.inn.meta.dir\.inn.delta.20190806.01_20190813.02.control.txt|916d8c7984dd7cd32da2093d3f3694405b2b4811|0|1565716704
-.inn.meta.dir\.inn.delta.20190806.02_20190813.02.control.txt|5e4e0c454f0010cb8efeeb6fd3ae8eb55d437669|0|1565716704
-.inn.meta.dir\.inn.files.20190813.02-live.control.txt|da39a3ee5e6b4b0d3255bfef95601890afd80709|0|1565716703
+.inn.meta.dir\.inn.cmd.20190820.04.control.txt|ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a|0|1566416773
+.inn.meta.dir\.inn.deleted.control.txt|e7c24b217766d1a6ebd5185ce31263b3f4614ab3|0|1566416836
+.inn.meta.dir\.inn.delta.20190813.02_20190820.01.control.txt|dcf0d694db58063f8ca237d606b6ea3ae7f1c8f2|0|1566416773
+.inn.meta.dir\.inn.delta.20190813.02_20190820.02.control.txt|131a1a87a1a706d3d9dd5df862ea202538a84cca|0|1566416773
+.inn.meta.dir\.inn.delta.20190813.02_20190820.03.control.txt|c5566074f83c6539d357671b81dde615eef47f36|0|1566416773
+.inn.meta.dir\.inn.delta.20190813.02_20190820.04.control.txt|d994ee4910ab2065f3975dc38e05fa94a097b92d|0|1566416773
 .inn.meta.dir\.inn.files.20190813.02.control.txt|2728018413552b373ae7e55add24d1e7cb734161|0|1565716703
-.inn.meta.dir\.inn.installed.control.txt|a94f57b0d480e34e364512e2dd92f969a2ed0567|0|0
-.inn.meta.dir\.inn.version.20190806.02.control.txt|6919dfe1e1b121294ec76165f06282afa0244a46|0|0
-.inn.meta.dir\.inn.version.20190813.02-live.control.txt|c0da197500da0d4623416fa8730718386740de48|0|0
+.inn.meta.dir\.inn.files.20190820.01.control.txt|bd28e150c9e131509619ca1f12ec2e083178336c|0|1566416772
+.inn.meta.dir\.inn.files.20190820.02.control.txt|c60d5502c37edc3ab3577fcc72428a539323050f|0|1566416772
+.inn.meta.dir\.inn.files.20190820.03.control.txt|0f4ebddfc1bcc2e35e1df0c51d0faf8b27f43586|0|1566416772
+.inn.meta.dir\.inn.files.20190820.04-live.control.txt|da39a3ee5e6b4b0d3255bfef95601890afd80709|0|1566416772
+.inn.meta.dir\.inn.files.20190820.04.control.txt|05dd08df856eb7293e76328ed825c600c0a304a2|0|1566416772
+.inn.meta.dir\.inn.installed.control.txt|d10c960968a8122d46cc6423304758e505ca688f|0|0
 .inn.meta.dir\.inn.version.20190813.02.control.txt|45b6395eb2f2bb844d68ec6ff4dc8ef9ecbbe2f5|0|0
+.inn.meta.dir\.inn.version.20190820.01.control.txt|f97611cbf43e7b2cc29d82fb58c7158f8053ac6e|0|0
+.inn.meta.dir\.inn.version.20190820.02.control.txt|8335725810614bd13a43d5a296fef0077bded119|0|0
+.inn.meta.dir\.inn.version.20190820.03.control.txt|84ccef0091aa3be89f8bb7f0dc389474b3218582|0|0
+.inn.meta.dir\.inn.version.20190820.04-live.control.txt|df8e2aa80d4fe91088a6c3f0145ee8cdaab2e0ba|0|0
+.inn.meta.dir\.inn.version.20190820.04.control.txt|0e52a3182c123aa850af629db94d129d7db41981|0|0
 ai\ai.lua|870ffa0f746075f3a84e558aad60cb645072dd94|2960|1537192223
 ai\ai_m.lua|7b7bad43c75231688f052f761314b3f20fa097f6|2915|1537192223
 ai\const.lua|e119cc6092ce377e4272c3e9f1e56c5fab6d5c14|991|1537192224
@@ -204,7 +188,7 @@ bgm\99.mp3|8b65106dc4b5951fd8ef9707affed0f9b3691302|1453769|1537192223
 bgm\997.mp3|2bc0e8bdf0d054621fda2831f312f9a9b53636a3|726|1537192224
 binkw32.dll|9ab7dc066110122de73ade73fbde67545f8a0cd2|115658|1537192223
 cps.dll|7309cfe429fa4d8090b922c24b1663f8c09c38c6|28437|1537192223
-data.grf|08b695c3ab3da17a05a14a8410f18005c8d6e98a|1379432004|1565716726
+data.grf|4500d73c76433eac55c0ca713c57eea39c01b456|1379774821|1566416783
 dbghelp.dll|405e1a968a00225e45f167e77a72873a6e563278|81534|1560893724
 event.grf|a1826865c807eef674e700f17ffff4c331d98be5|5136749|1537192147
 granny2.dll|aa7fed4523cb235dbba92408e10a51dc0d26866a|92603|1537192223
@@ -233,7 +217,7 @@ msvcr100.dll|4e880fc7625ccf8d9ca799d5b94ce2b1e7597335|321262|1537192223
 msvcr110.dll|52693d4b5e0b55a929099b680348c3932f2c3c62|351348|1537192223
 msvcr90.dll|29268ef0cd220ad3c5e9812befd3f5759b27a266|246718|1537192223
 pcmac.dll|b48eb3abf54454094f163272e71014b8db1cae48|28838|1537192223
-ragexe.exe|0829265c2629273065b08aa49b04fecaabc760f6|1885863|1565716705
+ragexe.exe|c99fd164964f3da95f8524c9c4c0507bdbc6a330|1886890|1566416774
 setup.exe|78faf6439f659f01be4bda85deb47ce12aa9f2af|203139|1537192223
 skin\default\basic_interface\arw_down.bmp|39027f3e8923a757a1f4de901428f83aecd55418|133|1537192224
 skin\default\basic_interface\arw_left.bmp|34dd7130c914ad372035977b5f922823b6a9e7aa|149|1537192224
@@ -523,38 +507,38 @@ skin\scribbling kid\basic_interface\arw_right_on.bmp|2bf89661a9b440ad5ed59dbc571
 skin\scribbling kid\basic_interface\arw_up.bmp|8d92f3073b3bfd5b05901101018d039f4dcff5d2|111|1537192224
 skin\scribbling kid\basic_interface\basewin_bg.bmp|f57b2d06ffa9cccf5e43c1f748ed9b5802738ec0|2356|1537192224
 skin\scribbling kid\basic_interface\basewin_mini.bmp|9549ad582d9eaaea9038b397328d3b0e104441af|218|1537192224
-skin\scribbling kid\basic_interface\btn_cartoff.bmp|d580f64e7f3a8ec3468f86877ae3bfd43afe4b02|1086|1537192224
+skin\scribbling kid\basic_interface\btn_cartoff.bmp|3f18acf56c9eb6b375d7ba2a39f483012f112b44|1507|1566416827
 skin\scribbling kid\basic_interface\btn_comm_dis.bmp|7b1a9617a9a7d109d84c8886f1ede47e41d7397f|1123|1537192224
 skin\scribbling kid\basic_interface\btn_comm_off.bmp|f0151486ef94e6fb18e2d48e73d61136f70304cc|1046|1537192224
-skin\scribbling kid\basic_interface\btn_comm_on.bmp|8226d77dc03cdf6747abc93305362b3390230620|823|1537192224
-skin\scribbling kid\basic_interface\btn_equip_dis.bmp|83c1cf27d57b44f77cc0af8c7aba808218dcca23|1151|1537192224
+skin\scribbling kid\basic_interface\btn_comm_on.bmp|55b340c724655a36bc8e73374fc8259d23b1ec99|711|1566416828
+skin\scribbling kid\basic_interface\btn_equip_dis.bmp|e385ff9a17b1303a3196ec4372587879d82a651c|983|1566416828
 skin\scribbling kid\basic_interface\btn_equip_off.bmp|eddc7bb6fa17b8d9f9b5a77dd7aad6d832e14118|971|1537192224
-skin\scribbling kid\basic_interface\btn_equip_on.bmp|f46761592b530f3c367f30dac77aa63d8c59a91e|990|1537192224
+skin\scribbling kid\basic_interface\btn_equip_on.bmp|d524a8354eda5e07d76329fb28b0287e91313736|881|1566416828
 skin\scribbling kid\basic_interface\btn_friend_dis.bmp|efbcfba76b5558d458d48b1bbdbb8a890d4bc95e|1185|1537192224
 skin\scribbling kid\basic_interface\btn_friend_off.bmp|122e42c70d4b63b2b06eb18a34d5282603da0366|990|1537192224
-skin\scribbling kid\basic_interface\btn_friend_on.bmp|2ced19fd89897c7bc06775f725174a770b35c6ed|902|1537192224
+skin\scribbling kid\basic_interface\btn_friend_on.bmp|a1cf060bd3cec4ea184da1dc4036c3cdd7bac806|910|1566416828
 skin\scribbling kid\basic_interface\btn_items_dis.bmp|3958beaaeb0313ff55a580545cb067538b3970ab|978|1537192224
 skin\scribbling kid\basic_interface\btn_items_off.bmp|0e235c512332dce9d271d71520899b8b53eaae21|838|1537192224
-skin\scribbling kid\basic_interface\btn_items_on.bmp|ee34dcc592a494ae6aafad601bcfe738fcb35831|831|1537192224
-skin\scribbling kid\basic_interface\btn_map_dis.bmp|0e90b41e61992dec034c17e319fb9952097cdb31|1108|1537192224
+skin\scribbling kid\basic_interface\btn_items_on.bmp|48caf089aa8e22273896cc457b858e99f1f815dd|735|1566416828
+skin\scribbling kid\basic_interface\btn_map_dis.bmp|af3fd94a3224a706a2f4269d0a41ec299553ec3a|1108|1566416828
 skin\scribbling kid\basic_interface\btn_map_off.bmp|707184571630f3b821689ee41cd434882a63ba21|971|1537192224
-skin\scribbling kid\basic_interface\btn_map_on.bmp|211c813c87e538cba7b0f11e4288113020ee1d11|818|1537192224
+skin\scribbling kid\basic_interface\btn_map_on.bmp|d84d744f5759e5aeb59372487c3a764151a58f98|775|1566416828
 skin\scribbling kid\basic_interface\btn_option_dis.bmp|add0882d7c307ea3771abd33fc3ddf6b09fad238|1089|1537192224
 skin\scribbling kid\basic_interface\btn_option_off.bmp|1270424f0a42bfd83fc2bebb3233e16619e806fe|822|1537192224
-skin\scribbling kid\basic_interface\btn_option_on.bmp|828cdcc12fea2633ffc21dee1ad5fd6e4add91fa|889|1537192224
+skin\scribbling kid\basic_interface\btn_option_on.bmp|af9889e72f831a14d0d6b7cd2b2d145eb9595808|724|1566416828
 skin\scribbling kid\basic_interface\btn_skill_dis.bmp|088908b000315429f3bca0aaf7b6002bb1a2416b|1114|1537192224
 skin\scribbling kid\basic_interface\btn_skill_off.bmp|6c6906ed4f52096e137153a6dc7c80510bf25ac6|984|1537192224
-skin\scribbling kid\basic_interface\btn_skill_on.bmp|103ff6b0b6abb38cfef3439bc6d76905c41c8731|894|1537192224
+skin\scribbling kid\basic_interface\btn_skill_on.bmp|b22b01d232994f80526e824b458607f69e7aa256|812|1566416828
 skin\scribbling kid\basic_interface\btn_status_dis.bmp|7d9cdb3b5f2de4fa483502223c6ee68e68c72f53|1048|1537192224
 skin\scribbling kid\basic_interface\btn_status_off.bmp|ac056ee4edcfecbfe8c5d33a005a66fe3997e761|865|1537192224
-skin\scribbling kid\basic_interface\btn_status_on.bmp|cdeb4ce8e3449fa2d6909e075493b7693e55b742|949|1537192224
+skin\scribbling kid\basic_interface\btn_status_on.bmp|e43a9f0a08e84302830a9eb3fb1f76eb098a8bf1|857|1566416828
 skin\scribbling kid\basic_interface\btnbar_left.bmp|014a3000ec0167dafcec3b11bb07ee26ec642898|89|1537192224
 skin\scribbling kid\basic_interface\btnbar_left2.bmp|029df68b3c6394f5762706a3d1231c7c3066c82e|100|1537192224
 skin\scribbling kid\basic_interface\btnbar_mid.bmp|64300936fc8ce59c3e4d6a9e36d810d12895f3fe|84|1537192224
 skin\scribbling kid\basic_interface\btnbar_mid2.bmp|469dc53fcc2f4d6571feb380a3c9c3b851424954|86|1537192224
 skin\scribbling kid\basic_interface\btnbar_right.bmp|6da7321bf1f9be03eb0aea55942e7202debf15a5|88|1537192224
 skin\scribbling kid\basic_interface\btnbar_right2.bmp|c4adbebe7971ebff817e1c6180191fa9e3ce5044|99|1537192224
-skin\scribbling kid\basic_interface\chatwin0_bg.bmp|e9f49ef8d07edff56f63181cd2137c9f92e370ec|4220|1537192223
+skin\scribbling kid\basic_interface\chatwin0_bg.bmp|db323b24a381a2037843cd86ecf88c3579110fb5|5763|1566416828
 skin\scribbling kid\basic_interface\chatwin1_left.bmp|33c86d2d2a436f0e141fa2dc45cc7189920d1ac8|81|1537192224
 skin\scribbling kid\basic_interface\chatwin1_line.bmp|fecef159170c2a4905ec70b51d3f40471a3be29e|75|1537192224
 skin\scribbling kid\basic_interface\chatwin1_mid.bmp|1fe42820da52e26c289e2778ff871099409c3a90|73|1537192224
@@ -567,8 +551,8 @@ skin\scribbling kid\basic_interface\dialog_btn1.bmp|1d92b1f12554d32f165121b0d788
 skin\scribbling kid\basic_interface\dialog_btn2.bmp|9bc82c0ba42a3531668ca731058a084b5061402d|128|1537192224
 skin\scribbling kid\basic_interface\dialog_mid.bmp|756c1e21f7c241ed63bd65ae29ee7e945f08dae3|90|1537192224
 skin\scribbling kid\basic_interface\dialog_resize.bmp|3be6090fd0abb3de79d550df89d415b6556cd0ea|67|1537192224
-skin\scribbling kid\basic_interface\equipwin_bg.bmp|0514d1eff04efecee576e13412565cb0788703cf|3189|1537192223
-skin\scribbling kid\basic_interface\exchange_bg.bmp|95bd8f381043a1ea8a8109de5c9417457eb8a68c|4124|1537192223
+skin\scribbling kid\basic_interface\equipwin_bg.bmp|0e4374d9ca6904894bffb8fd992bc476f5305e41|4390|1566416829
+skin\scribbling kid\basic_interface\exchange_bg.bmp|1ac08e68fdf95a4afd093145e8204cb713b9fc70|5649|1566416829
 skin\scribbling kid\basic_interface\grp_leader.bmp|81d2f2aa6b8c5223992bb397fa817a5ecc9ece63|316|1537192224
 skin\scribbling kid\basic_interface\grp_offline.bmp|40a8bd4484b4b52b82f06730f997fd642e8274ee|118|1537192224
 skin\scribbling kid\basic_interface\grp_online.bmp|7a08444133ac1f7290dec506950a522809370bef|158|1537192224
@@ -610,7 +594,7 @@ skin\scribbling kid\basic_interface\mesbtn_05_b.bmp|5df4850eaab19f6d35674b88c855
 skin\scribbling kid\basic_interface\mesbtn_left.bmp|5e3bb4326cb879577640651157428947642352ee|91|1537192224
 skin\scribbling kid\basic_interface\mesbtn_mid.bmp|787f67adc627c7e3a382781f053c69bfc8eb381c|75|1537192224
 skin\scribbling kid\basic_interface\mesbtn_right.bmp|ceb1a6718a7baf9e15683fce9f9c36753e51a2c3|91|1537192224
-skin\scribbling kid\basic_interface\optwin0_bg.bmp|a9cd5487ce4f99bf06296d4d9c23eb22bd994b58|2319|1537192224
+skin\scribbling kid\basic_interface\optwin0_bg.bmp|f2fad4450be0fa1392473e06d1a10609afe52995|2662|1566416829
 skin\scribbling kid\basic_interface\optwin1_bg.bmp|a12457401ee88f03ce0e641b4a356d89639416d8|1660|1537192224
 skin\scribbling kid\basic_interface\shortitem_bg.bmp|7c07a8fddb8346b516d287f058e26fb9dd114c18|325|1537192224
 skin\scribbling kid\basic_interface\shortitem_btn.bmp|db85a9c8185917121e5ea31a47b16e006c48f3bb|74|1537192224
@@ -618,7 +602,7 @@ skin\scribbling kid\basic_interface\skill_up_a.bmp|864761280e5fb437f53a292d629cf
 skin\scribbling kid\basic_interface\skill_up_b.bmp|91065c29faa1e5975b7c87a12d683c430e24c280|962|1537192224
 skin\scribbling kid\basic_interface\skill_up_c.bmp|ba5eda6eb3947fcfb781cc6eb957bc9cf3b994cc|949|1537192224
 skin\scribbling kid\basic_interface\skillcollection.bmp|5d8dfc56a32bb3df0063b6896c676eba7627782b|3020|1537192223
-skin\scribbling kid\basic_interface\statwin0_bg.bmp|ea0c742eb1e6cfe05b0b8bbf7a1d6bcb7e514886|4660|1537192223
+skin\scribbling kid\basic_interface\statwin0_bg.bmp|44398086f2476bd0b0eb31fdcf19f5457dcee813|6450|1566416829
 skin\scribbling kid\basic_interface\statwin1_bg.bmp|8fcabf6d07f82f6172dfb46208a0d9b9f2493b69|5995|1537192223
 skin\scribbling kid\basic_interface\sys_base_off.bmp|c59e8e3f02a266ff0d6f25b1538bbeb9dd7b2623|92|1537192224
 skin\scribbling kid\basic_interface\sys_base_on.bmp|e3513a30419510a195b2883256366bfe64348193|93|1537192224
@@ -640,62 +624,64 @@ skin\scribbling kid\basic_interface\titlebar_right.bmp|95b2663e981fb0c1f60206f8a
 skin\scribbling kid\basic_interface\txtbox_btn_a.bmp|812ec6427da9d5e8792caa6c0889eebcc9f409e2|156|1537192224
 skin\scribbling kid\basic_interface\txtbox_btn_b.bmp|07ffa3b543d9974ca5faa8f739a8b334dba3a96b|157|1537192224
 skin\scribbling kid\basic_interface\txtbox_btn_c.bmp|f75625da8eba248c98312ce0c7427c50344e5d93|157|1537192224
-skin\scribbling kid\btn_back.bmp|305d03c8077b2df37bd4ffcb96fdb4c0e01545fc|569|1537192224
-skin\scribbling kid\btn_back_a.bmp|be06ff2afba38554e0fb466818486ed08fb344c7|910|1537192224
-skin\scribbling kid\btn_back_b.bmp|7f02bc2d237d7a316f84c617c7472fe2d9977427|988|1537192224
-skin\scribbling kid\btn_buy.bmp|0dc76e8f795cb63fe55326408249651dceb71b15|513|1537192224
-skin\scribbling kid\btn_buy_a.bmp|360b7cf3c049e1951fbe87147b8bd370250c7c5f|781|1537192224
-skin\scribbling kid\btn_buy_b.bmp|9c0a7f907603f5e605238056cb833bba156f896b|823|1537192224
-skin\scribbling kid\btn_cancel.bmp|5a704f7a4dfc979f92dbdf14d185aaf4439b1ad6|554|1537192224
-skin\scribbling kid\btn_cancel_a.bmp|92ea2a3247bee26d61ec892c662d974df04f17dd|829|1537192224
-skin\scribbling kid\btn_cancel_b.bmp|960058fd2b79af1b160dfa55dae9e9489fbf589d|920|1537192224
-skin\scribbling kid\btn_close.bmp|4dbfd55a2e9b3d7421b71f2f2f9e3632c285d97d|531|1537192224
-skin\scribbling kid\btn_close_a.bmp|d87764dd7a1dfd2a1f70d6e82d26aaba7ffadaa1|797|1537192224
-skin\scribbling kid\btn_close_b.bmp|1e8ac4e7d130c214254b4ddd06e8a6d6915b82ae|879|1537192224
-skin\scribbling kid\btn_edit.bmp|68ad9a886393aed7f1a817568beccb83885b55a7|596|1537192224
-skin\scribbling kid\btn_edit_a.bmp|74275556ef68155a8f9f8ec43da6f2a0ea6e4312|916|1537192224
-skin\scribbling kid\btn_edit_b.bmp|45d45491769ee9a41e93e3f63fe64a73dda90472|981|1537192224
-skin\scribbling kid\btn_exchange.bmp|abd3940f6323a99ac7d1aff8af66094ee456e661|611|1537192224
-skin\scribbling kid\btn_exchange_a.bmp|190077a5e661498e719cef32f8367f8d51deb033|971|1537192224
-skin\scribbling kid\btn_exchange_b.bmp|13089efca831aa22657380e523b97ed6b4874940|1027|1537192224
-skin\scribbling kid\btn_exchange_dis.bmp|7a44d9b783cd5f94df7dd10da08a834ab66772a9|536|1537192224
-skin\scribbling kid\btn_next.bmp|d11ed189f6d23acdb79ab9916a73a46f6ea91474|590|1537192224
-skin\scribbling kid\btn_next_a.bmp|8690b54aa0b6dd6d355e15d219365bc95c381682|911|1537192224
-skin\scribbling kid\btn_next_b.bmp|e15e909aef03a13d3c2b7808087de5bc0cfe60a7|966|1537192224
+skin\scribbling kid\btn_back.bmp|d24efae219abd7e7826b3fca552da28dbc5d91e4|1046|1566416827
+skin\scribbling kid\btn_back_a.bmp|7e5784ac7c44a64ed3d84798ab6cffb5a0f9e3ac|1015|1566416829
+skin\scribbling kid\btn_back_b.bmp|7ec60efc9f65eb22ade67479fd95c68f728780dd|1016|1566416829
+skin\scribbling kid\btn_buy.bmp|03fd292deafa6292698b9e6d8c58839149d07ffb|549|1566416827
+skin\scribbling kid\btn_buy_a.bmp|ab1044860ca18b50411b1863ee5479521bd034f1|703|1566416829
+skin\scribbling kid\btn_buy_b.bmp|fffd92c9fb5f3e33e20f443a4cb2135ab2ce9b4f|702|1566416829
+skin\scribbling kid\btn_cancel.bmp|32972083bc8b282094264e2bab0c0337c5ab3711|692|1566416829
+skin\scribbling kid\btn_cancel_a.bmp|625de12b37788f8ca4f810f77396f3c090802a5b|810|1566416830
+skin\scribbling kid\btn_cancel_b.bmp|a0cab3c0200edb79cd4a0a91f717fc9187883d76|805|1566416830
+skin\scribbling kid\btn_close.bmp|507d0f70c8e8d2a664a642fc9bd4c4ea05d54880|567|1566416830
+skin\scribbling kid\btn_close_a.bmp|98fb0b336d2aecbc9d0f73661e80ee9ee8583d6d|741|1566416830
+skin\scribbling kid\btn_close_b.bmp|955611707720c15cd633907f712eccdba524957d|722|1566416830
+skin\scribbling kid\btn_edit.bmp|09b91370c0380280b6c5029284ae5c6705bc8301|843|1566416830
+skin\scribbling kid\btn_edit_a.bmp|a65ee86f7d7dc43c0f0db9eb4ccc6d3dd81d2a40|863|1566416830
+skin\scribbling kid\btn_edit_b.bmp|bd8c76119c28ce93f3d9087b1692719de9276b5a|861|1566416831
+skin\scribbling kid\btn_exchange.bmp|f0903df95041bc65f1d8575870f10fe69a1f4e91|865|1566416831
+skin\scribbling kid\btn_exchange_a.bmp|a60a7e65468d8637dc17371936a418920a50a53c|967|1566416831
+skin\scribbling kid\btn_exchange_b.bmp|604ce71dd83ca933e5bb5289c52c5edc1b95947d|964|1566416831
+skin\scribbling kid\btn_exchange_dis.bmp|d1322d11aa42920e5dce46813f6dfb32d26f1b19|718|1566416831
+skin\scribbling kid\btn_next.bmp|ddfaf3e72f86a8f986f2103b3048fe99ffca9e35|822|1566416827
+skin\scribbling kid\btn_next_a.bmp|39f908375687de8606a5b9bbb531631a9fa53a40|985|1566416831
+skin\scribbling kid\btn_next_b.bmp|f64aa1b31ea6288b86006b1d46920a20ffc51d6e|980|1566416831
 skin\scribbling kid\btn_ok.bmp|41a4c5a7294f044c3d41550b705be0a81b86b16c|511|1537192224
 skin\scribbling kid\btn_ok_a.bmp|4d85b4ecc20306d0d4355cecb5b7a21a94746259|783|1537192224
 skin\scribbling kid\btn_ok_b.bmp|da585ab33d3553e828621debf0d59207c3cc1382|817|1537192224
 skin\scribbling kid\btn_ok_dis.bmp|c423c4ad2a40f26d93624f46eefb532d41dbb9df|468|1537192224
 skin\scribbling kid\btn_resize.bmp|f58d51171cde1e9416995cf5dffd6dd44327b9ae|96|1537192224
-skin\scribbling kid\btn_sell.bmp|61d1d9c8bebdbeafdef8192086097f65c77f6bd4|491|1537192224
-skin\scribbling kid\btn_sell_a.bmp|b5b6dcbc8e05d5ba5e9dac6a595c38ff5065bebc|729|1537192224
-skin\scribbling kid\btn_sell_b.bmp|5518755e6d83cc7969a739a5ed417446ce45e394|775|1537192224
-skin\scribbling kid\btn_send.bmp|36c05a6ab9baa1e05d047548bd364abf1f66094e|594|1537192224
-skin\scribbling kid\btn_send_a.bmp|7756fbbf8dbc99980293bb8054336674c5201030|952|1537192224
-skin\scribbling kid\btn_send_b.bmp|0a1a2a5b2bf6d21fadd9d96e4a90ae7a502fa2e8|992|1537192224
-skin\scribbling kid\btn_use.bmp|cfb1c691bf7c7d77929431937719a68d5ecfde5f|515|1537192224
-skin\scribbling kid\btn_use_a.bmp|62870be486352a0983c1a9bd42675a8cd5e7530b|780|1537192224
-skin\scribbling kid\btn_use_b.bmp|b9b36f4969f3500143818eb7f931929cd99966b6|820|1537192224
-skin\scribbling kid\btn_view.bmp|6169e84413c886747d307b26d9645737044ac565|547|1537192224
-skin\scribbling kid\btn_view_a.bmp|21242836e41eec11fa508aef3451b23b6e5c147c|877|1537192224
-skin\scribbling kid\btn_view_b.bmp|c8db8757db1e7f421fe9973e90c6e94c64ae03a0|951|1537192224
+skin\scribbling kid\btn_sell.bmp|1d8ff0dd57852e1516374cfc378663e139e34fb8|631|1566416827
+skin\scribbling kid\btn_sell_a.bmp|b875328f5103302d8b192daaa69066e82e18124a|811|1566416831
+skin\scribbling kid\btn_sell_b.bmp|1ab0a637ce89be2195ddd732dadf464d6e1550d8|801|1566416832
+skin\scribbling kid\btn_send.bmp|c5019e31bf81e2ed2138aeb7a0008b922617455f|932|1566416832
+skin\scribbling kid\btn_send_a.bmp|19701486fc24ceebf6954f15121609087bd23f4a|1005|1566416832
+skin\scribbling kid\btn_send_b.bmp|fd74994cf7d04cf0338825960baa6cf0e5343a3c|1001|1566416832
+skin\scribbling kid\btn_use.bmp|809a371b824f9a10c1ffd3d0b1c9572bd32649a5|729|1566416827
+skin\scribbling kid\btn_use_a.bmp|65d6a7366e5df93646379e848d3ec523b8890a7c|866|1566416827
+skin\scribbling kid\btn_use_b.bmp|1a406c3b99032e51814456cacffbb240fa802afd|864|1566416827
+skin\scribbling kid\btn_view.bmp|c4dddcc2f02eed6b9477b5e73ba2ecfe5aa649e4|529|1566416832
+skin\scribbling kid\btn_view_a.bmp|631aa0773eaee2a1cd763f289f64af74ccaa176e|706|1566416832
+skin\scribbling kid\btn_view_b.bmp|89c4a2927192783a990cfb3942714f1602c49e34|705|1566416832
 skin\scribbling kid\chat_close.bmp|e785a8f780b27fff58bc40ac38b97f6b63c70540|506|1537192224
 skin\scribbling kid\chat_open.bmp|5d79d3eb2c3e9164b0b2ca13170313c5b606f899|404|1537192224
 skin\scribbling kid\checkbox_0.bmp|c42aed34840a5f891a99bfd131ca19c4e532258f|81|1537192224
 skin\scribbling kid\checkbox_1.bmp|01fceeb1ee7d4f800753a7b7188020b798c46068|228|1537192224
 skin\scribbling kid\colorchip.bmp|beb6525e38acf58d2eb87561b2940d9ec682b0d3|125|1537192224
-skin\scribbling kid\esc_01a.bmp|81666bc9aa05573f7c6ad28dea7c0df6bf52ce81|2678|1537192223
-skin\scribbling kid\esc_01b.bmp|fe0b156ca733b6b13c75a10f23b5c40c45e99c12|2836|1537192223
-skin\scribbling kid\esc_01c.bmp|2070b6a09716fcef69272392821dcae5257822cf|2807|1537192223
-skin\scribbling kid\esc_02a.bmp|9a5dc94e747fb8f67620a9d9b62e3ae14416d155|2634|1537192149
-skin\scribbling kid\esc_02b.bmp|ffe7f221f29e6ab79c14ffef014b31f19cd534c6|2814|1537192223
-skin\scribbling kid\esc_02c.bmp|7181afa73f4677b29438a2d9ae2a5d89995c697a|2813|1537192223
-skin\scribbling kid\esc_03a.bmp|8d4cb759c178ab8c467c2b550b53cdaf61d3ba9d|1217|1537192224
-skin\scribbling kid\esc_03b.bmp|7905acd0cd9ac1a4b1685b0cc3a5dff51a1e43b1|1890|1537192224
-skin\scribbling kid\esc_03c.bmp|c114982301d3f9e876dcf5cd2c2044b94080a34c|1942|1537192224
-skin\scribbling kid\esc_04a.bmp|9a6d9c0b364568d83395f47bb1b979b439b417d3|1037|1537192224
-skin\scribbling kid\esc_04b.bmp|a916c8ee9dccf0b3c7cd95b5387e73f244a0c7e5|1614|1537192224
-skin\scribbling kid\esc_04c.bmp|705eb71f81e5511e2201b282e75e40b43a05f68a|1636|1537192224
+skin\scribbling kid\esc_01a.bmp|baae8c110807b69c3ba0c4ff5493047ed03a968d|2659|1566416832
+skin\scribbling kid\esc_01b.bmp|14885914f2b655ac817d5a1d9b7426c69cbbcc55|2976|1566416833
+skin\scribbling kid\esc_01c.bmp|55cf38677abe8b5afdc5af3e98dff4e629a49453|2976|1566416833
+skin\scribbling kid\esc_02a.bmp|41ef136dfa58779ebed85006cb3482075188d280|2630|1566416833
+skin\scribbling kid\esc_02b.bmp|5c39abd7f9e304ee5b8795ed22a5a3a3e0881ec7|2923|1566416833
+skin\scribbling kid\esc_02c.bmp|d6c2b77266f5d4a21a4dc17cf7229ebbae491cc2|3291|1566416833
+skin\scribbling kid\esc_02с.bmp|4454a9335bbe6458c5daab4cfdc463af53f24734|2918|1566416836
+skin\scribbling kid\esc_03a.bmp|530925481101b9dbbbcd477f9741fcd85f2174b5|2701|1566416834
+skin\scribbling kid\esc_03b.bmp|af95aee8f1bbb48e820a95151f36cdc1e0ef2658|3006|1566416835
+skin\scribbling kid\esc_03c.bmp|0ef4f1a293de4d58cc1b8a696afa04cc73b6bc71|3002|1566416835
+skin\scribbling kid\esc_04a.bmp|5637b7ce8295a9bce9c64b2469cbf88521a82590|2697|1566416835
+skin\scribbling kid\esc_04b.bmp|1fd480e57fff494b6acda6d9ad5777b8ffd751d2|3014|1566416835
+skin\scribbling kid\esc_04c.bmp|00112b19145c50823082eaed0b9fddcee43da151|2302|1566416836
+skin\scribbling kid\esc_04с.bmp|1ae304990a6c04bf95d854d2f232aba8c6acf859|3007|1566416836
 skin\scribbling kid\radiobtn_off.bmp|7b8b053c564ee1e4402826b25c6b6cfb7ec520b4|97|1537192224
 skin\scribbling kid\radiobtn_on.bmp|0e07427d5a4a2589bb35017b656969599c07efbc|152|1537192224
 skin\scribbling kid\scroll0bar_down.bmp|24a57e43be68da31ccdadf16a4f80a86194744c7|102|1537192224
@@ -722,7 +708,7 @@ skin\scribbling kid\sysbox_mu.bmp|0be39fec09ea599f1ebb24209bb63b0509a558a5|93|15
 skin\scribbling kid\sysbox_rd.bmp|dabf05fc6956972b3e9485cd2ccd19da1b15d550|110|1537192224
 skin\scribbling kid\sysbox_rm.bmp|adecf8508dc7c8ca22a98ac553852b2b0e12279b|90|1537192224
 skin\scribbling kid\sysbox_ru.bmp|8407589a8a9338e2cc8c3f9d19daee606e18b2d2|127|1537192224
-skin\scribbling kid\win_msgbox.bmp|7f6126029ad73652d875c9a7cafa5b36ecc8ae5f|453|1537192224
+skin\scribbling kid\win_msgbox.bmp|b345e2e0a755cbe3df4523935eefe8cb4d37ab7d|1423|1566416836
 system\luafiles514\msgstring.lub|cb639bc6c58275ed03f414cb5df5575a51652d27|1292|1565716706
 system\luafiles514\optioninfo.lub|5f16189b4994058133275a7b36915d32ec051a5b|859|1537192224
 system\monster_size_effect.lub|29fc1eedeab15d6e2eabfd06ac5cedcc72273371|10894|1537192223
