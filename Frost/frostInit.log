@@ -2,9 +2,9 @@ FrostInt - 2.1
 init(./Frost/gameShieldDll.dll)
 instance of shieldSecurityDll created
 LoadLibraryA(./Frost/gameShieldDll.dll) ok 
-frostInitialize: 1469472768
-frostFinalize: 1469386768
-frostSetUserName: 1469472864
-frostSetUserNameW: 1469472912
+frostInitialize: 262365184
+frostFinalize: 262279184
+frostSetUserName: 262365280
+frostSetUserNameW: 262365328
 setUserName(odwb34e8kl9)  
 finish() 

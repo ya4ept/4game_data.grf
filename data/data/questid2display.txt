@@ -1143,19 +1143,19 @@ Meet the Hunter Guildsman to continue the test.#
 
 4002#Job Chage to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
-5 Wolf Claw, 5 Trunk, 3 White Herb#
+5 Resin, 5 Insect Feeler, 3 White Herb#
 
 4003#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
-3 Bill of Birds, 5 Skel-bone, 3 Green Herbs#
+3 Bill of Birds, 5 Skel-bone, 3 Green Herb#
 
 4004#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
-3 Venom Canine, 3 Animal Skin, 5 Red Herb#
+3 Rainbow Shell, 3 Animal Skin, 5 Red Herb#
 
 4005#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
-3 Dokkaebi Horn, 3 Pieces of Egg Shell, 10 Fluff#
+3 Horn, 3 Poison Spore, 10 Fluff#
 
 4006#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
@@ -1163,7 +1163,7 @@ Collect the items that the Demon Hunter says.#
 
 4007#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
-Tooth of Bat, 1 Sticky Mucus, 1 Bear's Footskin#
+3 Tooth of Bat, 1 Sticky Mucus, 1 Bear's Footskin#
 
 4008#Job Change to Hunter#SG_FEEL#QUE_NOIMAGE#
 Collect the items that the Demon Hunter says.#
@@ -3005,11 +3005,11 @@ Reforming successful! Go and report to Weigon.#
 
 //---------------------------°ï·û ÂøÇÑ ÀÎ°£--------------------------------
 10034#Search the knife#SG_FEEL#QUE_NOIMAGE#
-Go down to the field to find YunKyoHam's knife.#
+Go down to the field to find Yun Kyo Ham's knife.#
 #
 
 10035#Deliver the knife#SG_FEEL#QUE_NOIMAGE#
-You found the knife. Return to YunKyoHam.#
+You found the knife. Return to Yun Kyo Ham.#
 #
 
 //---------------------------½º½Ã ¿Í»çºñ Äù--------------------------------

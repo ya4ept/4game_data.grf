@@ -1,3 +1,12 @@
+26.09.2019
+
+Alicel
+As you can see we have got a small client update.
+If you've faced some issues with NPC please check Quest Journal, not NPC dialogue window. In the Quest Journal you can find correct information about the loot that is required.
+The problem itself will be solved by next MA.
+Thank you for your reports!
+
+==========
 25.09.2019
 
 Alicel
