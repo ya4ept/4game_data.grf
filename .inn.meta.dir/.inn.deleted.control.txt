@@ -2,6 +2,8 @@
 2|data.grf|4500d73c76433eac55c0ca713c57eea39c01b456
 2|data.grf|71473ef4773997688dc66cb8a236d9e0a902c38e
 2|data.grf|993fae958559e9e76406e63b1be5d2b10622f3f6
+2|data.grf|df73cf417a65d98a7a856b852eb0f1c7ae117256
+2|data.grf|f6b1e88166f0f3896ffe323fd34e843183354e68
 2|Ragexe.exe|0829265c2629273065b08aa49b04fecaabc760f6
 2|skin\scribbling kid\basic_interface\btn_cartoff.bmp|d580f64e7f3a8ec3468f86877ae3bfd43afe4b02
 2|skin\scribbling kid\basic_interface\btn_comm_on.bmp|8226d77dc03cdf6747abc93305362b3390230620
