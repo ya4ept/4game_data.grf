@@ -192,7 +192,7 @@ You need to bring some items before you can begin your formal training to become
 
 2030#Job Change to Alchemist#SG_FEEL#QUE_NOIMAGE#
 You need to bring some items before you can begin your formal training to become an Alchemist.#
-500 Fire Arrows#
+7500 Fire Arrows#
 
 2031#Job Change to Alchemist#SG_FEEL#QUE_NOIMAGE#
 Raspuchin is calling you. Go to speak to him. I'm not really sure what you'll be talking about with him...#
@@ -1331,27 +1331,27 @@ It's going to take a little while. Talk to him again a bit later.#
 // Fill out the Application!
 7000#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
 You went to Comodo Dance School to become a Dancer. You've filled out the application form..#
-Conversation with Aile#
+Conversation with Ale#
 
 // Let's be prepared!
 7001#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
-Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile.#
+Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Ale.#
 Tuition fee of 10,000 Zeny, 20 Sticky Mucus, 5 Red Potions, 3 Jellopy, 1 pair of Shoes#
 
 // Let's be prepared!
 7002#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
-Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile.#
-Tuition fee of 10,000 Zeny, 5 Earthworm Peelings, 1 pair of Boots#
+Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Ale.#
+Tuition fee of 10,000 Zeny, 20 Spawn, 1 pair of Boots#
 
 // Let's be prepared!
 7003#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
-Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile.#
-Tuition fee of 10,000 Zeny, 2 Clam Shells, 5 Yellow Potions, 20 Jellopy, 10 Black Hairs, 1 pair of Sandals#
+Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Ale.#
+Tuition fee of 10,000 Zeny, 10 Tentacles, 5 Yellow Potions, 20 Jellopy, 5 Single Cells, 1 pair of Sandals#
 
 // A Job Interview!
 7004#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
-Be prepared with all the materials you need. A job interview with Bijou is waiting for you! You must pass the interview!#
-Interview with Bijou#
+Be prepared with all the materials you need. A job interview with Borwaju is waiting for you! You must pass the interview!#
+Interview with Borwaju#
 
 // Finally on the Stage!
 7005#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
@@ -1360,8 +1360,8 @@ Lst's Dance!#
 
 // Successful Debut!
 7006#Job Change to Dancer!#SG_FEEL#QUE_NOIMAGE#
-Your steps and body waves were fantastic! The instructor, Bijou must be so impressed. Let's find out what she really thinks..#
-Conversation with Bijou#
+Your steps and body waves were fantastic! The instructor, Borwaju must be so impressed. Let's find out what she really thinks..#
+Conversation with Borwaju#
 
 //------ 권성 전직
 7007#Warrior of the Sun, the Moon, and the Stars#SG_FEEL#QUE_NOIMAGE#
@@ -21425,5 +21425,7 @@ Stay for a day#
 Thank you for making a clean finish. Pleaes lead me tomorrow again.#
 Stay for a day#
 
-// 2014 Summer Event: Fishing King of Malando
-
+// Oktoberfest 2019
+17100#The Pub Crawl#SG_FEEL#QUE_IMAGE#
+To become a sommelier you should try beer from:                                                  - Beer Sommelier in Prontera (125,125)                                                  - Alementalist in Geffen's tavern (136, 136)                                                  - Pepper Hag in Morroc (169,109)                                                  - Quadrupelstiltskin in Aldebaran (135,123)                                                  ^000077The quest is available October 2nd to 9th.^000000#
+Try all 4 of beer brews and come back to the Beer         Sommelier#
