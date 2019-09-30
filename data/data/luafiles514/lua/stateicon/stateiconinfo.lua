@@ -885,7 +885,7 @@ StateIconList[EFST_IDs.EFST_PROVOKE] = {
 	descript = {
 		{ "Провокация", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Уменьшает защиту врага." },
+		{ "Уменьшает защиту." },
 		{ "Увеличивает силу атаки." }
 	}
 }
@@ -2031,7 +2031,7 @@ StateIconList[EFST_IDs.EFST_PROPERTYFIRE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Огнемет", COLOR_TITLE_BUFF },
+		{ "Зачарование огнем", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Наделяет оружие силами Огня." }
 	}
