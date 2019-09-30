@@ -729,6 +729,7 @@ pvp_n_5-5.gnd#job_knight.gnd#
 pvp_n_6-5.gnd#job_knight.gnd#
 pvp_n_7-5.gnd#job_knight.gnd#
 pvp_n_8-5.gnd#abyss_03.gnd#
+evt_zombie.gnd#niflheim.gnd#
 pvp_n_1-1.gat#prt_maze02.gat#
 pvp_n_2-1.gat#prt_maze02.gat#
 pvp_n_3-1.gat#prt_maze02.gat#
@@ -769,6 +770,7 @@ pvp_n_5-5.gat#job_knight.gat#
 pvp_n_6-5.gat#job_knight.gat#
 pvp_n_7-5.gat#job_knight.gat#
 pvp_n_8-5.gat#abyss_03.gat#
+evt_zombie.gnd#niflheim.gat#
 pvp_n_1-1.rsw#prt_maze02.rsw#
 pvp_n_2-1.rsw#prt_maze02.rsw#
 pvp_n_3-1.rsw#prt_maze02.rsw#
@@ -809,6 +811,7 @@ pvp_n_5-5.rsw#job_knight.rsw#
 pvp_n_6-5.rsw#job_knight.rsw#
 pvp_n_7-5.rsw#job_knight.rsw#
 pvp_n_8-5.rsw#abyss_03.rsw#
+evt_zombie.gnd#niflheim.rsw#
 pvp_n_room.gnd#gon_test.gnd#
 pvp_n_room.gat#gon_test.gat#
 pvp_n_room.rsw#gon_test.rsw#
@@ -886,6 +889,7 @@ nguild_gef.gnd#gefg_cas01.gnd#
 유저인터페이스\map\pvp_n_6-5.bmp#유저인터페이스\map\job_knight.bmp#
 유저인터페이스\map\pvp_n_7-5.bmp#유저인터페이스\map\job_knight.bmp#
 유저인터페이스\map\pvp_n_8-5.bmp#유저인터페이스\map\abyss_03.bmp#
+유저인터페이스\map\evt_zombie.bmp#유저인터페이스\map\niflheim.bmp#
 유저인터페이스\map\pvp_y_1-1.bmp#유저인터페이스\map\prontera.bmp#
 유저인터페이스\map\pvp_y_2-1.bmp#유저인터페이스\map\prontera.bmp#
 유저인터페이스\map\pvp_y_3-1.bmp#유저인터페이스\map\prontera.bmp#

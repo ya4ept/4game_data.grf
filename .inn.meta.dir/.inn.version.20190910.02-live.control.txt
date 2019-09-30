@@ -1,0 +1,22 @@
+distribution {1}
+    version=20190910.02-live
+    type=env
+    env=live
+    files=./live/
+    control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    deleted-control-hash=77eb4456a83646ae32823467511729a2280f1f20
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=0
+    size=0
+    compressed-size-total=1700569804
+    size-total=1880163560
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2019-09-10T16:07:47+03:00
+    date-modified=2019-09-10T16:07:47+03:00
+    running-time-sec=581
+
