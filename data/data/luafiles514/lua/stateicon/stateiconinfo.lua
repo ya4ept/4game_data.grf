@@ -1274,7 +1274,8 @@ StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "На 10% повышает MSP," }
+		{ "+10% Макс. SP," },
+		{ "-10% расход SP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
@@ -2349,12 +2350,11 @@ StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
 }
 StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
+	posTimeLimitStr = 1,
 	descript = {
-		{ "Таблетка HP+", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Повышает Макс. HP." },
-		{ "Повышает восстановление HP." }
+		{ "+5% Макс. HP." },
+		{ "+10% скорость восстановления HP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
@@ -2383,7 +2383,7 @@ StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает силу атаки." }
+		{ "Физ. урон увеличен." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
@@ -2391,7 +2391,7 @@ StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает силу магической атаки." }
+		{ "Маг. урон увеличен." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MACRO_PERMIT] = {
