@@ -1,3 +1,24 @@
+02.10.2019 12:01
+
+Alicel
+Maintenance is over and server is opened!
+
+Today’s updates:
+
+-Installed Kunlun and Loyang update. You can read about it here:
+https://eu.4game.com/patchnotes/ro/185
+-The new event has been started! How about some booze?
+https://eu.4gameforum.com/threads/665618/
+- Ancient legends comes alive… Join the battle for the Chest of Envy!
+https://eu.4gameforum.com/threads/665615/
+- Cash Shop Update.Some pretty new items, you know ^^
+https://eu.4gameforum.com/threads/665696/
+
+Fixes:
+Fixed bugs of the class change quests
+Fixed the requirements for obtaining quest skills
+
+================
 30.09.2019 21:16
 
 Kaya

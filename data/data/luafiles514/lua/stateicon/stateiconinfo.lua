@@ -1306,7 +1306,8 @@ StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Increase MSP, Decrease SP consumption" }
+		{ "+10% max. SP," },
+		{ "-10% SP consumption." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
@@ -2340,12 +2341,11 @@ StateIconList[EFST_IDs.EFST_ALL_RIDING] = {
 }
 StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
+	posTimeLimitStr = 1,
 	descript = {
-		{ "Super Medicine", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MHP Increase" },
-		{ "HP Recovery Increase" }
+		{ "+5% max. HP," },
+		{ "+10% HP recovery." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
@@ -2612,7 +2612,7 @@ StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Raise ATK" }
+		{ "Physical damage increased." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
@@ -2620,7 +2620,7 @@ StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Raise MATK" }
+		{ "Magical damage increased." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {

@@ -8193,3 +8193,10 @@
 14530#바람의주문서#
 5807#깃털모자#
 12337#소시지구이#
+
+//Oktoberfest 2019
+30019#Wheat_Beer#
+30020#Golden_Ale#
+30021#Pepper_Stout#
+30022#Quadruple#
+30018#바이스비어햇#

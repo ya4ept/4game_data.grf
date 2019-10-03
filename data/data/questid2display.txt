@@ -52,7 +52,7 @@ Get the delivery package from the storehouse, and then give it to the Kafra Empl
 Deliver package and message to the Kafra Girl on Byalan island.#
 
 1013#Job Change to Thief#SG_FEEL#QUE_NOIMAGE#
-Steal Mushrooms from Shibu's farm. Gather 2 kinds of Mushrooms: ^0000FFOrange Net Mushroom^000000 3 points and  ^0000FFOrange Gooey Mushroom^000000 1 point. You need a total of 25 points to pass the test. Head toward the Eastern Field of the Pyramids.# 
+Steal Mushrooms from Shibu's farm. Gather 2 kinds of Mushrooms: ^0000FFOrange Net Mushroom^000000 for 3 points and ^0000FFOrange Gooey Mushroom^000000 for 1 point. You need a total of 25 points to pass the test. Head toward the Eastern Field of the Pyramids.# 
 Gather Orange Net Mushroom and Orange Gooey Mushroom#
 
 1014#Job Change to Swordman#SG_FEEL#QUE_NOIMAGE#
@@ -139,39 +139,39 @@ Congratulations! You passed all the test! I give permission to use the art of Fi
 #
 
 2017#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-You passed the first test to become a Rogue. 'Mr. Smith' will administer the next test.#
-Talk with Mr. Smith#
+You passed the first test to become a Rogue. 'Mr. Smithrato' will administer the next test.#
+Talk to Mr. Smithrato#
 
 2018#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
 There is a registration fee to become a Rogue. I will tell you what you need to gather and how much the registration fee is.#
-10,000zeny, 10 skel bones, 6 blue herbs, 10 decayed nails, 10 horrendous mouths.#
+10,000 zeny, 10 Skel-bones, 6 Blue herbs, 10 Decayed nails, 10 Horrendous mouths.#
 
 2019#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
 There is a registration fee to become a Rogue. I will tell you what you need to gather and how much the registration fee is.#
-10,000zeny, 10 green herbs, 10 crab shells, 10 snake scales, 10 garlets.#
+10,000 zeny, 10 Green herbs, 10 Crab shells, 10 Snake scales, 10 Garlets.#
 
 2020#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
 There is a registration fee to become a Rogue. I will tell you what you need to gather and how much the registration fee is.#
-10,000zeny, 10 yellow herbs, 10 shells, 10 grasshopper's legs, 10 bear's foot.#
+10,000 zeny, 10 Yellow herbs, 10 Shells, 10 Grasshopper's legs, 10 Bear's footskins.#
 
 2021#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Bring 5 of each Chrysalis, Empty Bottle, Iron Ore, Stone Heart, Red Herb, Animal Skin, Yellow Gemstone, Teeth of Bat, Scorpion Tails, Yoyo Tail, Monster's Feed, Fluff, Clover, Feathers of Bird, Talon, Spawn#
-Oh and 10 Raccoon Leaf Give all gathered items to Mr. Smith#
+Bring 5 of each Chrysalis, Empty Bottle, Iron Ore, Stone Heart, Red Herb, Animal Skin, Yellow Gemstone, Tooth of Bat, Scorpion Tails, Yoyo Tail, Monster's Feed, Fluff, Clover, Feathers of Bird, Talon, Spawn, Raccoon Leaf#
+Give all gathered items to Mr. Smithrato#
 
 2022#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
 Visit Aragham Jr who lives to the south of the Sandarman Fortress. That area is located one field east from here. The password is: ^0000FF'Aragham didn't steal refining material.'^000000#
 Talk with Aragham Jr.#
 
 2023#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Visit Antonio Jr. who is living near the Kokomo beach in Comodo. The password is: ^0000FF'Antonio doesn't like breaking refining material.'^000000#
+Visit Antonio Jr. who lives near the Kokomo beach in Comodo. The password is: ^0000FF'Antonio doesn't like breaking refining material.'^000000#
 Talk with Antonio Jr.#
 
 2024#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Visit Hollgrehenn Jr. who is in the field south of the Sandarman Fortress, which is on the way to Morroc from here. He will give you the proper Rogue test. The password is: ^0000FF'My father did not steal refining material.'^000000#
-Talk with Hollgrehenn Jr.#
+Visit Holgren Jr. who is in the field south of the Sandarman Fortress, which is on the way to Morroc from here. He will give you the proper Rogue test. The password is: ^0000FF'My father did not steal refining material.'^000000#
+Talk with Holgren Jr.#
 
 2025#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
-Visit Hermanthorn Jr. who is living in Paros Lighthouse. But, please do not talk about upgrading items in front of him!#
+Visit Hermanthorn Jr. who lives in Paros Lighthouse. But, please do not talk about upgrading items in front of him!#
 Talk with Hermanthorn Jr.#
 
 2026#Job Change to Rogue#SG_FEEL#QUE_NOIMAGE#
@@ -235,40 +235,40 @@ You are now a member of our illustrious Union. I hope you learn a lot and rememb
 #
 
 2041#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-In order to take the entrance examination, you need to talk to Professor Claytos. He is in the left room.#
-Talk with written tester, Claytos.#
+In order to take the entrance examination, you need to talk to Professor Claytoss. He is in the left room.#
+Talk with written tester, Claytoss.#
 
 2042#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-Don't you have enough zeny for the registration fee? I will accept 30,000 zeny as registration fee if you bring me some items. You can bring 70,000 zeny or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
-Bring 50 Feathers of Bird, 50 Fluff, 25 Iron Ores and talk to Metheus Sylphe.#
+Don't you have enough zeny for the registration fee? I will accept 30,000 zeny as registration fee if you bring me some items. You can bring 70,000 zeny or Old Magic Book and a Necklace of Wisdom as registration fee instead.#
+Bring 30,000 zeny, 50 Feathers of Bird, 50 Fluff, 25 Iron Ores and talk to Meteous Silf.#
 
 2043#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-I will accept 30,000 zeny as registration fee if you bring me some items. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
-Bring 30,000zeny, 50 Feathers of Bird, 50 Fluff, 25 Iron Ores and talk to Metheus Sylphe.#
+I will accept 30,000 zeny as registration fee if you bring me some items. Otherwise, you can bring 70,000 zeny, or an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
+Bring 30,000 zeny, 50 Feathers of Bird, 50 Fluff, 25 Iron Ores and talk to Meteous Silf.#
 
 2044#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-I will accept 30,000 zeny as registration fee if you bring me some items. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
-Bring 30,000zeny, 50 Clovers, 50 Feathers, 25 Squid Ink and talk to Metheus Sylphe.#
+I will accept 30,000 zeny as registration fee if you bring me some items. Otherwise, you can bring 70,000 zeny, or an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
+Bring 30,000 zeny, 50 Clovers, 50 Feathers, 25 Squid Ink and talk to Meteous Silf.#
 
 2045#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-I will accept 30,000 zeny as registration fee if you bring me some items. Also you can bring 70,000 zeny as a rule or bring an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
-Bring 30,000zeny, 50 Feathers of Bird, 50 Fluff, 50 Clovers, 50 Feathers and talk to Metheus Sylphe.#
+I will accept 30,000 zeny as registration fee if you bring me some items. Otherwise, you can bring 70,000 zeny, or an Old Magic Book and a Necklace of Wisdom as registration fee instead.#
+Bring 30,000 zeny, 50 Feathers of Bird, 50 Fluff, 50 Clovers, 50 Feathers and talk to Meteous Silf.#
 
 2046#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 You have passed the written test. Now, why don't you go to Professor Hermes and take the practical test?#
 Talk with practical tester Hermes.#
 
 2047#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-Let's see how you did on the written test and the practical test. Okay...from your score. I suggest you research about the Yggdrasil. Get help from Professor Saphien in the Academic Lecture Room.#
-Talk with Professor Saphien in the Academic Lecture Room.#
+Let's see how you did on the written test and the practical test. Okay...from your score. I suggest you research about the Yggdrasil. Get help from Professor Sapien in the Academic Lecture Room.#
+Talk with Professor Sapien in the Academic Lecture Room.#
 
 2048#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-Let's see how you did on the written and the practical test. Okay...from your score. I suggest that you study the various monsters that spread throughout this world. Get help from Professor Lucius in the Monster Museum.#
-Talk with Professor Lucius in Monster Museum.#
+Let's see how you did on the written and the practical test. Okay...from your score. I suggest that you study the various monsters that spread throughout this world. Get help from Professor Ruthy in the Monster Museum.#
+Talk with Professor Ruthy in Monster Museum.#
 
 2049#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-Let's see how you did on the written and the practical test. Okay...from your score. I suggest that you study the properties of magic. Get help from Professor Aebecee in the Somatology Lab.#
-Talk with Professor Aebecee in Somatology Lab.#
+Let's see how you did on the written and the practical test. Okay...from your score. I suggest that you study the properties of magic. Get help from Professor Evecy in the Somatology Lab.#
+Talk with Professor Evecy in Somatology Lab.#
 
 2050#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Find any item related to the Yggdrasil. I prefer a seed or a fruit. They are rare but find one of them.#
@@ -279,48 +279,48 @@ Next time, you will need to write a paper on your own, please be prepared.#
 1 Feather of birds, 1 Animal's skin, 1 Trunk, 1 Squid ink, 1 Empty bottle.#
 
 2052#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-If you are finished with the paper, bring it to the Dean of the Academy#
-Talk with the Dean of the academy.#
+If you are finished with the paper, bring it to the President of the Academy#
+Talk with the President of the academy.#
 
 2053#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-I am a Professor Lucius and don't forget that my class has many field trips. So I need you to find these things first.#
+I am a Professor Ruthy and don't forget that my class has many field trips. So I need you to find these things first.#
 5 Tentacle, 5 Single cell, 5 Fish tail#
 
 2054#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-I am a Professor Lucius and don't forget that my class has many field trips. So I need you to find these things first.#
+I am a Professor Ruthy and don't forget that my class has many field trips. So I need you to find these things first.#
 5 Nipper, 5 Clam flesh, 5 Heart of mermaid#
 
 2055#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
-I am a Professor Lucius and don't forget that my class has many field trips. So I need you to find these things first.#
+I am a Professor Ruthy and don't forget that my class has many field trips. So I need you to find these things first.#
 5 Tendon, 5 Nipper, 5 Sharp scale#
 
 2056#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Well, shall we learn about the insects this time? I'll begin the class as soon as you bring these items to me.#
-Bring 5 Cobweb, 5 Shell, 5 Insect feeler and go back to Professor Lucius.#
+Bring 5 Cobweb, 5 Shell, 5 Insect feeler and go back to Professor Ruthy.#
 
 2057#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Well, shall we learn about the insects this time? I'll begin the class as soon as you bring these items to me.#
-Bring 5 Horn, 5 Snail's shell, 5 Moth dust and go back to Professor Lucius.#
+Bring 5 Horn, 5 Snail's shell, 5 Moth dust and go back to Professor Ruthy.#
 
 2058#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Well, shall we learn about the insects this time? I'll begin the class as soon as you bring these items to me.#
-Bring 5 Mantis scythe, 5 Worm peelings, 5 Rainbow shell and go back to Professor Lucius.#
+Bring 5 Mantis scythe, 5 Worm peelings, 5 Rainbow shell and go back to Professor Ruthy.#
 
 2059#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Well, shall we learn about the insects this time? I'll begin the class as soon as you bring these items to me.#
-Bring 5 Cobweb, 5 Mantis scythe, 5 Solid shell and go back to Professor Lucius.#
+Bring 5 Cobweb, 5 Mantis scythe, 5 Solid shell and go back to Professor Ruthy.#
 
 2060#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Before beginning the class, you need to help me with something. It's not hard. You will do it for me, right?#
-Bring 30 stones and go back to Professor Aebecee#
+Bring 30 Stones and go back to Professor Evecy#
 
 2061#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 I will give you these ores. But they are not gifts! Make arrows out of these ores. If you have archer friends, they will help you make arrows.#
-Bring 50 Crystal arrows, 50 Stone arrows, 50 Arrow of winds and go back to Professor Aebecee#
+Bring 50 Crystal arrows, 50 Stone arrows, 50 Wind arrows and go back to Professor Evecy#
 
 2062#Job Change to Sage#SG_FEEL#QUE_NOIMAGE#
 Bring 1 Holy water for the next class. Do you have a priest friend? If you don't, make one. Hohoho.#
-Bring 1 Holy water to Professor Aebecee#
+Bring 1 Holy water to Professor Evecy#
 
 //---The Crow of the Fate---
 2063#The Crow of the Fate - 1#SG_FEEL#QUE_NOIMAGE#
@@ -648,40 +648,40 @@ Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard...Shoul
   #
 
 3001#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
-Payment by Flower? - Bard Lalo asks to bring flower for paying to learn a song. But he wants a special flower.#
-Bring special flower for Lalo.#
+Payment by Flower? - Bard Ayealo asks for a special flower as payment to learn a song... Hmmm, how about a Singing Flower, Hinalle, Aloe Leaflet, Ment, Izidor, Witherless Rose, Frozen Rose or Illusion Flower?#
+Bring special flower for Ayealo.#
 
 3002#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
-The first step to becoming a Bard - Bard Lalo asks to find a talking snowman in Lutie and receive a present from him.#
+The first step to becoming a Bard - Bard Ayealo asks to find a talking snowman in Lutie and receive a present from him.#
   #
   
 3003#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
-Following a Song - Bard Lalo asks me to follow a song after him. If I am following to sing exactly, I could be a Bard...#
+Following a Song - Bard Ayealo asks me to sing along with him. If I can repeat the lyrics correctly, I could be a Bard...#
   #
 
 3004#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
-Final Test - Bard Lalo asks to collect 60 Trunks for the last test. If I bring them I will become a bard and get a souvenir from him.#
-Bring 60 Trunks# 
+Final Test - Bard Ayealo asks to collect 60 Trunks for the last test. If I bring them I will become a bard and get a souvenir from him.#
+Bring either 60 Trunks, 60 Barren Trunks, 60 Solid Trunks or 60 Fine-grained Trunks.# 
 
 
 3006#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Michele Cantonyon asks you to bring him some materials: ^3355FF10 rotten bandages and 10 lanterns^000000. That will show if you are worthy to become a Crusader.#
+Michele Cantonyon asks you to bring him some materials: ^3355FF10 Rotten Bandages and 10 Lanterns^000000. That will show if you are worthy to become a Crusader.#
 Find all the necessary materials.#
 
 3007#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Michele Cantonyon asks you to bring him some materials: ^3355FF10 rotten bandages and 10 lanterns^000000. That will show if you are worthy to become a Crusader.#
+Michele Cantonyon asks you to bring him some materials: ^3355FF10 Rotten Bandages and 10 Lanterns^000000. That will show if you are worthy to become a Crusader.#
 Find all the necessary materials.#
 
 3008#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Michele Cantonyon asks you to bring him some materials: ^3355FF10 rotten bandages and 10 lanterns^000000. That will show if you are worthy to become a Crusader.#
+Michele Cantonyon asks you to bring him some materials: ^3355FF10 Rotten Bandages and 10 Lanterns^000000. That will show if you are worthy to become a Crusader.#
 Find all the necessary materials.#
 
 3009#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-"I can see your potential as a crusader. Meet with ^0000FFMoorenak Miyol^000000. He is in the underground prison of Prontera Castle. Talk to him first."#
+"I can see your potential as a crusader. Meet with ^0000FFMurnak Myjol^000000. He is in the underground prison of Prontera Castle. Talk to him first."#
   #
 
 3010#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-Endurance - "To a crusader, endurance and patience are most important. You just need to walk down the hallway until you reach the end. But do not kill a single monster, even if they attack you."#
+Endurance - "To be a crusader, endurance and patience are most important. You just need to walk down the hallway until you reach the end. But do not kill a single monster, even if they attack you."#
   # 
   
 3011#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
@@ -693,7 +693,7 @@ Endurance - "To a crusader, endurance and patience are most important. You just 
   #  
 
 3013#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
-"Very good. Go take the next test at once. Go to Prontera Castle and meet Bliant Piyord. I will tell him to prepare the next test."#
+"Very good. Go take the next test at once. Go to Prontera Castle and meet Briten Pyrodd. I will tell him to prepare the next test."#
   #
 
 3014#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
@@ -706,55 +706,55 @@ Endurance - "To a crusader, endurance and patience are most important. You just 
 
 // - The first step of becoming a Monk
 3016#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
-"Do you want to be a Monk? Well, then get yourself inside and talk to the Sensei ^0000FFMoohae^000000. He'll guide you."#
-Sensei Moohae#
+"Do you want to be a Monk? Well, then get yourself inside and talk to the Pastor ^0000FFMuhae^000000. He'll guide you."#
+Pastor Muhae#
 
 // - Qualification and Preparation
 3017#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 5 Sticky Mucus, 10 Earthworm Peeling, 20 Green Herb to Sensei Moohae#
+Bring 5 Sticky Mucus, 10 Earthworm Peeling, 20 Green Herb to Pastor Muhae#
 
 // - Qualification and Preparation
 3018#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 20 Yoyo Tail, 5 Iron Ore, 3 Blue Herb to Sensei Moohae#
+Bring 20 Yoyo Tail, 5 Iron Ore, 3 Blue Herb to Pastor Muhae#
 
 // - Qualification and Preparation
 3019#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 30 Stem, 5 Jellopy, 10 Worm Peelings to Sensei Moohae#
+Bring 30 Stem, 5 Jellopy, 10 Worm Peelings to Pastor Muhae#
 
 // - Qualification and Preparation
 3020#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 5 Solid Shell, 20 Shell, 5 Zargon to Sensei Moohae#
+Bring 5 Solid Shell, 20 Shell, 5 Zargon to Pastor Muhae#
 
 // - Qualification and Preparation
 3021#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 5 Cyfar, 10 White Herb, 10 Yellow Herb to Sensei Moohae#
+Bring 5 Cyfar, 10 White Herb, 10 Yellow Herb to Pastor Muhae#
 
 // - Qualification and Preparation
 3022#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 10 Tooth of Bat, 5 Bear's Footskin, 20 Poison Spore to Sensei Moohae#
+Bring 10 Tooth of Bat, 5 Bear's Footskin, 20 Poison Spore to Pastor Muhae#
 
 // - Qualification and Preparation
 3023#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "The life of a monk is not for everybody, only those strong enough can become a monk. Let us start with a simple task."#
-Bring 5 Porcupine Quill, 20 Cobweb, 10 Bug Leg to Sensei Moohae#
+Bring 5 Porcupine Quill, 20 Cobweb, 10 Bug Leg to Pastor Muhae#
 
 3024#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
-"Well, the next monk you have to meet is...OH! Go to 'Touha'. Go North from here and you'll meet him at the graveyard."#
-Touha#
+"Well, the next monk you have to meet is...OH! Go to 'Douha'. Go North from here and you'll meet him at the graveyard."#
+Douha#
 
 3025#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "I'll teach you the way of the monk -- the mental attitude required and our dogma. You just need to remember what I'll tell you and memorize it. Are you ready?"#
   #
 
 3026#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
-"Great!! Perfect! You have passed my test. But still you need to take another test. Please go to Sir 'Boohae' next. Good luck!"#
-Boohae#
+"Great!! Perfect! You have passed my test. But still you need to take another test. Please go to Sir 'Puhae' next. Good luck!"#
+Puhae#
   
 3027#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "Hmm....gathering mushrooms. So you want to test your tolerance huh? Go prepare and come back later when you're ready."#
@@ -765,15 +765,15 @@ Gather Mushrooms in the abbey.#
 Run laps for the marathon test.#
 
 3029#Job Change to Monk - Final test#SG_FEEL#QUE_NOIMAGE#
-"Congratulation!! Now, go to the monk 'Tomoon'. He is in the deepest place of the building at the center of the abbey."#
-Meet Tomoon#
+"Congratulation!! Now, go to the monk 'Taomoon'. He is in the deepest place of the building at the center of the abbey."#
+Meet Taomoon#
 
 3031#Job Change to Monk - Spiritual Training#SG_FEEL#QUE_NOIMAGE#
 "The last test is a spiritual training! Attack and slash all enemies that stand in your way! Now! Make a fist! Stand up! It's time!"#
   #
   
 3032#Job Change to Monk - Become a Monk#SG_FEEL#QUE_NOIMAGE#
-"Well done!! Now... I will give you a secret potion. If you drink it, you will have enough physical strength to be able to change into a monk! Go back to sensei, 'Moohae'!#
+"Well done!! Now... I will give you a secret potion. If you drink it, you will have enough physical strength to be able to change into a monk! Go back to Pastor, 'Muhae'!#
   #
 
 
@@ -1723,11 +1723,11 @@ Accept the Three Trials of Priesthood to change the job.#
 Applying for Job Change to Priest#
 
 8010#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
-You must make a pilgrimage. First, visit Rubalkabara who is Northeast Prontera Ruins. Second, visit Sister Mathilda who is near Morroc, Southwest of Prontera. Finally, visit Father Yosuke in a field Northwest of Prontesra.#
+You must make a pilgrimage. First, visit Rubalkabara who is Northeast Prontera Ruins. Second, visit Mother Mathilda who is near Morroc, Southwest of Prontera. Finally, visit Father Yosuke in a field Northwest of Prontesra.#
 1st trial, a Pilgrimage#
 
 8011#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
-Move to the place where the Spiritual Training takes place. Talk to Peter S. Alberto.#
+Move to the place where the Spiritual Training takes place. Talk to Father Peter.#
 2nd trial, the Spiritual Training#
 
 8012#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
@@ -1736,7 +1736,7 @@ Start training. Kill all the monsters! Show no mercy to the creatures of darknes
 
 
 8013#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
-You've completed the Spiritual Training! Go see the Sister Cecilia.#
+You've completed the Spiritual Training! Go see the Mother Cecille.#
 Job change test to Priest#
 
 
@@ -1746,7 +1746,7 @@ Make a promise to devote yourself to God.#
 
 
 8015#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
-You have completed all 3 missions as you made the oath of Priesthood. Go back to the Bishop Paul.#
+You have completed all 3 missions as you made the oath of Priesthood. Go back to the Bishop Thomas.#
 Applying for Job Change to Priest#	
 
 
@@ -2711,7 +2711,7 @@ Return after 1 hour.#
 //-----------------헤르만------------------------
 
 9000#Job Change to Knight#SG_FEEL#QUE_NOIMAGE#
-The Chivalry Captain 'Herman' says you need to get approvals by other Knights in order to become a Knight. #
+The Chivalry Captain 'Hermann' says you need to get approvals by other Knights in order to become a Knight. #
 Talk to other members of Chivalry.#
 
 //-----------------엔드류-----------------------
@@ -2728,33 +2728,33 @@ The first test by Sir Andrew!#
 
 // 1st test- Pass
 9003#The Honor of a Knight#SG_FEEL#QUE_NOIMAGE#
-Sir Andrew tells you to visit Sir Siracuse to continue the tests.#
-Speak to Sir Siracuse#
+Sir Andrew tells you to visit Sir Scythe to continue the tests.#
+Speak to Sir Scythe#
 
 //----------------제임스--------------------------
 
 // 2nd test
 9004#The Honor of a Knight#SG_FEEL#QUE_NOIMAGE#
-'James Siracuse' tells you to visit Sir Windsor to continue the tests.#
-Speak to Sir Windsor#
+'James Scythe' tells you to visit Sir Windser to continue the tests.#
+Speak to Sir Windser#
 
 //----------------윈저--------------------------
 
 // 3rd test
 9005#Tenacity of a Knight#SG_FEEL#QUE_NOIMAGE#
-'Sir Windsor' only orders you to follow him....#
-Speak to Sir Windsor#
+'Sir Windser' only orders you to follow him....#
+Speak to Sir Windser#
 
 
 // 3rd test
 9006#Tenacity of a Knight#SG_FEEL#QUE_NOIMAGE#
-'Sir Windsor' never talks much.  He orders you to kill all the monsters inside the testing hall.#
+'Sir Windser' never talks much.  He orders you to kill all the monsters inside the testing hall.#
 Kill all monsters in 3 minutes#
 
 
 // 3rd test
 9007#The Honor of a Knight#SG_FEEL#QUE_NOIMAGE#
-'Sir Windsor' tells you to visit 'Amy Beatrice' for the next test.#
+'Sir Windser' tells you to visit 'Amy Beatrice' for the next test.#
 Speak to Amy Beatrice#
 
 //----------------에이미--------------------------
@@ -2790,7 +2790,7 @@ Speak to Sir Gray#
 // 6th test
 9012#Glory of a Knight!#SG_FEEL#QUE_NOIMAGE#
 'Sir Gray' tells you to change your job by seeing the captain, since you've talked to every other member. It is finally the time to become a Knight!# 
-Speak to Captain Herman#
+Speak to Captain Hermann#
 
 //=======================종료======================================
 
@@ -2802,30 +2802,30 @@ Speak to Captain Herman#
 //---------------------------카트린느--------------------------------
 
 9013#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
-The Wizard Guildsman Katrine's first test is to gather Gemstones.#
+The Magic Guildsman Katrine's first test is to gather Gemstones.#
 Collect 10 Red, 10 Blue, and 10 Yellow Gemstones.#
 
 9014#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
-The Wizard Guildsman Katrine's first test is to gather some attribute stones.#
+The Magic Guildsman Katrine's first test is to gather some attribute stones.#
 Collect 5 Crystal Blue, 5 Green Live, 5 Red Blood, 5 Wind of Verdure.#
 
 9015#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
-You've passed the first test. Katrine says that now you should go to the Gloomy Wizard.#
-Talk to the Gloomy Wizard.#
+You've passed the first test. Katrine says that now you should go to the man in the corner.#
+Talk to the Dismal Wizard.#
 
 //---------------------------라우렌 ( 음침한 남자 )--------------------------------
 
 9016#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
-The second step of the Job Change test is to give correct answers to the questions given by 'Raulel.'#
-Conversation with 'Raulel'#
+The second step of the Job Change test is to give correct answers to the questions given by Laurel.#
+Talk to Laurel.#
 
 9017#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
 The 3rd stage of the Job Change test is to understand 3 different properties of Magic.#
 Practical test using 3 different properties#
 
 9018#Certified as a Wizard!#SG_FEEL#QUE_NOIMAGE#
-You have passed all the tests given by 'Raulel.' Talk to Catherine for the last part of the test!#
-Conversation with 'Catherine'#
+You have passed all the tests given by Laulel. Talk to Katrine for the last part of the test!#
+Talk to Katrine.#
 
 //---------------------------전장--------------------------------
 2069#Tierra Gorge Battle#SG_FEEL#QUE_NOIMAGE#
@@ -21427,5 +21427,5 @@ Stay for a day#
 
 // Oktoberfest 2019
 17100#The Pub Crawl#SG_FEEL#QUE_IMAGE#
-To become a sommelier you should try beer from:                                                  - Beer Sommelier in Prontera (125,125)                                                  - Alementalist in Geffen's tavern (136, 136)                                                  - Pepper Hag in Morroc (169,109)                                                  - Quadrupelstiltskin in Aldebaran (135,123)                                                  ^000077The quest is available October 2nd to 9th.^000000#
+To become a sommelier you should try beer from:                                                  - Beer Sommelier in Prontera (125,125)                                                  - Alementalist in Geffen's tavern (136, 136)                                                  - Pepper Hag in Morroc (169,109)                                                  - Quadrupelstiltskin in Al De Baran (135,123)                                                  ^000077The quest is available October 2nd to 9th.^000000#
 Try all 4 of beer brews and come back to the Beer         Sommelier#

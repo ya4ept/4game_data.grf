@@ -1363,23 +1363,18 @@ This contains:
 ^008080Sweet Candy Cane^000000 x20
 ^008080Well-Baked Cookie^000000 x5
 #
-
 674#
 Unimplimented Item
 #
-
 675#
 Unimplimented Item
 #
-
 676#
 Unimplimented Item
 #
-
 677#
 Unimplimented Item
 #
-
 678#
 ^808080A skeleton shaped bottle which contains deadly poison. One who drinks it shall die immediately.^000000
 ^FFFFFF_^000000
@@ -1387,20 +1382,17 @@ Type: Consumable
 Weight: 10
 ^FFFFFF_^000000
 #
-
 679#
-^808080An herbal medicine from an old eastern country that is rumored to cure every illness.^000000
+A herbal medicine from an ancient eastern country.
+Applies Poison when used.
 ^FFFFFF_^000000
-Weight: 30
-^FFFFFF_^000000
+Weight: ^77777730^000000
 #
-
 680#
 ^808080A carnation which is given to parents and teachers on special occasions.^000000
 ^FFFFFF_^000000
 Weight: 100
 #
-
 681#
 ^808080A picture album of memories of the wedding ceremony or honeymoon.^000000
 ^FFFFFF_^000000
@@ -1409,7 +1401,6 @@ Weight: 1
 ^FFFFFF_^000000
 Transforms the user with the appearance of a Bride/Groom for 30 minutes.
 #
-
 682#
 ^808080A magical drink which increases attack strength when it is taken.^000000
 ^FFFFFF_^000000
@@ -3420,8 +3411,9 @@ Required Job: Swordsman Jobs, Merchant Jobs, Thief Jobs
 #
 
 1123#
-^808080A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.^000000
+^808080A one-handed, ancient sword that is said to have the mysterious power to control minds.^000000
 ^FFFFFF_^000000
+INT + 3
 Type: Weapon
 Class: One-Handed Sword
 Attack: 120
@@ -3431,7 +3423,6 @@ Weapon Level: 3
 Required Level: 27
 Required Job: Swordsman Jobs, Merchant Jobs, Thief Jobs
 ^FFFFFF_^000000
-INT + 3
 #
 
 1124#
@@ -21694,12 +21685,11 @@ Compound on: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4154#
-Rice Cake Boy Card.
-Add the chance of gaining 'Candy/Candy Cane' item each time a Demi Human monster is killed.
+A chance of obtaining Candy or Candy Cane after killing a Demihuman monster
 Candy and Candy Cane restore 50% more HP.
-Class : ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight : ^7777771^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 4155#
 Goblin Leader Card.
@@ -22223,11 +22213,10 @@ Compound on: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4202#
-Mao Guai Card.
-Inflict 20% more damage on Ghost type monsters.
-Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight : ^7777771^000000
+Damage to Ghost monsters +20%
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
+Weight: ^7777771^000000
 #
 4203#
 Mutant Dragonoid Card.
@@ -22438,32 +22427,18 @@ Compound on: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4217#
-Enchanted Peach Tree Card.
-Add the chance of 
-auto casting level 1 
-Heal on the user when 
-doing Physical Attack.
-If the user has mastered 
-the skill at level 10, 
-it will cast 
-level 10 Heal.
-^6A5ACDAcolyte Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Geographer Card^000000
-^3CB371Enchanted Peach Tree Card^000000
+A chance of auto casting Lv. 1 Heal on oneself after a physical attack
+(If Heal is Lv. 10, it will be used instead.)
+[If used with Rideword Card, Cookie Card, Fur Seal Card and Geographer Card]
 Vit +10
--10% Cast Time
--10% SP Consumption
-^6A5ACDAcolyte Class Bonus:^000000
--30% damage from Undead 
-and Demon monsters.
-+5% EXP from Demon and 
-Undead monsters.
-Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
-Weight : ^7777771^000000
+Casting time -10%
+SP Consumption -10%
+^6A5ACDAcolyte class bonus:^000000
+Damage from Undead and Demon monsters-30%
+Exp from Undead and Demon monsters +5%
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
+Weight: ^7777771^000000
 #
 4218#
 Succubus Card.
@@ -22634,62 +22609,40 @@ Compound on: ^777777Accessory^000000
 Weight : ^7777771^000000
 #
 4231#
-Enchanted Soil Card.
-Receive 50% less damage from Guardians during War of Emperium (Guild Siege) hours.
-Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
-Weight : ^7777771^000000
+Damage from Guardians during WoE -50%
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
+Weight: ^7777771^000000
 #
 4232#
-Wild Ginseng Card.
-Chance of gaining 'Red/Yellow/White Herb' item when killing Plant monsters.
-Herb items effect: HP Regen +50%.
-Class : ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight : ^7777771^000000
+A chance of obtaining Red, Yellow or White Herb after killing a Plant monster
+Herbs restore 50% more HP.
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 4233#
-Baby Leopard Card.
-Luk +3.
-If worn by Merchant Class 
-characters, their armors 
-cannot be damaged.
-^6A5ACDMerchant Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Myst Case Card^000000
-^3CB371Hylozoist Card^000000
+Luk +3
+[If used by Merchant class]
+Armor becomes indestructible.
+[If used with Zipper Bear Card, Raggler Card, Myst Case Card and Hylozoist Card]
 Luk +10
-+20% Mammonite Damage
-+ 2 SP per attack.
-^6A5ACDMerchant Class Bonus:^000000
-20% chance of reflecting 
-Magic spells.
-A chance of gaining 
-'Old Purple Box' each time 
-a monster is killed.
-^6A5ACDAlchemist Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Muka Card^000000
-^3CB371Holden Card^000000
+Mammonite damage +20%
+SP +2 per attack
+^6A5ACDMerchant class bonus:^000000
+20% chance of reflecting magic
+A chance of gaining Old Purple Box after killing a monster
+[If used with Zipper Bear Card, Raggler Card, Muka Case Card and Holden Card]
 Str +4
-+20% Mammonite Damage
-+1 SP per attack.
-+7% Max HP/SP
-^6A5ACDAlchemist Class Bonus:^000000
-A chance of auto casting 
-level 1 Adrenaline Rush 
-when attacking physically.
-A low chance of obtaining 
-Glistening Coat and/or 
-Stem when defeating 
-monsters.
-Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
-Weight : ^7777771^000000
+Mammonite damage +20%
+SP +1 per attack
+Max HP/SP +7%
+^6A5ACDAlchemist class bonus:^000000
+A chance of auto casting Lv. 1 Adrenaline Rush after a physical attack
+A low chance of obtaining Glistening Coat and/or Stem after killing a monster
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
+Weight: ^7777771^000000
 #
 4234#
 Anolian Card.
@@ -23030,43 +22983,26 @@ Compound on: ^777777Footwear^000000
 Weight : ^7777771^000000
 #
 4258#
-Evil Nymph Card.
-Int +1, Max SP +50.
-^6A5ACDSage Card Set^000000
-^3CB371Yellow Novus Card^000000
-^3CB371Evil Nymph Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Bloody Butterfly Card^000000
-^3CB371Harpy Card^000000
-+3 INT
-+10% Thunderstorm Damage
-+10% Heaven Drive Damage
-^3CB371Sage only Bonuses^000000
-+20% chance to reflect Magic
-20% Faster cast
-Adds a low chance of 
-dropping Red or Yellow 
-Gemstones when defeating 
-monsters.
-^6A5ACDWizard Card Set^000000
-^3CB371Loli Ruri Card^000000
-^3CB371Parasite Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Evil Nymph^000000
-^3CB371Harpy Card^000000
-^3CB371Bloody Butterfly Card^000000
-+500 HP
-+5 MDEF
-+5 DEF
-+10% Damage using 
-the Cold Bolt, Fire Bolt, 
-and Lightning Bolt skills.
-^3CB371Mage Class only Bonuses^000000
-+3% MATK
-15% Faster Cast
-Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight : ^7777771^000000
+Int +1
+Max SP +50
+[If used with Yellow Novus Card, Miyabi Doll Card, Bloody Butterfly Card and Harpy Card]
+Int +3
+Thunderstorm damage +10%
+Heaven Drive damage +10%
+^3CB371Sage class bonus:^000000
+20% chance of reflecting magic
+Casting speed +20%
+A low chance of obtaining Red or Yellow Gemstones after killing a monster
+[If used with Loli Ruri Card, Parasite Card, Miyabi Doll Card, Bloody Butterfly Card and Harpy Card]
+Max HP +500
+Def/Mdef +5
+Cold/Fire/Lightning Bolt damage +10%
+^3CB371Mage class bonus:^000000
+Matk +3%
+Casting speed +15%
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
+Weight: ^7777771^000000
 #
 4259#
 Wooden Golem Card.
@@ -23093,11 +23029,10 @@ Compound on: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4262#
-Cloud Hermit Card.
-Add the chance of gaining 'Gloomy Box' item each time a Plant monster is killed.
-Class : ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight : ^7777771^000000
+A chance of obtaining Gloomy Box after killing a Plant monster
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 4263#
 Samurai Spector Card.
@@ -23117,11 +23052,10 @@ Compound on: ^777777Accessory^000000
 Weight : ^7777771^000000
 #
 4265#
-Jing Guai Card.
-Add the chance of gaining 'Box of Sunlight' each time Angel monster is killed.
-Class : ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight : ^7777771^000000
+A chance of obtaining Box of Sunlight after killing an Angel monster
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 4266#
 Eclipse Card.
@@ -23173,28 +23107,19 @@ Compound on: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4272#
-Dancing Dragon Card.
-Agi +1, Critical +3.
-^6A5ACDThief Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Dancing Dragon Card^000000
-^3CB371The Paper Card^000000
+Agi +1
+Critical +3
+[If used with Wanderer Card, Wild Rose Card, Shinobi Card and The Paper Card]
 Increases movement speed
-Agi +5
-Str +5
-ASPD +5%
-+1 SP per attack
-Disable the Auto-Snatch 
-ability of the 
-Wanderer Card
-^6A5ACDThief Class Bonus:^000000 
-No Gemstones required to 
-use certain skills.
-Class : ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight : ^7777771^000000
+Str/Agi +5
+Aspd +5%
+SP +1 per attack
+Wanderer Card's Auto-Snatch ability disabled
+^6A5ACDThief class bonus:^000000
+No Gemstones required to use certain skills.
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 4273#
 Shell Fish Card.
@@ -23288,49 +23213,28 @@ Compound on: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4281#
-Zipper Bear Card.
-ATK +30. 
-Drain 1 SP each time 
-the user is attacking.
-If worn by Merchant Class 
-characters, their weapons 
-cannot be damaged.
-^6A5ACDMerchant Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Myst Case Card^000000
-^3CB371Hylozoist Card^000000
+Atk +30
+SP -1 SP after a physical attack
+[If used by Merchant class]
+Weapon becomes indestructible.
+[If used with Baby Leopard Card, Raggler Card, Myst Case Card and Hylozoist Card]
 Luk +10
-+20% Mammonite Damage
-+ 2 SP per attack.
-^6A5ACDMerchant Class Bonus:^000000
-20% chance of reflecting 
-Magic spells.
-A chance of gaining 
-'Old Purple Box' each time 
-a monster is killed.
-^6A5ACDAlchemist Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Muka Card^000000
-^3CB371Holden Card^000000
+Mammonite damage +20%
+SP +2 per attack
+^6A5ACDMerchant class bonus:^000000
+20% chance of reflecting Magic spells
+A chance of gaining Old Purple Box after killing a monster
+[If used with Baby Leopard Card, Raggler Card, Muka Case Card and Holden Card]
 Str +4
-+20% Mammonite Damage
-+1 SP per attack.
-+7% Max HP/SP
-^6A5ACDAlchemist Class Bonus:^000000
-A chance of auto casting 
-level 1 Adrenaline Rush 
-when attacking physically.
-A low chance of obtaining 
-Glistening Coat and/or 
-Stem when defeating 
-monsters.
-Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
-Weight : ^7777771^000000
+Mammonite damage +20%
+SP +1 per attack
+Max HP/SP +7%
+^6A5ACDAlchemist class bonus:^000000
+A chance of auto casting Lv. 1 Adrenaline Rush after a physical attack
+A low chance of obtaining Glistening Coat and/or Stem after killing a monster
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
+Weight: ^7777771^000000
 #
 4282#
 Tengu Card.
@@ -23936,57 +23840,36 @@ Compound on: ^777777Accessory^000000
 Weight : ^7777771^000000
 #
 4327#
-Bloody Butterfly Card.
 Spell casting cannot be interrupted.
-Increase Casting Time by 30%.
-Fire Wall Damage +5%.
-^6A5ACDSage Card Set^000000
-^3CB371Yellow Novus Card^000000
-^3CB371Evil Nymph Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Bloody Butterfly Card^000000
-^3CB371Harpy Card^000000
-+3 INT
-+10% Thunderstorm damage
-+10% Heaven Drive damage
-^3CB371Sage only Bonuses^000000
-+20% chance to reflect Magic
-+20% casting speed
-Adds a low chance of 
-dropping Red or Yellow 
-Gemstones when defeating 
-monsters.
-^6A5ACDWizard Card Set^000000
-^3CB371Loli Ruri Card^000000
-^3CB371Parasite Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Evil Nymph^000000
-^3CB371Harpy Card^000000
-^3CB371Bloody Butterfly Card^000000
-+500 HP
-+5 MDEF
-+5 DEF
-+10% Damage using 
-the Cold Bolt, Fire Bolt, 
-and Lightning Bolt skills.
-^3CB371Mage Class only Bonuses^000000
-+3% MATK
-+15% casting speed
-Class : ^777777Card^000000
-Compound on: ^777777Accessory^000000
-Weight : ^7777771^000000
+Casting time +30%
+Fire Wall damage +5%
+[If used with Yellow Novus Card, Evil Nymph Card, Miyabi Doll Card and Harpy Card]
+Int +3
+Thunderstorm damage +10%
+Heaven Drive damage +10%
+^3CB371Sage class bonus:^000000
+20% chance of reflecting magic
+Casting speed +20%
+A low chance of obtaining Red or Yellow Gemstones after killing a monster
+[If used with Loli Ruri Card, Parasite Card, Miyabi Doll Card, Evil Nymph Card and Harpy Card]
+Max HP +500
+Def/Mdef +5
+Cold/Fire/Lightning Bolt damage +10%
+^3CB371Mage class bonus:^000000
+Matk +3%
+Casting speed +15%
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
+Weight: ^7777771^000000
 #
 4328#
-Hyegun Card.
-Flee +15, Critical +1.
-^6A5ACDTragic Trio Card Set^000000
-^3CB371Munak Card^000000
-^3CB371Bongun Card^000000
-^3CB371Hyegun Card^000000
-All Stats +1
-Class : ^777777Card^000000
-Compound on: ^777777Garment^000000
-Weight : ^7777771^000000
+Flee +15
+Critical +1
+[If used with Munak Card and Bongun Card]
+All stats +1
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
+Weight: ^7777771^000000
 #
 4329#
 Phendark Card.
@@ -23997,12 +23880,11 @@ Compound on: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4330#
-Dark Snake Lord Card.
-Immunity to Blind and Curse effects.
-Int +3.
-Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
-Weight : ^7777771^000000
+Immunity to Blind and Curse
+Int +3
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
+Weight: ^7777771^000000
 #
 4331#
 Heater Card.
@@ -35282,19 +35164,23 @@ Allows you to broadcast your messages to the whole server.
 Weight: ^7777770^000000
 #
 12920#
-Contains 5 Enriched Eluniums.
+Contains 10 Enriched Eluniums.
 Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Elunium]
-Increases rate of refining an armor without breaking it.
+^ff0000Account bound^000000
+An enriched elunium that can be found only deep underground. Used as a material to make stronger armor.
+Increases armor's upgrade success rate.
 Weight: ^7777771^000000
 #
 12921#
-Contains 5 Enriched Oridecons.
+Contains 10 Enriched Oridecons.
 Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Oridecon]
-Increases rate of refining a weapon without breaking it.
+^ff0000Account bound^000000
+An enriched oridecon that can be found only deep underground. Used as a material to make stronger weapons.
+Increases weapon's upgrade success rate.
 Weight: ^7777771^000000
 #
 12922#
@@ -38808,15 +38694,15 @@ Required Level : ^77777710^000000
 Jobs : ^777777All^000000
 #
 5340#
-So hot! A headgear with the figure of Kafra Defolty! Numerous users are using Kafra storage more than 20 times a day, fascinated by her smiling face.
-Decreases 5% damage from Demihuman monsters.
-Autocasts Lv 10 Angelus when physically attacked within short range.
-Cannot be upgraded.
-Class : ^777777Headgear^000000    Defense : ^7777771^000000
-Location : ^777777Upper^000000
-Weight : ^77777750^000000
-Required Level : ^77777760^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+So hot! A headgear shaped like Kafra Defolty! Many adventurers are using Kafra storage more than 20 times a day, fascinated by her smiling face.
+Damage from Demihuman monsters -5%
+A chance of casting Lv. 10 Angelus when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777771^000000    Weight: ^77777750^000000
+Required Level: ^77777760^000000
+Jobs: ^777777All^000000
 #
 5341#
 So hot! A headgear with the figure of Kafra Glaris! Fascinated by her mature appearance, her advocates call her a teacher.
@@ -38915,15 +38801,15 @@ Required Level : ^77777770^000000
 Jobs : ^777777All^000000
 #
 5403#
-A fish that can bite inside your mouth. It smells bad, but a special process won't let it rot.
-When the wearer kills a monster, they will get a low chance to drop Fresh Fish.
-Increases 25% of recover rate of Fresh Fish.
-Class : ^777777Headgear^000000
-Defense : ^7777770^000000
-Location : ^777777Lower^000000
-Weight : ^77777720^000000
-Required Level : ^77777730^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A fishers' talisman shaped like... well, fish. It is said to bring good luck.
+A chance of obtaining Fresh Fish when killing monsters
+Fresh Fish restores 25% more HP.
+Class: ^777777Headgear^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5404#
 The symbol of an honor student!
@@ -38981,13 +38867,16 @@ Weight : ^77777790^000000
 Jobs : ^777777All^000000
 #
 5376#
-Satanic Wings forged with an unholy incantation.
-SP + 120. Adds a chance of casting Curse on the user while receiving Physical Damage.
-Class : ^777777Headgear^000000
-Defense : ^7777776^000000
-Location : ^777777Upper^000000
-Weight : ^77777710^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+Demonic wings attached to a hairband. It is said to be cursed.
+Max SP +120
+A low chance of casting Curse on oneself when receiving physical damage
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777776^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5377#
 ^ff0000Account bound^000000
@@ -40330,17 +40219,21 @@ Adds 10% resistance to the status effects of:
 Weight : ^7777771^000000
 #
 11503#
-A White Potion which weighs less than normal.
-Cannot be traded or dropped.
-Weight : ^77777710^000000
+^ff0000Account bound^000000
+A potion made from white herbs.
+Restores ^000088400-500 HP^000000.
+^ff0000Can be used only in arena.^000000
+^ffffff_^000000
+Weight: ^77777710^000000
 #
-
 11504#
-A Blue Potion which weighs less than normal.
-Cannot be traded or dropped.
-Weight : ^77777710^000000
+^ff0000Account bound^000000
+A potion made from blue herbs.
+Restores ^00008850-70 SP^000000.
+^ff0000Can be used only in arena.^000000
+^ffffff_^000000
+Weight: ^77777710^000000
 #
-
 14591#
 A teleport scroll that warps you to the WoE Areas.
 Valkyrie Realms
@@ -40354,6 +40247,7 @@ Weight : ^7777771^000000
 #
 
 // -------- F2P Marriage Covenant -----------------
+
 6026#
 This written oath professes undying love, loyalty, and union.
 Forever in life, and eternally beyond death.
@@ -44711,14 +44605,16 @@ Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 5361#
+^ff0000Account bound^000000
 A gangster's red scarf.
 Atk +5
-Class : ^777777Headgear^000000
-Defense : ^7777770^000000
-Head Location : ^777777Lower^000000
-Weight : ^77777710^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All Except Novice^000000
+[When used by Rogue class]
+Allows to use Lv. 1 Slyness
+Class: ^777777Headgear^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5363#
 A helm worn by the Abysmal Knight.
@@ -46775,13 +46671,20 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 5660#
-A brave Gryphon hovers above giving a random chance of endowing your attacks with lvl 1 Endow Tornado while dealing physical attacks.
-Class : ^777777Headgear^000000
-Defense : ^7777771^000000
-Head Location : ^777777Upper^000000
-Weight : ^77777740^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+^ff0000Account bound^000000
+A baby Gryphon that happily flaps its wings on your head. Its parents ask you to look after their child, though you don't even know them. But who will argue with Gryphons..?
+Agi +2
+[If refined to +7 or higher]
+Agi +2
+[If refined to +9 or higher]
+Agi +2
+Damage to Undead and Demon monsters +10%
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777771^000000    Weight: ^77777740^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 13964#
 A box containing 1 Sorin Doll Hat
@@ -46885,24 +46788,24 @@ Jobs : ^777777Every Job except Novice Class^000000
 Weight : ^7777771^000000
 #
 5537#
-A Coati-shaped Hat with a cute thick tail. This hat comes with a fresh forest scent.
-Agi +3, Can't be refined.
-Class : ^777777Headgear^000000
-Defense : ^7777772^000000
-Location : ^777777Upper ^000000
-Weight : ^77777720^000000
-Required Level : ^7777771^000000
-Jobs : ^777777Every Classes^000000
+^ff0000Account bound^000000
+A coati-shaped hat with a long tail. Smells like coati.
+Agi +3
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777772^000000    Weight: ^77777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5538#
-A bird from the Toucan family with a fabulous yellow colored beak. It has been seen eating sweet-flavored loop cereal.
-Dex +3. Can't be refined.
-Class : ^777777Headgear^000000
-Defense : ^7777772^000000
-Location : ^777777Upper-Mid ^000000
-Weight : ^77777760^000000
-Required Level : ^77777745^000000
-Job : ^777777Every Classes^000000
+^ff0000Account bound^000000
+A toucan that sits on your head. It is completely tamed, but don't anger it, or you'll get a strong hit from its beak.
+Dex +3
+Class: ^777777Headgear^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777772^000000    Weight: ^77777760^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5539#
 A mask of the king of the Amazon the Jaguar. According to rumor, those who wear this get blessings from nature.
@@ -57905,7 +57808,6 @@ A tradeable box that contains 5 RWC Initializer Tickets
 Take this ticket to the RWC Enchanter so that you can change the enchantment of your RWC 2012 Ring or RWC 2012 Pendant.
 Weight : ^7777771^000000
 #
-
 18810#
 A Shadowmancer's cloth hat that increases tolerance to 
 Mdef +12
@@ -57924,21 +57826,16 @@ Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 5490#
-This ceremonial headdress holds the likeness of Anubis, god of the underworld. 
-It is rumored that it empowers the wearer against powerful divine beings.
-Reduce damage from MVPs by 2% and Increase effectiveness of healing and healing items by 2%.
-If refined higher than +5 reduces damage by MVPs and effectiveness of healing further.
-+5 MVP -3% Heal +3%
-+6 MVP -4% Heal +4%
-+7 MVP -5% Heal +5%
-+8 MVP -7% Heal +7%
-+9 MVP -10% Heal +10%
-Type : ^777777Headgear^000000
-Defense : ^7777773^000000
-Location : ^777777Upper & Middle^000000
-Weight : ^7777770^000000
-Required Level : ^77777765^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+A ceremonial helmet that looks like the head of Anubis, god of the underworld. It is rumored to grant great power to its wielder.
+Mdef +5
+Damage from Boss monsters -10%
+Healing items and skills restore 10% more HP.
+Class: ^777777Headgear^000000
+Location: ^777777Upper-mid^000000
+Defense: ^7777778^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 13682#
 A Tricky Halloween Treat Box that will open to one of the following:
@@ -71450,13 +71347,15 @@ Required Level : ^77777720^000000
 Jobs : ^777777All Jobs Except Novice^000000
 #
 5761#
-This cute Sloth must think you look like a tree. At least it warms the top of your head.
-AGI + 2.
-Chance to use the skill Sonic Blow Level 5 when you attack physically in short distance .
-Item Class : ^777777Headgear^000000 Defense : ^7777773^000000
-Location : ^777777Upper ^000000 Weight : ^77777780^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+^ff0000Account bound^000000
+This cute sloth must be thinking that you look like a tree. At least it warms the top of your head.
+Agi +2
+A chance to use Lv. 5 Sonic Blow after dealing physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777780^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5762#
 A hat similar to the MVP Duneyrr.
@@ -77898,23 +77797,27 @@ Siege Blue Potion - Replenish 50-70 SP
 Weight : ^7777771^000000
 #
 14003#
-Box containing 100 Siege White Potions and 50 Siege Blue Potions
-Siege White Potion - Replenish 400~500  HP HP will increase with Regeneration Potion
-Siege Blue Potion - Replenish 50-70 SP
+^ff0000Account bound^000000
+Contains 100 White Combat Potions and 50 Blue Combat Potions. These potions are more effective than common ones, but can be used only in arena.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+White Combat Potion restores 400-500 HP.
+Blue Combat Potion restores 50-70 SP.
+^ff0000Combat Potions can be used only in arena.^000000
 #
 13905#
-Box containing Field Manuals, Bubble Gums and Life Insurances 10 ea
-^ff0000cannot return once opened^000000
+Contains:
+- 10 Battle Manuals,
+- 10 Bubble Gums,
+- 10 Life Insurances.
+^ff0000All items are account bound.^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
 23292#
 Box full of various ingredients 
 weight : ^7777771^000000
 #
-
 19797#
 A headgear made in the honor of the legendary archer who shot an apple, on top of a friend's head, from a long distance.
 Type : ^777777Costume^000000
@@ -86494,4 +86397,53 @@ Defense: ^7777771^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Job: ^777777All Jobs except Novice^000000
+#
+
+//Oktoberfest 2019
+
+30019#
+^ff0000Account bound^000000
+Prontera is the same as before, but in our hearts it's one of the dearest places linked to many good memories. We have captured these warm feelings in our beer. Taste the nostalgia. Taste Prontera's Wheat Beer.
+Restores ^000088small amount of HP^000000.
+For 3 min., Max HP +5%, HP regeneration +10%.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+30020#
+^ff0000Account bound^000000
+Mages of Geffen spend a lot of mental efforts on experiments and researches. Now restoring their spiritual powers is made easy with Geffen's Golden Ale. Golden Ale - let the energy flow through you!
+Restores ^000088small amount of HP^000000.
+For 3 min., Max SP +10%, SP consumption -10%.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+30021#
+^ff0000Account bound^000000
+Desert assassins could always use some refreshment. But with all that heat it's easy to forget about spices that help your digestion and kill diseases! Try our Pepper Stout - cold and spicy, it's truly a miracle for Morroc's people.
+Restores ^000088small amount of HP^000000.
+Physical damage +15 for 60 sec.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+30022#
+^ff0000Account bound^000000
+You like a good drink but beer is too slow and boring for you? Well, Quadrupel does its job four times better than regular beer! Quadra-fast and reliable as an Al De Baran clock - QUAAAAADRUPEL!
+Restores ^000088small amount of HP^000000.
+Magical damage +15 for 60 sec.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+30018#
+^ff0000Account bound^000000
+The true expert always knows where to find an object to taste (beer). Even on top of their own head.
+^ff0000[Effects are active only during the Oktoberfest event (October 1-8 2019)]^000000
+Max HP/SP +10%
+Festive beer restores 400% more HP.
+1% chance to obtain beer when killing monsters
+Physical and magical attacks can lead to an awkward situation.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #

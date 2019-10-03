@@ -141,11 +141,11 @@ Ppl#
 [Alt] + [End]: Turn HP/SP bar on/off#
 [Alt] + [Home]: Turn the ground cursor on/off#
 [Insert]: Sit or stand (hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is#
+Congratulations! You are the MVP! Your reward is #
 !#
 Congratulations! You are the MVP! Your reward is #
- EXP Points!#
-You are the MVP, but you can't take the reward because you are over your weight limit.#
+ EXP!#
+You are the MVP, but you can't take the reward because of overweight.#
 There is no such character name or the user is offline.#
  doesn't want to receive your messages.#
  is not in the mood to talk with anyone.#
@@ -207,8 +207,8 @@ Steal has failed.#
 Trade#
 Envenom skill has failed.#
 You cannot use this ID on this server.#
-Your Speed has increased.#
-Your Speed has decreased.#
+Speed is increased.#
+Speed is decreased.#
 /memo: Memorize a place as a warp point (for Acolyte class characters)#
 Random Area#
 Select an Area to Warp#
@@ -474,12 +474,12 @@ Your armor is enchanted with Holy property.#
 Your armor is back to normal.#
 Barrier formed.#
 Barrier cancelled.#
-Weapon Perfection activated.#
-Weapon perfection cancelled.#
-Power-Thrust activated.#
-Power-Thrust cancelled.#
-Maximize-Power activated.#
-Maximize-Power cancelled.#
+Weapon Perfection is activated.#
+Weapon perfection is cancelled.#
+Power-Thrust is activated.#
+Power-Thrust is cancelled.#
+Maximize-Power is activated.#
+Maximize-Power is cancelled.#
 New#
 (%d)#
 (On the maintenance)#
@@ -608,52 +608,52 @@ A message to the BETA users in Japan-> Let's rejoin Kung-Ho#
 A message to users terminated in payment from Japan -> Pay bills. Pay twice#
 Character in the same account already joined.#
  - over the age 18#
-Provoke activated.#
-Provoke cancelled.#
-Endure activated.#
-Endure cancelled.#
-Improve Concentration activated.#
-Improve Concentration cancelled.#
-Hiding activated.#
-Hiding cancelled.#
-Cloaking activated.#
-Cloaking cancelled.#
-Poison React activated.#
-Poison React cancelled.#
-Speed reduced.#
-Quagmire canceled.#
-Defense increased.#
-Angelus cancelled.#
-Blessing activated.#
-Blessing cancelled.#
-Signum Crusis activated.#
-Signum Crusis cancelled.#
-Slow Poison activated.#
-Slow Poison cancelled.#
-HP/SP recovery increased.#
-Magnificat cancelled.#
-Luck increased.#
-Gloria cancelled.#
+Provoke is activated.#
+Provoke is cancelled.#
+Endure is activated.#
+Endure is cancelled.#
+Improve Concentration is activated.#
+Improve Concentration is cancelled.#
+Hiding is activated.#
+Hiding is cancelled.#
+Cloaking is activated.#
+Cloaking is cancelled.#
+Poison React is activated.#
+Poison React is cancelled.#
+Speed is reduced.#
+Quagmire is cancelled.#
+Defense is increased.#
+Angelus is cancelled.#
+Blessing is activated.#
+Blessing is cancelled.#
+Signum Crusis is activated.#
+Signum Crusis is cancelled.#
+Slow Poison is activated.#
+Slow Poison is cancelled.#
+HP/SP recovery is increased.#
+Magnificat is cancelled.#
+Luck is increased.#
+Gloria is cancelled.#
 You will receive double damage from the next opponent's attack.#
-Lex Eterna cancelled.#
-Attack Speed increased.#
-Attack Speed reduced.#
+Lex Eterna is cancelled.#
+Attack Speed is increased.#
+Attack Speed is reduced.#
 You've mounted a Peco Peco.#
 You've got off of a Peco Peco.#
 You've summoned a Falcon.#
 You've released a Falcon.#
-Play Dead activated.#
-Play Dead cancelled.#
-STR improved.#
+Play Dead is activated.#
+Play Dead is cancelled.#
+STR is improved.#
 STR is back to normal.#
-Energy Coat activated.#
-Energy Coat cancelled.#
+Energy Coat is activated.#
+Energy Coat is cancelled.#
 Armor is broken.#
 Armor is repaired.#
 Weapon is broken.#
 Weapon is repaired.#
-Invisibility activated.#
-Invisibility cancelled.#
+Invisibility is activated.#
+Invisibility is cancelled.#
 Sorry. It is delayed due to the process of payment. Please re-connect in a minute #
 You must unequip ammunition first.#
 Arrow List#
@@ -1229,24 +1229,24 @@ The Purchase has failed because the NPC does not exist.#
 The Purchase has failed because the Kafra Shop System is not working correctly.#
 You cannot purchase items while you are in a trade.#
 The Purchase has failed because the Item Information was incorrect.#
-STR has increased.#
-STR has returned to normal.#
-AGI has increased.#
-AGI has returned to normal.#
-VIT has increased.#
-VIT has returned to normal.#
-INT has increased.#
-INT has returned to normal.#
-DEX has increased.#
-DEX has returned to normal.#
-LUK has increased.#
-LUK has returned to normal.#
-Flee Rate (Flee) has increased.#
-Flee Rate has returned to normal.#
-Accuracy Rate (Hit) has increased.#
-Accuracy Rate has returned to normal.#
-Critical Attack (Critical) has increased.#
-Critical Attack has returned to normal.#
+Str is increased.#
+Str is back to normal.#
+Agi is increased.#
+Agi is back to normal.#
+Vit is increased.#
+Vit is back to normal.#
+Int is increased.#
+Int is back to normal.#
+Dex is increased.#
+Dex is back to normal.#
+Luk is increased.#
+Luk is back to normal.#
+Flee rate (Flee) is increased.#
+Flee rate is back to normal.#
+Accuracy rate (Hit) is increased.#
+Accuracy rate is back to normal.#
+Critical attack (Critical) is increased.#
+Critical attack is back to normal.#
 You will receive 1.5 times more EXP from hunting monsters for the next 30 minutes.#
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
 Regular item drops from monsters will be doubled for the next 30 minutes.#
@@ -1608,8 +1608,8 @@ Someone#
 [%s] received '%d' damage .#
 [%s] inflicted [%s] '%d' damage.#
 %s %d pc. dropped#
-[%s] Quest - defeated [%s] progress (%d/%d)#
-[%s] Quest was deleted.#
+[%s] quest - defeated [%s] progress (%d/%d)#
+[%s] quest is completed.#
 [%s] has #
 %d' EXP #
 %d' Job EXP #
@@ -2577,8 +2577,8 @@ You are short of evolution materials.#
 The pet can be evolved under only Loyal status.#
 Auto feeding#
 The pet has been fed. \'%s\' Remaining: %d#
-Auto feeding activated.#
-Auto feeding inactivated.#
+Auto feeding is activated.#
+Auto feeding is deactivated.#
 Renewed#
 %d mininutes ago#
 %d hours ago#
