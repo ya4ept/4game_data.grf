@@ -1283,7 +1283,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Повышает Уклонение" }
+		{ "Уворот повышен." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEFENDER] = {
@@ -1555,7 +1555,7 @@ StateIconList[EFST_IDs.EFST_PARTYFLEE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Повышает Уклонение." }
+		{ "Уворот повышен." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
@@ -1594,7 +1594,7 @@ StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Повышает сноровку." }
+		{ "Сноровка повышена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANALYZE] = {
@@ -1741,7 +1741,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Повышает Точность." }
+		{ "Точность повышена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
@@ -1997,7 +1997,7 @@ StateIconList[EFST_IDs.EFST_FOOD_DEX_CASH] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Повышает сноровку." }
+		{ "Сноровка повышена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CARTBOOST] = {
@@ -2156,7 +2156,7 @@ StateIconList[EFST_IDs.EFST_SIROMA_ICE_TEA] = {
 	descript = {
 		{ "Холодный чай", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Повышает сноровку" }
+		{ "Сноровка повышена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DROCERA_HERB_STEAMED] = {
