@@ -27593,7 +27593,7 @@ Jobs: ^777777All^000000
 5151#
 ^ff0000Account bound^000000
 A cool-looking set of headphones that have earmuffs designed to resemble music notes.
-Resistanse to Stun and Frozen +10%
+Resistance to Stun and Frozen +10%
 Mdef +3
 Class: ^777777Headgear^000000
 Location: ^777777Upper, middle^000000
@@ -27917,7 +27917,7 @@ Jobs: ^777777All^000000
 ^ff0000Account bound^000000
 A bird's nest with newly hatched baby birds.
 Agi/Dex +1
-Resistanse to Stun +10%
+Resistance to Stun +10%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777774^000000    Weight: ^77777750^000000
@@ -27926,7 +27926,7 @@ Jobs: ^777777All^000000
 #
 5184#
 Once owned by a famous captain, this cap is now a symbol of leadership and courage.
-Resistanse to Water +5%
+Resistance to Water +5%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777778^000000    Weight: ^77777750^000000
