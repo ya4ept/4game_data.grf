@@ -1564,7 +1564,7 @@
 568#Lemon#
 7287#Blessed Threads#
 7288#Engagement Ring#
-5099#Neko Mimi#
+5099#Hat#
 7289#Peridot#
 7290#Phlogopite#
 7291#Agate#
@@ -1618,7 +1618,7 @@
 570#Lucky Candy#
 571#Lucky Candy Cane#
 572#Lucky Cookie#
-12016#Speed Potion#
+12016#Speed Up Potion#
 12017#Slow Potion#
 12018#Firecracker#
 7303#Straw Rice Bag#
@@ -2280,7 +2280,7 @@
 
 5129#Hat#
 5130#Masque#
-5132#Hat#
+5132#Cap#
 
 // ------------  helm -----------
 
@@ -2437,9 +2437,10 @@
 12151#Silver Cartridge#
 
 //japan mobile 2
+
 5181#Headgear#
 5182#Headgear#
-5183#Headgear#
+5183#Cap#
 5185#Headgear#
 5186#Headgear#
 5187#Headgear#
@@ -2737,7 +2738,7 @@
 
 // -------------- 2006 additional item-------------
 
-5184#Helm#
+5184#Cap#
 12183#Holy Arrow Quiver#
 1772#Holy Arrow#
 
@@ -2760,7 +2761,7 @@
 5213#Hairband#
 5214#Hat#
 5252#Hat#
-5253#Hat#
+5253#Cap#
 5254#Hat#
 5255#Hat#
 
@@ -2771,7 +2772,7 @@
 //Mobile items added - 070611
 5200#Hat#
 5225#Hat#
-5151#Note Headphone#
+5151#Accessory#
 5198#Hat#
 
 // -------------- mobile headgear added 20070612 --------------
@@ -2779,7 +2780,6 @@
 5189#Hat#
 5188#Hat#
 5150#Hat#
-5184#Headgear#
 5148#Headgear#
 2358#Armor#
 5243#Hat#
@@ -2860,11 +2860,11 @@
 5286#Hairband#
 5287#Hat#
 5288#Glasses#
-5289#Hat#
+5289#Cap#
 5290#Hat#
 5291#Hat#
 5292#Helmet#
-5293#Hat#
+5293#Cap#
 
 //---EP 11.2 Update
 // ---------------- Reading --------------------
@@ -3327,7 +3327,6 @@
 5331#Hat#
 2384#Spritual Tunic#
 5314#Hockey Mask#
-5315#Observer#
 
 //--------20080826  dye Coupon----------------
 
@@ -3574,7 +3573,7 @@
 
 // ---------- 2008. 09. 30. Cah item update ----------
 
-5305#Accessory#
+5305#Glasses#
 
 // ---------- 2008 Poring War ----------
 
@@ -3603,15 +3602,19 @@
 5272#Mask#
 
 // ---------- Thai Rama V Hat ----------
+
 5478#Cap#
 
 // ---------- 08. 11. 04. cash item update ----------
+
 5362#Accessory#
 
 // ---------- 2008 4th qt. Education Day event. ----------
+
 5813#Red Ph.D Hat#
 
 // ---------- 2008.11.18. Cash item update ----------
+
 5304#Cap#
 5191#Accessory#
 5192#Accessory#
@@ -3624,6 +3627,7 @@
 7803#Novice Battle Manual#
 
 // ---------- 2008.11.25. Cash item update ----------
+
 13871#Mage Card Box#
 13872#Acolyte Card Box#
 13873#Archer Card Box#
@@ -3726,9 +3730,10 @@
 5273#Hat#
 5274#Hat#
 5275#Hat#
-5276#Hat#
+5276#Cap#
 
 // ---------- 2009.01.27. Cash item update ----------
+
 5263#Hat#
 5277#Accessory#
 5152#Head Gear#
@@ -3737,6 +3742,7 @@
 5237#Hat#
 
 // -------- 2009 Valentine's Day Event ----------
+
 12742#Valentine Gift Box#
 12743#Valentine Gift Box#
 12744#Chocolate Box#
@@ -4103,7 +4109,7 @@
 // ----------- New Combination Headgear Items ------------
 
 5436#Hairband#
-5437#Hat#
+5437#Cap#
 5438#Hairband#
 5439#Hairband#
 5440#Hairband#
@@ -4115,7 +4121,7 @@
 5446#Accessory#
 5447#Hat#
 5448#Hat#
-5449#Hat#
+5449#Cap#
 
 // ----------- Newly added Ep 13.2 Items ------------
 
@@ -4308,8 +4314,8 @@
 
 // --------- 2010.01.12. Cash item update -------------
 
-5531#Hat#
-5474#Hat#
+5531#Cap#
+5474#Cap#
 2006#Two-handed Staff#
 14345#Animal Scroll#
 
@@ -4637,8 +4643,8 @@
 12381#Ancient Language Scroll#
 12382#Ancient Language Scroll#
 2140#Shield#
-2794#Accessary#
-2795#Accessary#
+2794#Accessory#
+2795#Accessory#
 2796#Magic Stone Ring#
 2797#Magical Stone#
 5516#Glasses#
@@ -5102,19 +5108,22 @@
 21000#Two Hand Sword#
 
 // --------- 2011.7.5. Cash item update -------------
+
 16675#Splash Scroll#
 12247#Halo-Halo#
 
 // --------- 2011.7.12. Cash item update -------------
+
 5594#Accessory#
 5674#Headgear#
 
-
 // --------- 2011.7.19. Cash item update -------------
+
 5789#Mask#
 5790#Cap#
 
 // --------- 2011.8.2. Cash item update -------------
+
 17035#Energetic Pisces Scroll#
 18541#Hat#
 18538#Headgear#
@@ -5330,7 +5339,7 @@
 16774#Asgard Scroll#
 18550#Asgard Bless#
 12261#Secret Medicine#
-14601#Blessing Of Tyr#
+14601#Blessing of Tyr#
 
 //-------------------------2011.12.20------------Xmas Event
 
@@ -5434,7 +5443,9 @@
 12792#Suprem Battle Pill#
 18543#Helm#
 18659#Cap#
+
 //---------------------2012.07.24-----
+
 2449#Shoes#
 6228#Guarantee Weapon 9Up#
 6229#Guarantee Weapon 8Up#
@@ -5445,24 +5456,32 @@
 16503#Insurance 10 box#
 16186#Baby Dragon Hat Box#
 17207#Heart Scroll II#
+
 //---------------------2012.07.31-----
+
 19573#Hairband#
 19574#Cap#
 18642#Mask#
 18643#Mask#
 18644#Mask#
+
 //---------------------2012.08.14-----
+
 18683#Accessory#
 18665#Accessory#
 18666#Accessory#
 9052#Incubus Egg#
 9045#Whisper Egg#
+
 //---------------------2012.08.28-----
+
 2175#Shield#
 2167#Shield#
 2163#Shield#
 2165#Shield#
+
 //---------------------2012.09.11-----
+
 18593#Hat#
 18657#Accessory#
 12787#Diabolic Scroll#
@@ -6189,7 +6208,7 @@
 6821#Solo Troops Badge#
 22686#Solo Cookie#
 12354#Buche De Noel#
-2784#Accessary#
+2784#Accessory#
 12200#Event Cake#
 
 //BioLab4F
@@ -6275,7 +6294,7 @@
 11598#Bitter Cacao Bean#
 6844#Mild Stone#
 6845#That Thing#
-28332#Accessary#
+28332#Accessory#
 18855#Hat#
 18856#Hat#
 18857#Hat#
@@ -6428,7 +6447,6 @@
 14709#Lucky Egg 9TW#
 14711#Lucky Egg 10TW#
 14712#Luckyspirit Egg#
-18642#Mask#
 18858#Accessory#
 18912#Hat#
 18750#Accessory#
@@ -6728,7 +6746,9 @@
 20710#Garment#
 22014#Shoes#
 22015#Shoes#
+
 //------2015 05 19 new items------------
+
 11505#Iris#
 13516#Royal Jelly Box#
 12532#Royal Jelly Box#
@@ -6936,6 +6956,7 @@
 17660#Mysterious Shadow Box3#
 
 //-----------2015 Christmas------------
+
 20798#Garment#
 25143#Gift Stuffed Doll#
 25144#Bridge Postured Doll#
@@ -6948,19 +6969,21 @@
 11567#[Complimentary] Novice Potion#
 
 //-----------------Costama Helm-----------------
+
 17470#Costume Helm Set#
-19584#Accessary#
+19584#Accessory#
 19884#Hat#
-20005#Accessary#
+20005#Accessory#
 20006#Helm#
 20007#Helm#
 20008#Helm#
 20009#Helm#
-20010#Accessary#
+20010#Accessory#
 20011#Helm#
 20012#Helm#
 
 //-------------Shadow 4th-----------------
+
 24138#Armor Shadow#
 24139#Shoes Shadow#
 24140#Shield Shadow#
@@ -7416,3 +7439,24 @@
 30021#Pepper Stout#
 30022#Quadrupel#
 30018#Hat#
+
+18841#Hairband#
+18748#Cap#
+5223#Helmet#
+20316#Cap#
+20380#Hairband#
+19936#Hat#
+20499#Cap#
+31252#Hat#
+31472#Hat#
+19294#Cap#
+20317#Cap#
+20433#Cap#
+20461#Cap#
+
+18742#Accessory#
+31125#Cap#
+31380#Cap#
+31134#Cap#
+20147#Cap#
+9707#Pirate's Treasure Chest#

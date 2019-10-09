@@ -1919,5 +1919,14 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Cat_Ear_ShortK = 1929,
 	ACCESSORY_C_TopPlayer_TW = 1930,
 	ACCESSORY_C_Dullahan_Mask = 1931,
-	ACCESSORY_C_Turkey_Hat = 1932
+	ACCESSORY_C_Turkey_Hat = 1932,
+	ACCESSORY_C_Nose_Glasses_J = 1933,
+	ACCESSORY_C_Mask_Of_Cat_J = 1934,
+	ACCESSORY_C_Sunglass_Bear_Cap_J = 1935,
+	ACCESSORY_Durumagi = 1936,
+	ACCESSORY_C_Disguise_Mantle = 1937,
+	ACCESSORY_C_Bicolor_Cat_Witch_Hat = 1938,
+	ACCESSORY_C_Halloween_Cat_Short = 1939,
+	ACCESSORY_C_Halloween_Cat_Long = 1940,
+	ACCESSORY_C_2019_D10_Muffler_TW = 1941
 }

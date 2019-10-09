@@ -1,0 +1,22 @@
+distribution {1}
+    version=20191007.1-live
+    type=env
+    env=live
+    files=./live/
+    control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    deleted-control-hash=d327d9715caf72a12a0a81d8d69b59f221f75d8e
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=0
+    size=0
+    compressed-size-total=1706303801
+    size-total=1814365801
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2019-10-07T16:33:08+03:00
+    date-modified=2019-10-07T16:33:08+03:00
+    running-time-sec=647
+

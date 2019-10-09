@@ -1,25 +1,25 @@
 Do you agree?#
-Failed to Connect to Server.#
-Disconnected from Server.#
-Disconnected from Server.#
-Server Closed.#
-Someone has Logged in with this ID.#
-Incorrect User ID or Password. Please try again.#
-Incorrect User ID or Password. Please try again.#
+Failed to connect to server.#
+Disconnected from server.#
+Disconnected from server.#
+Server closed.#
+Someone has logged in with this ID.#
+Incorrect user ID or password. Please try again.#
+Incorrect user ID or password. Please try again.#
 This ID is expired.#
 Access rejected. Please confirm with customer service.#
 Character name already exists or you are using forbidden words.#
-Character Creation is denied.#
-Character Deletion is denied.#
-Please Enter Room Title.#
-Foul Language Detected.#
-Please enter Password.#
-Please enter Password. Passwords must be at least 4 characters long.#
+Character creation is denied.#
+Character deletion is denied.#
+Please enter room title.#
+Foul language detected.#
+Please enter password.#
+Please enter password. Passwords must be at least 4 characters long.#
 Are you sure that you want to quit?#
 Passwords are at least 4 characters long. Please try again.#
 Are you sure that you want to delete this character?#
-Foul Language Detected.#
-Character Name must be at least 4 characters long.#
+Foul language detected.#
+Character name must be at least 4 characters long.#
 Command List: /h#
 Effects On#
 Effects Off#
@@ -1249,7 +1249,7 @@ Critical attack (Critical) is increased.#
 Critical attack is back to normal.#
 You will receive 1.5 times more EXP from hunting monsters for the next 30 minutes.#
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
-Regular item drops from monsters will be doubled for the next 30 minutes.#
+Item drop rate is doubled.#
 Boss monster map information for the next 10 min.#
 Do you really want to purchase this item? %d EUR will be deducted from your balance.#
 Not enough money.#
@@ -1273,7 +1273,7 @@ VIP Bonus: EXP/JEXP + %d%%, Death Penalty %d%%, Item Drop + %d%%#
 Please try again after 24 hours.#
 Mercenary will follow custom AI.#
 Mercenary will follow basic AI.#
-%s:#
+%s: #
 %s has acquired %s.#
 Public Chat Display#
 Whisper Display#
@@ -1375,7 +1375,7 @@ The number of accounts connected to this IP has exceeded the limit.#
 You have received a new quest.#
 ^777777Acquirement conditions : #
 View Skill Info.#
-Once used, skill points cannot be re-allocated. Would you like to use the skill points?#
+Once used, skill points cannot be re-allocated. Continue?#
 1st#
 2nd#
 This account has been used for illegal program or hacking program.Block Time : %s#
@@ -2629,7 +2629,7 @@ Summonee is short of SP#
 Length of mail should be less than 1K#
 Item attachment has been failed.#
 Maximum item weights for mail has been exceeded.#
-"Under service. Please try again in a moment.#
+Under service. Please try again in a moment.#
 You cannot open Lucky Roulette window.#
 You cannot close Lucky Roulette window.#
 You cannot start Lucky Roulette.#
@@ -2641,7 +2641,7 @@ Vending skill failed#
 Roulette is rotating. Please try again after checking the winning items#
 Lucky Roulette#
 Alarms when items sold#
-Please check the charge#
+Not enough zeny to pay the mail tax.#
 Check user name#
 Scheduled to be removed#
 Achievement Quests#
@@ -3190,7 +3190,7 @@ Mail#
 3190#
 Searching ^c92114mail^000000.#
 Loading...#
-Header#
+Title#
 Name#
 3195#
 3196#
@@ -3573,7 +3573,7 @@ Search#
 3573#
 Taming monster#
 Message#
-Header#
+Title#
 3577#
 3578#
 3579#

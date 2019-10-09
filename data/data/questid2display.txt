@@ -745,8 +745,8 @@ Bring 10 Tooth of Bat, 5 Bear's Footskin, 20 Poison Spore to Pastor Muhae#
 Bring 5 Porcupine Quill, 20 Cobweb, 10 Bug Leg to Pastor Muhae#
 
 3024#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
-"Well, the next monk you have to meet is...OH! Go to 'Douha'. Go North from here and you'll meet him at the graveyard."#
-Douha#
+You were told to find Douha. Go north from here, and you'll meet her at the graveyard.#
+Talk to Douha#
 
 3025#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 "I'll teach you the way of the monk -- the mental attitude required and our dogma. You just need to remember what I'll tell you and memorize it. Are you ready?"#
@@ -1266,20 +1266,20 @@ You finally can become a Taekwon by having a conversation with Phoenix.#
 
 //소울링커전직
 
-6005#Job Change to Soul-Linker#SG_FEEL#QUE_NOIMAGE#
-If you want to rule the power of spirits, you need to proceed a ceremony using some materials. You must gather 1 Witherless Rose, 3 Carat Diamond and 1 Immortal Heart.#
-1 Witherless Rose, 3 Carat Diamond, 1 Immortal Heart#
+6005#Job Change to Soul Linker#SG_FEEL#QUE_NOIMAGE#
+If you want to rule the power of spirits, you need to participate in a ceremony. For that you must bring a Witherless Rose, a 1 Carat Diamond and an Immortal Heart.#
+Gather necessary materials#
 
-6006#Job Change to Soul-Linker#SG_FEEL#QUE_NOIMAGE#
+6006#Job Change to Soul Linker#SG_FEEL#QUE_NOIMAGE#
 You must perform the ceremony with Maia.#
 #
 
-6007#Job Change to Soul-Linker#SG_FEEL#QUE_NOIMAGE#
+6007#Job Change to Soul Linker#SG_FEEL#QUE_NOIMAGE#
 Maia wishes to speak with the spirits.#
 #
 
-6008#Job Change to Soul-Linker#SG_FEEL#QUE_NOIMAGE#
-The acho of the spirits are remaining in your heart. Talk with Maia again.#
+6008#Job Change to Soul Linker#SG_FEEL#QUE_NOIMAGE#
+The echo of the spirits remains in your heart. Talk to Maia again.#
 #
 
 //슈노
@@ -3096,9 +3096,9 @@ Talk to the witch, Clint Kana to escape.#
 The Chief of Utan tribe suggests that you try learning Utan's culture.#
 How come those people of Utan all wear masks?#
 
-10056#Learning Utan Language#SG_FEEL#QUE_NOIMAGE#
-You'll be able to learn Utan language if you bring certain materials.#
-10 Oil Paper, 5 Slick Paper, 1 Squid Ink, 1 Feather of Birds#
+10056#Learning Utan language#SG_FEEL#QUE_NOIMAGE#
+You'll be able to learn Utan language if you bring the following materials: 10 Oil Papers, 1 Squid Ink, and 1 Feather of Birds.#
+Collect the required materials.#
 
 // --------------EP13------------------------------------------
 //---------------------------이계로 가자--------------------------------

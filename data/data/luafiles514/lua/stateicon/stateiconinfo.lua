@@ -850,7 +850,7 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "Increase ASPD" }
+		{ "Movement speed increased." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRESCENTELBOW] = {
@@ -1306,8 +1306,8 @@ StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "+10% max. SP," },
-		{ "-10% SP consumption." }
+		{ "Max SP +10%" },
+		{ "SP consumption -10%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
@@ -2344,8 +2344,8 @@ StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "+5% max. HP," },
-		{ "+10% HP recovery." }
+		{ "Max HP +5%" },
+		{ "HP recovery rate +10%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
@@ -3652,6 +3652,6 @@ StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
 		{ "Steamed Pork Ribs", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ASPD +5%" },
-		{ "SP consumption decreased by 2%" }
+		{ "SP consumption -2%" }
 	}
 }

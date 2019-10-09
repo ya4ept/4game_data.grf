@@ -1914,5 +1914,14 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_ShortK] = "_C_Cat_Ear_Short",
 	[ACCESSORY_IDs.ACCESSORY_C_TopPlayer_TW] = "_C_TopPlayer_TW",
 	[ACCESSORY_IDs.ACCESSORY_C_Dullahan_Mask] = "_C_Dullahan_Mask",
-	[ACCESSORY_IDs.ACCESSORY_C_Turkey_Hat] = "_C_Turkey_Hat"
+	[ACCESSORY_IDs.ACCESSORY_C_Turkey_Hat] = "_C_Turkey_Hat",
+	[ACCESSORY_IDs.ACCESSORY_C_Nose_Glasses_J] = "_C_Nose_Glasses_J",
+	[ACCESSORY_IDs.ACCESSORY_C_Mask_Of_Cat_J] = "_C_Mask_Of_Cat_J",
+	[ACCESSORY_IDs.ACCESSORY_C_Sunglass_Bear_Cap_J] = "_C_Sunglass_Bear_Cap_J",
+	[ACCESSORY_IDs.ACCESSORY_Durumagi] = "_Durumagi",
+	[ACCESSORY_IDs.ACCESSORY_C_Disguise_Mantle] = "_C_Disguise_Mantle",
+	[ACCESSORY_IDs.ACCESSORY_C_Bicolor_Cat_Witch_Hat] = "_C_Bicolor_Cat_Witch_Hat",
+	[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = "_C_Halloween_Cat_Short",
+	[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = "_C_Halloween_Cat_Long",
+	[ACCESSORY_IDs.ACCESSORY_C_2019_D10_Muffler_TW] = "_C_2019_D10_Muffler_TW"
 }
