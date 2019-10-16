@@ -6062,10 +6062,9 @@ Hunt ^0000FF10 Disguise^000000#
 Accumulate magic energy by hunting Quve. You can find these monsters in the Skellington Village in Nifflheim.#
 Hunt ^0000FF10 Quve^000000#
 
-3212#Heirozoist Hunting#SG_FEEL#QUE_NOIMAGE#
-Accumulate magic energy by hunting Heirozoist. You can find these monsters in the Skellington Village in Nifflheim.#
-Hunt ^0000FF10 Heirozoist^000000#
-
+3212#Hylozoist Hunting#SG_FEEL#QUE_NOIMAGE#
+Accumulate magic energy by hunting Hylozoists. You can find these monsters in the Skellington Village in Nifflheim.#
+Kill ^0000FF10 Hylozoists^000000#
 
 3213#Job Change to Rune Knight#SG_FEEL#QUE_NOIMAGE#
 You have accumulated enough magic energy in your body to become a Rune Knight. Talk to Sage Serpeone and she will send you to the Rune Knight Gathering area.#
@@ -8578,9 +8577,9 @@ Hunt 400 Naga monsters.#
 Hunt the Lude monsters at Niffelheim Field 1 and return to Gramps at the Eden Group to get your reward.#
 Hunt 400 Lude monsters.#
 
-60562#Heirozoist Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunt the Heirozoist monsters at Niffelheim Field 1 and return to Gramps at the Eden Group to get your reward.#
-Hunt 400 Heirozoist monsters.#
+60562#Hylozoist Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt Hylozoists in Niffelheim Field 1 and return to Gramps at the Eden Group to get your reward.#
+Kill 400 Hylozoists#
 
 //--------13.3 Add--------
 //------ 인도네시아 로컬라이징 - 데와타 섬(노인을 도와라, 전통 무기)
@@ -10017,7 +10016,7 @@ You can only do the quests, from the Queen of the Dead, once every 12 hours.#
 #
 
 70077#Gather Ectoplasm#SG_FEEL#QUE_NOIMAGE#
-Gather 100 Ectoplasm that you can get from hunting the Quve, Lude and Heirozoists in Nifflheim and bring it back to the Queen of the Dead.#
+Gather 100 Ectoplasm that you can get from hunting the Quve, Lude and Hylozoists in Nifflheim and bring it back to the Queen of the Dead.#
 #
 
 70078#Gather Pumpkin Lanterns#SG_FEEL#QUE_NOIMAGE#

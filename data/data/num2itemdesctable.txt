@@ -616,8 +616,8 @@ A red frame that would make a nice present.
 Weight: ^77777720^000000
 #
 735#
-Ancient Korean porcelain made of blue ceramic and crafted by a true master.
-^ffffff_^000000
+An ancient porcelain made of blue ceramic. It seems its crafter was truly skilled.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 736#
@@ -2453,87 +2453,43 @@ using a Magnifier.
 Weight: ^777777100^000000
 #
 1225#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1227#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1228#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1229#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1230#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1231#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1232#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1233#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1234#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1235#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1236#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1237#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1250#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1251#
 Unknown item
@@ -3909,88 +3865,40 @@ using a Magnifier.
 Weight: ^77777760^000000
 #
 2508#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2201#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2202#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2203#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2204#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2205#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2206#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2207#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2208#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2209#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2210#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2211#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2212#
 Unknown item
@@ -4750,112 +4658,52 @@ using a Magnifier.
 Weight: ^77777710^000000
 #
 2607#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2608#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2609#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2610#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2611#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2612#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2613#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2614#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2615#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2616#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^7777775^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2617#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2618#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2619#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2620#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2301#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2302#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2303#
 Unknown item
@@ -6518,9 +6366,9 @@ can't be cleansed.
 Weight: ^7777774^000000
 #
 7025#
-A gem that is said to
-be key to opening the
-path to the mysterious, ancient land of Geffenia.
+A gemstone that is said to be the key for opening the path to the mysterious ancient land of Geffenia.
+^ffffff_^000000
+Weight: ^7777775^000000
 #
 7026#
 An ornate key that can
@@ -8313,7 +8161,7 @@ Some dirty fur from an antelope.
 Weight: ^7777771^000000
 #
 7108#
-A piece of shield that looks strong and durable.
+A piece of an ancient shield. Looks very strong and durable.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -8934,9 +8782,9 @@ Location: ^777777Upper^000000    Weight: ^77777720^000000
 Job: ^777777Every Job^000000
 #
 7177#
-Pieces of sobbing starlight. It might be possible to assemble them together.
+A fragment of the Sobbing Starlight. It might be possible to get the whole crystal by combining all its pieces.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7178#
 A beautiful jewel that was named after a star in the sky.
@@ -9101,7 +8949,7 @@ A doll which resembles a black cat that almost seems alive.
 Weight: ^7777771^000000
 #
 7207#
-A old, exhausted manteau.
+An old worn-out manteau.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9116,7 +8964,7 @@ A helm that is said to be worn by Dullahan.
 Weight: ^7777771^000000
 #
 7210#
-A broken piece of an armor said to be worn by Dullahan.
+A piece of broken armor said to be worn by Dullahan.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9126,7 +8974,7 @@ A broken piece of a stone with writing carved in an ancient language.
 Weight: ^7777771^000000
 #
 7212#
-A doll hung on a rope that appears to hold some sort of cursed spell.
+A doll hanged on a rope that appears to be inflicted with some kind of curse.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9136,12 +8984,12 @@ A packet, made with fabric, that is used to hold needles in place.
 Weight: ^7777771^000000
 #
 7214#
-A cage which is used to hold a bat. 
+A cage used to hold bats.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7215#
-Pieces of a broken needle.
+An old needle broken in half.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9181,7 +9029,7 @@ A gnarl of a tree.
 Weight: ^7777771^000000
 #
 7223#
-A self-portrait of someone contorting his facial expression.
+Someone's self-portrait. His face is distorted.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9500,112 +9348,51 @@ Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 5063#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5064#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5065#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5066#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5067#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5068#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5069#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5070#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5071#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5072#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5073#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5074#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5075#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5076#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5077#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5078#
 Unknown item
@@ -9782,13 +9569,13 @@ A golden necklace made for celebrating RWC.
 Weight: ^7777771^000000
 #
 7274#
-"The door leading to the great power can be found under the twilight sky from the tower of the heaven. 
-The key to the door will be the grass living under the Sun."
+'The door leading to the great power can be found from the tower of the heaven under the twilight sky.
+The key to the door will be the grass living under the Sun.'
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7275#
-Paper with writing in an ancient language obtained from 'Sobbing Starlight.'
+A message written in an ancient language obtained from the Sobbing Starlight.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -10118,9 +9905,9 @@ Allows to use ^000088Level 1 Fire Wall^000000.
 Weight: ^7777771^000000
 #
 699#
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Fire Wall^000000.
-^ffffff_^000000
+A spell scroll made by the essence of ancient magic.
+Casts ^0000FFLevel 5 Fire Wall^000000.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 700#
@@ -10246,48 +10033,39 @@ A bag made out of straw that is used to store rince within.
 Weight: ^77777780^000000
 #
 4149#
-Gargoyle Card.
-Add the chance of gaining 'Lightning' item each time an Insect monster is killed.
+A chance of obtaining Lightning Box when killing an Insect monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4150#
-Goat Card.
-Add DEF +2, MDEF +5 if the armor is upgraded no higher than +5.
+[If the armor is refined no higher than to +5]
+Def +2
+Mdef +5
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4151#
-Gajomart Card.
-Receive 10% more Experience Points from Plant monsters.
-Receive 20% more damage from Plant monsters.
+Exp +10% when killing a Plant monster
+Damage from Plant monsters +20%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4152#
-Galapago Card.
-Add the chance of gaining Apple/Banana/Carrot Juice each time an Insect monster is killed.
-Juice item restores 50% more HP.
+A chance of obtaining Apple/Banana/Carrot Juice when killing an Insect monster
+Juice restores 50% more HP.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4153#
-Crab Card.
-Inflict 30% more damage^FFFFFF  ^000000 on Aster. ATK +5. 
-^6A5ACDBeach Card Set^000000
-^3CB371Shell Fish Card^000000
-^3CB371Crab Card^000000
-^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000 
-Property monsters
-30% chance of Gaining 
-'Raw Fish'  each time 
-a Fish Monster is killed.
-
+Damage to Aster +30%
+Atk +5
+[When using with Shell Fish Card and Aster Card]
+30% chance of obtaining Raw Fish when killing a Fish monster
+Damage to Water monsters +30%
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -10300,538 +10078,406 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4155#
-Goblin Leader Card.
-Inflict 30% more damage on Goblins.
+Damage to Goblins +30%
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4156#
-Goblin Steamrider Card.
-Inflict 10% more damage with Critical Attack.
-Critical +7 on Neutral monsters.
+Critical damage +10%
+Critical +7 to Formless monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4157#
-Goblin Archer Card.
-Inflict 10% more damage with Critical Attack.
-Critical +7 on Undead monsters.
+Critical damage +10%
+Critical +7 to Undead monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4158#
-Sky Deleter Card.
-Disable natural HP Recovery.
-Gain 100 HP each time a monster is killed by Physical Melee Attack.
+Natural HP Recovery disabled
+HP +100 when killing a monster with melee physical attack
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4159#
-Nine Tail Card.
-AGI +2.
-Add Flee Rate +20 if the garment is upgraded up to +9 or higher.
+Agi +2
+[If the garment is refined to +9 or higher]
+Flee +20
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4160#
-Firelock Soldier Card.
-STR +2.
-Max HP, Max SP +10% if the shoes is upgraded up to +9 or higher.
+Str +2
+[If the footwear is refined to +9 or higher]
+Max HP/SP +10%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4161#
-Grand Peco Card.
-Add the chance of auto casting level 1 Gloria skill on the user when receiving Physical Damage.
-DEF +3, VIT +3 if the user is equipped with an item compounded to the Peco Peco card.
+A chance of auto casting Gloria 1 on oneself when receiving physical damage
+[If using with Peco Peco card]
+Def +3
+Vit +3
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4162#
-Grizzly Card.
-Add the chance of auto casting 'Blind' on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Big Foot card, the blinding chance will be increased.
+A chance of blinding an enemy when receiving physical damage
+[If used with Big Foot Card]
+The chance to blind increases.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4163#
-Gryphon Card.
-Flee Rate +2, Critical +7.
-If worn by Swordsman Class characters, it adds the chance of auto casting level 5 Bowling Bash skill
-on enemy while fighting.
+Flee +2
+Critical +7
+[If used by the Swordsman class]
+A chance of auto casting Bowling Bash 5 when attacking
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4164#
-Gullinbursti Card.
-Receive 10% more experience points each time a Fish monster is killed.
-Receive 20% more damage from Fish monsters.
+Exp +10% when killing a Fish monster
+Damage from Fish monsters +20%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4165#
-Gig Card.
-Gain 5 SP each time an Insect monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing an Insect monster with a melee physical attack
+SP -5 when the weapon is unequipped
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4166#
 Chance to inflict Curse on an enemy when receiving physical damage
-[Set effect with the Nightmare card]
+[If used with Nightmare card]
 Increases the chance to inflict Curse.
 Class: ^777777Card^000000
 Compound on: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4167#
-Nereid Card.
-Gain 5 SP each time a Brute monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing an Animal monster with a melee physical attack
+SP -5 when the weapon is unequipped
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4168#
-Dark Lord Card.
-Add the chance of auto casting level 5 Meteor Storm skill on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Dark Illusion card,
-it adds Max HP, Max SP + 20%.
+A chance of auto casting Meteor Storm 5 when receiving physical damage
+[If used with Dark Illusion Card]
+Max HP/SP +20%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4169#
-Dark Illusion Card.
-Max HP, Max SP -10%.
-Reduce spell casting time by 10%.
-If the user is equipped with an item compounded to the Dark Lord card,
-it reduces spell casting time by 20%.
+Max HP/SP -10%
+Casting time -10%
+[If used with Dark Lord Card]
+Casting time -20%
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4170#
-Dark Frame Card.
-Add the chance of auto casting 'Stone Curse' on an enemy when the user receives Physical Damage.
+A chance of auto casting Stone Curse when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4171#
-Dark Priest Card.
-Add the 5% chance of decreasing enemy's SP amount by 10% when attacking. 
-If worn by Sage or Scholar, it gains 1 SP every time when doing Physical Attack on monsters.
+0.5% chance of burning up 10% of the enemy's SP after a physical attack
+[If used by Sage or Scholar]
+SP +1 after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4172#
-The Paper Card.
-Inflict 20% more damage with Critical Attack.
-Drain 1 SP every time
-when attacking.
-
-^6A5ACDThief Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Dancing Dragon Card^000000
-^3CB371The Paper Card^000000
-AGI +5
-STR +5
-ASPD +5%
-Increase in attack speed by 5%(Delay after attacking reduces by 5%)
-+1 SP per attack
-Disable the Auto-Snatch 
-ability of the 
-Wanderer Card
-^6A5ACDThief Class Bonus:^000000 
-No Gemstones required to 
-use certain skills.
-
+Critical damage +20%
+SP -1 after an attack
+[If used with Wanderer Card, Wild Rose Card, Shinobi Card, and Dancing Dragon Card]
+Auto-Snatch disabled
+Aspd/movement speed +5%
+Str/Agi +5
+SP +1 after an attack
+[If the set is used by Thief class]
+No Gemstones required for using skills
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4173#
-Demon Fungus Card.
-Add the chance of casting 'Sleep' on an enemy when the user receives Physical Damage.
+A chance to cause Sleep on an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4174#
-Deviling Card.
-Add 50% more tolerance against Neutral Property Attack.
-Receive 50% more damage from other Property Attack.
+Resistance to Neutral attacks +50%
+Damage from other property attacks +50%
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4175#
-Poisonous Toad Card.
-Add the chance of auto casting level 1 Envenom on an enemy when the user inflicts Physical Damage.
+A chance of auto casting Envenom 1 when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4176#
-Dullahan Card.
-Inflict 10% more damage with Critical Attack. 
-Critical + 7 on Dragon monsters.
+Critical damage +10%
+Critical +7 to Dragon monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4177#
-Dryad Card.
-Add the chance of gaining 'Green Live' item each time a Plant monster is killed.
-Add 10% more tolerance against Earth Property Attack.
+A chance of obtaining Green Live when killing a Plant monster
+Resistance to Earth attacks +10%
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4178#
-Dragon Tail Card.
-AGI +1, Flee Rate +10.
-Inflict 5% more damage 
-with Double Strafe and 
-Arrow Shower skill.
-
-^6A5ACDHunter Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Merman Card^000000
-+20% Ranged Attack Damage
-AGI +5
-DEX +3
-+20% Seeking Attack 
-(which never miss its target)
-^6A5ACDArcher Class Bonus:^000000
-A low chance of 
-auto casting Coma on 
-Brute class monsters 
-when attacking.
-+5% EXP from 
-Brute class monsters.
-
-^6A5ACDBard/Dancer Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Green Ferus Card^000000
+Agi +1
+Flee +10
+Double Strafe and Arrow Shower damage +5%
+[If used with Cruiser Card, Anolian Card, Alligator Card, and Merman Card]
+Ranged attack damage +20%
+Agi +5
+Dex +3
+Seeking Attack +20%
+[If the set is used by Archer class]
+A low chance of auto casting Coma on Animal monsters after an attack
+Exp from Animal monsters +5%
+[If used with Cruiser Card, Anolian Card, Alligator Card, and Green Ferus Card]
 Dex +5
-+5% Arrow Vulcan Damage
-+10% Melody Strike Damage 
-+10% Slinging Arrow Damage
-^6A5ACDBard or Dancer Class Bonus:^000000
-A low chance of 
-auto casting
-level 2 Tarot Card of Fate 
-when hit by a melee attack.
-
+Arrow Vulcan damage +5%
+Melody Strike damage +10%
+Slinging Arrow damage +10%
+[If the set is used by Bard/Dancer class]
+A low chance of auto casting Tarot Card of Fate 2 when hit by a melee attack
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4179#
-Dragon Fly Card.
-AGI + 1. 
-Add Flee Rate +18 if the user is equipped with an item compounded to the Chon Chon card.
+Agi +1
+[If used with Chon Chon Card]
+Flee +18
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4180#
-Driller Card.
-Gain 5 SP each time a Dragon monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 whein killing a Dragon monster with a melee physical attack
+SP -5 when the weapon is unequipped
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4181#
-Disguise Card.
-Add the chance of auto casting 'Mute' on an enemy when the user receives Physical Damage.
-The chance of casting 'Mute' is increased if the user has 77 or more VIT points.
+A chance of inflicting Silence on an enemy when receiving physical damage
+[If Vit > 77]
+The chance to inflict Silence increased
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4182#
-Diabolic Card.
-Gain 5 SP each time a Devil monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 whein killing a Demon monster with a melee physical attack
+SP -5 when the weapon is unequipped
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4183#
-Vagabond Wolf Card.
-STR + 1. 
-Add Flee Rate +18 if the user is equipped with an item compounded to the Wolf Card.
+Str +1
+[If used with Wolf Card]
+Flee +18
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4184#
-Lava Golem Card.
-Inflict 30% more damage on Golems.
+Damage to Golems +30%
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4185#
-Rideword Card.
-INT +1.
-INT +1, MDEF +1 if worn by 
-Acolyte Class characters.
-
-^6A5ACDAcolyte Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Geographer Card^000000
-^3CB371Enchanted Peach Tree Card^000000
-VIT +10
--10% Cast Time
--10% SP Consumption
-^6A5ACDAcolyte Class Bonus:^000000
--30% damage from Undead 
-and Demon monsters.
-+5% EXP from Demon and 
-Undead monsters.
-
-
-^6A5ACDMonk Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Waste Stove Card^000000
-STR +3
-SP +80
-ATT +25
-A chance of casting
-level 5 Signum Crusis with 
-each physical attack.
+Int +1
+[If used by Acolyte class]
+Int +1
+Mdef +1
+[If used with Cookie Card, Fur Seal Card, Geographer Card, and Enchanted Peach Tree Card]
+Vit +10
+Casting time -10%
+SP consumption -10%
+[If the set is used by Acolyte class]
+Damage from Undead and Demon monsters -30%
+Exp from Undead and Demon monsters +5%
+[If used with Cookie Card, Fur Seal Card, and Waste Stove Card]
+Str +3
+Max SP +80
+Atk +25
+A chance of auto casting Signum Crusis 5 after a physical attack
 Guillotine Fist Damage +10%
-^6A5ACDMonk Class Bonus:^000000
-Uninterruptable Cast
-SP consumpion -10%.
-
+[If the set is used by Monk class]
+Uninterruptable cast
+SP consumpion -10%
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4186#
-Raggler Card.
-STR +1, VIT +1.
-
-^6A5ACDMerchant Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Myst Case Card^000000
-^3CB371Hylozoist Card^000000
-LUK +10
-+20% Mammonite Damage
-+ 2 SP per attack.
-^6A5ACDMerchant Class Bonus:^000000
-20% chance of reflecting 
-Magic spells.
-A chance of gaining 
-'Old Purple Box' each time 
-a monster is killed.
-
-^6A5ACDAlchemist Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Muka Card^000000
-^3CB371Holden Card^000000
-STR +4
-+20% Mammonite Damage
-+1 SP per attack.
-+7% Max HP/SP
-^6A5ACDAlchemist Class Bonus:^000000
-A chance of auto casting 
-level 1 Adrenaline Rush 
-when attacking physically.
-A low chance of obtaining 
-Glistening Coat and/or 
-Stem when defeating 
-monsters.
-
+Str/Vit +1
+[If used with Zipper Bear Card, Baby Leopard Card, Myst Case Card, and Hylozoist Card]
+Luk +10
+Mammonite damage +20%
+SP +2 per attack
+[If the set is used by Merchant class]
+20% chance of reflecting magic spells
+A chance of obtaining Old Purple Box when killing a monster
+[If used with Zipper Bear Card, Baby Leopard Card, Muka Card, and Holden Card]
+Str +4
+Mammonite damage +20%
+SP +1 per attack
+Max HP/SP +7%
+[If the set is used by Alchemist class]
+A chance of auto casting Adrenaline Rush 1 after a physical attack
+A low chance of obtaining Glistening Coat and/or Stem when killing a monster
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4187#
-Raydric Archer Card.
-Add the chance of gianing 'Piece of Vindictive Spirit' item each time a Devil monster is killed.
+A chance of obtaining Piece of Vindictive Spirit when killing a Demon monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4188#
-Leib Olmai Card.
-Add the chance of gaining 'Red Blood' item each time a Brute monster is killed.
-Add 10% more tolerance against Fire Property Attack.
+A chance of obtaining Red Blood when killing an Animal monster
+Resistance to Fire attacks +10%
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4189#
-Wraith Dead Card.
-Add the chance of auto casting 'Curse' on an enemy when the user receives Physical Damage.
+A chance of applying Curse on an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4190#
-Wraith Card.
-Add the chance of gaining 'Wraith Laughter' item each time an Undead monster is killed.
+A chance of obtaining Wraith Laughter when killing an Undead monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4191#
-Loli Ruri Card.
-Add the chance of auto 
-casting level 3 Heal skill 
-on the user when receiving 
-Physical Damage.
-^6A5ACDWizard Card Set^000000
-^3CB371Loli Ruri Card^000000
-^3CB371Parasite Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Evil Nymph^000000
-^3CB371Harpy Card^000000
-^3CB371Bloody Butterfly Card^000000
-+500 HP
-+5 MDEF
-+5 DEF
-+10% Damage using 
-the Cold Bolt, Fire Bolt, 
-Lightning Bolt skills.
-^3CB371Mage Class only Bonuses^000000
-+3% MATK
-15% Faster Cast
+A chance of auto casting Heal 3 on oneself when receiving physical damage
+[If used with Parasite Card, Miyabi Doll Card, Evil Nymph Card, Harpy Card, and Bloody Butterfly Card]
+Max HP +500
+Def/Mdef +5
+Cold/Fire/Lightning Bolt damage +10%
+[If the set is used by Mage class]
+Matk +3%
+Casting time -15%
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4192#
-Rotar Zairo Card.
-Inflict 10% more damage with Critical Attack.
-Critical +7 on Fish monsters.
+Critical damage +10%
+Critical +7 to Fish monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4193#
-Lude Card.
-Has 20% chance of auto
-casting Level 1 Endure
-on Novice or Super Novice when receiving Physical
-Damage. If the user is
-equipped with an item
-to the Quve card, it
-adds +300 Max HP.
+[Is used by Novice or Super Novice]
+20% chance of auto casting Endure 1 on oneself when receiving physical damage
+[If used with Quve Card]
+Max HP +300
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4194#
-Rybio Card.
-Add the chance of auto casting 'Stun' on an enemy when the user receives Physical Damage.
-The chance of casting 'Stun' is increased if the user has 77 or more DEX points.
+A chance of stunning an enemy when receiving physical damage
+[If Dex > 76]
+The chance of stunning increased
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4195#
-Leaf Cat Card.
-Add the chance of gaining 'Crystal Blue' item each time a Fish or Shellfish monster is killed.
-Add 10% more tolerance against Water Property Attack.
+A chance of obtaining Crystal Blue when killing a Fish or Shellfish monster
+Resistance to Water attacks +10%
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4196#
-Marin Card.
-Add the chance of gaining 'Jellopy or Large Jellopy' item each time a monster is killed. 
+A chance of obtaining Jellopy or Large Jellopy when killing a monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4197#
-Mastering Card.
-LUK +1.
-Add Flee Rate +18 if the user is equipped with an item compunded to the Poring card.
+Luk +1
+[If used with Poring Card]
+Flee +18
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4198#
-Maya Purple Card.
-Enable its user to detect hidden monsters.
+Detects hidden monsters
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4199#
-Merman Card.
-Increase HP/SP Recovery by 10%.
-
-^6A5ACDHunter Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Merman Card^000000
-+20% Ranged Attack Damage
-AGI +5
-DEX +3
-+20% Seeking Attack 
-(which never miss its target)
-^6A5ACDArcher Class Bonus:^000000
-A low chance of 
-auto casting Coma on 
-Brute class monsters 
-when attacking.
-+5% EXP from 
-Brute class monsters.
-
+HP/SP recovery rate +10%
+[If used with Cruiser Card, Anolian Card, Alligator Card, and Dragon Tail Card]
+Ranged attack damage +20%
+Agi +5
+Dex +3
+Seeking attack +20%
+[If used by Archer class]
+A low chance of applying Coma on Animal monsters after an attack
+Exp from Animal monsters +5%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4200#
-Megalith Card.
-MDEF +7 if the shoes is upgraded no higher than +5.
+[If the footwear is refined no more that to +5]
+Mdef +7
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4201#
-Majoruros Card.
-Add the chance of auto casting 'Stun' on an enemy when the user receives Physical Attack.
+A chance of stunning an enemy when receiving a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -10843,102 +10489,65 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4203#
-Mutant Dragonoid Card.
-ATK + 15.
-Add the chance of auto casting level 3 Fire Ball on an enemy while doing Physical Attack.
-If the user has mastered the skill at levl 10, it will cast level 10 Fire Ball.
+Atk +15
+A chance of auto casting Fire Ball 3 on an enemy after a physical attack
+If Fire Ball is Lv. 10, it will be cast instead.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4204#
-Mini Demon Card.
-Receive 10% more Experience Points from Brute Monsters.
-Receive 20% more damage from Brute Monsters.
+Exp from Animal monsters +10%
+Damage from Animal monsters +20%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4205#
-Mimic Card.
-Add the chance of gaining 'Old Blue Box' item each time a monster is killed.
+A chance of obtaining Old Blue Box after killing a monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4206#
-Myst Case Card.
-Add the chance of gaining 
-'Gift Box' each time 
-a monster is killed.
-
-^6A5ACDMerchant Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Myst Case Card^000000
-^3CB371Hylozoist Card^000000
-LUK +10
-+20% Mammonite Damage
-+ 2 SP per attack.
-^6A5ACDMerchant Class Bonus:^000000
-20% chance of reflecting 
-Magic spells.
-A chance of gaining 
-'Old Purple Box' each time 
-a monster is killed.
-
+A chance of obtaining Gift Box after killing a monster
+[If used with Zipper Bear, Baby Leopard, Raggler, and Hylozoist Cards]
+Luk +10
+Mammonite damage +20%
+SP +2 per attack
+[If the set is used by Merchant class]
+20% chance of reflecting magic spells
+A chance of obtaining Old Purple Box after killing a monster
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4207#
-Mysteltainn Card.
-Receive 25% less damage from small size monsters.
-DEF +1.
+Damage from small monsters -25%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4208#
-Miyabi Doll Card.
-Max SP +10%.
-Inflict 5% more damage with Frost Diver skill.
-^6A5ACDSage Card Set^000000
-^3CB371Yellow Novus Card^000000
-^3CB371Evil Nymph Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Bloody Butterfly Card^000000
-^3CB371Harpy Card^000000
-+3 INT
-+10% Thunderstorm Damage
-+10% Heaven Drive Damage
-^3CB371Sage only Bonuses^000000
-+20% chance to reflect Magic
-20% Faster cast
-Adds a low chance of 
-dropping Red or Yellow 
-Gemstones when defeating 
-monsters.
-
-^6A5ACDWizard Card Set^000000
-^3CB371Loli Ruri Card^000000
-^3CB371Parasite Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Evil Nymph^000000
-^3CB371Harpy Card^000000
-^3CB371Bloody Butterfly Card^000000
-+500 HP
-+5 MDEF
-+5 DEF
-+10% Damage using 
-the Cold Bolt, Fire Bolt, 
-and Lightning Bolt skills.
-^3CB371Mage Class only Bonuses^000000
-+3% MATK
-15% Faster Cast
+Max SP +10%
+Frost Diver damage +5%
+[If used with Yellow Novus, Evil Nymph, Bloody Butterfly, and Harpy Cards]
+Int +3
+Thunderstorm and Heaven Drive damage +10%
+[If the set is used by Sage class]
+20% chance to reflect magic spells
+Casting time -20%
+A low chance of obtaining Red or Yellow Gemstone after killing a monster
+[If used with Loli Ruri, Parasite, Evil Nymph, Harpy, and Bloody Butterfly Cards]
+Max HP +500
+Def/Mdef +5
+Cold/Fire/Lightning Bold damage +10%
+[If the set is used by Mage class]
+Matk +3%
+Casting time -15%
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4209#
@@ -11037,9 +10646,8 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4214#
-Bloody Murderer Card.
-Inflict 10% more damage with Critical Attack.
-Critical +7 on Insect monsters.
+Critical damage +10%
+Critical +7 to Insect monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11744,12 +11352,14 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4269#
-Incubus Card.
-INT -3, Max SP +150 and SP natural recovery -20%.
-If the user is equipped with an item compounded to the Succubus card,
-it adds INT +4 and SP natural recovery +30%.
+Int -3
+Max SP +150
+SP recovery rate -20%
+[If used with Succubus Card]
+Int +1
+SP recovery rate +10%
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4270#
@@ -11818,10 +11428,10 @@ Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4276#
-Chance to inflict Coma on an enemy
-Chance to inflict Stun, Curse, Mute, Poison, or Bleeding after a melee attack
+Low chance of inflicting ^800000Coma^000000 on an enemy
+Chance of inflicting ^800000Stun, Curse, Mute, Poison, or Bleeding^000000 after a melee attack
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4277#
@@ -11834,7 +11444,7 @@ Weight: ^7777771^000000
 #
 4278#
 [If Int < 21]
-MDEF +5
+Mdef +5
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -12358,9 +11968,8 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4316#
-False Angel Card.
-Gain 5 SP each time an Angel monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing an Angel monster with a melee physical attack
+SP -5 when the weapon is unequipped
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -12438,21 +12047,15 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4321#
-Hylozoist Card.
-^6A5ACDMerchant Card Set^000000
-^3CB371Zipper Bear Card^000000
-^3CB371Baby Leopard Card^000000
-^3CB371Raggler Card^000000
-^3CB371Myst Case Card^000000
-^3CB371Hylozoist Card^000000
+[If used with Zipper Bear, Baby Leopard, Raggler, and Myst Case Cards]
 Luk +10
-Mammonite Damage +20%
+Mammonite damage +20%
 SP +2 per attack
-^6A5ACDMerchant Class Bonus:^000000
+[If used by Merchant class]
 20% chance of reflecting magic spells
-A chance of gaining Old Purple Box each time a monster is killed
+A chance of obtaining Old Purple Box when killing a monster
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4322#
@@ -12684,44 +12287,26 @@ Hellion Revenant Eye.
 Weight: ^7777771^000000
 #
 5102#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2642#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2643#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 7304#
-A worn out scroll with illegible text written in an ancient language.
-The only word you can
-read is 'Kirkana.'
+A worn out spellbook with illegible text written in an ancient language. The only word you can read is 'Kirkana.'
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7305#
-An emblem which
-signifies the authority to
-rule over the nine realms
-of the dead. Seers can
-sense its ominous powers.
+An emblem that signifies the authority to rule over the nine realms of the dead. One can sense ominous powers contained in it.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 7306#
-A strange object which looks like a tiny soul is flickering from within.
+A strange translucent object with something flickering from inside.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
@@ -15418,12 +15003,9 @@ amount of SP.^000000
 Weight: ^7777772^000000
 #
 579#
-A fresh fish that
-can be cooked in
-a variety of ways.
-^000088Restores a small
-amount of HP.^000000
-^FFFFFF ^000000
+A freshly caught fish that can be cooked in a variety of ways.
+Restores ^008000100-150 HP^000000.
+^FFFFFF_^000000
 Weight: ^7777772^000000
 #
 580#
@@ -24309,76 +23891,40 @@ Can be identified by
 using a Magnifier.
 #
 2131#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2716#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2717#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2718#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2719#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2720#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2721#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2722#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2723#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2724#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2725#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2726#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2727#
 Unknown item
@@ -29310,10 +28856,9 @@ When summoned,
 Increases resistance to Fire property by 2%.
 Increases damage to Fire property by 1%.
 Class: ^777777Monster Egg^000000
-
 #
 12373#
-Resembling the heart of a pure boy.
+A letter written by a boy to his first love.
 Succubus finds its naivety irresistible.
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
@@ -42751,88 +42296,88 @@ Weight : ^7777771^000000
 #
 
 1299#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1319#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1399#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1437#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1495#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1530#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1591#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1667#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1834#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1932#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1987#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2019#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2020#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2021#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2178#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2179#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2180#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2181#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2182#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2410#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2496#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2497#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2498#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2629#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2630#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2944#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2945#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2946#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6592#
 A small wooden box that was discovered in a guild stronghold. It contains something very precious for someone.
@@ -42910,67 +42455,67 @@ Provides the same effects as TE White Potion, but this potion is lighter in weig
 Weight : ^77777710^000000
 #
 13083#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13117#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13184#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13185#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13186#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13187#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13317#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13439#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15062#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15063#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15064#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16025#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18118#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18732#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18733#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18734#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18736#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20702#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20703#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20704#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 21006#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2022#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -43100,19 +42645,19 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2950#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2951#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2952#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2953#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2954#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6615#
 This coin is made to commemorate every achievement of the guilds that own castles in the Midgard Continent.
@@ -43186,19 +42731,19 @@ This box randomly generates a variety of useful guild supplies.
 Weight : ^77777710^000000
 #
 15067#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18755#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19585#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20709#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22012#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13945#Shiba_Inu_Set#
 13974#RWC_Gear_Set#
@@ -43423,16 +42968,16 @@ This pill covered with black fungi is carefully wrapped in a package along with 
 Weight: ^7777771^000000
 #
 13089#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13090#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20717#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20718#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22507#
 This old, discolored scroll, sustained with the mana used for maintaining distorted spaces, sends its user to a random space.
@@ -45773,40 +45318,40 @@ Weight: ^7777771^000000
 Can be identified with Magnifier.
 #
 1496#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1669#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1671#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1836#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1933#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1988#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2023#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2185#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2186#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2187#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2963#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2964#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 4556#
 MATK +50. Additional MATK +5 per each Upgrade level.
@@ -45849,52 +45394,52 @@ This shard is sustained with Sakray's old, abandoned memories that have the abil
 A first-aid kit. It also comes with a simple, easy-to-follow manual.
 #
 13093#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13094#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13441#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15073#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15074#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15090#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15091#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16027#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16028#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18119#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18120#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18820#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20721#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 21009#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 21010#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22033#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22511#
 ^ff0000Cannot be traded to another game account.^000000
@@ -45907,13 +45452,13 @@ Weight: ^7777771^000000
 A scroll that summons Loki.
 #
 28000#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28001#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28100#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 17577#
@@ -53210,34 +52755,34 @@ Class : ^777777All classes^000000
 
 
 15110#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2995#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20732#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22043#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15111#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2996#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20733#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22044#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28101#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 21011#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 4933#
 Neutral Resistance 1%.
@@ -53289,16 +52834,16 @@ Often found in the Excavation Site, this envelope activates a random effect for 
 Weight: ^7777771^000000
 #
 16030#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16031#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16032#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16033#
-Unidentified. Can be identified with Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6756#
 Specially enriched energy found from Verus City location. Maybe this could help us reveal the secret of Verus City power core..?
@@ -56305,6 +55850,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 
 // Oktoberfest luckybox 2019
+
 31087#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

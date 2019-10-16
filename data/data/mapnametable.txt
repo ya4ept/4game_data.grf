@@ -33,8 +33,8 @@ iz_ng01.rsw#Ninja Training Grounds#
 treasure_n1.rsw#Sunken Ship - 1st Floor#
 treasure_n2.rsw#Sunken Ship - 2nd Floor#
 
-moc_prydn1.rsw#Morocc Pyramid Underground - 1st Floor (challenge)#
-moc_prydn2.rsw#Morocc Pyramid Underground - 2nd Floor (challenge)#
+moc_prydn1.rsw#Morroc Pyramid Underground - 1st Floor (challenge)#
+moc_prydn2.rsw#Morroc Pyramid Underground - 2nd Floor (challenge)#
 
 eclage.rsw#Eclage#
 ecl_fild01.rsw#Blooming Flower Land#
@@ -397,9 +397,9 @@ louyang.rsw#Louyang#
 valkyrie.rsw#Valkyrie Hall, the Hall of Honor#
 nif_in.rsw#Inside Nifflheim#
 yggdrasil01.rsw#Hvergelmir's Fountain (Trunk of Yggdrasil)#
-nif_fild02.rsw#Vally of Gyoll#
-nif_fild01.rsw#Skellington, a Solitary Village in Nifflheim#
-niflheim.rsw#Nifflheim, Realm of the Dead#
+nif_fild02.rsw#Valley of Gyoll#
+nif_fild01.rsw#Skellington#
+niflheim.rsw#Nifflheim#
 um_dun01.rsw#Carpenter's Shop in the Tree#
 um_dun02.rsw#Passage to a Foreign World#
 um_in.rsw#Inside Umbala#

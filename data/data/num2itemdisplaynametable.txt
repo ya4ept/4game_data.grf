@@ -328,7 +328,7 @@
 732#3carat Diamond#
 733#Cracked Diamond#
 734#Red Frame#
-735#Chung Jah#
+735#Blue Porcelain#
 736#China#
 737#Black Ladle#
 738#Pencil Case#
@@ -1240,7 +1240,7 @@
 7105#False Heaven Ring#
 7106#Antelope Horn#
 7107#Antelope Skin#
-7108#Piece of Shield#
+7108#Shield Piece#
 7109#Shining Spear Blade#
 7110#Broken Sword#
 7111#Slick Paper#
@@ -1352,6 +1352,7 @@
 7173#iROGM02's Backpack#
 
 // ---- Christmas items -----------
+
 7174#Wrapping Lace#
 7175#Wrapping Paper#
 664#Gift Box#
@@ -1361,9 +1362,11 @@
 7176#Royal Certificate#
 
 // ----- Luna New Year Event -----
+
 554#Mochi#
 
 // ----- Winter vacation event -----
+
 5056#Fruit of Love#
 7177#Crumb of Sobbing Starlight#
 7178#Sobbing Starlight#
@@ -1372,6 +1375,7 @@
 668#Red Envelope#
 
 // ----- New Year's Day event -----
+
 7180#Hahn Sukbong's Recommendation#
 556#Rice Cake Stick#
 557#Neatly Sliced Rice Cake#
@@ -1379,6 +1383,7 @@
 7181#Receipt#
 
 //-----added for niff
+
 7183#Letter from Sister#
 7184#Piano Key#
 7185#Quiz Entry#
@@ -1405,14 +1410,15 @@
 7204#Gunpowder#
 
 // ------ Nifflheim ------
+
 7205#Piece of Black Cloth#
 7206#Black Cat Doll#
 7207#Old Manteau#
 7208#Rusty Kitchen Knife#
-7209#Helm of Dullahan#
-7210#Armor Piece of Dullahan#
+7209#Dullahan's Helm#
+7210#Piece of Dullahan's Armor#
 7211#Fragment of Rossata Stone#
-7212#Hung Doll#
+7212#Hanged Doll#
 7213#Needle Packet#
 7214#Bat Cage#
 7215#Broken Needle#
@@ -1423,7 +1429,7 @@
 7220#Ectoplasm#
 7221#Tangled Chains#
 7222#Wooden Gnarl#
-7223#Contorted Self-Portrait#
+7223#Distorted Self-Portrait#
 7224#Stone of Sage#
 7225#Pumpkin Lantern#
 7226#Pellet#
@@ -1490,6 +1496,7 @@
 7270#Nursing Bottle#
 
 // ----- Helm-----
+
 5057#Headband#
 5058#Helm#
 5059#Helm#
@@ -1499,13 +1506,13 @@
 5063#Accessory#
 5064#Accessory#
 5065#Helm#
-5066#Helmet#
+5066#Helm#
 5067#Helm#
 5068#Accessory#
 5069#Helm#
 5070#Headband#
 5071#Headband#
-5072#Helmet#
+5072#Helm#
 5073#Helm#
 5074#Accessory#
 5075#Helm#
@@ -1538,8 +1545,8 @@
 2638#Accessory#
 2639#Accessory#
 7273#RWC Necklace#
-7274#Translated Ancient Language#
-7275#Record of Ancient Language#
+7274#Translated Message#
+7275#Message in Ancient Language#
 7276#Doodled Message#
 7277#Munak Doll#
 7278#Letter to Wife#
@@ -1596,7 +1603,7 @@
 696#Level 1 Fire Ball#
 697#Level 5 Fire Ball#
 698#Level 1 Fire Wall#
-699#Level 5 Fire Ball#
+699#Level 5 Fire Wall#
 700#Level 1 Frost Diver#
 12000#Level 5 Frost Diver#
 12001#Level 3 Heal#
@@ -1749,7 +1756,7 @@
 4273#Shell Fish Card#
 4274#Zombie Master Card#
 4275#Zombie Prisoner Card#
-4276#Lord of The Dead Card#
+4276#Lord of the Dead Card#
 4277#Zherlthsh Card#
 4278#Gibbet Card#
 4279#Earth Deleter Card#
@@ -1789,7 +1796,7 @@
 4313#Punk Card#
 4314#Penomena Card#
 4315#Pest Card#
-4316#Fake Angel Card#
+4316#False Angel Card#
 4317#Mobster Card#
 4318#Stormy Knight Card#
 4319#Freezer Card#
@@ -1816,9 +1823,9 @@
 5102#Accessory#
 2642#Accessory#
 2643#Accessory#
-7304#Witch's Spell Scroll#
+7304#Witch's Spellbook#
 7305#Symbol of the Nine Realms#
-7306#Piece of Spirit#
+7306#Soul Fragment#
 7307#Spiritual Whispers#
 7308#Witch's Tonic#
 7309#Crow Wing#
@@ -3433,7 +3440,9 @@
 
 //Morokeu Continental Guard Certificates
 7826#Continental Guard Paper#
+
 // ------------ Devil morokeu ----------------
+
 2536#Garment#
 2537#Garment#
 2728#Accessory#
@@ -3447,6 +3456,7 @@
 2433#Shoes#
 
 // ---------- Haljjak test -----------
+
 2129#Shield#
 2130#Shield#
 2131#Shield#
@@ -6172,7 +6182,7 @@
 19678#Ribbon#
 19840#Helmet#
 6499#Ancient Grudge#
-12373#Boy's Naivety#
+12373#Love Letter#
 12374#Flaming Ice#
 
 22669#HALLOWEEN G BOX#
@@ -7421,8 +7431,6 @@
 // Oktoberfest luckybox 2019
 
 31087#Costume Headgear#
-31165#Costume Headgear#
-20299#Costume Headgear#
 9701#Treasure of Oktoberfest#
 22624#Riesen Brezel#
 22625#Oktoberfest Bag#
