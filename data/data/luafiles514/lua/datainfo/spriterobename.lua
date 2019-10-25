@@ -61,7 +61,11 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag] = "C_T_Bear_Bag",
 	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move] = "Wing_Of_Angel_Move",
 	[SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail] = "C_Big_Foxtail",
-	[SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag] = "Ru_Bear_Bag"
+	[SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag] = "Ru_Bear_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon",
+	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom] = "C_Nifl_Bloom",
+	[SPRITE_ROBE_IDs.ROBE_C_Gimmick_One_Feather] = "C_Gimmick_One_Feather",
+	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -126,5 +130,27 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag] = "C_T_Bear_Bag",
 	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move] = "Wing_Of_Angel_Move",
 	[SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail] = "C_Big_Foxtail",
-	[SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag] = "Ru_Bear_Bag"
+	[SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag] = "Ru_Bear_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon",
+	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom] = "C_Nifl_Bloom",
+	[SPRITE_ROBE_IDs.ROBE_C_Gimmick_One_Feather] = "C_Gimmick_One_Feather",
+	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross"
+}
+RobeTopLayer = {
+	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
+	SPRITE_ROBE_IDs.ROBE_AMISTR_BAG,
+	SPRITE_ROBE_IDs.ROBE_BAG_OF_ANTONIO,
+	SPRITE_ROBE_IDs.ROBE_Poring_Bag,
+	SPRITE_ROBE_IDs.ROBE_EXE_Backpack,
+	SPRITE_ROBE_IDs.ROBE_Thanatos_Sword,
+	SPRITE_ROBE_IDs.ROBE_GiantCatBag,
+	SPRITE_ROBE_IDs.ROBE_BlackCatBag,
+	SPRITE_ROBE_IDs.ROBE_C_School_Bag_RD,
+	SPRITE_ROBE_IDs.ROBE_C_School_Bag_BL,
+	SPRITE_ROBE_IDs.ROBE_C_Cat_Fork,
+	SPRITE_ROBE_IDs.ROBE_Balloon_Wing,
+	SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail,
+	SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon,
+	SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag
 }

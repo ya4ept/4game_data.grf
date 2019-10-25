@@ -61,5 +61,9 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_T_Bear_Bag = 60,
 	ROBE_Wing_Of_Angel_Move = 61,
 	ROBE_C_Big_Foxtail = 62,
-	ROBE_Ru_Bear_Bag = 63
+	ROBE_Ru_Bear_Bag = 63,
+	ROBE_C_Loli_Ruri_Moon = 64,
+	ROBE_C_Nifl_Bloom = 65,
+	ROBE_C_Gimmick_One_Feather = 66,
+	ROBE_C_Evil_Druid_Cross = 67
 }
