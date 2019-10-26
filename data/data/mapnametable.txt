@@ -395,11 +395,11 @@ lou_dun01.rsw#The Royal Tomb#
 lou_fild01.rsw#Louyang Field#
 louyang.rsw#Louyang#
 valkyrie.rsw#Valkyrie Hall, the Hall of Honor#
-nif_in.rsw#Inside Nifflheim#
+nif_in.rsw#Inside Niflheim#
 yggdrasil01.rsw#Hvergelmir's Fountain (Trunk of Yggdrasil)#
 nif_fild02.rsw#Valley of Gyoll#
 nif_fild01.rsw#Skellington#
-niflheim.rsw#Nifflheim#
+niflheim.rsw#Niflheim#
 um_dun01.rsw#Carpenter's Shop in the Tree#
 um_dun02.rsw#Passage to a Foreign World#
 um_in.rsw#Inside Umbala#

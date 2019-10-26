@@ -542,7 +542,7 @@
 1093#Empty Potion Bottle#
 501#Red Potion#
 502#Orange Potion#
-503#Yellow potion#
+503#Yellow Potion#
 504#White Potion#
 505#Blue Potion#
 506#Green Potion#
@@ -1067,6 +1067,7 @@
 539#Piece of Cake#
 
 // ---- Ep 3.0 Comodo ----------------
+
 7038#Yarn#
 7039#Novice Nametag#
 7040#Megaphone#
@@ -1301,13 +1302,16 @@
 2414#Shoes#
 2510#Garment#
 2352#Armor#
+
 // ---- Ragnarok P2P 1 year celebration ----------------
+
 2631#Ring#
 7146#Vacation Ticket#
 7147#Jasmine#
 7148#Mother's Letter#
 
 // ---- Amatsu- 01 ----------------
+
 663#Songpyun#
 7149#Yellow Plate#
 7150#Piece of Bamboo#
@@ -1331,6 +1335,7 @@
 573#Chocolate Drink#
 
 // ----Kunlun items - 01 -----------
+
 552#Ketupat#
 553#Bao#
 7161#Black Bear Skin#
@@ -1409,7 +1414,7 @@
 7203#Strong Branch#
 7204#Gunpowder#
 
-// ------ Nifflheim ------
+// ------ Niflheim ------
 
 7205#Piece of Black Cloth#
 7206#Black Cat Doll#
@@ -1424,11 +1429,11 @@
 7215#Broken Needle#
 7216#Red Muffler#
 7217#Spool#
-7218#Decomposed Rope#
-7219#Striped Sock#
+7218#Rotten Rope#
+7219#Striped Socks#
 7220#Ectoplasm#
 7221#Tangled Chains#
-7222#Wooden Gnarl#
+7222#Tree Gnarl#
 7223#Distorted Self-Portrait#
 7224#Stone of Sage#
 7225#Pumpkin Lantern#
@@ -1547,7 +1552,7 @@
 7273#RWC Necklace#
 7274#Translated Message#
 7275#Message in Ancient Language#
-7276#Doodled Message#
+7276#Doodle Message#
 7277#Munak Doll#
 7278#Letter to Wife#
 565#Vita500#
@@ -1689,7 +1694,7 @@
 4206#Myst Case Card#
 4207#Mysteltainn Card#
 4208#Miyabi Doll Card#
-4209#Violi Card#
+4209#Violy Card#
 4210#Wander Man Card#
 4211#Vocal Card#
 4212#Bongun Card#
@@ -1825,14 +1830,14 @@
 2643#Accessory#
 7304#Witch's Spellbook#
 7305#Symbol of the Nine Realms#
-7306#Soul Fragment#
-7307#Spiritual Whispers#
+7306#Soul Shard#
+7307#Whispering Crystal#
 7308#Witch's Tonic#
 7309#Crow Wing#
 12020#Cursed Water#
 7313#Witch's Medal#
 7314#The Sign#
-2644#The Sign #
+2644#Accessory#
 7310#Free Ticket for Peco Ride#
 7311#Free Ticket for Flyship#
 7312#Jubilee#
@@ -2137,7 +2142,7 @@
 12087#Steam Crocodile#
 12088#Spicy Curry#
 12089#Special Sausage#
-12090#Steam Scorpion#
+12090#Steamed Scorpion#
 12091#Peach Cake#
 12092#Soul Bread#
 12093#Special Toast#
@@ -3431,7 +3436,9 @@
 12273#Military Ration C#
 13859#Directive Envelope A#
 13860#Directive Envelope B#
+
 // ------------ Memorial Dungeon compensation system ----------------
+
 13412#One-handed Sword#
 13413#One-handed Sword#
 1636#Staff#
@@ -3484,19 +3491,24 @@
 1737#Bow#
 1181#Two-handed Sword#
 1182#Two-handed Sword#
+
 // ------------- Battlefield insignia ---------------
+
 7828#Bravery Badge#
 7829#Valor Badge#
 
 // -------- Temple sealed items ------------
+
 6001#Essence of Fire#
 6002#Token of Apostle#
 6003#Pendant of Spirit#
 
 // ----------------- Enchanted Doll bapometeu horsepower -----------------
+
 6004#Cursed Baphomet Doll#
 
 // ------------------- 12.1 Quest Items ----------------------
+
 7798#Fragment of Darkness#
 7799#Crystal of Darkness#
 // --------------- Philly self-produced editions Helm 7 Bell -------------
@@ -3583,7 +3595,7 @@
 
 // ---------- 2008. 09. 30. Cah item update ----------
 
-5305#Glasses#
+5305#Accessory#
 
 // ---------- 2008 Poring War ----------
 
@@ -5231,7 +5243,7 @@
 5572#Savage Baby Hat#
 12361#Delicious Shaved Ice#
 12363#Fit Pipe#
-12370#Gril's Naivety#
+12370#Girl's Love Letter#
 6116#Succubus Pet Coupon#
 6117#Imp Pet Coupon#
 6118#Chung E Pet Coupon#
@@ -6182,7 +6194,7 @@
 19678#Ribbon#
 19840#Helmet#
 6499#Ancient Grudge#
-12373#Love Letter#
+12373#Boy's Love Letter#
 12374#Flaming Ice#
 
 22669#HALLOWEEN G BOX#
@@ -7468,3 +7480,16 @@
 31134#Cap#
 20147#Cap#
 9707#Pirate's Treasure Chest#
+
+31160#Cap#
+
+2136#Shield#
+2392#Armor#
+2442#Footwear#
+2547#Garment#
+5408#Headband#
+12314#Newbie Box#
+
+20036#Helmet#
+7720#Arena Coin#
+

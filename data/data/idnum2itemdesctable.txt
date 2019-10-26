@@ -141,7 +141,6 @@ Weight: 2
 ^FFFFFF_^000000
 Restores ^00800018^000000 to ^00800020^000000 HP.
 #
-
 516#
 ^808080A tuber that can be fried, baked, boiled mashed, even eaten.^000000
 ^FFFFFF_^000000
@@ -151,17 +150,12 @@ Weight: 2
 ^FFFFFF_^000000
 Restores ^00800015^000000 to ^00800023^000000 HP.
 #
-
 517#
-^808080A leg of meat that's been cooked to near perfection.^000000
+A chunk of meat that's been cooked to near perfection.
+Restores ^00800070-100 HP^000000.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 15
-^FFFFFF_^000000
-Restores ^00800070^000000 to ^008000100^000000 HP.
+Weight: ^77777715^000000
 #
-
 518#
 ^808080A sweet product made by bees that is endowed with yummy flavor and medicinal uses.^000000
 ^FFFFFF_^000000
@@ -171,7 +165,6 @@ Weight: 10
 ^FFFFFF_^000000
 Restores ^00800070^000000 to ^008000100^000000 HP and ^00800020^000000 to ^00800040^000000 SP.
 #
-
 519#
 ^808080Pasteurized and bottled cow milk that is chock full of bovine goodness.^000000
 ^FFFFFF_^000000
@@ -441,7 +434,7 @@ Restores ^00800010^000000 to ^00800015^000000 SP.
 A kind of plant root used as food. It's advised to eat it slowly with water, or to bake it beforehand.
 Restores ^00800050-100 HP^000000.
 ^FFFFFF_^000000
-Weight: :7777778^000000
+Weight: ^7777778^000000
 #
 550#
 ^808080A snack made out of rice that doesn't contain any fat. Some women love having this snack.^000000
@@ -558,7 +551,7 @@ Restores ^008000142^000000 to ^008000274^000000 HP.
 #
 566#
 One of the three most famous kinds of soup in the world. It is cooked with shrimp, lemons, and chilies, and has a spicy, sweet and sour taste.
-Restores ^008000142-274 HP^000000 and ^00800010-30 SP^000000.
+Restores ^008000244-350 HP^000000 and ^00800010-30 SP^000000.
 ^FFFFFF_^000000
 Weight: ^77777715^000000
 #
@@ -3018,49 +3011,41 @@ Weight: 3
 ^FFFFFF_^000000
 Weight: 3
 #
-
 1090#
 ^808080A test tube that contains an unidentified substance.^000000
 ^FFFFFF_^000000
 Weight: 3
 #
-
 1091#
 ^808080A small, wooden box marked with the word 'Fragile.'^000000
 ^FFFFFF_^000000
 Weight: 120
 #
-
 1092#
 ^808080An empty test tube that can be used to contain some kind of solution.^000000
 ^FFFFFF_^000000
 Weight: 2
 #
-
 1093#
-^808080An empty bottle that can be used to contain potions.^000000
+An empty bottle that is used for containing potions.
 ^FFFFFF_^000000
-Weight: 1
+Weight: ^7777771^000000
 #
-
 1094#
 ^808080A short lock of braided hair.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
-
 1095#
 ^808080A set of hands taken from the face of a clock.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
-
 1096#
 ^808080A round shell that looks like it has been rolled up.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
-
 1097#
 ^808080A worn, tattered page torn from an old book.^000000
 ^FFFFFF_^000000
@@ -4198,12 +4183,12 @@ Jobs: ^777777Transcendent Swordsman^000000
 1182#
 A magical sword that releases a dismal black aura.
 HP +100 when killing a monster with a melee attack
-With a low chance, Crit +100 for 5 sec. after a physical attack
+With a low chance, Critical +100, Atk +50 for 5 sec. after a physical attack
 Class: ^777777Two-handed Sword^000000
 Property: ^777777Ghost^000000
 Attack: ^777777200^000000    Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
-Required Level: ^77777780^000000
+Required Level: ^77777750^000000
 Jobs: ^777777Transcendent Swordsman^000000
 #
 1183#
@@ -4816,7 +4801,7 @@ Increases physical damage taken from Demon race targets by 10%.
 1229#
 A domestic knife used by housewives for cooking.
 Critical +30
-50% chance of obtaining ^008080Meat^000000 when killing a Brute monster
+50% chance of obtaining ^008080Meat^000000 when killing an Animal monster
 Class: ^777777Dagger^000000
 Property: ^777777Neutral^000000
 Attack: ^77777775^000000    Weight: ^77777750^000000
@@ -4895,7 +4880,6 @@ Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^
 #
 1235#
 A dagger that symbolizes the potential of alchemy.
-Low chance to transform Normal monsters after a physical attack
 Class: ^777777Dagger^000000
 Property: ^777777Neutral^000000
 Attack: ^777777110^000000    Weight: ^77777770^000000
@@ -9356,7 +9340,6 @@ STR + 10
 MATK + 100
 Consumes 2 SP with each physical attack.
 #
-
 1614#
 ^808080A shamanic wand topped with a goat's skull that enhances magic attack power.^000000
 ^FFFFFF_^000000
@@ -9371,7 +9354,6 @@ Required Job: Mage Jobs, Acolyte Jobs, and Soul Linker
 INT + 3
 MATK + 105
 #
-
 1615#
 A wand made of a human bone. It is possessed by evil spirits.
 Int +4
@@ -9732,13 +9714,9 @@ This item is indestructible in battle.
 1636#
 A staff covered with thorns and imbued with dark magic.
 Int/Dex +3
-MATK +160
+Matk +160
 Skill cooldown -3% per 2 upgrade levels
-Ignores 1% of enemy's MDEF per upgrade level after a magic attack
-[^800080Set Bonus with Skull Cap [1]^000000]
-MATK +10 per staff's upgrade level
-[If staff's upgrade level is +10 and higher]
-Cast Time -10%
+Ignores 1% of enemy's Mdef per upgrade level after a magic attack
 Class: ^777777One-handed Staff^000000
 Property: ^777777Shadow^000000
 Attack: ^77777760^000000    Weight: ^77777770^000000
@@ -13625,19 +13603,9 @@ Weight: ^77777780^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Stalker^000000
 #
-2136#
-A cracked shield used for the October Upgrading Event.
-All stats -5
-Equip and let 'Spooky Machine' upgrade it to give you prizes.
-^FF0000Warning: If this item is refined with normal methods i.e. Elunium, the Spooky Machine will not take those levels into consideration when giving out prizes^000000
-Will Disappear ^00CC00November 1st^000000
-Class: ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^777777100^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
+
 //--------------------------------------------------------------------------
+
 2138#
 A heavy and strong shield made out of Bradium.
 MaxHP + 500, Agi -1.
@@ -18094,7 +18062,7 @@ Jobs: ^777777All^000000
 A captivatingly beautiful artifact given by the gods to a chosen warrior. However, it seems to be more than just an emblem that grants entrance to Valhalla...
 Atk/Matk +5%
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -20956,8 +20924,8 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4074#
-Reduce damage from
-Insect monsters by 30%. Class: ^777777Card^000000
+Damage from Insect monsters -30%
+Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
@@ -21070,8 +21038,9 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4089#
-Enchant an Armor with
-the ^6996ADWater^000000 property. DEF +1 Class: ^777777Card^000000
+Imbue armor with ^6996ADWater^000000 property
+Def +1
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -21683,7 +21652,7 @@ Weight: ^7777771^000000
 #
 4166#
 Chance to inflict Curse on an enemy when receiving physical damage
-[If used with Nightmare card]
+[If used with Nightmare Card]
 Increases the chance to inflict Curse.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
@@ -21730,7 +21699,7 @@ Weight: ^7777771^000000
 4172#
 Critical damage +20%
 SP -1 after an attack
-[If used with Wanderer Card, Wild Rose Card, Shinobi Card, and Dancing Dragon Card]
+[If used with Wanderer, Wild Rose, Shinobi, and Dancing Dragon Cards]
 Auto-Snatch disabled
 Aspd/movement speed +5%
 Str/Agi +5
@@ -21778,7 +21747,7 @@ Weight: ^7777771^000000
 Agi +1
 Flee +10
 Double Strafe and Arrow Shower damage +5%
-[If used with Cruiser Card, Anolian Card, Alligator Card, and Merman Card]
+[If used with Cruiser, Anolian, Alligator, and Merman Cards]
 Ranged attack damage +20%
 Agi +5
 Dex +3
@@ -21786,7 +21755,7 @@ Seeking Attack +20%
 [If the set is used by Archer class]
 A low chance of auto casting Coma on Animal monsters after an attack
 Exp from Animal monsters +5%
-[If used with Cruiser Card, Anolian Card, Alligator Card, and Green Ferus Card]
+[If used with Cruiser, Anolian, Alligator, and Green Ferus Cards]
 Dex +5
 Arrow Vulcan damage +5%
 Melody Strike damage +10%
@@ -21846,14 +21815,14 @@ Int +1
 [If used by Acolyte class]
 Int +1
 Mdef +1
-[If used with Cookie Card, Fur Seal Card, Geographer Card, and Enchanted Peach Tree Card]
+[If used with Cookie, Fur Seal, Geographer, and Enchanted Peach Tree Cards]
 Vit +10
 Casting time -10%
 SP consumption -10%
 [If the set is used by Acolyte class]
 Damage from Undead and Demon monsters -30%
 Exp from Undead and Demon monsters +5%
-[If used with Cookie Card, Fur Seal Card, and Waste Stove Card]
+[If used with Cookie, Fur Seal, and Waste Stove Cards]
 Str +3
 Max SP +80
 Atk +25
@@ -21868,14 +21837,14 @@ Weight: ^7777771^000000
 #
 4186#
 Str/Vit +1
-[If used with Zipper Bear Card, Baby Leopard Card, Myst Case Card, and Hylozoist Card]
+[If used with Zipper Bear, Baby Leopard, Myst Case, and Hylozoist Cards]
 Luk +10
 Mammonite damage +20%
 SP +2 per attack
 [If the set is used by Merchant class]
 20% chance of reflecting magic spells
 A chance of obtaining Old Purple Box when killing a monster
-[If used with Zipper Bear Card, Baby Leopard Card, Muka Card, and Holden Card]
+[If used with Zipper Bear, Baby Leopard, Muka, and Holden Cards]
 Str +4
 Mammonite damage +20%
 SP +1 per attack
@@ -21914,7 +21883,7 @@ Weight: ^7777771^000000
 #
 4191#
 A chance of auto casting Heal 3 on oneself when receiving physical damage
-[If used with Parasite Card, Miyabi Doll Card, Evil Nymph Card, Harpy Card, and Bloody Butterfly Card]
+[If used with Parasite, Miyabi Doll, Evil Nymph, Harpy, and Bloody Butterfly Cards]
 Max HP +500
 Def/Mdef +5
 Cold/Fire/Lightning Bolt damage +10%
@@ -21937,6 +21906,7 @@ Weight: ^7777771^000000
 20% chance of auto casting Endure 1 on oneself when receiving physical damage
 [If used with Quve Card]
 Max HP +300
+Max SP +60
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -21978,7 +21948,7 @@ Weight: ^7777771^000000
 #
 4199#
 HP/SP recovery rate +10%
-[If used with Cruiser Card, Anolian Card, Alligator Card, and Dragon Tail Card]
+[If used with Cruiser, Anolian, Alligator, and Dragon Tail Cards]
 Ranged attack damage +20%
 Agi +5
 Dex +3
@@ -22079,83 +22049,48 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4210#
-Wanderer Card.
-Add the chance of 
-auto casting level 1 
-Snatch on an enemy when 
-doing Physical Attack.
-If worn by Thief Class 
-characters, it adds 
-Flee +20.
-^6A5ACDThief Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Dancing Dragon Card^000000
-^3CB371The Paper Card^000000
-Agi +5
-Str +5
-ASPD +5%
-+1 SP per attack
-Disable the Auto-Snatch 
-ability of the 
-Wanderer Card
-^6A5ACDThief Class Bonus:^000000 
-No Gemstones required to 
-use certain skills.
-^6A5ACDRogue Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Stainer Card^000000
-^3CB371Wickebine Tres Card^000000
+A chance of auto casting Snatch 1 on an enemy after a physical attack
+^6A5ACD[If used by Thief class]^000000
+Flee +20
+^6A5ACD[If used with Wild Rose, Shinobi, Dancing Dragon, and The Paper Cards]^000000
+Str/Agi +5
+Aspd +5%
+SP +1 per attack
+Auto-Snatch ability of the Wanderer Card disabled
+^6A5ACD[If the set is used by Thief class]^000000
+Skills can be used without Gemstones.
+^6A5ACD[If used with Wild Rose, Shinobi, Stainer, and Wickebine Tres Cards]^000000
 Str +6
 Agi +4
-Backstab Damage +10%
-A chance of auto casting
-level 5 Strip Armor 
-if level 5 Strip Armor is 
-learned.
-^6A5ACDRogue Class Bonus:^000000
--20% SP Consumption
-Disables the Auto-Snatch
-ability of the 
-Wanderer Card.
+Backstab damage +10%
+A chance of auto casting Strip Armor 5 (if learned)
+^6A5ACD[If the set is used by Rogue class]^000000
+SP Consumption -20%
+Auto-Snatch ability of the Wanderer Card disabled
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4211#
-Vocal Card.
-MDEF +3.
-If the user is equipped with an item compounded to the Rocker card,
-it adds Flee +18.
+Mdef +3
+^6A5ACD[If used with Rocker Card]^000000
+Flee +18
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4212#
-Bongun Card.
-Add the chance of auto 
-casting level 1 Bash on 
-an enemy when doing 
-Physical Attack.
-The Bash skill shoves 
-the enemy 5 cells back.
-Receive 100% more damage 
-from Munak.
-^6A5ACDTragic Trio Card Set^000000
-^3CB371Munak Card^000000
-^3CB371Bongun Card^000000
-^3CB371Yao Jun Card^000000
-All Stats +1
+A chance of auto casting Bash 1 on an enemy after a physical attack
+The Bash skill shoves the enemy 5 cells back.
+Damage from Munak +100%
+^6A5ACD[If used with Munak and Hyegun Card]^000000
+All stats +1
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4213#
-Brilight Card.
-Add the chance of auto casting 'Mute' on an enemy when the user receives Physical Damage.
+A chance of inflicting Silence on an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -22168,15 +22103,13 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4215#
-Blazzer Card.
-Add the chance of gaining a Food item each time a monster is killed.
+A chance of obtaining a Food item when killing a monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4216#
-Sasquatch Card.
-Add the chance of freezing an enemy when the user receives Physical Damage.
+A chance of freezing an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -22208,160 +22141,110 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4219#
-Sage Worm Card.
-Add the chance of gaining a Gemstone item each time a monster is killed.
+A chance of obtaining a Gemstone when killing a monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4220#
-Solider Card.
-DEF +2, MDEF +2.
-^6A5ACDSwordsman Card Set^000000
-^3CB371Assaulter Card^000000
-^3CB371Permeter Card^000000
-^3CB371Solider Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Set Bonus: A chance to cast 
-level 1 Weapon Perfection 
-when attacking.
-HP Regen +50%
-A chance of gaining 
-'Red Potion' 
-each time a monster is killed.
+Def/Mdef +2
+^6A5ACD[If used with Assaulter, Permeter, Freezer, and Heater Cards]^000000
+A chance of auto casting Weapon Perfection 1 after a physical attack
+HP recovery rate +50%
+A chance of obtaining Red Potion when killing a monster
 Max HP +20%
 Str +10
-Swordsman Class:
-+50% HP Restoration 
-when using Red, Yellow, 
-and White Potions.
+^6A5ACD[If used by Swordsman class]^000000
+Red, Yellow, and White Potion restore 50% more HP.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4221#
-Skeleton General Card.
-Receive 10% more Experience Points from Insect monsters.
-Receive 20% more damage from Insect monsters.
+Exp from Insect monsters +10%
+Damage from Insect monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4222#
-Skel Prisoner Card.
-Add the chance of auto casting 'Sleep' on an enemy when the user receives Physical Damage.
-The chance of casting 'Sleep' is increased if the user is equipped with an item compounded to the Skeleton card.
+A chance of inflicting Sleep on an enemy when receiving physical damage
+^6A5ACD[If used with Skeleton Card]^000000
+The chance of Sleep is increased.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4223#
-Stalactic Golem Card.
-Add 20% more tolerance against Stun. DEF +1
+Resistance to Stun +20%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4224#
-Stem Worm Card.
-Add the chance of gaining 'Shower' item each time a Brute monster is killed.
+A chance of obtaining Box of Storm when killing an Animal monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4225#
-Stone Shooter Card.
-Hit +10, ATK +10.
+Hit +10
+Atk +10
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4226#
-Sting Card.
-DEF +2, MDEF +5 if the shield is upgraded up to +9 or higher.
+^6A5ACD[If upgraded to +9 and higher]^000000
+Def +2
+Mdef +5
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4227#
-Spring Rabbit Card.
-Add the chance of gaining 'Meat or Monster's Feed' item each time a Brute monster is killed.
+A chance of obtaining Meat or Monster's Feed when killing an Animal monster
 Meat and Monster's Feed restore 50% more HP.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4228#
-Sleeper Card.
-Add the chance of gaining 'ZZZ' item each time a Fish or Shellfish monster is killed.
+A chance of obtaining Sleepy Box when killing a Fish or Shellfish monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4229#
-Tower Keeper Card.
-Int +1, after using skill Reduce Skill Interval by 5%.
-^6A5ACDClocktower Card Set^000000
-^3CB371Tower Keeper Card^000000
-^3CB371Punk Card^000000
-^3CB371Alarm Card^000000
-^3CB371Clock Card^000000
-DEF +3
-MDEF +3
+Int +1
+Casting time -5%
+^6A5ACD[If used with Punk, Alarm, and Clock Cards]^000000
+Def/Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4230#
-Shinobi Card.
-Agi +1.
-Add the chance of 
-auto casting level 5 
-Cloaking on the user when 
-receiving Physical Damage.
-If the user has not 
-learned level 3 or higher 
-Cloaking skill or if 
-the user is not 
-an Assassin, this card 
-allows the user to use 
-the skill only when being 
-near to a wall.
-^6A5ACDThief Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Dancing Dragon Card^000000
-^3CB371The Paper Card^000000
-Agi +5
-Str +5
-ASPD +5%
-+1 SP per attack
-Disable the Auto-Snatch 
-ability of the 
-Wanderer Card
-^6A5ACDThief Class Bonus:^000000 
-No Gemstones required to 
-use certain skills.
-^6A5ACDRogue Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Stainer Card^000000
-^3CB371Wickebine Tres Card^000000
+Agi +1
+A chance of auto casting Cloaking 5 on the user when receiving physical damage
+^6A5ACD[If Cloaking is Lv. 3 or lower (or not available at all)]^000000
+The auto-casted skill can be used only near walls
+^6A5ACD[If used with Wanderer, Wild Rose, Dancing Dragon, and The Paper Cards]^000000
+Str/Agi +5
+Aspd +5%
+SP +1 per attack
+The Auto-Snatch ability of Wanderer Card is disabled.
+^6A5ACD[If the set is used by Thief class]^000000
+Skills can be used without Gemstones.
+^6A5ACD[If used with Wanderer, Wild Rose, Stainer, and Wickebine Tres Cards]^000000
 Str +6
 Agi +4
-Backstab Damage +10%
-A chance of auto casting
-level 5 Strip Armor 
-if level 5 Strip Armor is 
-learned.
-^6A5ACDRogue Class Bonus:^000000
--20% SP Consumption
-Disables the Auto-Snatch
-ability of the 
-Wanderer Card.
+Backstab damage +10%
+A chance of auto casting Strip Armor 5 (if learned)
+^6A5ACD[If the set is used by Rogue class]^000000
+SP Consumption -20%
+The Auto-Snatch ability of Wanderer Card is disabled.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -22403,339 +22286,230 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4234#
-Anolian Card.
-Add the chance of 
-auto casting level 1 
-Improve Concentration on 
-the user when receiving 
-Physical Damage.
-If the user has mastered 
-the skill at level 10, 
-it will cast level 10 
-Improve Concentration.
-^6A5ACDHunter Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Merman Card^000000
-+20% Ranged Attack Damage
+A chance of auto casting Improve Concentration 1 on the user when receiving physical damage
+If the skill is level 10, it will be cast instead.
+^6A5ACD[If used with Cruiser, Alligator, Dragon Tail, and Merman Cards]^000000
+Ranged attack damage +20%
 Agi +5
 Dex +3
-+20% Seeking Attack 
-(which never miss its target)
-^6A5ACDArcher Class Bonus:^000000
-A low chance of 
-auto casting Coma on 
-Brute class monsters 
-when attacking.
-+5% EXP from 
-Brute class monsters.
-^6A5ACDBard/Dancer Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Green Ferus Card^000000
+Seeking attack +20%
+^6A5ACD[If the set is used by Archer class]^000000
+A low chance of inflicting Coma on Animal monsters after an attack
+Exp from Animal monsters +5% EXP
+^6A5ACD[If used with Cruiser, Alligator, Dragon Tail, and Green Ferus Cards]^000000
 Dex +5
-+5% Arrow Vulcan Damage
-+10% Melody Strike Damage 
-+10% Slinging Arrow Damage
-^6A5ACDBard or Dancer Class Bonus:^000000
-A low chance of 
-auto casting
-level 2 Tarot Card of Fate 
-when hit by a melee attack.
+Arrow Vulcan damage +5%
+Melody Strike damage +10%
+Slinging Arrow damage +10%
+^6A5ACD[If the set is used by Bard/Dancer class]^000000
+A low chance of auto casting Tarot Card of Fate 2 when hit by a melee attack
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4235#
-Christmas Cookie Card.
-Receive 10% more Experience Points from Angel monsters.
-Receive 20% more damage from Angel monsters.
+Exp from Angel monsters +10%
+Damage from Angel monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4236#
-Amon Ra Card.
-All Stats +1.
-Add the chance of casting level 10 Kyrie Eleison around the user when reciving Physical Damage.
-The chance of casting the skill is increased if the user has 99 INT points.
+All stats +1
+A chance of auto casting Kyrie Eleison 10 around the user when receiving physical damage
+^6A5ACD[If Int = 99]^000000
+The chance of auto casting the skill is increased.
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4237#
-Owl Duke Card.
-Add the chance of auto casting level 3 Impositio Manus on the user when doing Physical Attack.
-If the user is equipped with an item compounded to the Owl Baron card,
-it adds the chance of auto casting level 5 Lightning Bolt on an enemy when doing Physical Attack.
+A chance of auto casting Impositio Manus 3 on the user after a physical attack
+^6A5ACD[If used with Owl Baron Card]^000000
+A chance of auto casting Lightning Bolt 5 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4238#
-Owl Baron Card.
-Add the chance of auto casting level 1 Lex Aeterna on an enemy when doing Physical Attack.
+A chance of auto casting Lex Aeterna 1 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4239#
-Iron Fist Card.
-Receive 10% more Experience Points from Formless monsters.
-Receive 20% more damge from Formless monsters.
+Exp from Formless monsters +10%
+Damage from Formless monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4240#
-Arclouze Card.
-DEF +2 and MDEF +3 if the shield is upgraded no higher than +5.
+^6A5ACD[If the shield is refined no higher than +5]^000000
+Def +2
+Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4241#
-Arc Angeling Card.
-Max HP +300.
-Increase HP/SP Recovery by 100%, if the user has 77 or more LUK points.
+Max HP +300
+^6A5ACD[If Luk > 76]^000000
+HP/SP recovery rate +100%
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4242#
-Apocalipse Card.
-Vit +2.
-Max HP +800 if the armor is upgraded up to +9 or higher.
+Vit +2
+^6A5ACD[If the armor is refined to +9 or higher]^000000
+Max HP +800
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4243#
-Antonio Card.
-Has a high chance of casting level 1 Teleport on the user when taken Physical Damage.
+A high chance of auto casting Teleport 1 on the user when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4244#
-Alarm Card.
-Add the chance of auto 
-casting level 1 Sight 
-around the user when 
-receiving Physical Damage.
-Max HP +300, Vit +1.
-^6A5ACDClocktower Card Set^000000
-^3CB371Tower Keeper Card^000000
-^3CB371Punk Card^000000
-^3CB371Alarm Card^000000
-^3CB371Clock Card^000000
-DEF +3
-MDEF +3
+A chance of auto casting Sight 1 around the user when receiving physical damage
+Max HP +300
+Vit +1
+^6A5ACD[If used with Tower Keeper, Punk, and Clock Cards]^000000
+Def/Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4245#
-Am Mut Card.
-Receive 10% more Experience Points from Demi Human monsters.
-Receive 20% more damage from Demi Human monsters.
+Exp from Demihuman monsters +10%
+Damage from Demihuman monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4246#
-Assaulter Card.
-Inflict 10% more damage 
-with Critical Attack.
-Critical +7 on 
-Demi Human monsters.
-^6A5ACDSwordsman Card Set^000000
-^3CB371Assaulter Card^000000
-^3CB371Permeter Card^000000
-^3CB371Solider Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Set Bonus: A chance to cast 
-level 1 Weapon Perfection 
-when attacking.
-HP Regen +50%
-A chance of gaining 
-'Red Potion' 
-each time a monster is killed.
+Critical damage +10%
+Critical +7 on Demihuman monsters
+^6A5ACD[If used with Permeter, Solider, Freezer, and Heater Cards]^000000
+A chance of auto casting Weapon Perfection 1 after an attack
+HP recovery rate +50%
+A chance of obtaining Red Potion when killing a monster
 Max HP +20%
 Str +10
-Swordsman Class:
-+50% HP Restoration 
-when using Red, Yellow, 
-and White Potions.
+^6A5ACD[If the set is used by Swordsman class]^000000
+Red, Yellow, and White Potions restore 50% more HP.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4247#
-Aster Card.
-Inflict 30% more damage on Shell Fishes.
-ATK +5.
-^6A5ACDBeach Card Set^000000
-^3CB371Shell Fish Card^000000
-^3CB371Crab Card^000000
-^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000 
-Property monsters
-30% chance of Gaining 
-'Raw Fish'  each time 
-a Fish Monster is killed.
+Damage to Shell Fish +30%
+Atk +5
+^6A5ACD[If used with Shell Fish and Crab Cards]^000000
+Damage to Water monsters +30%
+30% chance of obtaining Raw Fish when killing a Fish monster
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4248#
-Ancient Mummy Card.
-Add the chance of auto casting level 5 Signum Crucis on an enemy when the user receives Physical Damage.
-If the user is equipped with an item compounded to the Mummy card,
-it adds Seeking Attack (which never miss its target) +20. 
+A chance of auto casting Signum Crucis 5 on an enemy when receiving physical damage
+^6A5ACD[If used with Mummy Card]^000000
+Seeking attack +20
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4249#
-Ancient Worm Card.
-Receive 10% more Experience Points from Devil monsters.
-Receive 20% more damage from Devil monsters.
+Exp from Devil monsters +10%
+Damage from Devil monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4250#
-Executioner Card.
-Receive 25% less damage from large size monsters.
-DEF +1.
+Damage from large monsters -25%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4251#
-Elder Card.
-Inflict 40% more damage on Guardians during World of Emperium hours.
+Damage to Guardians +40% during WoE
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4252#
-Alligator Card.
-Receive 5% less damage 
-from Long Ranged 
-Physical Attack.
-^6A5ACDHunter Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Merman Card^000000
-+20% Ranged Attack Damage
+Damage from ranged attacks -5%
+^6A5ACD[If used with Cruiser, Anolian, Dragon Tail, and Merman Cards]^000000
+Ranged attack damage +20%
 Agi +5
 Dex +3
-+20% Seeking Attack 
-(which never miss its target)
-^6A5ACDArcher Class Bonus:^000000
-A low chance of 
-auto casting Coma on 
-Brute class monsters 
-when attacking.
-+5% EXP from 
-Brute class monsters.
-^6A5ACDBard/Dancer Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Green Ferus Card^000000
+Seeking attack +20%
+^6A5ACD[If the set is used by Archer class]^000000
+A low chance of inflicting Coma on Animal monsters after an attack
+Exp from Animal monsters +5%
+^6A5ACD[If used with Cruiser, Anolian, Dragon Tail, and Green Ferus Cards]^000000
 Dex +5
-+5% Arrow Vulcan Damage
-+10% Melody Strike Damage 
-+10% Slinging Arrow Damage
-^6A5ACDBard or Dancer Class Bonus:^000000
-A low chance of 
-auto casting
-level 2 Tarot Card of Fate 
-when hit by a melee attack.
+Arrow Vulcan damage +5%
+Melody Strike damage +10%
+Slinging Arrow damage +10%
+^6A5ACD[If the set is used by Bard/Dancer class]^000000
+A low chance of auto casting Tarot Card of Fate 2 when hit by a melee attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4253#
-Alice Card.
-Receive 40% less damage from Boss monsters.
-Receive 40% more damage from normal monsters.
+Damage from Boss monsters -40%
+Damage from normal monsters +40%
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4254#
-Ogretooth Card.
-Receive 25% less damage from medium size monsters.
-DEF +1.
+Damage from medium monsters -25%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4255#
-Orc Lady Card.
-Inflict 30% more damage on Every Orc except Orc Lord and Orc Hero.
+Damage to Orcs +30% (except Orc Lord and Orc Hero)
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4256#
-Orc Archer Card.
-Add the chance of gaining 'Orc's Breath' item each time a Demi Human monster is killed.
+A chance of obtaining Painting Box when killing a Demihuman monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4257#
-Wild Rose Card.
-Agi +1.
-Perfect Dodge +5 if worn 
-by Thief Class characters.
-^6A5ACDThief Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Dancing Dragon Card^000000
-^3CB371The Paper Card^000000
-Agi +5
-Str +5
-ASPD +5%
-+1 SP per attack
-Disable the Auto-Snatch 
-ability of the 
-Wanderer Card
-^6A5ACDThief Class Bonus:^000000
-No Gemstones required to 
-use certain skills.
-^6A5ACDRogue Card Set^000000
-^3CB371Wanderer Card^000000
-^3CB371Wild Rose Card^000000
-^3CB371Shinobi Card^000000
-^3CB371Stainer Card^000000
-^3CB371Wickebine Tres Card^000000
+Agi +1
+^6A5ACD[If used by Thief class]^000000
+Perfect Dodge +5
+^6A5ACD[If used with Wanderer, Shinobi, Dancing Dragon, and The Paper Cards]^000000
+Str/Agi +5
+Aspd +5%
+SP +1 per attack
+Disable the Auto-Snatch ability of the Wanderer Card
+^6A5ACD[If the set is used by Thief class]^000000
+Skills can be used without Gemstones.
+^6A5ACD[If used with Wanderer, Shinobi, Stainer, and Wickebine Tres Cards]^000000
 Str +6
 Agi +4
-Backstab Damage +10%
-A chance of auto casting
-level 5 Strip Armor 
-if level 5 Strip Armor is 
-learned.
-^6A5ACDRogue Class Bonus:^000000
--20% SP Consumption
-Disables the Auto-Snatch
-ability of the 
-Wanderer Card.
+Backstab damage +10%
+A chance of auto casting Strip Armor 5 (if learned)
+^6A5ACD[If the set is used by Rogue class]^000000
+SP consumption -20%
+Disable the Auto-Snatch ability of the Wanderer Card
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -22763,25 +22537,22 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4259#
-Wooden Golem Card.
-Increase HP Recovery by 30%,
-DEF +1.
+HP recovery rate +30%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4260#
-Wootan Shooter Card.
-Add 20% more tolerance against Chaos.
-DEF +1.
+Resistance to Chaos +20%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4261#
-Wootan Fighter Card.
-Add 20% more tolerance against Bleeding.
-DEF +1.
+Resistance to Bleeding +20%
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -22793,18 +22564,17 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4263#
-Samurai Spector Card.
-Ignore normal monster's defense when attacking.
-Disable its user's natural HP recovery and drain 666 HP every 10 seconds.
-Drain 999 HP as the weapon is unequipped. 
+Ignore normal monster's defense when attacking
+Natural HP recovery is disabled.
+HP -666 every 10 sec.
+HP -999 when unequipping the weapon
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4264#
-Wind Ghost Card.
-Add the chance of casting level 3 Jupitel Thunder on an enemy when doing Physical Attack.
-If the user has mastered the skill at level 10, it will cast level 10 Jupitel Thunder.
+A chance of auto casting Jupitel Thunder 3 on an enemy after a physical attack
+If the skill is Lv. 10, it will be cast instead.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -22816,26 +22586,25 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4266#
-Eclipse Card.
-Vit +1.
-Add Flee +18 if the user is equipped with an item compounded to the Lunatic card.
+Vit +1
+^6A5ACD[If used with Lunatic Card]^000000
+Flee +18
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4267#
-Explosion Card.
-Recieve 10% more Experience Points from Dragon monsters.
-Receive 20% more damage from Dragon monsters.
+Exp from Dragon monsters +10%
+Damage from Dragon monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4268#
-Injustice Card.
-Add the chance of auto casting level 1 Sonic Blow on an enemy when doing Physical Attack.
-If the user is equipped with an item compounded to the Zealotus card,
-it adds ATK +20 and Luk +3.
+A chance of auto casting Sonic Blow 1 on an enemy after a physical attack
+^6A5ACD[If used with Zealotus Card]^000000
+Atk +20
+Luk +3
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -22853,16 +22622,14 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4270#
-Giant Spider Card.
-Add the chance of poisoning an enemy when the user receives Physical Damage.
+A chance of poisoning an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4271#
-Giant Hornet Card.
-Add the chance of gaining 'Wind of Verdure' item each time an Insect monster is killed.
-Add 10% more tolerance against Wind Property Attack.
+A chance of obtaining Wind of Verdure when killing an Insect monster
+Resistance to Wind +10%
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -22883,34 +22650,25 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4273#
-Shell Fish Card.
-Inflict 30% more damage on Crabs.
-ATK +5.
-^6A5ACDBeach Card Set^000000
-^3CB371Shell Fish Card^000000
-^3CB371Crab Card^000000
-^3CB371Aster Card^000000
-+30% damage on ^6996ADWater^000000 
-Property monsters
-30% chance of Gaining 
-'Raw Fish'  each time 
-a Fish Monster is killed.
+Damage to Crab +30%
+Atk +5
+^6A5ACD[Is used with Crab and Aster Cards]^000000
+Damage to Water monsters +30%
+30% chance of obtaining Raw Fish when killing a Fish monster
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4274#
-Zombie Master Card.
-Gain 5 SP each time an Undead monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing an Undead monster with physical melee attack
+SP -5 when unequipping the weapon
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4275#
-Zombie Prisoner Card.
-Receive 10% more Experience Points from Undead monsters.
-Receive 20% more damage from Undead monsters.
+Exp from Undead monsters +10%
+Damage from Undead monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -22923,9 +22681,8 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4277#
-Zealotus Card.
-Luk +2.
-Inflict 10% more damage with Slinging Arrow and Melody Strike skill.
+Luk +2
+Slinging Arrow/Melody Strike damage +10%
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -22938,37 +22695,23 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4279#
-Earth Deleter Card.
-Diable SP natural recovery.
-Gain 10 SP each time a monster is killed by Physical Melee Attack.
-Drain 100 SP as the armor is unequipped.
+Natural SP recovery disabled
+SP +10 when killing a monster by physical melee attack
+SP -100 when unequipping the armor
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4280#
-Geographer Card.
-Add the chance of 
-auto casting level 2 
-Blessing on the user when 
-receiving Physical Damage.
-Auto cast level 10
-Blessing instead of 
-level 2, if level 10 
-Blessing is learned.
-^6A5ACDAcolyte Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Enchanted Peach Tree Card^000000
+A chance of auto casting Blessing 2 on the user when receiving physical damage
+If the skill is Lv. 10, it will be cast instead.
+^6A5ACD[If used with Rideword, Cookie, Fur Seal, and Enchanted Peach Tree Cards]^000000
 Vit +10
--10% Variable Cast Time
--10% SP Consumption
-^6A5ACDAcolyte Class Bonus:^000000
--30% damage from Undead 
-and Demon monsters.
-+5% EXP from Demon and 
-Undead monsters.
+Casting time -10%
+SP consumption -10%
+^6A5ACD[If the set is used by Acolyte class]^000000
+Damage from Undead/Demon monsters -30%
+Exp from Undead/Demon monsters +5%
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -22998,45 +22741,43 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4282#
-Tengu Card.
-Add the chance of gaining a restorative item each time a monster is killed.
+A chance of obtaining a healing item when killing a monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4283#
-Greatest General Card.
-Add the chance of gaining Spirit Sphere or Coin when doing Physical Attack.
-If worn by Acolyte Class characters, the chance is increased.
+A chance of obtaining Spirit Sphere or Coin after a physical attack
+^6A5ACD[If used by Acolyte class]^000000
+The chance of obtaining the item is increased.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4284#
-Chepet Card.
-Add the chance of auto casting level 5 Heal on an enemy when doing Physical Attack.
+A chance of auto casting Heal 5 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4285#
-Choco Card.
-Perfect Dodge +5, Flee +10.
+Perfect Dodge +5
+Flee +10
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4286#
-Karakasa Card.
-Add the chance of auto casting Chaos on an enemy when the user receives Physical Damage.
-The chance is increased if the user has 77 or more STR points.
+A chance of inflicting Chaos on an enemy when receiving physical damage
+^6A5ACD[If Str > 76]^000000
+The chance of inflicting Chaos is increased.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4287#
-Kapha Card.
-MDEF +8 if the garment is upgraded no higher than +5.
+^6A5ACD[If the garment is refined no higher than +5]^000000
+Mdef +8
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -23049,17 +22790,15 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4289#
-Caterpillar Card.
-Gain 5 SP each time a Plant monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing a Plant monster with a physical melee attack
+SP -5 when unequipping the weapon
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4290#
-Cat O' Nine Tails Card.
-Add 5% chance of reflecting magic damage.
-MDEF +3.
+5% chance of reflecting magic damage
+Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -26338,6 +26077,10 @@ Jobs: ^777777All^000000
 A headgear that resembles the horns of Succubus.
 Int +1
 Mdef +10
+[If used with Evil Mask]
+Aspd +1
+Aspd +9%
+SP -3 every 2 sec.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777777^000000    Weight: ^77777780^000000
@@ -26402,6 +26145,10 @@ except Novice^000000
 A headgear that resembles the horns of Incubus.
 Agi +1
 Mdef +10
+[If used with Evil Mask]
+Aspd +1
+Aspd +9%
+SP -3 every 2 sec.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777777^000000    Weight: ^77777780^000000
@@ -29861,12 +29608,12 @@ A golden necklace made for celebrating RWC.
 Weight: ^7777771^000000
 #
 7274#
-'The door leading to the great power can be found from the tower of the heaven under the twilight sky.
-The key to the door will be the grass living under the Sun.'
+'Seek the town where the cursed live, under the high tower. There you will acquire great power. Find the stairway to the Heavens to the west of Geffen. If you dare climb it, the Valkyrie will call upon you. Remember, though, the Heavens welcome only those who bring Resin in number of seasons, Stone Hearts in number of months, and Coral Reefs in number of days of the year.'
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7275#
+^ff0000Character bound^000000
 A message written in an ancient language obtained from the Sobbing Starlight.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -30236,7 +29983,7 @@ Weight: ^7777771^000000
 7304#
 A worn out spellbook with illegible text written in an ancient language. The only word you can read is 'Kirkana.'
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7305#
 An emblem that signifies the authority to rule over the nine realms of the dead. One can sense ominous powers contained in it.
@@ -30261,21 +30008,21 @@ Weight: ^7777771^000000
 7309#
 A crow's wing that can temporarily grant its owner the ability to fly.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7313#
 A medal awarded only to the best witches.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7314#
 A magical emblem that grants entrance to Valhalla.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12020#
 A bottle of cursed water.
-Imbues armor with Shadow property for 3 min.
+Imbues weapon with Shadow property for 3 min.
 ^ffffff_^000000
 Weight: ^7777773^000000
 #
@@ -33897,14 +33644,10 @@ This can be consumed 10 seconds after each use.
 Weight: ^77777750^000000
 #
 7720#
-A peculiar gold coin
-that doesn't resemble
-any currency that you
-can recognize. Still,
-it'd make for some
-impressive bling.
+^ff0000Character bound^000000
+A peculiar golden coin that doesn't resemble any known currency. It proves its owner's strength and courage.
+Can be exchanged for unique items through the Arena Lord.
 ^ffffff_^000000
-Bring this to Leprechaun O'Riley next to the Izlude Airship.
 Weight: ^7777770^000000
 #
 
@@ -45117,7 +44860,7 @@ Class: ^777777Monster Egg^000000
 A letter written by a boy to his first love.
 Succubus finds its naivety irresistible.
 Class: ^777777Taming Item^000000
-Weight: ^7777775^000000
+Weight: ^7777771^000000
 #
 12374#
 Imps are drawn to its flame.
@@ -45588,7 +45331,8 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 12370#
-A letter written to a secret love. Incubus is drawn to it's naivety.
+A letter written by a girl to her secret love.
+Incubus finds its naivety irresistible.
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -51684,13 +51428,18 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 16682#
-A box that contains 1 Halter Lead. Once opened, the item inside expires after 1 week.
-^ff0000This item is not refundable and can be traded and stored.^000000
-An animal halter lead that summons a creature to ride on.
-Mount creatures increase movement speed by 25%.
-Cannot attack while on a mount.
-^ff0000When this item expires, so does the mount.^000000
+^ff0000Account bound^000000
+Contains 1 Halter Lead.
+Every class has its own mount that changes after the job change.
 Weight: ^7777771^000000
+^FFFFFF_^000000
+[Halter Lead]
+^ff0000Account bound^000000
+An animal halter lead that summons a creature to ride on.
+Movement speed +25% while on a mount
+Cannot attack while mounted
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
 #
 16683#
 A box that contains 1 Halter Lead. Once opened, the item inside expires after 30 days.
@@ -52148,7 +51897,6 @@ Weight: ^77777750^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All except novice^000000
 #
-
 18521#
 The luck of the a potato loving people is infused into this item.
 Luk +1
@@ -52159,20 +51907,21 @@ Weight: ^77777710^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
-
 18522#
-A dark marching hat worn by members of an undead band from Niffleheim.
-Str +2. Attack +2% to all monsters.
-If refined to +7 or higher, Critical +10%.
-If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
+A black hat worn by members of an undead band from Niflheim.
+Str +2
+Atk +2%
+[If refined to +7 or higher]
+Critical +10%
+[If refined to +9 or higher]
+Atk +5%
+Ranged damage +5%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^77777710^000000
-Weight: ^77777750^000000
+Defense: ^77777710^000000    Weight: ^77777750^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-
 18617#
 Onigiri is a delicacy found only on the island nation of Amatsu. Various flavors accentuate the slightly sweet rice.
 Increases damage inflicted and decreases damage taken from monsters in the Amatsu area by 5%.
@@ -53134,7 +52883,7 @@ Reactionary forces causes the thirst for blood
 Weight: ^7777771^000000
 #
 6471#
-The darkness of Nifflheim is lumped into this.
+The darkness of Niflheim is lumped into this.
 ^ff0000Used for combining biological materials in a testing lab^000000
 Weight: ^7777771^000000
 #
@@ -53541,7 +53290,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 
 Evil Marcher Hat Description:
-A dark marching hat worn by members of an undead band from Niffleheim.
+A dark marching hat worn by members of an undead band from Niflheim.
 Str +2. Attack +2% to all monsters.
 If refined to +7 or higher, Critical +10%.
 If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
@@ -58226,11 +57975,15 @@ Getting Lucky Box
 Box Weight: ^7777771^000000
 #
 12790#
-Use this item to change your character's name on the Character Select menu.
-After using this item you must logout to the Character Select menu and Right-Click on your character and choose 'Change Name'
-You can then enter a new name as long as it is not already taken.
-^ff0000You must leave your current guild and/or party before changing your name.^000000
-^0000ffYou can use this item once and it is account bound^000000
+^ff0000Account bound^000000
+Required for changing your character's name.
+^0000ffThe item can be used only once.^000000
+^ffffff_^000000
+[Instructions]
+1) Leave your guild and party.
+2) Go to the Character Select screen, choose a character with a right mouse click, and select 'Change name.'
+3) Enter a new name.
+^ffffff_^000000
 Weight: ^7777770^000000
 #
 12786#
@@ -60206,7 +59959,7 @@ Weight: ^77777720^000000
 #
 22670#
 The invitation from the world of dead
-When this scroll is torn up it will transport you to Nifflheim.
+When this scroll is torn up it will transport you to Niflheim.
 Weight: ^7777771^000000
 #
 19917#
@@ -60230,7 +59983,7 @@ Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
 6804#
-There is a sticker on this pumpkin that says 'Certified Organic' -Blasphemous Alex [Nifflheim].
+There is a sticker on this pumpkin that says 'Certified Organic' -Blasphemous Alex [Niflheim].
 Weight: ^7777771^000000
 #
 6805#
@@ -64898,17 +64651,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
-20036#
-A costume equipment that replicated from a crown of a famous swordsman.
-This can be exchanged with [Designer Heidam] for enchantment stones that are used to enchant other kitcoin costume items.
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to enchant your Kitcoin costume item on slot 1.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Lv. : ^7777771^000000
-Job : ^777777All^000000
-#
 19654#
 A replica of the hats worn by the strange antlered captains of the airships that cross Rune Midgard.
 This can be exchanged with [Designer Heidam] for enchantment stones that are used to enchant other kitcoin costume items.
@@ -69099,11 +68841,13 @@ Required LV : ^7777771^000000
 Job : ^777777All^000000
 #
 19574#
-it looks from a headgear which was owned by deat
-Type : ^777777Costume Equipment^000000
-Location: ^777777Upper-mid ^000000 Weight: ^7777770^000000
+^ff0000Character bound^000000
+A scary-looking crown. It looks very much alike the one worn by the Lord of the Dead.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper, Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 19598#
 Can feel a high dignity of the Northern Wolf Tribe. 
@@ -74800,7 +74544,7 @@ Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
 20199#
-A dark marching hat worn by members of an undead band from Niffleheim.
+A dark marching hat worn by members of an undead band from Niflheim.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class: ^777777Costume^000000 Def : ^7777770^000000
@@ -76113,7 +75857,7 @@ Job : ^777777All^000000
 17747#
 ^ff0000Cannot trade with other accounts.^000000
 When opened gives one of the following:
-Costume Niffleheim Bunny Hat
+Costume Niflheim Bunny Hat
 Costume Night Sky of Memory
 Costume Blue Magician
 Costume Vampire Familiar
@@ -82345,18 +82089,6 @@ It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-2136#
-A cracked shield used for the October Upgrading Event.
-All stats -5
-Equip and let 'Spooky Machine' upgrade it to give you prizes.
-^FF0000Warning: If this item is refined with normal methods i.e. Elunium, the Spooky Machine will not take those levels into consideration when giving out prizes^000000
-Will Disappear ^00CC00November 1st^000000
-Class: ^777777Shield^000000
-Defense: ^7777770^000000
-Weight: ^777777100^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
 6025#
 A towel that helps you remember those that have passed on.
 ^ffffff_^000000
@@ -84427,17 +84159,6 @@ Weight: ^77777720^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
-7720#
-A peculiar gold coin
-that doesn't resemble
-any currency that you
-can recognize. Still,
-it'd make for some
-impressive bling.
-^ffffff_^000000
-Bring this to Leprechaun O'Riley next to the Izlude Airship.
-Weight: ^7777770^000000
-#
 19529#
 A headband adorned
 with what appears to
@@ -84477,7 +84198,7 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 18522#
-A dark marching hat worn by members of an undead band from Niffleheim.
+A dark marching hat worn by members of an undead band from Niflheim.
 Str +2. Attack +2% to all monsters.
 If refined to +7 or higher, Critical +10%.
 If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
@@ -85399,15 +85120,13 @@ Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
 20036#
-A costume equipment that replicated from a crown of a famous swordsman.
-This can be exchanged with [Designer Heidam] for enchantment stones that are used to enchant other kitcoin costume items.
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to enchant your Kitcoin costume item on slot 1.
+^ff0000Character bound^000000
+A helmet made of gold. It's a replica of the crown that belonged to a legendary sword master.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Lv. : ^7777771^000000
-Job : ^777777All^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19912#
 Meow~ change to mischievous cat's eye~
@@ -86220,3 +85939,87 @@ Universal Golden Catalog x25
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+31160#
+^ff0000Character bound^000000
+A mysterious helm imbued with the power of rune stones.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+2136#
+^ff0000Account bound^000000
+^000088Rental item^000000
+An ancient shield. It seems to have passed through the hands of many renowned warriors. Very practical, so don't be disappointed by its looks.
+Agi +2
+Mdef +1
+Damage from Neutral attacks -10%
+A chance of auto casting Kyrie Eleison 1 when receiving physical damage
+Class: ^777777Shield^000000
+Defense: ^77777748^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+2392#
+^ff0000Account bound^000000
+^000088Rental item^000000
+Pants that look like they've been stuck in a closet for a very long time. They are a bit too small, but can still be worn sometimes.
+Str/Vit +2
+Max HP +200
+Mdef +1
+A chance of auto casting Summon Spirit Sphere 5 after a physical attack
+Class: ^777777Armor^000000
+Defense: ^77777726^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+2442#
+^ff0000Account bound^000000
+^000088Rental item^000000
+Boots full of holes. It greatly helps with ventilation, though, of course, it's better not to wear them in rainy weather.
+Luk +2
+HP/SP recovery rate +10%
+Mdef +1
+A chance of auto casting Quagmire 3 when receiving physical damage
+Class: ^777777Footwear^000000
+Defense: ^77777719^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+2547#
+^ff0000Account bound^000000
+^000088Rental item^000000
+A T-shirt for running with PULF written on its back. It looks totally unfit to wear.
+Dex +2
+Flee +10
+Mdef +1
+Damage from Neutral attacks -10%
+Class: ^777777Garment^000000
+Defense: ^77777712^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+5408#
+^ff0000Account bound^000000
+^000088Rental item^000000
+A bandana of legendary pioneers of the past. It seems to contain memories of those times.
+Int +2
+Max SP +50
+Casting time -10%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+12314#
+An equipment set made specifically for new players!
+The box contains 1 shield, 1 armor, 1 footwear, 1 garment, and 1 headgear.
+^ffffff_^000000
+Open it to obtain the following items:
+Cracked Buckler
+Old Pantie
+Leaky Boots
+Cheap T-Shirt
+Old Bandana
+Rental term: 7 d.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+

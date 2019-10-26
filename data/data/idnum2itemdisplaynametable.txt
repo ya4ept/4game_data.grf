@@ -542,7 +542,7 @@
 1093#Empty Potion Bottle#
 501#Red Potion#
 502#Orange Potion#
-503#Yellow potion#
+503#Yellow Potion#
 504#White Potion#
 505#Blue Potion#
 506#Green Potion#
@@ -1306,12 +1306,14 @@
 2352#Tattered Novice Ninja Suit#
 
 // ---- Ragnarok P2P 1 year celebration ----------------
+
 2631#Celebration Ring#
 7146#Vacation Ticket#
 7147#Jasmine#
 7148#Mother's Letter#
 
 // ---- Amatsu- 01 ----------------
+
 663#Songpyun#
 7149#Yellow Plate#
 7150#Piece of Bamboo#
@@ -1335,7 +1337,6 @@
 573#Chocolate Drink#
 
 // ----Kunlun items - 01 -----------
-
 
 552#Ketupat#
 553#Bao#
@@ -1420,7 +1421,7 @@
 7203#Strong Branch#
 7204#Gunpowder#
 
-// ------ Nifflheim ------
+// ------ Niflheim ------
 
 7205#Piece of Black Cloth#
 7206#Black Cat Doll#
@@ -1435,11 +1436,11 @@
 7215#Broken Needle#
 7216#Red Muffler#
 7217#Spool#
-7218#Decomposed Rope#
-7219#Striped Sock#
+7218#Rotten Rope#
+7219#Striped Socks#
 7220#Ectoplasm#
 7221#Tangled Chains#
-7222#Wooden Gnarl#
+7222#Tree Gnarl#
 7223#Distorted Self-Portrait#
 7224#Stone of Sage#
 7225#Pumpkin Lantern#
@@ -1557,7 +1558,7 @@
 7273#RWC Necklace#
 7274#Translated Message#
 7275#Message in Ancient Language#
-7276#Doodled Message#
+7276#Doodle Message#
 7277#Munak Doll#
 7278#Letter to Wife#
 565#Vita500#
@@ -1724,7 +1725,7 @@
 4206#Myst Case Card#
 4207#Mysteltainn Card#
 4208#Miyabi Doll Card#
-4209#Violi Card#
+4209#Violy Card#
 4210#Wander Man Card#
 4211#Vocal Card#
 4212#Bongun Card#
@@ -1865,18 +1866,18 @@
 
 // ------- 2005 The sign 3 -----
 
-2642#Serin's Gold Ring#
-2643#Serin's Gold Ring #
+2642#Serin's Golden Ring#
+2643#Serin's Golden Ring#
 7304#Witch's Spellbook#
 7305#Symbol of the Nine Realms#
-7306#Soul Fragment#
-7307#Spiritual Whispers#
+7306#Soul Shard#
+7307#Whispering Crystal#
 7308#Witch's Tonic#
 7309#Crow Wing#
 12020#Cursed Water#
 7313#Witch's Medal#
 7314#The Sign#
-2644#The Sign #
+2644#The Sign#
 
 // ------- 2005 City of Steel, Einbroch -----
 
@@ -2205,7 +2206,7 @@
 12087#Steam Crocodile#
 12088#Spicy Curry#
 12089#Special Sausage#
-12090#Steam Scorpion#
+12090#Steamed Scorpion#
 12091#Peach Cake#
 12092#Soul Bread#
 12093#Special Toast#
@@ -3498,9 +3499,10 @@
 13860#Directive Envelope B#
 
 // ------------ ???? ?? ??? ----------------
+
 13412#Twin Edge of Naght Sieger#
 13413#Twin Edge of Naght Sieger#
-1636#Thorn Staff of Darkness#
+1636#Thorned Staff of Darkness#
 1185#Violet Fear#
 2542#Flame Manteau of Naght Sieger#
 
@@ -5296,7 +5298,7 @@
 5572#Savage Baby Hat#
 12361#Delicious Shaved Ice#
 12363#Fit Pipe#
-12370#Gril's Naivety#
+12370#Girl's Love Letter#
 6116#Succubus Pet Coupon#
 6117#Imp Pet Coupon#
 6118#Chung E Pet Coupon#
@@ -5540,7 +5542,7 @@
 //---------------------2012.07.31-----
 
 19573#Costume Heart Wing Hairband#
-19574#Costume Load Of Death#
+19574#Lord of Death's Crown#
 18642#Scissorhand Model#
 18643#Rockhand Model#
 18644#Paperhand Model#
@@ -6255,7 +6257,7 @@
 6426#Poor Can#
 11537#Weevil Bug Worm#
 6499#Ancient Grudge#
-12373#Love Letter#
+12373#Boy's Love Letter#
 12374#Flaming Ice#
 
 22669#HALLOWEEN G BOX#
@@ -8000,7 +8002,6 @@
 14239#Dragon Breath Cocktail 60 Box#
 14240#Hwergelmir's Tonic 60 Box#
 14241#Nine Tail Dish 60 Box#
-2136#Cracked Buckler#
 6025#Towel of Memory#
 14283#Written Oath Of Marriage Box#
 6026#Written Oath Of Marriage#
@@ -8419,7 +8420,7 @@
 5554#Octopus Hat#
 5654#Holy Marching Hat#
 18566#Nut Donut In Mouth#
-7720#Gold Coin#
+7720#Arena Coin#
 19529#Costume: Angel Wing#
 11010#Battlegrounds Catalog#
 11017#KVM Reward Items Catalog#
@@ -8557,7 +8558,7 @@
 20746#Costume: Rudra's Grace#
 20761#Costume Happiness Wings#
 20765#C Archangel Wing#
-20036#Costume: Sword Master's Crown#
+20036#Sword Master's Crown#
 19912#Costume Cat eye#
 20239#Orange Ribbon Muffler#
 20317#Blue Cat Headset#
@@ -8644,3 +8645,13 @@
 31134#Pet Parrot#
 20147#Pet Pigeon#
 9707#Pirate's Treasure Chest#
+
+31160#Hero's Runic Visor#
+
+2136#Cracked Buckler#
+2392#Old Pantie#
+2442#Leaky Boots#
+2547#Cheap T-Shirt#
+5408#Old Bandana#
+12314#Newbie Box#
+

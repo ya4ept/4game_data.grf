@@ -2552,7 +2552,7 @@ Listen to Shurank's Lecture#
 Deliver Shurank's message to Dequ'ee in Geffen#
 
 8217#Dequ'eeÀÇ Message#SG_FEEL#QUE_NOIMAGE#
-"So Shurank is asking, 'What happened to the murderer? Did you find out who he is? If you did, what are we supposed to do now?' We haven't found out who the murderer is for sure. However, we have a list of suspects and we'll figure it out soon.?#
+"So Shurank is asking, 'What happened to the murderer? Did you find out who he is? If you did, what are we supposed to do now?' We haven't found out who the murderer is for sure. However, we have a list of suspects and we'll figure it out soon?"#
 Deliver Dequ'ee's message to Shurank in Izlude#
 
 8218#Shurank's Lecture#SG_FEEL#QUE_NOIMAGE#
@@ -3038,53 +3038,54 @@ Bring 100 Hearts of Mermaid to Magumagu.#
 #
 
 //---------------------------°Ç¹Ý Ã£±â Äù--------------------------------
-10042#Find the Piano Keys-5 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the person who talks in difficult words would have the next key.#
+
+10042#Piano Keys (5 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key belongs to a person who uses long words in their speech.#
 #
 
-10043#Find the Piano Keys-5 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the person who owns a store would have the next key.#
+10043#Piano Keys (5 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key belongs to a shop owner.#
 #
 
-10044#Find the Piano Keys-4 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the person who owns a store would have the next key.#
+10044#Piano Keys (4 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key belongs to a shop owner.#
 #
 
-10045#Find the Piano Keyboard-4 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the person who talks in difficult words would have the next key.#
+10045#Piano Keys (4 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key belongs to a person who uses long words in their speech.#
 #
 
-10046#Find the Piano Keyboard-3 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the next key would be buried around the grave.#
+10046#Piano Keys (3 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key is buried in a grave.#
 #
 
-10047#Find the Piano Keyboard-3 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the next key would be buried around the grave.#
+10047#Piano Keys (3 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key is buried in a grave.#
 #
 
-10048#Find the Piano Keyboard-2 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the next key would lie near the spot I just digged out the other key.#
+10048#Piano Keys (2 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key is near the spot where the previous one was.#
 #
 
-10049#Find the Piano Keyboard-2 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the next key would lie near the spot I just digged out the other key.#
+10049#Piano Keys (2 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key is near the spot where the previous one was.#
 #
 
-10050#Find the Piano Keyboard-1 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the next key would be buried around the grave.#
+10050#Piano Keys (1 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key is buried in a grave.#
 #
 
-10051#Find the Piano Keyboard-1 remained#SG_FEEL#QUE_NOIMAGE#
-Probably the next key would lie near the spot I just digged out the other key.#
+10051#Piano Keys (1 left)#SG_FEEL#QUE_NOIMAGE#
+Maybe the next key is near the spot where the previous one was.#
 #
 
-10052#Find the Piano Keyboard-To the piano#SG_FEEL#QUE_NOIMAGE#
-Find the piano and stick the keys in.#
+10052#Looking for the Piano#SG_FEEL#QUE_NOIMAGE#
+Find the piano and put the keys in their places.#
 #
 
-10053#Find the Piano Keyboard-Fill the empty spot#SG_FEEL#QUE_NOIMAGE#
-One is still missing. What should I put in?#
-It seems ok to put whatever even if it's not a key.#
+10053#Empty Slot#SG_FEEL#QUE_NOIMAGE#
+One key is still missing. Can it be replaced with something...?#
+Check if something can fit it there#
 
 10054#On the Verge of the Escape-Clint Kana#SG_FEEL#QUE_NOIMAGE#
 Talk to the witch, Clint Kana to escape.#
@@ -3092,12 +3093,12 @@ Talk to the witch, Clint Kana to escape.#
 
 //---------------------------¿ìÅº ÃßÀå ¹ø¿ª Äù--------------------------------
 
-10055#Understanding the culture of Utan#SG_FEEL#QUE_NOIMAGE#
-The Chief of Utan tribe suggests that you try learning Utan's culture.#
-How come those people of Utan all wear masks?#
+10055#Utan Culture#SG_FEEL#QUE_NOIMAGE#
+The chief of the Utan tribe suggests that you try understanding the Utan's culture.#
+Learn more about the Utan masks#
 
-10056#Learning Utan language#SG_FEEL#QUE_NOIMAGE#
-You'll be able to learn Utan language if you bring the following materials: 10 Oil Papers, 1 Squid Ink, and 1 Feather of Birds.#
+10056#Utan Language#SG_FEEL#QUE_NOIMAGE#
+You'll be able to learn the Utan language if you bring the following materials: 10 Oil Papers, 1 Squid Ink, and 1 Feather of Birds.#
 Collect the required materials.#
 
 // --------------EP13------------------------------------------
@@ -4449,79 +4450,6 @@ Limberg asked you to go back down to Nogg Road and find out what is in the crack
 You have taken the plunge down the empty lava tube and it led you down to the Thor Volcano... Report your findings to Survey Leader Limberg.#
 #
 
-//----------Nameless Island Entrance-----------
-17000#Meet with Father Bamph#SG_FEEL#QUE_NOIMAGE#
-An agent on the International Airship tells you that Father Bamph is expecting your arrival at Prontera Church. You should probably go and meet him there.#
-Father Bamph#
-
-17001#Meet with Larjes#SG_FEEL#QUE_NOIMAGE#
-Father Bamph tells you that a man of high rank suddenly disappeared a while ago and that he was last seen in Comodo. Find Larjes and he will assist you with your search for the lost official.#
-Larjes#
-
-17002#Report to Father Bamph#SG_FEEL#QUE_NOIMAGE#
-Larjes told you that that the official was kidnapped from an organization from Arunafeltz. You should report this to Father Bamph.#
-Father Bamph#
-
-17003#Travel to Rachel#SG_FEEL#QUE_NOIMAGE#
-Father Bamph asks you to go to Rachel on his behalf to continue the investigation of the missing official.#
-Izlude Airship to Rachel#
-
-17004#Travel to Veins#SG_FEEL#QUE_NOIMAGE#
-After eavesdropping on the conversation next to your table, you decide to go to Veins to see if you can find more Veins Striped Stickleback fish.#
-Veins#
-
-17005#Frustrated Magistrate#SG_FEEL#QUE_NOIMAGE#
-Magistrate Al Hamad tells you that he's not really comfortable talking to complete strangers about his problems... Find someone who may know about the situation.#
-#
-
-17006#Interrogated Smugglers#SG_FEEL#QUE_NOIMAGE#
-You should ask the magistrate if he was able to interrogate the smugglers before they were taken away.#
-Magistrate Al Hamad#
-
-17007#Written Orders#SG_FEEL#QUE_NOIMAGE#
-If you insist on learning more about the smugglers, then you need to bring a written order from a high ranking officer to Al Hamad.#
-#
-
-17008#Investigating#SG_FEEL#QUE_NOIMAGE#
-High Priest Zhed said that he was too preoccupied with other matters, but that High Priestess Niren may know something about the smugglers from Veins.#
-High Priestess Niren#
-
-17009#More Investigating#SG_FEEL#QUE_NOIMAGE#
-High Priestess Niren has asked you to find out if the high ranking official from Rune-Midgarts is still alive. Go to the Magistrate Al Hamad and he will provide usefull information for your journey.#
-Magistrate Al Hamad#
-
-17010#Further Investigations#SG_FEEL#QUE_NOIMAGE#
-The Magistrate Al Hamad elaborated on their dealings with the smugglers and the high ranked Rune-Midgarts official. You should travel to veins and find out if anyone knows about their disappearances.#
-#
-
-17011#Kurdi's Father#SG_FEEL#QUE_NOIMAGE#
-The drunkard said something about a ghost out on sea. You should ask Kurdi's father about it since he's a fisherman and he might know something about it.#
-Kurdi's father#
-
-17012#Karyn's Boat#SG_FEEL#QUE_NOIMAGE#
-Karyn's Dad is not allowed to go out to sea right now. But Karyn said that it should be okay if you borrow the boat. It is the only boat located in south beach so it shouldn't be difficult to find.#
-#
-
-17013#To the Island#SG_FEEL#QUE_NOIMAGE#
-Larjes has revealed that he has been following you and offers to help you sail to the monastery. Investigate the Island once you land there.#
-#
-
-17014#Investigating the Island#SG_FEEL#QUE_NOIMAGE#
-Larjes has decided to wait for you in the boat while you investigate the mysteries of the island.#
-#
-
-17015#The Research Note#SG_FEEL#QUE_NOIMAGE#
-You found a journal stained red with blood. It is hard to make out the entries but one of them states that the author learned to summon a creature. You should continue your investigation.#
-#
-
-17016#Regicide#SG_FEEL#QUE_NOIMAGE#
-You examined the Dead Man's body and found that he had a Token of King... That must mean that he was Tristam III... You should get back to Larjes and let him know.#
-Larjes#
-
-17017#Reporting the King's Death#SG_FEEL#QUE_NOIMAGE#
-The shocking news of Tristam III's death should not be taken lightly. You should report this and bring the Research Note to High Priestess Niren.#
-High Priestess Niren#
-
 //-----------Spy Quest-------------
 18001#Delivery for Rooney#SG_FEEL#QUE_NOIMAGE#
 Find Lasda Midar and deliver the letter for Rooney.#
@@ -5555,27 +5483,27 @@ A Snow Man needs help getting revenge on the Ice Titans. Help him out by hunting
 #
 
 60173#Hunting Disguises#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Disguises. Help him out by hunting 50 Disguises.#
+A dead man in Niflheim has asked you to help him hunt Disguises. Help him out by hunting 50 Disguises.#
 #
 
 60174#Hunting Disguises#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Disguises. Help him out by hunting 100 Disguises.#
+A dead man in Niflheim has asked you to help him hunt Disguises. Help him out by hunting 100 Disguises.#
 #
 
 60175#Hunting Disguises#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Disguises. Help him out by hunting 150 Disguises.#
+A dead man in Niflheim has asked you to help him hunt Disguises. Help him out by hunting 150 Disguises.#
 #
 
 60176#Hunting Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 50 Loli Ruri.#
+A dead man in Niflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 50 Loli Ruri.#
 #
 
 60177#Hunting Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 100 Loli Ruri.#
+A dead man in Niflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 100 Loli Ruri.#
 #
 
 60178#Hunting Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 150 Loli Ruri.#
+A dead man in Niflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 150 Loli Ruri.#
 #
 
 60179#Hunting Mantis#SG_FEEL#QUE_NOIMAGE#
@@ -6051,19 +5979,19 @@ A wise Sage Serpeone casts a spell on your body so that you can accumulate magic
  #
 
 3209#Dullahan Hunting#SG_FEEL#QUE_NOIMAGE#
-Accumulate magic energy by hunting Dullahan. You can find these monsters in the Skellington Village in Nifflheim.#
+Accumulate magic energy by hunting Dullahan. You can find these monsters in the Skellington Village in Niflheim.#
 Hunt ^0000FF10 Dullahan^000000#
 
 3210#Disguise Hunting#SG_FEEL#QUE_NOIMAGE#
-Accumulate magic energy by hunting Disguise. You can find these monsters in the Skellington Village in Nifflheim.#
+Accumulate magic energy by hunting Disguise. You can find these monsters in the Skellington Village in Niflheim.#
 Hunt ^0000FF10 Disguise^000000#
 
 3211#Quve Hunting#SG_FEEL#QUE_NOIMAGE#
-Accumulate magic energy by hunting Quve. You can find these monsters in the Skellington Village in Nifflheim.#
+Accumulate magic energy by hunting Quve. You can find these monsters in the Skellington Village in Niflheim.#
 Hunt ^0000FF10 Quve^000000#
 
 3212#Hylozoist Hunting#SG_FEEL#QUE_NOIMAGE#
-Accumulate magic energy by hunting Hylozoists. You can find these monsters in the Skellington Village in Nifflheim.#
+Accumulate magic energy by hunting Hylozoists. You can find these monsters in the Skellington Village in Niflheim.#
 Kill ^0000FF10 Hylozoists^000000#
 
 3213#Job Change to Rune Knight#SG_FEEL#QUE_NOIMAGE#
@@ -7674,19 +7602,19 @@ For 3 days this allows you to use the discounted Kafra Employee services, Primo 
 *Note VIP EXP Bonuses, extra character slots and 600 storage are not included with this access#
 
 50501#Mother's Day#SG_FEEL#QUE_NOIMAGE#
-Steven Heartfelt asked you to go to Nifflheim and search for his love named Lenore. A girl named Synthia is in Nifflheim who may have seen her.#
+Steven Heartfelt asked you to go to Niflheim and search for his love named Lenore. A girl named Synthia is in Niflheim who may have seen her.#
 #
 
 50502#Mother's Day#SG_FEEL#QUE_NOIMAGE#
-Bring 15 Rainbow Shells to Synthia in Nifflheim and she will tell you what she knows about Lenore.#
+Bring 15 Rainbow Shells to Synthia in Niflheim and she will tell you what she knows about Lenore.#
 #
 
 50503#Mother's Day#SG_FEEL#QUE_NOIMAGE#
-Bring 15 Shining Scales to Synthia in Nifflheim and she will tell you what she knows about Lenore.#
+Bring 15 Shining Scales to Synthia in Niflheim and she will tell you what she knows about Lenore.#
 #
 
 50504#Mother's Day#SG_FEEL#QUE_NOIMAGE#
-Bring 10 Yellow Gemstones to Synthia in Nifflheim and she will tell you what she knows about Lenore.#
+Bring 10 Yellow Gemstones to Synthia in Niflheim and she will tell you what she knows about Lenore.#
 #
 
 50505#Mother's Day#SG_FEEL#QUE_NOIMAGE#
@@ -7838,7 +7766,7 @@ You've spoken to all the crusaders that are still alive, apparently something ha
 A kafra hop from Comodo to Morroc to Prontera is quick unless you're saved in Prontera.#
 
 60735#Seal of Megingjard#SG_FEEL#QUE_NOIMAGE#
-You should talk to the last member of the 1st squad, the late Egnigem. A Kafra hop from Prontera to Morroc to Comodo then to Umbala and then a journey north to the Tree of Life to Nifflheim can get you to him.#
+You should talk to the last member of the 1st squad, the late Egnigem. A Kafra hop from Prontera to Morroc to Comodo then to Umbala and then a journey north to the Tree of Life to Niflheim can get you to him.#
 Listen to Egnigem and see what you can do to fix this.#
 
 60736#Seal of Megingjard#SG_FEEL#QUE_NOIMAGE#
@@ -8219,12 +8147,12 @@ Hunt 400 Firelock Soldier monsters#
 
 60467#Dullahan Hunting#SG_FEEL#QUE_NOIMAGE#
 
-Hunt 400 Dullahan monsters at Nifflheim. Return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Dullahan monsters at Niflheim. Return to Gramps at the Eden Group to get your reward.#
 #
 
 60468#Loli Ruri Hunting#SG_FEEL#QUE_NOIMAGE#
 
-Hunt 400 Loli Ruri monsters at Nifflheim. Return to Gramps at the Eden Group to get your reward.#
+Hunt 400 Loli Ruri monsters at Niflheim. Return to Gramps at the Eden Group to get your reward.#
 #
 
 60469#Gold Acidus Hunting#SG_FEEL#QUE_NOIMAGE#
@@ -8574,11 +8502,11 @@ Hunt the Naga monsters at Splendide Field 1 and return to Gramps at the Eden Gro
 Hunt 400 Naga monsters.#
 
 60561#Lude Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunt the Lude monsters at Niffelheim Field 1 and return to Gramps at the Eden Group to get your reward.#
+Hunt the Lude monsters at Niflheim Field 1 and return to Gramps at the Eden Group to get your reward.#
 Hunt 400 Lude monsters.#
 
 60562#Hylozoist Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunt Hylozoists in Niffelheim Field 1 and return to Gramps at the Eden Group to get your reward.#
+Hunt Hylozoists in Niflheim Field 1 and return to Gramps at the Eden Group to get your reward.#
 Kill 400 Hylozoists#
 
 //--------13.3 Add--------
@@ -9447,7 +9375,7 @@ Hunt 30 Neraid monsters at Comodo Dungeon and return to the second floor of the 
 #
 
 4196#Disguise Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunt 30 Disguise monsters at Nifflheim and return to the second floor of the Eden Group Headquarters.#
+Hunt 30 Disguise monsters at Niflheim and return to the second floor of the Eden Group Headquarters.#
 #
 
 4198#86-90 Mission Board Timer#SG_FEEL#QUE_NOIMAGE#
@@ -9955,76 +9883,76 @@ Speak to one of the members of the Ecto Exterminators.#
 Survive the Destructor and speak to one of the Ecto Exterminators for your reward.#
 #
 
-70063#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70063#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 Some kid just pushed you down the stairs. Better find someone else who could help you figure out what's going on here.#
 #
 
-70063#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
-Find the doctor Thessla in the house just being the Nifflheim Inn.#
+70063#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+Find the doctor Thessla in the house just being the Niflheim Inn.#
 #
 
-70064#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70064#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 Go back to the Inn and speak to the boy Kendall who pushed you down the stairs.#
 #
 
-70065#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70065#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 Kendall mentions that his parents are gravely ill maybe talking to them will help you figure out what's wrong with them...#
 #
 
-70066#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
-Taeli says that she's hidden several pieces of candy around Nifflheim. She's hidden them near lampposts so look around for them.#
+70066#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+Taeli says that she's hidden several pieces of candy around Niflheim. She's hidden them near lampposts so look around for them.#
 #
 
-70067#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70067#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 You've found the first piece of candy. Time to find the second one.#
 #
 
-70068#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70068#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 You've found the second piece of candy. Time to find the third one.#
 #
 
-70069#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70069#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 You've found the third piece of candy. Time to find the fourth one.#
 #
 
-70070#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70070#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 You've found the fourth piece of candy. Go back to Taeli and tell her you found all 4.#
 #
 
-70071#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70071#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 The last piece of candy is hidden in a house on a hill that has 2 smiling pumpkins over the front door.#
 #
 
-70072#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70072#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 Find the lady that Taeli was talking about. She's on the second floor from where the last piece of candy was hidden.#
 #
 
-70073#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70073#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 Make the Queen of the Dead release the spell that she put on Kendall, Arvus and Taeli's parents.#
 #
 
-70074#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70074#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 You seem to have convinced the Queen of the Dead. Speak to her again to make sure she releases the spell.#
 #
 
-70075#Nifflheim Tourists#SG_FEEL#QUE_NOIMAGE#
+70075#Niflheim Tourists#SG_FEEL#QUE_NOIMAGE#
 The Queen of the Dead has released the family of the spell. Now she might be more accomodating.#
 #
 
-70076#Nifflheim Timer#SG_FEEL#QUE_NOIMAGE#
+70076#Niflheim Timer#SG_FEEL#QUE_NOIMAGE#
 You can only do the quests, from the Queen of the Dead, once every 12 hours.#
 #
 
 70077#Gather Ectoplasm#SG_FEEL#QUE_NOIMAGE#
-Gather 100 Ectoplasm that you can get from hunting the Quve, Lude and Hylozoists in Nifflheim and bring it back to the Queen of the Dead.#
+Gather 100 Ectoplasm that you can get from hunting the Quve, Lude and Hylozoists in Niflheim and bring it back to the Queen of the Dead.#
 #
 
 70078#Gather Pumpkin Lanterns#SG_FEEL#QUE_NOIMAGE#
-Gather 60 Pumpkin Lanterns that you can get from hunting the Lude monsters in Nifflheim and bring it back to the Queen of the Dead.#
+Gather 60 Pumpkin Lanterns that you can get from hunting the Lude monsters in Niflheim and bring it back to the Queen of the Dead.#
 #
 
 70079#Gather Wooden Gnarl#SG_FEEL#QUE_NOIMAGE#
-Gather 50 Wooden Gnarls that you can get from hunting the Gibbet monsters in Nifflheim and bring it back to the Queen of the Dead.#
+Gather 50 Wooden Gnarls that you can get from hunting the Gibbet monsters in Niflheim and bring it back to the Queen of the Dead.#
 #
 
 70080#Food Ingredient timer#SG_FEEL#QUE_NOIMAGE#
@@ -12336,11 +12264,11 @@ Wait for the timer to expire to try again#
 #
 
 62119#Anvian's Request#SG_FEEL#QUE_NOIMAGE#
-Hunt 30 Gibbet monsters at the Valley of Gyoll east of Nifflheim#
+Hunt 30 Gibbet monsters at the Valley of Gyoll east of Niflheim#
 #
 
 62120#Witch's Request#SG_FEEL#QUE_NOIMAGE#
-Bring 5 Ectoplasm and 5 Poisonous Powders to the Witch in Nifflheim.#
+Bring 5 Ectoplasm and 5 Poisonous Powders to the Witch in Niflheim.#
 #
 
 62200#Summer Sports Festa#SG_FEEL#QUE_SUMMERGAMES#
@@ -13022,7 +12950,7 @@ Cat gamers Director wants to change his Scary image.#
 Let me ask director cat who is accredited by Cat gamers Director.#
 
 5067#Scary image-(2)#SG_FEEL#QUE_NOIMAGE#
-Director cat said "Scary image¡¦ that is really hard.. Why does not giving up.. Tthat will be easy¡¦collecting complaint... !! I heard that sometimes army do that~#
+Director cat said "Scary image that is really hard.. Why does not giving up.. Tthat will be easy collecting complaint... !! I heard that sometimes army do that~"#
 Tell Cat gamers Director, bring a box for collecting complaint.#
 
 5068#Collecting complaint#SG_FEEL#QUE_NOIMAGE#
@@ -17892,11 +17820,11 @@ Hunt 150 Mini Demon monsters and return to the Bounty Board at Geffen#
 #
 
 62694#Undead Danielle's friend#SG_FEEL#QUE_NOIMAGE#
-Find Undead Danielle's friend Zombie Zack in Nifflheim near the center of town and tell him she sent you.#
+Find Undead Danielle's friend Zombie Zack in Niflheim near the center of town and tell him she sent you.#
 #
 
 62695#Zombie Zack#SG_FEEL#QUE_NOIMAGE#
-Bring back 20 Skel-bones, 5 Decayed Nail and 1 Holy Water in the Payon caves and bring them to the Packleader on Nifflheim field 2#
+Bring back 20 Skel-bones, 5 Decayed Nail and 1 Holy Water in the Payon caves and bring them to the Packleader on Niflheim field 2#
 #
 
 62696#Packleader#SG_FEEL#QUE_NOIMAGE#
@@ -19133,7 +19061,7 @@ Wait 16 hours between deliveries.#
 Find Victoria Qwest in Comodo.#
 #
 62869#Parcel Service R I Pete#SG_FEEL#QUE_NOIMAGE#
-Find R I Pete in Niffleheim.#
+Find R I Pete in Niflheim.#
 #
 62870#Parcel Service Ice Cold Austin#SG_FEEL#QUE_NOIMAGE#
 Find Ice Cold Austin in Lutie.#
@@ -21165,10 +21093,10 @@ Successful ^8B4513Shark^000000 Hunting.#
 
 9432#Antonio's Proposal#SG_FEEL#QUE_NOIMAGE#
 People are saying Antonio is looking for an Adventurer at Prontera. Sounds like a secret mission will be there....#
-Talk to Antonio at Niffelheim#
+Talk to Antonio at Niflheim#
 
 9433#Collecting Gift Doll#SG_FEEL#QUE_NOIMAGE#
-Hunt down Mystcase inside the Lutie Toy Factory, collect 'Gift Stuffed Doll' for people of Niffelheim.#
+Hunt down Mystcase inside the Lutie Toy Factory, collect 'Gift Stuffed Doll' for people of Niflheim.#
 Collect 6 dolls, remodel them, return to Jakk#
 
 9434#One at a time#SG_FEEL#QUE_NOIMAGE#
@@ -21428,3 +21356,359 @@ Stay for a day#
 17100#The Pub Crawl#SG_FEEL#QUE_IMAGE#
 To become a sommelier you should try beer from:                                                  - Beer Sommelier in Prontera (125,125)                                                  - Alementalist in Geffen's tavern (136, 136)                                                  - Pepper Hag in Morroc (169,109)                                                  - Quadrupelstiltskin in Al De Baran (135,123)                                                  ^000077The quest is available October 2nd to 9th.^000000#
 Try all 4 of beer brews and come back to the Beer         Sommelier#
+
+//----Sign Quest Part 1 Crumbs of Sobbing Starlight----
+17000#Metz Brayde's Notice#SG_FEEL#QUE_IMAGE#
+You read a notice from Metz Brayde. He is looking for adventurers ready to go on a very important quest.#
+Find Metz Brayde#
+
+17001#First Test#SG_FEEL#QUE_IMAGE#
+You find out that you have to go through a series of tests from Metz's friends. The first of them is Arian from Morroc. You should go there and see him.#
+Talk to Arian in Morroc#
+
+17002#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF0000100 Fluffs^000000.#
+Collect necessary items#
+
+17003#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000050 Poison Spores^000000.#
+Collect necessary items#
+
+17004#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000030 Scorpion Tails^000000.#
+Collect necessary items#
+
+17005#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000020 Rotten Bandages^000000.#
+Collect necessary items#
+
+17006#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000015 Little Evil Horns^000000.#
+Collect necessary items#
+
+17007#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000010 Coral Reefs^000000.#
+Collect necessary items#
+
+17008#Quiz Time!#SG_FEEL#QUE_IMAGE#
+Talk to Ganaan to progress to the next part of the test.#
+Talk to Ganaan#
+
+17009#Quiz Time!#SG_FEEL#QUE_IMAGE#
+Go back to Arian, and he will let you know the results of the quiz.#
+Talk to Arian#
+
+17010#Daewoon's Test#SG_FEEL#QUE_IMAGE#
+Now you're supposed to go see Daewoon in Payon for your next test. Don't forget to show him the Crumb of Sobbing Starlight!#
+Talk to Daewoon in Payon#
+
+17011#Sir Jore's Test#SG_FEEL#QUE_IMAGE#
+Your next examiner is Sir Jore, also known as the Ghost of Al De Baran. Find him and take his test.#
+Talk to Sir Jore in Al De Baran#
+
+17012#Sir Jore's Materials#SG_FEEL#QUE_IMAGE#
+Sir Jore needs a new research sample to replace his ruined one. Bring him ^FF000010 Empty Test Tubes, 10 Green Herbs, and 2 Yggdrasil Leaves^000000.#
+Get materials for Sir Jore#
+
+17013#Stone of Sage#SG_FEEL#QUE_IMAGE#
+Sir Jore is very interested in the Stone of Sage. He asks you to find a family of great Alchemists. According to him, they are living somewhere in a big forest.#
+Find the Alchemists#
+
+17014#Stone of Sage#SG_FEEL#QUE_IMAGE#
+You've found the Alchemists - Gordon and Fleur. They've told you all they know about the Stone of Sage. It's time to go back to Sir Jore.#
+Talk to Sir Jore#
+
+17015#Lady Jesqurienne#SG_FEEL#QUE_IMAGE#
+Sir Jore gives you the Crumb of Sobbing Starlight and tells you to visit Lady Jesqurienne in Geffen. She travels often so she's probably at the inn.#
+Talk to Lady Jesquerinne in Geffen#
+
+17016#Jesquerinne's Quiz Challenge#SG_FEEL#QUE_IMAGE#
+You've found Lady Jesquerinne in a drunken stupor. She has challenged you to a quiz that will be administered by Professor Aaron.#
+Talk to Professor Aaron#
+
+17017#Failed Quiz Challenge#SG_FEEL#QUE_IMAGE#
+You've failed to beat Lady Jesquerinne in the Quiz Challenge. It's not over! Don't give up just yet.#
+Take the test again#
+
+17018#Quiz Challenge Triumph#SG_FEEL#QUE_IMAGE#
+You have defeated Lady Jesquerinne in the Quiz Challenge. Talk to her again and gloat about your superior intellect.#
+Talk to Lady Jesquerinne#
+
+17019#Searching for Dearles#SG_FEEL#QUE_IMAGE#
+Now you must find a man named ^3131CEDearles^000000. It can be hard since he wanders from place to place, but it might help to know that he loves gambling...#
+Find Dearles#
+
+17020#Dearles's Test#SG_FEEL#QUE_IMAGE#
+You have paid 30,000 zeny to take Dearles's test. He tells you to come back tomorrow.#
+Talk to Dearles when the time comes#
+
+17021#Test of Appreciation#SG_FEEL#QUE_IMAGE#
+Dearles doesn't give you an exact list of items to get for him. Instead he asks you to bring him something that will make a good present.#
+Collect some pretty things#
+
+17022#Dearles's Second Test#SG_FEEL#QUE_IMAGE#
+Dearles says that you're ready for the next part of the test, and sends you to Lamadin.#
+Talk to Lamadin#
+
+17023#Rhythm Test Passed#SG_FEEL#QUE_IMAGE#
+You have passed the second part of Dearles's test. Go back to him and let him know.#
+Talk to Dearles#
+
+17024#Finding Bakerlan#SG_FEEL#QUE_IMAGE#
+You're done with Dearles's part of the exam. Take his Crumb of Sobbing Starlight and find someone named Bakerlan in Alberta.#
+Talk to Bakerlan in Alberta#
+
+17025#Bakerlan's Delivery#SG_FEEL#QUE_IMAGE#
+Bakerlan has asked you to make a delivery of something expensive. Speak to his steward for more information.#
+Talk to Mahatra#
+
+17026#Mahatra's Delivery#SG_FEEL#QUE_IMAGE#
+Mahatra has given you a stone that has your name written on it. Deliver it to a Knight named Leibech.#
+Talk to Leibech#
+
+17027#Leibech's Receipt#SG_FEEL#QUE_IMAGE#
+Leibech is grateful that you've brought his delivery to him. He has given you a receipt, take it to Bakerlan.#
+Talk to Bakerlan#
+
+17028#Finding Seylin#SG_FEEL#QUE_IMAGE#
+Mahatra says that Bakerlan hasn't left him any instructions. He asks you to speak with Maid Seylin. She seems worried about something...#
+Find Seylin#
+
+17029#Vigorgra Medicine#SG_FEEL#QUE_IMAGE#
+Seylin has asked you to find a new medicine called Vigorgra. You may be able to learn about it in the Alchemist Guild in Al De Baran.#
+Go to the Alchemist Guild in Al De Baran#
+
+17030#Vigorgra Ingredients#SG_FEEL#QUE_IMAGE#
+Melkaba agrees to make Vigorgra for you if you bring him the following ingredients: ^FF00001 Ment, 20 jars of Honey, 10 Royal Jellies, 30 Bear's Footskins, 1 Hinalle Leaflet, and 1 Empty Bottle^000000.#
+Find ingredients for Vigorgra#
+
+17031#Vigorgra Ready#SG_FEEL#QUE_IMAGE#
+Melkaba has made some Vigorgra for you. Take it back to Seylin.#
+Talk to Seylin#
+
+17032#Seylin's Request#SG_FEEL#QUE_IMAGE#
+Seylin has asked you to take Vigorgra to her brother Maruin along with a letter she wrote. Maruin serves in the Prontera Castle.#
+Talk to Maruin#
+
+17033#Back to Seylin#SG_FEEL#QUE_IMAGE#
+You've delivered Vigorgra and Seylin's letter to Maruin. You should probably go back to Seylin and let her know that her brother thanks her for the gift.#
+Talk with Seylin#
+
+17034#Back to Mahatra#SG_FEEL#QUE_IMAGE#
+Go back to Mahatra and let him know that you have completed Seylin's task.#
+Talk to Mahatra#
+
+17035#Report to Bakerlan#SG_FEEL#QUE_IMAGE#
+Report to Bakerlan that you have completed the tasks that Mahatra and Seylin have asked you to do.#
+Talk to Bakerlan#
+
+17036#Last Crumb#SG_FEEL#QUE_IMAGE#
+Bakerlan says that you have finally completed the qualification tests. Go back to Metz in Prontera with all Crumbs of Sobbing Starlight.#
+Talk to Metz in Prontera#
+
+//----Sign Quest Part 2 Crumbs of Sobbing Starlight----
+17037#In Search of Engel Howard#SG_FEEL#QUE_IMAGE#
+Talk to Brenda Howard's daughter. She may have something for her father, Engel Howard.#
+Talk to Lianna Howard#
+
+17038#Lianna's Letter#SG_FEEL#QUE_IMAGE#
+Find Engel Howard and give him Lianna's letter.#
+Find Engel Howard#
+
+17039#Restoring the Starlight#SG_FEEL#QUE_IMAGE#
+Engel is going to need some tools in order to combine the Crumbs of Sobbing Starlight. Bring him ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and 1 good anvil^000000.#
+Get the tools for Engel#
+
+17040#Letter to Engel's Family#SG_FEEL#QUE_IMAGE#
+While Engel is working on the Sobbing Starlight, he has asked you to deliver a letter to his family.#
+Take the letter to the Engel's family#
+
+17041#Talk to Lianna#SG_FEEL#QUE_IMAGE#
+Talk to Lianna. Apparently she's been waiting to tell you something.#
+Talk to Lianna#
+
+17042#Waiting for the Sobbing Starlight#SG_FEEL#QUE_IMAGE#
+You've received some candies from Lianna as a gift. It's time to check with Engel if he has made any progress in combining the Crumbs of Sobbing Starlight.#
+Talk to Engel Howard#
+
+17043#Sobbing Starlight Restored#SG_FEEL#QUE_IMAGE#
+Engel has managed to restore the Sobbing Starlight. You should take it back to Metz and see if he knows what you can do with it.#
+Talk to Metz in Prontera#
+
+17044#Restoring the Starlight#SG_FEEL#QUE_IMAGE#
+Engel has failed to restore the Sobbing Starlight. He needs more tools for his next try. Bring him ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and a better quality anvil (Golden or Emperium one)^000000.#
+Get the tools for Engel#
+
+17045#Starlight Message#SG_FEEL#QUE_IMAGE#
+According to Metz, an encrypted message is hidden in the depths of the Sobbing Starlight, but it can only be read with the help of a Wizard. Visit the top floor of the Geffen Tower and find someone who can help you.#
+Go to the Geffen Tower#
+
+17046#Man in Umbala#SG_FEEL#QUE_IMAGE#
+Dota from the Geffen Tower tells you that the man you're looking for has gone somewhere near Comodo to study a local tribe there.#
+Investigate Umbala#
+
+17047#Into the Tree#SG_FEEL#QUE_IMAGE#
+Laotan from Umbala tells you that there is a foreigner in the village, but he has gone inside a big tree, and nobody has seen him since.#
+Find the foreigner#
+
+17048#Ancient Papers#SG_FEEL#QUE_IMAGE#
+Cyon will keep his promise to read the message inside of the Sobbing Starlight, but for that he needs ^FF000010 Worn Out Pages^000000.#
+Collect the items for Cyon#
+
+17049#Message in Ancient Language#SG_FEEL#QUE_IMAGE#
+Cyon has given you the Message in Ancient Language from the Sobbing Starlight. You should return to Prontera and show it to Metz.#
+Talk to Metz in Prontera#
+
+//----Sign Quest Part 3 The Ancient Document------
+17050#Fastidious Old Man#SG_FEEL#QUE_IMAGE#
+The document is written in a language that Metz can't read. You should find a man named Frank Franklin who lives on the Sunken Ship in Alberta.#
+Talk to Frank Franklin in Alberta#
+
+17051#Blurry Vision#SG_FEEL#QUE_IMAGE#
+You've found Frank but he is complaining about blurry vision and headaches. Bring him something that will help.#
+Get glasses for Frank Franklin#
+
+17052#Translating the Message#SG_FEEL#QUE_IMAGE#
+Frank says that he's the only person in the world who can translate the message. Give him some time.#
+Talk to Frank Franklin#
+
+17053#Translated Message#SG_FEEL#QUE_IMAGE#
+Frank has successfully translated the message. The document seems to contain the coordinates of some place and a list of materials that need to be collected...#
+Get 4 Resins, 12 Stone Hearts, and 365 Coral Reefs#
+
+17054#Where the Cursed Live#SG_FEEL#QUE_IMAGE#
+Valkyrie Sandra has sent you to the Town of the Cursed to prove your courage.#
+Go to Niflheim#
+
+//----Sign Quest Part 4----
+17055#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
+You have decided to help out poor souls trapped in Niflheim. But you need to earn their trust first.#
+Find those who need help#
+
+17056#Curse Lifted#SG_FEEL#QUE_IMAGE#
+You have successfully lifted the curse from Ashe Bruce, and he gives you a Witch's Spellbook. Find others who need help.#
+Find those who need help#
+
+17057#Meeting the Witch#SG_FEEL#QUE_IMAGE#
+Alakina Ann is lost, and it seems that only the witch of Niflheim can help her. Perhaps you should take the Witch's Spellbook with you.#
+Find the witch#
+
+17058#Witch#SG_FEEL#QUE_IMAGE#
+You have found the witch and told her about Alakina Ann. Kirkana gives you a Crow Wing to send the girl back home.#
+Talk to Alakina Ann#
+
+17059#Crow Wing#SG_FEEL#QUE_IMAGE#
+You give the Crow Wing to Alakina Ann but it doesn't work... You'd better ask Kirkana about that.#
+Talk to Kirkana#
+
+17060#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
+Kirkana tells you the sad news: Alakina Ann is actually dead, but she doesn't understand this, because she is very young. Alas, there is nothing you can do to help her, so go back to Serin.#
+Talk to Serin#
+
+17061#Bard in Niflheim#SG_FEEL#QUE_IMAGE#
+Serin tells you to find the Bard in Niflheim. He might have some useful information.#
+Find the Bard in Niflheim#
+
+17062#Gen of Niflheim#SG_FEEL#QUE_IMAGE#
+Crayu says that you need to talk to someone named ^FF0000Gen^000000.#
+Find Gen in Niflheim#
+
+17063#Witch's Aid#SG_FEEL#QUE_IMAGE#
+Gen has advised you to seek help from the witch. He also tells you to be wary of Serin.#
+Talk to Serin#
+
+17064#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
+Serin says that you should talk to some of the dead in Niflheim and see if you can be of any help to them.#
+Find those who need help#
+
+17065#Queen's Symbol#SG_FEEL#QUE_IMAGE#
+You must earn the queen's favor in order to get the Symbol of the Nine Realms. Try to find out from the locals where the soul of the queen's mother, Angrboda, is imprisoned.#
+Search for Angrboda's soul#
+
+17066#Asking the Valkyrie#SG_FEEL#QUE_IMAGE#
+Serin suggests that you ask someone from Asgard about the whereabouts of Angrboda.#
+Talk to Valkyrie#
+
+17067#Another Option#SG_FEEL#QUE_IMAGE#
+The Valkyrie couldn't provide any answers for you. Perhaps someone in Niflheim can help you with your search for Angrboda's soul.#
+Interrogate the inhabitants of Niflheim#
+
+17068#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+Laichin has told you how to find 4 Angrboda's soul shards. But what does he mean by 'far' and 'close'...? You'd better ask him for clarification.#
+Talk to Laichin#
+
+17069#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 1 o'clock, far 5 o'clock, far 7 o'clock, and close 6 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17070#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 4 o'clock, far 10 o'clock, close 6 o'clock, and very close 11 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17071#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 5 o'clock, close 11 o'clock, close 6 o'clock, and very close 11 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17072#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 4 o'clock, far 5 o'clock, far 10 o'clock, and close 11 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17073#Angrboda's Soul#SG_FEEL#QUE_IMAGE#
+You have retrieved all of Angrboda's Soul Shards. You hear a voice speaking directly to you: 'I am entrusting my soul to you. Please take it to my daughter, Lady Hel...'#
+Talk to Lady Hel#
+
+17074#Symbol of the Nine Realms#SG_FEEL#QUE_IMAGE#
+Lady Hel has rewarded you with the Symbol of the Nine Realms. Decide to whom you should tell about it first of all.#
+Decide who to talk to#
+
+17075#Serin's Ambitions#SG_FEEL#QUE_IMAGE#
+Kirkana has told you that Serin plans to make a deal with the Dark Lord in order to return to the world of the living. You must give her the Witch's Tonic so that she forgets her twisted plans.#
+Get Witch's Tonic from Kirkana#
+
+17076#Witch's Tonic#SG_FEEL#QUE_IMAGE#
+Kirkana has given you the Witch's Tonic, and you've been sent to Serin's location. There you can erase her memories.#
+Talk to Serin#
+
+17077#Serin's Release#SG_FEEL#QUE_IMAGE#
+You have successfully given the Witch's Tonic to Serin, and she will no longer try to summon the Dark Lord. You should tell Kirkana about your success.#
+Talk to Kirkana#
+
+17078#Visit to Lady Hel#SG_FEEL#QUE_IMAGE#
+Kirkana says that Lady Hel wants to see you for some reason.#
+Talk to Lady Hel#
+
+17079#The Sign#SG_FEEL#QUE_IMAGE#
+You have been rewarded with the Sign. It will show everyone that you are a great warrior who is deemed worthy by the Gods themselves. Decide who you should tell about it to, first of all.#
+Brag about your achievements#
+
+17080#Dark Lord's Return#SG_FEEL#QUE_IMAGE#
+You have failed to stop Serin from summoning the Dark Lord. Tell Kirkana about that.#
+Talk to Kirkana#
+
+17081#Serin's Ambitions#SG_FEEL#QUE_IMAGE#
+Serin has told you that Kirkana is trying to summon the Dark Lord to destroy Rune Midgard. You must find a way to stop her.#
+Stop Kirkana#
+
+17082#Dark Lord's Return#SG_FEEL#QUE_IMAGE#
+Your mission has failed. You should probably tell Metz about it.#
+Talk to Metz in Prontera#
+
+17083#Serin's Realization#SG_FEEL#QUE_IMAGE#
+You have interfered with Serin's ambitious plans. You should tell Kirkana everything that happened.#
+Talk to Kirkana#
+
+17084#The Sign#SG_FEEL#QUE_IMAGE#
+Metz says that the Sign can be used to enter Valhalla. But first you should see Engel Howard. He is the only person in Rune Midgard that knows how to handle it.#
+Talk to Engel Howard#
+
+17085#The Sign#SG_FEEL#QUE_IMAGE#
+Engel Howard has completed working with the Sign. You should probably tell Metz about it.#
+Talk to Metz in Prontera#
+
+17086#The Sign#SG_FEEL#QUE_IMAGE#
+Wait for Metz to finish examining the Sign. It should take only a couple of hours.#
+Talk to Metz when the time comes#
+
+17087#The Sign#SG_FEEL#QUE_IMAGE#
+Wait for Engel to complete his work with the Sign.#
+Talk to Engel when the time comes#

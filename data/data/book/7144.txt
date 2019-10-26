@@ -97,7 +97,7 @@ to pour the resulting solution into an Empty Potion Bottle.
 ^400080Anodyne^000000
 A painkiller that temporarily nullifies pain.
 
-Required materials: ^4b00821 Alcohol, 1 Empty Bottle, 1 Ment^000000
+Required materials: ^4b00821 Alcohol, 1 Empty Potion Bottle, 1 Ment^000000
 
 Process: Grind Ment in a medicine bowl and then slowly add water and alcohol.
 You must keep this book with you as a reference while you use the Prepare Potion skill
@@ -116,7 +116,7 @@ to pour the resulting solution into an Empty Bottle.
 ^008040Aloevera^000000
 Temporarily enhances your offensive abilities at the cost of defense.
 
-Required materials: ^4b00821 Aloe, 1 Empty Bottle, 1 Honey^000000
+Required materials: ^4b00821 Aloe, 1 Empty Potion Bottle, 1 Honey^000000
 
 Process: Add Honey and Aloe into a medicine bowl and stir. Slowly add a small amount of
 water while continuing to stir. You must keep this book with you as a reference while you

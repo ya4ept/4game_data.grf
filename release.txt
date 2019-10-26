@@ -1,3 +1,27 @@
+23.10.2019
+Alicel 11:22
+Work on the server is done, and we've implemented some nice features:
+
+A new PVP mechanics: Arena Chests! 3 times per day you can fight for an opportunity to win tons of Arena Coins;
+https://eu.4gameforum.com/threads/667556/
+
+A limited offer: Eternal Halter Lead!
+https://eu.4gameforum.com/threads/667589/
+
+A Shop Update: a weekly rental of Newbie Box!
+https://eu.4gameforum.com/threads/667550/
+
+Some small localization issues have been fixed as well.
+
+==========
+22.10.2019
+Alicel 12:03
+@everyone The problem with the launcher is acknowledged and being worked on, we will inform you about results soon, thank you for your patience!
+
+Alicel 12:45
+@everyone the issue with the launcher is solved, thank you for your feedback!
+
+==========
 16.10.2019
 Alicel 10:52
 Time to get back to Rune-Midgarts Kingdom! The server maintenance is finished, and the fresh Shop update is available! Don't waste your time and get the new Fish in Mouth hat and many others!
