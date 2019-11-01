@@ -1006,9 +1006,9 @@ StateIconList[EFST_IDs.EFST_ARMOR_PROPERTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Change Property Scroll", COLOR_TITLE_BUFF },
+		{ "Armor Property Changed", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Change Property" }
+		{ "Armor's property has been changed." }
 	}
 }
 StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {

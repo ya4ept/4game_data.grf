@@ -3087,8 +3087,8 @@ Find the piano and put the keys in their places.#
 One key is still missing. Can it be replaced with something...?#
 Check if something can fit it there#
 
-10054#On the Verge of the Escape-Clint Kana#SG_FEEL#QUE_NOIMAGE#
-Talk to the witch, Clint Kana to escape.#
+10054#Escape#SG_FEEL#QUE_NOIMAGE#
+Talk to the witch Kirkana to escape.#
 #
 
 //---------------------------¿ìÅº ÃßÀå ¹ø¿ª Äù--------------------------------
@@ -3393,29 +3393,29 @@ You set the yellow bead into the Security key, fitting it within one of three ti
 - Star of Serenity -^FF3355B4 . X : 113 . Y : 178^000000#
 You set the blue bead to the into the Security Key, fitting it within one of three tiny holes. Find the star of serenity.#
 
-11038#Meet the Dead#SG_FEEL#QUE_NOIMAGE#
-Please let Elly know that what happened a month ago was all my fault.#
-Go to the town of the dead and deliver Erious' message to Elly.#
+11038#Meeting with the Dead#SG_FEEL#QUE_NOIMAGE#
+Aleuce's husband, Aery, died, and she wants him to know that the incident that happened a month ago was just a misunderstanding.#
+Go to Niflheim and try to find Aery#
 
-11039#Meet the Dead#SG_FEEL#QUE_NOIMAGE#
-Someone you have to meet there... I suppose you wish to contact the dead... The town of the dead is located north of this place.#
-you must find a man named 'Feylin.' It's very important to let him know that Billik introduced him to you. Bring a rose for him.#
+11039#Meeting with the Dead#SG_FEEL#QUE_NOIMAGE#
+Billy tells you that the town of the dead is to the north. There you should find a man named Fayelyn. Don't forget to bring him a rose.#
+Talk to Fayelyn#
 
-11040#Meet the Dead#SG_FEEL#QUE_NOIMAGE#
-If you came here to meet a deceased friend of yours, you've come to the wrong person. Go back.#
-Can't give up now. Talk to Feylin continuously.#
+11040#Meeting with the Dead#SG_FEEL#QUE_NOIMAGE#
+Fayelyn doesn't want to talk to you. Maybe you should try again...#
+Talk to Fayelyn again#
 
-11041#Meet the Dead#SG_FEEL#QUE_NOIMAGE#
-I am not sure who told you contacting the dead might be possible.... But I surely wouldn't have told you. Besides, speaking about such things is taboo.#
-Can't give up now. Talk to Feylin continuously.#
+11041#Meeting with the Dead#SG_FEEL#QUE_NOIMAGE#
+Fayelyn still refuses to speak about talking to the deceased, but you can't give up now, can you?#
+Talk to Fayelyn again#
 
-11042#Meet the Dead#SG_FEEL#QUE_NOIMAGE#
-Summoning Elly was failed.#
-Go back to Erious anyway.#
+11042#Meeting with the Dead#SG_FEEL#QUE_NOIMAGE#
+You've failed to summon Aery's spirit.#
+Go back to Aleuce#
 
-11043#Meet the Dead#SG_FEEL#QUE_NOIMAGE#
-Please give him this box, and tell him to forget about me. He should live the rest of his life happily with someone else.#
-Go back to Erious and deliver her message and the box.#
+11043#Meeting with the Dead#SG_FEEL#QUE_NOIMAGE#
+Aery's spirit wants you to give a gift from him to Aleuce and tell her to not grieve and move on.#
+Go back to Aleuce#
 
 11044#Herb Medicine - Being a Being a Doctor's Assistance#SG_FEEL#QUE_NOIMAGE#
 Please visit the Tool Shop in town and bring me the medicine that I need. Master will understand if you tell him you've been sent by me.#

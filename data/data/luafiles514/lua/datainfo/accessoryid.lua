@@ -1928,5 +1928,13 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Bicolor_Cat_Witch_Hat = 1938,
 	ACCESSORY_C_Halloween_Cat_Short = 1939,
 	ACCESSORY_C_Halloween_Cat_Long = 1940,
-	ACCESSORY_C_2019_D10_Muffler_TW = 1941
+	ACCESSORY_C_2019_D10_Muffler_TW = 1941,
+	ACCESSORY_BJ_HeadsetA = 1942,
+	ACCESSORY_BJ_HeadsetB = 1943,
+	ACCESSORY_C_Lovely_Ribbon_Hair = 1944,
+	ACCESSORY_C_Blinking_Eyes_Cocktai_BU = 1945,
+	ACCESSORY_C_Rose_Gothic_Bonnet = 1946,
+	ACCESSORY_Runaway_Accelerator = 1947,
+	ACCESSORY_Gift_Of_Panagia = 1948,
+	ACCESSORY_Phalanx = 1949
 }

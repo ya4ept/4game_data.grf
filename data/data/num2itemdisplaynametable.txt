@@ -572,7 +572,7 @@
 532#Banana Juice#
 533#Grape Juice#
 534#Carrot Juice#
-535#Pumkin#
+535#Pumpkin#
 536#Ice Cream#
 601#Fly Wing#
 602#Butterfly Wing#
@@ -779,7 +779,7 @@
 4008#Card#
 4009#Card#
 4010#Card#
-4011#Card#
+4011#Picky Brawler Card#
 4012#Card#
 4013#Card#
 4014#Card#
@@ -2281,11 +2281,13 @@
 12131#Lucky Potion#
 
 // ---------------
+
 7458#Baphomet's Horn#
 7459#RAMADAN#
 583#KETUPAT SAYUR#
 
 // ------- japan mobile event item() -----
+
 5101#Mask#
 
 // ----------koream mobile ----------
@@ -2301,7 +2303,7 @@
 // 2006 halloween
 
 7609#Pumpkin Mojo#
-12192#Pumpkin Pie #
+12192#Pumpkin Pie#
 5202#Cap#
 
 //2006 loykrathong
@@ -2604,9 +2606,10 @@
 
 //--------------------------ep11.1 070316--------------------------------------------------
 // -------------------------- new weapon socket enchant ----------------------------
+
 1816#Claw#
 1532#Mace#
-1418#Javelin#
+1418#Spear#
 13016#Dagger#
 13017#Dagger#
 13018#Dagger#
@@ -2892,10 +2895,12 @@
 11009#Adventure Story Vol.2#
 
 // ------------------- Thor Volcano quest items ---------------------
+
 7704#Broken Thermometer#
 7705#Note of Geologist#
 
 // ------------------- Thor Volcano new equipment items ---------------------
+
 1370#Axe#
 1371#Axe#
 13163#Rifle#
@@ -3565,7 +3570,7 @@
 // ----------------- Via Moscow (localizing) ------------------
 
 7760#Yaga's Magic Book#
-7761#Magic Gourd Bottle#
+7761#Magic Gourd#
 7762#Yaga's Pestle#
 7763#Sticky Herb#
 7764#High Strength Adhesives#
@@ -4077,10 +4082,10 @@
 // --------- 2009.08.04. Cash item update -------------
 
 5395#Hat#
-5396#Hair Band#
+5396#Hairband#
 5377#Accessory#
 5378#Cap#
-5207#Hair Band#
+5207#Hairband#
 
 // --------- 2009.08.18. Cash item update -------------
 
@@ -4186,8 +4191,8 @@
 1647#Staff#
 1648#Staff#
 1745#Bow#
-2004#Twohanded Staff#
-2005#Twohanded Staff#
+2004#Two-handed Staff#
+2005#Two-handed Staff#
 13046#Dagger#
 13047#Dagger#
 13421#Sword#
@@ -4281,7 +4286,7 @@
 // ---------- 2009 Halloween Event ------------
 
 5668#Weird Pumpkin Hat#
-6298#Crushed Pumpkin Hat#
+6298#Scary Pumpkin#
 6299#Worn Cloth Piece#
 
 // --------- 2009.10.27. Cash item update -------------
@@ -5359,7 +5364,7 @@
 //-------------------------2011.12.06------------
 
 16774#Asgard Scroll#
-18550#Asgard Bless#
+18550#Headgear#
 12261#Secret Medicine#
 14601#Blessing of Tyr#
 
@@ -5980,7 +5985,7 @@
 
 //------ Item update 11 / 3 / 2013
 
-18640#Hair Band#
+18640#Hairband#
 2579#Outwear#
 5788#Glasses#
 15058#Garment#
@@ -6345,14 +6350,14 @@
 19724#Hat#
 19729#Hat#
 19696#Hat#
-19718#Hair Band#
+19718#Hairband#
 19728#Hat#
 18878#Hat#
 1596#Book#
 2188#Guard#
 18861#Hat#
 18863#Outfit#
-18864#Hair Band#
+18864#Hairband#
 1837#Knuckle#
 18868#Mask#
 2171#Shield#
@@ -6479,10 +6484,9 @@
 18667#Hairband#
 18674#Hat#
 5656#Helm#
-11550#Pumpkin Cake#
 11592#Candy from a Stranger#
 11593#Trans Candy Blue#
-11594#Trans Candy Yellow#
+11594#Pumpkin Candy#
 11595#Trans Candy Green#
 22067#Shoes#
 20183#Hairband#
@@ -6499,7 +6503,6 @@
 1399#TwoHand Axe#
 1437#OneHand Spear#
 1495#TwoHand Spear#
-1530#Mace#
 1591#Book#
 1667#OneHand Staff#
 1834#knuckle#
@@ -6513,12 +6516,9 @@
 2180#Shield#
 2181#Shield#
 2182#Shield#
-2410#Shoes#
 2496#Shoes#
 2497#Shoes#
 2498#Shoes#
-2629#Accessory#
-2630#Accessory#
 2944#Accessory#
 2945#Accessory#
 2946#Accessory#
@@ -6872,7 +6872,7 @@
 
 25132#Pumpkin Deco#
 25133#Dried White Stem#
-11605#Cookies Bat#
+11605#Bat Cookie#
 
 //-------------------Costama Halloween 2--------------
 
@@ -6963,7 +6963,7 @@
 
 //New Costume
 19539#Helm#
-19540#Hair Band#
+19540#Hairband#
 
 //--------------Shadow 3rd------------------
 24082#Shoes Shadow#
@@ -7061,8 +7061,8 @@
 20078#Hat#
 20079#Helm#
 20080#Hat#
-20098#Hair Band#
-20099#Hair Band#
+20098#Hairband#
+20099#Hairband#
 20100#Hat#
 20101#Accessory#
 
@@ -7180,8 +7180,6 @@
 20397#Festival Mask#
 25245#Small pile of bones#
 25133#Dry White Stem#
-11605#Cookies Bat#
-11550#Pumpkin cake#
 
 17746#Siege Blue Supply Box#
 19538#Hat#
@@ -7241,7 +7239,7 @@
 18563#Hairband#
 
 20841#Garment#
-19221#Hair Band#
+19221#Hairband#
 14835#Love Cheeks Scroll TH#
 14836#Xin Niar Scroll TH#
 28512#Accessories#
@@ -7493,3 +7491,18 @@
 20036#Helmet#
 7720#Arena Coin#
 
+14176#Enriched Elunium Box (50 pcs.)#
+14177#Enriched Oridecon Box (50 pcs.)#
+14219#Enriched Elunium Box (30 pcs.)#
+14220#Enriched Oridecon Box (30 pcs.)#
+
+31186#Black Cat#
+
+19746#Headgear#
+20543#Garment#
+19910#Hat#
+31123#Hat#
+18522#Hat#
+
+9709#Pumpkin Treasure#
+31385#Headband#

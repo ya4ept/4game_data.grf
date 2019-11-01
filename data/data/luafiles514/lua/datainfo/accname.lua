@@ -1923,5 +1923,13 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Bicolor_Cat_Witch_Hat] = "_C_Bicolor_Cat_Witch_Hat",
 	[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = "_C_Halloween_Cat_Short",
 	[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = "_C_Halloween_Cat_Long",
-	[ACCESSORY_IDs.ACCESSORY_C_2019_D10_Muffler_TW] = "_C_2019_D10_Muffler_TW"
+	[ACCESSORY_IDs.ACCESSORY_C_2019_D10_Muffler_TW] = "_C_2019_D10_Muffler_TW",
+	[ACCESSORY_IDs.ACCESSORY_BJ_HeadsetA] = "_BJ_HeadsetA",
+	[ACCESSORY_IDs.ACCESSORY_BJ_HeadsetB] = "_BJ_HeadsetB",
+	[ACCESSORY_IDs.ACCESSORY_C_Lovely_Ribbon_Hair] = "_C_Lovely_Ribbon_Hair",
+	[ACCESSORY_IDs.ACCESSORY_C_Blinking_Eyes_Cocktai_BU] = "_C_Blinking_Eyes_Cocktai_BU",
+	[ACCESSORY_IDs.ACCESSORY_C_Rose_Gothic_Bonnet] = "_C_Rose_Gothic_Bonnet",
+	[ACCESSORY_IDs.ACCESSORY_Runaway_Accelerator] = "_Runaway_Accelerator",
+	[ACCESSORY_IDs.ACCESSORY_Gift_Of_Panagia] = "_Gift_Of_Panagia",
+	[ACCESSORY_IDs.ACCESSORY_Phalanx] = "_Phalanx"
 }

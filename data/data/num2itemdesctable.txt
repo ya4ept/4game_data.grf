@@ -264,12 +264,9 @@ amount of HP^000000.
 Weight: ^7777774^000000
 #
 535#
-A large orange fruit
-grown from a vine that's used in baking pies and
-a few other dishes.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
+A large orange vegetable that's used in pies and a few other dishes.
+Restores ^008000a small amount of HP^000000.
+^FFFFFF_^000000
 Weight: ^7777772^000000
 #
 536#
@@ -2703,88 +2700,40 @@ using a Magnifier.
 Weight: ^77777785^000000
 #
 1407#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1408#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1409#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1413#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1414#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1415#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777785^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1416#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1451#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1452#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1453#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1454#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1455#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1456#
 Unknown item
@@ -4897,152 +4846,128 @@ using a Magnifier.
 Weight: ^77777770^000000
 #
 2334#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2335#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2336#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2337#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777150^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2338#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2339#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 4001#
 Luk +2
 Perfect Dodge +1
 Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4002#
 VIT +1
 Max HP +100
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4003#
 Max HP +700 
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4004#
 DEX +1
 Accuracy +3
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4005#
 Increase damage
 of attacks inflicted on Shadow property by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4006#
 LUK +1
 Critical Rate +1
 Perfect Dodge +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4007#
 Increase damage
 of attacks inflicted on Formless monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4008#
 STR +1
 ATK +10
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4009#
 AGI +1
 Flee Rate +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4010#
 Max SP +80
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4011#
 VIT +1
 Max HP +100
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4012#
 Max HP +400
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4013#
 Max HP +5%
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4014#
 Max HP +400
 Max SP +50
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4015#
 Flee Rate +10
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4016#
 AGI +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4017#
@@ -5050,22 +4975,22 @@ Enable a 5% chance
 of inflicting the ^880000Stun^000000
 status on an enemy
 with each attack.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4018#
 INT +1
 Max SP +10
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4019#
 STR +1
 ATK +3
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4020#
@@ -5073,27 +4998,27 @@ Enable a 5% chance
 of inflicting the ^880000Blind^000000 status on an enemy
 with each attack.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4021#
 DEX +1
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4022#
 VIT +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4023#
 INT +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4024#
@@ -5101,8 +5026,8 @@ Enable a 5% chance
 of inflicting the ^880000Sleep^000000 status on an enemy
 with each attack.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4025#
@@ -5111,74 +5036,74 @@ of inflicting the ^880000Stun^000000
 status on an enemy
 with each attack.
 ATK +10
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4026#
 AGI +1
 Flee Rate +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4027#
 AGI +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4028#
 STR +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4029#
 ATK +15
 Critical Rate +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4030#
 Increase damage
 inflicted upon Wind property monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4031#
 Max HP +10 %
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4032#
 DEF +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4033#
 Enable use of
 Level 1 Detoxify.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4034#
 DEX +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4035#
 Increase damage
 on Demihuman
 monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4036#
@@ -5203,8 +5128,8 @@ Glistening Coat and/or
 Stem when defeating 
 monsters.
 
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4037#
@@ -5212,14 +5137,14 @@ Enable a 5% chance
 of inflicting the ^880000Poison^000000 status on an enemy
 with each attack.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4038#
 HP Recovery +20%
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4039#
@@ -5245,22 +5170,22 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4040#
 Enable use of
 Level 1 Teleport.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4041#
 Increase resistance
 to ^880000Sleep^000000 status by 20%. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4042#
@@ -5268,75 +5193,75 @@ Increase resistance
 to Wind property
 attacks by 10%.
 DEF +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4043#
 ATK +20
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4044#
 Enable use of
 Level 1 Hiding.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4045#
 Reduce damage
 from long ranged
 attacks by 35%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4046#
 Increase resistance
-to Blind status by 20%. Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+to Blind status by 20%. Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4047#
 Enchant an Armor
 with the Ghost property. Reduce HP Recovery by 25%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4048#
 Enable use of
 Level 3 Envenom.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4049#
 Increase damage
 inflicted upon Fire property monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4050#
 AGI +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4051#
 AGI +1
 Perfect Dodge +5 
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4052#
 INT +2
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4053#
@@ -5345,15 +5270,15 @@ Level 1 Heal.
 Increase SP
 consumption of
 all skills by 25%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4054#
 Blesses an Armor with
 the Holy property.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4055#
@@ -5361,15 +5286,15 @@ Enable a 5% chance
 of inflicting the ^880000Frozen^000000 status on an enemy
 with each attack.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4056#
 Increase resistance to
 the Wind property by 30%. Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4057#
@@ -5377,30 +5302,30 @@ Enable a 5% chance
 of inflicting the ^880000Mute^000000 status on an enemy
 with each attack.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4058#
 Reduce damage
 from Demihuman
 monsters by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4059#
 Reduce damage from
 Plant monsters by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4060#
 Increase damage on
 Brute monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4061#
@@ -5410,72 +5335,72 @@ battle. Armor can
 still be destroyed
 during upgrade
 attempts. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4062#
 Increase damage
 on Poison property
 monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4063#
 Increase damage on
-Insect monsters by 20%. Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Insect monsters by 20%. Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4064#
 DEX +3
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4065#
 Increase damage
 on Earth property
 monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4066#
 Reduce damage from
 Brute monsters by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4067#
 Increase resistance
 to the ^880000Frozen^000000 status
 by 20%. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4068#
 Increase damage on
 Plant monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4069#
 Increase damage
 on Water property
 monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4070#
 SP Recovery +15%
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4071#
@@ -5483,8 +5408,8 @@ Increase resistance
 to Undead property
 attacks by 30%.
 Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4072#
@@ -5494,29 +5419,29 @@ battle. Weapon can
 still be destroyed
 during upgrade
 attempts. ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4073#
 Enable use of
 Level 5 Discount.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4074#
 Reduce damage from
-Insect monsters by 30%. Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Insect monsters by 30%. Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4075#
 Increase resistance
 against ^880000Stone Curse^000000
 status by 20%. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4076#
@@ -5524,35 +5449,35 @@ Enable a 5% chance
 of inflicting the ^880000Curse^000000 status on an enemy
 with each attack.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4077#
 Enable skill casting
 that cannot be interrupted by damage from enemies
 at the cost of increasing Cast Delay by 25%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4078#
 VIT +3
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4079#
 STR +3
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4080#
 Increase damage on
 Fish monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4081#
@@ -5560,8 +5485,8 @@ Increase resistance
 to Earth property
 attacks by 30%.
 Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4082#
@@ -5569,38 +5494,38 @@ Increase damage
 inflicted on Small
 size monsters by
 15%. ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4083#
 Reduce damage from
 Fish monsters by 30%.
 size monsters by
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4084#
 Enable use
 of Level 3
 Magnum Break.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4085#
 Increase damage
 on Holy property
 monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4086#
 Critical Rate +9%
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4087#
@@ -5609,21 +5534,21 @@ the ^880000Chaos^000000 status.
 Increase resistance
 to Earth property
 attacks by 15%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4088#
 Enable use of
 Level 1 Cloaking.
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4089#
 Enchant an Armor with
-the Water property. DEF +1 Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+the Water property. DEF +1 Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4090#
@@ -5638,15 +5563,15 @@ attacks by 5%. DEF +1
 ^3CB371Yao Jun Card^000000
 All Stats +1
 
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4091#
 Critical Rate +4%
 STR +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4092#
@@ -5654,29 +5579,29 @@ Increase damage
 inflicted on Medium
 size monsters by 15%.
 ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4093#
 Enable use of
 Level 1 Cure.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4094#
 Increase damage with
-Bow class weapons by 10%. Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Bow class weapons by 10%. Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4095#
 Increase resistance
 against Water property
 by 30%. Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4096#
@@ -5684,43 +5609,43 @@ Enable a 4% chance
 of inflicting the ^880000Poison^000000 status on an enemy
 with each attack.
 ATK +10
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4097#
 Max HP +10% 
 AGI +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4098#
 Enchant an Armor
 with the Wind property. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4099#
 Enchant an Armor
 with the Fire property. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4100#
 Max SP +15%
 SP Recovery +3%
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4101#
 Enchant an Armor
 with the Earth property. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4102#
@@ -5728,23 +5653,23 @@ Flee Rate +20
 Increase damage
 from Ghost property
 attacks by 50%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4103#
 Enable use of
 Level 1 Sight.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4104#
 Enable a 5% chance
 of inflicting the ^880000Chaos^000000 status on an enemy
 with each attack.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4105#
@@ -5752,73 +5677,73 @@ Gain protection from
 the ^880000Frozen^000000 status and
 increase resistance to
 Water property by 5%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4106#
 Accuracy +20
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4107#
 Max HP/SP +8%
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4108#
 Increase resistance
 to the Poison property
 by 30%. Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4109#
 Increase resistance
 to the Fire property
 by 30%. Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4110#
 Increase resistance to
 Poison status by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4111#
 Increase damage on
 Demon monsters by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4112#
 Gain immunity to
 the ^880000Silence^000000 status.
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4113#
 Increase resistance
 to Ghost property by
 30%. Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4114#
 Enchant an Armor
 with the Poison
 property. DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4115#
@@ -5827,16 +5752,16 @@ of gaining 15% of the
 damage inflicted on
 an enemy as HP with
 each attack.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4116#
 Increase resistance
 to the Shadow property
 by 30%. Flee Rate +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4117#
@@ -5844,41 +5769,41 @@ Enable Level 1 Double
 Attack on compounded
 weapon. If character has learned Double Attack,
 that skill's level affects this card's effect.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4118#
 Increase damage on
-Dragon monsters by 20%. Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Dragon monsters by 20%. Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4119#
 Enchant an Armor with
 the Shadow property.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4120#
 Reduce damage from
-Dragon monsters by 30%. Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Dragon monsters by 30%. Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4121#
 Accuracy +100
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4122#
 Gain immunity to
 the ^880000Blind^000000 status.
 STR +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4123#
@@ -5888,8 +5813,8 @@ as the Footgear to
 which this card is
 compounded is 
 equipped. Max HP -25%
-Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4124#
@@ -5897,8 +5822,8 @@ Gain immunity to the
 ^880000Stone Curse^000000 status.
 Reduce damage from
 Demon monsters by 15%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4125#
@@ -5906,8 +5831,8 @@ Increase damage on
 Demihuman, Brute,
 Plant and Insect
 monsters by 7%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4126#
@@ -5915,15 +5840,15 @@ Increase damage
 inflicted on Large
 size monsters by
 15%. ATK +5
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4127#
 Gain immunity to the
 ^880000Sleep^000000 status. AGI +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4128#
@@ -5933,21 +5858,21 @@ supportive skills,
 that target character
 at the cost of doubling^FFFFFFaaa^000000 SP Consumption cost
 when using skills.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4129#
 AGI +3
 Critical Rate +1%
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4130#
 Increase damage on
-Undead monsters by 20%. Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Undead monsters by 20%. Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4131#
@@ -5955,8 +5880,8 @@ Enable faster
 Movement Speed so
 long as the Footgear
 to which this card is
-compounded is equipped. Item Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+compounded is equipped. Class: ^777777Card^000000
+Slot: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 4132#
@@ -5964,16 +5889,16 @@ Nullify the Gemstone
 requirement of certain
 spells at the cost of
 increasing SP Consumption by 25% when using skills.
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4133#
 Increase resistance
 to Neutral property
 attacks by 20%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4134#
@@ -5982,8 +5907,8 @@ of gaining 5% of the
 damage inflicted upon
 an enemy as SP with
 each attack.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4135#
@@ -5991,15 +5916,15 @@ Reflect 30% of all
 physical damage
 back to the enemy
 which inflicted it.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4136#
 Reduce damage from
 Demon monsters by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4137#
@@ -6007,37 +5932,37 @@ Nullify reduction
 in damage inflicted
 on monsters resulting
 from monster's size.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4138#
 Reduce damage from
 Angel monsters by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4139#
 Enable use of
 Level 1 Steal.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4140#
 Increase damage on
 Boss monsters by 25%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4141#
 Enchant an Armor with
 the Undead property.
 INT +1, DEF +1
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4142#
@@ -6046,31 +5971,31 @@ Speed so long as the
 weapon to which this
 card is compounded
 is equipped.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4143#
 Gain immunity to
 the ^880000Stun^000000 status.
 VIT +3
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4144#
 Enable full HP/SP
 restoration when
 resurrected.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4145#
 Reduce Cast Time
 for skills by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4146#
@@ -6078,8 +6003,8 @@ Enable a 50% chance of
 reflecting or redirecting Magic spells, aside from
 skills which target the ground, cast on the
 character.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4147#
@@ -6087,16 +6012,16 @@ Endow a weapon
 with damage that will
 splash 9 cells around
 the character with each attack. Accuracy -10
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4148#
 Reduce SP
 Consumption
 of skills by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Class: ^777777Card^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 19997#
@@ -7501,45 +7426,22 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5021#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5022#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5023#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5024#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5025#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5026#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 7056#
 Payment statement for the Kafra employees.
@@ -8508,15 +8410,16 @@ An authorized ticket which allows its owner to enter a prohibited area.
 Weight: ^7777771^000000
 #
 551#
-An Eastern delicacy, in which various types of raw fish is placed on top of rice.
-The rice is marinated in vinegar then wrapped in dried seaweed.
-^ffffff_^000000
-Weight: ^7777771^000000
+An Eastern delicacy made of a piece of raw fish placed on rice.
+Restores ^00800050-60 HP^000000.
+^FFFFFF_^000000
+Weight: ^7777775^000000
 #
-
 30000#
 #
+
 // ---- Valentine's Day event -----------
+
 #
 7182#
 A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
@@ -10083,7 +9986,7 @@ Chance to inflict Curse on an enemy when receiving physical damage
 [If used with Nightmare card]
 Increases the chance to inflict Curse.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4167#
@@ -10854,7 +10757,7 @@ Weight: ^7777771^000000
 4248#
 A chance of auto casting Signum Crucis 5 on an enemy when receiving physical damage
 ^6A5ACD[If used with Mummy Card]^000000
-Seeking attack +20
+Perfect Hit +20
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -11126,7 +11029,7 @@ Weight: ^7777771^000000
 [If Int < 21]
 Mdef +5
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4279#
@@ -11221,7 +11124,7 @@ Weight: ^7777771^000000
 Int +2
 Max SP is increased by formula (Job Lv. * 3)
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4289#
@@ -11239,58 +11142,37 @@ Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4291#
-Kobold Leader Card.
-Inflict 30% more damage on Kobolds.
+Damage to Kobold +30%
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4292#
-Kobold Archer Card.
-Inflict 10% more damage with Critical Attack.
-Critical +7 on Plant monsters.
+Critical damage +10%
+Critical +7 to Plant monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4293#
-Cookie Card.
-LUK +2.
-Inflict 10% more damage 
-with Holy Light skill.
-
-^6A5ACDAcolyte Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Geographer Card^000000
-^3CB371Enchanted Peach Tree Card^000000
-VIT +10
--10% Cast Time
--10% SP Consumption
-^6A5ACDAcolyte Class Bonus:^000000
--30% damage from Undead 
-and Demon monsters.
-+5% EXP from Demon and 
-Undead monsters.
-
-
-^6A5ACDMonk Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Waste Stove Card^000000
-STR +3
-SP +80
-ATT +25
-A chance of casting
-level 5 Signum Crusis with 
-each physical attack.
-Guillotine Fist Damage +10%
-^6A5ACDMonk Class Bonus:^000000
-Uninterruptable Cast
-SP consumpion -10%.
-
+Luk +2
+Holy Light damage +10%
+^6A5ACD[If used with Rideword, Fur Seal, Geographer, and Enchanted Peach Tree Cards]^000000
+Vit +10
+Casting time -10%
+SP consumption -10%
+^6A5ACD[If the set is used by Acolyte class]^000000
+Damage from Undead/Demon monsters -30%
+Exp from Undead/Demon monsters +5%
+^6A5ACD[If used with Rideword, Fur Seal, and Waste Stove Cards]^000000
+Str +3
+Max SP +80
+Atk +25
+A chance of auto casting Signum Crusis 5 after a physical attack
+Guillotine Fist damage +10%
+^6A5ACD[If the set is used by Monk class]^000000
+Uninterruptable cast
+SP consumpion -10%
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11305,320 +11187,212 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4295#
-Kraben Card.
-Add the chance of casting Blind on an enemy when the user receives Physical Damage.
+A chance of inflicting Blind on an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4296#
-Cramp Card.
-Add the chance of gaining a certain amount of Zeny each time a monster is killed.
-If the user is equipped with an item compounded to the Tarou card, it adds STR +3.
+A chance of obtaining some zeny when killing a monster
+^6A5ACD[If used with Tarou Card]^000000
+Str +3
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4297#
-Cruiser Card.
-Inflict 10% more damage 
-with Critical Attack.
-Critical +7 on 
-Brute monsters.
-
-^6A5ACDHunter Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Merman Card^000000
-+20% Ranged Attack Damage
-AGI +5
-DEX +3
-+20% Seeking Attack 
-(which never miss its target)
-^6A5ACDArcher Class Bonus:^000000
-A low chance of 
-auto casting Coma on 
-Brute class monsters 
-when attacking.
-+5% EXP from 
-Brute class monsters.
-
-^6A5ACDBard/Dancer Card Set^000000
-^3CB371Cruiser Card^000000
-^3CB371Anolian Card^000000
-^3CB371Alligator Card^000000
-^3CB371Dragon Tail Card^000000
-^3CB371Green Ferus Card^000000
+Critical damage +10%
+Critical +7 to Animal monsters
+^6A5ACD[If used with Anolian, Alligator, Dragon Tail, and Merman Cards]^000000
+Ranged attack damage +20%
+Agi +5
+Dex +3
+Seeking attack +20%
+^6A5ACD[If the set is used by Archer class]^000000
+A low chance of inflicting Coma on Animal monsters after an attack
+Exp from Animal monsters +5%
+^6A5ACD[If used with Anolian, Alligator, Dragon Tail, and Green Ferus Cards]^000000
 Dex +5
-+5% Arrow Vulcan Damage
-+10% Melody Strike Damage 
-+10% Slinging Arrow Damage
-^6A5ACDBard or Dancer Class Bonus:^000000
-A low chance of 
-auto casting
-level 2 Tarot Card of Fate 
-when hit by a melee attack.
-
+Arrow Vulcan damage +5%
+Melody Strike damage +10%
+Slinging Arrow damage +10%
+^6A5ACD[If the set is used by Bard/Dancer class]^000000
+A low chance of auto casting Tarot Card of Fate 2 when hit by a melee attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4298#
-Creamy Fear Card.
-Add the chance of casting Chaos on an enemy when the user receives Physical Damage.
+A chance of inflicting Chaos on an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4299#
-Clock Card.
-Automatically cast level 3 
-Guard on the user when 
-receiving Damage.
-If the user has mastered 
-the skill at level 10, it 
-will cast level 10 Guard.
-
-^6A5ACDClocktower Card Set^000000
-^3CB371Tower Keeper Card^000000
-^3CB371Punk Card^000000
-^3CB371Alarm Card^000000
-^3CB371Clock Card^000000
-DEF +3
-MDEF +3
-
+Auto cast of Guard 3 on the user when receiving damage
+If the skill is Lv. 10, it will be cast instead.
+^6A5ACD[If used with Tower Keeper, Punk, and Alarm Cards]^000000
+Def/Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4300#
-Chimera Card.
-Add the chance of poisoning an enemy when the user receives Physical Damage.
-The chance is increased if worn by Assassin or Assassin Cross characters.
+A chance of poisoning an enemy when receiving physical damage
+[If used by Assassin/Assassin Cross]
+The chance of poisoning is increased.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4301#
-Killer Mantis Card.
-Add the chance of auto casting Bleeding on an enemy when the user receives Physical Damage.
+A chance of inflicting Bleed on an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4302#
-Tao Gunka Card.
-Max HP + 100%, DEF - 50 and MDEF - 50.
+Max HP +100%
+Def/Mdef -50%
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4303#
-Giant Whisper Card.
-Flee Rate+ 10.
-ATK +20 if the user has 80 or more STR points.
-Max HP +3% if the user has 80 or more VIT points.
-Critical +3 if the user has 80 or more LUK points.
+Flee +10
+^6A5ACD[If Str > 79]^000000
+Atk +20
+^6A5ACD[If Vit > 79]^000000
+Max HP +3%
+^6A5ACD[If Luk > 79]^000000
+Critical +3
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4304#
-Tamruan Card.
-Inflict 10% more damage with Smite and Shield Boomerang skills.
-DEF +2.
+Smite/Shield Boomerang damage +10%
+Def +2
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4305#
-Turtle General Card.
-ATK +20%.
-Add the chance of auto casting level 10 Magnum Break on enemy when doing Physical Attack.
+Atk +20%
+A chance of auto casting Magnum Break 10 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4306#
-Toad Card.
-Perfect Dodge +1.
-If the user is equipped with an item compounded to the Roda Frog card,
-it adds Flee +18.
+Perfect Dodge +1
+^6A5ACD[If used with Roda Frog Card]^000000
+Flee +18
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4307#
-Beetle King Card.
-Gain 5 SP each time a Fish monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing a Fish monster with physical melee attack
+SP -5 when unequipping the weapon
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4308#
-Tri Joint Card.
-Gain 5 SP each time a Neutral monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing a Formless monster with physical melee attack
+SP -5 when unequipping the weapon
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4309#
-Parasite Card.
-DEF +1.
-Add 5% more tolerance against Neutral Attack.
-^6A5ACDWizard Card Set^000000
-^3CB371Loli Ruri Card^000000
-^3CB371Parasite Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Evil Nymph^000000
-^3CB371Harpy Card^000000
-^3CB371Bloody Butterfly Card^000000
-+500 HP
-+5 MDEF
-+5 DEF
-+10% Damage using 
-the Cold Bolt, Fire Bolt, 
-and Lightning Bolt skills.
-^3CB371Mage Class only Bonuses^000000
-+3% MATK
-15% Faster Cast
+Def +1
+Resistance to Neutral attacks +5%
+^6A5ACD[If used with Loli Ruri, Miyabi Doll, Evil Nymph, Harpy, and Bloody Butterfly Cards]^000000
+Max HP +500
+Def/Mdef +5
+Cold/Fire/Lightning Bolt damage +10%
+^6A5ACD[If the set is used by Mage class]^000000
+Matk +3%
+Casting time -15%
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4310#
-Panzer Goblin Card.
-Inflict 10% more damage with Critical Attack.
-Critical +7 on Devil monsters.
+Critical damage +10%
+Critical +7 to Demon monsters
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4311#
-Permeter Card.
-Add 15% more tolerance against Shadow Property Attack.
-Add 15% more tolerance against Undead Property Attack.
-
-^6A5ACDSwordsman Card Set^000000
-^3CB371Assaulter Card^000000
-^3CB371Permeter Card^000000
-^3CB371Solider Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Set Bonus: A chance to cast 
-level 1 Weapon Perfection 
-when attacking.
-HP Regen +50%
-A chance of gaining 
-'Red Potion' 
-each time a monster is killed.
+Resistance to Undead/Shadow attacks +15%
+^6A5ACD[If used with Assaulter, Solider, Freezer, and Heater Cards]^000000
+A chance of auto casting Weapon Perfection 1 after an attack
+HP recovery rate +50%
+A chance of obtaining Red Potion when killing a monster
 Max HP +20%
-STR +10
-Swordsman Class:
-+50% HP Restoration 
-when using Red, Yellow, 
-and White Potions.
-
-^6A5ACDCrusader Card Set^000000
-^3CB371Archdam Card^000000
-^3CB371Permeter Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Crusader Card set bonus is
-INT +1 
-STR +1
-DEF +2
-SP Recovery +10%
-+10% Rapid Smiting and 
-Martyr's Reckoning Damage 
-Cast Speed +10%
-Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.
-
+Str +10
+^6A5ACD[If the set is used by Swordsman class]^000000
+Red/Yellow/White Potions restore 50% more HP.
+^6A5ACD[If used with Archdam, Freezer, and Heater Cards]^000000
+Str/Int +1 
+Def +2
+SP recovery rate +10%
+Rapid Smiting and Martyr's Reckoning damage +10%
+Casting time -10%
+^6A5ACD[If the set is used by Crusader/Paladin]^000000
+Imbues armor with Holy property
 Class: ^777777Card^000000
-Slot: ^777777Helmet^000000
+Slot: ^777777Headgear^000000
+Weight: ^7777771^000000
 #
 4312#
-Fur Seal Card.
-Accuracy +10, Flee Rate +3.
-If worn by Acolyte Class 
-characters, it adds 
-Critial +9 on Devil and 
-Undead monsters.
-
-^6A5ACDAcolyte Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Geographer Card^000000
-^3CB371Enchanted Peach Tree Card^000000
-VIT +10
--10% Cast Time
--10% SP Consumption
-^6A5ACDAcolyte Class Bonus:^000000
--30% damage from Undead 
-and Demon monsters.
-+5% EXP from Demon and 
-Undead monsters.
-
-
-^6A5ACDMonk Card Set^000000
-^3CB371Rideword Card^000000
-^3CB371Cookie Card^000000
-^3CB371Fur Seal Card^000000
-^3CB371Waste Stove Card^000000
-STR +3
-SP +80
-ATT +25
-A chance of casting
-level 5 Signum Crusis with 
-each physical attack.
-Guillotine Fist Damage +10%
-^6A5ACDMonk Class Bonus:^000000
-Uninterruptable Cast
-SP consumpion -10%.
-
+Hit +10
+Flee +3
+^6A5ACD[If used by Acolyte class]^000000
+Critial +9 to Demon/Undead monsters
+^6A5ACD[If used with Rideword, Cookie, Geographer, and Enchanted Peach Tree Cards]^000000
+Vit +10
+Casting time -10%
+SP consumption -10%
+^6A5ACD[If the set is used by Acolyte class]^000000
+Damage from Undead/Demon monsters -30%
+Exp from Undead/Demon monsters +5%
+^6A5ACD[If used with Rideword, Cookie, and Waste Stove Cards]^000000
+Str +3
+Max SP +80
+Atk +25
+A chance of auto casting Signum Crucis 5 after a physical attack
+Guillotine Fist damage +10%
+^6A5ACD[If the set is used by Monk class]^000000
+Uninterruptable cast
+SP consumption -10%
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4313#
-Punk Card.
-Automatically cast level 1 
-Quagmire around the user 
-when receiving Physical 
-Damage. If the user has 
-mastered the skill at 
-level 5, it will cast 
-level 5 Quagmire.
-
-^6A5ACDClocktower Card Set^000000
-^3CB371Tower Keeper Card^000000
-^3CB371Punk Card^000000
-^3CB371Alarm Card^000000
-^3CB371Clock Card^000000
-DEF +3
-MDEF +3
-
+Auto cast of Quagmire 1 around the user when receiving physical damage
+If the skill is Lv. 5, it will be cast instead.
+^6A5ACD[If used with Tower Keeper, Alarm, and Clock Cards]^000000
+Def/Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4314#
-Penomena Card.
-Receive 30% less damage from Formless monsters.
+Damage from Formless monsters -30%
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4315#
-Pest Card.
-Add the chance of auto casting Stone Curse on an enemy when the user receives Physical Damage.
-The chance is increased if the user has 77 or more INT points.
+A chance of auto casting Stone Curse on an enemy when receiving physical damage
+^6A5ACD[If Int > 76]^000000
+The chance of casting Stone Curse is increased.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -11631,83 +11405,56 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4317#
-Mobster Card.
-Inflict 15% more damage with Critical Attack.
-If worn by Thief Class characters, it adds Critical +4.
+Critical damage +15%
+^6A5ACD[If used by Thief class]^000000
+Critical +4
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4318#
-Stormy Knight Card.
-Add the chance of auto casting level 1 Storm Gust on enemy when doing Physical Attack.
-Has 20% chance of Freezing an enemy when attacking.
+A chance of auto casting Storm Gust 1 on an enemy after a physical attack
+20% chance of freezing an enemy after an attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4319#
-Freezer Card.
-Max HP +300.
-Inflict 10% more damage 
-with Bash skill 
-if the shoes is upgraded 
-up to +9 or higher.
-
-^6A5ACDSwordsman Card Set^000000
-^3CB371Assaulter Card^000000
-^3CB371Permeter Card^000000
-^3CB371Solider Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Set Bonus: A chance to cast 
-level 1 Weapon Perfection 
-when attacking.
-HP Regen +50%
-A chance of gaining 
-'Red Potion' 
-each time a monster is killed.
+Max HP +300
+^6A5ACD[If the shoes are refined to +9 or higher]^000000
+Bash damage +10%
+^6A5ACD[If used with Assaulter, Permeter, Solider, and Heater Cards]^000000
+A chance of auto casting Weapon Perfection 1 after an attack
+HP recovery rate +50%
+A chance of obtainin Red Potion when killing a monster
 Max HP +20%
-STR +10
-Swordsman Class:
-+50% HP Restoration 
-when using Red, Yellow, 
-and White Potions.
-
-^6A5ACDCrusader Card Set^000000
-^3CB371Archdam Card^000000
-^3CB371Permeter Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Crusader Card set bonus is
-INT +1 
-STR +1
-DEF +2
-SP Recovery +10%
-+10% Rapid Smiting and 
-Martyr's Reckoning Damage 
-Cast Speed +10%
-Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.
-
-
+Str +10
+^6A5ACD[If the set is used by Swordsman class]^000000
+Red/Yellow/White Potions restore 50% more HP.
+^6A5ACD[If used with Archdam, Permeter, and Heater Cards]^000000
+Str/Int +1
+Def +2
+SP recovery rate +10%
+Rapid Smiting and Martyr's Reckoning damage +10%
+Casting time -10%
+^6A5ACD[If the set is used by Crusader/Paladin]^000000
+Imbues armor with Holy property
 Class: ^777777Card^000000
-Slot: ^777777Shoes^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4320#
-Bloody Knight Card.
-Add the chance of casting level 1 Meteor Storm on an enemy when doing Physical Attack.
+A chance of auto casting Meteor Storm 1 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4321#
-[If used with Zipper Bear, Baby Leopard, Raggler, and Myst Case Cards]
+^6A5ACD[If used with Zipper Bear, Baby Leopard, Raggler, and Myst Case Cards]^000000
 Luk +10
 Mammonite damage +20%
 SP +2 per attack
-[If used by Merchant class]
+^6A5ACD[If used by Merchant class]^000000
 20% chance of reflecting magic spells
 A chance of obtaining Old Purple Box when killing a monster
 Class: ^777777Card^000000
@@ -11715,96 +11462,73 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4322#
-High Orc Card.
-Reflect 5% of every Physical Attack Damage.
-DEF +1.
+Reflects 5% of received physical damage
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4323#
-Hatii Bebe Card.
-Add the chance of auto casting level 3 Frost Diver on an enemy when doing Physical Attack.
-If the user is equipped with an item compounded to the Hatii card, the chance is greatly increased.
+A chance of auto casting Frost Driver 3 on an enemy after a physical attack
+^6A5ACD[If used with Hatii Card]^000000
+The chance is greatly increased.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4324#
-Hatii Card.
-Has 50% chance of Freezing an enemy when the user receives Physical Damage.
+50% chance of freezing an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4325#
-Harpy Card.
-Add 15% more tolerance against Neutral Attack.
-Inflict 5% more damage with Napalm Beat skill.
-^6A5ACDSage Card Set^000000
-^3CB371Yellow Novus Card^000000
-^3CB371Evil Nymph Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Bloody Butterfly Card^000000
-^3CB371Harpy Card^000000
-+3 INT
-+10% Thunderstorm Damage
-+10% Heaven Drive Damage
-^3CB371Sage only Bonuses^000000
-+20% chance to reflect Magic
-20% Faster Cast
-Adds a low chance of 
-dropping Red or Yellow 
-Gemstones when defeating 
-monsters.
-
-^6A5ACDWizard Card Set^000000
-^3CB371Loli Ruri Card^000000
-^3CB371Parasite Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Evil Nymph^000000
-^3CB371Harpy Card^000000
-^3CB371Bloody Butterfly Card^000000
-+500 HP
-+5 MDEF
-+5 DEF
-+10% Damage using 
-the Cold Bolt, Fire Bolt, 
-and Lightning Bolt skills.
-^3CB371Mage Class only Bonuses^000000
-+3% MATK
-15% Faster Cast
+Resistance to Neutral attacks +15%
+Napalm Beat damage +5%
+^6A5ACD[If used with Yellow Novus, Evil Nymph, Miyabi Doll, and Bloody Butterfly Cards]^000000
+Int +3
+Thunderstorm and Heaven Drive damage +10%
+^6A5ACD[If the set is used by Sage class]^000000
+20% chance of reflecting magic
+Casting time -20%
+A low chance of obtaining Red/Yellow Gemstone when killing a monster
+^6A5ACD[If used with Loli Ruri, Parasite, Miyabi Doll, Evil Nymph, and Bloody Butterfly Cards]^000000
+Max HP +500
+Def/Mdef +5
+Cold/Fire/Lightning Bolt damage +10%
+^6A5ACD[If the set is used by Mage class]^000000
+Matk +3%
+Casting time -15%
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4326#
-Sea-Otter Card.
-Add the chance of gaining 'Sushi or Raw Fish' item each time a Fish monster is killed.
-Sushi and Raw Fish items restore 50% more HP.
+A chance of obtaining Sushi or Raw Fish when killing a Fish monster
+Sushi and Raw Fish restore 50% more HP.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4327#
-Spell casting cannot be interrupted.
+Uninterruptible cast
 Casting time +30%
 Fire Wall damage +5%
-[If used with Yellow Novus Card, Evil Nymph Card, Miyabi Doll Card and Harpy Card]
+^6A5ACD[If used with Yellow Novus, Evil Nymph, Miyabi Doll, and Harpy Cards]^000000
 Int +3
 Thunderstorm damage +10%
 Heaven Drive damage +10%
-^3CB371Sage class bonus:^000000
+^6A5ACD[If the set is used by Sage class]^000000
 20% chance of reflecting magic
-Casting speed +20%
-A low chance of obtaining Red or Yellow Gemstones after killing a monster
-[If used with Loli Ruri Card, Parasite Card, Miyabi Doll Card, Evil Nymph Card and Harpy Card]
+Casting time -20%
+A low chance of obtaining Red/Yellow Gemstone after killing a monster
+^6A5ACD[If used with Loli Ruri, Parasite, Miyabi Doll, Evil Nymph, and Harpy Cards]^000000
 Max HP +500
 Def/Mdef +5
 Cold/Fire/Lightning Bolt damage +10%
-^3CB371Mage class bonus:^000000
+^6A5ACD[If the set is used by Mage class]^000000
 Matk +3%
-Casting speed +15%
+Casting time -15%
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -11812,16 +11536,15 @@ Weight: ^7777771^000000
 4328#
 Flee +15
 Critical +1
-[If used with Munak Card and Bongun Card]
+^6A5ACD[If used with Munak Card and Bongun Card]^000000
 All stats +1
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4329#
-Phendark Card.
-Gain 5 SP each time a Demi Human monster is killed by Physical Melee Attack.
-Drain 5 SP as the weapon is unequipped.
+SP +5 when killing a Demihuman monster with a physical melee attack
+SP -5 when unequipping the weapon
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -11834,46 +11557,25 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4331#
-Heater Card.
-Critical +3.
-If worn by Swordsman Class characters, Perfect Dodge +3.
-
-^6A5ACDSwordsman Card Set^000000
-^3CB371Assaulter Card^000000
-^3CB371Permeter Card^000000
-^3CB371Solider Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Set Bonus: A chance to cast 
-level 1 Weapon Perfection 
-when attacking.
-HP Regen +50%
-A chance of gaining 
-'Red Potion' 
-each time a monster is killed.
+Critical +3
+^6A5ACD[If used by Swordsman class]^000000
+Perfect Dodge +3
+^6A5ACD[If used with Assaulter, Permeter, Solider, and Freezer Cards]^000000
+A chance of auto casting Weapon Perfection 1 when attacking
+HP recovery rate +50%
+A chance of obtaining Red Potion when killing a monster
 Max HP +20%
-STR +10
-Swordsman Class:
-+50% HP Restoration 
-when using Red, Yellow, 
-and White Potions.
-
-^6A5ACDCrusader Card Set^000000
-^3CB371Archdam Card^000000
-^3CB371Permeter Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Crusader Card set bonus is
-INT +1 
-STR +1
-DEF +2
-SP Recovery +10%
-+10% Rapid Smiting and 
-Martyr's Reckoning Damage 
-Cast Speed +10%
-Crusader/Paladin Only Bonus:
-Armor becomes Holy Property.
-
+Str +10
+^6A5ACD[If the set is used by Swordsman class]^000000
+Red/Yellow/White Potions restore 50% more HP.
+^6A5ACD[If used with Archdam, Permeter, and Freezer Cards]^000000
+Str/Int +1 
+Def +2
+SP recovery rate +10%
+Rapid Smiting and Martyr's Reckoning damage +10%
+Casting time -10%
+^6A5ACD[If the set is used by Crusader/Paladin]^000000
+Imbues armor with Holy property
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -12263,10 +11965,8 @@ Weight: ^7777777^000000
 //using a Magnifier.
 #
 12132#
-A small, red bag that
-magically changes your
-clothes into a ^000088Santa^000000
-^000088Suit^000000 for 10 minutes.
+A small red bag that magically changes your clothes into a ^000088Santa Suit^000000 for 10 min.
+Increases movement speed for 10 min. (the effect is cancelled when the character moves to another map)
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -13721,12 +13421,6 @@ been packaged and
 carefully wrapped.
 ^00688BProduces a random
 Magic Scroll item.^000000
-^FFFFFF ^000000
-Weight: ^77777720^000000
-#
-12109#
-A wrapped box stamped^FFFFFF    ^000000 with the Poring seal. You
-can faintly hear rustling coming from inside of it.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
@@ -15294,7 +14988,9 @@ the 9th Geffenia Seal.
 ^FFFFFF ^000000
 Weight: ^7777771^000000
 #
+
 //-----------------2006 Halloween--------
+
 7609#
 Halloween Jack's
 true essense, a form
@@ -15307,12 +15003,11 @@ it back desperately.
 Weight: ^7777771^000000
 #
 12192#
-An especially yummy
-pumpkin pie made from
-Hoirin's special recipe. ^000088Recovers a small^000000 
-^000088amount of HP and SP.^000000
-^ffffff ^000000
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+A very delicious pumpkin pie.
+Restores ^0000885% HP/SP^000000.
+^777777_^000000
+Weight: ^7777773^000000
 #
 5202#
 Unknown item
@@ -16141,64 +15836,34 @@ Weight: ^7777770^000000
 // -------------------------- 소켓인챈트 신규무기추가 ----------------------------
 
 1816#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1532#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1418#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13016#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13017#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13018#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13019#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1149#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13400#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1476#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1266#
 Unknown item
@@ -16445,48 +16110,28 @@ amount of HP and SP.
 Weight: ^7777774^000000
 #
 2422#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 //----------------------20060610 신규추가아이템-------------------------
+
 5169#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5170#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5171#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5172#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5173#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5174#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5175#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -16995,8 +16640,7 @@ Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Elunium]
 ^ff0000Account bound^000000
-An enriched elunium that can be found only deep underground. Used as a material to make stronger armor.
-Increases armor's upgrade success rate.
+Increases armor's refine success rate.
 Weight: ^7777771^000000
 #
 12921#
@@ -17005,8 +16649,7 @@ Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Oridecon]
 ^ff0000Account bound^000000
-An enriched oridecon that can be found only deep underground. Used as a material to make stronger weapons.
-Increases weapon's upgrade success rate.
+Increases weapon's refine success rate.
 Weight: ^7777771^000000
 #
 12922#
@@ -17288,7 +16931,7 @@ Weight: ^7777771^000000
 7619#
 ^ff0000Account bound^000000
 An enriched elunium that can be found only deep underground. Used as a material to make stronger armor.
-Increases armor's upgrade success rate.
+Increases armor's refine success rate.
 ^ffffff_^000000
 Only Suhnbi of Prontera is capable of working with this material.
 ^ffffff_^000000
@@ -17297,7 +16940,7 @@ Weight: ^7777770^000000
 7620#
 ^ff0000Account bound^000000
 An enriched oridecon that can be found only deep underground. Used as a material to make stronger weapons.
-Increases weapon's upgrade success rate.
+Increases weapon's refine success rate.
 ^ffffff_^000000
 Only Suhnbi of Prontera is capable of working with this material.
 Weight: ^7777770^000000
@@ -18242,8 +17885,8 @@ Guillotine Fist Damage +10%
 Uninterruptable Cast
 SP consumpion -10%.
 
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4333#
@@ -18253,8 +17896,8 @@ Poison status to the
 attacking enemy and
 this card's wearer
 each time the wearer^FFFFFF      ^000000 is physically attacked.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4334#
@@ -18263,8 +17906,8 @@ against long ranged
 attacks, and reduces
 Neutral Property
 damage by 10%.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000            
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4335#
@@ -18274,8 +17917,8 @@ Heaven's Drive by 5%.
 Drains 50 SP when
 compounded weapon
 is unequipped.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4336#
@@ -18283,34 +17926,34 @@ Adds immunity to
 the Bleeding status,
 and increases HP
 Recovery by 10%.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4337#
 ATK +25, DEF -5
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4338#
 Adds 1 VIT for every
 18 points of base DEX.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4339#
 ATK -25, DEF+3
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4340#
 Reduces damage from
 Undead enemies by 30%.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Shield^000000
+Class: ^777777Card^000000            
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4341#
@@ -18319,8 +17962,8 @@ of autocasting
 Lv.1 Divest Weapon
 each time the wearer
 physically attacks.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4342#
@@ -18333,8 +17976,8 @@ is indestructible,
 but it can still be
 destroyed by failed
 upgrade attempts.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4343#
@@ -18359,8 +18002,8 @@ Glistening Coat and/or
 Stem when defeating 
 monsters.
 
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4344#
@@ -18369,8 +18012,8 @@ dropping Tentacle
 Cheese Gratin when
 defeating Insect
 type monsters.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000            
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4345#
@@ -18380,15 +18023,15 @@ Jupitel Thunder,
 and Lord of Vermilion
 skills by 5%. Drains 50^FFFFFF   ^000000 SP when the compounded
 weapon is unequipped.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4346#
 Adds 1 STR for every
 18 points of base INT.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4347#
@@ -18396,8 +18039,8 @@ Adds a chance of
 dropping Clam Soup
 when defeating Fish
 type monsters.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000            
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4348#
@@ -18426,8 +18069,8 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 
-Item Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000            
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4349#
@@ -18436,8 +18079,8 @@ of autocasting
 Lv.1 Pneuma each
 time the wearer is
 physically attacked.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000            
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4350#
@@ -18447,8 +18090,8 @@ Gust skills by 3%.
 Drains 50 SP when
 compounded weapon
 is unequipped.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4351#
@@ -18459,8 +18102,8 @@ is lower than 5, this
 this card adds Perfect
 Dodge +1 and an
 additional Flee +10.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000            
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4352#
@@ -18470,16 +18113,16 @@ and 10 SP every
 10 seconds, and
 increases Max HP
 and Max SP by 10%.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Shoes^000000
+Class: ^777777Card^000000            
+Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4353#
 Increases HP Recovery
 by 10%. Adds HP +800,^FFFFFF     ^000000 but this bonus decreases
 as the compounded armor's^FFFFFF ^000000 upgrade level increases.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4354#
@@ -18491,8 +18134,8 @@ adds 50% resistance
 to the Stone and Sleep
 statuses if base VIT
 is 80 or greater.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4355#
@@ -18500,45 +18143,45 @@ Adds a chance of
 dropping Bomber
 Steak when defeating
 Animal type monsters.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000            
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4356#
 Enables use of
 Lv.1 Cast Cancel.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000            
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4357#
 Enables use of Lv.1
 Berserk. Reduces
 Max HP by 50%.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4358#
 STR -6. Adds an
 amount of STR equal
 to the compounded^FFFFFF         ^000000 helmet's upgrade level.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4359#
 Enables use of
 Lv.3 Cloaking.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000            
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4360#
 Critical +10 against
 Demihuman enemies.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4361#
@@ -18547,16 +18190,16 @@ destroying an enemy's
 weapon and a 7% chance^FFFFFF    ^000000 of destroying its armor
 each time the wearer
 physically attacks.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4362#
 Reduces Attack
 Speed(Delay after attacking increases by 5%), but
 adds Accuracy +30.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4363#
@@ -18568,8 +18211,8 @@ on the wearer each
 time the wearer
 is physically or
 magically attacked.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4364#
@@ -18582,8 +18225,8 @@ on the attacking
 enemy each time
 the wearer is
 magically attacked.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4365#
@@ -18597,8 +18240,8 @@ the MDEF of regular
 monsters. Drains 2,000
 SP when the compounded
 Helmet is unequipped.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4366#
@@ -18615,8 +18258,8 @@ Strength by 2%.
 Cast Time with card=
 Original Cast Time -
 (Original Cast Time *^FFFFFF    ^000000 Helmet Upgrade Level/100)
-Item Class: ^777777Card^000000            
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000            
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4367#
@@ -18627,8 +18270,8 @@ inflicted on an enemy
 by the wearer as HP,
 but also reduces HP
 Recovery by 100%.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4368#
@@ -18636,15 +18279,15 @@ Increases Attack
 Speed by (Dealy after attacking decrease by 5%), but
 also decreases
 Accuracy by 30.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000            
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4369#
 Adds 1 LUK for every
 18 points of base AGI.
-Item Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000            
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4370#
@@ -18652,8 +18295,8 @@ VIT -5.
 The compounded armor's
 upgrade level affects
 this card's VIT bonus.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4371#
@@ -18675,8 +18318,8 @@ Martyr's Reckoning Damage
 Cast Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4372#
@@ -18687,18 +18330,18 @@ by 30% when they are
 cast by the wearer,
 but also increases SP
 Consumption by 15%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4373#
-LUK -5. 
-LUK and CRIT +1 
-for every upgrade level
-of the garment.
-Class : ^777777Card^000000
-Compound on: ^777777Garment^000000
-Weight : ^7777771^000000
+Luk -5
+^6A5ACD[With each garment's refine level]^000000
+Luk +1
+Critical +1
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
+Weight: ^7777771^000000
 #
 4374#
 [Not Yet Implemented]
@@ -18707,8 +18350,8 @@ of Boss Monster's
 Magic Defense Rate
 when inflicting magic
 attacks against them.
-Item Class: ^777777Card^000000
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4375#
@@ -18722,8 +18365,8 @@ increased to Flee
 Rate +15 and +15%
 Neutral property
 resistance.
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4376#
@@ -18735,8 +18378,8 @@ dropping Bananas when
 defeating monsters.
 Increases effect of
 Bananas by 100%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Class: ^777777Card^000000
+Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4377#
@@ -18744,8 +18387,8 @@ Adds a chance of
 dropping Fruit Mix
 when defeating
 Formless monsters.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4378#
@@ -18759,8 +18402,8 @@ increased to Max HP
 +8% and Max SP +8%,
 and adds SP and
 HP Recovery +5%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Class: ^777777Card^000000
+Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4379#
@@ -18771,8 +18414,8 @@ greater than 4, the
 bonus is increased
 to SP +80, and adds
 SP Recovery +5%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4380#
@@ -18782,8 +18425,8 @@ Meteor Storm skills
 by 5%. Drains 50 SP
 when the compounded
 weapon is unequipped.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4381#
@@ -18805,31 +18448,23 @@ auto casting
 level 2 Tarot Card of Fate 
 when hit by a melee attack.
 
-Item Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Class: ^777777Card^000000
+Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4382#
-HP +500. Increases
-HP Recovery by 10%.
-^6A5ACDSage Card Set^000000
-^3CB371Yellow Novus Card^000000
-^3CB371Evil Nymph Card^000000
-^3CB371Miyabi Doll Card^000000
-^3CB371Bloody Butterfly Card^000000
-^3CB371Harpy Card^000000
-+3 INT
-+10% Thunderstorm Damage
-+10% Heaven's Drive Damage
-^3CB371Sage only Bonuses^000000
-+20% chance to reflect Magic
-20% Faster Cast
-Adds a low chance of 
-dropping Red or Yellow 
-Gemstones when defeating 
-monsters.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+HP recovery rate +10%
+Max HP +500
+^6A5ACD[If used with Evil Nymph, Miyabi Doll, Bloody Butterfly, and Harpy Cards]^000000
+Int +3
+Thunderstorm damage +10%
+Heaven's Drive damage +10%
+^6A5ACD[If the set is used by Sage class]^000000
+20% chance to reflect magic
+A low chance of obtaining Red/Yellow Gemstone when killing a monster
+Casting time -20%
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4383#
@@ -18838,8 +18473,8 @@ of confusing the
 attacking enemy each
 time the wearer is
 physically attacked.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4384#
@@ -18848,8 +18483,8 @@ of autocasting Lv. 1
 Spell Breaker each
 time the wearer
 physically attacks.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4385#
@@ -18857,8 +18492,8 @@ Adds a chance of
 dropping Honey Herbal
 Tea when defeating
 Dragon type monsters.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4386#
@@ -18871,15 +18506,15 @@ time the wearer is
 magically attacked,
 and adds protection
 against Frozen status.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4387#
 Adds 1 AGI for every
 18 points of base LUK.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4388#
@@ -18890,8 +18525,8 @@ Napalm Vulcan skills
 by 5%. Drains 50 SP
 when the compounded
 weapon is unequipped.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4389#
@@ -18901,8 +18536,8 @@ Coldproof, Earthproof,
 and Thunderproof
 Potions when
 defeating monsters.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4390#
@@ -18911,30 +18546,30 @@ chance of inflicting
 the Bleeding status
 each time the wearer
 physically attacks.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4391#
 Adds a chance of
 dropping Fried Sweet
 Potatoes when defeating^FFFFFF   ^000000 Angel type monsters.
-Item Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Class: ^777777Card^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4392#
 Adds 1 DEX for every
 18 points of base VIT.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4393#
 Adds 1 INT for every
 18 points of base STR.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4394#
@@ -18943,8 +18578,8 @@ class characters, this
 card adds a chance
 of autocasting Lv. 5
 Grand Cross.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4395#
@@ -18952,8 +18587,8 @@ ATK +5. Adds a chance
 of autocasting Lv. 3
 Decrease AGI with
 each physical attack.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4396#
@@ -18961,16 +18596,16 @@ AGI -5. Adds an
 amount of AGI equal
 to the compounded
 Shoes's upgrade level.
-Item Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Class: ^777777Card^000000
+Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4397#
 INT -6. Adds an
 amount of INT equal
 to the compounded
-Shield's upgrade level.^FFFFFF   ^000000 Item Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Shield's upgrade level.^FFFFFF   ^000000 Class: ^777777Card^000000
+Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4398#
@@ -18978,8 +18613,8 @@ Weight: ^7777771^000000
 Increases Magic
 Damage against Angel
 type monsters by 10%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4399#
@@ -18987,8 +18622,8 @@ Enchants compounded
 weapon with the Occult
 Impaction skill effect.^FFFFFF   ^000000 Each attack drains 1 SP.
 DEF -30, Flee -30.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4400#
@@ -19001,14 +18636,14 @@ by Dancer class
 characters, this
 chance increases
 to 10%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4401#
 Flee +10, DEF -5
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4402#
@@ -19022,16 +18657,16 @@ equipped by Archer
 class characters, this
 card adds INT +2
 and Max SP +5%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Class: ^777777Card^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4403#
 [Not Yet Implemented]
 Reduces Cast Delay
 of all skills by 30%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Helmet^000000
+Class: ^777777Card^000000
+Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4404#
@@ -19040,8 +18675,8 @@ of inflicting the
 Bleeding status to
 the attacking enemy
 each time the wearer
-is physically attacked.^FFFFFF   ^000000 Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+is physically attacked.^FFFFFF   ^000000 Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4405#
@@ -19053,8 +18688,8 @@ compounded armor's
 upgrade level multiplied^FFFFFF  ^000000 by 2. When worn by
 Mage class characters,^FFFFFF    ^000000 this card adds MDEF +3.
 (but increase in reflection rate applies up to refine degree up to +10)
-Item Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Class: ^777777Card^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4406#
@@ -19062,8 +18697,8 @@ Weight: ^7777771^000000
 Increases Magic
 Damage against
 Demon monsters by 2%.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4407#
@@ -19079,8 +18714,8 @@ is indestructible,
 but it can still be
 destroyed by failed
 upgrade attempts.
-Item Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Class: ^777777Card^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 
@@ -19188,76 +18823,37 @@ Weight: ^7777770^000000
 #
 
 // ----------------------- 토르화산 신규 장비 아이템 ------------------------
+
 1370#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1371#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13163#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13164#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13165#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13166#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13167#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13168#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13169#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2677#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2678#
 Unknown item
 requiring Appraisal.
@@ -20355,7 +19951,6 @@ factory in Lutie.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7910#
 A candy that was
 stolen from the
@@ -20363,7 +19958,6 @@ factory in Lutie.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7911#
 Yulia claims that
 this hat was stolen
@@ -20374,15 +19968,11 @@ middle of the night.
 Weight: ^7777771^000000
 #
 12702#
-A mysterious blue box 
-whose appearance resembles 
-Old Blue Box.
-It seems to hold something 
-inside, but you'll have to 
-open it to find out.
+A mysterious box that resembles Old Blue Box. It seems to hold something inside, but you'll have to open it to find out.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
+
 //-------- 2008 USA Jan event -------
 
 7912#
@@ -20395,8 +19985,10 @@ while the Snowman is
 outside of the machine.
 Weight : ^7777770^000000
 #
+
 //----------------------- 2008 Lunar New Year Event ----------
 // ----------- 대만 펫 추가 ------------------
+
 9038#
 An egg in which the
 New Year Doll Cute
@@ -21413,7 +21005,7 @@ Weight: ^7777770^000000
 Physical damage to Angel and Demon monsters +40%
 Physical damage to Holy and Shadow monsters +40%
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4409#
@@ -21421,7 +21013,7 @@ MATK +5%, DEF -10,
 and Max SP +100 if
 wearer is a Mage
 class character.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -21430,7 +21022,7 @@ ATK +15 and Max
 HP +500 if wearer
 is a Swordsman
 Class character.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -21439,7 +21031,7 @@ STR +2. Each attack
 has a chance of adding
 a CRI +100 bonus for
 5 seconds.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
@@ -21449,7 +21041,7 @@ Each magic attack has
 a chance of reducing
 Cast Time by 50%
 for 5 seconds.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
@@ -21461,7 +21053,7 @@ Has a chance of adding
 a Flee +30 bonus for
 10 seconds each time
 the wearer receives physical or magic damage.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
@@ -21471,7 +21063,7 @@ Lv.1 Stone Curse.
 Adds 30% tolerance
 to Stone Curse status.
 MDEF +10.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
@@ -21482,7 +21074,7 @@ will drop Ice Cream.
 Increases Recovery
 Rate of Ice Cream
 by 100%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21492,7 +21084,7 @@ of Cold Bolt skill by
 25%, and increases
 that Cold Bolt's
 damage by 25%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21501,7 +21093,7 @@ VIT +2. Has a chance
 to add a DEF +10 bonus
 for 10 seconds when
 the wearer receives physical or magic damage.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
@@ -21510,7 +21102,7 @@ Adds a chance of
 auto casting Lv.2
 Cold Bolt with each
 physical attack.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21521,7 +21113,7 @@ to Fire monsters by
 of auto casting Lv.10
 Frost Nova when the
 wearer receives physical^FFFFFF ^000000 or magic damage.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -21533,14 +21125,14 @@ the wearer each time
 the wearer receives
 short range physical
 damage.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4421#
 Crit +15 upon a long-ranged physical attack
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4422#
@@ -21550,7 +21142,7 @@ damage to Water
 monsters by 10%.
 Adds a CRI +15 bonus
 to Fish monsters.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
@@ -21558,7 +21150,7 @@ Weight: ^7777771^000000
 Hit +5. Increases
 damage to Water
 monsters by 5%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21566,7 +21158,7 @@ Weight: ^7777771^000000
 Enables use of
 Find Stone and
 Stone Fling skills.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21575,7 +21167,7 @@ ATK +25. Has a chance
 of increasing Attack
 Speed for 10sec(Delay after attacking reduces by 100%) with
 each physical attack.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
@@ -21584,7 +21176,7 @@ ATK +10% and
 MATK +10% if the
 wearer is a Rogue
 or Stalker.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -21595,7 +21187,7 @@ skill by 25% when
 worn with a One-Handed
 or Two-Handed Sword.
 CRI +5, Hit +5.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
@@ -21606,7 +21198,7 @@ increases the power
 of the Arrow Shower
 skill by 50%.
 CRI+5, Hit +5.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
@@ -21615,14 +21207,14 @@ Increases damage
 of the Fire Pillar
 and Meteor Storm
 skills by 40%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4430#
 ATK, CRI, HIT is increased depending on the wearer's job level.
 Autospell Earthquaker LV2 by a certain chance when receiving physical attack.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21632,7 +21224,7 @@ auto casting Lv.5
 Fire Ball or Lv.5
 Fire Bolt with each
 physical attack.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
@@ -21643,7 +21235,7 @@ monsters by 5%,
 and adds a CRI +15
 bonus against
 Plant monsters.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
@@ -21652,7 +21244,7 @@ Reduces Cast Time
 by 25%, and increases
 damage of Fire Bolt
 skill by 25%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21664,7 +21256,7 @@ chance that defeated
 Spirit monsters will
 drop Rough Oridecons
 or Rough Eluniums.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
@@ -21674,7 +21266,7 @@ time a monster is
 defeated, and also
 increases physical
 and magic damage to Demihuman enemies by 1%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
@@ -21705,7 +21297,7 @@ a low chance of
 inflicting the
 Bleeding status
 to enemies.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -21718,7 +21310,7 @@ Increases damage of
 Soul Strike, Napalm
 Beat, and Napalm
 Vulcan by 20%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
@@ -21730,7 +21322,7 @@ Stone Curse statuses
 on enemies inflicting
 short range physical
 attacks on the wearer.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
@@ -21740,7 +21332,7 @@ INT +1 and ignores
 enemies when this
 card is compounded
 to a Staff weapon.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
@@ -21751,7 +21343,7 @@ by 50%. Increases
 magic damage to
 Demihuman and 
 Angel monsters by 50%.
-Item Class: ^777777Card^000000
+Class: ^777777Card^000000
 Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
@@ -22167,9 +21759,8 @@ Weight : ^7777771^000000
 // ------알데바란터보트랙------
 
 12016#
-A potion that increases character's movement speed.
-The effect is cancelled when moving to another location.
-Duration: 5 sec.
+A potion that increases character's movement speed for 5 sec.
+The effect is cancelled when the character moves to another map.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -23828,76 +23419,40 @@ Can be identified by
 using a Magnifier.
 #
 1179#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13031#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13032#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13033#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1540#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5351#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5347#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5348#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5349#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5350#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2715#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2432#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2434#
 Unknown item
@@ -23930,55 +23485,45 @@ Can be identified by
 using a Magnifier.
 #
 2523#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5353#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 //-----------Moscovia------------
+
 7760#
 Baba Yaga's magic book which tells the reader how to practice the strongest dark arts.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7761#
-A marvelous bottle that can carry human languages inside.
+^ff0000Character bound^000000
+A marvelous bottle that can be used to carry human words inside.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
-
 7762#
 Baba Yaga always carries this. All of the markings on it have been rubbed off.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7763#
 It has a sticky liquid that makes you feel bad. It can be used as glue by grinding it.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7764#
 It's the highest strength adhesive, which can stick anything together.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7765#
 This is a unique liquid made by Baba Yaga. It makes sure that winter does not come again! 
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 2707#
 This musical instrument that came from a myterious aged man. It sounds very beautiful.
 Class : ^777777Accessories^000000
@@ -24336,6 +23881,7 @@ Weight : ^7777771^000000
 #
 
 //HEIMDALLR TEST
+
 13940#A box containing 100 teleport scrolls that warp you to the Siege Areas.
 Valkyrie Realms
 Britoniah
@@ -24347,21 +23893,17 @@ Nidhoggur
 Cannot be sold.
 Weight: 1
 #
-
 13621#A box containing 30 Greed Scrolls, which each enable a single cast of Greed.
 This scroll has the same restrictions as the normal casting of Greed; some maps do not allow Greed to be used.
 ^ffffff_^000000
 Weight: 1
 #
 5255#
-A hat with 3 Porings Stacked in a pile.
-Be careful not to drop one of them!
-Has a chance of casting Greed while attacking.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 12312#
 A Battle Manual that takes twice as long to read.
 +50% Exp/Jexp for 60 minutes.
-
 Can only be stored.
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -24375,7 +23917,6 @@ Contains 1 Glaris Doll Hat, which is non-tradeable.
 Decreases 5% damage from demi-humans.  Recovers 50 HP when a monster is killed magical attack.
 Can't be upgraded, Def 0.
 Lvl 60 requirement.  Jobs: All
-
 This Box can be traded.
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -24592,7 +24133,8 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 // ----------- 상품 아이템 ---------------
 
 12109#
-A wrapped box stamped^FFFFFF    ^000000 with the Poring seal. You can faintly hear rustling coming from inside of it.
+A wrapped box stamped with the Poring seal. You can faintly hear rustling coming from inside.
+Summons a Poring-type monster.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
@@ -25046,55 +24588,42 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 2743#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2744#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2745#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2746#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2747#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2748#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2749#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1186#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1483#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1484#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1485#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1740#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1741#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1637#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -27225,17 +26754,18 @@ Contains 50 Enriched Eluniums.
 Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Elunium]
-Increases rate of refining an armor without breaking it.
-^ff0000This item is excluded from subscription withdrawal or refund.^000000
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+Increases armor's refine success rate.
+Weight: ^7777770^000000
 #
 14177#
 Contains 50 Enriched Oridecons.
 Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Oridecon]
-Increases rate of refining a weapon without breaking it.
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+Increases weapon's refine success rate.
+Weight: ^7777770^000000
 #
 14178#
 A box containing 10 Tokens of Ziegfried.
@@ -27392,8 +26922,10 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6298#
-A crushed pumpkin. It must have been dropped and stepped on by someone.
-Weight : ^7777770^000000
+^ff0000Account bound^000000
+A pumpkin with a scary face carved on it. It may be not as simple as it seems...
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 6299#
 ^ff0000Character bound^000000
@@ -29457,26 +28989,22 @@ Only Suhnbi of Payon is capable of refining with this material.
 Weight: ^7777771^000000
 #
 14219#
-Contains 5 Enriched Eluniums.
+Contains 30 Enriched Eluniums.
 Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Elunium]
-Elunium that has been buried deep underground.
-Used as a material to strengthen armor.
-Enhances a chance of successful upgrade.
-Only Suhnbi of Payon is capable of refining with this material.
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+Increases armor's refine success rate.
+Weight: ^7777770^000000
 #
 14220#
-Contains 5 Enriched Oridecons.
+Contains 30 Enriched Oridecons.
 Weight: ^7777771^000000
 ^ffffff_^000000
 [Enriched Oridecon]
-Oridecon that has been buried deep underground.
-Used as a material to strengthen weapons.
-Enhances a chance of successful upgrade.
-Only Suhnbi of Payon is capable of refining with this material.
-Weight: ^7777771^000000
+^ff0000Account bound^000000
+Increases weapon's refine success rate.
+Weight: ^7777770^000000
 #
 14002#
 A supply box containing WoE potions.
@@ -29845,205 +29373,205 @@ An unknown item requiring appraisal. It can be identified by using a magnifier.
 Decreases damage from Neutral Property by 20%.
 Increases damage dealt to Neutral Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4443#
 Decreases damage from Water Property by 20%.
 Increases damage dealt to Water Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4444#
 Decreases damage from Earth Property by 20%.
 Increases damage dealt to Earth Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4445#
 Decreases damage from Wind Property by 20%.
 Increases damage dealt to Wind Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4447#
 Decreases damage from Poison Property by 20%.
 Increases damage dealt to Poison Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4448#
 Decreases damage from Holy Property by 20%.
 Increases damage dealt to Holy Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4449#
 Decreases damage from Shadow Property by 20%.
 Increases damage dealt to Shadow Property by 5%.
 Class : ^777777Card^000000
-Compound on: ^777777Shield^000000
+Slot: ^777777Shield^000000
 Weight : ^7777771^000000
 #
 4450#
 Int +1, Matk +10
 Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4451#
 Matk +100
 Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4452#
 Int +1, Matk +3
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4453#
 Atk +25
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4456#
 INT + 5. When equipped by a High Wizard or Warlock Jobs, Fixed cast of all skills -50%.
 Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4457#
 Increases damage of all ghost element magic attacks by 30%. 
 Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4458#
 ATK + 10. When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10. 
 Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4459#
 MATK + 10. When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%. 
 Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4460#
 Heal Skill Recovery + 3%. Increases SP cost of skills by 5%. 
 Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4461#
 Dex + 1, Agi + 1. When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT + 20. 
 Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4462#
 Hardrock Mammoth DEF + 5. If the armor is refined to +12 or higher, DEF + 20, MaxHP + 10%. If the armor is refined to +14 or higher, MaxHP + 3%. 
 Class : ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4463#
 Tendrillion CRIT + 5. If the weapon is refined to +12 or higher, ATK + 35. If the weapon is refined to +14 or higher, CRIT + 10. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4464#
 Critical Attack Damage + 20%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4465#
 ATK + 10. If compounded on a two hand sword, at +10 refine or higher grants ASPD +1, at +14 refine or higher grants an additional ASPD + 1.
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4466#
 Ranged Attack Damage + 3%. If compounded on a bow, at +10 refine or higher crants ASPD + 1, at +14 refine or higher grants an additional ASPD + 1. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4467#
 STR + 2. If equipped by a merchant job, increases cart revolution damage by 50%, but increases its SP cost by 12. 
 Class : ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Slot: ^777777Shoes^000000
 Weight : ^7777771^000000
 #
 4468#
 ATK + 10. When killing a monster, adds a chance to have a poisonous herb drop. 
 Class : ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Slot: ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4469#
 Increases magic damage on Fish type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4470#
 Increases magic damage on Plant type monsters by 10%.
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4471#
 Increases magic damage on Dragon type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4472#
 Increases magic damage on Brute type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4473#
 Increases magic damage on Undead type monsters by 10%.
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4474#
 Increases magic damage on DemiHuman type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4475#
 Increases magic damage on Formless type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4476#
 Increases magic damage on Insect type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4477#
 Increases magic damage on Demon type monsters by 10%. 
 Class : ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
@@ -31802,11 +31330,6 @@ Weight : ^7777770^000000
 6425#
 A certificate that says that you have helped liberate a soul from being damned in the afterlife.
 Weight : ^7777770^000000
-#
-12192#
-A tasty pumpkin flavored treat, usually enjoyed during the fall season.
-^000088Slight Recovers HP & SP^000000
-Weight : ^7777771^000000
 #
 18527#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -36901,40 +36424,6 @@ it will be useless.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
-19602#
-^00CC00A Tradable Box that contains 1 Hunter's Cap.^000000
-^ff0000This box can be traded and vended^000000
-^0000ffAvailable for sale until Aug. 30, 2012^000000
-This hat is made especially for hunting Brute type Monsters!
-Luk +1
-Increase physical damage inflicted on Brute monsters by 10% and magical damage inflicted on Brute monsters by 5%.
-^ff0000This item is Account Bound^000000
-Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777776^000000
-Weight : ^77777725^000000
-Required Level : ^77777750^000000
-Jobs: ^777777All^000000
-Box Weight : ^7777771^000000
-#
-19603#
-^00CC00A Tradable Box that contains 1 Koneko Hat^000000
-^ff0000This box can be traded and vended^000000
-^0000ffAvailable for sale until Aug. 30, 2012^000000
-A magical kitty hat which shows various expressions on its face.
-Reduces Cast Delay of all skills by 3%.
-MAtk +3%,  MaxSP +3%
-MDef +3
-^ff0000This item is Account Bound^000000
-Class : ^777777Headgear^000000
-Defense : ^7777771^000000
-Location : ^777777Upper^000000
-Weight : ^77777750^000000
-Jobs : ^777777All^000000
-Box Weight : ^7777771^000000
-#
-
 20121#
 ^CC0000This Rental Weapon is not Tradable^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
@@ -37479,16 +36968,6 @@ Weight : ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Gunslinger^000000
-#
-19604#
-A crate full of supplies designed for tanking brawler.
-Contains the following:
-4x - Battle Manual
-6x - Whole Roast (+7 Str)
-6x - Sumptuous Feast (+7 Vit)
-6x - Steamed Alligator with Vegetable (+7 Agi)
-30x - Light Blue Potion
-Weight :^7777770^000000
 #
 19605#
 A crate full of supplies designed for the magically inclined
@@ -39079,70 +38558,6 @@ Contains a 30 Day Ephemeral Megingiorde, which is a TRADABLE Godly item, you may
 Please give this box to the account that is to OWN the God item.
 ^ff0000Character Bound Box.^000000
 Weight : ^777777100^000000
-#
-1530#
-A facsimile of the
-mighty hammer wielded
-by Thor, god of thunder. Increases Attack Speed.
-Dex +50 , Str +20
-^FFFFFF_^000000
-^FF0000This can be made 30 Day version, and tradable by talking with the Godly Item Confiscator in Prontera Castle.^000000
-Not Tradable
-^FFFFFF_^000000
-Class : ^777777Mace^000000
-Property:^777777Wind^000000
-Attack Strength: ^777777350^000000
-Weight : ^777777600^000000
-Weapon Level: ^7777774^000000
-Required Level : ^77777795^000000
-Jobs: ^777777Swordsman and
-Merchant Classes^000000
-#
-2410#
-Named after Odin's trusty steed, these shoes also
-mimic Sleipnir's powers. Increase Movement Speed.
-SP Recovery +15%
-Max HP/SP +10%
-MDEF +10
-^FFFFFF_^000000
-^FF0000This can be made 30 Day version, and tradable by talking with the Godly Item Confiscator in Prontera Castle.^000000
-Not Tradable
-^FFFFFF_^000000
-Class : ^777777Footwear^000000
-Defense : ^7777775^000000
-Weight : ^777777350^000000
-Required Level : ^77777794^000000
-Jobs: ^777777All^000000
-#
-2629#
-A reproduction of the
-girdle of might that
-Thor wore to enhance
-his prodigious strength. Str +40, MDEF +7
-^FFFFFF_^000000
-^FF0000This can be made 30 Day version, and tradable by talking with the Godly Item Confiscator in Prontera Castle.^000000
-Not Tradable
-^FFFFFF_^000000
-Class : ^777777Accessory^000000
-Defense : ^7777772^000000
-Weight : ^777777800^000000
-Required Level : ^77777794^000000
-Jobs: ^777777All^000000
-#
-2630#
-An imitation of the
-necklace worn by the
-beautiful goddess Freya. Str +6, Agi +6, Int +6
-Vit +6, Luk +10
-^FFFFFF_^000000
-^FF0000This can be made 30 Day version, and tradable by talking with the Godly Item Confiscator in Prontera Castle.^000000
-Not Tradable
-^FFFFFF_^000000
-Class : ^777777Accessory^000000
-Defense : ^7777771^000000
-Weight : ^777777150^000000
-Required Level : ^77777794^000000
-Jobs: ^777777All^000000
 #
 2462#
 Named after Odin's trusty steed, these shoes also
@@ -41885,7 +41300,6 @@ Hexagon Spectacles
 Mochiring Hat
 Weight : ^7777771^000000
 #
-
 1299#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -41899,9 +41313,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1495#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-1530#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1591#
@@ -41943,9 +41354,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 2182#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-2410#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 2496#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -41953,12 +41361,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2498#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-2629#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-2630#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2944#
@@ -43827,10 +43229,11 @@ Not identified. Can be identified with [Magnifier].
 Weight : ^77777710^000000
 #
 11550#
-A cake made with smashed moist pumpkin.
-^000088Recovers 5% of HP and SP^000000.
+^ff0000Account bound^000000
+A cake made from smashed moist pumpkin.
+Restores ^00008810% HP/SP^000000.
 ^ffffff_^000000
-Weight : ^7777774^000000
+Weight: ^7777773^000000
 #
 11592#
 ^ff0000Account bound^000000
@@ -43847,10 +43250,12 @@ When using, shapeshift to Bathory for 10 minutes.  MSP + 100 while shapeshifting
 Weight : ^7777773^000000
 #
 11594#
-Recover 45 HP.
-[Effect only available during the event period]
-When using, shapeshift to Jack for 10 minutes. Recovery effect increase for 2000% when consuming "Pumpkin" while shapeshifting.
-Weight : ^7777773^000000
+^ff0000Character bound^000000
+A sweet candy. On its wrapper is written: 'Be like Jakk. Organic product.'
+Transforms into Jakk for 10 min.
+Pumpkins restore much more HP.
+^ffffff_^000000
+Weight: ^7777773^000000
 #
 11595#
 Recover 45 HP.
@@ -43858,21 +43263,20 @@ Recover 45 HP.
 When using, shapeshift to Cube for 10 minutes.  HIT + 10, FLEE + 20 while shapeshifting.
 Weight : ^7777773^000000
 #
-
 22067#
-Not identified. Can be identified by using a [Magnifier].
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20183#
-Not identified. Can be identified by using a [Magnifier].
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6913#
-Not identified. Can be identified by using a [Magnifier].
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6914#
-Not identified. Can be identified by using a [Magnifier].
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6915#
-Not identified. Can be identified by using a [Magnifier].
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22838#
 A basket for Halloween candies. When opened, various goodies and old stuffs will be found.
@@ -44581,273 +43985,273 @@ Weight : ^7777771^000000
 Enables Level 10 Magic Strings (if equipped with a Musical Instrument/Whip).
 FLEE +20. If VIT 110 or greater, additional FLEE +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4561#
 Magic attacks from enemies create a high chance of auto-casting Level 5 Magnetic Earth.
 MATK +7%. If DEX 110 or greater, additional MATK +7%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4562#
 Physical attacks from enemies create a high chance of auto-casting Level 5 Occult Impaction.
 ATK +7%. If AGI 110 or greater, additional ATK +7%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4563#
 Physical attacks from enemies create a high chance of auto-casting Level 5 Acid Terror. (Requires Acid Bottles.)
 CRI +20. If STR 110 or greater, additional CRI +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4564#
 Physical attacks from enemies create a high chance of auto-casting Level 1 Full Divestment.
 HIT + 20. If LUK 110 or greater, additional HIT +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4565#
 Magic attacks from enemies create a high chance of auto-casting Level 10 Grand Cross.
 MHP + 10%. If INT 110 or greater, additional MHP +10%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4566#
 Enables Level 10 Lady Luck (if equipped with a Musical Instrument/Whip).
 FLEE +20. If VIT 110 or greater, additional FLEE +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4567#
 FLEE +10.
 (For Bard classes) MHP +10%, MSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4568#
 FLEE +10.
 Enables Level 1 Hocus Pocus.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4569#
 FLEE +10.
 Enables Level 2 Summon Spirit Sphere.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4570#
 FLEE +10.
 Red/Yellow/Condensed White Potions effectiveness +200%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4571#
 FLEE +10.
 Enables Level 1 Close Confine.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4572#
 FLEE +10.
 Enables Level 3 Guard.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4573#
 FLEE +10.
 (For Dancer classes) MHP +10%, MSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
 One/two-handed Swords ATK +100.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4575#
 ATK + 10.
 (For Daggers) ASPD +1 when Upgraded to +10 and above, additional ASPD +1 when Upgraded to +14 and above.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4576#
 Wind/Ghost Magic damage +100%.
 All elemental resistances -30%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4577#
 Wind/Ghost Magic damage +20%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4578#
 Critical damage +30%.
 Damage from all monster types +10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
 (For Maces) ATK + 20, CRI + 10.
 Additional ATK +1/CRI +1 depending on the Upgrade levels.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4580#
 Fire/Water/Earth/Wind/Shadow/Undead Resistances +50%.
 Ghost/Holy damage from enemies +100%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4581#
 Physical attacks from enemies create a chance of increasing Attack Speed for 3 seconds, increasing AGI +44, and casting Endure at the cost of 40 SP.
 Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4582#
 MaxHP +1% every 2 Upgrade levels.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4583#
 +30% Damage on Poison monsters.
 Ignores 30% Defense of Plant monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4584#
 Each attack on enemies restores 1 SP.
 MSP -1%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4585#
 MHP +10%
 Each kill consumes 666 of your HP.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4586#
 MATK +10. Wind Magic damage +5%.
 Additional Wind Magic damage +5% when Upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4587#
 +12 Critical damage on Human/Animal/Fish monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4588#
 ATK +5 every 10 pure STR.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4589#
 MHP +200 every 10 pure VIT.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4590#
 INT + 4. Magic attacks from enemies create a high chance of casting Sleep on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4591#
 STR + 4. Physical attacks from enemies create a high chance of casting Bleeding on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4592#
 VIT + 4. Magic attacks from enemies create a high chance of casting Petrification on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4593#
 Long-ranged Attack Strength +1% for every 10 pure DEX.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4594#
 Critical damage +2% for every 10 pure LUK.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4595#
 Bonus on Attack Speed for every 10 pure AGI. (-2% post-attack delay)
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4596#
 MATK +5 every 10 pure INT.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4597#
 MATK +10. Water Magic damage +5%.
 Additional Water Magic damage +5% when Upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4598#
 MATK +10. Ghost Magic damage +5%.
 Additional Ghost Magic damage +5% when Upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4599#
 MATK +10. Fire Magic damage +5%.
 Additional Fire Magic damage +5% when Upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4600#
 MATK +10. Earth Magic damage +5%.
 Additional Earth Magic damage +5% when Upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Slot: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4601#
@@ -44855,7 +44259,7 @@ ATK +15%, MATK +15%.
 -666 HP and -66 SP every 4 seconds.
 -6,666 HP and -666 HP when unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4602#
@@ -44863,21 +44267,21 @@ ATK +20%, MATK +20%.
 -666 HP and -66 SP every 6 seconds.
 -6,666 HP and -666 HP when unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4603#
 ATK +20.
 Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 5x5 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4604#
 ATK +30.
 Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 11x11 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4605#
@@ -44886,7 +44290,7 @@ If a Melee Physical attack finishes a monster, HP +200. (Additional HP +10 every
 -4,444 HP when unequipped.
 Neutral Resistance +20%, FLEE +20, HP -100 and SP -6 every 6 seconds when equipped with Undead Knight (F) Card.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4606#
@@ -44895,14 +44299,14 @@ If a Melee Physical attack finishes a monster, SP +20. (Additional SP +1 every 2
 SP -444 when unequipped.
 Neutral Resistance +20%, FLEE +20, HP -100, and SP -6 every 6 seconds when equipped with Undead Knight (M) Card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4607#
 ATK +5, MATK +5.
 (For Books) ATK + 20 and MATK + 20 when Upgraded to +10 and above. ATK + 20, MATK + 20 when Upgraded to +14 and above.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 1438#
@@ -47943,11 +47347,7 @@ Required LV : ^7777771^000000
 Jobs : ^777777All^000000
 #
 19746#
-A purple hoody with a deep shade. Red eyes in the dark hoody make people scary.
-Class : ^777777Costume^000000
-Location : ^777777Upper Mid Lower ^000000Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Jobs : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19821#
 A hat of monster Hyegun. It was worn out, but very powerful.
@@ -53636,12 +53036,7 @@ Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
 31123#
-Tall hat with flying Ghostring. Cute shabby tall hat.
-Wearing this hat makes feel horrifying. Well…just feeling.
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19915#
 Young and growing devil's horn.
@@ -53978,18 +53373,17 @@ Suitable as a Halloween decoration!!
 Weight: ^7777770^000000
 #
 11605#
-In the crispy cookie with a scent of butter, a strong, sweet chocolate is found inside.
-Caution: It might fly away.
-Weight: ^7777775^000000
+^ff0000Account bound^000000
+A crispy cookie with chocolate drops. Take care as it may fly away the moment you try to take a bite!
+Restores ^000088about 300 HP and 50 SP^000000.
+^FFFFFF_^000000
+Weight: ^7777773^000000
 #
-
 25132#
 The most important decoration item for Halloween
 A candle inside of pumpkin makes more real Halloween mood.
 Weight : ^7777770^000000
 #
-
-
 20377#
 Fly high and easy to find dangerous spot.
 Class : ^777777Costume^000000 Defense : ^7777770^000000
@@ -54385,7 +53779,7 @@ Additional HIT +1
 [Set effect with GC109 Card]
 With a certain chance, Aspd +5 for 5 sec. after a melee attack
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 27020#
@@ -54393,7 +53787,7 @@ Atk +10%
 With a certain chance, SP -40% of all targets within 15*15 cells after a melee attack
 Increase casting speed for every 3 upgrade levels
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4697#
@@ -54402,7 +53796,7 @@ High chance to destroy an enemy's armor after a melee attack
 [Set effect with Kick Step Card]
 No Madogear energy is consumed
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4698#
@@ -54852,69 +54246,43 @@ Can be identified by using a Magnifier.
 Weight : ^7777770^000000
 #
 19628#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19849#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19850#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31113#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20049#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19533#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19844#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19886#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19865#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31156#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19528#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31157#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20320#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight : ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20385#
 Unknown item requiring Appraisal.
@@ -55354,8 +54722,8 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 11703#
 ^ff0000Account bound^000000
-You don't know whose blood it is. Could it be...yours?
-Restores about 30 SP.
+You don't know whose blood it is. Could it be... yours?
+Restores ^000088about 30 SP^000000.
 ^ffffff_^000000
 Weight: ^7777773^000000
 #
@@ -55634,4 +55002,77 @@ Movement speed +25% while on a mount
 Cannot attack while mounted
 Weight: ^7777770^000000
 Jobs: ^777777All^000000
+#
+18550#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+14598#
+A scroll that contains Ghostring's power.
+Imbues armor with Ghost property for 1 min.
+The effect remains after death.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31186#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20543#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20098#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9709#
+A pumpkin with a grinning face carved on it. Trick or treat!
+^ffffff_^000000
+Smash the pumpkin to obtain one of the following items:
+Undead Poring Bag
+Black Cat
+Silent Observer
+Fancy Witch's Hat
+Pumpkin Hairband
+Ghostring Tall Hat
+Vampire's Heirloom
+Deadman's Concert Hat
+Gym Pass
+Enriched Elunium x2
+Enriched Oridecon x2
+Battle Manual x2
+Job Manual x2
+Bubble Gum x2
+Convex Mirror x7
+Yggdrasil Berry x10
+Kafra Card x15
+Silvervine x125
+Giant Fly Wing x6
+Megaphone x5
+LV10 Blessing Scroll x12
+LV10 Increase Agi Scroll x12
+Magnificat Scroll x10
+Steamed Tongue x6
+Steamed Scorpion x6
+Stew of Immortality x6
+Dragon Breath Cocktail x6
+Hwergelmir's Tonic x6
+Cooked Nine Tail's Tails x6
+Light White Potion x150
+Light Blue Potion x35
+Universal Golden Catalog x25
+Pumpkin Cake x66
+Pumpkin Pie x66
+Bat Cookie x99
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31385#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19602#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19603#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19604#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

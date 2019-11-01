@@ -1,3 +1,34 @@
+30.10.2019
+Ali 12:59
+The server is up, and here is the list of updates:
+
+Niflheim and Geffenia, a massive content addition with new instances, quests and items
+
+Halloween event available at Prontera (128 125), available til 06.11;
+
+Pumpkin Treasure, limited offer in our shop for €0.99, available til 06.11;
+
+Minor tweaks and localization fixes.
+
+Eternal Halter Lead offer has ended.
+
+More details on our forums: https://eu.4gameforum.com/threads/668051/
+
+==========
+27.10.2019
+Kaya 2:04
+Maintenance is over and the gates of Rune-Midgard are opened for all adventurers.
+
+Time has been switched from CEST to CET.
+
+Thank you for your patience!
+
+==========
+26.10.2019
+Kaya
+Hey, the winter is coming, so this Sunday we make transition to CET time, the maintenance will take about an hour and will be started tomorrow - 27.10 - at midnight (00:00 CEST).
+
+==========
 23.10.2019
 Alicel 11:22
 Work on the server is done, and we've implemented some nice features:

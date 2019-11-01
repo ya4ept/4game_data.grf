@@ -572,7 +572,7 @@
 532#Banana Juice#
 533#Grape Juice#
 534#Carrot Juice#
-535#Pumkin#
+535#Pumpkin#
 536#Ice Cream#
 601#Fly Wing#
 602#Butterfly Wing#
@@ -778,7 +778,7 @@
 4008#Picky Card#
 4009#Chonchon Card#
 4010#Willow Card#
-4011#Picky Egg Card#
+4011#Picky Brawler Card#
 4012#Thiefbug Egg Card#
 4013#Andre Egg Card#
 4014#Roda Frog Card#
@@ -2668,6 +2668,7 @@
 
 //--------------------------ep11.1 070316--------------------------------------------------
 // -------------------------- new weapon socket enchant ----------------------------
+
 1816#Berserk#
 1532#Stunner#
 1418#Gungnir#
@@ -3624,7 +3625,7 @@
 // ---------- Moscovia (Russia Localizing) ----------
 
 7760#Yaga's Magic Book#
-7761#Magic Gourd Bottle#
+7761#Magic Gourd#
 7762#Yaga's Pestle#
 7763#Sticky Herb#
 7764#High Strength Adhesives#
@@ -4205,7 +4206,7 @@
 
 // ----------- Newly added Ep 13.2 Items ------------
 
-1643#Dead Tree CaneStaff#
+1643#Dead Tree Staff#
 2783#Eye Stone Ring#
 6086#Withered Flower#
 6087#Spiritual Crystal#
@@ -4339,7 +4340,7 @@
 // ---------- 2009 Halloween Event ------------
 
 5668#Weird Pumpkin Hat#
-6298#Crushed Pumpkin Hat#
+6298#Scary Pumpkin#
 6299#Worn Cloth Piece#
 
 // --------- 2009.10.27. Cash item update -------------
@@ -5414,7 +5415,7 @@
 //-------------------------2011.12.06------------
 
 16774#Asgard Scroll#
-18550#Asgard Bless#
+18550#Asgard Blessing#
 12261#Secret Medicine#
 14601#Blessing of Tyr#
 
@@ -6543,13 +6544,12 @@
 18667#Cat Lace Hairband#
 18674#Planewing Hat#
 5656#Scooter Hat J#
-11550#Pumpkin Cake#
 11592#Candy from a Stranger#
 11593#Trans Candy Blue#
-11594#Trans Candy Yellow#
+11594#Pumpkin Candy#
 11595#Trans Candy Green#
 22067#Witch Shoes#
-20183#C There Is Something#
+20183#Silent Observer#
 6913#Sacred Rosary#
 6914#Black Soul#
 6915#Captured Soul#
@@ -6932,7 +6932,7 @@
 
 25132#Pumpkin Deco#
 25133#Dried White Stem#
-11605#Bat Cookies#
+11605#Bat Cookie#
 
 //---------Costama Halloween 2----------------
 
@@ -7120,7 +7120,7 @@
 20078#Costume White Feather#
 20079#Costume Love Daddy 2013#
 20080#Costume Shaman's Hair Orna#
-20098#Costume Vampire Hairband#
+20098#Vampire's Heirloom#
 20099#Costume Ljosalfar#
 20100#Costume Volume Fhat#
 20101#Costume Bragi Wing Ears#
@@ -7239,8 +7239,6 @@
 20397#Jakk#
 25245#Small pile of bones#
 25133#Dry White Stem#
-11605#Cookies Bat#
-11550#Pumpkin cake#
 
 17746#Siege Blue Supply Box#
 
@@ -7970,8 +7968,8 @@
 14173#Wind Walk 10 Scroll Box#
 14174#Adrenaline 5 Scroll Box#
 14175#Megaphone 10 Box#
-14176#Enriched Elunium 50 Box#
-14177#Enriched Oridecon 50 Box#
+14176#Enriched Elunium Box (50 pcs.)#
+14177#Enriched Oridecon Box (50 pcs.)#
 14178#Token of Siegfried Box#
 14181#Hwergelmir's Tonic 30 Box#
 14182#Hwergelmir's Tonic 50 Box#
@@ -7991,8 +7989,8 @@
 14210#Token Of Siegfried 20 Box#
 14213#Steamed Tongue 30 Box#
 14214#Steamed Tongue 50 Box#
-14219#Enriched Elunium 5 Box#
-14220#Enriched Oridecon 5 Box#
+14219#Enriched Elunium Box (30 pcs.)#
+14220#Enriched Oridecon Box (30 pcs.)#
 14223#Mystical Amplification 50 Box#
 14593#Mystical Amplification Scroll#
 7918#Chunk Of Memory#
@@ -8428,7 +8426,7 @@
 16410#Chung Hairpin Box#
 16412#Ice Ear Wing Box#
 16461#Red Wing Hat Box#
-18522#Evil Marching Hat#
+18522#Deadman's Concert Hat#
 19511#Blue Eyepatch#
 19532#placeholder#
 19534#placeholder#
@@ -8655,3 +8653,9 @@
 5408#Old Bandana#
 12314#Newbie Box#
 
+19746#Sect Hood#
+20543#Undead Poring Backpack#
+19910#Fancy Witch's Hat#
+
+9709#Pumpkin Treasure#
+31385#Pumpkin Hairband#
