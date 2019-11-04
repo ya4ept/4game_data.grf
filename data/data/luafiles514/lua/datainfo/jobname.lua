@@ -4195,5 +4195,6 @@ JobNameTable = {
 	[jobtbl.JT_4_TEDDY_BEAR_W] = "teddy_bear_w",
 	[jobtbl.JT_4_TEDDY_BEAR_B] = "teddy_bear_b",
 	[jobtbl.JT_4_TEDDY_BEAR_B_L] = "teddy_bear_b_l",
-	[jobtbl.JT_RU_E_ECLIPS] = "ECLIPSE"
+	[jobtbl.JT_RU_E_ECLIPS] = "ECLIPSE",
+	[jobtbl.JT_G13_ZOMBIE] = "Zombie"
 }

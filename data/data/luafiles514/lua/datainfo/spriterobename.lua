@@ -65,7 +65,8 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon",
 	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom] = "C_Nifl_Bloom",
 	[SPRITE_ROBE_IDs.ROBE_C_Gimmick_One_Feather] = "C_Gimmick_One_Feather",
-	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross"
+	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross",
+	[SPRITE_ROBE_IDs.ROBE_Bow_On_the_Back] = "Bow_On_the_Back"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -134,7 +135,8 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon",
 	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom] = "C_Nifl_Bloom",
 	[SPRITE_ROBE_IDs.ROBE_C_Gimmick_One_Feather] = "C_Gimmick_One_Feather",
-	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross"
+	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross",
+	[SPRITE_ROBE_IDs.ROBE_Bow_On_the_Back] = "Bow_On_the_Back"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -151,6 +153,5 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_Balloon_Wing,
 	SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail,
-	SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon,
-	SPRITE_ROBE_IDs.ROBE_Ru_Bear_Bag
+	SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon
 }
