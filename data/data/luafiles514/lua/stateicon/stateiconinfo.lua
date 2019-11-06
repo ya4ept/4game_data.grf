@@ -712,8 +712,7 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 	descript = {
 		{ "Endure", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Enable to attack and move while receiving damage" },
-		{ "Canceled after caster is hit certain times" }
+		{ "You can attack and move while receiving damage" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
@@ -784,7 +783,7 @@ StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {
 	descript = {
 		{ "Assumptio", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase DEF" }
+		{ "Physical/magical defense from equipment increased." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAXIMIZE] = {

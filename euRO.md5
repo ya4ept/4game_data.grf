@@ -1,7 +1,7 @@
 65bed0db5e34d3cbc5fc3a7a2e4e8b48 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-d682f866255aa4c5d3396acc6ffb9cd2 *data.grf
+5c46016a5733c6fd265b338bcecec7b7 *data.grf
 c39eba10d89fa41818eca2b70b977e55 *dbghelp.dll
 827f816474e830b458d83443efdd8020 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
@@ -30,7 +30,7 @@ e7d91d008fe76423962b91c43c88e4eb *msvcr90.dll
 0e37fbfa79d349d672456923ec5fbbe3 *msvcr100.dll
 4ba25d2cbe1587a841dcfb8c8c4a6ea6 *msvcr110.dll
 ce293eb01ab91d8f1e05cd264ad0a6dd *pcmac.dll
-43a6818119e874ff7008ae1b86ebab94 *Ragexe.exe
+e9ca0131c4018ebea1662e89477d414f *Ragexe.exe
 bb80ec150f7acfae877ed997b06aee3f *Setup.exe
 e13728c262f404e27dbcc3cf1d2588ef *AI\AI.lua
 cb33fecbd46e0190517284983045244f *AI\AI_M.lua
@@ -46,7 +46,7 @@ b8b127426039587d72a6c4f57eef748b *AI\USER_AI\Util.lua
 0424772b97bfe1bd29839f44d68ffbfb *Frost\frost.sys
 a0a44a64eff5c590c9eb95a43e97491c *Frost\frostcollector.dll
 5a0ec21a85a35896e801413743b23cb0 *Frost\frostinfo.txt
-b857795a86c155c5a67ff06f89c81b88 *Frost\frostInit.log
+4a99060ee4078e5766e729ec4aef0848 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 53bdd97fbda6d6af8ea8ab925054db10 *Frost\frost_32.sys
@@ -54,14 +54,14 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 33269b2ca11ca8be17c88836a7e3e5ec *Frost\frost_redirip_info.txt
 2b0005a33c6ca793e62d412a28574f2b *Frost\gameShieldDll.dll
 e07ddb04362bdaa591ed911896e0a8ea *Frost\launcher.dll
-a066eb3e08dad9ccd64e607aeff5b2ee *Frost\launcherUpdater.log
+bf464f04898c16497075bb4f6c76f4ea *Frost\launcherUpdater.log
 7c64b6f0a2c31be1a84f4daf195cd087 *Frost\ro.exe
 e959b857e99a6cdde0b5f94333fe0b78 *Frost\.inn.meta.dir\.inn.cache.txt
 e959b857e99a6cdde0b5f94333fe0b78 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
 6893801672ed421581b4a7b8c4e46527 *Frost\.inn.meta.dir\.inn.files.3.0.0.43.control.txt
 cb04b36300ea8e987d5bcbcf54c904a4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.control.txt
-1bcc625a85721d8b05bb6067f673f66e *gameManager\gameManager.exe
+6b9afe7925d5a88b71b89a5fade96450 *gameManager\gameManager.exe
 fae3e4799f0479bdc9d19086fc51ae42 *System\monster_size_effect.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub
 bf2883a0197c45ba9c03a845e7d6a665 *System\LuaFiles514\OptionInfo.lub

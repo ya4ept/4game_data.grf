@@ -2520,7 +2520,7 @@
 5183#Bird Nest Hat#
 5185#Laurel Wreath#
 5186#Geographer Band#
-5187#Twin Ribbon#
+5187#Twin Ribbons#
 
 //father's day
 
@@ -2701,7 +2701,6 @@
 2121#Memory Book#
 5167#Munak Hat#
 5168#Bongun Hat#
-
 
 // ------------------- 2006 new card update-----------------------
 
@@ -2955,10 +2954,12 @@
 11009#Adventure Story Vol.2#
 
 // ------------------- Ed8#H-;j Dy=:F. >F@LE[ ---------------------
+
 7704#Broken Thermometer#
 7705#Note of Geologist#
 
 // ------------------- Ed8#H-;j =E1T @e:q >F@LE[ ---------------------
+
 1370#Doom Slayer#
 1371#Doom Slayer#
 13163#Long Barrel#
@@ -3940,16 +3941,19 @@
 2774#Glorious Supplied Ring#
 
 // ----------- Episode 13 Fishing ------------
+
 2775#Lure#
 2550#Fisher's Muffler#
 
 // ----------- Episode 13 Jabtem ------------
+
 6020#Fur#
 6021#Peaked Hat#
 6022#Hard Skin#
 6023#Mystic Horn#
 
 // --------- EP13 New Equip Item ---------------
+
 5398#Bone Head#
 5399#Mandragora Cap#
 2386#Chameleon Armor#
@@ -4073,8 +4077,8 @@
 
 // --------- 2009.05.26. Cash item update -------------
 
-5800#Blush Of Groom#
-5801#Ribbon Of Bride#
+5800#Blush of Groom#
+5801#Ribbon of Bride#
 5378#Bunny Top Hat#
 5491#Outlaw Hat#
 5500#Icecream Hat#
@@ -4703,12 +4707,12 @@
 12738#Rare Rough Runestone#
 12333#Ansila#
 7931#Poison Kit#
-7932#Poison Herb Nerium#
-7933#Poison Herb Rantana#
-7934#Poison Herb Makulata#
-7935#Poison Herb Seratum#
-7936#Poison Herb Scopolia#
-7937#Poison Herb Amoena#
+7932#Poisonous Nerium#
+7933#Poisonous Rantana#
+7934#Poisonous Makulata#
+7935#Poisonous Seratum#
+7936#Poisonous Scopolia#
+7937#Poisonous Amoena#
 7938#Light Granule#
 7939#Elder Branch#
 6120#Face Paint#
@@ -5975,6 +5979,7 @@
 14234#Dead Branch 25 Box#
 5611#Turtle Hat#
 16414#Turtle Hat Box#
+16415#Turtle Hat Box#
 16993#Butterfly Wing 50 Box#
 18661#Trident Helmet#
 14531#Accuracy 30 Scroll#
@@ -6536,6 +6541,7 @@
 14712#Luckyspirit Egg#
 18858#Pink Angeling Bubble#
 18912#Bell Pigeon#
+18913#Bell Raven#
 18750#Poker Card In Mouth#
 20707#Kirin Wing#
 18740#C Hair Of The Strong#
@@ -6744,7 +6750,7 @@
 5900#Divine Guard Hat #
 5901#Focus Beret #
 5902#Harvester Hat #
-5903#Hitaikakushi #
+5903#Hitaikakushi#
 5904#Inconspicuous Hat #
 5905#Lyrica Hat #
 5906#Oni Horns #
@@ -8659,3 +8665,12 @@
 
 9709#Pumpkin Treasure#
 31385#Pumpkin Hairband#
+
+17113#Marching Box#
+19411#Holy Marcher Hat Box#
+20745#Manteau of Mystic Frost#
+20747#Manteau of Great Nature#
+
+19602#Invisible Cap#
+19603#Invisible Sunglasses#
+19604#Invisible Mask#

@@ -2640,7 +2640,6 @@
 5167#Hat#
 5168#Hat#
 
-
 // ------------------- 2006 new card update-----------------------
 
 4332#Waste Stove Card#
@@ -3892,10 +3891,12 @@
 2774#Glorious Supplied Ring#
 
 // ----------- Fishing Episode 13 ------------
+
 2775#Accessory#
 2550#Manteau#
 
 // --------- EP13 New Equip Item ---------------
+
 5398#Helm#
 5399#Hat#
 2386#Armor#
@@ -4648,12 +4649,12 @@
 12738#Rare Rough Runestone#
 12333#Ansila#
 7931#Poison Kit#
-7932#Poison Herb Nerium#
-7933#Poison Herb Rantana#
-7934#Poison Herb Makulata#
-7935#Poison Herb Seratum#
-7936#Poison Herb Scopolia#
-7937#Poison Herb Amoena#
+7932#Poisonous Nerium#
+7933#Poisonous Rantana#
+7934#Poisonous Makulata#
+7935#Poisonous Seratum#
+7936#Poisonous Scopolia#
+7937#Poisonous Amoena#
 7938#Light Granule#
 7939#Elder Branch#
 6120#Face Paint#
@@ -4665,7 +4666,9 @@
 12341#Special Alloy Trap Box#
 6128#Antidote#
 6144#Regrettable Tears#
+
 // ---------3? ?????---------
+
 12380#Job Change Flute#
 12381#Ancient Language Scroll#
 12382#Ancient Language Scroll#
@@ -5919,6 +5922,7 @@
 14234#Dead Branch 25 Box#
 5611#Hat#
 16414#Turtle Hat Box#
+16415#Turtle Hat Box#
 16993#Butterfly Wing 50 Box#
 18661#Helm#
 14531#Accuracy 30 Scroll#
@@ -6476,6 +6480,7 @@
 14712#Luckyspirit Egg#
 18858#Accessory#
 18912#Hat#
+18913#Hat#
 18750#Accessory#
 20707#Garment#
 18740#Accessory#
@@ -6835,7 +6840,7 @@
 4875#Bear's Power#
 4876#Runaway Magic#
 4877#Speed Of Light#
-4878#Macho man#
+4878#Muscle Fool#
 4879#Hawkeye#
 4880#Lucky Day#
 4881#Attack Delay 4#
@@ -7506,3 +7511,16 @@
 
 9709#Pumpkin Treasure#
 31385#Headband#
+5404#Headgear#
+13962#Defolty Doll Hat Box#
+16436#Libra Crown Box#
+16437#Libra Crown Box#
+9043#Egg#
+17113#Marching Box#
+19411#Holy Marcher Hat Box#
+20745#Garment#
+20747#Garment#
+
+19602#Cap#
+19603#Glasses#
+19604#Mask#

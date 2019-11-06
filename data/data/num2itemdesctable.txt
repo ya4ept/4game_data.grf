@@ -13061,7 +13061,9 @@ user for 30 seconds.
 ^ffffff_^000000
 Weight : ^77777720^000000
 #
+
 // ---------- Rag Fes ----------
+
 7360#
 An invitation which has the word [Come to the RO Festival and have a wonderful action feagure!] written
 in a foregin language.
@@ -15551,34 +15553,19 @@ Can be identified by
 using a Magnifier.
 #
 13007#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13008#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13009#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13010#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13011#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13012#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -15587,52 +15574,28 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13014#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13015#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13300#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13301#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13302#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13303#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2117#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2118#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2119#
 Unknown item
@@ -17885,18 +17848,13 @@ Guillotine Fist Damage +10%
 Uninterruptable Cast
 SP consumpion -10%.
 
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4333#
-Adds a high chance
-of inflicting the
-Poison status to the
-attacking enemy and
-this card's wearer
-each time the wearer^FFFFFF      ^000000 is physically attacked.
-Class: ^777777Card^000000            
+A high chance of poisoning the enemy and this card's wearer when receiving physical damage
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -17906,7 +17864,7 @@ against long ranged
 attacks, and reduces
 Neutral Property
 damage by 10%.
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
@@ -18069,17 +18027,13 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4349#
-Adds a chance
-of autocasting
-Lv.1 Pneuma each
-time the wearer is
-physically attacked.
-Class: ^777777Card^000000            
+A chance of auto casting Pneuma 1 when receiving physical damage
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -18090,7 +18044,7 @@ Gust skills by 3%.
 Drains 50 SP when
 compounded weapon
 is unequipped.
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
@@ -18468,11 +18422,7 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4383#
-Adds a high chance
-of confusing the
-attacking enemy each
-time the wearer is
-physically attacked.
+A high chance of confusing the enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -18670,12 +18620,8 @@ Slot: ^777777Helmet^000000
 Weight: ^7777771^000000
 #
 4404#
-Adds a high chance
-of inflicting the
-Bleeding status to
-the attacking enemy
-each time the wearer
-is physically attacked.^FFFFFF   ^000000 Class: ^777777Card^000000
+A high chance of inflicting Bleed on the enemy and the user when receiving physical damage
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -23921,14 +23867,20 @@ This Box can be traded.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-13962#Contains 1 Defolty Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans.  Autocasts Lvl 10 Angelus when physically attacked by melee.
-Can't be upgraded, Def 0.
-Lvl 60 requirement.  Jobs: All
-
-This Box can be traded.
+13962#
+Contains 1 Defolty Doll Hat.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+[Defolty Doll Hat]
+^ff0000Account bound^000000
+So hot! A headgear shaped like Kafra employee Defolty! Many adventurers are using Kafra storage more than 20 times a day, fascinated by her smiling face.
+Damage from Demihuman monsters -5%
+A chance of casting Lv. 10 Angelus when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777771^000000    Weight: ^77777750^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14096#Moonlight_Flower_Hat_Box#
 14208#A Box containing 5 Battlemanuals.
@@ -24327,14 +24279,42 @@ A box that contains a Virgo Diadem Headgear.
 Weight : ^7777771^000000
 #
 16436#
-A box that contains 1 Libra Crown.
-^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Weight : ^7777771^000000
+Contains 1 Libra Crown.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Libra Crown]
+A magnificent crown created to pay tribute to the 7th sign of the zodiac, Libra the Balance. Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
+Dex +3
+Wind Resistance +7%
+^6A5ACD[If refined to +7 or higher]^000000
+Matk +3%
+^6A5ACD[If refined to +9 or higher]^000000
+Matk +5%
+A chance of auto casting Frost Nova 5 when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 16437#
-A box that contains 1 Libra Crown.
-^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Weight : ^7777771^000000
+Contains 1 Libra Crown.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Libra Crown]
+A magnificent crown created to pay tribute to the 7th sign of the zodiac, Libra the Balance. Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
+Dex +3
+Wind Resistance +7%
+^6A5ACD[If refined to +7 or higher]^000000
+Matk +3%
+^6A5ACD[If refined to +9 or higher]^000000
+Matk +5%
+A chance of auto casting Frost Nova 5 when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 16438#
 A box that contains 1 Libra Diadem.
@@ -24552,39 +24532,30 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 2389#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2390#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2391#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2440#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2544#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2545#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2133#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2134#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2135#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2743#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -27612,32 +27583,25 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 1384#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1385#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1548#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2138#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2399#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 15000#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2450#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2553#
-
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2554#
@@ -28365,14 +28329,12 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 9043#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 9044#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 9045#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 9046#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -28910,44 +28872,32 @@ A firecracker that shoots up into the sky when lit.
 Weight : ^7777772^000000
 #
 16414#
-A Box that contains 1 Turtle Hat
+Contains 1 Turtle Hat.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Description:
+[Turtle Hat]
 A disgruntled snapping turtle sits above your head. Count your fingers after putting this on.
-Agi +1.
-Has a low chance of casting Lv. 3 Decrease Agi while being physically attacked.
-^FF0000Event Stats from 7/8 - 7/29:
-Increases damage to turtle monsters in Turtle Dungeon by 20%.
-Decreases damage from turtle monsters in Turtle Dungeon by 20%.
-If upgraded to +7 or higher, Adds 25% EXP bonus for any monster killed.^000000
-Class : ^777777Headgear^000000
-Defense : ^7777770^000000
-Position: ^777777Upper^000000
-Weight : ^77777730^000000
-Required level : ^77777710^000000
-Jobs : ^777777All^000000
-^ffffff_^000000
-Weight : ^7777771^000000
+Agi +1
+A low chance of auto casting Decrease Agi 3 on the enemy when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 16415#
-A Box that contains 1 Turtle Hat
+Contains 1 Turtle Hat.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Description:
+[Turtle Hat]
 A disgruntled snapping turtle sits above your head. Count your fingers after putting this on.
-Agi +1.
-Has a low chance of casting Lv. 3 Decrease Agi while being physically attacked.
-^FF0000Event Stats from 7/8 - 7/29:
-Increases damage to turtle monsters in Turtle Dungeon by 20%.
-Decreases damage from turtle monsters in Turtle Dungeon by 20%.
-If upgraded to +7 or higher, Adds 25% EXP bonus for any monster killed.^000000
-Class : ^777777Headgear^000000
-Defense : ^7777770^000000
-Position: ^777777Upper^000000
-Weight : ^77777730^000000
-Required level : ^77777710^000000
-Jobs : ^777777All^000000
-^ffffff_^000000
-Weight : ^7777771^000000
+Agi +1
+A low chance of auto casting Decrease Agi 3 on the enemy when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 16659#
 Open the box and receive one of the 12 Zodiac Diadem headgears.
@@ -29742,49 +29692,41 @@ A rune stone that is used regularly.
 ^ffffff_^000000
 Weight : ^77777710^000000
 #
-
 12738#
 A rune stone that is very rare.
 ^ffffff_^000000
 Weight : ^77777710^000000
 #
-
 12333#
 A crystal that is shining with mysterious color. When used, you recover 15% of MaxSP.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7931#
 Basic tools for poison making are all stocked. It's a gift set for those who dream of making poison.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7932#
-Fragile. You'll get into trouble when attracted by a red beautiful flower and fragrance.
+Be careful not to get poisoned when attracted by this red beautiful flower and fragrance.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
-
 7933#
-Fragile. The red berry ripened but the fragrance seems like it's of a domestic animal.
+Be careful with this flower's berry. It seems ripened, but its odor is very acrid.
 ^ffffff_^000000
-Weight : ^7777771^000000
+Weight: ^7777771^000000
 #
-
 7934#
 Fragile. It's not green tea even if it uses the very end of a young leaf. 
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7935#
 Fragile. It does not have any scent unlike a beautiful figure.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-
 7936#
 Fragile. The purplish, small, and cute flower seems charming but when you touch, it's very itchy. 
 ^ffffff_^000000
@@ -33848,55 +33790,46 @@ A box that contains 1 of each:
 This box can be stored and traded, the items inside are account bound.
 Box Weight : ^7777771^000000
 #
-
 17113#
-Available from March 9 - April 3
-Randomly Gives one of the 3 Marching hats.
-^ff0000The Box is not tradable, but the hats inside may be traded and vended normally.^000000
-Box Weight : ^7777771^000000
-
-Parade Hat Description:
-A hat by those leading the way to celebrations.
-Mdef +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
-Class : ^777777Headgear^000000
-Location : ^777777Upper^000000
-Defense : ^7777774^000000
-Weight : ^77777720^000000
-Required Level : ^77777710^000000
-Job : ^777777All Classes^000000
-
-Holy Marching Hat Description:
+Contains one of the 3 Marching hats.
+Weight: ^7777771^000000
+^777777 ^000000
+[Holy Marcher Hat]
+A hat worn by those leading the way to celebrations.
+Mdef +2
+Stun resistance +10%
+A chance of auto casting Angelus 5 or Assumptio 1 on oneself when receiving physical damage
+^6A5ACD[If worn by Acolyte, Priest, High Priest, or Arch Bishop]^000000
+Lex Aeterna 1 is cast when using Heal on an enemy
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777774^000000    Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
+^777777 ^000000
+[Holy Marching Hat]
 A marching hat with holy angel wings affixed to the sides made famous by a righteous Rune Midgardian band.
 Int +1, Dex +1, Mdef +5.
 If refined to +7 or higher, increases Heal effectieness by 5%.
 If refined to +9 or higher, Matk +5 and increases Heal effectiveness by 5%.
-Class : ^777777Headgear^000000
+Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777775^000000
-Weight : ^77777720^000000
-Required Level : ^7777771^000000
+Weight: ^77777720^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-
-Evil Marcher Hat Description:
+^777777 ^000000
+[Evil Marcher Hat]
 A dark marching hat worn by members of an undead band from Niflheim.
 Str +2. Attack +2% to all monsters.
 If refined to +7 or higher, Critical +10%.
 If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
-Class : ^777777Headgear^000000
+Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^77777710^000000
-Weight : ^77777750^000000
-Required Level : ^7777771^000000
+Weight: ^77777750^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-
-17113#
-환상의 영약, 쌍어궁 보관, 쌍어궁 왕관, 티라야보넷, 보스 이그니젬Card 등 희귀한 아이템이 들어있는 스크롤.
-Weight : ^7777771^000000
 #
 17110#
 환상의 영약, 보병궁 보관, 보병궁 왕관, 늘어진 구미호, 어쌔신크로스Card 등 희귀한 아이템이 들어있는 스크롤.
@@ -36424,6 +36357,12 @@ it will be useless.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
+19602#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19603#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
 20121#
 ^CC0000This Rental Weapon is not Tradable^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
@@ -36969,6 +36908,9 @@ Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Gunslinger^000000
 #
+19604#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
 19605#
 A crate full of supplies designed for the magically inclined
 Contains the following:
@@ -37229,21 +37171,21 @@ Jobs: ^777777All^000000
 Box Weight : ^7777771^000000
 #
 19411#
-A Box that contains 1 Parade Hat
-Description:
-A hat by those leading the way to celebrations.
-Mdef +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
-Class : ^777777Headgear^000000
-Location : ^777777Upper^000000
-Defense : ^7777774^000000
-Weight : ^77777720^000000
-Required Level : ^77777710^000000
-Job : ^777777All Classes^000000
-Box Weight : ^7777771^000000
+Contains 1 Holy Marcher Hat.
+Weight: ^7777771^000000
+^777777 ^000000
+[Holy Marcher Hat]
+A hat worn by those leading the way to celebrations.
+Mdef +2
+Stun resistance +10%
+A chance of auto casting Angelus 5 or Assumptio 1 on oneself when receiving physical damage
+^6A5ACD[If worn by Acolyte, Priest, High Priest, or Arch Bishop]^000000
+Lex Aeterna 1 is cast when using Heal on an enemy
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777774^000000    Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
 #
 19412#
 A Box that contains 1 Vacation Hat
@@ -41529,7 +41471,7 @@ You can earn "Runaway Magic" energy for 10 sec in a low chance when you do magic
 When you Physical attack, you could move like "Speed of Light" for 5 sec in a low chance, but you could lose HP 400, SP 50 per second.
 #
 4878#
-When be physical attacked, you could be "Muscle Fool" for 5 sec to get powerful defense, but Atk and Matk could be decreased 50%. 
+A low chance of increasing Def for 5 sec., when receiving physical damage, while decreasing Atk/Matk by 50%
 #
 4879#
 When you attack, you can concentrate from "Hawkeye" for 5 sec in a low chance, but you could lose SP 50.
@@ -41797,7 +41739,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 18897#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 5897#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -45906,30 +45847,10 @@ Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
 18912#
-A pigeon perched on his master's shoulder.
-All State +1
-Randomly auto-casts 'Ruwach Lv.1' when physically attacked.
-If equipped with Angel Wing, 5% bonus EXP earned when killing monsters.
-Unrefinable
-Class : ^777777Headgear^000000
-Location : ^777777Middle ^000000
-Defense : ^7777775^000000
-Weight : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18913#
-A gossiping raven that talks all day long.
-All State +1
-Randomly auto-casts 'Ruwach Lv.1' when physically attacked.
-If equipped with Grand Circlet, 5% bonus EXP earned when killing monsters.
-Unrefinable
-Class : ^777777Headgear^000000
-Location : ^777777Middle ^000000
-Defense : ^7777775^000000
-Weight : ^77777710^000000
-Required Level : ^7777771^000000
-Job : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18914#
 A cute baby deviling that chases his master all day.
@@ -47088,31 +47009,10 @@ Required LV : ^77777771^000000
 Job : ^777777All^000000
 #
 20745#
-^000088Rental Item^000000
-A manteau with water spirit. It is protected by water all the time.
-Decrease 10% damage against Water property attacks.
-Increase 10% damage from Wind property attacks.
-When being physically attacked by a short distance attacks, it can activate Freezing by a certain chance.
-With more than 6 refine Lv, Freezing chance will be increased per each refine Lv.
-With more than 10 refine Lv, additional Freezing chance will be increased.
-Indestructible.
-Class : ^777777Garment^000000 Defense : ^77777710^000000
-Weight : ^77777730^000000
-Required LV : ^77777771^000000
-Job : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20747#
-^000088Rental Item^000000
-A manteau with Earth spirit, It is protected by stones all the time.
-Decrease 10% damage against Water property attacks.
-Increase 10% damage from Fire property attacks.
-When being physically attacked by both short range and long distance, it can activate Stone Curse by a certain chance in 5*5 cells around yourself.
-With more than 5 refine Lv, increase the chance for Stone Curse per 1 reine Lv.
-Indestructible.
-Class : ^777777Garment^000000 Defense : ^77777710^000000
-Weight : ^77777730^000000
-Required LV : ^77777771^000000
-Job : ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20752#
 Shiny Golden Wings. A symbol of the Elite.
@@ -48426,11 +48326,12 @@ Compound : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4500#
-Can reflex 15% damage to enemies when being physically attacked in short range.
-If compounded equipment is refined to +15 and above, can reflex 25% damage to enemies.
-Series : ^777777Card ^000000
-Compound : ^777777Armor^000000
-Weight : ^7777771^000000
+Reflects 15% of damage to enemies when receiving melee physical damage
+^6A5ACD[If armor is refined to +15 or higher]^000000
+Reflects 25% of damage to enemies
+Class: ^777777Card ^000000
+Slot: ^777777Armor^000000
+Weight: ^7777771^000000
 #
 4501#
 Adds a chance of autocasting Lv.1 Assumptio on the wearer each time the wearer is physically or magically attacked.
@@ -55067,12 +54968,6 @@ Weight: ^7777771^000000
 31385#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-19602#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-19603#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-19604#
+5801#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

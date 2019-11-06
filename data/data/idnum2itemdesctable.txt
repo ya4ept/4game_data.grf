@@ -1050,7 +1050,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 631#
 ^808080A plant that contains poisons that would harm most living creatures. Poison Spore is known to savor its flavor.^000000
 ^FFFFFF_^000000
@@ -1058,7 +1057,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 632#
 ^808080An earthworm that stopped caring about its figure years ago. Peco Peco loves the way that it tastes.^000000
 ^FFFFFF_^000000
@@ -1066,15 +1064,13 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 633#
-^808080A baked sweet potato with an appetizing scent. Smokie loves eating this.^000000
+A baked sweet potato that smells delicious.
+Smokie loves eating this.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 634#
 ^808080A premium quality banana grown in the tropics. Yoyo finds it irresistible; forever will it be his one weakness.^000000
 ^FFFFFF_^000000
@@ -1082,7 +1078,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 635#
 ^808080A trophy awarded to the bravest of Orcs. Orc Warrior is compelled to claim it as their very own.^000000
 ^FFFFFF_^000000
@@ -1090,7 +1085,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 636#
 ^808080An old, heartfelt letter that has never been delivered since it has no recipient. Munak is inexplicably drawn to this item.^000000
 ^FFFFFF_^000000
@@ -1122,7 +1116,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 640#
 ^808080A stone that softly glimmers with faint light. Ground Petite is drawn to its gentle sparkle.^000000
 ^FFFFFF_^000000
@@ -1130,7 +1123,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 641#
 ^808080A contract drawn in darkness. Deviruchi is compelled to claim this item as its own.^000000
 ^FFFFFF_^000000
@@ -1138,15 +1130,13 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 642#
-^808080A forbidden book in which the secret for summoning high level demons is detailed. Baphomet Jr. cannot resist its power.^000000
+A forbidden book that contains a spell for summoning a high-level demon.
+Baphomet Jr. cannot resist its power.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 643#
 ^808080A portable incubator that is used to hatch Cute Pet monster eggs.^000000
 ^FFFFFF_^000000
@@ -2257,49 +2247,41 @@ Weight: 1
 ^FFFFFF_^000000
 Weight: 1
 #
-
 967#
 ^808080A hard shell that obviously failed to protect a turtle.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
-
 968#
 ^808080An emblem given to an Orc Warrior that is proof of his heroism.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
-
 969#
 ^808080A valuable metal in bullion form. It's used to make coins, jewelry, and gaudy false teeth.^000000
 ^FFFFFF_^000000
 Weight: 20
 #
-
 970#
-^808080This colorless liquid is the secret behind the addictiveness of beers and wine. 200 Proof.^000000
+Colorless liquid found in beer, wine, and other alcoholic beverages.
 ^FFFFFF_^000000
-Weight: 3
+Weight: ^7777773^000000
 #
-
 971#
 ^808080A liquid with unique scientific properties. It's difficult to mix in water and is normally diluted in a solution.^000000
 ^FFFFFF_^000000
 Weight: 3
 #
-
 972#
 ^808080A liquid with interesting characteristics and many possible applications.^000000
 ^FFFFFF_^000000
 Weight: 3
 #
-
 973#
 ^808080A mixture of chemical substances that can only be produced by geniuses.^000000
 ^FFFFFF_^000000
 Weight: 7
 #
-
 974#
 ^808080A special compound that has applications that can only be understood by keen minds schooled in science.^000000
 ^FFFFFF_^000000
@@ -3762,46 +3744,33 @@ Weapon Level: 2
 Required Level: 18
 Required Job: Swordsman Jobs
 #
-
 1154#
-^808080A straight bladed sword that can be brutally swung just like a baseball bat.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 115
-Property: Neutral
-Weight: 160
-Weapon Level: 2
-Required Level: 18
-Required Job: Swordsman Jobs
+A straight-bladed sword that can be brutally swung just like a baseball bat.
+Class: ^777777Two-Handed Sword^000000
+Property: ^777777Neutral^000000
+Attack: ^777777115^000000    Weight: ^777777160^000000
+Weapon Level: ^7777772^000000
+Required Level: ^77777718^000000
+Jobs: ^777777Swordsman^000000
 #
-
 1155#
-^808080A straight bladed sword that can be brutally swung just like a baseball bat.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 115
-Property: Neutral
-Weight: 160
-Weapon Level: 2
-Required Level: 18
-Required Job: Swordsman Jobs
+A straight-bladed sword that can be brutally swung just like a baseball bat.
+Class: ^777777Two-Handed Sword^000000
+Property: ^777777Neutral^000000
+Attack: ^777777115^000000    Weight: ^777777160^000000
+Weapon Level: ^7777772^000000
+Required Level: ^77777718^000000
+Jobs: ^777777Swordsman^000000
 #
-
 1156#
-^808080A straight bladed sword that can be brutally swung just like a baseball bat.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 115
-Property: Neutral
-Weight: 160
-Weapon Level: 2
-Required Level: 18
-Required Job: Swordsman Jobs
+A straight-bladed sword that can be brutally swung just like a baseball bat.
+Class: ^777777Two-Handed Sword^000000
+Property: ^777777Neutral^000000
+Attack: ^777777115^000000    Weight: ^777777160^000000
+Weapon Level: ^7777772^000000
+Required Level: ^77777718^000000
+Jobs: ^777777Swordsman^000000
 #
-
 1157#
 ^808080A mighty, yet awfully basic, Two-Handed Sword.^000000
 ^FFFFFF_^000000
@@ -3855,7 +3824,6 @@ Required Job: Swordsman Jobs
 ^FFFFFF_^000000
 DEF + 5
 #
-
 1161#
 ^808080Sword wielded by mighty GOD-POING, the lawless heroine.^000000
 ^FFFFFF_^000000
@@ -3871,22 +3839,16 @@ Required Job: All Jobs
 INT + 20
 LUK + 20
 #
-
 1162#
-^808080A sword with a wide, double sided blade.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 140
-Property: Neutral
-Weight: 200
-Weapon Level: 3
-Required Level: 33
-Required Job: Swordsman Jobs
-^FFFFFF_^000000
-DEF + 5
+A sword with a wide, double-sided blade.
+Def +5
+Class: ^777777Two-handed Sword^000000
+Property: ^777777Neutral^000000
+Attack: ^777777140^000000    Weight: ^777777200^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777733^000000
+Jobs: ^777777Swordsman^000000
 #
-
 1163#
 ^808080Large, double-edged broad sword that was used by the Scottish highlanders.^000000
 ^FFFFFF_^000000
@@ -4809,19 +4771,15 @@ Required Level: ^77777736^000000
 Job: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1231#
-^808080A formal dress dagger, engraved with luxurious emblems, that's usually worn on special occasions.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Dagger
-Attack: 70
-Property: Fire
-Weight: 50
-Weapon Level: 4
-Required Level: 36
-Required Job: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer Jobs, Soul Linker, Ninja Jobs
-^FFFFFF_^000000
-INT + 5
-MATK + 105
+A ceremonial dagger engraved with luxurious emblems, that is usually worn only on special occasions.
+Int +5
+Matk +105
+Class: ^777777Dagger^000000
+Property: ^777777Fire^000000
+Attack: ^77777770^000000    Weight: ^77777750^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777736^000000
+Jobs: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1232#
 A dagger commonly used by Assassins.
@@ -8496,7 +8454,6 @@ Weapon Level: 3
 Required Level: 99
 Required Job: Mechanic Jobs
 #
-
 1550#
 ^808080A book that's been put together sturdily enough to be wielded as a weapon in an emergency situation.^000000
 ^FFFFFF_^000000
@@ -8509,22 +8466,16 @@ Weapon Level: 2
 Required Level: 14
 Required Job: Priest Jobs, Sage Jobs, Taekwon Master
 #
-
 1551#
-^808080A book containing a compilation of ancient and sacred writings.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Book
-Attack: 115
-Property: Neutral
-Weight: 100
-Weapon Level: 3
-Required Level: 27
-Required Job: Priest Jobs, Sage Jobs, Taekwon Master
-^FFFFFF_^000000
-INT + 2
+A book that contains a compilation of sacred writings.
+Int +2
+Class: ^777777Book^000000
+Property: ^777777Neutral^000000
+Attack: ^777777115^000000    Weight: ^777777100^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777727^000000
+Jobs: ^777777Priest / Sage / Taekwon Master^000000
 #
-
 1552#
 ^808080A marble tablet on which the wise words of the ancients have been engraved and immortalized.^000000
 ^FFFFFF_^000000
@@ -9243,55 +9194,39 @@ Required Job: Mage Jobs, Acolyte Jobs, and Soul Linker
 INT + 2
 MATK + 70
 #
-
 1610#
-^808080An ornate, elegantly crafted wand that grants powerful magical energy.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Staff
-Attack: 60
-Property: Neutral
-Weight: 40
-Weapon Level: 3
-Required Level: 24
-Required Job: Mage Jobs, Acolyte Jobs, and Soul Linker
-^FFFFFF_^000000
-INT + 3
-MATK + 95
+An ornate, elegantly crafted wand that grants powerful magical energy.
+Int +3
+Matk +95
+Class: ^777777One-handed Staff^000000
+Property: ^777777Neutral^000000
+Attack: ^77777760^000000    Weight: ^77777740^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777724^000000
+Jobs: ^777777Mage / Acolyte / Soul Linker^000000
 #
-
 1611#
-^808080An ornate, elegantly crafted wand that grants powerful magical energy.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Staff
-Attack: 60
-Property: Neutral
-Weight: 40
-Weapon Level: 3
-Required Level: 24
-Required Job: Mage Jobs, Acolyte Jobs, and Soul Linker
-^FFFFFF_^000000
-INT + 3
-MATK + 95
+An ornate, elegantly crafted wand that grants powerful magical energy.
+Int +3
+Matk +95
+Class: ^777777One-handed Staff^000000
+Property: ^777777Neutral^000000
+Attack: ^77777760^000000    Weight: ^77777740^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777724^000000
+Jobs: ^777777Mage / Acolyte / Soul Linker^000000
 #
-
 1612#
-^808080An ornate, elegantly crafted wand that grants powerful magical energy.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Staff
-Attack: 60
-Property: Neutral
-Weight: 40
-Weapon Level: 3
-Required Level: 24
-Required Job: Mage Jobs, Acolyte Jobs, and Soul Linker
-^FFFFFF_^000000
-INT + 3
-MATK + 95
+An ornate, elegantly crafted wand that grants powerful magical energy.
+Int +3
+Matk +95
+Class: ^777777One-handed Staff^000000
+Property: ^777777Neutral^000000
+Attack: ^77777760^000000    Weight: ^77777740^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777724^000000
+Jobs: ^777777Mage / Acolyte / Soul Linker^000000
 #
-
 1613#
 ^808080A rare staff that can convert psychic energy into brute strength.^000000
 ^FFFFFF_^000000
@@ -9309,18 +9244,15 @@ MATK + 100
 Consumes 2 SP with each physical attack.
 #
 1614#
-^808080A shamanic wand topped with a goat's skull that enhances magic attack power.^000000
-^FFFFFF_^000000
-Class: One-Handed Staff
-Attack: 75
-Property: Neutral
-Weight: 70
-Weapon Level: 3
-Required Level: 24
-Required Job: Mage Jobs, Acolyte Jobs, and Soul Linker
-^FFFFFF_^000000
-INT + 3
-MATK + 105
+A magic wand topped with a goat's skull that enhances spiritual powers.
+Int +3
+Matk +105
+Class: ^777777One-handed Staff^000000
+Property: ^777777Neutral^000000
+Attack: ^77777775^000000    Weight: ^77777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777724^000000
+Jobs: ^777777Mage / Acolyte / Soul Linker^000000
 #
 1615#
 A wand made of a human bone. It is possessed by evil spirits.
@@ -9787,13 +9719,11 @@ Increases the recovery rate of recovery skills by 10%.
 1643#
 A staff made out of magical wood. It contains huge magical power, but it will make you look like an elder.
 Int +4
-^6A5ACD[When refined]^000000
-Increases Int, but decreases max HP/SP.
+Matk +155
 ^6A5ACD[If refined to +6 or higher]^000000
-Int +1
+Int +1 for each refine level (starting from +6)
 Max HP -200
 Max SP -100
-Matk +155
 Class: ^777777One-handed Staff^000000
 Property: ^777777Neutral^000000
 Attack: ^777777100^000000    Weight: ^77777710^000000
@@ -10384,7 +10314,6 @@ Required Job: Thief, Rogue Jobs, Archer Jobs
 ^FFFFFF_^000000
 DEX + 2
 #
-
 1714#
 ^808080A bow made famous by its use by Goongso, a legendary Korean archer that used this bows power to smite his enemies.^000000
 ^FFFFFF_^000000
@@ -10397,22 +10326,16 @@ Weapon Level: 3
 Required Level: 33
 Required Job: Thief, Rogue Jobs, Archer Jobs
 #
-
 1715#
-^808080A powerful siege weapon that is, in essence, a huge crossbow.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Bow
-Attack: 90
-Property: Neutral
-Weight: 100
-Weapon Level: 3
-Required Level: 33
-Required Job: Thief, Rogue Jobs, Archer Jobs
-^FFFFFF_^000000
-DEX + 2
+A powerful siege weapon that is, in essence, a huge crossbow.
+Dex +2
+Class: ^777777Bow^000000
+Property: ^777777Neutral^000000
+Attack: ^77777790^000000    Weight: ^777777100^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777733^000000
+Jobs: ^777777Thief / Rogue / Archer^000000
 #
-
 1716#
 ^808080A bow made famous by its use by Goongso, a legendary Korean archer that used this bows power to smite his enemies.^000000
 ^FFFFFF_^000000
@@ -10443,7 +10366,6 @@ Required Job: Hunter Jobs
 ^008080Hunter Bow^000000
 Increases long-ranged damage on targets by 50%.
 #
-
 1719#
 ^808080A bow, created just for Thieves, that has great attacking range.^000000
 ^FFFFFF_^000000
@@ -10458,25 +10380,18 @@ Required Job: Thief
 ^FFFFFF_^000000
 Range + 11
 #
-
 1720#
-^808080A bow imbued with the sacred essence of Rudra, one of the ancient gods.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Bow
-Attack: 150
-Property: Neutral
-Weight: 120
-Property: Holy
-Weapon Level: 4
-Required Level: 48
-Required Job: Rogue Jobs, Archer Jobs
-^FFFFFF_^000000
-INT + 5
-Enables ^0000FFLevel 1 Heal^000000 and ^0000FFLevel 1 Cure^000000.
-Increases resistance to ^800000Curse^000000, ^800000Poison^000000 and ^800000Silence^000000 by 50%.
+A bow imbued with the sacred essence of Rudra, one of the ancient gods.
+Int +5
+Enables Heal 1 and Cure 1.
+Curse/poison/silence resistance +50%
+Class: ^777777Bow^000000
+Property: ^777777Holy^000000
+Attack: ^777777150^000000    Weight: ^777777120^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777748^000000
+Jobs: ^777777Rogue / Archer^000000
 #
-
 1721#
 ^808080A rapid fire crossbow that can shoot many arrows in a short span of time.^000000
 ^FFFFFF_^000000
@@ -13167,26 +13082,16 @@ Weight: ^77777730^000000
 Jobs: ^777777All^000000
 #
 2103#
-A rounded shield
-that readily absorbs
-impact from attacks.
+A round shield that easily absorbs impact from attacks.
 Class: ^777777Shield^000000
-Defense: ^77777740^000000
-Weight: ^77777760^000000
-Jobs: ^777777Swordsman, Acolyte, Merchant, and Thief
-Classes; Bard and
-Dancer Jobs^000000
+Defense: ^77777740^000000    Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Acolyte / Merchant / Thief / Bard/Dancer^000000
 #
 2104#
-A rounded shield
-that readily absorbs
-impact from attacks.
+A round shield that easily absorbs impact from attacks.
 Class: ^777777Shield^000000
-Defense: ^77777740^000000
-Weight: ^77777760^000000
-Jobs: ^777777Swordsman, Acolyte, Merchant, and Thief
-Classes; Bard and
-Dancer Jobs^000000
+Defense: ^77777740^000000    Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Acolyte / Merchant / Thief / Bard/Dancer^000000
 #
 2105#
 A well crafted shield
@@ -13932,14 +13837,11 @@ Weight: ^77777710^000000
 Jobs: ^777777Acolyte Class^000000
 #
 2217#
-A stiff, squarish
-formal hat usually
-worn by clerics.
+A stiff formal hat usually worn by clerics.
 Class: ^777777Headgear^000000
-Defense: ^7777778^000000
 Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Jobs: ^777777Acolyte Class^000000
+Defense: ^7777778^000000    Weight: ^77777710^000000
+Jobs: ^777777Acolyte^000000
 #
 2218#
 A mask that is worn
@@ -14520,17 +14422,12 @@ Jobs: ^777777Every Job
 except Novice^000000
 #
 2270#
-A slender leaf that
-is placed in the mouth
-for a seductive look.
-Reduces damage from
-Plant monsters by 3%.
+A thin leaf that is placed in the mouth for a seductive look.
+Damage from Plant monsters -3%
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Lower^000000
-Weight: ^77777710^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Jobs: ^777777All except Novice^000000
 #
 2271#
 A pair of glasses that
@@ -14624,12 +14521,10 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2279#
-A wick-like ornament
-worn on top of the head for a dangerous look.
+A wick-like ornament worn on top of the head for a dangerous look.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Upper^000000
-Weight: ^77777710^000000
+Defense: ^7777772^000000    Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2280#
@@ -15974,28 +15869,16 @@ Jobs: ^777777Every
 Job except Novice^000000
 #
 2405#
-A pair of heavy
-leather boots, padded
-with Lunatic fur, that
-is suited to warriors.
+A pair of heavy leather boots padded with Lunatic fur. Great for warriors.
 Class: ^777777Footwear^000000
-Defense: ^77777716^000000
-Weight: ^77777760^000000
-Jobs: ^777777Swordsman,
-Archer, Merchant,
-Thief Classes, Taekwon Boy/Girl, Taekwon Master, and Gunslinger^000000
+Defense: ^77777716^000000    Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Archer / Merchant / Thief / Taekwon Boy/Girl / Taekwon Master / Gunslinger^000000
 #
 2406#
-A pair of heavy
-leather boots, padded
-with Lunatic fur, that
-is suited to warriors.
+A pair of heavy leather boots padded with Lunatic fur. Great for warriors.
 Class: ^777777Footwear^000000
-Defense: ^77777716^000000
-Weight: ^77777760^000000
-Jobs: ^777777Swordsman,
-Archer, Merchant,
-Thief Classes, Taekwon Boy/Girl, Taekwon Master, and Gunslinger^000000
+Defense: ^77777716^000000    Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Archer / Merchant / Thief / Taekwon Boy/Girl / Taekwon Master / Gunslinger^000000
 #
 2407#
 A pair of feminine high heeled shoes made of
@@ -16799,16 +16682,12 @@ Merchant, Thief Classes,
 and Taekwon Boy/Girl, Taekwon Master^000000
 #
 2507#
-A fancy cape said to
-have once been worn
-by marquises long ago.
-Agi + 1
+A fancy cape said to have been worn by marquises from long ago.
+Agi +1
 Class: ^777777Garment^000000
-Defense: ^7777779^000000
-Weight: ^77777760^000000
+Defense: ^7777779^000000    Weight: ^77777760^000000
 Required Level: ^77777740^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Jobs: ^777777All except Novice^000000
 #
 2508#
 An old, worn-out cape
@@ -16879,15 +16758,11 @@ Required Level: ^77777740^000000
 Jobs: ^777777Novice Class^000000
 #
 2513#
-A faint, transparent robe decorated with a beautiful
-pattern worn by celestial maidens when they fly
-through the heavens.
+A faint, transparent robe decorated with a beautiful pattern. It is worn by celestial maidens when they fly through the heavens.
 Class: ^777777Garment^000000
-Defense: ^77777718^000000
-Weight: ^77777750^000000
+Defense: ^77777718^000000    Weight: ^77777750^000000
 Required Level: ^77777780^000000
-Jobs: ^777777All except
-Novice Class^000000
+Jobs: ^777777All except Novice^000000
 #
 2514#
 A pair of heavy
@@ -17114,18 +16989,16 @@ Jobs:^777777All Transcendent
 Classes except Novice^000000
 #
 2525#
-A fancy cape fashioned
-after those worn by
-genteel marquises
-of a bygone age.
+A fancy cape said to have been worn by marquises from long ago.
 Agi +1
 Class: ^777777Garment^000000
-Defense: ^7777779^000000
-Weight: ^77777760^000000
+Defense: ^7777779^000000    Weight: ^77777760^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
+
 //--------------------------------------------------------------------------
+
 2527#
 A garment that's
 so warm, it makes
@@ -17345,17 +17218,18 @@ Weight: ^77777750^000000
 Jobs: ^7777772nd Transcendent Class^000000
 #
 2545#
-An outfit for priests in order to protect the exorcists at Prontera Church.
-Mdef +3.
-Has a chance of casting Lv. 1 Heal on the wearer when physically attacked at a close distance.
-If higher level of Heal is learned, uses the level the wearer has learned.
+An outfit for priests that protects them during exorcism.
+Mdef +3
+A chance of auto casting Heal 1 on the wearer when receiving melee physical damage
+If Heal is of higher level, it will be cast instead.
 Class: ^777777Garment^000000
-Defense: ^77777710^000000
-Weight: ^77777750^000000
+Defense: ^77777710^000000    Weight: ^77777750^000000
 Required Level: ^77777770^000000
 Jobs: ^777777High Priest^000000
 #
+
 //--------------------------------------------------------------------------
+
 2549#
 HP + 5%
 Increase in resistance against the attack from Demi-Human monsters by 5%
@@ -17923,7 +17797,7 @@ A necklace worn by the beautiful goddess Freya.
 Str/Agi/Dex/Vit +6
 Int/Luk +10
 Mdef +5
-Healing skills' effect +6%
+Healing skills' effect +25%
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000    Weight: ^777777150^000000
 Required Level: ^77777794^000000
@@ -21229,8 +21103,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4119#
-Enchant an Armor with
-the Shadow property.
+Imbues armor with Shadow property
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -22329,7 +22202,7 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4244#
-A chance of auto casting Sight 1 around the user when receiving physical damage
+A chance of auto casting Sight 1 around oneself when receiving physical damage
 Max HP +300
 Vit +1
 ^6A5ACD[If used with Tower Keeper, Punk, and Clock Cards]^000000
@@ -23218,13 +23091,8 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4333#
-Adds a high chance
-of inflicting the
-Poison status to the
-attacking enemy and
-this card's wearer
-each time the wearer^FFFFFF      ^000000 is physically attacked.
-Class: ^777777Card^000000            
+A high chance of poisoning the enemy and this card's wearer when receiving physical damage
+Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
@@ -23392,17 +23260,13 @@ learned.
 Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4349#
-Adds a chance
-of autocasting
-Lv.1 Pneuma each
-time the wearer is
-physically attacked.
-Class: ^777777Card^000000            
+A chance of auto casting Pneuma 1 when receiving physical damage
+Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -23413,7 +23277,7 @@ Gust skills by 3%.
 Drains 50 SP when
 compounded weapon
 is unequipped.
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
@@ -23425,7 +23289,7 @@ is lower than 5, this
 this card adds Perfect
 Dodge +1 and an
 additional Flee +10.
-Class: ^777777Card^000000            
+Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
@@ -23782,11 +23646,7 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4383#
-Adds a high chance
-of confusing the
-attacking enemy each
-time the wearer is
-physically attacked.
+A high chance of confusing the enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -23982,13 +23842,7 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4404#
-Adds a high chance
-of inflicting the
-Bleeding status to
-the user as well as
-the attacking enemy
-each time the wearer
-is physically attacked.
+A high chance of inflicting Bleed on the enemy and the user when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -25343,18 +25197,13 @@ Jobs: ^777777Every Job
 except Novice^000000
 #
 5017#
-An incredibly heavy,
-yet almost impenetrable helmet constructed of
-bone. Increases damage
-received from Shadow
-property attacks by 15%.
+An incredibly heavy, yet almost impenetrable helmet made of bone.
+Shadow attack damage +15%
 Class: ^777777Headgear^000000
-Defense: ^77777715^000000
 Location: ^777777Upper^000000
-Weight: ^77777780^000000
+Defense: ^77777715^000000    Weight: ^77777780^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordsman and
-Merchant Classes^000000
+Jobs: ^777777Swordsman / Merchant^000000
 #
 5018#
 A fabulous, feathered
@@ -26955,18 +26804,13 @@ Jobs: ^777777Swordsman, Acolyte, Merchant, and Thief
 Classes; Taekwon Boy/Girl^FFFFFF ^777777 and Taekwon Master Jobs^000000
 #
 5162#
-An incredibly heavy
-helmet, constructed of
-solid bone,  that makes^FFFFFF   ^000000 it nearly impenetrable.
-Damage received from
-Shadow property attacks^FFFFFF   ^000000 is increased by 15%.
+An incredibly heavy, yet almost impenetrable helmet made of bone.
+Shadow attack damage +15%
 Class: ^777777Headgear^000000
-Defense: ^77777715^000000
 Location: ^777777Upper^000000
-Weight: ^77777780^000000
+Defense: ^77777715^000000    Weight: ^77777780^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Swordsman and
-Merchant Classes^000000
+Jobs: ^777777Swordsman / Merchant^000000
 #
 5163#
 A flamboyant hat
@@ -27227,16 +27071,14 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5187#
-A red ribbon with a white flower. It makes girls prettier.
-MSP + 30, MDEF + 3.
-Decreases 20% of all physical damage for 2 seconds with low chance when physically attacked.
-However, MDEF decreased 20% for 2 seconds.
-Decreases 20% of all magical damage for 2 seconds with low chance when magically attacked.
-However, DEF decreased 20% for 2 seconds.
+A red ribbon with a white flower. All girls just love it.
+Max SP +30
+Mdef +3
+A low chance to decrease physical damage received by 20% for 2 sec., but Mdef -20% for 2 sec.
+A low chance to decrease magical damage received by 20% for 2 sec., but Def -20% for 2 sec.
 Class: ^777777Headgear^000000
-Defense: ^7777776^000000
 Location: ^777777Upper^000000
-Weight: ^77777720^000000
+Defense: ^7777776^000000    Weight: ^77777720^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
@@ -27249,7 +27091,9 @@ Weight: ^7777770^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All^000000
 #
+
 //--------------------------------------------------------------------------
+
 5191#
 A long piece of black satin tied together into a neat little ribbon that wards off harmful magic.
 Mdef +3
@@ -27560,16 +27404,12 @@ off a heavy sword.
 Weight: ^7777773^000000
 #
 7023#
-A blade imbued with
-a suffocating aura
-that repels the light.
+A blade with a suffocating aura that repels the light.
 ^ffffff_^000000
 Weight: ^7777774^000000
 #
 7024#
-A blade stained
-with blood that
-can't be cleansed.
+A blade stained with blood that cannot be cleansed.
 ^ffffff_^000000
 Weight: ^7777774^000000
 #
@@ -28125,8 +27965,8 @@ A set of disassembled
 parts for making a cart. Weight: ^7777771^000000
 #
 7047#
-An apron worn by
-the Alice monster.
+An apron worn by Alice.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7048#
@@ -28161,7 +28001,8 @@ with muddled light.
 Weight: ^7777771^000000
 #
 7054#
-A rare, red mineral.
+A rare red mineral.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 7055#
@@ -28305,10 +28146,8 @@ made with silver.
 Weight: ^77777750^000000
 #
 7078#
-The pure rage of
-the Valkyries, female
-warriors in Norse myth, that has condensed
-into physical form.
+The pure rage of the Valkyries, condensed into physical form.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7079#
@@ -28324,8 +28163,8 @@ into physical form.
 Weight: ^77777750^000000
 #
 7081#
-Weird facial hair from
-the faces of women.
+Weird facial hair from the face of a woman.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7082#
@@ -28362,10 +28201,8 @@ of the god of the sun.
 Weight: ^77777750^000000
 #
 7087#
-Exhaled from a spirit,
-this breath causes
-the living to feel an
-unnatural chill.
+A spirit's breath that causes the living to feel an unnatural chill.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7088#
@@ -28392,11 +28229,8 @@ towards the shore.
 Weight: ^77777750^000000
 #
 7092#
-A gorgeous sculpture
-made by an artist who
-claimed to be able to
-sense forms within
-the drifting air.
+A gorgeous sculpture made by an artist who claimed to be able to sense forms within the drifting air.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 9025#
@@ -29500,8 +29334,7 @@ Symbolizes cure and restoration.
 Weight: ^77777710^000000
 #
 7297#
-A common dark mica.
-Symbolizes spiritual support.
+A common dark-colored mineral. Symbolizes spiritual support.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -30862,11 +30695,8 @@ Armor and taming item.^000000
 Weight: ^77777720^000000
 #
 12106#
-A beautiful Jewelry
-Box that contains
-an Accessory.
-^00688BProduces a random
-Accessory item.^000000
+A beautiful jewelry box.
+Double-click to obtain a ^00688Brandom accessory^000000.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
@@ -33093,32 +32923,26 @@ Required Level: ^77777770^000000
 Jobs:^777777Ninja^000000
 #
 13010#
-A legendary dagger
-that is said to have
-been given to mankind
-by the gods. MATK +50
+A legendary dagger that is said to have been given to mankind by the gods.
+Magic damage +10%
 Class: ^777777Dagger^000000
-Attack : ^77777750^000000
-Weight: ^77777760^000000
+Attack: ^77777750^000000    Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777712^000000
-Jobs:^777777Ninja^000000
+Jobs: ^777777Ninja^000000
 #
 13011#
-A legendary dagger
-that is said to have
-been given to mankind
-by the gods. MATK +50
+A legendary dagger that is said to have been given to mankind by the gods.
+Magic damage +10%
 Class: ^777777Dagger^000000
-Attack : ^77777750^000000
-Weight: ^77777760^000000
+Attack: ^77777750^000000    Weight: ^77777760^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777712^000000
-Jobs:^777777Ninja^000000
+Jobs: ^777777Ninja^000000
 #
 13012#
 A famous sword that is said to be sharp enough to divide oceans or cut through the air to make it bleed water.
-Crit +10 against Demihuman monsters
+Critical +10% against Demihuman monsters
 Class: ^777777Dagger^000000
 Property: ^777777Water^000000
 Attack: ^77777795^000000    Weight: ^77777770^000000
@@ -33128,7 +32952,7 @@ Jobs: ^777777Ninja^000000
 #
 13013#
 A famous sword that is said to be sharp enough to divide oceans or cut through the air to make it bleed water.
-Crit +10 against Demihuman monsters
+Critical +10% against Demihuman monsters
 Class: ^777777Dagger^000000
 Property: ^777777Water000000
 Attack: ^77777795^000000    Weight: ^77777770^000000
@@ -33137,44 +32961,24 @@ Required Level: ^77777724^000000
 Jobs: ^777777Ninja^000000
 #
 13014#
-A dagger that has a
-shining white blade
-crafted of bone, and
-is designed for
-stabbing, rather
-than slashing.
-Each short range
-physical attack
-has a low chance
-of auto casting
-Level 1 Heal on
-its user.
+A dagger with a shining white blade made of bone. It is designed for stabbing rather than slashing.
+Int +2
+A low chance of auto casting Heal 1 after a melee physical attack
 Class: ^777777Dagger^000000
-Attack : ^777777120^000000
-Weight: ^77777780^000000
+Attack: ^777777120^000000    Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777742^000000
-Jobs:^777777Ninja^000000
+Jobs: ^777777Ninja^000000
 #
 13015#
-A dagger that has a
-shining white blade
-crafted of bone, and
-is designed for
-stabbing, rather
-than slashing.
-Each short range
-physical attack
-has a low chance
-of auto casting
-Level 1 Heal on
-its user.
+A dagger with a shining white blade made of bone. It is designed for stabbing rather than slashing.
+Int +2
+A low chance of auto casting Heal 1 after a melee physical attack
 Class: ^777777Dagger^000000
-Attack : ^777777120^000000
-Weight: ^77777780^000000
+Attack: ^777777120^000000    Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777742^000000
-Jobs:^777777Ninja^000000
+Jobs: ^777777Ninja^000000
 #
 13300#
 A famous Huuma
@@ -35469,39 +35273,29 @@ Required Level: ^77777770^000000
 Jobs: ^777777Gunslinger^000000
 #
 13165#
-A rifle with a shorter
-barrel to better suit
-it for close quarter
-battles such as in the
-jungle or indoors.
-Critical +4%,
-ASPD +10%.
-Reduces Accuracy by a value equal to 1/3 of the character's base DEX.
+A rifle with a shortened barrel for close quarter battles such as in the jungle or indoors.
+Hit +10
+Critical +4
+Aspd +10%
+Reduces Hit by a value equal to 1/3 of the character's base DEX.
 Class: ^777777Rifle^000000
-Attack Strength ^777777170^000000
-Weight: ^77777770^000000
+Attack: ^777777170^000000    Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Gunslinger^000000
 #
-
 13166#
-A rifle with a shorter
-barrel to better suit
-it for close quarter
-battles such as in the
-jungle or indoors.
-Critical +4%, 
-ASPD +10%. 
-Reduces Accuracy by a value equal to 1/3 of the character's base DEX.
+A rifle with a shortened barrel for close quarter battles such as in the jungle or indoors.
+Hit +10
+Critical +4
+Aspd +10%
+Reduces Hit by a value equal to 1/3 of the character's base DEX.
 Class: ^777777Rifle^000000
-Attack Strength ^777777170^000000
-Weight: ^77777770^000000
+Attack: ^777777170^000000    Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Gunslinger^000000
 #
-
 13167#
 The barrel of the
 original Gate Keeper
@@ -37938,11 +37732,12 @@ Jobs: ^777777All^000000
 // --------- 태국 모자 아이템 -------------
 
 5387#
-A hairband that mixes Kafra Style and Cat Hairband Style. It looks so cute!
-Inflicts a random abnormal status to an enemy when physically attacked.
-MDEF + 5
-Class: ^777777Headgear^000000    Defense: ^7777771^000000
-Location: ^777777Upper^000000    Weight: ^77777720^000000
+A cute hairband that combines the classic Kafra hairband with cat ears.
+Inflicts a random abnormal status to an enemy when receiving physical damage
+Mdef +5
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777771^000000    Weight: ^77777720^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
@@ -37982,10 +37777,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5404#
-The symbol of an honor student!
-Auto casts Lv2 Improve Concentration with low chances when physically attacked.
-Class: ^777777Headgear^000000    Defense: ^7777772^000000
-Location: ^777777Upper^000000    Weight: ^77777710^000000
+A symbol of an honor student
+A low chance of auto casting Improve Concentration 2 when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777772^000000    Weight: ^77777710^000000
 Required Level: ^77777745^000000
 Jobs: ^777777All^000000
 #
@@ -39607,14 +39403,20 @@ Lvl 60 requirement.  Jobs: All
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-13962#Contains 1 Defolty Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans.  Autocasts Lvl 10 Angelus when physically attacked by melee.
-Can't be upgraded, Def 0.
-Lvl 60 requirement.  Jobs: All
-
-This Box can be traded.
-^ffffff_^000000
+13962#
+Contains 1 Defolty Doll Hat.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Defolty Doll Hat]
+^ff0000Account bound^000000
+So hot! A headgear shaped like Kafra employee Defolty! Many adventurers are using Kafra storage more than 20 times a day, fascinated by her smiling face.
+Damage from Demihuman monsters -5%
+A chance of casting Lv. 10 Angelus when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777771^000000    Weight: ^77777750^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 14096#Moonlight_Flower_Hat_Box#
 14208#A Box containing 5 Battlemanuals.
@@ -40226,21 +40028,20 @@ Weight: ^77777730^000000
 Required Level: ^77777770^000000
 Job : ^777777All^000000
 #
-
 5662#
-A magnificent crown created to pay tribute to the 7th sign of the zodiac, Libra the Balance.  Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
-Dex +3,
-Increase Resistance to Wind Property by 7%.
-If refined to 7 or higher,
-Matk +3%.
-If refined to 9 or higher,
-Matk +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
+A magnificent crown created to pay tribute to the 7th sign of the zodiac, Libra the Balance. Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
+Dex +3
+Wind Resistance +7%
+^6A5ACD[If refined to +7 or higher]^000000
+Matk +3%
+^6A5ACD[If refined to +9 or higher]^000000
+Matk +5%
+A chance of auto casting Frost Nova 5 when receiving physical damage
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 5663#
 A magnificent diadem created to pay tribute to the 7th sign of the zodiac, Libra the Balance.  Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
@@ -40385,42 +40186,43 @@ A box that contains a Virgo Diadem Headgear.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 16436#
-A box that contains 1 Libra Crown.
-^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Dex +3,
-Increase Resistance to Wind Property by 7%.
-If refined to 7 or higher,
-Matk +3%.
-If refined to 9 or higher,
-Matk +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
-Required Level: ^7777771^000000
-Job : ^777777All^000000
-^ffffff_^000000
+Contains 1 Libra Crown.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Libra Crown]
+A magnificent crown created to pay tribute to the 7th sign of the zodiac, Libra the Balance. Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
+Dex +3
+Wind Resistance +7%
+^6A5ACD[If refined to +7 or higher]^000000
+Matk +3%
+^6A5ACD[If refined to +9 or higher]^000000
+Matk +5%
+A chance of auto casting Frost Nova 5 when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 16437#
-A box that contains 1 Libra Crown.
-^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Dex +3,
-Increase Resistance to Wind Property by 7%.
-If refined to 7 or higher,
-Matk +3%.
-If refined to 9 or higher,
-Matk +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
-Required Level: ^7777771^000000
-Job : ^777777All^000000
-^ffffff_^000000
+Contains 1 Libra Crown.
 Weight: ^7777771^000000
+^ffffff_^000000
+[Libra Crown]
+A magnificent crown created to pay tribute to the 7th sign of the zodiac, Libra the Balance. Attached to the crown is an Opal gemstone, the birthstone for those born under this sign.
+Dex +3
+Wind Resistance +7%
+^6A5ACD[If refined to +7 or higher]^000000
+Matk +3%
+^6A5ACD[If refined to +9 or higher]^000000
+Matk +5%
+A chance of auto casting Frost Nova 5 when receiving physical damage
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777773^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 16438#
 A box that contains 1 Libra Diadem.
@@ -43729,6 +43531,7 @@ Weight: ^77777710^000000
 placeholder
 #
 5358#
+^ff0000Account bound^000000
 An accessory made from Peco Peco feathers. Don't worry, no Peco Peco was harmed.
 Agi +1
 Mdef +2
@@ -44000,18 +43803,17 @@ Required Level: ^7777771^000000
 Job : ^777777All Classes^000000
 #
 5225#
-A hat by those leading the way to celebrations.
-Mdef +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
+A hat worn by those leading the way to celebrations.
+Mdef +2
+Stun resistance +10%
+A chance of auto casting Angelus 5 or Assumptio 1 on oneself when receiving physical damage
+^6A5ACD[If worn by Acolyte, Priest, High Priest, or Arch Bishop]^000000
+Lex Aeterna 1 is cast when using Heal on an enemy
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777774^000000
-Weight: ^77777720^000000
+Defense: ^7777774^000000    Weight: ^77777720^000000
 Required Level: ^77777710^000000
-Job : ^777777All Classes^000000
+Jobs: ^777777All^000000
 #
 5212#
 ^ff0000Account bound^000000
@@ -44448,13 +44250,11 @@ A huge magical bloody-red dragon scale. Luckily, it doesn't smell fishy.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 6093#
 A draco's egg about to be hatched. If you take good care of it, you may have the chance to see a baby draco.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-
 12353#
 A tiny bottle with water in it that's almost freezing.
 Gives Water-Elemental endowment to weapon for 90 seconds.
@@ -44465,15 +44265,15 @@ Weight: ^7777771^000000
 // ----------- EP13.2 Newly Added Items ------------
 
 15000#
-Dark Plated Armor covered with sharp bones.
-When being physically attacked has a 1% chance of autocasting 'Bleeding' around 5x5 cells of the player.
-Ignore 10% of the Def from Demi-human & Animal type monsters. 
-Str +1, Mdef +3
+Dark-plated armor covered with sharp bones.
+A 1% chance of inflicting Bleed on enemies in 5x5 area around oneself when receiving physical damage
+Damage to Demihuman/Animal monsters +10%
+Str +1
+Mdef +3
 Class: ^777777Armor^000000
-Defense: ^77777760^000000
-Weight: ^777777100^000000
+Defense: ^77777760^000000    Weight: ^777777100^000000
 Required Level: ^77777785^000000
-Job : ^777777Transcendent Thief / Merchant / Swordsman Classes^000000
+Jobs: ^777777Transcendent Thief / Merchant / Swordsman^000000
 #
 
 // -----------  Ep 13.2 additional equipment items ------------
@@ -45200,13 +45000,10 @@ When summoned,
 Increases MaxHP by 3% and has a chance of auto-casting Level 1 Heal when being attacked physically.
 #
 9043#
-An egg in which a
-Marionette Cute Pet rests.
-Can be hatched by
-using a ^33CC33Pet Incubator^000000.
-^33CC33Cordial/Loyal Bonus^000000
-When summoned,
-Has a low chance of activating +20 tolerance to Neutral property monsters while being physically attacked.
+An egg in which Marionette pet rests.
+Can be hatched with a ^33CC33Pet Incubator^000000.
+^33CC33Cordial/Loyal bonus^000000
+When summoned, with a low chance, resistance to Neutral monsters +20 when receiving physical damage
 #
 9044#
 An egg in which a
@@ -46027,13 +45824,11 @@ Weight: ^7777771^000000
 #
 5611#
 A disgruntled snapping turtle sits above your head. Count your fingers after putting this on.
-Agi +1.
-Has a low chance of casting Lv. 3 Decrease Agi on your enemy while being physically attacked.
-^ff0000This item can be traded, stored, and put into a cart^000000
+Agi +1
+A low chance of auto casting Decrease Agi 3 on the enemy when receiving physical damage
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Position: ^777777Upper^000000
-Weight: ^77777730^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
@@ -46042,50 +45837,32 @@ A firecracker that shoots up into the sky when lit.
 Weight: ^7777772^000000
 #
 16414#
-A Box that contains 1 Turtle Hat.
-Once opened, the Turtle Hat is account bound.
+Contains 1 Turtle Hat.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Description:
+[Turtle Hat]
 A disgruntled snapping turtle sits above your head. Count your fingers after putting this on.
-Agi +1.
-Has a low chance of casting Lv. 3 Decrease Agi on your enemy while being physically attacked.
-Account Bound.
-^FF0000Event Stats from 7/8 - 8/5:
-Def +3,
-Increases damage to turtle monsters on Turtle Island by 20%.
-Decreases damage from turtle monsters on Turtle Island by 20%.
-If upgraded to +7 or higher, Adds 25% EXP bonus for any monster killed.^000000
+Agi +1
+A low chance of auto casting Decrease Agi 3 on the enemy when receiving physical damage
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Position: ^777777Upper^000000
-Weight: ^77777730^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
-^ffffff_^000000
-Weight: ^7777771^000000
 #
 16415#
-A Box that contains 1 Turtle Hat.
-Once opened, the Turtle Hat is account bound.
+Contains 1 Turtle Hat.
+Weight: ^7777771^000000
 ^ffffff_^000000
-Description:
+[Turtle Hat]
 A disgruntled snapping turtle sits above your head. Count your fingers after putting this on.
-Agi +1.
-Has a low chance of casting Lv. 3 Decrease Agi on your enemy while being physically attacked.
-Account Bound.
-^FF0000Event Stats from 7/8 - 8/5:
-Def +3,
-Increases damage to turtle monsters on Turtle Island by 20%.
-Decreases damage from turtle monsters on Turtle Island by 20%.
-If upgraded to +7 or higher, Adds 25% EXP bonus for any monster killed.^000000
+Agi +1
+A low chance of auto casting Decrease Agi 3 on the enemy when receiving physical damage
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Position: ^777777Upper^000000
-Weight: ^77777730^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
-^ffffff_^000000
-Weight: ^7777771^000000
 #
 16659#
 Open the box and receive one of the 12 Zodiac Diadem headgears.
@@ -46718,49 +46495,41 @@ An ordinary rough Rune Stone used to create refined Rune Stones..
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-
 12738#
 A rare rough Rune Stone that gives a high chance of successfully creating refined Rune Stones.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-
 12333#
 A crystal that is shining with mysterious color. When used, you recover 15% of MaxSP.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7931#
 Basic tools for poison making are all stocked. It's a gift set for those who dream of making poison.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7932#
-Fragile. You'll get into trouble when attracted by a red beautiful flower and fragrance.
+Be careful not to get poisoned when attracted by this red beautiful flower and fragrance.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7933#
-Fragile. The red berry ripened but the fragrance seems like it's of a domestic animal.
+Be careful with this flower's berry. It seems ripened, but its odor is very acrid.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7934#
 Fragile. It's not green tea even if it uses the very end of a young leaf. 
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7935#
 Fragile. It does not have any scent unlike a beautiful figure.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7936#
 Fragile. The purplish, small, and cute flower seems charming but when you touch, it's very itchy. 
 ^ffffff_^000000
@@ -52986,7 +52755,6 @@ A scroll that will transform your body into the form of a Golem for 20 minutes.
 During the transformation increases Melee Atk by a small amount.
 Weight: ^7777772^000000
 #
-
 16976#
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
 A box that contains 1 of each:
@@ -52996,26 +52764,23 @@ This box can be stored and traded, the items inside are account bound.
 Box Weight: ^7777771^000000
 #
 17113#
-Available from March 9 - April 3
-Randomly Gives one of the 3 Marching hats.
-^ff0000The Box is not tradable, but the hats inside may be traded and vended normally.^000000
-Box Weight: ^7777771^000000
-
-Parade Hat Description:
-A hat by those leading the way to celebrations.
-Mdef +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
+Contains one of the 3 Marching hats.
+Weight: ^7777771^000000
+^777777 ^000000
+[Holy Marcher Hat]
+A hat worn by those leading the way to celebrations.
+Mdef +2
+Stun resistance +10%
+A chance of auto casting Angelus 5 or Assumptio 1 on oneself when receiving physical damage
+^6A5ACD[If worn by Acolyte, Priest, High Priest, or Arch Bishop]^000000
+Lex Aeterna 1 is cast when using Heal on an enemy
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777774^000000
-Weight: ^77777720^000000
+Defense: ^7777774^000000    Weight: ^77777720^000000
 Required Level: ^77777710^000000
-Job : ^777777All Classes^000000
-
-Holy Marching Hat Description:
+Jobs: ^777777All^000000
+^777777 ^000000
+[Holy Marching Hat]
 A marching hat with holy angel wings affixed to the sides made famous by a righteous Rune Midgardian band.
 Int +1, Dex +1, Mdef +5.
 If refined to +7 or higher, increases Heal effectieness by 5%.
@@ -53026,8 +52791,8 @@ Defense: ^7777775^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-
-Evil Marcher Hat Description:
+^777777 ^000000
+[Evil Marcher Hat]
 A dark marching hat worn by members of an undead band from Niflheim.
 Str +2. Attack +2% to all monsters.
 If refined to +7 or higher, Critical +10%.
@@ -53039,8 +52804,6 @@ Weight: ^77777750^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-
-
 17110#
 A scroll with the Aquarius sign fixed upon it.
 Weight: ^7777771^000000
@@ -55584,6 +55347,24 @@ it will be useless.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+19602#
+^ff0000Account bound^000000
+A cap that can be touched... but invisible.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19603#
+^ff0000Account bound^000000
+Sunglasses that can be touched... but invisible.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 20121#
 ^CC0000This Rental Weapon is not Tradable^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
@@ -56085,6 +55866,15 @@ Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Gunslinger^000000
 #
+19604#
+^ff0000Account bound^000000
+A mask that can be touched... but invisible.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 19605#
 A crate full of supplies designed for the magically inclined
 Contains the following:
@@ -56345,21 +56135,21 @@ Jobs: ^777777All^000000
 Box Weight: ^7777771^000000
 #
 19411#
-A Box that contains 1 Parade Hat
-Description:
-A hat by those leading the way to celebrations.
-Mdef +2,
-Increases tolerance to Stun by 10%.
-When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
-If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
-^ff0000This item can be traded, stored, and put into a cart^000000
+Contains 1 Holy Marcher Hat.
+Weight: ^7777771^000000
+^777777 ^000000
+[Holy Marcher Hat]
+A hat worn by those leading the way to celebrations.
+Mdef +2
+Stun resistance +10%
+A chance of auto casting Angelus 5 or Assumptio 1 on oneself when receiving physical damage
+^6A5ACD[If worn by Acolyte, Priest, High Priest, or Arch Bishop]^000000
+Lex Aeterna 1 is cast when using Heal on an enemy
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777774^000000
-Weight: ^77777720^000000
+Defense: ^7777774^000000    Weight: ^77777720^000000
 Required Level: ^77777710^000000
-Job : ^777777All Classes^000000
-Box Weight: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19412#
 A Box that contains 1 Vacation Hat
@@ -62050,7 +61840,7 @@ Earn Runaway Magic energy for 10 second in a low chance when inflicting magic at
 When physically attacking, has a low chance of increasing ASPD and Flee for 5 seconds while decreasing HP by 400 and SP by 50 per second.
 #
 4878#
-When being physically attacked, has a low chance of increasing defense for 5 seconds while Atk and Matk are decreased 50%. 
+A low chance of increasing Def for 5 sec., when receiving physical damage, while decreasing Atk/Matk by 50%
 #
 4879#
 When attacking, has a low chance of increasing Dex by 200 for 5 seconds while decreasing SP by 50 every second.
@@ -62427,18 +62217,21 @@ Required Lv. : ^777777100^000000
 Job : ^777777Geneticist Only^000000
 #
 5903#
-An otherwise normal ghost bandana with a red spiral insignia on the front.  It demonstrates a strong connection between the wearer and the afterlife.
-Increase 2 CRI per refine Lv., reduce the fixed casting by 2%.
-When being physically attacked, has a 1% chance to autocast highest level learned Eswoo on the wearer.1% 
-If upgraded to +7 or higher,, MATK + 20, Increase casting rate of Eswoo.(3%)
-If upgraded to +9 or higher, reduce variable casting by 20%, when Estun, Esma is used, Consumed SP -5.
-^ff0000This item cannot be traded with other accounts.^000000
+An otherwise normal ghost bandana with a red spiral insignia at the front. It demonstrates a strong connection between the wearer and the afterlife.
+Critical +2 per each refine level
+Casting time -2%
+A 1% chance of auto casting Eswoo on oneself, when receiving physical damage
+^6A5ACD[If refined to +7 or higher]^000000
+Matk +20
+Eswoo's casting rate +3%
+^6A5ACD[If refined to +9 or higher]^000000
+Estun's and Esma's casting time -20%
+SP Consumption -5
 Class: ^777777Headgear^000000
-Defense: ^77777715^000000
-Location: ^777777Upper ^000000
-Weight: ^77777720^000000
-Required Lv. : ^77777799^000000
-Job : ^777777Magician Class,Soul Linker Only^000000
+Location: ^777777Upper^000000
+Defense: ^77777715^000000    Weight: ^77777720^000000
+Required Level: ^77777799^000000
+Jobs: ^777777Magician / Soul Linker^000000
 #
 5904#
 A simple hat that would look inconspicuous in any crowd.  Its very helpful to anyone who is trying to blend in.
@@ -67193,29 +66986,29 @@ Job : ^777777All^000000
 #
 18912#
 A pigeon perched on his master's shoulder.
-All State +1
-Randomly auto-casts 'Ruwach Lv.1' when physically attacked.
-If equipped with Angel Wing, 5% bonus EXP earned when killing monsters.
 Unrefinable
+All stats +1
+A chance of auto casting Ruwach 1 when receiving physical damage
+^6A5ACD[If used with Angel Wing]^000000
+Exp +5% when killing monsters
 Class: ^777777Headgear^000000
-Location: ^777777Middle ^000000
-Defense: ^7777775^000000
-Weight: ^77777710^000000
+Location: ^777777Middle^000000
+Defense: ^7777775^000000    Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18913#
 A gossiping raven that talks all day long.
-All State +1
-Randomly auto-casts 'Ruwach Lv.1' when physically attacked.
-If equipped with Grand Circlet, 5% bonus EXP earned when killing monsters.
 Unrefinable
+All stats +1
+A chance of auto casting Ruwach 1 when receiving physical damage
+^6A5ACD[If used with Grand Circlet]^000000
+Exp +5% when killing monsters
 Class: ^777777Headgear^000000
-Location: ^777777Middle ^000000
-Defense: ^7777775^000000
-Weight: ^77777710^000000
+Location: ^777777Middle^000000
+Defense: ^7777775^000000    Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18914#
 A cute baby deviling that chases his master all day.
@@ -68385,31 +68178,34 @@ Required LV : ^77777771^000000
 Job : ^777777All^000000
 #
 20745#
-^000088Rental Item^000000
-A manteau with water spirit. It is protected by water all the time.
-Decrease 10% damage against Water property attacks.
-Increase 10% damage from Wind property attacks.
-When being physically attacked by a short distance attacks, it can activate Freezing by a certain chance.
-With more than 6 refine Lv, Freezing chance will be increased per each refine Lv.
-With more than 10 refine Lv, additional Freezing chance will be increased.
-Indestructible.
-Class: ^777777Garment^000000 Defense: ^77777710^000000
-Weight: ^77777730^000000
-Required LV : ^77777771^000000
-Job : ^777777All^000000
+^000088Rental item^000000
+A manteau with Water spirit. It is protected by water all the time.
+Indestructible
+Damage from Water attacks -10%
+Damage from Wind attacks +10%
+A chance of freezing the enemy when receiving melee physical damage
+^6A5ACD[If refined to +7 or higher]^000000
+The chance of freezing is increased with each refine level.
+^6A5ACD[If refined to +10]^000000
+The chance of freezing is greatly increased.
+Class: ^777777Garment^000000
+Defense: ^77777710^000000    Weight: ^77777730^000000
+Required Level: ^77777771^000000
+Jobs: ^777777All^000000
 #
 20747#
-^000088Rental Item^000000
-A manteau with Earth spirit, It is protected by stones all the time.
-Decrease 10% damage against Water property attacks.
-Increase 10% damage from Fire property attacks.
-When being physically attacked by both short range and long distance, it can activate Stone Curse by a certain chance in 5*5 cells around yourself.
-With more than 5 refine Lv, increase the chance for Stone Curse per 1 reine Lv.
-Indestructible.
-Class: ^777777Garment^000000 Defense: ^77777710^000000
-Weight: ^77777730^000000
-Required LV : ^77777771^000000
-Job : ^777777All^000000
+^000088Rental item^000000
+A manteau with Earth spirit. It is protected by stones all the time.
+Indestructible
+Damage from Earth attacks -10%
+Damage from Fire attacks +10%
+A chance of auto casting Stone Curse in the 5*5 area around oneself when receiving physical damage
+^6A5ACD[If refined to +6 or higher]^000000
+Chance of casting Stone Curse +1% per refine level
+Class: ^777777Garment^000000
+Defense: ^77777710^000000    Weight: ^77777730^000000
+Required Level: ^77777771^000000
+Jobs: ^777777All^000000
 #
 20752#
 Shiny Golden Wings. A symbol of the Elite.
@@ -69740,10 +69536,11 @@ Compound : ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4500#
-Can reflex 15% damage to enemies when being physically attacked in short range.
-If compounded equipment is refined to +15 and above, can reflex 25% damage to enemies.
+Reflects 15% of damage to enemies when receiving melee physical damage
+^6A5ACD[If armor is refined to +15 or higher]^000000
+Reflects 25% of damage to enemies
 Class: ^777777Card ^000000
-Compound : ^777777Armor^000000
+Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4501#
@@ -77541,14 +77338,15 @@ ATK + 5, MATK + 5, MDEF + 2
 #
 5801#
 Pretty red ribbon. You can feel the sweetness of love.
-All stats +2. Reduce 10 % of the damage taken from Demihuman Monsters.
-Has a chance to auto-cast Level 5 Heal when the wearer is physically attacked.
-(cast Level 10 Heal if Level 10 Heal is learned.)
-Type : ^777777Headgear^000000 DEF : ^7777775^000000
-Weight: ^77777710^000000
-Level Required : ^7777771^000000
-Required Class: ^777777EveryJob^000000
-
+All stats +2
+Damage from Demihuman monsters -10%
+A chance of auto casting Heal 5 when receiving physical damage
+If Heal is Lv. 10, it will be cast instead.
+Class: ^777777Headgear^000000
+Defense: ^7777775^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 7360#
 An invitation which has the word [Come to the RO Festival and have a wonderful action feagure!] written
 in a foregin language.
@@ -77828,22 +77626,6 @@ LUK + 5
 Weapon Class: ^777777Headgear^000000    Defense Rate : ^7777772^000000
 Equipped On : ^777777Upper^000000    Weight: ^77777720^000000
 Applicable Job : ^777777Every Job^000000
-#
-12135#
-A wonderfully
-refreshing drink that
-may cause stumbling
-and regrettably hazy
-memories of the night
-before when drank in
-excess. Recovers 50%
-of Max HP and SP, but
-has a 10% chance of
-casting the Chaos
-effect on its user.
-This can be consumed 3 seconds after each use.
-^ffffff_^000000
-Weight: ^7777773^000000
 #
 7517#
 A gold coin forged by the leprechauns.
@@ -80425,15 +80207,6 @@ Weight: ^7777771^000000
 5392#
 placeholder
 #
-13962#Contains 1 Defolty Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans.  Autocasts Lvl 10 Angelus when physically attacked by melee.
-Can't be upgraded, Def 0.
-Lvl 60 requirement.  Jobs: All
-
-This Box can be traded.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 13963#
 Contains 1 Glaris Doll Hat, which is non-tradeable.
 Decreases 5% damage from demi-humans.  Recovers 50 HP when a monster is killed magical attack.
@@ -80551,14 +80324,6 @@ Defense: ^7777772^000000
 Location: ^777777Middle^000000
 Weight: ^77777720^000000
 Required Level: ^77777770^000000
-Jobs: ^777777All^000000
-#
-5404#
-The symbol of an honor student!
-Auto casts Lv2 Improve Concentration with low chances when physically attacked.
-Class: ^777777Headgear^000000    Defense: ^7777772^000000
-Location: ^777777Upper^000000    Weight: ^77777710^000000
-Required Level: ^77777745^000000
 Jobs: ^777777All^000000
 #
 12312#
@@ -82627,15 +82392,6 @@ Location: ^777777Upper^000000 Weight: ^77777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
-9043#
-An egg in which a
-Marionette Cute Pet rests.
-Can be hatched by
-using a ^33CC33Pet Incubator^000000.
-^33CC33Cordial/Loyal Bonus^000000
-When summoned,
-Has a low chance of activating +20 tolerance to Neutral property monsters while being physically attacked.
-#
 5544#
 A hat that many magicians wear while conjuring spells.
 Int +2
@@ -83258,42 +83014,6 @@ Location: ^777777Mid ^000000
 Weight: ^77777710^000000
 Required Level: ^77777770^000000
 Job : ^777777All^000000
-#
-16436#
-A box that contains 1 Libra Crown.
-^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Dex +3,
-Increase Resistance to Wind Property by 7%.
-If refined to 7 or higher,
-Matk +3%.
-If refined to 9 or higher,
-Matk +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
-Required Level: ^7777771^000000
-Job : ^777777All^000000
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-16437#
-A box that contains 1 Libra Crown.
-^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Dex +3,
-Increase Resistance to Wind Property by 7%.
-If refined to 7 or higher,
-Matk +3%.
-If refined to 9 or higher,
-Matk +5% and adds a chance of casting Lv 5 Frost Nova when physically attacked.
-Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
-Required Level: ^7777771^000000
-Job : ^777777All^000000
-^ffffff_^000000
-Weight: ^7777771^000000
 #
 16438#
 A box that contains 1 Libra Diadem.
@@ -85753,25 +85473,4 @@ Location: ^777777Headgear (Upper)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-19602#
-A hat that can be touched...but invisible. 
-Type : ^777777Costume^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
-#
-19603#
-A glasses that can be touched...but invisible. 
-Type : ^777777Costume^000000 Defense : ^7777770^000000
-Location : ^777777Middle ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
-#
-19604#
-A mask that can be touched...but invisible.
-Type : ^777777Costume^000000 Defense : ^7777770^000000
-Location : ^777777Lower ^000000Weight : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
 #
