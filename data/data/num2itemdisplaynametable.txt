@@ -137,15 +137,15 @@
 2337#Clothing#
 2338#Clothing#
 2339#Clothing#
-2401#Shoes#
-2402#Shoes#
-2403#Shoes#
-2404#Shoes#
-2405#Shoes#
-2406#Shoes#
-2407#Shoes#
-2408#Shoes#
-2409#Shoes#
+2401#Footwear#
+2402#Footwear#
+2403#Footwear#
+2404#Footwear#
+2405#Footwear#
+2406#Footwear#
+2407#Footwear#
+2408#Footwear#
+2409#Footwear#
 2501#Garment#
 2502#Garment#
 2503#Garment#
@@ -460,7 +460,7 @@
 1011#Emveretarcon#
 1012#Frill#
 1013#Rainbow Shell#
-1014#Ant Jaw#
+1014#Ant Jaws#
 1015#Tongue#
 1016#Rat Tail#
 1017#Mole Whiskers#
@@ -713,21 +713,21 @@
 1550#Book#
 1551#Book#
 1552#Book#
-1601#Rod#
-1602#Rod#
-1603#Rod#
-1604#Rod#
-1605#Rod#
-1606#Rod#
-1607#Rod#
-1608#Rod#
-1609#Rod#
-1610#Rod#
-1611#Rod#
-1612#Rod#
-1613#Rod#
-1614#Rod#
-1615#Rod#
+1601#Wand#
+1602#Wand#
+1603#Wand#
+1604#Wand#
+1605#Wand#
+1606#Wand#
+1607#Wand#
+1608#Wand#
+1609#Wand#
+1610#Wand#
+1611#Wand#
+1612#Wand#
+1613#Wand#
+1614#Wand#
+1615#Wand#
 1801#Claw#
 1802#Claw#
 1803#Claw#
@@ -871,13 +871,13 @@
 4100#Card#
 4101#Card#
 4102#Card#
-4103#Card#
+4103#Horong Card#
 4104#Card#
 4105#Card#
 4106#Card#
 4107#Card#
 4108#Card#
-4109#Card#
+4109#Jakk Card#
 4110#Card#
 4111#Card#
 4112#Card#
@@ -887,11 +887,11 @@
 4116#Card#
 4117#Card#
 4118#Card#
-4119#Card#
+4119#Bathory Card#
 4120#Card#
 4121#Card#
 4122#Card#
-4123#Card#
+4123#Eddga Card#
 4124#Card#
 4125#Card#
 4126#Card#
@@ -901,7 +901,7 @@
 4130#Card#
 4131#Card#
 4132#Card#
-4133#Card#
+4133#Raydric Card#
 4134#Card#
 4135#Card#
 4136#Card#
@@ -909,7 +909,7 @@
 4138#Card#
 4139#Card#
 4140#Card#
-4141#Card#
+4141#Evil Druid Card#
 4142#Card#
 4143#Card#
 4144#Card#
@@ -943,13 +943,13 @@
 7014#Old Portrait#
 7015#Bookclip in Memory#
 7016#Spoon Stub#
-7017#Executioner's Mitten#
+7017#Executioner's Glove#
 7018#Young Twig#
 7019#Loki's Whispers#
 7020#Mother's Nightmare#
 7021#Foolishness of the Blind#
 7022#Old Hilt#
-7023#Blade Lost in Darkness#
+7023#Blade of Darkness#
 7024#Bloody Edge#
 7025#Lucifer's Lament#
 7026#Key of Clock Tower#
@@ -991,7 +991,7 @@
 7033#Poison Spore#
 7034#Red Stocking#
 7035#Matchstick#
-7036#Fang of Garm#
+7036#Garm's Fang#
 7037#Coupon#
 619#Unripe Apple#
 620#Orange Juice#
@@ -1007,7 +1007,7 @@
 630#Dew Laden Moss#
 631#Deadly Noxious Herb#
 632#Fatty Chubby Earthworm#
-633#Baked Yam#
+633#Sweet Potato#
 634#Tropical Banana#
 635#Horror of Tribe#
 636#No Recipient#
@@ -1159,22 +1159,22 @@
 7071#Tattered Clothes#
 7072#Old Shuriken#
 7073#Freya's Jewel#
-7074#Thor's Guntlet#
+7074#Thor's Gauntlets#
 7075#Iron Maiden#
 7076#Wheel of the Unknown#
 7077#Silver Ornament#
 7078#Wrath of Valkyrie#
-7079#Feather of Angel Wing#
-7080#Tread of Cat#
+7079#Angel's Feather#
+7080#Cat's Tread#
 7081#Woman's Moustache#
 7082#Root of Stone#
 7083#Spirit of Fish#
 7084#Sputum of Bird#
 7085#Sinew of Bear#
 7086#Emblem of the Sun God#
-7087#Breath of Spirit#
+7087#Spirit's Breath#
 7088#Snow Crystal#
-7089#Omen of Tempest#
+7089#Storm Indicator#
 7090#Ripple#
 7091#Billow#
 7092#Drifting Air#
@@ -1583,7 +1583,7 @@
 7292#Muscovite#
 7293#Rose Quartz#
 7294#Turquoise#
-7295#Citrin#
+7295#Citrine#
 7296#Pyroxene#
 7297#Biotite#
 7298#Fig Leaf#
@@ -1595,25 +1595,25 @@
 9026#Zealotus Egg#
 9027#Alice Egg#
 569#Novice Potion#
-686#Level 3 Earth Spike#
-687#Level 5 Earth Spike#
-688#Level 3 Cold Bolt#
-689#Level 5 Cold Bolt#
-690#Level 3 Fire Bolt#
-691#Level 5 Fire Bolt#
-692#Level 3 Lightening Bolt#
-693#Level 5 Lightening Bolt#
-694#Level 3 Soul Strike#
-695#Level 5 Soul Strike#
-696#Level 1 Fire Ball#
-697#Level 5 Fire Ball#
-698#Level 1 Fire Wall#
-699#Level 5 Fire Wall#
-700#Level 1 Frost Diver#
-12000#Level 5 Frost Diver#
-12001#Level 3 Heal#
-12002#Level 5 Heal#
-12003#Level 1 Teleport#
+686#LV3 Earth Spike Scroll#
+687#LV5 Earth Spike Scroll#
+688#LV3 Cold Bolt Scroll#
+689#LV5 Cold Bolt Scroll#
+690#LV3 Fire Bolt Scroll#
+691#LV5 Fire Bolt Scroll#
+692#LV3 Lightning Bolt Scroll#
+693#LV5 Lightning Bolt Scroll#
+694#LV3 Soul Strike Scroll#
+695#LV5 Soul Strike Scroll#
+696#LV1 Fire Ball Scroll#
+697#LV5 Fire Ball Scroll#
+698#LV1 Fire Wall Scroll#
+699#LV5 Fire Wall Scroll#
+700#LV1 Frost Driver Scroll#
+12000#LV5 Frost Driver Scroll#
+12001#LV3 Heal Scroll#
+12002#LV5 Heal Scroll#
+12003#LV1 Teleport Scroll#
 662#Authoritative Badge#
 12004#Quiver#
 12005#Iron Arrow Quiver#
@@ -1714,7 +1714,7 @@
 4226#Sting Card#
 4227#Spring Rabbit Card#
 4228#Sleeper Card#
-4229#Clock Tower Manager Card#
+4229#Tower Keeper Card#
 4230#Shinobi Card#
 4231#Enchanted Soil Card#
 4232#Wild Ginseng Card#
@@ -1808,7 +1808,7 @@
 4320#Bloody Knight Card#
 4321#Hylozoist Card#
 4322#High Orc Card#
-4323#Garm Bebe Card#
+4323#Baby Garm Card#
 4324#Garm Card#
 4325#Harpy Card#
 4326#Sea-Otter Card#
@@ -2012,7 +2012,7 @@
 5115#Headgear#
 5116#Headgear#
 5117#Accessory#
-5118#Head band#
+5118#Headband#
 5119#Headgear#
 5120#Headgear#
 5121#Mask#
@@ -2026,7 +2026,7 @@
 5122#Headgear#
 5123#Headgear#
 5124#Helmet#
-5125#Head band#
+5125#Headband#
 5126#Helmet#
 5127#Helmet#
 5128#Helmet#
@@ -2159,7 +2159,7 @@
 12103#Bloody Branch#
 12104#Random Arrow Container#
 12105#Taming Gift Box#
-12106#Jewel Box#
+12106#Jewelry Box#
 12107#Packed Mask#
 12108#A Bundle of Spell Book#
 12109#Poring Box#
@@ -3263,7 +3263,7 @@
 13865#Observer Box#
 13954#Spiritual Tunic Box#
 13955#Recuperative Armor Box#
-13956#Shealter Resistanc#
+13956#Shield of Resistance Box#
 13957#Sylphid Manteau Box#
 13958#Refresh Shoes Box#
 13959#Toast Box#
@@ -3331,7 +3331,7 @@
 2687#Neo Steel Flower#
 5279#Drooping Kitty#
 2385#Recuperative Armor#
-2132#Shelter Resistance#
+2132#Shield of Resistance#
 2543#Sylphid Manteau#
 2439#Refresh Shoes#
 5391#Toast#
@@ -3341,7 +3341,7 @@
 5328#Evil Wing Ears#
 5329#Dark Blindfold#
 5331#Hat#
-2384#Spritual Tunic#
+2384#Spiritual Tunic#
 5314#Hockey Mask#
 
 //--------20080826  dye Coupon----------------

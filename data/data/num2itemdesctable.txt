@@ -68,34 +68,23 @@ Type: Consumable
 Class: HP Recovery
 Weight: 5
 Required Level: 1
-
 Base Heal Value ^00800038^000000 to ^00800058^000000HP
-
 Can be used in Potion Crafting.
 #
 509#
 ^808080White herbs found in the wild. Any alchemist can tell you... this is the good stuff.^000000
-
 Type: Consumable
 Class: HP Recovery
 Weight: 7
 Required Level: 1
-
 Base Heal Value ^00800075^000000 to ^008000115^000000HP
-
 Can be used in Potion Crafting.
 #
 510#
-^808080Blue herbs found in the wild. May be habit forming. Please consult your biochemist before use.^000000
-
-Type: Consumable
-Class: SP Recovery
-Weight: 7
-Required Level: 1
-
-Base Heal Value ^00800015^000000 to ^00800030^000000SP
-
-Can be used in Potion Crafting.
+A blue herb found in the wild. May be addictive. Please consult your biochemist before use.
+Restores ^00800015-30 SP^000000.
+^FFFFFF_^000000
+Weight: ^7777777^000000
 #
 511#
 A valuable medicinal
@@ -105,10 +94,9 @@ the effects of poison^000000.
 Weight: ^7777773^000000
 #
 512#
-A round, edible fruit that, when eaten once a day, keeps the doctor away.
-^000088Recovers a small
-amount of HP^000000.
-^ffffff_^000000
+A round edible fruit that, as the saying goes, keeps the doctor away if eaten once a day.
+Restores ^00800016-22 HP^000000.
+^FFFFFF_^000000
 Weight: ^7777772^000000
 #
 513#
@@ -150,12 +138,9 @@ Restores ^00800070-100 HP^000000.
 Weight: ^77777715^000000
 #
 518#
-A sweet product made
-by bees that is endowed with yummy flavor and
-medicinal uses.
-^000088Recovers a small
-amount of HP and SP^000000.
-^ffffff_^000000
+A sweet product made by bees. Very yummy and good for your health.
+Restores ^00800070-100 HP^000000 and ^00800020-40 SP^000000.
+^FFFFFF_^000000
 Weight: ^77777710^000000
 #
 519#
@@ -460,15 +445,14 @@ them. Used to temper
 Weight: ^77777720^000000
 #
 757#
-Raw ore that
-mostly consists
-of Elunium metal.
-^ffffff_^000000
+Raw ore that mostly consists of Elunium.
+^FFFFFF_^000000
 Weight: ^77777720^000000
 #
 985#
-A very light, non-toxic metal used for refining and toughening ^000088Armor^000000.
-^ffffff_^000000
+A very light, non-toxic metal used for upgrading and toughening of armor.
+Required for refining armor
+^FFFFFF_^000000
 Weight: ^77777720^000000
 #
 714#
@@ -1083,17 +1067,13 @@ proof of his heroism.
 Weight: ^7777771^000000
 #
 969#
-A valuable metal in bullion form. It's used
-to make coins, jewelry
-and gaudy false teeth.
-^ffffff_^000000
+An ingot of valuable metal. It's used to make coins, jewelry, and gaudy false teeth.
+^FFFFFF_^000000
 Weight: ^77777720^000000
 #
 970#
-This colorless liquid
-is the secret behind the addictiveness of beers
-and wine. 200 Proof.
-^ffffff_^000000
+Colorless liquid found in beer, wine, and other alcoholic beverages.
+^FFFFFF_^000000
 Weight: ^7777773^000000
 #
 971#
@@ -1214,9 +1194,8 @@ A blue-green ore imbued with a faint, mesmerizing light. Possesses the Earth pro
 Weight: ^7777775^000000
 #
 994#
-A dark red, heart
-shaped stone enchanted with the Fire property.
-^ffffff_^000000
+A dark-red, heart-shaped stone enchanted with the Fire property.
+^FFFFFF_^000000
 Weight: ^77777730^000000
 #
 995#
@@ -1301,8 +1280,8 @@ the power of clairvoyance.
 Weight: ^7777774^000000
 #
 1008#
-A necklace given from a master once one earns the honor of joining the Assassin Guild.
-^ffffff_^000000
+A necklace given to all new recruits of the Assassin Guild.
+^FFFFFF_^000000
 Weight: ^77777710^000000
 #
 1009#
@@ -1339,9 +1318,8 @@ of the rainbow.
 Weight: ^7777771^000000
 #
 1014#
-A tough, sharp
-jaw from an ant.
-^ffffff_^000000
+Sharp jaws from an ant.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 1015#
@@ -1462,19 +1440,18 @@ human legs, that almost look capable of walking.
 Weight: ^7777771^000000
 #
 1034#
-Hair cut from a Kobold
-that appears bristly but is actually downy soft.
-^ffffff_^000000
+Hair cut from a Kobold. It seems bristly but is actually quite soft.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 1035#
 A dragon's cuspid that is sharp enough to pierce through dragon scales.
-^ffffff_^000000
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 1036#
-An iridescent dragon's scale that is tough enough to protect from weather and most forms of harm.
-^ffffff_^000000
+An iridescent dragon's scale that is tough enough to protect from weather and most harm.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 1037#
@@ -1994,102 +1971,46 @@ using a Magnifier.
 Weight: ^777777100^000000
 #
 1127#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1129#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777150^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1130#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1131#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1132#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1133#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1134#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1135#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1136#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1137#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1138#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1139#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1140#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1141#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1116#
 Unknown item
@@ -2120,116 +2041,52 @@ using a Magnifier.
 Weight: ^777777130^000000
 #
 1152#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777130^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1153#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777130^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1154#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777160^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1155#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777160^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1156#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777160^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1157#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777220^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1158#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777220^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1159#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777220^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1160#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777200^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1162#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777200^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1161#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1163#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777250^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1164#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1165#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1166#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777130^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1167#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777160^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1168#
 Unknown item
@@ -2393,39 +2250,19 @@ using a Magnifier.
 Weight: ^77777770^000000
 #
 1221#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1222#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1226#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1223#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1224#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1225#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -2470,18 +2307,10 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1252#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1253#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1254#
 Unknown item
@@ -2599,84 +2428,40 @@ using a Magnifier.
 Weight: ^777777300^000000
 #
 1361#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777300^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1362#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777300^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1363#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777400^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1364#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1365#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777230^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1366#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777230^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1367#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777250^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1368#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777250^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1369#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777300^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1401#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1402#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1403#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1404#
 Unknown item
@@ -2693,11 +2478,7 @@ using a Magnifier.
 Weight: ^77777785^000000
 #
 1406#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777785^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1407#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -2736,11 +2517,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1456#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1457#
 Unknown item
@@ -2848,88 +2625,40 @@ using a Magnifier.
 Weight: ^777777200^000000
 #
 1469#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777250^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1470#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777300^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1471#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777350^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1501#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1502#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1503#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1504#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1505#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1506#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1507#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1508#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1509#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1510#
 Unknown item
@@ -3044,172 +2773,76 @@ using a Magnifier.
 Weight: ^777777100^000000
 #
 1527#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1528#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777150^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1550#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1551#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1552#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1601#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1602#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1603#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1604#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1605#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1606#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1607#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1608#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1609#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1610#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1611#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1612#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1613#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1614#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1615#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1801#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1802#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1803#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777745^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1804#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777745^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1805#
 Unknown item
@@ -3516,102 +3149,46 @@ using a Magnifier.
 Weight: ^777777100^000000
 #
 1708#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1709#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1710#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1711#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1712#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1713#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1715#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1714#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777110^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1716#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777110^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1718#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777150^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1719#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1720#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777120^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1750#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1751#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1752#
 A flaming arrow that inflicts Fire property damage.
@@ -3620,172 +3197,76 @@ Property: ^777777Fire^000000
 Attack: ^77777730^000000    Weight: ^7777770.2^000000
 #
 2101#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2102#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2103#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2104#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2105#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777130^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2106#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777130^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2107#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2108#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777100^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2401#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2402#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2403#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2404#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2405#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2406#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2407#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2408#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777300^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2409#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2501#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2502#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2503#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2504#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2505#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2506#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2507#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2508#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -3838,214 +3319,94 @@ using a Magnifier.
 Weight: ^77777710^000000
 #
 2214#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2215#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2216#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2217#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2218#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2219#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2220#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2221#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2222#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2223#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2224#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2225#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2226#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2227#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2228#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2229#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2230#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2231#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2232#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2232#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2234#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2235#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2236#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2239#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2241#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2242#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2243#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2244#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2245#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2246#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777790^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2247#
 Unknown item
@@ -4153,168 +3514,76 @@ using a Magnifier.
 Weight: ^77777740^000000
 #
 2262#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2263#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2265#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2266#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2267#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2268#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2269#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2270#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2271#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2272#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2273#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2274#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2275#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2276#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2277#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2279#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2280#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2282#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2283#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2284#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2285#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2286#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2287#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2289#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2290#
 Unknown item
@@ -4457,86 +3726,40 @@ using a Magnifier.
 Weight: ^77777710^000000
 #
 5014#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5015#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5016#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5017#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777780^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5018#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5019#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight: ^77777750^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2278#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2281#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2288#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2292#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2297#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5005#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2264#
 Unknown item
@@ -4560,25 +3783,13 @@ using a Magnifier.
 Weight: ^77777710^000000
 #
 2603#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2604#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2605#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777710^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2607#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -4692,88 +3903,40 @@ using a Magnifier.
 Weight: ^777777230^000000
 #
 2312#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777280^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2313#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777280^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2314#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777330^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2315#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777330^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2316#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777450^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2317#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777450^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2318#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777250^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2319#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^777777250^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2320#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777730^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2321#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2322#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2323#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777740^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2324#
 Unknown item
@@ -5658,8 +4821,7 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4103#
-Enable use of
-Level 1 Sight.
+Enables Sight 1
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -5702,9 +4864,8 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4109#
-Increase resistance
-to the Fire property
-by 30%. Flee Rate +5
+Fire resistance +30%
+Flee +5
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -5780,8 +4941,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4119#
-Enchant an Armor with
-the Shadow property.
+Imbues armor with Shadow property
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -5807,14 +4967,10 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4123#
-Enable effect of the
-Endure skill so long
-as the Footgear to
-which this card is
-compounded is 
-equipped. Max HP -25%
+Enables Endure
+Max HP -25%
 Class: ^777777Card^000000
-Slot: ^777777Footgear^000000
+Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4124#
@@ -5894,9 +5050,7 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4133#
-Increase resistance
-to Neutral property
-attacks by 20%.
+Resistance to Neutral attacks +20%
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -5958,9 +5112,9 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4141#
-Enchant an Armor with
-the Undead property.
-INT +1, DEF +1
+Imbues armor with Undead property
+Int +1
+Def +1
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -6171,10 +5325,7 @@ thick, protective scales. ^FFFFFFspacer^000000
 Weight: ^7777771^000000
 #
 7013#
-A small chunk
-of a reef formed
-by corals in clear,
-tropical waters.
+A small chunk of a reef formed by corals in clear tropical waters.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -6205,12 +5356,7 @@ underground tunnel...
 Weight: ^7777772^000000
 #
 7017#
-A glove worn when
-performing executions
-that has absorbed all
-sorts of memories that
-are related to death
-and obligation.
+An executioner's glove that has absorbed all sorts of memories that are related to death and obligation.
 ^ffffff_^000000
 Weight: ^7777773^000000
 #
@@ -6251,16 +5397,12 @@ off a heavy sword.
 Weight: ^7777773^000000
 #
 7023#
-A blade imbued with
-a suffocating aura
-that repels the light.
+A blade with a suffocating aura that repels the light.
 ^ffffff_^000000
 Weight: ^7777774^000000
 #
 7024#
-A blade stained
-with blood that
-can't be cleansed.
+A blade stained with blood that cannot be cleansed.
 ^ffffff_^000000
 Weight: ^7777774^000000
 #
@@ -6357,104 +5499,47 @@ honorable combatants.
 #19998#
 // ---- EP 2.0 Pet System Item -----------
 #
-
 2621#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2622#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2623#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2624#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2625#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2626#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2627#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2628#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1256#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1257#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1258#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1259#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1260#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1261#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 7030#
 A claw pried from
@@ -6600,8 +5685,9 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 633#
-A baked sweet potato
-with an appetizing scent. Smokie loves eating this.
+A baked sweet potato that smells delicious.
+Smokie loves eating this.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -6674,12 +5760,9 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 642#
-A forbidden book in
-which the secret for
-summoning high level
-demons is detailed.
-Baphomet Jr. cannot
-resist its power.
+A forbidden book that contains a spell for summoning a high-level demon.
+Baphomet Jr. cannot resist its power.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -7015,7 +6098,6 @@ feed on this.
 Weight: ^7777771^000000
 #
 
-
 19999#
 //-----Christmas Items----------------------
 #
@@ -7033,9 +6115,8 @@ to start a fire.
 Weight: ^7777771^000000
 #
 7036#
-A sharp fang
-dislodged from
-Hatii's mouth.
+A sharp fang from Garm's mouth.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7037#
@@ -7119,8 +6200,8 @@ A set of disassembled
 parts for making a cart. Weight: ^7777771^000000
 #
 7047#
-An apron worn by
-the Alice monster.
+An apron worn by Alice.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7048#
@@ -7155,7 +6236,8 @@ with muddled light.
 Weight: ^7777771^000000
 #
 7054#
-A rare, red mineral.
+A rare red mineral.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 7055#
@@ -7245,14 +6327,14 @@ Weight: ^7777770.3^000000
 Property: ^777777Poison^000000
 #
 1764#
-An arrow with topped
-with a serrated blade.
-Increases Critical
-Attack Rate.
-Item Class: ^777777Arrow^000000
-Attack Strength: ^77777710^000000
-Weight: ^7777770.3^000000
-Property: ^777777Neutral^000000
+An arrow topped with a serrated blade.
+Critical +20
+^6A5ACD[If used with Little Feather Hat]^000000
+Critical damage +5%
+^6A5ACD[If Little Feather Hat is +7 or higher]^000000
+Critical damage +5%
+Class: ^777777Arrow^000000
+Attack: ^77777710^000000    Weight: ^7777770.3^000000
 #
 1765#
 A very powerful arrow
@@ -7352,39 +6434,19 @@ Bongun is drawn to it.
 Weight: ^7777775^000000
 #
 1142#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1143#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1144#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1238#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1239#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1240#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -7517,16 +6579,18 @@ An old and rusty shuriken.
 Weight: ^7777771^000000
 #
 7073#
-A clear and bright gemstone which has been rumored to have been made from the tears of Freija, the goddess of beauty.
+A sparkling clear jewel said to have been formed from the tears of the goddess Freya.
+^ffffff_^000000
 Weight: ^77777750^000000
 #
 7074#
-A pair of gauntlets made out of steel, rumored to have been used by Thor, the god of thunder while hammering Mjollnir.
-Very strong, but impossible to wear.
+A pair of steel gauntlets rumored to have been worn by Thor, god of thunder, when wielding Mjolnir. Unfortunately, it is impossible to use them.
+^ffffff_^000000
 Weight: ^77777750^000000
 #
 7075#
-An instrument of torture.
+An instrument used for torture.
+^ffffff_^000000
 Weight: ^77777750^000000
 #
 7076#
@@ -7538,19 +6602,23 @@ An ornament made out of silver which can be used to decorate various things.
 Weight: ^77777750^000000
 #
 7078#
-The condensed wrath of Valkyries, female warriors in Norse mythology.
+The pure rage of the Valkyries, condensed into physical form.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7079#
-A feather which is rumored to be from an angel's wings.
+A feather from an angel's wing.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7080#
-An unbelievable item which has been rumored to condense the sound of cat steps.
+The sound of cat footsteps that has been materialized into a physical form.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7081#
-Weird facial hair from a woman. Though, it may be possible its owner is a she-male.
+Weird facial hair from the face of a woman.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7082#
@@ -7574,15 +6642,18 @@ A bead that symbolizes the sun god that shines with a golden color.
 Weight: ^77777750^000000
 #
 7087#
-Ghostly breath collected from a spirit. It gives chills to the living.
+A spirit's breath that causes the living to feel an unnatural chill.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7088#
-A hexagonal crystal of snow fallen from the sky.
+An ice crystal that has fallen from the sky.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7089#
-A mysterious globe that can predict strong windstorms.
+A strange orb that can be used to predict windstorms.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 7090#
@@ -7594,7 +6665,8 @@ A sculpture of a billow of wind rushing upon the seashore.
 Weight: ^77777750^000000
 #
 7092#
-An item made by a craftsman who could sense silent, drifting air.
+A gorgeous sculpture made by an artist who claimed to be able to sense forms within the drifting air.
+^FFFFFF_^000000
 Weight: ^77777750^000000
 #
 9025#
@@ -9584,8 +8656,7 @@ Symbolizes mental power.
 Weight: ^77777710^000000
 #
 7295#
-A topaz which used to be belived as a frozen ice by the ancient people.
-Symbolizes communicative conversation and mental calm.
+A jewel that was considered a frozen ice piece by the ancient people. Symbolizes communication and mental calm.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -9596,8 +8667,7 @@ Symbolizes cure and restoration.
 Weight: ^77777710^000000
 #
 7297#
-A common dark mica.
-Symbolizes spiritual support.
+A common dark-colored mineral. Symbolizes spiritual support.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -9648,9 +8718,9 @@ Restores ^00800022-33 HP^000000.
 Weight: ^7777771^000000
 #
 686#
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 3 Earth Spike^000000.
-^ffffff_^000000
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFEarth Spike 3^000000.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 687#
@@ -9678,9 +8748,9 @@ Allows to use ^000088Level 3 Fire Bolt^000000.
 Weight: ^7777771^000000
 #
 691#
-A spell scroll which was made by the essence of ancient magic.
-Allows to use ^000088Level 5 Fire Bolt^000000.
-^ffffff_^000000
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFFire Bolt 5^000000.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 692#
@@ -9750,8 +8820,8 @@ Allows to use ^000088Level 3 Heal^000000.
 Weight: ^7777771^000000
 #
 12002#
-A holy paper which was baptized by a noble priest. 
-Allows to use ^000088Level 5 Heal^000000.
+A holy scroll blessed by a noble priest.
+Casts ^000088Heal 5^000000.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -9762,10 +8832,9 @@ Allows to use ^000088Level 1 Teleport^000000.
 Weight: ^7777771^000000
 #
 662#
-A badge made out of bronze that was used in an ancient asian country.
-It was given to government officials who went on business trips and they could use this badge to rent horses anywhere.
-^000088Temporarily increases Movement Speed^000000.
-^ffffff_^000000
+A bronze badge from an ancient Eastern country. It was given to government officials, allowing them to rent Peco Peco anywhere.
+Movement speed +80% for 3 min.
+^FFFFFF_^000000
 Weight: ^7777773^000000
 #
 12004#
@@ -9961,7 +9030,7 @@ Weight: ^7777771^000000
 4163#
 Flee +2
 Critical +7
-[If used by the Swordsman class]
+^6A5ACD[If used by Swordsman class]^000000
 A chance of auto casting Bowling Bash 5 when attacking
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -10713,7 +9782,7 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4244#
-A chance of auto casting Sight 1 around the user when receiving physical damage
+A chance of auto casting Sight 1 around oneself when receiving physical damage
 Max HP +300
 Vit +1
 ^6A5ACD[If used with Tower Keeper, Punk, and Clock Cards]^000000
@@ -11229,7 +10298,7 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4299#
-Auto cast of Guard 3 on the user when receiving damage
+Auto cast of Guard 3 on oneself when receiving damage
 If the skill is Lv. 10, it will be cast instead.
 ^6A5ACD[If used with Tower Keeper, Punk, and Alarm Cards]^000000
 Def/Mdef +3
@@ -11470,14 +10539,14 @@ Weight: ^7777771^000000
 #
 4323#
 A chance of auto casting Frost Driver 3 on an enemy after a physical attack
-^6A5ACD[If used with Hatii Card]^000000
+^6A5ACD[If used with Garm Card]^000000
 The chance is greatly increased.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4324#
-50% chance of freezing an enemy when receiving physical damage
+A 50% chance of freezing an enemy when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -12307,112 +11376,61 @@ Can be identified by
 using a Magnifier.
 #
 13004#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1307#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1559#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1560#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1561#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1616#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1617#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1618#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1619#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1620#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1815#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1914#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1915#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1916#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1917#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1918#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1965#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1966#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1967#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1968#
 Unknown item
@@ -12490,76 +11508,40 @@ Can be identified by
 using a Magnifier.
 #
 2419#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2420#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2512#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2513#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2514#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2515#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2516#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2517#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2518#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2519#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2520#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2521#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2522#
 Unknown item
@@ -12702,49 +11684,29 @@ Can be identified by
 using a Magnifier.
 #
 5115#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5116#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5117#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5118#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5119#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5120#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5121#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 // -------- Taiwan Event 2005 -------
+
 7338#
 A special ticket
 that allows its user to use the Kafra Teleport
@@ -13401,11 +12363,8 @@ Armor and taming item.^000000
 Weight: ^77777720^000000
 #
 12106#
-A beautiful Jewelry
-Box that contains
-an Accessory.
-^00688BProduces a random
-Accessory item.^000000
+A beautiful jewelry box.
+Double-click to obtain a ^00688Brandom accessory^000000.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
@@ -15877,90 +14836,47 @@ Can be identified by
 using a Magnifier.
 #
 5159#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5160#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5161#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5162#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5163#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5164#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5165#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2671#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2525#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2359#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2360#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2121#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5167#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5168#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 
 // ------------------- 2006 상반기 신규카드 추가.-----------------------
 //영문권 11.1 에서 업데이트 제외하기로 합니다.
@@ -20686,96 +19602,44 @@ using a Magnifier.
 #
 
 1477#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1478#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2000#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 2001#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13304#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1730#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1731#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1732#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1733#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 1734#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13404#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13405#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13027#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 13028#
 Unknown item
 requiring Appraisal.
@@ -26945,7 +25809,6 @@ Jobs : ^777777All^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 Weight : ^7777771^000000
 #
-
 2126#
 placeholder
 #
@@ -26953,15 +25816,7 @@ placeholder
 placeholder
 #
 2132#
-^000088Rental Item^000000
-A Magical Shield that has a strong resistance against every attack that an opponent tries to deal you.
-Reduced 20% damage from monsters.
-Reflects 1% of Physical Attacks
-Class : ^777777Shield^000000
-Defense : ^7777779^000000
-Weight : ^7777770^000000
-Required Level : ^7777770^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2369#
 placeholder
@@ -26970,7 +25825,7 @@ placeholder
 placeholder
 #
 2384#
-placeholder
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2385#
 ^000088Rental Item^000000
@@ -40895,118 +39750,118 @@ Job : ^777777All^000000
 #
 
 18855#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18856#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18857#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15105#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13444#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5873#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5874#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5875#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18900#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18901#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18882#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18908#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18909#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18910#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18917#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18918#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18929#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18930#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18931#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18932#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19689#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19690#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19695#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19709#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19721#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19724#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19729#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19718#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19728#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18878#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1596#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2188#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18861#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18863#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18864#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1837#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2985#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18868#
-Unknown item. Can be identified by a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13634#
 Open the box and receive one of the 24 Zodiac Diadem headgears.
@@ -51323,17 +50178,17 @@ New Year Hairpin
 
 
 24090#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 24099#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 24100#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 24101#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 20470#
@@ -51371,37 +50226,37 @@ Jobs: All
 //---hero trail3
 
 19914#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15116#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20743#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22046#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15117#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20744#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22047#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28310#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28311#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 15121#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 4610#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 4939#
 CRI +2
@@ -51440,7 +50295,7 @@ Delay after Skill -4%
 Delay after Skill -6%
 #
 6803#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 17364#
@@ -52571,50 +51426,50 @@ Weight : ^77777730^000000
 
 
 18997#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28326#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 28327#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6824#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6825#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6826#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6827#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6828#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6832#
 Oddly shaped component. It must sell for a lot because of the rumor that it contains a small amount of gold inside.
 Weight : ^7777771^000000
 #
 11597#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22691#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22692#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22693#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22694#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22695#
-Not assessed. [Spectacles] can be used to assess.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22699#
 Testing reagent that has not yet passed clinical tests.
@@ -52970,10 +51825,10 @@ Weight : ^7777771^000000
 
 
 2486#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2976#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 11563#
 Blacktea still having its warmth. It recovers about ^000088 100 SP^000000.
@@ -52988,23 +51843,23 @@ Butterfly-like hairpin. Used for fastening long hair, it buffs girliness.
 Weight: ^7777771^000000
 #
 2977#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 13442#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18848#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19686#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 7642#
 A coin estimated to be soiled by old bloodstain. The black stain was also dried due to its age.
 Weight: ^7777770^000000
 #
 19687#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 7643#
 A sheet of old letter crumpled and bloodstained in places. Managed to recognize the writings.
@@ -53017,23 +51872,23 @@ A clean and unsealed letter even seemed not to be sent.
 Weight: ^7777770^000000
 #
 19701#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2978#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18849#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22534#
 A fast closed small box created by her dreadful loneliness. Now it can be opened.
 Weight: ^777777100^000000
 #
 16029#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2980#
-Unidentified. Use [Magnifier] to identify it.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 22516#
 Dark red fluid seems to have hardened and became solid. Many would mistake it for a beautiful red gem unless they take a look carefully. Feels ominous power.
@@ -54970,4 +53825,36 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 5801#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+13954#
+Contains Spiritual Tunic.
+Rental term: 7 d. (168 h.)
+Weight: ^7777771^000000
+^ffffff_^000000
+[Spiritual Tunic]
+^ff0000Account bound^000000
+^000088Rental item^000000
+Magic armor that protects its wearer from attribute attacks.
+Max HP +800
+Immune to freeze
+Attribute damage -20% (except Water and Neutral attacks)
+Mdef +5
+Class: ^777777Armor^000000
+Defense: ^77777738^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+13956#
+Contains Shield of Resistance.
+Rental term: 7 d. (168 h.)
+Weight: ^7777771^000000
+^ffffff_^000000
+[Shield of Resistance]
+^ff0000Account bound^000000
+^000088Rental item^000000
+A magic shield that provides strong protection from all enemy attacks.
+Damage from monsters -20%
+Reflects 1% of received physical melee damage
+Class: ^777777Shield^000000
+Defense: ^777777140^000000    Weight: ^7777770^000000
+Jobs: ^777777All^000000
 #
