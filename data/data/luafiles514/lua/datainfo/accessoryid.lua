@@ -1939,6 +1939,5 @@ ACCESSORY_IDs = {
 	ACCESSORY_Phalanx = 1949,
 	ACCESSORY_WitchManteau = 1950,
 	ACCESSORY_ZombieMask = 1951,
-	ACCESSORY_C_Pierced_Apple = 1952,
-	ACCESSORY_Mushroom_Hair = 1953
+	ACCESSORY_C_Pierced_Apple = 1952
 }
