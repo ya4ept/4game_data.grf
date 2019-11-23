@@ -691,6 +691,7 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 	descript = {
 		{ "Стойкость", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
+		{ "Маг. защита повышена." },
 		{ "Вы можете атаковать и передвигаться при получении урона." }
 	}
 }
@@ -3524,7 +3525,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_DEADPENALTY] = {
 	descript = {
 		{ "Уменьшение штрафа при смерти ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Штраф при смерти -2%." }
+		{ "Штраф при смерти: Hel -2% / Rush -4,5%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
@@ -3533,7 +3534,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
 	descript = {
 		{ "Расширение склада", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Размер склада +300 ячеек" }
+		{ "Размер склада: Hel +300 ячеек/ Rush +300 ячеек" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
@@ -3542,7 +3543,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
 	descript = {
 		{ "Увеличение шанса выпадения предметов", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Шанс выпадения предметов +15%." }
+		{ "Шанс выпадения предметов: Hel +15% / Rush +100%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
@@ -3551,6 +3552,6 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 	descript = {
 		{ "Увеличение получаемого опыта", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Получаемый опыт +30%." }
+		{ "Получаемый опыт: Hel +30%/ Rush +200%" }
 	}
 }
