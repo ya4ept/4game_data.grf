@@ -1936,5 +1936,8 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Rose_Gothic_Bonnet = 1946,
 	ACCESSORY_Runaway_Accelerator = 1947,
 	ACCESSORY_Gift_Of_Panagia = 1948,
-	ACCESSORY_Phalanx = 1949
+	ACCESSORY_Phalanx = 1949,
+	ACCESSORY_WitchManteau = 1950,
+	ACCESSORY_ZombieMask = 1951,
+	ACCESSORY_C_Pierced_Apple = 1952
 }

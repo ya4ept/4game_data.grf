@@ -151,5 +151,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_Balloon_Wing,
 	SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail,
-	SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon
+	SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon,
+	SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom
 }

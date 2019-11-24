@@ -1,3 +1,14 @@
+20.11.2019
+Project Killer 11:50
+The maintenance has been finished, the server is online. Changelog:
+
+— New event: Investigation will be in the game from 20.11 to 27.11;
+— Limited offer: Golden Poring Treasure for €0.99 available until 27.11
+— Small localization fixes.
+
+https://eu.4gameforum.com/threads/669245/
+
+==========
 13.11.2019
 Administrators 11:48
 The new update has been installed, the server is up and running with a new recurring event, rental items and Change Name Card limited offer. The detailed changelog is on the Forums: https://eu.4gameforum.com/threads/668852/

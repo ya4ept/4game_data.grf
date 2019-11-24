@@ -1931,5 +1931,8 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Rose_Gothic_Bonnet] = "_C_Rose_Gothic_Bonnet",
 	[ACCESSORY_IDs.ACCESSORY_Runaway_Accelerator] = "_Runaway_Accelerator",
 	[ACCESSORY_IDs.ACCESSORY_Gift_Of_Panagia] = "_Gift_Of_Panagia",
-	[ACCESSORY_IDs.ACCESSORY_Phalanx] = "_Phalanx"
+	[ACCESSORY_IDs.ACCESSORY_Phalanx] = "_Phalanx",
+	[ACCESSORY_IDs.ACCESSORY_WitchManteau] = "_WitchManteau",
+	[ACCESSORY_IDs.ACCESSORY_ZombieMask] = "_ZombieMask",
+	[ACCESSORY_IDs.ACCESSORY_C_Pierced_Apple] = "_C_Pierced_Apple"
 }

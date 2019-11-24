@@ -712,7 +712,8 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 	descript = {
 		{ "Endure", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "You can attack and move while receiving damage" }
+		{ "Mdef increased." },
+		{ "You can attack and move while receiving damage." }
 	}
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {

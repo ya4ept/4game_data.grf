@@ -126,7 +126,9 @@ HatEFID = {
 	HAT_EF_2019RTC1ST_TW = 125,
 	HAT_EF_2019RTC2ST_TW = 126,
 	HAT_EF_2019RTC3ST_TW = 127,
-	HAT_EF_CONS_OF_WIND = 128
+	HAT_EF_CONS_OF_WIND = 128,
+	HAT_EF_Maple_Falls = 129,
+	HAT_EF_BJ_HeadsetB = 130
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -223,6 +225,13 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_YELLOWFLY3] = { hatEffectID = 946 },
 	[HatEFID.HAT_EF_KAGEMUSYA] = { hatEffectID = 1004 },
 	[HatEFID.HAT_EF_CHERRYBLOSSOM] = { hatEffectID = 1013 },
+	[HatEFID.HAT_EF_STRANGELIGHTS] = {
+		resourceFileName = "efst_STRANGELIGHTS\\strangelights.str",
+		hatEffectPos = -4,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
 	[HatEFID.HAT_EF_WL_TELEKINESIS_INTENSE] = { hatEffectID = 1048 },
 	[HatEFID.HAT_EF_AB_OFFERTORIUM_RING] = { hatEffectID = 1057 },
 	[HatEFID.HAT_EF_WHITEBODY2] = { hatEffectID = 1065 },
@@ -293,13 +302,6 @@ hatEffectTable = {
 	},
 	[HatEFID.HAT_EF_Qscaraba] = {
 		resourceFileName = "EFST_Qscaraba\\Qscaraba.str",
-		hatEffectPos = -4,
-		hatEffectPosX = 0,
-		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true
-	},
-	[HatEFID.HAT_EF_STRANGELIGHTS] = {
-		resourceFileName = "efst_STRANGELIGHTS\\strangelights.str",
 		hatEffectPos = -4,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
@@ -523,7 +525,22 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_EF_CONS_OF_WIND] = { hatEffectID = 1531 }
+	[HatEFID.HAT_EF_CONS_OF_WIND] = { hatEffectID = 1531 },
+	[HatEFID.HAT_EF_Maple_Falls] = {
+		resourceFileName = "efst_maple_falls\\maple_falls.str",
+		hatEffectPos = -5,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_BJ_HeadsetB] = {
+		resourceFileName = "BJ_HeadsetB\\rhythmageruyo.str",
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	}
 }
 effectHatItemTable = {
 	20285,

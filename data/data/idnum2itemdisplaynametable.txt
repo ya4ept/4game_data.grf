@@ -379,8 +379,8 @@
 928#Insect Feeler#
 929#Immortal Heart#
 930#Rotten Bandage#
-931#Orcish Voucher#
-932#Skel-Bone#
+931#Orc's Honor Badge#
+932#Skeleton Bone#
 934#Memento#
 935#Shell#
 936#Scale Shell#
@@ -409,7 +409,7 @@
 959#Stinky Scale#
 960#Nipper#
 961#Conch#
-962#Tentacle#
+962#Tentacles#
 963#Sharp scale#
 964#Crab Shell#
 965#Clam Shell#
@@ -476,7 +476,7 @@
 1027#Porcupine Quill#
 1028#Mane#
 1029#Tiger Skin#
-1030#Tiger's Footskin#
+1030#Tiger's Paw#
 1031#Mantis Scythe#
 1032#Maneater Blossom#
 1033#Maneater Root#
@@ -485,7 +485,7 @@
 1036#Dragon Scale#
 1037#Dragon Tail#
 1038#Little Evil Horn#
-1039#Little Evil Wing#
+1039#Little Evil Wings#
 1040#Elder Pixie's Moustache#
 1041#Lantern#
 1042#Bug Leg#
@@ -508,7 +508,7 @@
 1059#Fabric#
 1060#Golden Hair#
 1061#Witch's Starsand#
-1062#Jack of Pumpkin#
+1062#Jack o'Pumpkin#
 1063#Fang#
 1064#Reins#
 1065#Trap#
@@ -608,7 +608,7 @@
 1121#Tsurugi#
 1122#Ring Pommel Saber#
 1123#Haedonggum#
-1124#Orcish Sword#
+1124#Orc's Sword#
 1125#Ring Pommel Saber#
 1126#Saber#
 1127#Saber#
@@ -666,7 +666,7 @@
 1301#Axe#
 1302#Axe#
 1303#Axe#
-1304#Orcish Axe#
+1304#Orc's Axe#
 1305#Cleaver#
 1401#Javelin#
 1402#Javelin#
@@ -924,13 +924,13 @@
 1755#Wind Arrow#
 1756#Stone Arrow#
 1094#Short Daenggie#
-1095#Clock Hand#
+1095#Clock Hands#
 1096#Round Shell#
 1097#Worn Out Page#
 1098#Manacles#
 1099#Worn-out Prison Uniform#
 7001#Mold Powder#
-7002#Ogre Tooth#
+7002#Orc's Tooth#
 7003#Anolian Skin#
 7004#Mud Lump#
 7005#Skull#
@@ -955,7 +955,7 @@
 7024#Bloody Edge#
 7025#Lucifer's Lament#
 7026#Clock Tower Key#
-7027#Key of the Underground#
+7027#Dungeon Key#
 616#Old Card Album#
 617#Old Purple Box#
 618#Worn Out Scroll#
@@ -1080,7 +1080,7 @@
 7045#Magic Paint#
 7046#Cart Parts#
 7047#Alice's Apron#
-7048#Talon of Griffon#
+7048#Gryphon's Talon#
 7049#Stone#
 7050#Cotton Mat#
 7051#Silk Mat#
@@ -1116,7 +1116,6 @@
 // ---- Ep 4.0 Turtle Island ----------------
 
 544#Raw Fish#
-658#Tribal Solidarity#
 659#Her Heart#
 1142#Jeweled Sword#
 1143#Gaia Sword#
@@ -1125,7 +1124,7 @@
 1239#Poison Knife#
 1240#Princess Knife#
 1306#War Axe#
-1417#Poll Axe#
+1417#Poleaxe#
 1472#Soul Staff#
 1473#Wizardry Staff#
 1529#Iron Driver#
@@ -1163,17 +1162,17 @@
 7073#Freya's Jewel#
 7074#Thor's Gauntlets#
 7075#Iron Maiden#
-7076#Wheel of the Unknown#
+7076#Mysterious Wheel#
 7077#Silver Ornament#
 7078#Wrath of Valkyrie#
 7079#Angel's Feather#
-7080#Cat's Tread#
-7081#Woman's Moustache#
-7082#Root of Stone#
-7083#Spirit of Fish#
-7084#Sputum of Bird#
-7085#Sinew of Bear#
-7086#Emblem of the Sun God#
+7080#Sound of a Cat's Footfall#
+7081#Beard of a Woman#
+7082#Roots of a Mountain#
+7083#Breath of a Fish#
+7084#Spittle of a Bird#
+7085#Sinews of a Bear#
+7086#Symbol of the Sun God#
 7087#Spirit's Breath#
 7088#Snow Crystal#
 7089#Storm Indicator#
@@ -1719,14 +1718,14 @@
 4200#Megalith Card#
 4201#Majoruros Card#
 4202#Mao Guai Card#
-4203#Mutant Dragonoid Card#
+4203#Mutant Dragon Card#
 4204#Mini Demon Card#
 4205#Mimic Card#
 4206#Myst Case Card#
 4207#Mysteltainn Card#
 4208#Miyabi Doll Card#
 4209#Violy Card#
-4210#Wander Man Card#
+4210#Wanderer Card#
 4211#Vocal Card#
 4212#Bongun Card#
 4213#Brilight Card#
@@ -1793,7 +1792,7 @@
 4274#Zombie Master Card#
 4275#Zombie Prisoner Card#
 4276#Lord of the Dead Card#
-4277#Zherlthsh Card#
+4277#Zealotus Card#
 4278#Gibbet Card#
 4279#Earth Deleter Card#
 4280#Geographer Card#
@@ -1996,7 +1995,7 @@
 13003#Cowardice Blade#
 13004#Cowardice Blade#
 1307#Windhawk#
-1559#Legacy of Dragon#
+1559#Legacy of Dragons#
 1560#Sage's Diary#
 1561#Hardcover Book#
 1616#Wing Staff#
@@ -2033,7 +2032,7 @@
 2420#Angel's Reincarnation#
 2512#Novice Manteau#
 2513#Heavenly Maiden Robe#
-2514#Pauldron#
+2514#Pauldrons#
 2515#Eagle Wing#
 2516#Falcon Muffler#
 2517#Vali's Manteau#
@@ -2079,7 +2078,6 @@
 7338#One-way Ticket#
 7339#Commemorative Travel Card#
 
-
 // ------- New weapons and Armors --------
 
 5122#Magni's Cap#
@@ -2093,7 +2091,6 @@
 13005#Angelic Wing Dagger#
 1308#Golden Axe#
 1971#Electric Wire#
-
 
 // -------- Lighthalzen, the Corporation City-State----------
 
@@ -2279,6 +2276,7 @@
 7434#Elemental Potion Book#
 
 //-------------------3:P1b item
+
 7435#Golden Bracelet#
 7436#Piece Of Memory Green#
 7437#Piece Of Memory Purple#
@@ -2839,7 +2837,7 @@
 5252#Drooping Nine Tail#
 5253#Lif Doll Hat#
 5254#Deviling Hat#
-5255#Triple Poring Hat#
+5255#Poring Tower#
 //Event-Environment Day
 7865#Gold Pouch#
 7866#Certificate#
@@ -3568,27 +3566,33 @@
 6004#Cursed Baphomet Doll#
 
 // ------------------- 12.1 ??? ??? ----------------------
+
 7798#Fragment of Darkness#
 7799#Crystal of Darkness#
 
 // --------------- ??? ???? ?? 7? ----
+
 5374#Gigantic Magestic Goat#
 
 // ------------------- ??? ??? ------------------
+
 6000#Ashes of Darkness#
+
 //-- Ep12 Add-------------------------------------------
+
 7820#Piece of Morocc Skin#
 7794#The Crow of Destiny#
 7795#Mami's Photo Album#
 7796#Author's Autograph#
 7797#Author's Memo#
+
 // ------------------ ?? ??? (??)----------------
+
 1568#Book of Billows#
 1569#Book of Mother Earth#
 1570#Book of Blazing Sun#
 1571#Book of Gust of Wind#
 1309#Orcish Axe#
-1114#Scimiter#
 1538#Spike#
 13030#Dragon Killer#
 1275#Katar of Frozen Icicle#
@@ -3667,7 +3671,7 @@
 2769#Archer Figure#
 2770#Thief Figure#
 2771#Merchant Figure#
-658#Union of Tribe#
+658#Guild Union#
 12300#Wild Rose Scroll#
 12301#Doppelganger Scroll#
 12302#Egnigem Cenia Scroll#
@@ -4677,7 +4681,7 @@
 16004#P.Mace1#
 16005#P.Mace2#
 11514#Enriched Slim Potion#
-2146#Siver Guard#
+2146#Silver Guard#
 2147#Round Buckler#
 2148#Rosa Shield#
 15012#Puente Robe#
@@ -6466,7 +6470,6 @@
 18892#UFO Poring Hat#
 18895#Heavenly Dark Flame#
 18897#Sky Crown#
-18740#Costume Stongman Hair#
 1322#Blue Axe#
 1936#Blue Violin#
 1991#Blue Whip#
@@ -6544,7 +6547,6 @@
 18913#Bell Raven#
 18750#Poker Card In Mouth#
 20707#Kirin Wing#
-18740#C Hair Of The Strong#
 18919#Jack Castle Bat#
 17494#Happy Time Scroll#
 18667#Cat Lace Hairband#
@@ -6683,7 +6685,6 @@
 12097#Grilled Skewers#
 12739#Snow flower#
 607#Yggdrasil Berry#
-616#Old Card Album#
 12200#Christmas Cake#
 22870#Christmas Package#
 22542#Potion Concentration#
@@ -6760,7 +6761,6 @@
 18795#Night Sparrow Hat#
 5941#Joystick Hat#
 5942#Lovegame Hat#
-18740#C Hair Of The Strong#
 19600#Drooping Kiehl#
 18843#Small Deviling Hat#
 19722#C Black Glasses#
@@ -8549,7 +8549,6 @@
 2189#Mad Bunny#
 20725#Ribbon Piamat#
 6125#Bunny Box#
-20458#Costume Wild Poring Rider#
 20133#Poring Mascot Costume#
 18748#Poring in Golden Hat#
 18841#Small Poring Band#
@@ -8674,3 +8673,23 @@
 19602#Invisible Cap#
 19603#Invisible Sunglasses#
 19604#Invisible Mask#
+
+18740#Super Stylish Wig#
+18802#Poring Fedora Hat#
+20344#Poring Balloons#
+20404#Poring Blessing#
+20458#Cute Poring Rider#
+20507#Poring Backpack#
+20727#Stylish Golden Wings#
+31462#Poring Earmuffs#
+31490#Poring Muffler#
+31586#Poporing Muffler#
+31688#Shoulder Poring#
+11553#Poring Hotpot#
+9726#Golden Poring Treasure#
+31542#Poring Jar#
+
+19791#Costume Alarm Mask#
+19638#Costume Mr. Smile#
+6465#Guard Coin#
+9725#Adventure Scroll#

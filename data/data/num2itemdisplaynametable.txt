@@ -203,29 +203,29 @@
 1750#Arrow#
 1751#Arrow#
 1752#Fire Arrow#
-1116#Two-Handed Sword#
-1117#Two-Handed Sword#
-1118#Two-Handed Sword#
-1151#Two-Handed Sword#
-1152#Two-Handed Sword#
-1153#Two-Handed Sword#
-1154#Two-Handed Sword#
-1155#Two-Handed Sword#
-1156#Two-Handed Sword#
-1157#Two-Handed Sword#
-1158#Two-Handed Sword#
-1159#Two-Handed Sword#
-1160#Two-Handed Sword#
-1162#Two-Handed Sword#
-1161#Two-Handed Sword#
-1163#Two-Handed Sword#
-1164#Two-Handed Sword#
-1165#Two-Handed Sword#
-1166#Two-Handed Sword#
-1167#Two-Handed Sword#
-1168#Two-Handed Sword#
-1169#Two-Handed Sword#
-1170#Two-Handed Sword#
+1116#Two-handed Sword#
+1117#Two-handed Sword#
+1118#Two-handed Sword#
+1151#Two-handed Sword#
+1152#Two-handed Sword#
+1153#Two-handed Sword#
+1154#Two-handed Sword#
+1155#Two-handed Sword#
+1156#Two-handed Sword#
+1157#Two-handed Sword#
+1158#Two-handed Sword#
+1159#Two-handed Sword#
+1160#Two-handed Sword#
+1162#Two-handed Sword#
+1161#Two-handed Sword#
+1163#Two-handed Sword#
+1164#Two-handed Sword#
+1165#Two-handed Sword#
+1166#Two-handed Sword#
+1167#Two-handed Sword#
+1168#Two-handed Sword#
+1169#Two-handed Sword#
+1170#Two-handed Sword#
 1351#Axe#
 1352#Axe#
 1353#Axe#
@@ -379,8 +379,8 @@
 928#Insect Feeler#
 929#Immortal Heart#
 930#Rotten Bandage#
-931#Orcish Voucher#
-932#Skel-Bone#
+931#Orc's Honor Badge#
+932#Skeleton Bone#
 934#Memento#
 935#Shell#
 936#Scale Shell#
@@ -409,7 +409,7 @@
 959#Stinky Scale#
 960#Nipper#
 961#Conch#
-962#Tentacle#
+962#Tentacles#
 963#Sharp scale#
 964#Crab Shell#
 965#Clam Shell#
@@ -476,7 +476,7 @@
 1027#Porcupine Quill#
 1028#Mane#
 1029#Tiger Skin#
-1030#Tiger's Footskin#
+1030#Tiger's Paw#
 1031#Mantis Scythe#
 1032#Maneater Blossom#
 1033#Maneater Root#
@@ -485,7 +485,7 @@
 1036#Dragon Scale#
 1037#Dragon Tail#
 1038#Little Evil Horn#
-1039#Little Evil Wing#
+1039#Little Evil Wings#
 1040#Elder Pixie's Moustache#
 1041#Lantern#
 1042#Bug Leg#
@@ -508,7 +508,7 @@
 1059#Fabric#
 1060#Golden Hair#
 1061#Witch's Starsand#
-1062#Jack of Pumpkin#
+1062#Jack o'Pumpkin#
 1063#Fang#
 1064#Reins#
 1065#Trap#
@@ -880,7 +880,7 @@
 4109#Jakk Card#
 4110#Card#
 4111#Card#
-4112#Card#
+4112#Marduk Card#
 4113#Card#
 4114#Card#
 4115#Card#
@@ -889,7 +889,7 @@
 4118#Card#
 4119#Bathory Card#
 4120#Card#
-4121#Card#
+4121#Phreeoni Card#
 4122#Card#
 4123#Eddga Card#
 4124#Card#
@@ -899,19 +899,19 @@
 4128#Card#
 4129#Card#
 4130#Card#
-4131#Card#
+4131#Moonlight Flower Card#
 4132#Card#
 4133#Raydric Card#
 4134#Card#
 4135#Card#
-4136#Card#
+4136#Khalitzburg Card#
 4137#Card#
 4138#Card#
 4139#Card#
-4140#Card#
+4140#Abysmal Knight Card#
 4141#Evil Druid Card#
 4142#Card#
-4143#Card#
+4143#Orc Hero Card#
 4144#Card#
 4145#Card#
 4146#Card#
@@ -922,13 +922,13 @@
 1755#Wind Arrow#
 1756#Stone Arrow#
 1094#Short Daenggie#
-1095#Needle of Alarm#
+1095#Clock Hands#
 1096#Round Shell#
 1097#Worn Out Page#
 1098#Manacles#
 1099#Worn-out Prison Uniform#
 7001#Mould Powder#
-7002#Ogre Tooth#
+7002#Orc's Tooth#
 7003#Anolian Skin#
 7004#Mud Lump#
 7005#Skull#
@@ -952,10 +952,10 @@
 7023#Blade of Darkness#
 7024#Bloody Edge#
 7025#Lucifer's Lament#
-7026#Key of Clock Tower#
-7027#Key of Underground#
+7026#Clock Tower Key#
+7027#Dungeon Key#
 616#Old Card Album#
-617#Old Violet Box#
+617#Old Purple Box#
 618#Worn Out Scroll#
 1553#Book#
 1554#Book#
@@ -1060,7 +1060,7 @@
 10015#Accessory#
 10016#Accessory#
 10017#Armor#
-10018#Hat#
+10018#Cap#
 10019#Garment#
 537#Pet Food#
 538#Well-baked Cookie#
@@ -1078,7 +1078,7 @@
 7045#Magic Paint#
 7046#Cart Parts#
 7047#Alice's Apron#
-7048#Talon of Griffon#
+7048#Gryphon's Talon#
 7049#Stone#
 7050#Cotton Mat#
 7051#Silk Mat#
@@ -1114,7 +1114,6 @@
 // ---- Ep 4.0 Turtle Island ----------------
 
 544#Raw Fish#
-658#Tribal Solidarity#
 659#Her Heart#
 1142#Sword#
 1143#Sword#
@@ -1161,17 +1160,17 @@
 7073#Freya's Jewel#
 7074#Thor's Gauntlets#
 7075#Iron Maiden#
-7076#Wheel of the Unknown#
+7076#Mysterious Wheel#
 7077#Silver Ornament#
 7078#Wrath of Valkyrie#
 7079#Angel's Feather#
-7080#Cat's Tread#
-7081#Woman's Moustache#
-7082#Root of Stone#
-7083#Spirit of Fish#
-7084#Sputum of Bird#
-7085#Sinew of Bear#
-7086#Emblem of the Sun God#
+7080#Sound of a Cat's Footfall#
+7081#Beard of a Woman#
+7082#Roots of a Mountain#
+7083#Breath of a Fish#
+7084#Spittle of a Bird#
+7085#Sinews of a Bear#
+7086#Symbol of the Sun God#
 7087#Spirit's Breath#
 7088#Snow Crystal#
 7089#Storm Indicator#
@@ -1688,14 +1687,14 @@
 4200#Megalith Card#
 4201#Majoruros Card#
 4202#Mao Guai Card#
-4203#Mutant Dragonoid Card#
+4203#Mutant Dragon Card#
 4204#Mini Demon Card#
 4205#Mimic Card#
 4206#Myst Case Card#
 4207#Mysteltainn Card#
 4208#Miyabi Doll Card#
 4209#Violy Card#
-4210#Wander Man Card#
+4210#Wanderer Card#
 4211#Vocal Card#
 4212#Bongun Card#
 4213#Brilight Card#
@@ -1762,7 +1761,7 @@
 4274#Zombie Master Card#
 4275#Zombie Prisoner Card#
 4276#Lord of the Dead Card#
-4277#Zherlthsh Card#
+4277#Zealotus Card#
 4278#Gibbet Card#
 4279#Earth Deleter Card#
 4280#Geographer Card#
@@ -1920,6 +1919,7 @@
 12026#Dano Festival Egg#
 
 // --------- New weapons ----------
+
 1262#Katar#
 1263#Katar#
 1474#Spear#
@@ -2018,11 +2018,12 @@
 5121#Mask#
 
 // -------- Taiwan Event 2005 -------
+
 7338#One-way Ticket#
 7339#Commemorative Travel Card#
 
-
 // ------- New weapons and Armors --------
+
 5122#Headgear#
 5123#Headgear#
 5124#Helmet#
@@ -2036,6 +2037,7 @@
 1971#Whip#
 
 // -------- Lighthalzen, the Corporation City-State ----------
+
 576#Prickly Fruit#
 7340#Will of the Darkness#
 7341#Old Pendant#
@@ -2636,7 +2638,7 @@
 2525#Garment#
 2359#Armor#
 2360#Armor#
-2121#Shield#
+2121#Book#
 5167#Hat#
 5168#Hat#
 
@@ -2777,7 +2779,7 @@
 5252#Hat#
 5253#Cap#
 5254#Hat#
-5255#Hat#
+5255#Cap#
 
 //Event-Environment Day
 
@@ -3053,8 +3055,8 @@
 2701#Accessory#
 2702#Accessory#
 2703#Accessory#
-1175#Two-Handed Sword#
-1176#Two-Handed Sword#
+1175#Two-handed Sword#
+1176#Two-handed Sword#
 1268#Katar#
 1269#Katar#
 1270#Katar#
@@ -3515,23 +3517,30 @@
 
 7798#Fragment of Darkness#
 7799#Crystal of Darkness#
+
 // --------------- Philly self-produced editions Helm 7 Bell -------------
+
 5374#Helm#
+
 // ------------------- Event Items ------------------
+
 6000#Ashes of Darkness#
+
 //-- Ep12 Add-------------------------------------------
+
 7820#Piece of Morocc Skin#
 7794#The Crow of Destiny#
 7795#Mami's Photo Album#
 7796#Author's Autograph#
 7797#Author's Memo#
+
 // ------------------Mandibular test (socket)----------------
+
 1568#Book#
 1569#Book#
 1570#Book#
 1571#Book#
 1309#Axe#
-1114#Sword#
 1538#Mace#
 13030#Dagger#
 1275#Katar#
@@ -3544,9 +3553,9 @@
 1479#Spear#
 1480#Spear#
 1481#Spear#
-1180#Two-Handed Sword#
-1178#Two-Handed Sword#
-1179#Two-Handed Sword#
+1180#Two-handed Sword#
+1178#Two-handed Sword#
+1179#Two-handed Sword#
 13031#Dagger#
 13032#Dagger#
 13033#Dagger#
@@ -3610,7 +3619,7 @@
 2769#Accessory#
 2770#Accessory#
 2771#Accessory#
-658#Union of Tribe#
+658#Guild Union#
 12300#Wild Rose Scroll#
 12301#Doppelganger Scroll#
 12302#Egnigem Cenia Scroll#
@@ -3918,7 +3927,7 @@
 2747#Accessory#
 2748#Accessory#
 2749#Accessory#
-1186#Twohand Sword#
+1186#Two-handed Sword#
 1483#Spear#
 1484#Spear#
 1485#Spear#
@@ -4619,7 +4628,7 @@
 16004#P.Mace1#
 16005#P.Mace2#
 11514#Enriched Slim Potion#
-2146#Siver Guard#
+2146#Shield#
 2147#Round Buckler#
 2148#Rosa Shield#
 15012#Puente Robe#
@@ -6114,7 +6123,7 @@
 //Malangdo
 1198#Both Hands Sword#
 1489#Both Hands Spear#
-2872#accessory#
+2872#Accessory#
 2873#Globe#
 13208#GongBug#
 16740#Ptotection Seagod Box#
@@ -6130,7 +6139,7 @@
 16750#Malang Crab Box2#
 18107#bow#
 18108#bow#
-18536#accessory#
+18536#Accessory#
 18537#Hairband#
 6418#Aclass Coin#
 6419#Bclass Coin#
@@ -6224,8 +6233,8 @@
 18828#Hat#
 18829#Hat#
 18830#Hat#
-2997#accessory#
-2999#accessory#
+2997#Accessory#
+2999#Accessory#
 6417#Silvervine#
 19710#Hairband#
 
@@ -6403,7 +6412,6 @@
 18892#Hat#
 18895#Accessory#
 18897#Accessory#
-18740#Accessory#
 1322#Axe#
 1936#instrument#
 1991#Whip#
@@ -6483,7 +6491,6 @@
 18913#Hat#
 18750#Accessory#
 20707#Garment#
-18740#Accessory#
 18919#Accessory#
 17494#Happy Time Scroll#
 18667#Hairband#
@@ -6559,11 +6566,11 @@
 18732#Hat#
 18733#Helmet#
 18734#Hat#
-18736#accessory#
+18736#Accessory#
 20702#Mantle#
 20703#Mantle#
 20704#Mantle#
-21006#Twohand Sword#
+21006#Two-handed Sword#
 2950#Accessory#
 2951#Accessory#
 2952#Accessory#
@@ -6621,7 +6628,6 @@
 12092#Soul Haunted Bread#
 12097#Grilled Skewers#
 12739#Snow flower#
-616#Old Card Album#
 12200#Christmas Cake#
 22870#Christmas Package#
 22542#Potion Concentration#
@@ -6693,12 +6699,11 @@
 5905#Hat#
 5906#Helmet#
 5907#Hat#
-18791#accessory#
+18791#Accessory#
 18794#Hat#
 18795#Hat#
 5941#Hat#
 5942#Hat#
-18740#Accessory#
 19600#Hat#
 18843#Hat#
 19722#Glasses#
@@ -6833,7 +6838,7 @@
 
 2022#Staff#
 2499#Shoes#
-2949#accessory#
+2949#Accessory#
 4869#Attack Delay 1#
 4872#Attack Delay 2#
 4873#Attack Delay 3#
@@ -7524,3 +7529,25 @@
 19602#Cap#
 19603#Glasses#
 19604#Mask#
+
+18740#Helm#
+18802#Hat#
+20344#Costume Headgear#
+20404#Cap#
+20458#Cap#
+20507#Garment#
+20727#Garment#
+31462#Hairband#
+31490#Accessory#
+31586#Accessory#
+31688#Accessory#
+11553#Poring Hotpot#
+9726#Golden Poring Treasure#
+31542#Accessory#
+
+14600#Mental Potion#
+
+19791#Accessory#
+19638#Accessory#
+6465#Guard Coin#
+9725#Adventure Scroll#
