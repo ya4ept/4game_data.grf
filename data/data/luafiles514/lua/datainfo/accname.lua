@@ -1934,5 +1934,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Phalanx] = "_Phalanx",
 	[ACCESSORY_IDs.ACCESSORY_WitchManteau] = "_WitchManteau",
 	[ACCESSORY_IDs.ACCESSORY_ZombieMask] = "_ZombieMask",
-	[ACCESSORY_IDs.ACCESSORY_C_Pierced_Apple] = "_C_Pierced_Apple"
+	[ACCESSORY_IDs.ACCESSORY_C_Pierced_Apple] = "_C_Pierced_Apple",
+	[ACCESSORY_IDs.ACCESSORY_C_FlutterButterfly_BL] = "_C_FlutterButterfly_BL"
 }
