@@ -1015,7 +1015,7 @@
 638#Silver Knife of Chastity#
 639#Armlet of Obedience#
 640#Shining Stone#
-641#Contracts in Shadow#
+641#Shadow Contract#
 642#Book of Devil#
 643#Pet Incubator#
 644#Gift Box#
@@ -1782,7 +1782,7 @@
 4295#Kraben Card#
 4296#Cramp Card#
 4297#Cruiser Card#
-4298#Creamy Fear Card#
+4298#Creepy Creamy Card#
 4299#Clock Card#
 4300#Chimera Card#
 4301#Killer Mantis Card#
@@ -7551,3 +7551,14 @@
 19638#Accessory#
 6465#Guard Coin#
 9725#Adventure Scroll#
+20547#Garment#
+20586#Garment#
+20588#Garment#
+31568#Accessory#
+31611#Accessory#
+31832#Hat#
+31088#Hat#
+11551#Savory Herb Salad#
+9734#Spooky Treasure#
+
+13623#Greed Scroll Box (100 pcs.)#

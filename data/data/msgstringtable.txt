@@ -123,7 +123,7 @@ Please wait...#
 Please wait...#
 Please wait...#
 Please wait...#
-Make a Room#
+Chat Room#
 Room Setup#
 Kick Character Out#
 Give Master Authority#
@@ -1776,9 +1776,9 @@ Impossible to use at your level.#
 "Enter" for chat activation#
 Cannot add#
 Information#
-Sale#
+Sell#
 Buy#
-Search for shops#
+Shop Search#
 Shop Name#
 Qty#
 Price#
@@ -1786,7 +1786,7 @@ Too many results, modify parameter.#
 Open Shop?#
 fail to recognize SSO#
 unable to move applied area#
-Search Exact#
+Partial match#
 dropped user#
 you do not agree on using game#
 it is not exiting game account#

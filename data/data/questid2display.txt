@@ -1284,8 +1284,8 @@ The echo of the spirits remains in your heart. Talk to Maia again.#
 
 //½´³ë
 6010#Job Change to Super Novice#SG_FEEL#QUE_NOIMAGE#
-If you really want to enjoy the ordinary life of Novice, you must gather 2 kinds of very ordinary items.#
-30 Sticky Mucus, 30 Resin#
+If you really want to enjoy the normal Novice life, you must collect 30 pieces of Sticky Mucus and 30 of Resin.#
+Collect the items and bring them to Tzerero#
 
 //´ÑÀÚ
 6015#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#

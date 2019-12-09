@@ -3221,7 +3221,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_TWOHAND] = {
 		"SM_TWOHAND",
-		SkillName = "Two Handed Sword Mastery",
+		SkillName = "Two-handed Sword Mastery",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,

@@ -36,7 +36,7 @@ TB_Layer_Priority = {
 		[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Short] = { Default = 150, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Cat_Ear_Long] = { Default = 150, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = { Default = 450, Direction = {} },
-		[ACCESSORY_IDs.ACCESSORY_Floating_Ball] = { Default = 450, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_Floating_Ball] = { Default = 304, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_JP_EV15] = { Default = 450, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_JACK_CASTLE_BAT] = { Default = 480, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_Subject_Aura] = { Default = 801, Direction = {} },
@@ -117,11 +117,11 @@ GetLayerPriority = function(direction, layer, acc_id)
 			return TB_Layer_Priority.Default_Mid
 		end
 	elseif 2 == layer then
-		-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 2_[21]
+		return TB_Layer_Priority.Default_Bottom
 	elseif 3 == layer then
-		-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 2_[27]
+		return TB_Layer_Priority.Default_Top
 	elseif 4 == layer then
-		-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 2_[33]
+		return TB_Layer_Priority.Default_Mid
 	end
 	return -1
 end

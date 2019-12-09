@@ -1017,7 +1017,7 @@
 638#Silver Knife of Chastity#
 639#Armlet of Obedience#
 640#Shining Stone#
-641#Contract in Shadow#
+641#Shadow Contract#
 642#Book of Devil#
 643#Pet Incubator#
 644#Gift Box#
@@ -1813,7 +1813,7 @@
 4295#Kraben Card#
 4296#Cramp Card#
 4297#Cruiser Card#
-4298#Creamy Fear Card#
+4298#Creepy Creamy Card#
 4299#Clock Card#
 4300#Chimera Card#
 4301#Killer Mantis Card#
@@ -3540,7 +3540,7 @@
 2725#Medal of Honor#
 2726#Icarus Wings #
 2727#Bowman Scarf#
-1629#Gentleman Staff#
+1629#Gentleman's Staff#
 1630#Release of Wise#
 1631#Holy Stick#
 1181#Tae Goo Lyeon#
@@ -7683,7 +7683,7 @@
 7864#Stolen Cacao#
 13621#Greed Scroll 30 Box#
 13622#Greed Scroll 50 Box#
-13623#Greed Scroll 100 Box#
+13623#Greed Scroll Box (100 pcs.)#
 14529#Greed Scroll#
 5301#Victory Hairband#
 5303#Flower Wreath#
@@ -8693,3 +8693,13 @@
 19638#Costume Mr. Smile#
 6465#Guard Coin#
 9725#Adventure Scroll#
+
+20547#Whisper's Blessing#
+20586#Loli Ruri's Crescent Moon#
+20588#Witch's Broom#
+31568#Floating Yin-Yang Beads#
+31611#Evil Snake Lord's Scarf#
+31832#Witch's Catty Hat#
+31088#Mad Hatter's Hat#
+11551#Savory Herb Salad#
+9734#Spooky Treasure#

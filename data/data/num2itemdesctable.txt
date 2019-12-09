@@ -481,10 +481,8 @@ people born in June.
 Weight: ^77777710^000000
 #
 723#
-A deep maroon jewel
-that is the birthstone
-for people born in July. ^ffffff___^000000
-^ffffff_^000000
+A bright red jewel, the birthstone for people born in July.
+^FFFFFF_^000000
 Weight: ^77777710^000000
 #
 724#
@@ -5315,10 +5313,9 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 641#
-A contract drawn in
-darkness. Deviruchi
-is compelled to claim
-this item as its own.
+A contract written in blood.
+Deviruchi is compelled to claim it as its own.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -8506,8 +8503,9 @@ Weight: ^7777771^000000
 #
 4168#
 A chance of auto casting Meteor Storm 5 when receiving physical damage
-[If used with Dark Illusion Card]
+^6A5ACD[If used with Dark Illusion Card]^000000
 Max HP/SP +20%
+Casting time -10%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -8696,7 +8694,7 @@ Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4187#
-A chance of obtaining Piece of Vindictive Spirit when killing a Demon monster
+A chance of obtaining Box of Grudge when killing a Demon monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -8895,7 +8893,8 @@ Flee +20
 Str/Agi +5
 Aspd +5%
 SP +1 per attack
-Auto-Snatch ability of the Wanderer Card disabled
+Movement speed increased
+Auto-Snatch ability disabled
 ^6A5ACD[If the set is used by Thief class]^000000
 Skills can be used without Gemstones.
 ^6A5ACD[If used with Wild Rose, Shinobi, Stainer, and Wickebine Tres Cards]^000000
@@ -9179,6 +9178,8 @@ Weight: ^7777771^000000
 #
 4238#
 A chance of auto casting Lex Aeterna 1 on an enemy after a physical attack
+^6A5ACD[If used with Owl Duke Card]^000000
+A chance of auto casting Lightning Bolt 5 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9529,6 +9530,9 @@ Weight: ^7777771^000000
 4277#
 Luk +2
 Slinging Arrow/Melody Strike damage +10%
+^6A5ACD[If used with Injustice Card]^000000
+Atk +20
+Luk +3
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -9593,9 +9597,9 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4283#
-A chance of obtaining Spirit Sphere or Coin after a physical attack
+A chance of obtaining a sphere after a physical attack
 ^6A5ACD[If used by Acolyte class]^000000
-The chance of obtaining the item is increased.
+The chance of obtaining a sphere is increased.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -9747,7 +9751,7 @@ Weight: ^7777771^000000
 #
 4300#
 A chance of poisoning an enemy when receiving physical damage
-[If used by Assassin/Assassin Cross]
+^6A5ACD[If used by Assassin]^000000
 The chance of poisoning is increased.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
@@ -9921,7 +9925,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4318#
-A chance of auto casting Storm Gust 1 on an enemy after a physical attack
+A chance of auto casting Storm Gust 2 on an enemy after a physical attack
 A 20% chance of freezing an enemy after an attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -9986,6 +9990,8 @@ Weight: ^7777771^000000
 #
 4324#
 A 50% chance of freezing an enemy when receiving physical damage
+^6A5ACD[If used with Baby Garm Card]^000000
+A great chance of auto casting Frost Driver 3 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -21299,16 +21305,10 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2727#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1629#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 1630#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -21780,7 +21780,6 @@ placeholder
 placeholder
 #
 14529#
-^ff0000Account bound^000000
 Enables a single cast of ^880000Greed^000000.
 Cannot be used in towns and on the ^ff0000PvP Arena^000000.
 Weight: ^7777771^000000
@@ -37849,13 +37848,6 @@ A combining manual easier than instant cook book. Just follow what they are sayi
 "^ff0000Cuation : You must have all Ingredients ready before combination.^000000"
 Weight : ^7777771^000000
 #
-11551#
-^ff0000Cannot trade to other user^000000
-Healthy herb mix with strange power giving.
-STR + 1 for 3 minutes.
-Recover ^00008825 HP^000000.
-Weight : ^7777771^000000
-#
 11552#
 ^ff0000Cannot trade to other user^000000
 A harmony of apple and carrot! As fresh as a salad can get.
@@ -53168,4 +53160,91 @@ Weight: ^7777771^000000
 A scroll that teleports to the NPC who will tell you more about the new event.
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+20547#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20586#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20588#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31568#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31611#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31832#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31088#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+11551#
+A spicy herb mix that gives you strange powers.
+Str +20 for 10 min. (doesn't stack with the Steamed Tongue effect)
+Restores ^00008825 HP^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+9734#
+This cute little bat holds something spooky under its wings.
+^ffffff_^000000
+Tickle its tummy to obtain one of the following items:
+Loli Ruri's Crescent Moon
+Whisper's Blessing
+Witch's Broom
+Evil Snake Lord's Scarf
+Floating Yin-Yang Beads
+Witch's Catty Hat
+Mad Hatter's Hat
+Silvervine x666
+Improved Bongun Hat
+Improved Munak Hat
+HE Battle Manual x3
+HE Bubble Gum x3
+Enriched Elunium x3
+Enriched Oridecon x3
+Battle Manual x3
+Job Manual x2
+Bubble Gum x2
+Convex Mirror x7
+Yggdrasil Berry x10
+Kafra Card x15
+Giant Fly Wing x6
+Megaphone x5
+Guyak Pudding x25
+Sparkling Candy x15
+Guarana Candy x8
+Sesame Pastry x35
+Honey Pastry x35
+LV10 Blessing Scroll x12
+LV10 Increase Agi Scroll x12
+Magnificat Scroll x10
+Savory Herb Salad x20
+Steamed Tongue x5
+Steamed Scorpion x5
+Stew of Immortality x5
+Dragon Breath Cocktail x5
+Hwergelmir's Tonic x5
+Cooked Nine Tail's Tails x5
+Universal Golden Catalog x15
+Bat Cookie x99
+Greed Scroll Box (100 pcs.)
+Shadow Contract x15
+Sleepy Box x30
+Box of Grudge x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+13623#
+Contains 100 Greed Scrolls.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Greed Scroll]
+Enables a single cast of ^880000Greed^000000.
+Cannot be used in towns and on the ^ff0000PvP Arena^000000.
+Weight: ^7777771^000000
 #

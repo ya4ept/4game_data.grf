@@ -1,3 +1,60 @@
+09.12.2019
+Community Manager 15:13
+The server will be shut down for approximately 4 hours on Tuesday, 10.12 at 08:00 CET due to 4Game platform maintenance, so we will use this time to update our server too, clearing the Wednesday for you.
+
+Ending activities:
+— Spooky Treasure will be removed from the Shop;
+https://eu.4gameforum.com/threads/669734/
+
+As always, there will be a quiz during the maintenance, where you may win 250 Silvervines.
+
+To Guild Leaders: don't forget to collect the drop from the castles.
+
+==========
+04.12.2019
+Community Manager 12:06
+The maintenance has been finished, the server is online. We've acknowledged the connection issues many of players encountered after the previous update, this maintenance should have fixed them.
+
+We want to thank you for understanding and patience with 15% EXP bonus, which will be active until the next Wednesday.
+
+Changelog:
+
+Shop:
+— Spooky Treasure has been added in the Shop for €0.99 until 11.12;
+https://eu.4gameforum.com/threads/669734/
+— Sale has been ended;
+— Black Friday offer has been removed;
+— WoE pack has been removed.
+
+Fixes:
+— Guard Coins now can be sold to NPCs;
+
+Chest of Envy PvP event changes: https://eu.4gameforum.com/threads/669767/
+
+==========
+27.11.2019
+Community Manager 
+The maintenance has been finished, the server is online. Changelog:
+
+— Long awaited Wars of Emperium update has been released!;
+— A new class added: Super Novice;
+https://eu.4gameforum.com/threads/669365/
+— Shop Sale, up to 60% off on main categories from 27.11 to 04.12;
+https://eu.4gameforum.com/threads/669467/
+— Limited offer: WoE Pack will be available from 27.11 to 04.12 for €4.99;
+https://eu.4gameforum.com/threads/669464/
+— Shop Update: Gentleman's Pipe, Alice Doll Hat and Observer;
+https://eu.4gameforum.com/threads/669473/
+
+Localization:
+— Creamy Fear renamed into Creepy Creamy;
+— Contract in Shadow renamed into Shadow Contract;
+
+Fixes:
+— Bowling Bash delay has been increased up to 0.3 seconds;
+— Arrow Shower delays has been adjusted to 0.5 seconds, VCT is 0.5 seconds.
+
+==========
 20.11.2019
 Project Killer 11:50
 The maintenance has been finished, the server is online. Changelog:
@@ -7,6 +64,13 @@ The maintenance has been finished, the server is online. Changelog:
 — Small localization fixes.
 
 https://eu.4gameforum.com/threads/669245/
+
+ 
+Community Manager
+It's time to announce the chosen dates and time for Guild Wars!
+
+Weekday: Wednesday, 20:00-22:00 CET
+Weekend: Sunday, 18:00-20:00 CET
 
 ==========
 13.11.2019

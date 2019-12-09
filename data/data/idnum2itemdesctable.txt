@@ -1060,11 +1060,11 @@ Class: Taming Item
 Weight: 5
 #
 641#
-^808080A contract drawn in darkness. Deviruchi is compelled to claim this item as its own.^000000
+A contract written in blood.
+Deviruchi is compelled to claim it as its own.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
 642#
 A forbidden book that contains a spell for summoning a high-level demon.
@@ -1541,43 +1541,36 @@ Weight: ^77777710^000000
 ^FFFFFF_^000000
 Weight: 10
 #
-
 721#
 ^808080A brilliant, green jewel that is the birthstone for people born in May.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
-
 722#
 ^808080A pink jewel that is the birthstone for people born in June.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
-
 723#
-^808080A deep maroon jewel that is the birthstone for people born in July.^000000
+A bright red jewel, the birthstone for people born in July.
 ^FFFFFF_^000000
-Weight: 10
+Weight: ^77777710^000000
 #
-
 724#
 A ruby containing mysterious powers.
 ^FFFFFF_^000000
 Weight: 10
 #
-
 725#
 ^808080An onyx with alternating brown and white bands of sard. It's the birthstone for people born in August.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
-
 726#
 ^808080A dark blue gem that is the birthstone for people born during September.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
-
 727#
 ^808080A gem displaying an array of brilliant colors that is the birthstone for people born in October.^000000
 ^FFFFFF_^000000
@@ -3299,7 +3292,7 @@ Your SP -1 after a physical attack
 Indestructible
 Class: ^777777One-handed Sword^000000
 Property: ^777777Ghost^000000
-Attack: ^777777140^000000    Weight: ^77777790^000000
+Attack: ^777777140^000000   Weight: ^77777790^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
 Jobs: ^777777Swordsman / Merchant / Thief^000000
@@ -3308,7 +3301,7 @@ Jobs: ^777777Swordsman / Merchant / Thief^000000
 A sword with a beautiful transparent blade and a hilt adorned with a precious jewel.
 A chance of obtaining ^0080801-carat Diamond^000000, ^0080802-carat Diamond^000000, ^0080803-carat Diamond^000000, ^008080Amethyst^000000, ^008080Aquamarine^000000, ^008080Cracked Diamond^000000, ^008080Cursed Ruby^000000, ^008080Emerald^000000, ^008080Garnet^000000, ^008080Opal^000000, ^008080Pearl^000000, ^008080Ruby^000000, ^008080Sapphire^000000, ^008080Sardonyx^000000, ^008080Topaz^000000, or ^008080Zircon^000000 when killing a monster
 Class: ^777777One-handed Sword^000000
-Attack: ^777777104^000000    Weight: ^777777220^000000
+Attack: ^777777104^000000   Weight: ^777777220^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777768^000000
 Jobs: ^777777Swordsman / Merchant / Thief^000000
@@ -3317,7 +3310,7 @@ Jobs: ^777777Swordsman / Merchant / Thief^000000
 An enchanted sword that draws out different minerals from fallen monsters.
 A chance of obtaining ^008080Coal^000000, ^008080Crystal Blue^000000, ^008080Elunium^000000, ^008080Emperium^000000, ^008080Emveretarcon^000000, ^008080Flame Heart^000000, ^008080Gold^000000, ^008080Great Nature^000000, ^008080Green Live^000000, ^008080Iron^000000, ^008080Iron Ore^000000, ^008080Mystic Frozen^000000, ^008080Oridecon^000000, ^008080Phracon^000000, ^008080Red Blood^000000, ^008080Rough Elunium^000000, ^008080Rough Oridecon^000000, ^008080Rough Wind^000000, ^008080Steel^000000, or ^008080Wind of Vendure^000000 when killing a monster
 Class: ^777777One-handed Sword^000000
-Attack: ^777777115^000000    Weight: ^777777250^000000
+Attack: ^777777140^000000   Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777774^000000
 Jobs: ^777777Swordsman / Merchant / Thief^000000
@@ -3400,7 +3393,6 @@ This item is indestructible in battle.
 Type: Weapon
 Class: One-Handed Sword
 Attack: 150
-Property: Neutral
 Weight: 150
 Weapon Level: 3
 Required Level: 27
@@ -3410,34 +3402,33 @@ Jobs: Knight Jobs, Crusader Jobs
 //--------------------------------------------------------------------------
 
 1151#
-A fearsome sword that has slain many a warrior in battle.
+A fearsome sword that has slain many warriors in battle.
 Class: ^777777Two-handed Sword^000000
-Attack: ^77777790^000000    Weight: ^777777130^000000
+Attack: ^77777790^000000   Weight: ^777777130^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777718^000000
 Jobs: ^777777Swordsman^000000
 #
 1152#
-A fearsome sword that has slain many a warrior in battle.
+A fearsome sword that has slain many warriors in battle.
 Class: ^777777Two-handed Sword^000000
-Attack: ^77777790^000000    Weight: ^777777130^000000
+Attack: ^77777790^000000   Weight: ^777777130^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777718^000000
 Jobs: ^777777Swordsman^000000
 #
 1153#
-A fearsome sword that has slain many a warrior in battle.
+A fearsome sword that has slain many warriors in battle.
 Class: ^777777Two-handed Sword^000000
-Attack: ^77777790^000000    Weight: ^777777130^000000
+Attack: ^77777790^000000   Weight: ^777777130^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777718^000000
 Jobs: ^777777Swordsman^000000
 #
 1154#
 A straight-bladed sword that can be brutally swung just like a baseball bat.
-Class: ^777777Two-Handed Sword^000000
-Property: ^777777Neutral^000000
-Attack: ^777777115^000000    Weight: ^777777160^000000
+Class: ^777777Two-handed Sword^000000
+Attack: ^777777115^000000   Weight: ^777777160^000000
 Weapon Level: ^7777772^000000
 Required Level: ^77777718^000000
 Jobs: ^777777Swordsman^000000
@@ -3523,7 +3514,7 @@ Jobs: ^777777Swordsman^000000
 1163#
 A large, double-edged broad sword that is used by highlanders.
 Class: ^777777Two-handed Sword^000000
-Attack: ^777777180^000000    Weight: ^777777250^000000
+Attack: ^777777180^000000   Weight: ^777777250^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777733^000000
 Jobs: ^777777Knight / Crusader^000000
@@ -3534,7 +3525,7 @@ Critical +30
 Aspd +8%
 A low chance of ^800000cursing^000000 oneself after a melee attack
 Class: ^777777Two-handed Sword^000000
-Attack: ^777777155^000000    Weight: ^777777100^000000
+Attack: ^777777155^000000   Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Swordsman^000000
@@ -3542,11 +3533,11 @@ Jobs: ^777777Swordsman^000000
 1165#
 An oriental sword that is the masterpiece of an ancient mastersmith.
 Str -5
-Def -66%
 Aspd +2
 Flee +30
+Equipment defense -2/3 (or -66%) (not shown in the Character Status window)
 Class: ^777777Two-handed Sword^000000
-Attack: ^777777200^000000    Weight: ^777777100^000000
+Attack: ^777777200^000000   Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Swordsman^000000
@@ -4293,7 +4284,6 @@ Jobs: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer 
 Type: Weapon
 Class: Dagger
 Attack: 105
-Property: Neutral
 Weight: 70
 Weapon Level: 3
 Required Level: 24
@@ -4303,7 +4293,7 @@ Jobs: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer 
 A lethal knife made of a special metal that can easily cut straight into the heart of an enemy.
 Indestructible
 Class: ^777777Dagger^000000
-Attack: ^777777118^000000    Weight: ^77777780^000000
+Attack: ^777777118^000000   Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777724^000000
 Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
@@ -4313,10 +4303,10 @@ A knife with a golden handle that is said to bring great fortune to whoever wiel
 Luk +5
 Perfect Dodge +20
 Class: ^777777Dagger^000000
-Attack: ^77777790^000000    Weight: ^77777750^000000
+Attack: ^77777790^000000   Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777724^000000
-Jobs: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
+Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1224#
 ^808080A powerful dagger that is specially constructed to destroy the enemy's weapon by a low chance.^000000
@@ -4324,13 +4314,11 @@ Jobs: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker
 Type: Weapon
 Class: Dagger
 Attack: 70
-Property: Neutral
 Weight: 100
 Weapon Level: 4
 Required Level: 36
 Jobs: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer Jobs, Soul Linker, Ninja Jobs
 #
-
 1225#
 ^808080An incredibly sharp dagger built to puncture and destroy an enemy's armor by a low chance.^000000
 ^FFFFFF_^000000
@@ -4397,8 +4385,7 @@ A domestic knife used by housewives for cooking.
 Critical +30
 50% chance of obtaining ^008080Meat^000000 when killing an Animal monster
 Class: ^777777Dagger^000000
-Property: ^777777Neutral^000000
-Attack: ^77777775^000000    Weight: ^77777750^000000
+Attack: ^77777775^000000   Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
 Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
@@ -4408,8 +4395,7 @@ An ice pick that is used for piercing solid ice or wood.
 Ignores target's DEF
 Deals more damage depending on target's DEF
 Class: ^777777Dagger^000000
-Property: ^777777Neutral^000000
-Attack: ^77777780^000000    Weight: ^77777760^000000
+Attack: ^77777780^000000   Weight: ^77777760^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
 Job: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
@@ -4420,10 +4406,10 @@ Int +5
 Matk +105
 Class: ^777777Dagger^000000
 Property: ^777777Fire^000000
-Attack: ^77777770^000000    Weight: ^77777750^000000
+Attack: ^77777770^000000   Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
-Jobs: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
+Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1232#
 A dagger commonly used by Assassins.
@@ -4432,7 +4418,7 @@ Max SP +15%
 Aspd +2%
 Class: ^777777Dagger^000000
 Property: ^777777Shadow^000000
-Attack: ^777777140^000000    Weight: ^77777760^000000
+Attack: ^777777140^000000   Weight: ^77777760^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
 Jobs: ^777777Assassin^000000
@@ -4465,7 +4451,7 @@ Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^
 1235#
 A dagger that symbolizes the potential of alchemy.
 Class: ^777777Dagger^000000
-Attack: ^777777110^000000    Weight: ^77777770^000000
+Attack: ^777777110^000000   Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
 Jobs: ^777777Alchemist^000000
@@ -4475,30 +4461,30 @@ A unique dagger made by a mysterious desert tribe.
 Damage to Earth and Wind monsters +10%
 Indestructible
 Class: ^777777Dagger^000000
-Attack: ^777777140^000000    Weight: ^77777780^000000
+Attack: ^777777140^000000   Weight: ^77777780^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
 Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1237#
 A cursed dagger forged out of a monster's tooth. It is known to cause insanity to whoever wields it.
-Def -50%
+Equipment defense -50% (not shown in the Character Status window)
 Flee +10
 Perfect Dodge +5
 Class: ^777777Dagger^000000
-Attack: ^777777180^000000    Weight: ^77777780^000000
+Attack: ^777777180^000000   Weight: ^77777780^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777736^000000
 Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1238#
 A dagger that steals zeny from monsters when they are defeated.
-A 40% chance of obtaining 1-100 zeny when killing a monster
+A chance of obtaining 1-100 zeny when killing a monster
 Class: ^777777Dagger^000000
-Attack: ^77777764^000000    Weight: ^777777120^000000
+Attack: ^77777764^000000   Weight: ^777777120^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Novice / Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
+Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^000000
 #
 1239#
 ^808080A dreadful dagger whose blade has been soaked in toxin.^000000
@@ -7049,7 +7035,7 @@ Ignores physical defense of Dragon monsters
 [Set effect with Dragon Breath [1], Dragon Killer, Dragon Slayer, or Gae Bolg]
 Physical damage to Dragon monsters +5%
 Class: ^777777Two-handed Spear^000000
-Attack: ^777777160^000000    Weight: ^777777200^000000
+Attack: ^777777160^000000   Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Swordsman^000000
@@ -7074,13 +7060,13 @@ CRIT + 30
 1477#
 A formidable two-handed spear. As the legend goes, its creator sacrificed his own life to forge it, which resulted in a curse that will try to dominate its wielder's soul.
 Physical damage to Demon, Shadow and Undead monsters +20%
-Damage from Demon, Shadow and Undead monsters -20%
+Damage from Demon, Shadow and Undead monsters -10%
 HP +50 when killing a monster
-A 10% chance to inflict ^800000Confusion^000000 on the target after a physical attack
+A 10% chance to inflict ^800000Confusion^000000 on oneself after a physical attack
 ^6A5ACD[If used with Red Silk Seal]^000000
-A low chance of inflicting ^800000Confusion^000000 on oneself after a physical attack
+A chance to inflict Confusion is greatly reduced.
 Class: ^777777Two-handed Spear^000000
-Attack: ^777777170^000000    Weight: ^777777200^000000
+Attack: ^777777170^000000   Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777775^000000
 Jobs: ^777777Swordsman^000000
@@ -7091,7 +7077,7 @@ Physical damage to Demihuman targets +10%
 Ignores enemy's Def
 Low chance to cast ^0000FFPierce 5^000000 after a physical attack
 Class: ^777777Two-handed Spear^000000
-Attack: ^777777120^000000    Weight: ^777777100^000000
+Attack: ^777777120^000000   Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777765^000000
 Job: ^777777Knight / Crusader^000000
@@ -7657,7 +7643,7 @@ Class: ^777777Mace^000000
 Attack: ^777777145^000000    Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777740^000000
-Job˚: ^777777Acolyte^000000
+Jobs: ^777777Acolyte^000000
 #
 1527#
 ^808080A heavy and powerful iron mace with a rounded top.^000000
@@ -8962,31 +8948,20 @@ MATK + 20%
 MATK + 5%
 Reduces damage taken from Neutral property attacks by 25%.
 #
-
 1629#
-^808080A staff once used by a very gentle man somewhere long ago.  A very narrow sword is hidden inside the staff.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Staff
-Attack: 40
-Property: Neutral
-Weight: 50
-Weapon Level: 4
-Required Level: 50
-Jobs: Acolyte Jobs, Mage Jobs, Soul Linker
-^FFFFFF_^000000
-DEX + 1
-MATK+ 125
-^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Gentleman Staff [1]^000000
-^008080Magician Hat^000000
-INT + 2
-DEX + 2
-SP Recovery + 5%
-MATK + 1% per upgrade level of the ^008080Gentleman Staff^000000.
+A staff once used by gentlemen somewhere long ago. Inside a narrow blade is hidden.
+Dex +1
+Matk +125
+^6A5ACD[If used with Magician Hat]^000000
+Int/Dex +2
+SP recovery rate +5%
+Matk +1% per each refine level
+Class: ^777777One-handed Staff^000000
+Attack: ^77777740^000000    Weight: ^77777750^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Acolyte / Mage / Soul Linker^000000
 #
-
 1630#
 ^808080A staff made of Crystal. It shines beautifully against the light. This staff can also help the holder recover from damage.^000000
 ^FFFFFF_^000000
@@ -9796,7 +9771,6 @@ DEX + 2
 Type: Weapon
 Class: Bow
 Attack: 100
-Property: Neutral
 Weight: 110
 Weapon Level: 3
 Required Level: 33
@@ -9806,32 +9780,25 @@ Jobs: Thief, Rogue Jobs, Archer Jobs
 A powerful siege weapon that is, in essence, a huge crossbow.
 Dex +2
 Class: ^777777Bow^000000
-Property: ^777777Neutral^000000
-Attack: ^77777790^000000    Weight: ^777777100^000000
+Attack: ^77777790^000000   Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777733^000000
 Jobs: ^777777Thief / Rogue / Archer^000000
 #
 1716#
-^808080A bow made famous by its use by Goongso, a legendary Korean archer that used this bows power to smite his enemies.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Bow
-Attack: 100
-Property: Neutral
-Weight: 110
-Weapon Level: 3
-Required Level: 33
-Jobs: Rogue Jobs, Archer Jobs
+A bow made famous by Goongso, a legendary archer who used this bow's power to crush his enemies.
+Class: ^777777Bow^000000
+Attack: ^777777100^000000   Weight: ^777777110^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777733^000000
+Jobs: ^777777Thief / Rogue / Archer^000000
 #
-
 1718#
 ^808080A mighty bow that can only be effectively used by Hunters and Snipers.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Bow
 Attack: 125
-Property: Neutral
 Weight: 110
 Weapon Level: 3
 Required Level: 33
@@ -9848,7 +9815,6 @@ Increases long-ranged damage on targets by 50%.
 Type: Weapon
 Class: Bow
 Attack: 75
-Property: Neutral
 Weight: 50
 Weapon Level: 4
 Required Level: 48
@@ -9859,11 +9825,11 @@ Range + 11
 1720#
 A bow imbued with the sacred essence of Rudra, one of the ancient gods.
 Int +5
-Enables Heal 1 and Cure 1.
-Curse/poison/silence resistance +50%
+Enables Heal 1 and Cure 1
+Curse/poison/silence/confusion/blind resistance +50%
 Class: ^777777Bow^000000
 Property: ^777777Holy^000000
-Attack: ^777777150^000000    Weight: ^777777120^000000
+Attack: ^777777150^000000   Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777748^000000
 Jobs: ^777777Rogue / Archer^000000
@@ -9874,7 +9840,6 @@ Jobs: ^777777Rogue / Archer^000000
 Type: Weapon
 Class: Bow
 Attack: 95
-Property: Neutral
 Weight: 200
 Weapon Level: 3
 Required Level: 65
@@ -9882,7 +9847,6 @@ Jobs: Hunter Jobs, Rogue Jobs
 ^FFFFFF_^000000
 Range + 9
 #
-
 1722#
 ^808080A giant bow which was used in ancient battles.^000000
 ^FFFFFF_^000000
@@ -12513,47 +12477,57 @@ Jobs: ^777777All^000000
 2103#
 A round shield that easily absorbs impact from attacks.
 Class: ^777777Shield^000000
-Defense: ^77777740^000000    Weight: ^77777760^000000
+Defense: ^77777740^000000   Weight: ^77777760^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Swordsman / Acolyte / Merchant / Thief / Bard/Dancer^000000
 #
 2104#
 A round shield that easily absorbs impact from attacks.
 Class: ^777777Shield^000000
-Defense: ^77777740^000000    Weight: ^77777760^000000
+Defense: ^77777740^000000   Weight: ^77777760^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Swordsman / Acolyte / Merchant / Thief / Bard/Dancer^000000
 #
 2105#
 A well crafted shield that provides good protection for its wearer.
 Class: ^777777Shield^000000
-Defense: ^77777760^000000    Weight: ^777777130^000000
+Defense: ^77777760^000000   Weight: ^777777130^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Swordsman^000000
 #
 2106#
 A well crafted shield that provides good protection for its wearer.
 Class: ^777777Shield^000000
-Defense: ^77777760^000000    Weight: ^777777130^000000
+Defense: ^77777760^000000   Weight: ^777777130^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Swordsman^000000
 #
 2107#
 A shield with mirror surface that reflects harmful magic.
 Mdef +5
 Class: ^777777Shield^000000
-Defense: ^77777745^000000    Weight: ^777777100^000000
+Defense: ^77777745^000000   Weight: ^777777100^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Swordsman / Taekwon Master^000000
 #
 2108#
 A shield with mirror surface that reflects harmful magic.
 Mdef +5
 Class: ^777777Shield^000000
-Defense: ^77777745^000000    Weight: ^777777100^000000
+Defense: ^77777745^000000   Weight: ^777777100^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Swordsman / Taekwon Master^000000
 #
 2109#
 A magic book filled with long, impractical spells. It is so large that can actually be used just as a shield.
 Int +1
 Mdef +2
+^6A5ACD[If used with Monocle and Pocket Watch]^000000
+HP/SP recovery rate +15%
+Matk +7%
 Class: ^777777Shield^000000
-Defense: ^77777725^000000    Weight: ^777777100^000000
+Defense: ^77777725^000000   Weight: ^777777100^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Mage / Soul Linker^000000
 #
 2110#
@@ -12716,8 +12690,12 @@ Jobs:^777777Ninja^000000
 A magic book filled with long, impractical spells. It is so large that can actually be used just as a shield.
 Int +1
 Mdef +2
+^6A5ACD[If used with Monocle and Pocket Watch]^000000
+HP/SP recovery rate +15%
+Matk +7%
 Class: ^777777Shield^000000
-Defense: ^77777725^000000    Weight: ^777777100^000000
+Defense: ^77777725^000000   Weight: ^777777100^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Mage / Soul Linker^000000
 #
 2122#
@@ -12918,7 +12896,7 @@ Jobs: ^777777Swordsman Class^000000
 2146#
 A steel shield covered with a thin layer of silver.
 Class: ^777777Shield^000000
-Defense: ^77777760^000000    Weight: ^77777730^000000
+Defense: ^77777760^000000   Weight: ^77777730^000000
 Required Level: ^77777722^000000
 Jobs: ^777777All^000000
 #
@@ -13461,16 +13439,19 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2239#
-An aristrocratically
-stylish lense that is
-worn for only one eye.
+A stylish lense that is worn on one eye.
+^6A5ACD[If used with Memory Book and Pocket Watch]^000000
+HP/SP recovery rate +15%
+Matk +7%
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Middle^000000
-Weight: ^77777710^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+
 //--------------------------------------------------------------------------
+
 2241#
 A white colored
 moustache, symbol
@@ -13896,7 +13877,7 @@ Jobs: ^777777All^000000
 A wick-like ornament worn on top of the head for a dangerous look.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777772^000000    Weight: ^77777710^000000
+Defense: ^7777772^000000   Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2280#
@@ -14000,6 +13981,7 @@ A mask that expresses anguish and despair borne of insanity.
 Class: ^777777Headgear^000000
 Location: ^777777Middle, Lower^000000
 Defense: ^7777771^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All except Novice^000000
 #
 2289#
@@ -15186,33 +15168,33 @@ Jobs: ^777777All^000000
 2403#
 A pair of shoes made of supple, high quality leather.
 Class: ^777777Footwear^000000
-Defense: ^77777710^000000    Weight: ^77777740^000000
+Defense: ^77777710^000000   Weight: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
 2404#
 A pair of shoes made of supple, high quality leather.
 Class: ^777777Footwear^000000
-Defense: ^77777710^000000    Weight: ^77777740^000000
+Defense: ^77777710^000000   Weight: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
 2405#
 A pair of heavy leather boots padded with Lunatic fur. Great for warriors.
 Class: ^777777Footwear^000000
-Defense: ^77777716^000000    Weight: ^77777760^000000
-Jobs: ^777777Swordsman / Archer / Merchant / Thief / Taekwon Boy/Girl / Taekwon Master / Gunslinger^000000
+Defense: ^77777716^000000   Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Archer / Merchant / Thief / Taekwon Boy/Girl / Star Gladiator / Gunslinger^000000
 #
 2406#
 A pair of heavy leather boots padded with Lunatic fur. Great for warriors.
 Class: ^777777Footwear^000000
-Defense: ^77777716^000000    Weight: ^77777760^000000
-Jobs: ^777777Swordsman / Archer / Merchant / Thief / Taekwon Boy/Girl / Taekwon Master / Gunslinger^000000
+Defense: ^77777716^000000   Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Archer / Merchant / Thief / Taekwon Boy/Girl / Star Gladiator / Gunslinger^000000
 #
 2407#
 A pair of feminine high heeled shoes made of fine crystal. Worn only on special occasions.
 Luk +5
 Mdef +10
 Class: ^777777Footwear^000000
-Defense: ^7777775^000000    Weight: ^77777710^000000
+Defense: ^7777775^000000   Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 2408#
@@ -15963,32 +15945,32 @@ Jobs: ^777777All^000000
 2503#
 A warm scarf that is worn around the neck and shoulders.
 Class: ^777777Garment^000000
-Defense: ^7777778^000000    Weight: ^77777740^000000
+Defense: ^7777778^000000   Weight: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
 2504#
 A warm scarf that is worn around the neck and shoulders.
 Class: ^777777Garment^000000
-Defense: ^7777778^000000    Weight: ^77777740^000000
+Defense: ^7777778^000000   Weight: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
 2505#
 A long cape-like garment that protects its wearer from harsh weather.
 Class: ^777777Garment^000000
-Defense: ^77777713^000000    Weight: ^77777760^000000
-Jobs: ^777777Swordsman / Merchant / Thief / Taekwon Boy/Girl / Taekwon Master^000000
+Defense: ^77777713^000000   Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Merchant / Thief / Taekwon Boy/Girl / Star Gladiator^000000
 #
 2506#
 A long cape-like garment that protects its wearer from harsh weather.
 Class: ^777777Garment^000000
-Defense: ^77777713^000000    Weight: ^77777760^000000
-Jobs: ^777777Swordsman / Merchant / Thief / Taekwon Boy/Girl / Taekwon Master^000000
+Defense: ^77777713^000000   Weight: ^77777760^000000
+Jobs: ^777777Swordsman / Merchant / Thief / Taekwon Boy/Girl / Star Gladiator^000000
 #
 2507#
 A fancy cape said to have been worn by marquises from long ago.
 Agi +1
 Class: ^777777Garment^000000
-Defense: ^7777779^000000    Weight: ^77777760^000000
+Defense: ^7777779^000000   Weight: ^77777760^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All except Novice^000000
 #
@@ -15997,7 +15979,7 @@ An old, worn-out cape that nevertheless can protect its wearer from harm.
 Indestructible
 Mdef +10
 Class: ^777777Garment^000000
-Defense: ^7777774^000000    Weight: ^77777750^000000
+Defense: ^7777774^000000   Weight: ^77777750^000000
 Jobs: ^777777All except Novice^000000
 #
 2509#
@@ -16854,8 +16836,12 @@ except Novice^000000
 2607#
 A versatile accessory that can be attached pretty much to anything.
 Max SP +10
+^6A5ACD[If used with Spiritual Ring]^000000
+Magnus Exorcismus damage +30%
+Heal damage to monsters +50%
+SP recovery rate +9%
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000    Weight: ^77777710^000000
+Defense: ^7777770^000000   Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2608#
@@ -17040,12 +17026,9 @@ Jobs: ^777777Every Job
 except Novice^000000
 #
 2627#
-A simple, very
-practical belt that
-has little fashion value. 
+A simple and practical belt that has little fashion value.
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^777777120^000000
+Defense: ^7777770^000000    Weight: ^777777120^000000
 Required Level: ^77777725^000000
 Jobs: ^777777All^000000
 #
@@ -17516,8 +17499,12 @@ Reduces casting time according to the staff's refine level.
 Magnus Exorcismus damage +30%
 Heal damage to monsters +50%
 SP recovery rate +9%
+^6A5ACD[If used with Divine Cross]^000000
+Matk +10%
+Dex +2
+Damage from Undead and Demon monsters -10%
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000    Weight: ^77777710^000000
+Defense: ^7777770^000000   Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2678#
@@ -20738,8 +20725,9 @@ Weight: ^7777771^000000
 #
 4168#
 A chance of auto casting Meteor Storm 5 when receiving physical damage
-[If used with Dark Illusion Card]
+^6A5ACD[If used with Dark Illusion Card]^000000
 Max HP/SP +20%
+Casting time -10%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -20928,7 +20916,7 @@ Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4187#
-A chance of obtaining Piece of Vindictive Spirit when killing a Demon monster
+A chance of obtaining Box of Grudge when killing a Demon monster
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -21127,7 +21115,8 @@ Flee +20
 Str/Agi +5
 Aspd +5%
 SP +1 per attack
-Auto-Snatch ability of the Wanderer Card disabled
+Movement speed increased
+Auto-Snatch ability disabled
 ^6A5ACD[If the set is used by Thief class]^000000
 Skills can be used without Gemstones.
 ^6A5ACD[If used with Wild Rose, Shinobi, Stainer, and Wickebine Tres Cards]^000000
@@ -21404,6 +21393,8 @@ Weight: ^7777771^000000
 #
 4238#
 A chance of auto casting Lex Aeterna 1 on an enemy after a physical attack
+^6A5ACD[If used with Owl Duke Card]^000000
+A chance of auto casting Lightning Bolt 5 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -21754,6 +21745,9 @@ Weight: ^7777771^000000
 4277#
 Luk +2
 Slinging Arrow/Melody Strike damage +10%
+^6A5ACD[If used with Injustice Card]^000000
+Atk +20
+Luk +3
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -21818,9 +21812,9 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4283#
-A chance of obtaining Spirit Sphere or Coin after a physical attack
+A chance of obtaining a sphere after a physical attack
 ^6A5ACD[If used by Acolyte class]^000000
-The chance of obtaining the item is increased.
+The chance of obtaining a sphere is increased.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -21972,7 +21966,7 @@ Weight: ^7777771^000000
 #
 4300#
 A chance of poisoning an enemy when receiving physical damage
-[If used by Assassin/Assassin Cross]
+^6A5ACD[If used by Assassin]^000000
 The chance of poisoning is increased.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
@@ -22146,7 +22140,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4318#
-A chance of auto casting Storm Gust 1 on an enemy after a physical attack
+A chance of auto casting Storm Gust 2 on an enemy after a physical attack
 A 20% chance of freezing an enemy after an attack
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -22211,6 +22205,8 @@ Weight: ^7777771^000000
 #
 4324#
 A 50% chance of freezing an enemy when receiving physical damage
+^6A5ACD[If used with Baby Garm Card]^000000
+A great chance of auto casting Frost Driver 3 on an enemy after a physical attack
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -24439,10 +24435,10 @@ except Novice^000000
 #
 5017#
 An incredibly heavy, yet almost impenetrable helmet made of bone.
-Shadow attack damage +15%
+Damage from Shadow attacks +15%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^77777715^000000    Weight: ^77777780^000000
+Defense: ^77777715^000000   Weight: ^77777780^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Swordsman / Merchant^000000
 #
@@ -24496,7 +24492,8 @@ Int +2
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle^000000
 Defense: ^7777774^000000    Weight: ^777777240^000000
-Jobs: ^777777All 2nd classes^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All 2nd jobs^000000
 #
 5023#
 A large piece of
@@ -24526,9 +24523,9 @@ Agi/Luk +1
 Mdef +3
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^77777710^000000    Weight: ^777777160^000000
+Defense: ^77777710^000000   Weight: ^777777160^000000
 Required Level: ^77777774^000000
-Jobs: ^777777All 2nd classes^000000
+Jobs: ^777777All 2nd jobs^000000
 #
 5026#
 ^ff0000Account bound^000000
@@ -24536,7 +24533,7 @@ A headgear that is worn by all restaurant chefs.
 Dex +1
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777773^000000    Weight: ^77777730^000000
+Defense: ^7777773^000000   Weight: ^77777730^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All except Novice^000000
 #
@@ -25818,8 +25815,8 @@ Job : ^777777All^000000
 5137#
 ^ff0000Account bound^000000
 A hat adorned with an Alice doll. When worn, it seems like Alice is cheering you on from the top of your head.
-Damage to Demihuman monsters +10%
-Low chance to inflict Sleep on oneself
+Weapon attack to Demihuman monsters +10%
+A low chance to inflict Sleep on oneself
 Str +1
 Cannot be upgraded
 Class: ^777777Headgear^000000
@@ -26029,10 +26026,10 @@ Classes; Taekwon Boy/Girl^FFFFFF ^777777 and Taekwon Master Jobs^000000
 #
 5162#
 An incredibly heavy, yet almost impenetrable helmet made of bone.
-Shadow attack damage +15%
+Damage from Shadow attacks +15%
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^77777715^000000    Weight: ^77777780^000000
+Defense: ^77777715^000000   Weight: ^77777780^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Swordsman / Merchant^000000
 #
@@ -36492,7 +36489,7 @@ it's been cooked.
 Weight: ^7777771^000000
 #
 
-// ------------------- ∏∂∑¬¿Ã ±ÅEÅEcard√∏ ------------------
+// ------------------- ∏∂∑¬¿Ã ?EÅEcard√∏ ------------------
 
 12246#
 Powerful spirits are 
@@ -38254,9 +38251,6 @@ Contains:
 Can only be stored.
 Weight: ^7777771^000000
 #
-14151#
-placeholder
-#
 14150#
 placeholder
 #
@@ -38279,7 +38273,6 @@ A box that randomly opens to 1 of the following:
 -Anemos Mask 
 #
 14529#
-^ff0000Account bound^000000
 Enables a single cast of ^880000Greed^000000.
 Cannot be used in towns and on the ^ff0000PvP Arena^000000.
 Weight: ^7777771^000000
@@ -38336,13 +38329,10 @@ Cannot be Dropped or Traded.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-14283#
-A box that contains 1 Written Oath of Marriage, to be used on your wedding day.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
+
 
 //---Valkyrie Item Mall Keys
+
 7783#
 The 13.2 Poring Key allows early access to the 13.2 content, on Valkyrie, to the character holding it.
 The 13.2 Poring Key will disappear on ^ff0000012/22/08^000000 during maintenance;
@@ -58042,10 +58032,10 @@ A combining manual easier than instant cook book. Just follow what they are sayi
 Weight: ^7777771^000000
 #
 11551#
-^ff0000Cannot trade to other user^000000
-Healthy herb mix with strange power giving.
-STR + 1 for 3 minutes.
-Recover ^00008825 HP^000000.
+A spicy herb mix that gives you strange powers.
+Str +20 for 10 min. (doesn't stack with the Steamed Tongue effect)
+Restores ^00008825 HP^000000.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 11552#
@@ -58797,26 +58787,28 @@ Required Level: ^77777770^000000
 Job : ^777777Swordsmas Class/Merchant Class^000000
 #
 18769#
-Monster Munak's hat. Big hat with an anonymous charm attached. It has been remodeled for extra effect.
-Decreases damage from Undead monsters by 10%.
-When refined to +7 or higher, increases damage against Undead monsters by 10%.
+A hat worn by Munak with an amulet attached to it. It has been remodeled for additional effects.
+Damage from Undead monsters -10%
+Damage to Demihuman monsters +1% for each refine level
+^6A5ACD[If refined to +7 and higher]^000000
+Damage to Undead monsters +10%
 Class: ^777777Headgear^000000
-Defense: ^7777775^000000
-Location: ^777777Upper Middle Low ^000000
-Weight: ^77777730^000000
+Location: ^777777Upper, Middle, Lower^000000
+Defense: ^7777775^000000   Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18770#
-Monster Bongun used to wear this hat with charm attached as a point. It has been remodeled for extra effect.
-Decreases damage from demon monsters by 10%.
-When refined to +7, increases damage against demon monsters by 10%.
+A hat worn by Bongun, with its amulet torn in half. It has been remodeled for additional effects.
+Damage from Demon monsters -10%
+Resistance to Demihuman monsters +1% for each refine level
+^6A5ACD[If refined to +7 and higher]^000000
+Damage to Demon monsters +10%
 Class: ^777777Headgear^000000
-Defense: ^7777775^000000
-Location: ^777777Upper Middle Low ^000000
-Weight: ^77777730^000000
+Location: ^777777Upper, Middle, Lower^000000
+Defense: ^7777775^000000   Weight: ^77777730^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 18771#
 A mask worn by the dark hero of sad love story. Look into it you can feel his sadness.
@@ -60467,7 +60459,7 @@ Job: ^777777Novice / Swordsman / Mage / Archer / Merchant / Thief / Soul Linker 
 #
 13117#
 ^ff0000Cannot be traded^000000
-^000088Rental ¯tem^000000
+^000088Rental item^000000
 [In WoE TE areas only]
 PvP physical attack +40%
 High chance to cause Curse with physical attacks
@@ -78159,12 +78151,6 @@ This scroll has the same restrictions as the normal casting of Greed; some maps 
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-14529#
-Enables a single cast of ^880000Greed^000000.
-
-Cannot be traded or dropped.
-Weight: ^7777771^000000
-#
 5303#
 Wreath, interlaced in the magic fire from the grasses, Assembled during the day of summer solstice.
 It protects owner from the evil forces.
@@ -80167,19 +80153,6 @@ A box containing 10 Cooked Nine Tail's Tails
 A rare, specialty
 Payon dish that bestows^FFFFFF   ^000000 luck to those fortunate
 enough to eat it. Luk +10, 30 minute duration.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-14164#
-A box containing 10 Stew of Immortality
-^ffffff_^000000
-A funky smelling,
-suspicious looking
-stew that really does
-make you feel like
-an immortal when
-you eat it. Vit +10,
-30 minute duration.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -84665,4 +84638,123 @@ Weight: ^7777771^000000
 A scroll that teleports to the NPC who will tell you more about the new event.
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+20547#
+Is... is something following you? While it may seem creepy, it is actually a blessing and not a curse.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20586#
+Loli Ruri feels very generous today, so she allows you to ride her crescent moon. Beware, however, as her cat is always watching you.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20588#
+A must-have for any true witch. Add a familiar and a proper hat - and you are set to go!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31568#
+Feel the surge of mystical powers with these yin-yang beads floating beside you.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31611#
+A replica of the scarf worn by the Evil Snake Lord. You don't see it, but it's always smiling behind your back.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31832#
+A witch's hat adorned with flowers. Its main decoration, though, is a pair of fluffy cat ears and a long black tail.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31088#
+A fantastic hat created by a craftman who was presumably mad. But, as the saying goes, we're all quite mad here. You'll fit right in.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper, Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9734#
+This cute little bat holds something spooky under its wings.
+^ffffff_^000000
+Tickle its tummy to obtain one of the following items:
+Loli Ruri's Crescent Moon
+Whisper's Blessing
+Witch's Broom
+Evil Snake Lord's Scarf
+Floating Yin-Yang Beads
+Witch's Catty Hat
+Mad Hatter's Hat
+Silvervine x666
+Improved Bongun Hat
+Improved Munak Hat
+HE Battle Manual x3
+HE Bubble Gum x3
+Enriched Elunium x3
+Enriched Oridecon x3
+Battle Manual x3
+Job Manual x2
+Bubble Gum x2
+Convex Mirror x7
+Yggdrasil Berry x10
+Kafra Card x15
+Giant Fly Wing x6
+Megaphone x5
+Guyak Pudding x25
+Sparkling Candy x15
+Guarana Candy x8
+Sesame Pastry x35
+Honey Pastry x35
+LV10 Blessing Scroll x12
+LV10 Increase Agi Scroll x12
+Magnificat Scroll x10
+Savory Herb Salad x20
+Steamed Tongue x5
+Steamed Scorpion x5
+Stew of Immortality x5
+Dragon Breath Cocktail x5
+Hwergelmir's Tonic x5
+Cooked Nine Tail's Tails x5
+Universal Golden Catalog x15
+Bat Cookie x99
+Greed Scroll Box (100 pcs.)
+Shadow Contract x15
+Sleepy Box x30
+Box of Grudge x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+13623#
+Contains 100 Greed Scrolls.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Greed Scroll]
+Enables a single cast of ^880000Greed^000000.
+Cannot be used in towns and on the ^ff0000PvP Arena^000000.
+Weight: ^7777771^000000
 #
