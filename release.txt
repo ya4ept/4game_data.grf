@@ -1,3 +1,26 @@
+11.12.2019
+Community Manager 11:54
+The maintenance has been finished, the server is online.
+
+Events:
+— High Refinement Rates will be active until 18.12, Enriched Materials for refinement are available in the shop;
+https://eu.4gameforum.com/threads/669962/
+
+— Piercing Expert can make a socket in your Elven Ears with the Auger of Spirit, which will be available in the shop for €9.9 or 1188 Silvervines until 18.12;
+https://eu.4gameforum.com/threads/669971/
+
+Game updates:
+— Monsters from the recently implemented locations have been added to the Bloody and Dead Branches, the list of cards of the Old Card Albums has been also updated.
+
+Shop:
+— Enriched Oridecon, Enriched Elunium, Gangster Scarf and other headgear has been added;
+https://eu.4gameforum.com/threads/669848/
+— Auger of Spirit for the Piercing Event has been added for 7 days, until 18.12.
+
+Removed:
+— Spooky Treasure has been removed from the Shop.
+
+==========
 09.12.2019
 Community Manager 15:13
 The server will be shut down for approximately 4 hours on Tuesday, 10.12 at 08:00 CET due to 4Game platform maintenance, so we will use this time to update our server too, clearing the Wednesday for you.

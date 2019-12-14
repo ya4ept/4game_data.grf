@@ -1323,7 +1323,7 @@
 7157#Dark Mask#
 7158#Broken Liquor Jar#
 7159#Tengu Nose#
-7160#Feudal Lord Permit#
+7160#Lord's Permit#
 551#Sushi#
 
 //=====Valentine's day event==============
@@ -4961,7 +4961,7 @@
 
 5744#Helm#
 5745#Helm#
-6396#Auger Of Spirit#
+6396#Auger of Spirit#
 18507#Accessory#
 
 // --------- 2011.2.8. Cash item update -------------

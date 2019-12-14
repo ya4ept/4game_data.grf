@@ -985,9 +985,8 @@ A crustacean's claw.
 Weight: ^7777771^000000
 #
 961#
-The shell of a
-marine mollusk.
-^ffffff_^000000
+A shell of a marine mollusk.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 962#
@@ -5131,16 +5130,17 @@ from a toxic mushroom.
 Weight: ^7777771^000000
 #
 619#
-An apple that isn't ripe enough for humans to
-eat. Poring finds it
-to be very tasty.
+An apple that isn't ripe enough for humans to eat.
+However, Poring finds it very tasty.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 620#
-A small bottle of
-orange juice. Drops
-finds it to be very tasty. Class: ^777777Taming Item^000000
+A small bottle of orange juice.
+Drops finds it very tasty.
+^FFFFFF_^000000
+Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 621#
@@ -5152,19 +5152,16 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 622#
-A fragrant carrot
-colored with all the
-hues of the rainbow.
-Lunatic finds it to
-be very tasty.
+A fragrant carrot colored like the rainbow.
+Lunatic finds it very tasty.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 623#
-A rather suave
-looking earthworm
-gifted with womanizing
-debonairness. Picky finds him to be quite delicious.
+A rather suave-looking earthworm gifted with womanizing debonairness.
+Picky finds it quite delicious.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -5177,12 +5174,9 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 625#
-A rusty piece of
-iron that would only
-interest scavengers
-and vermin. Steel
-Chonchon finds it
-to be very tasty.
+A rusty piece of iron that would only interest scavengers and vermin.
+Steel Chonchon finds it very tasty.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -5195,19 +5189,16 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 627#
-Sweet, luscious,
-full bodied milk.
-Savage Bebe finds
-it to be very tasty.
+Sweet fresh milk.
+Savage Babe finds it very tasty.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 628#
-A tough, chewy
-bone that has been
-dried in the sun. Baby
-Desert Wolf finds it
-to be very tasty.
+A tough crunchy bone that has been dried in the sun.
+Baby Desert Wolf finds it very tasty.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -5240,11 +5231,9 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 632#
-An earthworm that
-stopped caring about
-its figure years ago.
-Peco Peco loves the
-way that it tastes.
+An earthworm that stopped caring about its figure years ago.
+Peco Peco loves the way it tastes.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -5297,10 +5286,9 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 639#
-A fancy, intricately
-decorated bracelet.
-Isis is lured by its
-regal beauty.
+A fancy, intricately decorated bracelet.
+Isis is easily lured by its regal beauty.
+^FFFFFF_^000000
 Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
@@ -5892,11 +5880,13 @@ Applicable Jobs: ^777777Swordsman Class, Merchant Class,
 Rogue, Mage, Wizard^000000
 Weight: ^77777720^000000
 #
-19997#
+
 // ---- EP 4.0 Turtle Island -----------
-#
+
 544#
-A raw, fresh fish.
+Raw slices of fresh fish.
+Restores ^00800025-60 HP^000000.
+^FFFFFF_^000000
 Weight: ^7777773^000000
 #
 658#
@@ -6968,7 +6958,7 @@ The nose attached on this redish mask is quite long and ugly.
 Weight: ^7777771^000000
 #
 7160#
-An authorized ticket which allows its owner to enter a prohibited area.
+A ticket that allows its owner to enter a prohibited area.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -6983,7 +6973,6 @@ Weight: ^7777775^000000
 
 // ---- Valentine's Day event -----------
 
-#
 7182#
 A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
 ^ffffff_^000000
@@ -7994,21 +7983,12 @@ Unknown item
 requiring Appraisal.
 Can be identified by
 using a Magnifier.
-
 #
 1913#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5098#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 573#
 A kind of drink made from chocolate and milk from one of the Royal Court Dessert Specialist's recipes. Although the Dessert Chef wishes for people to drink this treat elegantly, it's usually gulped down, enjoyed with hand sloppily placed on the waist.
@@ -8016,7 +7996,7 @@ A kind of drink made from chocolate and milk from one of the Royal Court Dessert
 weight: ^77777715^000000
 #
 7285#
-A skein of threads which possesses a holy power within.
+A skein of threads that are imbued with holy power.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -8027,7 +8007,7 @@ Adds a spicy taste in food.
 Weight: ^7777771^000000
 #
 566#
-One of the three most famous kinds of soup in the world. It is cooked with shrimp, lemons, and chilies, and has a spicy, sweet and sour taste.
+One of the three most famous kinds of soup in the world. It is cooked with prawns, lemons, and chili peppers, and has a spicy, sweet and sour taste.
 Restores ^008000244-350 HP^000000 and ^00800010-30 SP^000000.
 ^FFFFFF_^000000
 Weight: ^77777715^000000
@@ -8046,12 +8026,12 @@ Restores ^00800010-20 SP^000000.
 Weight: ^7777774^000000
 #
 7287#
-A skein of threads enchanted with a holier power than a normal holy threads.
+A skein of threads that contain more power than Holy Threads.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7288#
-A solid, beautiful engagement ring which a word 'Slave of Love' is etched within.
+A beautiful engagement ring. Inside of it the words 'Slave to love' are engraved.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27108,10 +27088,11 @@ Box Weight : ^7777771^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6396#
-This Auger can be used, by Olivia in Payon, to pierce your elven ears. 
-Disappears if the Socket Enchantment succeeds or fails.
-^0000CCThis item can be traded, and stored only.^000000
-Weight : ^7777771^000000
+^CC0000Account bound^000000
+Can be used to make a slot in Elven Ears.
+Take it to Piercing Expert near the south gate of Prontera.
+The item disappears after being used.
+Weight: ^7777771^000000
 #
 16676#
 Open the box and receive one of the 12 Zodiac Crown headgears.

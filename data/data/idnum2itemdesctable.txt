@@ -324,7 +324,6 @@ Weight: 5
 ^FFFFFF_^000000
 Restores ^008000185^000000 to ^008000225^000000 HP.
 #
-
 541#
 ^808080Food manufactured to feed Peco Pecos, but will suffice for desperately hungry humans as well.^000000
 ^FFFFFF_^000000
@@ -339,15 +338,11 @@ Restores ^008000325^000000 to ^008000405^000000 HP.
 //--------------------------------------------------------------------------
 
 544#
-^808080A raw, fresh fish.^000000
+Raw slices of fresh fish.
+Restores ^00800025-60 HP^000000.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 3
-^FFFFFF_^000000
-Restores ^00800025^000000 to ^00800060^000000 HP.
+Weight: ^7777773^000000
 #
-
 545#
 ^808080A condensed Red Potion that weighs significantly less.^000000
 ^FFFFFF_^000000
@@ -357,7 +352,6 @@ Weight: 1
 ^FFFFFF_^000000
 Restores ^00800045^000000 to ^00800065^000000 HP.
 #
-
 546#
 ^808080A condensed Yellow Potion that weighs significantly less.^000000
 ^FFFFFF_^000000
@@ -501,7 +495,7 @@ Weight: 10
 Restores ^008000142^000000 to ^008000274^000000 HP.
 #
 566#
-One of the three most famous kinds of soup in the world. It is cooked with shrimp, lemons, and chilies, and has a spicy, sweet and sour taste.
+One of the three most famous kinds of soup in the world. It is cooked with prawns, lemons, and chili peppers, and has a spicy, sweet and sour taste.
 Restores ^008000244-350 HP^000000 and ^00800010-30 SP^000000.
 ^FFFFFF_^000000
 Weight: ^77777715^000000
@@ -896,20 +890,19 @@ Type: Consumable
 Weight: 2
 #
 619#
-^808080An apple that isn't ripe enough for humans to eat. Poring finds it to be very tasty.^000000
+An apple that isn't ripe enough for humans to eat.
+However, Poring finds it very tasty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
 620#
-^808080A small bottle of orange juice. Drops finds it to be very tasty.^000000
+A small bottle of orange juice.
+Drops finds it very tasty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 621#
 ^808080An herb that is too bitter for the human palate. Poporing finds it to be very tasty.^000000
 ^FFFFFF_^000000
@@ -917,23 +910,20 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 622#
-^808080A fragrant carrot colored with all the hues of the rainbow. Lunatic finds it to be very tasty.^000000
+A fragrant carrot colored like the rainbow.
+Lunatic finds it very tasty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 623#
-^808080A rather suave looking earthworm gifted with womanizing debonairness. Picky finds him to be quite delicious.^000000
+A rather suave-looking earthworm gifted with womanizing debonairness.
+Picky finds it quite delicious.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 624#
 ^808080A rotting, dirty fish that attracts flies. Chonchon finds it to be very tasty.^000000
 ^FFFFFF_^000000
@@ -941,15 +931,13 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 625#
-^808080A rusty piece of iron that would only interest scavengers and vermin. Steel Chonchon finds it to be very tasty.^000000
+A rusty piece of iron that would only interest scavengers and vermin.
+Steel Chonchon finds it very tasty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 626#
 ^808080A fetid drink made of monster blood. Hunter Fly finds it to be very tasty.^000000
 ^FFFFFF_^000000
@@ -957,23 +945,20 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 627#
-^808080Sweet, luscious, full bodied milk. Savage Bebe finds it to be very tasty.^000000
+Sweet fresh milk.
+Savage Babe finds it very tasty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 628#
-^808080A tough, crunchy bone that has been dried in the sun. Baby Desert Wolf finds it to be very tasty.^000000
+A tough crunchy bone that has been dried in the sun.
+Baby Desert Wolf finds it very tasty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
-
 629#
 ^808080A flower that has been miraculously blessed with the gift of song. Rocker is inexplicably drawn to its sweet melodies.^000000
 ^FFFFFF_^000000
@@ -981,7 +966,6 @@ Type: Consumable
 Class: Taming Item
 Weight: 5
 #
-
 630#
 ^808080A dewy, green moss that grows in cool places. Spore finds it quite delectable.^000000
 ^FFFFFF_^000000
@@ -997,11 +981,11 @@ Class: Taming Item
 Weight: 5
 #
 632#
-^808080An earthworm that stopped caring about its figure years ago. Peco Peco loves the way that it tastes.^000000
+An earthworm that stopped caring about its figure years ago.
+Peco Peco loves the way it tastes.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
 633#
 A baked sweet potato that smells delicious.
@@ -1046,11 +1030,11 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 639#
-^808080A fancy, intricately decorated bracelet. Isis is lured by its regal beauty.^000000
+A fancy, intricately decorated bracelet.
+Isis is easily lured by its regal beauty.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Class: ^777777Taming Item^000000
+Weight: ^7777775^000000
 #
 640#
 ^808080A stone that softly glimmers with faint light. Ground Petite is drawn to its gentle sparkle.^000000
@@ -2045,7 +2029,6 @@ Weight: 1
 ^FFFFFF_^000000
 Weight: 1
 #
-
 958#
 ^808080A complete set of corpse's teeth. Well, as complete as it can get.^000000
 ^FFFFFF_^000000
@@ -2062,9 +2045,9 @@ Weight: 1
 Weight: 1
 #
 961#
-^808080The shell of a marine mollusk.^000000
+A shell of a marine mollusk.
 ^FFFFFF_^000000
-Weight: 1
+Weight: ^7777771^000000
 #
 962#
 Flexible boneless appendages.
@@ -3316,20 +3299,15 @@ Required Level: ^77777774^000000
 Jobs: ^777777Swordsman / Merchant / Thief^000000
 #
 1144#
-^808080An extremely sharp, thin bladed sword that is very efficient when slicing fish to make Japanese cuisine.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Sword
-Attack: 75
-Property: Wind
-Weight: 140
-Weapon Level: 3
-Required Level: 48
-Jobs: Swordsman Jobs, Merchant Jobs, Thief Jobs
-^FFFFFF_^000000
-Adds a 40% chance of gaining ^008080Raw Fish^000000 when a Fish race targets is killed.
+An extremely sharp, thin-bladed sword that is very efficient when slicing fish.
+A 40% chance of obtaining ^008080Raw Fish^000000 when killing a Fish monster.
+Class: ^777777One-handed Sword^000000
+Property: ^777777Wind^000000
+Attack: ^77777775^000000   Weight: ^777777140^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777748^000000
+Jobs: ^777777Swordsman / Merchant / Thief^000000
 #
-
 1145#
 ^808080A sword that symbolizes the Lord's holy retribution.^000000
 ^FFFFFF_^000000
@@ -13958,9 +13936,11 @@ except Novice^000000
 #
 2286#
 A fashion accessory that gives ears that vaunted elvish look. For some it is an incredible turn-on.
+^6A5ACD[If used with Skull Cap]^000000
+SP consumption -3%
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
-Defense: ^7777770^000000    Weight: ^77777710^000000
+Defense: ^7777770^000000   Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -27784,30 +27764,24 @@ The nose attached on this redish mask is quite long and ugly.
 Weight: ^7777771^000000
 #
 7160#
-An authorized ticket which allows its owner to enter a prohibited area.
+A ticket that allows its owner to enter a prohibited area.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
-
 30000#
 #
 
 // ---- Valentine's Day event -----------
-#
+
 7182#
 A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
 ^ffffff_^000000
 Weight: ^7777772^000000
 #
-
-
-
-
 30000#
 #
+
 // ---- iRO 1 year anniversary -----------
-#
 
 19993#
 // ---- Kunlun items - 01 -----------
@@ -28414,13 +28388,8 @@ An entry for Quiz event.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
-
-
-
-
 7285#
-A skein of threads which possesses a holy power within.
+A skein of threads that are imbued with holy power.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28430,18 +28399,16 @@ Adds a spicy taste in food.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7287#
-A skein of threads enchanted with a holier power than a normal holy threads.
+A skein of threads that contain more power than Holy Threads.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7288#
-A solid, beautiful engagement ring which a word 'Slave of Love' is etched within.
+A beautiful engagement ring. Inside of it the words 'Slave to love' are engraved.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 7289#
 A gemstone which is also called as 'Olivine'.
 Symbolizes the peace of mind and wisdom.
@@ -42897,18 +42864,18 @@ placeholder
 placeholder
 #
 5254#
-A hat made to resemble a little dead deviling which has charming side-spreading eyes.
-Atk/Matk +2%
+^FF0000Account bound^000000
+A hat made to resemble a little Deviling with charming eyes.
+Matk +2%
+Weapon damage +2%
 EXP from hunting monsters +2%
 ^3caa3c[Refined to +7 or higher]^000000
 Additional EXP from hunting monsters +1%
-^FF0000Account bound^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
-Defense: ^7777776^000000
-Weight: ^77777750^000000
+Defense: ^7777776^000000   Weight: ^77777750^000000
 Required Level: ^7777771^000000
-Job : ^777777All Classes^000000
+Jobs: ^777777All^000000
 #
 5225#
 A hat worn by those leading the way to celebrations.
@@ -45040,16 +45007,19 @@ Box Weight: ^7777771^000000
 18507#
 ^CC0000Account bound^000000
 A fashion accessory that gives ears that vaunted elvish look. For some it is an incredible turn-on.
+^6A5ACD[If used with Skull Cap]^000000
+SP consumption -3%
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
-Defense: ^7777770^000000    Weight: ^77777710^000000
+Defense: ^7777770^000000   Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 6396#
-This Auger can be used, by Olivia in Payon, to pierce your elven ears. 
-Disappears if the Socket Enchantment succeeds or fails.
-^0000CCThis item can be traded, and stored only.^000000
+^CC0000Account bound^000000
+Can be used to make a slot in Elven Ears.
+Take it to Piercing Expert near the south gate of Prontera.
+The item disappears after being used.
 Weight: ^7777771^000000
 #
 16676#
@@ -58789,9 +58759,9 @@ Job : ^777777Swordsmas Class/Merchant Class^000000
 18769#
 A hat worn by Munak with an amulet attached to it. It has been remodeled for additional effects.
 Damage from Undead monsters -10%
-Damage to Demihuman monsters +1% for each refine level
+Weapon damage to Demihuman monsters +1% for each refine level
 ^6A5ACD[If refined to +7 and higher]^000000
-Damage to Undead monsters +10%
+Weapon damage to Undead monsters +10%
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle, Lower^000000
 Defense: ^7777775^000000   Weight: ^77777730^000000
@@ -58803,7 +58773,7 @@ A hat worn by Bongun, with its amulet torn in half. It has been remodeled for ad
 Damage from Demon monsters -10%
 Resistance to Demihuman monsters +1% for each refine level
 ^6A5ACD[If refined to +7 and higher]^000000
-Damage to Demon monsters +10%
+Weapon damage to Demon monsters +10%
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle, Lower^000000
 Defense: ^7777775^000000   Weight: ^77777730^000000
@@ -84691,7 +84661,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31088#
-A fantastic hat created by a craftman who was presumably mad. But, as the saying goes, we're all quite mad here. You'll fit right in.
+A fantastic hat created by a craftsman who was presumably mad. But, as the saying goes, we're all quite mad here. You'll fit right in.
 ^ff0000Animated^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, Lower)^000000
