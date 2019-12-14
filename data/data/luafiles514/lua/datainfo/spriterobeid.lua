@@ -66,5 +66,6 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Nifl_Bloom = 65,
 	ROBE_C_Gimmick_One_Feather = 66,
 	ROBE_C_Evil_Druid_Cross = 67,
-	ROBE_Bow_On_the_Back = 68
+	ROBE_Bow_On_the_Back = 68,
+	ROBE_C_Sakura_Fes_TW = 69
 }
