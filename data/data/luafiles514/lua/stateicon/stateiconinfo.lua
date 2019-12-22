@@ -811,7 +811,7 @@ StateIconList[EFST_IDs.EFST_PROTECTSHIELD] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Chemical Shield", COLOR_TITLE_BUFF },
+		{ "Synthesized Shield", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Protect a shield from being destroyed" }
 	}
@@ -827,7 +827,7 @@ StateIconList[EFST_IDs.EFST_MAGNIFICAT] = {
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	haveTimeLimit = 1,
-	posTimeLimitStr = 1,
+	posTimeLimitStr = 2,
 	descript = {
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
@@ -1186,7 +1186,7 @@ StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Chemical Armor", COLOR_TITLE_BUFF },
+		{ "Synthetic Armor", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Protect armor from being destroyed" }
 	}
@@ -2881,7 +2881,7 @@ StateIconList[EFST_IDs.EFST_FENRIR_CARD] = {
 	posTimeLimitStr = 4,
 	descript = {
 		{ "Power of Fenrir", COLOR_TITLE_BUFF },
-		{ "MATK ??" },
+		{ "MATK" },
 		{ "Reduce fixed casting" },
 		{ "%s", COLOR_TIME }
 	}

@@ -2594,10 +2594,10 @@
 14513#Storm Gust Scroll#
 14514#Lord of Vermilion Scroll#
 14515#Lex Aeterna Scroll#
-14517#Chemical Protection Helm Scroll#
-14518#Chemical Protection Shield Scroll#
-14519#Chemical Protection Armor Scroll#
-14520#Chemical Protection Weapon Scroll#
+14517#Biochemical Helm Scroll#
+14518#Synthesized Shield Scroll#
+14519#Synthetic Armor Scroll#
+14520#Alchemical Weapon Scroll#
 14521#Repair Weapon Scroll#
 14522#Big Bun#
 14523#Pill#
@@ -7562,3 +7562,16 @@
 9734#Spooky Treasure#
 
 13623#Greed Scroll Box (100 pcs.)#
+
+19170#Hat#
+20311#Accessory#
+20319#Accessory#
+31569#Accessory#
+31570#Headgear#
+31572#Hat#
+31574#Headgear#
+31671#Accessory#
+11552#Carrot & Apple Salad#
+9744#Cyber Treasure#
+
+14591#WoE Teleport Scroll#

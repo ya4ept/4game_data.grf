@@ -2653,10 +2653,10 @@
 14513#Storm Gust Scroll#
 14514#Lord of Vermilion Scroll#
 14515#Lex Aeterna Scroll#
-14517#Chemical Protection Helm Scroll#
-14518#Chemical Protection Shield Scroll#
-14519#Chemical Protection Armor Scroll#
-14520#Chemical Protection Weapon Scroll#
+14517#Biochemical Helm Scroll#
+14518#Synthesized Shield Scroll#
+14519#Synthetic Armor Scroll#
+14520#Alchemical Weapon Scroll#
 14521#Repair Weapon Scroll#
 14522#Big Bun#
 14523#Pill#
@@ -8703,3 +8703,14 @@
 31088#Mad Hatter's Hat#
 11551#Savory Herb Salad#
 9734#Spooky Treasure#
+
+19170#Processor on Head#
+20311#Azure Booster#
+20319#Crimson Booster#
+31569#Cyber Headphones#
+31570#Red Cyber Visor#
+31572#Mobile Pursuit System#
+31574#Cyber Earpiece#
+31671#Twin Cannons#
+11552#Carrot & Apple Salad#
+9744#Cyber Treasure#

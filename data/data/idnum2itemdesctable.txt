@@ -600,7 +600,7 @@ Weight: 2
 Restores ^00800060^000000 to ^00800070^000000 HP.
 #
 578#
-^808080A red berry that is renown for its slightly sweet and sour taste, and is best eaten fresh.^000000
+^808080Sweet and sour red berry. It's best to eat it fresh.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
@@ -1426,7 +1426,7 @@ Weight: 1
 #
 
 704#
-^808080A rare plant with curative properties that only grows deep in the forest during certain times of the year.^000000
+^808080A rare herb that can be found deep in the forest. It blooms only once a year.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1474,7 +1474,7 @@ Weight: 1
 #
 
 712#
-^808080An ordinary, thornless wildflower that doesn't have any particular scent.^000000
+^808080An ordinary thornless wildflower that doesn't have any particular scent.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1756,7 +1756,7 @@ Weight: 1
 #
 
 906#
-^808080A single scale from a Worm Tail monster.^000000
+^808080A single scale of the Wormtail monster.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -4076,7 +4076,7 @@ Jobs: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer 
 #
 
 1207#
-^808080A French dagger that is usually held in the left hand to parry attacks.^000000
+^808080A dagger with the curved blade. Usually fencers use it to parry attacks.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Dagger
@@ -4089,7 +4089,7 @@ Jobs: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer 
 #
 
 1208#
-^808080A French dagger that is usually held in the left hand to parry attacks.^000000
+^808080A dagger with the curved blade. Usually fencers use it to parry attacks.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Dagger
@@ -4102,7 +4102,7 @@ Jobs: Novice Jobs, Swordsman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer 
 #
 
 1209#
-^808080A French dagger that is usually held in the left hand to parry attacks.^000000
+^808080A dagger with the curved blade. Usually fencers use it to parry attacks.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Dagger
@@ -4560,7 +4560,7 @@ Jobs: Novice Jobs
 #
 
 1246#
-^808080A wide bladed short sword that was crafted in a western country.^000000
+^808080A wide-bladed shortsword that was crafted in a western country.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Dagger
@@ -27774,7 +27774,7 @@ Weight: ^7777771^000000
 // ---- Valentine's Day event -----------
 
 7182#
-A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
+A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidifying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
 ^ffffff_^000000
 Weight: ^7777772^000000
 #
@@ -36557,7 +36557,7 @@ Thief Classes, Soul Linker, and Ninja^000000
 #
 
 13041#
-A French dagger that is usually held in the left hand to parry attacks.
+A dagger with the curved blade. Usually fencers use it to parry attacks.
 Impossible to refine.
 Class: ^777777Dagger^000000
 Attack Strength: ^77777763^000000
@@ -38275,14 +38275,9 @@ Restores ^00008850-70 SP^000000.
 Weight: ^77777710^000000
 #
 14591#
-A teleport scroll that warps you to the WoE Areas.
-Valkyrie Realms
-Britoniah
-Greenwood Lake
-Luina
-Valfreyja
-Nidhoggur
-Cannot be dropped.
+A teleport scroll that warps you to the WoE 1.0 areas: Kriemhild, Swanhild, Fadhgridh, Skoegul, Gondul, Arbor, Scarlet Palace, Holy Shadow, Sacred Altar, Bamboo Grove Hill, Neuschwanstein, Hohenschwangau, Nuenberg, Wuerzburg, Rothenburg, Repherion, Eeyolbriggar, Yesnelph, Bergel, and Mersetzdeitz.
+(Caution! You must choose your destination in 1 min. after using the scroll, or you won't be teleported anywhere.)
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 
@@ -38296,7 +38291,6 @@ Cannot be Dropped or Traded.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
 
 //---Valkyrie Item Mall Keys
 
@@ -58008,13 +58002,6 @@ Restores ^00008825 HP^000000.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
-11552#
-^ff0000Cannot trade to other user^000000
-A harmony of apple and carrot! As fresh as a salad can get.
-AGI + 1 for 3 minutes..
-Recover ^00008825 HP^000000.
-Weight: ^7777771^000000
-#
 11554#
 ^ff0000Cannot trade to other user^000000
 Fully roasted apple toast. Glossy color makes you wanna take a bite of it.
@@ -67694,7 +67681,7 @@ Weight: ^7777771^000000
 14517#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Helm Lv. 5.
+Enables a single cast of Biochemical Helm 5.
 Equipped helmet and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -67702,7 +67689,7 @@ Weight: ^7777771^000000
 14518#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Shield Lv. 5.
+Enables a single cast of Synthesized Shield 5.
 Equipped shield and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -67710,7 +67697,7 @@ Weight: ^7777771^000000
 14519#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Armor Lv. 5.
+Enables a single cast of Synthetic Armor 5.
 Equipped armor and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -67718,7 +67705,7 @@ Weight: ^7777771^000000
 14520#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Weapon Lv. 5.
+Enables a single cast of Alchemical Weapon 5.
 Equipped weapon and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -72701,15 +72688,6 @@ Weight: 0
 Required Level: 1
 Jobs: All Jobs
 #
-20311#
-^808080A tool amplifying the wearer's magical ability by controlling brainwave. It also has a voice recognition function and is said to resonate some types of equipment.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-#
 20312#
 ^808080An eye patch modeled after the evil eye of Demon Baron.^000000
 ^FFFFFF_^000000
@@ -72775,21 +72753,10 @@ Weight: 0
 Required Level: 1
 Jobs: All Jobs
 #
-20319#
-^808080A booster features its red color. The design looks like a manical booster, but the purpose of its development is unknown.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-#
 31091#
 ^808080Thoughts of zeny cloud the mind.^000000
 Adds the chance of gaining a certain amount of Zeny each time a monster is killed.
-
 Created to celebrate the launch of Ragnarok Clicker! http://goo.gl/gmmiZI
-
 ^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Costume
@@ -81768,7 +81735,8 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-13940#A box containing 100 teleport scrolls that warp you to the Siege Areas.
+13940#
+A box containing 100 teleport scrolls that warp you to the Siege Areas.
 Valkyrie Realms
 Britoniah
 Greenwood Lake
@@ -81777,17 +81745,6 @@ Valkfreyja
 Nidhoggur
 ^ffffff_^000000
 Cannot be sold.
-Weight: ^7777771^000000
-#
-14591#
-A teleport scroll that warps you to the WoE Areas.
-Valkyrie Realms
-Britoniah
-Greenwood Lake
-Luina
-Valfreyja
-Nidhoggur
-Cannot be dropped.
 Weight: ^7777771^000000
 #
 16381#
@@ -84726,5 +84683,141 @@ Weight: ^7777771^000000
 [Greed Scroll]
 Enables a single cast of ^880000Greed^000000.
 Cannot be used in towns and on the ^ff0000PvP Arena^000000.
+Weight: ^7777771^000000
+#
+19170#
+A processor stuck to your head. You can connect it as an implant to boost your mind, or just leave it to lie there protecting your head from physical blows.
+Damage from players and Demihuman monsters -10%
+^6A5ACD[If refined to +7 or higher]^000000
+Additionally, damage from players and Demihuman monsters -2%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31569#
+Cool headphones with glowing lights. Be ready to change your idea of music!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31570#
+A cyber-styled visor. Keep in mind though, that you'll be seeing everything in red light when wearing it.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31572#
+A pursuit system floating around you. Beware of its laser beams!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31574#
+A cool earpiece. An essential item if you are going to a cyber party.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31671#
+Laser cannons perched on your shoulders. They seem like mighty weapons, however, nobody knows how to use them.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+11552#
+Sliced carrots and apples mixed together. Both refreshing and delicious!
+Agi +20 for 10 min.
+Recovers ^00008820-30 HP^000000.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+9744#
+A mechanical egg glowing with green light. When you shake it, you hear something clinking inside.
+^ffffff_^000000
+Press the green button to obtain one of the following items:
+Mobile Pursuit System
+Twin Cannons
+Cyber Headphones
+Crimson Booster
+Azure Booster
+Cyber Earpiece
+Red Cyber Visor
+Processor on Head
+Auger of Spirit
+Silvervine x404
+HE Battle Manual x3
+HE Bubble Gum x3
+Enriched Elunium x3
+Enriched Oridecon x3
+Battle Manual x3
+Job Manual x2
+Bubble Gum x2
+Convex Mirror x6
+Big Bun x30
+Kafra Card x15
+Giant Fly Wing x6
+Megaphone x5
+Guyak Pudding x20
+Evasion Scroll x9
+Sesame Pastry x35
+Honey Pastry x35
+LV10 Blessing Scroll x12
+LV10 Increase Agi Scroll x12
+Magnificat Scroll x10
+Steamed Tongue x5
+Steamed Scorpion x5
+Stew of Immortality x5
+Dragon Breath Cocktail x5
+Hwergelmir's Tonic x5
+Cooked Nine Tail's Tails x5
+Repair Weapon Scroll x20
+WoE Teleport Scroll x14
+Carrot & Apple Salad x20
+Sleepy Box x30
+Box of Grudge x30
+Biochemical Helm Scroll x33
+Synthesized Shield Scroll x33
+Synthetic Armor Scroll x33
+Alchemical Weapon Scroll x33
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20311#
+A hair accessory glowing with blue lights. It is supposed to boost your abilities, but unfortunately, it doesn't seem to work.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20319#
+A hair accessory glowing with red lights. It is supposed to boost your abilities, but unfortunately, it doesn't seem to work.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+14587#
+^ff0000Account bound^000000
+A scroll with mysterious letters written on it.
+Enables a single cast of Repair Weapon.
+^ffffff_^000000
 Weight: ^7777771^000000
 #

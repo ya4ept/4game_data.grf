@@ -3013,27 +3013,27 @@ You found the knife. Return to Yun Kyo Ham.#
 #
 
 //---------------------------스시 와사비 퀘--------------------------------
-10036#Material Supply-Candy#SG_FEEL#QUE_NOIMAGE#
+10036#Candies for Magumagu#SG_FEEL#QUE_NOIMAGE#
 Bring 10 Candies to Magumagu.#
 #
 
-10037#Material Supply-Crap Shells#SG_FEEL#QUE_NOIMAGE#
-Bring 10 Crap Shells to Magumagu.#
+10037#Crab Shells for Magumagu#SG_FEEL#QUE_NOIMAGE#
+Bring 10 Crab Shells to Magumagu.#
 #
 
-10038#Material Supply-Conch#SG_FEEL#QUE_NOIMAGE#
-Bring 10 Conch to Magumagu.#
+10038#Conches for Magumagu#SG_FEEL#QUE_NOIMAGE#
+Bring 10 Conches to Magumagu.#
 #
 
-10039#Material Supply-Fish Tail#SG_FEEL#QUE_NOIMAGE#
-Bring 10 Fish tails to Magumagu.#
+10039#Fish Tails for Magumagu#SG_FEEL#QUE_NOIMAGE#
+Bring 10 Fish Tails to Magumagu.#
 #
 
-10040#Material Supply-White_Platter#SG_FEEL#QUE_NOIMAGE#
+10040#White_Platter for Magumagu#SG_FEEL#QUE_NOIMAGE#
 Bring 1 White_Platter to Magumagu.#
 #
 
-10041#Material Supply-?#SG_FEEL#QUE_NOIMAGE#
+10041#Magumagu's Secret#SG_FEEL#QUE_NOIMAGE#
 Bring 100 Hearts of Mermaid to Magumagu.#
 #
 
@@ -3767,25 +3767,25 @@ You've found a strange place with more traces of blood on it. Annon has to be he
 #
 
 //-----------Sa-mhing Tiger------------
-12035#Holy Threads#SG_FEEL#QUE_NOIMAGE#
-Boonthom asked you to bring back the following items to make the item with holy power: 1 needle Packet, 1 Spool, 1 Solid Husk, and 1 bottle of Holy Water. Then you will gain access to the 1st Underground Dungeon level.#
-#
+12035#Tiger Sa-mhing#SG_FEEL#QUE_NOIMAGE#
+If you want to know more about Sa-mhing, talk to a woman named Boonthom.#
+Talk to Boonthom#
 
-12036#The Stone Slate Message#SG_FEEL#QUE_NOIMAGE#
-Now that you have found the last part of the slate you should relay the message that you found to Boonthom#
-Shaman Boonthom#
+12036#Tiger Sa-mhing#SG_FEEL#QUE_NOIMAGE#
+Boonthom can make you an amulet imbued with holy powers, but for that she needs the following materials: 1 piece of Transparent Cloth, 1 Fox Tail, 1 Solid Husk, and 1 bottle of Holy Water.#
+Collect the materials for Boonthom#
 
-12037#Holier Threads#SG_FEEL#QUE_NOIMAGE#
-Now you must bring back materials to Boonthom so that you can enter the 2nd underground level. Bring back 2 Holy Water, 1 Yggdrasil Leaf, 2 Needle Packet and 2 Spool.#
-#
+12037#Tiger Sa-mhing#SG_FEEL#QUE_NOIMAGE#
+Now you are ready to go to the Ayothaya dungeon. You may find something interesting in there.#
+Find 6 pieces of a stone plate and talk to Boonthom#
 
-12038#Searching for the Sa-mhing Tiger#SG_FEEL#QUE_NOIMAGE#
-You can enter the 2nd underground level of the dungeon. Search for traces of Boonthom's Comrade who may have found out something about the Sa-mhing Tiger.#
-#
+12038#Tiger Sa-mhing#SG_FEEL#QUE_NOIMAGE#
+In order to make a more powerful amulet, Boonthom needs the following: 2 bottles of Holy Water, 1 Yggdrasil Leaf, 2 pieces of Transparent Cloth, and 2 Fox Tails.#
+Collect the materials for Boonthom#
 
-12039#Boonthom's Comrade#SG_FEEL#QUE_NOIMAGE#
-You should go back to Boonthom and tell him about his comrade.#
-Shaman Boonthom#
+12039#Tiger Sa-mhing#SG_FEEL#QUE_NOIMAGE#
+Explore the the 2nd level of the Ayothaya dungeon.#
+Learn about Boonthom's friend's fate and return to the shaman#
 
 12040#Benkaistein's Journal#SG_FEEL#QUE_NOIMAGE#
 Bring the journal to Digotz to remind him of all the good times they used to share together.#

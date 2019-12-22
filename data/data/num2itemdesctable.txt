@@ -354,7 +354,7 @@ a mildly curative effect, its leaves can give a nice and smoothing sensation.
 Weight: ^7777771^000000
 #
 704#
-A rare plant with curative properties that only grows deep in the forest during certain times of the year.
+A rare herb that can be found deep in the forest. It blooms only once a year.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -396,7 +396,7 @@ A delicate and fragile plant that is still in the early stages of growth.
 Weight: ^7777771^000000
 #
 712#
-An ordinary, thornless wildflower that doesn't have any particular scent.
+An ordinary thornless wildflower that doesn't have any particular scent.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -693,8 +693,8 @@ can be used to in making certain medicines.
 Weight: ^7777771^000000
 #
 906#
-A single scale from
-a Worm Tail monster.
+A single scale of the
+Wormtail monster.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -6974,7 +6974,7 @@ Weight: ^7777775^000000
 // ---- Valentine's Day event -----------
 
 7182#
-A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
+A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidifying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
 ^ffffff_^000000
 weight: ^7777772^000000
 #
@@ -12659,11 +12659,7 @@ a small amount of HP.^000000
 Weight: ^7777772^000000
 #
 578#
-A red berry that
-is renown for its
-slightly sweet and
-sour taste, and is
-best eaten fresh.
+Sweet and sour red berry. It's best to eat it fresh.
 ^000088Restores a small
 amount of SP.^000000
 Weight: ^7777772^000000
@@ -19584,7 +19580,7 @@ Thief Classes, Soul Linker, and Ninja^000000
 #
 
 13041#
-A French dagger that is usually held in the left hand to parry attacks.
+A dagger with the curved blade. Usually fencers use it to parry attacks.
 Impossible to refine.
 Weapon Class: ^777777Dagger^000000
 Attack Strength: ^77777743^000000
@@ -21796,14 +21792,9 @@ Restores ^00008850-70 SP^000000.
 Weight: ^77777710^000000
 #
 14591#
-A teleport scroll that warps you to the Siege Areas.
-Valkyrie Realms
-Britoniah
-Greenwood Lake
-Luina
-Valfreyja
-Nidhoggur
-Cannot be dropped.
+A teleport scroll that warps you to the WoE 1.0 areas: Kriemhild, Swanhild, Fadhgridh, Skoegul, Gondul, Arbor, Scarlet Palace, Holy Shadow, Sacred Altar, Bamboo Grove Hill, Neuschwanstein, Hohenschwangau, Nuenberg, Wuerzburg, Rothenburg, Repherion, Eeyolbriggar, Yesnelph, Bergel, and Mersetzdeitz.
+(Caution! You must choose your destination in 1 min. after using the scroll, or you won't be teleported anywhere.)
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 
@@ -37829,13 +37820,6 @@ A combining manual easier than instant cook book. Just follow what they are sayi
 "^ff0000Cuation : You must have all Ingredients ready before combination.^000000"
 Weight : ^7777771^000000
 #
-11552#
-^ff0000Cannot trade to other user^000000
-A harmony of apple and carrot! As fresh as a salad can get.
-AGI + 1 for 3 minutes..
-Recover ^00008825 HP^000000.
-Weight : ^7777771^000000
-#
 11554#
 ^ff0000Cannot trade to other user^000000
 Fully roasted apple toast. Glossy color makes you wanna take a bite of it.
@@ -45497,7 +45481,7 @@ Weight: ^7777771^000000
 14517#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Helm Lv. 5.
+Enables a single cast of Biochemical Helm 5.
 Equipped helmet and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -45505,7 +45489,7 @@ Weight: ^7777771^000000
 14518#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Shield Lv. 5.
+Enables a single cast of Synthesized Shield 5.
 Equipped shield and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -45513,7 +45497,7 @@ Weight: ^7777771^000000
 14519#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Armor Lv. 5.
+Enables a single cast of Synthetic Armor 5.
 Equipped armor and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -45521,7 +45505,7 @@ Weight: ^7777771^000000
 14520#
 ^ff0000Account bound^000000
 A scroll with mysterious letters written on it.
-Enables a single cast of Chemical Protection Weapon Lv. 5.
+Enables a single cast of Alchemical Weapon 5.
 Equipped weapon and a Glistening Coat are required for using this item.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -50019,15 +50003,6 @@ Weight: 0
 Required Level: 1
 Required Job: All Jobs
 #
-20311#
-^808080A tool amplifying the wearer's magical ability by controlling brainwave. It also has a voice recognition function and is said to resonate some types of equipment.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
-#
 20312#
 ^808080An eye patch modeled after the evil eye of Demon Baron.^000000
 ^FFFFFF_^000000
@@ -50072,15 +50047,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 20318#
 ^808080A costume item resembles a decoration of the robot Charleston's body in Verus. It is said to be an antenna having a receiving function, but the details are unknown.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
-#
-20319#
-^808080A booster features its red color. The design looks like a manical booster, but the purpose of its development is unknown.^000000
 ^FFFFFF_^000000
 Type: Costume
 Position: Headgear (Middle)
@@ -53227,5 +53193,94 @@ Weight: ^7777771^000000
 [Greed Scroll]
 Enables a single cast of ^880000Greed^000000.
 Cannot be used in towns and on the ^ff0000PvP Arena^000000.
+Weight: ^7777771^000000
+#
+20311#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20319#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19170#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31569#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31570#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31572#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31574#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31671#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+11552#
+Sliced carrots and apples mixed together. Both refreshing and delicious!
+Agi +20 for 10 min.
+Recovers ^00008820-30 HP^000000.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+9744#
+A mechanical egg glowing with green light. When you shake it, you hear something clinking inside.
+^ffffff_^000000
+Press the green button to obtain one of the following items:
+Mobile Pursuit System
+Twin Cannons
+Cyber Headphones
+Crimson Booster
+Azure Booster
+Cyber Earpiece
+Red Cyber Visor
+Processor on Head
+Auger of Spirit
+Silvervine x404
+HE Battle Manual x3
+HE Bubble Gum x3
+Enriched Elunium x3
+Enriched Oridecon x3
+Battle Manual x3
+Job Manual x2
+Bubble Gum x2
+Convex Mirror x6
+Big Bun x30
+Kafra Card x15
+Giant Fly Wing x6
+Megaphone x5
+Guyak Pudding x20
+Evasion Scroll x9
+Sesame Pastry x35
+Honey Pastry x35
+LV10 Blessing Scroll x12
+LV10 Increase Agi Scroll x12
+Magnificat Scroll x10
+Steamed Tongue x5
+Steamed Scorpion x5
+Stew of Immortality x5
+Dragon Breath Cocktail x5
+Hwergelmir's Tonic x5
+Cooked Nine Tail's Tails x5
+Repair Weapon Scroll x20
+WoE Teleport Scroll x14
+Carrot & Apple Salad x20
+Sleepy Box x30
+Box of Grudge x30
+Biochemical Helm Scroll x33
+Synthesized Shield Scroll x33
+Synthetic Armor Scroll x33
+Alchemical Weapon Scroll x33
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14587#
+^ff0000Account bound^000000
+A scroll with mysterious letters written on it.
+Enables a single cast of Repair Weapon.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
