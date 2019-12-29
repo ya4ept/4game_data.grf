@@ -21712,3 +21712,13 @@ Talk to Metz when the time comes#
 17087#The Sign#SG_FEEL#QUE_IMAGE#
 Wait for Engel to complete his work with the Sign.#
 Talk to Engel when the time comes#
+
+17201#Back to work!#SG_FEEL#QUE_IMAGE#
+Help Santa by pacifying 50 Cookies at Toy Factory#
+#
+17202#Cheer up Madam Trdelnik#SG_FEEL#QUE_IMAGE#
+Go up the stairs to the roof of her house and jump down the chimney! She'll be amused!#
+#
+17203#Feed Rudolph#SG_FEEL#QUE_IMAGE#
+Bring 20 Carrots to Reindeer herder so he can feed Santa's favourite reindeer.#
+#

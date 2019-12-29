@@ -196,6 +196,9 @@ JobNameTable = {
 	[jobtbl.JT_4_M_PAY_SOLDIER] = "4_M_PAY_SOLDIER",
 	[jobtbl.JT_4_M_SEAMAN] = "4_M_SEAMAN",
 	[jobtbl.JT_4_M_SNOWMAN] = "4_M_SNOWMAN",
+	[jobtbl.JT_4_M_SNOWMAN_B] = "4_M_SNOWMAN_B",
+	[jobtbl.JT_4_M_SNOWMAN_R] = "4_M_SNOWMAN_R",
+	[jobtbl.JT_4_M_SNOWMAN_G] = "4_M_SNOWMAN_G",
 	[jobtbl.JT_4_F_05] = "4_F_05",
 	[jobtbl.JT_4_M_05] = "4_M_05",
 	[jobtbl.JT_4_M_06] = "4_M_06",
@@ -3472,5 +3475,6 @@ JobNameTable = {
 	[jobtbl.JT_PORING_X2016] = "PORING_X2016",
 	[jobtbl.JT_ORC_X2016] = "ORC_X2016",
 	[jobtbl.JT_SWEETS_DROPS] = "SWEETS_DROPS",
-	[jobtbl.JT_G13_ZOMBIE] = "Zombie"
+	[jobtbl.JT_G13_ZOMBIE] = "Zombie",
+	[jobtbl.JT_4_F_NOVICE2] = "4_f_novice2"
 }

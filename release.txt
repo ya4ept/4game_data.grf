@@ -1,3 +1,63 @@
+26.12.2019
+Community Manager 11:49
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— We decided not to wait until the 30th of December and offer you an opportunity to reset stats right now! Help Santa and reset your stats for free, be aware there is only one chance to do it, the event will be active until the 15th of January.
+https://eu.4gameforum.com/threads/670667/
+
+Shop:
+— New Year's Treasure will be available in the shop for €0.99 until the 15th of January.
+https://eu.4gameforum.com/threads/670679/
+
+Fixes:
+— Gnomes from the third invasion wave are not aggressive anymore;
+— Description and effects of the Xmas Cake have been fixed. In addition, every player will receive 5 Cakes as a gift, which may be already available in your RodEX. If you haven't received them yet, don't worry, they will be sent tonight.
+— Santa's Bag description has been fixed, now it doesn't include the information about the location change.
+
+==========
+25.12.2019
+Community Manager 19:50
+Thanks to your reports, we've found some bugs related to the Christmas update, so we are going to shut down the server at 08:00 CET tomorrow.
+The estimated time of the maintenance end is 10:30 CET, we may adjust it later.
+Don't forget to collect the drop from WoE castles before the maintenance start.
+Monsters from the last invasion wave will be aggressive tonight, be careful, it will be fixed on the maintenance.
+We will be in touch!
+
+==========
+24.12.2019
+Community Manager 12:49
+The time to celebrate Christmas and New Year has come! We've brought plenty of fancy stuff with this update:
+
+Game updates:
+— New locations, quests and dungeons of Amatsu and Ayothaya.
+https://eu.4game.com/patchnotes/ro/198/
+
+Events:
+— Christmas event, daily quests, monster invasions and Santa Porings will be available in the game from the 24th of December until the 15th of January;
+https://eu.4gameforum.com/threads/670535/
+— 25% XP boost has been activated until the 15th of January.
+
+Shop:
+— Christmas Packs with free Shiny Poring Santa Hat and Costume Rabbit Knit Hat will be available from the 24th of December until the 15th of January in the 4Game launcher;
+https://eu.4gameforum.com/threads/670523/
+— New headgear and costumes: Small Poring Band, Flying Angel Wings, Angeling Cap, Big Golden Bells and more has been added to the Shop;
+https://eu.4gameforum.com/threads/670556/
+— Items from all categories of the Shop will be on sale up to 60% off from the 24th of December until the 15th of January.
+https://eu.4gameforum.com/threads/670547/
+
+Giveaway:
+— Send us the screenshot of your character in the full Festive Santa Set and get a chance to win one of the Christmas Packs.
+https://eu.4gameforum.com/threads/670571/
+
+Gift:
+— Costume Rabbit Knit Hat as our Christmas gift will be available for free in the 4Game launcher.
+https://eu.4gameforum.com/threads/670574/
+
+We also prepared a small surprise for you to be revealed on the 30th of December.
+Have a nice holiday, merry Christmas and a happy New Year!
+
+==========
 18.12.2019
 Community Manager 11:44
 The maintenance has been finished, the server is online.

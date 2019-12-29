@@ -1626,7 +1626,7 @@ Target: [%s], #
 skill: [%s].#
 Lock window#
 Unlock window#
-[%s] gave [%s] '%s'.#
+[%s] opened [%s] and got '%s'.#
 Swordman#
 Mage#
 Archer#

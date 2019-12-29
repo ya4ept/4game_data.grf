@@ -1969,5 +1969,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Exotic_Bob_R_BW = 1979,
 	ACCESSORY_C_Happy_Cat_TW = 1980,
 	ACCESSORY_C_Pure_Love_Muffler = 1981,
-	ACCESSORY_Cons_Of_Earth = 1982
+	ACCESSORY_Cons_Of_Earth = 1982,
+	ACCESSORY_C_Mini_Glasses = 47,
+	ACCESSORY_C_Shaving_Cream = 847
 }

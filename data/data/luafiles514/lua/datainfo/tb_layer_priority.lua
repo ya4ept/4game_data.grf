@@ -3,6 +3,8 @@ TB_Layer_Priority = {
 	Default_Top = 400,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Mini_Glasses] = { Default = 503, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_Shaving_Cream] = { Default = 300, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_Happy_Balloon_J] = { Default = 300, Direction = { [3] = 480, [4] = 480, [5] = 480 } },
 		[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = { Default = 501, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_FlyingGalapago] = { Default = 480, Direction = {} },

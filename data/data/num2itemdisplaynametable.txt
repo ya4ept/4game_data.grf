@@ -83,7 +83,7 @@
 2277#Hat#
 2279#Accessory#
 2280#Hat#
-2282#Heaven Ring#
+2282#Accessory#
 2283#Ear Muffs#
 2284#Helm#
 2285#Helm#
@@ -2144,7 +2144,7 @@
 12087#Steam Crocodile#
 12088#Spicy Curry#
 12089#Special Sausage#
-12090#Steamed Scorpion#
+12090#Baked Scorpion#
 12091#Peach Cake#
 12092#Soul Bread#
 12093#Special Toast#
@@ -3698,7 +3698,6 @@
 // ---------- 2008 Christmas ----------
 
 2784#Accessory#
-12354#Buche De Noel#
 12355#Xmas Gift#
 12356#Louise Costume Box#
 6092#Piece Of Singing Crystal#
@@ -6599,6 +6598,8 @@
 //2014xmas
 19976#Hat#
 19982#Hat#
+31910#Accessory#
+20125#Glasses#
 19707#Hat#
 20222#Hat#
 19955#Hat#
@@ -7575,3 +7576,22 @@
 9744#Cyber Treasure#
 
 14591#WoE Teleport Scroll#
+19780#Hat#
+
+23549#Yellow Snowman Cookie#
+23550#Blue Snowman Cookie#
+23551#Red Snowman Cookie#
+23552#Green Snowman Cookie#
+12491#Magic Snowflake#
+
+31420#Hat#
+19682#Hat#
+
+31437#Headgear (Pet)#
+31438#Accessory#
+9745#Christmas Miracle#
+9746#New Year's Treasure#
+20240#Headgear (Aura)#
+20765#Garment#
+20242#Hat#
+12336#Baked Mushrooms#

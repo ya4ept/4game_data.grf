@@ -2203,7 +2203,7 @@
 12087#Steam Crocodile#
 12088#Spicy Curry#
 12089#Special Sausage#
-12090#Steamed Scorpion#
+12090#Baked Scorpion#
 12091#Peach Cake#
 12092#Soul Bread#
 12093#Special Toast#
@@ -6303,7 +6303,6 @@
 22685#Solo Christmas Gift#
 6821#Solo Troops Badge#
 22686#Solo Cookie#
-12354#Buche De Noel#
 2784#Oh Holy Night#
 12200#Event Cake#
 //Biolab4F
@@ -6653,8 +6652,9 @@
 5939#Love Dad Balloon#
 
 //2014xmas
-19976#Cat Santa Hat Costume#
-19982#Santa Hat Costume#
+19982#Festive Santa Hat#
+31910#Festive Santa Beard#
+20125#Festive Santa Glasses#
 19707#Polar Bear Cap Costume#
 20222#Blue Pigtail Santa Hat Costume#
 19955#Mini Tree J Costume#
@@ -7279,7 +7279,7 @@
 5555#Leaf Cat Hat#
 5557#Wild Rose Hat#
 
-31132#C Christmas Wreath#
+31132#Christmas Wreath#
 25251#Fermented Grapes#
 25252#Sprig Of Holly#
 25253#Sugar Box#
@@ -8054,7 +8054,7 @@
 6059#New Year 2012 Box#
 14316#Love Scroll#
 2776#Adventurer's Trusty Towel#
-12336#Baked#
+12336#Baked Mushrooms#
 12337#Grilled Sausage#
 12338#Grilled#
 6060#Beast Summoning Seal#
@@ -8342,7 +8342,7 @@
 12488#Valkyrie Mercenary Scroll#
 5536#Spare Card#
 16544#Snowman Hat Box#
-12491#Curious Snowball#
+12491#Magic Snowflake#
 16556#Reset Stone Box#
 12534#Yggdrasil Seed Box#
 12535#Iggdrasilberry Box#
@@ -8554,13 +8554,13 @@
 18841#Small Poring Band#
 19780#Costume Rabbit Ear Knit Hat#
 19936#Knitted Snowflake Cap#
-20242#Costume Snowman's Scarf#
-20240#Costume Present Of Snow#
+20242#Snowman In A Scarf#
+20240#Present Of Snow#
 18914#Baby Deviling#
 20316#Seraph's Winged Helmet#
 20746#Costume: Rudra's Grace#
 20761#Costume Happiness Wings#
-20765#C Archangel Wing#
+20765#Archangel Wings#
 20036#Sword Master's Crown#
 19912#Costume Cat eye#
 20239#Orange Ribbon Muffler#
@@ -8714,3 +8714,15 @@
 31671#Twin Cannons#
 11552#Carrot & Apple Salad#
 9744#Cyber Treasure#
+
+23549#Yellow Snowman Cookie#
+23550#Blue Snowman Cookie#
+23551#Red Snowman Cookie#
+23552#Green Snowman Cookie#
+19682#Santa Poring Hat#
+31420#Shiny Santa Poring Hat#
+
+31437#Costume Baby Penguin#
+31438#Costume Fluffy Angel Cape#
+9745#Christmas Miracle#
+9746#New Year's Treasure#

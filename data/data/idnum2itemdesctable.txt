@@ -90,13 +90,13 @@ Restores ^00800016-22 HP^000000.
 Weight: ^7777772^000000
 #
 513#
-^808080A sweet tasting tropical fruit made famous by its use in slapstick comedy and practical jokes.^000000
+^808080Sweet and tasty tropical fruit.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
 Weight: 2
 ^FFFFFF_^000000
-Restores ^00800017^000000 to ^00800021^000000 HP.
+Restores ^00800017^000000~^00800021^000000 HP
 #
 514#
 ^808080Clustered berries with smooth skin that can be fermented to make wine.^000000
@@ -139,7 +139,7 @@ Restores ^00800070-100 HP^000000 and ^00800020-40 SP^000000.
 Weight: ^77777710^000000
 #
 519#
-^808080Pasteurized and bottled cow milk that is chock full of bovine goodness.^000000
+^808080Pasteurized and bottled cow milk.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
@@ -154,13 +154,13 @@ Restores ^008000175-235 HP^000000.
 Weight: ^7777771^000000
 #
 521#
-^808080Leaf cut from an Aloe plant.^000000
+^808080A leaf cut from an Aloe plant.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
 Weight: 3
 ^FFFFFF_^000000
-Restores ^008000325^000000 to ^008000405^000000 HP.
+Restores ^008000325^000000~^008000405^000000 HP
 #
 522#
 ^808080A shiny, purple fruit picked from the boughs of the Mastela tree.^000000
@@ -190,7 +190,7 @@ Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000
 Weight: ^77777710^000000
 #
 526#
-^808080Highly nutritious jelly secreted from honeybees that they only feed to larvae and future queens.^000000
+^808080The honey that the queen bees feed on. It is very good for your health.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
@@ -348,7 +348,7 @@ Weight: ^7777773^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
-Weight: 1
+Weight: 2
 ^FFFFFF_^000000
 Restores ^00800045^000000 to ^00800065^000000 HP.
 #
@@ -357,7 +357,7 @@ Restores ^00800045^000000 to ^00800065^000000 HP.
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
-Weight: 2
+Weight: 3
 ^FFFFFF_^000000
 Restores ^008000175^000000 to ^008000235^000000 HP.
 #
@@ -367,7 +367,7 @@ Restores ^008000175^000000 to ^008000235^000000 HP.
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
-Weight: 3
+Weight: 5
 ^FFFFFF_^000000
 Restores ^008000325^000000 to ^008000405^000000 HP.
 #
@@ -497,17 +497,19 @@ Restores ^008000142^000000 to ^008000274^000000 HP.
 566#
 One of the three most famous kinds of soup in the world. It is cooked with prawns, lemons, and chili peppers, and has a spicy, sweet and sour taste.
 Restores ^008000244-350 HP^000000 and ^00800010-30 SP^000000.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 ^FFFFFF_^000000
 Weight: ^77777715^000000
 #
 567#
-^808080A shellfish which has a long tail and many legs. When cooked, the color of the body turns red and its flesh is very tasty with a unique scent.^000000
+^808080A multi-legged crustacean with a long tail.
+It is very tasty if cooked right.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Recovery
 Weight: 5
 ^FFFFFF_^000000
-Restores ^008000117^000000 to ^008000192^000000 HP.
+Restores ^008000117^000000~^008000192^000000 HP
 #
 568#
 A bright yellow fruit with very sour juice and a fresh scent.
@@ -904,7 +906,7 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 621#
-^808080An herb that is too bitter for the human palate. Poporing finds it to be very tasty.^000000
+^808080A bitter-tasting plant that is loved by Poporings for some reason.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Taming Item
@@ -995,7 +997,7 @@ Class: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 634#
-^808080A premium quality banana grown in the tropics. Yoyo finds it irresistible; forever will it be his one weakness.^000000
+^808080A very tasty banana. An excellent bait for the Yoyo.^000000
 ^FFFFFF_^000000
 Type: Consumable
 Class: Taming Item
@@ -1450,7 +1452,8 @@ Weight: 1
 #
 
 708#
-^808080A white flower containing oils that can relieve pain and aches. Strangely, only a few remember how to use it to cause memory loss.^000000
+^808080A white flower that is used to relieve pain.
+It has a mystical power that can erase memories.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1541,7 +1544,7 @@ A bright red jewel, the birthstone for people born in July.
 Weight: ^77777710^000000
 #
 724#
-A ruby containing mysterious powers.
+A ruby which contains mysterious powers.
 ^FFFFFF_^000000
 Weight: 10
 #
@@ -1568,7 +1571,7 @@ Weight: 10
 #
 
 729#
-^808080A dazzling white-blue gem that is the birthstone for the month of December.^000000
+^808080A dazzling white-blue gem. It's a birthstone for those born in December.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
@@ -1585,7 +1588,7 @@ Weight: 10
 Weight: 10
 #
 732#
-A huge, dazzling gem that can be sold at an outrageous price.
+A huge dazzling gem that can be sold at an unbelievable price.
 ^FFFFFF_^000000
 Weight: 10
 #
@@ -1626,7 +1629,7 @@ Weight: 1
 #
 
 740#
-^808080A cute cotton doll that's a favorite for little girls.^000000
+^808080A cute cotton doll. Any little girl will definitely love her.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
@@ -1662,7 +1665,7 @@ Weight: 5
 #
 
 746#
-^808080A toy for young boys that's sort of like a marble. But not really.^000000
+^808080A small glass ball. Children often use them to play marbles.^000000
 ^FFFFFF_^000000
 Weight: 5
 #
@@ -1707,7 +1710,7 @@ Weight: 10
 Weight: 10
 #
 754#
-^808080A doll made to resemble Smokie, the raccoon that possibly has the power of invisibility.^000000
+^808080A doll that resembles Smokie, the racoon that ^333333possibly^777777 has the power of invisibility.^000000
 ^FFFFFF_^000000
 Weight: 10
 #
@@ -1750,7 +1753,7 @@ Weight: 1
 #
 
 905#
-^808080Some stems from plants can be used to in making certain medicines.^000000
+^808080A plant stems that can be used to prepare certain medicines.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1778,7 +1781,7 @@ Weight: 1
 Weight: 1
 #
 910#
-^808080A small crystallization created by some monsters.^000000
+^808080A small crystal created by some monsters.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1798,7 +1801,7 @@ Weight: ^7777771^000000
 Weight: 1
 #
 914#
-^808080A clump of monster fur and fuzz that can be used to make thread and fabric.^000000
+^808080A clump of monster fur that can be used to make threads and fabric.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1826,7 +1829,7 @@ Weight: 1
 #
 
 919#
-^808080Animal hide that can be used in making clothes, coverings, or bedding.^000000
+^808080Animal hide that can be used to make clothes, coverings, or beddings.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1903,7 +1906,7 @@ Weight: ^7777771^000000
 //--------------------------------------------------------------------------
 
 934#
-^808080A box that is buried with the dead. It contains gems and someone's mementos....^000000
+^808080A box that is buried with the dead. It contains gems and someone's mementos...^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -1979,7 +1982,7 @@ Weight: 1
 #
 
 948#
-^808080A lazy bear's foot that supposedly has a unique flavor and the power to restore male vigor.^000000
+^808080Paw of a lazy bear. Can be sold to a merchant.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -2015,7 +2018,8 @@ Weight: ^7777771^000000
 Weight: 1
 #
 955#
-^808080Shed skin from worms and insects.^000000
+^808080A hard shell of an insect monster.
+Can be sold to a merchant.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -2030,7 +2034,7 @@ Weight: 1
 Weight: 1
 #
 958#
-^808080A complete set of corpse's teeth. Well, as complete as it can get.^000000
+^808080A complete set of corpse's teeth. Well, as complete as it can be...^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -2299,14 +2303,14 @@ Weight: 10
 ^FFFFFF_^000000
 Weight: 20
 ^FFFFFF_^000000
-When attempting to upgrade Level 1 weapons, this is consumed.
+Consumed when attempting to upgrade level 1 weapons.
 #
 1011#
 ^808080A metal that can be used to strengthen and upgrade weapons.^000000
 ^FFFFFF_^000000
 Weight: 20
 ^FFFFFF_^000000
-When attempting to upgrade Level 2 weapons, this is consumed.
+Consumed when attempting to upgrade level 2 weapons.
 #
 1012#
 ^808080Some skin from the neck of a lizard which lives in the desert.^000000
@@ -2359,7 +2363,7 @@ Weight: 1
 Weight: 1
 #
 1022#
-^808080A set of tails that used to belong to a Nine Tail fox. But not anymore, apparently.^000000
+^808080A set of tails that used to belong to a Nine Tail Fox. But not anymore, apparently.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -2583,7 +2587,7 @@ A ring placed in a horse's pierced nose to help steer it in a certain direction.
 Weight: ^7777771^000000
 #
 1065#
-^808080Necessary item for trap related skills.^000000
+^808080Necessary item for the Trap related skills.^000000
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -2959,7 +2963,7 @@ Jobs: Swordsman Jobs
 #
 
 1117#
-^808080A straight bladed sword that the Japanese samurai depended on during battle.^000000
+^808080A straight two-handed sword sharpened on one side. Traditional weapon of a Samurai.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Sword
@@ -4428,6 +4432,7 @@ Jobs: ^777777Swordsman / Merchant / Thief / Mage / Archer / Soul Linker / Ninja^
 #
 1235#
 A dagger that symbolizes the potential of alchemy.
+A small chance to turn the enemy into another monster
 Class: ^777777Dagger^000000
 Attack: ^777777110^000000   Weight: ^77777770^000000
 Weapon Level: ^7777774^000000
@@ -8692,8 +8697,8 @@ Weapon Level: 3
 Required Level: 24
 Jobs: Mage Jobs, Acolyte Jobs, and Soul Linker
 ^FFFFFF_^000000
-STR + 10
-MATK + 100
+STR +10
+MATK +100
 Consumes 2 SP with each physical attack.
 #
 1614#
@@ -10520,7 +10525,7 @@ Increases physical damage on Demi-Human race targets by 40%.
 //--------------------------------------------------------------------------
 
 1801#
-^808080A common, yet effective claw that's also known as the 'Tiger Fang.'^000000
+^808080A common yet effective claw that's also known as the 'Tiger Fang'.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Knuckle
@@ -10533,7 +10538,7 @@ Jobs: Priest Jobs, Monk Jobs
 #
 
 1802#
-^808080A common, yet effective claw that's also known as the 'Tiger Fang.'^000000
+^808080A common yet effective claw that's also known as the 'Tiger Fang'.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Knuckle
@@ -11248,7 +11253,7 @@ Jobs: Bard Jobs
 #
 
 1915#
-^808080A guitar which makes a depressing sound when strummed, and is said to have been played by a bard who spend his entire life in complete loneliness.^000000
+^808080According to legend, once this guitar belonged to a very lonely bard.^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Instrument
@@ -13748,16 +13753,13 @@ Defense: ^7777770^000000    Weight: ^77777710^000000
 Jobs: ^777777All except Novice^000000
 #
 2269#
-A delicate flower that
-is placed in the mouth
-for romantic seduction. Reduces damage from
-Plant monsters by 3%.
+A beautiful wild flower.
+You can take it in your teeth to seem more romantic.
+Damage from Plant monsters -3%
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Lower^000000
-Weight: ^77777710^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Jobs: ^777777All except Novice^000000
 #
 2270#
 A thin leaf that is placed in the mouth for a seductive look.
@@ -13921,11 +13923,8 @@ Jobs: ^777777Every Job
 except Novice^000000
 #
 2285#
-A headgear made in the
-honor of the legendary
-archer who shot an apple, on top of a friend's head,
-from a long distance.
-Dex + 3
+A headgear made in the honor of the legendary archer who shot an apple off his friend's head from a long distance.
+Dex +3
 Class: ^777777Headgear^000000
 Defense: ^7777771^000000
 Location: ^777777Upper^000000
@@ -14219,7 +14218,7 @@ Defense: ^77777755^000000    Weight: ^777777330^000000
 Jobs: ^777777Swordsman / Merchant / Thief^000000
 #
 2315#
-Heavy mail made entirely of polished metal chain links.
+Heavy mail entirely made of polished metal chain links.
 Class: ^777777Armor^000000
 Defense: ^77777755^000000    Weight: ^777777330^000000
 Jobs: ^777777Swordsman / Merchant / Thief^000000
@@ -14395,8 +14394,7 @@ Weight: ^77777770^000000
 Jobs: ^777777Mage Class and Soul Linker^000000
 #
 2333#
-A robe knit out
-of silver thread.
+A robe knitted from silver threads.
 Class: ^777777Armor^000000
 Defense: ^77777723^000000
 Weight: ^77777770^000000
@@ -15905,7 +15903,7 @@ Jobs: ^777777All^000000
 #
 //--------------------------------------------------------------------------
 2501#
-A simple, soft
+A simple soft
 garment that covers
 the head and neck.
 Class: ^777777Garment^000000
@@ -15914,7 +15912,7 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 2502#
-A simple, soft
+A simple soft
 garment that covers
 the head and neck.
 Class: ^777777Garment^000000
@@ -16837,13 +16835,7 @@ Jobs: ^777777Every Job
 except Novice^000000
 #
 2609#
-A weird ring adorned
-with a skull in which
-the words, ''^990000Forever,
-until death...^000000'' are
-engraved. Giving
-this as a gift might
-send a mixed message.
+Unusual skull inlaid ring. Óou can distinguish the words engraved on it: '^990000Forever, until death...^000000'
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -16997,13 +16989,18 @@ except Novice^000000
 #
 2626#
 An ancient rosary.
-Luk +1 , MDEF +3
+Luk +1
+MDEF +3
+^ffffff_^000000
+^6A5ACD[If used with Spiritual Ring]^000000
+Magnus Exorcismus damage +30%
+Heal damage to monsters +50%
+SP recovery rate +9%
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
+Defense: ^7777770^000000    Weight: ^77777720^000000
 Required Level: ^77777790^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Jobs: ^777777Every Job except Novice^000000
+
 #
 2627#
 A simple and practical belt that has little fashion value.
@@ -17288,21 +17285,20 @@ about the mysterious
 Sacrifice Ring...
 #
 2654#
-A sash that is said
-to have been owned by
-a renown ninja. With its embroidered emblem
-of nobility, it seems to contain some strange
-and mysterious power.
+A sash owned by the legendary ninja.
+It seems to be endowed with mysterious powers.
 ^6A5ACDNinja Shinobi armor set^000000
 ^3CB371Ninja Suit^000000
 ^3CB371Shinobi Sash^000000
 Set bonus +300 HP
--20% SP consumption
+SP consumption -20%
+Str +1
+Agi +1
 Class: ^777777Accessory^000000
-Defense: ^7777771^000000
-Weight: ^77777730^000000
-Required Level: ^77777730^000000
+Defense: ^7777771^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
 Jobs: ^777777Thief Class and Ninja^000000
+
 #
 2655#
 A heavy steel ball
@@ -19632,7 +19628,7 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4033#
-Enable use of
+Use it to cast
 Level 1 Detoxify.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
@@ -19728,8 +19724,8 @@ Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4041#
-Increase resistance
-to ^880000Sleep^000000 status by 20%. DEF +1
+Resistance to ^880000Sleep^000000 +20%
+DEF +1
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -19750,7 +19746,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4044#
-Enable use of
+Allows the use of
 Level 1 Hiding.
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
@@ -20199,9 +20195,7 @@ Weight: ^7777771^000000
 #
 4102#
 Flee +20
-Increase damage
-from Ghost property
-attacks by 50%.
+Damage from Ghost property attacks +50%
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -20763,7 +20757,7 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4175#
-A chance of auto casting Envenom 1 when receiving physical damage
+A chance of autocasting Envenom 1 when receiving physical damage
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -20829,7 +20823,7 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4182#
-SP +5 whein killing a Demon monster with a melee physical attack
+SP +5 when killing a Demon monster with a melee physical attack
 SP -5 when the weapon is unequipped
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
@@ -21467,8 +21461,8 @@ Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4249#
-Exp from Devil monsters +10%
-Damage from Devil monsters +20%
+Exp from Demon monsters +10%
+Damage from Demon monsters +20%
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -25480,7 +25474,7 @@ A hat made in the
 image of a banana peel, the key ingredient for the
 most basic practical joke since time immemorial.
 Just looking at it causes a primal reaction of pure
-rage. Adds chance of auto casting Level 3 Provoke
+rage. Adds chance of autocasting Level 3 Provoke
 on enemies in battle.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
@@ -27250,9 +27244,7 @@ still buy it for zeny.
 Weight: ^7777771^000000
 #
 7069#
-Pieces of armor that
-have been damaged
-beyond repair.
+Pieces of armor that have been damaged beyond repair.
 Weight: ^7777771^000000
 #
 7070#
@@ -27501,7 +27493,7 @@ Smooth, sleek paper that looks suitable for writing love letters.
 Weight: ^7777771^000000
 #
 7112#
-Incredibly sharp, and stout paper that looks as though it could be used like a knife.
+This paper is so hard and sharp that it resembles a knife blade.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27743,7 +27735,7 @@ A piece of skin from the back of a poisonous toad.
 Weight: ^7777771^000000
 #
 7156#
-A broken shuriken that is no longer useful. Usually, it is a lethal weapon used by ninjas.
+A broken shuriken that is no longer useful. Shurikens are commonly used in combat by ninjas.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27753,13 +27745,12 @@ Dark colored mask made from fabric. Used to cover the entire face.
 Weight: ^7777771^000000
 #
 7158#
-A piece of a broken liquor jar on which the tempting scent of alcohol still lingers.
+A piece of a broken liquor vessel. It exudes a sweet aroma of alcohol.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7159#
-A nose part of the mask that the Tengu monster wears. 
-The nose attached on this redish mask is quite long and ugly.
+A piece of Tengu mask. This is a bright red ugly nose.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -27983,7 +27974,7 @@ A tough vine which can be used as rope.
 Weight: ^7777771^000000
 #
 7198#
-A huge leaf which can be worn one's head in the rain.
+You can cover your head with this huge leaf in the rain.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28003,7 +27994,7 @@ A piece of wood that seems like it could be made into something.
 Weight: ^7777771^000000
 #
 7202#
-A pincher from a beetle.
+A pincher of a beetle.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28394,8 +28385,7 @@ A skein of threads that are imbued with holy power.
 Weight: ^7777771^000000
 #
 7286#
-A kind of spice in a vivid red color.
-Adds a spicy taste in food.
+An acrid condiment of a vivid red color.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28459,12 +28449,12 @@ A common dark-colored mineral. Symbolizes spiritual support.
 Weight: ^77777710^000000
 #
 7298#
-An emergency clothes made with two giant leaves.
+An emergency clothes made from two giant leaves.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7299#
-A basket made with straws.
+A basket made of straw.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28474,7 +28464,7 @@ An ore of gems. There are many minerals mixed within the ore, it would be possib
 Weight: ^7777771^000000
 #
 7301#
-A bunch of short and red threads which seems to be used for decorating the hilt of a sword.
+A bunch of short red threads which seems to be used for decorating the hilt of a sword.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28966,7 +28956,7 @@ Weight: ^7777777^000000
 #
 12132#
 A small red bag that magically changes your clothes into a ^000088Santa Suit^000000 for 10 min.
-Increases movement speed for 10 min. (the effect is cancelled when the character moves to another map)
+Increases movement speed for 10 min.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -30404,13 +30394,9 @@ Dex +9
 Weight: ^77777750^000000
 #
 12095#
-Named after the
-legendary spring
-believed to be the
-source of the world's
-rivers, this beverage
-is famous for its
-amazing taste. Dex +10
+Oriental wine, famous for its exquisite taste.
+Restores 10% HP and 10% SP.
+Dex +10 for 20 min.
 ^FFFFFF ^000000
 Weight: ^777777100^000000
 #
@@ -31343,13 +31329,8 @@ Weight: ^7777771^000000
 
 
 12200#
-A Christmas cake
-that is only available
-during the Christmas
-season. Automatically
-casts Lv.3 Magnificat
-and restores a small
-amount of HP.
+A very yummy Christmas cake.
+Casts Lv.3 Magnificat when used.
 Weight: ^7777775^000000
 #
 12225#
@@ -33847,7 +33828,7 @@ axe that possesses
 the power of holiness.
 Str +10, Holy property,
 Enables use of Lvl 3 Heal^FFFFFF ^000000 Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
+on Demon monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
 This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack Strength: ^777777229^000000
@@ -34177,7 +34158,7 @@ Reduces damage from and increases tolerance to
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
-Devil monsters by 10%.
+Demon monsters by 10%.
 Restores 3 SP when
 hitting a monster.
 Max SP +10%.
@@ -37463,7 +37444,7 @@ monster physical defense.^FFFFFF ^000000 Reduces damage from
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
-Devil monsters by 10%.
+Demon monsters by 10%.
 Restores 3 SP when
 hitting a monster.
 Max SP +10%.
@@ -38316,7 +38297,9 @@ Weight: ^7777771^000000
 
 12354#
 A chocolate roll cake in the form of firewood covered with snow. When you see it, you can feel Christmas is coming.
-Increases HP & SP restoration by 3%,  Hit +3, and Critical +7 for 10 minutes.
+HP & SP restoration +3%
+Hit +3, Critical +7 for 10 min.
+^000088Item effect is not displayed in UI.^000000
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
@@ -38380,6 +38363,7 @@ A firecracker that shows 'HAPPY BIRTHDAY!'. Danger, keep children away from it.
 Weight: ^7777772^000000
 #
 14550#
+^ff0000Account bound^000000
 A firecracker that shows 'MERRY CHRISTMAS!'. Danger, keep children away from it.
 ^ffffff_^000000
 Weight: ^7777772^000000
@@ -41285,7 +41269,7 @@ Reduces damage from and increases tolerance to
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
-Devil monsters by 10%.
+Demon monsters by 10%.
 Restores 3 SP when
 hitting a monster.
 Max SP +10%.
@@ -41550,7 +41534,7 @@ monster physical defense.^FFFFFF ^000000 Reduces damage from
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
-Devil monsters by 10%.
+Demon monsters by 10%.
 Restores 3 SP when
 hitting a monster.
 Max SP +10%.
@@ -41592,7 +41576,7 @@ axe that possesses
 the power of holiness.
 Str +10, Holy property,
 Enables use of Lvl 3 Heal^FFFFFF ^000000 Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
+on Demon monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
 This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack Strength: ^777777229^000000
@@ -43539,16 +43523,19 @@ Jobs: ^777777All^000000
 
 
 5738#
-A hat that is a constant reminder of the Winter season.
-Str +1, Int +1, Mdef +3,
+Look at this adorable snowman on your head!
+I feel the Christmas spirit blowing in the air!
+STR + 1, INT + 1, MDEF + 3.
+^ff0000Animated^000000
 Increases resistance to Water property by 7%.
-When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
-When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to  8, activates Lv 5 Frost Joker. 
+Every monster kill has a low chance of dropping Candy Cane and Buche De Noel.
+Adds a low chance of auto casting Level 1 Frost Joker when receiving physical or magical damage.
+[If refined to +8 or higher]
+Adds a low chance of auto casting Level 5 Frost Joker when receiving physical or magical damage.
+^ffffff_^000000
 Class: ^777777Headgear^000000
-Defense: ^7777774^000000
 Location: ^777777Upper ^000000
-Weight: ^77777730^000000
+Defense: ^7777774^000000 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -43595,17 +43582,6 @@ A notation that a Carol is memorized.
 But nobody knows which song was memorized.
 Weight: ^7777770^000000
 #
-12491#
-When consumed, you have the choice of receiving moderate HP & SP restoration, Lv. 10 Endure, Restore all SP or returning to your save point.
-Weight: ^7777770^000000
-#
-
-
-
-
-
-
-
 5479#
 A hair ornament with pink feathers of a Shaman.
 MaxHP +50, Mdef +3,
@@ -45588,12 +45564,12 @@ Be careful with this flower's berry. It seems ripened, but its odor is very acri
 Weight: ^7777771^000000
 #
 7934#
-Fragile. It's not green tea even if it uses the very end of a young leaf. 
+This plant looks like young shoots of tea bush, but it's deadly poisonous. 
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7935#
-Fragile. It does not have any scent unlike a beautiful figure.
+A beautiful odorless plant. Deadly poison lurks in its leaves.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -46020,7 +45996,7 @@ Weight: ^7777770.1^000000
 #
 
 6214#
-A snow-white powder. It's so light that it  stays in the air for a long time. Do not breathe it in or it can be fatal.
+A snow-white powder. It's so light that it stays in the air for a long time. Do not breathe it in or it can be fatal.
 Weight: ^7777770.1^000000
 #
 
@@ -53358,7 +53334,7 @@ Reduces damage from and increases tolerance to
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
-Devil monsters by 10%.
+Demon monsters by 10%.
 Restores 3 SP when
 hitting a monster.
 Max SP +10%.
@@ -53504,7 +53480,7 @@ axe that possesses
 the power of holiness.
 Str +10, Holy property,
 Enables use of Lvl 3 Heal^FFFFFF ^000000 Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
+on Demon monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
 This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack Strength: ^777777229^000000
@@ -54492,22 +54468,22 @@ Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage, Taekwon Master^000000
 #
 20125#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A staff with a
-hynpotizing effect
-that can even make
-a Novice feel just like   a High Wizard. Sort of.
-Int + 1, MATK + 120
-^CC0000This item is not Refinable^000000
-Class: ^777777Staff^000000
-Attack Strength: ^777777100^000000
-Weight: ^77777750^000000
-Property:^777777Neutral^000000
-Weapon Level: ^7777773^000000
+^ff0000Account bound.^000000
+Ho ho ho! Why do I need these glasses?
+The better to see you with, my dear!
+^ff0000[Effects are active only during the event (until January 15, 2020).]^000000
+Heal effectiveness +40%
+^0000ff[Festive Santa Set]^000000
+When using festive Santa Hat, Santa Beard and Santa Glasses:
+EXP from monsters +5%
+Max. HP and SP +5%
+Heal effectiveness +20%
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Novice, Mage,
-Acolyte Classes, and Soul Linker^000000
+Jobs: ^777777All^000000
 #
 20126#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -58957,11 +58933,11 @@ Job : ^777777All^000000
 #
 
 19976#
-A hat which cats of Malangdo wear during the Christmas season.
-Class: ^777777Head Gear^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+This is a hat worn by cats of Malangdo during the Christmas season.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -58980,15 +58956,11 @@ Couple means betrayal!
 Weight: ^7777770^000000
 #
 22686#
-A cookie which I will eat alone in Christmas.
-I'm not lonely. I'm not lonely.
+So, I sit here alone on Christmas Eve, my heart is broken.
+Well, at least I have this cookie...
+Merry Christmas to all.
 Recover 5% of HP and SP.
-Weight: ^7777775^000000
-#
-12200#
-Christmas limited cake.
-When you use it, recover small HP, Start 3 level Magnificat  skill.
-(This item will be deleted with Christmas event closing.)
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 14207#
@@ -63518,21 +63490,41 @@ Open it and find a surprise gift.
 Weight: ^7777771^000000
 #
 19982#
-A red, pompom topped cap that is associated with Santa Claus's legend.
-^0000ffEffect until January 14, 2015^000000
-^3CB371MaxHP 1000
-MaxSP 100
-ASPD +3
-Increases attack to all monster sizes by 10%
-Matk +10%
-Heal effectiveness +10%^000000
+^ff0000Account bound.^000000
+Ho ho ho! Did everyone behave well this year?
+^ff0000[Effects are active only during the event (until January 15, 2020).]^000000
+EXP from monsters +10% 
+^0000ff[Festive Santa Set]^000000
+When using festive Santa Hat, Santa Beard and Santa Glasses:
+EXP from monsters +5%
+Max. HP and SP +5%
+Heal effectiveness +20%
+^ffffff_^000000
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+31910#
+^ff0000Account bound.^000000
+Ho ho ho! And it’s not shaving foam at all, but my beard!
+Just don’t touch it, otherwise the magic will disappear!
+^ff0000[Effects are active only during the event (until January 15, 2020).]^000000
+Max. HP and SP +10%
+^0000ff[Festive Santa Set]^000000
+When using festive Santa Hat, Santa Beard and Santa Glasses:
+EXP from monsters +5%
+Max. HP and SP +5%
+Heal effectiveness +20%
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+
 19955#
 A 'fashionable' Christmas Tree hat
 Class: ^777777Costume^000000
@@ -66418,10 +66410,23 @@ Required LV : ^7777771^000000
 Jobs: ^777777All^000000
 #
 19682#
-A cute santa poring is tumbling on your head!
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV : ^7777771^000000
+A cute Santa poring is bouncing on your head!
+^ff0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000 
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required LV: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31420#
+A cute shiny Santa poring is bouncing on your head!
+^ff0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000 
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19683#
@@ -67470,7 +67475,7 @@ Max HP/SP +10%
 Exp +5%
 When receiving physical damage, a chance of auto casting one of the following skills: Quagmire, Venom Splasher, Heal, Assumptio, Tarot Card of Fate
 Class: ^777777Costume^000000
-Location: ^777777Headgear (Upper)^000000
+Location: ^777777Headgear (Mid)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -70447,11 +70452,13 @@ Weight: ^7777771^000000
 
 
 19780#
+^ff0000Account bound^000000
 Cute hat for your everyday wear.
 Class: ^777777Costume^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl : ^7777771^000000
-Job : ^777777All^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19826#
 Earringa made with ice and extra chemicals. Why is it so chilly when you wear it?
@@ -70500,11 +70507,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19990#
-A replica of Rabbit ear hat.
-Class: ^777777Costume^000000 Def : ^7777770^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl : ^7777771^000000
-Job : ^777777All^000000
+A replica of Rabbit Ear Hat.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+
 #
 19991#
 An armor made of purified white flower.
@@ -71569,23 +71579,8 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-20240#
-A present of snow
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
-#
 20241#
 A hat modeled after Eclipse, the leader of Lunatics
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
-#
-20242#
-A costume hat modeled after the snowman called Snownow keeping the town Lutie.
-Surprisingly, snow falls on your head when you wear it.
 Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Lv. req.: ^7777771^000000
@@ -72879,14 +72874,15 @@ Required Level: ^7777771^000000
 Job : ^777777All^000000
 #
 20242#
-A costume hat modeled after the snowman called Snownow keeping the town Lutie.
-Surprisingly, snow falls on your head when you wear it.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000 Def : ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
+A hat designed in honor of Snownow the Snowman from the town Lutie.
+If you put it on, snow will begin to fall on your head.
+^ff0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job : ^777777All^000000
+Jobs: ^777777All^000000
 #
 20762#
 Wing of Great Devel, the famous.
@@ -79751,7 +79747,7 @@ monster physical defense.^FFFFFF ^000000 Reduces damage from
 Demihuman monsters
 by 10%, but increases
 damage inflicted by
-Devil monsters by 10%.
+Demon monsters by 10%.
 Restores 3 SP when
 hitting a monster.
 Max SP +10%.
@@ -79793,7 +79789,7 @@ axe that possesses
 the power of holiness.
 Str +10, Holy property,
 Enables use of Lvl 3 Heal^FFFFFF ^000000 Increases damage inflicted
-on Devil monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
+on Demon monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
 This item cannot be Dropped or Traded.
 Class: ^777777Axe^000000
 Attack Strength: ^777777229^000000
@@ -82102,8 +82098,18 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 12491#
-When consumed, you have the choice of receiving moderate HP & SP restoration, Lv. 10 Endure, Restore all SP or returning to your save point.
-Weight: ^7777770^000000
+^ff0000Account bound.^000000
+They say that no two snowflakes are exactly alike!
+Isn't that a miracle?
+Bring it to Santa's Helper (prontera 128, 125) to exchange for cookies or Santa Beard Costume.
+When consumed, allows you to use one of the the following effects:
+- Restore 50% HP & SP
+- Cast Lv. 10 Endure
+- Cast Lv. 5 Magnificat
+- Cast Lv. 10 Angelus
+- Cast Lv. 10 Blessing
+^ffffff_^000000
+Weight: ^7777775^000000
 #
 16556#
 A box that contains 1 Reset Stone inside.
@@ -83257,13 +83263,6 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19780#
-Cute hat for your everyday wear.
-Class: ^777777Costume^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl : ^7777771^000000
-Job : ^777777All^000000
-#
 19936#
 ^ff0000Account bound^000000
 A warm knitted cap decorated with snowflakes on its earpieces.
@@ -83273,30 +83272,16 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-20242#
-A costume hat modeled after the snowman called Snownow keeping the town Lutie.
-Surprisingly, snow falls on your head when you wear it.
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
-#
-20242#
-A costume hat modeled after the snowman called Snownow keeping the town Lutie.
-Surprisingly, snow falls on your head when you wear it.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000 Def : ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job : ^777777All^000000
-#
 20240#
-A present of snow
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
+A cloud of weightless ice crystals, shimmering in the light.
+For those who like snowy weather!
+^ff0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18914#
 A cute baby deviling that chases his master all day.
@@ -84820,4 +84805,190 @@ A scroll with mysterious letters written on it.
 Enables a single cast of Repair Weapon.
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+23549#
+^ff0000Account bound.^000000
+Gingerbread snowman painted with glaze.
+Santa will be delighted with such a treat!
+Hit +30 for 10 min.
+Restores 5% HP.
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23550#
+^ff0000Account bound.^000000
+Gingerbread snowman painted with glaze.
+Santa will be delighted with such a treat!
+^000088Item effect is not displayed in UI.^000000
+Weapon damage +3% for 10 min.
+Restores 5% HP.
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23551#
+^ff0000Account bound.^000000
+Gingerbread snowman painted with glaze.
+Santa will be delighted with such a treat!
+^000088Item effect is not displayed in UI.^000000
+Attack Speed +10% for 10 min.
+Restores 5% HP.
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23552#
+^ff0000Account bound.^000000
+Gingerbread snowman painted with glaze.
+Santa will be delighted with such a treat!
+^000088Item effect is not displayed in UI.^000000
+Magical damage +3% for 10 min.
+Restores 5% HP.
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+14616#
+A delicious biscuit stick to boost your holiday spirit.
+Physical damage +15 for 30 min.
+ATK +11~111 for 10 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14617#
+A delicious biscuit stick to boost your holiday spirit.
+VIT +15 for 30 min.
+Restores 11~33% HP.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14618#
+A delicious biscuit stick to boost your holiday spirit.
+AGI +15 for 30 min.
+Flee +11~33 for 10 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14619#
+A delicious biscuit stick to boost your holiday spirit.
+INT +15 for 30 min.
+MATK +11~111 for 10 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14620#
+A delicious biscuit stick to boost your holiday spirit.
+DEX +15 for 30 min.
+Hit +11~33 for 10 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14621#
+A delicious biscuit stick to boost your holiday spirit.
+LUK +15 for 30 min.
+Critical +11~33 for 10 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31132#
+A wreath made of holly branches.
+Traditional symbol of the winter holidays.
+^ff0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31438#
+A charming pink cloak decorated with two tiny wings.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9745#
+Merry Christmas and Happy New Year!
+Open it to obtain one of the following items:
+Santa's Bag
+Buche De Noel
+Red Snowman Cookie
+Yellow Snowman Cookie
+Blue Snowman Cookie
+Green Snowman Cookie
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+9746#
+Happy New Year 2020!
+Open to obtain Christmas Miracle, as well as one of the following items:
+Costume Baby Penguin
+Present Of Snow
+Archangel Wings
+Costume Fluffy Angel Cape
+Silvervine x2020
+Snowman In A Scarf
+Cat Santa Hat
+Christmas Wreath
+Snowman Hat
+Gym Pass
+Auger of Spirit
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Battle Manual x2
+Job Manual x2
+Bubble Gum x2
+Token of Ziegfried x7
+Abrasive x7
+Glass of Illusion x7
+Gold Pill Extra x5
+Guyak Pudding x20
+Guarana Candy x8
+Sparkling Candy x15
+Mental Potion x8
+Poring Box x3
+Blessing of Tyr x10
+Megaphone x7
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Yggdrasil Berry x15
+Yggdrasil Seed x20
+Big Bun x25
+Guyak Candy x30
+Baked Mushrooms x35
+Giant Fly Wing x15
+Solo Cookie x150
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31437#
+Little penguin following you everywhere you go. Oh, what a cutie!
+^ff0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20765#
+White wings of a holy Archangel.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+12336#
+A perfect dish for people that don't like to gain weight.
+Heals 30% HP and SP
+^ffffff_^000000
+Weight ^77777730^000000
 #
