@@ -1965,5 +1965,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Exotic_Bob_R_BW] = "_C_Exotic_Bob_R_BW",
 	[ACCESSORY_IDs.ACCESSORY_C_Happy_Cat_TW] = "_C_Happy_Cat_TW",
 	[ACCESSORY_IDs.ACCESSORY_C_Pure_Love_Muffler] = "_C_Pure_Love_Muffler",
-	[ACCESSORY_IDs.ACCESSORY_Cons_Of_Earth] = "_Cons_Of_Earth"
+	[ACCESSORY_IDs.ACCESSORY_Cons_Of_Earth] = "_Cons_Of_Earth",
+	[ACCESSORY_IDs.ACCESSORY_C_Mini_Glasses] = "_№МґП±Ы·ЎЅє",
+	[ACCESSORY_IDs.ACCESSORY_C_Shaving_Cream] = "_ёйµµїлЕ©ёІ"
 }

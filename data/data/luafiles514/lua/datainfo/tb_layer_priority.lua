@@ -4,6 +4,8 @@ TB_Layer_Priority = {
 	Default_Bottom = 300,
 	Items_List = {
 		[ACCESSORY_IDs.ACCESSORY_Happy_Balloon_J] = { Default = 300, Direction = { [3] = 480, [4] = 480, [5] = 480 } },
+		[ACCESSORY_IDs.ACCESSORY_C_Mini_Glasses] = { Default = 503, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_Shaving_Cream] = { Default = 300, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = { Default = 501, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_FlyingGalapago] = { Default = 480, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_Little_Aquarium] = { Default = 502, Direction = {} },
@@ -117,11 +119,11 @@ GetLayerPriority = function(direction, layer, acc_id)
 			return TB_Layer_Priority.Default_Mid
 		end
 	elseif 2 == layer then
-		-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 2_[21]
+		return TB_Layer_Priority.Default_Bottom
 	elseif 3 == layer then
-		-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 2_[27]
+		return TB_Layer_Priority.Default_Top
 	elseif 4 == layer then
-		-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 2_[33]
+		return TB_Layer_Priority.Default_Mid
 	end
 	return -1
 end
