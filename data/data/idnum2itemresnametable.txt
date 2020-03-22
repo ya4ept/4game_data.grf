@@ -5607,7 +5607,6 @@
 
 // --------- Songkran 2011 -------------
 6466#마법의호리병#
-6467#이상한향수#
 6468#태국향수#
 12666#태국향수MATK#
 12667#태국향수ATK#
@@ -8099,7 +8098,6 @@
 31062#엘레노아가발#
 31149#니드호그의가발#
 
-31369#Straight_Long_WH#
 31474#Straight_Long_BL#
 31575#C_Electro_Two_Side_Up#
 31636#C_Fairy_Long_SV#
@@ -8136,10 +8134,6 @@
 
 20504#분홍큐피트날개#
 9646#바이올렛스크롤#
-
-31635#C_Fairy_Long_BD#
-31638#C_Straight_Long_RD#
-31642#C_Straight_Long_LPP#
 
 9656#불곰스크롤#
 20585#Ru_Bear_Bag#
@@ -8276,3 +8270,44 @@
 31438#C_Fluffy_Angel_Cape#
 9745#용광환발스크롤#
 9746#Costama_Egg63#
+
+31670#C_Miyabi_Long_Hair#
+31635#C_Fairy_Long_BD#
+31369#Straight_Long_WH#
+31638#C_Straight_Long_RD#
+31642#C_Straight_Long_LPP#
+20278#비행기모자#
+20287#비행기모자골드#
+31083#롱포니_흑#
+25256#영혼의조각#
+
+20516#Wings_of_Michael#
+20587#Light_Darkness_Wing#
+9755#지혜스크롤#
+5654#신성한마칭햇#
+
+20570#HeartChocoBag#
+20572#WingOfHeart#
+31531#C_Lovely_Heart_Cap#
+9765#하트스크롤#
+20263#잠자는고양이모자#
+31491#C_Orange_Tabby_Cat#
+9776#크루스크롤#
+
+11713#오래된보라상자#
+11701#꽃다발#
+6467#깨진술동이#
+
+19927#회색늘어진고양이#
+31044#분홍늘어진고양이#
+31436#흰색늘어진고양이#
+
+19326#문자책모자#
+20312#바롤의마안#
+20315#애널라이즈아이#
+20405#에레메스스카프#
+31057#C에레메스스카프검정#
+31545#C_Eremes_Scarf_BU#
+16660#오래된파란상자#
+9807#Ep_17_2_C_Admin1_Egg#
+20535#C_Digital_Space#

@@ -1965,6 +1965,15 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Happy_Cat_TW] = "_C_Happy_Cat_TW",
 	[ACCESSORY_IDs.ACCESSORY_C_Pure_Love_Muffler] = "_C_Pure_Love_Muffler",
 	[ACCESSORY_IDs.ACCESSORY_Cons_Of_Earth] = "_Cons_Of_Earth",
+	[ACCESSORY_IDs.ACCESSORY_C_Blanc_Neige_Prince] = "_C_Blanc_Neige_Prince",
+	[ACCESSORY_IDs.ACCESSORY_C_PGstone_Knit_Hat_PK] = "_C_PGstone_Knit_Hat_PK",
+	[ACCESSORY_IDs.ACCESSORY_C_PGstone_Knit_Hat_BW] = "_C_PGstone_Knit_Hat_BW",
+	[ACCESSORY_IDs.ACCESSORY_Eleanor_WigB] = "_ї¤·№ілѕЖ°Ў№Я",
+	[ACCESSORY_IDs.ACCESSORY_C_Sweet_Corone] = "_C_Sweet_Corone",
+	[ACCESSORY_IDs.ACCESSORY_C_Frill_Collar] = "_C_Frill_Collar",
+	[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Male] = "_VIP_Hair_Male",
+	[ACCESSORY_IDs.ACCESSORY_VIP_Hair_Female] = "_VIP_Hair_Female",
+	[ACCESSORY_IDs.ACCESSORY_Nut_Cracker] = "_Nut_Cracker",
 	[ACCESSORY_IDs.ACCESSORY_C_Mini_Glasses] = "_№МґП±Ы·ЎЅє",
 	[ACCESSORY_IDs.ACCESSORY_C_Shaving_Cream] = "_ёйµµїлЕ©ёІ"
 }

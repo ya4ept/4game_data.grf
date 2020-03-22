@@ -2431,10 +2431,10 @@
 13014#Dagger#
 13015#Dagger#
 
-13300#Fuuma Shuriken#
-13301#Fuuma Shuriken#
-13302#Fuuma Shuriken#
-13303#Fuuma Shuriken#
+13300#Huuma Shuriken#
+13301#Huuma Shuriken#
+13302#Huuma Shuriken#
+13303#Huuma Shuriken#
 
 2117#Shield#
 2118#Shield#
@@ -6401,7 +6401,6 @@
 19923#Hat#
 19925#Glasses#
 19926#Accessory#
-19927#Hat#
 19929#Accessory#
 19930#Hat#
 19928#Hairband#
@@ -6748,7 +6747,6 @@
 6957#Soft Wool#
 6958#Lamb Horn#
 22881#Binding Rope#
-18851#Hat#
 18854#Hat#
 2183#Shield#
 2956#Accessory#
@@ -7061,9 +7059,6 @@
 20032#Accessory#
 20033#Accessory#
 
-//---------Valentine 2016------------
-20470#Hat#
-
 //---------Costama Wings----------
 17493#Costama Wings#
 20075#Hat#
@@ -7230,8 +7225,6 @@
 25253#Sugar Box#
 25254#Firewood#
 23202#Vin Chaud#
-
-20255#Headgear#
 
 19216#Accessory#
 14830#Cuterabbit Scroll TH#
@@ -7595,3 +7588,70 @@
 20765#Garment#
 20242#Hat#
 12336#Baked Mushrooms#
+
+20278#Headgear#
+20287#Headgear#
+31369#Headgear#
+31638#Headgear#
+31642#Headgear#
+31474#Headgear#
+31670#Headgear#
+31635#Headgear#
+25256#Shard of Eternity#
+6101#Attendance Card#
+
+20516#Garment#
+20587#Garment#
+20746#Garment#
+20761#Garment#
+9755#Winged Treasure#
+5654#Headgear#
+
+20212#Headgear#
+20527#Garment#
+20570#Garment#
+20572#Garment#
+31040#Headgear#
+31439#Headgear#
+31531#Headgear#
+31538#Headgear#
+9765#Valentine's Treasure#
+23261#Macaron#
+23045#Mont Blanc#
+25291#Chocolate candy#
+23079#Strawberry Cream Cake#
+31459#Headgear#
+20255#Headgear#
+25290#Chocolate Love Coin#
+20470#Headgear#
+
+20132#Headgear#
+20263#Headgear#
+20449#Headgear#
+20517#Garment#
+31452#Headgear#
+31491#Headgear#
+19823#Headgear#
+9776#Purring Treasure#
+
+19901#Headgear#
+20348#Headgear#
+11713#Porc Chops#
+11701#Orchid Bouquet#
+6467#Eaurc De Toilette#
+
+19927#Headgear#
+31044#Headgear#
+31436#Headgear#
+20451#Headgear#
+
+19326#Headgear#
+20312#Headgear#
+20315#Headgear#
+20405#Headgear#
+31057#Headgear#
+31545#Headgear#
+16660#Auger of Spirit Box#
+9807#Digital Treasure#
+20535#Garment#
+20407#Headgear#

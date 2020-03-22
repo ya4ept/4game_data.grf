@@ -1,3 +1,273 @@
+18.03.2020
+Community Manager
+We've been waiting for it for a long time, and finally, Rebirth is here, with party XP bonus and 2 new instances!
+
+Game updates:
+— Rebirth and Transcendent classes are available;
+— Ruins of Juperos have been added;
+— Bio Laboratory 3rd floor has been added;
+https://eu.4game.com/patchnotes/ro/205/
+— Party XP bonus has been added;
+https://eu.4gameforum.com/threads/673772/
+
+Events:
+— 50% XP bonus will be active during Wednesday, and 25% bonus until the next maintenance;
+— Transcendent Class Race has started! Be first to reach 99/70 level after Rebirth and receive unique rewards;
+https://eu.4gameforum.com/threads/673763/
+— PvP Constellation season of Aries has started.
+https://eu.4gameforum.com/threads/672758/
+
+Shop:
+— Advanced leveling and Racing sets will be available in 4Game launcher until the 25th of March;
+https://eu.4gameforum.com/threads/673799/
+— Digital Treasure has been added to the Shop and 4Game launcher until the 25th of March;
+https://eu.4gameforum.com/threads/673790/
+— Sale: all categories of the Shop on discount up to 40%.
+https://eu.4gameforum.com/threads/673808/
+
+Finished activities:
+— One Man Army and Rebirth have been removed from the 4Game launcher;
+— Change Name Card has been removed from the Shop.
+
+==========
+11.03.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— Updated Daily Attendance Rewards will be available from the 11th of March until the 15th of April;
+https://eu.4gameforum.com/threads/673616/
+
+Shop:
+— One Man Army and Rebirth packs will be available in 4Game launcher until the 18th of March;
+https://eu.4gameforum.com/threads/673589/
+— Change Name Card is available for purchase in the Shop until the 18th of March;
+https://eu.4gameforum.com/threads/673610/
+— Kafra Doll Hats have been added to the Shop.
+https://eu.4gameforum.com/threads/673496/
+
+Finished activities:
+— Orc Invasion has been finished;
+— Fortune, Fate and Destiny packs have been removed from 4Game launcher.
+
+==========
+04.03.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— The Orc Invasion has started and the greenskins are swarming over Prontera! The event will last until the 11th of March.
+https://eu.4gameforum.com/threads/673355
+
+Shop:
+— Fortune, Fate and Destiny packs will be available in 4Game launcher until the 11th of March;
+https://eu.4gameforum.com/threads/673208
+— New headgear and costumes have been added to the Shop.
+https://eu.4gameforum.com/threads/673205
+
+Other changes:
+— English version of the Homunculus AI guide has been added to the game folder.
+
+Finished activities:
+— Auger of Spirit will be removed from the Shop. The Piercing Expert stays in Prontera;
+— Purring Treasure will be removed from the Shop.
+
+==========
+26.02.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Shop:
+— Purring Treasure will be available in the Shop until the 4th of March;
+https://eu.4gameforum.com/threads/672902/
+— Auger of Spirit has been added in the Shop until the 4th of March. This rare blade is necessary for the Piercing Master to make a card slot in Elven Ears.
+https://eu.4gameforum.com/threads/673025/
+
+Other changes:
+— Drop lists of the Old Card Album, Old Violet and Purple Boxes have been updated according to the installed updates.
+
+Finished activities:
+— The Eternal Hunt has been finished;
+— Daily attendance reward has been turned off;
+— XP and drop bonus rates have been turned off;
+— Eremes and Biohazard sets have been removed from 4Game launcher.
+
+==========
+19.02.2020
+The maintenance has been finished, the server is online. Changelog:
+
+Game updates:
+— Lighthalzen with 1st and 2nd floors of Somatology lab have been added;
+— Kiel Hyre's robot factory has been added;
+— Platinum skills have been added;
+— 50% XP and drop bonus will be active during Wednesday, and 25% bonus until the next maintenance;
+https://eu.4game.com/patchnotes/ro/203/
+
+PvP:
+— Constellation seasons have been added: the season of Pisces will be active until the 18th of March;
+https://eu.4gameforum.com/threads/672758/
+
+Shop:
+— Eremes and Biohazard sets will be available in 4Game launcher until the 26 of February;
+https://eu.4gameforum.com/threads/672752/
+— Homunculi hats have been added to the Shop.
+https://eu.4gameforum.com/threads/672755/
+
+Fixes:
+— Incubus Egg effects now work correctly;
+— Chocolate love coins and Сhocolate candies can be sold to NPCs.
+
+Finished activities:
+— "Hunger for love" event has ended;
+— Valentine's Treasure has been removed from the Shop;
+— Sweet Chocolate has been removed from 4Game launcher.
+
+==========
+12.02.2020
+Community Manager
+The maintenance has been finished, the server is online. Love is in the air, do you feel it?
+
+Events:
+— "Hunger for love", a sweet romantic event, daily quests and unique costumes available until the 19th of February.
+https://eu.4gameforum.com/threads/672323/
+
+Shop:
+— Valentine's Treasure will be available in the Shop until the 19th of February for €0.99 or 119 Silvervines.
+https://eu.4gameforum.com/threads/672335/
+
+Gift:
+— Don't forget to pick the Sweet Chocolate hat in 4Game launcher until the 19th of February.
+https://eu.4gameforum.com/threads/672347/
+
+Finished activities:
+— Halter Lead and Giant Flying Wing Box have been removed from the Shop.
+
+==========
+05.02.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Shop:
+— Permanent Halter Lead and Giant Fly Wing Box (500) will be available in the Shop until the 12th of February;
+https://eu.4gameforum.com/threads/672098/
+— Shark Hat, Bloodstained Wings and other headgear and costumes have been added to the Shop.
+https://eu.4gameforum.com/threads/671978/
+
+Fixes:
+— fixed the name of the HE Battle Manual in the Ambassador of Eternity dialogue;
+— The map has been updated with the recently added locations and their respective mobs (Press Ctrl+~ to open the map and Tab to switch between the locations and mobs).
+
+Finished activities:
+— The Winged Treasure has been removed from the Shop.
+
+==========
+29.01.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— Daily attendance reward: get your daily reward for 28 days in a row to receive the ultimate prize;
+https://eu.4gameforum.com/threads/671819/
+— The Eternal Hunt: slay monsters every day, collect the Shards of Eternity and exchange them for valuable items.
+https://eu.4gameforum.com/threads/671642/
+Both events will be available until the 26th of February.
+
+
+Shop:
+— The Winged Treasure will be available in the Shop until the 5th of February.
+https://eu.4gameforum.com/threads/671822/
+
+Fixes:
+— NPC starting Gunslinger's quest for Harrison now tells the correct location for the next NPC;
+— Christmas decorations have been disabled.
+
+Finished activities:
+— XP boost has been turned off;
+— High refinement rates have been turned off;
+— Bravery Bag has been removed from the Shop;
+— Wigs have been removed from the Shop.
+
+==========
+22.01.2020
+Community Manager
+The server will be shut down at 12:30 CET for a brief maintenance. We will keep it as short as possible and will inform you in the #information  as the server comes back online. Thanks for your understanding!
+
+UPD: The server is online, the issue with the Izlude airship has been fixed, thanks for your patience!
+
+UPD2: The 4Game launcher issue has been fixed as well, you can launch the game now!
+
+==========
+22.01.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Game updates:
+— Einbroch and Einbech update has been released;
+https://eu.4game.com/patchnotes/ro/201/
+— New classes have been added: Gunslinger and Ninja;
+— The Blacksmith Guild members from Alberta, Geffen and Morroc have been moved to Einbroch.
+
+Events:
+— 50% XP boost for the next 24 hours and 25% XP boost until the 29th of January.
+
+Shop:
+— Bravery Bag with high refinement rates in the Shop from the 22nd until the 29th of January for €9.90 or 1188 Silvervines;
+https://eu.4gameforum.com/threads/671627/
+— A whole new set of Wigs will be available in the Shop from the 22nd until the 29th of January.
+https://eu.4gameforum.com/threads/671630/
+
+Localization fixes:
+— Familiar Card image has the correct title now;
+— Head slots in the character screen now have accurate descriptions;
+— Prefixes and suffixes for some cards have been fixed.
+
+==========
+15.01.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+— Fortune, Fate and Destiny Packs will be available in the 4Game launcher until the 22th of January;
+https://eu.4gameforum.com/threads/671321/
+— New headgear and costumes: Crown of Deceit, Ribbon Hat, Seraph's Winged Helmet, Rainbow Wing Ears and Steel Feathered Hairband have been added to the Shop.
+https://eu.4gameforum.com/threads/671189/
+
+Finished events and offers:
+— Stat reset event has ended;
+— Christmas event has ended;
+— 25% XP boost has been turned off.
+— Christmas Packs have been removed from the 4Game launcher;
+— New Year's Treasure has been removed from the Shop;
+— The Christmas Sale has ended;
+— Costume Rabbit Knit Hat has been removed from the 4Game launcher.
+
+==========
+06.01.2020
+Kaya
+MA is over and server is open.
+Welcome to Rune-Midgard!
+
+==========
+31.12.2019
+Community Manager
+Dear friends!
+
+The passing year has been a special one. We opened our first Ragnarök Online server in Europe, launched the War of Emperium and had a pleasure to meet you, our players, artists and supporters.
+
+And this is just a beginning. We are looking forward with hope, there is so much to do, to make this project bigger, better and more enjoyable, what would be impossible without you, your passion and dedication.
+
+We want to thank you for being with us and wish you a Happy New Year!
+
+Love,
+Ragnarök Online team
+
+==========
+30.12.2019
+Community Manager
+The maintenance has been finished, the servers are online.
+
+
+
+==========
 26.12.2019
 Community Manager 11:49
 The maintenance has been finished, the server is online. Changelog:

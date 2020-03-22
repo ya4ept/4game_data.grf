@@ -65,7 +65,15 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon",
 	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom] = "C_Nifl_Bloom",
 	[SPRITE_ROBE_IDs.ROBE_C_Gimmick_One_Feather] = "C_Gimmick_One_Feather",
-	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross"
+	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross",
+	[SPRITE_ROBE_IDs.ROBE_Bow_On_the_Back] = "Bow_On_the_Back",
+	[SPRITE_ROBE_IDs.ROBE_C_Sakura_Fes_TW] = "C_Sakura_Fes_TW",
+	[SPRITE_ROBE_IDs.ROBE_Santa_Backpack] = "Santa_Backpack",
+	[SPRITE_ROBE_IDs.ROBE_C_Ice_Wing] = "C_Ice_Wing",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_RD] = "Wing_Of_Angel_Move_RD",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_BK] = "Wing_Of_Angel_Move_BK",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_RB] = "Wing_Of_Angel_Move_RB",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_GD] = "Wing_Of_Angel_Move_GD"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -134,7 +142,15 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon] = "C_Loli_Ruri_Moon",
 	[SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom] = "C_Nifl_Bloom",
 	[SPRITE_ROBE_IDs.ROBE_C_Gimmick_One_Feather] = "C_Gimmick_One_Feather",
-	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross"
+	[SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross] = "C_Evil_Druid_Cross",
+	[SPRITE_ROBE_IDs.ROBE_Bow_On_the_Back] = "Bow_On_the_Back",
+	[SPRITE_ROBE_IDs.ROBE_C_Sakura_Fes_TW] = "C_Sakura_Fes_TW",
+	[SPRITE_ROBE_IDs.ROBE_Santa_Backpack] = "Santa_Backpack",
+	[SPRITE_ROBE_IDs.ROBE_C_Ice_Wing] = "C_Ice_Wing",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_RD] = "Wing_Of_Angel_Move_RD",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_BK] = "Wing_Of_Angel_Move_BK",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_RB] = "Wing_Of_Angel_Move_RB",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Angel_Move_GD] = "Wing_Of_Angel_Move_GD"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -152,5 +168,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_T_Bear_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Big_Foxtail,
 	SPRITE_ROBE_IDs.ROBE_C_Loli_Ruri_Moon,
-	SPRITE_ROBE_IDs.ROBE_C_Nifl_Bloom
+	SPRITE_ROBE_IDs.ROBE_Bow_On_the_Back,
+	SPRITE_ROBE_IDs.ROBE_Santa_Backpack
 }

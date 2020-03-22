@@ -2046,7 +2046,7 @@
 2649#Morpheus's Bracelet#
 2650#Morrigane's Belt#
 2651#Morrigane's Pendant#
-2652#Goddess of Fortune's Cursed Brooch#
+2652#Fortune's Cursed Brooch#
 2653#Sacrifice Ring#
 2654#Shinobi Sash#
 2655#Bloody Shackle Ball#
@@ -2099,7 +2099,7 @@
 7341#Old Pendant#
 7342#File Folder#
 7343#Sealed File Folder#
-7344#Cinocas Case File#
+7344#Shinokas Case File#
 7345#Handcuffs#
 7346#Ymir's Heart Piece#
 7347#Research Chart#
@@ -2490,10 +2490,10 @@
 13014#Hakujin#
 13015#Hakujin#
 
-13300#Fuuma Wing Shuriken#
-13301#Fuuma Giant Wheel Shuriken#
-13302#Fuuma Giant Wheel Shuriken#
-13303#Fuuma Blaze Shuriken#
+13300#Huuma Wing Shuriken#
+13301#Huuma Giant Wheel Shuriken#
+13302#Huuma Giant Wheel Shuriken#
+13303#Huuma Blaze Shuriken#
 
 2117#Arm Guard#
 2118#Arm Guard#
@@ -4956,8 +4956,8 @@
 5770#Splash Hat#
 14508#Zeny Pet Egg Scroll#
 5762#Duneyrr Hat#
-5677#Scorpio Celestial Diadem#
-5676#Scorpio Celestial Crown#
+5677#Scorpio Diadem#
+5676#Scorpio Crown#
 
 // --------- 2010.11.30. Love Dad Event Cash item update -------------
 15035#2010 Love Daddy Shirt#
@@ -5229,7 +5229,7 @@
 16653#Battle Manual 75 Box#
 12563#Battle Manual 75#
 18542#Love Guard#
-5653#Darkness Helm J#
+5653#Darkness Helm#
 5772#Blood Admiral's Hat#
 5773#Navy Blue Beret#
 5774#First Mate's Bandana#
@@ -5858,7 +5858,6 @@
 6681#XMAS Cookie#
 6682#Bag Of Selling Goods#
 18850#Polar Bear Cap#
-18851#C Polar Bear Cap#
 
 //-------------------- New 22 Card Items 4456-4477
 4456#Nidhogg Shadow Card#
@@ -6459,7 +6458,6 @@
 19923#Costume Dark Age#
 19925#Costume One Eyed Glasses#
 19926#Costume Black Ribbon#
-19927#Costume Gray Cat#
 19929#Costume Classical Ribbon#
 19930#Costume Angel Silk Hat#
 19928#Costume Gothic Heartwing Hairband#
@@ -6804,7 +6802,7 @@
 6957#Soft Wool#
 6958#Lamb Horn#
 22881#Binding Rope#
-18851#Valentine Heart#
+18851#Cupid's Hairband#
 18854#Valentine Yellow Heart#
 2183#Advanced Angelic Guard#
 2956#Advanced Safety Ring#
@@ -6968,7 +6966,6 @@
 20192#Green Foxtail#
 20193#C Foxtail#
 20194#C Lion Mask#
-20195#C Scratching Cat#
 20196#C Leopard Ear Hat#
 20197#C Amistr Beret#
 20198#C Misty Ears#
@@ -7115,9 +7112,6 @@
 20032#Costume Firinto Scarf#
 20033#Costume Buddhist Priest Crown#
 
-//---------Valentine 2016------------
-20470#Costume Sweet Chocolate Hat#
-
 //---------Costama Wings----------
 17493#Costama Wings#
 20075#Costume Little Fhat#
@@ -7133,7 +7127,7 @@
 
 //---------------Shadow 5th----------------
 14718#Sealed Turtle General Scroll#
-19751#Costume Light And Darkness Crown#
+19751#Light And Darkness Crown#
 24048#Caster Pendant Shadow#
 24109#Caster Earring Shadow#
 24110#Caster Weapon Shadow#
@@ -7276,7 +7270,6 @@
 
 5742#Rudolf Santa Hat#
 
-5555#Leaf Cat Hat#
 5557#Wild Rose Hat#
 
 31132#Christmas Wreath#
@@ -7285,8 +7278,6 @@
 25253#Sugar Box#
 25254#Firewood#
 23202#Vin Chaud#
-
-20255#C Love Cheeks#
 
 19216#Promo Elven Ear#
 14830#Cuterabbit Scroll TH#
@@ -7319,17 +7310,11 @@
 19683#Costume Sweet Candy#
 31195#Costume Chocolate Mini Hat#
 9109#Sweet Drops Egg#
-25290#Sweet Festival Coin#
-25291#Chocolate for Delivery#
 25292#Stolen Cacao Beans#
 11607#Sweet Crepe#
 23259#Strawberry Fresh Cream Cupcake#
 23260#Fruit Parfait#
-23261#Moisty Macaron#
 22991#Soccer Cake#
-23045#Mont Blanc Cake#
-23079#Strawberry Cream Cake#
-
 19789#Costume Sweet Gent#
 19796#Costume Bone Helm#
 19797#Costume Apple of Archer#
@@ -8558,21 +8543,19 @@
 20240#Present Of Snow#
 18914#Baby Deviling#
 20316#Seraph's Winged Helmet#
-20746#Costume: Rudra's Grace#
-20761#Costume Happiness Wings#
+20746#Rudra's Grace#
+20761#Happiness Wings#
 20765#Archangel Wings#
 20036#Sword Master's Crown#
 19912#Costume Cat eye#
 20239#Orange Ribbon Muffler#
-20317#Blue Cat Headset#
-19823#Costume: Kitsune Mask Hood#
 20763#Costume Amistr Bag#
 18530#Tha Despero Mask#
 20266#Costume: Secret Zipper#
 20268#Costume Sleep Eclipse Family#
-20132#C Subject Aura#
-20407#Costume Red Subject Aura#
-13998#Giant Fly Wing Box 500#
+20132#Aura of the Subject 1#
+20407#Ominous Red Aura#
+13998#Giant Fly Wing Box (500 pcs.)#
 18653#Deviruchi Headphone#
 19909#Costume White Baby demom hat#
 20762#Costume GreatDevil Wing#
@@ -8639,7 +8622,6 @@
 20499#Black Cat Ears & White Hat#
 31252#White Cat Ears & Black Hat#
 31472#Fairy Feathers#
-19294#Red Cat Headset#
 20433#Red Christmas Hat#
 20461#Bloodstained Wings#
 
@@ -8726,3 +8708,67 @@
 31438#Costume Fluffy Angel Cape#
 9745#Christmas Miracle#
 9746#New Year's Treasure#
+
+20278#Man's Pride#
+20287#Man's Golden Pride#
+31369#White Long Hair#
+31638#Red Long Hair#
+31642#Violet Long Hair#
+31474#Black Long Hair#
+31670#Miyabi Doll Hair#
+31635#White Fairy Hair#
+25256#Shard of Eternity#
+20516#Wings of Michael#
+20587#Wings of Light and Darkness#
+9755#Winged Treasure#
+
+20212#Loki & Nydhogg Hat#
+20527#Pink Wings#
+20570#Choco Bag#
+20572#Wings of Love#
+31040#Love Angel's Hairband#
+31439#Heartphones#
+31531#Queen of Hearts' Cap#
+31538#Aura of Passion#
+9765#Valentine's Treasure#
+23261#Macaron#
+23045#Mont Blanc#
+25291#Chocolate candy#
+23079#Strawberry Cream Cake#
+31459#Candy Wrapper#
+20255#Love Fever#
+25290#Chocolate Love Coin#
+20470#Sweet chocolate#
+
+9776#Purring Treasure#
+31452#White Cat#
+31491#Orange Tabby Cat#
+20517#The Cat Bag#
+20449#Cat Earphones#
+20195#Scratch McClaw#
+19823#White Cat Hood#
+20263#Drowsy Chonker#
+19294#Red Cat Headset#
+20317#Blue Cat Headset#
+5555#Leaf Cat Hat#
+
+19901#Dating Helmet#
+20348#Picnic Hat#
+11713#Porc Chops#
+11701#Orchid Bouquet#
+6467#Eaurc De Toilette#
+
+19927#Sleepy Gray Kitty#
+31044#Sleepy Pink Kitty#
+31436#Sleepy White Kitty#
+20451#Cap of Cloudless Night#
+
+19326#Book Stack on Head#
+20312#Ominous Red Eye#
+20315#Digital Implant#
+20405#Red Eremes' Scarf#
+31057#Black Eremes' Scarf#
+31545#Blue Eremes' Scarf#
+16660#Auger of Spirit Box#
+9807#Digital Treasure#
+20535#Digital Space#

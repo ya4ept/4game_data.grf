@@ -1304,13 +1304,17 @@ Go back to Cougar guy with Red Leopard Joe's recommendation.#
 Hurry and bring 5 Iron Ore and 1 Phracon to Cougar.#
 #
 
+6019#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#
+You have found the Seal. It뭩 time to bring it to the Cougar.#
+Bring the Seal to the Cougar.#
+
 //건슬링거
 6020#Master Miller's Requst#SG_FEEL#QUE_NOIMAGE#
 According to Master Miller's request, go to Wise Bull Horn in Payon.#
 Talk to Wise Bull Horn.#
 
 6021#Wise Bull Horn's voucher#SG_FEEL#QUE_NOIMAGE#
-Wise Bull Horn can make you a voucher that will demonstrate your desire to become a warrior of the earth. For that he needs 3 Zargons, 10 Shells, 3 Fluffs, 1 Trunk, 3 Rainbow Shells, and 3 Green Herbs.#
+Wise Bull Horn can make you a voucher that will demonstrate your desire to become a warrior of the earth. For that he needs 1 Trunk, 1 Mushroom Spore, and 1 Green Herb.#
 Gather the materials for Wise Bull Horn.#
 
 6022#Making a voucher#SG_FEEL#QUE_NOIMAGE#
@@ -3664,27 +3668,26 @@ Find Garins in Einbroch.#
 You have failed your mission for Kazien because you revealed too much information. Kazien may give you another chance if you try...#
 Kazien#
 
-12010#No entrance#SG_FEEL#QUE_NOIMAGE#
-You're having difficulty getting past the Laboratory Guard. You should let Kazien know of your difficulties, otherwise you may never finish this job#
-Kazien.#
-
-12011#Lyozien#SG_FEEL#QUE_NOIMAGE#
+12010#Lyozien#SG_FEEL#QUE_NOIMAGE#									
 Find a man named Lyozien in the Airship for international flights. As before, keep it discrete and don't tell anyone else about the job.#
 Lyozien#
 
-12012#Meet Mr. Ahman#SG_FEEL#QUE_NOIMAGE#
+12011#Meet Mr. Ahman#SG_FEEL#QUE_NOIMAGE#
 Complete the mission by meeting Mr. Ahman at Izlude Airport and come back to Lyozien.#
 Meet Mr. Ahman#
 
-12013#Delivery complete#SG_FEEL#QUE_NOIMAGE#
-After speaking to Mr. Ahman, you should inform Lyozien that your delivery is complete.#
-Lyozien#
+12012#Delivery complete#SG_FEEL#QUE_NOIMAGE#
+Return to Kazien. Your main task is to always protect the goods from damage.#
+Protect the load#
 
-12014#More missions#SG_FEEL#QUE_NOIMAGE#
-Lyozien says that his brother Kazien may have another job for you.#
-Kazien#
+12013#More missions#SG_FEEL#QUE_NOIMAGE#
+Talk to Liozen and find out what is actually in these premises.#
+Talk about packages#
 
-//----------President Quest------------
+12014#Lab Pass#SG_FEEL#QUE_IMAGE#
+You need to quietly get into the Regenshirem laboratory. Fishbon will tell you how to get there.#
+Talk with Fishbon#
+
 12015#Ghalstein#SG_FEEL#QUE_NOIMAGE#
 You have overheard Ghalstein in a suspicious conversation. Try to get more information about what you may have heard.#
 #
@@ -3734,12 +3737,12 @@ Sneak into the Secret Archive with Lestin's pass (something is written on the ba
 #
 
 12027#Rekenber's Secret Archive#SG_FEEL#QUE_NOIMAGE#
-Find Esuna outside of Lighthalzen and relay the information that you found in the Secret Archive.#
-#
+Esuna carefully examined the documents you found and asked to take them to the president.#
+Talk with the president#
 
 12028#Kurelle the traitor#SG_FEEL#QUE_NOIMAGE#
 Return to the President with news of the Secret Wing traitor Kurelle. Then return to Ghalstein for the antidote for the red poison that he gave you.#
-#
+Talk with the president#
 
 //-----------Engagement Ring----------
 12029#Lost Engagement Ring#SG_FEEL#QUE_NOIMAGE#
@@ -3788,8 +3791,8 @@ Explore the the 2nd level of the Ayothaya dungeon.#
 Learn about Boonthom's friend's fate and return to the shaman#
 
 12040#Benkaistein's Journal#SG_FEEL#QUE_NOIMAGE#
-Bring the journal to Digotz to remind him of all the good times they used to share together.#
-Digotz#
+Bring the journal to Digotz and Maku to remind them of all the good times they used to share together.#
+Digotz and Maku#
 
 12041#Benkaistein's Journal#SG_FEEL#QUE_NOIMAGE#
 Bring the journal to Maku to remind him of all the good times they used to share together.#
@@ -21713,6 +21716,285 @@ Talk to Metz when the time comes#
 Wait for Engel to complete his work with the Sign.#
 Talk to Engel when the time comes#
 
+17101#Daily hunt for "Drops"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Drops"#
+#
+17102#Daily hunt for "Lunatic"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Lunatic"#
+#
+17103#Daily hunt for "Fabre"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Fabre"#
+#
+17104#Daily hunt for "Chonchon"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Chonchon"#
+#
+17105#Daily hunt for "Pupa"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Pupa"#
+#
+17106#Daily hunt for "Peco Peco Egg"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Peco Peco Egg"#
+#
+17107#Daily hunt for "Willow"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Willow"#
+#
+17108#Daily hunt for "Picky"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Picky"#
+#
+17109#Daily hunt for "Hornet"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Hornet"#
+#
+17110#Daily hunt for "Condor"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Condor"#
+#
+17111#Daily hunt for "Rocker"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Rocker"#
+#
+17112#Daily hunt for "Worm Tail"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Worm Tail"#
+#
+17113#Daily hunt for "Spore"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Spore"#
+#
+17114#Daily hunt for "Thief Bug Egg"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Thief Bug Egg"#
+#
+17115#Daily hunt for "Muka"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Muka"#
+#
+17116#Daily hunt for "Familiar"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Familiar"#
+#
+17117#Daily hunt for "Peco Peco"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Peco Peco"#
+#
+17118#Daily hunt for "Poison Spore"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Poison Spore"#
+#
+17119#Daily hunt for "Poison Spore"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Poison Spore"#
+#
+17120#Daily hunt for "Smokie"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Smokie"#
+#
+17121#Daily hunt for "Elder Willow"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Elder Willow"#
+#
+17122#Daily hunt for "Coco"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Coco"#
+#
+17123#Daily hunt for "Thara Frog"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Thara Frog"#
+#
+17124#Daily hunt for "Thara Frog"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Thara Frog"#
+#
+17125#Daily hunt for "Cruiser"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Cruiser"#
+#
+17126#Daily hunt for "Kukre"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Kukre"#
+#
+17127#Daily hunt for "Orc Baby"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Orc Baby"#
+#
+17128#Daily hunt for "Orc Warrior"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Orc Warrior"#
+#
+17129#Daily hunt for "Vadon"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Vadon"#
+#
+17130#Daily hunt for "Megalodon"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Megalodon"#
+#
+17131#Daily hunt for "Marse"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Marse"#
+#
+17132#Daily hunt for "Cornutus"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Cornutus"#
+#
+17133#Daily hunt for "Myst"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Myst"#
+#
+17134#Daily hunt for "Shellfish"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Shellfish"#
+#
+17135#Daily hunt for "Marine Sphere"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Marine Sphere"#
+#
+17136#Daily hunt for "Phen"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Phen"#
+#
+17137#Daily hunt for "Orc Skeleton"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Orc Skeleton"#
+#
+17138#Daily hunt for "Zenorc"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Zenorc"#
+#
+17139#Daily hunt for "Mummy"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Mummy"#
+#
+17140#Daily hunt for "Mummy"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Mummy"#
+#
+17141#Daily hunt for "Alligator"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Alligator"#
+#
+17142#Daily hunt for "Merman"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Merman"#
+#
+17143#Daily hunt for "Savage"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Savage"#
+#
+17144#Daily hunt for "Sohee"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Sohee"#
+#
+17145#Daily hunt for "Marionette"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Marionette"#
+#
+17146#Daily hunt for "Hunter Fly"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Hunter Fly"#
+#
+17147#Daily hunt for "Requiem"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Requiem"#
+#
+17148#Daily hunt for "Marduk"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Marduk"#
+#
+17149#Daily hunt for "Pasana"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Pasana"#
+#
+17150#Daily hunt for "Dark Frame"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Dark Frame"#
+#
+17151#Daily hunt for "Evil Druid"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Evil Druid"#
+#
+17152#Daily hunt for "Wraith"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Wraith"#
+#
+17153#Daily hunt for "Raydric Archer"#SG_FEEL#QUE_IMAGE#
+Kill 10 monsters "Raydric Archer"#
+#
+17154#Daily hunt for "Grand Peco"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Grand Peco"#
+#
+17155#Daily hunt for "Sleeper"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Sleeper"#
+#
+17156#Daily hunt for "Goat"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Goat"#
+#
+17157#Daily hunt for "Harpy"#SG_FEEL#QUE_IMAGE#
+Kill 20 monsters "Harpy"#
+#
+17158#Daily hunt for "Clock"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Clock"#
+#
+17159#Daily hunt for "Punk"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Punk"#
+#
+17160#Daily hunt for "Rideword"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Rideword"#
+#
+17161#Daily hunt for "Enchanted Soil"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Enchanted Soil"#
+#
+17162#Daily hunt for "Uzhas"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Uzhas"#
+#
+17163#Daily hunt for "Miyabi Doll"#SG_FEEL#QUE_IMAGE#
+Kill 15 monsters "Miyabi Doll"#
+#
+17164#Daily hunt for "Dragon Tail"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Dragon Tail"#
+#
+17165#Daily hunt for "Spring Rabbit"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Spring Rabbit"#
+#
+17166#Daily hunt for "Pest"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Pest"#
+#
+17167#Daily hunt for "Bathory"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Bathory"#
+#
+17168#Daily hunt for "Alarm"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Alarm"#
+#
+17169#Daily hunt for "Vavayaga"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Vavayaga"#
+#
+17170#Daily hunt for "Hyegun"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Hyegun"#
+#
+17171#Daily hunt for "Firelock Soldier"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Firelock Soldier"#
+#
+17172#Daily hunt for "Zipper Bear"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Zipper Bear"#
+#
+17173#Daily hunt for "Petite"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Petite"#
+#
+17174#Daily hunt for "Rafflesia"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Rafflesia"#
+#
+17175#Daily hunt for "Venomous"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Venomous"#
+#
+17176#Daily hunt for "Pitman"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Pitman"#
+#
+17177#Daily hunt for "Novus"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Novus"#
+#
+17178#Daily hunt for "Solider"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Solider"#
+#
+17179#Daily hunt for "Freezer"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Freezer"#
+#
+17180#Daily hunt for "Heater"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Heater"#
+#
+17181#Daily hunt for "Injustice"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Injustice"#
+#
+17182#Daily hunt for "Rybio"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Rybio"#
+#
+17183#Daily hunt for "Dark Priest"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Dark Priest"#
+#
+17184#Daily hunt for "Stapo"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Stapo"#
+#
+17185#Daily hunt for "Roween"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Roween"#
+#
+17186#Daily hunt for "Siroma"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Siroma"#
+#
+17187#Daily hunt for "Shinobi"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Shinobi"#
+#
+17188#Daily hunt for "Evil Nymph"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Evil Nymph"#
+#
+17189#Daily hunt for "Deviruchi"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Deviruchi"#
+#
+17190#Daily hunt for "Mineral"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Mineral"#
+#
+17191#Daily hunt for "Kaho"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Kaho"#
+#
+17192#Daily hunt for "Neraid"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Neraid"#
+#
+17193#Daily hunt for "Disguise"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Disguise"#
+#
 17201#Back to work!#SG_FEEL#QUE_IMAGE#
 Help Santa by pacifying 50 Cookies at Toy Factory#
 #
@@ -21721,4 +22003,16 @@ Go up the stairs to the roof of her house and jump down the chimney! She'll be a
 #
 17203#Feed Rudolph#SG_FEEL#QUE_IMAGE#
 Bring 20 Carrots to Reindeer herder so he can feed Santa's favourite reindeer.#
+#
+17208#Pie of dreams#SG_FEEL#QUE_IMAGE#
+Buy Strawberry Cream Cake from Chef Assistant (prontera 156, 212) and bring it to Jonas#
+#
+17209#Chocolates for Cupid#SG_FEEL#QUE_IMAGE#
+Persuade Hilda to give you a candy for Cupid and feed it to him.#
+#
+17210#Feathers for Cupid#SG_FEEL#QUE_IMAGE#
+Bring Cupid 5 PecoPeco Feathers#
+#
+17211#Needles for Cupid#SG_FEEL#QUE_IMAGE#
+Bring Cupid 3 Cactus Needle#
 #

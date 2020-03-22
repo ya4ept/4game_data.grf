@@ -1240,3 +1240,8 @@ gl_chyard_.rsw#gl_chyard_.rsw#
 1@xm_d.gat#1@xm_d.gat#
 1@xm_d.rsw#1@xm_d.rsw#
 유저인터페이스\map\1@xm_d.bmp#유저인터페이스\map\1@xm_d.bmp#
+
+march8.gat#prontera.gat#	
+march8.gnd#prontera.gnd#	
+march8.rsw#prontera.rsw#	
+유저인터페이스\map\march8.bmp#유저인터페이스\map\prontera.bmp#	

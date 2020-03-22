@@ -3476,5 +3476,10 @@ JobNameTable = {
 	[jobtbl.JT_ORC_X2016] = "ORC_X2016",
 	[jobtbl.JT_SWEETS_DROPS] = "SWEETS_DROPS",
 	[jobtbl.JT_G13_ZOMBIE] = "Zombie",
-	[jobtbl.JT_4_F_NOVICE2] = "4_f_novice2"
+	[jobtbl.JT_4_F_NOVICE2] = "4_f_novice2",
+	[jobtbl.JT_E_HIGH_ORC] = "high_orc",
+	[jobtbl.JT_E_ORC_ARCHER] = "ORC_ARCHER",
+	[jobtbl.JT_E_ORC_SKELETON] = "ORC_SKELETON",
+	[jobtbl.JT_E_ORC_ZOMBIE] = "ORC_ZOMBIE",
+	[jobtbl.JT_E_ORK_WARRIOR] = "ORK_WARRIOR"
 }

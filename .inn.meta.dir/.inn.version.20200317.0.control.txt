@@ -1,0 +1,75 @@
+distribution {3}
+    version=20200305.0
+    type=full
+    env=
+    files=../../20200305.0/distr/
+    control-hash=89027fbaa39dbba10d1e59a5ddb1c8156f48b5cc
+    deleted-control-hash=8d1c7005e8853ca707aa90219cf83b74eda073b5
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1724752366
+    size=1868948701
+    compressed-size-total=1724752366
+    size-total=1868948701
+    compressed-stages=
+
+    version=20200310.0
+    type=partial
+    env=
+    files=../../20200310.0/distr/
+    control-hash=1b641b4a28cc5db2f5769d38ca9134334a046bf7
+    deleted-control-hash=f9cb84f939e84e384dbdc40e30ae64e0fa6d7a12
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1417051870
+    size=1533696892
+    compressed-size-total=1725283353
+    size-total=1868948701
+    compressed-stages=
+
+    version=20200317.0
+    type=partial
+    env=
+    files=./
+    control-hash=933f8e44d090c72739224d5d741cad5736861bfd
+    deleted-control-hash=3d46952c04b6d349d4f0a20f15881e8fef1bcaa6
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1416569071
+    size=1533698137
+    compressed-size-total=1724800554
+    size-total=1868949946
+    compressed-stages=
+
+delta {5}
+    version=20200226.0
+    files=../delta/20200226.0/
+    compressed-size=5622592
+    control-hash=bd73afd58b99f2112b208f3833b7ec79ef8625c7
+
+    version=20200303.0
+    files=../delta/20200303.0/
+    compressed-size=3428450
+    control-hash=35354db5ae3ced23b19b8fa8927c15008538327e
+
+    version=20200303.1
+    files=../delta/20200303.1/
+    compressed-size=3032456
+    control-hash=c623217f1d5bf9ddd3443a019f34e40a849355cd
+
+    version=20200305.0
+    files=../delta/20200305.0/
+    compressed-size=3032456
+    control-hash=d2e265167f0a37f286c91b220f8ab5ddf070669f
+
+    version=20200310.0
+    files=../delta/20200310.0/
+    compressed-size=1937804
+    control-hash=a73d04080618aab645ee6451907da98de8ebb553
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2020-03-17T17:11:46+03:00
+    date-modified=2020-03-17T17:11:46+03:00
+    running-time-sec=534
+

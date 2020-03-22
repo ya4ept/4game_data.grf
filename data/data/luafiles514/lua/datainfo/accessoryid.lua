@@ -1970,6 +1970,16 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Happy_Cat_TW = 1980,
 	ACCESSORY_C_Pure_Love_Muffler = 1981,
 	ACCESSORY_Cons_Of_Earth = 1982,
+	ACCESSORY_C_Blanc_Neige_Prince = 1983,
+	ACCESSORY_C_PGstone_Knit_Hat_PK = 1984,
+	ACCESSORY_C_PGstone_Knit_Hat_BW = 1985,
+	ACCESSORY_Eleanor_WigB = 1986,
+	ACCESSORY_C_Sweet_Corone = 1987,
+	ACCESSORY_C_Frill_Collar = 1988,
+	ACCESSORY_VIP_Hair_Male = 1989,
+	ACCESSORY_VIP_Hair_Female = 1990,
+	ACCESSORY_Nut_Cracker = 1991,
 	ACCESSORY_C_Mini_Glasses = 47,
-	ACCESSORY_C_Shaving_Cream = 847
+	ACCESSORY_C_Shaving_Cream = 847,
+	ACCESSORY_Bravery_Bag = 2
 }
