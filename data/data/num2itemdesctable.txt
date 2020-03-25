@@ -24178,13 +24178,6 @@ When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-12462#
- A secret potion made using pixie mustache.
-Adds 3% resistance to Magical Attacks for 3 minutes.
-When a character is incapable of combat, the effect of item disappears.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 12463#
 A secret potion made using pixie mustache.
 Adds 3% resistance to Magical Attacks for 1 minute.
@@ -24195,13 +24188,6 @@ Weight: ^7777771^000000
 12464#
 A secret potion made using tough dragon scales.
 Adds 3% resistance to Physical Attacks for 3 minutes.
-When a character is incapable of combat, the effect of item disappears.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-12465#
-A secret potion made using tough dragon scales. 
-Adds 3% resistance to Physical Attacks for 1 minute.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -31705,29 +31691,6 @@ Weight: ^7777770^000000
 #
 5146#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-2576#
-A backpack befitting of any hero.
-Enables the use of level 1 Greed
-If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +20
--Int -> Magic Attack +30
--Vit -> Tolerance to Neutral Property +5
--Agi -> Aspd +8%
--Dex -> Ranged Attack +5
--Luk -> Cri +10
-If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +30
--Int -> Magic Attack +50
--Vit -> Tolerance to Neutral Property +10
--Agi -> Aspd +8% & Aspd +1
--Dex -> Ranged Attack +10
--Luk -> Cri +15
-Class: ^777777Garment^000000
-Defense: ^77777720^000000
-Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
 #
 
 16999#
@@ -41239,9 +41202,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 19911#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-19912#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 19907#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -41523,15 +41483,6 @@ Each Groovember Pack will always give you 1 Safe to 7 Chance Box and 1 Kitcoin a
 1x Battle Manual X3
 250x Prize Medal
 Weight: ^7777771^000000
-#
-19634#
-A mask that is effective when you have a cold, sometimes people use to keep warm
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to add enchantments to it.
-Class: ^777777Costume^000000
-Location: ^777777Bottom ^000000
-Weight: ^7777770^000000
-Required Lv.: ^7777771^000000
-Job: ^777777All jobs^000000
 #
 19636#
 You can make people laugh by wearing this oversized red nose
@@ -48121,12 +48072,7 @@ Required lvl: ^7777771^000000
 Job: ^777777All^000000
 #
 19985#
-A crown made with rare crystals.
-
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19986#
 A fluffy looking hat.
@@ -49727,14 +49673,6 @@ Jobs: ^777777All^000000
 
 17709#
 Contains 1 Costume Amistr Bag
-#
-
-31052#
-A protective mask that was used by Alchemists to protect from poisonous gas.
-Type: ^777777Costume^000000 Armor: ^7777770^000000
-Location: ^777777Upper/Mid/Lower ^000000Weight: ^7777770^000000
-Req. level: ^7777771^000000
-Job: ^777777All Jobs^000000
 #
 23164#
 A potion created and distributed by 13th anniversary NPC Granpa Boxter.
@@ -53591,5 +53529,52 @@ Weight: ^7777771^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20407#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12465#
+^ff0000Account bound.^000000
+Wash your hands regularly:
+- after the street
+- before putting on a mask
+- before touching your face
+Heals 10% HP and SP
+Weight: ^7777771^000000
+#
+12462#
+^ff0000Account bound.^000000
+An alcohol-containing gel to clean up your hands and phone after visiting public places.
+Heals 10% HP and SP
+Weight: ^7777771^000000
+#
+7966#
+^ff0000Account bound.^000000
+The main measures to combat the epidemy are:
+- compliance with the recommended measures of self-isolation
+- washing hands, especially after the street
+- timely call of doctors if you have symptoms of the virus
+Weight: ^7777771^000000
+#
+19634#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31052#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19158#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19912#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31301#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20841#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19221#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+2576#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

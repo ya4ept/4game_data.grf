@@ -3400,7 +3400,7 @@ SKILL_DESCRIPT = {
 		"caster's remaining SP. After using Guillotine",
 		"Fist, the Fury status is automatically canceled",
 		"and SP will not be naturally restored for",
-		"5 minutes.",
+		"3 sec.",
 		"^00BB00Each cast requires 5 Spirit Spheres.^000000",
 		"[Lv 1]: ^777777+400 Atk, 4 sec cast time^000000",
 		"[Lv 2]: ^777777+550 Atk, 3.5 sec cast time^000000",
@@ -4611,8 +4611,8 @@ SKILL_DESCRIPT = {
 		"Spell Breaker 2^000000",
 		"Skill Form: ^777777Supportive^000000",
 		"Description: ^777777Exchange caster's remaining SP with",
-		"target's remaining SP. The SP that the caster",
-		"receives cannot exceed the caster's Max SP limit.^000000"
+		"target's remaining SP. Exchanges the current SP of the caster",
+		"and target at the cost of half of the exchanged SP.^000000"
 	},
 	[SKID.PF_SOULBURN] = {
 		"[Soul Siphon]",
@@ -4873,7 +4873,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_SPIRALPIERCE] = {
 		"[Clashing Spiral]",
 		"Max Level: 5",
-		"^777777Skill Requirement: Spear Mastery 10,",
+		"^777777Skill Requirement: Spear Mastery 5,",
 		"Pierce 5, Peco Peco Riding 1, Spear Stab 5^000000",
 		"Skill Form: ^777777Aggressive^000000",
 		"Description: ^777777Hit an enemy with spiraling strikes",
@@ -4939,8 +4939,7 @@ SKILL_DESCRIPT = {
 		"^777777Skill Requirement: Fury 5^000000",
 		"Skill Form: ^777777Supportive^000000",
 		"Description: ^777777Summon 5 Spirit Spheres at one time.",
-		"The cast time of this skill is double the time",
-		"of the Summon Spirit Sphere skill.^000000"
+		"2,5 sec. cast time.^000000"
 	},
 	[SKID.PF_MINDBREAKER] = {
 		"[Mind Breaker]",
@@ -6253,11 +6252,11 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Protect the targeted character with",
 		"all four kinds of chemical protection.",
 		"^00BB00Each cast requires 1 Glistening Coat.^000000",
-		"[Lv 1] ^777777120 sec. duration^000000",
-		"[Lv 2] ^777777240 sec. duration^000000",
-		"[Lv 3] ^777777360 sec. duration^000000",
-		"[Lv 4] ^777777480 sec. duration^000000",
-		"[Lv 5] ^777777600 sec. duration^000000"
+		"[Lv 1] ^7777772 min. duration^000000",
+		"[Lv 2] ^7777774 min. duration^000000",
+		"[Lv 3] ^7777776 min. duration^000000",
+		"[Lv 4] ^7777778 min. duration^000000",
+		"[Lv 5] ^77777710 min. duration^000000"
 	},
 	[SKID.PA_SHIELDCHAIN] = {
 		"Rapid Smiting",
@@ -6336,15 +6335,15 @@ SKILL_DESCRIPT = {
 		"^00BB00Each cast requires 1 Blue Gemstone.^777777",
 		"2 second Cast Delay.^000000",
 		"[Lv 1] ^7777775 sec. duration, Enemy Speed -5%,",
-		" 400 damage/sec.^000000",
-		"[Lv 2] ^7777776 sec. duration, Enemy Speed -10%,",
 		" 600 damage/sec.^000000",
+		"[Lv 2] ^7777776 sec. duration, Enemy Speed -10%,",
+		" 700 damage/sec.^000000",
 		"[Lv 3] ^7777777 sec. duration, Enemy Speed -15%,",
 		" 800 damage/sec.^000000",
 		"[Lv 4] ^7777778 sec. duration, Enemy Speed -20%,",
-		" 1,000 damage/sec.^000000",
+		" 900 damage/sec.^000000",
 		"[Lv 5] ^7777779 sec. duration, Enemy Speed -25%,",
-		" 1,200 damage/sec.^000000"
+		" 1,000 damage/sec.^000000"
 	},
 	[SKID.WS_CARTTERMINATION] = {
 		"High Speed Cart Ram",
@@ -6372,7 +6371,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_OVERTHRUSTMAX] = {
 		"Maximum Power-Thrust",
 		"Max Level: 5",
-		"^777777Skill Requirement: Power Thrust %^000000",
+		"^777777Skill Requirement: Power Thrust 5^000000",
 		"Target: ^777777Caster Only^000000",
 		"Description: ^777777Increase caster's weapon damage by",
 		"spending a certain amount of zeny. Cannot be",
@@ -6382,7 +6381,7 @@ SKILL_DESCRIPT = {
 		"[Lv 1]:^777777Atk +20%, 3,000 zeny^000000",
 		"[Lv 2]:^777777Atk +40%, 3,500 zeny^000000",
 		"[Lv 3]:^777777Atk +60%, 4,000 zeny^000000",
-		"[Lv 4]:^777777Atk +80%, 4,000 zeny^000000",
+		"[Lv 4]:^777777Atk +80%, 4,500 zeny^000000",
 		"[Lv 5]:^777777Atk+ 100%, 5,000 zeny^000000"
 	},
 	[SKID.CG_LONGINGFREEDOM] = {
@@ -6465,7 +6464,7 @@ SKILL_DESCRIPT = {
 		"modifier). In PvP, Acid Bomb may damage",
 		"the targeted character's Weapon or Armor.",
 		"This skill has a 1 second Fixed Cast Time",
-		"followed by a 1 second Global Skill Delay,",
+		"followed by a 2 second Global Skill Delay,",
 		"and consumes 30 SP per cast. Has a Skill",
 		"Level's % chance to break weapon or armor",
 		"Weapon/Armor Damage Chance By Level^000000",

@@ -1,3 +1,36 @@
+25.03.2020 11:58
+Community Manager
+Dear players! We need some more time to deliver today's update, thus the maintenance is prolonged till 11:00 CET. Thank you for understanding!
+
+25.03.2020 14:59
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— Lead the Fight against Virus and get special costume masks and handy consumables until the 1st of April;
+https://eu.4gameforum.com/threads/674006/
+— High refinement rates are active until the 1st of April;
+https://eu.4gameforum.com/threads/674006/
+— 25% XP bonus has been prolonged until the 1st of April.
+
+Shop:
+— Refinement sets will be available in 4Game launcher until the 1th of April;
+https://eu.4gameforum.com/threads/674009/
+— Bravery Bag, Golden Angel Wings and Hairband will be available in the Shop until the 1st of April;
+https://eu.4gameforum.com/threads/674009/
+— Blinking, Gemini and Cat Eyes will be available in the Shop and 4Game launcher as a set until the 1st of April.
+https://eu.4gameforum.com/threads/674012/
+
+Gameplay changes:
+— Guillotine Fist skill SP restoration delay reduced to 3 seconds;
+— Acid Bomb skill now has a 2 seconds delay.
+
+Finished activities:
+— Advanced leveling and Racing sets have been removed from the launcher;
+— Digital Treasure has been removed from the Shop and launcher;
+— Sale has ended.
+
+==========
 18.03.2020
 Community Manager
 We've been waiting for it for a long time, and finally, Rebirth is here, with party XP bonus and 2 new instances!

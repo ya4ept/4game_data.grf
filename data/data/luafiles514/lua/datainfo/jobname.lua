@@ -3481,5 +3481,6 @@ JobNameTable = {
 	[jobtbl.JT_E_ORC_ARCHER] = "ORC_ARCHER",
 	[jobtbl.JT_E_ORC_SKELETON] = "ORC_SKELETON",
 	[jobtbl.JT_E_ORC_ZOMBIE] = "ORC_ZOMBIE",
-	[jobtbl.JT_E_ORK_WARRIOR] = "ORK_WARRIOR"
+	[jobtbl.JT_E_ORK_WARRIOR] = "ORK_WARRIOR",
+	[jobtbl.JT_E_VENOMOUS] = "VENOMOUS"
 }

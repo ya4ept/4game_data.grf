@@ -6769,7 +6769,7 @@
 17267#Costume Collection#
 17448#Toybox Scroll#
 19984#Costume Winter Hat#
-19985#Costume Aura Quartz Crown#
+19985#Crown of Legendary kama#
 19986#Costume LunatiCostume Hat#
 19987#Costume Blue Fur Hat#
 19988#Costume Elder Crown#
@@ -7297,7 +7297,7 @@
 18563#Heart Wing Hairband#
 
 20841#Golden Angel Wing#
-19221#Moving Golden Angel Wing#
+19221#Golden Angel Hairband#
 14835#Love Cheeks Scroll TH#
 14836#Xin Niar Scroll TH#
 28512#Golden Clip#
@@ -8547,7 +8547,6 @@
 20761#Happiness Wings#
 20765#Archangel Wings#
 20036#Sword Master's Crown#
-19912#Costume Cat eye#
 20239#Orange Ribbon Muffler#
 20763#Costume Amistr Bag#
 18530#Tha Despero Mask#
@@ -8772,3 +8771,13 @@
 16660#Auger of Spirit Box#
 9807#Digital Treasure#
 20535#Digital Space#
+
+12465#Liquid Soap#
+12462#Hand Sanitizer#
+7966#Virus Memo#
+19634#Medical Mask#
+31052#Biohazard Mask#
+
+19158#Gemini Eyes#
+19912#Cat Eyes#
+31301#Blinking Eyes#

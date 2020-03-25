@@ -6714,7 +6714,7 @@
 17267#Costume Collection#
 17448#Toybox Scroll#
 19984#Hat#
-19985#Hat#
+19985#Headgear#
 19986#Hat#
 19987#Hat#
 19988#Hairband#
@@ -7655,3 +7655,13 @@
 9807#Digital Treasure#
 20535#Garment#
 20407#Headgear#
+
+12465#Liquid Soap#
+12462#Hand Sanitizer#
+7966#Virus Memo#
+19634#Headgear#
+31052#Headgear#
+
+19158#Accessory#
+19912#Accessory#
+31301#Accessory#

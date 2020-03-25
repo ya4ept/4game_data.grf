@@ -41206,15 +41206,6 @@ for 30 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-12462#
-A secret potion made
-using pixie mustache.
-Adds 3% resistance
-to Magical Attacks 
-for 3 minutes.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 12463#
 A secret potion made
 using pixie mustache.
@@ -41230,15 +41221,6 @@ using tough dragon
 scales. Adds 3% 
 resistance to Physical
 Attacks for 3 minutes.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-12465#
-A secret potion made
-using tough dragon
-scales. Adds 3% 
-resistance to Physical
-Attacks for 1 minute.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -62880,15 +62862,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-19912#
-Meow~ change to mischievous cat's eye~
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 19907#
 Beautiful mask that can hide who you are. It has a rumor that it gives little bit of mood since you don't know who they are if they wear it.
 Class: ^777777Costume: ^7777770^000000
@@ -63385,16 +63358,6 @@ Each Groovember Pack will always give you ^0000ff1 Safe to 7 Chance Box^000000 a
 250x Prize Medal
 Weight: ^7777771^000000
 ^ff0000Box Account Bound^000000
-#
-
-19634#
-A mask that is effective when you have a cold, sometimes people use to keep warm
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to add enchantments to it.
-Class: ^777777Costume^000000
-Location: ^777777Bottom ^000000
-Weight: ^7777770^000000
-Required Lv.: ^7777771^000000
-Job: ^777777All^000000
 #
 19636#
 You can make people laugh by wearing this oversized red nose
@@ -70520,12 +70483,13 @@ Required lvl: ^7777771^000000
 Job: ^777777All^000000
 #
 19985#
+^ff0000Account bound^000000
 A crown made with rare crystals.
-
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
+Class: ^777777Costume^000000 
+Location:  ^777777Upper ^000000
+Def : ^7777770^000000 Weight: ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
 #
 19986#
 A fluffy looking hat.
@@ -72530,14 +72494,6 @@ Jobs: ^777777All^000000
 
 17709#
 Contains 1 Costume Amistr Bag
-#
-
-31052#
-A protective mask that was used by Alchemists to protect from poisonous gas.
-Type: ^777777Costume^000000 Armor: ^7777770^000000
-Location: ^777777Upper/Mid/Lower ^000000Weight: ^7777770^000000
-Req. level: ^7777771^000000
-Job: ^777777All^000000
 #
 23164#
 A potion created and distributed by 13th anniversary NPC Granpa Boxter.
@@ -83255,15 +83211,6 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19912#
-Meow~ change to mischievous cat's eye~
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 19823#
 A soft hood decorated with cat ears. Not a single cat was hurt!
 Class: ^777777Costume^000000
@@ -85611,6 +85558,139 @@ Been dreaming about the augmented reality? Dream no more! With this aura you'll 
 Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+12465#
+^ff0000Account bound.^000000
+Wash your hands regularly:
+- after the street
+- before putting on a mask
+- before touching your face
+Heals 10% HP and SP
+Weight: ^7777771^000000
+#
+12462#
+^ff0000Account bound.^000000
+An alcohol-containing gel to clean up your hands and phone after visiting public places.
+Heals 10% HP and SP
+Weight: ^7777771^000000
+#
+7966#
+^ff0000Account bound.^000000
+The main measures to combat the epidemy are:
+- compliance with the recommended measures of self-isolation
+- washing hands, especially after the street
+- timely call of doctors if you have symptoms of the virus
+Weight: ^7777770^000000
+#
+19634#
+^ff0000 Character bound.^000000
+Terms of use:
+- wash your hands before putting on a mask
+- use the mask no longer than 2-3 hours
+- the mask must be removed by the straps
+- dispose used mask immediately
+- don't reuse it
+- if you touched the mask while removing it - wash your hands or clean them up with sanitizer.
+EXP from monsters +5%
+Inflict 1000% more weapon damage on Virus.
+^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31052#
+^ff0000 Character bound.^000000
+Personal protective equipment. Remember that in real life such masks are used my medical staff in strict accordance with instructions.
+EXP from monsters +15%
+Inflict 2000% more weapon damage on Virus.
+^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper, middle, lower)^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19158#
+^FF0000Account bound^000000
+An accessory that will make your eyes as blue as Gemini's from the Somatology Laboratory. 
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19912#
+^FF0000Account bound^000000
+Cat's eyes? There is nothing easier! Just wear this cute accessory. Unfortunately, it is unlikely that you will be able to see in the dark.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31301#
+^FF0000Account bound^000000
+To blink or not to blink?.. With this accessory, you will definitely not have such a question. 
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20841#
+^ff0000Account bound.^000000
+A pair of wings of a shining angel.
+MDEF +10
+If base stat is 90 or higher:
+VIT: Max HP/SP + 5%
+STR: ATK + 15
+INT: MATK + 15
+AGI: Aspd + 1
+DEX: Increases long-ranged damage on targets by 5%
+LUK: Critical damage + 5%
+
+If refine level is +9 or higher and base stat is 90+:
+VIT: Additional Max HP/SP + 5%
+STR: Additional ATK + 15
+INT: Additional MATK + 15
+AGI: Additional Aspd + 1
+DEX: Additional Increases long-ranged damage on targets by 5%
+LUK: Additional Critical damage + 5%
+^6A5ACD[If used with ^008080Golden Angel Hairband^000000]^000000
+All Stats +1
+Class: ^777777Garment^000000
+Defense: ^77777720^000000 Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19221#
+^ff0000Account bound.^000000
+A hairband adorned with what appears to be the wings of a shining angel.
+MDEF +5
+If base stat is 70 or higher:
+VIT: Max HP/SP + 2%
+STR: ATK + 5
+INT: MATK + 5
+AGI: Aspd + 2%
+DEX: Increases long-ranged damage on targets by 2%
+LUK: Critical damage + 2%
+
+If refine level is +7 or higher and base stat is 70+:
+VIT: Additional Max HP/SP + 3%
+STR: Additional ATK + 10
+INT: Additional MATK + 10
+AGI: Additional Aspd + 3%
+DEX: Additional Increases long-ranged damage on targets by 3%
+LUK: Additional Critical damage + 3%%
+^6A5ACD[If used with ^008080Golden Angel Wing^000000]^000000
+All Stats +1
+Class: ^777777Headgear (Upper)^000000
+Defense: ^77777710^000000 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
