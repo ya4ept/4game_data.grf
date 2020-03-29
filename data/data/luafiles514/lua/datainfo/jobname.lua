@@ -4196,5 +4196,11 @@ JobNameTable = {
 	[jobtbl.JT_4_TEDDY_BEAR_B] = "teddy_bear_b",
 	[jobtbl.JT_4_TEDDY_BEAR_B_L] = "teddy_bear_b_l",
 	[jobtbl.JT_RU_E_ECLIPS] = "ECLIPSE",
-	[jobtbl.JT_G13_ZOMBIE] = "Zombie"
+	[jobtbl.JT_G13_ZOMBIE] = "Zombie",
+	[jobtbl.JT_E_HIGH_ORC] = "high_orc",
+	[jobtbl.JT_E_ORC_ARCHER] = "ORC_ARCHER",
+	[jobtbl.JT_E_ORC_SKELETON] = "ORC_SKELETON",
+	[jobtbl.JT_E_ORC_ZOMBIE] = "ORC_ZOMBIE",
+	[jobtbl.JT_E_ORK_WARRIOR] = "ORK_WARRIOR",
+	[jobtbl.JT_E_VENOMOUS] = "VENOMOUS"
 }

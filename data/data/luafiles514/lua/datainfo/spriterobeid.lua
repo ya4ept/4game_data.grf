@@ -67,5 +67,11 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Gimmick_One_Feather = 66,
 	ROBE_C_Evil_Druid_Cross = 67,
 	ROBE_Bow_On_the_Back = 68,
-	ROBE_C_Sakura_Fes_TW = 69
+	ROBE_C_Sakura_Fes_TW = 69,
+	ROBE_Santa_Backpack = 70,
+	ROBE_C_Ice_Wing = 71,
+	ROBE_Wing_Of_Angel_Move_RD = 72,
+	ROBE_Wing_Of_Angel_Move_BK = 73,
+	ROBE_Wing_Of_Angel_Move_RB = 74,
+	ROBE_Wing_Of_Angel_Move_GD = 75
 }

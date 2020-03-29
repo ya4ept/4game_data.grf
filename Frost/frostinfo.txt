@@ -1,8 +1,8 @@
-# gameshield32 version:30.17.9.51|30.17.9.51
+# gameshield32 version:32.17.9.11|32.17.9.11
 # gameshield64 version:0.0.0.0|0.0.0.0
 # driver32 version:10.17.0.35|10.17.0.35
 # driver64 version:10.17.1.35|10.17.1.35
-# launcher32 version:10.3.1.42|10.3.1.42
+# launcher32 version:10.3.1.46|10.3.1.46
 # launcher64 version:10.3.1.18|10.3.1.18
 # collector32 version:1.3.9.56|1.3.9.62
 # collector64 version:10.3.9.54|10.3.9.54
@@ -15,13 +15,13 @@ redir ru|109.105.140.171|10001-10016,17453|109.105.133.53|10001-10016,17453|100
 redir ru|109.105.140.168|10001-10016,17453|109.105.133.116|10001-10016,17453|100
 redir ru|109.105.140.169|10001-10016,17453|109.105.133.119|10001-10016,17453|100
 mcr 109.105.133.106:8989
-get files/gameshield_32/30.17.9.51/gameShieldDll.dll|2319136|2b0005a33c6ca793e62d412a28574f2b files/gameshield_32/30.17.9.51/gameShieldDll.dll|2319136|2b0005a33c6ca793e62d412a28574f2b
+get files/gameshield_32/32.17.9.11/gameShieldDll.dll|2327840|96f5d97d3eb18db705a05d59656c95e3 files/gameshield_32/32.17.9.11/gameShieldDll.dll|2327840|96f5d97d3eb18db705a05d59656c95e3
 get files/driver_32/10.17.0.35/frost_32.sys|90424|53bdd97fbda6d6af8ea8ab925054db10 files/driver_32/10.17.0.35/frost_32.sys|90424|53bdd97fbda6d6af8ea8ab925054db10
 get files/driver_64/10.17.1.35/frost_64.sys|101688|0424772b97bfe1bd29839f44d68ffbfb files/driver_64/10.17.1.35/frost_64.sys|101688|0424772b97bfe1bd29839f44d68ffbfb
 get files/collector_32/1.3.9.56/frostcollector.dll|1271072|99ef4ca4dc9893eea179369bec049aa7 files/collector_32/1.3.9.62/frostcollector.dll|1285408|a0a44a64eff5c590c9eb95a43e97491c
 get files/updater_32/1.2.0.27/frostUpdater.dll|1081192|cc76b17dad21813bb735dc46e8879173 files/updater_32/1.2.0.27/frostUpdater.dll|1081192|cc76b17dad21813bb735dc46e8879173
-get files/launcher_32/10.3.1.42/launcher.exe|2578208|7c64b6f0a2c31be1a84f4daf195cd087 files/launcher_32/10.3.1.42/launcher.exe|2578208|7c64b6f0a2c31be1a84f4daf195cd087
-get files/launcher_32/10.3.1.42/launcher.dll|113952|e07ddb04362bdaa591ed911896e0a8ea files/launcher_32/10.3.1.42/launcher.dll|113952|e07ddb04362bdaa591ed911896e0a8ea
+get files/launcher_32/10.3.1.46/launcher.exe|2581792|0010f4848e5e4388474290380b36cf72 files/launcher_32/10.3.1.46/launcher.exe|2581792|0010f4848e5e4388474290380b36cf72
+get files/launcher_32/10.3.1.46/launcher.dll|113952|4a53986f24d34f7de4ce34d3dc2b74ce files/launcher_32/10.3.1.46/launcher.dll|113952|4a53986f24d34f7de4ce34d3dc2b74ce
 get files/img/roru_live/back.bmp|231496|1a69e5527fe89864667ce0d340185f01
 get files/img/frost.ico|1218|6d342202659cfea4ab59a3ebaa928b55
 del FrostConfigs.exe
