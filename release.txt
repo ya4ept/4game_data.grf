@@ -1,3 +1,49 @@
+01.04.2020 13:08
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— It's April Fool's Day in Midgard! Kill amphibians and sell crowns until the 8th of April;
+https://eu.4gameforum.com/threads/674300/
+— Fight against virus has been prolonged until the 8th of April;
+https://eu.4gameforum.com/threads/674006/
+— 25% XP bonus has been prolonged until the 8st of April;
+— The Costume Crowns of Might for 99/50 race have been added to winners' inventories, congratulations!
+
+Shop:
+— Easter Bunny Treasure will be available in the in-game Shop and in the sets in 4Game launcher until the 8th of April;
+https://eu.4gameforum.com/threads/674291/
+— Auger of Spirit has been added to the Shop until the 8th of April.
+https://eu.4gameforum.com/threads/669971/
+
+Gameplay changes:
+— Medical and Biohazard masks now also inflict additional damage on virus from magic skills.
+
+Finished activities:
+— High refinement rates have been turned off;
+— Refinement sets have been removed from 4Game launcher;
+— Bravery Bag, Golden Angel and Hairband have been withdrawn from sale;
+— Gemini, Blinking and Cat Eyes have been withdrawn from sale.
+
+17:31
+Community Manager
+Dear friends, we have to close the server at 17:00 CEST for a short period of time to implement critical fixes. We will be in touch and inform you about the estimated time of server opening, thanks for your understanding!
+
+20:17
+Community Manager
+We are open again! During the maintenance we've fixed several problems:
+
+— Due to stacking issues, amount of Infinite Berserk, Awakening and Concentration Potion Boxes reduced to 1 per Easter Bunny Treasure, but the chance of drop for these items has been increased, the list of item has been updated: https://eu.4gameforum.com/threads/674291/
+
+— Players whose stacks of Infinite Potion Boxes have shrinked, please contact our Support at: https://eu.4gamesupport.com/
+You will receive the lost items via Rodex mail;
+
+— Infinite Awakening Potion level restriction now works correctly;
+
+In gratitude for your patience and understanding, the XP bonus has been increased up to 35% until the 02.04, 11:00 CEST.
+
+
+================
 25.03.2020 11:58
 Community Manager
 Dear players! We need some more time to deliver today's update, thus the maintenance is prolonged till 11:00 CET. Thank you for understanding!

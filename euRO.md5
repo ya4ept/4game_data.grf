@@ -2,7 +2,7 @@
 5343c1a8b203c162a3bf3870d9f50fd4 *20200318_3_gm_sprite.grf
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-2e20b0f10c0c01004a8776d8f8eb1a3a *data.grf
+ff2335c7a2aecdef16f1a80dab566a97 *data.grf
 c39eba10d89fa41818eca2b70b977e55 *dbghelp.dll
 827f816474e830b458d83443efdd8020 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
@@ -47,7 +47,7 @@ b8b127426039587d72a6c4f57eef748b *AI\USER_AI\Util.lua
 0424772b97bfe1bd29839f44d68ffbfb *Frost\frost.sys
 a0a44a64eff5c590c9eb95a43e97491c *Frost\frostcollector.dll
 7951342aa21ccae00916753910737fd1 *Frost\frostinfo.txt
-20061c17a3f03504e275c4bf77aa436e *Frost\frostInit.log
+4fbb3e4489d2c13b177e0e2120e710df *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 53bdd97fbda6d6af8ea8ab925054db10 *Frost\frost_32.sys
@@ -55,7 +55,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 e62ff60e163586fd6615b4ff0759b3c1 *Frost\frost_redirip_info.txt
 96f5d97d3eb18db705a05d59656c95e3 *Frost\gameShieldDll.dll
 4a53986f24d34f7de4ce34d3dc2b74ce *Frost\launcher.dll
-bc948aea7ddf0e611b8b862d4b67e951 *Frost\launcherUpdater.log
+3cf150abf5f028a25073524ac6157a79 *Frost\launcherUpdater.log
 0010f4848e5e4388474290380b36cf72 *Frost\ro.exe
 e959b857e99a6cdde0b5f94333fe0b78 *Frost\.inn.meta.dir\.inn.cache.txt
 e959b857e99a6cdde0b5f94333fe0b78 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy

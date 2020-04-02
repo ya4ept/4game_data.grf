@@ -1560,7 +1560,6 @@
 7276#Doodle Message#
 7277#Munak Doll#
 7278#Letter to Wife#
-565#Vita500#
 7279#Vita500 Lid#
 5096#Assassin Mask#
 5097#2 Years Anniversary Hat#
@@ -6524,7 +6523,6 @@
 19545#C Boy's Cap#
 19546#C Valkyrie Helm#
 19547#C Deviruchi Cap#
-19548#C Frog Cap#
 19549#Magestic Goat#
 19550#Blush#
 19551#C Elven Ears#
@@ -6840,7 +6838,6 @@
 13516#Royal Jelly Box#
 12532#Royal Jelly Box#
 
-6648#Old Crown#
 6649#Broken Horn#
 6650#Old Ring#
 6651#Rusty Bracelet#
@@ -7025,7 +7022,7 @@
 
 //New Costume
 19539#Costume Reginleif Wings#
-19540#Costume Rabbit Earmuffs#
+19540#Rabbit Earmuffs#
 
 //--------------Shadow 3rd------------------
 24082#Malicious Shoes Shadow#
@@ -8372,7 +8369,6 @@
 16251#Gemini Diadem Box#
 16252#Gemini Crown Box#
 6379#Card#
-12578#Rapid Life Potion#
 16655#Rapid Life Potion 10 Box#
 16657#Rapid Life Water Box10#
 12582#WoE Supply Box#
@@ -8550,8 +8546,8 @@
 20239#Orange Ribbon Muffler#
 20763#Costume Amistr Bag#
 18530#Tha Despero Mask#
-20266#Costume: Secret Zipper#
-20268#Costume Sleep Eclipse Family#
+20266#Rabbit in the Head#
+20268#Sleepy Eclipse Family#
 20132#Aura of the Subject 1#
 20407#Ominous Red Aura#
 13998#Giant Fly Wing Box (500 pcs.)#
@@ -8781,3 +8777,27 @@
 19158#Gemini Eyes#
 19912#Cat Eyes#
 31301#Blinking Eyes#
+
+19548#Magic Frog Hat#
+6648#Frog Crown#
+565#Really Empty Bottle#
+
+20200#Rabbit Bonnet#
+31249#Rabbit Hat#
+31529#Rabbit Ears#
+31715#Orange Rabbit#
+31816#Three Rabbits Ribbon#
+17263#Infinite Concentration Potion Box#
+17264#Infinite Awakening Potion Box#
+17265#Infinite Berserk Potion Box#
+9811#Easter Bunny Treasure#
+22771#Grilled Tuna#
+22772#Grilled Snapper#
+23008#Bubble Gum (24 h.)#
+23010#Battle Manual (24 h.)#
+23011#Life Insurance (24 h.)#
+12578#Water of Life#
+
+12884#Infinite Concentration Potion#
+12885#Infinite Awakening Potion#
+12886#Infinite Berserk Potion#

@@ -3482,5 +3482,11 @@ JobNameTable = {
 	[jobtbl.JT_E_ORC_SKELETON] = "ORC_SKELETON",
 	[jobtbl.JT_E_ORC_ZOMBIE] = "ORC_ZOMBIE",
 	[jobtbl.JT_E_ORK_WARRIOR] = "ORK_WARRIOR",
-	[jobtbl.JT_E_VENOMOUS] = "VENOMOUS"
+	[jobtbl.JT_E_VENOMOUS] = "VENOMOUS",
+	[jobtbl.JT_DUCH_FROG] = "Roda_frog",
+	[jobtbl.JT_QUEEN_FROG] = "Thara_frog",
+	[jobtbl.JT_EMPRESS_FROG] = "Thara_frog",
+	[jobtbl.JT_COUNTESS_FROG] = "Thara_frog",
+	[jobtbl.JT_FAVOR_FROG] = "Roda_frog",
+	[jobtbl.JT_PRINCESS_FROG] = "Roda_frog"
 }

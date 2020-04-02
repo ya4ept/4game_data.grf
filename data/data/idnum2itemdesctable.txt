@@ -483,15 +483,6 @@ Weight: 15
 ^FFFFFF_^000000
 Weight: 3
 #
-565#
-^808080kRO event item.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 10
-^FFFFFF_^000000
-Restores ^008000142^000000 to ^008000274^000000 HP.
-#
 566#
 One of the three most famous kinds of soup in the world. It is cooked with prawns, lemons, and chili peppers, and has a spicy, sweet and sour taste.
 Restores ^008000244-350 HP^000000 and ^00800010-30 SP^000000.
@@ -4772,7 +4763,6 @@ Jobs: ^777777Assassin^000000
 A katar said to be forged out of the resentment of the dead.
 Crit -1
 Low chance to inflict ^800000Curse^000000 on the target after a physical attack
-Cannot be upgraded
 Class: ^777777Katar^000000
 Property: ^777777Shadow^000000
 Attack: ^777777151^000000    Weight: ^777777125^000000
@@ -28656,9 +28646,11 @@ Weight: ^77777780^000000
 
 
 12019#
-A decorative egg, traditionally exchanged with other people, which symbolizes rebirth. Can be used to resurrect dead people.
-^ffffff_^000000
-Weight: ^77777715^000000
+^ff0000Account bound.^000000
+An egg consecrated in honor of the Festival of Resurrection.
+Using item recovers 100% HP/SP and casts ^0000FFLevel 10 Bless^000000.
+Allows you to instantly cast another player ^0000FFResurrection 4^000000.
+Weight: ^77777710^000000
 #
 //-------------2nd anniversary event
 
@@ -57499,14 +57491,6 @@ Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Job: ^777777All^000000
 #
-19548#
-Frog god shaped Hat.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000 
-Weight: ^77777710^000000
-Required Level: ^777777100^000000
-Job: ^777777All^000000
-#
 19549#
 ^ff0000Account bound^000000
 A helmet that looks like goat horns. Some people say that it can be used for dark rituals.
@@ -61582,11 +61566,6 @@ Jobs: ^777777All^000000
 
 
 //---------Heroes' trail------------
-6648#
-An old, dented crown that is missing gemstones made of pure gold.
-It can be sold to a Merchant for zeny.
-Weight: ^7777771^000000
-#
 6649#
 A broken and bent singlehorn. It's not worth any reward it can fetch.
 Weight: ^7777771^000000
@@ -62621,13 +62600,16 @@ You might want to be careful because eating this can summon a cruel shark.
 Weight: ^7777771^000000
 #
 22771#
-Grilled Skewer of Tuna, which is the best species for various food.
-Energy of Tuna soars and ATK is increased by 30% for 5 seconds.
+Incredibly delicious tuna kebab.
+Try it and see for yourself!
+ATK +30% for 1 min.
+^000088The item effect is not displayed in the user interface.^000000
 Weight: ^7777771^000000
 #
 22772#
-Grilled skewer of Sea Bream whose color and taste is fabulous
-Energy of Sea Bream soars and MATK is increased by 30% for 5 seconds.
+Sea Bream kebab. So delicious that you will definitely ask for another one!
+MATK +30% for 1 min.
+^000088The item effect is not displayed in the user interface.^000000
 Weight: ^7777771^000000
 #
 22773#
@@ -65895,16 +65877,21 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18887#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-VIT + 3, MDEF + 5, MATK + 2%
-If refined to 9, MDEF + 5 and MATK 4%
-If refined to 12, reduce fix casting time by 10%
-Type: ^777777Headgear^000000 Defense: ^7777772^000000
-Location: ^777777Upper ^000000Weight: ^77777710^000000
+A headband with blue rabbit ears. It looks very cute.
++2 INT/DEX/VIT
++5 MATK
+[For every 3 refine levels]
+Additional:
++1 INT/DEX/VIT
++10 MATK
+Increase effectiveness of healing skills and healing items by 3%
+[If refine level is +9 or higher]
+Additional reduces damage from DemiHuman monster by 5%. 
+Type: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 18888#
 A hairband that attracts individuals.
@@ -67361,11 +67348,12 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19540#
-Ear plugs in the form of a white rabbit small and cute.
-AGI + 1, FLEE + 2.
+Earmuffs that looks like little rabbit snoots.
+Extremely cute and elegant.
 Class: ^777777Costume^000000
-Location: ^777777Upper-Mid ^000000 Weight: ^7777770^000000
-Req Level: ^7777771^000000
+Location: ^777777Headgear (Upper-Mid)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19555#
@@ -72808,17 +72796,6 @@ When opened contains one Costume: Man's Pride Box
 17371#
 When opened contains one Costume: Charleston's Antenna Box
 #
-20266#
-Odd and secretive zip.
-Some sort of Rabbit creature was seen from the zip.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Can be exchanged with costume enchant stone box.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 20405#
 A red scarf like the one that Eremes Guile wears. With it you will look very fashionable and MVP-like.
 Class: ^777777Costume^000000
@@ -73002,13 +72979,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20200#
-Hat with rabbit ears.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
+Elegant bonnet with rabbit ears that gives this hat an amazing charm.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20201#
 Kiss of Banshee Master. It could give the powerful force.
@@ -74508,18 +74484,6 @@ Weight: 1
 ^FFFFFF_^000000
 Weight: 1
 #
-20268#
-^808080A sleepy Eclipse with his family. Your head will stay fluffy and warm.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Upper
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
-#
-
 20329#
 ^808080There are no worries in the world when you are wearing this on your head.^000000
 ^FFFFFF_^000000
@@ -83235,26 +83199,24 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20266#
-Odd and secretive zip.
-Some sort of Rabbit creature was seen from the zip.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Can be exchanged with costume enchant stone box.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+A strange rabbit peeps out of your head and staring around.
+Pass by please, theres absolutely nothing to look at!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20268#
-^808080A sleepy Eclipse with his family. Your head will stay fluffy and warm.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Upper
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A sleepy Eclipse with his family.
+Your head will stay fluffy and warm.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 20132#
 Unknown aura that wrapped your body.
@@ -85594,7 +85556,8 @@ Terms of use:
 - don't reuse it
 - if you touched the mask while removing it - wash your hands or clean them up with sanitizer.
 EXP from monsters +5%
-Inflict 1000% more weapon damage on Virus.
+Damage of normal attacks and physical skills on the Virus +1000% when equipped with weapons.
+Damage to magic skills by Virus +1000%.
 ^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper)^000000
@@ -85606,7 +85569,8 @@ Jobs: ^777777All^000000
 ^ff0000 Character bound.^000000
 Personal protective equipment. Remember that in real life such masks are used my medical staff in strict accordance with instructions.
 EXP from monsters +15%
-Inflict 2000% more weapon damage on Virus.
+Damage of normal attacks and physical skills on the Virus +1000% when equipped with weapons.
+Damage to magic skills by Virus +1000%.
 ^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, middle, lower)^000000
@@ -85693,4 +85657,202 @@ Class: ^777777Headgear (Upper)^000000
 Defense: ^77777710^000000 Weight: ^7777771^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+19548#
+^ff0000Account bound.^000000
+*Croak*. A frog-shaped hat that melts heart of any frog. As if you needed that.
+EXP from monsters +15%
+Мax. HP/SP +5%
+Movement Speed +50%
+Damage from attacks and physical skills against frogs +200% when weapon equipped.
+Damage from magic spells against frogs +200%.
+Damage received from frogs -100%
+[For every refine level]:
+Heal effectivness from Really Empty Bottle +20%.
+^ff0000[Effects are active only during the event (until April 8, 2020)]^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+565#
+^ff0000Account bound.^000000
+A unit of emptiness, has absolutely nothing inside of it. It heals you if you have enough faith.
+Restores 200~250 HP
+Weight: ^7777770^000000
+#
+6648#
+^ff0000Account bound.^000000
+Crown of a blueblood frog. Kissing a frog won't turn it into a princess because it's beautiful as it is.
+Weight: ^7777770^000000
+#
+31249#
+A cute hat with long ears that looks so funny!
+The most Easter hat in the world!
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31529#
+Fake rabbit ears adorned with feathers and pendants.
+Everyone will notice you this Easter!
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31715#
+A cute orange rabbit that will follow you wherever you go.
+He's so fluffy! This is incredibly cute!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31816#
+Usually cupids hold cloth ribbons over people's heads... At least in old paintings.
+But it's Easter time! And we replaced the cupids with cute tiny rabbits!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+17263#
+Contains 1 Infinite Concentration Potion for 3 days.
+Weight: ^7777771^000000
+#
+17264#
+Contains 1 Infinite Awakening Potion for 3 days.
+Weight: ^7777771^000000
+#
+17265#
+Contains 1 Infinite Berserk Potion for 3 days.
+Weight: ^7777771^000000
+#
+9811#
+Happy Easter 2020!
+^ffffff_^000000
+Open to obtain one of the following items:
+Three Rabbits Ribbon
+Orange Rabbit
+Sleepy Eclipse Family
+Rabbit in the Head
+Rabbit Hat
+Rabbit Ears
+Bubble Gum (24 h.)
+Battle Manual (24 h.)
+Rabbit Bonnet
+Rabbit Earmuffs
+Secret Medicine
+HE Battle Manual x2
+HE Bubble Gum x2
+Job Manual x3
+Infinite Berserk Potion Box
+Aqua Bunny Band
+Enriched Elunium x3
+Enriched Oridecon x3
+Infinite Awakening Potion Box
+Holy Egg x5
+Infinite Concentration Potion Box
+Glass of Illusion x12
+Sesame Pastry x35
+Honey Pastry x35
+Token of Ziegfried x6
+Grilled Tuna x40
+Grilled Snapper x40
+Aspd Potion x10
+Yummy Skewered Grill x25
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Convex Mirror x4
+Water of Life x5
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23008#
+^ff0000Account bound.^000000
+Sweet and tasty bubble gum. Increases the drop rate of items!
+Item drop rate +30% for 24hour.
+Effect is active for the ^ff0000account^000000.
+The item effect stacks with Bubble Gum and HE Bubble Gum. 
+Weight: ^7777770^000000
+#
+23010#
+^ff0000Account bound.^000000
+This well written, detailed manual explains effective battle methods.
+Increases the rate of experience gained!
+Exp/job exp rate +30% for 24hour.
+Effect is active for the ^ff0000account^000000.
+The item effect stacks with another Battle Manuals.
+Weight: ^7777770^000000
+#
+23011#
+A life insurance certificate issued by Kafra Center.
+If a character dies within 24 hours, he or she will not lose EXP.
+Weight: ^7777771^000000
+#
+12335#
+Skewers made from beef, chicken and onions. It looks very appetizing.
+Recovers 60% SP and HP
+^ffffff_^000000
+Weight: ^77777735^000000
+#
+12578#
+Juice of medicinal plants. It is said that this juice is able to heal wounds in the blink of an eye.
+This potion restore an amount of HP equal to 6% of your Max HP every 3 sec. for a 10 min. duration.
+The effect is not active at the state of berserk.
+^000088When a character is incapable of combat, the effect of item disappears.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12884#
+^ff0000Account bound.^000000
+Temporarily increases Attack Speed.
+^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
+[The effect is combined with potions]:
+Infinite Awakening Potion
+Infinite Berserk Potion
+If the character dies, effect disappears. 
+To activate the effect, use the potion again
+Weight : ^77777710^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
+#
+12885#
+^ff0000Account bound.^000000
+Temporarily increases Attack Speed.
+^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
+[The effect is combined with potions]:
+Infinite Concentration Potion
+Infinite Berserk Potion
+If the character dies, effect disappears. 
+To activate the effect, use the potion again
+Weight : ^77777715^000000
+Required Level: ^77777740^000000
+Job: ^777777All except Acolyte, Priest, Bard and Dancer^000000
+#
+12886#
+^ff0000Account bound.^000000
+Temporarily increases Attack Speed.
+^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
+[The effect is combined with potions]:
+Infinite Concentration Potion
+Infinite Awakening Potion
+If the character dies, effect disappears. 
+To activate the effect, use the potion again
+Weight : ^77777720^000000
+Required Level: ^77777785^000000
+Jobs: Novice Jobs, Swordsman Jobs, Mage, Wizard Jobs, Merchant Jobs, Thief, Rogue Jobs, Gunslinger Jobs, Taekwon, Taekwon Master
 #

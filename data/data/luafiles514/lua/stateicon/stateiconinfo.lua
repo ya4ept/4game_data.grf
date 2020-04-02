@@ -700,8 +700,9 @@ StateIconList[EFST_IDs.EFST_NOEQUIPHELM] = {
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
 	haveTimeLimit = 1,
-	posTimeLimitStr = 1,
+	posTimeLimitStr = 2,
 	descript = {
+		{ "Berserk Potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
 	}
@@ -829,6 +830,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
+		{ "Awakening potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
 	}
@@ -1488,7 +1490,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Awakening Potion", COLOR_TITLE_BUFF },
+		{ "Concentration Potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
 	}
@@ -3652,5 +3654,23 @@ StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
 		{ "%s", COLOR_TIME },
 		{ "ASPD +5%" },
 		{ "SP consumption -2%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Item drop rate increased", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Item drop rate +30%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Exp gain increased", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Exp +30%" }
 	}
 }

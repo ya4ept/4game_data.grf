@@ -1554,7 +1554,6 @@
 7276#Doodle Message#
 7277#Munak Doll#
 7278#Letter to Wife#
-565#Vita500#
 7279#Vita500 Lid#
 5096#Mask#
 5097#Helm#
@@ -6469,7 +6468,6 @@
 19545#Hat#
 19546#Headgear#
 19547#Headgear#
-19548#Hat#
 19549#Headgear#
 19550#Headgear#
 19551#Accessory#
@@ -6784,7 +6782,6 @@
 13516#Royal Jelly Box#
 12532#Royal Jelly Box#
 
-6648#Old Crown#
 6649#Broken Horn#
 6650#Old Ring#
 6651#Rusty Bracelet#
@@ -7665,3 +7662,29 @@
 19158#Accessory#
 19912#Accessory#
 31301#Accessory#
+
+19548#Headgear#
+6648#Frog Crown#
+565#Really Empty Bottle#
+
+20200#Headgear#
+20266#Headgear#
+20268#Headgear#
+31249#Headgear#
+31529#Headgear#
+31715#Accessory#
+31816#Headgear#
+17263#Infinite Concentration Potion Box#
+17264#Infinite Awakening Potion Box#
+17265#Infinite Berserk Potion Box#
+9811#Easter Bunny Treasure#
+22771#Grilled Tuna#
+22772#Grilled Snapper#
+23008#Bubble Gum (24 h.)#
+23010#Battle Manual (24 h.)#
+23011#Life Insurance (24 h.)#
+12578#Water of Life#
+
+12884#Infinite Concentration Potion#
+12885#Infinite Awakening Potion#
+12886#Infinite Berserk Potion#

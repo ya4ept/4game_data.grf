@@ -7897,11 +7897,6 @@ A letter written by a husband to his wife. It shows how preoccupied he is with h
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-565#
-kRO event item.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
 7279#
 kRO event item.
 ^ffffff_^000000
@@ -10083,7 +10078,7 @@ An egg from a bird. It's full of nutrition, making it an ideal food for growing 
 Weight: ^7777773^000000
 #
 12019#
-A decorative egg, traditionally exchanged with other people, which symbolizes rebirth. Can be used to resurrect dead people.
+An egg consecrated in honor of the Festival of Resurrection.
 ^ffffff_^000000
 Weight: ^77777715^000000
 #
@@ -37310,9 +37305,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 19547#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-19548#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 19549#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -39837,11 +39829,6 @@ Jobs: ^777777All^000000
 #
 
 //-------Heroes' trail--------
-6648#
-An old, dented crown that is missing gemstones. At least it's made of pure gold.
-It can be sold to a Collectible Merchant for some good money.
-Weight: ^7777771^000000
-#
 6649#
 A broken and bent singlehorn. It's not worth any reward money.
 Weight: ^7777771^000000
@@ -41002,13 +40989,14 @@ You might want to be careful because eating this can summon a cruel shark.
 Weight: ^7777771^000000
 #
 22771#
-Grilled Skewer of Tuna, which is the best species for various food.
-Energy of Tuna soars and ATK is increased by 30% for 5 seconds.
+Incredibly delicious tuna kebab.
+Try it and see for yourself!
+ATK +30% for 5 sec.
 Weight: ^7777771^000000
 #
 22772#
-Grilled skewer of Sea Bream whose color and taste is fabulous
-Energy of Sea Bream soars and MATK is increased by 30% for 5 seconds.
+Sea Bream kebab. So delicious that you will definitely ask for another one!
+MATK +30% for 5 sec.
 Weight: ^7777771^000000
 #
 22773#
@@ -43642,16 +43630,7 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18887#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-VIT + 3, MDEF + 5, MATK + 2%
-If refined to 9, MDEF + 5 and MATK 4%
-If refined to 12, reduce fix casting time by 10%
-Type: ^777777Headgear^000000 Defense: ^7777772^000000
-Location: ^777777Upper ^000000Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18888#
 A hairband that attracts individuals.
@@ -45041,12 +45020,7 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19540#
-Ear plugs in the form of a white rabbit small and cute.
-AGI + 1, FLEE + 2.
-Class: ^777777Costume^000000
-Location: ^777777Upper-Mid ^000000 Weight: ^7777770^000000
-Req Level: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19555#
 A solid hat decorated very colorful, which was from the far east.
@@ -49948,15 +49922,7 @@ When opened contains one Costume: Man's Pride Box
 When opened contains one Costume: Charleston's Antenna Box
 #
 20266#
-Odd and secretive zip.
-Some sort of Rabbit creature was seen from the zip.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Can be exchanged with costume enchant stone box.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20405#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -50130,13 +50096,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20200#
-Hat with rabbit ears.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20201#
 Kiss of Banshee Master. It could give the powerful force.
@@ -50802,7 +50762,7 @@ Weight: ^7777771^000000
 #
 
 20268#
-Not identified. Use [Magnifier] to identify.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 20329#
@@ -53577,4 +53537,141 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 2576#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+19548#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+565#
+^ff0000Account bound.^000000
+A unit of emptiness, has absolutely nothing inside of it. It heals you if you have enough faith.
+Restores 200~250 HP
+Weight: ^7777770^000000
+#
+6648#
+^ff0000Account bound.^000000
+Crown of a blueblood frog. Kissing a frog won't turn it into a princess because it's beautiful as it is.
+Weight: ^7777770^000000
+#
+31249#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31529#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31715#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31816#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+17263#
+Contains 1 Infinite Concentration Potion for 3 days.
+Weight: ^7777771^000000
+#
+17264#
+Contains 1 Infinite Awakening Potion for 3 days.
+Weight: ^7777771^000000
+#
+17265#
+Contains 1 Infinite Berserk Potion for 3 days.
+Weight: ^7777771^000000
+#
+9811#
+Happy Easter 2020!
+^ffffff_^000000
+Open to obtain one of the following items:
+Three Rabbits Ribbon
+Orange Rabbit
+Sleepy Eclipse Family
+Rabbit in the Head
+Rabbit Hat
+Rabbit Ears
+Bubble Gum (24 h.)
+Battle Manual (24 h.)
+Rabbit Bonnet
+Rabbit Earmuffs
+Secret Medicine
+HE Battle Manual x2
+HE Bubble Gum x2
+Job Manual x3
+Infinite Berserk Potion Box
+Aqua Bunny Band
+Enriched Elunium x3
+Enriched Oridecon x3
+Infinite Awakening Potion Box
+Holy Egg x5
+Infinite Concentration Potion Box
+Glass of Illusion x12
+Sesame Pastry x35
+Honey Pastry x35
+Token of Ziegfried x6
+Grilled Tuna x40
+Grilled Snapper x40
+Aspd Potion x10
+Yummy Skewered Grill x25
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Convex Mirror x4
+Water of Life x5
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23008#
+Sweet and tasty bubble gum. Increases the drop rate of items!
+Weight: ^7777770^000000
+#
+23010#
+This well written, detailed manual explains effective battle methods.
+Increases the rate of experience gained!
+Weight: ^7777770^000000
+#
+23011#
+A life insurance certificate issued by Kafra Center.
+If a character dies within 24 hours, he or she will not lose EXP.
+Weight: ^7777771^000000
+#
+12578#
+^ff0000Account bound.^000000
+Juice of medicinal plants. It is said that this juice is able to heal wounds in the blink of an eye.
+This potion restore an amount of HP equal to 6% of your Max HP every 3 sec. for a 10 min. duration.
+The effect is not active at the state of berserk.
+^000088When a character is incapable of combat, the effect of item disappears.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12884#
+^000088Rental Item^000000
+^ff0000This item cannot be traded with other accounts.^000000
+A potent medicine that stimulates concentration. Temporarily increases Attack Speed.
+^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
+Weight : ^7777770^000000
+#
+12885#
+^000088Rental Item^000000
+^ff0000This item cannot be traded with other accounts.^000000
+A special tonic that combats the effects of drowsiness. Temporarily increases Attack Speed.
+^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
+Usable By: ^808080All Jobs except Acolyte, Priest Jobs, Bard Jobs, Dancer Jobs^000000
+Requires Level: ^80808040^000000
+Weight : ^7777770^000000
+#
+12886#
+^000088Rental Item^000000
+^ff0000This item cannot be traded with other accounts.^000000
+A remarkably powerful medicine that stimulates circulation and amplifies quickness. Temporarily increases Attack Speed.
+^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
+Usable By: ^808080Swordman Jobs, Merchant Jobs, Mage, Wizard Jobs, Rogue Jobs, Taekwon Jobs, Gunslinger Jobs^000000
+Requires Level: ^80808085^000000
+Weight : ^7777770^000000
+#
+12335#
+Skewers made from beef, chicken and onions. It looks very appetizing.
+Recovers 60% SP and HP
+^ffffff_^000000
+Weight: ^77777735^000000
 #

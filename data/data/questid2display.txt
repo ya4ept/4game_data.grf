@@ -21962,8 +21962,8 @@ Kill 30 monsters "Injustice"#
 17182#Daily hunt for "Rybio"#SG_FEEL#QUE_IMAGE#
 Kill 30 monsters "Rybio"#
 #
-17183#Daily hunt for "Dark Priest"#SG_FEEL#QUE_IMAGE#
-Kill 30 monsters "Dark Priest"#
+17183#Daily hunt for "Deviruchi"#SG_FEEL#QUE_IMAGE#
+Kill 30 monsters "Deviruchi"#
 #
 17184#Daily hunt for "Stapo"#SG_FEEL#QUE_IMAGE#
 Kill 30 monsters "Stapo"#
@@ -22015,4 +22015,25 @@ Bring Cupid 5 PecoPeco Feathers#
 #
 17211#Needles for Cupid#SG_FEEL#QUE_IMAGE#
 Bring Cupid 3 Cactus Needle#
+#
+17216#Crowns for Simple Jack#SG_FEEL#QUE_IMAGE#
+You need to bring 10 frog crowns to Jack. You need blue-blooded frogs (i.e. Princess Frog). They are everywhere.#
+#
+17217#Hunting Duchess Frogs#SG_FEEL#QUE_IMAGE#
+Kill 10 Duchess Frogs and return to Simple Jack for reward.#
+#
+17218#Hunting Queen Frogs#SG_FEEL#QUE_IMAGE#
+Kill 10 Queen Frogs and return to Simple Jack for reward.#
+#
+17219#Hunting Empress Frogs#SG_FEEL#QUE_IMAGE#
+Kill 10 Empress Frogs and return to Simple Jack for reward.#
+#
+17220#Hunting Countess Frogs#SG_FEEL#QUE_IMAGE#
+Kill 10 Countess Frogs and return to Simple Jack for reward.#
+#
+17221#Hunting Mistress Frogs#SG_FEEL#QUE_IMAGE#
+Kill 10 Mistress Frogs and return to Simple Jack for reward.#
+#
+17222#Hunting Princess Frogs#SG_FEEL#QUE_IMAGE#
+Kill 10 Princess Frogs and return to Simple Jack for reward.#
 #
