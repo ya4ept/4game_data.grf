@@ -2756,7 +2756,7 @@ StateIconList[EFST_IDs.EFST_PHI_DEMON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Древний амулет Элементов", COLOR_TITLE_BUFF },
+		{ "Древний оберег", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Увеличение повреждений по монстрам-демонам." }
 	}
@@ -3553,5 +3553,23 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 		{ "Увеличение получаемого опыта", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Получаемый опыт: Hel +30%/ Rush +200%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение шанса выпадения предметов", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Шанс выпадения предметов: +30%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение получаемого опыта", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Получаемый опыт: Hel +30%" }
 	}
 }
