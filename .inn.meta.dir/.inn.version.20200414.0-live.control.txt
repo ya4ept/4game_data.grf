@@ -1,0 +1,22 @@
+distribution {1}
+    version=20200414.0-live
+    type=env
+    env=live
+    files=./live/
+    control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    deleted-control-hash=2b3ff222558c3b9d672934048c5eea212819fe9d
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=0
+    size=0
+    compressed-size-total=1725498917
+    size-total=1869016498
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2020-04-14T07:13:44+03:00
+    date-modified=2020-04-14T07:13:44+03:00
+    running-time-sec=668
+

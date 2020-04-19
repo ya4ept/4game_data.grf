@@ -3675,7 +3675,6 @@
 12301#Doppelganger Scroll#
 12302#Egnigem Cenia Scroll#
 7773#War Badge#
-7515#Prize Medal#
 
 // ---------- Summer event item ----------
 
@@ -6984,7 +6983,7 @@
 19615#C Loki Mask#
 20213#C Sirt Evil Eye#
 20214#C Evil Marcher Hat#
-20215#C Black Devil Mask#
+20215#Demonic Mask#
 20216#C Rideword Hat#
 20217#C Arabian Veil#
 20218#C Spell Circuit#
@@ -8545,7 +8544,7 @@
 20036#Sword Master's Crown#
 20239#Orange Ribbon Muffler#
 20763#Costume Amistr Bag#
-18530#Tha Despero Mask#
+18530#Mask of Despero#
 20266#Rabbit in the Head#
 20268#Sleepy Eclipse Family#
 20132#Aura of the Subject 1#
@@ -8801,3 +8800,17 @@
 12884#Infinite Concentration Potion#
 12885#Infinite Awakening Potion#
 12886#Infinite Berserk Potion#
+
+19878#Drooping Bunny#
+20298#White Bunny Ears#
+31167#Black Bunny Ears#
+
+31201#Bunny King Crown#
+7872#Juicy Grass#
+
+5912#Demonic Minion#
+19497#Hellbird Hat#
+20514#Sword of Thanatos#
+20556#Aura of Night#
+20567#Aura of Darkness#
+9828#Dark Demon Treasure#

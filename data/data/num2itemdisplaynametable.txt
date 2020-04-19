@@ -4110,7 +4110,7 @@
 14487#Magician Grad Hat Box#
 
 // --------- 2009.09.15. Cash item update -------------
-5563#Hat#
+5563#Headgear#
 5464#Hat#
 5363#Helm#
 16244#Dolor Hat Box#
@@ -6931,7 +6931,7 @@
 19615#Mask#
 20213#Glasses#
 20214#Headgear#
-20215#Glasses#
+20215#Mask#
 20216#Hat#
 20217#Headgear#
 20218#Headgear#
@@ -7688,3 +7688,17 @@
 12884#Infinite Concentration Potion#
 12885#Infinite Awakening Potion#
 12886#Infinite Berserk Potion#
+
+19878#Headgear#
+20298#Headgear#
+31167#Headgear#
+
+31201#Headgear#
+7872#Juicy Grass#
+5912#Headgear#
+19497#Headgear#
+20514#Garment#
+20556#Garment#
+20567#Garment#
+18530#Mask#
+9828#Dark Demon Treasure#

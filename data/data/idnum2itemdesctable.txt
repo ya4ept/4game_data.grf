@@ -10012,7 +10012,7 @@ Jobs: Rogue Jobs, Archer Jobs
 ^008080Gust Bow [1]^000000
 ^008080Wind Arrow^000000
 Increases long-ranged damage on targets by 25%.
-Adds a 10% chance of casting ^0000FFLevel 2 Wind Blade^000000 on the target when dealing ranged attacks.
+Adds a 10% chance of casting ^0000FFLevel 5 Wind Blade^000000 on the target when dealing ranged attacks.
 ^FFFFFF_^000000
 If base INT is 40 or higher,
 ^0000FFLevel 5 Wind Blade^000000 will be cast instead.
@@ -17145,7 +17145,8 @@ the power of the Fate
 Stone, that is one of
 the three keys for the
 seal which binds
-Morpheus. Int +1,
+Morpheus. 
++1 INT
 Max SP +5%
 ^6A5ACDMorpheus's Set^000000
 ^3CB371Morpheus's Hood^000000
@@ -24235,8 +24236,8 @@ This crown, adorned
 with precious gems,
 is generally worn by
 monarchs as a symbol
-of their rule. Int +2,
-Luk +1, MDEF +3
+of their rule. 
+Int +2, Luk +1, MDEF +3
 Class: ^777777Headgear^000000
 Defense: ^7777779^000000
 Location: ^777777Upper^000000
@@ -66964,13 +66965,6 @@ Location: ^777777Mid ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
-19878#
-A cute rabbit doll that you can put it on your head.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
 19879#
 A sexy gorgeous hairband for you!
 Every man chases you as soon as wearing this!
@@ -69161,11 +69155,13 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5563#
-Doll-hat which resembles 'Dolor of Thanatos'. People say that this doll speaks.
-Indestructable.
-Class: ^777777Headgear^000000 Defense: ^7777773^000000
-Location: ^777777Upper ^000000 Weight: ^77777710^000000
-Required Level: ^7777770^000000
+The Dolor of Thanatos right on your head! Oh my...
+How did this sneak get in there?!
+A chance of autocast Lv.1 [Lex Aeterna] when attacked physically.
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5567#
@@ -72616,15 +72612,6 @@ Weight: 0
 Required Level: 1
 Jobs: All Jobs
 #
-20298#
-^808080Droopy Lunatic ears. Cutely garnished with clover flower bouquets.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-#
 20301#
 ^808080A Savage Babe doll dyed with gold. It is a pretty doll but makes you feel hunger when you look at it.^000000
 ^FFFFFF_^000000
@@ -73999,11 +73986,14 @@ Weight: ^7777771^000000
 When opened this box gives you the Zaha Doll Hat!
 #
 5912#
-Imitated by Loyal servant Devilring. Always be on standby to serve his master.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
+This little Deviling will never leave you!
+He will always serve his precious master.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20357#
 Stylish Wig.
@@ -74164,7 +74154,7 @@ Experience the holiday with us at twitch.tv/warpportal as we scare ourselves try
 
 When opened gives one of the following:
 Costume: Red Test Subject Aura
-Costume: Servant of Devilring
+Costume: Servant of Deviling
 Costume: Ponytail
 Costume: Twin Ponytails
 Costume: Magic Eyes
@@ -85569,8 +85559,14 @@ Jobs: ^777777All^000000
 ^ff0000 Character bound.^000000
 Personal protective equipment. Remember that in real life such masks are used my medical staff in strict accordance with instructions.
 EXP from monsters +15%
-Damage of normal attacks and physical skills on the Virus +1000% when equipped with weapons.
-Damage to magic skills by Virus +1000%.
+Damage of normal attacks and physical skills on the Virus +2000% when equipped with weapons.
+Damage to magic skills by Virus +2000%.
+[For every 2 refine levels]
+EXP from monsters +1%
+Max HP/SP + 1%
+[If refine level is +10]
+Movement speed +100%
+Reduce damage from Demi-Humans by 10%
 ^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, middle, lower)^000000
@@ -85661,15 +85657,6 @@ Jobs: ^777777All^000000
 19548#
 ^ff0000Account bound.^000000
 *Croak*. A frog-shaped hat that melts heart of any frog. As if you needed that.
-EXP from monsters +15%
-Мax. HP/SP +5%
-Movement Speed +50%
-Damage from attacks and physical skills against frogs +200% when weapon equipped.
-Damage from magic spells against frogs +200%.
-Damage received from frogs -100%
-[For every refine level]:
-Heal effectivness from Really Empty Bottle +20%.
-^ff0000[Effects are active only during the event (until April 8, 2020)]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -85855,4 +85842,147 @@ To activate the effect, use the potion again
 Weight : ^77777720^000000
 Required Level: ^77777785^000000
 Jobs: Novice Jobs, Swordsman Jobs, Mage, Wizard Jobs, Merchant Jobs, Thief, Rogue Jobs, Gunslinger Jobs, Taekwon, Taekwon Master
+#
+19878#
+A cute rabbit doll that can be worn on the head.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20298#
+Decorative white bunny ears adorned with clover flowers.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31167#
+Decorative black bunny ears adorned with clover flowers.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Middle)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31201#
+^ff0000Account bound.^000000
+Crown of the Easter Bunny, the king among other bunnies.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+7872#
+^ff0000Account bound.^000000
+Fresh blade of grass that smells of meadows. Favorite food of the Easter Bunny.
+Weight: ^7777770^000000
+#
+
+19497#
+This creepy hat looks like a bird.
+A bird which flew out of the Gates of Hell, sat on your head and folded its wings.
+^ff0000Animated^000000
++2 STR/DEX/AGI 
++5 ATK
+[For every 3 refine levels]
+Additional:
++1 STR/DEX/AGI 
++10 ATK
+HIT\FLEE +3
+[If refine level is +9 or higher]
+Increase damage inflicted on DemiHuman monster by 5%.
+Type: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777750^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20215#
+A bizarre looking mask that makes you look like a traveler from the Demon Realms. 
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20514#
+The legendary weapon of Thanatos the Demonic Swordsman. 
+Perhaps you can't use it in battle, but it looks so cool on your back!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20556#
+This aura will surround you like a black cloak.
+No one will see a glimpse on your blade...
+^ff0000Animated^000000
+Type: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20567#
+Feel the darkness inside you.
+See the darkness around you.
+^ff0000Animated^000000
+Type: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+18530#
+A mask that Despero of Thanatos usually wears.
+Some people will find it quite elegant.
+LUK -5
+FLEE +4
+Class: ^777777Headgear^000000
+Location: ^777777Mid-Lower^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9828#
+A gloomy sinister aura surrounds this box...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Darkness
+Aura of Night
+Sword of Thanatos
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Demonic Minion
+Demonic Mask
+Dolor Hat
+Mask of Despero
+HE Battle Manual x2
+HE Bubble Gum x2
+Hellbird Hat
+Enriched Elunium x3
+Enriched Oridecon x3
+Infinite Berserk Potion Box
+Megaphone x7
+Token of Ziegfried x7
+Guyak Pudding x35
+Infinite Awakening Potion Box
+Giant Fly Wing x8
+Infinite Concentration Potion Box
+Big Defense Potion x30
+Big Magic Defense Potion x30
+WoE Teleport Scroll x12
+Blessing of Tyr x7
+Kafra Card x9
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+^ffffff_^000000
+Weight: ^7777771^000000
 #

@@ -3306,18 +3306,10 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5001#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777720^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5002#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
-Weight: ^77777760^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5003#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -10922,10 +10914,7 @@ Can be identified by
 using a Magnifier.
 #
 2648#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2649#
 Unknown item
@@ -44660,13 +44649,6 @@ Location: ^777777Mid ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
-19878#
-A cute rabbit doll that you can put it on your head.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
-#
 19879#
 A sexy gorgeous hairband for you!
 Every man chases you as soon as wearing this!
@@ -46783,12 +46765,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5563#
-Doll-hat which resembles 'Dolor of Thanatos'. People say that this doll speaks.
-Indestructable.
-Item Class: ^777777Headgear^000000 Defense: ^7777773^000000
-Location: ^777777Upper ^000000 Weight: ^77777710^000000
-Required Level: ^7777770^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5567#
 A hat to commemorate the Sinulog Festival, you felt stronger while wearing it.
@@ -49764,15 +49741,6 @@ Required Job: All Jobs
 ^FFFFFF_^000000
 Type: Costume
 Position: Headgear (Upper)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
-#
-20298#
-^808080Droopy Lunatic ears. Cutely garnished with clover flower bouquets.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
 Weight: 0
 Required Level: 1
 Required Job: All Jobs
@@ -53675,3 +53643,89 @@ Recovers 60% SP and HP
 ^ffffff_^000000
 Weight: ^77777735^000000
 #
+19878#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20298#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31167#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31201#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+7872#
+^ff0000Account bound.^000000
+Fresh blade of grass that smells of meadows. Favorite food of the Easter Bunny.
+Weight: ^7777770^000000
+#
+9828#
+A gloomy sinister aura surrounds this box...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Night
+Aura of Darkness
+Sword of Thanatos
+Demonic Minion
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+C Black Devil Mask
+Dolor Hat
+Tha Despero Mask
+HE Battle Manual x2
+HE Bubble Gum x2
+Hellbird Hat
+Enriched Elunium x3
+Enriched Oridecon x3
+Infinite Berserk Potion Box
+Megaphone x7
+Kafra Card x9
+Token of Ziegfried x7
+Guyak Pudding x35
+Infinite Awakening Potion Box
+Giant Fly Wing x8
+Infinite Concentration Potion Box
+Big Defense Potion x30
+Big Magic Defense Potion x30
+WoE Teleport Scroll x12
+Blessing of Tyr x7
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+
+
+5912#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19497#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20215#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20514#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20556#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20567#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+18530#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9828#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+
+

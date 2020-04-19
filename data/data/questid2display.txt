@@ -71,8 +71,8 @@ Gain 2 base levels to complete your Field Combat Training by killing as many mon
 // Á¶¹ÌÁ¤
 
 2000#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
-We want to check the dedication and eagerness of Merchants who apply to us to become Blacksmiths. For the first test, go to Alberta and help one of our guild members Getsufenst.#
-Meet Getsufenst, Blacksmith of Alberta.#
+We want to check the dedication and eagerness of Merchants who apply to us to become Blacksmiths. For the first test, go to Einbech and help one of our guild members Getsufenst.#
+Meet Getsufenst, Blacksmith of Einbech.#
 
 2001#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 It pains me to say this, but it seems you need to study a little more. You can never be a Blacksmith with this score!#
@@ -111,8 +111,8 @@ All done! Okay. Give this Gladius to Wickebine in Morroc of Rune-Midgarts Kingdo
 Deliver Gladius to Wickebine in Morroc.#
 
 2010#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
-All done! Okay. Give this Tsurugi to Krongast who is in Lighthalzen. Be sure to bring the reciept back to me.#
-Deliver Tsurugi to Krongast in Lighthalzen.#
+All done! Okay. Give this Tsurugi to Grongast who is in Lighthalzen. Be sure to bring the reciept back to me.#
+Deliver Tsurugi to Grongast in Lighthalzen.#
 
 2011#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 All done! Okay. Give this Arbalest to Talpiz who is in Payon of Rune-Midgarts Kingdom. Be sure to bring the reciept back to me.#
@@ -120,7 +120,7 @@ Deliver Arbalest to Talpiz in Payon.#
 
 2012#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 All done! Okay. Give this Ring Pommel Saber to Bismarc who is in Comodo. Be sure to bring the reciept back to me.#
-Deliver Ring Pommel Saber to Bismark in Comodo.#
+Deliver Ring Pommel Saber to Bismark in Hugel.#
 
 2013#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Well done! You're a great merchant indeed! Okay, go to Altiregen in Geffen!#
@@ -1934,31 +1934,31 @@ Look inside the medicine drawer.#
 // ÈÖ°Ö : Ãß¾ï Äù½ºÆ® (hg_memo.sc)
 
 8057#Grumbling Manainne#SG_FEEL#QUE_NOIMAGE#
-Speak to Manainne about the comforting tree.#
-#
-
-8058#Conversation with El Schatt#SG_FEEL#QUE_NOIMAGE#
 ''This tree means so much to everyone in this town, and we all have special memories of this place. But that El Schatt fellow plans to chop it down for his shop...'' -Manainne#
 #
 
-8059#Conversation with Perfitz#SG_FEEL#QUE_NOIMAGE#
+8058#Conversation with El Schatt#SG_FEEL#QUE_NOIMAGE#
 El Schatt says that his father's been wanting to build a shop here for a long time. Talk to his father Perfitz and get his side of the story.#
 #
 
-8060#Stubborn El Schatt#SG_FEEL#QUE_NOIMAGE#
+8059#Conversation with Perfitz#SG_FEEL#QUE_NOIMAGE#
 ''Although I'm pleased, I get this gut feeling that something's not right, like he's too excited about cutting that tree down. Maybe this old man is just too suspicious~'' -Perfitz#
 #
 
-8061#Stories of the past#SG_FEEL#QUE_NOIMAGE#
+8060#Stubborn El Schatt#SG_FEEL#QUE_NOIMAGE#
 El Schatt says that there was a time when he would have protected the tree with his life but that it should be buried in the past. You should find someone that might know about his past.#
 #
 
-8062#Kanainne#SG_FEEL#QUE_NOIMAGE#
+8061#Stories of the past#SG_FEEL#QUE_NOIMAGE#
 ''Now El Schatt is just a heartless, money grubbing...! He's completely changed. My sister would be rolling in her grave, seeing him now...'' -Manainne#
 #
 
-8063#Kanainne's spirit#SG_FEEL#QUE_NOIMAGE#
+8062#Kanainne#SG_FEEL#QUE_NOIMAGE#
 ''I... I can borrow my sister's body? Yes, if she cooperates, maybe... Maybe it will work. I must... must do something before he... he... he hurts himself even more...#
+#
+
+8063#Kanainne's spirit#SG_FEEL#QUE_NOIMAGE#
+Don't you understand yet? I'm really a Kanainne. The one who loves you most in this world, and to whom you, El Schatt, have dedicated all your songs.#
 #
 
 
@@ -1985,28 +1985,28 @@ You're late! Don't you know this soup isn't good if it isn't steaming hot? But..
 Bring 1 Whip to Neha.#
 
 8069#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
-"Argh, but you're late! This is your fault, you know that, right? I can forgive you if you help me with my collection. Just bring me 1 Bookclip in Memory, alright?"#
-Bring 1 Bookclip in Memory to Maewan#
-
-8070#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
-"I can't let you continue delivering for Cellette unless you prove that you're dependable to me. Erm, bring me ^ff00001 Mushroom Spore^000000, and I'll forget this whole thing."#
-Bring 1 Mushroom Spore to Layoma.#
-
-8071#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
-"Hm, but as the first son of the Franchesfeschu family, I cannot eat this soup unless it is suitably prepared. Go! I command you to bring me the commoner's ^ff0000China^000000!"#
-Bring Erjan 1 China.#
-
-8072#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
 "Ooh, did I accidentally whip you twice? Heh heh... Well, I'm satisfied. I'll go ahead and tell Cellette that you did a good job... I hope you come deliver my soup again~"#
 Return to Cellette.#
 
-8073#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
+8070#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
+"Argh, but you're late! This is your fault, you know that, right? I can forgive you if you help me with my collection. Just bring me 1 Bookclip in Memory, alright?"#
+Bring 1 Bookclip in Memory to Maewan#
+
+8071#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
 "Great, you really brought me a Bookclip in Memory! Yes, this'll make a fine addition to my collection~ Oh, and give me my soup. Thanks again for delivering~"#
 Return to Cellette.#
 
-8074#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
+8072#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
+"I can't let you continue delivering for Cellette unless you prove that you're dependable to me. Erm, bring me ^ff00001 Mushroom Spore^000000, and I'll forget this whole thing."#
+Bring 1 Mushroom Spore to Layoma.#
+
+8073#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
 "Alright, maybe I can count on you to work for my roommate Cellette a little while longer. Oh, and please tell her not to come home so late all the time, okay?"#
 Return to Cellette.#
+
+8074#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
+"Hm, but as the first son of the Franchesfeschu family, I cannot eat this soup unless it is suitably prepared. Go! I command you to bring me the commoner's ^ff0000China^000000!"#
+Bring Erjan 1 China.#
 
 8075#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
 "You are dismissed. Please take your leave, and return to Cellette with my noble thanks."#
@@ -22036,4 +22036,22 @@ Kill 10 Mistress Frogs and return to Simple Jack for reward.#
 #
 17222#Hunting Princess Frogs#SG_FEEL#QUE_IMAGE#
 Kill 10 Princess Frogs and return to Simple Jack for reward.#
+#
+17223#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
+Look for Easter Bunny at the market. Maybe he's looking for carrots.#
+#
+17224#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
+Talk to the Easter Bunny at the Southern Gates of Prontera.#
+#
+17225#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
+Find Easter Bunny in Geffen. He is looking for mages.#
+#
+17226#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
+Return to Prontera and talk to the girl at loss..#
+#
+17227#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
+Return to Prontera and talk to the girl at loss..#
+#
+17228#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
+Find the Easter Bunny behind the wall near the girl.#
 #
