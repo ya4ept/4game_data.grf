@@ -53727,5 +53727,18 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-
-
+31604#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31636#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31575#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31684#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31493#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#

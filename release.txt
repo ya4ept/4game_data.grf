@@ -1,3 +1,35 @@
+22.04.2020
+Community Manager
+The maintenance has been finished, the server is online. Changelog:
+
+Shop:
+— The new wigs will be available in the in-game shop and as a set with a discount in 4Game launcher until 29th of April;
+https://eu.4gameforum.com/threads/675176/
+— All categories of the in-game shop are on sale up to 20%.
+https://eu.4gameforum.com/threads/675179/
+
+Events:
+— The new PvP Constellation season of Taurus will be active until the 20th of May;
+https://eu.4gameforum.com/threads/672758/
+— Party XP bonus has been prolonged.
+https://eu.4gameforum.com/threads/673772/
+
+Fight against virus changes:
+— The virus has moved from Prontera to Geffen;
+— Virus HP has been reduced, they don't assist each other;
+— Liquid soap and Hand sanitizer can't be exchanged for Memos, their drop chance has been reduced.
+— The Biohazard mask can be upgraded to level 15 with new bonuses becoming available.
+https://eu.4gameforum.com/threads/674006/
+
+Other changes:
+— Hunter Guild members have moved from Payon to Hugel, you can find the guild hall in the north-eastern part of the village;
+— The minimum level required to exchange of Marvelous Medals from Hugel games is now 65.
+
+Finished activities:
+— PvP Constellation season of Aries has ended;
+— Dark Demon Treasure has been removed from the in-game shop and 4Game launcher.
+
+================
 14.04.2020 13:45
 Community Manager
 One more city to visit, one more dungeon to explore, one more class to master:

@@ -8814,3 +8814,9 @@
 20556#Aura of Night#
 20567#Aura of Darkness#
 9828#Dark Demon Treasure#
+
+31636#Silver Fairy Wig#
+31575#Blue wig with ponytails#
+31604#Long wig 'cat ears'#
+31684#Wig 'braids with ribbons'#
+31493#White wig 'ponytails'#

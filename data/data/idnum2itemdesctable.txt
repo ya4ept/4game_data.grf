@@ -36835,7 +36835,7 @@ Jobs: ^777777All^000000
 
 5401#
 ^ff0000Account bound^000000
-Glasses in dark-colored frame. Very fashionable.5462
+Glasses in dark-colored frame. Very fashionable.
 Int +1
 Mdef +2
 [If used with Darkness Helm]
@@ -45072,7 +45072,6 @@ This box and it's contents are storage only.
 Box Weight: ^7777771^000000
 #
 18507#
-^CC0000Account bound^000000
 A fashion accessory that gives ears that vaunted elvish look. For some it is an incredible turn-on.
 ^6A5ACD[If used with Skull Cap]^000000
 SP consumption -3%
@@ -85567,6 +85566,10 @@ Max HP/SP + 1%
 [If refine level is +10]
 Movement speed +100%
 Reduce damage from Demi-Humans by 10%
+[If refine level is +15]
+EXP from monsters +2%
+All Stats +2 
+Increase damage against Demi-Humans by 5%
 ^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, middle, lower)^000000
@@ -85985,4 +85988,49 @@ STR Biscuit Stick x3
 VIT Biscuit Stick x3
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+31636#
+^ff0000Account bound.^000000
+A wig with long silver curls of magical beauty. You will look like a fairy!
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31575#
+^ff0000Account bound.^000000
+Chic blue wig with two tails on the sides and curls to the shoulders.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31604#
+^ff0000Account bound.^000000
+Long hair curled on the back of the head in the shape of cat ears. How cute!
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Upper)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31684#
+^ff0000Account bound.^000000
+Your long braids with ribbons will impress everyone!
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31493#
+^ff0000Account bound.^000000
+Long white curls tied with ribbons will give you a unique charm.
+Class: ^777777Costume^000000
+Location: ^777777Headgear (Lower)^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #

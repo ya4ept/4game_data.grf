@@ -7702,3 +7702,9 @@
 20567#Garment#
 18530#Mask#
 9828#Dark Demon Treasure#
+
+31636#Accessory#
+31575#Hat#
+31604#Accessory#
+31684#Accessory#
+31493#Accessory#

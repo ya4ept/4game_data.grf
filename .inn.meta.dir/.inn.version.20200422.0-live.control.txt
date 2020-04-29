@@ -1,0 +1,22 @@
+distribution {1}
+    version=20200422.0-live
+    type=env
+    env=live
+    files=./live/
+    control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    deleted-control-hash=9c18573ec38655ff52ee6d4f70aa63ed3c0d6510
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=0
+    size=0
+    compressed-size-total=1725385920
+    size-total=1869016498
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2020-04-22T08:47:34+03:00
+    date-modified=2020-04-22T08:47:34+03:00
+    running-time-sec=735
+

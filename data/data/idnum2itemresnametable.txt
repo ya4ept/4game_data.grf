@@ -8350,3 +8350,7 @@
 20556#C_99LV_ShadowC_Black#
 20567#C_160LV_ShadowC_Black#
 9828#Á×À½ÀÇ±Ë#
+
+31604#C_Cat_Ear_Long#
+31684#C_Kururinpa_Hair#
+31493#C_Volume_Low_Twin_WH#
