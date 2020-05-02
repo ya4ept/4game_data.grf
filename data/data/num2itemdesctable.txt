@@ -31757,6 +31757,8 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 12658#
+A scroll that will transform you into a Deviruchi for 20 minutes.
+Increase Atk speed in a modified form.
 Weight: ^7777772^000000
 #
 
@@ -33822,17 +33824,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordsman Class^000000
 #
 20170#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A set of Arabian style blades that are worn on the back of both hands
-or on the forearms.
-^CC0000This item is not Refinable^000000
-Class: ^777777Katar^000000
-Attack Strength: ^777777146^000000
-Weight: ^77777780^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Assassin^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 20174#
@@ -42878,13 +42870,7 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18653#
-a headphone from Devil Deviruchi. It is good to block the noise from outside
-increase resistance of Stun 50%
-if it with Magician, Archer, Acolyte class, increase stun resistance 5%, if Cute pet intimacy is close friend, increase addtioanl stun resistance 15%
-Class: ^777777Headgear^000000    Defense: ^7777778^000000
-Location: ^777777Upper^000000    Weight: ^77777720^000000
-Req Level: ^77777730^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18655#
 Yet decadent in single-lens glasses with wings, I blow out the charm of secret. I do not know why, but it is said Goe-Do we use habitually.
@@ -44362,14 +44348,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19772#
-An interesting hat decorated with honeybee-like stripes and feelers.
-You feel like gathering the honey!
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
-#
 19773#
 A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.
 Class: ^777777Costume^000000
@@ -44731,11 +44709,7 @@ Req Lvl.: ^7777771^000000
 Job: ^777777All^000000
 #
 19960#
-Chains for controlling puppets. It feels like I have become a doll.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19984#
 A hat popularly worn in always-winter country. When worn, memories of trains and happiness faintly recollects.
@@ -49917,14 +49891,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20762#
-Wing of Great Devel, the famous.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000
-Location: ^777777Garment ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20071#
 It seem he love his mother.
@@ -50076,13 +50043,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20202#
-Hellium Ballon shaped like deviruchi.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20130#
 A long hat modeled after the shape of monster Whisper.
@@ -53742,3 +53703,68 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 31493#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
+6492#
+^ff0000Account bound.^000000
+Bees produce honey from this pollen. You can collect it from hornets and use to upgrade the Busy Bee hat.
+Weight: ^7777770^000000
+#
+11530#
+^ff0000Account bound.^000000
+Viscous, very dark honey made from cherry blossom nectar.
+Restores 100-120 HP and 40-50 SP
+Weight: ^7777771^000000
+#
+19772#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+31318#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19647#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9848#
+The Deviruchi race has prepared a gift for you!
+What's inside the box? Just open it and find out! Ahahaha!~
+^ffffff_^000000
+Open to obtain one of the following items:
+Devil Wings
+Deviruchi Balloon
+Gerhard Von Deviruchi
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Silvervine x666
+Marionette Chains
+Deviruchi Headphones
+Grey Deviruchi Hat
+White Deviruchi Hat
+Red Deviruchi Hat
+Gym Pass
+Deviling Party Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Job Manual x3
+Ghostring Scroll x13
+Megaphone x9
+Bloody Branch x2
+Glass of Illusion x13
+Life Insurance x9
+Convex Mirror x6
+Kafra Card x7
+Shadow Contract x15
+Bat Cookie x66
+Universal Golden Catalog x15
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Deviruchi Transformation Scroll x9
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+

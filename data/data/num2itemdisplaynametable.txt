@@ -5463,7 +5463,7 @@
 17043#Transformer 10pcs Box(Golem)#
 2888#Accessory#
 //---------------------2012.06.26-----
-12658#Transformer(Deviruchi)#
+12658#Deviruchi Transformation Scroll#
 12659#Transformer(Raydric Archer)#
 12660#Transformer(Mavka)#
 12661#Transformer(Marduk)#
@@ -6703,7 +6703,7 @@
 5941#Hat#
 5942#Hat#
 19600#Hat#
-18843#Hat#
+18843#Headgear#
 19722#Glasses#
 19811#Hat#
 19817#Hat#
@@ -6738,7 +6738,7 @@
 19957#Hat#
 19958#Hat#
 19959#Hat#
-19960#Hat#
+19960#Accessory#
 19951#Hat#
 20234#Hat#
 6956#Captured Sheep#
@@ -7708,3 +7708,14 @@
 31604#Accessory#
 31684#Accessory#
 31493#Accessory#
+
+11530#Cherry blossom honey#
+6492#Flower pollen#
+19772#Headgear#
+18653#Headgear#
+31318#Accessory#
+19647#Headgear#
+19909#Headgear#
+20202#Accessory#
+20762#Garment#
+9848#Deviruchi Treasure#

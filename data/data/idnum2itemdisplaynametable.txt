@@ -5514,7 +5514,7 @@
 17043#Transformer 10pcs Box(Golem)#
 2888#School Bag#
 //---------------------2012.06.26-----
-12658#Transformer(Deviruchi)#
+12658#Deviruchi Transformation Scroll#
 12659#Transformer(Raydric Archer)#
 12660#Transformer(Mavka)#
 12661#Transformer(Marduk)#
@@ -6757,7 +6757,7 @@
 5941#Joystick Hat#
 5942#Lovegame Hat#
 19600#Drooping Kiehl#
-18843#Small Deviling Hat#
+18843#Deviling Party Hat#
 19722#C Black Glasses#
 19811#C Beer Cap#
 19817#C Ifrits Breath#
@@ -6792,7 +6792,7 @@
 19957#Costume Scooter Hat J#
 19958#Costume Choir Hat#
 19959#Costume Drooping Argiope#
-19960#Costume Chain Puppet#
+19960#Marionette Chains#
 19951#Costume Solo Play Box2#
 20234#C Baphomet Hat#
 6956#Captured Sheep#
@@ -6941,7 +6941,7 @@
 20167#C Devi Headphone#
 20168#C Skull hood#
 20169#C Long Tongue#
-20170#C Gray Deviruchi Cap#
+20170#Grey Deviruchi Hat#
 20171#C Sepia Cap#
 20172#Pumpkin Head#
 20173#C Lude Hood#
@@ -8550,9 +8550,9 @@
 20132#Aura of the Subject 1#
 20407#Ominous Red Aura#
 13998#Giant Fly Wing Box (500 pcs.)#
-18653#Deviruchi Headphone#
-19909#Costume White Baby demom hat#
-20762#Costume GreatDevil Wing#
+18653#Deviruchi Headphones#
+19909#White Deviruchi Hat#
+20762#Devil Wings#
 
 11616#Yummy Meat#
 20439#Blessing of the Sun#
@@ -8820,3 +8820,11 @@
 31604#Long wig 'cat ears'#
 31684#Wig 'braids with ribbons'#
 31493#White wig 'ponytails'#
+
+11530#Cherry blossom honey#
+6492#Flower pollen#
+19772#Busy bee hat#
+31318#Gerhard Von Deviruchi#
+19647#Red Deviruchi Hat#
+20202#Deviruchi Balloon#
+9848#Deviruchi Treasure#

@@ -22055,3 +22055,28 @@ Return to Prontera and talk to the girl at loss..#
 17228#Finding the Easter Bunny#SG_FEEL#QUE_IMAGE#
 Find the Easter Bunny behind the wall near the girl.#
 #
+17229#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Talk to Old lady in Amatsu#
+#
+17230#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Weed the ground around the tree#
+#
+17231#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Go back to the Old lady and return the shovel#
+#
+17232#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Get some water in the lake#
+#
+17233#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Pour water on the Kodama's Tree#
+#
+17234#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Go back to the Old lady with an empty bucket#
+#
+17235#Help the Old lady#SG_FEEL#QUE_IMAGE#
+You need to put on the hat that Old lady gave you and water 15 sakura trees, and then Kodama's Tree#
+Hurry up! You only have half an hour#
+
+17236#Help the Old lady#SG_FEEL#QUE_IMAGE#
+Go back to Old lady#
+#

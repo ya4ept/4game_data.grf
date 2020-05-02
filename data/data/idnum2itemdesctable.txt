@@ -46999,41 +46999,21 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 6320#
-This item is used to access various Premium Services.
-^ffffff_^000000
-All third class job changes require ^006400[1 Reset Stone]^000000 or ^ff0000VIP Status^000000 on the account.
-^ffffff_^000000
-Sam Status is accepting Reset Stones to reset your stat points.
-You can find him in Payon around 180 115.
-Reset Stones Required per level:
-Base Lvl ^0000FF1  ~ 40 ^006400[1 Reset Stone]^000000
-Base Lvl ^0000FF41 ~ 70 ^006400[2 Reset Stone]^000000
-Base Lvl ^0000FF71 ~ 90 ^006400[3 Reset Stone]^000000
-Base Lvl ^0000FF91 ~ 110 ^006400[4 Reset Stone]^000000
-Base Lvl ^0000FF111 ~ 125 ^006400[5 Reset Stone]^000000
-Base Lvl ^0000FF126 ~ 140 ^006400[6 Reset Stone]^000000
-Base Lvl ^0000FF141 ~ 150 ^006400[7 Reset Stone]^000000
+^ff0000Account bound^000000
+A Stone that allows you to reset characteristics.
+To do this, take it to the Great Alchemist in Prontera.
+Reset character characteristics can be ^ff0000maximum 6 times^000000.
 Weight: ^7777770^000000
 #
 16555#
 A box that contains 1 Reset Stone inside.
 ^ff0000This item is not refundable.
-Can be traded and stored.^000000
 Description:
-This item is used to access various Premium Services.
 ^ffffff_^000000
-All third class job changes require ^006400[1 Reset Stone]^000000 or ^ff0000VIP Status^000000 on the account.
-^ffffff_^000000
-Sam Status is accepting Reset Stones to reset your stat points.
-You can find him in Payon around 180 115.
-Reset Stones Required per level:
-Base Lvl ^0000FF1  ~ 40 ^006400[1 Reset Stone]^000000
-Base Lvl ^0000FF41 ~ 70 ^006400[2 Reset Stone]^000000
-Base Lvl ^0000FF71 ~ 90 ^006400[3 Reset Stone]^000000
-Base Lvl ^0000FF91 ~ 110 ^006400[4 Reset Stone]^000000
-Base Lvl ^0000FF111 ~ 125 ^006400[5 Reset Stone]^000000
-Base Lvl ^0000FF126 ~ 140 ^006400[6 Reset Stone]^000000
-Base Lvl ^0000FF141 ~ 150 ^006400[7 Reset Stone]^000000
+^ff0000Account bound^000000
+A Stone that allows you to reset characteristics.
+To do this, take it to the Great Alchemist in Prontera.
+Reset character characteristics can be ^ff0000maximum 6 times^000000.
 Weight: ^7777770^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -51843,9 +51823,11 @@ Job: ^777777All^000000
 #
 
 12658#
-A scroll that will transform your body into the form of a Deviruchi for 20 minutes.
-During the transformation increases Atk Speed by a small amount.
-Weight: ^7777772^000000
+^FF0000Account bound^000000
+A scroll that will transform you into a Deviruchi for 20 minutes.
+Increase Atk speed and Hit in a modified form.
+This effect does not persist through death.
+Weight: ^7777771^000000
 #
 
 12659#
@@ -54135,17 +54117,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordsman Class^000000
 #
 20170#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A set of Arabian style blades that are worn on the back of both hands
-or on the forearms.
-^CC0000This item is not Refinable^000000
-Class: ^777777Katar^000000
-Attack Strength: ^777777146^000000
-Weight: ^77777780^000000
-Weapon Level: ^7777772^000000
+Grey hat that looks like a little Deviruchi.
+It encourages you to do dirty tricks and poke others with a pitchfork.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Assassin^000000
+Jobs: ^777777All^000000
 #
 
 20174#
@@ -57570,13 +57548,18 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18843#
-Porings are having a party.
-Decrease 5% damage from human style monsters.
-Refined over 8, MaxHP + 1% per 1 refinement.
-Class: ^777777Helmet^000000 Defense: ^7777777^000000
-Location: ^777777Upper ^000000Weight: ^77777735^000000
+Just two little Devilings that started a party on your head. Nothing special.
+[For each 2 refine level]
+Max SP +1%
+INT/DEX +2
+[If refined to +9]
+Increase magic damage against Demi-Humans by 5%
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777735^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 18844#
 Blue Porings fly on the sky.
@@ -62817,15 +62800,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-19909#
-It is made after baby demon, Deviruchi, it looks cute so everyone would be happy to wear it.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 19910#
 A fashionable witch's hat made specifically for this year's Halloween party.
 ^ff0000Animated^000000
@@ -65124,15 +65098,6 @@ Location: ^777777low ^000000Weight: ^7777770^000000
 Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-18653#
-a headphone from Devil Deviruchi. It is good to block the noise from outside
-increase resistance of Stun 50%
-if it with Magician, Archer, Acolyte class, increase stun resistance 5%, if Cute pet intimacy is close friend, increase addtioanl stun resistance 15%
-Class: ^777777Headgear^000000    Defense: ^7777778^000000
-Location: ^777777Upper^000000    Weight: ^77777720^000000
-Req Level: ^77777730^000000
-Jobs: ^777777All^000000
-#
 18655#
 Yet decadent in single-lens glasses with wings, I blow out the charm of secret. I do not know why, but it is said Goe-Do we use habitually.
 Agi +2.
@@ -66671,14 +66636,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19772#
-An interesting hat decorated with honeybee-like stripes and feelers.
-You feel like gathering the honey!
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
-#
 19773#
 A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.
 Class: ^777777Costume^000000
@@ -67046,11 +67003,14 @@ Req Lvl.: ^7777771^000000
 Job: ^777777All^000000
 #
 19960#
-Chains for controlling puppets. It feels like I have become a doll.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
+Do marionettes dream of puppet sheep?
+Now you can figure it out for yourself.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19984#
 A hat popularly worn in always-winter country. When worn, memories of trains and happiness faintly recollects.
@@ -72823,14 +72783,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20762#
-Wing of Great Devel, the famous.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
+Chained wings that will lift you above this sinful world.
+These people just want to burn in the fire of their passions... So be it!
 Class: ^777777Costume^000000
-Location: ^777777Garment ^000000
-Weight: ^7777770^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20071#
 It seem he love his mother.
@@ -72982,13 +72941,14 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20202#
-Hellium Ballon shaped like deviruchi.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
+Helium balloon that looks like Deviruchi.
+It's so fun to watch him bouncing in the air!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20130#
 A long hat modeled after the shape of monster Whisper.
@@ -83232,32 +83192,26 @@ An enchanted, giant wing from an ancient creatures. Enables instant teleportatio
 Weight: ^7777771^000000
 #
 18653#
-a headphone from Devil Deviruchi. It is good to block the noise from outside
-increase resistance of Stun 50%
-if it with Magician, Archer, Acolyte class, increase stun resistance 5%, if Cute pet intimacy is close friend, increase addtioanl stun resistance 15%
-Class: ^777777Headgear^000000    Defense: ^7777778^000000
-Location: ^777777Upper^000000    Weight: ^77777720^000000
-Req Level: ^77777730^000000
+Stylish headphones created by the Deviruchi race.
+They can muffle the groans of myriads of restless souls.
+MDEF +4
+Stun resistance +30%
+[If used by Magician/Archer/Acolyte]
+Stun resistance +5%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777778^000000    Weight: ^77777720^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19909#
-It is made after baby demon, Deviruchi, it looks cute so everyone would be happy to wear it.
+White hat that looks like a little Deviruchi.
+It encourages you to do dirty tricks and poke others with a pitchfork.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
-20762#
-Wing of Great Devel, the famous.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000
-Location: ^777777Garment ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 11616#
 Yummy meat.
@@ -85570,6 +85524,10 @@ Reduce damage from Demi-Humans by 10%
 EXP from monsters +2%
 All Stats +2 
 Increase damage against Demi-Humans by 5%
+[If refine level is +20]
+EXP from monsters +3%
+All Stats +3 
+Additional increase damage against Demi-Humans by 5%
 ^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, middle, lower)^000000
@@ -86033,4 +85991,95 @@ Location: ^777777Headgear (Lower)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+6492#
+^ff0000Account bound.^000000
+Bees produce honey from this pollen. You can collect it from hornets and use to upgrade the Busy Bee hat
+Weight: ^7777770^000000
+#
+11530#
+^ff0000Account bound.^000000
+Viscous, very dark honey made from cherry blossom nectar.
+Restores ^000088small amount of HP and SP^000000
+Weight: ^7777771^000000
+#
+19772#
+^ff0000Account bound.^000000
+A hat of a real hard worker. Makes you look like a fuzzy bumblebee or a honey bee.
+EXP from monsters +10%
++50% healing from Cherry blossom honey
+[For every refine level]:
+Increase damage inflicted on Insect and Plant monsters by 10% when equipped weapons.
+Damage from Insect and Plant monsters -3% 
++10% healing from Cherry blossom honey
+SP consumption decreased by 1%
+Sting gets longer
+^ff0000 [Effects are active only during an event (until May 7, 2020)]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper ^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31318#
+Inflate the body, intimidate the enemy!
+This Deviruchi balloon is so sinister, yet so cute!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper ^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19647#
+Red hat that looks like a little Deviruchi.
+It encourages you to do dirty tricks and poke others with a pitchfork.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9848#
+The Deviruchi race has prepared a gift for you!
+What's inside the box? Just open it and find out! Ahahaha!~
+^ffffff_^000000
+Open to obtain one of the following items:
+Devil Wings
+Gerhard Von Deviruchi
+Deviruchi Balloon
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Silvervine x666
+Marionette Chains
+Deviruchi Headphones
+Grey Deviruchi Hat
+White Deviruchi Hat
+Red Deviruchi Hat
+Gym Pass
+Deviling Party Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Job Manual x3
+Ghostring Scroll x13
+Megaphone x9
+Bloody Branch x2
+Glass of Illusion x13
+Life Insurance x9
+Convex Mirror x6
+Kafra Card x7
+Shadow Contract x15
+Bat Cookie x66
+Universal Golden Catalog x15
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Deviruchi Transformation Scroll x9
+^ffffff_^000000
+Weight: ^7777771^000000
 #
