@@ -73,5 +73,15 @@ SPRITE_ROBE_IDs = {
 	ROBE_Wing_Of_Angel_Move_RD = 72,
 	ROBE_Wing_Of_Angel_Move_BK = 73,
 	ROBE_Wing_Of_Angel_Move_RB = 74,
-	ROBE_Wing_Of_Angel_Move_GD = 75
+	ROBE_Wing_Of_Angel_Move_GD = 75,
+	ROBE_C_Big_Ribbon_Cloak = 76,
+	ROBE_Wing_Of_Angel_Move_DG = 77,
+	ROBE_Wing_Of_Angel_Move_GR = 78,
+	ROBE_C_Evil_Scythe = 79,
+	ROBE_C_GiantCatBag_JP_BL = 80,
+	ROBE_C_BlackBear_Back_TW = 81,
+	ROBE_Calabash = 82,
+	ROBE_C_Sakura_Wing = 83,
+	ROBE_C_Seraphim_Wing_TW = 84,
+	ROBE_C_Papilio_Ulysses_Feather = 85
 }

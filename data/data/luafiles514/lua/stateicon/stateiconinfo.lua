@@ -59,10 +59,10 @@ StateIconList[EFST_IDs.EFST_MANU_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Воля Манука", COLOR_TITLE_BUFF },
+		{ "Смелость Манука", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Магический и физический урон" },
-		{ "от монстров Манука снижен." }
+		{ "Снижает магический и физический" },
+		{ "урон от монстров Манука." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
@@ -528,10 +528,10 @@ StateIconList[EFST_IDs.EFST_SPL_DEF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Мед", COLOR_TITLE_BUFF },
+		{ "Мед Лусиолы", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Понижает физический и магический урон" },
-		{ "от монстров Терры." }
+		{ "Снижает физический и магический урон" },
+		{ "от монстров Сплендида." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ILLUSION] = {
@@ -617,7 +617,7 @@ StateIconList[EFST_IDs.EFST_MANU_MATK] = {
 		{ "Вера Манука", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Повышает силу магической атаки" },
-		{ "на монстров Манука." }
+		{ "против монстров Манука." }
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPARMOR] = {
@@ -715,10 +715,10 @@ StateIconList[EFST_IDs.EFST_SPL_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Фрукт Пингвикулы", COLOR_TITLE_BUFF },
+		{ "Фруктовое варение Пингвикулы", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Повышает силу физической атаки" },
-		{ "против монстров Терры" }
+		{ "против монстров Сплендида" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BLESSING] = {
@@ -1242,10 +1242,10 @@ StateIconList[EFST_IDs.EFST_SPL_MATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Слеза Корнуса", COLOR_TITLE_BUFF },
+		{ "Слезы Корнуса", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Увеличивает силу магической атаки" },
-		{ "против монстров Терры." }
+		{ "против монстров Сплендида." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
@@ -1785,7 +1785,7 @@ StateIconList[EFST_IDs.EFST_MANU_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Золото Манука", COLOR_TITLE_BUFF },
+		{ "Возможность Манука", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Повышает силу физической атаки" },
 		{ "против монстров Манука." }
@@ -3571,5 +3571,13 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
 		{ "Увеличение получаемого опыта", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Получаемый опыт: Hel +30%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "Выносливость повышена" }
 	}
 }

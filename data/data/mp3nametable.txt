@@ -724,8 +724,8 @@ alb2trea.rsw#bgm\\52.mp3#
 gef_tower.rsw#bgm\\13.mp3#
 //moc_castle.rsw#bgm\\11.mp3#
 moc_ruins.rsw#bgm\52.mp3#
-morocc.rsw#bgm\\11.mp3#
-morocc_in.rsw#bgm\\11.mp3#
+morocc.rsw#bgm\\119.mp3#
+morocc_in.rsw#bgm\\119.mp3#
 pay_arche.rsw#bgm\\14.mp3#
 payon.rsw#bgm\\14.mp3#
 payon_in01.rsw#bgm\\14.mp3#
