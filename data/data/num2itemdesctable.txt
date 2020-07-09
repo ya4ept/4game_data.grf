@@ -6848,7 +6848,7 @@ using a Magnifier.
 #
 
 19995#
-// ---- A year celebration for Ragnarok pay service -----------
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
 #
 
 2631#
@@ -10402,13 +10402,13 @@ those with a sweet tooth. ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12122#
-Doughy, chewy snacks made out of pine pollen, chestnut flour, and honey. Decorated with characters for safety, luck and longevity, these cookies are made to wish good fortune to those who eat them.
-Hit +30 for 3 min.
+Chewy snacks made out of pine pollen, chestnut flour and honey.
+HIT +30 for 3 min.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 12123#
-These traditional crackers from the far East are made of mixed flour, honey, and sweet liquor.
+These traditional crackers from the Far East are made of mixed flour, honey, and sweet liquor.
 Flee +30 for 3 min.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -18042,13 +18042,14 @@ Weight: ^77777715^000000
 #
 
 593#
-A very sweet pancake
-topped with honey.
-^000088Cures all abnormal
-statuses^000000, ^000088recovers
-HP and SP^000000.
-^ffffff_^000000
-Weight: ^77777715^000000
+^808080A very sweet pancake topped with honey.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
 
 594#
@@ -21822,10 +21823,11 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 5136#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-12260#This refreshing outfit truly is the sidearm of an experienced adventurer.
-Allowing one to remain cool in the face of adversity.
+12260#
+Stylish summer clothes made of lightweight fabric.
+An outfit for seasoned adventurers who just want to relax.
 ^ffffff_^000000
-^FF0000Warning: Do not wear outfit when in battle; it is only to be used in relaxed situations.^000000
+^FF0000Warning: Do not wear this clothing for battle; it is designed for a beach party.^000000
 ^ffffff_^000000
 Cannot be Dropped or Traded.
 ^ffffff_^000000
@@ -26866,34 +26868,41 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 14300#
 A box that contains 1 'Mask of Ifrit' in it.
-Mask of Ifrit, the spiritual owner of fire. Rumored to rule a power of the fire.
-STR + 1, INT + 1, Mdef + 5
-Increase 10% resistence against Fire Property attacks.
-Decrease 10% resistence against Water Property attacks.
+A mask of Ifrit, the spirit of an unquenchable flame.
+STR +1
+INT +1
+MDEF +5
+Resistence against Fire Property +10%
+Resistence against Water Property -10%
 Enables use of Lv.1 Sight.
-Autospell Meteor Storm Lv.3 by a certain chance when receiving physical attack.
-Autospell Fire Bolt Lv.3 by a certain chance when dealing physical damage.
+Has a chance of auto-casting Lv.3 Meteor Storm when receiving physical attack.
+Has a chance of auto-casting Lv.3 Fire Bolt when dealing physical damage.
 Unable to refine.
-Item Class: ^777777Headgear^000000    Defense: ^7777778^000000
-Location: ^777777Upper,Mid,Lower^000000    Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper, Mid, Lower^000000
+Defense: ^7777778^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 ^ff0000This item is not refunable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14301#
 A box that contains 1 'Ear of Ifrit' in it.
-A headgear which imitates an ears of Ifrit, the spiritual owner of fire.
-STR + 1, Mdef + 3
-Increase damage of Fire Bolt, Fire Pillar, Meteor Storm skill by 2%.
-Increase damage of Bash, Pierce, Magnum Break skill by 2%.
-Increase 5% resistence against Fire Property attacks.
-Reduce 5% resistence against Water Property attacks.
-Item Class: ^777777Headgear^000000    Defense: ^7777770^000000
-Location: ^777777Mid^000000    Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+A headgear that imitates the ears of Ifrit, the spirit of an unquenchable flame.
+STR +1
+MDEF +3
+Fire Bolt, Fire Pillar, and Meteor Storm damage +2%
+Bash, Pierce, and Magnum Break damage +2%
+Resistence against Fire Property +5%
+Resistence against Water Property -5%
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 ^ff0000This item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -30111,10 +30120,11 @@ The items may be put in Kafra storage.
 Weight: ^7777771^000000
 #
 12507#
-A Yellow Butterfly wing that can take you to any of the towns in the Rune Midgard Continent.
-Great for getting to leveling places and completing Job change quests.
-May be put in Storage.
-Weight 1
+An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgard Kingdom.
+Allows you to travel to Prontera, Izlude, Geffen, Payon, Morocc, Al De Baran, Alberta, Juno, Lighthalzen, Einbroch, Einbech, Hugel, Rachel and Veins.
+(Caution! Choose a city within 1 minute after using this item, otherwise you will not get anywhere.)
+^FF0000This item is character bound.^000000
+Weight: ^7777771^000000
 #
 5737#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -34793,25 +34803,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777Archer Class;
 Thief and Rogue Jobs^000000
 #
-20335#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A rare pistol that
-is only produced when
-it is specially ordered.^FFFFFF ^000000 The engraving of its
-creator's name can be
-used by experts to
-authenticate this gun.
-Hit - 10.
-^CC0000This item is not Refinable^000000
-Class: ^777777Pistol^000000
-ATK: ^77777791^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs :^777777Gunslinger^000000
-#
 20336#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -37046,16 +37037,6 @@ Contains one of the following:
 Weight: ^7777771^000000
 #
 
-19787#
-The truly devoted have seen into the infinite, and have been forever changed.
-Cannot be refined or destroyed.
-Class: ^777777Costume^000000
-Location: ^777777Middle ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
-#
-
 22594#
 A box containing  1 Devoted Eyes costume.
 Weight: ^77777710^000000
@@ -38633,17 +38614,6 @@ DEX +2.
 Creates a chance of casting Level 5 Storm Gust when you receive Physical damage.
 Additional DEX +1when upgraded to +8.
 Additional DEX +1  every 2 upgrade levels after +8.
-Class: ^777777HeadGear^000000 Def: ^77777710^000000
-Location: ^777777Upper ^000000Weight: ^77777730^000000
-Req Lev: ^77777730^000000
-Job: ^777777All^000000
-#
-18931#
-A hat shaped like the predatory feline mammal that is popularly known as the king of the beasts.
-INT +2.
-Creates a chance of casting Level 5 Meteor Storm when you receive Physical damage.
-Additional INT +1when upgraded to +8.
-Additional INT +1 every 2 upgrade levels after +8.
 Class: ^777777HeadGear^000000 Def: ^77777710^000000
 Location: ^777777Upper ^000000Weight: ^77777730^000000
 Req Lev: ^77777730^000000
@@ -41166,9 +41136,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19910#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-19911#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19907#
@@ -43699,28 +43666,10 @@ Required Level: ^77777760^000000
 Job: ^777777All Jobs^000000
 #
 18907#
-A panda clinging to its master. Somehow you'd feel braver with it around.
-Reduce damage from human-type monsters by 5%
-Increases damage to medium-type monsters by 10%
-Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
-Defense: ^7777778^000000
-Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18911#
-Lovely petals dropping from a pair of red flowers.
-DEX +5
-Reduce damage from earth-type monsters by 3%
-Reduce damage from human-type monsters by 10%
-When refined to 12 above, reflects physical damages by 5%
-Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
-Defense: ^77777710^000000
-Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18912#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -43753,16 +43702,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18916#
-A balloon shaped like a bear. It is often mistaken as a Poring.
-STR +1, LUK +1
-MaxHP +50
-Unrefinable
-Class: ^777777Headgear^000000
-Location: ^777777Lower ^000000
-Defense: ^7777775^000000
-Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18919#
 A common familiar often summoned by vampires. Very useful in scouting danger ahead of time.
@@ -43839,13 +43779,7 @@ Req LvL: ^7777771^000000
 Job: ^777777All^000000
 #
 18962#
-Cute panda balloon!
-All State +1, ASPD +1.
-Cannot be enchanted nor destructed.
-Class: ^777777Headgear^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^77777720^000000
-Req LvL: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18963#
 A hat made after pretty mocking bird.
@@ -44100,13 +44034,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19679#
-White round eyes make you look innocent and cute.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
-#
 19681#
 A silver shining hair accessory with a star at the center.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -44213,11 +44140,7 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19723#
-A crown blessed with holy fire.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19726#
 Scarlet rose in a mouth. Did they even remove the thorns?
@@ -44255,11 +44178,7 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19750#
-A white huge ribbon looks tidy.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
 #
 19752#
 A wing-shaped accessory with purple roses.
@@ -44295,11 +44214,7 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19759#
-A colorful umbrella that you don't need to grab by your hands. Very useful for rainy seasons in Philippines.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19761#
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -44440,11 +44355,7 @@ Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
 19810#
-This headgear is the figuration of soul of fire Lfrit's ear. It looks hot but when you equip, it's not at all.
-Class: ^777777Costume^000000
-Location: ^777777Middle^000000Weight: ^7777770^000000
-Required LVL: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19811#
 Drinking beer after shower it is good~!!
@@ -44483,12 +44394,7 @@ Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
 19817#
-A fire-breathing Machine
-It is blazing forever
-Class: ^777777Costume^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required LVL: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19818#
 A scary rag doll with bloods.
@@ -44506,13 +44412,6 @@ Job: ^777777all jobs^000000
 #
 19824#
 You can be chic and cynical with wearing this.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
-#
-19825#
-A bandage covers scars of eyes.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
@@ -44964,14 +44863,6 @@ STR + 2, VIT + 1.
 if refined lv8, able to increase the move speed
 Class: ^777777headgear^000000 Defense: ^7777774^000000
 Location: ^777777upper-mid ^000000Weight: ^77777770^000000
-Req Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-19539#
-Hair ornament took the name of Valkyrie 'Reginleif'. Those who wear it, and receive the gift of God.
-All State + 1.
-Class: ^777777Costume^000000
-Location: ^777777Upper-Mid ^000000 Weight: ^7777770^000000
 Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -49274,11 +49165,7 @@ Required Lv.: ^7777771^000000
 Job: ^777777All jobs^000000
 #
 20219#
-^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
-Class: ^777777Costume equipment^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Lv.: ^7777771^000000
-Job: ^777777All jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
 #
 
 20191#
@@ -50575,13 +50462,6 @@ Location: ^777777Lower ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-31122#
-Tight bandages for wounds of the eyes. It seems that they were already used.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 31123#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -51710,11 +51590,6 @@ Unknown item requiring Appraisal.
 Can be identified by using a Magnifier.
 Weight: ^7777770^000000
 #
-19637#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
-Weight: ^7777770^000000
-#
 19913#
 Unknown item requiring Appraisal.
 Can be identified by using a Magnifier.
@@ -51770,9 +51645,6 @@ Unknown item requiring Appraisal.
 Can be identified by using a Magnifier.
 Weight: ^7777770^000000
 #
-19628#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 19849#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -51780,9 +51652,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31113#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-20049#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19533#
@@ -53767,4 +53636,462 @@ Deviruchi Transformation Scroll x9
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+
+19825#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19911#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31122#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31446#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19628#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20049#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19637#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5915#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+20489#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+20554#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+20565#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+31181#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+31851#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+20402#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
+#
+22979#
+A book about combat arts, written on delicious bubblegum paper.
+After reading the page you can chew it and blow the bubble.
+^000088EXP rate increases to 50% for 30 minutes.^000000
+^000088Item Drop rate increases to 100% for 30 minutes.^000000
+Weight : ^7777770^000000
+#
+9855#
+Radiance of the Holy Cross chases away all the darkness!
+You will find something wondrous inside this box...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Thunder
+Aura of Sanctity
+Floating Shields
+Neuralizer Box
+Auger of Spirit
+Hat of White Parade
+Angel's Veil
+Pope's Tiara
+Monastic Klobuk
+Blessed Ribbon
+Bubblegum Battle Manual
+Cross Pendant
+Secret Medicine
+Drooping Pope Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Token of Ziegfried x9
+Holy Armor Scroll x15
+Infinite Berserk Potion Box
+Gold Pill Extra x5
+Life Insurance x9
+Sesame Pastry x35
+Honey Pastry x35
+Holy Egg x5
+Water of Life x10
+Box of Sunlight x16
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Infinite Awakening Potion Box
+Kafra Card x7
+Infinite Concentration Potion Box
+Blessing of Tyr x7
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19264#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20116#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20209#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20349#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20549#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20560#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31060#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31259#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31672#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31837#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9861#
+An incessant sound of waves comes from this box. And you begin to distinguish strange voices in this noise.
+As if the sea wants to tell you something...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of the Depths
+Aura of the Sea Glow
+Ocean Bubbles
+Flying Galapago
+Shark's Head
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Mermaid's Wig
+Mermaid's Headphones
+Inf. Giant Fly Wing Box (1 d.)
+Archangeling Family Hairband
+Umbrella Hat
+Starfish Hairband
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Golden_Fish_Head_Hat
+Token of Ziegfried x7
+Life Insurance x9
+Kafra Card x10
+Yummy Skewered Grill x30
+Evasion Scroll x15
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Huge Spray Of Flowers x10
+WoE Teleport Scroll x12
+Superb Fish Slice x25
+Cool Summer Outfit x5
+Grilled Tuna x30
+Grilled Snapper x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23330#
+Contains Giant Fly Wing.
+Rental term: 1 d. (24 h.)
+Weight: ^7777771^000000
+^ffffff_^000000
+[Infinite Giant Fly Wing]
+^ff0000Account bound^000000
+^000088Rental item^000000
+Enchanted wing of an ancient giant fly.
+Allows to teleport several people at once when used by a Party Master.
+The item doesn't disappear when used.
+Weight: ^7777770^000000
+#
+23023#
+^000088Rental Item^000000
+^ff0000Account bound^000000
+Enchanted wing of an ancient giant fly.
+Allows to teleport several people at once when used by a Party Master.
+The item doesn't disappear when used.
+Weight : ^7777770^000000
+#
+31039#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31293#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+14514#
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv.10 Lord of Vermilion^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+14512#
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv.10 Meteor Storm^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+20221#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31178#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31719#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9882#
+This box is shrouded in tongues of bright dazzling flame.
+It's strange, but this fire doesn't burn your hands.
+^ffffff_^000000
+Open to obtain one of the following items:
+Flames of Rage
+Mask of Ifrit
+Fiery Muffler
+Cresset Coronet
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Eyes of Ifrit
+Ears of Ifrit
+Silvervine x451
+Imp Hat
+Breath of Ifrit
+Lion Model Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Infinite Berserk Potion Box
+Guyak Pudding x35
+Token of Ziegfried x7
+WoE Teleport Scroll x15
+Kafra Card x10
+Bubblegum Battle Manual
+Infinite Awakening Potion Box
+Cup of Boza
+Meteor Storm Scroll x30
+Lord of Vermilion Scroll x30
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Infinite Concentration Potion Box
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14674#
+A warming malt beverage made from fermented wheat.
+VIT +10
+Resistence against Fire Property +5%
+Weight : ^7777771^000000
+#
+6455#
+^ff0000Account bound^000000
+This coupon allows you to get a reward
+for a missed day and adds one
+day to overall progress. Can be exchanged for 
+Enlightened One's rewards in Prontera (156, 116).
+^ffffff_^000000
+Weight : ^7777770^000000
+#
+19679#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19787#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20335#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31251#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31615#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31699#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31716#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19539#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12510#
+The wing of a rare butterfly that lives only in ancient cities.
+Allows you to travel to Ayotaya, Amatsu, Louyang and Kunlun. 
+(Caution! Choose a city within 1 minute after using this item, otherwise you will not get anywhere.)
+^FF0000This item is character bound.^000000
+Weight: ^7777771^000000
+#
+20459#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20519#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20576#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31388#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31489#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31598#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31673#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9899#
+This box is braided with a flowering vine.
+The flowers are beautiful and emit a pleasant fragrance.
+^ffffff_^000000
+Sillit Pong
+Miaow Fork
+Picnic Basket
+Cherry Blossom Aura
+Valhalla Chaplet
+Forester's Hat
+Flower Aura
+Eden Hat
+Premium Lubricant
+Ordinary Lubricant
+Bouquet Hat
+Silvervine x333
+Inf. Giant Fly Wing Box (1 h.)
+Wild Rose Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Job Manual x3
+Bubble Gum x3
+Battle Manual x3
+Enriched Elunium x3
+Enriched Oridecon x3
+Megaphone x10
+Kafra Card x10
+Speed Up Potion x50
+Blessing of Tyr x10
+Huge Spray Of Flowers x15
+Rainbow Cake x8
+Ghostring Scroll x8
+Holy Armor Scroll x8
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Yellow Butterfly Wing x10
+Blue Butterfly Wing x10
+WoE Teleport Scroll x10
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+
+
+12415#
+A scroll with many castle coordinates written.
+If you tear the scroll at the right spot, it will warp you to that location.
+Allows you to travel to Heemin, Andlerangh, Bidblind, Hueluid, Schatirnil, Mardol, Scheit, Horn, Gepun and Banadis.
+(Caution! Choose a castle within 1 minute after using this item, otherwise you will not get anywhere.)
+Weight: ^7777771^000000
+#
+
+19353#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19851#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20381#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20569#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20582#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31027#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31799#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9900#
+You hear a menacing growl coming from this heavy box...
+Do you need to open it or not? Decide at your own risk and peril!
+^ffffff_^000000
+Open to obtain one of the following items:
+Mikhail the Bear
+Bear Backpack
+Steampunk Hat
+Panda Balloon
+Flying Bear
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Teddy Bear Hat
+Silvervine x500
+Inf. Giant Fly Wing Box (1 h.)
+White Bear Ears
+Brown Bear Ears
+Drooping Panda
+HE Battle Manual x2
+HE Bubble Gum x2
+Guyak Pudding x40
+Enriched Elunium x3
+Enriched Oridecon x3
+Poring Box x5
+Aspd Potion x15
+Convex Mirror x9
+Greed Scroll Box (100 pcs.)
+Kvass x15
+Sesame Pastry x30
+Honey Pastry x30
+Honey Pancake x40
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Rune-Midgard Wing x10
+Ancient City Wing x10
+WoE Teleport Scroll x10
+Siege Teleport Scroll Silver x10
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20585#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12233#
+Foam beverage of brown color. Looks like home-brewed beer, but nonalcoholic.
+Traditionally it is drank out of the figured wineglasses.
+^ff0000Recovers HP and SP^000000
+^ffffff_^000000
+Weight: ^77777720^000000
+#
+
+
 

@@ -123,8 +123,8 @@ All done! Okay. Give this Ring Pommel Saber to Bismarc who is in Comodo. Be sure
 Deliver Ring Pommel Saber to Bismark in Hugel.#
 
 2013#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
-Well done! You're a great merchant indeed! Okay, go to Altiregen in Geffen!#
-Go back to Altiregen#
+Well done! You're a great merchant indeed! Okay, go to Altazen in Einbroch!#
+Go back to Altazen#
 
 2014#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Some other Blacksmiths have ill manners and are scammers and overpricers. They bring us shame! So we make the Job changing test more difficult. You should talk with inside Guildsman#
@@ -132,7 +132,7 @@ Talk with Mitehmaeeuh, Guildsman of Blacksmith.#
 
 2015#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Congratulations! You passed the second test! I'll give you this Hammer of Blacksmith as a certificate.#
-Go back to Altiregen#
+Go back to Altazen#
 
 2016#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Congratulations! You passed all the test! I give permission to use the art of Fire Craftsmanship.#
@@ -2174,28 +2174,28 @@ As a loving father, I can't allow myself to invade my precious daughter's privac
 Search for the diary on top of the drawer.#
 
 8114#Bruspetti's Diary#SG_FEEL#QUE_NOIMAGE#
+As a loving father, I can't allow myself to invade my precious daughter's privacy. Even if she did carelessly leave her diary on top of her drawer.#
+Search for the diary on top of the drawer.#
+
+8115#Bruspetti's Diary#SG_FEEL#QUE_NOIMAGE#
 This must be Bruspetti's diary! But... reading it would make you feel like a real creep. You should ask Katinshuell if he knows why Bruspetti is in Lighthalzen.#
 Go meet Katinshuell#
 
-8115#Suspicious Katinshuell#SG_FEEL#QUE_NOIMAGE#
+8116#Suspicious Katinshuell#SG_FEEL#QUE_NOIMAGE#
 Katinshuell insists on being left alone. Maybe someone else will know something else about Bruspetti's interest in Freya's Spring and Lighthalzen.#
 Go meet Lachellen.#
 
-8116#Lachellen's Testimony#SG_FEEL#QUE_NOIMAGE#
+8117#Lachellen's Testimony#SG_FEEL#QUE_NOIMAGE#
 Freya's Spring? Oh, I like that place! Speaking of which, I know someone named Katinshuell that went there pretty often. Usually men don't go alone...#
 Go to Freya's Spring.#
 
-8117#Freya's Spring#SG_FEEL#QUE_NOIMAGE#
+8118#Freya's Spring#SG_FEEL#QUE_NOIMAGE#
 See the edge of the spring? The same young man frequently comes to that spot, and stares into the water, just dripping with sadness. Someone so young shouldn't be feeling like that.#
 Go back to Mr. Shendar.#
 
-8118#Conversation with Mr. Shendar#SG_FEEL#QUE_NOIMAGE#
+8119#Conversation with Mr. Shendar#SG_FEEL#QUE_NOIMAGE#
 Wait, wait... So someone has been sneaking around here? That's weird. Wait, that guy, the one that might be Bruspetti's boyfriend..#
-Retrieve Bruspetti's Diary.#
-
-8119#Bruspetti's Diary#SG_FEEL#QUE_NOIMAGE#
-You now have permission to take the diary with you so that you can figure out if Bruspetti and Katinshuell are connected... Bring the diary to Katinshuell.#
-Katinshuell#
+Find Katinshuell using Betty's diary#
 
 8120#Conversation with Katinshuell#SG_FEEL#QUE_NOIMAGE#
 Tell me the truth! Actually, you know what? Why don't we look at the truth together? How's that?#

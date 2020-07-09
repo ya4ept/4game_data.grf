@@ -4056,7 +4056,7 @@
 5431#Cap#
 5410#Cap#
 5421#Ribbon#
-5420#Mask#
+5420#Headgear#
 14469#Ox Tail Scroll#
 
 // --------- 2009.06.23. Cash item update -------------
@@ -4569,7 +4569,7 @@
 // --------- 2010.10.05. Cash item update -------------
 
 16446#Pegasus Scroll#
-5658#Hat#
+5658#Headgear#
 5580#Hat#
 12188#Magical Moon Cake#
 12328#Charm Of Happiness#
@@ -5571,7 +5571,7 @@
 18727#Hat#
 18694#Hat#
 18729#Headgear#
-18673#Hat#
+18673#Headgear#
 18615#Glasses#
 18616#Long Tongue#
 18617#Headgear#
@@ -6706,7 +6706,7 @@
 18843#Headgear#
 19722#Glasses#
 19811#Hat#
-19817#Hat#
+19817#Accessory#
 19834#Hat#
 17461#Frozen Scroll#
 17267#Costume Collection#
@@ -6937,7 +6937,7 @@
 20218#Headgear#
 20219#Headgear#
 20220#Headgear#
-20221#Hat#
+20221#Headgear#
 
 //--------------Horror Toy Factory------------
 12490#Vivid Notation#1
@@ -6968,7 +6968,6 @@
 4825#Fighting Spirit Lv10#
 
 //New Costume
-19539#Helm#
 19540#Hairband#
 
 //--------------Shadow 3rd------------------
@@ -7272,7 +7271,6 @@
 19525#Hat#
 19526#Hat#
 19528#Hat#
-20049#Accessories#
 19941#Earmuffs#
 20277#Hat#
 20223#Accessories#
@@ -7282,9 +7280,7 @@
 19859#Headband#
 19865#Hat#
 19625#Hat#
-19628#Hat#
 19632#Hat#
-19637#Hat#
 19639#Hat#
 20348#Helmet#
 19890#Helmet#
@@ -7719,3 +7715,77 @@
 20202#Accessory#
 20762#Garment#
 9848#Deviruchi Treasure#
+
+19825#Hat#
+19911#Hat#
+31122#Hat#
+31446#Accessory#
+19628#Accessory#
+19637#Hat#
+20049#Accessory#
+5915#Headgear#
+19750#Headgear#
+20489#Headgear#
+20554#Accessory#
+20565#Accessory#
+31181#Accessory#
+31851#Accessory#
+20402#Headgear#
+22979#Bubblegum Battle Manual#
+9855#Holy Treasure#
+19264#Headgear#
+19759#Headgear#
+20116#Headgear#
+20209#Accessory#
+20349#Accessory#
+20549#Accessory#
+20560#Accessory#
+31060#Headgear#
+31672#Headgear#
+31837#Headgear#
+9861#Mermaid Treasure#
+22770#Grilled_Shark_Skewer#
+23330#Inf. Giant Fly Wing Box (1 d.)#
+23023#Infinite Giant Fly Wing#
+31039#Crown of Legendary Outlaw#
+31293#Crown of Glory#
+19723#Headgear#
+19810#Headgear#
+31178#Accessory#
+31719#Accessory#
+9882#Blazing Treasure#
+14674#Cup of Boza#
+6455#Daily Premium Coupon#
+19679#Accessory#
+19787#Accessory#
+20335#Accessory#
+31251#Accessory#
+31615#Accessory#
+31699#Accessory#
+31716#Accessory#
+19539#Headgear#
+18911#Headgear#
+19995#Accessory#
+20459#Headgear#
+20519#Accessory#
+20576#Accessory#
+31388#Headgear#
+31489#Headgear#
+31598#Headgear#
+31673#Accessory#
+9899#Flower Treasure#
+
+18916#Headgear#
+18907#Headgear#
+18962#Headgear#
+19353#Headgear#
+19851#Headgear#
+20381#Headgear#
+20569#Accessory#
+20582#Garment#
+31027#Headgear#
+31799#Headgear#
+9900#Russian Bear Treasure#
+12415#WoE 2.0 Teleport Scroll#
+20585#Garment#
+12233#Kvass#

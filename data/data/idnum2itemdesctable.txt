@@ -163,13 +163,9 @@ Weight: 3
 Restores ^008000325^000000~^008000405^000000 HP
 #
 522#
-^808080A shiny, purple fruit picked from the boughs of the Mastela tree.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 3
-^FFFFFF_^000000
+A shiny, purple fruit picked from the boughs of the Mastela tree.
 Restores ^008000400^000000 to ^008000600^000000 HP.
+Weight: ^7777773^000000
 #
 523#
 ^808080Blessed water used in sacred ceremonies.^000000
@@ -589,13 +585,9 @@ Weight: 2
 Restores ^00800060^000000 to ^00800070^000000 HP.
 #
 578#
-^808080Sweet and sour red berry. It's best to eat it fresh.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 2
-^FFFFFF_^000000
-Restores ^00800016^000000 to ^00800028^000000 SP.
+Sweet and sour red berry. It's best to eat it fresh.
+Restores ^000088some SP^000000.
+Weight: ^7777772^000000
 #
 579#
 A freshly caught fish that can be cooked in a variety of ways.
@@ -649,12 +641,8 @@ Restores ^00800040^000000 to ^00800070^000000 HP.
 
 587#
 ^808080A freshly scented, thorny fruit from a tree that restores a small amount of HP and SP.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 4
-^FFFFFF_^000000
 Restores ^008000270^000000 to ^008000330^000000 HP and ^00800020^000000 to ^00800030^000000 SP.
+Weight:^7777776^000000
 #
 
 //--------------------------------------------------------------------------
@@ -695,12 +683,10 @@ Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000
 593#
 ^808080A very sweet pancake topped with honey.^000000
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 15
 ^FFFFFF_^000000
-Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Recovers HP and SP.
 Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
+Weight: 15
 #
 
 594#
@@ -5861,7 +5847,7 @@ A special two-handed axe that was crafted by a great blacksmith. It seems capabl
 Crit +20
 Aspd +5%
 Crit +1 per upgrade level
-Indestructible
+This item is indestructible in battle.
 [If used by Transcendent Merchant Jobs]
 Low chance to cast ^0000FFHammerfall 3^000000 on the target after a physical attack
 Class: ^777777Two-handed Axe^000000
@@ -8847,19 +8833,19 @@ Drains 1 SP from the user when performing a physical attack.
 #
 1624#
 A wand crafted from a powerful Lich's skull that will curse anyone that threatens its true owner.
-Int/Dex +1
+INT/DEX +1
+MATK +170
+Low chance to cast ^0000FFArea Curse Lv.5^000000 when receiving a physical attack 
+(the chance increases with every refine level)
+[If refine level is +9 or higher]
 Max SP +300
-Matk +170
-Low chance to cast ^0000FFArea Curse 5^000000 when receiving a physical attack (the chance increases with every upgrade level)
-[If upgrade level is +9 or higher]
-Max SP +300
-Matk +3%
+MATK +3%
 Class: ^777777One-handed Staff^000000
 Property: ^777777Undead^000000
 Attack: ^77777760^000000    Weight: ^77777780^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Transcendent Mage / Transcendent Acolyte^000000
+Jobs: ^777777High Wizard / High Priest^000000
 #
 1625#
 ^808080A healing staff made out of twigs from the Yggdrasil tree. There is an engraving in an ancient language that reads, 'Health and longevity.'^000000
@@ -9999,6 +9985,15 @@ Adds a 10% chance of inflicting ^800000Stone Curse^000000 on the target when dea
 1733#
 ^808080A light bow that has been enhanced with the power of whirlwinds.^000000
 ^FFFFFF_^000000
+^800080Set Bonus^000000
+^008080Gust Bow [1]^000000
+^008080Wind Arrow^000000
+Increases long-ranged damage on targets by 25%.
+Adds a 10% chance of casting ^0000FFLevel 5 Wind Blade^000000 on the target when dealing ranged attacks.
+^FFFFFF_^000000
+If base INT is 40 or higher,
+the chance of auto casting ^0000FFLevel 5 Wind Blade^000000 increases.
+^FFFFFF_^000000
 Type: Weapon
 Class: Bow
 Attack: 95
@@ -10007,15 +10002,6 @@ Weight: 140
 Weapon Level: 3
 Required Level: 55
 Jobs: Rogue Jobs, Archer Jobs
-^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Gust Bow [1]^000000
-^008080Wind Arrow^000000
-Increases long-ranged damage on targets by 25%.
-Adds a 10% chance of casting ^0000FFLevel 5 Wind Blade^000000 on the target when dealing ranged attacks.
-^FFFFFF_^000000
-If base INT is 40 or higher,
-^0000FFLevel 5 Wind Blade^000000 will be cast instead.
 #
 1734#
 A large powerful bow used by Orc Archers.
@@ -12498,7 +12484,10 @@ Jobs: ^777777Crusader^000000
 #
 2111#
 A symbolic shield, rumored to have been given from God to his messenger.
-Int +2, Vit +3, MDEF +3, Indestructible
+Int +2
+Vit +3
+MDEF +3
+This item is indestructible in battle.
 Class: ^777777Shield^000000
 Defense: ^777777120^000000
 Weight: ^777777160^000000
@@ -13115,8 +13104,8 @@ A simple hairband that
 holds hair in place quite neatly. It's a very cute
 look for girls, but dudes, on the other hand...
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000    
+Location: ^777777Upper^000000   
+Defense: ^7777772^000000 
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
@@ -13166,8 +13155,8 @@ A fragrant hairband
 crafted from only the
 daintiest of flowers.
 Class: ^777777Headgear^000000
-Defense: ^7777774^000000
 Location: ^777777Upper^000000
+Defense: ^7777774^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
@@ -13244,11 +13233,10 @@ A small, tight
 fitting headdress
 made of fine silk.
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
 Location: ^777777Upper^000000
+Defense: ^7777775^000000
 Weight: ^77777730^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Jobs: ^777777Every Job except Novice^000000
 #
 2224#
 A pair of goggles
@@ -13635,11 +13623,10 @@ Jobs: ^777777All^000000
 Glasses worn by
 true sophisticates.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Middle^000000
+Defense: ^7777772^000000
 Weight: ^77777710^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Jobs: ^777777Every Job except Novice^000000
 #
 2261#
 A squad cap issued
@@ -13958,8 +13945,8 @@ funeral ceremonies by
 the bereaved family
 and close friends.
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Upper^000000
+Defense: ^7777772^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
@@ -14007,17 +13994,13 @@ Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2295#
-A face mask that is
-worn by those who
-have trouble sleeping.
-Adds resistance to
-the ^880000Blind^000000 status.
+A face mask that is worn by those whohave trouble sleeping.
+Adds resistance to the ^880000Blind^000000 status.
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Middle^000000
+Defense: ^7777770^000000 
 Weight: ^77777710^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Jobs: ^777777Every Job except Novice^000000
 #
 2296#
 A special optical
@@ -15446,7 +15429,7 @@ their wearer when
 danger approaches.
 MDEF +10.
 Has a certain chance
-of auto casting Lv.3
+of auto casting Lv.1
 Cloaking when hit by
 magic attacks. If the
 wearer has learned
@@ -15940,6 +15923,7 @@ A manteau which protects
 its wearer from 
 the elements.
 Vit +10
+MDEF +5
 ^ffffff_^000000
 ^6A5ACDSurvivor's Set^000000
 ^3CB371Survivor's Manteau^000000
@@ -16317,7 +16301,7 @@ with a protective
 spell that can convert
 the wearer's physical
 defense to magic defense.
-MdefF +3. 
+MDEF +3. 
 When receiving magic
 damage, there is a
 chance that for
@@ -16329,8 +16313,7 @@ Class: ^777777Garment^000000
 Defense: ^7777778^000000
 Weight: ^77777740^000000
 Required Level: ^77777770^000000
-Jobs: ^777777Transcendent
-Wizard, Acolyte,
+Jobs: ^777777High Wizard, Acolyte,
 and Archer Classes^000000
 #
 2533#
@@ -17760,10 +17743,11 @@ Jobs except Novice^000000
 #
 //--------------------------------------------------------------------------
 2707#
+^FF0000Character Bound^000000
 This musical instrument that came from a myterious aged man. It sounds very beautiful.
 Class: ^777777Accessories^000000
 Defense: ^7777770^000000
-Weight: ^77777710^000000
+Weight: ^7777770^000000
 Applicable job: ^777777Every job^000000
 #
 2708#
@@ -18101,9 +18085,9 @@ Jobs: ^777777Transcendent Archer^000000
 #
 2749#
 A glove made of material you've never seen before. Amazingly light and can be used with just about any weapon.
-Agi +2
-Dex +1
-Mdef +1
+AGI +2
+DEX +1
+MDEF +1
 ^6A5ACD[If used with Improved Tights]^000000
 Perfect Dodge +5
 Class: ^777777Accessory^000000
@@ -19424,8 +19408,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4005#
-Increase damage
-of attacks inflicted on Shadow property by 20%.
+Increase damage of attacks inflicted on Shadow property by 20%.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -23252,7 +23235,7 @@ Weight: ^7777771^000000
 #
 4425#
 ATK +25. 
-When in physical attack, attack speed increases for 10 seconds with consistent chance(delay after attacking reduces by 100%) 
+When dealing a physical attack there is a small chance that for 10 seconds your ASPD will increase by 100%.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -23314,7 +23297,7 @@ Weight: ^7777771^000000
 #
 4432#
 ATK +5. 
-Increases damage to Earth monsters by 5%,
+Increases damage to Earth monsters by 10%
 CRI +15 bonus against Plant monsters.
 CRI +15 bonus against Brute monsters.
 Class: ^777777Card^000000
@@ -23417,9 +23400,8 @@ Weight: ^7777771^000000
 #
 4440#
 When compounded to a Rod,
-Int +1 and ignores
-2% of the MDEF of
-enemies.
+INT +1 
+Ignores 2% of the MDEF ofenemies.
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -23567,7 +23549,9 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4466#
-Ranged Attack Damage + 3%. If compounded on a bow, at +10 refine or higher crants ASPD + 1, at +14 refine or higher grants an additional ASPD + 1. 
+Ranged Attack Damage + 3%. 
+^6A5ACD[If the bow refined to +9 or higher]^000000
+ASPD + 1. 
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -27077,7 +27061,8 @@ Weight: ^7777771^000000
 7040#
 A funnel shaped
 device that is used
-to amplify one's voice. Weight: ^7777771^000000
+to amplify one's voice. 
+Weight: ^7777771^000000
 #
 7041#
 A crystal made
@@ -27180,7 +27165,8 @@ thread woven from
 the sound of a cat's
 footsteps, woman's
 moustache, stone root,
-fish spirit, bird sputem and bear sinew. Weight: ^77777750^000000
+fish spirit, bird sputem and bear sinew. 
+Weight: ^77777750^000000
 #
 7059#
 ^ff0000Character bound^000000
@@ -27566,36 +27552,43 @@ A huge jellopy.
 Weight: ^7777771^000000
 #
 7127#
+^ff0000Account bound.^000000
 A book with instructions for creating Alcohol.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7128#
+^ff0000Account bound.^000000
 A book with instructions for creating Bottle Grenades.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7129#
+^ff0000Account bound.^000000
 A book with instructions for creating Acid Bottles.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7130#
+^ff0000Account bound.^000000
 A book with instructions for catching Floras and trapping them in bottles.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7131#
+^ff0000Account bound.^000000
 A book with instructions for catching Marine Spheres and trapping them in bottles.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7132#
+^ff0000Account bound.^000000
 A book with instructions for creating Glistening Coats.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7133#
+^ff0000Account bound.^000000
 A book with instructions for creating Condensed Potions.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27653,6 +27646,7 @@ Weight: ^7777771^000000
 
 
 7144#
+^ff0000Account bound.^000000
 A book that describes how to create potions.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -27666,15 +27660,14 @@ The owner of this T-shirt can apply for an event by talking to Kurt in front of 
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
-
-
-
-
-
-
 19995#
-// ---- A year celebration for Ragnarok pay service -----------
+These flowers will soar above your head, filling the air with a wonderful aroma.
+A magical garden that will always be near, wherever you go!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 
@@ -28935,16 +28928,16 @@ those with a sweet tooth. ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12122#
-Doughy, chewy snacks made out of pine pollen, chestnut flour, and honey. Decorated with characters for safety, luck and longevity, these cookies are made to wish good fortune to those who eat them.
-Hit +30 for 3 min.
+Chewy snacks made out of pine pollen, chestnut flour and honey.
+HIT +30 for 3 min.
 ^ffffff_^000000
-Weight: ^7777770^000000
+Weight: ^7777771^000000
 #
 12123#
-These traditional crackers from the far East are made of mixed flour, honey, and sweet liquor.
+These traditional crackers from the Far East are made of mixed flour, honey, and sweet liquor.
 Flee +30 for 3 min.
 ^ffffff_^000000
-Weight: ^7777770^000000
+Weight: ^7777771^000000
 #
 12124#
 A colorful rice cake
@@ -30214,9 +30207,9 @@ One of the finest
 dishes from Louyang,
 a delicacy made from
 a bear's meaty foot.
-Str +8
+STR +8
 ^FFFFFF ^000000
-Weight: ^77777750^000000
+Weight: ^777777100^000000
 #
 12074#
 A fresh and juicy
@@ -30232,7 +30225,8 @@ It's ingredients may
 be hard to find, but
 culinarily speaking,
 it's a masterpiece.
-Str +10
+Restores 20% HP and 10% SP.
+Str +10 for 20 min.
 ^FFFFFF ^000000
 Weight: ^777777100^000000
 #
@@ -30272,9 +30266,9 @@ Tristram III. Int +9
 Weight: ^777777100^000000
 #
 12080#
-A cocktail with an
-unforgettable flavor
-as impressive as a^FFFFFF       ^000000 dragon's breath. Int +10
+A cocktail with an unforgettable flavor as impressive as dragon's breath. 
+Restores 10% HP and 20% SP.
+Int +10 for 20 min.
 ^FFFFFF ^000000
 Weight: ^777777100^000000
 #
@@ -30311,10 +30305,9 @@ Vit +9
 Weight: ^777777100^000000
 #
 12085#
-A stew with a funky
-smell that looks quite
-suspicious, but it really does give the feeling of
-immortality. Vit +10
+A stew with a funky smell that looks quite suspicious, but it really does give the feeling of immortality. 
+Restores 25% HP.
+Vit +10 for 20 min.
 ^FFFFFF ^000000
 Weight: ^777777100^000000
 #
@@ -30419,9 +30412,10 @@ Weight: ^77777780^000000
 12098#
 A riceball garnished
 with strawberries that
-give it an unexpectedly delicious taste. Luk +8
+give it an unexpectedly delicious taste. 
+LUK +8
 ^FFFFFF ^000000
-Weight: ^77777740^000000
+Weight: ^777777100^000000
 #
 12099#
 A strangely sweet
@@ -30432,10 +30426,12 @@ the aftertaste is pretty gross. Luk +9
 Weight: ^777777100^000000
 #
 12100#
-A rare specialty dish^FFFFFF    ^000000 from Payon that bestows
-luck on those fortunate enough to eat it. Luk +10
+A rare specialty dish from Payon that bestows
+luck on those fortunate enough to eat it. 
+Restores 14% HP and 8% SP.
+Luk +10 for 20 min.
 ^FFFFFF ^000000
-Weight: ^77777750^000000
+Weight: ^777777100^000000
 #
 // ------------- 10.3 Quest Items ----------------
 7421#
@@ -38358,10 +38354,11 @@ Job: ^777777All^000000
 #
 
 
-12260#This refreshing outfit truly is the sidearm of an experienced adventurer.
-Allowing one to remain cool in the face of adversity.
+12260#
+Stylish summer clothes made of lightweight fabric.
+An outfit for seasoned adventurers who just want to relax.
 ^ffffff_^000000
-^FF0000Warning: Do not wear outfit when in battle; it is only to be used in relaxed situations.^000000
+^FF0000Warning: Do not wear this clothing for battle; it is designed for a beach party.^000000
 ^ffffff_^000000
 Cannot be Dropped or Traded.
 ^ffffff_^000000
@@ -39049,7 +39046,7 @@ A magnificent crown created to pay tribute to the 3rd sign of the zodiac, Gemini
 Attached to the crown is an Alexandrite gemstone, the birthstone for those born under this sign.
 Can be obtained via Arena Coins during 4th PvP season.
 Agi +2
-Critial +3%
+Critical +3%
 Increase resistance to Wind Property by 5%
 [If refined to 7 or higher]
 Atk +10
@@ -39623,14 +39620,6 @@ Increases Flee by 10 points for 5 minutes
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
-
-12311#
-Made bigger and be more splendid with many spray of flowers put together. Doubled Scent! Doubled Elegance!
-Increases Flee of the party members by 10 for 5 minutes. If not in a party, it will have no effect.
-^ffffff_^000000
-Weight: ^77777710^000000
-#
-
 6009#
 Magical Fan that can stir up a strong wind. Let's try it under the cherry blossom tree.
 ^ffffff_^000000
@@ -43012,6 +43001,9 @@ Jobs: ^777777All^000000
 5531#
 ^ff0000Account bound^000000
 A baby dragon who is taking a rest on your head.
+Increases physical and magical damage on Dragon race targets by 10%.
+Increases the experience given from Dragon race monsters by 5%.
+Enables Double Attack 5 lvl.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777776^000000    Weight: ^77777710^000000
@@ -44747,11 +44739,13 @@ A rose given to your Father.
 Weight: ^7777770^000000
 #
 5658#
-A friendly Imp that has a random chance of endowing your attacks with lvl 1 Endow Blaze while dealing physical attacks.
+A sweet and friendly imp... who instantly becomes furious and aggressive if you dare to offend his master!
+Has a chance of auto-casting Lv.1 Endow Blaze when dealing physical damage.
+^ff0000Animated^000000
+^ffffff_^000000
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Head Location: ^777777Upper^000000
-Weight: ^77777740^000000
+Location: ^777777Upper^000000
+Defense: ^7777771^000000   Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -44808,55 +44802,60 @@ A box containing 1 Binit Doll Hat
 A box containing 1 Debril Doll Hat
 #
 5421#
-A headgear which imitates Ifrit's ears, the spiritual owner of fire.
-Str +1, Mdef +3
-Increase damage of Fire Bolt, Fire Pillar, and Meteor Storm skill by 2%.
-Increase damage of Bash, Pierce, and Magnum Break skill by 2%.
-Increases resistence against Fire Property attacks by 5%.
-Decreases resistence against Water Property attacks by 5%.
+A headgear that imitates the ears of Ifrit, the spirit of an unquenchable flame.
+STR +1
+MDEF +3
+Fire Bolt, Fire Pillar, and Meteor Storm damage +2%
+Bash, Pierce, and Magnum Break damage +2%
+Resistence against Fire Property +5%
+Resistence against Water Property -5%
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 #
 
 5420#
-A mask of Ifrit, the spiritual owner of fire.
-Str +1, Int +1, Mdef +5
-Increases resistence against Fire Property attacks by 10%
-Decreases resistence against Water Property attacks 10%.
+A mask of Ifrit, the spirit of an unquenchable flame.
+STR +1
+INT +1
+MDEF +5
+Resistence against Fire Property +10%
+Resistence against Water Property -10%
 Enables use of Lv.1 Sight.
-Has a chance of auto-casting Lv. 3 Meteor Storm when receiving physical attack.
-Has a chance of auto-casting Lv. 3 Fire Bolt Lv.3 dealing physical damage.
+Has a chance of auto-casting Lv.3 Meteor Storm when receiving physical attack.
+Has a chance of auto-casting Lv.3 Fire Bolt when dealing physical damage.
 Unable to refine.
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Defense: ^7777778^000000
-Location: ^777777Upper,Mid,Lower^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+Location: ^777777Upper, Mid, Lower^000000
+Defense: ^7777778^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 14300#
 A box that contains 1 'Ifrit Mask' in it.
 ^ffffff_^000000
 Description:
-A mask of Ifrit, the spiritual owner of fire.
-Str +1, Int +1, Mdef +5
-Increases resistence against Fire Property attacks by 10%
-Decreases resistence against Water Property attacks 10%.
+A mask of Ifrit, the spirit of an unquenchable flame.
+STR +1
+INT +1
+MDEF +5
+Resistence against Fire Property +10%
+Resistence against Water Property -10%
 Enables use of Lv.1 Sight.
-Has a chance of auto-casting Lv. 3 Meteor Storm when receiving physical attack.
-Has a chance of auto-casting Lv. 3 Fire Bolt Lv.3 dealing physical damage.
+Has a chance of auto-casting Lv.3 Meteor Storm when receiving physical attack.
+Has a chance of auto-casting Lv.3 Fire Bolt when dealing physical damage.
 Unable to refine.
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Defense: ^7777778^000000
-Location: ^777777Upper,Mid,Lower^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+Location: ^777777Upper, Mid, Lower^000000
+Defense: ^7777778^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 ^ff0000This item is not refunable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -44866,18 +44865,19 @@ Weight: ^7777771^000000
 A box that contains 1 'Ifrit's Ears' in it.
 ^ffffff_^000000
 Description:
-A headgear which imitates Ifrit's ears, the spiritual owner of fire.
-Str +1, Mdef +3
-Increase damage of Fire Bolt, Fire Pillar, and Meteor Storm skill by 2%.
-Increase damage of Bash, Pierce, and Magnum Break skill by 2%.
-Increases resistence against Fire Property attacks by 5%.
-Decreases resistence against Water Property attacks by 5%.
+A headgear that imitates the ears of Ifrit, the spirit of an unquenchable flame.
+STR +1
+MDEF +3
+Fire Bolt, Fire Pillar, and Meteor Storm damage +2%
+Bash, Pierce, and Magnum Break damage +2%
+Resistence against Fire Property +5%
+Resistence against Water Property -5%
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 ^ff0000This item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -49550,9 +49550,8 @@ Box Weight: ^7777771^000000
 #
 12507#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgard Kingdom.
-Locations: Prontera, Geffen, Payon, Morocc, Al De Baran, Alberta
-Warning: If no town is selected, the item will disappear.
-^FF0000This item is character bound.^000000
+Allows you to travel to Prontera, Izlude, Geffen, Payon, Morocc, Al De Baran, Alberta, Juno, Lighthalzen, Einbroch, Einbech, Hugel, Rachel and Veins.
+(Caution! Choose a city within 1 minute after using this item, otherwise you will not get anywhere.)
 Weight: ^7777771^000000
 #
 13862#
@@ -52372,18 +52371,19 @@ Can only be stored.
 Weight: ^7777771^000000
 #
 18673#
-The Chibi Pope wishes to escape her duties in Rachel so she's taking a sightseeing vacation with the assistance of helpful Adventurers!
-+7 MDEF, Increases healing effectiveness by 5%.
-Increases healing effectiveness when upgraded above +6
-If upgraded to +9 or higher, increases MATK by 7%.
-If upgraded to +12 or higher, increases MATK by an additional 5%.
-If worn with Blush, increases healing effectiveness by an additional 10%
-
-Slot: ^7777771^000000
+The Chibi Pope wishes to escape her duties in Rachel.
+So she's taking a sightseeing vacation with the assistance of helpful adventurers!
+MDEF +7
+SP Recovery rate +2%
+[For every 2 refine levels]
+INT/VIT +2
+Increase effectiveness of healing skills and healing items by 1%
+[If refine level is +9 or higher]
+MATK +7%
+Additional increase effectiveness of healing skills and healing items by 7%
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Upper^000000
-Weight: ^77777730^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -54887,25 +54887,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777Archer Class;
 Thief and Rogue Jobs^000000
 #
-20335#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A rare pistol that
-is only produced when
-it is specially ordered.^FFFFFF ^000000 The engraving of its
-creator's name can be
-used by experts to
-authenticate this gun.
-Hit - 10.
-^CC0000This item is not Refinable^000000
-Class: ^777777Pistol^000000
-Attack: ^77777791^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs:^777777Gunslinger^000000
-#
 20336#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -56316,11 +56297,13 @@ A token in which Protection of the Seagod was endowed into. It allows you to hav
 Weight: ^7777770^000000
 #
 6440#
+^FF0000Account Bound^000000
 A lubricant which helps removing cards which are already stuck in a slot of an equipment. However, this will only help the card removal. The equipment and its refine level may have a problem after trying.
 Weight: ^7777770^000000
 #
 6441#
-A lubricant which helps removing cards which are already stuck in a slot of an equipment. However, this will only help the card removal. The equipment and its refine level may have a problem after trying.
+^FF0000Account Bound^000000
+A lubricant which helps removing cards which are already stuck in a slot of an equipment. Reduced chance of equipment damage and complete loss refine level after trying.
 Weight: ^7777770^000000
 #
 6442#
@@ -56329,8 +56312,9 @@ A special hunting stick to hunt Giant Octopus. Use this item to access the Culve
 Weight: ^7777770^000000
 #
 6443#
+^FF0000Account Bound^000000
 [^ff0000Fragile^000000]
-The legendary agent which is said to melt the surface of an object so anything can be separated. It will be perfect for taking off MVP cards.
+The legendary agent which is said to melt the surface of an object so anything can be separated. Allows you to guaranteedly remove the card from the equipment.
 Weight: ^7777770^000000
 #
 11536#
@@ -57244,15 +57228,6 @@ Contains one of the following:
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-19787#
-The truly devoted have seen into the infinite, and have been forever changed.
-Cannot be refined or destroyed.
-Class: ^777777Costume^000000
-Location: ^777777Middle ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 
 22594#
 A box containing  1 Devoted Eyes costume.
@@ -57552,7 +57527,7 @@ Just two little Devilings that started a party on your head. Nothing special.
 [For each 2 refine level]
 Max SP +1%
 INT/DEX +2
-[If refined to +9]
+[If refined to +9 or higher]
 Increase magic damage against Demi-Humans by 5%
 ^ff0000Animated^000000
 Class: ^777777Headgear^000000
@@ -59331,19 +59306,6 @@ Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Job: ^777777All^000000
 #
-18931#
-King of the fuzzy jungle.
-INT +2.
-Creates a chance of casting Level 5 Meteor Storm when you receive Physical damage.
-Additional INT +1when upgraded to +8.
-Additional INT +1 every 2 upgrade levels after +8.
-Class: ^777777Headgear^000000
-Defense: ^77777710^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
-Required Level: ^77777730^000000
-Job: ^777777All^000000
-#
 18932#
 This animal has thick skin that helps improve vitality.
 VIT +2.
@@ -59760,15 +59722,27 @@ Required Level: ^77777730^000000
 Job: ^777777All^000000
 #
 18931#
-A hat shaped like the predatory feline mammal that is popularly known as the king of the beasts.
-INT +2.
-Creates a chance of casting Level 5 Meteor Storm when you receive Physical damage.
-Additional INT +1when upgraded to +8.
-Additional INT +1 every 2 upgrade levels after +8.
-Class: ^777777Headgear^000000 Defense: ^77777710^000000
-Location: ^777777Upper ^000000Weight: ^77777730^000000
-Required Level: ^77777730^000000
-Job: ^777777All^000000
+A hat in the shape of a funny little lion.
+Someday he will grow up and become a king of animals... Well, for now, you have to carry him on your head!
+STR +2
+AGI +1
+LUK +2
+CRIT +3
+[For every 2 refine levels]
+STR +1
+AGI +1
+LUK +1
+CRIT +1
+[If refine level is +4 or higher]
+Enables use of Lv. 1 Bash.
+[If refine level is +8 or higher]
+Increases damage of Fire Bolt, Fire Pillar, Meteor Storm skill by 15%
+Increases damage of Bash, Magnum Break, Pierce skill by 15%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19689#
 A grand, magnificent-looking headgear that is made of rings of various attributes.
@@ -62808,15 +62782,6 @@ Location: ^777777Headgear (Upper)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-19911#
-A hat which is a replica of triangle roof of monster alarm.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 19907#
 Beautiful mask that can hide who you are. It has a rumor that it gives little bit of mood since you don't know who they are if they wear it.
@@ -65948,28 +65913,36 @@ Required Level: ^77777760^000000
 Job: ^777777All^000000
 #
 18907#
-A panda clinging to its master. Somehow you'd feel braver with it around.
-Reduce damage from human-type monsters by 5%
-Increases damage to medium-type monsters by 10%
+Just a little clumsy panda hanging on your head.
+Be careful! You know, pandas are listed in the Red Book!
+Damage from DemiHuman race monsters -5%
+Damage to Medium-sized monsters +5%
+[For every 2 refine levels]
+Damage to Medium-sized monsters +2%
+[If refine level is +9 or higher]
+Adds a chance of auto casting ^0000FFLv. 2 Dazzler^000000 when receiving a physical attack.
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
-Defense: ^7777778^000000
-Weight: ^77777720^000000
+Location: ^777777Upper^000000
+Defense: ^7777778^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 18911#
-Lovely petals dropping from a pair of red flowers.
-DEX +5
-Reduce damage from earth-type monsters by 3%
-Reduce damage from human-type monsters by 10%
-When refined to 12 above, reflects physical damages by 5%
+May the rain of rose petals pour from the sky!
+DEX +2
+Reduce damage from Demi-Humans by 10%
+^3caa3c[For every 2 refine levels]^000000
+DEX +1
+Reflects 1% of received physical melee damage
+^6A5ACD[If refined to +9 or higher]^000000
+Increase damage against Demi-Humans by 5%
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Location: ^777777Upper ^000000
-Defense: ^77777710^000000
-Weight: ^77777720^000000
+Location: ^777777Upper^000000
+Defense: ^77777710^000000	Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
+
 #
 18912#
 A pigeon perched on his master's shoulder.
@@ -66022,16 +65995,18 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18916#
-A balloon shaped like a bear. It is often mistaken as a Poring.
-STR +1, LUK +1
-MaxHP +50
-Unrefinable
+^FF0000Account bound^000000
+A very funny bear-shaped balloon.
+It can cheer up anyone with its appearance.
+STR +1
+LUK +1
+Max HP +50
+Cannot refine
 Class: ^777777Headgear^000000
-Location: ^777777Lower ^000000
-Defense: ^7777775^000000
-Weight: ^77777720^000000
+Location: ^777777Lower^000000
+Defense: ^7777775^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 18919#
 A common familiar often summoned by vampires. Very useful in scouting danger ahead of time.
@@ -66108,12 +66083,17 @@ Req LvL: ^7777771^000000
 Job: ^777777All^000000
 #
 18962#
-Cute panda balloon!
-Cannot be enchanted nor destructed.
-Class: ^777777Headgear^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^77777720^000000
-Req LvL: ^7777771^000000
-Job: ^777777All^000000
+A large panda balloon.
+It's so cute and chubby!
+Cannot be upgraded/destructed
+All Stats +1
+ASPD +1
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^77777720^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18963#
 A hat made after pretty mocking bird.
@@ -66374,13 +66354,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19679#
-White round eyes make you look innocent and cute.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
-#
 19681#
 A silver shining hair accessory with a star at the center.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -66501,11 +66474,14 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19723#
-A crown blessed with holy fire.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+A symbol of your dark desire,
+The crown of unholy fire.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19726#
 Scarlet rose in a mouth. Did they even remove the thorns?
@@ -66543,10 +66519,11 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19750#
-A white huge ribbon looks tidy.
+A frilled white bandage with a sacred symbol.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19752#
@@ -66583,11 +66560,13 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19759#
-A colorful umbrella that you don't need to grab by your hands. Very useful for rainy seasons in Philippines.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+Multi-colored umbrella hat!
+Cute, comfortable and also irreplaceable during the rainy season.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19761#
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -66728,11 +66707,13 @@ Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
 19810#
-This headgear is the figuration of soul of fire Lfrit's ear. It looks hot but when you equip, it's not at all.
+A headgear that imitates the ears of Ifrit, the spirit of an unquenchable flame.
+^ff0000Animated^000000
 Class: ^777777Costume^000000
-Location: ^777777Middle^000000Weight: ^7777770^000000
-Required LVL: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19811#
 Drinking beer after shower it is good~!!
@@ -66771,12 +66752,14 @@ Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
 19817#
-A fire-breathing Machine
-It is blazing forever
+Stick your tongue out at your enemy!
+Looks impressive, because it is a tongue of flame!
+^ff0000Animated^000000
 Class: ^777777Costume^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required LVL: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19818#
 A scary rag doll with bloods.
@@ -66794,13 +66777,6 @@ Job: ^777777All^000000
 #
 19824#
 You can be chic and cynical with wearing this.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
-19825#
-A bandage covers scars of eyes.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
@@ -67289,14 +67265,6 @@ STR + 2, VIT + 1.
 if refined lv8, able to increase the move speed
 Class: ^777777Headgear^000000 Defense: ^7777774^000000
 Location: ^777777upper-mid ^000000Weight: ^77777770^000000
-Req Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-19539#
-Hair ornament took the name of Valkyrie 'Reginleif'. Those who wear it, and receive the gift of God.
-All State + 1.
-Class: ^777777Costume^000000
-Location: ^777777Upper-Mid ^000000 Weight: ^7777770^000000
 Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -71849,11 +71817,14 @@ Required Lv.: ^7777771^000000
 Job: ^777777All^000000
 #
 20219#
-^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
-Class: ^777777Costume equipment^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Lv.: ^7777771^000000
-Job: ^777777All^000000
+Welcome to the White Parade, a procession of saints and angels!
+Would you be the savior of the broken, the beaten and the damned?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 20191#
@@ -74156,13 +74127,6 @@ Location: ^777777Lower ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-31122#
-Tight bandages for wounds of the eyes. It seems that they were already used.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 31123#
 A tall hat with the Ghostring inside of it and two Whispers nearby. If you wear it, you will definitely look like a ghosthunter.
 ^ff0000Animated^000000
@@ -75601,13 +75565,6 @@ Used for: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Required Class: ^777777Every Class^000000
 #
-19637#
-A cap worn by nurses both great and small.
-Type: ^777777Costume^000000
-Used for: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Required Class: ^777777Every Class^000000
-#
 19913#
 A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.
 Type: ^777777Costume^000000 Protection: ^7777770^000000
@@ -75684,13 +75641,6 @@ Used for: ^777777Lower ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Required Class: ^777777Every Class^000000
 #
-19628#
-A strange device that was invented by an old craftsman, but has just recently been completed by his grandson.
-Type: ^777777Costume^000000
-Used for: ^777777Upper ^000000 Weight: ^7777770^000000
-Required Level: ^77777720^000000
-Required Class: ^777777Every Class^000000
-#
 19849#
 An exact replica of the turban worn by Munak, complete with a queue and talisman.
 Type: ^777777Costume^000000
@@ -75711,13 +75661,6 @@ Type: ^777777Costume^000000 Protection: ^7777770^000000
 Used for: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Required Class: ^777777Every Class except Novice^000000
-#
-20049#
-A hair accessory which looks just like two crossed band aids.
-Type: ^777777Costume^000000 Protection: ^7777770^000000
-Used for: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Required Class: ^777777Every Class^000000
 #
 19533#
 Hat for those who want to be like the Spore monster. Feel like a mushroom!
@@ -79072,8 +79015,9 @@ Increases Flee by 10 points for 5 minutes
 Weight: ^7777775^000000
 #
 12311#
-Made bigger and be more splendid with many spray of flowers put together. Doubled Scent! Doubled Elegance!
-Increases Flee of the party members by 10 for 5 minutes. If not in a party, it will have no effect.
+A long branch on which many flowers are fragrant.
+Increases Flee of the party members +10 for 5 minutes.
+If not in a party, it will have no effect.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -80340,20 +80284,22 @@ placeholder
 A box that contains 1 'Ifrit Mask' in it.
 ^ffffff_^000000
 Description:
-A mask of Ifrit, the spiritual owner of fire.
-Str +1, Int +1, Mdef +5
-Increases resistence against Fire Property attacks by 10%
-Decreases resistence against Water Property attacks 10%.
+A mask of Ifrit, the spirit of an unquenchable flame.
+STR +1
+INT +1
+MDEF +5
+Resistence against Fire Property +10%
+Resistence against Water Property -10%
 Enables use of Lv.1 Sight.
-Has a chance of auto-casting Lv. 3 Meteor Storm when receiving physical attack.
-Has a chance of auto-casting Lv. 3 Fire Bolt Lv.3 dealing physical damage.
+Has a chance of auto-casting Lv.3 Meteor Storm when receiving physical attack.
+Has a chance of auto-casting Lv.3 Fire Bolt when dealing physical damage.
 Unable to refine.
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Defense: ^7777778^000000
-Location: ^777777Upper,Mid,Lower^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+Location: ^777777Upper, Mid, Lower^000000
+Defense: ^7777778^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 ^ff0000This item is not refunable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -80362,18 +80308,19 @@ Weight: ^7777771^000000
 A box that contains 1 'Ifrit's Ears' in it.
 ^ffffff_^000000
 Description:
-A headgear which imitates Ifrit's ears, the spiritual owner of fire.
-Str +1, Mdef +3
-Increase damage of Fire Bolt, Fire Pillar, and Meteor Storm skill by 2%.
-Increase damage of Bash, Pierce, and Magnum Break skill by 2%.
-Increases resistence against Fire Property attacks by 5%.
-Decreases resistence against Water Property attacks by 5%.
+A headgear that imitates the ears of Ifrit, the spirit of an unquenchable flame.
+STR +1
+MDEF +3
+Fire Bolt, Fire Pillar, and Meteor Storm damage +2%
+Bash, Pierce, and Magnum Break damage +2%
+Resistence against Fire Property +5%
+Resistence against Water Property -5%
+^ff0000Animated^000000
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^77777770^000000
-Jobs: ^777777Every Job except Novice Class^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All except Novice^000000
 ^ff0000This item is not refundable.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -83185,6 +83132,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 13998#
+^FF0000Account bound^000000
 A box containing 500 Giant Fly Wings.
 ^ffffff_^000000
 An enchanted, giant wing from an ancient creatures. Enables instant teleportation of many people when used by a Party Master.
@@ -84499,6 +84447,7 @@ Jobs: ^777777All^000000
 Sliced carrots and apples mixed together. Both refreshing and delicious!
 Agi +20 for 10 min.
 Recovers ^00008820-30 HP^000000.
+Cannot be used with [Steamed Scorpion].
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -85490,7 +85439,7 @@ The main measures to combat the epidemy are:
 Weight: ^7777770^000000
 #
 19634#
-^ff0000 Character bound.^000000
+^ff0000Account bound.^000000
 Terms of use:
 - wash your hands before putting on a mask
 - use the mask no longer than 2-3 hours
@@ -85498,10 +85447,6 @@ Terms of use:
 - dispose used mask immediately
 - don't reuse it
 - if you touched the mask while removing it - wash your hands or clean them up with sanitizer.
-EXP from monsters +5%
-Damage of normal attacks and physical skills on the Virus +1000% when equipped with weapons.
-Damage to magic skills by Virus +1000%.
-^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper)^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
@@ -85509,26 +85454,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31052#
-^ff0000 Character bound.^000000
+^ff0000Account bound.^000000
 Personal protective equipment. Remember that in real life such masks are used my medical staff in strict accordance with instructions.
-EXP from monsters +15%
-Damage of normal attacks and physical skills on the Virus +2000% when equipped with weapons.
-Damage to magic skills by Virus +2000%.
-[For every 2 refine levels]
-EXP from monsters +1%
-Max HP/SP + 1%
-[If refine level is +10]
-Movement speed +100%
-Reduce damage from Demi-Humans by 10%
-[If refine level is +15]
-EXP from monsters +2%
-All Stats +2 
-Increase damage against Demi-Humans by 5%
-[If refine level is +20]
-EXP from monsters +3%
-All Stats +3 
-Additional increase damage against Demi-Humans by 5%
-^ff0000 [Effects are active only during the "Fight the Virus" event]^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, middle, lower)^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
@@ -85769,9 +85696,6 @@ Weight: ^7777771^000000
 ^ff0000Account bound.^000000
 Temporarily increases Attack Speed.
 ^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
-[The effect is combined with potions]:
-Infinite Awakening Potion
-Infinite Berserk Potion
 If the character dies, effect disappears. 
 To activate the effect, use the potion again
 Weight : ^77777710^000000
@@ -85782,9 +85706,6 @@ Job: ^777777All^000000
 ^ff0000Account bound.^000000
 Temporarily increases Attack Speed.
 ^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
-[The effect is combined with potions]:
-Infinite Concentration Potion
-Infinite Berserk Potion
 If the character dies, effect disappears. 
 To activate the effect, use the potion again
 Weight : ^77777715^000000
@@ -85795,9 +85716,6 @@ Job: ^777777All except Acolyte, Priest, Bard and Dancer^000000
 ^ff0000Account bound.^000000
 Temporarily increases Attack Speed.
 ^ff0000Interestingly, no matter how much you drink, in 5 seconds it is filled again like a new one!^000000
-[The effect is combined with potions]:
-Infinite Concentration Potion
-Infinite Awakening Potion
 If the character dies, effect disappears. 
 To activate the effect, use the potion again
 Weight : ^77777720^000000
@@ -86006,15 +85924,6 @@ Weight: ^7777771^000000
 19772#
 ^ff0000Account bound.^000000
 A hat of a real hard worker. Makes you look like a fuzzy bumblebee or a honey bee.
-EXP from monsters +10%
-+50% healing from Cherry blossom honey
-[For every refine level]:
-Increase damage inflicted on Insect and Plant monsters by 10% when equipped weapons.
-Damage from Insect and Plant monsters -3% 
-+10% healing from Cherry blossom honey
-SP consumption decreased by 1%
-Sting gets longer
-^ff0000 [Effects are active only during an event (until May 7, 2020)]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper ^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
@@ -86082,4 +85991,788 @@ VIT Biscuit Stick x3
 Deviruchi Transformation Scroll x9
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+19825#
+An ordinary bandage that hides your combat injuries.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19911#
+There is no place like home!
+Under this roof you feel how fast time is running out.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31122#
+A bloodied bandage wrapped around your head. It looks scary!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31446#
+Unknown vaccine. There is inscription on the syringe: developed by the "Fight against viruses" foundation.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19637#
+^FF0000Account bound^000000
+A small rag hat with a red cross.
+Makes you look like a real nurse!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19628#
+What an unusual item? Are there any sounds coming from it?!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20049#
+A small patch is great for minor wounds.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5915#
+A veil created from feathers of an angel.
+Put it on to feel yourself confident and protected. It’s like a guardian angel has covered you with his wings.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20489#
+A copy of the legendary tiara of the Freya's incarnation, Pope of Arunafeltz.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20554#
+Feel the power bestowed by the goddess Freya herself!
+May her holy light shine upon you!
+^ff0000Animated^000000
+Type: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20565#
+Ride the lightning and hear the roar of the storm!
+Yippee ki-yay, riders in the sky!
+^ff0000Animated^000000
+Type: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31181#
+An ornate sacred symbol on a gold chain.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31851#
+Two magic shields enchanted by the priests of Freya.
+'Our faith is what protects us, brothers! A deep, abiding faith... and these strong shields.'
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20402#
+A headdress worn by monks both during worship and in everyday life.
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+22979#
+^FF0000Account bound^000000
+A book about combat arts, written on delicious bubblegum paper.
+After reading the page you can chew it and blow the bubble.
+^000088Exp/Job rate +50% for 30 minutes.^000000
+^000088Item drop rate +100% for 30 minutes.^000000
+^0000ffReplaces the effects of a common Bubble Gum and Battle Manual.^000000
+^000088The item effect stacks with that of Job Battle Manual.^000000
+Weight : ^7777770^000000
+#
+9855#
+Radiance of the Holy Cross chases away all the darkness!
+You will find something wondrous inside this box...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Thunder
+Aura of Sanctity
+Floating Shields
+Neuralizer Box
+Auger of Spirit
+Hat of White Parade
+Angel's Veil
+Pope's Tiara
+Monastic Klobuk
+Blessed Ribbon
+Bubblegum Battle Manual x2
+Cross Pendant
+Secret Medicine
+Drooping Pope Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Token of Ziegfried x9
+Holy Armor Scroll x15
+Infinite Berserk Potion Box
+Gold Pill Extra x5
+Life Insurance x9
+Sesame Pastry x35
+Honey Pastry x35
+Holy Egg x5
+Water of Life x10
+Box of Sunlight x16
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Infinite Awakening Potion Box
+Kafra Card x7
+Infinite Concentration Potion Box
+Blessing of Tyr x7
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19264#
+A gold fish hat with a mouth open. It looks fishy every time when it open its mouth.
+When physically attacking, has a chance to grant a holy property to a weapon for 60 seconds.
+When attacking with magic, has a chance that the Holy property magical damage is increased by 10% for 60 seconds.
+[If refine level is +6 or higher]
+Add Holy property, higher chance to cast the Holy property magical damage increasing.
+[If refine level is +9 or higher]
+Adds a chance of casting ^0000FFLevel 1 Quagmire^000000 when receiving a physical attack.
+^ff0000Animated^000000
+Type: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777772^000000    Weight: ^77777740^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20116#
+Merfolk headphones decorated with stylish plastic fins.
+The main feature of this model is the ability to work down to a depth of 8 kilometers.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20209#
+Lots of colorful bubbles rise up and disappear...
+As if you are standing at the very bottom of the ocean.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20349#
+This Galapago has a dream.
+He wants to fly proudly above the earth... at least on an umbrella.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20549#
+Something strange glows there, in the deep sea...
+Would you venture to find out what it is?
+^ff0000Animated^000000
+Type: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20560#
+All that surrounds you is the deep blue of the abyssal depths.
+^ff0000Animated^000000
+Type: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31060#
+A headband decorated with two colorful starfishes.
+They say mermaids wear similar adornments!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31259#
+A hairband adorned with decorative Archangeling family.
+Look at these little bubbles! Isn't that cute?
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31672#
+A wig adorned with corals, shells and starfishes.
+You will look like a queen of the sea folk!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31837#
+A large mask in the form of a shark's head.
+It is very popular among the followers of the Forgotten Fish God.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9861#
+An incessant sound of waves comes from this box. And you begin to distinguish strange voices in this noise.
+As if the sea wants to tell you something...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of the Depths
+Aura of the Sea Glow
+Ocean Bubbles
+Flying Galapago
+Shark's Head
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Mermaid's Wig
+Mermaid's Headphones
+Inf. Giant Fly Wing Box (1 h.)
+Archangeling Family Hairband
+Umbrella Hat
+Starfish Hairband
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Golden Fish Hat
+Token of Ziegfried x7
+Life Insurance x9
+Kafra Card x10
+Yummy Skewered Grill x30
+Evasion Scroll x15
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Huge Spray Of Flowers x10
+WoE Teleport Scroll x12
+Superb Fish Slice x25
+Cool Summer Outfit x5
+Grilled Tuna x30
+Grilled Snapper x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23330#
+Contains Giant Fly Wing.
+Rental term: 1 hour
+Weight: ^7777771^000000
+^ffffff_^000000
+[Infinite Giant Fly Wing]
+^ff0000Account bound^000000
+Enchanted wing of an ancient giant fly.
+Allows to teleport several people at once when used by a Party Master.
+The item doesn't disappear when used.
+Can be reused in 5 seconds
+Weight : ^7777770^000000
+#
+23023#
+^ff0000Account bound^000000
+Enchanted wing of an ancient giant fly.
+Allows to teleport several people at once when used by a Party Master.
+The item doesn't disappear when used.
+Can be reused in 5 seconds
+Weight : ^7777770^000000
+#
+31039#
+^FF0000Character Bound^000000
+Gorgeous crown incrusted with a blue pearl that symbolizes shining of the first aura among all of the Transcendent Classes.
+Reward of the first player to reach 99/70 level.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31293#
+^FF0000Character Bound^000000
+Epic crown, showing to the whole Kingdom of Rune-Midgard magnificence and glory of it's owner.
+Reward of the first player within his or her class to reach 99/70 level. 
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20221#
+Your eyes flicker in the darkness like the lights of the Hellfire.
+It's so scary... and bewitching!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31178#
+A muffler made from the igneous feathers of the fiery bird Kasa.
+It will warm you in the most frosty weather. If you dont burn to the bone, of course.
+^ff0000Animated^000000
+Type: ^777777Costume^000000
+Location : ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31719#
+Feel the flames of rage flare up within your soul...
+And then release them!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9882#
+This box is shrouded in tongues of bright dazzling flame.
+It's strange, but this fire doesn't burn your hands.
+^ffffff_^000000
+Open to obtain one of the following items:
+Flames of Rage
+Mask of Ifrit
+Fiery Muffler
+Cresset Coronet
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Eyes of Ifrit
+Ears of Ifrit
+Silvervine x451
+Imp Hat
+Breath of Ifrit
+Lion Model Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Infinite Berserk Potion Box
+Guyak Pudding x35
+Token of Ziegfried x7
+WoE Teleport Scroll x15
+Kafra Card x10
+Bubblegum Battle Manual
+Infinite Awakening Potion Box
+Cup of Boza x15
+Meteor Storm Scroll x30
+Lord of Vermilion Scroll x30
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Infinite Concentration Potion Box
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14674#
+A warming malt beverage made from fermented wheat.
+VIT +10 for 2 min.
+Resistence against Fire Property +5% for 2 min.
+Weight : ^7777771^000000
+#
+
+14512#
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv.10 Meteor Storm^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+
+14514#
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv.10 Lord of Vermilion^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+6455#
+^ff0000Account bound^000000
+This coupon allows you to get a reward
+for a missed day and adds one
+day to overall progress. Can be exchanged for 
+Enlightened One's rewards in Prontera (156, 116).
+^ffffff_^000000
+Weight : ^7777770^000000
+#
+19679#
+A special item that makes its wearer look absent-minded.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19787#
+These multi-colored eye lenses will make your look irresistible!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20335#
+Tears flow from your eyes like an endless river...
+Did someone offend you?
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31251#
+Funny half-mask that will turn your face into a cat's snoot.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31615#
+Oriental style eye make-up.
+So dashing! 
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31699#
+Let your inner joy shine out through your eyes!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31716#
+To blink or not to blink?.. With this accessory, you will definitely not have such a question.
+This product comes complete with red eye lenses.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19539#
+A copy of the headgear of the legendary Valkyrie Reginleif.
+Feel like a chosen warrior of Odin!
+^ff000009.06.2020-06.07.2020 Daily Login Reward^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20459#
+Sometimes Valkyries decorate their hair with magical rims.
+And buds of beautiful ghostly flowers bloom around them...
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20519#
+Do you want to feel the fragrance of cherry flowers every day?
+Then this aura is perfect for you!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20576#
+The sacred weapon of a forgotten cat tribe.
+Particularly effective against canned tuna.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31388#
+A luxurious hat decorated with fresh flowers.
+Put it on to convey your spring mood all around!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31489#
+A hat and a bouquet at the same time!
+It's beautiful, comfortable and redolent of spring flowers!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31598#
+Have you decided to take a walk in the forest? Put this hat on!
+With it you will never get lost. Magic fireflies will lead you out of the woods!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31673#
+Bright sun and clear sky! Aromas of flowers and herbs!
+Today we will definitely have a picnic!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9899#
+This box is braided with a flowering vine.
+The flowers are beautiful and emit a pleasant fragrance.
+^ffffff_^000000
+Open to obtain one of the following items:
+Sillit Pong
+Miaow Fork
+Picnic Basket
+Cherry Blossom Aura
+Valhalla Chaplet
+Forester's Hat
+Flower Aura
+Eden Hat
+Premium Lubricant
+Ordinary Lubricant
+Bouquet Hat
+Silvervine x333
+Inf. Giant Fly Wing Box (1 h.)
+Wild Rose Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Job Manual x3
+Bubble Gum x3
+Battle Manual x3
+Enriched Elunium x3
+Enriched Oridecon x3
+Megaphone x10
+Kafra Card x10
+Speed Up Potion x50
+Blessing of Tyr x10
+Huge Spray Of Flowers x15
+Rainbow Cake x8
+Ghostring Scroll x8
+Holy Armor Scroll x8
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Yellow Butterfly Wing x10
+Blue Butterfly Wing x10
+WoE Teleport Scroll x10
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+
+12510#
+The wing of a rare butterfly that lives only in ancient cities.
+Allows you to travel to Ayotaya, Amatsu, Louyang, Gonryun and Moscovia. 
+(Caution! Choose a city within 1 minute after using this item, otherwise you will not get anywhere.)
+Weight: ^7777771^000000
+#
+
+
+
+19353#
+A little teddy bear traveling with balloons.
+He flew towards adventures, but saw you and decided to become your friend!
+Max HP +2%
+Max SP +2%
+All Stats +1
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^77777720^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19851#
+A hat that looks like a little bear's snout.
+No one can keep a straight face!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20381#
+A retro style steampunk hat.
+Is there a teddy bear on it? How cute!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20569#
+Such a beautiful greenish glow!
+What radiation? Phew! This is a completely normal phenomenon!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20582#
+A cute bear backpack for the stylish adventurer.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31027#
+A cute adornments that looks like brown bear ears.
+And there are funny bows on them!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31799#
+A cute adornments that looks like polar bear ears.
+And there are funny bows on them!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9900#
+You hear a menacing growl coming from this heavy box...
+Do you need to open it or not? Decide at your own risk and peril!
+^ffffff_^000000
+Open to obtain one of the following items:
+Mikhail the Bear
+Bear Backpack
+Steampunk Hat
+Panda Balloon
+Flying Bear
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Teddy Bear Hat
+Silvervine x500
+Inf. Giant Fly Wing Box (1 h.)
+White Bear Ears
+Brown Bear Ears
+Drooping Panda
+HE Battle Manual x2
+HE Bubble Gum x2
+Guyak Pudding x40
+Enriched Elunium x3
+Enriched Oridecon x3
+Poring Box x5
+Aspd Potion x15
+Convex Mirror x9
+Greed Scroll Box (100 pcs.)
+Kvass x15
+Sesame Pastry x30
+Honey Pastry x30
+Honey Pancake x40
+AGI Biscuit Stick x3
+DEX Biscuit Stick x3
+INT Biscuit Stick x3
+LUK Biscuit Stick x3
+STR Biscuit Stick x3
+VIT Biscuit Stick x3
+Rune-Midgard Wing x10
+Ancient City Wing x10
+WoE Teleport Scroll x10
+WoE 2.0 Teleport Scroll x10
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12233#
+Foam beverage of brown color. Looks like home-brewed beer, but nonalcoholic.
+Traditionally it is drank out of the figured wineglasses.
+^ff0000Recovers HP and SP^000000
+^ffffff_^000000
+Weight: ^77777720^000000
+#
+12415#
+A scroll with many castle coordinates written.
+If you tear the scroll at the right spot, it will warp you to that location.
+Allows you to travel to Heemin, Andlerangh, Bidblind, Hueluid, Schatirnil, Mardol, Scheit, Horn, Gepun and Banadis.
+(Caution! Choose a castle within 1 minute after using this item, otherwise you will not get anywhere.)
+Weight: ^7777771^000000
+#
+20585#
+It's dangerous to go alone! Take this bear with you.
+He is a reliable comrade and will definitely cover your back.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #

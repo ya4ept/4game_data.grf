@@ -2187,32 +2187,32 @@
 12072#Whole BBQ#
 12073#Bear Paw Special#
 12074#Vein Saloon#
-12075#Tongue Special#
+12075#Steamed Tongue#
 12076#Red Mushroom Wine#
 12077#Special Honey Tea#
 12078#Royal Tea#
 12079#Tristan 12 years#
-12080#Breath of Dragon Cocktail#
+12080#Dragon Breath Cocktail#
 12081#Bitter Herbal Tea#
 12082#Special Cuisine#
 12083#Large Leaf Combo#
 12084#Dragon Soup#
-12085#Undead Soup#
+12085#Stew of Immortality#
 12086#Chili Prawn Soup#
 12087#Steam Crocodile#
 12088#Spicy Curry#
 12089#Special Sausage#
-12090#Baked Scorpion#
+12090#Steamed Scorpion#
 12091#Peach Cake#
 12092#Soul Bread#
 12093#Special Toast#
 12094#Heaven Fruit Juice#
-12095#Herb Camilia Wine#
+12095#Hwergelmir's Tonic#
 12096#Great Fortune Soup#
 12097#BBQ Sate#
 12098#Strawberry Rice Ball#
 12099#Bloody Soda#
-12100#Nine Tail Meal#
+12100#Cooked Nine Tail's Tails#
 
 // --------- ---------------
 
@@ -6018,10 +6018,10 @@
 17274#DEX Biscuit Stick Box#
 17275#LUK Biscuit Stick Box#
 19537#Costume Gryphon Hat#
-12507#Yellow Butterfly Wing#
+12507#Rune-Midgard Wing#
 12508#Green Butterfly Wing#
 12509#Red Butterfly Wing#
-12510#Blue Butterfly Wing#
+12510#Ancient City Wing#
 16472#Yellow Butterfly Wing 10 Box#
 16473#Green Butterfly Wing 10 Box#
 16474#Red Butterfly Wing 10 Box#
@@ -6760,7 +6760,7 @@
 18843#Deviling Party Hat#
 19722#C Black Glasses#
 19811#C Beer Cap#
-19817#C Ifrits Breath#
+19817#Breath of Ifrit#
 19834#C Baseball Cap#
 17461#Frozen Scroll#
 17267#Costume Collection#
@@ -6987,9 +6987,9 @@
 20216#C Rideword Hat#
 20217#C Arabian Veil#
 20218#C Spell Circuit#
-20219#C Angel Marcher Hat#
+20219#Hat of White Parade#
 20220#C Dark Night Veil#
-20221#C Eyes Of Ifrit#
+20221#Eyes of Ifrit#
 
 //-------------Horror Toy Factory---------------
 12490#Vivid Notation#
@@ -7020,7 +7020,6 @@
 4825#Fighting Spirit Lv10#
 
 //New Costume
-19539#Costume Reginleif Wings#
 19540#Rabbit Earmuffs#
 
 //--------------Shadow 3rd------------------
@@ -7319,7 +7318,6 @@
 19525#Costume Jack A Dandy#
 19526#Costume Helm#
 19528#Costume Iron Cane#
-20049#Costume Giant Band Aid#
 19941#Costume Ear Muffs#
 20277#Costume Balloon Hat#
 20223#Costume Romantic Leaf#
@@ -7329,9 +7327,7 @@
 19859#Costume Flying Angel#
 19865#Costume Joker Jester#
 19625#Costume Bunny Band#
-19628#Costume Headset#
 19632#Costume Hat#
-19637#Costume Nurse Cap#
 19639#Costume Sakkat#
 20348#Costume Sunday Hat#
 19890#Costume Mage Hat#
@@ -7397,7 +7393,7 @@
 19251#Bubble Archangeling Hairband#
 31257#Costume Poring Jars Of Clay#
 31258#Costume White Clay Filler#
-31259#Costume Bubble Archangeling Hairband#
+31259#Archangeling Family Hairband#
 14871#Bubble Scroll#
 14872#Jars Of Clay Scroll#
 
@@ -8276,7 +8272,7 @@
 2833#Odin's Recall#
 16376#Odin's Recall 7days Box#
 16377#Odin's Recall 30days Box#
-12415#Siege Teleport Scroll Silver#
+12415#WoE 2.0 Teleport Scroll#
 13940#WoE Teleport Scroll 100 Box#
 14591#WoE Teleport Scroll#
 16378#Siege Teleport Scroll Gold 30Box#
@@ -8828,3 +8824,77 @@
 19647#Red Deviruchi Hat#
 20202#Deviruchi Balloon#
 9848#Deviruchi Treasure#
+
+19825#Sterile bandage#
+19911#Stay home!#
+31122#Crimson bandage#
+31446#Fake syringe#
+19628#Headphones#
+19637#Medical hat#
+20049#Adhesive bandage#
+5915#Angel's Veil#
+19750#Blessed Ribbon#
+20489#Pope's Tiara#
+20554#Aura of Sanctity#
+20565#Aura of Thunder#
+31181#Cross Pendant#
+31851#Floating Shields#
+20402#Monastic Klobuk#
+22979#Bubblegum Battle Manual#
+9855#Holy Treasure#
+19264#Golden Fish Hat#
+19759#Umbrella Hat#
+20116#Mermaid's Headphones#
+20209#Ocean Bubbles#
+20349#Flying Galapago#
+20549#Aura of the Sea Glow#
+20560#Aura of the Depths#
+31060#Starfish Hairband#
+31672#Mermaid's Wig#
+31837#Shark's Head#
+9861#Mermaid Treasure#
+22770#Grilled_Shark_Skewer#
+23330#Inf. Giant Fly Wing Box (1 h.)#
+23023#Infinite Giant Fly Wing#
+31039#Crown of Legendary Outlaw#
+31293#Crown of Glory#
+19723#Cresset Coronet#
+19810#Ears of Ifrit#
+31178#Fiery Muffler#
+31719#Flames of Rage#
+9882#Blazing Treasure#
+14674#Cup of Boza#
+6455#Daily Premium Coupon#
+19679#Blank Eyes#
+19787#Heterochromic Eyes#
+20335#Neverending Tears#
+31251#Cat's Snoot#
+31615#Geisha Make-Up#
+31699#Ñute Eyes#
+31716#Blinking Red Eyes#
+19539#Tiara of Reginleif#
+
+18911#Wild Rose Hat#
+19995#Flower Aura#
+20459#Valhalla Chaplet#
+20519#Cherry Blossom Aura#
+20576#Miaow Fork#
+31388#Eden Hat#
+31489#Bouquet Hat#
+31598#Forester's Hat#
+31673#Picnic Basket#
+9899#Flower Treasure#
+
+18916#Bear Balloon#
+18907#Drooping Panda#
+18962#Panda Balloon#
+19353#Flying Bear#
+19851#Teddy Bear Hat#
+20381#Steampunk Hat#
+20569#Green Aura#
+20582#Bear Backpack#
+31027#Brown Bear Ears#
+31799#White Bear Ears#
+9900#Russian Bear Treasure#
+12233#Kvass#
+20585#Mikhail the Bear#

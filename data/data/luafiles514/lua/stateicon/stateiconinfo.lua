@@ -3674,3 +3674,11 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
 		{ "Exp +30%" }
 	}
 }
+StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 1,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "Increase VIT" }
+	}
+}
