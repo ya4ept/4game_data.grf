@@ -1,0 +1,136 @@
+distribution {7}
+    version=20200622.0
+    type=full
+    env=
+    files=../../20200622.0/distr/
+    control-hash=42b58104d6761028f55bc0f1a4b72e54793e2d1a
+    deleted-control-hash=083c75e5dbea8efc25744b1376474486cc815f4e
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1768162910
+    size=1975297308
+    compressed-size-total=1768162910
+    size-total=1975297308
+    compressed-stages=
+
+    version=20200623.0
+    type=partial
+    env=
+    files=../../20200623.0/distr/
+    control-hash=4443eb40d0b53b278f89d8196b3ef012f528d07c
+    deleted-control-hash=a2e10f8ac2a8eed47a39b81a13774d092c5925fd
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1459068425
+    size=1635204735
+    compressed-size-total=1768134597
+    size-total=1975297308
+    compressed-stages=
+
+    version=20200626.0
+    type=partial
+    env=
+    files=../../20200626.0/distr/
+    control-hash=89221fe2c2e19835489a3e2c4993b73cc0b20c57
+    deleted-control-hash=d26c55bca862e334dccfc3e5bf63ea89f4df2960
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1460532261
+    size=1636626565
+    compressed-size-total=1769598433
+    size-total=1976719138
+    compressed-stages=
+
+    version=20200703.0
+    type=partial
+    env=
+    files=../../20200703.0/distr/
+    control-hash=e156fa04d85fef2c6f5cddb43c4f3866bc24bd37
+    deleted-control-hash=6ed7d4bfa93e7a5ee7ac2ecf0ee7267ab1ba1dab
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1460382916
+    size=1636626565
+    compressed-size-total=1769449088
+    size-total=1976719138
+    compressed-stages=
+
+    version=20200710.0
+    type=partial
+    env=
+    files=../../20200710.0/distr/
+    control-hash=98efb78b4845e1db8b9628020280436c4b127245
+    deleted-control-hash=8a1564173f7cc4879ed1f6ac567b15552e6f15ee
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1461192649
+    size=1638457195
+    compressed-size-total=1770258821
+    size-total=1978549768
+    compressed-stages=
+
+    version=20200714.0
+    type=partial
+    env=
+    files=../../20200714.0/distr/
+    control-hash=15f3722348229e1d7552235180dc362f68cd7d5d
+    deleted-control-hash=2727744be715ba189773d5bd886243d32955189d
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1461196721
+    size=1639881414
+    compressed-size-total=1770262893
+    size-total=1979973987
+    compressed-stages=
+
+    version=20200715.0
+    type=partial
+    env=
+    files=./
+    control-hash=429244f137cfb3f9d02689f902616d08c8a1d077
+    deleted-control-hash=e4e95c86a3d0a50cba8d73117b944a195409c09c
+    command-hash=ff98390a74fe1969b26a8ead1e3ed325ab6ebe4a
+    adapter-hash=
+    compressed-size=1461218862
+    size=1639881414
+    compressed-size-total=1770285034
+    size-total=1979973987
+    compressed-stages=
+
+delta {6}
+    version=20200622.0
+    files=../delta/20200622.0/
+    compressed-size=12825408
+    control-hash=c86a188cdc6a72507894bc1c8565b6a3a652482f
+
+    version=20200623.0
+    files=../delta/20200623.0/
+    compressed-size=12685234
+    control-hash=d46251f60854ad3c092b63da55c4f269625d6024
+
+    version=20200626.0
+    files=../delta/20200626.0/
+    compressed-size=12554747
+    control-hash=11acf107148d9bbc9b71f19824513c3fb8ef4477
+
+    version=20200703.0
+    files=../delta/20200703.0/
+    compressed-size=9291625
+    control-hash=a923cb124c9d3353674506d306f90945fc47dc1f
+
+    version=20200710.0
+    files=../delta/20200710.0/
+    compressed-size=4736474
+    control-hash=41e5b38d370689d6a8c6bd77dda734263f22e860
+
+    version=20200714.0
+    files=../delta/20200714.0/
+    compressed-size=1235862
+    control-hash=9f2ce9ded200e74f8e4258476e924ffe1cb82064
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2020-07-15T16:31:10+03:00
+    date-modified=2020-07-15T16:31:10+03:00
+    running-time-sec=525
+
