@@ -3489,5 +3489,8 @@ JobNameTable = {
 	[jobtbl.JT_COUNTESS_FROG] = "Thara_frog",
 	[jobtbl.JT_FAVOR_FROG] = "Roda_frog",
 	[jobtbl.JT_PRINCESS_FROG] = "Roda_frog",
-	[jobtbl.JT_4_LUNATIC] = "4_lunatic"
+	[jobtbl.JT_4_LUNATIC] = "4_lunatic",
+	[jobtbl.JT_EVT_PORING] = "Poring",
+	[jobtbl.JT_EVT_DROPS] = "DROPS",
+	[jobtbl.JT_EVT_POPORING] = "Poporing"
 }

@@ -945,3 +945,4 @@ conch_in.rsw#Inside the Kon-Kilina#
 lasa_in01.rsw#Inside Lasagna#
 lasa_dun_q.rsw#Dragon's Nest#
 march8.rsw#Orc pocket #	
+epay_fild04.rsw#Unknown area#

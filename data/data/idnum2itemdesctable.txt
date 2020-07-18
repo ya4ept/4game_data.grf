@@ -86173,7 +86173,7 @@ A gold fish hat with a mouth open. It looks fishy every time when it open its mo
 When physically attacking, has a chance to grant a holy property to a weapon for 60 seconds.
 When attacking with magic, has a chance that the Holy property magical damage is increased by 10% for 60 seconds.
 [If refine level is +6 or higher]
-Add Holy property, higher chance to cast the Holy property magical damage increasing.
+Has a chance to grant a Holy property, higher chance to cast the Holy property magical damage increasing.
 [If refine level is +9 or higher]
 Adds a chance of casting ^0000FFLevel 1 Quagmire^000000 when receiving a physical attack.
 ^ff0000Animated^000000
