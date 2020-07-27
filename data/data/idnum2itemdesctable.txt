@@ -21388,8 +21388,6 @@ Weight: ^7777771^000000
 A chance of auto casting Sight 1 around oneself when receiving physical damage
 Max HP +300
 Vit +1
-^6A5ACD[If used with Tower Keeper, Punk, and Clock Cards]^000000
-Def/Mdef +3
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -37700,8 +37698,9 @@ Meal Ready to Eat. Improved Ration B, which is convenient for a busy life. Don't
 Weight: ^7777777^000000
 #
 12273#
-Meal Ready to Eat. Improved Ration C, which is convenient for a busy life. Don't be so sure about the taste.
-^000088Flee +33 for 10 minutes.^000000
+Improved Ration C, consisting of a single-celled protein combined with aminos, vitamins, and minerals.
+Everything the body needs.
+^000088Flee +33 for 10 min.^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
@@ -39087,9 +39086,8 @@ Increase Resistance to Water Property by 5%.
 Def +1, Attack +15,
 Flee +10
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
 Location: ^777777Upper^000000
-Weight: ^77777730^000000
+Weight: ^77777730^000000 Defense: ^7777773^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -39101,13 +39099,12 @@ Can be obtained via Arena Coins during 6th PvP season.
 Str +2
 Attack +5
 Increase Resistance to Fire Property by 5%.
-[If refined to 7 or higher]
+[If refine level is +7 or higher]
 Flee +10
-Critial +2
+Critical +2
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
 Location: ^777777Upper^000000
-Weight: ^77777730^000000
+Defense: ^7777773^000000 Weight: ^77777730^000000 
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -39119,12 +39116,12 @@ Can be obtained via Arena Coins during 6th PvP season.
 Dex +2
 Attack +5
 Increase Resistance to Fire Property by 5%.
-[If refined to 7 or higher]
-Flee +10, Aspd +3%,
+[If refine level is +7 or higher]
+Flee +10
+Aspd +3%
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
 Location: ^777777Upper^000000
-Weight: ^77777730^000000
+Defense: ^7777773^000000 Weight: ^77777730^000000 
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -57413,7 +57410,7 @@ Cures effect of ^000088Stone, Dark, Curse, Poison, Decrease Agility, Reverse Orc
 Weight: ^7777771^000000
 #
 19543#
-Wolf face shaped fluffy hood. Useful when you cannot sleep well. 
+A wolf head to be worn exclusively by members of the pack.
 Class: ^777777Costume^000000
 Location: ^777777Upper ^000000 
 Weight: ^77777730^000000
@@ -59071,7 +59068,7 @@ It is unbelievably soft.
 Weight: ^7777771^000000
 #
 19996#
-Blue mane horse mask made for 2014 the year of the blue horse. It becomes hard to breathe when you wear it for too long.
+A horse mask featuring a blue mane. It becomes hard to breathe when you wear it for too long.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper, Middle & Lower ^000000
@@ -62792,12 +62789,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19905#
-It looks nothing special but it has big part to unite the organization. It maximized the surrvival rate of wearer.
-Class: ^777777Costume: ^7777770^000000
+Nobody will recognize you in this mask.
+Also this nobody will probably be filled with horror.
+Class: ^777777Costume^000000
 Location: ^777777Upper, Middle, Bottom^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 17434#
 This box has a slight smell of spiced pumpkin.
@@ -64749,16 +64747,24 @@ Required Lv: ^77777790^000000
 Jobs: ^777777All^000000
 #
 2189#
-A rag doll that Piamette is using for both attack and defense? It looks so real and alive!
-Increases resistance to all properties by 5%.
-MDEF +6, DEX +1.
+A rag doll that Piamette uses to defend herself and attack enemies.
+It looks so creepy!
+DEX +1
+MDEF +6
+Damage from all elemental attacks -5%
 ^6A5ACDSet Bonus^000000
 ^3CB371Piamette's Ribbon^000000
-Increases resistance to all properties by 2% per refine, when refine level is over 6.
-Class: ^777777Sheild^000000 Defense: ^77777740^000000
-Weight: ^77777710^000000
-Required LV: ^77777730^000000
-Job: ^777777All^000000
+[If refined to +6 or higher]
+Every refine level reduces damage taken from all elementals attack by 2%.
+When magically attacking, a certain chance to transform into Piamette for 10 sec.
+While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade [Piamette's Ribbon].
+Chance to transform increases as refine [Piamette's Ribbon] goes higher.
+^FF0000This item will appear in the game later.^000000
+Class: ^777777Shield^000000
+Defense: ^77777740^000000  Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+
 #
 2190#
 A shield made in honor of the fallen warrior of Asgard.
@@ -65498,14 +65504,15 @@ Level Requirement: ^7777771^000000
 Job: ^777777All^000000
 #
 18754#
-Cursed mask inspired by creepy vampire fang. Drains life it will.
-Drains 5% HP out of the damage given to the enemy.
+A cursed mask crafted from the jaw of an ancient vampire.
+Has a chance to drain 5% HP out of the damage given to the enemy.
 Disables autorecovery for HP and SP.
-Cannot be refined nor destroyed
-Class: ^777777Helm^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^77777730^000000
-Required LV: ^77777740^000000
-Job: ^777777All^000000
+Cannot be refined or destroyed.
+Class: ^777777Headgear^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18797#
 A beautiful featherlike hat made by feathers of angels. It makes you high with its tenderness and you can move very pleasantly.
@@ -74096,14 +74103,14 @@ Costume: Gram Peony
 
 Weight: ^7777771^000000
 #
-
-
 20398#
-A hat from famous Healer of Niflheim, Hylozoist.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
+A hat that is very similar to Hylozoist, the legendary inhabitant of Niflheim.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 31119#
 Talented Wizard's magic hat. It looks weird, but works just fine.
@@ -82984,18 +82991,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-2189#
-A rag doll that Piamette is using for both attack and defense? It looks so real and alive!
-Increases resistance to all properties by 5%.
-MDEF +6, DEX +1.
-^6A5ACDSet Bonus^000000
-^3CB371Piamette's Ribbon^000000
-Increases resistance to all properties by 2% per refine, when refine level is over 6.
-Class: ^777777Sheild^000000 Defense: ^77777740^000000
-Weight: ^77777710^000000
-Required LV: ^77777730^000000
-Job: ^777777All^000000
-#
 20725#
 A huge ribbon worn by Piamette. Blessed with strong magical power.
 MATK +10, INT +1, DEX +1.
@@ -86046,7 +86041,7 @@ Jobs: ^777777All^000000
 20049#
 A small patch is great for minor wounds.
 Class: ^777777Costume^000000
-Location: ^777777Middle^000000
+Location: ^777777Top^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -86776,3 +86771,117 @@ Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+
+20590#
+It appears to be a sacred symbol of the Evil Druid...
+Is this a trophy? Or have you been proselytized?
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20798#
+They say that the guardian angel can take any form...
+Even those of the Old Grim Reaper.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31562#
+You've always wanted a tiny Zealotus doll sitting on your head?
+Well, today's your lucky day!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31564#
+They say you shouldn't wear this headcloth... if you don't want to grow horns.
+Don't believe me? Well, you were warned.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20220#
+A somewhat gloomy, but also very elegant headscarf.
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20244#
+A replica of the legendary mask belonging to Zealotus, the mistress of the Glast Heim Underground Prison.
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9910#
+This box is made in the shape of a rabbit.
+A very, very angry rabbit. Don't mess with him.
+^ffffff_^000000
+Open to obtain one of the following items:
+Evil Druid's Cross
+Grim Reaper's Grace
+Niflheim Bunny Hat
+Mask of Conspiracy
+Headcloth of the Horned One
+Dark Night Veil
+Inf. Giant Fly Wing Box (1 h.)
+Zealotus Doll
+Mask of Zealotus
+Blood Sucker
+Mad Bunny
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Bloody Branch x3
+Kafra Card x12
+Infinite Berserk Potion Box
+Akaraje x13
+Military Ration C x4
+Guyak Pudding x25
+Steamed Pork Ribs x35
+Abrasive x13
+Infinite Awakening Potion Box
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Ghostring Scroll x7
+Holy Armor Scroll x7
+Infinite Concentration Potion Box
+Bat Cookie x100
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12279#
+A scroll endowed with undead elemental magic.
+^000088When used, grants 20% resistance to Fire, Water, Wind, and Earth property attacks for 5 minutes.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12375#
+Deep-fried cowpea bun with delicious filling.
+HIT +5, ASPD +10% for 20 minutes.
+Effect disappear upon death.
+^ffffff_^000000
+Weight: ^7777778^000000
+#
+
+
+
+
+

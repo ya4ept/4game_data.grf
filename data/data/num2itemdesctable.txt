@@ -21028,8 +21028,9 @@ Improved Snack B, which is convenient for a busy life. Don't be so sure about th
 Weight: ^7777777^000000
 #
 12273#
-Improved Snack C, which is convenient for a busy life. Don't be so sure about the taste.
-^000088FLEE + 33 for 10 minutes.^000000
+Improved Ration C, consisting of a single-celled protein combined with aminos, vitamins, and minerals.
+Everything the body needs.
+^000088Flee +33 for 10 min.^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
@@ -42522,16 +42523,7 @@ Required Lv: ^77777790^000000
 Jobs: ^777777All^000000
 #
 2189#
-A rag doll that Piamette is using for both attack and defense? It looks so real and alive!
-Increases resistance to all properties by 5%.
-MDEF +6, DEX +1.
-^6A5ACDSet Bonus^000000
-^3CB371Piamette's Ribbon^000000
-Increases resistance to all properties by 2% per refine, when refine level is over 6.
-Class: ^777777Sheild^000000 Defense: ^77777740^000000
-Weight: ^77777710^000000
-Required LV: ^77777730^000000
-Job: ^777777All jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2190#
 A shield made in honor of the fallen warrior of Asgard.
@@ -43261,14 +43253,7 @@ Level Requirement: ^7777771^000000
 Job: ^777777All^000000
 #
 18754#
-Cursed mask inspired by creepy vampire fang. Drains life it will.
-Drains 5% HP out of the damage given to the enemy.
-Disables autorecovery for HP and SP.
-Cannot be refined nor destroyed
-Class: ^777777Helm^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^77777730^000000
-Required LV: ^77777740^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18797#
 A beautiful featherlike hat made by feathers of angels. It makes you high with its tenderness and you can move very pleasantly.
@@ -50431,14 +50416,8 @@ Class: ^777777Card^000000
 Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
-
-
 20398#
-A hat from famous Healer of Niflheim, Hylozoist.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31119#
 Talented Wizard's magic hat. It looks weird, but works just fine.
@@ -54092,6 +54071,78 @@ Traditionally it is drank out of the figured wineglasses.
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
-
-
+12375#
+Deep-fried cowpea bun with delicious filling.
+Attack rate +10%, HIT +5 for 20 minutes.
+After attack delay -10%
+Effect disappear upon death.
+^ffffff_^000000
+Weight: ^7777778^000000
+#
+12279#
+A scroll endowed with undead elemental magic.
+^000088When used, grants 20% resistance to Fire, Water, Wind, and Earth property attacks for 5 minutes.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20590#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20798#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31562#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31564#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20220#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20244#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9910#
+This box is made in the shape of a rabbit.
+A very, very angry rabbit. Don't mess with him.
+^ffffff_^000000
+Open to obtain one of the following items:
+Evil Druid's Cross
+Grim Reaper's Grace
+Niflheim Bunny Hat
+Mask of Conspiracy
+Headcloth of the Horned One
+Dark Night Veil
+Inf. Giant Fly Wing Box (1 h.)
+Zealotus Doll
+Zealotus Mask
+Blood Sucker
+Mad Bunny
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Bloody Branch x3
+Kafra Card x12
+Guyak Pudding x25
+Steamed Pork Ribs x35
+Abrasive x13
+Infinite Berserk Potion Box
+Akaraje x13
+Military Ration C x4
+Infinite Awakening Potion Box
+Ghostring Scroll x7
+Holy Armor Scroll x7
+Infinite Concentration Potion Box
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Bat Cookie x100
+^ffffff_^000000
+Weight: ^7777771^000000
+#
 

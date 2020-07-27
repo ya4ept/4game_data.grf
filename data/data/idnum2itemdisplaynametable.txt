@@ -6365,7 +6365,7 @@
 20706#Amistr Bag#
 6834#Legendary Fur#
 6835#Legendary Mane#
-19996#Horse King#
+19996#Horse Mask#
 12536#Tako Rice Cake Soup#
 22538#Hanbok bag#
 12646#Takoyaki#
@@ -6518,7 +6518,7 @@
 12813#Peony Mommy#
 12814#Slapping Herb#
 12815#Yggdrasil Dust#
-19543#Oliver Wolf Hood#
+19543#Wolf Hood#
 19545#C Boy's Cap#
 19546#C Valkyrie Helm#
 19547#C Deviruchi Cap#
@@ -6988,7 +6988,7 @@
 20217#C Arabian Veil#
 20218#C Spell Circuit#
 20219#Hat of White Parade#
-20220#C Dark Night Veil#
+20220#Dark Night Veil#
 20221#Eyes of Ifrit#
 
 //-------------Horror Toy Factory---------------
@@ -7036,7 +7036,7 @@
 
 //-----------2015 Christmas------------
 
-20798#Costume Reaper's Grace#
+20798#Grim Reaper's Grace#
 25143#Gift Stuffed Doll#
 25144#Bridge Postured Doll#
 25145#Burnt Spector Doll#
@@ -8898,3 +8898,11 @@
 9900#Russian Bear Treasure#
 12233#Kvass#
 20585#Mikhail the Bear#
+20398#Niflheim Bunny Hat#
+20590#Evil Druid's Cross#
+31562#Zealotus Doll#
+31564#Headcloth of the Horned One#
+20244#Mask of Zealotus#
+19905#Mask of Conspiracy#
+9910#Mad Bunny Treasure#
+12279#Undead Elemental Scroll#

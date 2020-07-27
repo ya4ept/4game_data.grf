@@ -6051,7 +6051,7 @@
 13960#Change Name Card Box#
 
 2959#Accessory#
-18754#Mask#
+18754#Headgear#
 18756#Hat#
 18832#Hat#
 19589#Head Gear#
@@ -6984,7 +6984,7 @@
 
 //-----------2015 Christmas------------
 
-20798#Garment#
+20798#Accessory#
 25143#Gift Stuffed Doll#
 25144#Bridge Postured Doll#
 25145#Burnt Spector Doll#
@@ -7789,3 +7789,13 @@
 12415#WoE 2.0 Teleport Scroll#
 20585#Garment#
 12233#Kvass#
+
+2189#Shield#
+20398#Headgear#
+20590#Garment#
+31562#Headgear#
+31564#Headgear#
+20244#Headgear#
+19905#Headgear#
+9910#Mad Bunny Treasure#
+12279#Undead Elemental Scroll#
