@@ -6294,7 +6294,7 @@ Jobs: Swordsman Jobs
 #
 1413#
 A legendary spear that is known for its ability to never miss its target.
-Hit +30%
+Hit +30
 Perfect Hit +25%
 Class: ^777777One-handed Spear^000000
 Property: ^777777Wind^000000
@@ -6350,7 +6350,7 @@ Jobs: ^777777Swordsman^000000
 #
 1418#
 A legendary spear that is known for its ability to never miss its target.
-Hit +30%
+Hit +30
 Perfect Hit +25%
 Class: ^777777One-handed Spear^000000
 Property: ^777777Wind^000000
@@ -24873,10 +24873,6 @@ Jobs: ^777777All^000000
 A headgear that resembles the horns of Succubus.
 Int +1
 Mdef +10
-[If used with Evil Mask]
-Aspd +1
-Aspd +9%
-SP -3 every 2 sec.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777777^000000    Weight: ^77777780^000000
@@ -24944,10 +24940,6 @@ except Novice^000000
 A headgear that resembles the horns of Incubus.
 Agi +1
 Mdef +10
-[If used with Evil Mask]
-Aspd +1
-Aspd +9%
-SP -3 every 2 sec.
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777777^000000    Weight: ^77777780^000000
@@ -64755,7 +64747,7 @@ Damage from all elemental attacks -5%
 ^6A5ACDSet Bonus^000000
 ^3CB371Piamette's Ribbon^000000
 [If refined to +6 or higher]
-Every refine level reduces damage taken from all elementals attack by 2%.
+Every refine level from +6 and higer reduces damage taken from all elementals attack by 2%.
 When magically attacking, a certain chance to transform into Piamette for 10 sec.
 While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade [Piamette's Ribbon].
 Chance to transform increases as refine [Piamette's Ribbon] goes higher.
@@ -86880,8 +86872,8 @@ Effect disappear upon death.
 ^ffffff_^000000
 Weight: ^7777778^000000
 #
-
-
-
-
-
+7711#
+Ticket earned for winning the Novice Battle. Can be exchanged for a reward to NPC Legendary Novice (prontera 146 166).
+^ffffff_^000000
+Weight: ^7777770^000000
+#

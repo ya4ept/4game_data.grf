@@ -7799,3 +7799,4 @@
 19905#Headgear#
 9910#Mad Bunny Treasure#
 12279#Undead Elemental Scroll#
+7711#Legendary ticket#

@@ -746,7 +746,7 @@ pvp_n_5-1.rsw#PvP : Room Sandwich#
 pvp_n_6-1.rsw#PvP : Room Sandwich#
 pvp_n_7-1.rsw#PvP : Room Sandwich#
 pvp_n_8-1.rsw#PvP : Room Sandwich#
-pvp_n_1-2.rsw#PvP : Room Rock On#
+pvp_n_1-2.rsw#Novice Arena#
 pvp_n_2-2.rsw#PvP : Room Rock On#
 pvp_n_3-2.rsw#PvP : Room Rock On#
 pvp_n_4-2.rsw#PvP : Room Rock On#
@@ -946,3 +946,4 @@ lasa_in01.rsw#Inside Lasagna#
 lasa_dun_q.rsw#Dragon's Nest#
 march8.rsw#Orc pocket #	
 epay_fild04.rsw#Unknown area#
+pvp_novice.rsw#Battle waiting room#

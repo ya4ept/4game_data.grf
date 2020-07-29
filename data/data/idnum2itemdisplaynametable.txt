@@ -1760,7 +1760,7 @@
 4243#Antonio Card#
 4244#Alarm Card#
 4245#Am Mut Card#
-4246#Assulter Card#
+4246#Assaulter Card#
 4247#Aster Card#
 4248#Ancient Mummy Card#
 4249#Ancient Worm Card#
@@ -4840,7 +4840,7 @@
 6257#Ice Crystal#
 6258#Comodo Tropical Fruit#
 6259#Drocera Tentacle#
-6260#Petti's Tail#
+6260#Petit's Tail#
 6261#Fine Noodle#
 6262#Cool Gravy#
 6263#Coconut Fruit#
@@ -8906,3 +8906,5 @@
 19905#Mask of Conspiracy#
 9910#Mad Bunny Treasure#
 12279#Undead Elemental Scroll#
+
+7711#Legendary ticket#

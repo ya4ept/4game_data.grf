@@ -54145,4 +54145,8 @@ Bat Cookie x100
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
+7711#
+Ticket earned for winning the Novice Battle. Can be exchanged for a reward to NPC Legendary Novice (prontera 146 166).
+^ffffff_^000000
+Weight: ^7777770^000000
+#
