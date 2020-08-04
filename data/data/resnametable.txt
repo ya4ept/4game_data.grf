@@ -259,7 +259,7 @@ job3_war02.rsw#job3_war01.rsw#
 2@nyd.gnd#2@nyd.gnd#
 2@nyd.gat#2@nyd.gat#
 2@nyd.rsw#2@nyd.rsw#
-유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\1@nyd.bmp#
+유저인터페이스\map\2@nyd.bmp#유저인터페이스\map\2@nyd.bmp#
 
 bat_c02.gnd#bat_c01.gnd#
 bat_c02.gat#bat_c01.gat#
