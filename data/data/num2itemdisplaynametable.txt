@@ -6314,7 +6314,7 @@
 20706#Garment#
 6834#Legendary Fur#
 6835#Legendary Mane#
-19996#Hat#
+19996#Headgear#
 12536#Tako Rice Cake Soup#
 22538#Hanbok bag#
 12646#Takoyaki#
@@ -7800,3 +7800,17 @@
 9910#Mad Bunny Treasure#
 12279#Undead Elemental Scroll#
 7711#Legendary ticket#
+20025#Headgear#
+31382#Headgear#
+31441#Headgear#
+31457#Headgear#
+31616#Accessory#
+31787#Headgear#
+31798#Accessory#
+9722#Wild Treasure#
+
+18569#Headgear#
+31158#Headgear#
+31455#Headgear#
+31254#Headgear#
+9921#Wild Treasure#

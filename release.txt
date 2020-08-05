@@ -1,3 +1,24 @@
+05.08.2020 15:07
+[CM] GodfatherВчера
+The maintenance has been finished, the server is online. Changelog:
+Game updates:
+—Odin's Shrine is now receiving visitors!
+— Now you can learn all about Cooking and prepare your own meals;
+— 50% XP bonus will be active for 24 hours and 25% XP bonus for the next 6 days.
+ 
+Shop:
+— The Wild Treasure is now available, a luckybox that will awaken your inner animal;
+— Explorer, Wanderer and Tourist sets with useful consumables and huge discounts will be available in 4Game launcher until the 12th of August;
+ 
+Other changes:
+— The weight of some items from treasure boxes has changed.
+ 
+Finished Activities:
+— The Eternal Halter Lead and The Giant Fly Wing Box are not available anymore
+— Stat Reset Box is not being sold anymore
+— The Novice Arena says goodbye for now and might return later.
+
+================
 29.07.2020 12:27
 [CM] Godfather
 The maintenance has been finished, the server is online. Changelog:

@@ -6334,9 +6334,6 @@ using a Magnifier.
 #
 #
 
-19996#
-// ---- EP 5.0 Yuno -----------//description by: Promagnum (iRO)
-#
 
 2110#
 Unknown item
@@ -38415,8 +38412,7 @@ Really really soft..!
 Weight: ^7777771^000000
 #
 19996#
-Unknown item. Can be identified by using a Magnifier.
-Weight: ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 12536#
 Healthy stew made with rice cake! Much tako inside!!
@@ -54150,3 +54146,45 @@ Ticket earned for winning the Novice Battle. Can be exchanged for a reward to NP
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
+9722#
+A box contains animals howling.
+Weight: ^7777771^000000
+#
+20025#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31382#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31441#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31457#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31616#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31787#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31798#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19291#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+18569#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31158#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31455#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31254#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+

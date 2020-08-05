@@ -2153,65 +2153,65 @@
 
 //------30 kinds of dish
 
-12041#Fried Rocker#
-12042#Flipper Salad#
-12043#Explosion Steak#
-12044#Herbal Ribs#
-12045#Lutie's Cookie#
-12046#Grape Herbal Tea#
-12047#Leave Red Tea#
-12048#Herbal Honey Tea#
-12049#Morocc Fruit Wine#
-12050#Mastela Wine#
-12051#Steamed Crab#
-12052#Seafood Combo#
-12053#Shell Soup#
-12054#Seafood Salad#
-12055#Grilled Bun#
-12056#Frog Egg Soup#
-12057#Slippery Noodles#
-12058#Tentacle Cheese Soup#
-12059#Lutie's Spicy Noodle#
-12060#Steamed Bat In Pumpkin#
+12041#Fried Grasshopper Legs#
+12042#easoned Sticky Webfoot #
+12043#Bomber Steak#
+12044#Herb Marinade Beef#
+12045#Lutie Lady's Pancake#
+12046#Grape Juice Herbal Tea#
+12047#Autumn Red Tea#
+12048#Honey Herbal Tea#
+12049#Morroc Fruit Wine#
+12050#Mastela Fruit Wine#
+12051#Steamed Crab Nippers#
+12052#Assorted Seafood#
+12053#Clam Soup#
+12054#Seasoned Jellyfish#
+12055#Spicy Fried Bao#
+12056#Frog Egg Squid Ink Soup#
+12057#Smooth Noodle#
+12058#Tentacle Cheese Gratin#
+12059#Lutie Cold Noodle#
+12060#Steamed Bat Wing in Pumpkin#
 12061#Honey Grape Juice#
 12062#Chocolate Mousse Cake#
-12063#Ice Blended Fruits#
-12064#Butter Sandwich#
+12063#Fruit Mix#
+12064#Cream Sandwich#
 12065#Green Salad#
-12066#Fried Yoyo's Tail#
-12067#Mixed Fruit Juice#
-12068#Sugar Special#
-12069#Mermaid Cuisine#
-12070#Fried Scorpion#
-12071#Shining Meat#
-12072#Whole BBQ#
-12073#Bear Paw Special#
-12074#Vein Saloon#
+12066#Fried Monkey Tails#
+12067#Mixed Juice#
+12068#Fried Sweet Potato#
+12069#Steamed Ancient Lips#
+12070#Fried Scorpion Tails#
+12071#Shiny Marinade Beef#
+12072#Whole Roast#
+12073#Bearfoot Special#
+12074#Tendon Satay#
 12075#Steamed Tongue#
 12076#Red Mushroom Wine#
-12077#Special Honey Tea#
-12078#Royal Tea#
-12079#Tristan 12 years#
+12077#Special Royal Jelly Herbal Tea#
+12078#Royal Family Tea#
+12079#Tristram 12#
 12080#Dragon Breath Cocktail#
-12081#Bitter Herbal Tea#
-12082#Special Cuisine#
-12083#Large Leaf Combo#
-12084#Dragon Soup#
+12081#Awfully Bitter Bracer#
+12082#Sumptuous Feast#
+12083#Giant Burito#
+12084#Ascending Dragon Soup#
 12085#Stew of Immortality#
-12086#Chili Prawn Soup#
-12087#Steam Crocodile#
-12088#Spicy Curry#
-12089#Special Sausage#
+12086#Chile Shrimp Gratin#
+12087#Steamed Alligator with Vegetable#
+12088#Incredibly Spicy Curry#
+12089#Special Meat Stew#
 12090#Steamed Scorpion#
 12091#Peach Cake#
-12092#Soul Bread#
+12092#Soul Haunted Bread#
 12093#Special Toast#
-12094#Heaven Fruit Juice#
+12094#Heavenly Fruit Juice#
 12095#Hwergelmir's Tonic#
-12096#Great Fortune Soup#
-12097#BBQ Sate#
-12098#Strawberry Rice Ball#
-12099#Bloody Soda#
+12096#Lucky Soup#
+12097#Assorted Shish Kebob#
+12098#Strawberry Flavored Rice Ball#
+12099#Blood Flavored Soda#
 12100#Cooked Nine Tail's Tails#
 
 // --------- ---------------
@@ -2295,21 +2295,21 @@
 7451#Scale Of Red Dragon#
 7452#Yellow Spice#
 7453#Sweet Sauce#
-7454#Plain Sauce#
+7454#Savory Sauce#
 7455#Hot Sauce#
 7456#Red Spice#
 7457#Cooking Oil#
-577#Grain#
+577#Bag of Grain  #
 578#Strawberry#
-579#Delicious Fish#
+579#Fresh Fish#
 580#Bread#
 581#Mushroom#
 582#Orange#
-12125#Outdoor Cooking Kits#
-12126#Indoor Cooking Kits#
-12127#High end Cooking Kits#
-12128#Imperial Cooking Kits#
-12129#Fantastic Cooking Kits#
+12125#Outdoor Cooking Kit#
+12126#Home Cooking Kit#
+12127#Professional Cooking Kit#
+12128#Royal Cooking Kit#
+12129#Fantastic Cooking Kit#
 
 //-------------------Mobile event(acolyte)
 2356#Vestment Of Grace#
@@ -2317,16 +2317,16 @@
 5133#Sheep Hat#
 
 //-------------------Making the dishes
-7472#Cookbook01#
-7473#Cookbook02#
-7474#Cookbook03#
-7475#Cookbook04#
-7476#Cookbook05#
-7477#Cookbook06#
-7478#Cookbook07#
-7479#Cookbook08#
-7480#Cookbook09#
-7481#Cookbook10#
+7472#Level 1 Cookbook#
+7473#Level 2 Cookbook#
+7474#Level 3 Cookbook#
+7475#Level 4 Cookbook#
+7476#Level 5 Cookbook#
+7477#Level 6 Cookbook#
+7478#Level 7 Cookbook#
+7479#Level 8 Cookbook#
+7480#Level 9 Cookbook#
+7481#Level 10 Cookbook#
 7482#Pot#
 //-------------------overseas event
 7483#Key Of Seal#
@@ -8908,3 +8908,17 @@
 12279#Undead Elemental Scroll#
 
 7711#Legendary ticket#
+20025#Cow Hood#
+31382#Cat Hood#
+31441#Penguin Beret#
+31457#Husky Hat#
+31616#Dream Sheep#
+31787#Shoulder Pig#
+31798#Baby Panda#
+9722#Wild Treasure#
+
+18569#Sheep Beret#
+
+31158#Squirrel Ears#
+31455#Shiba-inu Hat#
+31254#Red Horse Mask#

@@ -1841,15 +1841,15 @@ Continue speaking to Tarlock.#
 // 리히타르젠 : 유사 이미르 퀘스트
 
 8036#Hallen's Favor#SG_FEEL#QUE_NOIMAGE#
-Hallen has asked you to deliver a letter to Kaci from someone named Mr. Mawong who is something like her mentor.#
-Deliver the letter to Kaci.#
+Hallen has asked you to deliver a letter to Kathy from someone named Mr. Mawong who is something like her mentor.#
+Deliver the letter to Kathy.#
 
 8037#The Dice Roller#SG_FEEL#QUE_NOIMAGE#
-You have delivered Hallen's letter to Kaci. You should probably find out what she knows...#
+You have delivered Hallen's letter to Kathy. You should probably find out what she knows...#
 #
 
 8038#The Dice Roller#SG_FEEL#QUE_NOIMAGE#
-It turns out that Kaci is Hallen's cousin. After answering your questions she has gone back to running her games. Who else would know of their past?#
+It turns out that Kathy is Hallen's cousin. After answering your questions she has gone back to running her games. Who else would know of their past?#
 #
 
 8039#Secret of Airships#SG_FEEL#QUE_NOIMAGE#
@@ -1861,7 +1861,7 @@ Really...? Are you serious? An imitation of Ymir's Heart Piece. Now where have I
 Continue talking to Hallen.#
 
 8041#Secret of Airships#SG_FEEL#QUE_NOIMAGE#
-Kaci told me about a drunkard that always mentions Ymir's Heart when he plays the Dice game for Apples!#
+Kathy told me about a drunkard that always mentions Ymir's Heart when he plays the Dice game for Apples!#
  #
 
 8042#Secret of Airships#SG_FEEL#QUE_NOIMAGE#
@@ -1879,7 +1879,7 @@ You must go and see Ferlock.#
 ...Are you really willing to go out and look for Thierry for me? Oh, thank you so much! You don't know how much your kind offer means to me. Thierry went on a trip, traveling on one of the Airships, to find some medicine that the doctors say I need for my illness.#
  #
 
-8045#Tips from Kaci#SG_FEEL#QUE_NOIMAGE#
+8045#Tips from Kathy#SG_FEEL#QUE_NOIMAGE#
 Ah, I know! I'll ask the Airship Captain to help you: he's got the list of passengers and their destinations.#
 Check out the passengers list from the captain.#
 
