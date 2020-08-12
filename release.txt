@@ -1,5 +1,42 @@
+12.08.2020 12:20
+[CM] Godfather
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— High refinement rates will be active until the 19th of August;
+— Friday the 13th event returns on the 13th of August and offers you a spooky challenge.
+
+Shop:
+— Bravery Bag, Golden Angel Hairband and Wings will be available in the Shop and 4Game launcher in sets until the 19th of August.
+
+Finished activities:
+— Leveling Sets were removed at the Shop and 4Game Launcher
+— The Wild Treasure and Sets were removed from the Shop and 4game Launcher ;
+— The extra Exp rates was turned off and set back to standard.
+— The Unknown Area is no longer be accessible.
+
+Other Changes:
+— The Description of the Bravery Bag has been updated.
+
+https://eu.4gameforum.com/threads/677879/
+
+
+[CM] Godfather 12:31
+We have found some problems and will need to briefly go into maintenance one more time to fix them.
+
+We expect to reopen in one hour.
+
+
+[CM] Godfather 13:28
+All problems have been fixed and we are ready to open!
+
+Check the maintenance results in https://eu.4gameforum.com/threads/677879/
+
+We wish everyone a great game!
+
+================
 05.08.2020 15:07
-[CM] GodfatherВчера
+[CM] Godfather
 The maintenance has been finished, the server is online. Changelog:
 Game updates:
 —Odin's Shrine is now receiving visitors!
@@ -17,6 +54,8 @@ Finished Activities:
 — The Eternal Halter Lead and The Giant Fly Wing Box are not available anymore
 — Stat Reset Box is not being sold anymore
 — The Novice Arena says goodbye for now and might return later.
+
+https://eu.4gameforum.com/threads/677777/
 
 ================
 29.07.2020 12:27

@@ -16527,22 +16527,19 @@ Job: ^777777Rune Knight^000000
 A backpack befitting of any hero.
 Enables the use of level 1 Greed
 If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +20
--Int -> Magic Attack +30
--Vit -> Tolerance to Neutral Property +5
+-Str -> ATK +20
+-Int -> MATK +30
+-Vit -> Increase tolerance to Neutral property by 5%
 -Agi -> Aspd +8%
--Dex -> Ranged Attack +5
--Luk -> Inflict 10% more critical attack.
-
-^660000OR^000000
-
+-Dex -> Ranged Attack +5%
+-Luk -> Critical Damage +10%
 If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +30
--Int -> Magic Attack +50
--Vit -> Tolerance to Neutral Property +10
--Agi -> Aspd +8% & Aspd +1
--Dex -> Ranged Attack +10
--Luk -> Inflict 15% more critical attack.
+-Str -> Adds an additional ATK +10
+-Int -> Adds an additional MATK +20
+-Vit -> Increase tolerance to Neutral property by an additional 5%
+-Agi -> Adds an additional Aspd +1
+-Dex -> Adds an additional Ranged Attack +5%
+-Luk -> Adds an additional Critical Damage +5%.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
@@ -36787,8 +36784,8 @@ Jobs: ^777777All^000000
 5403#
 ^ff0000Account bound^000000
 A fishers' talisman shaped like... well, fish. It is said to bring good luck.
-A chance of obtaining Delicious Fish when killing monsters
-Delicious Fish restores 25% more HP.
+A chance of obtaining Fresh Fish when killing monsters
+Fresh Fish restores 25% more HP.
 Class: ^777777Headgear^000000
 Location: ^777777Lower^000000
 Defense: ^7777770^000000    Weight: ^7777771^000000
@@ -51635,23 +51632,23 @@ A box that contains 1 Bravery Bag
 Weight: ^7777771^000000
 ^FFFFFF_^000000
 [Bravery Bag]
-^ff0000Account bound^000000
+^FF0000Account bound^000000
 A backpack befitting of any hero.
 Enables the use of level 1 Greed
 If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +20
--Int -> Magic Attack +30
--Vit -> Tolerance to Neutral Property +5
+-Str -> ATK +20
+-Int -> MATK +30
+-Vit -> Increase tolerance to Neutral property by 5%
 -Agi -> Aspd +8%
--Dex -> Ranged Attack +5
--Luk -> Cri +10
+-Dex -> Ranged Attack +5%
+-Luk -> Critical Damage +10%
 If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +30
--Int -> Magic Attack +50
--Vit -> Tolerance to Neutral Property +10
--Agi -> Aspd +8% & Aspd +1
--Dex -> Ranged Attack +10
--Luk -> Cri +15
+-Str -> Adds an additional ATK +10
+-Int -> Adds an additional MATK +20
+-Vit -> Increase tolerance to Neutral property by an additional 5%
+-Agi -> Adds an additional Aspd +1
+-Dex -> Adds an additional Ranged Attack +5%
+-Luk -> Adds an additional Critical Damage +5%.
 Class: ^777777Garment^000000
 Defense: ^77777720^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
