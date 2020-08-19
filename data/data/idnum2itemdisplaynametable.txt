@@ -2557,7 +2557,7 @@
 12216#LV10 Increase Agi Scroll#
 12217#LV5 Aspersio Scroll#
 12218#Old LV5 Assumptio Scroll#
-12219#LV10 Windwalk Scroll#
+12219#Wind Walker Scroll#
 12220#LV5 Adrenaline Scroll#
 12221#Megaphone#
 7619#Enriched Elunium#
@@ -5742,7 +5742,7 @@
 20724#Love Dad Wing 2012#
 
 //ep 14.1
-//----141 Ãß°¡º» ----------
+//----141 ï¿½ß°ï¿½ï¿½ï¿½ ----------
 
 2156#Bible of Promise (Vol 1)#
 2467#Golden Rod Shoes#
@@ -5819,7 +5819,7 @@
 11526#Rafflecino#
 1773#Elven Arrow#
 1774#Hunting Arrow#
-//³«´Ü Àåºñ Ãß°¡
+//ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ß°ï¿½
 1197#Eden Group Slayer III#
 1289#Eden Group Katar I#
 1391#Eden Group Two Handed Axe I#
@@ -5938,7 +5938,7 @@
 17075#Empty Bottle 100 Box#
 17076#Empty Bottle 500 Box#
 
-//-----------------------------------------------ASPD Idn Independ Scroll < à»ÅÕèÂ¹ª×èÍà»ç?Lucky Free Scroll [December]
+//-----------------------------------------------ASPD Idn Independ Scroll < ï¿½ï¿½ï¿½ï¿½Â¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½?Lucky Free Scroll [December]
 
 17245#Lucky Free Scroll#
 12684#Aspd Potion#
@@ -6413,7 +6413,6 @@
 19729#Outfit Neko Mimi Kafra#
 19696#Outfit Friend Mochiring Hat#
 19718#Outfit Gothic Headdress#
-19728#Outfit Tare Zonda#
 18878#Palace Guard Cap#
 1596#Earth Pedigree Book#
 2188#Svalinn#
@@ -6769,7 +6768,7 @@
 19985#Crown of Legendary kama#
 19986#Costume LunatiCostume Hat#
 19987#Costume Blue Fur Hat#
-19988#Costume Elder Crown#
+19988#Crown of Elders#
 19989#Mouton Earmuffs#
 19990#Costume Snow Rabbit Knit Hat#
 19991#Costume Galanthus Guard#
@@ -8523,7 +8522,6 @@
 20145#Costume: Robo Eye#
 20146#Costume: Angel's Masquerade#
 2189#Mad Bunny#
-20725#Ribbon Piamat#
 6125#Bunny Box#
 20133#Poring Mascot Costume#
 18748#Poring in Golden Hat#
@@ -8870,7 +8868,7 @@
 20335#Neverending Tears#
 31251#Cat's Snoot#
 31615#Geisha Make-Up#
-31699#Ñute Eyes#
+31699#ï¿½ute Eyes#
 31716#Blinking Red Eyes#
 19539#Tiara of Reginleif#
 
@@ -8922,3 +8920,17 @@
 31158#Squirrel Ears#
 31455#Shiba-inu Hat#
 31254#Red Horse Mask#
+
+31368#Costume_Harvest_Festival_Hat#
+14226#Quagmire Scroll Box#
+9684#Elemental Treasure#
+20448#Aura of Downpour#
+20725#Piamette's Ribbon#
+31395#Aura of Wisdom#
+31496#Crown of Yggdrasil#
+31803#Aura of Tornado#
+31885#Aura of Antigravity#
+9922#Elemental_Box#
+23009#Job Manual (24 h.)#
+14594#Quagmire Scroll#
+19728#Zonda Doll#

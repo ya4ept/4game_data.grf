@@ -28562,7 +28562,7 @@ Weight: ^77777780^000000
 
 
 
-// ------¤Ñmobile item -------
+// ------ï¿½ï¿½mobile item -------
 
 
 
@@ -29772,7 +29772,7 @@ random food item.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
-// -------------- Ãß°¡½ºÅ³¿ë ¾ÆÀÌÅÛ --------------
+// -------------- ï¿½ß°ï¿½ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 
 7419#
 A reference for
@@ -30685,7 +30685,7 @@ sublimely delicious.
 ^FFFFFF ^000000
 Weight: ^7777777^000000
 #
-// ------------ ¿ä¸®Á¦Á¶ --------------
+// ------------ ï¿½ä¸®ï¿½ï¿½ï¿½ï¿½ --------------
 
 7472#
 Level 1 Recipes
@@ -32260,7 +32260,7 @@ Weight: ^7777770^000000
 #
 
 //--------------------11.1 Rachel------------------------
-// -------------------------- ¼ÒÄÏÀÎÃ¦Æ® ½Å±Ô¹«±âÃß°¡ ----------------------------
+// -------------------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¦Æ® ï¿½Å±Ô¹ï¿½ï¿½ï¿½ï¿½ß°ï¿½ ----------------------------
 
 13016#
 A fearsome dagger with
@@ -32340,9 +32340,9 @@ Merchant, and
 Thief Classes^000000
 #
 
-// ------------------- 2006 »ó¹İ±â ½Å±Ôcard Ãß°¡.-----------------------
-//¿µ¹®±Ç 11.1 ¿¡¼­ ¾÷µ¥ÀÌÆ® Á¦¿ÜÇÏ±â·Î ÇÕ´Ï´Ù.
-// ------------- ¾Æ·ç³ª »ó¹İ±â -----------
+// ------------------- 2006 ï¿½ï¿½İ±ï¿½ ï¿½Å±ï¿½card ï¿½ß°ï¿½.-----------------------
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 11.1 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ï¿½ ï¿½Õ´Ï´ï¿½.
+// ------------- ï¿½Æ·ç³ª ï¿½ï¿½İ±ï¿½ -----------
 
 7561#
 A frozen heart that
@@ -32446,12 +32446,12 @@ You risk freezing youself if you touch it.
 
 
 
-//----------------------20060610 ½Å±ÔÃß°¡¾ÆÀÌÅÛ-------------------------
+//----------------------20060610 ï¿½Å±ï¿½ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-------------------------
 
 
 
 
-// -------------- 2006 Ãß°¡¾ÆÀÌÅÛ -------------
+// -------------- 2006 ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -------------
 
 
 12183#
@@ -32462,7 +32462,7 @@ Weight: ^77777725^000000
 #
 
 // ---------------Package Items----------------
-// ------------- ¹Ì±¹ ÇØÀûÀÇ ³¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ --------------
+// ------------- ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 
 7875#
 A recovered Treasure box
@@ -33661,15 +33661,9 @@ a spell or skill.
 Weight: ^7777771^000000
 #
 12219#
-A scroll in which
-a single use of
-Level 10 Wind Walker
-has been recorded.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-^ffffff_^000000
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv. 10 [Wind Walker]^000000.
+^FFFFFF_^000000
 Weight: ^7777771^000000
 #
 12220#
@@ -34153,7 +34147,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------------- 2006 »ó¹İ±â ½Å±Ôcard Ãß°¡.-----------------------
+// ------------------- 2006 ï¿½ï¿½İ±ï¿½ ï¿½Å±ï¿½card ï¿½ß°ï¿½.-----------------------
 
 
 
@@ -34165,7 +34159,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------- Ã¥ÀĞ±â ----------------------
+// ------------- Ã¥ï¿½Ğ±ï¿½ ----------------------
 
 11001#
 A new novel from best
@@ -34246,7 +34240,7 @@ fiction author.
 Weight: ^7777771^000000
 #
 
-// ----------------------- Åä¸£È­»ê Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ----------------------- ï¿½ä¸£È­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 7704#
 A device that can
 measure the ground's
@@ -34267,7 +34261,7 @@ by a Geologist.
 Weight: ^7777770^000000
 #
 
-// ---------------------- Åä¸£È­»ê ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ----------------------
+// ---------------------- ï¿½ä¸£È­ï¿½ï¿½ ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 
 13163#
 A sniping rifle with a lengthened barrel for improved accuracy.
@@ -34940,7 +34934,7 @@ Magic defense +3% for 3 min.
 Weight: ^7777770^000000
 #
 
-// ---------------- ÀÎµµ³×½Ã¾Æ °¡º­¿î Ä³½¬ ¾ÆÀÌÅÛ --------------
+// ---------------- ï¿½Îµï¿½ï¿½×½Ã¾ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 
 13809#
 A box that contains
@@ -35405,7 +35399,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// ------------- 2007 ÇÒ·ÎÀ© ÃàÁ¦¸ğÀÚ ---------------
+// ------------- 2007 ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 
 5356#
 A pumpkin hat for celebrating Halloween: wear it when you go trick-or-treating!
@@ -35430,7 +35424,7 @@ that have shaped
 your life.
 ^ffffff_^000000
 #
-// -------- 2007 ÀÏº» ¿¬¸» Ä³½¬¾ÆÀÌÅÛ ----------
+// -------- 2007 ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------
 5380#
 A gaping fish head
 fashioned into a hat.
@@ -35543,7 +35537,7 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 
-// ----- Å©¸®½º¸¶½º ÀÌº¥Æ® »êÅ¸ ¼ö¿° --------
+// ----- Å©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ --------
 //5811#
 //A beard that makes
 //you want to laugh
@@ -35612,7 +35606,7 @@ Weight: ^7777770^000000
 #
 
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- ´ë¸¸ Æê Ãß°¡ ------------------
+// ----------- ï¿½ë¸¸ ï¿½ï¿½ ï¿½ß°ï¿½ ------------------
 
 9038#
 An egg in which the
@@ -35668,7 +35662,7 @@ Luk +21.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-//============2008 ¹Ì±¹ ¼¼ÀÎÆ®ÆĞÆ®¸¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ============
+//============2008 ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½============
 12715#
 [This item will be removed
 
@@ -35709,7 +35703,7 @@ A treasure box that belongs to Leprechaun O'Riley who is in Izlude next to the a
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ---------------------- ¿ëº´¼ÒÈ¯¼­ -------------------------------
+// ---------------------- ï¿½ëº´ï¿½ï¿½È¯ï¿½ï¿½ -------------------------------
 
 12153#
 Summon a 1st
@@ -35921,7 +35915,7 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-// ------------------ ¿ëº´¿ë Æ÷¼Ç ------------------
+// ------------------ ï¿½ëº´ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ------------------
 12241#
 A Concentration Potion
 for Mercenaries that
@@ -35947,7 +35941,7 @@ Attack Speed.
 Weight: ^77777720^000000
 #
 
-// ---------------- ¸±·¹ÀÌ Äù½ºÆ® ¾ÆÀÌÅÛ ------------------
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 7730#
 A ticket proving
 that the bearer has
@@ -36072,7 +36066,7 @@ a new mission.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-// -------------- 11.3 ÀâÅÛ -------------------
+// -------------- 11.3 ï¿½ï¿½ï¿½ï¿½ -------------------
 7751#
 A worn-out white
 cloth that can be
@@ -36113,7 +36107,7 @@ Merchant NPCs.
 Weight: ^7777771^000000
 #
 
-// ------------ Äù½ºÆ® ¾ÆÀÌÅÛ -----------------
+// ------------ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------------
 7755#
 Much of the writing
 on this note isn't
@@ -36132,7 +36126,7 @@ Weight: ^7777771^000000
 #
 
 
-// ------------------- 11.3 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ --------------------------
+// ------------------- 11.3 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------------------
 
 
 
@@ -36321,7 +36315,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Gunslinger Job^000000
 #
 
-// ------------ 11.3 Äù½ºÆ® ¾ÆÀÌÅÛ --------------
+// ------------ 11.3 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 7722#
 A loan document
 that includes the
@@ -36368,7 +36362,7 @@ seal of the King of the Rune-Midgarts Kingdom.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ----------------- 20070808 ½Å±ÔCard 34Á¾ -----------------
+// ----------------- 20070808 ï¿½Å±ï¿½Card 34ï¿½ï¿½ -----------------
 
 
 
@@ -36386,7 +36380,7 @@ it's been cooked.
 Weight: ^7777771^000000
 #
 
-// ------------------- ¸¶·ÂÀÌ ?EEcardÃ¸ ------------------
+// ------------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ?Eï¿½EcardÃ¸ ------------------
 
 12246#
 Powerful spirits are 
@@ -36397,7 +36391,7 @@ if the seal is undone?
 Weight: ^7777775^000000
 #
 
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 
 5409#
 A hat, symbolizing western frontiers, made to celebrate the festival.
@@ -36421,7 +36415,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// -------- ¹Ì±¹ Æä½ºÆ¼¹ú Æ¼ÄÏ ----------
+// -------- ï¿½Ì±ï¿½ ï¿½ä½ºÆ¼ï¿½ï¿½ Æ¼ï¿½ï¿½ ----------
 
 7919#
 Evidence that you really enjoyed the festival!
@@ -36430,13 +36424,13 @@ This item cannot be dropped, traded, mailed or vended.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 6025#
 A towel that helps you remember those that have passed on.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// -------- ÃÊº¸ÀÚÁ¸ ¾ÆÀÌÅÛ -----------
+// -------- ï¿½Êºï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
 ^ffffff_^000000
@@ -36506,11 +36500,11 @@ A tribute to luck and fortune throughout the year.
 Weight: ^7777770^000000
 #
 
-// ---------- ¸ğ¹ÙÀÏ °Ë»çÆí ÅÃÆ½½º ----------
+// ---------- ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ë»ï¿½ï¿½ï¿½ ï¿½ï¿½Æ½ï¿½ï¿½ ----------
 // --------------- Package Item ----------------
-// ------------------Áß±¹ÀÌº¥Æ® ºÀ°ü--------------------
+// ------------------ï¿½ß±ï¿½ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½--------------------
 // -------------- 2006 Japan Event -------------
-// ------------------ 2006 ÀÏº» ¾Ö´Ï¹ö¼­¸® Headgear -----------------
+// ------------------ 2006 ï¿½Ïºï¿½ ï¿½Ö´Ï¹ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear -----------------
 
 5211#
 ^ff0000Account bound^000000
@@ -36529,7 +36523,7 @@ Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
 
-// ------------------ ºê¶óÁú °¡¹ß ½Ã¸®Áî -----------------------
+// ------------------ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã¸ï¿½ï¿½ï¿½ -----------------------
 
 5273#
 Wig with green, white and red colors.
@@ -36570,7 +36564,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// --------------- ºê¶óÁú Ä³½¬ ¾ÆÀÌÅÛ 20070605 ------------
+// --------------- ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 20070605 ------------
 
 5307#
 A hat made with tropical fruits. It looks delicious.
@@ -36581,7 +36575,7 @@ Location: ^777777Upper^000000    Weight: ^77777740^000000
 Jobs: ^777777All^000000
 #
 
-// -------------- ÅÂ±¹ Ä³½¬¾ÆÀÌÅÛ Headgear Ãß°¡ 20070809 --------------
+// -------------- ï¿½Â±ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear ï¿½ß°ï¿½ 20070809 --------------
 
 5325#
 ^FF0000Account bound^000000
@@ -36597,7 +36591,7 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 
-// -------------- 2007³â 9¿ù ÀÏº» ¸ğ¹ÙÀÏ Headgear 13Á¾ -----------------
+// -------------- 2007ï¿½ï¿½ 9ï¿½ï¿½ ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear 13ï¿½ï¿½ -----------------
 
 5333#
 A hat designed to transmit electric waves. Sometimes it receives electric waves from external worlds.
@@ -36742,7 +36736,7 @@ Required Level: ^77777711^000000
 Jobs: ^777777All^000000
 #
 
-// --------- ÅÂ±¹ ¸ğÀÚ ¾ÆÀÌÅÛ -------------
+// --------- ï¿½Â±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -------------
 
 5387#
 A cute hairband that combines the classic Kafra hairband with cat ears.
@@ -36755,7 +36749,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 
-// -------------- 2008 ÀÏº» ¾ÆÀÌÅÛ Á¦ 2Åº -----------------
+// -------------- 2008 ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ 2Åº -----------------
 
 5401#
 ^ff0000Account bound^000000
@@ -36814,7 +36808,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// --------------- ÇÊ¸®ÆÇ ÀÚÃ¼Á¦ÀÛ Headgear 7Á¾ -------------
+// --------------- ï¿½Ê¸ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ Headgear 7ï¿½ï¿½ -------------
 
 5372#
 ^ff0000Account bound^000000
@@ -36960,7 +36954,7 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 
-// ------¾Ëµ¥¹Ù¶õÅÍº¸Æ®·¢------
+// ------ï¿½Ëµï¿½ï¿½Ù¶ï¿½ï¿½Íºï¿½Æ®ï¿½ï¿½------
 
 12016#
 A potion that increases character's movement speed for 5 sec.
@@ -36974,7 +36968,7 @@ A potion which decreases the moving speed of a character for a set duration.
 Weight: ^77777710^000000
 #
 
-// ---------- ÇÊ¸®ÇÉ 4¿ù ¹Ú½º ÆĞÅ°Áö ----------------
+// ---------- ï¿½Ê¸ï¿½ï¿½ï¿½ 4ï¿½ï¿½ ï¿½Ú½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½ ----------------
 
 13994#
 A box containing 5 Speed Potions.
@@ -37020,8 +37014,8 @@ Used for re-dyeing your clothes to their original color.
 Weight: ^7777770^000000
 #
 
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
-// ------------- ½Å±Ô ½Å±Ş ¾ÆÀÌÅÛ GOD ITEMS --------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
+// ------------- ï¿½Å±ï¿½ ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ GOD ITEMS --------------
 
 7830#
 A clear and transparent gem that reflects light beautifully.
@@ -37082,7 +37076,7 @@ You can exchange it for a gift.
 Weight: ^7777770^000000
 #
 
-// ---------------- Å×½ºÆ®¿ë Ä³½¬¾ÆÀÌÅÛ »óÀÚ Town B-wings -----------------
+// ---------------- ï¿½×½ï¿½Æ®ï¿½ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Town B-wings -----------------
 
 13849#
 Contains 5 scrolls on which the names of towns of Rune Midgard are written. Use it to teleport to one of them.
@@ -37141,7 +37135,7 @@ Warning: If no town is selected, the item will disappear.
 Weight: ^7777771^000000
 #
 
-// ----------- 20071004 Ä³½Ã¾ÆÀÌÅÛ -----------
+// ----------- 20071004 Ä³ï¿½Ã¾ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgard Kingdom.
@@ -37441,7 +37435,7 @@ Jobs: ^777777All^000000
 #
 
 // --------------------- Ep. 12 --------------------------
-// ------------- ÀüÀå º¸»ó ¾ÆÀÌÅÛ ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 
 13036#
 A dagger especially used for assassinations such as killing Demihumans.
@@ -37645,7 +37639,7 @@ A sealed paper envelope. It seems to contain an important message in it.
 Weight: ^7777771^000000
 #
 
-// ------------ ¸Ş¸ğ¸®¾ó ´øÀü º¸»óÅÛ ----------------
+// ------------ ï¿½Ş¸ğ¸®¾ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
@@ -37671,7 +37665,7 @@ Required Level: ^77777775^000000
 Jobs: ^777777Transcendent Swordsman, Merchant, Thief Classes^000000
 #
 
-//¸ğ·ÎÅ© ÄÁÆ¼³ÙÅ» °¡µå ÀÎÁõ¼­
+//ï¿½ï¿½ï¿½Å© ï¿½ï¿½Æ¼ï¿½ï¿½Å» ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
@@ -37681,7 +37675,7 @@ Continental Guard. Balrog.
 Weight: ^7777770^000000
 #
 
-// ------------ ¸¶¿Õ ¸ğ·ÎÅ© ----------------
+// ------------ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Å© ----------------
 
 
 
@@ -37697,7 +37691,7 @@ Jobs: ^777777Above Transcendent 2-1 Classes^000000
 
 
 
-// ---------- ÇÒÂ¦ Å×½ºÆ® -----------
+// ---------- ï¿½ï¿½Â¦ ï¿½×½ï¿½Æ® -----------
 
 
 
@@ -37736,7 +37730,7 @@ Jobs: ^777777Assassin Cross^000000
 #
 
 
-// ------------- ÀüÀå ÈÖÀå ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ---------------
 7828#
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
 ^ffffff_^000000
@@ -37746,7 +37740,7 @@ A badge that is provided to warriors who have brought great honor from the Battl
 ^ffffff_^000000
 #
 
-// -------- ºÀÀÎÀÇ ½ÅÀü ¾ÆÀÌÅÛ ------------
+// -------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
 ^ffffff_^000000
@@ -37765,14 +37759,14 @@ A pendant that was been used to confine wandered souls from unknown places.
 Weight: ^7777771^000000
 #
 
-// ----------------- ¸¶·ÂÀÌ ±êµç ¹ÙÆ÷¸ŞÆ® ÀÎÇü -----------------
+// ----------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ -----------------
 6004#
 A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
-// ------------------- 12.1 Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ------------------- 12.1 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 7798#
 A dark fragment imbued with a gloomy spirit. Once you stare into it, you might feel absorbed into it.
 ^ffffff_^000000
@@ -37785,7 +37779,7 @@ You might feel a strong dangerous power from this crystal. When you are close to
 Weight: ^7777771^000000
 #
 
-// --------------- ÇÊ¸®ÇÉ ÀÚÃ¼Á¦ÀÛ Åõ±¸ 7Á¾ ----
+// --------------- ï¿½Ê¸ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 7ï¿½ï¿½ ----
 5374#
 A headgear forged from the horns of the Unsealed Baphomet.
 Increases Physical Damage to Demihuman monsters by 12%.
@@ -37797,7 +37791,7 @@ Weight: ^77777780^000000
 Jobs: ^777777All^000000
 #
 
-// ------------------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------------
+// ------------------- ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 
 6000#
 A dark ash imbued with mysterious magical power and darkness.
@@ -37837,7 +37831,7 @@ Stepmother - karma from a previous life?''
 Weight: ^7777771^000000
 #
 
-// ------------------ ÇÏ¾Ç Å×½ºÆ® (¼ÒÄÏ)---------------
+// ------------------ ï¿½Ï¾ï¿½ ï¿½×½ï¿½Æ® (ï¿½ï¿½ï¿½ï¿½)---------------
 
 13030#
 Crafted from a
@@ -38699,7 +38693,7 @@ A box containing one Crown of Deceit
 Weight: ^7777771^000000
 #
 
-// 2009-01-16 ¹Ì±¹ ¿äÃ» ¾ÆÀÌÅÛ
+// 2009-01-16 ï¿½Ì±ï¿½ ï¿½ï¿½Ã» ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 6125#
 A box that brings a feeling of prosperity. Every time you think about opening it you resist the temptation. Perhaps a professional ^3CB371Gift Opener^000000 could be of assistance.
@@ -38723,7 +38717,7 @@ Weight: ^7777771^000000
 ^FF0000This item can only be opened until Aug. 25, 2009^000000
 #
 
-//¹ß·»Å¸ÀÎ
+//ï¿½ß·ï¿½Å¸ï¿½ï¿½
 
 12742#
 A box containing a ring which is an exchanging gift for Valentine's Day.
@@ -38778,7 +38772,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ----------- Æ÷¸µ´ëÀü º¸»óÇ° ¾ÆÀÌÅÛ ------------01/07/09
+// ----------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------01/07/09
 
 
 
@@ -38793,19 +38787,19 @@ Jobs: ^777777All^000000
 
 
 
-// ---------------- Æ÷¸µÄÚÀÎ -----------------
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------------
 7539#
 A small coin with a monster Poring engraved in it.
 ^ff0000This can be sold to NPCs^000000
 #
 
-// ------------- ÀüÅõÈÖÀå ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 7773#
 A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.
 ^ffffff_^000000
 #
 
-// 2009-02-16 ¹Ì±¹ º¸º´±Ã ½Ö¾î±Ã Ãß°¡
+// 2009-02-16 ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ ï¿½ß°ï¿½
 5512#
 ^ff0000Account bound^000000
 This diadem honors Aquarius, the 11th astrological sign in the zodiac calendar.
@@ -39061,8 +39055,8 @@ A magnificent crown created to pay tribute to the 6th sign of the zodiac, Virgo 
 Attached to the crown is a Sapphire gemstone, the birthstone for those born under this sign.
 Can be obtained via Arena Coins during 7th PvP season.
 Dex +2, Aspd +1%.
-[If refined to 7 or higher]
-Resistance to Earth Property +5%.
+[If refined to +7 or higher]
+Resistance to Earth Property +3%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -39078,8 +39072,8 @@ Attached to the crown is a Sapphire gemstone, the birthstone for those born unde
 Can be obtained via Arena Coins during 7th PvP season.
 Aspd +3%,
 Resistance to Earth Property +5%.
-[If refined to 7 or higher]
-Has a low chance of casting Excruciating Palm while physically attacking.
+[If refined to +7 or higher]
+Has a low chance of casting Level 1 Excruciating Palm while physically attacking.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
@@ -39579,7 +39573,7 @@ Beautiful long, white colored horn with the very strong magical power. It can be
 Weight: ^7777771^000000
 #
 
-// --------- EP13 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ---------------
+// --------- EP13 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 5398#
 Headgear made of the skull of a dragon. So hard that it does not easily break.
 Str +2, MDEF +5,
@@ -39836,7 +39830,7 @@ A pie covered with sweet chocolate.  This isn't pretty but the taste is excellen
 ^ffffff_^000000
 Weight: ^77777730^000000
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ ----------
+// ---------- Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------
 13416#
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
@@ -40006,7 +40000,7 @@ Job: ^777777Gunslinger^000000
 
 
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ Ãß°¡ Defense±¸ ----------
+// ---------- Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ Defenseï¿½ï¿½ ----------
 
 
 
@@ -40017,12 +40011,12 @@ Job: ^777777Gunslinger^000000
 
 
 
-// ----------- ¿¡ÇÇ¼Òµå 13 ³¬½Ã ------------
+// ----------- ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13 ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
 
-// ----------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------
+// ----------- ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 
 6048#
 A mineral not found in Rune Midgard that any scientist would love to study.
@@ -40151,7 +40145,7 @@ Class: ^777777Taming Item^000000
 Weight: ^7777771^000000
 #
 
-//--------------------¹Ì±¹ Ä³½¬ 2009.10.07---------------------------
+//--------------------ï¿½Ì±ï¿½ Ä³ï¿½ï¿½ 2009.10.07---------------------------
 
 5612#
 A cat doll that you
@@ -49683,7 +49677,7 @@ Contains the following:
 Weight:  ^7777771^000000
 #
 
-// ---------- Ep13.3 Äù½ºÆ®¾ÆÀÌÅÛ ------------
+// ---------- Ep13.3 ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
@@ -49733,7 +49727,7 @@ An old piece of sheet music filled with notes inscribed in blue ink.
 Weight: ^7777771^000000
 #
 
-// ---------- EP13.3 ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- EP13.3 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
 Weight: ^7777771^000000
@@ -49822,13 +49816,13 @@ Weapon Level: ^7777773^000000
 Required Level: ^777777105^000000
 Jobs: ^7777773rd Class Archer Type^000000
 #
-//---------- EP13.3 ¾÷µ¥ÀÌÆ® ÀÌÈÄ º¯°æ µÇ´Â ¾ÆÀÌÅÛ(±âÁ¸ ¾ÆÀÌÅÛ »èÁ¦ÇÏ°í ¾Æ·¡ Ãß°¡) ------------
-//4229 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//2140 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//2794 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//15002 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//1549  ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-// ----------¾Æ·¡ ¾ÆÀÌÅÛµéÀº µ¥¿ÍÅ¸ ¾÷µ¥ÀÌÆ® ½Ã¿¡µµ µé¾î°¡´Â ¾ÆÀÌÅÛµé·Î µ¥¿ÍÅ¸ ¾÷µ¥ÀÌÆ® ÀÌÈÄ¶ó¸é º°µµ·Î Ãß°¡ÇÒ ÇÊ¿ä¾øÀ½ ------------
+//---------- EP13.3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½Æ·ï¿½ ï¿½ß°ï¿½) ------------
+//4229 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//2140 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//2794 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//15002 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//1549  ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+// ----------ï¿½Æ·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ûµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ã¿ï¿½ï¿½ï¿½ ï¿½ï¿½î°¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ûµï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ ï¿½Ê¿ï¿½ï¿½ï¿½ï¿½ ------------
 
 6437#
 A perfume made to make one smell like a Scaraba. Spraying this will help you avoid Scarabas from mobbing you.
@@ -50988,12 +50982,12 @@ Weight: ^7777771^000000
 #
 6535#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sockï¿½ï¿½ though you're sure they mean Stocking
 Weight: ^7777771^000000
 #
 6536#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sockï¿½ï¿½ though you're sure they mean Stocking
 Weight: ^7777771^000000
 #
 18671#
@@ -52118,7 +52112,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ---------- Port Malaya ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- Port Malaya ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
@@ -55229,7 +55223,7 @@ for everyone else...^000000
 Box Weight: ^7777771^000000
 #
 
-//-------½É¿¬ÀÇÈ¸¶û Ãß°¡ ¾ÆÀÌÅÛ------------
+//-------ï¿½É¿ï¿½ï¿½ï¿½È¸ï¿½ï¿½ ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½------------
 
 
 
@@ -55979,7 +55973,7 @@ Weight: ^7777771^000000
 16749#
 A box that has snow crab from malangdo area (1 hour rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonï¿½ï¿½
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class: ^777777bow^000000 Attack: ^777777120^000000
@@ -55993,7 +55987,7 @@ Weight: ^7777771^000000
 16750#
 A box that has snow crab from malangdo area (7 days rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonï¿½ï¿½
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class: ^777777bow^000000 Attack: ^777777120^000000
@@ -56006,7 +56000,7 @@ Weight: ^7777771^000000
 #
 18107#
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonï¿½ï¿½
 LUK + 3, critical damage 50%.
 if base LV over100, ranged  physical Attack +20%
 Class: ^777777bow^000000 Attack: ^777777120^000000
@@ -56312,7 +56306,7 @@ Weight: ^7777775^000000
 #
 12636#
 Delicious canned food from Malangdo.
-You will think about the sea and see the sights  of  Malangdo in your mind when you eat it¡¦ Transports you to Malangdo when consumed.
+You will think about the sea and see the sights  of  Malangdo in your mind when you eat itï¿½ï¿½ Transports you to Malangdo when consumed.
 Weight: ^7777770^000000
 #
 12637#
@@ -58385,7 +58379,7 @@ Weight: ^7777771^000000
 4515#
 Reduce damage from Plant type enemies by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777¹æÆĞ^00000000
+Compound on: ^777777ï¿½ï¿½ï¿½ï¿½^00000000
 Weight: ^7777771^000000
 #
 4516#
@@ -63398,8 +63392,8 @@ Jobs: ^777777All^000000
 #
 31910#
 ^ff0000Account bound.^000000
-Ho ho ho! And it’s not shaving foam at all, but my beard!
-Just don’t touch it, otherwise the magic will disappear!
+Ho ho ho! And itï¿½s not shaving foam at all, but my beard!
+Just donï¿½t touch it, otherwise the magic will disappear!
 ^ff0000[Effects are active only during the event (until January 15, 2020).]^000000
 Max. HP and SP +10%
 ^0000ff[Festive Santa Set]^000000
@@ -64688,7 +64682,6 @@ Every refine level from +6 and higer reduces damage taken from all elementals at
 When magically attacking, a certain chance to transform into Piamette for 10 sec.
 While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade [Piamette's Ribbon].
 Chance to transform increases as refine [Piamette's Ribbon] goes higher.
-^FF0000This item will appear in the game later.^000000
 Class: ^777777Shield^000000
 Defense: ^77777740^000000  Weight: ^77777710^000000
 Required Level: ^7777771^000000
@@ -67029,19 +67022,6 @@ Class: ^777777Garment^000000 Defense: ^77777718^000000
 Weight: ^7777770^000000 
 Level Requirement: ^7777771^000000
 Job: ^777777All^000000 
-#
-20725#
-A huge ribbon worn by Piamette. Blessed with strong magical power.
-MATK +10, INT +1, DEX +1.
-^6A5ACDSet Bonus^000000
-^3CB371Mad Bunny^000000
-When magically attacking, a certain chance to transform into Piamette for 10 sec.
-While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade.
-Chance to transform increases as refine goes higher.
-Class: ^777777Garment^000000 Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required LV: ^77777730^000000
-Job: ^777777All^000000
 #
 20734#
 ^000088Rental Item^000000
@@ -70353,13 +70333,6 @@ Location:  ^777777Upper ^000000Weight: ^7777770^000000
 Required lvl: ^7777771^000000
 Job: ^777777All^000000
 #
-19988#
-A crown made from an elder's branch.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
-#
 19989#
 ^ff0000Account bound^000000
 Ear warmers made of lamb's wool and decorated with cute horns.
@@ -71640,7 +71613,7 @@ Weight: ^7777771^000000
 #
 
 19914#
-^808080Airship Captain Felrock¡®s Hat^000000
+^808080Airship Captain Felrockï¿½ï¿½s Hat^000000
 ^FFFFFF_^000000
 Type: Costume
 Location: Upper
@@ -71684,21 +71657,21 @@ Required Level: ^777777125^000000
 Job: ^777777All^000000
 #
 15117#
-Airship captain Felrock¡®s possessions.
+Airship captain Felrockï¿½ï¿½s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 MaxHP + 500, MaxSP + 50, MDEF + 10.
 All State + 1.
 If 7 refined, MaxHP + 500, MaxSP + 50.
 If 9 refined, MaxHP + 200, MaxSP + 20.
 If 12 refined, MaxHP + 300, MaxSP + 30.
-If equipped together with Felrock¡®s Armor, Felrock¡®s Cloak, Felrock¡®s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
+If equipped together with Felrockï¿½ï¿½s Armor, Felrockï¿½ï¿½s Cloak, Felrockï¿½ï¿½s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
 Type: ^777777Armor^000000    Defense: ^77777770^000000
 Weight: ^77777775^000000
 Required Level: ^777777125^000000
 Job: ^777777All^000000
 #
 20744#
-Airship captain Felrock¡®s possessions.
+Airship captain Felrockï¿½ï¿½s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 Neutral tolerance 10% increase, Flee + 20.
 Floating Casting 10% decrease.
@@ -71711,7 +71684,7 @@ Required Level: ^777777125^000000
 Job: ^777777All^000000
 #
 22047#
-Airship captain Felrock¡®s possessions.
+Airship captain Felrockï¿½ï¿½s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 AGI + 1, Attack rate increase (Delay after attack 5% reduction).
 If 7 refined, AGI + 1, Delay after attack extra 5% decrease
@@ -72813,7 +72786,7 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight: ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and¡¦ just cute.
+Wickebine's one of favorite ear cap. Cute andï¿½ï¿½ just cute.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class: ^777777Costume^000000 Def: ^7777770^000000
@@ -74650,7 +74623,7 @@ Weight: 0
 Required Monster: Scatleton
 #
 20397#
-^808080A helmet that can transform you into Jakk. It is so precise that even Jakk¡®s friends are tricked. The way it is produced is confidential...^000000
+^808080A helmet that can transform you into Jakk. It is so precise that even Jakkï¿½ï¿½s friends are tricked. The way it is produced is confidential...^000000
 ^FFFFFF_^000000
 Type: Headgear
 Position: Middle, Lower
@@ -82920,19 +82893,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-20725#
-A huge ribbon worn by Piamette. Blessed with strong magical power.
-MATK +10, INT +1, DEX +1.
-^6A5ACDSet Bonus^000000
-^3CB371Mad Bunny^000000
-When magically attacking, a certain chance to transform into Piamette for 10 sec.
-While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade.
-Chance to transform increases as refine goes higher.
-Class: ^777777Garment^000000 Defense: ^7777770^000000
-Weight: ^77777710^000000
-Required LV: ^77777730^000000
-Job: ^777777All^000000
-#
 6125#
 A box that brings a feeling of prosperity. Every time you think about opening it you resist the temptation. Perhaps a professional ^3CB371Gift Opener^000000 could be of assistance.
 ^FF0000You must be above base level 40 in order to have a Gift Opener open this box^000000
@@ -85977,7 +85937,7 @@ Jobs: ^777777All^000000
 #
 5915#
 A veil created from feathers of an angel.
-Put it on to feel yourself confident and protected. It’s like a guardian angel has covered you with his wings.
+Put it on to feel yourself confident and protected. Itï¿½s like a guardian angel has covered you with his wings.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -86951,4 +86911,164 @@ Grilled Tuna x50
 Grilled Snapper x50
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+20448#
+Fast streams circling around you! Aquatic bubbles that can stick on your opponent and drown him!
+Who dares to challenge the archmage of the water element?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31395#
+A magical books of all four elements floating in the air around you.
+Feel like a great and powerful wizard!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31803#
+Wild winds that swirl around you! A hurricane threatening to blow everything away!
+Who dares to challenge the archmage of the air element?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+14226#
+A box contains 50 Quagmire Scrolls.
+Weight: ^7777771^000000
+^ffffff_^000000
+[Quagmire Scroll]
+^ff0000Account bound^000000
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv. 5 [Quagmire]^000000.
+Weight: ^7777771^000000
+#
+9684#
+This book has absorbed the power of all four elements.
+You can surely find a lot of interesting things among its pages.
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Wisdom
+Aura of Antigravity
+Aura of Tornado
+Aura of Downpour
+Flames of Rage
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Silvervine x555
+Crown of Yggdrasil
+Crown of Elders
+Inf. Giant Fly Wing Box (1 h.)
+Book Stack on Head
+Piamette's Ribbon
+Guyak Pudding x30
+Mental Potion x12
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Convex Mirror x9
+Meteor Storm Scroll x30
+Storm Gust Scroll x30
+Lord of Vermilion Scroll x30
+Wind Walker Scroll x30
+Quagmire Scroll Box
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Rune-Midgard Wing x15
+Ancient City Wing x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19988#
+A crown woven from the roots and branches of an old tree.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20725#
+A black butterfly knot that belonged to Piamette.
+It exudes vibes of ancient forbidden magic.
+MATK +10
+INT +1
+DEX +1
+^6A5ACDSet Bonus^000000
+^3CB371Mad Bunny^000000
+[For every 3 refine levels of Piamette's Ribbon]
+When magically attacking, a certain chance to transform into Piamette for 10 sec.
+While transformed, consumes 30HP each second but adds MATK +5.
+Chance to transform increases as refine level goes higher.
+[If Mad Bunny refined to +6 or higher]
+Every refine level from +6 and higer reduces damage taken from all elementals attack by 2%.
+Class: ^777777Garment^000000
+Defense: ^7777770^000000 Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31496#
+A beautiful crown made from the stems of the world tree Yggdrasil.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31885#
+A whirlwind of dust raised upward! Heavy stones floating around you!
+Who dares to challenge the archmage of the earth element?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9922#
+It seems to contain content related to the origin of the element.
+Weight : ^7777771^000000
+#
+23009#
+^ff0000Account bound^000000
+Job Exp rate +50% for 24 hours to all the characters in the same world.
+^000088The item effect stacks with that of Battle Manual.^000000
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+14513#
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv. 10 [Storm Gust]^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+14594#
+^ff0000Account bound^000000
+A spell scroll filled with the essence of ancient magic.
+Casts ^0000FFLv. 5 [Quagmire]^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+19728#
+^ff0000Account bound^000000
+A doll of an employee of the Zonda Corporation. Looks great on the head.
+Type : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
 #

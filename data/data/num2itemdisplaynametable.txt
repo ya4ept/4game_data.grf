@@ -2498,7 +2498,7 @@
 12216#LV10 Agi Scroll#
 12217#LV5 Aspersio Scroll#
 12218#Old LV5 Assumptio Scroll#
-12219#LV10 Windwalk Scroll#
+12219#Wind Walker Scroll#
 12220#LV5 Adrenaline Scroll#
 12221#Megaphone#
 7619#Enriched Elunium#
@@ -2987,9 +2987,9 @@
 7810#Symbol of Richness#
 7811#Anvil#
 7812#Symbol of Bravery#
-7813#Red Jenoss’s Family Ring#
-7814#Green Jenoss’s Family Ring#
-7815#Blue Jenoss’s Family Ring#
+7813#Red Jenossï¿½s Family Ring#
+7814#Green Jenossï¿½s Family Ring#
+7815#Blue Jenossï¿½s Family Ring#
 7816#Symbol of Faith#
 7817#Symbol of Peace#
 7818#Jessur's Necklace#
@@ -3007,7 +3007,7 @@
 12242#Mercenary Awakening Potion#
 12243#Mercenary Berserk Potion#
 
-// ---------------- ¸±·¹ÀÌ Äù½ºÆ® ¾ÆÀÌÅÛ ------------------
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 7730#Mission Certificate 1#
 7731#Mission Certificate 2#
 7732#Mission Certificate 3#
@@ -5887,7 +5887,7 @@
 17075#Empty Bottle 100 Box#
 17076#Empty Bottle 500 Box#
 
-//-----------------------------------------------ASPD Idn Independ Scroll < à»ÅÕèÂ¹ª×èÍà»ç¹ Lucky Free Scroll [December]
+//-----------------------------------------------ASPD Idn Independ Scroll < ï¿½ï¿½ï¿½ï¿½Â¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Lucky Free Scroll [December]
 
 17245#Lucky Free Scroll#
 12684#Aspd Potion#
@@ -6715,7 +6715,6 @@
 19985#Headgear#
 19986#Hat#
 19987#Hat#
-19988#Hairband#
 19989#Accessory#
 19990#Hat#
 19991#Hat#
@@ -7638,7 +7637,6 @@
 31436#Headgear#
 20451#Headgear#
 
-19326#Headgear#
 20312#Headgear#
 20315#Headgear#
 20405#Headgear#
@@ -7745,7 +7743,7 @@
 31837#Headgear#
 9861#Mermaid Treasure#
 22770#Grilled_Shark_Skewer#
-23330#Inf. Giant Fly Wing Box (1 d.)#
+23330#Inf. Giant Fly Wing Box (1 h.)#
 23023#Infinite Giant Fly Wing#
 31039#Crown of Legendary Outlaw#
 31293#Crown of Glory#
@@ -7814,3 +7812,18 @@
 31455#Headgear#
 31254#Headgear#
 9921#Wild Treasure#
+
+31368#Costume Headgear#
+14226#Quagmire Scroll Box#
+9684#Elemental Treasure#
+14594#Quagmire Scroll#
+19326#Headgear#
+19988#Headgear#
+20448#Accessory#
+20725#Garment#
+31395#Accessory#
+31496#Headgear#
+31803#Accessory#
+31885#Accessory#
+9922#Elemental_Box#
+23009#Job Manual (24 h.)#

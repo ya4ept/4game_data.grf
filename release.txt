@@ -1,3 +1,25 @@
+19.08.2020 12:49
+[CM] Godfather
+The maintenance has been finished, the server is online. Changelog:
+
+Events:
+— Daily attendance rewards will be available from 19.08 until 15.09 with new consumables and unique costume as a final reward;
+— The Eternal Hunt will last until the 16.09.
+— Black market auction will be hosted in Prontera on 21st of August, with the extra rare Aura of Wisdom as a lot;
+— The new PvP Constellation season of Virgo will be active until the 23rd of September.
+
+Shop:
+— Elemental treasure will be available in the Shop and 4Game launcher both in sets and individually until the 26th of August.
+— Daily Premium Coupon has been added to the shop for €0.99.
+
+
+Finished activities:
+— Bravery Bag, Golden Angel Hairband and Wings were removed at the Shop and 4Game Launcher
+— High refinement rates were turned off and set back to standard.
+
+https://eu.4gameforum.com/threads/677987/
+
+================
 12.08.2020 12:20
 [CM] Godfather
 The maintenance has been finished, the server is online. Changelog:
