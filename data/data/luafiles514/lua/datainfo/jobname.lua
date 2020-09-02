@@ -4214,5 +4214,6 @@ JobNameTable = {
 	[jobtbl.JT_EVT_POPORING] = "Poporing",
 	[jobtbl.JT_EVT_LUNATIC] = "Lunatic",
 	[jobtbl.JT_EVT_FABRE] = "Fabre",
-	[jobtbl.JT_EVT_WILOW] = "Wilow"
+	[jobtbl.JT_EVT_WILOW] = "Wilow",
+	[jobtbl.JT_EVT_DUSTINESS] = "DUSTINESS"
 }
