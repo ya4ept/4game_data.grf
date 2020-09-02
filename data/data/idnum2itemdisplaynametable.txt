@@ -2154,7 +2154,7 @@
 //------30 kinds of dish
 
 12041#Fried Grasshopper Legs#
-12042#easoned Sticky Webfoot #
+12042#Seasoned Sticky Webfoot #
 12043#Bomber Steak#
 12044#Herb Marinade Beef#
 12045#Lutie Lady's Pancake#
@@ -2259,11 +2259,11 @@
 7420#Skull#
 
 //-------------------new quest item
-7421#Key Red#
-7422#Key Yellow#
-7423#Key Blue#
-7424#Key Green#
-7425#Key Black#
+7421#Red Key#
+7422#Yellow Key#
+7423#Blue Key#
+7424#Green Key#
+7425#Black Key#
 7426#Magic Gem Red#
 7427#Magic Gem Yellow#
 7428#Magic Gem Blue#
@@ -2277,10 +2277,10 @@
 //-------------------3:P1b item
 
 7435#Golden Bracelet#
-7436#Piece Of Memory Green#
-7437#Piece Of Memory Purple#
-7438#Piece Of Memory Blue#
-7439#Piece Of Memory Red#
+7436#Fragment of Agony#
+7437#Fragment of Misery#
+7438#Fragment of Hatred#
+7439#Fragment of Despair#
 7440#Red Feather#
 7441#Blue Feather#
 7442#Cursed Seal#
@@ -2291,7 +2291,7 @@
 7447#Dragonball Red#
 7448#Dragonball Yellow#
 7449#Bloody Page#
-7450#Piece Of Bone Armor#
+7450#Skeletal Armor Piece#
 7451#Scale Of Red Dragon#
 7452#Yellow Spice#
 7453#Sweet Sauce#
@@ -5558,7 +5558,7 @@
 
 18683#Carrot In Mouth#
 18665#Orange In Mouth#
-18666#CD In Mouth#
+18666#Facial CD#
 9052#Incubus Egg#
 9045#Whisper Egg#
 
@@ -6459,7 +6459,6 @@
 19930#Costume Angel Silk Hat#
 19928#Costume Gothic Heartwing Hairband#
 19924#Costume Odin Mask#
-19871#Costume Musical Decoration#
 18917#Lovelove Balloon#
 18892#UFO Poring Hat#
 18895#Heavenly Dark Flame#
@@ -7213,7 +7212,7 @@
 22658#Braised ShortRibs#
 14562#Tentacle Cheese Soup#
 14565#Ice Blended Fruits#
-14568#Sugar Special#
+14568#Fried Sweet Potatoes#
 12266#Sesame Pastry#
 12267#Honey Pastry#
 12268#Rainbow Cake#
@@ -7499,7 +7498,7 @@
 7535#Kunlun Completed Photo Album#
 7536#Louyang Completed Photo Album#
 7537#Ayothaya Completed Photo Album#
-12143#Coca-Cola#
+12143#Coca Cola#
 7540#Lotto Ball 39#
 7541#Lotto Ball 40#
 7542#Lotto Ball 41#
@@ -8001,7 +8000,7 @@
 5415#Poring Cake Hat#
 5416#Beer Cap#
 14296#Angel Scroll#
-7922#RWC Event Ticket#
+7922#Unknown area pass#
 5418#Soldier Hat#
 14300#Mask Of Ifrit Box#
 14301#Ear Of Ifrit Box#
@@ -8934,3 +8933,23 @@
 23009#Job Manual (24 h.)#
 14594#Quagmire Scroll#
 19728#Zonda Doll#
+
+31079#Deep Sea Ponytail Wig#
+31080#Fiery Ponytail Wig#
+31081#Electric Ponytail Wig#
+31082#Green Lime Ponytail Wig#
+31083#Black Ponytail Wig#
+31084#Arctic Ponytail Wig#
+31085#Mahogany Ponytail Wig#
+31086#Purple Rain Ponytail Wig#
+
+19814#Tricolour Afro#
+19871#Dancing Notes#
+20440#Frozen Sounds#
+20487#Floral Waltz#
+31324#DJ Kitty's Headphones#
+31518#Popcorn Hat#
+31736#Popcorn Wig#
+19775#Marvelous Afro#
+9925#Party Treasure#
+20129#Poporing Hat#

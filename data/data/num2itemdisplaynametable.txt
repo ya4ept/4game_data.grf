@@ -5506,7 +5506,7 @@
 
 18683#Accessory#
 18665#Accessory#
-18666#Accessory#
+18666#Headgear#
 9052#Incubus Egg#
 9045#Whisper Egg#
 
@@ -6404,7 +6404,6 @@
 19930#Hat#
 19928#Hairband#
 19924#Helm#
-19871#Hat#
 18917#Accessory#
 18892#Hat#
 18895#Accessory#
@@ -7827,3 +7826,26 @@
 31885#Accessory#
 9922#Elemental_Box#
 23009#Job Manual (24 h.)#
+
+31079#Accessory#
+31080#Accessory#
+31081#Accessory#
+31082#Accessory#
+31083#Accessory#
+31084#Accessory#
+31085#Accessory#
+31086#Accessory#
+
+19814#Headgear#
+19871#Accessory#
+20440#Accessory#
+20487#Accessory#
+31324#Headgear#
+31518#Headgear#
+31736#Headgear#
+19775#Headgear#
+9925#Party Treasure#
+12143#Coca Cola#
+5487#Headgear#
+20129#Accessory#
+5318#Headgear#

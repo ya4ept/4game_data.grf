@@ -948,3 +948,4 @@ march8.rsw#Orc pocket #
 epay_fild04.rsw#Unknown area#
 pvp_novice.rsw#Battle waiting room#
 epay_fild01.rsw#Unknown area#
+euno_fild01.rsw#Unknown area#

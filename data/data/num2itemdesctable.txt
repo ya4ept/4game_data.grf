@@ -25155,7 +25155,7 @@ placeholder
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5318#
-placeholder
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5320#
 placeholder
@@ -34462,16 +34462,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777Dancer^000000
 #
 20129#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A straight bladed sword that can be brutally swung just like a baseball bat.  
-^CC0000This item is not Refinable^000000
-Class :^777777Two-handed Sword^000000
-Attack Strength: ^777777136^000000
-Weight: ^777777160^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordsman Class^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20130#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -44347,13 +44338,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
-19814#
-Wig with Yellow, Orange and Gold
-Class: ^77777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LVL: ^7777771^000000
-Job: ^777777All^000000
-#
 19815#
 Ten gallon hat gets along with Lolita fashion
 Class: ^777777Costume^000000
@@ -44875,13 +44859,6 @@ Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
-#
-19775#
-A funky afro wig that is so so popular to teenagers! You can dance disco with it any time!
-Class: ^777777Costume^000000
-Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
 #
 19819#
 A hood for Necromencers wearing at their evil worships.
@@ -54254,4 +54231,106 @@ Weight: ^7777771^000000
 #
 19728#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31079#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31080#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31081#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31082#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31083#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31084#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31085#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31086#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19814#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19871#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20440#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20487#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31324#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31518#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31736#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19775#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9925#
+A mysterious, bewitching melody flows from the depths of this casket.
+You are ready to listen to this music forever.
+^ffffff_^000000
+Open to obtain one of the following items:
+Dancing Notes
+Floral Waltz
+Frozen Sounds
+DJ Kitty's Headphone
+Popcorn Hat
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Popcorn Wig
+Tricolour Afro
+Marvelous Afro
+Inf. Giant Fly Wing Box (1 h.)
+Facial CD
+Deviling Party Hat
+Bloody Branch x3
+HE Battle Manual x2
+HE Bubble Gum x2
+Infinite Berserk Potion Box
+Enriched Elunium x2
+Enriched Oridecon x2
+Coca Cola x35
+Token of Ziegfried x7
+Guyak Pudding x35
+Infinite Awakening Potion Box
+Kafra Card x12
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Infinite Berserk Potion
+Cool Summer Outfit x5
+Rune-Midgard Wing x15
+Ancient City Wing x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Blessing of Tyr x9
+Cup of Boza x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12143#
+A tub of fizzy cold cola.
+It's so refreshing!
+Restores 25% HP
+Restores 25% SP
+^FFFFFF ^000000
+Weight: ^7777773^000000
 #
