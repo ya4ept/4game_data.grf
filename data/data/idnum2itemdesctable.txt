@@ -26269,18 +26269,17 @@ Jobs: ^777777All except Novice^000000
 #
 //--------------------------------------------------------------------------
 5208#
+^ff0000Account bound^000000
 A hat designed to mimic the look of a terrible magic book which attacks people.
-When physically melee attacking, there is a 5% chance to recover 8% of your damage as HP.
-When physically melee attacking, there is a 1% chance to recover 4% of your damage as SP.
+When physically melee attacking, there is a chance to recover 8% of your damage as HP.
+When physically melee attacking, there is a chance to recover 4% of your damage as SP.
 Drains 10 HP every 5 seconds while equipped.
-^ffffff_^000000
-^ff0000If refined to +9 or higher, the HP and SP recovery is doubled^000000
 Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777773^000000
 Weight: ^77777730^000000
-Level: ^77777740^000000
+Level: ^7777771^000000
 Job: ^777777All^000000
 #
 //--------------------------------------------------------------------------
@@ -28825,6 +28824,7 @@ Weight: ^7777777^000000
 12132#
 A small red bag that magically changes your clothes into a ^000088Santa Suit^000000 for 10 min.
 Increases movement speed for 10 min.
+^FF0000Warning: Do not wear this clothing for battle; it is designed for christmas party.^000000
 ^ffffff_^000000
 Weight: ^77777720^000000
 #
@@ -84609,7 +84609,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 25256#
-^ff0000Account bound^000000
 A fragment of crystallized spiritual imprint. It works like a mirror, reflecting the image of a lost memory.
 Weight: ^7777771^000000
 #
