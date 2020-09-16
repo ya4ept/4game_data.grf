@@ -7849,3 +7849,15 @@
 5487#Headgear#
 20129#Accessory#
 5318#Headgear#
+19915#Headgear#
+20460#Headgear#
+20464#Headgear#
+20530#Garment#
+20597#Garment#
+31530#Headgear#
+31708#Headgear#
+9931#Gothic Treasure#
+
+31188#Headgear#
+31190#Headgear#
+31848#Headgear#

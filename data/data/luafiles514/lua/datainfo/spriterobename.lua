@@ -86,7 +86,10 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Papilio_Ulysses_Feather] = "C_Papilio_Ulysses_Feather",
 	[SPRITE_ROBE_IDs.ROBE_C_Blessed_Veil] = "C_Blessed_Veil",
 	[SPRITE_ROBE_IDs.ROBE_C_Leaf_Umbrella] = "C_Leaf_Umbrella",
-	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW"
+	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_CAPOO_Bag_TW] = "C_CAPOO_Bag_TW",
+	[SPRITE_ROBE_IDs.ROBE_Ten_G_Shield_TW] = "Ten_G_Shield_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -176,7 +179,10 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Papilio_Ulysses_Feather] = "C_Papilio_Ulysses_Feather",
 	[SPRITE_ROBE_IDs.ROBE_C_Blessed_Veil] = "C_Blessed_Veil",
 	[SPRITE_ROBE_IDs.ROBE_C_Leaf_Umbrella] = "C_Leaf_Umbrella",
-	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW"
+	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_CAPOO_Bag_TW] = "C_CAPOO_Bag_TW",
+	[SPRITE_ROBE_IDs.ROBE_Ten_G_Shield_TW] = "Ten_G_Shield_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,

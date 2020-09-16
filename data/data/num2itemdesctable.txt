@@ -30387,7 +30387,9 @@ Weight: ^7777770^000000
 17114#Ancient_Horns_Box#
 17115#Sprout_Hat_Box#
 17116#Mercury_Riser_Box#
-18595#Ancient_Horns#
+18595#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
 18596#Sprout_Hat#
 18597#Mercury_Riser#
 17119#Premium_Hat_Box#
@@ -30407,14 +30409,12 @@ Weight: ^7777770^0000
 These points can be exchanged for various goods and services.
 Weight: ^7777770^0000
 #
-
 18621#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18611#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
 12391#
 A very cute egg scroll. It feels so fancy that makes you expect something from it.
 Weight: ^7777771^000000
@@ -47634,10 +47634,7 @@ Job: ^777777All Jobs^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20155#
-Class: ^777777Costume_Equipment^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Lv.: ^7777771^000000
-Job: ^777777All Jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20156#
 Class: ^777777Costume_Equipment^000000 Defense: ^7777770^000000
@@ -50385,11 +50382,7 @@ Job: ^777777All^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19915#
-Young and growing devil's horn.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31118#
 A mask worn by a group of eastern assassins. It's shaped like a skull to notify targets of their imminent death.
@@ -54333,4 +54326,72 @@ Restores 25% HP
 Restores 25% SP
 ^FFFFFF ^000000
 Weight: ^7777773^000000
+#
+9931#
+Decorated with flashy black wings and a royal lily, this box is bound to have something classy inside.
+Are you ready to go in style?
+^ffffff_^000000
+Touch the lily to obtain one of the following items:
+Grim Reaper's Scythe
+Gabriel's Wings
+Demon Lord's Helm
+Skull Ribbon
+Lady's Feather Hat
+Bramble Hairband
+Silvervine x666
+Young Demon's Horns
+Monochrome Ribbon Hat
+Inf. Giant Fly Wing Box (1 h.)
+Ancient Horns
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Bubblegum Battle Manual x2
+Bloody Branch x3
+Ghostring Scroll x9
+Guyak Pudding x30
+Evasion Scroll x12
+Convex Mirror x6
+Deviruchi Transformation Scroll x9
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Steamed Pork Ribs x30
+Rune-Midgard Wing x15
+Ancient City Wing x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20460#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20464#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20530#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20597#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31530#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31708#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31188#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31190#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31848#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

@@ -133,9 +133,59 @@ HatEFID = {
 	HAT_EF_C_Magic_Heir_TW = 132,
 	HAT_EF_C_Sudden_Wealth_TW = 133,
 	HAT_EF_C_Romance_Rose_TW = 134,
-	HAT_EF_C_Disapear_Time_TW = 135
+	HAT_EF_C_Disapear_Time_TW = 135,
+	HAT_EF_2020RTC_01 = 136,
+	HAT_EF_2020RTC_02 = 137,
+	HAT_EF_2020RTC_03 = 138,
+	HAT_EF_C_2020RTC_Imp_TW = 139,
+	HAT_EF_SUBJECT_AURA_BLACK = 140,
+	HAT_EF_2020RTC_EFFECT_01 = 141,
+	HAT_EF_2020RTC_EFFECT_02 = 142,
+	HAT_EF_2020RTC_EFFECT_03 = 143,
+	HAT_EF_99LV_STAR_E_MBLUE = 144,
+	HAT_EF_160LV_STAR_E_MBLUE = 145,
+	HAT_EF_99LV_SOUL_R_GRAY = 146,
+	HAT_EF_160LV_SOUL_R_GRAY = 147
 }
 hatEffectTable = {
+	[HatEFID.HAT_EF_2020RTC_01] = {
+		resourceFileName = "2020RTC_01\\mcgold.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isEffectPair = true,
+		hatEffectID = 1211
+	},
+	[HatEFID.HAT_EF_2020RTC_02] = {
+		resourceFileName = "2020RTC_02\\mcblack.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_2020RTC_03] = {
+		resourceFileName = "2020RTC_03\\mcred.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_C_2020RTC_Imp_TW] = {
+		resourceFileName = "C_2020RTC_Imp_TW\\mc.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
 		resourceFileName = "efst_blossom_fluttering\\sakura.str",
 		hatEffectPos = -4,
@@ -163,7 +213,9 @@ hatEffectTable = {
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true
+		isAdjustSizeWhenShrinkState = true,
+		isEffectPair = true,
+		hatEffectID = 203
 	},
 	[HatEFID.HAT_EF_CLOCKING] = { hatEffectID = 120 },
 	[HatEFID.HAT_EF_SNOW] = { hatEffectID = 162 },
@@ -374,6 +426,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_SUBJECT_AURA_GOLD] = { hatEffectID = 1211 },
 	[HatEFID.HAT_EF_SUBJECT_AURA_WHITE] = { hatEffectID = 1212 },
 	[HatEFID.HAT_EF_SUBJECT_AURA_RED] = { hatEffectID = 1213 },
+	[HatEFID.HAT_EF_SUBJECT_AURA_BLACK] = { hatEffectID = 2285 },
 	[HatEFID.HAT_EF_C_Shining_Angel_Wing] = {
 		resourceFileName = "efst_C_Shining_Angel_Wing\\C_Shining_Angel_Wing.str",
 		hatEffectPos = -8,
@@ -445,6 +498,7 @@ hatEffectTable = {
 		hatEffectPos = -10,
 		hatEffectPosX = 0,
 		isIgnoreRiding = true,
+		isRenderBeforeCharacter = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
@@ -582,7 +636,11 @@ hatEffectTable = {
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
-	}
+	},
+	[HatEFID.HAT_EF_99LV_STAR_E_MBLUE] = { hatEffectID = 2281 },
+	[HatEFID.HAT_EF_160LV_STAR_E_MBLUE] = { hatEffectID = 2282 },
+	[HatEFID.HAT_EF_99LV_SOUL_R_GRAY] = { hatEffectID = 2283 },
+	[HatEFID.HAT_EF_160LV_SOUL_R_GRAY] = { hatEffectID = 2284 }
 }
 effectHatItemTable = {
 	20285,
@@ -620,7 +678,8 @@ effectHatItemTable = {
 	20538,
 	31768,
 	400073,
-	20547
+	20547,
+	20548
 }
 
 -- Function #0
@@ -747,4 +806,15 @@ IsIgnoredRidingState_Include_AttachedToHead = function(index)
 		return false
 	end
 	return hatEfTbl.isIgnoreRiding
+end
+
+-- Function #11
+GetIsEffectPair = function(index)
+	local hatEfTbl = hatEffectTable[index]
+	if nil == hatEfTbl then
+		return false
+	elseif nil == hatEfTbl.isEffectPair then
+		return false
+	end
+	return hatEfTbl.isEffectPair
 end
