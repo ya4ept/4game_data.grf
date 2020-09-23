@@ -8473,3 +8473,16 @@
 31736#Popcorn_hair#
 19775#놀라운가발#
 9925#레인보우스크롤#
+
+19915#소악마의작은뿔#
+20460#가시나무헤어밴드#
+20464#모노크롬리본햇#
+20530#C_Wings_of_Gabriel#
+20597#C_Evil_Scythe#
+31530#Greater_Dracul_Horn#
+31708#C_Gothic_Skull_Ribbon#
+9931#천상스크롤#
+
+31188#Mono_Gothic_Bonnet#
+31190#Angel_Mini_Silk_Hat_B#
+31848#C_Rose_Gothic_Bonnet#

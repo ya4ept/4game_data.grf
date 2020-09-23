@@ -83,5 +83,11 @@ SPRITE_ROBE_IDs = {
 	ROBE_Calabash = 82,
 	ROBE_C_Sakura_Wing = 83,
 	ROBE_C_Seraphim_Wing_TW = 84,
-	ROBE_C_Papilio_Ulysses_Feather = 85
+	ROBE_C_Papilio_Ulysses_Feather = 85,
+	ROBE_C_Blessed_Veil = 86,
+	ROBE_C_Leaf_Umbrella = 87,
+	ROBE_C_Sandalphon_Wing_TW = 88,
+	ROBE_C_CAPOO_Bag_TW = 89,
+	ROBE_Ten_G_Shield_TW = 90,
+	ROBE_C_Baldr_Wing_TW = 91
 }

@@ -60,8 +60,8 @@ HatEFID =
 	HAT_EF_Qscaraba = 54,
 	HAT_EF_FSTONE = 55,
 	HAT_EF_Magiccircle = 56,
-	HAT_EF_GodClass = 57,
-	HAT_EF_GodClass2 = 58,
+	HAT_EF_Brysinggamen = 57,
+	HAT_EF_Magingiorde = 58,
 	HAT_EF_LEVEL99_RED = 59,
 	HAT_EF_LEVEL99_ULTRAMARINE = 60,
 	HAT_EF_LEVEL99_CYAN = 61,
@@ -91,33 +91,146 @@ HatEFID =
 	HAT_EF_C_Shining_Angel_Wing = 85,
 	HAT_EF_Magic_Star_TW = 86,
 	HAT_Digital_Space = 87,
+	HAT_EF_Sleipnir = 88,
+	HAT_EF_C_Maple_Which_Falls_Rd = 89,	
+	HAT_EF_MagiccircleRainbow = 90,
+	HAT_EF_SnowFlake_Tiara = 91,
+	HAT_EF_Midgarts_Glory = 92,
+	HAT_EF_LEVEL99_TIGER = 93,
+	HAT_EF_LEVEL160_TIGER = 94,
+	HAT_EF_FluffyWing = 95,
+	HAT_EF_C_Ghost_Effect = 96,	
+	HAT_EF_C_Popping_Poring_Aura = 97,	
+	HAT_EF_ResonateTaego = 98,
+	HAT_EF_99LV_Rune_Red = 99,
+	HAT_EF_99LV_Royal_Guard_Blue = 100,
+	HAT_EF_99LV_Warlock_Violet = 101,
+	HAT_EF_99LV_Sorcerer_LBlue = 102,		
+	HAT_EF_99LV_Ranger_Green = 103,
+	HAT_EF_99LV_Minstrel_Pink = 104,
+	HAT_EF_99LV_Archbishop_White = 105,
+	HAT_EF_99LV_Guill_Silver = 106,
+	HAT_EF_99LV_ShadowC_Black = 107,
+	HAT_EF_99LV_Mechanic_Gold = 108,	
+	HAT_EF_99LV_Genetic_YGreen = 109,
+	HAT_EF_160LV_Rune_Red = 110,
+	HAT_EF_160LV_Royal_G_Blue = 111,
+	HAT_EF_160LV_Warlock_Violet = 112,
+	HAT_EF_160LV_Sorcerer_LBlue = 113,
+	HAT_EF_160LV_Ranger_Green = 114,
+	HAT_EF_160LV_Minstrel_Pink = 115,
+	HAT_EF_160LV_Archb_White = 116,
+	HAT_EF_160LV_Guill_Silver = 117,
+	HAT_EF_160LV_ShadowC_Black = 118,
+	HAT_EF_160LV_Mechanic_Gold = 119,
+	HAT_EF_160LV_Genetic_YGreen = 120,	
+	HAT_EF_WATER_BELOW3 = 121,
+	HAT_EF_WATER_BELOW4 = 122,
+	HAT_EF_C_Valkyrie_Wing = 123,
+	HAT_EF_2019RTC_CeleAura_TW = 124,
+	HAT_EF_2019RTC1ST_TW = 125,
+	HAT_EF_2019RTC2ST_TW = 126,
+	HAT_EF_2019RTC3ST_TW = 127,
+	HAT_EF_CONS_OF_WIND = 128,
+	HAT_EF_Maple_Falls = 129,
+	HAT_EF_BJ_HeadsetB = 130,
+	HAT_EF_VIP_Hair = 131,
+	HAT_EF_C_Magic_Heir_TW = 132,
+	HAT_EF_C_Sudden_Wealth_TW = 133,
+	HAT_EF_C_Romance_Rose_TW = 134,
+	HAT_EF_C_Disapear_Time_TW = 135,
+	HAT_EF_2020RTC_01 = 136,
+	HAT_EF_2020RTC_02 = 137,
+	HAT_EF_2020RTC_03 = 138,
+	HAT_EF_C_2020RTC_Imp_TW = 139,
+	HAT_EF_SUBJECT_AURA_BLACK = 140,
+	HAT_EF_2020RTC_EFFECT_01 = 141,
+	HAT_EF_2020RTC_EFFECT_02 = 142,
+	HAT_EF_2020RTC_EFFECT_03 = 143,
+	HAT_EF_99LV_STAR_E_MBLUE = 144,
+	HAT_EF_160LV_STAR_E_MBLUE = 145,
+	HAT_EF_99LV_SOUL_R_GRAY = 146,
+	HAT_EF_160LV_SOUL_R_GRAY = 147,
 	}
  
 hatEffectTable = 
 {
+	[HatEFID.HAT_EF_2020RTC_01] =                            -- 상단
+	{
+		resourceFileName = [=[2020RTC_01\mcgold.str]=],   -- 이펙트 폴더 및 str 위치
+		hatEffectPos = -11,                                              -- 이펙트 위치로 상하 조절만 가능
+		hatEffectPosX = 0,                                              -- 이펙트 위치로 좌우로 조절. (빌드 필요)
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,	-- 캐릭터보다 먼저 그려져야 하는 이팩트일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isEffectPair = true,
+		hatEffectID = 1211,
+	},
+	[HatEFID.HAT_EF_2020RTC_02] =                            -- 상단
+	{
+		resourceFileName = [=[2020RTC_02\mcblack.str]=],   -- 이펙트 폴더 및 str 위치
+		hatEffectPos = -11,                                              -- 이펙트 위치로 상하 조절만 가능
+		hatEffectPosX = 0,                                              -- 이펙트 위치로 좌우로 조절. (빌드 필요)
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,	-- 캐릭터보다 먼저 그려져야 하는 이팩트일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+	},
+	[HatEFID.HAT_EF_2020RTC_03] =                            -- 상단
+	{
+		resourceFileName = [=[2020RTC_03\mcred.str]=],   -- 이펙트 폴더 및 str 위치
+		hatEffectPos = -11,                                              -- 이펙트 위치로 상하 조절만 가능
+		hatEffectPosX = 0,                                              -- 이펙트 위치로 좌우로 조절. (빌드 필요)
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,	-- 캐릭터보다 먼저 그려져야 하는 이팩트일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+	},
+	[HatEFID.HAT_EF_C_2020RTC_Imp_TW] =                            -- 상단
+	{
+		resourceFileName = [=[C_2020RTC_Imp_TW\mc.str]=],   -- 이펙트 폴더 및 str 위치
+		hatEffectPos = -11,                                              -- 이펙트 위치로 상하 조절만 가능
+		hatEffectPosX = 0,                                              -- 이펙트 위치로 좌우로 조절. (빌드 필요)
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,	-- 캐릭터보다 먼저 그려져야 하는 이팩트일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+	},
 	[HatEFID.HAT_EF_Blossom_Fluttering] =                            -- 하단
 	{
 		resourceFileName = [=[efst_blossom_fluttering\sakura.str]=],   -- 이펙트 폴더 및 str 위치
 		hatEffectPos = -4,                                              -- 이펙트 위치로 상하 조절만 가능
 		hatEffectPosX = 1,                                              -- 이펙트 위치로 좌우로 조절. (빌드 필요)
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_MERMAID_LONGING] =
 	{
 		resourceFileName = [=[efst_mermaid_loging\bubblebubble.str]=],
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
+		effectsizeAdjustment = 0, -- 0이면 조정하지 않고 1이면 조정. 
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_rl_banishing_buster] =
 	{
 		resourceFileName = [=[rl_banishing_buster\vanishing1.str]=],
 		hatEffectPos = -10,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_LJOSALFAR] =
 	{
 		resourceFileName = [=[efst_ljosalfar\ljosalfar.str]=],
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isEffectPair = true,
+		hatEffectID = 203,
 	},
 	[HatEFID.HAT_EF_CLOCKING] = 
 	{
@@ -152,6 +265,8 @@ hatEffectTable =
 		resourceFileName = [=[efst_Flutter_Butterfly\Flutter_Butterfly.str]=],
 		hatEffectPos = -8,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 
 	[HatEFID.HAT_EF_Angel_Fluttering] =
@@ -159,6 +274,8 @@ hatEffectTable =
 		resourceFileName = [=[efst_Angel_Fluttering\Angel_Fluttering.str]=],
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 
 	[HatEFID.HAT_EF_Blessing_Of_Angels] =
@@ -166,6 +283,9 @@ hatEffectTable =
 		resourceFileName = [=[efst_blessing_of_angels\tensi3.str]=],
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Electric] =
 	{
@@ -184,18 +304,24 @@ hatEffectTable =
 		resourceFileName = [=[efst_valhalla_idol\odl2.str]=],
 		hatEffectPos = -10,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Angel_Stairs] =
 	{
 		resourceFileName = [=[cloudh.str]=],
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Glow_Of_New_Year] =
 	{
 		resourceFileName = [=[efst_GlowOfNewYear\halo.str]=],
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_BOTTOM_FORTUNEKISS] =
 	{
@@ -245,10 +371,6 @@ hatEffectTable =
 	{
 		hatEffectID = 1013,
 	},
-	[HatEFID.HAT_EF_STRANGELIGHTS] =
-	{
-		hatEffectID = 1035,
-	},
 	[HatEFID.HAT_EF_WL_TELEKINESIS_INTENSE] =
 	{
 		hatEffectID = 1048,
@@ -274,12 +396,16 @@ hatEffectTable =
 		resourceFileName = [=[efst_feather_fluttering\feath.str]=],
 		hatEffectPos = -4,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Camellia_Hair_Pin] =
 	{
 		resourceFileName = [=[efst_flowersmoke\flowersmoke.str]=],
 		hatEffectPos = -8,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Jp_Ev_Effect01] =
 	{
@@ -298,12 +424,16 @@ hatEffectTable =
 		resourceFileName = [=[efst_Floral_Waltz\Floral_Waltz.str]=],
 		hatEffectPos = -8,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_magical_feather] =
 	{
 		resourceFileName = [=[efst_magical_feather\magical_feather.str]=],
 		hatEffectPos = -5,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_HAT_EFFECT] =
 	{
@@ -318,6 +448,8 @@ hatEffectTable =
 		resourceFileName = [=[efst_Gold_Shower\coin2.str]=],
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_WHITEBODY] =
 	{
@@ -325,45 +457,55 @@ hatEffectTable =
 	},
 	[HatEFID.HAT_EF_WATER_BELOW2] =
 	{
-		resourceFileName = [=[efst_WATER_BELOW\WATER_BELOW.str]=],
-		hatEffectPos = -10,
-		hatEffectPosX = 0,
+		hatEffectID = 838,
 	},
 	[HatEFID.HAT_EF_firework] =
 	{
 		resourceFileName = [=[efst_firework\firework.str]=],
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Return_TW_1st_Hat] =
 	{
 		resourceFileName = [=[EFST_Return_TW_1st_Hat\tensi3.str]=],
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_C_FlutterButterfly_BL] =
 	{
 		resourceFileName = [=[efst_FlutterButterfly_BL\Flutter_Butterfly.str]=],
 		hatEffectPos = -8,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Qscaraba] =
 	{
 		resourceFileName = [=[EFST_Qscaraba\Qscaraba.str]=],
-		hatEffectPos = 0,
+		hatEffectPos = -4,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_STRANGELIGHTS] =
 	{
 		resourceFileName = [=[efst_STRANGELIGHTS\strangelights.str]=],
 		hatEffectPos = -4,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_FSTONE] =
 	{
 	   resourceFileName = [=[efst_fstone\fstone.str]=],
 	   hatEffectPos = -6,
 	   hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_Magiccircle] =
 	{
@@ -372,12 +514,14 @@ hatEffectTable =
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,	-- 캐릭터보다 먼저 그려져야 하는 이팩트일때
 		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
-	[HatEFID.HAT_EF_GodClass] =
+	[HatEFID.HAT_EF_Brysinggamen] =
 	{
 		hatEffectID = 1193,
 	},
-	[HatEFID.HAT_EF_GodClass2] =
+	[HatEFID.HAT_EF_Magingiorde] =
 	{
 		hatEffectID = 1194,
 	},
@@ -463,25 +607,27 @@ hatEffectTable =
 	},
 	[HatEFID.HAT_EF_Full_BloomCherry_Tree] =
 	{
-		hatEffectID = 1184,
-	},
-	[HatEFID.HAT_EF_Full_BloomCherry_Tree] =
-	{
 		resourceFileName = [=[efst_Full_BloomCherry_Tree\Full_BloomCherry_Tree.str]=],
-		hatEffectPos = 0,
+		hatEffectPos = -6,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_C_Blessings_Of_Soul] =
 	{
-		resourceFileName = [=[efst_C_Blessings_Of_Soul\ blessingsofsoul.str]=],
-		hatEffectPos = 0,
+		resourceFileName = [=[efst_C_Blessings_Of_Soul\blessingsofsoul.str]=],
+		hatEffectPos = -8,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_EF_ManyStars] =
 	{
 		resourceFileName = [=[efst_ManyStars\hikariga.str]=],
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 
 	[HatEFID.HAT_EF_SUBJECT_AURA_GOLD] =
@@ -496,25 +642,350 @@ hatEffectTable =
 	{
 		hatEffectID = 1213,
 	},
-	[HatEFID.HAT_EF_C_Shining_Angel_Wing] =
+	[HatEFID.HAT_EF_SUBJECT_AURA_BLACK] =
 	{
-		resourceFileName = [=[efst_C_Shining_Angel_Wing\C_Shining_Angel_Wing.str]=],
-		hatEffectPos = 0,
-		hatEffectPosX = 0,
+		hatEffectID = 2285,
 	},
+
+  [HatEFID.HAT_EF_C_Shining_Angel_Wing] =
+  {
+        resourceFileName = [=[efst_C_Shining_Angel_Wing\C_Shining_Angel_Wing.str]=],
+        hatEffectPos = -8,
+        hatEffectPosX = 0,
+        isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+  },
 	[HatEFID.HAT_EF_Magic_Star_TW] =
 	{
 		resourceFileName = [=[efst_Mstone\stoneofint2.str]=],
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
 	},
 	[HatEFID.HAT_Digital_Space] =
 	{
 		hatEffectID = 1240,
 	},
+	[HatEFID.HAT_EF_Sleipnir] =
+	{
+		hatEffectID = 1241,
+	},
+	[HatEFID.HAT_EF_C_Maple_Which_Falls_Rd] =
+	{
+		resourceFileName = [=[efst_C_Maple_Which_Falls_Rd\C_Maple_Which_Falls_Rd.str]=],
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_MagiccircleRainbow] =
+	{
+		resourceFileName = [=[efst_MagiccircleRainbow\mcr.str]=],
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,	-- 캐릭터보다 먼저 그려져야 하는 이팩트일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_SnowFlake_Tiara] =
+	{
+		resourceFileName = [=[efst_SnowFlake_Tiara\nnnaaa.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_Midgarts_Glory] =
+	{
+		resourceFileName = [=[efst_Midgarts_Glory\halo_2.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_LEVEL99_TIGER] =
+	{
+		hatEffectID = 1291,
+	},
+	[HatEFID.HAT_EF_LEVEL160_TIGER] =
+	{
+		hatEffectID = 1292,
+	},
+  [HatEFID.HAT_EF_FluffyWing] =
+  {
+        resourceFileName = [=[efst_FluffyWing\ypen.str]=],
+        hatEffectPos = -8,
+        hatEffectPosX = 0,
+        isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+  },
+	[HatEFID.HAT_EF_C_Ghost_Effect] =
+	{
+		resourceFileName = [=[efst_C_Ghost_Effect\C_Ghost_Effect.str]=],
+		hatEffectPos = -11,
+		hatEffectPosX = -1,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_C_Popping_Poring_Aura] =
+	{
+		resourceFileName = [=[efst_C_Popping_Poring_Aura\C_Popping_Poring_Aura.str]=],
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_ResonateTaego] =
+	{
+		resourceFileName = [=[efst_ResonateTaego\youmei.str]=],
+		hatEffectPos = -9,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_99LV_Rune_Red] =
+	{
+		hatEffectID = 1325,
+	},
+	[HatEFID.HAT_EF_99LV_Royal_Guard_Blue] =
+	{
+		hatEffectID = 1326,
+	},
+	[HatEFID.HAT_EF_99LV_Warlock_Violet] =
+	{
+		hatEffectID = 1327,
+	},
+	[HatEFID.HAT_EF_99LV_Sorcerer_LBlue] =
+	{
+		hatEffectID = 1328,
+	},
+	[HatEFID.HAT_EF_99LV_Ranger_Green] =
+	{
+		hatEffectID = 1329,
+	},
+	[HatEFID.HAT_EF_99LV_Minstrel_Pink] =
+	{
+		hatEffectID = 1330,
+	},
+	[HatEFID.HAT_EF_99LV_Archbishop_White] =
+	{
+		hatEffectID = 1331,
+	},
+	[HatEFID.HAT_EF_99LV_Guill_Silver] =
+	{
+		hatEffectID = 1332,
+	},
+	[HatEFID.HAT_EF_99LV_ShadowC_Black] =
+	{
+		hatEffectID = 1333,
+	},
+	[HatEFID.HAT_EF_99LV_Mechanic_Gold] =
+	{
+		hatEffectID = 1334,
+	},
+	[HatEFID.HAT_EF_99LV_Genetic_YGreen] =
+	{
+		hatEffectID = 1335,
+	},	
+	[HatEFID.HAT_EF_160LV_Rune_Red] =
+	{
+		hatEffectID = 1336,
+	},	
+	[HatEFID.HAT_EF_160LV_Royal_G_Blue] =
+	{
+		hatEffectID = 1337,
+	},
+	[HatEFID.HAT_EF_160LV_Warlock_Violet] =
+	{
+		hatEffectID = 1338,
+	},
+	[HatEFID.HAT_EF_160LV_Sorcerer_LBlue] =
+	{
+		hatEffectID = 1339,
+	},
+	[HatEFID.HAT_EF_160LV_Ranger_Green] =
+	{
+		hatEffectID = 1340,
+	},
+	[HatEFID.HAT_EF_160LV_Minstrel_Pink] =
+	{
+		hatEffectID = 1341,
+	},
+	[HatEFID.HAT_EF_160LV_Archb_White] =
+	{
+		hatEffectID = 1342,
+	},
+	[HatEFID.HAT_EF_160LV_Guill_Silver] =
+	{
+		hatEffectID = 1343,
+	},
+	[HatEFID.HAT_EF_160LV_ShadowC_Black] =
+	{
+		hatEffectID = 1344,
+	},
+	[HatEFID.HAT_EF_160LV_Mechanic_Gold] =
+	{
+		hatEffectID = 1345,
+	},
+	[HatEFID.HAT_EF_160LV_Genetic_YGreen] =
+	{
+		hatEffectID = 1346,
+	},
+  [HatEFID.HAT_EF_WATER_BELOW3] =
+  {
+        resourceFileName = [=[efst_Waterfield\waterfield2.str]=],
+        hatEffectPos = -10,
+        hatEffectPosX = 0,
+        isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+  },
+  [HatEFID.HAT_EF_WATER_BELOW4] =
+  {
+        resourceFileName = [=[efst_Waterfield2\waterfield3.str]=],
+        hatEffectPos = -10,
+        hatEffectPosX = 0,
+        isRenderBeforeCharacter = true,
+		    isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+  },
+	[HatEFID.HAT_EF_C_Valkyrie_Wing] =
+	{
+		hatEffectID = 1377,
+	},
 
+	[HatEFID.HAT_EF_2019RTC_CeleAura_TW] =	--대만 2019RTC 기념 오오라
+	{
+		resourceFileName = [=[efst_2019RTC_CeleAura_TW\poporingb.str]=],
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,	--캐릭터보다 먼저 그려져야 하는 이펙트 일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_2019RTC1ST_TW] =	--대만 2019RTC 1등 오오라
+	{
+		resourceFileName = [=[efst_2019RTC1ST_TW\kporingbg.str]=],
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,	--캐릭터보다 먼저 그려져야 하는 이펙트 일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_2019RTC2ST_TW] =	--대만 2019RTC 2등 오오라
+	{
+		resourceFileName = [=[efst_2019RTC2ST_TW\angelpo.str]=],
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,	--캐릭터보다 먼저 그려져야 하는 이펙트 일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_2019RTC3ST_TW] =	--대만 2019RTC 3등 오오라
+	{
+		resourceFileName = [=[efst_2019RTC3ST_TW\dringbg.str]=],
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,	--캐릭터보다 먼저 그려져야 하는 이펙트 일때
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_CONS_OF_WIND] =
+	{
+		hatEffectID = 1531,
+	},
+	[HatEFID.HAT_EF_Maple_Falls] =
+	{
+		resourceFileName = [=[efst_maple_falls\maple_falls.str]=],
+		hatEffectPos = -5,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_BJ_HeadsetB] =
+	{
+		resourceFileName = [=[BJ_HeadsetB\rhythmageruyo.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,	-- 라이딩시 위치 보정 취소
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_VIP_Hair] =
+	{
+		resourceFileName = [=[efst_VIP_Hair\rainbow_2.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = -0.4,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isAttachedHead = true,
+	},
+
+--대만 2020 유저 창작 아이템
+	[HatEFID.HAT_EF_C_Magic_Heir_TW] =
+	{
+		resourceFileName = [=[efst_C_Magic_Heir_TW\moonstar2.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_C_Sudden_Wealth_TW] =
+	{
+		resourceFileName = [=[efst_C_Sudden_Wealth_TW\wonbo.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+--대만 2020년 3월 유저 창작 아이템
+	[HatEFID.HAT_EF_C_Romance_Rose_TW] =
+	{
+		resourceFileName = [=[efst_C_Romance_Rose_TW\losttime.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_C_Disapear_Time_TW] =
+	{
+		resourceFileName = [=[efst_C_Disapear_Time_TW\cdhs.str]=],
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+	},
+	[HatEFID.HAT_EF_99LV_STAR_E_MBLUE] =
+	{
+		hatEffectID = 2281,
+	},
+	[HatEFID.HAT_EF_160LV_STAR_E_MBLUE] =
+	{
+		hatEffectID = 2282,
+	},
+	[HatEFID.HAT_EF_99LV_SOUL_R_GRAY] =
+	{
+		hatEffectID = 2283,
+	},
+	[HatEFID.HAT_EF_160LV_SOUL_R_GRAY] =
+	{
+		hatEffectID = 2284,
+	},
 }
-
 effectHatItemTable =
 {
 	20285,
@@ -542,7 +1013,20 @@ effectHatItemTable =
 	20600,
 	20515,
 	31391,
+	31602,
+	19416,
+	19433,
+	20535,
+	31316,
+	20519,
+	410006,
+	20538,
+	31768,
+	400073,
+	20547,
+	20548,
 }
+
 
 function GetHatEfResName ( index )
 	if( hatEffectTable == nil ) then
@@ -639,6 +1123,8 @@ function IsRenderBeforeCharacter ( index )
 end
 
 -- 탑승 위치 무시
+-- #if defined(__ADD_FUNC_IS_IGNORED_RIDING_STATE)
+
 function IsIgnoredRidingState( index )
 	local hatEfTbl = hatEffectTable[index]
 
@@ -650,3 +1136,90 @@ function IsIgnoredRidingState( index )
 
 	return false
 end
+
+-- #endif // #if defined(__ADD_FUNC_IS_IGNORED_RIDING_STATE)
+
+-- 쉬링크 이펙트 위치 조절
+function IsAdjustPositionWhenShrinkState( index )
+	local hatEfTbl = hatEffectTable[index]
+
+	if( hatEfTbl ~= nil ) then
+		if( hatEfTbl.isAdjustPositionWhenShrinkState ~= nil ) then
+			return hatEfTbl.isAdjustPositionWhenShrinkState
+		end
+	end
+
+	return false
+end
+
+-- 쉬링크 이펙트 크기 조절
+function IsAdjustSizeWhenShrinkState( index )
+	local hatEfTbl = hatEffectTable[index]
+
+	if( hatEfTbl ~= nil ) then
+		if( hatEfTbl.isAdjustSizeWhenShrinkState ~= nil ) then
+			return hatEfTbl.isAdjustSizeWhenShrinkState
+		end
+	end
+
+	return false
+end
+
+-- 머리에 붙는 이펙트
+-- #if defined( __C_REDMINE_12546_STREFFECT_ATTACHED_TO_HEAD )
+
+function IsAttachedToHead( index )
+	local hatEfTbl = hatEffectTable[index]
+
+	if( nil == hatEfTbl ) then
+		return false
+	end
+	
+	if( nil == hatEfTbl.isAttachedHead ) then
+		return false
+	end
+
+	return hatEfTbl.isAttachedHead
+end
+
+function IsIgnoredRidingState_Include_AttachedToHead( index )
+	local hatEfTbl = hatEffectTable[index]
+
+	if( nil == hatEfTbl ) then
+		return false
+	end
+	
+	-- 머리에 붙는 이팩트는 기승 상태를 무시한다.
+	if( nil ~= hatEfTbl.isAttachedHead ) then
+		if( true == hatEfTbl.isAttachedHead ) then
+			return true
+		end
+	end
+		
+	if( nil == hatEfTbl.isIgnoreRiding ) then
+		return false
+	end
+
+	return hatEfTbl.isIgnoreRiding
+end
+
+-- #endif // #if defined( __C_REDMINE_12546_STREFFECT_ATTACHED_TO_HEAD )
+
+
+-- #if defined( __C_DOORAY_WORK_2799949918419051669_HAT_EFFECT_OPTION_ISPAIR )
+
+function GetIsEffectPair( index )
+	local hatEfTbl = hatEffectTable[index]
+
+	if( nil == hatEfTbl ) then
+		return false
+	end
+	
+	if( nil == hatEfTbl.isEffectPair ) then
+		return false
+	end
+
+	return hatEfTbl.isEffectPair
+end
+
+-- #endif // #if defined( __C_DOORAY_WORK_2799949918419051669_HAT_EFFECT_OPTION_ISPAIR )
