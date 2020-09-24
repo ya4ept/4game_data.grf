@@ -4531,7 +4531,7 @@
 
 16253#Rabbit Scroll#
 5575#Rice Ball Hat#
-5592#Sigrun's Wing#
+5592#Sigrun's Wings#
 14586#Sparkling Candy#
 13858#Sparkling Candy Box10#
 

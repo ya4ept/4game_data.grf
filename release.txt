@@ -1,3 +1,21 @@
+23.09.2020 12:36
+[CM] Rein
+The maintenance has been finished, the server is online. Changelog:
+Events:
+— New Regular Event - Ominous Treasury was added to the schedule! https://eu.4gameforum.com/threads/678455/
+— The Great Alchemist will be performing Stat Reset for a week (Check Shop updates). https://eu.4gameforum.com/threads/678428/
+— The new PvP Constellation season of Libra  starts and will be active until the 21st of October.
+https://eu.4gameforum.com/threads/678446/
+Shop:
+— Reset Stone Boxes will be for sale in the in-game shop.
+— Check the New Items that are now available at in-game shop.
+https://eu.4gameforum.com/threads/678443/
+Finished activities:
+— The Gothic Box Treasure is no longer available in 4game Launcher and in the Shop.
+— The Gothic Hats is no longer for sale at the 4game Launcher, becoming an item exclusively of the in Game Shop.
+— The Black Market Auction was turned off.
+
+================
 16.09.2020 11:46
 [CM] Godfather
 The maintenance has been finished, the server is online. Changelog:

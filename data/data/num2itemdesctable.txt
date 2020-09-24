@@ -25270,7 +25270,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5397#
-placeholder
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5398#
 placeholder

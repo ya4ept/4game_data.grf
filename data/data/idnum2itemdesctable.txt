@@ -26274,13 +26274,12 @@ A hat designed to mimic the look of a terrible magic book which attacks people.
 When physically melee attacking, there is a chance to recover 8% of your damage as HP.
 When physically melee attacking, there is a chance to recover 4% of your damage as SP.
 Drains 10 HP every 5 seconds while equipped.
-Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777773^000000
 Weight: ^77777730^000000
-Level: ^7777771^000000
-Job: ^777777All^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 //--------------------------------------------------------------------------
 
@@ -39036,7 +39035,7 @@ Attached to the crown is an Opal gemstone, the birthstone for those born under t
 Can be obtained via Arena Coins during 8th PvP season.
 Dex +3
 Wind Resistance +7%
-^6A5ACD[If refined to +7 or higher]^000000
+^6A5ACD[If refined to +7 or +8]^000000
 Matk +3%
 ^6A5ACD[If refined to +9 or higher]^000000
 Matk +8%
@@ -39055,14 +39054,13 @@ Can be obtained via Arena Coins during 8th PvP season.
 Atk +7
 Dex +3
 ^6A5ACD[If refined to 7 or higher]^000000
-Has a chance of casting Lv 2 Mild Wind while physically attacking.
+Has a chance of casting Lv 2 Mild Wind when dealing physical damage
 ^6A5ACD[If refined to 9 or higher]^000000
+Physical attack power +3%
 Flee +5
-Physical attack power +3%.
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
 Location: ^777777Upper ^000000
-Weight: ^77777730^000000
+Defense: ^7777773^000000 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -42277,21 +42275,22 @@ A token that can be exchanged for cash items.
 Weight: ^7777770^000000
 #
 5592#
-Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.
-If worn by a Swordsman, Merchant, Thief or Taekwon Classes, Str +1.
-If worn by a Mage, Acolyte, Ninja or Soul Linker Classes, Int +1.
-If worn by Archer or Gunslinger Classes, Dex +1.
-If worn by Novice Class, MaxHP +80, MaxSP +30.
-^FFFFFF_^000000
-^FF0000Concept created during the Summer 2008 Create a headgear Contest.
-Created by Eleotea^000000
-^FFFFFF_^000000
+^FF0000Account bound^000000
+Valkyrie Sigrun's Wings.
+[When used by Swordsman, Merchant, Thief, Taekwon and Star Gladiator]
+STR +1
+[When used by Mage, Acolyte, Ninja and Soul Linker]
+INT +1
+[When used by Archer and Gunslinger]
+DEX +1
+[When used by Novice and Supernovice]
+MaxHP +80 
+MaxSP +30
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Level: ^77777780^000000
-Job: ^777777All^000000
+Defense: ^7777772^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5664#
 A cute headgear made in the form of Filir's wings, the most popular bird-like homunclus.
@@ -42723,7 +42722,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5397#
-placeholder
+^ff0000Account bound^000000
+Regular diving mask. If you wear it on land, people will think you went crazy.
+Adds 10% resistance to Water property
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5398#
 placeholder
@@ -52515,14 +52521,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5788#
+^FF0000Account bound^000000
 Mysterious glasses which are said to show objects stereoscopically.
-Increase 4% of the Magical Damage inflicted to Formless type monsters.
-Reduces Neutral elemental damage received by 5%.
+Reduces Neutral elemental damage received by 5%
+Magical Damage to Neutral Monsters +4%
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
 Location: ^777777Middle ^000000
-Weight: ^77777720^000000
-Required Level: ^77777710^000000
+Defense: ^7777771^000000 Weight: ^77777710^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18638#
@@ -87202,7 +87208,7 @@ Weight: ^7777773^000000
 This pass gives you access to an Unknown area. 
 It can be given to a Mysterious man who is in Prontera (125, 125).
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 20460#
 A hairband adorned with magical brambles and a skull.
