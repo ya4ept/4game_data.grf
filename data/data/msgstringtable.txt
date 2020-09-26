@@ -216,7 +216,7 @@ F12: вызвать меню горячих клавиш, куда можно перенести предметы или умения для б
 Нет списка запомненных мест для умения [Портал].#
 Вы еще не выучили умение [Портал].#
 Место запомнено.#
-Отменить#
+Закрыть#
 Задержка после использования умения#
 Вы не можете взять эту вещь, т.к. у вас нет свободного места в инвентаре.#
 Превышен лимит вместимости.#
@@ -354,7 +354,7 @@ HP/SP не будут восстанавливаться, когда у вас перевес более 50%.#
 Время, когда вы последний раз заходили в игру#
 IP, с которого вы в последний раз заходили в игру#
 Настройки списка друзей#
-Уверены, что хотите удалить?#
+Уверены, что хотите удалить сообщение?#
 Вы уверены, что хотите выйти?#
 Добавить в друзья#
 Открыть 1:1 чат между друзьями#
@@ -405,8 +405,8 @@ ID уничтожен.#
 Выберите цвет волос.#
 Вам нужна определенная вещь для создания гильдии.#
 Информация о монстре#
-Тип#
-Ур.#
+Лидер#
+Уровень#
 HP#
 Размер#
 Раса#
@@ -1253,7 +1253,7 @@ NUM_ID - %s#
 Вы получите информацию о времени появления и местоположении монстра-босса. Действует 10 минут.#
 Вы хотите приобрести этот предмет? Его цена: %d P.#
 Недостаточно средств.#
-^ff0000Действует до: %s^000000#
+^ff0000Срок действия: %s^000000#
 Предмет %s исчезнет через %d мин.#
 Через 1 минуту предмет %s исчезнет из вашего инвентаря.#
 Предмет %s исчез из вашего инвентаря.#
@@ -1376,8 +1376,8 @@ https://ru.4game.com/#
 ^777777Условия приобретения: #
 Описания#
 Использованные очки умений невозможно вернуть. Все равно использовать очки умений?#
-1 ПРОФ#
-2 ПРОФ#
+1 проф#
+2 проф#
 Эта учетная запись была замечена при использовании посторонней программы или программы взлома. Заблокирована: %s#
 Обнаружено возможное действие посторонней программы, компьютерного вируса или программы взлома. Пожалуйста, используйте лицензионный клиент. Мы делаем все возможное для удобства наших игроков.#
 Вы играете в самую лучшую игру. Наслаждайтесь игрой Ragnarok Online!#
@@ -1393,7 +1393,7 @@ https://ru.4game.com/#
 Денежный бонус: %d#
 Пользователь этого сервера не может подключаться к бесплатному серверу.#
 Время сессии истекло. Повторите вход.#
-3 ПРОФ#
+3 проф#
 Нельзя использовать это умение.#
 Вы не можете использовать это умение, т.к. превышен лимит количества анциллы.#
 Необходима святая вода.#
@@ -1695,7 +1695,7 @@ https://ru.4game.com/#
 Увед.#
 Покупка предмета отменена из-за неправильно введенной информации.#
 Можно взять в инвентаре.#
-часов#
+Время#
 Карта#
 Во время сделки нельзя использовать предметы.#
 Во время сделки нельзя менять снаряжение или использовать умения.#
@@ -1803,7 +1803,7 @@ RO_HELP#
 Попыток поиска: %d#
 Лавок не найдено.#
 Не соответствует цене.#
-Снаряжение#
+Обычное#
 Одежда#
 мин.#
 сек.#
@@ -1947,7 +1947,7 @@ SaveData_ExMacro%d#
 Обнаружена неизвестная ошибка, поэтому покупка не удалась.#
 Повторите попытку позже.#
 Необходим кунай.#
-Укажите уровень от 1 до 150.#
+Укажите уровень от 1 до 175.#
 Нельзя получить предмет. Проверьте наличие места в инвентаре.#
 Данное умение доступно только во время осады.#
 Данное умение можно использовать только на другого игрока.#
@@ -2344,7 +2344,7 @@ $$all#
 Очки умений: #
 Нет ответа от сервера учетных записей. Пожалуйста, попробуйте еще раз.#
 Пожалуйста, измените пароль.#
-http://www.raggame.ru#
+https://ru.4game.com/#
 Строка 2348#
 Строка 2349#
 Строка 2350#
@@ -2365,7 +2365,7 @@ UAEURL#
 Замки#
 Сообщение#
 Перейти на сайт#
-https://www.ingamba.ru/#
+https://ru.4game.com/#
 Создайте персонажа.#
 Недопустимые символы в имени персонажа.#
 Введите имя персонажа.#
@@ -2417,7 +2417,7 @@ $$all         : отображать все (Type позволяет отображать конкретный тип.)#
 $$lv30       : отображать монстров указанного уровня (число меняется).#
 $$lv20~30  : отображать монстров в заданном диапазоне (число меняется).#
 1 vs 1#
-Декор#
+Особое#
 Подозрительная информация о профессии персонажа %d. Обратитесь в центр поддержки. ErrorCode(%d)#
 (%s) %d / %d#
 %s-%s(%d/%d)#
@@ -2438,8 +2438,8 @@ $$lv20~30  : отображать монстров в заданном диапазоне (число меняется).#
 Через %d ч. %d мин. игра автоматически завершится.#
 Ваш аккаунт заблокирован навсегда.#
 Ваш аккаунт заблокирован.\nДата снятия блокировки: %04d-%02d-%02d %02d:%02d#
-Монстр(Tab)#
-Карта(Alt)#
+Монстры (Tab)#
+Карта (Alt)#
 Информация#
 Информация поиска#
 Дирижабль#
@@ -2466,7 +2466,7 @@ Mob)%s:%s(%s)#
 Максимальная сумма на счету: 2 147 483 647 зени.#
 Не хватает патронов.#
 Если даже вы введете сумму, превышающую 1 млрд. зени, товар будет продан за 1 млрд. зени.#
-AuthTicket is Not Vaild#
+AuthTicket не действителен#
 Тип ошибки: %d, код ошибки: %d (%d,%d,%d,%d)#
 %d%% (базовый 100%% + премиум %d%% + интернет-кафе %d%% + %s сервер %d%%)#
 В течение %d шанс получения предметов при охоте на монстров увеличивается в %d раза.#
@@ -2478,14 +2478,14 @@ AuthTicket is Not Vaild#
  ^ff0000%d^0000ff0 000 000#
 ^0000ffзени^000000.\nСумма верна??#
 Сумма до 10 000 000 зени идентифицируется совершенно безопасно.#
-https://www.warpportal.com/account/login.aspx?ReturnUrl=%2faccount%2fpayment.aspx#
-https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&game=rose&accountname=khanhtest111&lang=en#
-Лабиринт, появившийся в Бифросте. Соединяет Альфхейм и Терру.#
-Неужели это символ, знаменующий конец путешествия? Или это символ нового мира? Что за песня заставила хранителя замолчать?#
-Что он охранял все эти тысячелетия? Сейчас ему начинает казаться, что все это долгое время именно он был скован печатью.#
-Когда песнь закончилась, в Бифросте между Альфхеймом и Террой появился огромный разлом, и из-за этого связь между мирами исчезла.#
-Проход в Бифрост возможен только через лабиринт. Но до сих пор никто не вернулся оттуда.#
-Преисподняя хаоса, всепоглощающий лабиринт продолжает увеличиваться в размерах.#
+https://ru.4game.com/#
+https://ru.4game.com/#
+	\n#
+Добро пожаловать на закрытое бета-тестирование\n#
+                        Ragnarok Online Prime!\n#
+      Желаем удачи в исследовании нового мира.\n#
+                                   Повеселитесь!#
+#
 Можно ввести исключительно цифры.#
 Внести или снять средства со счета с открытым окном обмена или магазина нельзя.#
 Перейти#
@@ -2508,564 +2508,564 @@ https://kepler.warpportal.com/steam/purchase/?step=1&steamid=76561198071003044&g
 Срок#
 Введите, сколько предметов вы хотите продать.#
 Введите время начала продажи.#
-the sales start time range is not suitable.#
-Please put the sales time#
-Please put the Item DB Name.#
-Item ID check has failed. Please try again.#
->> ItemName : %s / Price : %dc / Count : %d / sales periiod : %d:%d:%d:%d ~ %d:%d:%d:%d#
-It has succefully registered.#
-it has failed to register. Please tray later.#
-There is an item already registered. Please try again.#
-It has failed to remove the item. Please try again.#
-%s item has removed.#
-Special#
-Flash sale item count renew#
-Sales closed#
-item count should be renewed#
-There is not eoungh item, so %d item has purchased.#
-%s item's flash sale started.#
-%s item is out of stock or sale period is finished.#
+Диапазон времени начала продаж не подходит.#
+Пожалуйста, укажите время начала продажи.#
+Пожалуйста, введите DB Name предмета.#
+Проверка ID предмета не удалась. Попробуйте снова.#
+>> Предмет : %s / Цена : %dc / Количество : %d / Время продажи : %d:%d:%d:%d ~ %d:%d:%d:%d#
+Регистрация успешна.#
+Регистрация прошла неудачно. Попробуйте позже.#
+Предмет уже зарегистрирован. Пожалуйста, попробуйте еще раз.#
+Не удалось удалить предмет. Пожалуйста, попробуйте еще раз.#
+%s предмет удален.#
+Специальный#
+Счетчик предметов на мгновенной распродаже обновлен#
+Распродажа закрыта.#
+количество предметов должно быть обновлено#
+Недостаточно товара, значит %d товар был куплен.#
+%s мгновенная распродажа начата.#
+%s нет в наличии или период продажи закончился.#
 /limited sales#
-http://www.ragnarokeurope.com/news/home-r70.html#
-http://www.ragnarokeurope.com/index.php?rubrique=70&Steam#
-Successfully purchased list#
-Your order has excceeded the amount of current stock#
-the character name is not possible to invite.#
-The character name is not possbile to invite to the guild.#
-It has failed to purchase due to some item's out of stock.#
-The warp spot cannot be memorized in current position.#
-Item cannot be purchased due to the bag's overweight.#
-No.#
-item#
-count#
-Name#
-Time#
-Withdraw#
-the log is not exist.#
-Entire#
-Put#
-Out#
-Guild storage list#
-List only shows recent 100 items.#
-Guild Storage is closing after 2 min of usage.#
-Incorrect GameSamba ID. Please Try Again.#
+https://ru.4game.com/#
+https://ru.4game.com/#
+Список успешно приобретен#
+Ваш заказ превысил сумму текущей акции.#
+Персонажа с таким именем невозможно пригласить.#
+Персонажа с таким именем невозможно пригласить в гильдию.#
+Не удалось купить, так как какого-то товара не хватает.#
+Точка Портала не может быть записана в данной точке.#
+Товар не может быть куплен из-за перевеса.#
+Номер.#
+предмет#
+количество#
+Имя#
+Время#
+Изымать#
+записи не существует.#
+Весь#
+Положить#
+Вне#
+Список хранилищ гильдии#
+В списке отображаются только последние 100 предметов.#
+Хранилище гильдии закрывается через 2 минуты использования.#
+Некорректный GameSamba ID. Попробуйте снова.#
 %s [%doption] : %d #
-Coin is required.#
-%d coin are required.#
-Gatling gun type should be equiped.#
-Shotgun type should be equiped.#
-Rifle type should be equiped.#
-Revolver type should be equiped.#
-Saint type bullet should be equiped.#
-Selling item list#
-Purchased item list#
-Grenade Launcher type should be equiped.#
-the skill effect such as [Hit Barrel],[Madness Canceler],[Platinum Altar] cannot be duplicated to use.#
-This skill cannot be used in this map.#
-When you are using the guild storage, all the items in the storage will be disappeared.#
-http://ragnarok.gamesamba.com/#
-Enter your password to log in#
-Pet evolution#
-Evolution - %s#
-You need following materials to evolve.#
-Would you like to evolve it?#
-Unknown error#
-You didn't summon a pet.#
-The requested one is not the pet egg.#
-Not enough evolution materials#
-You are short of evolution materials.#
-The pet can be evolved under only Loyal status.#
-Auto feeding#
-The pet has been fed. \'%s\' Remaining: %d#
-Auto feeding activated.#
-Auto feeding inactivated.#
-Renewed#
-%d mininutes ago#
-%d hours ago#
-%d days ago#
-%d%% ( Premium %d%% + %s Server )#
+Требуется монета.#
+%d требуется монета.#
+Должен быть экипирован Гатлинг.#
+Должно быть экипировано Ружье.#
+Должна быть экипирована Винтовка.#
+Должен быть экипирован Револьвер.#
+Должны быть экипированы святые патроны.#
+Список продоваемых предметов.#
+Список покупаемых предметов.#
+Должен быть экипирован Гранатомет.#
+эффекты умений, такие как [Hit Barrel], [Madness Canceler], [Platinum Altar], нельзя дублировать для использования.#
+Это умение нельзя использовать на этой карте.#
+Когда вы используете хранилище гильдии, все предметы в хранилище исчезнут.#
+https://ru.4game.com/#
+Введите свой пароль, чтобы войти.#
+Эволюция прирученного животного.#
+Эволюция - %s#
+Для развития вам потребуются следующие материалы#
+Хотели бы вы его развить?#
+Неизвестная ошибка#
+Вы не призвали животное.#
+Запрошенное яйцо не является домашним.#
+Вам не хватает материалов для эволюции.#
+Вам не хватает материалов для эволюции.#
+Эволюция питомца возможна только под статусом Верного.#
+Автокормление#
+Питомец накормлен. \'%s\' Напоминание: %d#
+Автокормление активно.#
+Автокормление неактивно.#
+Обновлено#
+%d минут назад#
+%d часов назад#
+%d дней назад#
+%d%% ( Премиум %d%% + %s Сервер )#
 Отправка почты#
 Письмо отправлено.#
 Предмет перемещен в инвентарь.#
-Item claim has been failed.#
+Получение предмета было неуспешным.#
 Недостаточно места в инвентаре.#
 Зени получены.#
-Zeny claim has been failed.#
+Получение зени было неуспешным.#
 Достигнут максимум зени.#
 Предмет добавлен.#
 Укажите имя получателя письма.#
 Тема письма может быть от 4 до 24 символов.#
 Не удалось отправить письмо.#
-Delivery failed due to the improper item.#
+Доставка не удалась из-за неправильного товара.#
 Получатель не существует.#
 %s [%d options]#
-Please fill out 1 to %d numerical value for level.#
-Inventory clearance needed#
-Daily mail sending limit has been exceeded.#
+Введите числовое значение от 1 до %d для уровня.#
+Требуется очистка инвентаря#
+Превышен дневной лимит отправки почты.#
 Не удалось открыть почтовый ящик.#
-You currently belong to a clan.#
-Gold PC cafe point information#
-Taking off the pet accessory allows you to evolve the pet.#
-In %d minutes#
-In %d hours#
-In %d days#
+В настоящее время вы состоите в гильдии.#
+Информация о Gold PC cafe point#
+Снятие аксессуара для питомца позволяет вам развивать питомца.#
+В %d минут#
+В %d часов#
+В %d дней#
 Нажмите кнопку 'Ввести имя' для проверки личного кода получателя.#
 Удалить письмо можно, только забрав все вложения из него.#
 Вы не можете отправить больше зени, чем у вас есть.#
-Charge: %s Zeny#
+Заряд: %s Зени#
 Получатель не существует.#
-EXP  : %.1f%% (Basic %.1f%% Premium %.1f%% + %s %.1f%%)#
-DROP : %.1f%% (Basic %.1f%% Premium %.1f%% + %s %.1f%%)#
-DEATH: %.1f%% (Basic %.1f%% Premium %.1f%% + %s %.1f%%)#
-You can gather up to %d Gold PC cafe points.#
-This function unavailable in this server.#
-Using cart is restricted in this server.#
-Auction is restricted in this server.#
-Trade is restricted in this server.#
-Dropping items is restricted in this server.#
-You cannot use Vending function.#
-Summonee is short of SP#
+ОПЫТ  : %.1f%% (Базовый %.1f%% Премиум %.1f%% + %s %.1f%%)#
+ДРОП : %.1f%% (Базовый %.1f%% Премиум %.1f%% + %s %.1f%%)#
+СМЕРТЬ: %.1f%% (Базовый %.1f%% Премиум %.1f%% + %s %.1f%%)#
+Вы можете собрать до %d Gold PC cafe points.#
+Жанная функция недостпна на этом сервере.#
+Использование телеги ограничено на этом сервере.#
+Использование Аукциона ограничено на этом сервере.#
+Торговля ограничена на этом сервер.#
+Выбрасывание предметов ограничено на этом сервере.#
+Вы не можете использовать функцию продажи.#
+Призывателю не хватает SP#
 %s/%s#
-Length of mail should be less than 1K#
-Item attachment has been failed.#
+Длина письма не должна превышать 1 000.#
+Прикрепить предмет не удалось.#
 Превышен лимит веса отправляемых по почте предметов.#
-"Under service. Please try again in a moment.#
-You cannot open Lucky Roulette window.#
-You cannot close Lucky Roulette window.#
-You cannot start Lucky Roulette.#
-You need points to start Lucky Roulette.#
-You cannot claim the prize.#
-The maximum number of items has exceeded.#
-You are overburdened. Please clear some items from the inventory.#
-Vending skill failed#
-Roulette is rotating. Please try again after checking the winning items#
-Lucky Roulette#
-Alarms when items sold#
+"Сервис недоступен. Попробуйте позже.#
+Вы не можете открыть окно Машины Удачи.#
+Вы не можете закрыть окно Машины Удачи.#
+Вы не можете начать Машины Удачи.#
+Вам нужны очки для использования Машины Удачи.#
+Вы не можете получить приз.#
+Превышено максимальное количество предметов.#
+Вы перегружены. Пожалуйста, удалите некоторые предметы из инвентаря.#
+Торговля не удалась#
+Рулетка вращается. Пожалуйста, попробуйте еще раз после проверки выигравших товаров#
+Машина Удачи#
+Уведомление, что предметы проданы.#
 Не хватает зени для оплаты налога.#
-Check user name#
-Scheduled to be removed#
-Achievement Quests#
-Achievement Total Score#
-Achievement Rank#
-Remaining scores to the next rank: [%5d]#
-Progress#
-Recently Attained Achievements#
-Xianbei item list#
+Проверьте имя персонажа#
+Планируется к удалению#
+Достижения#
+Общий счет достижений#
+Ранг достижений#
+Оставшиеся баллы до следующего ранга: [%5d]#
+Прогресс#
+Недавно достигнутые достижения#
+Список предметов Xianbei#
 Xianbei: %d / %d #
-You are short of Xianbei#
+Вам не хватает Xianbei#
 %s #
-Overview#
-Basic#
-Character#
-Actions#
-Etc.#
-Adventure#
-Rune Midgards#
-Schwartzvald#
-Arunafeltz#
-New World#
-Localized Map#
-Dungeon#
-Battle#
-PvP#
-Training#
-Quest#
-Episode#
-Basic#
-Memorial Dungeon#
-Midgard#
-New World#
-Etc.#
-Great Achievement#
-Attained quest#
-You cannot add any more#
-You have achieved < %s >.#
-Only OTP users are allowed#
-If you press this button, you will get the prize and the roulette will be initialized.#
-If you press this button, the roulette will start from the line indicated by a blinking arrow.#
-Title#
-Title Off#
-You cannot create the guild in this area.#
-You cannot disband the guild in this area.#
-You cannot join the guild in this area.#
-You cannot leave the guild in this area.#
-You cannot expel guild members in this area.#
-You cannot change guild position in this area.#
-Please make more than 5 item slots in the inventory.#
-E X P: %.1f%% (Basic 100.0%% PC cafe %.1f%% + %s %.1f%%)#
-DROP : %.1f%% (Basic 100.0%% PC cafe %.1f%% + %s %.1f%%)#
-DEATH: %.1f%% (Basic 100.0%% PC cafe %.1f%% + %s %.1f%%)#
+Обзор#
+Базовые#
+Персонаж#
+Действия#
+Прочее#
+Приключения#
+Рун-Мидгард#
+Шварцвальт#
+Арунафельц#
+Новый Мир#
+Другие миры#
+Подземелья#
+Битвы#
+ПВП#
+Тренировка#
+Квест#
+Сюжетные#
+Обычные#
+Мемориальные подземелья#
+Мидгард#
+Новый Мир#
+Прочее#
+Великие достижения#
+Полученные достижения#
+Вы не можете добавить больше#
+Получено новое достижение: [ %s ].#
+Разрешены только пользователи OTP#
+Если вы нажмете эту кнопку, вы получите приз, и рулетка будет инициализирована.#
+Если вы нажмете эту кнопку, рулетка начнется с линии, обозначенной мигающей стрелкой.#
+Титул#
+Титул выключен#
+Вы не можете создать гильдию этой области.#
+Вы не можете распустить гильдию этой области.#
+Вы не можете присоединиться к гильдии в этой области.#
+Вы не можете покинуть гильдию в этой области.#
+Вы не можете изгнать членов гильдии в этой области.#
+Вы не можете поменять позицию гильдии в этой области.#
+Пожалуйста, освободите 5 или более ячеек в инветаре.#
+ОПЫТ : %.1f%% (Базовый 100.0%% PC cafe %.1f%% + %s %.1f%%)#
+ДРОП : %.1f%% (Базовый 100.0%% PC cafe %.1f%% + %s %.1f%%)#
+СМЕРТЬ: %.1f%% (Базовый 100.0%% PC cafe %.1f%% + %s %.1f%%)#
 Превышено максимальное количество вложений.#
-Alarms when purchasing items#
+Уведомление при покупке товаров#
 Предмет запрещен к пересылке по почте.#
-Drawing the blank in the previous roulette, you cannot play the higher roulette.#
+Вытащив бланк в предыдущей рулетке, вы не можете играть в более высокую рулетку.#
 Написать ответ#
 Прочитать письмо#
 Удалить письмо#
 Xianbei: %d#
 %s %s Xianbei#
 Xianbei#
-Total: %d Xianbei#
+Всего: %d Xianbei#
 %d -> %s Xianbei#
 %s Xianbei#
-                                          Current Xianbei: %s#
-    %s:  %s  Xianbei#
+Текущий Xianbei: %s#
+%s:  %s  Xianbei#
 %10s Xianbei#
-Total: %s Xianbei#
-ЎШCharge 3% / Charging At least 1 Xianbei#
+Всего: %s Xianbei#
+ЎШЗаряд 3% / Заряжен минимум 1 Xianbei#
 Xianbei#
-^0000ff Xianbei^000000.\n Correct?#
-Over 1 billion Xianbei confirmation#
-If you fill over 1 billion, the price will be automatically set as 10 billion Xianbei.#
-If you fill over 9,999 Xianbei, the price will automatically set as 9,999 Xianbei.#
-There are items priced 0 Xianbei. You cannot open vending.#
-The opponent is over the Xianbei limit. Trade failed.#
-Please fill out %s item price less than 1 billion Xianbei.#
+^0000ff Xianbei^000000.\n Согласны?#
+Подтверждение более 1 миллиарда Xianbei#
+Если вы заполните более 1 миллиарда, цена будет автоматически установлена как 10 миллиардов Xianbei.#
+Если вы заполните более 9 999 Xianbei, цена будет автоматически установлена как 9 999 Xianbei.#
+Есть предметы по цене 0 Xianbei. Вы не можете открыть продажу.#
+Соперник превысил лимит Xianbei. Торговля не удалась.#
+Пожалуйста, укажите цену товара %s меньше 1 миллиарда Xianbei.#
 %s:  %s  Xianbei => %s ea#
-Limited price: %s Xianbei#
+Ограниченная цена: %s Xianbei#
 %s %s %d Xianbei#
-%d %s are sold. In total %d Xianbei. 3%% charge will be imposed.#
+%d %s продано. В итоге %d Xianbei. 3%% будет взиматься плата.#
 RODEX#
-SEND#
-RECEIVE#
-Please close the mail writing window.#
-Server access denied(A)#
-Server access denied(B)#
-You should disarm the equipped arrows/bullets.#
-An item has been consumed in the inventory. RODEX writing window will be closed.#
-You don't have Magnifier.#
-To drop items, please close the mail writing window first.#
-The opponent has already requested you to be a friend.#
-SCRIPT ERROR AID#
+ОТПРАВИТЬ#
+ПОЛУЧИТЬ#
+Пожалуйста, закройте окно отправки сообщения.#
+Доступ к серверу запрещен (A)#
+Доступ к серверу запрещен (B)#
+Вы должны снять снаряженные стрелы/пули.#
+В инвентаре израсходован предмет. Окно написания письма RODEX будет закрыто.#
+У вас нет Увеличительного стекла.#
+Чтобы выбросить предметы, сначала закройте окно написания письма.#
+Игрок уже попросил вас стать другом.#
+ПОМОЩЬ ПО ОШИБКЕ СКРИПТА#
 \nErrorfile : %s\nErrorLine : %d lines\nErrorContent: \n*Previous line: %s \n*Errorline : %s \n*Next line:\n %s#
-^ff0000Do you want to purchase the item? %d points and %d Xianbei will be used.#
-Close#
-Quest#
-View quest icons#
-Amenities#
-View amenity icons#
-Guild member/Party member#
-View guild member/party member#
-Record#
-MVP Monster#
-YOU#
-Do you want to delete it?#
-Quest NPC#
-Fill out the notes#
-Save#
-Leave notes#
+^ff0000Вы хотите приобрести товар? Будет использовано %d очков и %d Xianbei.#
+Закрыть#
+Задания#
+Показать иконки заданий#
+Удобства#
+Просмотр значков удобств#
+Член гильдии/Член группы#
+Посмотреть члена гильдии/члена группы#
+Запись#
+MVP Монстры#
+ТЫ#
+Вы хотите удалить это?#
+Квестовый NPC#
+Заполните заметки#
+Сохранить#
+Оставьте заметки#
 %s [%d Option] %d ea#
 %s [%d Option] %s зени#
 %s [%d Option] %d %s %d -> %s %s#
 %s [%d Option] %d %s %s %s#
 %s [%d Option] %d -> %s %s#
 %s [%d Option] %s %s#
-You should set more than the minimum trade unit: 100 Xianbei.#
-Hair color#
-Hairstyle#
-Dress color#
-Dress style#
-Unsupported map#
-Fill less than 2,147,483,647 Zeny.#
-Fill more than 1 Zeny.#
-You do not have Zeny.#
-Zeny stash#
-Deposit#
-Zeny in hand#
-Deposit#
-Withdraw#
-1 z UP#
-1 z Down#
-Max#
-No input#
-Short of Zeny#
-Needs input#
-Cannot input characters#
-Over maximum input#
-Below minimum input#
-Short of Zeny in hand#
-Short of Zeny in stash#
-Exceeded maximum Zeny in hand#
-Drop X#
-Kafra storage X#
-Cart X#
-Mail X#
-Trade window X#
-Auction X#
-Guild storage X#
-To sell item to NPC X#
-There is a restriction on movement#
-Please create a character.#
-You need to disarm the equipped projectiles.#
-You cannot enter the memorial dungeon due to excessive number of people.#
-Memorial dungeon enterance failed due to excessive number of people.#
-%.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
-%.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
-Unable to use due to the duplicated item.#
+Вы должны установить больше минимальной торговой единицы: 100 Xianbei.#
+Цвет волос#
+Прическа#
+Цвет одежды#
+Стиль одежды#
+Неподдерживаемая карта#
+Добавьте менее 2 147 483 647 зени.#
+Добавьте более 1 зени.#
+У вас нет зени.#
+Тайник зени#
+Депозит#
+Зени в руке#
+Депозит#
+Изымать#
+1 z ВВЕРХ#
+1 z Вниз#
+Максимум#
+Нет ввода#
+Если не считать зени#
+Требуется ввод#
+Неовзможно ввести персонажей#
+Превышен максимум ввода#
+Ниже установленного минимума ввода#
+Если не считать зени в руке#
+Если не считать зени в тайнике#
+Превышено максимальное количество зени в руке#
+Бросьте X#
+Склад Кафры X#
+Телега X#
+Почта X#
+Окно торговли X#
+Аукцион X#
+Гильдейское хранилище X#
+Продажа предмета NPC X#
+Есть ограничение на передвижение#
+Создайте \nперсонажа#
+Вам нужно снять экипированные снаряды.#
+Вы не можете войти в мемориальное подземелье из-за большого количества людей..#
+Вход в мемориальное подземелье не состоялся из-за большого количества людей.#
+%.1f%% ( %s Сервер: %.1f%% + Премиум:%.1f%% )#
+%.1f%% ( %s Сервер: %.1f%% + Премиум:%.1f%% )#
+Невозможно использовать из-за дублированного элемента.#
 Невозможно использовать, так как на вас уже действует данный эффект.#
-Screen flicker effect ON#
-Screen flicker effect OFF#
-An illegal program has been detected.#
+Эффект мерцания экрана ВКЛ#
+Эффект мерцания экрана ВЫКЛ#
+Обнаружена нелегальная программа.#
 Отправить письмо#
-E X P: %.1f%% (Basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-DROP : %.1f%% (Basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-DEATH: %.1f%% (Basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-You cannot use the tag as a name.#
-Styling shop#
-No coupons. Purchase items in Cash Shop#
-Please open the item coupon box in the inventory.#
-Do you want to delete it?#
-No more slots. Please remove some in Bookmarks.#
-Do you want to buy the current style?\n(ЎШ You cannot receive a refund.)#
-The current style saved.#
-Not enough Zeny in hand. There are enough Zeny in Zeny stash.#
-moving...#
-You are not allowed to fly over the sovereign airspace of the country.#
-Airship flight is temporarily unavailable due to atmospheric instability caused by Mana.#
-Private airship#
-Please try again in a moment.#
-Not enough Zeny to use the private airship.#
-Not enough Cans to use the private airship.#
-You cannot meet the level to use the private airship.#
-You cannot move to the selected point by the private airship.#
-You cannot use the private airship where you are now.#
-Accessory#
-Second costume#
-Wardrobe#
-This hairstyle cannot be dyed.#
-Press an arrow to choose the style you want.#
-Come and see the new styles.\n(ЎШ Purchased accessories will be sent via RODEX.)#
-Basic style#
-You can level up the skill from the base Lv. %d.#
-You cannot use the special character as a name.#
-Not enough MHP to use the skill.#
-Not enough MSP to use the skill.#
-Item compare#
-Lock Throw item#
-Screenshot has NOT attached.#
+ОПЫТ: %.1f%% (Базовый 100.0%% VIP Бонус %.1f%% + %s %.1f%%)#
+ДРОП: %.1f%% (Базовый 100.0%% VIP Бонус %.1f%% + %s %.1f%%)#
+СМЕРТЬ: %.1f%% (Базовый 100.0%% VIP Бонус %.1f%% + %s %.1f%%)#
+Вы не можете использовать тег как имя.#
+Магазин стилизации#
+Купонов нет. Купите предметы в Cash Shop#
+Пожалуйста, откройте коробку с купоном в инвентаре.#
+Вы хотите это удалить?#
+Свободные слоты закончились. Пожалуйста, удалите некоторые из закладок.#
+Вы хотите купить текущий стиль?\n(Вы не сможете запросить возврат.)#
+Текущий стиль сохранен.#
+Недостаточно зени в руке. Зени в тайнике достаточно.#
+Передвигается...#
+Вам не разрешено летать над суверенным воздушным пространством страны.#
+Полет дирижабля временно недоступен из-за нестабильности атмосферы, вызванной маной.#
+Частный дирижабль#
+Пожалуйста, попробуйте снова через мгновение.#
+Недостаточно зени, чтобы воспользоваться частным дирижаблем.#
+Недостаточно банок для использования частного дирижабля.#
+Вы не можете достичь уровня, чтобы использовать частный дирижабль.#
+Вы не можете переместиться в выбранную точку на частном дирижабле.#
+Вы не можете воспользоваться частным дирижаблем там, где находитесь сейчас.#
+Аксессуар#
+Второй костюм#
+Комод#
+Эту прическу нельзя покрасить.#
+Нажмите на стрелку, чтобы выбрать нужный стиль.#
+Заходите и посмотрите на новые прически.\n(Купленные аксессуары будут отправлены с помощью RODEX.)#
+Базовый стиль#
+Вы можете повысить уровень навыка с базового уровня %d.#
+Вы не можете использовать специальный символ в качестве имени.#
+Недостаточно MHP, чтобы использоваться скилл.#
+Недостаточно MSP, чтобы использовать скилл.#
+Сравнение товаров#
+Заблокировать возможность выбрасывать предметы#
+Скриншот НЕ прилагается.#
 Twitter#
-Message#
-Notice#
-Returned#
+Сообщение#
+Уведомление#
+Возвращенный#
 Обновить#
 %d мин.#
 %d ч.#
 %d д.#
-Return#
+Вернуться#
 Удалить выбранные письма?#
-Show Location#
-Zoom In#
-Zoom Out#
-Map View#
-World View#
-No. of item categories#
+Показать местоположение#
+Приблизить камеру#
+Отдалить камеру#
+Карта локации#
+Карта мира#
+Количество занятых слотов в инвентаре#
 /minimap#
-Show Mini-Map button#
-Hide Mini-Map button#
-Sort out concurrent guild member#
-Loyalty : %s#
-Not confirmed#
-Party Name#
-Party Leader#
-Exceed time limit. Shutting down client.#
-Invalid input. Client Shutting down.#
-Correct. Bonus buff will be rewarded.#
-Please input 4 characters at least.#
-Is [%s] correct?#
-There is no selected image.#
-Wrong input. (%d times remaining)#
-Report %d players?#
-Message has sent.#
-Necessary Data has not registered to crack down on illegal program.#
-Already registered on Macro watch list.#
-The Macro has registered.#
-Failed to register the image.#
-Failed to register the answer.#
-Hello. Checking for illegal programs.#
-Please enter the below characters within the designated time.#
-If failed 3 times, your account will be blocked permanently under the account policy.#
-Remaining Count : %d#
-Character#
-Range#
-Please use Left-click to select character.#
-Please use Right-click to select range.#
-Please use Enter key to set the range.#
-ОПЫТ : %.1f%% ( basic %.1f%% %s %.1f%%)#
-ДРОП  : %.1f%% ( basic %.1f%% %s %.1f%%)#
-СМЕРТЬ : %.1f%% ( basic %.1f%% %s %.1f%%)#
+Показать кнопку мини-карты#
+Скрыть кнопку мини-карты#
+Отсортировать одновременных членов гильдии#
+Лояльность: %s#
+Не подтверждено#
+Название группы#
+Лидер группы#
+Превышен лимит времени. Завершение работы клиента.#
+Некорректный ввод. Клиент завершает работу.#
+Верно. Бонусный бафф будет вознагражден.#
+Пожалуйста, введите не менее 4 символов.#
+[%s] верно?#
+Нет выбранного изображения.#
+Неверный ввод. (%d времени осталось)#
+Пожаловаться на %d игроков?#
+Сообщение отправлено.#
+Не зарегистрированы необходимые данные для борьбы с незаконной программой.#
+Уже зарегистрирован в списке просмотра макросов.#
+Макрос зарегистрирован.#
+Не удалось зарегистрировать изображение.#
+Не удалось зарегистрировать ответ.#
+Привет. Проверка на незаконные программы.#
+Пожалуйста, введите указанные ниже символы в течение указанного времени.#
+В случае трехкратного сбоя ваша учетная запись будет заблокирована навсегда в соответствии с политикой учетной записи.#
+Осталось времени: %d#
+Персонаж#
+Диапазон#
+Пожалуйста, используйте левую кнопку мыши для выбора персонажа.#
+Пожалуйста, используйте правую кнопку мыши для выбора диапазона.#
+Пожалуйста, используйте клавишу Enter, чтобы назначить диапазон.#
+ОПЫТ : %.1f%% (Базовый %.1f%% %s %.1f%%)#
+ДРОП  : %.1f%% (Базовый %.1f%% %s %.1f%%)#
+СМЕРТЬ : %.1f%% (Базовый %.1f%% %s %.1f%%)#
 Имя получателя исправлено. Письмо отправлено персонажу %s.#
-Necessary materials to combine#
-Not enough materials to combine.#
-%d number of materials required.#
-Not enough refine grade to combine.#
-Do you want to sign in Adventure Agency?#
-You can leave your comment.#
-Please enter the characters from the image.#
-%d second(s) remaining#
-Please enter 6 digit OTP numbers#
-Auth. No.#
-Not 6 digit numbers. Please check again#
+Необходимые материалы для совмещения#
+Не хватает материалов для совмещения.#
+%d количество материалов требуется.#
+Недостаточный уровень заточки для соединения#
+Хотите войти в Adventure Agency?#
+Вы можете оставить свой комментарий.#
+Пожалуйста, введите символы с изображения.#
+%d секунд(ы) осталось#
+Пожалуйста, введите 6-значный номер одноразового пароля#
+Авторизация номер#
+Не шестизначные числа. Проверьте еще раз, пожалуйста#
 Удалено#
-Please select destination to private flight.#
-ОПЫТ : %d%% ( basic 100.0%% %s %d%%)#
-ДРОП  : %d%% ( basic 100.0%% %s %d%%)#
-СМЕРТЬ : %d%% ( basic 100.0%% %s %d%%)#
-Moving to destination.#
-[%s] file is not existing. Activating default AI#
- %.1f%% ( Basic 100.0%% + Premium %.1f%% + %s %.1f%%)#
-Do you want to vend a shop at this place?#
-Doram race cannot wear the costume.#
-The item has sent to RODEX.#
-30,000 z#
+Выберите пункт назначения для частного рейса.#
+ОПЫТ : %d%% (Базовый 100.0%% %s %d%%)#
+ДРОП  : %d%% (Базовый 100.0%% %s %d%%)#
+СМЕРТЬ : %d%% (Базовый 100.0%% %s %d%%)#
+Движение в пункт назначения.#
+[%s] файл не существует. Активация ИИ по умолчанию#
+ %.1f%% (Базовый 100.0%% + Премиум %.1f%% + %s %.1f%%)#
+Вы хотите поставить магазин в этом месте?#
+Раса Дорам не может носить костюм.#
+Предмет был отправлен с помощью RODEX.#
+30,000 зени#
 100 Malangdo Special Can#
-Cannot proceed due to weight has reached to 80%.#
-Unsold item has sent to RODEX.#
-Equiped outfit#
-Entrust guild master#
-Do you really want to entrust GuildMaster to %s? To proceed, your guild position will be exchanged with %s.#
-Cancel#
-Do you want to close the shop??#
-%02dDay(s) %02dHour(s) %02dMinutes(s) %02dSecond(s)#
-No connection#
-Connection is full.#
-Please select the place where you want to vend a shop.#
-Changing your Pet name to ^0000ff^0000ff %s^000000^000000. Do you want to proceed?#
-Trade date : #
-Trade item : #
-Trade quantity : #
-Trade price(each) : #
-Trade price : #
-Vending sales item#
-Vending purchase item#
-Close vending sales agent#
-Close vending purchase agent#
-Balance:#
-Item list:#
-Vending agent#
-Returned item:#
-Returned quantity:#
-Returned date:#
-Trading amount has sent to RODEX.#
-Not available name.#
-Item has arrived.#
-Thanks for purchasing.#
-Cannot sell to NPC.#
-Lock selling item#
-Not able to find a place to summon in near.#
-Capture full screen#
-Capture part of screen#
-Send#
-Family Affairs agent#
-Acknowledgement of family member registrations.#
-Dear whom it may concern. \r\n\r\n Today, \"%s\" and \"%s\" 's son/daughter \"%s\" has fully separated and independent from your member of family.\r\n\r\nHereat, we inform you in writing.\r\n\r\nPlease contact to Prontera Family Affairs if you have any enquiries.\r\n\r\nThank you.#
-Equip#
-No imgae#
-[%s] has blocked Call Message.#
-You cannnot entrust GuildMaster due to WoE. Please try again later.#
-You cannnot entrust GuildMaster. It has not being passed 24 hours since you being entrusted.#
-Being a child, transcendent and stat ability could be limited. Also HP and SP could be decreased. Do you agree with this?#
-Refinement#
-Using Blacksmith Blessing.#
+Невозможно продолжить, так как вес достиг 80%.#
+Непроданный предмет возвращен с помощью RODEX.#
+Снаряженная экипировка#
+Поменять мастера гильдии
+Вы действительно хотите сменить мастера гильдии %s? Чтобы продолжить, ваша позиция в гильдии будет изменена на %s.#
+Отмена#
+Вы хотите закрыть магазин?#
+%02dДень(ей) %02dЧас(ов) %02dМинут(ы) %02dСекунд(ы)#
+Нет соединения#
+Соединение.#
+Пожалуйста, выберите место для установки магазина.#
+Вы хотите поменять имя вашего питомца на ^0000ff^0000ff %s^000000^000000. Вы уверены?#
+Дата: #
+Предмет: #
+Количество: #
+Цена (за шт.) : #
+Цена: #
+Торговый пункт продаж#
+Торговый пункт покупки#
+Закрыть торговый пункт продаж#
+Закрыть торговый пункт покупки#
+Баланс:#
+Список предметов:#
+Продавец#
+Возвращенные предметы:#
+Возвращаемое количество:#
+Дата возврата:#
+Сумма отправлена с помощью RODEX.#
+Имя недостпно.#
+Предмет доставлен.#
+Спасибо за покупку.#
+Невозможно продать NPC.#
+Заблокировать продаваемый товар#
+Невозможно найти место поблизости для вызова.#
+Захват всего экрана#
+Захват части экрана#
+Отправить#
+Агент по семейным делам#
+Подтверждение регистрации членов семьи.#
+Уважаемые, кого это может касаться. \r\n\r\n Сегодня, \"%s\" и \"%s\" сын/дочь \"%s\" полностью независим от члена вашей семьи.\r\n\r\nМы сообщаем Вам письменно.\r\n\r\nЕсли у вас есть какие-либо вопросы, обращайтесь в отдел по семейным делам Пронтеры.\r\n\r\nСпасибо.#
+Экипировать#
+Нет изображения#
+[%s] заблокировал голосовое сообщение.#
+Вы не можете сменить мастера гильдии во время WoE. Пожалуйста, попробуйте позже.#
+Вы не можете сменить мастера гильдии. С момента последнего изменения мастера гильдии не прошло 24 часов.#
+Будучи ребенком, трансцендентные и статические способности могут быть ограничены. Также HP и SP могут быть уменьшены. Вы согласны?#
+Заточка#
+Использование Blacksmith Blessing.#
 Недостаточно зени.#
-Not enought Blacksmith Blessing.#
-The item cannot be refined.#
-Refine succeeded!#
-Refine Failed!#
-Back#
-Succeed#
-Returned#
+Недостаточно Blacksmith Blessing.#
+Предмет не может быть заточен.#
+Заточка успешна!#
+Заточка провалилась!#
+Назад#
+Успешно#
+Возвращено#
 #
-Change homunculus' name to ^0000ff^0000ff %s^000000^000000 . Do you want to proceed?#
-Call message is opened. (Call function ON)#
-Call message is blocked. (Call function OFF)#
-Show call message#
-Failed to delete. The character already using the vending item.#
-Already vending a shop NPC.#
-You cannot vend a shop on this place.#
-You cannot vend a shop on the other character.#
-Failed to feed your pet. Plase close RODEX window.#
-Set item setting#
-Equip#
-The item will be broken if refine has failed.#
-The item will be downgraded if refine has failed.#
-The item will be downgraded or broken if refine has failed.#
-You cannot use RODEX while refining. RODEX has closed.#
-You cannot use RODEX while refining.#
-Please close other windows to continue.#
-Turn On Aura [Aura ON]#
-Turn Off Aura [Auta OFF]#
-Aura is turned off. Please turn it on and try again#
-You need %d bullet(s) to activate the skill.#
-Do you want to change the equipment set?#
-You can not do it while you are dead.#
-You can not do it while casting#
-You can not do it while trading#
-You can not do it while opening vendor#
-You can not do it while using NPC#
-You can not do it while using chatting room#
-Party members are not connected.#
-You need %d arrow(s) to activate the skill.#
-Align items#
-Please close item setting window to dump item.#
-There is no item to replace.#
-Deleted character#
+Смена имени Гомункула на ^0000ff^0000ff %s^000000^000000 .Вы уверены?#
+[Включено] Голосовые сообщения включены. (Функция звонка ВКЛ)#
+[Отключено] Голосовые сообщения заблокированы. (Функция звонка ВЫКЛ)#
+Показать голосовые сообщения#
+Не удалось удалить. Персонаж уже использует торговый предмет.#
+Уже продающий магазин NPC.#
+Вы не можете поставить здесь магазин.#
+Вы не можете поставить магазин на месте магазина другого персонажа.#
+Попытка покормить питомца провалена. Пожалуйста, закройте окно RODEX.#
+Настройка комплекта#
+Доп. комплект#
+Предмет будет сломан, если заточка не удастся.#
+У предмета будет понижен уровень заточки, если заточка не удастся.#
+У предмета будет понижен уровень заточки или он будет сломан, если заточка не удастся.#
+Вы не можете воспользоваться RODEX во время заточки. Окно RODEX будет закрыто.#
+Вы не можете воспользоваться RODEX во время заточки.#
+Пожалуйста, закройте остальные окна, чтобы продолжить.#
+Включить ауру [Аура ВКЛ]#
+Выключить ауру [Аура ВЫКЛ]#
+Аура выключена. Пожалуйста, включите ее и попробуйте снова.#
+Вам нужно %d пуль(я), чтобы активировать навык.#
+Вы хотите сменить экипированный сет?#
+Пока вы мертвы, вы не можете этого сделать. #
+Нельзя делать это во время кастинга #
+Во время торговли этого делать нельзя #
+Вы не можете этого сделать при открытии торговли#
+Вы не можете этого сделать при использовании NPC #
+Вы не можете этого сделать, используя чат ##
+Участники группы не связаны.#
+Вам нужно %d стрел(ы), чтобы активировать навык.#
+Выровнять предметы#
+Пожалуйста, закройте окно настройки предмета, чтобы выбросить его.#
+Нет экипировки для замены.#
+Удаленный персонаж#
 %Y.%m.%d#
-Access date: %s#
-You can not use bank while refining. Bank has closed.#
-You can not use bank while refining.#
-The item has bind to set equipment.#
-Human#
-Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
-Doram#
-Summoner#
-Dominant People of Rune Midgard. With great potential and adaptability they have settled all over the world.#
-From the Far-star continent with natural born curiosity and a sparky disposition.#
+Дата доступа: %s#
+Вы не можете воспользоваться банком во время заточки. Банк будет закрыт.#
+Вы не можете воспользоваться банком во время заточки.#
+Предмет имеет привязку к комплектации экипировки.#
+Люди#
+Мечник, Маг, Торговец, Послушник, Вор, Лучник, Расширенные профессии#
+Дорамы#
+Призывающий#
+Основное население Рун-Мидгарда.\nОбладают невероятным потенциалом и способностью к адаптации.#
+С континента Далеких звезд с природным любопытством и ярким нравом.#
 У вас перевес более 70%, или осталось менее 10 свободных ячеек в инвентаре.#
 P#
 P#
-Doing in other activity.#
-Overheat limit : %d#
-You cannot invite or withdraw from a party while in memorial dungeon.#
-Expletive has detected.\nPlease check again.#
-Please enter over %d characters. If you don't have user account, please click [Register] button on the bottom left.#
-Please enter the password over %d characters.#
-Please finish your current work and try it again.#
-%.1f%% (Internet-Cafe %.1f%% + TPLUS %.1f%% + %sServer %.1f%%)#
-The item cannot be registered.#
+Выполняется другая активность.#
+Предел перегрева: %d#
+Вы не можете пригласить или отказаться, находясь в мемориальном подземелье.#
+Обнаружено ругательство.\nПожалуйста, проверьте снова.#
+Пожалуйста, введите более %d символов. Если у вас нет учетной записи пользователя, нажмите кнопку [Зарегистрироваться] слева внизу.#
+Пожалуйста, введите пароль длиной более %d символов.#
+Завершите текущую работу и попробуйте еще раз.#
+%.1f%% (Интернет-кафе %.1f%% + TPLUS %.1f%% + %sСервер %.1f%%)#
+Предмет не может быть зарегистрирован.#
 /300#
-/2000#
-3037#
-3038#
-3039#
-3040#
-3041#
-3042#
-3043#
-3044#
-3045#
-3046#
-3047#
-3048#
-3049#
-3050#
-3051#
-3052#
-3053#
-3054#
-3055#
-3056#
-3057#
-3058#
-3059#
-3060#
-3061#
-3062#
-3063#
-3064#
-3065#
-3066#
-3067#
-3068#
+/4000#
+https://ru.4game.com/#
+Эмблемы, которую вы хотите зарегистрировать, не существует. Вставьте ее в файл с эмблемой и попробуйте еще раз#
+Рагнарок Рагнарок#
+Если на вашем снимке экрана или окне чата есть другие пользователи, помимо вас, сначала спросите разрешения у других пользователей, прежде чем использовать его.#
+В данном состоянии вы не можете сменить экипировку.#
+Получение имени пользователя#
+Это сообщение содержит содержимое, которое вы не можете использовать.#
+Не удалось приобрести товар.#
+Нижние цифры идентификационного номера не совпадают.#
+Закрыть#
+Правило#
+Заказ 1x#
+Заказ 10x#
+Заказ 100x#
+Выиграйте 1ый приз #
+Выиграйте 2ой приз#
+Выиграйте 3ий приз#
+В настоящее время не используется#
+В настоящее время не используется#
+Победитель лотерии зени#
+Сумма лотерейной покупки#
+Персонаж-участник#
+1ая цена#
+2ая цена#
+3я цена#
+Покупка награды#
+^1a1a1a Вы хотите приобрести ^b%d лотерейные билеты за \n^4435b2%dзени^1a1a1a?#
+Вы успешно приобрели лотейреный билет.#
+Не хватает зени, чтобы приобрести лотейрейный билет.#
+Вы можете приобрести билеты не более 1000 раз.#
+Да#
+Нет#
 HP#
 SP#
 Ур.#
@@ -3090,104 +3090,104 @@ SP#
 вкл#
 <Базовый>#
 Выбрать скин#
-3093#
-3094#
-3095#
-3096#
-3097#
-3098#
-3099#
-3100#
-3101#
-3102#
-3103#
-3104#
-3105#
-3106#
-3107#
-3108#
-3109#
-3110#
-3111#
-3112#
-3113#
-3114#
-3115#
-3116#
-3117#
-3118#
-3119#
-3120#
-3121#
-3122#
-3123#
-3124#
-3125#
-3126#
-3127#
-3128#
-3129#
-3130#
-3131#
-3132#
-3133#
-3134#
+Вы не можете удалить это, потому что в данный момент участвуете в лотерее#
+/achievement#
+Лотерейный билет зени#
+Лотерея зени %dпризовая награда#
+%dпризовая награда: %s#
+Суммарное вознаграждение за лотерею зени#
+Суммарное вознаграждение в %d раз: %s#
+Возврат за Лотерею зени#
+Сумма возврата: %d зени\r\nПричина возврата: не удалось провести лотерею на сервере#
+Добавить миничат группы#
+Удалить миничат группы#
+Розыгрыш лотереи закончился! Узнайте победителя!#
+%dМесяц %dДень#
+До следующего ранга #
+Все достижения#
+Незавершенные#
+(Выполнено!)#
+(Не выполнено)#
+Доп. комплект снаряжения#
+Сменить#
+Характеристика: Сила (Str)\n ^ffffffЗависимые характеристики:^ffffff\n - ^cc0000Ближняя физическая атака^ffffff\n - ^ffffffПереносимый вес^ffffff#
+Характеристика: Ловкость (Agi)\n ^ffffffЗависимые характеристики:^ffffff\n - ^cc0000Скорость атаки^ffffff\n - ^ffffffУворот^ffffff\n - ^ffffffФизическая защита^ffffff#
+Характеристика: Живучесть (Vit)\n ^ffffffЗависимые характеристики:^ffffff\n - ^cc0000Максимальный запас HP^ffffff\n - ^ffffffФизическая защита^ffffff\n - ^ffffffМагическая защита^ffffff#
+Характеристика: Интеллект (Int)\n ^ffffffЗависимые характеристики:^ffffff\n - ^cc0000Магическая атака^ffffff\n - ^ffffffВремя чтения заклинаний^ffffff\n - ^ffffffМагическая защита^ffffff#
+Характеристика: Сноровка (Dex)\n ^ffffffЗависимые характеристики:^ffffff\n - ^cc0000Дальняя физическая атака^ffffff\n - ^ffffffТочность^ffffff\n - ^ffffffВремя чтения заклинаний^ffffff\n - ^ffffffМагическая атака^ffffff#
+Характеристика: Удача (Luk)\n ^ffffffЗависимые характеристики:^ffffff\n - ^cc0000Шанс критического удара^ffffff\n - ^ffffffТочность^ffffff\n - ^ffffffФизическая атака^ffffff\n - ^ffffffМагическая атака^ffffff\n - ^ffffffУворот^ffffff#
+Физическая атака#
+Физическая защита#
+Точность#
+Шанс критического удара#
+#
+Свободные очки для повышения уровня\n ^ffffffбазовых характеристик персонажа^ffffff#
+Магическая атака#
+Магическая защита#
+Уворот#
+Скорость атаки#
+Горячая клавиша#
+Опция#
+Горячие клавиши навыков (F1 ~ F9)#
+Захват изображения#
+Приблизить#
+Отдалить#
 Гильдия#
 Банк#
 Почта#
-3138#
-3139#
-3140#
-3141#
-3142#
-3143#
-3144#
-3145#
-3146#
-3147#
-3148#
-3149#
-3150#
-3151#
-3152#
-3153#
-3154#
-3155#
-3156#
-3157#
-3158#
-3159#
-3160#
-3161#
-3162#
-3163#
-3164#
-3165#
-3166#
-3167#
-3168#
-3169#
-3170#
-3171#
-3172#
-3173#
-3174#
-3175#
-3176#
-3177#
-3178#
-3179#
-3180#
-3181#
-3182#
-3183#
-3184#
-3185#
-3186#
-3187#
-3188#
-3189#
-3190#
+Магазин#
+Сесть#
+Двигаться#
+Вращать#
+Лидер группы может выйти из группы только после назначения другого игрока лидером группы.#
+Вы хотите прекратить просмотр видео?#
+ снаряжение было надето во всплывающем окне снаряжения.#
+ снаряжение было снято во всплывающем окне снаряжения.#
+Это последняя линия.#
+%.1f%% (Базовый 100%% + Премиум %.1f%%+ %sСервер %.1f%% )#
+Chinese character#
+Shortcut Settings#
+Your subscription will be ended on%s.#
+Cannot find the replay file.#
+Shoes#
+Head#
+Armor#
+Shoulders#
+Accessory#
+Costume#
+Sort Order#
+Обычное снаряжение#
+Декоративное снаряжение и \nтеневая экипировка#
+Стиль#
+/quake : Эффект дрожащего экрана Вкл/Выкл#
+/aura2 : Вы можете полностью отключить аврору Вкл/Выкл#
+Стандартные настройки#
+Расширенные настройки#
+Будут применены настройки по умолчанию.#
+Будут применены настройки по умолчанию. Вы уверены?#
+Настройки будут применены. Вы согласны?#
+Требуется перезайти в игру для применения настроек. Вы согласны?#
+Туман#
+Упрощенная аврора#
+Аврора включена#
+Показать эффект#
+Показать тени#
+Shift Выкл#
+Выберите функцию аппаратного ускорения T&L#
+Выберите разрешение игры#
+Во весь экран#
+Зафиксировать мышку#
+Настройки эффектов#
+Настройки управления#
+Настройки графики#
+Настройки разрешения игры#
+Настройки режима 'Во весь экран'#
+Настройки мыши#
+Комиссия: #
+Общая сумма комиссии: #
+Выбрать получателя#
+Выбрать группу получателей#
+Изменить размер(F10)#
 Идет поиск ^c92114писем^000000.#
 Загрузка...#
 Тема#
@@ -3201,32 +3201,32 @@ SP#
 3201#
 3202#
 3203#
-3204#
-3205#
-3206#
-3207#
-3208#
-3209#
-3210#
-3211#
-3212#
-3213#
-3214#
+Иконки навигации#
+Интерфей информации по навигации#
+Открыть информацию по навигации#
+Поделиться местоположением#
+Поиск[0]#
+Поиск&Информация#
+Местоположение сейчас доступно#
+Результат [%d]#
+Настройка иконки для руководства#
+Разрешить зени для руководства#
+Отстыковка навигации#
 3215#
-3216#
-3217#
-3218#
-3219#
-3220#
-3221#
-3222#
-3223#
-3224#
-3225#
+Выбранное место будет опубликовано в чате.#
+Если вы выберете 4. Сервис, который он проведет с учетом зени и дирижаблей.#
+5. [<-] Клавиша : Режим руководства <-> Режим поиска или,#
+Режим обмена -> Режим поиска#
+Получить ОПЫТ %lld#
+ОПЫТ: '%lld' #
+^b- Система торгового налога^/b\nПосле утверждения цены товара взимается комиссия.\n\n ^b> Комиссия^/b\nСтавка вознаграждения следующая:\n\n0 зени ~ 10,000 зени\n = Комиссия : ^1567fe0%^000000\n10,001 зени ~ 100,000 зени\n = Комиссия : ^1567fe0%^000000\n100,001 зени ~ 1,000,000 зени\n = Комиссия : ^1567fe0%^000000\n1,000,001 зени ~ 10,000,000 зени\n  = Комиссия : ^1567fe0%^000000\n10,000,001 зени ~ 100,000,000 зени\n = Комиссия : ^1567fe5%^000000\nболее чем 100,000,001 зени\n = Комиссия : ^1567fe5%^000000\n#
+Транзакция: #
+Если вы продали предмет, вы получите зени после совершения транзакции.#
+Если вы купили предмет, вы потратите зени после совершения транзакции.#
 3226#
 3227#
-3228#
-3229#
+Проф. ОПЫТ: '%lld' #
+Получен Проф. ОПЫТ %lld#
 3230#
 3231#
 3232#
@@ -3239,12 +3239,12 @@ SP#
 3239#
 3240#
 3241#
-File abusing detected. Please restart the client with clean files.#
-3243#
-3244#
-3245#
-3246#
-3247#
+Попробуйте снова#
+[Попробовать снова] недоступено. Пожалуйста, выберите ингредиент для заточки еще раз.#
+Руды для заточки недостаточно. [Попробовать снова] недоступно.#
+Не хватает зени. [Попробовать снова] недоступно.#
+Blacksmith's Blessing не достаточно. [Попробовать снова] недоступно.#
+Ваш предмет уничтожен.#
 3248#
 3249#
 3250#
@@ -3268,24 +3268,24 @@ File abusing detected. Please restart the client with clean files.#
 3268#
 3269#
 3270#
-3271#
-3272#
-3273#
+Подземелье уничтожено#
+[%s] получил [+%d %s] удачно!#
+[%s] не удалось заточить [+%d %s].#
 3274#
 3275#
 3276#
 3277#
-File abusing detected. Please restart the client with clean files.#
+3278#
 3279#
-3280#
-3281#
-3282#
-3283#
-3284#
-3285#
-3286#
-3287#
-3288#
+Самостоятельное \nКормление#
+Гомункул не может есть еду, когда открыто окно Rodex.#
+Гомункул есть еду. Осталось: '%s' %d ea.#
+Самостоятельное кормление Гомункула Вкл#
+Самостоятельное кормление Гомункула Выкл#
+Гомункул получил \n10% ОПЫТА от игрока.#
+Вероятность: %d%%#
+Гомункул не может атаковать эту цель. Выберите цель снова, нажав Alt+Правая кнопка мыши.#
+Это не цель для атаки Гомункулом. Выберите цель снова, нажав Alt+Правая кнопка мыши.#
 3289#
 3290#
 3291#
@@ -3382,7 +3382,7 @@ File abusing detected. Please restart the client with clean files.#
 3382#
 3383#
 3384#
-3385#
+Подтвердить#
 3386#
 3387#
 3388#
@@ -3453,8 +3453,8 @@ File abusing detected. Please restart the client with clean files.#
 3453#
 3454#
 3455#
-3456#
-3457#
+Admin#
+Награда за вход: %d-й день#
 3458#
 3459#
 3460#
@@ -3463,18 +3463,18 @@ File abusing detected. Please restart the client with clean files.#
 3463#
 3464#
 3465#
-3466#
-3467#
-3468#
-3469#
-3470#
-3471#
-3472#
-3473#
-3474#
-3475#
+%s Ежедневные награды за вход#
+Даты проведения события : %02d. %02d. ~ %02d. %02d. 24:00#
+%d день#
+Нажми, чтобы\n забрать награду за %d-й день!#
+Награда за\n %d-й день\n отправлена\n на почту.#
+Осталось#
+дней#
+Не удалось зарегистрироваться. Пожалуйста, попробуй еще раз.#
+Ежедневная награда за вход#
+В данный момент событие неактивно#
 3476#
-#
+3477#
 3478#
 3479#
 3480#
@@ -3482,16 +3482,16 @@ File abusing detected. Please restart the client with clean files.#
 3482#
 3483#
 3484#
-3485#
-3486#
-Нельзя установить налог в гильдии выше 50%.#
+Уведомление о принудительном прекращении торговли на неполный рабочий день#
+Здравствуй, странник.\r\nМы закрыли вашу торговлю с частичной занятостью, потому что возникло нарушение правил.\r\n Если вам нужна дополнительная информация, отправьте нам 1:1 сообщение.\r\nСпасибо.#
+Нельзя установить налог в гильдии выше 50%.##
 3488#
 3489#
 3490#
 3491#
 3492#
 3493#
-3494#
+Принудительно извлечение#
 3495#
 3496#
 3497#
@@ -3532,24 +3532,24 @@ File abusing detected. Please restart the client with clean files.#
 3532#
 3533#
 3534#
-3535#
 ОПЫТ: %.1f%% (базовый: 100.0%%, %s: %.1f%%)#
 ДРОП: %.1f%% (базовый: 100.0%%, %s: %.1f%%)#
 СМЕРТЬ: %.1f%% (базовый: 100.0%%, %s: %.1f%%)#
+3535#
 Недопустимые символы в имени персонажа.#
-you must have an AccessTicket to login#
-Loading....#
-NOW LOADING..#
-Delete#
-Reply#
-Send#
-Name Check#
-Notice#
-Normal#
-Return#
-Search#
-3551#
-3552#
+Вы должны иметь билет доступа, чтобы войти.#
+Загрузка....#
+Удалить#
+Удалить#
+Отправить#
+Ввести имя#
+Проверить#
+Уведомление#
+Нормально#
+Вернуться#
+Найти#
+Не удалось накормить купета. Вы не можете кормить прямо сейчас.#
+Не удалось накормить гомункула. Вы не можете кормить прямо сейчас..#
 3553#
 3554#
 3555#
@@ -3583,16 +3583,16 @@ Search#
 3583#
 3584#
 3585#
-3586#
+Назначение#
 3587#
-3588#
-3589#
-3590#
-3591#
-3592#
-3593#
-3594#
-3595#
+Удалить#
+Удалить#
+Удалить все#
+Вы уверены, что хотите удалить все сообщения в почтовом ящике?#
+Забрать#
+Забрать все#
+Забрать все прикрепленные предметы из выбранных сообщений?#
+Вы хотите получать всю почту в почтовый ящик?#
 3596#
 3597#
 3598#
@@ -3625,7 +3625,7 @@ Search#
 3625#
 3626#
 3627#
-J.Lv#
+Проф. Ур.#
 AP#
 3630#
 3631#
@@ -3698,48 +3698,4 @@ VTC#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-Num: %d/%d Weight: %d/%d#
+Сообщение#

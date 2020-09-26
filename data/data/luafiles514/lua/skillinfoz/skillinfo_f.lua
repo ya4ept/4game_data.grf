@@ -284,3 +284,28 @@ GetSkillAttackRange = function(in_SKID, in_Level, in_curMaxLv)
 	end
 	return 1, attackRangeOfMaxLv
 end
+
+-- Function #13
+GetSkillScale = function(in_SKID, in_Level)
+	local obj = SKILL_INFO_LIST[in_SKID]
+	local x = 0
+	local y = 0
+	if nil ~= obj then
+		obj = SKILL_INFO_LIST[in_SKID].SkillScale
+	end
+	if nil ~= obj then
+		obj = SKILL_INFO_LIST[in_SKID].SkillScale[in_Level]
+	end
+	if nil ~= obj then
+		x = SKILL_INFO_LIST[in_SKID].SkillScale[in_Level].x
+		if nil == x then
+			return 0, 0
+		else
+			y = SKILL_INFO_LIST[in_SKID].SkillScale[in_Level].y
+			if nil == y then
+				return 0, 0
+			end
+		end
+	end
+	return x, y
+end

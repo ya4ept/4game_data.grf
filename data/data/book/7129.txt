@@ -1,30 +1,33 @@
 %faf0e6
-^000088Основы алхимии: приготовление Соляной кислоты^000000
+^000088Alchemy Basics: Acid Bottle Creation^000000
 
-----------------Предисловие---------------
-В результате опытов над бессмертными сердцами мы обнаружили, что при определенных
-условиях образуется хлористоводородная кислота. Соляная кислота - это сильный
-кислотный раствор с высокой степенью ионизации: в растворе настолько высокая
-концентрация кислоты, что он способен расплавить камень. Поэтому необходимо
-соблюдать строжайшие меры предосторожности. В этой книге детально описан процесс
-создания соляной кислоты.
+
+----------------Preface--------------------
+
+We learned that we could produce hydrogen
+Chloride under certain conditions in our experimentation
+with immortal hearts. Hydrochloric acid is a strong acidic
+Solution with a high degree of ionization: it is so acidic that
+it can smelt rock, and must be handled with the appropriate
+safety precautions. This book details the production process
+of hydrochloric acid for use in Acid Bottles.
+
 ------------------------------------------
 
 
-Описание:
-Соляная кислота представляет собой водный раствор хлороводорода (HCl).
-Обычно ее наливают в бутылки и используют в сражениях.
+What is ^008040hydrochloric acid^000000?
 
-Ингредиенты: ^4b00821 Бессмертное сердце, 1 Пустая бутылка^000000
+Hydrochloric acid is the aqueous solution of
+Hydrogen chloride gas (HCl). Acid bottles used
+in combat are usually filled with hydrochloric acid.
 
-Указания:
-1) Поместите бессмертное сердце в медицинскую ступу и добавьте воду.
-2) Подогрейте содержимое чаши в пароварке, следя, чтобы температура воды не превышала
-72 градуса.
-3) Соберите хлороводород из чаши и дистиллируйте его до образования хлорида водорода.
-4) Налейте воду в пустую бутылку и добавьте в нее хлорид водорода, чтобы образовалась
-кислота.
+Ingredients: ^4b00821 Immortal Heart, 1 Empty Bottle^000000
 
-Носите эту книгу с собой и изучайте ее, пока собираете ингредиенты.
-Для создания кислоты используйте умение [Изготовить Зелье].
-
+Directions: Place an immortal heart in a medicine
+bowl, and add water. Warm the bowl using a double boiler,
+keeping the water temperature at 72 degrees. Collect the gas
+from the bowl, and distill it to produce hydrogen chloride.
+Fill an empty bottle with water and combine it with the hydrogen
+chloride to form the acid. Keep this book with you and refer
+to it while you gather the ingredients and use the Prepare
+Potion skill so that you can create Acid Bottles.

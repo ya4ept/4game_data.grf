@@ -1,112 +1,81 @@
 %faf0e6
-^000088Эта книга пригодится каждому человеку, желающему научиться вкусно готовить.^000000
+^000088- Food just like mom used to make, perfect for healing wounded, homesick hearts... -^000000
 
-Блюда по рецептам 2-го уровня настолько вкусны, что исцелят любые душевные раны
-(но не физические!).
+These Level 2 Recipes may heal wounded hearts, even if they don't restore HP.
 
+^ff0000Seasoned Sticky Webfoot:^000000 savory and chewy Sticky Webfoot that aren't as sticky 
+                                                      if you cook them right.
+Ingredients: ^4b008220 Sticky Webfoot, 10 Green Herbs, 10 Yellow Herb, 1 Savory Sauce ^000000
+Directions:
+	1. Place the Sticky Webfeet in ice water, and chop the Green Herbs and Yellow Herbs.
+	2. Mix half of the chopped herbs with some Sticky Webfeet.
+	3. Add Savory Sauce and the rest of the chopped herbs, and mix them altogether.
+	4. Make sure to keep the food refrigerated to preserve its flavor and crunchiness.
 
-^ff0000Лягушачьи лапки^000000: правильно приготовленные, лягушачьи лапки получаются очень
-аппетитными!
-
-Ингредиенты: ^4b008220 перепончатых лапок, 10 листков зеленой травы, 10 листков желтой
-травы, 1 пряный соус^000000
-
-Способ приготовления:
-1) Положите перепончатые лапки в ледяную воду.
-2) Мелко порубите зеленую и желтую траву.
-3) Добавьте половину порубленной травы к лапкам.
-4) Смешайте остатки травы с пряным соусом и полейте им лапки.
-5) Поставьте блюдо в холодильник, чтобы лягушачьи лапки остались хрустящими и
-сохранили свой вкус.
-^0000ffОсенний чай^000000: насладитесь чашечкой крепкого чая с печеньем и пирогом!
-
-Ингредиенты: ^4b00825 листков синей травы, 10 листков красной травы, 10 листков желтой
-травы^000000
-
-Способ приготовления:
-1) Высушите траву, затем настаивайте ее до брожения.
-2) Вскипятите в чайнике воду.
-3) Положите в чайник траву, плотно закройте крышкой и оставьте на огне на 2-3 минуты.
-Не кипятите слишком долго, иначе чай будет горчить.
-4) Добавьте в чай молоко, лимон или другие ингредиенты по вкусу.
+^0000ffAutumn Red Tea:^000000 enjoy a cup of red tea with cookies and cake.
+Ingredients: ^4b00825 Blue Herbs, 10 Red Herbs, and 10 Yellow Herbs ^000000
+Directions: 
+	1. Dry out, and then ferment all of the herbs.
+	2. Boil water in a teapot. 
+	3. Add the herbs in the teapot, tightly close the lid, and heat for 2-3 minutes. 
+                    If you boil the leaves for too long, the tea will taste bitter.
+	4. Enjoy the tea with milk, lemon, or whatever else you may prefer.
 
 
+^800000Chocolate Mousse Cake:^000000 try the heavenly sweet taste of rich chocolate mousse cake.
+Ingredients: ^4b008210 Cacao, 1 Piece of Cake, 1 Milk, and 1 China
+Directions: 
+	1. Finely crush the Cacao.
+	2. Whisk the Cacao powder and milk to make chocolate mousse.
+	3. Remove the frosting from the Piece of Cake, and leave behind the spongy cake. 
+                    You can eat the frosting if you like.
+	4. Frost the sponge cake with your chocolate mouse, and refrigerate 
+                    until the chocolate sets.
+	5. Serve the cake on the China.
 
+^008040Smooth Noodle:^000000only expert chopstick users can enjoy this noodle without frustration.
+Ingredients: ^4b00821 Bag of Grain, 1 Savory Sauce, 5 Jack o' Pumpkin, 3 Carrots ^000000
+Directions: Remeber that the noodles are the essense of this recipe.
+	1. Grind the grain to create high protein flour.
+	2. Mix the flour with cold water, and then knead.
+	3. Stretch the dough lengthwise, and fold it into multiple layers 
+                    until it is flexible yet firm.
+	4. Thinly slice the dough to make noodles. 
+	5. Refrigerate the noodles for one night so they taste smooth and chewy.
+	6. Cut a Jack o' Pumkin in half, and scoop out the pulp. The pumpkin's rind will be used 
+                    as a noodle bowl.
+	7. Steam 4 Jack o' Pumpkins. Gently tap and then squeeze the pumpkins 
+                    until the pulp fibers are threadlike.    
+	8. Slice the Carrots, and slightly fry the slices.
+	9. Boil the noodles at high heat. If the water boils out, pour a cup of cold water and 
+                    continue boiling.
+	10. When the noodles are cooked, strain out the water, and then rinse the noodles 
+                      in cold water for a chewier texture.
+	11. Place the boiled noodles and threadlike pumpkin pulp into the pumpkin bowl, and 
+                      pour anchovy broth until the noodles and the pulp covered. 
+	12. Sprinkle the fried carrot slices on top, and serve.
+          
 
+^ff8040Assorted Seafood:^000000 a variety of fresh seafood.
+Ingredients: ^4b008210 Clam Flesh, 5 Gill, 5 Fin, 1 Fresh Fish ^000000
+Directions: 
+	1. Steam Clam Flesh and Fresh Fish for a few minutes, and then cut them into bite sized 
+                    pieces.
+	2. Remove the Gill's spines with tweezers, steam the Gills for a few mintues, and then 
+                    cut them into bite sized pieces.
+	3. Parboil the Fins.
+	4. Spread the parboiled Fins, and add the other ingredients to the top of the Fins.
+	5. Fold each Fin three times fanwise.
 
+^400080Mixed Juice:^000000try the unique taste of mixed fruit juices!
+Ingredients: ^4b00823 Apple Juice, 2 Carrot Juice, 1 Grape Juice, and 2 Orange Juice ^000000
+Directions: This juice's flavor depends on the ratios of each ingredient, and the order 
+                  in which they are mixed.
 
-
-
-^800000Бисквитный торт^000000: невероятно вкусный и сладкий шоколадный торт!
-
-Ингредиенты: ^4b008210 плодов какао, 1 кусок торта, 1 бутылка молока, 1 белая тарелка^000000
-
-Способ приготовления:
-1) Разотрите плоды какао в порошок.
-2) Взбейте какао-порошок с молоком до получения шоколадного мусса.
-3) Снимите с куска торта сахарную глазурь так, чтобы осталось только тесто.
-Глазурь можете съесть.
-4) Покройте кусок торта шоколадным муссом и поставьте охлаждаться.
-5) Сервируйте торт на белой тарелке.
-
-
-
-
-
-
-
-
-^008040Тонкая лапша^000000: блюдо для тех, кто умеет виртуозно обращаться с палочками для еды.
-
-Ингредиенты: ^4b00821 сухие зерна, 1 пряный соус, 5 тыквенных голов, 3 моркови^000000
-
-Способ приготовления:
-1) Разотрите зерна в муку.
-2) Смешайте муку с холодной водой и замесите тесто.
-3) Раскатайте тесто. Пока оно еще достаточно твердое, сложите в несколько слоев.
-4) Порежьте тесто на тонкие полоски.
-5) Оставьте лапшу на ночь в холоде, чтобы она стала более гладкой.
-6) Разрежьте тыкву пополам и выньте мякоть. Оболочка тыквы будет миской для лапши.
-7) Сварите на пару 4 тыквы. Отжимайте мякоть, пока не получите нитевидные волокна.
-8) Порежьте и слегка обжарьте морковь.
-9) Сварите лапшу на сильном огне. Если вода будет выкипать, добавьте стакан холодной
-воды и продолжайте готовку.
-10) Когда лапша будет готова, слейте отвар и промойте ее холодной водой.
-11) Положите лапшу и тыквенные волокна в миску из половинки тыквы и залейте бульоном
-из анчоусов.
-12) Сверху выложите поджареную морковь и подавайте на стол.
-^ff8040Ассорти из морепродуктов^000000: несколько видов свежих морепродуктов.
-
-Ингредиенты: ^4b0082мясо 10 моллюсков, 5 жабр, 5 плавников, 1 свежая рыба^000000
-
-Способ приготовления:
-1) В течение нескольких минут готовьте на пару мясо моллюсков и свежую рыбу, затем
-порежьте их на небольшие кусочки.
-2) При помощи пинцета очистите жабры от шипов и несколько минут варите их на пару,
-затем порежьте на кусочки.
-3) Обдайте плавники кипятком.
-4) Выложите на плавники готовые морепродукты.
-5) Сверните каждый плавник.
-
-
-
-
-
-
-
-^400080Смесь соков:^000000 очень вкусная смесь из разных фруктовых соков!
-
-Ингредиенты: ^4b00823 пузырька яблочного сока, 2 пузырька морковного сока, 1 пузырек
-виноградного сока, 2 пузырька апельсинового сока^000000
-
-Способ приготовления:
-Вкус смеси зависит от пропорций ингредиентов и порядка, в котором они смешиваются.
-Основой является морковный сок, и результат зависит от того, что именно вы добавите
-потом.
-Если вы предпочитаете кисловатый вкус, добавьте яблочный, апельсиновый и виноградный
-сок в этой последовательности.
-Если хотите, чтобы было послаще, добавьте сначала виноградный сок, затем яблочный
-и в самом конце апельсиновый.
-Можете попробовать по-разному смешивать ингредиенты, чтобы получать новые вкусы.
-Не бойтесь экспериментировать, чтобы найти сок своей мечты!
-
+	Carrot Juice is the main ingredient, and the taste varies according to the ratios of 
+                the juices that are mixed with it. If you prefer your juice to be sweet 
+                and sour, we recommend adding Apple Juice, Orange Juice, and then 
+                Grape Juice in that order. For a juice that is sweeter, mix Grape Juice, 
+                Apple Juice, and then Orange Juice in that order. Try different mixes of 
+                these four different juices for new, unique juice flavors. The right mix 
+                can introduce you to a new world of flavor!

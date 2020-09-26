@@ -147,5 +147,42 @@ SKILL_EFFECT_INFO_LIST = {
 		effectNum = 1,
 		effectID = { EFID.EF_CONCENTRATION }
 	},
-	[SKID.RL_H_MINE] = { targetWaveFileName = "effect\\RL_H_MINE.wav" }
+	[SKID.RL_H_MINE] = {
+		targetEffectNum = 1,
+		targetEffectID = { EFID.EF_H_MINE },
+		onTarget = true,
+		LaunchZC_USE_SKILL = true
+	},
+	[SKID.SU_SHRIMPARTY] = {
+		targetEffectNum = 1,
+		targetEffectID = { EFID.EF_FRESHSHRIMP },
+		targetWaveFileName = "effect\\su_shrimpparty.wav",
+		onTarget = true,
+		LaunchZC_USE_SKILL = true
+	},
+	[SKID.SU_PURRING] = {
+		targetEffectNum = 1,
+		targetEffectID = { EFID.EF_SU_GROOMING },
+		targetWaveFileName = "effect\\su_grooming.wav",
+		onTarget = true,
+		LaunchZC_USE_SKILL = true
+	},
+	[SKID.SU_MEOWMEOW] = {
+		targetEffectNum = 1,
+		targetEffectID = { EFID.EF_SU_CHATTERING },
+		targetWaveFileName = "effect\\su_chattering.wav",
+		onTarget = true,
+		LaunchZC_USE_SKILL = true
+	},
+	[SKID.RL_FIREDANCE] = {
+		effectNum = 1,
+		effectID = { EFID.EF_FIREDANCE },
+		targetEffectNum = 1,
+		targetEffectID = { EFID.EF_TRACKING },
+		waveFileName = "effect\\µҐЅєЖд¶уµµ.wav"
+	},
+	[SKID.RL_RICHS_COIN] = { effectNum = 1, effectID = { EFID.EF_RICHS_COIN_A }, LaunchZC_USE_SKILL = true },
+	[SKID.RL_E_CHAIN] = { effectNum = 1, effectID = { EFID.EF_E_CHAIN }, LaunchZC_USE_SKILL = true },
+	[SKID.RL_HEAT_BARREL] = { effectNum = 1, effectID = { EFID.EF_HEAT_BARREL }, LaunchZC_USE_SKILL = true },
+	[SKID.RL_FALLEN_ANGEL] = { effectNum = 1, effectID = { EFID.EF_FALLEN_ANGEL }, LaunchZC_USE_SKILL = true }
 }

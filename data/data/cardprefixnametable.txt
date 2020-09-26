@@ -443,6 +443,7 @@
 4443#Ñàõàğñêîãî#
 4444#Òàéíîãî#
 4445#Âåòğåíîñòè#
+4446#Sharpen#
 4447#ßäîâèòîñòè#
 4448#Òğåêëÿòîãî#
 4449#Îñâÿùåííîãî#
@@ -450,10 +451,6 @@
 4451#Äîñòóïà#
 4452#Ìàãèè#
 4453#Æåñòîêîñòè#
-4454#Ïğîùåíèÿ#
-4455#Ëşáâè#
-4478#Ğàçãîâîğà#
-4479#Ïğîáëåì#
 4456#Ìàñòåğà çàêëÿòèé#
 4457#Ïñèõèêè#
 4458#Èëëşçèè#
@@ -477,108 +474,233 @@
 4476#Àòîìèêà#
 4477#Áåñíîâàòîãî#
 4522#Õîëîäíîãî#
-//--- 2011 / 11 / 18 Ä«µå 30Á¾ Ãß°¡
-4505#¿Àºê ¸ÅµåÀ­Ä¡#
-4506#¿Àºê ¾ÆÃÄ#
-4507#½ºÄ«¶ó¹Ù#
-4508#¿Àºê ¸Åµå¹ö¼­Ä¿#
-4509#¹æÃæÀÇ#
-4510#ºí·¢¾Æ¿ô#
-4511#½Ã·»Ä¡¿ò#
-4512#¿Àºê ¾ÆÄİ¶óÀÌÆ®#
-4513#¿Àºê ½ÃÇÁ#
-4514#¿¢¼Ò½ÃÁò#
-4515#Ä«µğÀÇ#
-4516#¿Àºê ½ºÅæ½ºÅ²#
-4517#¿Àºê ¸ÅÁö¼Ç#
-4518#ÇïÆÄÀÌ¾î#
-4519#¼¼¶óÇË#
-4520#½ºÅ©¸²#
-4521#¸ğÅ»ºí·Î¿ì#
-4522#Äİµå#
-4523#¾ÆÄí¾Æ¸®½º#
-4524#¿Àºê ¼Òµå¸Ç#
-4525#½ºÀ§ÇÁ#
-4526#¿Àºê ¸ÅÁ÷µğÆæ½º#
-4527#¿Àºê µğÆæ½º#
-4528#Á¤½Å·ÂÀÇ#
-4529#±Ù·ÂÀÇ#
-4530#¿Àºê ¸ÓÃµÆ®#
-4531#¾ğ´õÄ¿½º#
-4532#ÁúÁÖÀÇ#
-4533#ºí¶óÀÎµù#
-4534#¹°´ëÆ÷ÀÇ#
-
-4545#Ç²³»±â#
-
-4546#¸ÁÇÑ#
-
-//--- 2012³â10¿ù_¿µ¿õÀÇÈçÀû
-4556#ÆÄ¿ö¿öµå#
-4557#¿Àºê ½ºÆçÆÄ¿ö#
-
-//--- 2013 / 02 / 15 ºÀÀÎµÈ´ÙÅ©·Îµå Ãß°¡
-4488#¿Àºê ÇÏÇÁµÒ#
-
-// 2013³â 2¿ù_¸¶½ÅÀü¸Ş¸ğ¸®¾ó
-4559#ºí¸®Ã÷#
-
-// 2013³â_4¿ù_È®·üÇüÄ³½¬
-4497#ÇÏÇÁ½ºÅèÄÚÂ¡#
-
-//--- 2013 / 05 / 22 ºÀÀÎµÈº£¸£Á¦ºêºê Ãß°¡
-4486#¿Àºê ÇÏÇÁºò¸¶¿ì½º#
-
-//--- 2013³â6¿ù_½Å±ÔÄ«µå
-4560#ºê¶ó±âÀÇ#
-4561#¸¶¹ıº¸È£ÀÇ#
-4562#Ä§ÅõÀÇ#
-4563#¿°»êÀÇ#
-4564#½Å»çÀÇ#
-4565#´ë½ÊÀÚÀÇ#
-4566#Çà¿îÀÇ#
-4567#¹ÙµåÀÇ#
-4568#±×³ë½Ã½ºÀÇ#
-4569#±Ù¿øÀÇ#
-4570#ºü¸¥È¸º¹ÀÇ#
-4571#¾ô¸ÅÀÓÀÇ#
-4572#°ß°íÇÔÀÇ#
-4573#´í¼­ÀÇ#
-4574#¼Òµå¸¶½ºÅÍ#
-4575#¼ôÄÆ#
-4576#ÀÌµà½º#
-4577#»çÀÌÅ±#
-4578#ÇÇ¾î#
-4579#¸ğ´×½ºÅ¸#
-4580#¿Àºê µ¥ºô¸®½Ã#
-4581#ÅäÀÏ·¿#
-4582#½ºÅ×¹Ì³Ê#
-4583#µ¶ÃÊÀÇ#
-4584#¹ìÆÄÀÌ¾î#
-4585#Ä¿Áîµå#
-4586#¹Ù¶÷ÀÇ#
-4587#½½·¡¼Å#
-4588#¿Àºê ÆÄ¿öÇ®#
-4589#¿Àºê ¸®Ä¡#
-4590#¹«±â·ÂÀÇ#
-4591#ÇÍºûÀÇ#
-4592#¼®È­ÀÇ#
-4593#¿Àºê ½´ÅÍ#
-4594#¿Àºê µ¥½ººí·Î¿ì#
-4595#¿Àºê ¾Ö½Ãµå#
-4596#¿Àºê ÀÎÅÚ¸®#
-4597#¹°ÀÇ#
-4598#¿°ÀÇ#
-4599#ºÒÀÇ#
-4600#¶¥ÀÇ#
-4601#ÆøÁÖÀÇ#
-4602#±¤Æ÷ÀÇ#
-4603#¾Ç·ÉÀÇ#
-4604#¾Ç½ÅÀÇ#
-4605#±¾ÁÖ¸²ÀÇ#
-4606#¿øÇÑÀÇ#
-4607#»ç¼­ÀÇ#
-4480#¿Àºê ÇÏÇÁ¸®·Îµå#
-4485#ÇÏÇÁ¾îºñ½º#
-4610#°¡È£ÀÇ#
-4539#ÇÏÇÁ¿À¸¸ÇÔÀÇ#
+4505#of Mad Witch#
+4506#of Archer#
+4507#Scaraba#
+4508#of Mad Berserker#
+4509#Insectproof#
+4510#Black-out#
+4511#Silentium#
+4512#of Acolyte#
+4513#of Thief#
+4514#Exorcism#
+4515#Flora#
+4516#of Stone Wall#
+4517#of Magician#
+4518#Burning#
+4519#Seraphim#
+4520#Screaming#
+4521#Mortal Blow#
+4523#Aquarius#
+4524#of Swordman#
+4525#Sweeping#
+4526#of Magical Defense#
+4527#of Defense#
+4528#Spirit#
+4529#Physical#
+4530#of Merchant#
+4531#Under Curse#
+4532#Sprinting#
+4533#Blinding#
+4534#Water Bomb#
+4545#Novice#
+4556#Power Ward#
+4557#of Spell Power#
+4559#Blitz#
+4560#of Bragi#
+4561#of Magic Protection#
+4562#of Penetrating#
+4563#of Acid#
+4564#of Gentleman#
+4565#of Grand Cross#
+4566#of Lucky#
+4567#of Bard#
+4568#of Gnosis#
+4569#of Origin#
+4570#of Fast Recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
+4575#Short Cut#
+4576#Educe#
+4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4580#of Devilish#
+4581#Toilet#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4589#of Richness#
+4590#of Helplessness#
+4591#of Bloody#
+4592#of Stone Curse#
+4593#of Shooter#
+4594#of Death Blow#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
+4610#of Protection#
+4625#Wise Man's#
+4626#of Echo#
+4627#Vibrating#
+4628#Invisible Horror#
+4629#Skinny#
+4630#Time Keeper's#
+4631#Mercurial#
+4632#Voltaic#
+4633#Queenbird#
+4634#Fatal#
+4635#Solid#
+4636#Legion#
+4637#of Drain#
+4638#Plaid#
+4639#Force#
+4640#Intelligence#
+4641#of Soul Gathering#
+4652#Punishment#
+4653#Undead Animal's#
+4654#Tomb Raider's#
+4655#Grave Keeper's#
+4656#Hypnotist#
+4657#Flame#
+4658#of Sorcery#
+4659#Adventurer's#
+4660#Strong Willed#
+4661#Toughness#
+4662#Trinitarian#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+4671#of Sorcerer#
+4672#of Sura#
+4673#of Maestro#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Geneticist#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage#
+4694#Feint#
+4695#Rainstorm#
+4696#Reverberation#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+4991#Carefree#
+27012#Active Protection#
+27013#Balkan#
+27014#Mirage#
+27015#Restore#
+27016#All Scanning#
+27017#Tempur#
+27018#Overclocking#
+27019#Debugging#
+27020#System-Error#
+27081#Moonlight#
+27082#Fox Tail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Sagittarius#
+27087#Truth#
+27088#Instigating#
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+27110#Fast-footed#
+27111#Crisp#
+27112#Hardy#
+27113#Frozen#
+27147#Intensive#
+27148#Default#
+27149#Sniping#
+27150#of High Level#
+27151#of Freezing#
+27152#Prompt#
+27163#Abranchia#
+27164#Coya#
+27165#Avian#
+27166#Frio#
+27167#Glacial#
+27168#Padre#
+27169#Infante#
+27170#Dust#
+27171#Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#Dirty#
+27177#Marsh#
+27178#Zero Guard#
+27179#Wild Fang#
+27180#Power Break#
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+27249#Archi#
+27250#Anemos#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odorico#
+27261#Juu#
+27262#Dwigh#
+27263#Kanavian#
+27264#Evil Shadow#
+27265#Evil Fanatic#
+31016#of Sorrow#
+31017#of Hate#
+31018#Frustration#
+31019#Chilly#
+31020#of Anger#
+31021#Madness#
+31022#Desperation#
+31023#Maniac#
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#

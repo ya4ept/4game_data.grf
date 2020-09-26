@@ -1,154 +1,178 @@
-Ўж/savechat : сохраняет чат в текстовый файл.
+Ўж/savechat: Save the chat contents as a file.
 #
-ЎжВы можете делать мини-карту прозрачной или непрозрачной, нажав ctrl+[*]
+ЎжHold shift and right-click to control the angle of the camera.
+  At this point, hold shift and double-click the right button to return to the default angle.
 #
-ЎжВы можете вращать камеру, зажимая правую кнопку мыши или клавишу shift. 
-	Двойное нажатие правой кнопки мыши возвращает первоначальный вид.
+ЎжYou can zoom in/out with the right mouse button while holding ctrl.
+  At this point, press ctrl and double-click the right button to return to the original state.
+You can also use the mouse wheel to zoom in and out of the screen.
 #
-ЎжВы можете приблизить/удалить камеру, двигая мышкой при нажатой клавише ctrl. 
-	Двойное нажатие правой кнопки при нажатой кнопке ctrl возвращает первоначальный вид. 
-	Также Вы можете использовать колесо мыши для приближения/удаления камеры.
+ЎжIf you hover over the monster, the cursor will turn into a sword.
+  At this point, you can attack with left-click.
 #
-ЎжКогда Вы наводите курсор мыши на монстра, он меняется на меч. 
-	Если нажать на курсор, находящийся на монстре, последует атака.
+ЎжThe experience you gain from monsters will be proportional to the damage you've done to them.
+ЎШ Even if you deal the same damage, the person who first attacked the monster will receive more experience.
 #
-ЎжКоличество опыта, которое Вы можете получить за убийство монстра, зависит от количества урона, который Вы ему нанесли. 
-ЎШВ случае, когда 2 игрока наносят повреждения одному монстру, больше очков опыта получает тот, кто атаковал первым.
+ЎжIf you hit a monster while holding down the Ctrl key, it will attack in lock-on mode.
+  In this state, you will automatically attack the monster until you kill it.
+  You can disable it if you click somewhere else.
 #
-ЎжДля включения функции Авто-Атаки нажмите кнопку ctrl и правую кнопку мыши на монстре (после смерти монстра функция убирается). 
-	Также Вы можете воспользоваться командой /nc.
+ЎжTo pick up an item on the ground, simply hover over the item and left-click.
+  Items picked up will be placed in your inventory.
 #
-ЎжЧтобы подобрать предмет, находящийся на земле, нажмите на него левой кнопкой мыши. 
-	Подобранный предмет будет сохранен в Вашем инвентаре.   
+ЎжYou can see detailed information along with the item's picture by hovering over the item in the item window and right-clicking.
 #
-ЎжНажав на предмет правой кнопкой мыши, Вы увидите его изображение и описание.
+ЎжThe two bars that appear directly below the player's character are the player's HP and SP.
+  The green bar is HP and the blue bar is SP. When HP reaches zero, the player will die. If the amount of HP is less than 25%, the green HP bar will turn 'red'.
 #
-ЎжДве полосы под персонажем показывает количество HP и SP. Зеленая полоса - HP (здоровье) и синяя - SP (мана). 
-	Когда HP равно 0, персонаж умирает. Когда HP становится меньше 25%, зеленая полоса становится красной.
+ЎжWhen the EXP display bar is full (100%), the character's level is raised. As you level up, you'll get a 'status point' that allows you to raise your attributes.
 #
-ЎжКаждый раз, когда полоса базового опыта набирается до 100%, Ваш персонаж получает следующий уровень. С каждым уровнем Ваш персонаж получает определенное количество очков статуса, с их помощью Вы можете улучшать Ваши характеристики.
+ЎжWhen the JOBEXP display bar below the EXP display bar is full, your character's class level will be raised. When your class level increases, you'll get a skill point that allows you to acquire or level up the skills that you can use.
 #
-ЎжКаждый раз, когда полоса профессионального опыта набирается до 100%, Ваш персонаж получает следующий профессиональный уровень. Получение одного профессионального уровня дает Вам одно очко умения, которое вы можете использовать в вашем дереве умений.
+ЎжIf you stay in one place without doing anything, you'll recover a certain amount of HP and SP.
+* If you sit down, you will be the amount restored will be twice as much, and if you weigh more than 50%, you will not restore any HP or SP naturally.
 #
-ЎжSСтоя неподвижно, Ваш персонаж восстанавливает HP и SP. HP и SP восстанавливаются в 2 раза быстрее, когда Ваш персонаж сидит.
-ЎШЕсли Ваш персонаж загружен более, чем на 50% от максимального веса, HP и SP автоматически не восстанавливаются. 
+ЎжWeight: Indicates the maximum weight a character can carry and the weight of the item they currently have.
+ You can only hold as many items up to your maximum Weight.
+ If you are carrying over 50% maximum weight capacity, HP and SP will not automatically recover. Also, if the number is more than 90%, players will not be able to attack or use skills.
 #
-ЎжВес: показывает, насколько Ваш персонаж нагружен: слева - нынешний вес, справа - максимально возможный.
-   Суммарный вес всех предметов в инвентаре не может превышать максимально возможный вес.
-   Когда вес становиться больше 50% от максимума, это показано красным цветом. С этого момента HP и SP не восстанавливаются автоматически. Кроме того, когда  вес становится более 90% от максимума, Ваш персонаж не может атаковать и использовать умения.
+ЎжZeny: Zeny is the currency used in Ragnarok.
+* You can buy many different items as long as you have the zeny to afford it!
 #
-ЎжЗени : Валюта, принятая к обращению в Мире Рагнарок.
+ЎжAs your level increases, you'll get a few status points.
+  You can use this point to customize your character's status attributes.
+  Between levels 1 and 10, you'll be given 3 points, and the amount given for every 5 levels after that will be increased by 1.
 #
-ЎжКогда уровень персонажа повышается, он получает определенное количество очков статуса.
-    Используя эти очки, Вы можете улучшать характеристики Вашего персонажа. 
-	На уровнях 1-10 Ваш персонаж получает 3 очка, после 10-го уровня общее количество очков будет увеличиваться после каждого 5-го уровня.    
+ЎжSTR (Strength): Directly affects the player's damage for melee classes.
+  As your STR rises, your maximum weight will increase, allowing you to carry more items.
 #
-ЎжСила: Увеличивает силу атаки и позволяет носить с собой больше предметов.
+ЎжDEX (Dexterity): Directly affects the player's accuracy and damage for ranged classes.
+  The higher your DEX, the more damage you will deal with bow attacks. It also increases the chance of hitting enemies without missing and affects the speed of casting magic.
 #
-ЎжСноровка: Повышает точность и уменьшает разброс атаки оружия. Уменьшает скорость произнесения заклинаний.
+ЎжAGI (Agility): Directly affects the player's attack speed and ability to dodge attacks.
+  Increasing AGI raises your FLEE and improves the chance to dodge enemy attacks. Furthermore, it improves the attack speed of various weapons.
 #
-ЎжЛовкость: Повышает скорость атаки и дает возможность уклоняться от нападений противника.
+ЎжVIT (Vitality): Directly affects the player's health points.
+  The more you increase your VIT, the less damage you'll receive from your enemies. It also increases your maximum HP and your automatic HP recovery rate.
 #
-ЎжЖивучесть: Увеличивает количество жизненной силы (HP) и уменьшает повреждения, наносимые противником.
+ЎжINT (Intellect): Directly affects the player's magic power.
+  The more INT you have, the more your magical power, magic defense, and magic resistance will increase.
 #
-ЎжИнтеллект: Увеличивает силу магической атаки и защиту от магии. Увеличивает SP персонажа.
+ЎжLUK (Luck): Affects a variety of attributes for the player.
+  With high LUK, the probability of landing a critical hit or performing a complete-evasion is increased.
 #
-ЎжLUK(Luck) : Удача: Каждые 3 единицы удачи повышают на 1% шанс нанесения критического удара. Также удача увеличивает шанс идеального уворота.
+Ўж[Print Screen] or [Scroll Lock]: Save the screenshot in the [ScreenShot] folder.
 #
-Ўж[Print Screen] или [Scroll Lock] : Сохраняет скриншот в папке [ScreenShot]
+Ўж[F10]: You can adjust the size of the dialog window.
 #
-Ўж[F10] :  Изменение размера окна чата.
+Ўж[F11]: Close all windows, leaving only the main information window and the chat window.
 #
-Ўж[F11] : Закрывает все открытые окна на экране, кроме окна базовой информации и чата.
+Ўж[F12]: Open or close the shortcut window.
+ЎШ You can use items or skills by pressing F1 to F9 by registering items or skills that you use frequently in the shortcut window.
 #
-ЎжОткрывает или закрывает окно с "горячими" клавишами.
-ЎШКнопками F1-F9 Вы можете использовать то, что Вы вынесли в окно с "горячими" клавишами.
+Ўж[INSERT]: You can stand/sit down
+ЎШ You can perform the same function by entering the [/sit] or [/stand] commands in the chat window. When sitting, HP and SP recovery rate is doubled.
 #
-Ўж[INSERT] : Встать/сесть. 
-ЎШ Также Вы можете напечатать /sit или /stand вместо нажатия на кнопку [INSERT], сидя, HP и SP восстанавливаются в 2 раза быстрее.
+Ўж[Alt] + [END]: The [HP/SP] gauge at the bottom of the character can be turned on/off.
 #
-Ўж[Alt] + [END] : Включает/выключает полоски [HP/SP].
+Ўж[Alt] + [F10]: On/off the chat window.
 #
-Ўж[Alt] + [HOME] : Включает/выключает зеленый индикатор на земле.
+Ўж[Alt] + [M]: Save various emoticons / recurring chats as macros.
 #
-Ўж[Alt] + [=] : Восстанавливает размер шрифта на размер 1*1 по умолчанию. Большинство команд нельзя осуществить, если у Вас размер шрифта 1*1.
+Ўж[Alt] + [1-9]: Use macros that you have saved using [ALT] + [M].
 #
-Ўж[Alt] + [F10] : Включает/выключает окно чата.
+Ўж/where: You can view your current map and coordinates.
 #
-Ўж[Alt] + [1~9], [Ctrl] + [-,=,\]  : "Горячие кнопки" для выражения эмоций таких, как : /! /? /ho /lv /lv2 /swt /ic /an /ag /$ /.../thx /wah /sry /heh /swt2 /hmm /no1 /??/omg /oh /X /hp /go /sob /gg /kis /kis2 /pif
+Ўж/H: Displays a description of the basic commands.
 #
-Ўж/w или /who: Показывает количество игроков на сервере в данный момент (Отключена).
+Ўж/sound: Turns on/off the sound effects.
+* You can also adjust it in the sound configuration window.
 #
-Ўж/where : Показывает место нахождения Вашего персонажа и точные координаты.
+Ўж/Effect: Allows various graphic effects in the game to be toggled on/off.
+* The speed of the game may be faster while the effect is off.
 #
-Ўж/h : Список базовых команд.
+Ўж/skip: Allows frame skip can be toggled on/off.
+* Turning off frame skip may slow down the speed of the game depending on the computer specifications.
+   It is recommended that you do not use it when you do not experience excessive screen severing.
 #
-Ўж/music : Включение/выключение фоновой музыки.
-ЎШ Также Вы можете изменять уровень громкости звука в окне опций ([Alt] + [o]).
+Ўж/ex [Character Name]: Block the character's messages, whispers, etc.
+Ўж/in [Character Name]: Unlock blocked character. 
 #
-Ўж/sound : Включение/выключение звуковых эффектов. 
-ЎШ Также Вы можете изменять уровень громкости звука в окне опций ([Alt] + [o]).
+Ўж/exall: Block all characters' conversations.
+Ўж/inall: Unblock all conversations.
 #
-Ўж/effect : Позволяет Вам включить/выключить игровые графические эффекты для увеличения скорости игры..
+Ўж/ex: Shows a list of blocked characters.
 #
-Ўж/skip :Включение/выключение пропуска кадров.
-ЎШВыключение функции пропуска кадров может повлечь задержки в игре, если у Вас слабый компьютер.
-   Если у Вас не происходит серьезных задержек в игре, мы рекомендуем не включать эту функцию.
+Ўж/organize [Party Name}: You can form a party with the name you entered.
+* If you form a party or become the party leader, you can invite other players to the party.
 #
-Ўж/ex [Имя персонажа] : Запрещает персонажу посылать Вам приватные сообщения.
-Ўж/in [Имя персонажа] : Разрешает персонажу посылать Вам приватные сообщения.
+Ўж/leave: Leave your current party.
 #
-Ўж/exall : Блокирует все сообщения от окружающих игроков. /inall : Разрешает все сообщения, включая приваты от других игроков.
-Ўж/inall : Allow all conversation including whispering from other people.
+Ўж/expel [Character Name]: Removes the character from the party if you are the party leader.
 #
-Ўж/ex : Показывает список тех, кому Вы запретили писать Вам приватные сообщения.
+ЎжIf you hold Ctrl while pressing Enter to send a message, it will send the message to your party instead.
+ЎжIf you hold Alt while pressing Enter to send a message, it will send the message to your guild instead.
 #
-Ўж/organize [Название группы] : Создать группу. 
-ЎШ Если Вы - лидер группы, вы можете приглашать в нее других людей.
+ЎжParty members are always displayed on the mini-map that appears in the upper right corner of the screen.
 #
-ЎжЕсли Вы хотите пригласить персонажа в группу, наведите на него курсор и нажмите правую кнопку мыши. В меню вы увидите 'Пригласить (имя персонажа) в группу'.
+ЎжTo send a Whisper: Enter the character's name in the box to the left of the chat window. With the TAB key, you can move the cursor between the two input boxes.
 #
-Ўж/leave : Покинуть группу, в которой Вы находитесь.
-ЎШ Эта команда не требует подтверждения, поэтому подумайте дважды, прежде чем набрать ее.
+ЎжYou can zoom in and out of the mini-map by clicking on the [+/-] icon below the mini-map that appears in the upper right corner of the screen.
 #
-Ўж/expel [Имя персонажа] : Выгнать игрока из Вашей группы. 
-ЎШ Эта команда не требует подтверждения, поэтому подумаете дважды, прежде чем набрать ее.
+Ўж[MVP System]: A system is in place to reward the player who made the greatest contribution in the battle against some boss-class monsters. This allows some items dropped by the boss to automatically go into the player's inventory when they defeat the boss-monster.
 #
-ЎжНажмите на кнопку в правом углу строки чата и выберите 'Группа'. Тогда Вы будете общаться с теми, кто в Вашей группе.
+ЎжWhen you run the game in window mode, you can move the position of the window.
+ Press Alt + [Space Bar] and then press the [M] key to drag and adjust the window position to the mouse location.
 #
-Ўж%[Текст, который вы хотите послать] : Посылается приватно тем, кто с Вами в группе.
-    Также Вы можете нажать кнопку enter, удерживая кнопку Ctrl.
+Ўж/fog: Allows you to toggle on/off the fog effect. The fog effect is used for weather representation in various fields. 
+For low-end computers, the fog effect can slow down the game, so it's a good idea to remove the fog effect. The fog effect can also be toggled on/off in the setup.
 #
-ЎжМестоположение членов Вашей группы отмечается на мини-карте (правый верхний угол) при условии, что они находятся с Вами на одной карте. Члены группы могут найти друг друга без особых проблем.
+ЎжSome equipment that drop from monsters cannot be used until they are identified. You can do this by using the Magnifying Glass items sold in the toolshop.
 #
-ЎжКак писать в приват : Напишите имя персонажа в левом окне чата, а текст, который Вы хотите отправить, - в правом. Кнопкой TAB Вы можете перемещать курсор из одного окна в другое.
+ЎжIn order to use the Hunter's trap skills, you need to consume Trap items, which are sold at toolshops.
 #
-ЎжНажимая [+/-] на мини-карте, Вы изменяете масштаб.
+ЎжYou can create a guild by consuming one Emperium. The command you create is /guild [Guild Name], and you can open the guild window with ALT+G.
 #
-Ўж[Система MVP] : Эта система была разработана для защиты наград, которые получает игрок. При убийстве Босса выпадает редкая вещь и автоматически попадает в инвентарь того игрока, который нанес больше повреждений.
-	Если редкая вещь не выпадает, то игрок (MVP) получает 50% опыта, уже полученного от убийства Босса.
+ЎжIf you wish to disband a guild, you can use /breakguild [Guild Name] to disband it. However, only the guild master can do this and all other guild members will need to be kicked out first.
 #
-ЎжЕсли Вы играете в оконном режиме, Вы можете поменять расположение окна, нажав на клавиши [Alt] + [Space Bar] при зажатой клавише [M] и передвигая окно при помощи стрелок на клавиатуре или мышью.
+ЎжTo put a card into an item, double-click on the card and a window will appear with all available equipment you are carrying that can accept that card.
 #
-Ўж/fog : Включение/выключение эффекта тумана. Эффект тумана зависит от погоды в локации. Выключение этого эффекта может помочь игрокам со слабыми системными требованиями. 
-	Если игра зависает или происходит рассоединение с сервером без определенной причины, отключите эффект тумана. Также вы можете отключить эффект тумана в окне установки.    
+ЎжBe careful of certain status effects that hinder your character's abilities:
+- Stone: You become stunned and unable to move.
+- Blind: The vision radius becomes limited.
+- Sleep: No actions can be performed. You will wake up over time or if you are attacked.
 #
-ЎжВещи, выпавшие из монстров, необходимо определить, используя лупу. Лупу можно купить у лавочника.
+ЎжIf you die, you will lose experience!
 #
-ЎжКапканы можно купить у лавочника.
+ЎжSpeak to a Kafra Employee if you wish to save your spawn location, use storage, warp to certain maps, or rent a cart as a merchant class.
 #
-ЎжВы можете создать гильдию, используя Империум. Команда для создания гильдии /guild [Имя гильдии], "горячая кнопка" для окна гильдии - ALT+G.
+Ўж[Alt] + [J]: Opens a window that allows you can see information about the pet you currently have.
 #
-ЎжДля чата с членами гильдии введите : /gc сообщение или $ сообщение, или же ALT+ENTER после сообщения.
+ЎжCharacter Tracking: If you hold [Shift] + right-click on a character you want to follow, you'll automatically follow that character until you click elsewhere.
 #
-ЎжДля того, чтобы вставить карту в предмет, положите предмет в инвентарь, затем нажмите два раза на карту и выберите предмет.
+Ўж[Alt] + [L]: Opens a window of emotion icons currently available. You can double-click on an emotion to view it.
 #
-ЎжОписание эффектов, которые могут быть наложены на персонажа. 
-- Оглушение : Вас оглушили. Вы не можете двигаться, пока этот эффект действует. 
-- Тьма : Вас ослепили, ваш экран стал черным. 
-- Сон : Вы не можете двигаться, пока этот эффект действует.
+ЎжBe careful when trying to refine your equipment past its safetly level as it has a chance to break!
 #
-ЎжКогды вы умираете, у вас уменьшаются как базовый опыт, так и профессиональный, в подземельях есть шанс, что вы потеряете предметы.
+ЎжYour FLEE rate affects your ability to dodge attacks from monsters. Increasing your AGI will also increase your FLEE.
 #
-ЎжВзять Телегу, использовать Склад и сохранить игру возможно у Кафры в городах.
+ЎжYour HIT rate affects your ability to land attacks on monsters. Increasing your DEX will also increase your HIT.
+#
+ЎжMany monsters will drop equipment with extra stats and options you cannot find in the stores!
+#
+ЎжThe ONLY way to become a GM is to be hired by our California Office. We do not recruit players to be GMs!
+#
+ЎжThe GM team will NEVER ask for your password!
+#
+ЎжThe GM team will never ask you to contact them outside the ticket system. If they are demanding via instant messengers or social media, ignore them!
+#
+ЎжIf someone demands a ransom to keep your account in good standing, they are not members of the GM team. DO NOT PAY THEM!
+#
+ЎжThe GM team will NEVER ask you to install and use Teamviewer!
+#
+ЎжYou will always be able to see a GM team member in a chat room if they are there. They have no special way to be invisible!
+#
+ЎжThe GM team will always be willing to show the GM sprite. If they refuse they can be ignored.
+#
+ЎжBuying a Premium Subscription from the Cash Shop will grant access to +50% EXP/Drops, additional storage space, and access to a merchant that will buy/sell items for you while you are offline!
 #

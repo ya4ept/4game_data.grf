@@ -8,6 +8,7 @@ CmdOnOffOderList = {
 	"/showname",
 	"/fog",
 	"/aura",
+	"/aura2",
 	"/window",
 	"/miss",
 	"/q1",
@@ -29,7 +30,10 @@ CmdOnOffOderList = {
 	"/monsterhp",
 	"/cashshop",
 	"/goldpc",
-	"/roulette"
+	"/roulette",
+	"/quake",
+	"/minimap",
+	"/mineffect"
 }
 CmdHelpList = {
 	["/battlemode"] = MsgStrID.MSI_BATTLEMODE,
@@ -43,6 +47,7 @@ CmdHelpList = {
 	["/showname_off"] = MsgStrID.MSI_SHOWNAME_OFF,
 	["/fog"] = MsgStrID.MSI_FOG,
 	["/aura"] = MsgStrID.MSI_AURA,
+	["/aura2"] = MsgStrID.MSI_AURA2,
 	["/window"] = MsgStrID.MSI_WINDOW,
 	["/miss"] = MsgStrID.MSI_MISS,
 	["/q1"] = MsgStrID.MSI_Q1,
@@ -65,6 +70,7 @@ CmdHelpList = {
 	["/cashshop"] = MsgStrID.MSI_CASHSHOP_BTN_ONOFF,
 	["/goldpc"] = MsgStrID.MSI_GOLDPCCAFE_BTN_ONOFF,
 	["/roulette"] = MsgStrID.MSI_ROULETTE_BTN_ONOFF,
+	["/quake"] = MsgStrID.MSI_QUAKE_EFFECT_ONOFF,
 	["/hi"] = MsgStrID.MSI_HI,
 	["/blacksmith"] = MsgStrID.MSI_BLACKSMITH,
 	["/alchemist"] = MsgStrID.MSI_ALCHEMIST,
@@ -85,5 +91,7 @@ CmdHelpList = {
 	["/inall"] = MsgStrID.MSI_INALL,
 	["/exall"] = MsgStrID.MSI_EXALL,
 	["/pvpinfo"] = MsgStrID.MSI_PVPINFO,
-	["/hunting"] = MsgStrID.MSI_HUNTING
+	["/hunting"] = MsgStrID.MSI_HUNTING,
+	["/minimap"] = MsgStrID.MSI_MINIMAP_BUTTON_ONOFF,
+	["/mineffect"] = MsgStrID.MSI_MINEFFECT_ONOFF
 }

@@ -1,31 +1,35 @@
 %faf0e6
-^000088Основы алхимии: Приготовление зелий из хищных растений^000000
+^000088Alchemy Basics: Plant Bottle Creation^000000
 
-----------------Предисловие---------------
-Преобразование биологической материи с помощью алхимии - сложный процесс, который под
-силу лишь настоящим профессионалам. В результате экспериментов над растениями
-выяснилось, что ни одно из них не способно выдержать какого-либо алхимического
-воздействия. Едва не отчаявшись достичь результатов в этой области, мы обнаружили,
-что хищные растения с горы Мьелльнир и из Юно невероятно выносливы и способны
-выдерживать алхимические преобразования. В данной книге подробно описан процесс
-преобразования подобных растений в специальные зелья.
+
+----------------Preface--------------------
+Using alchemy to shape and mold biological forms
+is very difficult, and considered very advanced science.
+When we conducted form changing experiments on plants,
+we failed to transform any of them since they were too weak
+to survive any alchemic changes. Just before we decided to
+abandon this research, we discovered that the man-eating
+plants near Mount Mjolnir and Juno are incredibly hardy,
+and can endure alchemic transformation. This book details
+the process of transforming man-eating plants into bottle form.
 ------------------------------------------
 
 
-Описание:
-Растения-людоеды представляют собой переработанные алхимическим способом хищные
-растения так, чтобы они могли уместиться в бутылке. Если бросить такую бутылку
-на землю, появляется настоящее растение, способное атаковать противников. Алхимикам
-следует овладеть также умением [Био-Каннибализм], чтобы иметь возможность вызывать
-прирученные хищные растения.
 
-Ингредиенты: ^4b00822 Цветка-людоеда, 1 Пустая Бутылка^000000
 
-Указания:
-1) Поместите два цветка-людоеда в медицинскую ступу.
-2) Воспользуйтесь умением [Изготовить Зелье].
+What is a ^ff8040plant bottle^000000?
 
-Действуйте в соответствии с указаниями в этой книге.
-Вам следует также изучить умение [Био-Каннибализм], чтобы иметь возможность вызывать
-вызывать прирученные хищные растения.
+Plant bottles are alchemically treated man-eating
+plants that have been transformed so that they can be
+carried in bottles. Throwing this bottle in the ground will
+produce a fully grown Plant monster that will attack other
+creatures. Alchemists must have the Summon Flora skill in
+order to transform the plant bottles into man-eating plants.
 
+
+Ingredients: ^4b00822 Maneater Blossoms, 1 Empty Bottle^000000
+
+Directions: Place two Maneater Blossoms in a medicine
+bowl, and then use the Prepare Potion skill while referring
+to this book. You must learn the Summon Flora skill to
+transform plant bottles into man-eating plants again.

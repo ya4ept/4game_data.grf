@@ -1,65 +1,61 @@
 %c0c0c0
-^000088Дневник молодого путешественника^000000
+^000088Young Adventurer's Journal^000000
 
-^778899Глава 1: Проклятие^000000
-
+^778899Chapter 1: The Curse^000000
 
 3.
-Ксар стоял перед дверью, ведущей внутрь статуи огромного моррокского сфинкса, и
-пытался восстановить в уме события, произошедшие три дня назад. Но он не мог
-вспомнить ничего, кроме тоста, который говорил Эшеру, желая успешно получить звание
-командора. Тогда он напился так, что следующие два дня пришлось провести в постели.
-Это было совершенно ему не свойственно, ведь обычно он совсем не пил и даже не курил.
-Он боялся, что перестанет владеть собой или потеряет способность чувствовать яды,
-поэтому всегда отказывался, когда товарищи звали его выпить. Это был первый подобный
-случай в его жизни.
+Kshar was standing in front of the entrance to the giant Sphinx in Morroc, running over 
+what he could remember from what had happened three days ago. He recalled making a toast 
+with Aher, wishing him luck on his pilgrimage to become a Lord Knight, but nothing else. 
+He had to stay in bed for two days from all the alcohol he drank. This was especially 
+unusual since he always refused to drink or smoke. He didn't want to risk hampering 
+his balance or sense of smell to detect poison, so he never even went out with 
+his comrades for a casual drink. This was actually his first hangover.
 
-"Эй, ты плохо выглядишь. Похоже, у тебя похмелье. А я думал, что ты совсем не пьешь."
+"Whoa, you look pretty nauseated. Have you been drinking? I thought you didn't do that 
+at all."
+Kshar didn't even look up. That was Esmir's voice, calm and slightly high pitched 
+as usual. Just one of the guild's leaders, showing his concern.
 
-Ксар даже не взглянул на говорившего. Он узнал спокойный высокий голос Эсмира, одного
-из лидеров гильдии. Тот был обеспокоен.
-"Хм, вот не думал, что увижу тебя в таком состоянии. Похоже, ты хорошо отдохнул."
+"Oh, you're definitely hung over. Huh. I never thought I'd see this. Still, it's good to 
+see that you have your off days too."
+Ziklein. Another guild leader come to check up on him. Kshar shrugged in an effort to show 
+that he was okay, and then took a deep breath. He was such a fool to try to keep up with 
+Aher's drinking. His superiors were here now, and he should give them whatever attention 
+he could muster. However, they didn't seem to notice he was capable of listening.
 
-Рядом появился Литерон. Ксар глубоко вздохнул и постарался сделать вид, что все в
-порядке. Глупо было пытаться угнаться за Эшером в количестве выпитого. Теперь ему
-нужно было показать начальству, что он готов к делу. Однако, похоже, они даже
-не замечали, что он их слышит.
+"I thought he just got his assignment two days ago. Do you think he'll be alright?"
+"Oh, yeah. So he went drinking, even though he's got a job to do? Pretty gutsy."
+"Hey, Esmir. Aren't you supposed to help Kshar in his assignment?"
+Esmir shrugged at Ziklein. He didn't know much about it. Ziklein started explaning 
+Kshar's mission from the guild master to Emsir. They were still talking 
+as if Kshar couldn't hear them, and this made him furious.
 
-"Я слышал, что два дня назад он получил задание. Думаешь, он справится?"
-"Значит, он так напился, несмотря на поручение? И как только он осмелился?.."
-"Послушай, Эсмир, а разве ты не должен был помогать ему в этом деле?"
+Kshar looked up to the sky. The sandy winds should have blocked his view, but he could see 
+that it was crisp and blue. The deepness of the color brought his mind into focus. 
+He was sober now, even if he did have a pounding headache. 
 
-Эсмир пожал плечами. Он об этом почти ничего не знал. Литерон начал объяснять, какое
-задание было поручено Ксару. Они продолжали разговаривать так, как будто его здесь
-не было, и это его очень злило.
+"Aaaaaaaaahhhh!"
 
-Ксар поднял голову и взглянул на небо. Песок, поднятый ветром с земли, мешал
-смотреть, но все же он разглядел, какое оно синее и безоблачное. Синева неба вернула
-ему чистоту мыслей, и, несмотря на головную боль, он наконец почувствовал себя
-трезвым.
-"A-а-а-а!"
+Kshar screamed to the sky (it was probably a powerful kihop or a scream of rage--it was 
+hard to tell), and then ran straight into the dark mouth of the Sphinx. He'd been in there 
+so many times that he could navigate its maze with his eyes closed. He worked on reflex 
+alone, slashing nearby Drainlairs and wandering undead slaves as he sped past them.
 
-Ксар с криком бросился в темный ход, ведущий внутрь сфинкса. Он бывал там столько
-раз, что теперь нашел бы в лабиринте дорогу даже с закрытыми глазами. Он все
-быстрее двигался вперед, пронзая мечом попадавшуюся на пути нежить и летучих мышей.
+"This mission is so stupid! We get enough burial accessories from the Assassin test 
+applicants! I don't see why he wants more of these!" Kshar slashed the throat of 
+the Requiem attacking him behind from his right Katar. 
+"Even if we did need more of this junk, the rookie Assassins could handle this! 
+I should be working on something more important!" Kshar's angry thoughts throbbed through 
+his mind in tune with his headache. He spied a Zerom, kicked open its box, and then split 
+its head open and stabbed an approaching Drainlair with the same Katar 
+in one fluid motion. The monsters lay still on the stone floor in a puddle of their dark 
+blood.
 
-"Что за дурацкое задание! Нам хватает тех погребальных принадлежностей, которые
-приносят будущие ассасины! Зачем им понадобилось еще?!"
-
-Ксар перерезал своим катаром горло напавшего на него сзади реквиема.
-
-"Даже если бы нам действительно был нужен этот хлам, с заданием мог бы
-справиться любой новичок! Я заслуживаю более важных поручений!"
-
-От злости у Ксара еще сильнее разболелась голова. Одним ударом раскроив череп зерому
-и проткнув приближавшегося к нему драйнляра, он двинулся дальше. Монстры остались
-лежать на полу в луже крови.
-
-А снаружи два ассасина продолжали разговор.
-"Почему глава гильдии поручил это дело Ксару? Даже если он ему не нравится, зря он
-дает ему такие поручения."
-"Эсмир... Глава гильдии знает, что делает. Ты никогда не задавался вопросом, как Ксар
-так быстро стал таким сильным? Он должен научиться выполнять любые задания. Конечно,
-сейчас Ксар очень зол, но таким образом глава гильдии побуждает его действовать. Ты
-скоро поймешь, что я имею в виду..."
-
+Outside, the two senior Assassins were chatting.
+"Why does the Guild Master pick on Kshar like this? I mean, that guy is cream of the crop. 
+Even he doesn't like Kshar, he shouldn't be assigning these kinds of missions to him."
+"Esmir... The master has got it all planned out. Haven't you ever wondered how Kshar 
+got so strong so quickly? He wants to prove to the master that he can do anything 
+the master asks of him. Sure, Kshar's angry as hell, but the Guild Master is motivating 
+him in his own way. You'll see what I mean..."
