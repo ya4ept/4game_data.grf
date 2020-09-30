@@ -29754,10 +29754,7 @@ Can be identified by
 using a Magnifier.
 #
 5498#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5524#
 Unknown item
@@ -29949,10 +29946,7 @@ Can be identified by
 using a Magnifier.
 #
 18505#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 16689#Garuda Hat Box#
 16325#Rune Hairband Box#
@@ -49102,12 +49096,7 @@ Job: ^777777All jobs^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20071#
-^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
-A lost wolf puppy, maybe you should carry it like its mother to comfort it.
-Class: ^777777Costume Gear^000000 Defense: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Lv: ^7777771^000000
-Job: ^777777All Jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 20041#
@@ -49678,12 +49667,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 20405#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-20018#
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 20038#
 Class: ^777777Costume^000000 Def: ^7777770^000000
 Weight: ^7777770^000000
@@ -49701,15 +49684,6 @@ Job: ^777777All^000000
 #
 20762#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
-20071#
-It seem he love his mother.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 19954#
 A mysterious glasses which shows objects in 3-dimentional.
@@ -54395,3 +54369,66 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 31848#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
+9936#
+You hear a quiet, ominous growl coming from the box.
+Are you sure you want to open it?
+^ffffff_^000000
+Open to obtain one of the following items:
+Desert Wolfling
+Von Wolf Mask
+Red Riding Hood
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Wolf Cub In Mouth
+Drooping Ernst Von Wolf
+Inf. Giant Fly Wing Box (1 h.)
+Wolf Ears
+Bizarre Beast Ears
+Umbala Spirit Bone
+Wolf King Helm
+Bloody Branch x4
+Halter Lead Box (7 d.)
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Guyak Pudding x30
+Token of Ziegfried x9
+Water of Life x10
+Magnificat Scroll x10
+Greed Scroll Box (100 pcs.)
+Bubblegum Battle Manual
+LV10 Blessing Scroll x10
+LV10 Increase Agi Scroll x10
+Convex Mirror x7
+Light White Potion x100
+Light Blue Potion x40
+Well-Dried Bone x25
+Big Defense Potion x30
+Big Magic Defense Potion x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31179#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31664#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31686#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31698#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9936#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20018#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31250#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+

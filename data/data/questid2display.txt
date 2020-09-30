@@ -481,36 +481,36 @@ You have found another hot surface and recorded your findings in the report. Thi
 #
 
 2121#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
-The Guard says to go inside and ask Sahedi to help you at the airship just south of the train station.#
-Find Sahedi#
-
-2122#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
 Sahedi asked you to check around the camp to see if they can avoid any disaster from the Volcano.#
 #
 
-2123#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
-Answer Colonel Vito's questions for the first part of the soldier training.#
-#
-
-2124#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
+2122#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
 Before going onto the next part of the training, Colonel Vito has sent you to inspect the machines in the pipe zone to the north of the building.#
 #
 
-2125#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
-You found a control panel that seems to be running smoothly. Report to Colonel Vito that everything looks to be in working order.#
-#
-
-2126#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
+2123#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
 For the second training exercise, Colonel Vito said to chop the practice dummy 10 times.#
 #
 
+2124#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
+You finally managed to get rid of Vito. Now you can continue check the camp.#
+#
+
+2125#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
+You witnessed people carrying boxes with the stamp of the Schwaltzvalt Republic on them. These must be the military supplies for the camp. Return to Sahedi and inform him of the current volcano's status.#
+#
+
+2126#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
+Take the report back to Geologist Gio at the bar.#
+#
+
 2127#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
-It seems that you are done with the training. Now that you're recognized as a soldier you should be able to investigate more freely.#
+Geologist Gio says that you can go to his bookshelf back at the institute and find a small box of goodies, where you can keep the first thing that pops out of it.#
 #
 
 2128#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
-You witnessed people carrying boxes with the stamp of the Schwaltzvalt Republic on them. These must be the military supplies for the camp. Return to Sahedi and inform him of the current volcano's status.#
-Sahedi.#
+After receiving your price from Gio's box of goodies you should return to High Priest Zhed and report what you found at Thor's Volcano.#
+#
 
 60211#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
 Take the report back to Geologist Gio at the bar.#

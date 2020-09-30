@@ -8386,7 +8386,7 @@
 5671#Incarnation Of Morocc Doll#
 16758#Umbala Spirit Box#
 16760#Early Wrapped Christmas Gift#
-18505#Umbala Spirit#
+18505#Umbala Spirit Bone#
 6444#Empelium G#
 16854#Clothing Dye Box#
 16855#Clothing Dye Orig Box#
@@ -8967,3 +8967,11 @@
 31188#Violet Gothic Bonnet#
 31190#Winged Mini Hat#
 31848#Rose Gothic Bonnet#
+20071#Wolf Cub In Mouth#
+31179#Von Wolf Mask#
+31664#Drooping Ernst Von Wolf#
+31686#Desert Wolfling#
+31698#Red Riding Hood#
+9936#Feral Treasure#
+20018#Wolf Ears#
+31250#Bizarre Beast Ears#

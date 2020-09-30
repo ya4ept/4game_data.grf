@@ -8503,3 +8503,14 @@
 31190#Angel_Mini_Silk_Hat_B#
 31848#C_Rose_Gothic_Bonnet#
 
+
+20071#입에문워그#
+31179#울프마스커레이드#
+31664#데저트울프모자#
+31686#C_Desert_Wolf_B#
+31698#C_Pigtail_Red_Hood#
+9936#늑대왕스크롤#
+20018#호로의귀#
+31250#Wonderful_Beast_Ear#
+
+18505#움발라의혼#

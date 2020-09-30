@@ -4069,7 +4069,7 @@
 14440#Dice Hat Box#
 5497#Hat#
 14441#King Tiger Doll Hat Box#
-5498#Helm#
+5498#Headgear#
 14442#Wolf King Helm Box#
 
 // --------- 2009.07.07. Cash item update -------------
@@ -7861,3 +7861,13 @@
 31188#Headgear#
 31190#Headgear#
 31848#Headgear#
+
+20071#Accessory#
+31179#Headgear#
+31664#Headgear#
+31686#Accessory#
+31698#Headgear#
+9936#Feral Treasure#
+18505#Accessory#
+20018#Headgear#
+31250#Headgear#

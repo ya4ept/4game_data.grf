@@ -5742,23 +5742,19 @@ Jobs: ^777777Swordsman / Merchant^000000
 1370#
 ^808080A gigantic and ridiculously heavy axe that requires great strength to use it properly.^000000
 ^FFFFFF_^000000
+[If base STR is 95 or higher]
+ATK + 340
+Adds a chance of breaking the enemy's armor when performing a physical attack
+Adds a 30% chance of inflicting ^800000Stun^000000 on the target when performing a physical attack
+ASPD - 40%
+Increases SP cost of skills by 100%.
 Type: Weapon
 Class: Two-Handed Axe
 Attack: 10
-Property: Neutral
 Weight: 600
 Weapon Level: 4
 Required Level: 80
 Jobs: Swordsman Jobs, Merchant Jobs
-^FFFFFF_^000000
-ASPD - 40%
-Increases SP cost of skills by 100%.
-This item is indestructible in battle.
-^FFFFFF_^000000
-If base STR is 95 or higher,
-ATK + 340
-Adds a 5% chance of inflicting ^800000Coma^000000 on Demi-Human race targets when performing a physical attack.
-Adds a 30% chance of inflicting ^800000Stun^000000 on the target when performing a physical attack.
 #
 
 1371#
@@ -9816,17 +9812,11 @@ Jobs: Hunter Jobs, Bard Jobs, Dancer Jobs
 ^808080A bow crafted out of moonstone with an attached blade that allows its user to block and counter enemy attacks. The drawback is that this bow is quite heavy.^000000
 ^FFFFFF_^000000
 ^FFFFFF_^000000
-DEF +2 if not refined.
-DEF +3 when refined to +6.
-DEF +5 when refined to +9.
-^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Luna Bow [2]^000000
-^008080Lunatic Brooch [1]^000000
-DEX + 1
-Max SP + 50
-SP Recovery + 10%
-^FFFFFF_^000000
+DEF +2 
+[If refined to +6 or higher]
+DEF +3 
+[If refined to +9 or higher]
+DEF +5 
 Type: Weapon
 Class: Bow
 Attack: 100
@@ -11285,6 +11275,10 @@ Adds a 10% chance of casting ^0000FFLevel 2 Wide Confusion^000000 on the target 
 1920#
 ^808080When musicians play this legendary instrument, their consciousness is fully absorbed, returning only once they've realized that they've finished their performance.^000000
 ^FFFFFF_^000000
+ASPD + 100%
+HP Recovery -100%
+Drains 50 HP from the user every 5 seconds
+Reduces DEX by massive rate
 Type: Weapon
 Class: Instrument
 Attack: 10
@@ -11293,11 +11287,6 @@ Weight: 180
 Weapon Level: 4
 Required Level: 70
 Jobs: Minstrel Jobs
-^FFFFFF_^000000
-DEX - 100%
-ASPD + 100%
-HP Recovery -100%
-Drains 50 HP from the user every 5 seconds.
 #
 
 1921#
@@ -12635,15 +12624,13 @@ Jobs: ^777777Mage / Soul Linker / Wizard / Sage^000000
 A magnificent
 platinum shield that
 is rumored to be able
-to reflect harmul magic. Reduces damage from
+to reflect harmul magic. 
+Reduces damage from
 Mid and Large sized
 monsters by 15%, and
 reduces damage from
-Undead monsters by
-10%. Has a 40% chance
-to reflect magic for
-2 seconds with each
-magic spell attack.
+Undead monsters by 10%.
+Whenever you receive a Magical Damage there is small chance to reflect all offensive magic against you at 40% chance for 2 seconds.
 MDEF +5
 Class: ^777777Shield^000000
 Defense: ^77777795^000000
@@ -12672,14 +12659,11 @@ Jobs except Novice^000000
 A rough shield
 covered in spikes
 that deters rushing
-enemies. MDEF +2.
-When worn with
-Bison Horn:
-^6A5ACDBison Set^000000
-^3CB371Thorny Buckler^000000
-^3CB371Bison Horn^000000
+enemies. 
+MDEF +2.
+[When worn with Bison Horn]
 +10% Aspd Bonus
-+5% Reflect Melee damage
++5% Reflect physical Damage
 Class: ^777777Shield^000000
 Defense: ^77777785^000000
 Weight: ^777777100^000000
@@ -14432,6 +14416,7 @@ Sage, and Soul Linker^000000
 An armor that is enchanted with the Fire Property.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
+Property: ^777777Fire^000000
 Weight: ^777777220^000000
 Required Level: ^77777745^000000
 Jobs: ^777777Swordsman and
@@ -14659,8 +14644,8 @@ and Soul Linker Jobs^000000
 This plate armor
 was forged using
 mysterious materials
-from a meteor. Adds
-30% tolerance to
+from a meteor. 
+Adds 30% tolerance to
 Stun and Freeze
 statuses.
 Class: ^777777Armor^000000
@@ -14710,11 +14695,9 @@ stimulates all the
 muscles used in firing
 arrows, increasing
 accuracy while reducing stress on the body.
-CRI +6 with additional
-CRI bonus determined
-by LUK stat. MDEF +5.
-Skill Delay reduced
-by 23%.
+CRIT +6 with additional CRIT bonus determined by LUK stat. 
+MDEF +5
+Skill Delay reduced by 23%.
 Class: ^777777Armor^000000
 Defense: ^77777742^000000
 Weight: ^77777775^000000
@@ -16180,10 +16163,10 @@ A symbol worn by
 runners that just
 makes you want to
 sprint when you
-wear it. Agi +2.
-Flee +10 when worn
-with Black Leather
-Boots.
+wear it. 
+Agi +2.
+[When worn with Black Leather Boots]
+Flee +10 
 Class: ^777777Garment^000000
 Defense: ^77777713^000000
 Weight: ^77777750^000000
@@ -17362,33 +17345,39 @@ Jobs: ^777777All^000000
 2678#
 A ring imbued with the power of the fire spirit king, which can be used to strengthen the wearer's weapon.
 This ring forms a matching set with the Ring of Resonance.
-Str +2, Vit +1, ATK +15.
+Str +2
+Vit +1
+ATK +15
 Increases resistance to Fire property attacks by 10%.
 Adds a chance to auto cast various skills with each physical attack.
-When worn with the Ring of Resonance, this ring adds the Auto Spell ability and increases auto-casting chance.
+[When worn with the Ring of Resonance] 
+Chance to auto cast various skills increases.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
-Jobs: ^7777772-2 Transcendent Class^000000
+Jobs: ^777777Transcendent Class^000000
 #
 2679#
 A ring that resonates
 with the Ring of Flame
 Lord: together, they
 form a matching set.
-Agi +2, Vit +1. MDEF +2.^FFFFFF  ^000000 Adds a chance of auto
-casting various skills^FFFFFF    ^000000 while receiving physical damage.
+Agi +2
+Vit +1
+MDEF +2 
+Adds a chance of auto сasting various skills when attacking.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
 Weight: ^77777710^000000
-Jobs: ^7777772-2 Transcendent Class^000000
+Jobs: ^777777Transcendent Class^000000
 #
 2680#
 A ring that holds
 the power of lesser
 elemental spirits,
 but its true effect is
-unknown. All Stats +1.
+unknown. 
+All Stats +1.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17598,11 +17587,10 @@ you feel as if you
 could draw upon
 the dexterity that
 chef used in cooking.
-Dex +2, MATK +3%
-Cast Time
-reduced by 10% when
-worn with Orlean's
-Server.
+Dex +2
+MATK +3%
+[When worn with Orlean's Server]
+Cast time reduced by 10%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -23138,7 +23126,7 @@ Weight: ^7777771^000000
 #
 4427#
 When compounded into a One-Handed or Two-Handed Sword,
-CRI +5, Hit +5,
+CRIT +5, Hit +5,
 increases power
 of ^FF0000Bowling Bash^000000
 skill by 25%
@@ -23148,7 +23136,7 @@ Weight: ^7777771^000000
 #
 4428#
 When compounded to a Bow,
-CRI+5, Hit +5,
+CRIT+5, Hit +5,
 increases the power
 of the ^FF0000Arrow Shower^000000
 skill by 50%.
@@ -23166,8 +23154,8 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4430#
-ATK, CRI, HIT is increased depending on the wearer's job level.
-Has a low chance of Autocasting ^FF0000Earthquake^000000 Lv.2 when receiving physical attack.
+ATK, CRIT, HIT is increased depending on the wearer's job level.
+Has a low chance of Autocasting ^FF0000Earthquake^000000 Lv.10 when receiving physical damage with a melee attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -29313,6 +29301,7 @@ Weight: ^7777771^000000
 // --- effect box ---
 
 12027#
+Very strange box.
 Restores an amount
 of HP equal to 9% of
 the user's Max HP, but
@@ -48848,11 +48837,16 @@ placeholder
 placeholder
 #
 5498#
-Made out of a Wolf King's fur and feels like you're surrounded by a dignified force when worn but basically worn for its looks.
-Class: ^777777Costume^000000
-Location: ^777777Upper/Middle^000000
-Defense: ^7777770^000000
-Weight: ^77777760^000000
+A helmet made from the head of the Wolf King.
+It looks very menacing and ominous.
+FLEE + 10
+VIT + 5
+Damage from Demihuman monsters -5%
+[For each refine level]
+Damage from Demihuman monsters -1%
+Class: ^777777Headgear^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777775^000000    Weight: ^77777760^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -49110,19 +49104,6 @@ Defense: ^7777775^000000
 Location: ^777777Upper & Middle ^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-18505#
-An accessory which is traditionally used in piercings by the Umbala tribespeople.
-MaxHP +1%.
-Increases the recovery rate of 'Meat' by 25%.
-Has a chance of dropping 'Meat' when defeating monsters.
-^ff0000Can be traded, stored, and vended^000000
-Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Lower ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000 
 Jobs: ^777777All^000000
 #
 16689#
@@ -71688,12 +71669,14 @@ Required Lv.: ^7777771^000000
 Job: ^777777All^000000
 #
 20071#
-^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
-A lost wolf puppy, maybe you should carry it like its mother to comfort it.
-Class: ^777777Costume Gear^000000 Defense: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Lv: ^7777771^000000
-Job: ^777777All^000000
+You and your child are moving somewhere, right?
+Looking for a new den?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 20041#
@@ -72565,12 +72548,6 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-20018#
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 20038#
 Class: ^777777Costume^000000 Def: ^7777770^000000
 Weight: ^7777770^000000
@@ -72605,15 +72582,6 @@ Location: ^777777Garment^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-20071#
-It seem he love his mother.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 19954#
 A mysterious glasses which shows objects in 3-dimentional.
@@ -81987,16 +81955,15 @@ Opening it will randomly give you one of the following items.
 Weight: ^7777771^000000
 #
 18505#
-An accessory which is traditionally used in piercings by the Umbala tribespeople.
-MaxHP +1%.
-Increases the recovery rate of 'Meat' by 25%.
-Has a chance of dropping 'Meat' when defeating monsters.
-^ff0000Can be traded, stored, and vended^000000
+A ritual decoration used by the people of the Umbala tribe.
+They say that the ancestors spirits settle in such bones and then speak with their descendants. This is so creepy.
+Max HP +1%
+Increases healing effect of Meat by 25%
+Has a chance of dropping Meat when defeating monsters.
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Lower ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000 
+Location: ^777777Lower^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 6451#
@@ -87333,3 +87300,101 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+
+31179#
+There is no one more charming and handsomer than Baron Von Wolf!
+Just don't get caught by him when he's hungry!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31664#
+Ernst Von Wolf 11th, who decided to snuggle up on your head.
+Let him rest, he is so tired of his own greatness.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31686#
+A desert wolf cub that follows you everywhere.
+It looks like you have become the leader of a small but formidable pack.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31698#
+Today the horoscope advises you to beware of the Big Bad Wolves.
+Meeting them doesn't end well.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9936#
+You hear a quiet, ominous growl coming from the box.
+Are you sure you want to open it?
+^ffffff_^000000
+Open to obtain one of the following items:
+Desert Wolfling
+Von Wolf Mask
+Red Riding Hood
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Wolf Cub In Mouth
+Drooping Ernst Von Wolf
+Inf. Giant Fly Wing Box (1 h.)
+Wolf Ears
+Bizarre Beast Ears
+Umbala Spirit Bone
+Wolf King Helm
+Bloody Branch x4
+Halter Lead Box (7 d.)
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Token of Ziegfried x9
+Guyak Pudding x30
+Water of Life x10
+Magnificat Scroll x10
+Greed Scroll Box (100 pcs.)
+Bubblegum Battle Manual
+LV10 Blessing Scroll x10
+LV10 Increase Agi Scroll x10
+Convex Mirror x7
+Light White Potion x100
+Light Blue Potion x40
+Well-Dried Bone x25
+Big Defense Potion x30
+Big Magic Defense Potion x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20018#
+Fluffy pointed ears on your head are a clear sign that you are protected by the ancient Wolf God.
+Or maybe you're just a cosplayer.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31250#
+A furry ears of some unidentified strange beast.
+They look pretty cute, albeit quirky.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+
+
