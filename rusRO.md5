@@ -47,7 +47,7 @@ b8b127426039587d72a6c4f57eef748b *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 a0a44a64eff5c590c9eb95a43e97491c *Frost\frostcollector.dll
 ab4dd509421f912738e611dae2ecf0a1 *Frost\frostinfo.txt
-50ccf3002f76ab791b6cdae564c34e65 *Frost\frostInit.log
+f40df811f026b5c9332f0adb3e88eb3a *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -56,7 +56,7 @@ ffdacb6d723cbca59fa5fafe1d58a069 *Frost\frost_ff_info.txt
 5ca81d784a3f87237334dece5ff67116 *Frost\frost_redirip_info.txt
 0fcfc9c324a4ff7d990eb2e924693275 *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-60da6817a13945ce5f82dc0fb5525c9b *Frost\launcherUpdater.log
+1211f0b8d6e30c2061817baff429e76b *Frost\launcherUpdater.log
 fb9a5faddd75389b83efda3145c07c98 *Frost\ro.exe
 15fbdac21777df16b285cc2b93121bed *Frost\.inn.meta.dir\.inn.cache.txt
 15fbdac21777df16b285cc2b93121bed *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -65,6 +65,7 @@ cb04b36300ea8e987d5bcbcf54c904a4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.control.txt
 2fc6a4db7f594e73eb1de890baa4d30e *gameManager\gameManager.exe
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
+c5ac43ed77e1cc13fe282b12e98b92e8 *gameManager\log.log
 fae3e4799f0479bdc9d19086fc51ae42 *System\monster_size_effect.lub
 3926941464ddfd58f741fed30d02a483 *System\LuaFiles514\MsgString.lub
 c23ddddda4f4b3953ba3079126ea311c *System\LuaFiles514\OptionInfo.lub
