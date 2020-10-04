@@ -210,7 +210,14 @@ HOTKEY_2 = {
 	[49] = { EXE = MsgStrID.MSI_HK_ACHIEVEMENT },
 	[50] = { EXE = MsgStrID.MSI_HK_SINGLEMAP_ONOFF },
 	[51] = { EXE = MsgStrID.MSI_HK_MAIL_ONOFF },
-	[52] = { EXE = MsgStrID.MSI_HK_SWAPEQUIP }
+	[52] = { EXE = MsgStrID.MSI_HK_SWAP_EQUIPMENT },
+	[53] = { EXE = MsgStrID.MSI_HK_TWITTERWND, KEY1 = 83, KEY2 = 17 },
+	[54] = { EXE = MsgStrID.MSI_HK_TIPBOXWND_ONOFF, KEY1 = 68, KEY2 = 18 },
+	[55] = { EXE = MsgStrID.MSI_HK_CHANGE_SKILLBAR },
+	[56] = { EXE = MsgStrID.MSI_HK_COSEQUIPWND_ONOFF, KEY1 = 88, KEY2 = 18 },
+	[57] = { EXE = MsgStrID.MSI_HK_PARTYBOARDWND_ONOFF, KEY1 = 90, KEY2 = 17 },
+	[58] = { EXE = MsgStrID.MSI_HK_HUNTINGQUEST_INFO_ONOFF, KEY1 = 72, KEY2 = 17 },
+	[59] = { EXE = MsgStrID.MSI_HK_HIDE_PLAYER, KEY1 = 35, KEY2 = 17 }
 }
 HOTKEY_3 = {
 	[0] = { EXE = MsgStrID.MSI_HK_MACRO_1, KEY1 = 49, KEY2 = 18 },
@@ -233,6 +240,44 @@ HOTKEY_3 = {
 	[17] = { EXE = MsgStrID.MSI_HK_FLAG_8, KEY1 = 56, KEY2 = 17 },
 	[18] = { EXE = MsgStrID.MSI_HK_FLAG_9, KEY1 = 57, KEY2 = 17 },
 	[19] = { EXE = MsgStrID.MSI_HK_FLAG_10, KEY1 = 48, KEY2 = 17 }
+}
+HOTKEY_4 = {
+	[0] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_1, KEY1 = 112 },
+	[1] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_2, KEY1 = 113 },
+	[2] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_3, KEY1 = 114 },
+	[3] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_4, KEY1 = 115 },
+	[4] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_5, KEY1 = 116 },
+	[5] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_6, KEY1 = 117 },
+	[6] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_7, KEY1 = 118 },
+	[7] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_8, KEY1 = 119 },
+	[8] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_1_9, KEY1 = 120 },
+	[9] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_1 },
+	[10] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_2 },
+	[11] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_3 },
+	[12] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_4 },
+	[13] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_5 },
+	[14] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_6 },
+	[15] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_7 },
+	[16] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_8 },
+	[17] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_2_9 },
+	[18] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_1 },
+	[19] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_2 },
+	[20] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_3 },
+	[21] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_4 },
+	[22] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_5 },
+	[23] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_6 },
+	[24] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_7 },
+	[25] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_8 },
+	[26] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_3_9 },
+	[27] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_1 },
+	[28] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_2 },
+	[29] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_3 },
+	[30] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_4 },
+	[31] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_5 },
+	[32] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_6 },
+	[33] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_7 },
+	[34] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_8 },
+	[35] = { EXE = MsgStrID.MSI_HK_SKILLBAR2_4_9 }
 }
 BEHAVIOR_TO_WINDOWID = {
 	[0] = 0,
@@ -259,9 +304,13 @@ BEHAVIOR_TO_WINDOWID = {
 	[198] = 38,
 	[169] = 34,
 	[203] = 42,
-	[268] = 46,
+	[251] = 46,
 	[11] = 47,
-	[287] = 49
+	[270] = 49,
+	[263] = 51,
+	[282] = 53,
+	[315] = 54,
+	[324] = 57
 }
 
 -- Function #0
@@ -369,6 +418,40 @@ GetBehaviorOfHotKey = function(inKey1, inKey2)
 end
 
 -- Function #8
+GetBehaviorOfHotKey2 = function(in_SkillBar, inKey1, inKey2)
+	size = 0
+	tab = 1
+	tableLen = GetOriginalHotKeyListSize(tab)
+	if 1 == in_SkillBar then
+		tab = 2
+		tableLen = GetOriginalHotKeyListSize(tab)
+	end
+	while tableLen ~= 0 do
+		idx = 0
+		key1, key2, des, exe = GetHotKey(tab, idx)
+		while exe ~= "" do
+			if exe == MsgStrID.MSI_HK_CHATMODE_ONOFF and key1 == inKey1 then
+				return idx + 100
+			elseif key1 == inKey1 and key2 == inKey2 then
+				if 1 ~= tab and 4 ~= tab then
+					return idx + ((tab - 1) * 100)
+				end
+				return idx
+			end
+			idx = idx + 1
+			key1, key2, des, exe = GetHotKey(tab, idx)
+		end
+		size = size + tableLen
+		tab = tab + 1
+		if in_SkillBar == 0 and tab == 4 then
+			return -1
+		end
+		tableLen = GetOriginalHotKeyListSize(tab)
+	end
+	return -1
+end
+
+-- Function #9
 ChangeUserHotKey = function(tabNum, idx, exe, key1, key2)
 	TableName = string.format("USERKEY_%d", tabNum)
 	UserKeyTable = _G[TableName]
@@ -394,7 +477,7 @@ ChangeUserHotKey = function(tabNum, idx, exe, key1, key2)
 	return
 end
 
--- Function #9
+-- Function #10
 GetIndexOfTheUserHotKey = function(inKey1, inKey2)
 	tab = 1
 	tableLen = GetOriginalHotKeyListSize(tab)
@@ -414,7 +497,7 @@ GetIndexOfTheUserHotKey = function(inKey1, inKey2)
 	return -1
 end
 
--- Function #10
+-- Function #11
 ResetTheHotKey = function(tabNum, idx, inKey1, inKey2)
 	tableLen = GetOriginalHotKeyListSize(tabNum)
 	tabNum = tabNum + 1
@@ -433,7 +516,7 @@ ResetTheHotKey = function(tabNum, idx, inKey1, inKey2)
 	end
 end
 
--- Function #11
+-- Function #12
 SaveUserHotKeys = function(saveFileName)
 	saveFile = io.open(saveFileName, "w")
 	if saveFile ~= nil then
@@ -460,6 +543,64 @@ SaveUserHotKeys = function(saveFileName)
 					key1, key2, keyDes, behaviorDes = GetUserHotKeyInfo(tabNum, idx)
 				end
 				saveFile:write(tabNum, "}\n\n")
+			end
+			tabNum = tabNum + 1
+		end
+	end
+	io.close(saveFile)
+end
+
+-- Function #13
+SaveUserHotKeys2 = function(saveFileName)
+	saveFile = io.open(saveFileName, "w")
+	if saveFile ~= nil then
+		tabNum = 1
+		while tabNum <= 4 do
+			userTable = _G[string.format("USERKEY_%d", tabNum)]
+			if userTable ~= nil then
+				saveFile:write(string.format("USERKEY_%d", tabNum), string.format("USERKEY_%d = {\n", tabNum))
+				idx = 0
+				key1, key2, keyDes, behaviorDes = GetUserHotKeyInfo(tabNum, idx)
+				tableLen = GetOriginalHotKeyListSize(tabNum)
+				while idx < tableLen do
+					if behaviorDes ~= "" then
+						saveFile:write(tableLen, string.format("\t[%d] = { EXE = \"%s\"", idx, behaviorDes))
+						if key1 ~= 0 then
+							saveFile:write(tableLen, string.format(", KEY1 = %d", key1))
+						end
+						if key2 ~= 0 then
+							saveFile:write(tableLen, string.format(", KEY2 = %d", key2))
+						end
+						saveFile:write(tableLen, " },\n")
+					end
+					idx = idx + 1
+					key1, key2, keyDes, behaviorDes = GetUserHotKeyInfo(tabNum, idx)
+				end
+				saveFile:write(tabNum, "}\n\n")
+			end
+			tabNum = tabNum + 1
+		end
+	end
+	io.close(saveFile)
+end
+
+-- Function #14
+ClearUserHotKeys = function(saveFileName)
+	saveFile = io.open(saveFileName, "w")
+	if saveFile ~= nil then
+		tabNum = 1
+		while tabNum <= 4 do
+			userTable = _G[string.format("USERKEY_%d", tabNum)]
+			if userTable ~= nil then
+				tableLen = GetOriginalHotKeyListSize(tabNum)
+				idx = 0
+				while idx < tableLen do
+					if userTable[idx] ~= nil then
+						userTable.idx = nil
+					end
+					idx = idx + 1
+				end
+				saveFile:write(idx, string.format("USERKEY_%d = {\n}\n\n", tabNum))
 			end
 			tabNum = tabNum + 1
 		end

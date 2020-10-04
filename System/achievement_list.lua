@@ -1,0 +1,5871 @@
+achievement_tbl = {
+	[120001] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на севере от Пронтеры (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на севере от Пронтеры."
+		},
+		resource = { [1] = { text = "Найдите сокровище на севере от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[999968] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Упыря в Гластхейме ",
+		content = {
+			summary = "Убейте все цели ",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 20,000 Упырей ", count = 20000 } },
+		reward = { item = 4110 },
+		score = 10
+	},
+	[120002] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на севере от Пронтеры (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на севере от Пронтеры."
+		},
+		resource = { [1] = { text = "Найдите сокровище на севере от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120003] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на севере от Пронтеры (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на севере от Пронтеры."
+		},
+		resource = { [1] = { text = "Найдите сокровище на севере от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120004] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на западе от Пронтеры (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на западе от Пронтеры."
+		},
+		resource = { [1] = { text = "Найдите сокровище на западе от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120005] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на западе от Пронтеры (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на западе от Пронтеры."
+		},
+		resource = { [1] = { text = "Найдите сокровище на западе от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120006] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на восточе от Пронтеры ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на восточе от Пронтеры."
+		},
+		resource = { [1] = { text = "Найдите сокровище на восточе от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120007] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юге от Пронтеры (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юге от Пронтеры." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120008] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юге от Пронтеры (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юге от Пронтеры." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120009] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юге от Пронтеры (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юже от Пронтеры." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120010] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юге от Пронтеры (4)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юге от Пронтеры." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120011] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на востоке от Геффена ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на востоке от Геффена."
+		},
+		resource = { [1] = { text = "Найдите сокровище на востоке от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120012] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юго-востоке от Геффена ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на юго-востоке от Геффена."
+		},
+		resource = { [1] = { text = "Найдите сокровище на юго-востоке от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120013] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северо-западе от Геффена (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северо-западе от Геффена."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северо-западе от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120014] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северо-западе от Геффена (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северо-западе от Геффена."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северо-западе от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120015] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северо-западе от Геффена (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северо-западе от Геффена."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северо-западе от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120016] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юге от Геффена (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юге от Геффена." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120017] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юге от Геффена (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юге от Геффена." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Геффена." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120018] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски в пустыне Сограт (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в пустыне Сограт." },
+		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120019] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски в пустыне Сограт (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в пустыне Сограт." },
+		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120020] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски в пустыне Сограт (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в пустыне Сограт." },
+		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120021] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски в пустыне Сограт (4)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в пустыне Сограт." },
+		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120022] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски в пустыне Сограт (5)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в пустыне Сограт." },
+		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120023] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски в пустыне Сограт (6)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в пустыне Сограт." },
+		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120024] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юго-западе от Пайона (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на юго-западе от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120025] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юго-западе от Пайона (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на юго-западе от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120026] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юго-западе от Пайона (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на юго-западе от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120027] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юго-западе от Пайона (4)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на юго-западе от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120028] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на востоке от Пайона (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на востоке от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120029] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на востоке от Пайона (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на востоке от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120030] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на востоке от Пайона (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на востоке от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120031] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на востоке от Пайона (4)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на востоке от Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120032] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северной горной гряде Мьелльнир (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120033] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северной горной гряде Мьелльнир (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120034] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северной горной гряде Мьелльнир (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120035] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северной горной гряде Мьелльнир (4)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120036] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на северной горной гряде Мьелльнир (5)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120037] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на южной горной гряде Мьелльнир (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120038] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на южной горной гряде Мьелльнир (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120039] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на южной горной гряде Мьелльнир (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120040] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на южной горной гряде Мьелльнир (4)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120041] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на южной горной гряде Мьелльнир (5)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120042] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на южной горной гряде Мьелльнир (6)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+		},
+		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120043] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски на юго-востоке от Альдебарана ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на юго-востоке от Альдебарана."
+		},
+		resource = { [1] = { text = "Найдите сокровище на юго-востоке от Альдебарана." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120044] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120045] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120046] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120047] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (4)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120048] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (5)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120049] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (6)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120050] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (7)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120051] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Поиски около Комодо (8)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Комодо." },
+		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120052] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около Форта Гаррисона (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около Форта Гаррисона."
+		},
+		resource = { [1] = { text = "Найдите сокровище около Форта Гаррисона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120053] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около Форта Гаррисона (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около Форта Гаррисона."
+		},
+		resource = { [1] = { text = "Найдите сокровище около Форта Гаррисона." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120054] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около особняка Киеля Кайра ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около особняка Киеля Кайра."
+		},
+		resource = { [1] = { text = "Найдите сокровище около особняка Киеля Кайра." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120055] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около плато Эльмес (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около плато Эльмес." },
+		resource = { [1] = { text = "Найдите сокровище около плато Эльмес." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120056] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около плато Эльмес (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около плато Эльмес." },
+		resource = { [1] = { text = "Найдите сокровище около плато Эльмес." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120057] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около плато Эльмес (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около плато Эльмес." },
+		resource = { [1] = { text = "Найдите сокровище около плато Эльмес." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120058] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около каньона Эльмес ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около каньона Эльмес."
+		},
+		resource = { [1] = { text = "Найдите сокровище около каньона Эльмес." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120059] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около академии Киеля Кайра ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около академии Киеля Кайра."
+		},
+		resource = { [1] = { text = "Найдите сокровище около академии Киеля Кайра." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120060] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около военного лагеря Шварцвальта ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около военного лагеря Шварцвальта."
+		},
+		resource = { [1] = { text = "Найдите сокровище около военного лагеря Шварцвальта." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120061] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Юно ",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около Юно." },
+		resource = { [1] = { text = "Найдите сокровище около Юно." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120062] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около входа в башню Танатоса.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около входа в башню Танатоса."
+		},
+		resource = { [1] = { text = "Найдите сокровище около входа в башню Танатоса." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120063] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Хугель (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Хугель."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Хугель." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120064] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Хугель (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Хугель."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Хугель." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120065] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Хугель (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Хугель."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Хугель." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120066] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около Бездонного озера (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около Безднного озера."
+		},
+		resource = { [1] = { text = "Найдите сокровище около Безднного озера." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120067] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120068] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120069] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120070] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (4)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120071] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (5)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120072] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (6)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120073] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (7)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120074] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Эйнброх (8)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Эйнброх."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120075] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Лайтхайзен (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Лайтхайзен."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Лайтхайзен." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120076] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Лайтхайзен (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Лайтхайзен."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Лайтхайзен." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120077] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Поиски около города Лайтхайзен (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Лайтхайзен."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Лайтхайзен." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120078] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около равнины Аудумлы (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около равнины Аудумлы."
+		},
+		resource = { [1] = { text = "Найдите сокровище около равнины Аудумлы." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120079] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около равнины Идун (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около равнины Идун." },
+		resource = { [1] = { text = "Найдите сокровище около равнины Идун." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120080] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около равнины Идун (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около равнины Идун." },
+		resource = { [1] = { text = "Найдите сокровище около равнины Идун." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120081] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около равнины Идун (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около равнины Идун." },
+		resource = { [1] = { text = "Найдите сокровище около равнины Идун." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120082] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски на лугах Аудумлы (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на лугах Аудумлы." },
+		resource = { [1] = { text = "Найдите сокровище на лугах Аудумлы." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120083] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски на лугах Аудумлы (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на лугах Аудумлы." },
+		resource = { [1] = { text = "Найдите сокровище на лугах Аудумлы." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120084] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около врат Луны.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около врат Луны." },
+		resource = { [1] = { text = "Найдите сокровище около врат Луны." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120085] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около города Вейнс (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище in the fields around Veins"
+		},
+		resource = { [1] = { text = "Найдите сокровище in the fields around Veins" } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120086] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около города Вейнс (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Вейнс." },
+		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120087] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около города Вейнс (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Вейнс." },
+		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120088] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около города Вейнс (4)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Вейнс." },
+		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120089] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Поиски около города Вейнс (5)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Вейнс." },
+		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120090] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски вокруг города Экледж.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Экледж."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Экледж." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120091] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски на севере от Бифроста (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на севере от Бифроста."
+		},
+		resource = { [1] = { text = "Найдите сокровище на севере от Бифроста." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120092] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски на юге от Бифроста (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на юге от Бифроста." },
+		resource = { [1] = { text = "Найдите сокровище на юге от Бифроста." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120093] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски около города Сплендид (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Сплендид."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Сплендид." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120094] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски около города Сплендид (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Сплендид."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Сплендид." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120095] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски около города Сплендид (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Сплендид."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Сплендид." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120096] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски около города Манук (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Манук." },
+		resource = { [1] = { text = "Найдите сокровище около города Манук." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120097] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски около города Манук (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Манук." },
+		resource = { [1] = { text = "Найдите сокровище около города Манук." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120098] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски около города Манук (3)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище около города Манук." },
+		resource = { [1] = { text = "Найдите сокровище около города Манук." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120099] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски в округе горного хребта Камидаль (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в округе горного хребта Камидаль."
+		},
+		resource = { [1] = { text = "Найдите сокровище в округе горного хребта Камидаль." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120100] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Поиски в округе горного хребта Камидаль (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в округе горного хребта Камидаль."
+		},
+		resource = { [1] = { text = "Найдите сокровище в округе горного хребта Камидаль." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120101] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски в окрестностях Амацу.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в окрестностях Амацу."
+		},
+		resource = { [1] = { text = "Найдите сокровище в окрестностях Амацу." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120102] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски в окрестностях Кунлуна.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в окрестностях Кунлуна."
+		},
+		resource = { [1] = { text = "Найдите сокровище в окрестностях Кунлуна." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120103] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски в окрестностях Лоянга.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в окрестностях Лоянга."
+		},
+		resource = { [1] = { text = "Найдите сокровище в окрестностях Лоянга." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120104] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски около города Аотайя.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около города Аотайя."
+		},
+		resource = { [1] = { text = "Найдите сокровище около города Аотайя." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120105] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски около города сказочного города Московия.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около сказочного города Московия."
+		},
+		resource = { [1] = { text = "Найдите сокровище около сказочного города Московия." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120106] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски около города Бразилис.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище города Бразилис." },
+		resource = { [1] = { text = "Найдите сокровище города Бразилис." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120107] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски около города Дэвата.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище города Дэвата." },
+		resource = { [1] = { text = "Найдите сокровище города Дэвата." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120108] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски вокруг порта Малайя (1)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище порта Малайя." },
+		resource = { [1] = { text = "Найдите сокровище порта Малайя." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120109] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Поиски вокруг порта Малайя (2)",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище порта Малайя." },
+		resource = { [1] = { text = "Найдите сокровище порта Малайя." } },
+		reward = { item = 668 },
+		score = 10
+	},
+	[120110] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски около монастыря Безымянного острова. ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище около монастыря Безымянного острова."
+		},
+		resource = { [1] = { text = "Найдите сокровище около монастыря Безымянного острова." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120111] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в пещере Бездонного озера.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в пещере Бездонного озера."
+		},
+		resource = { [1] = { text = "Найдите сокровище в пещере Бездонного озера." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120112] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в часовой башне Альдебарана.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в часовой башне Альдебарана."
+		},
+		resource = { [1] = { text = "Найдите сокровище в часовой башне Альдебарана." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120113] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Амацу.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в подземелье Амацу." },
+		resource = { [1] = { text = "Найдите сокровище в подземелье Амацу." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120114] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Муравейнике.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Муравейнике." },
+		resource = { [1] = { text = "Найдите сокровище в Муравейнике." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120115] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Аотайи.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Аотайи."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Аотайи." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120116] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Комодо.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Комодо."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Комодо." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120117] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Бразилиса.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Бразилиса."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Бразилиса." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120118] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в часовой Башней Альдебарана.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в часовой башне Альдебарана."
+		},
+		resource = { [1] = { text = "Найдите сокровище в часовой башне Альдебарана." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120119] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Истана.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Истана."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Истана." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120120] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Скарава Холл.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Скарава Холл."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Скарава Холл." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120121] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Бифроста.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Бифроста."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Бифроста." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120122] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Эйнбеха.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Эйнбеха."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Эйнбеха." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120123] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Геффена.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Геффена."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Геффена" } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120124] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Гласхейма (1)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Гласхейма."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120125] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Гласхейма (2)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Гласхейма."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120126] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Гласхейма (3)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Гласхейма."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120127] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Гласхейма (4)",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Гласхейма."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120128] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье острова Кунлун.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье острова Кунлун."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье острова Кунлун." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120129] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье города Рашель.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье города Рашель."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье города Рашель." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120130] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Сфинксе.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Сфинксе." },
+		resource = { [1] = { text = "Найдите сокровище в Сфинксе." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120131] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Излюда.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Излюда."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Излюда." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120132] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски на заводе роботов.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на заводе роботов." },
+		resource = { [1] = { text = "Найдите сокровище на заводе роботов." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120133] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Биолаборатории.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Биолаборатории." },
+		resource = { [1] = { text = "Найдите сокровище в Биолаборатории." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120134] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Лоянга.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Лоянга."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Лоянга." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120135] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Муспельхейме.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Муспельхейме." },
+		resource = { [1] = { text = "Найдите сокровище в Муспельхейме." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120136] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в заброшенной шахте.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в заброшенной шахте."
+		},
+		resource = { [1] = { text = "Найдите сокровище в заброшенной шахте." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120137] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Пирамиде.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Пирамиде." },
+		resource = { [1] = { text = "Найдите сокровище в Пирамиде." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120138] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Орков.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в подземелье Орков." },
+		resource = { [1] = { text = "Найдите сокровище в подземелье Орков." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120139] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Пайона.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Пайона."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Пайона." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120140] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Лабиринте.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Лабиринте." },
+		resource = { [1] = { text = "Найдите сокровище в Лабиринте." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120141] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в Канализации.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Канализации." },
+		resource = { [1] = { text = "Найдите сокровище в Канализации." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120142] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в башне Танатоса.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в башне Танатоса." },
+		resource = { [1] = { text = "Найдите сокровище в башне Танатоса." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120143] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье вулкана Тора.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье вулкана Тора."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье вулкана Тора." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120144] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски на затонувшем корабле.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище на затонувшем корабле."
+		},
+		resource = { [1] = { text = "Найдите сокровище на затонувшем корабле." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120145] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски в подземелье Черепашьего острова.",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите сокровище в подземелье Черепашьего острова."
+		},
+		resource = { [1] = { text = "Найдите сокровище в подземелье Черепашьего острова." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[120146] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 5,
+		title = "Поиски на фабрике игрушек.",
+		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на фабрике игрушек." },
+		resource = { [1] = { text = "Найдите сокровище на фабрике игрушек." } },
+		reward = { item = 668 },
+		score = 20
+	},
+	[129001] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь Пронтеры ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Пронтеры." },
+		resource = {
+			[1] = { text = "Завершите поиски на севере от Пронтеры (1)", shortcut = 120001 },
+			[2] = { text = "Завершите поиски на севере от Пронтеры (2)", shortcut = 120002 },
+			[3] = { text = "Завершите поиски на севере от Пронтеры (3)", shortcut = 120003 },
+			[4] = { text = "Завершите поиски на западе от Пронтеры (1)", shortcut = 120004 },
+			[5] = { text = "Завершите поиски на западе от Пронтеры (2)", shortcut = 120005 },
+			[6] = { text = "Завершите поиски на востоке от Пронтеры (1)", shortcut = 120006 },
+			[7] = { text = "Завершите поиски на юге от Пронтеры (1)", shortcut = 120007 },
+			[8] = { text = "Завершите поиски на юге от Пронтеры (2)", shortcut = 120008 },
+			[9] = { text = "Завершите поиски на юге от Пронтеры (3)", shortcut = 120009 },
+			[10] = { text = "Завершите поиски на юге от Пронтеры (4)", shortcut = 120010 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129002] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь Геффена ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Геффена." },
+		resource = {
+			[1] = { text = "Завершите поиски на востоке от Геффена (1)", shortcut = 120011 },
+			[2] = { text = "Завершите поиски на юго-востоке от Геффена (1)", shortcut = 120012 },
+			[3] = { text = "Завершите поиски на северо-западе от Геффена (1)", shortcut = 120013 },
+			[4] = { text = "Завершите поиски на северо-западе от Геффена (2)", shortcut = 120014 },
+			[5] = { text = "Завершите поиски на северо-западе от Геффена (3)", shortcut = 120015 },
+			[6] = { text = "Завершите поиски на юге от Геффена (1)", shortcut = 120016 },
+			[7] = { text = "Завершите поиски на юге от Геффена (2)", shortcut = 120017 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129003] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь пустыни Сограт ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски в пустыне Сограт." },
+		resource = {
+			[1] = { text = "Завершите поиски в пустыне Сограт (1)", shortcut = 120018 },
+			[2] = { text = "Завершите поиски в пустыне Сограт (2)", shortcut = 120019 },
+			[3] = { text = "Завершите поиски в пустыне Сограт (3)", shortcut = 120020 },
+			[4] = { text = "Завершите поиски в пустыне Сограт (4)", shortcut = 120021 },
+			[5] = { text = "Завершите поиски в пустыне Сограт (5)", shortcut = 120022 },
+			[6] = { text = "Завершите поиски в пустыне Сограт (6)", shortcut = 120023 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129004] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь Пайона ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски в Пайоне." },
+		resource = {
+			[1] = { text = "Завершите поиски на юго-западе от Пайона (1)", shortcut = 120024 },
+			[2] = { text = "Завершите поиски на юго-западе от Пайона (2)", shortcut = 120025 },
+			[3] = { text = "Завершите поиски на юго-западе от Пайона (3)", shortcut = 120026 },
+			[4] = { text = "Завершите поиски на юго-западе от Пайона (4)", shortcut = 120027 },
+			[5] = { text = "Завершите поиски на востоке от Пайона (1)", shortcut = 120028 },
+			[6] = { text = "Завершите поиски на востоке от Пайона (2)", shortcut = 120029 },
+			[7] = { text = "Завершите поиски на востоке от Пайона (3)", shortcut = 120030 },
+			[8] = { text = "Завершите поиски на востоке от Пайона (4)", shortcut = 120031 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129005] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь северной горной гряды Мьелльнира ",
+		content = {
+			summary = "Завершите поиски.",
+			details = "Завершите поиски на северной горной гряде Мьелльнира."
+		},
+		resource = {
+			[1] = {
+				text = "Завершите поиски на северной горной гряде Мьелльнира (1)",
+				shortcut = 120032
+			},
+			[2] = {
+				text = "Завершите поиски на северной горной гряде Мьелльнира (2)",
+				shortcut = 120033
+			},
+			[3] = {
+				text = "Завершите поиски на северной горной гряде Мьелльнира (3)",
+				shortcut = 120034
+			},
+			[4] = {
+				text = "Завершите поиски на северной горной гряде Мьелльнира (4)",
+				shortcut = 120035
+			},
+			[5] = {
+				text = "Завершите поиски на северной горной гряде Мьелльнира (5)",
+				shortcut = 120036
+			}
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129006] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь южной горной гряды Мьелльнира ",
+		content = {
+			summary = "Завершите поиски.",
+			details = "Завершите поиски на южной горной гряде Мьелльнира."
+		},
+		resource = {
+			[1] = { text = "Завершите поиски на южной горной гряде Мьелльнира (1)", shortcut = 120037 },
+			[2] = { text = "Завершите поиски на южной горной гряде Мьелльнира (2)", shortcut = 120038 },
+			[3] = { text = "Завершите поиски на южной горной гряде Мьелльнира (3)", shortcut = 120039 },
+			[4] = { text = "Завершите поиски на южной горной гряде Мьелльнира (4)", shortcut = 120040 },
+			[5] = { text = "Завершите поиски на южной горной гряде Мьелльнира (5)", shortcut = 120041 },
+			[6] = { text = "Завершите поиски на южной горной гряде Мьелльнира (6)", shortcut = 120042 },
+			[7] = { text = "Завершите поиски на юге от Альдебарана (1)", shortcut = 120043 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129007] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь Комодо ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Комодо." },
+		resource = {
+			[1] = { text = "Завершите поиски около Комодо (1)", shortcut = 120044 },
+			[2] = { text = "Завершите поиски около Комодо (2)", shortcut = 120045 },
+			[3] = { text = "Завершите поиски около Комодо (3)", shortcut = 120046 },
+			[4] = { text = "Завершите поиски около Комодо (4)", shortcut = 120047 },
+			[5] = { text = "Завершите поиски около Комодо (5)", shortcut = 120048 },
+			[6] = { text = "Завершите поиски около Комодо (6)", shortcut = 120049 },
+			[7] = { text = "Завершите поиски около Комодо (7)", shortcut = 120050 },
+			[8] = { text = "Завершите поиски около Комодо (8)", shortcut = 120051 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129008] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 0,
+		title = "Исследователь Рун-Мидгарда ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски в Рун-Мидгарде." },
+		resource = {
+			[1] = { text = "Исследователь Пронтеры ", shortcut = 129001 },
+			[2] = { text = "Исследователь Геффена ", shortcut = 129002 },
+			[3] = { text = "Исследователь пустыни Сограт ", shortcut = 129003 },
+			[4] = { text = "Исследователь Пайона ", shortcut = 129004 },
+			[5] = { text = "Исследователь северной горной гряды Мьелльнира ", shortcut = 129005 },
+			[6] = { text = "Исследователь южной горной гряды Мьелльнира ", shortcut = 129006 },
+			[7] = { text = "Исследователь Комодо ", shortcut = 129007 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129009] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Исследователь Юно ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Юно." },
+		resource = {
+			[1] = { text = "Завершите поиски около Форта Гаррисона (1)", shortcut = 120052 },
+			[2] = { text = "Завершите поиски около Форта Гаррисона (2)", shortcut = 120053 },
+			[3] = { text = "Завершите поиски около усадьбы Киеля Кайра (1)", shortcut = 120054 },
+			[4] = { text = "Завершите поиски около плато Эльмес (1)", shortcut = 120055 },
+			[5] = { text = "Завершите поиски около плато Эльмес (2)", shortcut = 120056 },
+			[6] = { text = "Завершите поиски около плато Эльмес (3)", shortcut = 120057 },
+			[7] = { text = "Завершите поиски около каньона Эльмес (1)", shortcut = 120058 },
+			[8] = { text = "Завершите поиски около академии Киеля Кайра (1)", shortcut = 120059 },
+			[9] = {
+				text = "Завершите поиски около военного лагеря Шварцвальта (1)",
+				shortcut = 120060
+			},
+			[10] = { text = "Завершите поиски около города Юно (1)", shortcut = 120061 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129010] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Исследователь Хугеля ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Хугеля." },
+		resource = {
+			[1] = {
+				text = "Complete Thanatos Tower Entrance Field Exploration (1)",
+				shortcut = 120062
+			},
+			[2] = { text = "Завершите поиски около города Хугель (1)", shortcut = 120063 },
+			[3] = { text = "Завершите поиски около города Хугель (2)", shortcut = 120064 },
+			[4] = { text = "Завершите поиски около города Хугель (3)", shortcut = 120065 },
+			[5] = { text = "Завершите поиски около Бездонного озера (1)", shortcut = 120066 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129011] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Исследователь Эйнброха ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около города Эйнброх." },
+		resource = {
+			[1] = { text = "Завершите поиски около города Эйнброх (1)", shortcut = 120067 },
+			[2] = { text = "Завершите поиски около города Эйнброх (2)", shortcut = 120068 },
+			[3] = { text = "Завершите поиски около города Эйнброх (3)", shortcut = 120069 },
+			[4] = { text = "Завершите поиски около города Эйнброх (4)", shortcut = 120070 },
+			[5] = { text = "Завершите поиски около города Эйнброх (5)", shortcut = 120071 },
+			[6] = { text = "Завершите поиски около города Эйнброх (6)", shortcut = 120072 },
+			[7] = { text = "Завершите поиски около города Эйнброх (7)", shortcut = 120073 },
+			[8] = { text = "Завершите поиски около города Эйнброх (8)", shortcut = 120074 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129012] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Исследователь Лайтхайзена ",
+		content = {
+			summary = "Завершите поиски.",
+			details = "Завершите поиски около города Лайтхайзен."
+		},
+		resource = {
+			[1] = { text = "Завершите поиски около города Лайтхайзен (1)", shortcut = 120075 },
+			[2] = { text = "Завершите поиски около города Лайтхайзен (2)", shortcut = 120076 },
+			[3] = { text = "Завершите поиски около города Лайтхайзен (3)", shortcut = 120077 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129013] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 1,
+		title = "Исследователь республики Шварцвальт ",
+		content = {
+			summary = "Завершите поиски.",
+			details = "Завершите поиски в республике Шварцвальт."
+		},
+		resource = {
+			[1] = { text = "Исследователь Юно ", shortcut = 129009 },
+			[2] = { text = "Исследователь Хугеля ", shortcut = 129010 },
+			[3] = { text = "Исследователь Эйнброха ", shortcut = 129011 },
+			[4] = { text = "Исследователь Лайтхайзена ", shortcut = 129012 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129014] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Исследователь Рашеля ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около города Рашель." },
+		resource = {
+			[1] = { text = "Завершите поиски на равнине Аудумлы (1)", shortcut = 120078 },
+			[2] = { text = "Завершите поиски на равнине Идун (1)", shortcut = 120079 },
+			[3] = { text = "Завершите поиски на равнине Идун (2)", shortcut = 120080 },
+			[4] = { text = "Завершите поиски на равнине Идун (3)", shortcut = 120081 },
+			[5] = { text = "Завершите поиски на лугах Аудумлы Complete (1)", shortcut = 120082 },
+			[6] = { text = "Завершите поиски на лугах Аудумлы (2)", shortcut = 120083 },
+			[7] = { text = "Завершите поиски около врат Луны (1)", shortcut = 120084 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129015] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Исследователь Вейнса ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около города Вейнс." },
+		resource = {
+			[1] = { text = "Завершите поиски около города Вейнс (1)", shortcut = 120085 },
+			[2] = { text = "Завершите поиски около города Вейнс (2)", shortcut = 120086 },
+			[3] = { text = "Завершите поиски около города Вейнс (3)", shortcut = 120087 },
+			[4] = { text = "Завершите поиски около города Вейнс (4)", shortcut = 120088 },
+			[5] = { text = "Завершите поиски около города Вейнс (5)", shortcut = 120089 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129016] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 2,
+		title = "Исследователь Арунафельца ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски в Арунафельце." },
+		resource = {
+			[1] = { text = "Исследователь города Рашель ", shortcut = 129014 },
+			[2] = { text = "Исследователь города Вейнс ", shortcut = 129015 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129017] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Исследователь Сплендида ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Сплендида." },
+		resource = {
+			[1] = { text = "Завершите поиски около города Экледж (1)", shortcut = 120090 },
+			[2] = { text = "Завершите поиски на севере от Бифроста (1)", shortcut = 120091 },
+			[3] = { text = "Завершите поиски на юге от Бифроста (1)", shortcut = 120092 },
+			[4] = { text = "Завершите поиски около Сплендида (1)", shortcut = 120093 },
+			[5] = { text = "Завершите поиски около Сплендида (2)", shortcut = 120094 },
+			[6] = { text = "Завершите поиски около Сплендида (3)", shortcut = 120095 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129018] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Исследователь Манука ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски около Манука." },
+		resource = {
+			[1] = { text = "Завершите поиски около Манука (1)", shortcut = 120096 },
+			[2] = { text = "Завершите поиски около Манука (2)", shortcut = 120097 },
+			[3] = { text = "Завершите поиски около Манука (3)", shortcut = 120098 },
+			[4] = { text = "Завершите поиски в округе горного хребта Камидаль (1)", shortcut = 120099 },
+			[5] = { text = "Завершите поиски в округе горного хребта Камидаль (2)", shortcut = 120100 }
+		},
+		reward = { item = 644 },
+		score = 20
+	},
+	[129019] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 3,
+		title = "Исследователь Нового мира ",
+		content = { summary = "Завершите поиски.", details = "Завершите поиски в Новом мире." },
+		resource = {
+			[1] = { text = "Исследователь Сплендида ", shortcut = 129017 },
+			[2] = { text = "Исследователь Манука ", shortcut = 120918 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[129020] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 2,
+		minor = 4,
+		title = "Исследователь культурных городов ",
+		content = {
+			summary = "Завершите поиски.",
+			details = "Завершите поиски около культурных городов."
+		},
+		resource = {
+			[1] = { text = "Завершите поиски в окрестностях Амацу (1)", shortcut = 120101 },
+			[2] = { text = "Завершите поиски в окрестностях Кунлуна (1)", shortcut = 120102 },
+			[3] = { text = "Завершите поиски в окрестностях Лоянга (1)", shortcut = 120103 },
+			[4] = { text = "Завершите поиски около города Аотайя (1)", shortcut = 120104 },
+			[5] = { text = "Завершите поиски около сказочного города Московия (1)", shortcut = 120105 },
+			[6] = { text = "Завершите поиски около города Бразилис (1)", shortcut = 120106 },
+			[7] = { text = "Завершите поиски около города Дэвата (1)", shortcut = 120107 },
+			[8] = { text = "Завершите поиски около порта Малайя (1)", shortcut = 120108 },
+			[9] = { text = "Завершите поиски около порта Малайя (2)", shortcut = 120109 }
+		},
+		reward = { item = 617 },
+		score = 50
+	},
+	[200000] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Получите первую Ауру!",
+		content = {
+			summary = "Достигните Базового 99 уровня!",
+			details = "Достигните Базового 99 уровня."
+		},
+		resource = { [1] = { text = "Базовый уровень - 99 " } },
+		reward = { title = 1000, buff = 10, item = 12549 },
+		score = 50
+	},
+	[200001] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Получите вторую Ауру!",
+		content = {
+			summary = "Достигните Базового 150 уровня!",
+			details = "Достигните Базового 150 уровня."
+		},
+		resource = { [1] = { text = "Базовый уровень - 150 " } },
+		reward = { title = 1001, buff = 10, item = 5364 },
+		score = 60
+	},
+	[200002] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Получите третью Ауру!",
+		content = {
+			summary = "Достигните Базового 175 уровня!",
+			details = "Достигните Базового 175 уровня."
+		},
+		resource = { [1] = { text = "Базовый уровень - 175 " } },
+		reward = { title = 1002, buff = 10, item = 18880 },
+		score = 70
+	},
+	[200003] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Мастер!",
+		content = {
+			summary = "Достигните Профессионального 50 уровня!",
+			details = "Достигните Профессионального 50 уровня."
+		},
+		resource = { [1] = { text = "Профессиональный уровень - 50 " } },
+		reward = { title = 1003, buff = 10, item = 617 },
+		score = 30
+	},
+	[200004] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Великий Мастер!",
+		content = {
+			summary = "Достигните Профессионального 70 уровня!",
+			details = "Достигните Профессионального 70 уровня."
+		},
+		resource = { [1] = { text = "Профессиональный уровень - 70" } },
+		reward = { title = 1004, buff = 10, item = 12439 },
+		score = 50
+	},
+	[129021] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Жизненные цели ",
+		content = {
+			summary = "Раскройте свой потенциал.",
+			details = "Получите Базовый 99 и Профессиональный 70 уровни."
+		},
+		resource = {
+			[1] = { text = "Достигните Профессионального 70 уровня.", shortcut = 200004 },
+			[2] = { text = "Достигните Базового 90 уровня.", shortcut = 200000 }
+		},
+		reward = { item = 12817 },
+		score = 50
+	},
+	[200005] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Официальный искатель приключений ",
+		content = {
+			summary = "Получите первую профессию.",
+			details = "Станьте Мечником, Торговцем, Вором, Магом, Послушником или Лучником."
+		},
+		resource = { [1] = { text = "Получите первую профессию." } },
+		reward = { buff = 12 },
+		score = 10
+	},
+	[200006] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Первые шаги на пути к профессиям Трансценденса!",
+		content = {
+			summary = "Получите первую профессию Трансценденса.",
+			details = "Станьте Высшим Мечником, Высшим Торговцем, Высшим Вором, Высшим Магом, Высшим Послушником или Высшим Лучником."
+		},
+		resource = { [1] = { text = "Получите первую профессию Трансценденса." } },
+		reward = { buff = 12 },
+		score = 20
+	},
+	[200007] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Ветеран-странник (1)",
+		content = {
+			summary = "Получите вторую профессию (2-1)",
+			details = "Станьте Рыцарем, Кузнецом, Убийцей, Волшебником, Священником или Охотником."
+		},
+		resource = { [1] = { text = "Получите вторую профессию (2-1)" } },
+		reward = { buff = 12 },
+		score = 25
+	},
+	[200008] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Ветеран-странник (2)",
+		content = {
+			summary = "Получите вторую профессию (2-2)",
+			details = "Станьте Крестоносцем, Алхимиком, Разбойником, Мудрецом, Монахом, Бардом или Танцовщицей."
+		},
+		resource = { [1] = { text = "Получите вторую профессию (2-2)" } },
+		reward = { buff = 12 },
+		score = 25
+	},
+	[200009] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Герой (1)",
+		content = {
+			summary = "Получите вторую профессию Трансценденса (2-1)",
+			details = "Станьте Рыцарем-Лордом, Мастером-Кузнецом, Убийцей Кросс, Архимагом, Старшим Жрецом или Снайпером."
+		},
+		resource = { [1] = { text = "Получите вторую профессию Трансценденса (2-1)" } },
+		reward = { buff = 12 },
+		score = 30
+	},
+	[200010] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Герой (2)",
+		content = {
+			summary = "Получите вторую профессию Трансценденса (2-2)",
+			details = "Станьте Паладином, Биохимиком, Сталкером, Профессором, Чемпионом, Цыганкой или Клоуном.Become a Paladin, Creator, Stalker, Professor, Champion, Gypsy or Clown."
+		},
+		resource = { [1] = { text = "Получите вторую профессию Трансценденса (2-2)" } },
+		reward = { buff = 12 },
+		score = 30
+	},
+	[200011] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Элитный искатель приключений! (1)",
+		content = {
+			summary = "Получите третью профессию (3-1)",
+			details = "Станьте Рунным Рыцарем, Механиком, Гильотин-Кроссом, Чернокнижником, Епископом или Рейнджером."
+		},
+		resource = { [1] = { text = "Obtain the Third Job Class (3-1)" } },
+		reward = { buff = 12, item = 16483 },
+		score = 50
+	},
+	[200012] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Превосходящий! (1)",
+		content = {
+			summary = "Получите третью профессию Трансценденса (3-1)",
+			details = "После перерождения станьте Рунным Рыцарем, Механиком, Гильотин-Кроссом, Чернокнижником, Епископом или Рейнджером."
+		},
+		resource = { [1] = { text = "Получите третью профессию Трансценденса (3-1)" } },
+		reward = { buff = 12, item = 16483 },
+		score = 60
+	},
+	[200013] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Элитный искатель приключений! (2)",
+		content = {
+			summary = "Получите третью профессию (3-2)",
+			details = "Станьте Королевским стражем, Генетиком, Ловцом Теней, Колдуном, Сурой, Менестрелем или Странницей. "
+		},
+		resource = { [1] = { text = "Получите третью профессию (3-2)" } },
+		reward = { buff = 12, item = 16483 },
+		score = 50
+	},
+	[200014] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Превосходящий! (2)",
+		content = {
+			summary = "Получите третью профессию Трансценденса (3-2)",
+			details = "После перерождения станьте Королевским стражем, Генетиком, Ловцом Теней, Колдуном, Сурой, Менестрелем или Странницей."
+		},
+		resource = { [1] = { text = "Получите третью профессию Трансценденса (3-2)" } },
+		reward = { buff = 12, item = 16483 },
+		score = 60
+	},
+	[200015] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Тот, кто выбрал иной путь.",
+		content = {
+			summary = "Получите расширенную профессию.",
+			details = "Станьте Тхэквондистом, Стрелком, Суперновчком или Ниндзя."
+		},
+		resource = { [1] = { text = "Получите расширенную профессию." } },
+		reward = { buff = 12 },
+		score = 10
+	},
+	[200016] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Это мой путь!",
+		content = {
+			summary = "Получите вторую расширенную профессию.",
+			details = "Станьте Медиумом, Гладиатором, Мятежником, Оборо или Кагеро."
+		},
+		resource = { [1] = { text = "Получите вторую расширенную профессию." } },
+		reward = { buff = 12, item = 16483 },
+		score = 20
+	},
+	[200017] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Силен как медведь!",
+		content = { summary = "Поднимите Силу до 90.", details = "Поднимите Силу до 90." },
+		resource = { [1] = { text = "Поднимите Силу до 90." } },
+		reward = {},
+		score = 10
+	},
+	[200018] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Переполняющая магия!",
+		content = { summary = "Поднимите Интеллект до 90.", details = "Поднимите Интеллект до 90." },
+		resource = { [1] = { text = "Поднимите Интеллект до 90." } },
+		reward = {},
+		score = 10
+	},
+	[200019] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "В здоровом теле здоровый дух!",
+		content = { summary = "Поднимите Живучесть до 90.", details = "Поднимите Живучесть до 90." },
+		resource = { [1] = { text = "Поднимите Живучесть до 90." } },
+		reward = {},
+		score = 10
+	},
+	[200020] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Маньяк скорости ",
+		content = { summary = "Поднимите Ловкость до 90.", details = "Поднимите Ловкость до 90." },
+		resource = { [1] = { text = "Поднимите Ловкость до 90." } },
+		reward = {},
+		score = 10
+	},
+	[200021] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Орлиный глаз ",
+		content = { summary = "Поднимите Сноровку до 90.", details = "Поднимите Сноровку до 90." },
+		resource = { [1] = { text = "Поднимите Сноровку до 90." } },
+		reward = {},
+		score = 10
+	},
+	[200022] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Любимец фортуны ",
+		content = { summary = "Поднимите Удачу до 90.", details = "Поднимите Удачу до 90." },
+		resource = { [1] = { text = "Поднимите Удачу до 90." } },
+		reward = {},
+		score = 10
+	},
+	[200023] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Сила дракона!",
+		content = { summary = "Поднимите Силу до 125.", details = "Поднимите Силу до 125." },
+		resource = { [1] = { text = "Поднимите Силу до 125." } },
+		reward = { buff = 319 },
+		score = 20
+	},
+	[200024] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Безумная Магия!",
+		content = { summary = "Поднимите Интеллект до 125.", details = "Поднимите Интеллект до 125." },
+		resource = { [1] = { text = "Поднимите Интеллект до 125." } },
+		reward = { buff = 611 },
+		score = 20
+	},
+	[200025] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Алмазный сплав ",
+		content = { summary = "Поднимите Живучесть до 125.", details = "Поднимите Живучесть до 125." },
+		resource = { [1] = { text = "Поднимите Живучесть до 125." } },
+		reward = { buff = 293 },
+		score = 20
+	},
+	[200026] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Со скоростью света ",
+		content = { summary = "Поднимите Сноровку до 125.", details = "Поднимите Ловкость до 125." },
+		resource = { [1] = { text = "Поднимите Ловкость до 125." } },
+		reward = { buff = 296 },
+		score = 20
+	},
+	[200027] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Соколиный глаз ",
+		content = { summary = "Поднимите Ловкость до 125.", details = "Поднимите Ловкость до 125." },
+		resource = { [1] = { text = "Поднимите Ловкость до 125." } },
+		reward = { buff = 295 },
+		score = 20
+	},
+	[200028] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Счастливая лихорадка ",
+		content = { summary = "Поднимите Удачу до 125.", details = "Поднимите Удачу до 125." },
+		resource = { [1] = { text = "Поднимите Удачу до 125." } },
+		reward = { buff = 21 },
+		score = 20
+	},
+	[200029] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Любовь и ненависть ",
+		content = {
+			summary = "Получите Базовый 99 уровень, будучи Новичком.",
+			details = "Персонаж - Новичок и получил Базовый 99 уровень."
+		},
+		resource = { [1] = { text = "Получите Базовый 99 уровень, будучи Новичком." } },
+		reward = { buff = 10, item = 16483 },
+		score = 30
+	},
+	[200030] = {
+		UI_Type = 0,
+		group = "GOAL_STATUS",
+		major = 1,
+		minor = 0,
+		title = "Ты мне правда нравишься!",
+		content = {
+			summary = "Получите Базовый 99 уровень на первой профессии.",
+			details = "Персонаж получил первую профессию и достиг Базового 99 уровня."
+		},
+		resource = { [1] = { text = "Получите Базовый 99 уровень на первой профессии." } },
+		reward = { buff = 10, item = 16504 },
+		score = 30
+	},
+	[200031] = {
+		UI_Type = 0,
+		group = "JOB_CHANGE",
+		major = 1,
+		minor = 0,
+		title = "Добро пожаловать в Вальгаллу ",
+		content = {
+			summary = "Переродитесь как Высший Новичок.",
+			details = "Переродитесь как Высший новичок. Доступно только через Валькирию."
+		},
+		resource = { [1] = { text = "Переродитесь как Высший Новичок." } },
+		reward = { buff = 12, item = 603 },
+		score = 10
+	},
+	[230100] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Поринги - это любовь ",
+		content = {
+			summary = "Выполните все задачи.",
+			details = "Вы настоящий любитель Порингов, которому они даже снятся!"
+		},
+		resource = {
+			[1] = { text = "Выполните задачу 'Поринг - Приручение'", shortcut = 230101 },
+			[2] = { text = "Выполните задачу 'Дропс - Приручение'", shortcut = 230102 },
+			[3] = { text = "Выполните задачу 'Попоринг - Приручение'", shortcut = 230103 },
+			[4] = { text = "Выполните задачу 'Маленький поринг - Приручение'", shortcut = 230104 }
+		},
+		reward = { title = 1025, buff = 12 },
+		score = 50
+	},
+	[230110] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Энтомолог ",
+		content = {
+			summary = "Выполните все задачи.",
+			details = "Вы настоящий энтомолог, который даже во сне собирает насекомых!"
+		},
+		resource = {
+			[1] = { text = "Выполните задачу 'Чончон - Приручение'", shortcut = 230111 },
+			[2] = { text = "Выполните задачу 'Стальной Чончон - Приручение'", shortcut = 230112 },
+			[3] = { text = "Выполните задачу 'Муха-Охотник - Приручение'", shortcut = 230113 },
+			[4] = { text = "Выполните задачу 'Рокер - Приручение'", shortcut = 230114 },
+			[5] = { text = "Выполните задачу 'Спора - Приручение'", shortcut = 230115 },
+			[6] = { text = "Выполните задачу 'Ядовитая спора - Приручение'", shortcut = 230116 }
+		},
+		reward = { title = 1026, buff = 12 },
+		score = 50
+	},
+	[230120] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Животные тоже наши друзья ",
+		content = {
+			summary = "Выполните все задачи.",
+			details = "Вы настоящий любитель животных, который даже во снах проводит с ними все время!"
+		},
+		resource = {
+			[1] = { text = "Выполните задачу 'Лунатик - Приручение'", shortcut = 230121 },
+			[2] = { text = "Выполните задачу 'Пикки - Приручение'", shortcut = 230122 },
+			[3] = { text = "Выполните задачу 'Поросенок - Приручение'", shortcut = 230123 },
+			[4] = { text = "Выполните задачу 'Пустынный Волчонок - Приручение'", shortcut = 230124 },
+			[5] = { text = "Выполните задачу 'Смоки - Приручение'", shortcut = 230125 },
+			[6] = { text = "Выполните задачу 'Йойо - Приручение'", shortcut = 230126 },
+			[7] = { text = "Выполните задачу 'Пеко-пеко - Приручение'", shortcut = 230127 },
+			[8] = { text = "Выполните задачу 'Земляной дракончик - Приручение'", shortcut = 230128 }
+		},
+		reward = { title = 1027, buff = 12 },
+		score = 50
+	},
+	[230140] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Девочки-Монстры - звучит опасно!",
+		content = {
+			summary = "Выполните все задачи.",
+			details = "You are a true producer who even dreams about forming the Monster Girls in your sleep!"
+		},
+		resource = {
+			[1] = { text = "Выполните задачу 'Мунак - Приручение'", shortcut = 230141 },
+			[2] = { text = "Выполните задачу 'Изис - Приручение'", shortcut = 230142 },
+			[3] = { text = "Выполните задачу 'Сохи - Приручение'", shortcut = 230143 },
+			[4] = { text = "Выполните задачу 'Зилотус - Приручение'", shortcut = 230144 },
+			[5] = { text = "Выполните задачу 'Алиса - Приручение'", shortcut = 230145 },
+			[6] = { text = "Выполните задачу 'Суккуб - Приручение'", shortcut = 230146 },
+			[7] = { text = "Выполните задачу 'Лоли Рури - Приручение'", shortcut = 230147 }
+		},
+		reward = { title = 1029, buff = 12 },
+		score = 50
+	},
+	[230101] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Поринг - Приучение ",
+		content = {
+			summary = "Удачное приручение Поринга.",
+			details = "Сделайте Поринга вашим питомцем. Вы можете приручить его с помощью 'Незрелое яблоко'."
+		},
+		resource = { [1] = { text = "Удачное приручение Поринга." } },
+		reward = {},
+		score = 10
+	},
+	[230102] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Дропс - Приучение ",
+		content = {
+			summary = "Удачное приручение Дропса.",
+			details = "Сделайте Дропса вашим питомцем. Вы можете приручить его с помощью 'Апельсиновый сок'."
+		},
+		resource = { [1] = { text = "Удачное приручение Дропса." } },
+		reward = {},
+		score = 10
+	},
+	[230103] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Попоринг - Приучение ",
+		content = {
+			summary = "Удачное приручение Попоринга.",
+			details = "Сделайте Попоринга вашим питомцем. Вы можете приручить его с помощью 'Горькая трава'."
+		},
+		resource = { [1] = { text = "Удачное приручение Попоринга." } },
+		reward = {},
+		score = 10
+	},
+	[230104] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Маленький поринг - Приучение ",
+		content = {
+			summary = "Удачное приручение Маленького поринга.",
+			details = "Сделайте Маленького поринга вашим питомцем. Вы можете приручить его с помощью 'Маленькое незрелое яблоко'."
+		},
+		resource = { [1] = { text = "Удачное приручение Маленького поринга." } },
+		reward = {},
+		score = 10
+	},
+	[230111] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Chonchon - Приучение ",
+		content = {
+			summary = "Удачное приручение Чончона.",
+			details = "Сделайте Чончона вашим питомцем. Вы можете приручить его с помощью 'Тухлая рыба'."
+		},
+		resource = { [1] = { text = "Удачное приручение Чончона." } },
+		reward = {},
+		score = 10
+	},
+	[230112] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Стальной Чончон - Приучение ",
+		content = {
+			summary = "Удачное приручение Стального Чончона.",
+			details = "Сделайте Стального Чончона вышим питомцем. Вы можете приручить его с помощью 'Rusty Iron'."
+		},
+		resource = { [1] = { text = "Удачное приручение Стального Чончона." } },
+		reward = {},
+		score = 10
+	},
+	[230113] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Муха-Охотник - Приучение ",
+		content = {
+			summary = "Удачное приручение Мухи-Охотника.",
+			details = "Сделайте Муху-Охотника своим питомцем. Вы можете приручить ее с помощью 'Сок монстра'."
+		},
+		resource = { [1] = { text = "Удачное приручение Мухи-Охотника." } },
+		reward = {},
+		score = 10
+	},
+	[230114] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Rocker - Приучение ",
+		content = {
+			summary = "Удачное приручение Рокера.",
+			details = "Сделайте Рокера своим питомцем. Вы можете приручить его с помощью 'Поющий Цветок'."
+		},
+		resource = { [1] = { text = "Удачное приручение Рокера." } },
+		reward = {},
+		score = 10
+	},
+	[230115] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Спора - Приучение ",
+		content = {
+			summary = "Удачное приручение Споры.",
+			details = "Сделайте Спору своим питомцем. Вы можете приручить ее с помощью 'Полный росы мох'."
+		},
+		resource = { [1] = { text = "Удачное приручение Споры." } },
+		reward = {},
+		score = 10
+	},
+	[230116] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Ядовитая спора - Приучение ",
+		content = {
+			summary = "Удачное приручение Ядовитой споры.",
+			details = "Сделайте Ядовитую спору вашим питомцем. Вы можете приручить ее с помощью 'Ядовитая трава'."
+		},
+		resource = { [1] = { text = "Удачное приручение Ядовитой споры." } },
+		reward = {},
+		score = 10
+	},
+	[230121] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Лунатик - Приучение ",
+		content = {
+			summary = "Удачное приручение Лунатика.",
+			details = "Сделайте Лунатика вашим питомцем. Вы можете приручить его с помощью 'Радужная морковь'."
+		},
+		resource = { [1] = { text = "Удачное приручение Лунатика." } },
+		reward = {},
+		score = 10
+	},
+	[230122] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Пикки - Приучение ",
+		content = {
+			summary = "Удачное приручение Пикки.",
+			details = "Сделайте Пикки вашим питомцем. Вы можете приручить его с помощью 'Земляной червяк'."
+		},
+		resource = { [1] = { text = "Удачное приручение Пикки." } },
+		reward = {},
+		score = 10
+	},
+	[230123] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Поросенок - Приучение ",
+		content = {
+			summary = "Удачное приручение Поросенка.",
+			details = "Сделайте Поросенка вашим питомцем. Вы можете приручить его с помощью 'Сладкое молоко'."
+		},
+		resource = { [1] = { text = "Удачное приручение Поросенка." } },
+		reward = {},
+		score = 10
+	},
+	[230124] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Пустынный Волчонок - Приучение ",
+		content = {
+			summary = "Удачное приручение Пустынного Волчонока.",
+			details = "Сделайте Пустынного Волчонока вашим питомцем. Вы можете приручить его с помощью 'Сухая кость'."
+		},
+		resource = { [1] = { text = "Удачное приручение Пустынного Волчонка." } },
+		reward = {},
+		score = 10
+	},
+	[230125] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Смоки - Приучение ",
+		content = {
+			summary = "Удачное приручение Смоки.",
+			details = "Сделайте Смоки вашим питомцем. Вы можете приручить его с помощью 'Запеченный батат'."
+		},
+		resource = { [1] = { text = "Удачное приручение Смоки." } },
+		reward = {},
+		score = 10
+	},
+	[230126] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Йойо - Приучение ",
+		content = {
+			summary = "Удачное приручение Йойо.",
+			details = "Сделайте Йойо вашим питомцем. Вы можете приручить его с помощью 'Тропический банан'."
+		},
+		resource = { [1] = { text = "Удачное приручение Йойо." } },
+		reward = {},
+		score = 10
+	},
+	[230127] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Пеко-пеко - Приучение ",
+		content = {
+			summary = "Удачное приручение Пеко-пеко.",
+			details = "Сделайте Пеко-пеко вашим питомцем. Вы можете приручить его с помощью 'Упитанный дождевой червяк'."
+		},
+		resource = { [1] = { text = "Удачное приручение Пеко-пеко." } },
+		reward = {},
+		score = 10
+	},
+	[230128] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Земляной дракончик - Приучение ",
+		content = {
+			summary = "Удачное приручение Земляного дракончика.",
+			details = "Сделайте Земляного дракончика вашим питомцем. Вы можете приручить его с помощью 'Shining Stone'."
+		},
+		resource = { [1] = { text = "Удачное приручение Земляного дракончика." } },
+		reward = {},
+		score = 10
+	},
+	[230141] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Мунак - Приучение ",
+		content = {
+			summary = "Удачное приручение Мунак.",
+			details = "Сделайте Мунак вашим питомцем. Вы можете приручить ее с помощью 'Без адресата'."
+		},
+		resource = { [1] = { text = "Удачное приручение Мунак." } },
+		reward = {},
+		score = 10
+	},
+	[230142] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Изис - Приучение ",
+		content = {
+			summary = "Удачное приручение an Изис.",
+			details = "Сделайте Изис вашим питомцем. Вы можете приручить ее с помощью 'Браслет покорности'."
+		},
+		resource = { [1] = { text = "Удачное приручение Изис." } },
+		reward = {},
+		score = 10
+	},
+	[230143] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Сохи - Приучение ",
+		content = {
+			summary = "Удачное приручение Сохи.",
+			details = "Сделайте Сохи вашим питомцем. Вы можете приручить ее с помощью 'Нож целомудрия'."
+		},
+		resource = { [1] = { text = "Удачное приручение Сохи." } },
+		reward = {},
+		score = 10
+	},
+	[230144] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Зилотус - Приучение ",
+		content = {
+			summary = "Удачное приручение Зилотус.",
+			details = "Сделайте Зилотус вашим питомцем. Вы можете приручить ее с помощью 'Красная свеча'."
+		},
+		resource = { [1] = { text = "Удачное приручение Зилотус." } },
+		reward = {},
+		score = 10
+	},
+	[230145] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Алиса - Приучение ",
+		content = {
+			summary = "Удачное приручение Алисы.",
+			details = "Сделайте Алису вашим питомцем. Вы можете приручить ее с помощью 'Тонкий фартук'."
+		},
+		resource = { [1] = { text = "Удачное приручение Алисы." } },
+		reward = {},
+		score = 10
+	},
+	[230146] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Суккуб - Приучение ",
+		content = {
+			summary = "Удачное приручение Суккуба.",
+			details = "Сделайте Суккуба вашим питомцем. Вы можете приручить ее с помощью 'Любовное письмо'."
+		},
+		resource = { [1] = { text = "Удачное приручение Суккуба." } },
+		reward = {},
+		score = 10
+	},
+	[230147] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 3,
+		minor = 1,
+		title = "Лоли Рури - Приучение ",
+		content = {
+			summary = "Удачное приручение Лоли Рури.",
+			details = "Сделайте Лоли Рури вашим питомцем. Вы можете приручить ее с помощью 'Красный сок'."
+		},
+		resource = { [1] = { text = "Удачное приручение Лоли Рури." } },
+		reward = {},
+		score = 10
+	},
+	[220000] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 1,
+		minor = 2,
+		title = "Создание коммьюнити ",
+		content = {
+			summary = "Откройте окно чата.",
+			details = "Откройте окно чата. Горячие клавиши по умолчанию ALT + C."
+		},
+		resource = { [1] = { text = "Откройте окно чата." } },
+		reward = {},
+		score = 10
+	},
+	[220001] = {
+		UI_Type = 0,
+		group = "CHATTING_DYING",
+		major = 1,
+		minor = 2,
+		title = "Мрачный болтун ",
+		content = {
+			summary = "Откройте окно чата пока вы мертвы.",
+			details = "Даже смерть не заставит вас молчать... Откройте окно чата пока вы мертвы. Горячие клавиши по умолчанию ALT + C."
+		},
+		resource = { [1] = { text = "Откройте окно чата пока вы мертвы." } },
+		reward = {},
+		score = 10
+	},
+	[220002] = {
+		UI_Type = 0,
+		group = "CHATTING20",
+		major = 1,
+		minor = 2,
+		title = "Болталка ",
+		content = {
+			summary = "Соберите 20 человек в чате.",
+			details = "Добавляйте кого угодно в чат. Откройте окно чата и полностью заполните список участников."
+		},
+		resource = { [1] = { text = "Соберите 20 человек в чате." } },
+		reward = {},
+		score = 10
+	},
+	[220003] = {
+		UI_Type = 0,
+		group = "ADD_FRIEND",
+		major = 1,
+		minor = 2,
+		title = "Друг... Мой друг...",
+		content = {
+			summary = "Добавьте 1 человека в список друзей.",
+			details = "Найдите себе друга для приключений. Добавьте 1 человека в свой список друзей."
+		},
+		resource = { [1] = { text = "Добавьте 1 человека в список друзей." } },
+		reward = {},
+		score = 10
+	},
+	[220004] = {
+		UI_Type = 0,
+		group = "ADD_FRIEND",
+		major = 1,
+		minor = 2,
+		title = "Предмет обожания ",
+		content = {
+			summary = "Добавьте 10 человек в список друзей.",
+			details = "Чем больше друзей, тем веселее. Станьте другом для 10 человек."
+		},
+		resource = { [1] = { text = "Добавьте 10 человек в список друзей." } },
+		reward = {},
+		score = 10
+	},
+	[220005] = {
+		UI_Type = 0,
+		group = "PARTY",
+		major = 1,
+		minor = 2,
+		title = "Вечеринка начинается!",
+		content = {
+			summary = "Создайте группу.",
+			details = "Больше никаких одиночных, трудных приключений! Преодолевайте препятствия в компании."
+		},
+		resource = { [1] = { text = "Создайте группу." } },
+		reward = {},
+		score = 10
+	},
+	[220006] = {
+		UI_Type = 0,
+		group = "MARRY",
+		major = 1,
+		minor = 2,
+		title = "Вы женаты...?",
+		content = {
+			summary = "Сыграйте свадьбу ",
+			details = "В этом суровом и одиноком мире только любовь позволяет защищать друг друга. Скрепите себя узами брака, чтобы запечатать свою любовь."
+		},
+		resource = { [1] = { text = "Сыграйте свадьбу." } },
+		reward = { title = 1022 },
+		score = 20
+	},
+	[220007] = {
+		UI_Type = 0,
+		group = "BABY",
+		major = 1,
+		minor = 2,
+		title = "Не могли бы вы присмотреть за мной?",
+		content = {
+			summary = "Станьте чьим-то ребенком.",
+			details = "Путешествуйте по этому суровому миру с помощью родителей."
+		},
+		resource = { [1] = { text = "Станьте чьим-то ребенком." } },
+		reward = { title = 1032 },
+		score = 20
+	},
+	[220008] = {
+		UI_Type = 0,
+		group = "BABY",
+		major = 1,
+		minor = 2,
+		title = "Станьте родителем ",
+		content = {
+			summary = "Заведите ребенка.",
+			details = "Дети - это блаженство. Усыновите ребенка и создайте счастливую и любящую семью."
+		},
+		resource = { [1] = { text = "Станьте родителем." } },
+		reward = { title = 1033 },
+		score = 20
+	},
+	[220009] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Оживление рыночной экономики (1)",
+		content = {
+			summary = "Потратье в магазинах 10,000 зени.",
+			details = "Деньги вокруг. Потратье в магазинах других игроков 10,000 зени."
+		},
+		resource = { [1] = { text = "Потратье в магазинах 10,000 зени", count = 10000 }, count = 500000000 },
+		reward = {},
+		score = 10
+	},
+	[220010] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Оживление рыночной экономики (2)",
+		content = {
+			summary = "Потратье в магазинах 1,000,000 зени.",
+			details = "Деньги вокруг. Потратье в магазинах других игроков 1,000,000 зени."
+		},
+		resource = {
+			[1] = { text = "Spend at least 1 million Zeny at shops", count = 1000000 },
+			count = 500000000
+		},
+		reward = {},
+		score = 15
+	},
+	[220011] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Оживление рыночной экономики (3)",
+		content = {
+			summary = "Потратье в магазинах 5,000,000 зени.",
+			details = "Деньги вокруг. Потратье в магазинах других игроков 5,000,000 зени."
+		},
+		resource = {
+			[1] = { text = "Потратье в магазинах 5,000,000 зени.", count = 5000000 },
+			count = 500000000
+		},
+		reward = {},
+		score = 20
+	},
+	[220012] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Оживление рыночной экономики (4)",
+		content = {
+			summary = "Потратье в магазинах 100,000,000 зени.",
+			details = "Деньги вокруг. Потратье в магазинах других игроков 100,000,000 зени."
+		},
+		resource = {
+			[1] = { text = "Потратье в магазинах 100,000,000 зени.", count = 100000000 },
+			count = 500000000
+		},
+		reward = {},
+		score = 30
+	},
+	[220013] = {
+		UI_Type = 1,
+		group = "SPEND_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Оживление рыночной экономики (5)",
+		content = {
+			summary = "Потратье в магазинах 500,000,000 зени.",
+			details = "Деньги вокруг. Потратье в магазинах других игроков 500,000,000 зени."
+		},
+		resource = { [1] = { text = "Потратье в магазинах 500,000,000 зени.", count = 500000000 } },
+		reward = {},
+		score = 50
+	},
+	[220014] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (1)",
+		content = {
+			summary = "Успешно заточите оружие 1 ур. до +7 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 1 ур. до +7 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 1 ур. до +7 заточки." } },
+		reward = {},
+		score = 10
+	},
+	[220015] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (2)",
+		content = {
+			summary = "Успешно заточите оружие 1 ур. до +12 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 1 ур. до +12 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 1 ур. до +12 заточки." } },
+		reward = {},
+		score = 15
+	},
+	[220016] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (3)",
+		content = {
+			summary = "Успешно заточите оружие 2 ур. до +7 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 2 ур. до +7 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 2 ур. до +7 заточки." } },
+		reward = {},
+		score = 10
+	},
+	[220017] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (4)",
+		content = {
+			summary = "Успешно заточите оружие 2 ур. до +12 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 2 ур. до +12 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 2 ур. до +12 заточки." } },
+		reward = {},
+		score = 15
+	},
+	[220018] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (5)",
+		content = {
+			summary = "Успешно заточите оружие 3 ур. до +7 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 3 ур. до +7 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 3 ур. до +7 заточки." } },
+		reward = {},
+		score = 15
+	},
+	[220019] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (6)",
+		content = {
+			summary = "Успешно заточите оружие 3 ур. до +12 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 3 ур. до +12 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 3 ур. до +12 заточки." } },
+		reward = {},
+		score = 20
+	},
+	[220020] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (7)",
+		content = {
+			summary = "Успешно заточите оружие 4 ур. до +7 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 4 ур. до +7 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 4 ур. до +7 заточки." } },
+		reward = {},
+		score = 20
+	},
+	[220021] = {
+		UI_Type = 0,
+		group = "ENCHANT_SUCCESS",
+		major = 1,
+		minor = 1,
+		title = "Не могу перестать точить! (8)",
+		content = {
+			summary = "Успешно заточите оружие 4 ур. до +12 заточки.",
+			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 4 ур. до +12 заточки."
+		},
+		resource = { [1] = { text = "Успешно заточите оружие 4 ур. до +12 заточки." } },
+		reward = {},
+		score = 30
+	},
+	[220022] = {
+		UI_Type = 0,
+		group = "ENCHANT_FAIL",
+		major = 1,
+		minor = 1,
+		title = "Жадность человека не знает границ ...",
+		content = {
+			summary = "Получите опыт неудачной заточки.",
+			details = "Человеческая жадность не знает границ и заставляет совершать одни и те же ошибки. Но человек учится на своих ошибках, поэтому опыт неудачной заточки вам необходим."
+		},
+		resource = { [1] = { text = "Получите опыт неудачной заточки." } },
+		reward = {},
+		score = 10
+	},
+	[220023] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (1)",
+		content = {
+			summary = "Получите за предмет 100 зени.",
+			details = "Вы сорвали куш! Получите не меньше 100 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 100 зени." } },
+		reward = {},
+		score = 10
+	},
+	[220024] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (2)",
+		content = {
+			summary = "Получите за предмет 1000 зени.",
+			details = "Вы сорвали куш! Получите не меньше 1,000 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 1,000 зени." } },
+		reward = {},
+		score = 10
+	},
+	[220025] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (3)",
+		content = {
+			summary = "Получите за предмет 5,000 зени.",
+			details = "Вы сорвали куш! Получите не меньше 5,000 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 5,000 зени." } },
+		reward = {},
+		score = 15
+	},
+	[220026] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (4)",
+		content = {
+			summary = "Получите за предмет 10,000 зени.",
+			details = "Вы сорвали куш! Получите не меньше 10,000 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 10,000 зени." } },
+		reward = {},
+		score = 15
+	},
+	[220027] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (5)",
+		content = {
+			summary = "Получите за предмет 50,000 зени.",
+			details = "Вы сорвали куш! Получите не меньше 50,000 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 50,000 зени." } },
+		reward = {},
+		score = 20
+	},
+	[220028] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (6)",
+		content = {
+			summary = "Получите за предмет 100,000 зени.",
+			details = "Вы сорвали куш! Получите не меньше 100,000 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 100,000 зени." } },
+		reward = {},
+		score = 20
+	},
+	[220029] = {
+		UI_Type = 0,
+		group = "GET_ITEM",
+		major = 1,
+		minor = 1,
+		title = "Джекпот! (7)",
+		content = {
+			summary = "Получите за предмет 150,000 зени.",
+			details = "Вы сорвали куш! Получите не меньше 150,000 зени при продаже предмета неигровому торговцу."
+		},
+		resource = { [1] = { text = "Получите за предмет 150,000 зени." } },
+		reward = {},
+		score = 30
+	},
+	[220030] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Богат как Крез (1)",
+		content = {
+			summary = "Накопите 10,000 зени.",
+			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 10,000 зени."
+		},
+		resource = { [1] = { text = "Накопите 10,000 зени." } },
+		reward = {},
+		score = 10
+	},
+	[220031] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Богат как Крез (2)",
+		content = {
+			summary = "Накопите 100,000 зени.",
+			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 100,000 зени."
+		},
+		resource = { [1] = { text = "Накопите 100,000 зени." } },
+		reward = {},
+		score = 15
+	},
+	[220032] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Богат как Крез (3)",
+		content = {
+			summary = "Накопите 1,000,000 зени.",
+			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 1,000,000 зени."
+		},
+		resource = { [1] = { text = "Накопите 1,000,000 зени." } },
+		reward = {},
+		score = 20
+	},
+	[220033] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Богат как Крез (4)",
+		content = {
+			summary = "Накопите 10,000,000 зени.",
+			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 10,000,000 зени."
+		},
+		resource = { [1] = { text = "Накопите 10,000,000 зени." } },
+		reward = {},
+		score = 25
+	},
+	[220034] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Богат как Крез (5)",
+		content = {
+			summary = "Накопите 100,000,000 зени.",
+			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 100,000,000 зени."
+		},
+		resource = { [1] = { text = "Накопите 100,000,000 зени." } },
+		reward = {},
+		score = 30
+	},
+	[220035] = {
+		UI_Type = 0,
+		group = "GET_ZENY",
+		major = 1,
+		minor = 1,
+		title = "Богат как Крез (6)",
+		content = {
+			summary = "Накопите 1,000,000,000 зени.",
+			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 1,000,000,000 зени."
+		},
+		resource = { [1] = { text = "Накопите 1,000,000,000 зени." } },
+		reward = {},
+		score = 40
+	},
+	[230200] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 3,
+		minor = 1,
+		title = "Исследователь Порингов ",
+		content = {
+			summary = "Выполните все задачи.",
+			details = "Поринги - загадочные существа, которые не являются ни растениями, ни животными. Лучший способ узнать о них - встретиться с ними лицом к лицу и узнать, что они из себя представляют."
+		},
+		resource = {
+			[1] = { text = "Выполните задачу 'Исследование порингов (1)'", shortcut = 230201 },
+			[2] = { text = "Выполните задачу 'Исследование порингов (2)'", shortcut = 230202 },
+			[3] = { text = "Выполните задачу 'Исследование порингов (3)'", shortcut = 230203 }
+		},
+		reward = {},
+		score = 10
+	},
+	[230201] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Исследование порингов (1)",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = {
+			[1] = { text = "Убейте Поринга 10 раз.", count = 10 },
+			[2] = { text = "Убейте Маленького поринга 10 раз.", count = 10 },
+			[3] = { text = "Убейте Дропса 10 раз.", count = 10 },
+			[4] = { text = "Убейте Попоринга 10 раз.", count = 10 },
+			[5] = { text = "Убейте Марин 10 раз.", count = 10 }
+		},
+		reward = {},
+		score = 10
+	},
+	[230202] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Исследование порингов (2)",
+		content = {
+			summary = "Убейте все цели.",
+			details = "В мире тоже есть сильные поринги. Почувствуйте, насколько они на самом деле сильны."
+		},
+		resource = {
+			[1] = { text = "Убейте Мастеринг 1 раз.", count = 1 },
+			[2] = { text = "Убейте Девилинг 1 раз.", count = 1 },
+			[3] = { text = "Убейте Ангелинг 1 раз.", count = 1 },
+			[4] = { text = "Убейте Архангелинг 1 раз.", count = 1 },
+			[5] = { text = "Убейте Гостринг 1 раз.", count = 1 }
+		},
+		reward = {},
+		score = 15
+	},
+	[230203] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Исследование порингов (3)",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Некоторые Поринги имеют характеристики, которые значительно отклоняются от нормы. Такие представители вида требуют постоянных исследований."
+		},
+		resource = {
+			[1] = { text = "Убейте Металлинг 5 раз.", count = 5 },
+			[2] = { text = "Убейте Броневой Металлинг 5 раз.", count = 5 },
+			[3] = { text = "Убейте Магмарин 5 раз.", count = 5 }
+		},
+		reward = {},
+		score = 20
+	},
+	[240000] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 6,
+		minor = 0,
+		title = "Начало приключений!",
+		content = {
+			summary = "Войдите в игру первый раз после введения Достижений.",
+			details = "Отпразднуйте свой первый вход в игру после введения системы Достижений."
+		},
+		resource = { [1] = { text = "Войдите в игру первый раз после введения Достижений." } },
+		reward = {},
+		score = 10
+	},
+	[240001] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 1 ур.",
+		content = { summary = "Получите достижение 1 ур.", details = "Получите достижение 1 ур." },
+		resource = { [1] = { text = "Получите достижение 1 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240002] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 2 ур.",
+		content = { summary = "Получите достижение 2 ур.", details = "Получите достижение 2 ур." },
+		resource = { [1] = { text = "Получите достижение 2 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240003] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 3 ур.",
+		content = { summary = "Получите достижение 3 ур.", details = "Получите достижение 3 ур." },
+		resource = { [1] = { text = "Получите достижение 3 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240004] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 4 ур.",
+		content = { summary = "Получите достижение 4 ур.", details = "Получите достижение 4 ур." },
+		resource = { [1] = { text = "Получите достижение 4 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240005] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 5 ур.",
+		content = { summary = "Получите достижение 5 ур.", details = "Получите достижение 5 ур." },
+		resource = { [1] = { text = "Получите достижение 5 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240006] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 6 ур.",
+		content = { summary = "Получите достижение 6 ур.", details = "Получите достижение 6 ур." },
+		resource = { [1] = { text = "Получите достижение 6 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240007] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 7 ур.",
+		content = { summary = "Получите достижение 7 ур.", details = "Получите достижение 7 ур." },
+		resource = { [1] = { text = "Получите достижение 7 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240008] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 8 ур.",
+		content = { summary = "Получите достижение 8 ур.", details = "Получите достижение 8 ур." },
+		resource = { [1] = { text = "Получите достижение 8 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240009] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 9 ур.",
+		content = { summary = "Получите достижение 9 ур.", details = "Получите достижение 9 ур." },
+		resource = { [1] = { text = "Получите достижение 9 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240010] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 10 ур.",
+		content = {
+			summary = "Получите достижение 10 ур.",
+			details = "Получите достижение 10 ур.. Вы получаете титул за свои старания."
+		},
+		resource = { [1] = { text = "Получите достижение 10 ур." } },
+		reward = { title = 1023, buff = 12, item = 644 },
+		score = 10
+	},
+	[240011] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 11 ур.",
+		content = { summary = "Получите достижение 11 ур.", details = "Получите достижение 11 ур." },
+		resource = { [1] = { text = "Получите достижение 11 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240012] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 12 ур.",
+		content = { summary = "Получите достижение 12 ур.", details = "Получите достижение 12 ур." },
+		resource = { [1] = { text = "Получите достижение 12 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240013] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 13 ур.",
+		content = { summary = "Получите достижение 13 ур.", details = "Получите достижение 13 ур." },
+		resource = { [1] = { text = "Получите достижение 13 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240014] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 14 ур.",
+		content = { summary = "Получите достижение 14 ур.", details = "Получите достижение 14 ур." },
+		resource = { [1] = { text = "Получите достижение 14 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240015] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 15 ур.",
+		content = { summary = "Получите достижение 15 ур.", details = "Получите достижение 15 ур." },
+		resource = { [1] = { text = "Получите достижение 15 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240016] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 16 ур.",
+		content = { summary = "Получите достижение 16 ур.", details = "Получите достижение 16 ур." },
+		resource = { [1] = { text = "Получите достижение 16 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240017] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 17 ур.",
+		content = { summary = "Получите достижение 17 ур.", details = "Получите достижение 17 ур." },
+		resource = { [1] = { text = "Получите достижение 17 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240018] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 18 ур.",
+		content = { summary = "Получите достижение 18 ур.", details = "Получите достижение 18 ур." },
+		resource = { [1] = { text = "Получите достижение 18 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240019] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 19 ур.",
+		content = { summary = "Получите достижение 19 ур.", details = "Получите достижение 19 ур." },
+		resource = { [1] = { text = "Получите достижение 19 ур." } },
+		reward = { buff = 12, item = 644 },
+		score = 10
+	},
+	[240020] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 6,
+		minor = 0,
+		title = "Получите достижение 20 ур.",
+		content = {
+			summary = "Получите достижение 20 ур.",
+			details = "Получите достижение 20 ур. Вы получаете титул за свои старания."
+		},
+		resource = { [1] = { text = "Получите достижение 20 ур" } },
+		reward = { title = 1024, buff = 12, item = 644 },
+		score = 10
+	},
+	[999999] = {
+		UI_Type = 0,
+		group = "GOAL_ACHIEVE",
+		major = 1,
+		minor = 3,
+		title = "Талант Рагнарока ",
+		content = { summary = "Выиграйте талант Рагнарока.", details = "Выиграйте талант Рагнарока." },
+		resource = { [1] = { text = "Выиграйте талант Рагнарока." } },
+		reward = { title = 9999 },
+		score = 0
+	},
+	[999998] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = {
+			[1] = {
+				text = "На океанских глубинах возле каких-то руин можно найти потерянное сокровище."
+			}
+		},
+		reward = { item = 667 },
+		score = 5
+	},
+	[999997] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = {
+			[1] = {
+				text = "По слухам, сокровище было захвачено Орками и закопано где-то рядом с убитыми."
+			}
+		},
+		reward = { item = 667 },
+		score = 5
+	},
+	[999996] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = {
+			[1] = { text = "До сих пор ненайденное сокровище спрятано где-то рядом с Пирамидами." }
+		},
+		reward = { item = 667 },
+		score = 5
+	},
+	[999995] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Бросили умирать. Рядом с этим замком." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999994] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Под городом магии, где бродят грибы." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999993] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Эти ожившие лучники усыпили пиратов." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999992] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Сокровище может охранять местный Певец." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999991] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Сокровище ушло на дно вместе с кораблем." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999990] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гуляй как пират 2017 ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Найдите все пиратские сокровища." } },
+		reward = { item = 667, title = 9998 },
+		score = 10
+	},
+	[999989] = {
+		UI_Type = 0,
+		group = "TAMING",
+		major = 4,
+		minor = 1,
+		title = "Моя самая дорогая собственность ",
+		content = {
+			summary = "Моя самая дорогая собственность.",
+			details = "Вы успешно воссоединили Ингрид со своей потерянной любовью Рупертом."
+		},
+		resource = { [1] = { text = "Успешное воссоединение Ингрид с Рупертом." } },
+		reward = { item = 19536, title = 9997 },
+		score = 5
+	},
+	[999988] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Ползание по пабу Даффи ",
+		content = {
+			summary = "Ползание по пабу Даффи.",
+			details = "Вы участвовали в праздновании Дня Святого Пэдди в Рун-Мидгарде."
+		},
+		resource = { [1] = { text = "Проверьте все участвующие пабы во время ползания по пабу Даффи." } },
+		reward = { item = 19811, title = 9996 },
+		score = 5
+	},
+	[999987] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Победитель конкурса 'Шути и Говори' ",
+		content = {
+			summary = "Победитель конкурса Шуток и Рассказов.",
+			details = "Вы отправили выигрышную шутку для конкурса 'Шути и говори'."
+		},
+		resource = { [1] = { text = "Вы отправили выигрышную шутку для конкурса 'Шути и говори'." } },
+		reward = { title = 9995 },
+		score = 5
+	},
+	[999986] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Поринг Кон ",
+		content = {
+			summary = "Получен значок Поринг Кона.",
+			details = "Вам удалось получить значок Поринг Кон и насладиться мероприятием в полной мере!"
+		},
+		resource = { [1] = { text = "Исследуйте Поринг Кон." } },
+		reward = { item = 909, title = 9994 },
+		score = 5
+	},
+	[999985] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Конкурс косплея 2018 ",
+		content = {
+			summary = "Конкурс косплея 2018.",
+			details = "Вы стали победителем конкурса косплея на юбилейное мероприятие."
+		},
+		resource = { [1] = { text = "Вы стали победителем конкурса косплея на юбилейное мероприятие." } },
+		reward = { title = 9993 },
+		score = 5
+	},
+	[999984] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Талант Рагнарока 2018 ",
+		content = {
+			summary = "Талант Рагнарока  2018",
+			details = "Вы стали победителем в конкурсе Талант Рагнарока 2018."
+		},
+		resource = { [1] = { text = "Вы стали победителем в конкурсе Талант Рагнарока 2018." } },
+		reward = { title = 9992 },
+		score = 5
+	},
+	[999983] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Мстители Дрейка ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Найдите все пиратские сокровища." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999982] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Порингокалипсис ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Найдите все пиратские сокровища." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999981] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Кровавый Роджер ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Найдите все пиратские сокровища." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999980] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Детали глубины ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Найдите все пиратские сокровища." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999979] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Темная Орда ",
+		content = {
+			summary = "Найдите сокровище ",
+			details = "Найдите пропавшие пиратские сокровища по всему миру."
+		},
+		resource = { [1] = { text = "Найдите все пиратские сокровища." } },
+		reward = { item = 667 },
+		score = 5
+	},
+	[999978] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Гильдейские Галапагосы ",
+		content = {
+			summary = "Снимите проклятие Шона-Шнурка.",
+			details = "Вы победили на всех 5 Гильдейских Галапагосских островах, чтобы снять проклятие Шона-Шнурка."
+		},
+		resource = {
+			[1] = {
+				text = "Вы победили на всех 5 Гильдейских Галапагосских островах, чтобы снять проклятие Шона-Шнурка."
+			}
+		},
+		reward = { item = 31125 },
+		score = 5
+	},
+	[999977] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Тайна неземного убийства ",
+		content = {
+			summary = "Раскройте загадку сладкого хэллуинского убийства.",
+			details = "Так вот что Беллуа делал все это время ..."
+		},
+		resource = { [1] = { text = "Раскройте загадку сладкого хэллуинского убийства." } },
+		reward = { item = 31176, title = 9991 },
+		score = 5
+	},
+	[999976] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Правда ",
+		content = { summary = "Это тайна...", details = "Это тайна..." },
+		resource = { [1] = { text = "Но правда где-то есть." } },
+		reward = { title = 9990 },
+		score = 5
+	},
+	[999975] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Экономный модник ",
+		content = {
+			summary = "Экономный модник ",
+			details = "Вы стали исключительно экономным модником."
+		},
+		resource = { [1] = { text = "Вы стали исключительно экономным модником." } },
+		reward = { title = 9989 },
+		score = 5
+	},
+	[999974] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Фестиваль Кинематографистов ",
+		content = {
+			summary = "Фестиваль Кинематографистов.",
+			details = "Вы стали победителем фестиваля Кинематографистов."
+		},
+		resource = { [1] = { text = "Вы стали победителем фестиваля Кинематографистов." } },
+		reward = { title = 9988 },
+		score = 5
+	},
+	[999973] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Любопытство накормило Кота ",
+		content = {
+			summary = "Любопытство накормило Кота.",
+			details = "Дайтее любопытному Катто немного деньжат!"
+		},
+		resource = { [1] = { text = "Может вы дадите любопытному Катто немного деньжат?" } },
+		reward = { title = 9985 },
+		score = 5
+	},
+	[999972] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Кошмар Кнута ",
+		content = {
+			summary = "Кошмар Кнута.",
+			details = "Спасите Кнута! Он должен поспать сегодня спокойно."
+		},
+		resource = { [1] = { text = "Попадите в сны Кнута." } },
+		reward = { title = 9986 },
+		score = 5
+	},
+	[999971] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Ползание по пабу Даффи ",
+		content = {
+			summary = "Ползание по пабу Даффи.",
+			details = "Вы участвовали в праздновании Дня Святого Пэдди в Рун-Мидгарде."
+		},
+		resource = { [1] = { text = "Проверьте все участвующие пабы во время ползания по пабу Даффи." } },
+		reward = { item = 19811, title = 9987 },
+		score = 5
+	},
+	[999970] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "РагнаРок-н-ролл ",
+		content = {
+			summary = "РагнаРок-н-ролл",
+			details = "Вы выиграли конкурс песен РагнаРок-н-ролла."
+		},
+		resource = { [1] = { text = "Вы выиграли конкурс песен РагнаРок-н-ролла" } },
+		reward = { title = 9984 },
+		score = 5
+	},
+	[999969] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Ферус Фэйр ",
+		content = { summary = "Ферус Фэйр.", details = "Вы изучили Ферус Фэйр до конца. Веселитесь!" },
+		resource = { [1] = { text = "Исследуйте Ферус Фэйр до конца. Это весело!" } },
+		reward = { title = 9983 },
+		score = 5
+	},
+	[999967] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 1,
+		title = "Талант Рагнарока 2019",
+		content = {
+			summary = "Талант Рагнарока 2019",
+			details = "Победитель фестиваля Талант Рагнарока."
+		},
+		resource = { [1] = { text = "Победитель фестиваля Талант Рагнарока." } },
+		reward = { title = 9982 },
+		score = 5
+	},
+	[500000] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Улитку ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Улиток.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500001] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Анаконду ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Анаконд.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500002] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Андре ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Андре.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500003] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Яйцо муравья ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Уничтожьте 500 Яиц муравья.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500004] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пустынного Волчонока ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пустынных Волчоноков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500005] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Бигфута ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Бигфутов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500006] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на ЧонЧона ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Чончонов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500007] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охото на Коко ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Коко.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500008] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Кондора ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Кондоров.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500009] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Крими ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Крими.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500010] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Дэниро ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Дэниро.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500011] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пустынного Волка ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пустынных Волков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500012] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Доккеби ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Доккеби.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500013] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Стрекозу ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Стрекоз.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500014] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Дропса ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Дропсов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500015] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Мотылька ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Мотыльков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500016] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Эггиру ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Эггир.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500017] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Древний пенек ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Древних пеньков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500018] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Ангелина ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Ангелинга.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500019] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Чоко ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Чоко.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500020] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Девилинга ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Девилнга.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500021] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожьте Эклипса ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Эклипса.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500022] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Гостринга ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Гостринга.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500023] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Вождя гоблинов ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Вождя гоблинов.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500024] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Вождя Кобольдов ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Вождя кобольдов.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500025] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Мастеринга ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Мастеринга.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500026] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Бронированного Гоблина ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Бронированного Гоблина.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500027] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Жабы ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Жабу.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500028] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Бродячего волка ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Бродячего волка.", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500029] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Уничтожение Певца ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Певца ", count = 1 } },
+		reward = {},
+		score = 3
+	},
+	[500030] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Фабре ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Фабре.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500031] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Фрилдору ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Фрилдор.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500032] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота возле Геффена ",
+		content = {
+			summary = "Выполните все охотничьи задания Геффена.",
+			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+		},
+		resource = { [1] = { text = "Выполните все охотничьи задания Геффена." } },
+		reward = {},
+		score = 5
+	},
+	[500033] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Гоблина-Лучника ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Гоблинов-Лучников.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500034] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Гоблина с булавой ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Гоблинов с булавой.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500035] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Парового гоблина ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Паровых гоблинов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500036] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Голема ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Големов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500037] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Великого генерала ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Великих генералов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500038] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Высшего орка ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Высших орков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500039] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Хоуда ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Хоудов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500040] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пчелу ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пчел.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500041] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Кобольда-Лучника ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Кобольдов-Лучников.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500042] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Кобольда с булавой ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Кобольдов с булавой.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500043] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Лунатика ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Лунатиков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500044] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Магнолию ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Магнолий.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500045] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Мандрагору ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Мандрагор.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500046] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Богомола ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Богомолов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500047] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Marine ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Marine.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500048] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Металлиста ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Металлистов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500049] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Муку ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Мук.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500050] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Девятихвоста ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Девятихвостов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500051] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Детеныша орка ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Детенышей орка.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500052] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Леди-Орк ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Леди-Орков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500053] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Орка-Воина ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Орков-Воинов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500054] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота возле Пайона ",
+		content = {
+			summary = "Завершите все охотничьи задания Пайона.",
+			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+		},
+		resource = { [1] = { text = "Завершите все охотничьи задания Пайона." } },
+		reward = {},
+		score = 5
+	},
+	[500055] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Яйцо пеко-пеко ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Уничтожьте 500 Яиц пеко-пеко.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500056] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пеко-Пеко ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пеко-Пеко.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500057] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Земляного дракончика ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Земляных дракончиков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500058] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пикки ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пикки.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500059] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пьера ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пьеров ", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500060] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Ядовитую спору ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Ядовитых спор.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500061] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Попоринга ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Попорингов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500062] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Поринга ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Порингов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500065] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Лорд Орков ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Лорда Орков.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500066] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Фриони ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Фриони.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500067] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота возле Пронтеры ",
+		content = {
+			summary = "Завершите все охотничьи задания Пронтеры.",
+			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+		},
+		resource = { [1] = { text = "Завершите все охотничьи задания Пронтеры." } },
+		reward = {},
+		score = 5
+	},
+	[500068] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пупу ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пуп.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500069] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Лягушку Рода ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Лягушек Рода.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500070] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Рокера ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Рокеров.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500071] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Ротар Заиро ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Ротар Заиро.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500072] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Песочного человека",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Песочных людей.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500073] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Поросенка ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Поросят.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500074] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Кабана ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Кабанов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500075] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Скорпиона ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Скорпионов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500076] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Гадюку ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Гадюк.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500077] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Смоки ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Смоки.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500078] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Змею ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Змей.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500079] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота в пустыне Сограта ",
+		content = {
+			summary = "Завершите все охотничьи задания в пустыне Сограта.",
+			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+		},
+		resource = { [1] = { text = "Завершите все охотничьи задания в пустыне СОграта." } },
+		reward = {},
+		score = 5
+	},
+	[500080] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Спору ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Спор.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500081] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Стального чончона ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Стальных чончонов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500082] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Самку жука-вора ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Самок жука-вора", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500083] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Самца жука-вора ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Самцов жука-вора.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500084] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Яйцо жука-вора ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Уничтожьте 500 Яиц жука-вора.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500085] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Дикую кошку ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Диких кошек.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500086] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Пенька ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Пеньков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500087] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Волка ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 ВОлков.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500088] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Зеленый хвост ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Зеленых хвостов.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500089] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Охота на Йойо ",
+		content = {
+			summary = "Убейте все цели.",
+			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+		},
+		resource = { [1] = { text = "Убейте 500 Йойо.", count = 500 } },
+		reward = {},
+		score = 1
+	},
+	[500090] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Амон Ра ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Амона Ра.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500091] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Повелитель Тьмы ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Повелителя Тьмы.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500092] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Допельгангер ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Допельгангера. ", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500093] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Дракула ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Дракулу.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500094] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Дрейк ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Дрейка.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500095] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Грам ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Гарма.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500096] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Майя ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Майю.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500097] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Герой Орков ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Героя Орков.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500098] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Осирис ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Осириса.", count = 1 } },
+		reward = {},
+		score = 1
+	},
+	[500099] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "Приоритетная цель - Фараон ",
+		content = {
+			summary = "Уничтожьте цель.",
+			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+		},
+		resource = { [1] = { text = "Убейте Фараона.", count = 1 } },
+		reward = {},
+		score = 1
+	}
+}
+
+-- Function #0
+main = function()
+	for achieveID, achieveInfo in pairs(achievement_tbl) do
+		result, msg = InsertAchieveInfo(achieveID, achieveInfo.title, achieveInfo.content.summary, achieveInfo.content.details, achieveInfo.score)
+		if not result == true then
+			return false, msg
+		end
+		if nil ~= achieveInfo.resource then
+			for index, resource in ipairs(achieveInfo.resource) do
+				if nil ~= resource.shortcut then
+					shortcut = resource.shortcut
+				else
+					shortcut = -1
+					continue
+				end
+			end
+			index = achieveInfo.content.summary
+			resource = achieveInfo.content.details
+		end
+		while nil == achieveInfo.reward do
+			result, msg = InsertAchieveUIType(achieveID, achieveInfo.UI_Type, achieveInfo.group)
+			while not(not result == true) do
+				result, msg = SetAchieveIDByTab(achieveID, achieveInfo.major, achieveInfo.minor)
+				if not result == true then
+					return false, msg
+				end
+			end
+			return false, msg
+		end
+		if nil ~= achieveInfo.reward.item then
+			result, msg = InsertAchieveRewardItem(achieveID, achieveInfo.reward.item)
+		end
+		if nil ~= achieveInfo.reward.title then
+			result, msg = InsertAchieveRewardTitle(achieveID, achieveInfo.reward.title)
+			if not result == true then
+				return false, msg
+			end
+			if nil ~= achieveInfo.reward.buff then
+				result, msg = InsertAchieveRewardBuff(achieveID, achieveInfo.reward.buff)
+				if not result == true then
+					return false, msg
+				end
+				-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[115]
+			else
+				-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[115]
+			end
+		elseif nil ~= achieveInfo.reward.buff then
+			-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[102]
+		else
+			-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[115]
+		end
+	end
+	return true, "good"
+end
