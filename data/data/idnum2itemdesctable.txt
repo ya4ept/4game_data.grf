@@ -7622,8 +7622,7 @@ Jobs: Acolyte Jobs
 ^FFFFFF_^000000
 Restores 1 SP to the user when performing a physical attack to Undead race targets.
 Restores 3 SP to the user when an Undead race targets is killed by physical attacks.
-Enables ^0000FFLevel 3 Turn Undead^000000.
-Adds a 10% chance of casting ^0000FFLevel 3 Turn Undead^000000 on the target when performing a physical attack.
+Adds a chance of casting ^0000FFLevel 3 Turn Undead^000000 on the enemy when performing a physical attack.
 #
 
 1529#
@@ -17365,7 +17364,7 @@ form a matching set.
 Agi +2
 Vit +1
 MDEF +2 
-Adds a chance of auto сasting various skills when attacking.
+Adds a chance of auto casting various skills when attacking.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
 Weight: ^77777710^000000
@@ -49082,17 +49081,21 @@ Jobs: ^777777All^000000
 Box Weight: ^7777771^000000
 #
 18508#
+^ff0000Account bound^000000
 A hat which is very unique and rare, made from the feathers of a legendary bird Garuda.
-Reduces damage from all elements by 5%.
-Luk +5, Hit +10, Reduces casting delay by 5%.
-If refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
-^ff0000Can be traded, stored, and vended^000000
+Reduces damage from all elements by 5%
+LUK +5
+HIT +10
+MDEF +3
+Spell casting time -5%
+[If refined to +7 or higher] 
+Has a chance of dropping Mastela Fruit when defeating monsters. 
+Chance to drop increases for each refine level over 7.
 Class: ^777777Headgear^000000
-Defense: ^7777774^000000
 Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All except Novices^000000
+Defense: ^7777774^000000 Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5585#
 A hairband embroidered with Runes and golden thread.
@@ -67986,7 +67989,7 @@ Jobs: ^777777All^000000
 2754#
 ^ff0000Account bound^000000
 A ring that contains special powers.
-Exp +15% when killing ^000088Undead monsters^000000
+Exp +15% when killing ^000088Undead race monsters^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -75070,7 +75073,7 @@ Weight: ^7777771^000000
 [Hallow Ring]
 ^ff0000Account bound^000000
 A ring that contains special powers.
-Exp +15% when killing ^000088Undead monsters^000000
+Exp +15% when killing ^000088Undead race monsters^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -84586,6 +84589,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 25256#
+^ff0000Account bound^000000
 A fragment of crystallized spiritual imprint. It works like a mirror, reflecting the image of a lost memory.
 Weight: ^7777771^000000
 #
