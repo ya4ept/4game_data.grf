@@ -12096,7 +12096,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CG_SPECIALSINGER] = {
 		"SKID_CG_SPECIALSINGER",
-		SkillName = "Skilled Special Singer",
+		SkillName = "Опытный артист ",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
