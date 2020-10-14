@@ -34200,24 +34200,7 @@ Required Level: ^7777771^000000
 Jobs :^777777Gunslinger^000000
 #
 20379#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A sawed off shotgun
-that fires shots more
-rapidly like a pistol
-at the cost of reduced
-accuracy. HIT -5.
-Splash damage.
-Increases Attack
-Speed by 20%.
-^CC0000This item is not Refinable^000000
-Class: ^777777Shotgun^000000
-Attack Strength ^777777110^000000
-Weight: ^77777770^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Gunslinger^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20011#
 ^CC0000This Rental Armor is not Tradable^000000
@@ -54428,6 +54411,67 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31250#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9943#
+This box looks much more educated and sophisticated than you!
+What a miracle of technology!
+^ffffff_^000000
+Open to obtain one of the following items:
+Clockwork Aura
+Tech Backpack
+Magic Decoy Toy
+Silver Sniper Toy
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Piamette's Hairpiece
+Inf. Giant Fly Wing Box (1 h.)
+Binoculars
+Head Winder
+Clockwork Chiffon
+Processor on Head
+Secret Medicine
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Bloody Branch x3
+Ghostring Scroll x4
+Holy Armor Scroll x4
+Poring Box x3
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Rune-Midgard Wing x15
+Ancient City Wing x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19734#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20246#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20382#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20383#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20513#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31379#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31544#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 

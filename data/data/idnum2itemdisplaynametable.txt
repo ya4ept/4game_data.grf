@@ -8975,3 +8975,13 @@
 9936#Feral Treasure#
 20018#Wolf Ears#
 31250#Bizarre Beast Ears#
+
+19734#Binoculars#
+20246#Clockwork Aura#
+20379#Clockwork Chiffon#
+20382#Silver Sniper Toy#
+20383#Magic Decoy Toy#
+20513#Tech Backpack#
+31379#Head Winder#
+31544#Piamette's Hairpiece#
+9943#Steamfunk Treasure#

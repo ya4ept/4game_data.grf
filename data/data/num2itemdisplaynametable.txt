@@ -7871,3 +7871,13 @@
 18505#Accessory#
 20018#Headgear#
 31250#Headgear#
+
+19734#Accessory#
+20246#Accessory#
+20379#Headgear#
+20382#Headgear#
+20383#Headgear#
+20513#Garment#
+31379#Headgear#
+31544#Headgear#
+9943#Steamfunk Treasure#

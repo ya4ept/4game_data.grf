@@ -54195,24 +54195,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777Gunslinger^000000
 #
 20379#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A sawed off shotgun
-that fires shots more
-rapidly like a pistol
-at the cost of reduced
-accuracy. HIT -5.
-Splash damage.
-Increases Attack
-Speed by 20%.
-^CC0000This item is not Refinable^000000
-Class: ^777777Shotgun^000000
-Attack Strength ^777777110^000000
-Weight: ^77777770^000000
-Weapon Level: ^7777773^000000
+Now, if you are asked what time it is, you may not even answer.
+Just point your finger at the small clock built into this elegant head ornament.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Gunslinger^000000
+Jobs: ^777777All^000000
 #
 
 20021#
@@ -87399,6 +87388,111 @@ Location: ^777777Middle^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+19734#
+These eyepieces incorporate a sophisticated lens system that allows you to zoom in and out.
+Just be careful with this, otherwise you will get dizzy!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20246#
+This aura will always tell you what time it is on the clock!
+On every clock that exists in this universe...
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20382#
+A small toy based on a self-supporting FAW Silver Sniper weapon.
+This thing is absolutely harmless.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20383#
+A small toy based on a self-supporting FAW Magic Decoy weapon.
+This thing is absolutely harmless.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20513#
+This backpack has hundreds of pockets and compartments for all occasions!
+Specially designed for technical professionals.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31379#
+Feel like the gears in your head are rusted?
+Take advantage of this specially designed winding key!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31544#
+A luxurious wig inspired by Piamette's hairstyle.
+These white curls enhance the beauty of your face so much!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9943#
+This box looks much more educated and sophisticated than you!
+What a miracle of technology!
+^ffffff_^000000
+Open to obtain one of the following items:
+Clockwork Aura
+Tech Backpack
+Magic Decoy Toy
+Silver Sniper Toy
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Piamette's Hairpiece
+Inf. Giant Fly Wing Box (1 h.)
+Binoculars
+Head Winder
+Clockwork Chiffon
+Processor on Head
+Secret Medicine
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Bloody Branch x3
+Ghostring Scroll x4
+Holy Armor Scroll x4
+Poring Box x3
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Rune-Midgard Wing x15
+Ancient City Wing x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 
 
