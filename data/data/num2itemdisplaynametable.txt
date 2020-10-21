@@ -7881,3 +7881,5 @@
 31379#Headgear#
 31544#Headgear#
 9943#Steamfunk Treasure#
+
+7558#Guild Master Change Coupon#

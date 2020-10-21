@@ -39062,11 +39062,12 @@ Increases resistance against Water property by 5%.
 ^6A5ACD[If refined to 7 or higher]^000000
 Has a chance of casting Lv 3 Mild Wind while physically attacking.
 ^6A5ACD[If refined to 8 or higher]^000000
-Aspd +2%
+Additional Aspd +2%
 ^6A5ACD[If refined to 9 or higher]^000000
 Has a chance of casting Lv 5 Frost Nova while physically attacking.
 ^6A5ACD[If refined to 10]^000000
-Atk +5, Aspd +2%.
+Atk +5
+Additional Aspd +2%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper ^000000
@@ -87494,5 +87495,15 @@ WoE 2.0 Teleport Scroll x15
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
+7558#
+^ff0000Account bound^000000
+^0000ffOnly the Guild Master can use the coupon!^000000
+With this item, ^0000ff the current Guild Master^000000 can contact the support to use the service of changing the Guild Master.
+In the message, you must specify:
+- the name of the Guild
+- name of the character you want to transfer control to (^0000ff must be a member of the specified Guild^000000)
+The Guild Master is changed only during maintenance work on the server.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
 

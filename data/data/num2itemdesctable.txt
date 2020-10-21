@@ -54474,5 +54474,15 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 31544#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
+7558#
+^ff0000Account bound^000000
+^0000ffOnly the Guild Master can use the coupon!^000000
+With this item, ^0000ff the current Guild Master^000000 can contact the support to use the service of changing the Guild Master.
+In the message, you must specify:
+- the name of the Guild
+- name of the character you want to transfer control to (^0000ff must be a member of the specified Guild^000000)
+The Guild Master is changed only during maintenance work on the server.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
 

@@ -8985,3 +8985,4 @@
 31379#Head Winder#
 31544#Piamette's Hairpiece#
 9943#Steamfunk Treasure#
+7558#Guild Master Change Coupon#
