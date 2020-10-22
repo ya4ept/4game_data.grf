@@ -1,55 +1,53 @@
 %faf0e6
-^000088Intermediate Alchemy: Condensed Potions^000000
+^000088Алхимия для профессионалов: уменьшенные зелья^000000
 
 
-----------------Preface--------------------
-
-If the basics of potion making is already second
-nature to you, then you might be prepared for the
-more advanced process of producing condensed
-potions. Condensing maximizes the effectiveness
-of your potions while minimizing their weight and
-the required production materials.
-
+----------------Предисловие----------------
+Если вы уже в достаточной степени овладели умением создания зелий, тогда вы готовы
+познакомиться с более сложным процессом создания уменьшенных зелий. Концентрирование
+увеличивает эффективность ваших зелий и уменьшает их вес, что делает уменьшенные
+зелья чрезвычайно полезными в бою.
 ------------------------------------------
 
-What is a ^ff0000Condensed Potion^000000?
 
-A condensed potion is an incredibly dense potion
-that has the same effectiveness as its normal
-counterpart, but is much lighter in weight.
-Condensing potions is a great convenience
-since it increases the amount of potions that
-Alchemists and other adventurers can carry.
+Описание:
+Уменьшенное зелье - это невероятно густое зелье, которое обладает такой же
+эффективностью, как и его обычный аналог, но весит намного меньше. Такие зелья очень
+удобны, поскольку, благодаря их малому весу, алхимики и искатели приключений могут
+носить с собой большее количество зелий.
 
 
-^0000ffRed Slim Potion^000000: Restores 45 HP.
-Required Materials: ^4b00821 Red Potion,
-1 Cactus Needle, 1 Empty Cylinder^000000
+^0000ffКрасное уменьшенное зелье^000000: Восстанавливает 45 HP.
 
-Process: Slowly pour a red potion into a medicine
-bowl, and mix in ground cactus needle. You must
-keep this book with you as a reference while you
-use the Prepare Potion skill to pour the solution
-into an empty cylinder.
+Ингредиенты: ^4b00821 Красное зелье, 1 Игла кактуса, 1 Пустая колба^000000
 
-^800000Yellow Slim Potion^000000 : Restores 175 HP
-Required Materials: ^4b00821 Yellow Potion ,
-1 Mole Whisker, 1 Empty Cylinder^000000
-
-Process: Slowly pour a yellow potion into
-a medicine bowl, and mix in boiled, liquefied
-mole whisker. You must keep this book with you
-as a reference while you use the Prepare Potion
-skill to pour the solution into an empty cylinder.
+Указания:
+1) Медленно вылейте красное зелье в медицинскую ступу.
+2) Добавьте иглу кактуса.
+3) В процессе приготовления зелья время от времени сверяйтесь с нашей книгой.
+4) Переливая готовый раствор в пустую пробирку, используйте умение
+[Изготовить Зелье].
 
 
+^800000Желтое уменьшенное зелье^000000 : Восстанавливает 175 HP.
 
-^008040White Slim Potion^000000: Restores 325 HP.
-Required Materials: ^4b00821 White Potion,
-1 Witch Starsand, 1 Empty Cylinder^000000
+Ингредиенты: ^4b00821 Желтое зелье, 1 Усы крота, 1 Пустая колба^000000
 
-Process: Slowly pour a white potion into a medicine
-bowl, and mix in witch starsand. You must keep this
-book with you as a reference while you use the Prepare
-Potion skill to pour the solution into an empty cylinder.
+Указания:
+1) Медленно вылейте желтое зелье в медицинскую ступу.
+2) Добавьте расплавленный ус крота.
+3) В процессе приготовления зелья время от времени сверяйтесь с нашей книгой.
+4) Переливая готовый раствор в пустую пробирку, используйте умение
+[Изготовить Зелье].
+
+
+^008040Белое уменьшенное зелье^000000: Восстанавливает 325 HP.
+Ингредиенты: ^4b00821 Белое зелье, 1 Золотой песок ведьмы, 1 Пустая пробирка^000000
+
+Указания:
+1) Медленно вылейте белое зелье в медицинскую ступу.
+2) Добавьте золотой песок ведьмы.
+3) В процессе приготовления зелья время от времени сверяйтесь с нашей книгой.
+4) Переливая готовый раствор в пустую пробирку, используйте умение
+[Изготовить Зелье].
+

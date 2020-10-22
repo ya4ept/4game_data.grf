@@ -503,7 +503,7 @@
 4532#Sprinting#
 4533#Blinding#
 4534#Water Bomb#
-4545#Novice#
+4545#Новичка#
 4556#Power Ward#
 4557#of Spell Power#
 4559#Blitz#

@@ -1,96 +1,147 @@
 %faf0e6
-^000088I can become almost self sufficient
-if I master the basics of potion making…^000000
+^000088Изготовление зелий - путь к самодостатку^000000
 
 
-----------------Preface--------------------
-
-Potion making is considered one of the essential
-basics of alchemy. This final edition details the potion
-production processes that will enable Alchemists to restore
-their HP, SP, and even cure abnormal statuses by using
-potions that they have easily created!
-
-------------------------------------------
-
-What is a ^ff0000potion^000000?
-
-A potion is a single dosage of liquid medicine or
-poison. Most potions are used as medicine to restore
-HP or SP, cure abnormal statuses, or temporarily enhance
-the human body. This book contains instructions to produce
-red, yellow, white, and blue potions, anodyne, aloevera,
-and embryos.
-
-^0000ffRed Potion^000000: Restores 45 HP.
-Required materials: ^4b00821 Red Herb,
-1 Empty Potion bottle^000000
-Process: Grind a red herb in a medicine bowl,
-and then slowly add clean water. You must keep
-this book with you as a reference while you use
-the Prepare Potion skill to pour the resulting
-solution in an empty potion bottle.
-
-^800000Yellow Potion^000000: Restores 175 HP.
-Required materials: ^4b00821 Yellow Herb,
-1 Empty Bottle^000000
-Process: Grind a yellow herb in a medicine bowl,
-and then slowly add clean water. You must keep this
-book with you as a reference while you use the Prepare
-Potion skill to pour the resulting solution in an empty
-potion bottle.
+----------------Предисловие---------------
+Приготовление зелий считается основой основ в алхимии. Перед вами новейшее
+издание, в котором подробно описан процесс варки зелий, позволяющих
+восстанавливать HP и SP и даже избавляться от негативных эффектов!
+--------------------------------------------------
 
 
-^008040White Potion^000000: Restores 325 HP.
-Required materials: ^4b00821 White Herb,
-1 empty bottle^000000
-Process: Grind a white herb in a medicine bowl,
-and then slowly add clean water. You must keep
-this book with you as a reference while you use
-the Prepare Potion skill to pour the resulting
-solution in an empty potion bottle.
+^0000ffЧто такое зелье^000000
+Зелье - это дозированная порция жидкого лекарства или яда. Большинство зелий
+используются в качестве лекарственных средств, восстанавливающих HP или SP,
+избавляющих от негативных эффектов или на время улучшающих возможности
+человеческого тела. В этой книге содержатся инструкции по созданию красного,
+желтого, белого и синего зелий, анальгина, алоэверы и эмбриона.
 
 
-^ff8040Blue Potion^000000: Restores 60 SP.
-Required materials: ^4b00821 Blue herb,
-1 empty potion, 1 scell^000000
-Process: Grind a blue herb and scell in a medicine
-bowl, and then slowly add clean water. You must
-keep this book with you as a reference while you
-use the Prepare Potion skill to pour the resulting
-solution in an empty potion bottle.
+
+^800000Красное зелье^000000
+Восстанавливает 45 HP.
+
+Ингредиенты: ^4b00821 красная трава, 1 пустой пузырек^000000
+
+Указания:
+1) Измельчите в медицинской ступе красную траву.
+2) Медленно влейте чистую воду.
+3) В процессе приготовления зелья время от времени сверяйтесь с данной книгой.
+4) Переливая готовый раствор в пустой пузырек, используйте умение [Изготовить зелье].
 
 
-^400080Anodyne^000000: A painkiller
-which temporarily nullifies pain.
-Required materials: ^4b00821 Alcohol,
-1 Empty Bottle, 1 Ment^000000
-Process: Grind ment in a medicine bowl, and
-then slowly add water and alcohol. You must
-keep this book with you as a reference while
-you use the Prepare Potion skill to pour the
-resulting solution in an empty bottle.
 
 
-^008040Aloevera^000000: Temporarily enhances
-your offense abilities at the cost of decreasing your defense abilities.
-Required materials: ^4b00821 Alcohol, 1 Empty Bottle, 1 Honey^000000
-Process: Pour honey and alcohol into a medicine
-bowl, and stir the mixture. Slowly add a small amount
-of water while continuing to stir the mixture. If you suspect
-the lack of aloe in this procedure, then think carefully about
-why you’re an alchemist, and what you can do with alchemy
-(the correct answer is skip ingredients). You must keep this
-book with you as a reference while you use the Prepare Potion
-skill to pour the resulting solution in an empty bottle.
 
-^ff0000Embryo^000000: The basis of alchemic
-life, and the required item for creating Homunculi.
-Required materials: ^4b00821 Morning Dew of Yggdrasil,
-1 Seed of Life, 1 Glass Tube^000000
-Process: Combine the morning dew of Yggdrasil
-and seed of life in a medicine bowl, and then use
-the Prepare Potion skill to pour the result into a glass
-tube where an embryo will be formed. You must study
-Bioethics in order to create an embryo: you need to be
-fully aware of the dangers associated with creating homunculi.
+
+
+
+
+^ff8040Желтое зелье^000000
+Восстанавливает 175 HP.
+
+Ингредиенты: ^4b00821 желтая трава, 1 пустой пузырек^000000
+
+Указания:
+1) Измельчите в медицинской ступе желтую траву.
+2) Медленно влейте чистую воду.
+3) В процессе приготовления зелья время от времени сверяйтесь с данной книгой.
+4) Переливая готовый раствор в пустой пузырек, используйте умение [Изготовить зелье].
+
+
+
+
+
+
+
+
+
+^008040Белое зелье^000000
+Восстанавливает 325 HP.
+
+Ингредиенты: ^4b00821 белая трава, 1 пустой пузырек^000000
+
+Указания:
+1) Измельчите в медицинской ступе белую траву.
+2) Медленно влейте чистую воду.
+3) В процессе приготовления зелья время от времени сверяйтесь с данной книгой.
+4) Переливая готовый раствор в пустой пузырек, используйте умение [Изготовить зелье].
+
+
+
+
+
+
+
+
+
+^0000ffСинее зелье^000000
+Восстанавливает 60 SP.
+
+Ингредиенты: ^4b00821 синяя трава, 1 сэлл, 1 пустой пузырек^000000
+
+Указания:
+1) Измельчите в медицинской ступе синюю траву и сэлл.
+2) Медленно влейте чистую воду.
+3) В процессе приготовления зелья время от времени сверяйтесь с данной книгой.
+4) Переливая готовый раствор в пустой пузырек, используйте умение [Изготовить зелье].
+
+
+
+
+
+
+
+
+
+^400080Анальгин^000000
+Болеутоляющее средство, временно снимающее болевые ощущения.
+
+Ингредиенты: ^4b00821 спирт, 1 мята, 1 пустая бутылка^000000
+
+Указания:
+1) Измельчите мяту в медицинской ступе.
+2) Медленно влейте чистую воду и спирт.
+3) В процессе приготовления зелья время от времени сверяйтесь с данной книгой.
+4) Переливая готовый раствор в пустую бутылку, используйте умение [Изготовить зелье].
+
+
+
+
+
+
+
+
+
+^008040Алоэвера^000000
+Временно повышает атаку, уменьшая при этом защиту.
+
+Ингредиенты: ^4b00821 алоэ, 1 мед, 1 пустая бутылка^000000
+
+Указания:
+1) Тщательно смешайте в медицинской ступе мед и алоэ.
+2) Продолжая помешивать, медленно влейте небольшое количество воды.
+3) В процессе приготовления зелья время от времени сверяйтесь с данной книгой.
+4) Переливая готовый раствор в пустую бутылку, используйте умение [Изготовить зелье].
+
+
+
+
+
+
+
+
+
+^ff0000Эмбрион^000000
+Обязательный элемент для создания гомункула.
+
+Ингредиенты: ^4b00821 роса Иггдрасиля, 1 семя жизни, 1 сосуд жизни^000000
+
+Указания:
+1) Смешайте росу Иггдрасиля и семя жизни в медицинской ступе.
+2) Воспользуйтесь умением [Изготовить зелье] и перелейте смесь в пробирку для
+эмбриона.
+
+Прежде чем создавать эмбрион, изучите [Биоэтику]: вы должны быть в курсе всех
+опасностей, к которым может привести появление гомункула!
+

@@ -1,0 +1,22 @@
+distribution {1}
+    version=20201022.2
+    type=full
+    env=
+    files=./
+    control-hash=4b5d6133c3a16732a2bd201fd73297f4eef11687
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=e4ee5406bef75409de57504cb70424f54e764aae
+    adapter-hash=
+    compressed-size=2294721197
+    size=2584624681
+    compressed-size-total=2294721197
+    size-total=2584624681
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2020-10-22T14:48:20+03:00
+    date-modified=2020-10-22T14:48:20+03:00
+    running-time-sec=582
+

@@ -11221,7 +11221,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MC_CARTDECORATE] = {
 		"MC_CARTDECORATE",
-		SkillName = "Cart Decoration",
+		SkillName = "Украшение телеги",
 		MaxLv = 1,
 		SpAmount = { 40 },
 		bSeperateLv = false,

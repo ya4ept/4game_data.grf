@@ -28,7 +28,7 @@ StateIconList[EFST_IDs.EFST_OVERTHRUST] = {
 	descript = {
 		{ "Сила Тора", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Сила атаки повышена. При этом есть шанс сломать свое оружие." }
+		{ "Сила атаки повышена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOBERSERK] = {
@@ -3524,7 +3524,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_DEADPENALTY] = {
 	descript = {
 		{ "Уменьшение штрафа при смерти ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Штраф при смерти: Hel -2% / Rush -4,5%" }
+		{ "Штраф при смерти -2%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
@@ -3533,7 +3533,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
 	descript = {
 		{ "Расширение склада", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Размер склада: Hel +300 ячеек/ Rush +300 ячеек" }
+		{ "Размер склада +300 ячеек" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
@@ -3542,7 +3542,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
 	descript = {
 		{ "Увеличение шанса выпадения предметов", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Шанс выпадения предметов: Hel +15% / Rush +100%" }
+		{ "Шанс выпадения предметов +30%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
@@ -3551,7 +3551,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 	descript = {
 		{ "Увеличение получаемого опыта", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Получаемый опыт: Hel +30%/ Rush +200%" }
+		{ "Получаемый опыт +50%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM] = {
@@ -3569,7 +3569,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
 	descript = {
 		{ "Увеличение получаемого опыта", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Получаемый опыт: Hel +30%" }
+		{ "Получаемый опыт +30%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
@@ -3646,86 +3646,6 @@ StateIconList[EFST_IDs.EFST_ASSUMPTIO_BUFF] = {
 		{ "%s", COLOR_TIME },
 		{ "Increase in Physical DEF" },
 		{ "Increase the effect of recovery skill" }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_DARKNESS] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Shadow property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_FIRE] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Fire property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_GROUND] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Earth property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_NOTHING] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Neutral property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_POISON] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Poison property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_SAINT] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Holy property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_TELEKINESIS] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Ghost property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_UNDEAD] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Undead property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WATER] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Water property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ATTACK_PROPERTY_WIND] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Give Wind property to the weapon", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
 	}
 }
 StateIconList[EFST_IDs.EFST_BASILICA_BUFF] = {
@@ -4214,16 +4134,6 @@ StateIconList[EFST_IDs.EFST_MANDRAGORA] = {
 		{ "Increase skill fixed cast time" }
 	}
 }
-StateIconList[EFST_IDs.EFST_POEMBRAGI] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Magic Strings", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "ЖДЖјїшАЗ єЇµї ДіЅєЖГ °ЁјТ." },
-		{ "ЅєЕі ИД µф·№АМ °ЁјТ." }
-	}
-}
 StateIconList[EFST_IDs.EFST_PROMOTE_HEALTH_RESERCH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -4480,5 +4390,15 @@ StateIconList[EFST_IDs.EFST_WHISTLE] = {
 		{ "%s", COLOR_TIME },
 		{ "ЖДЖјїшАЗ FLEE Бх°Ў." },
 		{ "їПАьИёЗЗ Бх°Ў." }
+	}
+}
+StateIconList[EFST_IDs.EFST_POEMBRAGI] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Песнь Браги", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Уменьшает время чтения заклинаний." },
+		{ "Уменьшает задержку между использованием заклинаний." }
 	}
 }

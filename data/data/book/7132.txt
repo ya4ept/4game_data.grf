@@ -1,38 +1,28 @@
 %faf0e6
-^000088Intermediate Alchemy: Glistening Coat^000000
+^000088Алхимия для профессионалов: изготовление мази^000000
 
-
-----------------Preface--------------------
-
-
-The Mage's Energy Coat skill that generates
-a mana film that protects the caster inspired
-Alchemists to develop the Glistening Coat.
-The Glistening Coat can be used in conjunction
-with protective Alchemist skills enhances protection
-that won't be affected by most external factors.
-However, these artificial coats automatically lose
-their effectiveness after a certain time limit.
- 
+----------------Предисловие---------------
+Умение магов создавать защитный энергетический покров подвигло алхимиков на
+разработку специальной мази. Мазь в сочетании с защитными умениями алхимиков
+позволяет создавать защиту от большинства внешних факторов. Однако со временем
+эффект мази изнашивается, и необходимо периодически возобновлять его.
 ------------------------------------------
 
-What is a ^400080Glistening Coat^000000?
 
-A glistening coat is a soft, viscous substance
-that can safely coat objects to temporarily increase
-their resistance to damage. Only highly skilled Alchemists
-are capable of applying the Glistening Coat by using the
-Biochemical Helm, Synthesized Shield, Synthetic Armor,
-or Alchemical Weapon skills.
+Описание:
+Мазь - это мягкая, клейкая субстанция, способная бережно укрывать объекты и
+временно увеличивать их защитные свойства. Пользоваться мазью могут лишь очень
+опытные алхимики с помощью специальных умений химзащиты.
 
-Required Materials: ^4b00821 Alcohol, 1 Zenorc's Fang,
-1 Heart of Mermaid, 1 Empty Bottle^000000
+Ингредиенты: ^4b00821 Спирт, 1 Клык зенорка, 1 Сердце русалки, 1 Пустая бутылка^000000
 
-Process: Fill a medicine bowl halfway with alcohol, and
-then melt a Zenorc's Fang in it. Wash a heart of mermaid,
-and add it to the Zenorc fang and alcohol mixture. Finally,
-use the Prepare Potion skill to pour the solution into an
-empty bottle. You will need to learn special skills such as
-Biochemical Helm, Synthesized Shield, Synthetic Armor,
-and Alchemical Weapon to actually apply the Glistening
-Coat to equipment.
+Указания:
+1) Наполните медицинскую ступу спиртом наполовину.
+2) Расплавьте в спирте клык зенорка.
+3) Промойте сердце русалки и положите его в ступу.
+4) С помощью умения [Изготовить Зелье] соберите получившийся раствор в пустую
+бутылку.
+
+Также рекомендуется освоить такие умения, как [Химзащита Шлема], [Химзащита Щита],
+[Химзащита Брони] и [Химзащита Оружия]. Тогда вы сможете использовать мазь.
+

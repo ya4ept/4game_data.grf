@@ -1,260 +1,306 @@
-^4d4dff TE Rental item list ^000000
+^4d4dffСписок арендуемых предметов Осады ТЕ ^000000
 
 ^46BEFF--------------------------------------------------------------------------------------^000000
-    TE Rental items cannot be traded to other accounts.
-    All TE Rental items will be removed from the inventory once the rental term is over.
+    Все предметы, представленные в данном списке - арендуемые.
+    По окончании срока аренды, предмет будет автоматически удален из инвентаря.
 ^46BEFF--------------------------------------------------------------------------------------^000000
 
-[TE WOE Katar]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Bleeding chance.
-Class :  Katar  ATK :  120 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Assassin Class
+[Катар ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность вызвать кровотечение при физ. атаке.
+Класс :  Катар  Атака :  120 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Убийца 
 
-[TE WOE Axe]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Freezing chance.
-Class :  One-handed Axw  ATK :  100 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job : Novice/Swordsman Class/Merchant Class/Thief Class
+[Топор ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность заморозить противника при физ. атаке.
+Класс :  Одноручный топор  Атака :  100 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Новичок/Мечник/Торговец/Вор
 
-[TE WOE Two Hand Axe]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Stunning chance.
-Class :  Two-handed Axe  ATK :  150 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Swordsman Class/Merchant Class
+[Двуручный топор ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность оглушить противника при физ. атаке.
+Класс :  Двуручный топор  Атака :  150 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Мечник/Торговец
 
-[TE WOE Pike]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Cursing chance.
-Class :  One-handed Spear  ATK :  100 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Swordsman Class
+[Пика ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность проклясть противника при физ. атаке.
+Класс :  Одноручное копье  Атака :  100 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Мечник
 
-[TE WOE Lance]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Blinding chance.
-Class :  Two-handed Spear  ATK :  150 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Swordsman Class
-
-
-[TE WOE Book]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Increase Magic Attack Power +5% for player characters.
-Physical attacks have a high Blinding chance.
-Heal Amount +5%.
-Class :  Book  ATK :  120 
-Weight :  0  Weapon Level :  3  Level Requirement :  40 Job :  Priest Class/Sage Class/Taekwon Master
-
-[TE WOE Staff]
-ЎШ Extra option for TE WOE location
-Increase Magic Attack Power +10% for player characters. Magic attacks have a high Blinding chance.
-Heal Amount +5%.
-Class :  One-handed Staff  ATK :  50  Weight :  0  
-Weapon Level :  3  Level Requirement :  40 Job :  Novice Class/Mage Class/Acolyte Class/Soul Linker
-
-[TE WOE Fist]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Freezing chance.
-Class: Knuckle ATK : 150 Weight : 0 Weapon Level: 3  Level Requirement: 40 Job : Priest Class/Monk Class
-
-[TE WOE Guitar]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Poisoning chance.
-Class :  Musical Instrument  ATK :  100 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Bard
-
-[TE WOE Rope]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Blinding chance.
-Class :  Whip  ATK :  100 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Dancer
-
-[TE WOE Knife]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Silencing chance.
-Class :  Dagger  ATK :  100 MATK + 100.
-Weight :  0  Weapon Level :  3  Level Requirement :  40 
-Job :  Novice /Swordman Class/Mage Class/Archer Class/Merchant Class/Thief Class/Soul Linker/Ninja 
-
-[TE Two Hand Staff]
-ЎШ Extra option for TE WOE location
-Increase Magic Attack Power 20% for player characters. Magic attacks have a high Stunning chance.
-Heal Amount +5%.
-Class :  Two-handed Staff  ATK :  50  MATK + 130
-Weight :  0  Weapon Level :  3  Level Requirement :  40 
-Job :  Novice Class/Mage Class/Acolyte Class/Soul Linker
-
-[TE WOE Pistol]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Cursing chance.
-Class :  Gun  ATK :  60 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Gunslinger 
-
-[TE WOE Rifle]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Silencing chance.
-Class :  Rifle  ATK :  80 
-Weight :  0  Weapon Level :  3 Level Requirement :  40 Job :  Gunslinger
-
-[TE WOE Gatling Gun]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Stunning chance.
-Class :  Gatling Gun  ATK :  100 
-Weight :  0  Weapon Level :  3  Level Requirement :  40  Job :  Gunslinger
-
-[TE WOE ShotGun]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Poisoning chance.
-Class :  ShotGun  ATK :  100 
-Weight :  0  Weapon Level :  3 Level Requirement :  40 Job :  Gunslinger
-
-[TE WOE Grenade Launcher]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Blinding chance.
-Class :  Grenadelauncher  ATK :  100 
-Weight :  0 Weapon Level :  3 Level Requirement :  40 Job :  Gunslinger
-
-[TE WOE Huuma Shuriken]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Bleeding chance.
-Class :  Huuma Shuriken  ATK :  80  MATK + 100.
-Weight :  0 Weapon Level :  3 Level Requirement :  40 Job :  Ninja 
-
-[TE WOE Sword]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Poisoning chance.
-Class :  Sword  ATK :  120 MATK + 100.
-Weight :  0 Weapon Level :  3 Level Requirement :  40 Job :  Novice /Swordman Class/Merchant Class/Thief Class
-
-[TE WOE Mace]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Freezing chance.
-Heal Amount +5%.
-Class :  Blunt  ATK :  120 
-Weight :  0  Weapon Level :  3 Level Requirement :  40 
-Job :  Novice /Swordman Class/Acolyte Class/Merchant Class
-
-[TE WOE Bow]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Cursing chance.
-Class :  Bow  ATK :  120 
-Weight :  0 Weapon Level :  3 Level Requirement :  40 Job :  Archer Class/Thief /Rogue Class
-
-[TE WOE Two Hand Sword]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power +40% for player characters. Physical attacks have a high Bleeding chance.
-Class :  Two-Handed Sword  ATK :  150 
-Weight :  0 Weapon Level :  3 Level Requirement :  40 Job :  Swordman Class
-
-[TE WOE Buckler]
-ЎШ Extra option for TE WOE location
-MAXHP + 100, MAXSP + 100. - 15% damage received from player characters.
-Class :  Shield  Def :  15  MDEF + 15.
-Weight :  0 Level Requirement :  40 Job :  All 
-
-[TE WOE Shield]
-ЎШ Extra option for TE WOE location
-MAXHP + 200. - 20% damage received from player characters.
-Class:  Shield  Def : 25 MDEF + 5.
-Weight : 0 Level Requirement : 40 Job :Swordman Class/Merchant Class 
-
-[TE WOE Magic Guard]
-ЎШ Extra option for TE WOE location
-MAXSP + 200. - 10% damage received from player characters.
-Class:  Shield Def : 5 MDEF + 25
-Weight :  0 Level Requirement: 40 Job : Novice Class/Mage Class/Acolyte Class/Soul Linker
-
-[TE WOE Muffler]
-ЎШ Extra option for TE WOE location
-Increase Physical/Magic Attack Power 5% for player characters. Frost Resistance +25%.
-Class :  Garment  Def :  5  MDEF + 5.
-Weight :  0 Level Requirement : 40 Job :  All 
-
-[TE WOE Manteau]
-ЎШ Extra option for TE WOE location
-Increase Physical Attack Power 10% for player characters. Frost Resistance +25%.
-Class :  Garment  Def :  10
-Weight :  0 Level Requirement : 40 Job :  Swordman Class/Merchant Class
-
-[TE WOE Magic Manteau]
-ЎШ Extra option for TE WOE location
-Increase Magic Attack Power 10% for player characters.
-Frost Resistance +25%.
-Class : Garment Def : 5 MDEF + 5.
-Weight : 0 Level Requirement : 40 Job : Novice Class/Mage Class/Acolyte Class/Soul Linker 
-
-[TE Ring of Protection]
-ЎШ Extra option for TE WOE location
-MAXHP + 100. - 5% damage received from player characters.
-Class :  Accessary  Def :  0 
-Weight :  0 Level Requirement :  40 Job :  All
-
-[TE Ring of Rage]
-ЎШ Extra option for TE WOE location
-Increase Physical/Magic Attack Power 5% for player characters.
-Class :  Accessary  Def :  0 
-Weight :  0 Level Requirement :  40 Job :  All
-
-[TE Ring of Defiance]
-ЎШ Extra option for TE WOE location
-- 5% damage received from player characters.
-Class :  Accessary  Def :  0  MDEF + 5.
-Weight :  0  Level Requirement :  40 Job :  All 
+[Ланс ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность ослепить противника при физ. атаке.
+Класс :  Двуручное копье  Атака :  150 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Мечник
 
 
-[TE WOE Shoes]
-ЎШ Extra option for TE WOE location
-MAXHP + 150, MAXSP + 150. Increase Physical/Magic Attack Power 5% for player characters.
-Frost Resistance +25%.
-Class :  Shoes  Def :  5 MDEF + 5. Weight :  0 Level Requirement :  40 Job :  All 
+[Книга TE]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Увеличивает маг. урон человекоподобным монстрам +5%.
+Высокая вероятность ослепить противника при физ. атаке.
+Увеличивает лечение на 5%.
+Класс :  Книга  Атака :  120 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40 Квалификация :  Священник/Мудрец/Гладиатор
 
-[TE WOE Boots]
-ЎШ Extra option for TE WOE location
-MAXHP + 200, MAXSP + 100. Increase Physical Attack Power 10% for player characters.
-Frost Resistance +25%.
-Class :  Shoes  Def :  10 Weight :  0 Level Requirement :  40 Job :  Swordman Class/Merchant Class
+[Посох TE]
+Маг. Атака + 100.
+[Бонус действует только во время Осады ТЕ]
+Увеличивает маг. урон человекоподобным монстрам +10%.
+Высокая вероятность ослепить противника при маг. атаке.
+Увеличивает лечение на 5%.
+Класс :  Одноручный посох  Атака :  50  Вес :  0  
+Уровень оружия :  3  Требуемый уровень :  40 Квалификация :  Новичок/Маг/Послушник/Медиум
 
-[TE WOE Magic Sandle]
-ЎШ Extra option for TE WOE location
-MAXHP + 100, MAXSP + 200. Increase Magic Attack Power 5% for player characters.
-Frost Resistance +25%.
-Class :  Shoes  Def :  5  MDEF + 5.
-Weight : 0  Level Requirement :  40 Job :  Novice Class/Mage Class/Acolyte Class/Soul Linker
+[Кулак ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность заморозить противника при физ. атаке.
+Класс :  Кастет Атака: 150 Вес: 0 Уровень оружия: 3  Требуемый уровень: 40 Квалификация: Священник/Монах
 
-[TE WOE Long Coat]
-ЎШ Extra option for TE WOE location
-MAXHP + 250, MAXSP + 250. - 10% damage received from player characters.
-Frost Resistance +25%.
-Class :  Armour  Def :  15 MDEF + 15. Weight : 0 Level Requirement : 40 Job : All
+[Гитара ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность отравить противника при физ. атаке.
+Класс :  Музыкальный инструмент  Атака :  100 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Бард
 
-[TE WOE Mail]
-ЎШ Extra option for TE WOE location
-MAXHP + 450, MAXSP + 50. - 15% damage received from player characters.
-Frost Resistance +25%.
-Class: Armour  Def : 25 MDEF + 5.
-Weight : 0  Level Requirement: 40 Job :  Swordman Class/Merchant Class
+[Веревка ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность ослепить противника при физ. атаке.
+Класс :  Кнут  Атака :  100 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Танцовщица
 
-[TE WOE Magic Coat]
-ЎШ Extra option for TE WOE location
-MAXHP + 200, MAXSP + 300. - 5% damage received from player characters.
-Frost Resistance +25%.
-Class :  Armour  Def :  5  MDEF + 25.
-Weight :  0  Level Requirement : 40  Job :  Novice Class/Mage Class/Acolyte Class/Soul Linker
+[Нож ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность ввергнуть противника в Молчание при физ. атаке.
+Класс :  Кинжал  Атака :  100 MATK + 100.
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40 
+Квалификация :  Новичок/Мечник/Маг/Лучник/Торговец/Вор/Медиум/Ниндзя 
 
-[TE WOE Cap]
-ЎШ Extra option for TE WOE location
-ATK + 5, MATK + 5. Increase Physical/Magic Attack Power 10% for player characters.
-Frost Resistance +25%.
-Class: Headgear  Def : 5  MDEF + 5. Location : Upper  Weight : 0  Level Requirement: 40  Job : All 
+[Двуручный посох TE]
+[Бонус действует только во время Осады ТЕ]
+Увеличивает маг. урон человекоподобным монстрам на 20%.
+Высокая вероятность оглушить противника при маг. атаке.
+Увеличивает лечение на 5%.
+Класс :  Двуручный посох  Атака :  50  MATK + 130
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40 
+Квалификация :  Новичок/Маг/Послушник/Медиум
 
-[TE WOE Bone Helm]
-ЎШ Extra option for TE WOE location
-ATK + 10. Increase Physical Attack Power 20% for player characters. Frost Resistance +25%.
-Class: Headgear  Def : 10  Location : Upper
-Weight : 0  Level Requirement: 40  Job : Novice Class
+[Пистолет TE]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность проклясть противника при физ. атаке.
+Класс :  Пистолет  Атака :  60 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Стрелок 
 
-[TE WOE Magic Eyes]
-ЎШ Extra option for TE WOE location
-MATK + 10. Increase Magic Attack Power 20% for player characters.
-Frost Resistance +25%.
-Class: Headgear  Def : 5  MDEF + 5. Location : Upper
-Weight : 0  Level Requirement: 40  Job : Novice Class/Mage Class/Acolyte Class/Soul Linker
+[Винтовка ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность ввергнуть противника в Молчание при физ. атаке.
+Класс :  Винтовка  Атака :  80 
+Вес :  0  Уровень оружия :  3 Требуемый уровень :  40 Квалификация :  Стрелок
+
+[Пулемет ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность оглушить противника при физ. атаке.
+Класс :  Пулемет  Атака :  100 
+Вес :  0  Уровень оружия :  3  Требуемый уровень :  40  Квалификация :  Стрелок
+
+[Ружье ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность отравить противника при физ. атаке.
+Класс :  Ружьё  Атака :  100 
+Вес :  0  Уровень оружия :  3 Требуемый уровень :  40 Квалификация :  Стрелок
+
+[Гранатомет ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность ослепить противника при физ. атаке.
+Класс :  Гранатомет  Атака :  100 
+Вес :  0 Уровень оружия :  3 Требуемый уровень :  40 Квалификация :  Стрелок
+
+[Сюрикен TE]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность вызвать кровотечение при физ. атаке.
+Класс :  Фума Сюрикен  Атака :  80  MATK + 100.
+Вес :  0 Уровень оружия : 3  Требуемый уровень :  40 Квалификация :  Ниндзя 
+
+[Меч TE]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность отравить противника при физ. атаке.
+Класс :  Одноручный меч  Атака :  120 MATK + 100.
+Вес :  0 Уровень оружия :  3 Требуемый уровень :  40 Квалификация :  Новичок/Мечник/Торговец/Вор
+
+[Жезл ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность заморозить противника при физ. атаке.
+Увеличивает лечение на 5%.
+Класс :  Дубина  Атака :  120 
+Вес :  0  Уровень оружия :  3 Требуемый уровень :  40 
+Квалификация :  Новичок/Мечник/Послушник/Торговец
+
+[Лук TE]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность проклясть противника при физ. атаке.
+Класс :  Лук  Атака :  120 
+Вес :  0 Уровень оружия :  3 Требуемый уровень :  40 Квалификация :  Лучник/Вор/Разбойник
+
+[Двуручный меч ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Доп. физ. урон +40% человекоподобным монстрам.
+Высокая вероятность вызвать кровотечение при физ. атаке.
+Класс :  Двуручный меч  Атака :  150 
+Вес :  0 Уровень оружия :  3 Требуемый уровень :  40 Квалификация :  Мечник
+
+
+
+
+
+
+
+
+[Круглый щит ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP +100, Макс. SP +100.
+Уменьшение повреждений от человекоподобных монстров на 15%.
+Класс :  Щит  Защита :  15  MDEF + 15.
+Вес :  0 Требуемый уровень :  40 Квалификация :  Все профессии 
+
+[Щит ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 200.
+Уменьшение повреждений от человекоподобных монстров на 20%.
+Класс :  Щит  Защита: 25 MDEF + 5.
+Вес : 0 Требуемый уровень : 40 Квалификация : Мечник/Торговец 
+
+[Защитник ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. SP + 200.
+Уменьшение повреждений от человекоподобных монстров на 10%.
+Класс :  Щит Защита: 5 MDEF + 25
+Вес:  0 Требуемый уровень: 40 Квалификация: Новичок/Маг/Послушник/Медиум
+
+[Кашне ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Физ. и Маг. урон человекоподобным монстрам +5%.
+Иммунитет к заморозке +25%.
+Класс :  Накидка  Защита :  5  MDEF + 5.
+Вес :  0 Требуемый уровень : 40 Квалификация :  Все профессии 
+
+[Манто ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Физ. человекоподобным монстрам +10%.
+Иммунитет к заморозке +25%.
+Класс :  Накидка  Защита :  10
+Вес :  0 Требуемый уровень : 40 Квалификация :  Мечник/Торговец
+
+[Магическая накидка ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Увеличивает маг. урон человекоподобным монстрам +10%.
+Иммунитет к заморозке +25%.
+Класс : Накидка Защита : 5 MDEF + 5.
+Вес : 0 Требуемый уровень : 40 Квалификация : Новичок/Маг/Послушник/Медиум 
+
+[Кольцо защиты ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 100.
+Снижает получаемый урон от человекоподобных монстров -5%.
+Класс :  Аксессуар  Защита :  0 
+Вес :  0 Требуемый уровень :  40 Квалификация :  Все профессии
+
+[Кольцо гнева ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Физ. и Маг. урон человекоподобным монстрам +5%.
+Класс :  Аксессуар  Защита :  0 
+Вес :  0 Требуемый уровень :  40 Квалификация :  Все профессии
+
+[Кольцо иммунитета ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Снижает получаемый урон от человекоподобных монстров -5%.
+Класс :  Аксессуар  Защита :  0  MDEF + 5.
+Вес :  0  Требуемый уровень :  40 Квалификация :  Все профессии 
+
+
+[Ботинки ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 150, Макс. SP + 150.
+Физ. и Маг. урон человекоподобным монстрам +5%.
+Иммунитет к заморозке +25%.
+Класс :  Обувь  Защита :  5 MDEF + 5. Вес :  0 Требуемый уровень :  40 Квалификация :  Все профессии 
+
+[Сапоги ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 200, Макс. SP + 100.
+Физ. человекоподобным монстрам +10%.
+Иммунитет к заморозке +25%.
+Класс :  Обувь  Защита :  10 Вес :  0 Требуемый уровень :  40 Квалификация :  Мечник/Торговец
+
+[Сандалии ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 100, Макс. SP + 200.
+Увеличивает маг. урон человекоподобным монстрам +5%.
+Иммунитет к заморозке +25%.
+Класс :  Обувь  Защита :  5  MDEF + 5.
+Вес : 0  Требуемый уровень :  40 Квалификация :  Новичок/Маг/Послушник/Медиум
+
+[Шуба ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 250, Макс. SP + 250.
+Уменьшение повреждений от человекоподобных монстров на 10%.
+Иммунитет к заморозке +25%.
+Класс :  Броня  Защита :  15 MDEF + 15. Вес : 0 Требуемый уровень : 40 Квалификация : Все профессии
+
+[Кольчуга ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 450, Макс. SP + 50.
+Уменьшение повреждений от человекоподобных монстров на 15%.
+Иммунитет к заморозке +25%.
+Класс : Броня  Защита : 25 MDEF + 5.
+Вес: 0  Требуемый уровень: 40 Квалификация:  Мечник/Торговец
+
+[Одежда мага ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Макс. HP + 200, Макс. SP + 300.
+Снижает получаемый урон от человекоподобных монстров -5%.
+Иммунитет к заморозке +25%.
+Класс :  Броня  Защита :  5  MDEF + 25.
+Вес :  0  Требуемый уровень : 40  Квалификация :  Новичок/Маг/Послушник/Медиум
+
+[Котелок ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Атака + 5, Маг. Атака + 5.
+Физ. и маг. атака человекоподобным монстрам +10%.
+Иммунитет к заморозке +25%.
+Класс : Головной убор  Защита: 5  MDEF + 5. Расположение: Голова  Вес: 0  Требуемый уровень: 40  Квалификация: Все профессии 
+
+[Костяной шлем ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Атака + 10.
+Физ. урон человекоподобным монстрам +20%.
+Иммунитет к заморозке +25%.
+Класс : Головной убор  Защита: 10  Расположение: Голова
+Вес: 0  Требуемый уровень: 40  Квалификация: Мечник/Торговец
+
+[Магические глаза ТЕ]
+[Бонус действует только во время Осады ТЕ]
+Маг. Атака + 10.
+Увеличивает маг. урон человекоподобным монстрам на 20%.
+Иммунитет к заморозке +25%.
+Класс : Головной убор  Защита: 5  MDEF + 5. Расположение: Голова
+Вес: 0  Требуемый уровень: 40  Квалификация: Новичок/Маг/Послушник/Медиум

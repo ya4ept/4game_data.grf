@@ -1,211 +1,200 @@
 %faf0e6
-^000088Kafra Legend at the End of Century^000000
+^000088Легенда о Кафре^000000
 
-This is a legend passed down among employees of the Kafra Corporation since ancient times.
+Это древняя легенда, которая до сих пор ходит между сотрудницами Кафры.
 
-The mountain village of Payon had been devastated by aggressive monsters raids
-since the magic shield that protected it was broken after the Kafra Corporation withdrew
-their services there. Most of the houses, paddy fields and dry fields were ruined, and
-only a few old people that were too feeble to evacuate remained. They lost the will to
-live, and simply sat solemnly on the ground, waiting for death with glazed, 
-half open eyes.
 
-An old women is rustled from her sleep by the sound of approaching footsteps.
-She rubs her eyes, unable to believe the first sign of life that she's seen in months,
-a large man shrouded in a black robe. The hem of a white apron
-beneath his dark garments catches her attention.
+После того, как в лесном селении Пайоне перестала работать Кафра, магия,
+защищавшая город, ослабла, и он стал страдать от набегов монстров.
+Почти все дома были разрушены, поля опустошены, а в городе осталось лишь старые и
+немощные. Эти люди совсем потеряли волю к жизни и смиренно ожидали своей участи.
 
-"I thought... I thought all the Kafra ladies already evacuated. 
-Are... Are you really here to save us?"
-Wordlessly, the black robed man nodded to the old woman, who smiled to herself as she
-slowly shuts her eyes to dream of a better future. The black robed man watched her dream
-for but a moment, and then strided purposefully towards the tavern.
+Старушка проснулась от звука приближающихся шагов. Она в удивлении потерла глаза,
+не веря тому, что видит. Это был первый живой человек, появившийся здесь за последние
+несколько месяцев. Он был облачен в черные одежды, из-под которых на секунду
+мелькнула каемочка белого фартука.
 
-The drunken tavern master was leaning in the corner when the creaking sound of the opening
-door snaps him to attention. He weakly mumbles,
+"Я думала, здесь больше не осталось сотрудниц Кафры... Вы пришли спасти нас?"
 
-"I've got nothing to offer you, unless you came for a glass of water."
+Человек в черном молча кивнул, и старушка с улыбкой закрыла глаза, веря, что теперь
+все будет хорошо. Бросив на нее еще один взгляд, незнакомец направился к таверне.
+Пьяный хозяин таверны, услышав скрип открывающейся двери, пробормотал слабым
+голосом:
 
-The black robed man doesn't answer at first, and calmly takes his seat at the bar. 
-His voice, almost accusing, is like gravel to the tavern master's ears.
+"У нас нет ничего, кроме воды."
 
-"Aren't you the owner of this place?"
+Человек в черном сел за стойку бара. Его голос прозвучал осуждающе.
 
-The tavern master closed his eyes in resignation, and gestures toward the liquor shelf.
-He's entirely drained, and doesn't have the will to resist anymore.
+"Разве хозяин не должен следить за своим баром?"
 
-"If you want alcohol, that's all that's left. Whatever. Just take it."
+У хозяина не было сил спорить, и он указал на полку с напитками.
 
-he black robed man reaches for the bottle containing the most liquor, sits in front of 
-the most liquor, sits in front of the drowsy tavern master, and quickly gulps down
-down the bottle's contents. The tavern master's ears perk as he hears the black robed man
-sigh in relief.
+"Хотите выпить - берите. Больше ничего не осталось"
 
-"What in the hell are you doing in this godforsaken place?"
-"Don't you know what happened? I guess you don't know what's going on in the world."
+Человек в черном выбрал самую полную бутылку, сел напротив него, налил стаканчик и
+быстро осушил его до дна. Хозяин таверны поднял голову.
 
-The tavern master glanced curiously at the black robed man, and gently straightened up.
+"Что вам нужно в этом захолустье?"
+"Разве вы не слышали, что произошло? Видно, к вам сюда не доходят новости о событиях
+в мире."
+Хозяин таверны взглянул с любопытством и слегка выпрямился.
 
-"I guess you must have some story to tell, seeing as you're covering your face with that
-hood. You know, it's not a good idea to drink so much alcohol on an empty stomach. 
-Why don't I fix up some slices of cheese or something for you?"
-"That'd be great, thanks."
+"Наверное, вам есть что рассказать, не зря же вы прячете лицо под капюшоном.
+Знаете, не стоит столько пить на пустой желудок. Может, принести вам сыра или еще
+чего-нибудь?"
+"С удовольствием, спасибо."
 
-The pantry door swings, and tavern master hands the black robed man a plate of sliced
-cheese. He notices that the black robed man's hands are calloused and rough as he fingers 
-the slices.
+Хозяин распахнул дверцы буфета и достал тарелку с сыром. Когда незнакомец потянулся
+к ней, он увидел его грубые мозолистые пальцы.
 
-"Ever since all the Kafra Employees left, the magic shield that protected us from
-the monsters was destroyed. There are monster raids every night now. We lost another 
-old lady last night. You really... You really shouldn't stick around here too long."
-"Are you saying there's no Kafra Employee in this village?"
-"That's not all. It seems like the Kafra Employees left every town. Prontera, Morroc,
-Geffen, Alberta, hell, even Al De Baran. I mean, we still have that infernal Kafra 
-GT machine, but it's worse than useless. It's more interested in muscling us for taxes, 
-protection money I call it, than in protecting us from monsters. That robot is even worse 
-han those monsters, I think." 
+"После того, как все сотрудницы Кафры уехали из города, магия, не пускавшая монстров
+в город, ослабла. Теперь они нападают на нас каждую ночь. Прошлой ночью погибла еще
+одна горожанка. Лучше вам тут не задерживаться."
+"Говорите, сотрудниц Кафры здесь больше не осталось?"
+"И не только здесь. Они исчезли и из других городов - Пронтеры, Моррока, Геффена,
+Альберты, даже из Альдебарана. Правда, у нас осталась эта машина Кафры...
+Но от нее никакой пользы, одни проблемы... Вместо того, чтобы защищать нас, она
+занимается сбором налогов, выбивая из нас последние деньги. По мне, так эта жуткая
+машина хуже монстров!"
+Человек в черном помолчал, обдумывая слова хозяина таверны.
 
-The black robed man was didn't speak for a moment, thinking about the tavern master's 
-words.
+"Значит, вы думаете... если сотрудницы Кафры вернутся, это вряд ли изменит ситуацию.
+Или я ошибаюсь?"
+"Вы видели стариков, которые не спускают глаз с городских ворот? Они верят, что
+сотрудницы Кафры вернутся и спасут их. Это их единственная надежда. Но я не думаю,
+что они смогут что-то сделать. Тут не осталось никого, кроме стариков, но скоро эта
+машина переубивает и их!"
 
-"I suppose... I suppose that if the Kafra Employees returned, then it wouldn't make much
-of a difference. Would it?"
-"Have you seen the old people watching the village entrance? It's sad, but they really
-believe that the Kafra Employees will come to save them. That's the only hope that's
-keeping them alive. So yeah, I don't think the Kafra Employees can really change anything.
-All we have here are old people! But soon, that robot's gonna kill me too!"
+Его лицо стало красным от ярости и отчаяния. Он перевел дыхание и снова заговорил.
 
-The tavern master's face was flush with rage and desperation, and he had to catch his
-breath before he could continue.
+"Ну скажите мне, что изменится, если сюда вернутся девушки из корпорации Кафры?!
+Даже не знаю, кто из нас более жалок - я или эти старики, которые до сих пор надеются
+на них!"
 
-"Tell me: what's going to change if the Kafra Ladies return?! I don't know who's more that
-have faith in them?!"
+После этих слов хозяин таверны обреченно опустил голову. Человек в черном ничего
+не ответил и еще раз отхлебнул из бутылки. Внезапно тишину нарушил громкий
+механический голос.
 
-The black robed man didn't respond, and had another sip of alcohol as the tavern master
-lowered his head in defeat.
-Then, a digitized, commanding voice broke the tavern's silence.
+"Бип! Карл Вастен, 76 лет. Арестовать за неуплату налогов!"
 
-"Beep! Karl Vasten, 76 year old male. He is to be taken into custody for failure to payhis taxes." 
-The tavern master's face grimaced when he recognized that Kafra GT unit.
+Лицо хозяина исказила гримаса. Это была машина Кафры.
 
-"How the hell is he supposed to pay taxes when we don't even make money!
-breath before he could continue. The monsters killed all our customers! How the hell are
-we supposed to do our jobs when you can't even do yours, huh?"
+"Ну и как же он должен платить налоги, если мы не получаем никакой прибыли!
+Все наши клиенты убиты монстрами! Как мы должны делать свою работу, если эта машина
+не может выполнить свою?!"
 
-The black robed man refilled his glass with alcohol and asked,
+Человек в черном снова наполнил стакан и спросил:
 
-"What happens if you don't pay your taxes?"
-"Y-you don't know? You get arrested, and then you end up doing slave labor,
-or they take away your home."
+"А что случается с теми, кто не платит налоги?"
+"Вы не знаете? Их арестовывают, и до конца жизни они трудятся, как рабы, либо
+лишаются своего дома."
 
-The Kafra GT issued out its warning again.
-"If Karl Vasten refuses to comply, I will use force. Where is he?"
-"We don't have the money! Take it, this is all I have!"
-The tavern master gripped a few zeny coins in his hand, and then flung them
-at the machine.
-"Attacking a Kafra GT is considered an attack against a government official and a serious 
-crime."
+Машина снова выдала предупреждение.
 
-The tavern master slammed a glass on the table when the machine finished its warning, and
-screamed,
+"Если Карл Вастен не выполнит требование, придется применить силу. Где он?"
+"У нас нет денег! Вот, забирай, это все что осталось!"
 
-"Enough is enough! I've had it with you, you crazy machine!"
+Хозяин таверны сгреб со стола несколько монеток и запустил в машину.
 
-The tavern master grabbed a shotgun hanging on the wall, and rushed outside the tavern. 
-The black robed man remained unbothered by the commotion, and continue to enjoy his drink. 
-The tavern master loaded bullets into the shotgun, and aimed at the Kafra GT.
+"Нападение на аппарат Кафры приравнивается к нападению на госслужащего и считается
+серьезным преступлением."
 
-"How can you call yourself a government official?! Did they ask you to go and harass
-innocent people?"
+Хозяин таверны с грохотом поставил стакан на стол и завопил:
 
-"Beep. Charles Raven, 38 year old male. Identity confirmed. Assessing threat... 
-27 mm shotgun. 0.001% chance of damaging armor. Charles Raven--drop your weapon. 
-Do not resist your government."
-"Goddamned machine! Go to hell!"
+"С меня хватит! Пора покончить с этой чертовой машиной!"
 
-The tavern master fired his shotgun, but the buckshot ricocheted harmlessly off 
-the Kafra GT's heavy armor. The robot's eyes gleamed red in response.
+Он схватил висевшее на стене ружье и выскочил из таверны. Человек в черном
+не пошевелился. Хозяин зарядил ружье и направил на машину.
 
-"Attack mode initiated."
+"Еще и сравниваешь себя с госслужащими?! Зачем тревожишь невинных людей?!"
 
-The Kafra GT's arm turned into a giant Gatling Gun that started to indiscriminately spray 
-bullets at the tavern. The tavern master scrambled and lept to dodge the bullets as he 
-continued firing his shotgun at the Kafra GT unit.
+"Бип. Чарльз Рейвен, 38 лет. Личность установлена. Приближается угроза...
+Шанс повреждения брони - 0.001%. Чарльз Рейвен, бросьте оружие и не оказывайте
+сопротивления."
+"Проклятая машина!"
 
-"Encountering high level of resistance. Requesting authorization to burn down Payon."
-"What the hell?! Over my dead body! I won't let you destroy my village!"
+Хозяин таверны выстрелил, но пули отскочили от прочной брони, не повредив ее.
+Глаза робота загорелись красным.
 
-The Kafra GT unit didn't bother to give the tavern master an answer, and produced 
-a flame thrower from beneath its Gatling Gun.
+"Включение режима атаки."
 
-"Stop, you crazy machine! There are old people inside those homes!"
-"Authorization... Granted. First target: Karl Vasten's residence."
-"No! Please! Stop it!"
-"Freeze, Charles Raven. Any further action will be considered obstruction of justice, 
-and appropriate action will be taken."
-"How can this be appropriate action!"
+Рука машины превратилась в огромный пулемет, и она начала беспорядочно стрелять
+по таверне. Хозяин уворачивался от выстрелов, продолжая палить по машине из ружья.
 
-The tavern master ran towards the house in hopes of saving the elderly Karl Vaster, 
-who was inside. However, he wasn't fast enough: a plume of flame lighted upon the roof, 
-and the house was incinerated within seconds.
+"Встречено сильное сопротивление. Запрос разрешения на сожжение Пайона."
+"Да что же это такое! Только через мой труп! Я не позволю уничтожить мой город!"
 
-"Oh Lord! I don't believe this! This is... This is insane!"
-"Now, Charles Raven. You will turn yourself in, or I will use lethal force."
+Ответа от машины Кафры не последовало, а вместо пулемета в ее руке появился огнемет.
 
-The tavern master could only look at the ground, drained of emotion. He didn't even have 
-the strength to cry. He felt his knees buckle to the ground as he accepted death. 
-But then, from the corner of his eye, the fluttering of a black robe.
+"Стой! В домах же старики!"
+"Разрешение получено. Первая цель: дом Карла Вастена."
+"Нет! Стой!"
+"Чарльз Рейвен, остановитесь. Дальнейшие действия будут расценены как препятствование
+правосудию, и будут приняты необходимые меры."
+"И вот это называется "необходимые меры"?!"
 
-"Don't worry. The old man is safe."
+Хозяин таверны бросился к дому, чтобы вывести оттуда старого Карла Вастена.
+Но он не успел: в считанные секунды дом уже был охвачен огнем.
 
-The black robed man gingerly placed Karl Vaster on the ground, and faced the Kafra GT Unit.
+"О, нет! Не могу поверить! Чертова машина!"
+"Итак, Чарльз Рейвен, или вы сдаетесь, или умрете."
 
-"Beep. Unidentifiable target. No record in database. 
-Height: approximately 210 centimeters. Weight: approximately 109 kilograms."
-"You. Get the old man out of here."
-"Identify yourself with your name, age, and occupation. If you refuse, you will be 
-considered an enemy of the state, and I will be authorized to use lethal force."
-"Alright. Fine. First of all, I'm twenty-four years old."
-"Beep. Information accepted."
-"And my name..."
+Хозяин таверны опустил глаза. Он был так опустошен, что даже не мог плакать.
+Ноги его подкосились, и он упал на колени, ожидая неминуемой смерти.
+Но тут краем глаза он увидел развевающие черные одежды.
 
-The black robed man drew back his hood, and then threw off his robes. She was a woman!
+"Не волнуйтесь, старик жив и здоров."
 
-"My name is Blossom! Occupation: Kafra Employee!"
+Человек в черном поддерживал под руку старика. Осторожно отпустив его, он повернулся
+к машине.
 
-By this time, the burning house attracted a crowd of villagers that were now 
-cheering their savior.
+"Бип. Цель не опознана. В базе данных отсутствует. Рост: около 210 см.
+Вес: около 109 кг."
+"Уведите отсюда старика."
+"Назовите ваше имя, возраст и род деятельности. Если вы откажетесь, то станете
+врагом. Будут приняты соответствующие меры."
+"Что ж, хорошо. Мне 24 года."
+"Бип. Информация принята."
+"А мое имя..."
 
-"Kafra? Did she say she was a...?"
-"They're back! They'll... They'll save every one of us!"
+Человек в черном снял с головы капюшон и скинул плащ, и... это оказалась девушка!
 
-The Kafra GT continued its analyzation of its target undeterred.
-"Assessing... Risk Level 10. Requesting... Back-u--"
+"Меня зовут Блоссом! Я сотрудница Кафры!"
 
-With a flash of lightning, Kafra Blossom punched the Kafra GT unit's head with 
-her mighty fist with an uppercut that sent the metallic giant soaring through the air. 
-It crashed to the ground, its circuits exposed and crackling.
+Толпа жителей, собравшихся вокруг горящего дома, радостно приветствовала свою
+спасительницу.
 
-"Cannot calcul-- Power-- Request immediate backup!"
+"Кафра? Она правда так сказала?.."
+"Они вернулись! Они нас спасут!"
 
-The Kafra Employee looked down upon her fallen quarry and spat on the ground in mild disgust.
-"How dare you bastards sully Kafra's good name. We're about service... Not domination."
+Машина Кафры продолжала анализировать цель.
 
-There was a furious flurry of kicks, faster than the eye could perceive, and then 
-the Kafra GT exploded in a glorious blaze of blinding light. Silence returned, and bits of 
-burnt, crisp metal were all that was left of it.
+"Оценка... Уровень опасности 10. Запрос..."
 
-"We're coming. The Kafra Service... We're here to help."
+С быстротой молнии Блоссом нанесла сильный удар. Машина взлетела в воздух и
+шлепнулась на землю, разлетевшись на кусочки.
 
-Blossom turned towards the tavern master.
+"Невозможно вычисли-- Требуется помощь!"
 
-"Which way's Al De Baran?"
+Сотрудница Кафры с презрением посмотрела на остатки машины.
 
-The tavern master couldn't voice the words. For too long he had lived in fear. Finally, 
-hope had returned. He could live life again, and he would be eternally 
-grateful to the beautiful, yet deadly, woman that stood before him. Wiping the tears 
-from his eyes, he quaveringly pointed to the northeast.
+"Никто не посмеет запятнать доброе имя Кафры. Мы служим людям, а не стремимся
+к господству над ними."
 
-"Sisters. I'll see you soon."
+Она пнула остатки машины ногой, и от удара они взорвались, озарив все вокруг вспышкой
+света. Снова наступила тишина, и на земле остались лежать лишь обломки металла.
 
-- To be continued
+"Мы сотрудницы Кафры. Мы пришли помочь вам."
+
+Блоссом повернулась к хозяину таверны.
+
+"Которая из дорог ведет к Альдебарану?"
+
+Хозяин таверны не мог вымолвить слова. Он слишком долго жил в страхе, а теперь,
+наконец, к нему вернулась надежда. Он снова мог жить спокойно, за что был бесконечно
+благодарен стоявшей перед ним девушке. Вытирая слезы, он указал дрожащей рукой
+на северо-запад.
+
+"Я скоро вернусь."
+
+- Продолжение следует. -

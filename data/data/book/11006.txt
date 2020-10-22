@@ -1,169 +1,193 @@
 %ffe4b5
-^dc143cFlower that Blooms from Blood: Part 1^000000
+^dc143cРоза цвета крови^000000
+Часть 1
 
- Unknown Author
+Автор неизвестен
 
-Publisher's Comment:
-This is a story that is widely believed to be a fictional tale written to bring attention 
-to Freja, the goddess of love and beauty. Whether it originated from the written records 
-of an adventurer, or from a heartbreaking song performed by bards has not been 
-confirmed. Its title is unknown, and an original written copy of it hasn't been found. 
-This tale is about two groups that fought for the Goddess Freja against Odin, and follows 
-the exploits of a heroine chosen by the gods, similarly to our pope that was chosen 
-by Freja. Religion is a major theme in this work, making it significant to sincere 
-followers of Freja. We've decided to preserve what remains of this story 
-because it has much cultural value to be forgotten, and have taken great pains to write 
-a faithful resconstruction of the orignal version.  We hope that our readers will 
-appreciate our efforts for historical accuracy, and enjoy this story.
-                                                                     - Editor's Department 
+Комментарии издателя:
+Эта история якобы была написана, чтобы прославить Фрейю, богиню любви и красоты.
+Среди возможных источников называют заметки путешественников и песни бардов.
+Название рассказа неизвестно, а рукописный оригинал не найден. Это история о войне
+между сторонниками двух религий - последователей Фрейи и Одина, и деяниях героини,
+избранной богами так же, как избрана Фрейей глава нашей церкви. Мы посчитали этот
+религиозный труд культурной ценностью, которая не должна быть забыта. Стоило немалых
+усилий восстановить оригинальную версию повествования, и мы надеемся, что читатели
+оценят его по достоинству.
+                                                    - Издательский коллектив. -
+
+
+
 
 1.
-This land which was once covered in lush green grass was belching sooty smoke 
-to the sky. It was hard to tell if the black clouds overhead were the ashes of war or 
-signs of coming rain.  A thick gray fog blanketing the ground seemed to flood through
-the mass of soldiers engaged in intense battle. They swung their weapons with 
-murderous focus, callously stepping over their fallen comrades whose bodies had become 
-a part of the layer of soot on the ground.
+С некогда зеленой долины в небо поднимались столбы дыма. Небо было затянуто то ли
+грозовыми облаками, то ли тучами пепла с поля боя. Висевший над землей густой серый
+туман словно просачивался между рядами сражающихся. В воздухе сверкало оружие,
+бойцы спотыкались о тела погибших товарищей, которые быстро покрывались пылью и
+грязью.
 
-Freya's faithful believed their cause to be righteous: they had come to this land, 
-worked to make it habitable, but the native heathens were too stubborn to pledge 
-their lives and loyalty to their loving, generous goddess. Naturally, the natives were 
-sure that they had been wronged, indignant that these religious zealots whom they had 
-warmly welcomed to their land had the audacity to force them to convert to their strange 
-religion. Although Freya's followers and the natives had lived together peacefully 
-for a while, but their conflicting beliefs over religion made war inevitable. 
+Последователи Фрейи верили, что правда на их стороне: они приехали на эту землю и
+сделали ее пригодной для жилья, а местные язычники упорно отказывались клясться в
+верности их великодушной и щедрой богине. Естественно, местные жители были не
+согласны и возмущены тем, что эти религиозные фанатики, которых они так тепло приняли
+на своей земле, посмели принуждать их принять чужую веру. И хотя поначалу
+последователи Фрейи и местный народ жили в мире, в конце концов их различные
+верования привели к неминуемой войне.
 
-A vivid red trail snaked across the sooty plains, the bloodshed marking where the soldiers 
-had advanced. The deep, rumbling thunder and dark clouds in the sky looming over 
-the scattered bodies seemed to protest the petty violence of the soldiers that were 
-fighting.
+Везде, где проходили солдаты, по пыльной равнине тянулись кровавые следы. Небо было
+мрачным, доносились раскаты грома. Казалось, сама природа протестовала против
+жестокости и кровопролития.
 
-"Will it rain soon?"
+"Собирается дождь?"
 
-A lone, young man drew a deep breath as he adjusted his grip on his sword. How many days 
-had he been fighting? When was the war going to end? He leaned against a broken carriage, 
-and looked up the to sky for an answer. All he saw were black, ominous clouds.
+Одинокий молодой человек глубоко вздохнул и еще крепче сжал в руке меч. Сколько дней
+он уже провел в сражениях? Когда закончится эта война? Он облокотился на сломанную
+повозку и взглянул на небо, пытаясь найти ответ, но над головой были лишь зловещие
+черные тучи.
 
-"I guess... It's going to rain."
-
-^fa8072"Senia, I'm sorry. I mean it! How longer are you planning on being mad at me?"
-"Hmpf!"
-"Look, Senia. This rose just bloomed, just like promised. See? These petals are deep 
-crimson. Just like your cheeks, Sen."
-Khras held out the rose to Sen, who was leaning out the window. She looked down at him 
-with a sigh. Another sulky response.
-"You're too late again. Look at the sky."
-
-Once again, the sky cleared before Khras could make it over to Sen. This was 
-the fifth time that Khras failed to bring Senia a freshly bloomed rose on a rainy day, 
-a near impossible task in the desert hillside. Senia was definitely asking too much from 
-him. Even though it shouldn't have been possible, even though he wasted precious water 
-on growing those roses, even though his family and the townspeople though he was crazy, 
-somehow he had made that promise to her two years ago.
+"Да, похоже..."
 
 
-The clanging of armor startled Kshar from his daydream. The cold sweat running down 
-his cheeks, and that familiar chill in his stomach signaled that an enemy was near. 
-He tried to slow his breath, instinctively tighted the dagger tied to his left wrist, 
-and then quietly reached for his sword. The clatter of swords drew closer 
-behind the carriage Kshar was leaning against.
+^fa8072"Зения, я прошу прошения! Ну сколько еще ты будешь злиться на меня?"
+"Гм!"
+"Посмотри, Зения... Я выполнил твою просьбу. Эта роза только что распустилась.
+Видишь? Твои щеки такого же цвета, как ее лепестки..."
 
-He was so close! Should he surprise him and strike first? Did he see me from a distance, 
-and come to kill me? What if he's just a messenger? What if he just wants to tell me 
-the war is over and I don't have to hide anymore? Wait, that can't be possible! Kshar 
-tensed as the thoughts pulsed through his mind in sync with his quickening heart. 
-The war had lost its lofty meaning to Kshar after days of facing berserk soldiers 
-slaughtering each other for no reason. Everyone seemed to be yelling the name of 
-their god, but it was all wanton killing. Forget ideals, the promises of the gods. 
-They were animals now, just fighting to survive. No wonder Kshar felt so bitter.
+Крас протянул цветок стоявшей у окна Зении. Она со вздохом взглянула на него и мрачно
+ответила:^000000
 
-Khras slowly inched behind a large wooden board that had fallen from the broken carriage. 
-The clanging of metal ceased, and Khras held his breath.,and then slowly edged out from 
-behind his hiding place. He spied a large man nearby that was carefully searching 
-the distance, but didn't seem to indicate that he had seen Khras. The large man then 
-crawled into the pit created from the impact of the falling carriage. Khras quickly rushed 
-the big man, grabbed his throat, and scraped the edge of his dagger 
-against the adam's apple.
+^fa8072"Ты снова опоздал. Взгляни на небо."^000000
 
-"Are you friend or foe?" Khras hoarsely whispered.
-"Why don't you figure it out yourself?"
-Khras's dagger dug just deep enough to let a little blood trickle down the blade.
-"Answer me! Are you friend or foe?"
-"Why didn't you just kill me?"
-Khras's eyes widened at the man's question. He could have just slashed the throat, and 
-didn't know why he was so hesitant to kill this man. The absurdity made his want to 
-laugh out loud. Then again, killing this man wouldn't ensure his own survival in the war. 
-After a long and thoughtful pause, Khras shot back with his own question.
-"Why should I kill you?"
-The big man snorted and gently shrugged his shoulders.
-"I think I know what you mean. I don't know how to answer you. This war is being fought 
-for the sake of the gods, but if you want to win, you've got to kill your enemy more than 
-he kills you. I suppose those are the rules."
-The man paused, and inhaled deeply. Khras couldn't see his face, he could tell the man was 
-trying not to let out a small chuckle. Khras tightened his hold.
-"Go on. Keep talking."
-The man shrugged, and gently pushed the dagger away from his throat with his finger. 
-Khras didn't stop him, and waited to hear the man's words.
-"To kill the enemy, you need to tell them apart from your friends. That's why we have 
-uniforms, to keep us from making silly mistakes like this. Wouldn't you agree Khras?"
-Khras jumped me at the sound of his name, and took a quick, closer look behind 
-his captive. Khras could see from the man's priest armor told Khras that he was 
-a mercenary. The small, sacred symbol hanging from the broad maroon belt, stained with 
-dirt and blood, signaled that he was fighting for the goddess Freya. They were certainly 
-on the same side, but how did this man know Khras's name? The man slowly turned 
-and flashed Khras a gentle smile.
-"Well, how has she been doing lately?"
-"What... What?"
-Khras recognized Beren's face, and rushed to hug him.
-"Goddess! What have I done? I almost killed you, Beren!"
-Beren patted Khras on the back, trying his best to relieve him of his guilt over intending 
-to kill a friend. Beren quietly look at Khras for a minute, and then starting digging 
-the pit deeper by using a wooden board torn off the carriage. When the pit was 
-deep enough, he smoothed the ground around it, and covered the hole with the carriage. 
-Now he had the perfect hiding place.
+^fa8072Небо снова прояснилось. Уже в пятый раз Крас пытался выполнить просьбу Зении
+принести ей только что распустившуюся розу в дождливый день. В этих пустынных краях
+это было практически невыполнимо, но Крас дал обещание два года назад. И хотя он
+знал, что это нереально, и вся его семья и знакомые считали его ненормальным, он
+продолжал тратить драгоценную влагу на выращивание роз.^000000
 
-Khras looked at Beren while gently stroking the blade of his dagger. As Beren took a seat 
-next to him, Khras quietly asked,
-"How did you know it was me?"
-Beren smiled. "You're the only one I know that carries a weapon on his left arm
-instead of a shield. I lucked out--if I didn't know that, you might have already 
-killed me. It's been a few years since we last saw each other, right? I really wish 
-we could have reunited under different circumstances."
-"Yeah..."
 
-The sky was clouded to tell if it was day or night. The loud clamor of screams and weapons 
-grew more distant, and was replaced by the growing rumbling of thunder and lightning from 
-the clouds.
-"I guess it's going to rain soon." Khras mumbled.
-Beren nodded his head, and looked up to the sky.
-"I suppose the battle will be over soon. One way or another."
-"I thought it'd never end. It was insanity out there."
-Khras paused thoughtfully. "Beren... You should feel lucky that you weren't part of 
-the worst of it."
-"But... I was at the 3rd array."
-"Yeah? Well, I..."
-Khras stared at Beren for a while, and then looked up the sky.
-"I was the one that burned down these plains while escaping to the outskirts. They used 
-teem with golden wheat under the autumn sun. Now look. I reduced it to charred earth. 
-Those were my orders, it was our strategy... But I think it's our loss. 
-It was so beautiful, and I ruined it all."
-"Either way, I think we were lucky not to fight those maniacs in the hills over there. 
-They're still fighting, even though there's no hope of them winning. 
-It's completely idiotic."
-Khras blinked his eyes as the first drops of rain hit him in the face. The flashes of 
-lightning and the rumbling of thunder arrived at full force, ushering in the pouring rain. 
-The rain furiously pounded the ground, splashing the ashes, churning the dust into 
-a muddy blood red. Beren quietly watched the red raindrops. Its color reminded him of 
-roses, and an old memory came back to him.
-"Khras? What ever happened to her? Sen... That was her name, right? The one that made that 
-weird promise with you."
-"Her name was Senia."
-"Senia, that's right. What made you promise to bring her fresh roses in the rain?"
-Khras felt a little confused. Those happy, earnest times felt so far away. He smiled to 
-himself. The war wasn't that important on a cosmic scale. He was better off thinking about 
-what really made him happy. Khras's thoughts pleasantly drifted towards 
-the beautiful Senia, whose skin was fresh as the petals from a white lily.
+Звон доспехов вывел Краса из задумчивости. Его лоб покрылся испариной, и по телу
+побежали мурашки. Где-то рядом был враг. Он затаил дыхание и инстинктивно сжал в
+левой руке кинжал, а правой потянулся за мечом. Лязг металла доносился из-за повозки,
+за которой прятался Крас, и звучал все ближе.
 
-- To be continued.
+Он совсем рядом! Что если поймать его врасплох и ударить первым? А если он заметил
+его издалека и идет сюда, чтобы убить? Или это просто посыльный? Может, он хочет
+сказать, что война закончилась, и можно больше не прятаться? Нет, это невероятно!
+Мысли одна за другой пролетали в голове Краса. Он напрягся, сердце его забилось
+быстрее. На протяжении долгих дней на его глазах солдаты в ярости убивали друг
+друга, и теперь война потеряла для него свой высокий смысл. Он видел, как люди
+бессознательно выкрикивали имена своих богов, забыв о своих целях и идеалах.
+Они превратились в зверей и сражались лишь для того, чтобы выжить. Неудивительно,
+что Красу стало так горько.
 
-*Characters and events in this story are all fictional; have nothing to do with reality.
+Он спрятался за большим деревянным щитом, упавшим с повозки. Лязг метала затих,
+и Крас, затаив дыхание, медленно выглянул из своего укрытия. Неподалеку он увидел
+человека, который осматривался вокруг. Не заметив Краса, он подобрался к яме рядом
+с упавшей телегой. Одним прыжком Крас оказался рядом и приставил кинжал к его горлу.
+
+"Ты друг или враг?" - хриплым шепотом спросил Крас.
+"Сам догадайся."
+
+Крас сильнее прижал кинжал к шее незнакомца, и из-под лезвия показалась капелька
+крови.
+
+"Отвечай!"
+"Почему ты просто не убьешь меня?"
+
+Вопрос заставил Краса задуматься. Действительно, он мог просто перерезать ему горло,
+но почему-то не сделал этого до сих пор. Ситуация показалась ему такой нелепой, что
+захотелось рассмеяться. И все-таки, даже если бы он убил этого человека, это не
+гарантировало ему, что сам он переживет эту войну. После долгого молчания Крас
+ответил незнакомцу вопросом на вопрос:
+
+"А почему я должен тебя убить?"
+
+Человек хрипло вздохнул и пожал плечами.
+
+"Ну что мне сказать? Эта война началась из-за наших богов, и если хочешь победить -
+количество убитых должно превышать собственные потери. Так уж повелось."
+
+Человек прервал свою речь и перевел дыхание. Хотя Крас не мог видеть его лица,
+он понял, что тот пытался сдержать усмешку. Крас еще крепче схватил его.
+
+"Продолжай."
+
+Человек снова пожал плечами и слегка отодвинул кинжал от горла. Крас не стал его
+останавливать и ждал, пока тот снова заговорит.
+"Чтобы убить врага, нужно сначала отличить его от друга. Потому мы и носим разную
+форму, чтобы избежать глупых ошибок. Ты согласен, Крас?"
+
+Крас вздрогнул от неожиданности и пристальнее пригляделся к своему пленнику.
+По его броне он понял, что тот был наемником. Маленький значок на широком коричневом
+ремне, испачканный в грязи и крови, говорил о том, что он сражался на стороне
+последователей Фрейи. Да, это был его союзник, но откуда он узнал его имя? Человек
+медленно повернулся и улыбнулся Красу.
+
+"Ну что, расскажешь как твои дела?"
+"Что?.."
+
+Узнав Берена, Крас кинулся обнимать его.
+
+"Что же я наделал! Я же чуть не убил тебя, Берен!"
+
+Берен похлопал друга по спине, пытаясь успокоить. С минуту они молча смотрели друг
+на друга. Затем Берен оторвал от повозки доску и с ее помощью стал углублять яму.
+Разровняв землю вокруг, он прикрыл ее сломанной повозкой. Получилось превосходное
+укрытие.
+
+Крас смотрел на друга, поглаживая лезвие кинжала. Когда Берен сел рядом, Крас тихо
+спросил.
+
+"Как ты узнал, что это я?"
+
+Берен улыбнулся.
+
+"Из всех, кого я знаю, ты единственный, кто носит еще оружие в левой руке вместо
+щита. Мне повезло - если бы я не узнал тебя, ты мог бы меня убить. Мы ведь уже
+не виделись несколько лет. Лучше бы мы встретились при других обстоятельствах."
+"Да..."
+
+Небо затягивали тучи, и было непонятно, день сейчас или ночь. Крики и звон оружия
+слышались все дальше, зато теперь гремел гром и окрестности озарялись вспышками
+молний.
+
+"Кажется, будет ливень," - пробормотал Крас.
+
+Берен кивнул и посмотрел на небо.
+
+"Думаю, война скоро закончится. Так или иначе, это должно когда-нибудь случиться."
+"Такое впечатление, что ей не будет конца. Это какое-то безумие."
+
+Крас задумался.
+
+"Берен... Тебе повезло, что ты не видел самого ужасного."
+"Но... Я был в третьем отряде."
+"Да? А я..."
+
+Некоторое время Крас глядел на друга, потом поднял глаза к небу.
+
+"Это я сжег дотла эти равнины. Раньше здесь колосилась пшеница, и в лучах осеннего
+солнца они казались золотыми. А что теперь?.. Серая от пепла земля. Это я отдал
+приказ сделать это. Таков был план... Теперь я вижу, что мы потеряли. Я разрушил эту
+красоту."
+"Хорошо хоть, нам не пришлось сражаться с этими безумцами в горах. К чему эта война,
+ведь у них все равно нет никаких шансов на победу?.."
+
+Первая капля упала на лицо Красу. Полил дождь, раскаты грома становились все громче,
+вспышки молний - ярче. Дождь барабанил по земле, и в воздух поднимались частички
+пепла. Земля покрылась слоем кроваво-красной грязи. Ее цвет напомнил Берену о розах,
+и к нему вернулись старые воспоминания.
+
+"Крас, так ты расскажешь о ней? Зен... Так ведь ее звали? Ту девушку, которой ты дал
+такое странное обещание."
+"Ее имя Зения."
+"Да, точно, Зения. Что же заставило тебя пообещать принести ей свежую розу
+в дождливый день?"
+
+Крас немного смутился. Теперь те счастливые дни казались такими далекими. Он
+улыбнулся про себя. Война не имела для него никакого значения. Его мысли вернулись
+к тому, что действительно приносило ему радость, - прекрасной Зении. Он вспомнил
+ее кожу, нежную, как лепестки белой лилии...
+
+- Продолжение следует. -
+
+*Все герои и события рассказа вымышленные.
