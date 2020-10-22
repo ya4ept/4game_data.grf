@@ -397,5 +397,5 @@ MsgStrID = {
 	MSI_HK_ACHIEVEMENT = "Окно достижений",
 	MSI_HK_SINGLEMAP_ONOFF = "Увеличить мини-карту",
 	MSI_HK_MAIL_ONOFF = "Почта",
-	MSI_HK_SWAPEQUIP = "Экипировать"
+	MSI_HK_SWAP_EQUIPMENT = "Экипировать"
 }

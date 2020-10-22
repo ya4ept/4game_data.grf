@@ -155,9 +155,7 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true,
 		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true,
-		isEffectPair = true,
-		hatEffectID = 1211
+		isIgnoreRiding = true
 	},
 	[HatEFID.HAT_EF_2020RTC_02] = {
 		resourceFileName = "2020RTC_02\\mcblack.str",
@@ -213,9 +211,7 @@ hatEffectTable = {
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true,
-		isEffectPair = true,
-		hatEffectID = 203
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_CLOCKING] = { hatEffectID = 120 },
 	[HatEFID.HAT_EF_SNOW] = { hatEffectID = 162 },
