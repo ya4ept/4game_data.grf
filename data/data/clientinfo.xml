@@ -14,7 +14,11 @@
 		<port>6800</port>
 		<version>1</version>
 		<registrationweb>https://ru.4game.com/</registrationweb>
-		<aid></aid>
+		<aid>
+		<admin>100002</admin>
+		<admin>102021</admin>
+		<admin>101635</admin>
+		</aid>
 	</connection>
 
 </clientinfo>
