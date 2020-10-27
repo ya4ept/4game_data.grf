@@ -1,3 +1,6 @@
 2|data.grf|2112d6637d532ac115aacdbea7e52c2f471caeab
 2|data.grf|4c3a16a32a945ead395fdf8d01069fe4c3055610
 2|data.grf|82770145259cdfeccc63cafa65b181d6e970adc8
+2|data.grf|87193f11961443d32469df8fab0b4bc5a2949ae3
+2|system\achievement_list.lub|9b75e4c4bf3ba8be04310dc9179f2589d284058d
+2|system\iteminfo.lub|46584cc8e9e0341daa466dcb3ebace4696a31abf

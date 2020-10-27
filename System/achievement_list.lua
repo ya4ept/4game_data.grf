@@ -5485,6 +5485,34 @@ achievement_tbl = {
 		resource = { [1] = { text = "Убейте Фараона.", count = 1 } },
 		reward = {},
 		score = 1
+	},
+	[240021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Охота на Очень Злых Джекков",
+		content = {
+			summary = "Убить 500 Очень Злых Джекков.",
+			details = "Силы зла наполняют Рун Мидгард!\nМы должны одолеть их!"
+		},
+		resource = { [1] = { text = "Убить Очень Злых Джекков.", count = 500 } },
+		reward = { item = 19917, title = 1035 },
+		score = 10
+	},
+	[240022] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Охота на Очень Злых Духов Тыквы",
+		content = {
+			summary = "Убить 500 Очень Злых Духов Тыквы.",
+			details = "Силы зла наполняют Рун Мидгард!\nМы должны одолеть их!"
+		},
+		resource = { [1] = { text = "Убить Очень Злых Духов Тыквы.", count = 500 } },
+		reward = { item = 19903, title = 1036 },
+		score = 10
 	}
 }
 
