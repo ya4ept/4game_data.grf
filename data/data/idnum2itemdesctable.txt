@@ -211,21 +211,20 @@ Restores ^00800072^000000 to ^008000108^000000 HP.
 529#
 ^808080A confection of sugar, chocolate and other flavorings. Kids love it!^000000
 ^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
 Type: Consumable
 Class: Recovery
 Weight: 3
-^FFFFFF_^000000
-Restores ^00800045^000000 to ^00800065^000000 HP.
 #
 
 530#
 ^808080A striped cane of peppermint candy. Sugar daddies love it!^000000
 ^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
 Type: Consumable
 Class: Recovery
 Weight: 4
-^FFFFFF_^000000
-Restores ^008000105^000000 to ^008000145^000000 HP.
+
 #
 
 531#
@@ -14886,13 +14885,10 @@ Base level*20 MHP increase. Base Lv*5 MSP increase.
 Physical attack power +10%, 
 Magic attack power +10%.
 MDEF + 10
-Cannot be knocked back.
+The player wearing this cannot be knocked back.
 Cannot be refined, or destroyed.
-^FFFFFF_^000000
-^FF0000This God item can only have its ownership permanently changed by contacting the GM Team to facilitate the trade. This is to prevent scams, and thefts.^000000
-^FFFFFF_^000000
-Class: ^777777Armor^000000    Defense: ^777777120^000000
-Weight: ^77777740^000000
+Class: ^777777Armor^000000    
+Defense: ^77777710^000000 Weight: ^77777740^000000
 Required Level: ^77777794^000000
 Class: ^777777All^000000
 #
@@ -15310,13 +15306,11 @@ This pair of shoes
 was designed with
 a waterproof coating
 that prevents slippage
-in wet areas. Adds 5%
-tolerance to Water
-property attacks,
-+ 5% HP Recovery.
+in wet areas. 
+Adds 5% tolerance to Water
+[When equipped with Wool Scarf]
++ 5% HP Recovery
 Adds +10% Max HP
-when worn with
-Wool Scarf.
 Class: ^777777Footwear^000000
 Defense: ^77777713^000000
 Weight: ^77777730^000000
@@ -16279,16 +16273,12 @@ Jobs: ^777777Gunslinger^000000
 #
 2541#
 A wing made of all lights that exist in the world. It's name means 'Light of the gods'.
-30% immunity from physicall attacks of all attributes.
 FLEE + 30, MDEF + 5.
 Enables use of the skill ^FF0000Teleport Lv1^000000.
 Adds resistance to physical attacks in all elements by 30%.
 Can not be refined and destroyed.
-^FFFFFF_^000000
-^FF0000This God item can only have its ownership permanently changed by contacting the GM Team to facilitate the trade. This is to prevent scams, and thefts.^000000
-^FFFFFF_^000000
 Class: ^777777Garment^000000
-Defense: ^77777740^000000
+Defense: ^7777775^000000
 Weight: ^77777740^000000
 Required Level: ^77777794^000000
 Class: ^777777All^000000
@@ -23204,13 +23194,8 @@ and magic damage to Demihuman enemies by 1%.
 Recovers 50 HP each
 time a monster is
 defeated by melee attack.
-Combined with the
-Ragged Zombie
-Card will recover
-2 SP each time a 
-demihuman monster
-is defeated by
-melee attack.
+[+ Ragged Zombie Card] 
+Gain 2 SP every killing a DemiHuman monster.
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -23219,18 +23204,13 @@ Weight: ^7777771^000000
 Increases physical
 and magic damage to
 Demihuman enemies
-by 1% with a CRI +5
+by 1% with a CRIT +5
 bonus. Adds a low
 chance of inflicting
 the Bleeding status
-to the wearer; 
-wearing with the
-Zombie Slaughter
-Card will recover
-2 SP each time a
-demihuman monster
-is defeated by 
-melee attack.
+to the wearer 
+[+ Zombie Slaughter Card] 
+Gain 2 SP every killing a DemiHuman monster.
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -23282,9 +23262,8 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4441#
-MATK +10%.
-Reduces Max SP by 50%. 
-Increases magic damage to Demihuman and  Angel monsters by 50%.
+MATK + 10%, Maximum SP - 50%
+Increases damage inflicted on Demihuman and Angel monster by 50%.
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -30359,12 +30338,6 @@ powers are stored.
 A heavy pile of books.
 ^FFFFFF ^000000
 #
-7432#
-A sturdy, leather
-pouch used to
-contain goods.
-^FFFFFF ^000000
-#
 7433#
 A blank scroll on
 which magic spells
@@ -30600,7 +30573,7 @@ food of professional
 quality. These are
 wasted on mere tyros.
 ^FFFFFF ^000000
-Weight: ^7777773^000000
+Weight: ^7777775^000000
 #
 12128#
 A cooking kit said
@@ -53989,20 +53962,14 @@ Jobs: ^777777All^000000
 #
 
 20174#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A specially made
-bow that uses a firing
-mechanism to launch
-arrows at enemies.
-^CC0000This item is not Refinable^000000
-Class: ^777777Bow^000000
-Attack Strength: ^77777786^000000
-Weight: ^77777790^000000
-Weapon Level: ^7777772^000000
+Someone turned your pumpkin into a carriage? How rough!
+But don't worry, the pumpkin witch will fix everything!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Archer Class;
-Thief and Rogue Jobs^000000
+Jobs: ^777777All^000000
 #
 20176#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -58347,14 +58314,14 @@ When this scroll is torn up it will transport you to Niflheim.
 Weight: ^7777771^000000
 #
 19917#
-Pumpkin hat with gloomy mood.
-Increases movement speed
-^ff0000Item effect will remain until December 3, 2014^000000
+^ff0000Account bound^000000
+This pumpkin is possessed by the evil spirit of Halloween!
+If you put it on your head, it will quietly whisper pumpkin pie recipes to you... Creepy, right?
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 19918#
 Quve's mask, who is one of the mascots of  Niflheim
@@ -58396,15 +58363,21 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19903#
-A dark and old hat with a witch's power.
-Floating Casting will be decreased by 10%
-^ff0000Item effect will remain until December 3, 2014^000000
+^ff0000Account bound^000000
+Black witch hat with a small pumpkin decoration. You feel uncomfortable around it.
+As if it's not a simple hat, but something eerie, ancient and evil... Or maybe it's just your imagination!
+EXP from monsters +20%
+Candy and Candy Cane restore 100% more HP
+Bat Cookie restore 50% more HP
+Increase damage inflicted on Ghost, Undead and Shadow properties by 6%
+Damage from players and Demihuman monsters -10%
+Increase Movement Speed +50%
+^ff0000[Effects are active only during the event (until November 3, 2020).]^000000
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 
 17307#
@@ -62692,12 +62665,13 @@ Atk/Matk +25
 Weight: ^7777773^000000
 #
 11593#
+^FF0000Account Bound^000000
 Recover 45 HP.
 Transforms into Bathory for 10 minutes.  MSP + 100 while shapeshifting.
 Weight: ^7777773^000000
 #
 11594#
-^ff0000Character bound^000000
+^ff0000Account bound^000000
 A sweet candy. On its wrapper is written: 'Be like Jakk. Organic product.'
 Transforms into Jakk for 10 min.
 Pumpkins restore much more HP.
@@ -62705,6 +62679,7 @@ Pumpkins restore much more HP.
 Weight: ^7777773^000000
 #
 11595#
+^FF0000Account Bound^000000
 Recover 45 HP.
 Transforms into Quve for 10 minutes.  HIT + 10, FLEE + 20 while shapeshifting.
 Weight: ^7777773^000000
@@ -65249,11 +65224,14 @@ Level Requirement: ^7777771^000000
 Job: ^777777All^000000
 #
 18741#
-To feel the fear of those who see in the eerie paranormal.
-Class: ^777777Costume ^000000 DEF: ^7777770 ^000000
-Location: ^777777Upper ^000000 Weight: ^7777770 ^000000
-Req LV: ^7777771 ^000000
-jobs: ^777777All Jobs ^000000
+A stranger lights up in the sky.
+They were not there, and now they fly.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18742#
 A moonlit night sky will always be with you wherever you go!
@@ -66066,11 +66044,13 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19542#
-You can get strong power if you resist its sweetness!
+As they say, everyone has their demons...
+But this thing scares me in earnest!
 Class: ^777777Costume^000000
-Location: ^777777Mid ^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19544#
 The 'cru' is a pet Roriri. That there tends to be surprised that it is trivial little sensitive.
@@ -66619,11 +66599,13 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19824#
-You can be chic and cynical with wearing this.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+A very gothic hat.
+Now you can be dark and edgy. Worship dead trees and stuff...
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19827#
 A hat shaped like Homunculus Amistr.
@@ -73850,11 +73832,14 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20430#
-A costume that imitating the protection aura of Devil Morocc.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
+They say a lot of kids have imaginary friends or something.
+But those evil flying skulls? This is somehow too much.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20340#
 Stylish Wig.
@@ -73926,11 +73911,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31121#
-Bat wing-ed stole. Don't even think to fly with this wings.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
+Luxurious decorative wings.
+They will make you look like a creepy cute giant bat.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 31123#
 A tall hat with the Ghostring inside of it and two Whispers nearby. If you wear it, you will definitely look like a ghosthunter.
@@ -74551,6 +74538,7 @@ Restores ^000088about 300 HP and 50 SP^000000.
 Weight: ^7777773^000000
 #
 25132#
+^ff0000Account bound^000000
 The most important decoration item for Halloween
 A candle inside of pumpkin makes more real Halloween mood.
 Weight: ^7777770^000000
@@ -87505,5 +87493,112 @@ In the message, you must specify:
 The Guild Master is changed only during maintenance work on the server.
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+
+
+20502#
+Small webbed wings that look very cool.
+It seems that the Mini Demon will miss them.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31607#
+A black hat that belonged to the Cat Witch.
+Look, this thing has ears! And for some reason they move!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31669#
+A creepy mask that will make you look like a Whisper.
+Boo-oo-oo!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31853#
+Zombie heard about the brain drain on TV.
+Now he is sad.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19610#
+A creepy mask that will make you look like a Whisper.
+Boo-oo-oo!
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle, Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9945#
+Well, this box looks pretty creepy...
+And very cute at the same time!
+^ffffff_^000000
+Open to obtain one of the following items:
+Kid Morroc's Minions
+Will O Wisp
+Mini Demon's Wings
+Silvervine x1313
+Cat Witch's Hat
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Bat Wings
+Evolved Whisper Mask
+Demon In Your Head
+Evil Druid's Hat
+Mad Bunny
+Zombie Mask
+Hellbird Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Ghostring Scroll x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Deviruchi Transformation Scroll x12
+Shadow Contract x30
+Bloody Branch x2
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Meteor Storm Scroll x25
+Storm Gust Scroll x25
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Bat Cookie x99
+Pumpkin Cake x55
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+22514#
+^FF0000Account Bound^000000
+A basket for Halloween candies. When opened, various goodies and old stuffs will be found.
+^ffffff_^000000
+Open to obtain one of the following items:
+Pumpkin Witch's Hat
+Pumpkin Candy x3
+Trans Candy Green x3
+Trans Candy Blue x3
+Bat Cookie x5
+Pumpkin Cake x10
+Pumpkin Pie x10
+Weight: ^7777771^000000
 #
 

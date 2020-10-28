@@ -6874,7 +6874,6 @@
 
 //-------------------Halloween Event 2015--------------
 
-25132#Pumpkin Deco#
 25133#Dried White Stem#
 11605#Bat Cookie#
 
@@ -7883,3 +7882,33 @@
 9943#Steamfunk Treasure#
 
 7558#Guild Master Change Coupon#
+
+<<<<<<< HEAD
+18741#Costume Headgear#
+19542#Costume Headgear#
+19824#Costume Headgear#
+20430#Costume Headgear#
+20502#Costume Headgear#
+31121#Costume Headgear#
+31607#Costume Headgear#
+31669#Costume Headgear#
+31853#Costume Headgear#
+19610#Mask#
+9945#Spooky_Luckybox#
+
+
+22838#'Happy Pumpkins' box#
+25132#Halloween Pumpkin#
+=======
+18741#Accessory#
+19542#Headgear#
+19824#Headgear#
+20430#Accessory#
+20502#Garment#
+31121#Accessory#
+31607#Headgear#
+31669#Headgear#
+31853#Headgear#
+19610#Headgear#
+9945#Creepy Treasure#
+>>>>>>> 20201026_l10n_fixes

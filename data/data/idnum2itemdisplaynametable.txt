@@ -6269,13 +6269,11 @@
 
 22669#HALLOWEEN G BOX#
 22670#DARK INVITATION#
-19917#C Gloomy Pumpkin Hat#
 19918#C Lude Mask#
 6804#ORGANIC PUMPKIN#
 6805#INORGANIC PUMPKIN#
 19919#C Cube Mask #
 19920#C Adv Whisper Mask#
-19903#C Witchs Hat#
 11550#Pumpkin Cake#
 22514#Candy Holder#
 18536#Foxtail#
@@ -6928,7 +6926,7 @@
 
 //-------------------Halloween Event 2015--------------
 
-25132#Pumpkin Deco#
+
 25133#Dried White Stem#
 11605#Bat Cookie#
 
@@ -6943,7 +6941,6 @@
 20171#C Sepia Cap#
 20172#Pumpkin Head#
 20173#C Lude Hood#
-20174#C Halloween Hat Orange#
 20175#C Diabolic Headphone#
 
 //---------------LoveDad 2015-------------
@@ -8986,3 +8983,36 @@
 31544#Piamette's Hairpiece#
 9943#Steamfunk Treasure#
 7558#Guild Master Change Coupon#
+
+<<<<<<< HEAD
+18741#Costume Will O Wisp#
+19542#Costume Devil Whisper#
+19824#Costume Evil Druid Hat#
+20430#Costume Loyal Servant of Morroc#
+20502#Costume_Little_Devil's_Wings#
+31121#Costume Bat Stole#
+31607#Costume_Black_Witch_Hat#
+31669#Costume Evolved Whisper Mask#
+31853#Costume_Zombie_Mask#
+19610#Whisper_Mask#
+9945#Spooky_Luckybox#
+
+20174#Pumpkin Witch's Hat#
+19917#Muttering Pumpkin#
+19903#Ancient Witch's Hat#
+22838#'Happy Pumpkins' box#
+25132#Halloween Pumpkin#
+
+=======
+18741#Will O Wisp#
+19542#Demon In Your Head#
+19824#Evil Druid's Hat#
+20430#Kid Morroc's Minions#
+20502#Mini Demon's Wings#
+31121#Bat Wings#
+31607#Cat Witch's Hat#
+31669#Evolved Whisper Mask#
+31853#Zombie Mask#
+19610#Whisper Mask#
+9945#Creepy Treasure#
+>>>>>>> 20201026_l10n_fixes
