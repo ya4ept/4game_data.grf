@@ -6391,7 +6391,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RG_TUNNELDRIVE] = {
 		"RG_TUNNELDRIVE",
-		SkillName = "Преследование",
+		SkillName = "Сеть туннелей",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -12064,7 +12064,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CALLALLFAMILY] = {
 		"WE_CALLALLFAMILY",
-		SkillName = "Let's Go Family!",
+		SkillName = "Воссоединение семьи",
 		MaxLv = 1,
 		SpAmount = { 100 },
 		bSeperateLv = false,
@@ -12072,7 +12072,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_ONEFOREVER] = {
 		"WE_ONEFOREVER",
-		SkillName = "Love Conquers Death",
+		SkillName = "Любовь сильнее смерти",
 		MaxLv = 1,
 		SpAmount = { 100 },
 		bSeperateLv = false,
@@ -12080,7 +12080,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CHEERUP] = {
 		"WE_CHEERUP",
-		SkillName = "Go! Parents Go!",
+		SkillName = "Родители, вперед!",
 		MaxLv = 1,
 		SpAmount = { 50 },
 		bSeperateLv = false,
@@ -12088,7 +12088,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_GUILD_STORAGE] = {
 		"GD_GUILD_STORAGE",
-		SkillName = "Guild Storage Extension",
+		SkillName = "Склад гильдии",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
