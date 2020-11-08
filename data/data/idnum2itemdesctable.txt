@@ -58366,13 +58366,6 @@ Job: ^777777All^000000
 ^ff0000Account bound^000000
 Black witch hat with a small pumpkin decoration. You feel uncomfortable around it.
 As if it's not a simple hat, but something eerie, ancient and evil... Or maybe it's just your imagination!
-EXP from monsters +20%
-Candy and Candy Cane restore 100% more HP
-Bat Cookie restore 50% more HP
-Increase damage inflicted on Ghost, Undead and Shadow properties by 6%
-Damage from players and Demihuman monsters -10%
-Increase Movement Speed +50%
-^ff0000[Effects are active only during the event (until November 3, 2020).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000

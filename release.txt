@@ -1,3 +1,27 @@
+03.11.2020
+[CM] Godfather
+The maintenance has been finished, the server is online. Changelog:
+
+Event:
+— High refinement rates will be active until the 11th of November;
+
+Shop:
+— The Eternal Halter and Giant Fly Wing Box are now available in the in-game shop and in the 4Game Launcher.
+— Bravery Bag, Golden Angel Hairband and Wings will be available in the Shop and 4Game launcher in sets until the 11th of November.
+
+Other Changes:
+— The rewards for the Novice Arena have been updated.
+
+Finished activities:
+— The Halloween event was turned off.
+— The Creepy Treasure and its sets were removed from the shop and 4 game Launcher.
+— The Attendance Event and the Eternal Hunt reached an end and were turned off.
+— The boosted Party bonus event was turned off and the bonuses are back to standard.
+— The Black Market auction was a success and left the server briefly.
+
+https://eu.4gameforum.com/threads/679379/
+
+================
 28.10.2020 14:03
 [CM] Godfather
 And here we are! The update has been finally finished, the server is online:
