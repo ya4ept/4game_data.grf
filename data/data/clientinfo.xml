@@ -15,9 +15,11 @@
 		<version>1</version>
 		<registrationweb>https://ru.4game.com/</registrationweb>
 		<aid>
+		<admin>100001</admin>
 		<admin>100002</admin>
-		<admin>102021</admin>
+		<admin>101745</admin>
 		<admin>101635</admin>
+		<admin>102021</admin>
 		</aid>
 	</connection>
 
