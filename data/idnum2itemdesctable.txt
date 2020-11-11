@@ -211,21 +211,20 @@ Restores ^00800072^000000 to ^008000108^000000 HP.
 529#
 ^808080A confection of sugar, chocolate and other flavorings. Kids love it!^000000
 ^FFFFFF_^000000
+Restores ^00800045^000000 to ^00800065^000000 HP.
 Type: Consumable
 Class: Recovery
 Weight: 3
-^FFFFFF_^000000
-Restores ^00800045^000000 to ^00800065^000000 HP.
 #
 
 530#
 ^808080A striped cane of peppermint candy. Sugar daddies love it!^000000
 ^FFFFFF_^000000
+Restores ^008000105^000000 to ^008000145^000000 HP.
 Type: Consumable
 Class: Recovery
 Weight: 4
-^FFFFFF_^000000
-Restores ^008000105^000000 to ^008000145^000000 HP.
+
 #
 
 531#
@@ -5742,23 +5741,19 @@ Jobs: ^777777Swordsman / Merchant^000000
 1370#
 ^808080A gigantic and ridiculously heavy axe that requires great strength to use it properly.^000000
 ^FFFFFF_^000000
+[If base STR is 95 or higher]
+ATK + 340
+Adds a chance of breaking the enemy's armor when performing a physical attack
+Adds a 30% chance of inflicting ^800000Stun^000000 on the target when performing a physical attack
+ASPD - 40%
+Increases SP cost of skills by 100%.
 Type: Weapon
 Class: Two-Handed Axe
 Attack: 10
-Property: Neutral
 Weight: 600
 Weapon Level: 4
 Required Level: 80
 Jobs: Swordsman Jobs, Merchant Jobs
-^FFFFFF_^000000
-ASPD - 40%
-Increases SP cost of skills by 100%.
-This item is indestructible in battle.
-^FFFFFF_^000000
-If base STR is 95 or higher,
-ATK + 340
-Adds a 5% chance of inflicting ^800000Coma^000000 on Demi-Human race targets when performing a physical attack.
-Adds a 30% chance of inflicting ^800000Stun^000000 on the target when performing a physical attack.
 #
 
 1371#
@@ -7626,8 +7621,7 @@ Jobs: Acolyte Jobs
 ^FFFFFF_^000000
 Restores 1 SP to the user when performing a physical attack to Undead race targets.
 Restores 3 SP to the user when an Undead race targets is killed by physical attacks.
-Enables ^0000FFLevel 3 Turn Undead^000000.
-Adds a 10% chance of casting ^0000FFLevel 3 Turn Undead^000000 on the target when performing a physical attack.
+Adds a chance of casting ^0000FFLevel 3 Turn Undead^000000 on the enemy when performing a physical attack.
 #
 
 1529#
@@ -9816,17 +9810,11 @@ Jobs: Hunter Jobs, Bard Jobs, Dancer Jobs
 ^808080A bow crafted out of moonstone with an attached blade that allows its user to block and counter enemy attacks. The drawback is that this bow is quite heavy.^000000
 ^FFFFFF_^000000
 ^FFFFFF_^000000
-DEF +2 if not refined.
-DEF +3 when refined to +6.
-DEF +5 when refined to +9.
-^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Luna Bow [2]^000000
-^008080Lunatic Brooch [1]^000000
-DEX + 1
-Max SP + 50
-SP Recovery + 10%
-^FFFFFF_^000000
+DEF +2 
+[If refined to +6 or higher]
+DEF +3 
+[If refined to +9 or higher]
+DEF +5 
 Type: Weapon
 Class: Bow
 Attack: 100
@@ -11285,6 +11273,10 @@ Adds a 10% chance of casting ^0000FFLevel 2 Wide Confusion^000000 on the target 
 1920#
 ^808080When musicians play this legendary instrument, their consciousness is fully absorbed, returning only once they've realized that they've finished their performance.^000000
 ^FFFFFF_^000000
+ASPD + 100%
+HP Recovery -100%
+Drains 50 HP from the user every 5 seconds
+Reduces DEX by massive rate
 Type: Weapon
 Class: Instrument
 Attack: 10
@@ -11293,11 +11285,6 @@ Weight: 180
 Weapon Level: 4
 Required Level: 70
 Jobs: Minstrel Jobs
-^FFFFFF_^000000
-DEX - 100%
-ASPD + 100%
-HP Recovery -100%
-Drains 50 HP from the user every 5 seconds.
 #
 
 1921#
@@ -12635,15 +12622,13 @@ Jobs: ^777777Mage / Soul Linker / Wizard / Sage^000000
 A magnificent
 platinum shield that
 is rumored to be able
-to reflect harmul magic. Reduces damage from
+to reflect harmul magic. 
+Reduces damage from
 Mid and Large sized
 monsters by 15%, and
 reduces damage from
-Undead monsters by
-10%. Has a 40% chance
-to reflect magic for
-2 seconds with each
-magic spell attack.
+Undead monsters by 10%.
+Whenever you receive a Magical Damage there is small chance to reflect all offensive magic against you at 40% chance for 2 seconds.
 MDEF +5
 Class: ^777777Shield^000000
 Defense: ^77777795^000000
@@ -12672,14 +12657,11 @@ Jobs except Novice^000000
 A rough shield
 covered in spikes
 that deters rushing
-enemies. MDEF +2.
-When worn with
-Bison Horn:
-^6A5ACDBison Set^000000
-^3CB371Thorny Buckler^000000
-^3CB371Bison Horn^000000
+enemies. 
+MDEF +2.
+[When worn with Bison Horn]
 +10% Aspd Bonus
-+5% Reflect Melee damage
++5% Reflect physical Damage
 Class: ^777777Shield^000000
 Defense: ^77777785^000000
 Weight: ^777777100^000000
@@ -14432,6 +14414,7 @@ Sage, and Soul Linker^000000
 An armor that is enchanted with the Fire Property.
 Class: ^777777Armor^000000
 Defense: ^77777725^000000
+Property: ^777777Fire^000000
 Weight: ^777777220^000000
 Required Level: ^77777745^000000
 Jobs: ^777777Swordsman and
@@ -14659,8 +14642,8 @@ and Soul Linker Jobs^000000
 This plate armor
 was forged using
 mysterious materials
-from a meteor. Adds
-30% tolerance to
+from a meteor. 
+Adds 30% tolerance to
 Stun and Freeze
 statuses.
 Class: ^777777Armor^000000
@@ -14710,11 +14693,9 @@ stimulates all the
 muscles used in firing
 arrows, increasing
 accuracy while reducing stress on the body.
-CRI +6 with additional
-CRI bonus determined
-by LUK stat. MDEF +5.
-Skill Delay reduced
-by 23%.
+CRIT +6 with additional CRIT bonus determined by LUK stat. 
+MDEF +5
+Skill Delay reduced by 23%.
 Class: ^777777Armor^000000
 Defense: ^77777742^000000
 Weight: ^77777775^000000
@@ -14904,13 +14885,10 @@ Base level*20 MHP increase. Base Lv*5 MSP increase.
 Physical attack power +10%, 
 Magic attack power +10%.
 MDEF + 10
-Cannot be knocked back.
+The player wearing this cannot be knocked back.
 Cannot be refined, or destroyed.
-^FFFFFF_^000000
-^FF0000This God item can only have its ownership permanently changed by contacting the GM Team to facilitate the trade. This is to prevent scams, and thefts.^000000
-^FFFFFF_^000000
-Class: ^777777Armor^000000    Defense: ^777777120^000000
-Weight: ^77777740^000000
+Class: ^777777Armor^000000    
+Defense: ^77777710^000000 Weight: ^77777740^000000
 Required Level: ^77777794^000000
 Class: ^777777All^000000
 #
@@ -15328,13 +15306,11 @@ This pair of shoes
 was designed with
 a waterproof coating
 that prevents slippage
-in wet areas. Adds 5%
-tolerance to Water
-property attacks,
-+ 5% HP Recovery.
+in wet areas. 
+Adds 5% tolerance to Water
+[When equipped with Wool Scarf]
++ 5% HP Recovery
 Adds +10% Max HP
-when worn with
-Wool Scarf.
 Class: ^777777Footwear^000000
 Defense: ^77777713^000000
 Weight: ^77777730^000000
@@ -16180,10 +16156,10 @@ A symbol worn by
 runners that just
 makes you want to
 sprint when you
-wear it. Agi +2.
-Flee +10 when worn
-with Black Leather
-Boots.
+wear it. 
+Agi +2.
+[When worn with Black Leather Boots]
+Flee +10 
 Class: ^777777Garment^000000
 Defense: ^77777713^000000
 Weight: ^77777750^000000
@@ -16297,16 +16273,12 @@ Jobs: ^777777Gunslinger^000000
 #
 2541#
 A wing made of all lights that exist in the world. It's name means 'Light of the gods'.
-30% immunity from physicall attacks of all attributes.
 FLEE + 30, MDEF + 5.
 Enables use of the skill ^FF0000Teleport Lv1^000000.
 Adds resistance to physical attacks in all elements by 30%.
 Can not be refined and destroyed.
-^FFFFFF_^000000
-^FF0000This God item can only have its ownership permanently changed by contacting the GM Team to facilitate the trade. This is to prevent scams, and thefts.^000000
-^FFFFFF_^000000
 Class: ^777777Garment^000000
-Defense: ^77777740^000000
+Defense: ^7777775^000000
 Weight: ^77777740^000000
 Required Level: ^77777794^000000
 Class: ^777777All^000000
@@ -17362,33 +17334,39 @@ Jobs: ^777777All^000000
 2678#
 A ring imbued with the power of the fire spirit king, which can be used to strengthen the wearer's weapon.
 This ring forms a matching set with the Ring of Resonance.
-Str +2, Vit +1, ATK +15.
+Str +2
+Vit +1
+ATK +15
 Increases resistance to Fire property attacks by 10%.
 Adds a chance to auto cast various skills with each physical attack.
-When worn with the Ring of Resonance, this ring adds the Auto Spell ability and increases auto-casting chance.
+[When worn with the Ring of Resonance] 
+Chance to auto cast various skills increases.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
-Jobs: ^7777772-2 Transcendent Class^000000
+Jobs: ^777777Transcendent Class^000000
 #
 2679#
 A ring that resonates
 with the Ring of Flame
 Lord: together, they
 form a matching set.
-Agi +2, Vit +1. MDEF +2.^FFFFFF  ^000000 Adds a chance of auto
-casting various skills^FFFFFF    ^000000 while receiving physical damage.
+Agi +2
+Vit +1
+MDEF +2 
+Adds a chance of auto casting various skills when attacking.
 Class: ^777777Accessory^000000
 Defense: ^7777772^000000
 Weight: ^77777710^000000
-Jobs: ^7777772-2 Transcendent Class^000000
+Jobs: ^777777Transcendent Class^000000
 #
 2680#
 A ring that holds
 the power of lesser
 elemental spirits,
 but its true effect is
-unknown. All Stats +1.
+unknown. 
+All Stats +1.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17598,11 +17576,10 @@ you feel as if you
 could draw upon
 the dexterity that
 chef used in cooking.
-Dex +2, MATK +3%
-Cast Time
-reduced by 10% when
-worn with Orlean's
-Server.
+Dex +2
+MATK +3%
+[When worn with Orlean's Server]
+Cast time reduced by 10%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -23138,7 +23115,7 @@ Weight: ^7777771^000000
 #
 4427#
 When compounded into a One-Handed or Two-Handed Sword,
-CRI +5, Hit +5,
+CRIT +5, Hit +5,
 increases power
 of ^FF0000Bowling Bash^000000
 skill by 25%
@@ -23148,7 +23125,7 @@ Weight: ^7777771^000000
 #
 4428#
 When compounded to a Bow,
-CRI+5, Hit +5,
+CRIT+5, Hit +5,
 increases the power
 of the ^FF0000Arrow Shower^000000
 skill by 50%.
@@ -23166,8 +23143,8 @@ Slot: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4430#
-ATK, CRI, HIT is increased depending on the wearer's job level.
-Has a low chance of Autocasting ^FF0000Earthquake^000000 Lv.2 when receiving physical attack.
+ATK, CRIT, HIT is increased depending on the wearer's job level.
+Has a low chance of Autocasting ^FF0000Earthquake^000000 Lv.10 when receiving physical damage with a melee attack
 Class: ^777777Card^000000
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
@@ -23217,13 +23194,8 @@ and magic damage to Demihuman enemies by 1%.
 Recovers 50 HP each
 time a monster is
 defeated by melee attack.
-Combined with the
-Ragged Zombie
-Card will recover
-2 SP each time a 
-demihuman monster
-is defeated by
-melee attack.
+[+ Ragged Zombie Card] 
+Gain 2 SP every killing a DemiHuman monster.
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -23232,18 +23204,13 @@ Weight: ^7777771^000000
 Increases physical
 and magic damage to
 Demihuman enemies
-by 1% with a CRI +5
+by 1% with a CRIT +5
 bonus. Adds a low
 chance of inflicting
 the Bleeding status
-to the wearer; 
-wearing with the
-Zombie Slaughter
-Card will recover
-2 SP each time a
-demihuman monster
-is defeated by 
-melee attack.
+to the wearer 
+[+ Zombie Slaughter Card] 
+Gain 2 SP every killing a DemiHuman monster.
 Slot: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
@@ -23295,9 +23262,8 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4441#
-MATK +10%.
-Reduces Max SP by 50%. 
-Increases magic damage to Demihuman and  Angel monsters by 50%.
+MATK + 10%, Maximum SP - 50%
+Increases damage inflicted on Demihuman and Angel monster by 50%.
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -26274,13 +26240,12 @@ A hat designed to mimic the look of a terrible magic book which attacks people.
 When physically melee attacking, there is a chance to recover 8% of your damage as HP.
 When physically melee attacking, there is a chance to recover 4% of your damage as SP.
 Drains 10 HP every 5 seconds while equipped.
-Slot: ^7777771^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777773^000000
 Weight: ^77777730^000000
-Level: ^7777771^000000
-Job: ^777777All^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 //--------------------------------------------------------------------------
 
@@ -29314,6 +29279,7 @@ Weight: ^7777771^000000
 // --- effect box ---
 
 12027#
+Very strange box.
 Restores an amount
 of HP equal to 9% of
 the user's Max HP, but
@@ -30372,12 +30338,6 @@ powers are stored.
 A heavy pile of books.
 ^FFFFFF ^000000
 #
-7432#
-A sturdy, leather
-pouch used to
-contain goods.
-^FFFFFF ^000000
-#
 7433#
 A blank scroll on
 which magic spells
@@ -30613,7 +30573,7 @@ food of professional
 quality. These are
 wasted on mere tyros.
 ^FFFFFF ^000000
-Weight: ^7777773^000000
+Weight: ^7777775^000000
 #
 12128#
 A cooking kit said
@@ -39036,7 +38996,7 @@ Attached to the crown is an Opal gemstone, the birthstone for those born under t
 Can be obtained via Arena Coins during 8th PvP season.
 Dex +3
 Wind Resistance +7%
-^6A5ACD[If refined to +7 or higher]^000000
+^6A5ACD[If refined to +7 or +8]^000000
 Matk +3%
 ^6A5ACD[If refined to +9 or higher]^000000
 Matk +8%
@@ -39055,14 +39015,13 @@ Can be obtained via Arena Coins during 8th PvP season.
 Atk +7
 Dex +3
 ^6A5ACD[If refined to 7 or higher]^000000
-Has a chance of casting Lv 2 Mild Wind while physically attacking.
+Has a chance of casting Lv 2 Mild Wind when dealing physical damage
 ^6A5ACD[If refined to 9 or higher]^000000
+Physical attack power +3%
 Flee +5
-Physical attack power +3%.
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
 Location: ^777777Upper ^000000
-Weight: ^77777730^000000
+Defense: ^7777773^000000 Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -39076,11 +39035,12 @@ Increases resistance against Water property by 5%.
 ^6A5ACD[If refined to 7 or higher]^000000
 Has a chance of casting Lv 3 Mild Wind while physically attacking.
 ^6A5ACD[If refined to 8 or higher]^000000
-Aspd +2%
+Additional Aspd +2%
 ^6A5ACD[If refined to 9 or higher]^000000
 Has a chance of casting Lv 5 Frost Nova while physically attacking.
 ^6A5ACD[If refined to 10]^000000
-Atk +5, Aspd +2%.
+Atk +5
+Additional Aspd +2%.
 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper ^000000
@@ -42277,21 +42237,22 @@ A token that can be exchanged for cash items.
 Weight: ^7777770^000000
 #
 5592#
-Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.
-If worn by a Swordsman, Merchant, Thief or Taekwon Classes, Str +1.
-If worn by a Mage, Acolyte, Ninja or Soul Linker Classes, Int +1.
-If worn by Archer or Gunslinger Classes, Dex +1.
-If worn by Novice Class, MaxHP +80, MaxSP +30.
-^FFFFFF_^000000
-^FF0000Concept created during the Summer 2008 Create a headgear Contest.
-Created by Eleotea^000000
-^FFFFFF_^000000
+^FF0000Account bound^000000
+Valkyrie Sigrun's Wings.
+[When used by Swordsman, Merchant, Thief, Taekwon and Star Gladiator]
+STR +1
+[When used by Mage, Acolyte, Ninja and Soul Linker]
+INT +1
+[When used by Archer and Gunslinger]
+DEX +1
+[When used by Novice and Supernovice]
+MaxHP +80 
+MaxSP +30
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Level: ^77777780^000000
-Job: ^777777All^000000
+Defense: ^7777772^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5664#
 A cute headgear made in the form of Filir's wings, the most popular bird-like homunclus.
@@ -42723,7 +42684,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5397#
-placeholder
+^ff0000Account bound^000000
+Regular diving mask. If you wear it on land, people will think you went crazy.
+Adds 10% resistance to Water property
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5398#
 placeholder
@@ -48842,11 +48810,16 @@ placeholder
 placeholder
 #
 5498#
-Made out of a Wolf King's fur and feels like you're surrounded by a dignified force when worn but basically worn for its looks.
-Class: ^777777Costume^000000
-Location: ^777777Upper/Middle^000000
-Defense: ^7777770^000000
-Weight: ^77777760^000000
+A helmet made from the head of the Wolf King.
+It looks very menacing and ominous.
+FLEE + 10
+VIT + 5
+Damage from Demihuman monsters -5%
+[For each refine level]
+Damage from Demihuman monsters -1%
+Class: ^777777Headgear^000000
+Location: ^777777Upper, Middle^000000
+Defense: ^7777775^000000    Weight: ^77777760^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -49082,17 +49055,21 @@ Jobs: ^777777All^000000
 Box Weight: ^7777771^000000
 #
 18508#
+^ff0000Account bound^000000
 A hat which is very unique and rare, made from the feathers of a legendary bird Garuda.
-Reduces damage from all elements by 5%.
-Luk +5, Hit +10, Reduces casting delay by 5%.
-If refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
-^ff0000Can be traded, stored, and vended^000000
+Reduces damage from all elements by 5%
+LUK +5
+HIT +10
+MDEF +3
+Spell casting time -5%
+[If refined to +7 or higher] 
+Has a chance of dropping Mastela Fruit when defeating monsters. 
+Chance to drop increases for each refine level over 7.
 Class: ^777777Headgear^000000
-Defense: ^7777774^000000
 Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All except Novices^000000
+Defense: ^7777774^000000 Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 5585#
 A hairband embroidered with Runes and golden thread.
@@ -49104,19 +49081,6 @@ Defense: ^7777775^000000
 Location: ^777777Upper & Middle ^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-18505#
-An accessory which is traditionally used in piercings by the Umbala tribespeople.
-MaxHP +1%.
-Increases the recovery rate of 'Meat' by 25%.
-Has a chance of dropping 'Meat' when defeating monsters.
-^ff0000Can be traded, stored, and vended^000000
-Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Lower ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000 
 Jobs: ^777777All^000000
 #
 16689#
@@ -52515,14 +52479,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 5788#
+^FF0000Account bound^000000
 Mysterious glasses which are said to show objects stereoscopically.
-Increase 4% of the Magical Damage inflicted to Formless type monsters.
-Reduces Neutral elemental damage received by 5%.
+Reduces Neutral elemental damage received by 5%
+Magical Damage to Neutral Monsters +4%
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
 Location: ^777777Middle ^000000
-Weight: ^77777720^000000
-Required Level: ^77777710^000000
+Defense: ^7777771^000000 Weight: ^77777710^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18638#
@@ -53998,20 +53962,14 @@ Jobs: ^777777All^000000
 #
 
 20174#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A specially made
-bow that uses a firing
-mechanism to launch
-arrows at enemies.
-^CC0000This item is not Refinable^000000
-Class: ^777777Bow^000000
-Attack Strength: ^77777786^000000
-Weight: ^77777790^000000
-Weapon Level: ^7777772^000000
+Someone turned your pumpkin into a carriage? How rough!
+But don't worry, the pumpkin witch will fix everything!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Archer Class;
-Thief and Rogue Jobs^000000
+Jobs: ^777777All^000000
 #
 20176#
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -54205,24 +54163,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777Gunslinger^000000
 #
 20379#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A sawed off shotgun
-that fires shots more
-rapidly like a pistol
-at the cost of reduced
-accuracy. HIT -5.
-Splash damage.
-Increases Attack
-Speed by 20%.
-^CC0000This item is not Refinable^000000
-Class: ^777777Shotgun^000000
-Attack Strength ^777777110^000000
-Weight: ^77777770^000000
-Weapon Level: ^7777773^000000
+Now, if you are asked what time it is, you may not even answer.
+Just point your finger at the small clock built into this elegant head ornament.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Gunslinger^000000
+Jobs: ^777777All^000000
 #
 
 20021#
@@ -58367,14 +58314,14 @@ When this scroll is torn up it will transport you to Niflheim.
 Weight: ^7777771^000000
 #
 19917#
-Pumpkin hat with gloomy mood.
-Increases movement speed
-^ff0000Item effect will remain until December 3, 2014^000000
+^ff0000Account bound^000000
+This pumpkin is possessed by the evil spirit of Halloween!
+If you put it on your head, it will quietly whisper pumpkin pie recipes to you... Creepy, right?
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 19918#
 Quve's mask, who is one of the mascots of  Niflheim
@@ -58416,15 +58363,14 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19903#
-A dark and old hat with a witch's power.
-Floating Casting will be decreased by 10%
-^ff0000Item effect will remain until December 3, 2014^000000
+^ff0000Account bound^000000
+Black witch hat with a small pumpkin decoration. You feel uncomfortable around it.
+As if it's not a simple hat, but something eerie, ancient and evil... Or maybe it's just your imagination!
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 
 17307#
@@ -62712,12 +62658,13 @@ Atk/Matk +25
 Weight: ^7777773^000000
 #
 11593#
+^FF0000Account Bound^000000
 Recover 45 HP.
 Transforms into Bathory for 10 minutes.  MSP + 100 while shapeshifting.
 Weight: ^7777773^000000
 #
 11594#
-^ff0000Character bound^000000
+^ff0000Account bound^000000
 A sweet candy. On its wrapper is written: 'Be like Jakk. Organic product.'
 Transforms into Jakk for 10 min.
 Pumpkins restore much more HP.
@@ -62725,6 +62672,7 @@ Pumpkins restore much more HP.
 Weight: ^7777773^000000
 #
 11595#
+^FF0000Account Bound^000000
 Recover 45 HP.
 Transforms into Quve for 10 minutes.  HIT + 10, FLEE + 20 while shapeshifting.
 Weight: ^7777773^000000
@@ -65269,11 +65217,14 @@ Level Requirement: ^7777771^000000
 Job: ^777777All^000000
 #
 18741#
-To feel the fear of those who see in the eerie paranormal.
-Class: ^777777Costume ^000000 DEF: ^7777770 ^000000
-Location: ^777777Upper ^000000 Weight: ^7777770 ^000000
-Req LV: ^7777771 ^000000
-jobs: ^777777All Jobs ^000000
+A stranger lights up in the sky.
+They were not there, and now they fly.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18742#
 A moonlit night sky will always be with you wherever you go!
@@ -66086,11 +66037,13 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19542#
-You can get strong power if you resist its sweetness!
+As they say, everyone has their demons...
+But this thing scares me in earnest!
 Class: ^777777Costume^000000
-Location: ^777777Mid ^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19544#
 The 'cru' is a pet Roriri. That there tends to be surprised that it is trivial little sensitive.
@@ -66639,11 +66592,13 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19824#
-You can be chic and cynical with wearing this.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+A very gothic hat.
+Now you can be dark and edgy. Worship dead trees and stuff...
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19827#
 A hat shaped like Homunculus Amistr.
@@ -67999,7 +67954,7 @@ Jobs: ^777777All^000000
 2754#
 ^ff0000Account bound^000000
 A ring that contains special powers.
-Exp +15% when killing ^000088Undead monsters^000000
+Exp +15% when killing ^000088Undead race monsters^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -71682,12 +71637,14 @@ Required Lv.: ^7777771^000000
 Job: ^777777All^000000
 #
 20071#
-^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
-A lost wolf puppy, maybe you should carry it like its mother to comfort it.
-Class: ^777777Costume Gear^000000 Defense: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Lv: ^7777771^000000
-Job: ^777777All^000000
+You and your child are moving somewhere, right?
+Looking for a new den?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 20041#
@@ -72559,12 +72516,6 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-20018#
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 20038#
 Class: ^777777Costume^000000 Def: ^7777770^000000
 Weight: ^7777770^000000
@@ -72599,15 +72550,6 @@ Location: ^777777Garment^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-20071#
-It seem he love his mother.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 19954#
 A mysterious glasses which shows objects in 3-dimentional.
@@ -73883,11 +73825,14 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20430#
-A costume that imitating the protection aura of Devil Morocc.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
+They say a lot of kids have imaginary friends or something.
+But those evil flying skulls? This is somehow too much.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20340#
 Stylish Wig.
@@ -73959,11 +73904,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31121#
-Bat wing-ed stole. Don't even think to fly with this wings.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
+Luxurious decorative wings.
+They will make you look like a creepy cute giant bat.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 31123#
 A tall hat with the Ghostring inside of it and two Whispers nearby. If you wear it, you will definitely look like a ghosthunter.
@@ -74584,6 +74531,7 @@ Restores ^000088about 300 HP and 50 SP^000000.
 Weight: ^7777773^000000
 #
 25132#
+^ff0000Account bound^000000
 The most important decoration item for Halloween
 A candle inside of pumpkin makes more real Halloween mood.
 Weight: ^7777770^000000
@@ -75096,7 +75044,7 @@ Weight: ^7777771^000000
 [Hallow Ring]
 ^ff0000Account bound^000000
 A ring that contains special powers.
-Exp +15% when killing ^000088Undead monsters^000000
+Exp +15% when killing ^000088Undead race monsters^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -81981,16 +81929,15 @@ Opening it will randomly give you one of the following items.
 Weight: ^7777771^000000
 #
 18505#
-An accessory which is traditionally used in piercings by the Umbala tribespeople.
-MaxHP +1%.
-Increases the recovery rate of 'Meat' by 25%.
-Has a chance of dropping 'Meat' when defeating monsters.
-^ff0000Can be traded, stored, and vended^000000
+A ritual decoration used by the people of the Umbala tribe.
+They say that the ancestors spirits settle in such bones and then speak with their descendants. This is so creepy.
+Max HP +1%
+Increases healing effect of Meat by 25%
+Has a chance of dropping Meat when defeating monsters.
 Class: ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Lower ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000 
+Location: ^777777Lower^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 6451#
@@ -84613,6 +84560,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 25256#
+^ff0000Account bound^000000
 A fragment of crystallized spiritual imprint. It works like a mirror, reflecting the image of a lost memory.
 Weight: ^7777771^000000
 #
@@ -87202,7 +87150,7 @@ Weight: ^7777773^000000
 This pass gives you access to an Unknown area. 
 It can be given to a Mysterious man who is in Prontera (125, 125).
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 20460#
 A hairband adorned with magical brambles and a skull.
@@ -87327,3 +87275,394 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+
+31179#
+There is no one more charming and handsomer than Baron Von Wolf!
+Just don't get caught by him when he's hungry!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31664#
+Ernst Von Wolf 11th, who decided to snuggle up on your head.
+Let him rest, he is so tired of his own greatness.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31686#
+A desert wolf cub that follows you everywhere.
+It looks like you have become the leader of a small but formidable pack.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31698#
+Today the horoscope advises you to beware of the Big Bad Wolves.
+Meeting them doesn't end well.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9936#
+You hear a quiet, ominous growl coming from the box.
+Are you sure you want to open it?
+^ffffff_^000000
+Open to obtain one of the following items:
+Desert Wolfling
+Von Wolf Mask
+Red Riding Hood
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Wolf Cub In Mouth
+Drooping Ernst Von Wolf
+Inf. Giant Fly Wing Box (1 h.)
+Wolf Ears
+Bizarre Beast Ears
+Umbala Spirit Bone
+Wolf King Helm
+Bloody Branch x4
+Halter Lead Box (7 d.)
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Token of Ziegfried x9
+Guyak Pudding x30
+Water of Life x10
+Magnificat Scroll x10
+Greed Scroll Box (100 pcs.)
+Bubblegum Battle Manual
+LV10 Blessing Scroll x10
+LV10 Increase Agi Scroll x10
+Convex Mirror x7
+Light White Potion x100
+Light Blue Potion x40
+Well-Dried Bone x25
+Big Defense Potion x30
+Big Magic Defense Potion x30
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20018#
+Fluffy pointed ears on your head are a clear sign that you are protected by the ancient Wolf God.
+Or maybe you're just a cosplayer.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31250#
+A furry ears of some unidentified strange beast.
+They look pretty cute, albeit quirky.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19734#
+These eyepieces incorporate a sophisticated lens system that allows you to zoom in and out.
+Just be careful with this, otherwise you will get dizzy!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20246#
+This aura will always tell you what time it is on the clock!
+On every clock that exists in this universe...
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20382#
+A small toy based on a self-supporting FAW Silver Sniper weapon.
+This thing is absolutely harmless.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20383#
+A small toy based on a self-supporting FAW Magic Decoy weapon.
+This thing is absolutely harmless.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20513#
+This backpack has hundreds of pockets and compartments for all occasions!
+Specially designed for technical professionals.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31379#
+Feel like the gears in your head are rusted?
+Take advantage of this specially designed winding key!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31544#
+A luxurious wig inspired by Piamette's hairstyle.
+These white curls enhance the beauty of your face so much!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9943#
+This box looks much more educated and sophisticated than you!
+What a miracle of technology!
+^ffffff_^000000
+Open to obtain one of the following items:
+Clockwork Aura
+Tech Backpack
+Magic Decoy Toy
+Silver Sniper Toy
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Piamette's Hairpiece
+Inf. Giant Fly Wing Box (1 h.)
+Binoculars
+Head Winder
+Clockwork Chiffon
+Processor on Head
+Secret Medicine
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Bloody Branch x3
+Ghostring Scroll x4
+Holy Armor Scroll x4
+Poring Box x3
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Rune-Midgard Wing x15
+Ancient City Wing x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+7558#
+^ff0000Account bound^000000
+^0000ffOnly the Guild Master can use the coupon!^000000
+With this item, ^0000ff the current Guild Master^000000 can contact the support to use the service of changing the Guild Master.
+In the message, you must specify:
+- the name of the Guild
+- name of the character you want to transfer control to (^0000ff must be a member of the specified Guild^000000)
+The Guild Master is changed only during maintenance work on the server.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+
+
+20502#
+Small webbed wings that look very cool.
+It seems that the Mini Demon will miss them.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31607#
+A black hat that belonged to the Cat Witch.
+Look, this thing has ears! And for some reason they move!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31669#
+A creepy mask that will make you look like a Whisper.
+Boo-oo-oo!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31853#
+Zombie heard about the brain drain on TV.
+Now he is sad.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19610#
+A creepy mask that will make you look like a Whisper.
+Boo-oo-oo!
+Class: ^777777Costume^000000
+Location: ^777777Upper, Middle, Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9945#
+Well, this box looks pretty creepy...
+And very cute at the same time!
+^ffffff_^000000
+Open to obtain one of the following items:
+Kid Morroc's Minions
+Will O Wisp
+Mini Demon's Wings
+Silvervine x1313
+Cat Witch's Hat
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Bat Wings
+Evolved Whisper Mask
+Demon In Your Head
+Evil Druid's Hat
+Mad Bunny
+Zombie Mask
+Hellbird Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Ghostring Scroll x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Deviruchi Transformation Scroll x12
+Shadow Contract x30
+Bloody Branch x2
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Meteor Storm Scroll x25
+Storm Gust Scroll x25
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Bat Cookie x99
+Pumpkin Cake x55
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+22514#
+^FF0000Account Bound^000000
+A basket for Halloween candies. When opened, various goodies and old stuffs will be found.
+^ffffff_^000000
+Open to obtain one of the following items:
+Pumpkin Witch's Hat
+Pumpkin Candy x3
+Trans Candy Green x3
+Trans Candy Blue x3
+Bat Cookie x5
+Pumpkin Cake x10
+Pumpkin Pie x10
+Weight: ^7777771^000000
+#
+
+
+18934#
+A cute headgear that imitate the ears of fox with small bells attached on it.
+AGI + 2.
+ASPD +10%.
+Has a chance to transform into a Moonlight Flower for 5 seconds when receiving by physical attacks.
+During transformation:
+CRIT +100.
+Long range physical attacks +5%.
+Every refine level increases transforming rate.
+When refine level +6, every refine level increase long range physical attacks by 1%.
+Class : ^777777Headgear^000000 Defense : ^7777774^000000
+Location : ^777777Upper ^000000Weight : ^77777740^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All^000000
+#
+20269#
+A costume that imitated the ears of white fox.
+The white fox's white fur texture is alive and beautiful.
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+#
+20599#
+Cherry Blossom wings costume made to celebrate spring.
+Be luxuriously decorated with pink petals.
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment ^000000Weight: ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+#
+31098#
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+#
+31475#
+Cute costume modeled on the ears of fox.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+#
+31614#
+A fox doll with coveted fur.
+It looks soft and makes me want to pet it.
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+#
+31828#
+A costume fluttering, fluttering red maple.
+The beautiful scenery of autumn seems like before my eyes.
+Class: ^777777Costume^000000 Defense : ^7777770^000000
+Location: ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
+#
+9959#
+Fluffy.
+Fluffy.
+Fluffy.Fluffy.Fluffy.Fluffy.
+
+Weight : ^7777771^000000
+#
+
+

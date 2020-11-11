@@ -9016,3 +9016,15 @@
 19610#Whisper Mask#
 9945#Creepy Treasure#
 >>>>>>> 20201026_l10n_fixes
+
+9959#Nine Tails Treasure#
+31614#Cute Fox#
+20599#Sakura Wings#
+31828#Maple Leaves Dance#
+20201#Banshee Master Kiss#
+31098#Lilac Fox Ears#
+31475#Black Fox Ears#
+20269#White Fox Ears#
+19894#Shrine Maiden Ribbon#
+18934#Red Fox Ears#
+20537#Maple Leaves Dance#

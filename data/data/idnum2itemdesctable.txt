@@ -58194,12 +58194,13 @@ Weight: ^77777710^000000
 Job: ^777777All^000000
 #
 19894#
-A ribbon once worn by a shrine maiden as she fought off hordes of demons and youkai.
+A ritual headdress of the shrine maiden who is called upon to fight ghosts and youkai.
+Put on this ribbon - and your fate is sealed.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^77777710^000000
-Job: ^777777All^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19895#
 A hat that promotes a sophisticated yet sleepy look. It once belonged to an ancient magician who was well known for her vast knowledge and lazy behaviour, to the point she was nicknamed 'The Great Unmoving Library.'
@@ -72683,13 +72684,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20201#
-Kiss of Banshee Master. It could give the powerful force.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
+The Banshee Master has given you her blessing!
+Be worthy of this gift!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20202#
 Helium balloon that looks like Deviruchi.
@@ -87593,5 +87595,144 @@ Bat Cookie x5
 Pumpkin Cake x10
 Pumpkin Pie x10
 Weight: ^7777771^000000
+#
+18934#
+Decorative red fox ears garnished with little golden bells.
+What a beauty!
+AGI +2
+ASPD +10%
+Has a chance to transform into a Moonlight Flower for 5 seconds while physically attacking. 
+Chance to transform increases as refine level goes higher.
+During transformation:
+CRIT +100
+Increases long-ranged physical attacks on targets by 5%
+[If refine level is +6 or higher]
+Every refine level increase long-ranged physical attacks by 1%.
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^77777740^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20269#
+Decorative white fox ears garnished with little golden bells.
+What a beauty!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20599#
+Delightful pink and white wings decorated with cherry petals.
+They will lift you up in the air and carry you to the Land of Eternal Summer!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31098#
+A cute decoration in the form of fox ears, garnished with a bow.
+It will suit you very much!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31475#
+Decorative black fox ears garnished with little golden bells.
+What a beauty!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31614#
+This little fox loves to travel.
+You don't mind wandering the world with her, right?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31828#
+Autumn is a time to dance and live,
+Spinning among the falling leaves.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9959#
+A gift box created with the magic of kyuubi no kitsune...
+Be careful, these youkai are cunning and prankish!
+^ffffff_^000000
+Open to obtain one of the following items:
+Cute Fox
+Sakura Wings
+Maple Leaves Dance
+Banshee Master Kiss
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Silvervine x777
+Inf. Giant Fly Wing Box (1 h.)
+Lilac Fox Ears
+Black Fox Ears
+White Fox Ears
+Shrine Maiden Ribbon
+Red Fox Ears
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Bloody Branch x3
+Guyak Pudding x25
+Yummy Skewered Grill x25
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Kafra Card x10
+Light Blue Potion x35
+Light White Potion x100
+Convex Mirror x6
+Chewy Ricecake x10
+Oriental Pastry x10
+Rune-Midgard Wing x15
+Ancient City Wing x15
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+14525#
+Sweet ricecakes with bean paste, dyed in different colors.
++10 ATK for 30 min.
+^FFFFFF ^000000
+Weight: ^7777771^000000
+#
+14526#
+Lush baked goods, soft and airy on the inside, crispy on the outside.
++10 MATK for 30 min.
+^FFFFFF ^000000
+Weight: ^7777771^000000
+#
+20537#
+Autumn is a time to dance and live,
+Spinning among the falling leaves.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 

@@ -1,3 +1,26 @@
+11.11.2020 12:23
+[CM] Godfather
+The maintenance has been finished, the server is online. Changelog:
+
+Event:
+— Black market auction will be hosted in Prontera on 13th of November, with the extra rare Sakura Wings as a lot;
+— Friday the 13th is coming to the server on this Friday!
+
+Shop:
+— Nine Tails Treasure is now available in the Shop and 4Game launcher both in sets and individually until the 18th of November.
+— The in game shop is on sale, with discounts up to 40%!
+
+Other Changes:
+— Now Dracula can be found in gef_dun01!
+
+Finished activities:
+— The Refinement Sets is no longer available at the shop or 4game launcher;
+— The Eternal Halter Lead and the Giant Fly wing Box is no longer available at the shop or 4game launcher;
+— The Improved Refinement Rates are over and were set back to standard;
+
+https://eu.4gameforum.com/threads/679601/
+
+==========
 03.11.2020
 [CM] Godfather
 The maintenance has been finished, the server is online. Changelog:

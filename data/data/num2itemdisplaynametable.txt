@@ -7912,3 +7912,15 @@
 19610#Headgear#
 9945#Creepy Treasure#
 >>>>>>> 20201026_l10n_fixes
+
+9959#Nine Tails Treasure#
+31614#Accessory#
+20599#Garment#
+31828#Garment#
+20201#Headgear#
+31098#Headgear#
+31475#Headgear#
+20269#Headgear#
+19894#Headgear#
+18934#Headgear#
+20537#Garment#

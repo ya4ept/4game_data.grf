@@ -37962,8 +37962,7 @@ Unknown item requiring Appraisal.
 Can be identified by using a Magnifier.
 #
 19894#
-Unknown item requiring Appraisal.
-Can be identified by using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19895#
 Unknown item requiring Appraisal.
@@ -49760,13 +49759,10 @@ Job: ^777777All^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20201#
-Kiss of Banshee Master. It could give the powerful force.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31098#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20202#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -54505,5 +54501,80 @@ Pumpkin Cake x55
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
+9959#
+A gift box created with the magic of kyuubi no kitsune...
+Be careful, these youkai are cunning and prankish!
+^ffffff_^000000
+Open to obtain one of the following items:
+Cute Fox
+Sakura Wings
+Maple Leaves Dance
+Banshee Master Kiss
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Silvervine x777
+Inf. Giant Fly Wing Box (1 h.)
+Lilac Fox Ears
+Black Fox Ears
+White Fox Ears
+Shrine Maiden Ribbon
+Red Fox Ears
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Bloody Branch x3
+Guyak Pudding x25
+Yummy Skewered Grill x25
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Kafra Card x10
+Light Blue Potion x35
+Light White Potion x100
+Convex Mirror x6
+Chewy Ricecake x10
+Oriental Pastry x10
+Rune-Midgard Wing x15
+Ancient City Wing x15
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+31614#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20599#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31828#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31475#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20269#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+18934#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+14525#
+Sweet ricecakes with bean paste, dyed in different colors.
+Adds a 10% chance of inflicting Increased Attack Power for 1800 seconds to the user when using this item.
+^FFFFFF ^000000
+Weight: ^7777771^000000
+#
+14526#
+Lush baked goods, soft and airy on the inside, crispy on the outside.
+Adds a 10% chance of inflicting Increased Magic Attack Power for 1800 seconds to the user when using this item.
+^FFFFFF ^000000
+Weight: ^7777771^000000
+#
+20537#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
 
