@@ -538,10 +538,10 @@ StateIconList[EFST_IDs.EFST_ILLUSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Тьма - Фантом", COLOR_TITLE_DEBUFF },
+		{ "Темная Иллюзия", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Ухудшает зрение противника" },
-		{ "Пауза между заклинаниями" }
+		{ "Вызывает галюцинации." },
+		{ "Во время действия эффекта полученный урон отображается некорректно." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HOVERING] = {
@@ -3702,10 +3702,10 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_SLEEP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Sleep", COLOR_TITLE_DEBUFF },
+		{ "Сон", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Cannot move nor dodge" },
-		{ "Critical damage rate increased" }
+		{ "Невозможно передвигаться и уворачиваться" },
+		{ "Вероятность критического урона увеличена" }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE] = {
@@ -3730,9 +3730,9 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_STUN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Stun", COLOR_TITLE_DEBUFF },
+		{ "Оглушение", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Cannot move nor dodge" }
+		{ "Невозможно передвигаться и уворачиваться" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CATNIPPOWDER] = {
@@ -4019,20 +4019,20 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_POISON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Poison", COLOR_TITLE_DEBUFF },
+		{ "Отравление", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Loss of Sight" },
-		{ "Physical Defense reduced" },
-		{ "Reducing MHP every 3 seconds" }
+		{ "Слепота" },
+		{ "Физ.защита снижена" },
+		{ "Снижение MHP каждые 3 секунды" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_SILENCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Silence", COLOR_TITLE_DEBUFF },
+		{ "Молчание", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Cannot use Skill" }
+		{ "Невозможно использовать умения." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HUMMING] = {
