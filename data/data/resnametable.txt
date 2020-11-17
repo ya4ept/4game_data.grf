@@ -1360,10 +1360,7 @@ pvp_n_5-5.rsw#job_knight.rsw#
 pvp_n_6-5.rsw#job_knight.rsw#
 pvp_n_7-5.rsw#job_knight.rsw#
 pvp_n_8-5.rsw#job_knight.rsw#
-pvp_n_room.gnd#pvp_room.gnd#
-pvp_n_room.gat#pvp_room.gat#
-pvp_n_room.rsw#pvp_room.rsw#
-유저인터페이스\map\pvp_n_room.bmp#유저인터페이스\map\pvp_room.bmp#
+
 pvp_y_room.gnd#pvp_room.gnd#
 pvp_y_room.gat#pvp_room.gat#
 pvp_y_room.rsw#pvp_room.rsw#
@@ -2497,3 +2494,8 @@ orcsdunf4.gnd#orcsdun02.gnd#
 orcsdunf4.gat#orcsdun02.gat#
 orcsdunf4.rsw#orcsdun02.rsw#
 유저인터페이스\map\orcsdunf4.bmp#유저인터페이스\map\orcsdun02.bmp#
+
+pvp_n_room.gnd#gon_test.gnd#
+pvp_n_room.gat#gon_test.gat#
+pvp_n_room.rsw#gon_test.rsw#
+유저인터페이스\map\pvp_n_room.bmp#유저인터페이스\map\gon_test.bmp#

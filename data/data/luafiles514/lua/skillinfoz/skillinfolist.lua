@@ -7950,7 +7950,7 @@ SKILL_INFO_LIST = {
 		"MO_FINGEROFFENSIVE",
 		SkillName = "Метательная сфера",
 		MaxLv = 5,
-		SpAmount = { 10, 10, 10, 10, 10 },
+		SpAmount = { 12, 16, 20, 24, 28 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
