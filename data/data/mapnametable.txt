@@ -811,3 +811,4 @@ pvp_novice.rsw#Зал ожидания битвы#
 epay_fild01.rsw#Неопознанная зона #
 euno_fild01.rsw#Неопознанная зона #
 egef_dun00.rsw#Неопознанная зона #
+mora.rsw#Деревня Мора #
