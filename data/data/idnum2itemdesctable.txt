@@ -12996,13 +12996,12 @@ Jobs: ^777777All^000000
 2202#
 Glasses with special,
 darkened lenses that
-block ultraviolet light. Increases resistance
-to Blind status by 5%.
-^ff0000These will all be made unable to refine during the 1/6 maintenance and returned to +0 refine.^000000
+block ultraviolet light.
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000 
 Location: ^777777Middle^000000
+Defense: ^7777770^000000 
 Weight: ^77777710^000000
+Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2203#
@@ -13013,13 +13012,12 @@ Defense: ^7777770^000000    Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2204#
-Prescription glasses
-worn to compensate
-for defects in vision.
+Prescription glasses worn to compensate for defects in vision.
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Middle^000000
-Weight: ^77777710^FFFFFF                ^000000 Jobs: ^777777All^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2205#
 Sturdy goggles
@@ -36665,7 +36663,7 @@ Int +1
 Mdef +2
 [If used with Darkness Helm]
 INT + 1
-Matk +3%
+Matk +2%
 Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
 Defense: ^7777772^000000    Weight: ^77777720^000000
@@ -44907,6 +44905,7 @@ Box Weight: ^7777771^000000
 #
 18507#
 A fashion accessory that gives ears that vaunted elvish look. For some it is an incredible turn-on.
+EXP from monsters +3%
 ^6A5ACD[If used with Skull Cap]^000000
 SP consumption -3%
 Class: ^777777Headgear^000000
@@ -49492,12 +49491,13 @@ Box Weight: ^7777771^000000
 18591#
 Glasses worn by
 true sophisticates.
+INT +1
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Middle^000000
+Defense: ^7777772^000000
 Weight: ^77777710^000000
-Jobs: ^777777Every Job
-except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 6242#
 A coin given in exchange for old RWC Groove Packs. Bring this to the RWC Groove Recycler on the second floor of Eden Group to redeem for special items.
@@ -49902,13 +49902,17 @@ Job: ^777777All^000000
 #
 
 18611#
-Dark-colored plastic framed glasses, great for looking retro and intelligent! Int +1, Mdef +2.
+Glasses in dark-colored frame. Very fashionable.
+INT +1
+MATK +2
+[If used with Darkness Helm]
+INT + 1
+MATK +2%
 Class: ^777777Headgear^000000
-Defense: ^7777772^000000
 Location: ^777777Middle^000000
-Weight: ^77777720^000000
+Defense: ^7777772^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 
 12391#
@@ -50168,14 +50172,15 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18603#
-A grotesque headgear which covers a half of a person's face. But don't you worry. The part of eyes are open so you can see well.
-All Stats +1.
+A bizarre looking mask that makes you look like a traveler from the Demon Realms. 
+STR/AGI/LUK +1
+FLEE +10
+ATK +3%
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Medium ^000000
-Weight: ^77777710^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 
 // --------- Dewata (Indonesia Localizing) -------------
@@ -52399,12 +52404,14 @@ Weight: 1
 #
 
 18607#
-Two red dots that can be worn on the face to give a blushing impression.
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Jobs: ^777777All^000000
+Wear this when you want to look cute for your beloved.
+VIT +1
+Reduce damage from players and Demi-Human monsters by 1%
+Class: ^777777Costume^000000
+Location: ^777777Middle ^000000 
+Defense: ^7777770^000000	Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 18659#
 A Hat created with power of mythical creature, Boitata.
@@ -52485,7 +52492,7 @@ Reduces Neutral elemental damage received by 5%
 Magical Damage to Neutral Monsters +4%
 Class: ^777777Headgear^000000
 Location: ^777777Middle ^000000
-Defense: ^7777771^000000 Weight: ^77777710^000000
+Defense: ^7777771^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -63383,10 +63390,14 @@ Weight: ^77777715^000000
 #
 18518#
 An ear accesory that looks just like white, beautiful angel wings.
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
+Str +1
+[If used with Darkness Helm]
+Aspd +2%
+STR + 1
+Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
-Weight: ^7777770^000000
+Defense: ^7777773^000000
+Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -64815,17 +64826,19 @@ Jobs: ^777777All^000000
 #
 18608#
 A pair of small red ribbons which can be used to decorate the hair of little girls.
+VIT +1
 Class: ^777777Headgear^000000    Defense: ^7777772^000000
-Location: ^777777Mid^000000    Weight: ^77777710^000000
-Required lvl: ^77777745^000000
+Location: ^777777Middle^000000    Weight: ^77777710^000000
+Required lvl: ^7777771^000000
 Available Job: ^777777Every Job^000000
 #
 18609#
 A blinkers that was enchanted by a dark magic.
-Never be blinded. Tolerance against Stun effect+2%.
+AGI +1
 Class: ^777777Headgear^000000    Defense: ^7777770^000000
 Location: ^777777Middle^000000    Weight: ^77777710^000000
-Job: ^777777Every Job except Novice^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 18627#
 A dried leaf thinking of hometown.
@@ -65796,10 +65809,10 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18915#
-Scary but beautiful. Blood is still dripping from the wings, don't ask how it was acquired.
-HP +200
-FLEE +1
-Unrefinable
+Creamy's wings with blood stains on them. Don't worry - creamy's blood is poisonous for plants, but absolutely safe for humans.
+STR/INT/VIT +1
+ATK +3%
+ASPD +1
 Class: ^777777Headgear^000000
 Location: ^777777Middle ^000000
 Defense: ^7777775^000000
@@ -65952,10 +65965,12 @@ Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
 18986#
-A clever bird which immitates human voice
-LUK +1.
+This parrot can talk! More precisely, chat. Incessantly, without end... Somebody, shut this bird up!
+INT/AGI/DEX +1
+MATK +3%
+SP consumption -3%
 Class: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Middle^000000Weight: ^77777710^000000
+Location: ^777777Middle^000000 Weight: ^77777710^000000
 Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -87735,4 +87750,67 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-
+18519#
+An ear accessory made with Evil Wing.
+STR +1
+[If used with Darkness Helm]
+Attack +5%
+STR + 1
+Class: ^777777Headgear^000000
+Defense: ^7777773^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19085#
+Valkyrie Sigrun's Wings.
+EXP from monsters +2%
+Item drop rate +2%
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777772^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5794#
+Mysterious glasses which are said to show objects stereoscopically.
+INT +1
+Reduce damage from players and Demi-Human monsters by 1%
+Class: ^777777Headgear^000000
+Location: ^777777Middle ^000000
+Defense: ^7777771^000000 Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19162#
+Regular diving mask. If you wear it on land, people will think you went crazy.
+DEX +1
+Ranged attack damage +2%
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19245#
+A hair accessory glowing with red lights. It is supposed to boost your abilities, but unfortunately, it doesn't seem to work.
+STR/AGI/DEX +1 
+ATK +3%
+CRIT +5
+Class: ^777777Headgear^000000
+Location: ^777777Middle ^000000
+Defense: ^77777710^000000   Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+15127#
+Cute earmuffs shaped like Porings and decorated with red ribbons.
+AGI/VIT/DEX +1
+FLEE +10
+MAX HP +3%
+Class: ^777777Headgear^000000
+Location: ^777777Middle ^000000
+Defense: ^7777773^000000   Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000

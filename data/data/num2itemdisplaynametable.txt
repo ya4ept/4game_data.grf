@@ -7924,3 +7924,12 @@
 19894#Headgear#
 18934#Headgear#
 20537#Garment#
+18591#Accessory#
+19085#Accessory#
+5794#Accessory#
+19162#Accessory#
+18611#Accessory#
+18986#Accessory#
+19245#Accessory#
+18915#Accessory#
+15127#Accessory#

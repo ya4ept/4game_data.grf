@@ -5281,7 +5281,7 @@
 18599#2011RWC Black Devil's Mask#
 18600#2011RWC Cat Ears Beret#
 18601#2011RWC Red Bread Hat#
-18603#2011RWC Black Devil's Mask#
+18603#Demonic Mask#
 
 //------------RWC 2011 furtuneeggs 10.11 -----------------------
 
@@ -6036,11 +6036,11 @@
 18695#Phoenix Crown#
 
 //------ Item Update with Auger Of Spirit --------
-18607#Blush S#
-18608#Small Ribbons S#
-18609#Dark Blinkers S#
-18518#Angel Wing Ears S#
-18519#Evil Wing Ears S#
+18607#Blush#
+18608#Small Ribbons#
+18609#Dark Blinkers#
+18518#Angel Wing Ears#
+18519#Evil Wing Ears#
 
 //------ Item update 11 / 3 / 2013
 
@@ -9028,3 +9028,13 @@
 19894#Shrine Maiden Ribbon#
 18934#Red Fox Ears#
 20537#Maple Leaves Dance#
+18591#Mini Glasses#
+19085#Sigrun's Wings#
+5794#3D Glasses#
+19162#Scuba Mask#
+18611#Dark-framed Glasses#
+18986#Pet Parrot#
+19245#Crimson Booster#
+15820#Golden Ribbons#
+18915#Bloodstained Wings#
+15127#Poring Earmuffs#

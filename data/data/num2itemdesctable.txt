@@ -41594,13 +41594,7 @@ Although the Dessert Chef wishes for people to drink this treat elegantly, it's 
 Weight: ^77777715^000000
 #
 18518#
-An ear accesory that looks just like white, beautiful angel wings.
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 20234#
@@ -42692,18 +42686,10 @@ Req LV: ^77777710^000000
 Jobs: ^777777All^000000
 #
 18608#
-A pair of small red ribbons which can be used to decorate the hair of little girls.
-Class: ^777777Headgear^000000    Defense: ^7777772^000000
-Location: ^777777Mid^000000    Weight: ^77777710^000000
-Required lvl: ^77777745^000000
-Available Job: ^777777Every Job^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18609#
-A blinkers that was enchanted by a dark magic.
-Never be blinded. Tolerance against Stun effect+2%.
-Class: ^777777Headgear^000000    Defense: ^7777770^000000
-Location: ^777777Middle^000000    Weight: ^77777710^000000
-Job: ^777777Every Job except Novice^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18627#
 A dried leaf thinking of hometown.
@@ -43593,16 +43579,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18915#
-Scary but beautiful. Blood is still dripping from the wings, don't ask how it was acquired.
-HP +200
-FLEE +1
-Unrefinable
-Class: ^777777Headgear^000000
-Location: ^777777Middle ^000000
-Defense: ^7777775^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18916#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -43728,12 +43705,7 @@ Required LVL: ^7777771^000000
 Job: ^777777All^000000
 #
 18986#
-A clever bird which immitates human voice
-LUK +1.
-Class: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Middle^000000Weight: ^77777710^000000
-Required LVL: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 18987#
 Modeled after Jormungandr the Midgard Serpent. Effect of blood is strengthened  with its presence. 
@@ -54577,4 +54549,21 @@ Weight: ^7777771^000000
 20537#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-
+18519#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19085#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5794#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19162#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19245#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+15127#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
