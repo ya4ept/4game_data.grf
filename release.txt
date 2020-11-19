@@ -1,4 +1,23 @@
-18.11.2020
+18.11.2020 12:37
+[CM] Godfather
+The maintenance has been finished, the server is online. Changelog:
+
+Event:
+— A famous stylist has arrived in Prontera, check his slotting offers for Midgardian Style;
+— A new Constellation Pvp Season is upon us, welcome the Season of Sagittarius.
+
+Shop:
+— Exclusive Wigs are available in the shop and as a pack in 4game Launcher;
+— Now the Auger Of Spirit is a permanent item of the in game shop and is sold in a box.
+
+Other Changes:
+— The Auger of Spirit now drops from some MVPs.
+
+Finished activities:
+— Nine Tails Treasure was removed from the shop and 4game launcher;
+— The Game Shop Sale was turned off and prices are back to standard.
+
+https://eu.4gameforum.com/threads/679772/
 
 ================
 11.11.2020 12:23
