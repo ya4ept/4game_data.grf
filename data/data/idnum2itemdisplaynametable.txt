@@ -4945,7 +4945,7 @@
 4448#Cornus Card#
 4449#Dark Shadow Card#
 4450#Banshee Master Card#
-4451#Ant Buyanne Card#
+4451#Entweihen Crothen Card#
 4452#Centipede Larva Card#
 4453#Hilsrion Card#
 
@@ -9038,3 +9038,12 @@
 15820#Golden Ribbons#
 18915#Bloodstained Wings#
 15127#Poring Earmuffs#
+20603#Swallowtail Wings#
+20605#Leaf Umbrella#
+31618#Dancing Butterflies#
+31729#Flower Footprints#
+31911#Bunny Queen Wreath#
+31937#Unicorn Glamour#
+31942#Aura of Roses#
+31943#Frog Hood#
+9961#Mystic Forest Treasure#

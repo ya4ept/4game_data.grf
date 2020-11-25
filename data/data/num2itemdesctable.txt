@@ -18057,15 +18057,15 @@ Weight: ^77777715^000000
 #
 
 595#
-A pancake made
-with mushrooms that
-has a light taste that
-everyone seems to
-like. ^000088Cures all
-abnormal statuses^000088,
-^000088recovers HP and SP^000000.
-^ffffff_^000000
-Weight: ^77777715^000000
+^808080Fragrant pancake with a delicious mushroom.
+A dish exclusively loved by many residents of the Rune-Midgarts kingdom.^000000
+^FFFFFF_^000000
+Type: Consumable
+Class: Recovery
+Weight: 15
+^FFFFFF_^000000
+Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
 // ----- ũ�������� �̺�Ʈ ��Ÿ ���� --------
 7908#
@@ -54567,3 +54567,74 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 15127#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
+9961#
+This casket looks like a portal to a sunny forest.
+The door into summer! I think I read about it in some book...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Roses
+Flower Footprints
+Swallowtail Wings
+Leaf Umbrella
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Unicorn Glamour
+Dancing Butterflies
+Bunny Queen Wreath
+Frog Hood
+Bravery Bag Box
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Token of Ziegfried x5
+Savory Herb Salad x20
+Huge Spray Of Flowers x10
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Wind Walker Scroll x25
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Bloody Branch x2
+Mushroom Pancake x25
+LV10 Increase Agi Scroll x10
+Magnificat Scroll x7
+LV10 Blessing Scroll x10
+Convex Mirror x7
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+20603#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20605#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31618#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31729#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31911#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31937#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31942#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31943#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+

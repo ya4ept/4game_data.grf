@@ -699,14 +699,13 @@ Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^0080
 Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
 595#
-^808080A pancake made with mushrooms that has a light taste that everyone seems to like.^000000
+^808080Fragrant pancake with a delicious mushroom.
+A dish exclusively loved by many residents of the Rune-Midgarts kingdom.^000000
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
+Recovers some HP and SP.
+Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 Weight: 15
 ^FFFFFF_^000000
-Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
-Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
 
 596#
@@ -8933,8 +8932,6 @@ Adds a 10% chance of restoring 100 HP and 50 SP to the user every 2 seconds for 
 A holy stick which is made of Rune of Odin especially for exorcism.
 Matk +140
 Variable cast time -25% for ^0000FFHoly Light^000000, ^0000FFMagnus Exorcismus^000000, and ^0000FFTurn Undead^000000
-[Set effect with Benevolent Guardian [1] and Holy Stick [1]]
-Recovery rate of healing skills +3% per upgrade level of the ^008080Holy Stick^000000
 [Set effect with Exorcism Bible and Holy Stick [1]]
 Low chance to cast ^0000FFTurn Undead 1^000000 on the target when receiving a physical attack
 Damage of ^0000FFMagnus Exorcismus^000000 +20%
@@ -12704,7 +12701,8 @@ Jobs: ^777777Crusader^000000
 2129#
 A thick book that contains basic skills for the clergy. 
 HP, SP Recovery 3%. Int + 1.
-When equipped with Holy Stick, ^FF0000Magnus Exorcismus^000000 attack strength increases by 20%.
+[When equipped with Holy Stick]
+^FF0000Magnus Exorcismus^000000 attack strength increases by 20%.
 Adds a low chance of auto casting ^FF0000Lv1 Turn Undead^000000 skill when receiving damage.
 Class: ^777777Shield^000000
 Defense: ^77777780^000000
@@ -16233,7 +16231,8 @@ Decreases Neutral property damage by 5%.
 MaxHP + 100
 Increases Physical Damage to Satan Morocc by 10%.
 ^FFFFFF000000^000000
-When equipped with Diabolus Boots, MaxHP +6%.
+[When equipped with Diabolus Boots]
+MaxHP +6%.
 Class: ^777777Garment^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
@@ -37699,6 +37698,7 @@ Jobs: ^777777All^000000
 // ------------------- �̺�Ʈ ������ ------------------
 
 6000#
+^FF0000Character Bound^000000
 A dark ash imbued with mysterious magical power and darkness.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -87814,3 +87814,128 @@ Location: ^777777Middle ^000000
 Defense: ^7777773^000000   Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+20603#
+Now soar in a ray of light.
+Flutter your wings like butterfly.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20605#
+An umbrella leaf used by fairies to shelter from rain.
+Enlarged with magic so that ordinary people can use it.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31618#
+Ever dreamed of having a flock of butterflies clung to your head?
+Never? Ha-ha, but the butterflies don't care!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31729#
+Every move you make,
+Every step you take,
+Flowers follow you!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31911#
+This flower wreath is enchanted!
+If you wear it, bunny ears will grow on your head!
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31937#
+Each of us is partly a unicorn, right?
+This decoration will help you to show everyone the unicorn part of yourself!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31942#
+Rose flowers falling from the sky like a rain...
+So romantic, isn't it?
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31943#
+This cape will transform you into a cute tree frog!
+Ribbit, ribbit! How lovely it is!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9961#
+This casket looks like a portal to a sunny forest.
+The door into summer! I think I read about it in some book...
+^ffffff_^000000
+Open to obtain one of the following items:
+Aura of Roses
+Flower Footprints
+Swallowtail Wings
+Leaf Umbrella
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Unicorn Glamour
+Dancing Butterflies
+Bunny Queen Wreath
+Frog Hood
+Bravery Bag Box
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Token of Ziegfried x5
+Savory Herb Salad x20
+Huge Spray Of Flowers x10
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Wind Walker Scroll x25
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Bloody Branch x2
+Mushroom Pancake x25
+LV10 Increase Agi Scroll x10
+Magnificat Scroll x7
+LV10 Blessing Scroll x10
+Convex Mirror x7
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+

@@ -7933,3 +7933,12 @@
 19245#Accessory#
 18915#Accessory#
 15127#Accessory#
+20603#Garment#
+20605#Garment#
+31618#Accessory#
+31729#Accessory#
+31911#Headgear#
+31937#Headgear#
+31942#Accessory#
+31943#Headgear#
+9961#Mystic Forest Treasure#

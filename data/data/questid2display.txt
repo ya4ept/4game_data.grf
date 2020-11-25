@@ -21995,6 +21995,9 @@ Kill 30 monsters "Neraid"#
 17193#Daily hunt for "Disguise"#SG_FEEL#QUE_IMAGE#
 Kill 30 monsters "Disguise"#
 #
+17200#Tower entry permit#SG_FEEL#QUE_IMAGE#
+You can return to the Endless tower while the dungeon exists#
+#
 17201#Back to work!#SG_FEEL#QUE_IMAGE#
 Help Santa by pacifying 50 Cookies at Toy Factory#
 #
