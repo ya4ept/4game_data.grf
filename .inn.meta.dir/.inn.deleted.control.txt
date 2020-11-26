@@ -1,9 +1,11 @@
 2|data.grf|07f4adb8c772d0ae4a53214ec533583ddf9bfe4d
 2|data.grf|2670c83241c00b807db52f2605cf061500f7382e
 2|data.grf|a7d1df86e3d83b6f677b14020e56c6643e4d7c00
+2|data.grf|f37af30cf3122e6f6370f778c1974a83f3eb6903
 2|Ragexe.exe|6fdfb6da6e1929008747acfea322a32bd3d28def
 2|System\achievement_list.lub|74bd6819ce460b1e53cfe2a014300637614e0574
 2|System\CheckAttendance.lub|235991048e9d5ede81c1f1be42992c9b95eb4142
 2|system\iteminfo.lub|b11694026ea94a98b5952d1e871ac3bf2afe958c
 2|system\iteminfo.lub|b8069f9c1b9680348021d382ed75b7d50566b8b0
 2|system\iteminfo.lub|c1c66ece58f7d6b8067d0884fdd8e98c3eabdc04
+2|system\iteminfo.lub|fedce29e48a3ab4f37b7558c6b44239c20ce2f96
