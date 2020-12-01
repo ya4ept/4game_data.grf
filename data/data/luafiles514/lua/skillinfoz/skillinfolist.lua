@@ -1483,7 +1483,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_VENOMIMPRESS] = {
 		"GC_VENOMIMPRESS",
-		SkillName = "Venom Impression",
+		SkillName = "Печать яда",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
 		bSeperateLv = true,
@@ -1505,7 +1505,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_CREATENEWPOISON] = {
 		"GC_CREATENEWPOISON",
-		SkillName = "New Poison Creation",
+		SkillName = "Создание токсичного яда",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -1516,7 +1516,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_MAGICALBULLET] = {
 		"GS_MAGICALBULLET",
-		SkillName = "Магический выстрел",
+		SkillName = "Магический заряд",
 		MaxLv = 1,
 		SpAmount = { 7 },
 		bSeperateLv = false,
@@ -1527,7 +1527,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_COUNTERSLASH] = {
 		"GC_COUNTERSLASH",
-		SkillName = "Counter Slash",
+		SkillName = "Контрудар",
 		MaxLv = 5,
 		SpAmount = { 5, 8, 11, 14, 17 },
 		bSeperateLv = true,
@@ -1804,7 +1804,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NJ_SHADOWJUMP] = {
 		"NJ_SHADOWJUMP",
-		SkillName = "Shadow Leap",
+		SkillName = "Прыжок тени",
 		MaxLv = 5,
 		SpAmount = { 10, 10, 10, 10, 10 },
 		bSeperateLv = false,
@@ -9192,7 +9192,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_CHAOSPANIC] = {
 		"SC_CHAOSPANIC",
-		SkillName = "Chaos Panic ",
+		SkillName = "Символ хаоса",
 		MaxLv = 3,
 		SpAmount = { 30, 36, 42 },
 		bSeperateLv = true,
@@ -9215,7 +9215,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_DIMENSIONDOOR] = {
 		"SC_DIMENSIONDOOR",
-		SkillName = "Dimensional Door",
+		SkillName = "Символ перемещения",
 		MaxLv = 3,
 		SpAmount = { 30, 36, 42 },
 		bSeperateLv = true,
