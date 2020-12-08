@@ -3893,7 +3893,7 @@ achievement_tbl = {
 		title = "Получите достижение 1 ур.",
 		content = { summary = "Получите достижение 1 ур.", details = "Получите достижение 1 ур." },
 		resource = { [1] = { text = "Получите достижение 1 ур." } },
-		reward = { buff = 12, item = 644 },
+		reward = { buff = 10 },
 		score = 10
 	},
 	[240002] = {
