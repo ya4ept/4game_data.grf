@@ -32121,10 +32121,9 @@ health benefits.
 Weight: ^77777710^000000
 #
 12235#
-A ripe, sweet
-strawbery covered
-in a smooth layer of
-luscious chocolate.
+A juicy strawberry covered with a thick layer of the sweetest chocolate.
+Recovers a small amount of SP.
+Casts ^0000FFLevel 5 Blessing^000000.
 Weight: ^77777710^000000
 #
 12236#
@@ -36472,9 +36471,13 @@ Jobs: ^777777All^000000
 
 5307#
 A hat made with tropical fruits. It looks delicious.
-MDEF + 3
-Auto casts Charming Wink with low chance when attacked.
-Class: ^777777Headgear^000000    Defense: ^7777773^000000
+[For each refine level]
+Max SP +25
+VIT +1
+INT +1
+[If refine level is +9 or higher]
+MATK +5%
+Class: ^777777Headgear^000000    Defense: ^77777710^000000
 Location: ^777777Upper^000000    Weight: ^77777740^000000
 Jobs: ^777777All^000000
 #
@@ -59251,17 +59254,9 @@ Pisces Diadem / Crown
 Weight: ^7777771^000000
 #
 12194#
-A small bundle that reminds you of your hometown, you will feel warmth when hold it in your hand.
-Randomly gives you the following
-Plain Rice Cake
-Hearty Rice Cake
-Salty Rice Cake
-Lucky Rice Cake
-Sesame Pastry
-Honey Pastry
-Rainbow Cake
-Korean Rice Cake
-Weight: ^77777720^000000
+A box with homemade pies. You smell a delicious aroma coming from it.
+This wonderful smell reminds you of your hometown.
+Weight: ^7777771^000000
 #
 6839#
 ^ff0000This item cannot be traded with others.^000000
@@ -66164,11 +66159,13 @@ Req Lvl.: ^7777771^000000
 Job: ^777777All^000000
 #
 19661#
-A sweet bonnet.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
+A jam-filled chocolate covered cake that can be worn on the head.
+Does that make it a hat? That's a difficult question...
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19677#
 A mysterious ring floating above your head. It feels like that you don't have a soul?!
@@ -71323,11 +71320,13 @@ Lv. req.: ^7777771^000000
 Class: ^777777All classes^000000
 #
 20243#
-A choco mint bonnet
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
+A mint-filled chocolate covered cake that can be worn on the head.
+Does that make it a hat? That's a difficult question...
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 17528#
 Costama Egg 30
@@ -74014,15 +74013,11 @@ Jobs: All Jobs
 Restores ^008000100^000000 SP.
 #
 11564#
-^808080A sweet honey biscuit. It is said to be a good match with a cup of tea.^000000
+^808080Sweet honey biscuit.
+Great with a cup of hot black tea.^000000
+Restores ^0080001000^000000 HP
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 2
-Required Level: 1
-Jobs: All Jobs
-^FFFFFF_^000000
-Restores ^0080001000^000000 HP.
+Weight: ^7777772^000000
 #
 7640#
 ^808080A butterfly-like hairpin. Used for fastening long hair.^000000
@@ -87936,6 +87931,101 @@ LV10 Blessing Scroll x10
 Convex Mirror x7
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+
+
+
+20256#
+Honey-drenched pancakes on a plate!
+And the plate is on your head!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20602#
+There's nothing to see here, my fellow stranger,
+I have two pairs of wings like a heavenly angel.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31195#
+A tiny hat made from chocolate.
+How sweet! Check out these glaze wings!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31731#
+He sniffs the air and he awakes...
+What do you see? 'Whirlwind of cakes!'
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9962#
+This basket seems to be full of sweets!
+I can smell their delicate scent! And you?
+^ffffff_^000000
+Open to obtain one of the following items:
+Snack Aura
+Miaow Fork
+Seraph Wings
+Picnic Basket
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Jam Chocolate Hat
+Mint Chocolate Hat
+Tiny Chocolate Hat
+Inf. Giant Fly Wing Box (1 h.)
+Pancake Hat
+Tropical Fruit Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Pegasus Candy x10
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Blessing of Tyr x10
+Guarana Candy x7
+Kafra Card x15
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Strawberry Chocolate x20
+Hometown Gift x15
+Bloody Branch x2
+Sweet Canape x35
+Honey Pancake x35
+Convex Mirror x7
+Guyak Pudding x25
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+22701#
+Sweet cotton candy made in the shape of a pegasus.
+Or a unicorn? No, it seems to be a pegasus
+Restores 40% HP
+Restores 40% SP
+Casts ^0000FFLevel 5 Blessing^000000.
+Flee +10 for 30 seconds
+Weight : ^7777775^000000
 #
 
 

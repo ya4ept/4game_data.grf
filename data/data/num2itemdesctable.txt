@@ -14016,10 +14016,7 @@ health benefits.
 Weight: ^77777710^000000
 #
 12235#
-A ripe, sweet
-strawbery covered
-in a smooth layer of
-luscious chocolate.
+A juicy strawberry covered with a thick layer of the sweetest chocolate.
 Weight: ^77777710^000000
 #
 12236#
@@ -38854,16 +38851,8 @@ Weight: ^7777771^000000
 #
 
 12194#
-A small bundle that reminds you of your hometown, you will feel warmth when hold it in your hand.
-Randomly gives you the following
-Plain Rice Cake
-Hearty Rice Cake
-Salty Rice Cake
-Lucky Rice Cake
-Sesame Pastry
-Honey Pastry
-Rainbow Cake
-Korean Rice Cake
+A box with homemade pies. You smell a delicious aroma coming from it.
+This wonderful smell reminds you of your hometown.
 Weight: ^77777720^000000
 #
 
@@ -43885,11 +43874,7 @@ Req Lvl.: ^7777771^000000
 Job: ^777777All^000000
 #
 19661#
-A sweet bonnet.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19677#
 A mysterious ring floating above your head. It feels like that you don't have a soul?!
@@ -48823,11 +48808,7 @@ Class: ^777777All classes^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20243#
-A choco mint bonnet
-Type: ^777777Costume equipment^000000 DEF: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Lv. req.: ^7777771^000000
-Class: ^777777All classes^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19936#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -50299,8 +50280,15 @@ Blacktea still having its warmth. It recovers about ^000088 100 SP^000000.
 Weight: ^7777772^000000
 #
 11564#
-A sweet biscuit due to honey spread. It also has a good match with a cup of tea. It recovers about ^000088 1000 HP^000000.
+^808080Sweet honey biscuit.
+Great with a cup of hot black tea.^000000
+Restores ^0080001000^000000 HP
+^FFFFFF_^000000
+Type: ^777777Consumable^000000
+Class: ^777777Recovery^000000
 Weight: ^7777772^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 7640#
 Butterfly-like hairpin. Used for fastening long hair, it buffs girliness.
@@ -54635,6 +54623,74 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 31943#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+
+
+22701#
+Sweet cotton candy made in the shape of a pegasus.
+Or a unicorn? No, it seems to be a pegasus...
+Weight : ^7777775^000000
+#
+
+
+20256#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20602#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31195#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31731#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9962#
+This basket seems to be full of sweets!
+I can smell their delicate scent! And you?
+^ffffff_^000000
+Open to obtain one of the following items:
+Miaow Fork
+Snack Aura
+Seraph Wings
+Picnic Basket
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Jam Chocolate Hat
+Mint Chocolate Hat
+Tiny Chocolate Hat
+Inf. Giant Fly Wing Box (1 h.)
+Pancake Hat
+Tropical Fruit Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Pegasus Candy x10
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Blessing of Tyr x10
+Guarana Candy x7
+Kafra Card x15
+WoE Teleport Scroll x15
+Siege Teleport Scroll Silver x15
+Strawberry Chocolate x20
+Hometown Gift x15
+Bloody Branch x2
+Sweet Canape x35
+Honey Pancake x35
+Convex Mirror x7
+Guyak Pudding x25
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 
 

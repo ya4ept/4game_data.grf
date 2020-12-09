@@ -6057,9 +6057,7 @@
 19589#Head Gear#
 19607#Hat#
 19649#Hat#
-19661#Hat#
 19685#Cap#
-
 2190#Shield#
 18885#Cap#
 18887#Hairband#
@@ -6727,7 +6725,7 @@
 19658#Hat#
 19659#Hat#
 19660#Hat#
-19661#Hat#
+19661#Headgear#
 19952#Accessory#
 19953#Hat#
 19954#Accessory#
@@ -7247,7 +7245,7 @@
 14839#Ang Pao Scroll TH#
 
 19683#Accessory#
-31195#Hat#
+31195#Headgear#
 9109#Sweet Drops Egg#
 25290#Sweet Festival Coin#
 25291#Chocolate for Delivery#
@@ -7883,23 +7881,8 @@
 
 7558#Guild Master Change Coupon#
 
-<<<<<<< HEAD
-18741#Costume Headgear#
-19542#Costume Headgear#
-19824#Costume Headgear#
-20430#Costume Headgear#
-20502#Costume Headgear#
-31121#Costume Headgear#
-31607#Costume Headgear#
-31669#Costume Headgear#
-31853#Costume Headgear#
-19610#Mask#
-9945#Spooky_Luckybox#
-
-
 22838#'Happy Pumpkins' box#
 25132#Halloween Pumpkin#
-=======
 18741#Accessory#
 19542#Headgear#
 19824#Headgear#
@@ -7911,8 +7894,6 @@
 31853#Headgear#
 19610#Headgear#
 9945#Creepy Treasure#
->>>>>>> 20201026_l10n_fixes
-
 9959#Nine Tails Treasure#
 31614#Accessory#
 20599#Garment#
@@ -7942,3 +7923,10 @@
 31942#Accessory#
 31943#Headgear#
 9961#Mystic Forest Treasure#
+
+20243#Headgear#
+20256#Headgear#
+20602#Garment#
+31731#Accessory#
+9962#Sweet Treasure#
+22701#Pegasus Candy#

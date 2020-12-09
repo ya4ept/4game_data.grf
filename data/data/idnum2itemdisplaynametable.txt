@@ -6107,7 +6107,7 @@
 19589#Fallen Angel's beloning#
 19607#Love Chick Hat#
 19649#White Kitten Ears#
-19661#Sweet Bonnet#
+19661#Jam Chocolate Hat#
 19685#Shiny Santa Poring Hat#
 
 2190#Ancient Shield Of Aeon#
@@ -6779,7 +6779,6 @@
 19658#Costume Vacation Hat#
 19659#Costume Gray Fur Hat#
 19660#Costume Coppola#
-19661#Costume Sweet Bonnet#
 19952#Costume Bubble Gum In Mouth#
 19953#Costume Parade Cap#
 19954#Costume 3D Glasses#
@@ -7298,7 +7297,7 @@
 14839#Ang Pao Scroll TH#
 
 19683#Costume Sweet Candy#
-31195#Costume Chocolate Mini Hat#
+31195#Tiny Chocolate Hat#
 9109#Sweet Drops Egg#
 25292#Stolen Cacao Beans#
 11607#Sweet Crepe#
@@ -8984,26 +8983,12 @@
 9943#Steamfunk Treasure#
 7558#Guild Master Change Coupon#
 
-<<<<<<< HEAD
-18741#Costume Will O Wisp#
-19542#Costume Devil Whisper#
-19824#Costume Evil Druid Hat#
-20430#Costume Loyal Servant of Morroc#
-20502#Costume_Little_Devil's_Wings#
-31121#Costume Bat Stole#
-31607#Costume_Black_Witch_Hat#
-31669#Costume Evolved Whisper Mask#
-31853#Costume_Zombie_Mask#
-19610#Whisper_Mask#
-9945#Spooky_Luckybox#
-
 20174#Pumpkin Witch's Hat#
 19917#Muttering Pumpkin#
 19903#Ancient Witch's Hat#
 22838#'Happy Pumpkins' box#
 25132#Halloween Pumpkin#
 
-=======
 18741#Will O Wisp#
 19542#Demon In Your Head#
 19824#Evil Druid's Hat#
@@ -9015,7 +9000,6 @@
 31853#Zombie Mask#
 19610#Whisper Mask#
 9945#Creepy Treasure#
->>>>>>> 20201026_l10n_fixes
 
 9959#Nine Tails Treasure#
 31614#Cute Fox#
@@ -9047,3 +9031,10 @@
 31942#Aura of Roses#
 31943#Frog Hood#
 9961#Mystic Forest Treasure#
+
+20243#Mint Chocolate Hat#
+20256#Pancake Hat#
+20602#Seraph Wings#
+31731#Snack Aura#
+9962#Sweet Treasure#
+22701#Pegasus Candy#
