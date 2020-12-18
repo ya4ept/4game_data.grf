@@ -228,6 +228,8 @@ hatEffectTable =
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true,
+		isEffectPair = true,
+		hatEffectID = 203,
 	},
 	[HatEFID.HAT_EF_CLOCKING] = 
 	{
