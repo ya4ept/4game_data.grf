@@ -309,7 +309,7 @@ SKILL_INFO_LIST = {
 		"ASC_METEORASSAULT",
 		SkillName = "Газовая атака",
 		MaxLv = 10,
-		SpAmount = { 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 },
+		SpAmount = { 13, 16, 19, 22, 25, 28, 31, 34, 37, 40 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
