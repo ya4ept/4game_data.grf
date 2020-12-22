@@ -9,6 +9,6 @@ loadingscreen#6#
 //weather#lighthalzen.rsw#snow#
 //weather#hugel.rsw#snow#
 weather#amatsu.rsw#sakura#
-//event#1#
+event#1#
 
 //file end 
