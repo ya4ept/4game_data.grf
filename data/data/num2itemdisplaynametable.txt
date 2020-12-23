@@ -6944,7 +6944,7 @@
 2977#Accessory#
 13442#Sword#
 18848#Hairband#
-19686#Hat#
+19686#Headgear#
 7642#Bloody Coin#
 19687#Hairband#
 7643#Bloody Letter#
@@ -7930,3 +7930,15 @@
 31731#Accessory#
 9962#Sweet Treasure#
 22701#Pegasus Candy#
+31440#Accessory#
+9990#Snowball Treasure#
+31923#Accessory#
+20546#Headgear#
+20593#Garment#
+20594#Garment#
+31189#Headgear#
+31492#Headgear#
+20274#Headgear#
+19047#Headgear#
+20418#Accessory#
+

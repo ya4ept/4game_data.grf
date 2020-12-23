@@ -6341,7 +6341,7 @@
 19737#C Corsair K#
 19744#C Black Tail Ribbon#
 19781#C Ear Of Angel's Wing #
-19826#C Ice Wing Ear#
+19826#Icy Head Wings#
 19827#C Amistr Cap#
 19828#C Fedora#
 19829#C Straw Hat#
@@ -6769,7 +6769,7 @@
 19989#Mouton Earmuffs#
 19990#Costume Snow Rabbit Knit Hat#
 19991#Costume Galanthus Guard#
-19992#Costume Chilly Breath#
+19992#Chilly Breath#
 19652#Costume Rabbit MagiCostume Hat#
 19653#Old Guard Marching Hat#
 19654#Costume J Captain Hat#
@@ -6995,7 +6995,7 @@
 2977#Hurt Mind#
 13442#Old Parasol#
 18848#Lush Rose#
-19686#C Santa Hairband#
+19686#Santa Hairband#
 7642#Bloody Coin#
 19687#C Lush Rose#
 7643#Bloody Letter#
@@ -9038,3 +9038,15 @@
 31731#Snack Aura#
 9962#Sweet Treasure#
 22701#Pegasus Candy#
+31440#Polar Bear Hood#
+9990#Snowball Treasure#
+31923#Ursa Minor#
+20546#Xmas Ribbon Bell#
+20593#Icy Wings#
+20594#Ribbon Cloak#
+31189#Red Kitty Cape#
+31492#Brown Kitty Cape#
+20274#White Chocobear Hood#
+19047#Angeling Flap Hat#
+20418#Floating Santa Poring#
+

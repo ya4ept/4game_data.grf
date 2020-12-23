@@ -15757,7 +15757,7 @@ Job: ^777777Novice / Wizard / Acolyte / Soul Linker^000000
 
 2491#
 Ominous boots emitting Bangungot's revenge and powerful hatred of humans.
-MDEF +1 increase per 1 refinement. Speed increased with 14 refinement and above.
+MDEF +1 increase per 1 refinement. Speed increased with +9 refinement and above.
 Class: ^777777Shoes^000000
 Defense: ^77777710^000000
 Weight: ^77777760^000000
@@ -15765,7 +15765,7 @@ Jobs: ^777777All^000000
 #
 2492#
 Ominous boots emitting Bangungot's revenge and powerful hatred of humans.
-MDEF +1 increase per 1 refinement. Speed increased with 12 refinement and above.
+MDEF +1 increase per 1 refinement. Speed increased with +9 refinement and above.
 Class: ^777777Shoes^000000    Defense: ^77777710^000000
 Weight: ^77777760^000000
 Jobs: ^777777All^000000
@@ -18880,7 +18880,7 @@ ABCDEFG!!
 //--------------------------------------------------------------------------
 2907#
 Agimat Tattoo with a huge Alligator pattern. It is told that the one who owns this tattoo will possess extreme power.
-MATK +7% increase and Fixed Casting 7% decrease.
+MATK +7% increase and variable cast time 7% decrease.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -70200,11 +70200,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19826#
-Earringa made with ice and extra chemicals. Why is it so chilly when you wear it?
+Hair ornament made of non-melting ice.
+Ancient regalia of the Kings and Queens of Winter.
 Class: ^777777Costume^000000
-Location:  ^777777Middle ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19985#
 ^ff0000Character bound^000000
@@ -70258,12 +70260,13 @@ Required lvl: ^7777771^000000
 Job: ^777777All^000000
 #
 19992#
-It's so cold, even your breath is cold.
-
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Lower ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
+Clouds of icy winter breath burst from your mouth.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 17645#
@@ -74073,15 +74076,14 @@ Drains 50 HP from the user every 5 seconds.
 MATK + X per upgrade level of the item.
 #
 19686#
-^808080A hairband with a Santa motif.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Upper
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-^FFFFFF_^000000
-Adds a X% chance of transforming into Antonio for X TIME when dealing a physical or magical attack.
+^FF0000Account Bound^000000
+A funny holiday hairband with Santa decorations.
+Merry Christmas! Ho-ho-ho!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 7642#
 ^808080A coin estimated to be soiled by an old blood stain. It is difficult to guess the age of the stains.^000000
@@ -88027,5 +88029,156 @@ Casts ^0000FFLevel 5 Blessing^000000.
 Flee +10 for 30 seconds
 Weight : ^7777775^000000
 #
-
-
+19047#
+A knitted earflaps decorated with a small Angeling figurine.
+May Santa Poring keep you safe in the coming year!
+^ffffff_^000000
+[For each refine level]
+Max HP +35
+Max SP +15
+INT +1
+DEX +1
+[If refine level is +9 or higher]
+Has a chance of auto casting Lv. 10 Blessing on the wearer when receiving a physical or magical damage.
+MATK +5%
+[If refine level is +10]
+Recover 100 HP when an enemy is defeated by short-ranged attack.
+^FF0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777775^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20274#
+Have you heard of white chocobears?
+They are guarding Queen Vanilla's domain on Ice Cream Island!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20546#
+A cute ribbon adorned with jinglilng bells.
+Merry Christmas!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20593#
+Symbol of power for all Winter Kings,
+A pair of giant ice-covered wings!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20594#
+A long red ribbon cloak.
+Elegant, fashionable and stylish.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31189#
+A cute red hood with fluffy cat ears attached.
+An essential piece for any gothic lolita ensemble.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31492#
+What a lovely brown hood.
+Oh, look, there are cat ears on it!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31923#
+This little polar bear is lost. Will you help him?
+He seems to be looking for his mother, whose name is Ursa Major.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31440#
+^FF0000Account Bound^000000
+Fluffy white hood decorated with blue fur.
+It will keep you warm during these winter holidays.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9990#
+This box looks like a big snowball... or a snow globe!
+And the snow breaks out, swirling in the frosty air!
+^ffffff_^000000
+Open to obtain one of the following items:
+Ursa Minor
+Xmas Ribbon Bell
+Icy Wings
+Ribbon Cloak
+Silvervine x2021
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Red Kitty Cape
+White Chocobear Hood
+Inf. Giant Fly Wing Box (1 h.)
+Brown Kitty Cape
+Icy Head Wings
+Chilly Breath
+Angeling Flap Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Guarana Candy x8
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Holy Armor Scroll x4
+Convex Mirror x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Blue Snowman Cookie x15
+Green Snowman Cookie x15
+Yellow Snowman Cookie x15
+Red Snowman Cookie x15
+Bloody Branch x2
+Magnificat Scroll x7
+Sparkling Candy x11
+LV10 Increase Agi Scroll x11
+LV10 Blessing Scroll x11
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20418#
+^FF0000Account Bound^000000
+This is a Santa Poring. Or a Santa Poring balloon?
+Never mind! While it hovers above your head, the Christmas mood will not leave you!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#

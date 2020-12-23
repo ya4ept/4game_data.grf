@@ -47702,13 +47702,6 @@ Weight: ^7777771^000000
 19780#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-19826#
-Earringa made with ice and extra chemicals. Why is it so chilly when you wear it?
-Class: ^777777Costume^000000
-Location:  ^777777Middle ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
-#
 19985#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -47742,11 +47735,7 @@ Required lvl: ^7777771^000000
 Job: ^777777All^000000
 #
 19992#
-It's so cold, even your breath is cold.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Lower ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 
@@ -54693,4 +54682,83 @@ Guyak Pudding x25
 Weight: ^7777771^000000
 #
 
+
+
+
+19047#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20418#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20274#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20546#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20593#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20594#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31189#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31492#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31923#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9990#
+This box looks like a big snowball... or a snow globe!
+And the snow breaks out, swirling in the frosty air!
+^ffffff_^000000
+Open to obtain one of the following items:
+Ursa Minor
+Xmas Ribbon Bell
+Icy Wings
+Ribbon Cloak
+Silvervine x2021
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Red Kitty Cape
+White Chocobear Hood
+Inf. Giant Fly Wing Box (1 h.)
+Brown Kitty Cape
+Icy Head Wings
+Chilly Breath
+Angeling Flap Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Guarana Candy x8
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Holy Armor Scroll x4
+Convex Mirror x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Blue Snowman Cookie x15
+Green Snowman Cookie x15
+Yellow Snowman Cookie x15
+Red Snowman Cookie x15
+Bloody Branch x2
+Magnificat Scroll x7
+Sparkling Candy x11
+LV10 Increase Agi Scroll x11
+LV10 Blessing Scroll x11
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31440#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
 
