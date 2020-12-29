@@ -2503,7 +2503,7 @@ achievement_tbl = {
 		},
 		resource = {
 			[1] = { text = "Профессиональный уровень: 70 ", shortcut = 200004 },
-			[2] = { text = "Базовый уровень: 90 ", shortcut = 200000 }
+			[2] = { text = "Базовый уровень: 99 ", shortcut = 200000 }
 		},
 		reward = { item = 616 },
 		score = 50
@@ -5510,6 +5510,51 @@ achievement_tbl = {
 		resource = { [1] = { text = "Убить Очень Злых Духов Тыквы.", count = 500 } },
 		reward = { item = 19903, title = 1036 },
 		score = 10
+	},
+	[240023] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Помощник Санты ",
+		content = {
+			summary = "Убить 250 Укравших подарки смоки ",
+			details = "Смоки хотят украсть у нас дух нового года!\nНе позволим этому случиться!"
+		},
+		resource = { [1] = { text = "Убить Укравших подарки смоки ", count = 250 } },
+		reward = { item = 19780, title = 1037 },
+		score = 10
+	},
+	[240024] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Это не просто кролик! ",
+		content = {
+			summary = "Убить 500 праздничных лунатиков ",
+			details = "Даже 1 лунатик способен истребить целое королевство!\nБоюсь представить, на что способна армия..."
+		},
+		resource = { [1] = { text = "Убить праздничных лунатиков ", count = 500 } },
+		reward = { item = 19697, title = 1038 },
+		score = 20
+	},
+	[240025] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Быстро под елку! ",
+		content = {
+			summary = "Убить 500 гномов и 500 подарков ",
+			details = "Подарки и гномы разбежались по всему\nРун Мидгарду! Соберите их!"
+		},
+		resource = {
+			[1] = { text = "Убить 500 гномов ", count = 500 },
+			[2] = { text = "Убить 500 подарков ", count = 500 }
+		},
+		reward = { item = 19678, title = 1039 },
+		score = 30
 	}
 }
 

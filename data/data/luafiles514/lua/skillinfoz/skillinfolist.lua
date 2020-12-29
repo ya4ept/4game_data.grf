@@ -3241,7 +3241,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_REVERSEORCISH] = {
 		"ALL_REVERSEORCISH",
-		SkillName = "Reverse Orcish",
+		SkillName = "Превращение в орка!",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,

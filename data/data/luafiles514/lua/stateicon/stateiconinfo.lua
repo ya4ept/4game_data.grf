@@ -3682,10 +3682,10 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_FREEZING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Frost", COLOR_TITLE_DEBUFF },
+		{ "Заморозка", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Cannot move nor dodge" },
-		{ "Physical, Magical Defense reduced" }
+		{ "Невозможно передвигаться и уворачиваться." },
+		{ "Физическая и магическая защита снижены." }
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYSTATE_IMPRISON] = {
@@ -4398,5 +4398,42 @@ StateIconList[EFST_IDs.EFST_POEMBRAGI] = {
 		{ "%s", COLOR_TIME },
 		{ "Уменьшает время чтения заклинаний." },
 		{ "Уменьшает задержку после использования заклинаний." }
+	}
+}
+StateIconList[EFST_IDs.EFST_S_MANAPOTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Малое зелье маны", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Восстанавливает 5% от макс. SP каждые 5 сек." },
+		{ "Не действует в состоянии [Берсерка]." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение физ. атаки", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Физ. атака +3%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение маг. атаки", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Маг. атака +3%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение скорости атаки", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Скорость атаки +10%" }
 	}
 }
