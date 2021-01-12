@@ -516,15 +516,7 @@ Weight: 3
 ^FFFFFF_^000000
 Restores ^00800045^000000 to ^00800065^000000 HP.
 #
-571#
-^808080A candy cane which is rumored to bring luck to whomever eats it.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 4
-^FFFFFF_^000000
-Restores ^008000105^000000 to ^008000145^000000 HP.
-#
+
 
 572#
 ^808080A cookie which is rumored to bring luck to whomever eats it.^000000
@@ -45947,12 +45939,6 @@ A Mandragora flowerpot used for an experiment. Fragile. Never pull out recklessl
 Weight: ^7777770.1^000000
 #
 
-11513#
-A fresh candy for sore throats.
-A very small amount of HP recovery. 
-Weight: ^7777770.1^000000
-#
-
 
 
 5683#
@@ -63310,24 +63296,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19697#
-Rudolf the red-nosed reindeer had a very shiny Hat!
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
-20222#
-A double-pommed Blue Christmas Cap
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
 14501#
 ^ff0000Account Bound^000000
 A box that contains various shadow shield equipment.
@@ -66170,13 +66138,6 @@ Jobs: ^777777All^000000
 19677#
 A mysterious ring floating above your head. It feels like that you don't have a soul?!
 Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
-#
-19678#
-A cute ribbon with small bells. The bells seem to jingle.
-Class: ^777777Costume^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88181,4 +88142,89 @@ Location: ^777777Lower^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+19702#
+^FF0000Account Bound^000000
+You put on this hat and feel overwhelmed by the New Year mood!
+Merry Christmas and Happy New Year! Ho-ho-ho!
+Exp +20%
+Max HP +5%
+Max SP +5%
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20222#
+^FF0000Account Bound^000000
+You put on this hat and feel overwhelmed with shame for all the bad things that you have done this year...
+This is a punishment for your disgusting deeds! Heh-heh-heh!
+Exp +20%
+Max HP +5%
+Max SP +5%
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+571#
+^FF0000Account Bound^000000
+"Traditional New Year's delicacy.
+No child will refuse to try it!"
+Restores ^000088small amount of HP^000000.
+Adds chance of autocasting Lv.10 Blessing or Lv.10 Angelus or Lv.2 Magnificat or Lv.3 Assumptio or Lv.2 Gloria to the user when using this item.
+Weight: ^7777771^000000
+#
+11513#
+^FF0000Account Bound^000000
+"It looks like ice, tastes like coal...
+How can this be called candy, seriously?"
+Restores ^000088small amount of HP^000000.
+Adds chance of autocasting Lv.10 Increase Agility or Lv.3 Impositio Manus or Lv.1 Summon Spirit Sphere or Lv.1 Reverse Orcish and Lv.1 Sight or Lv.1 Crazy Uproar to the user when using this item.
+Weight: ^7777771^000000
+#
+31166#
+^FF0000Account Bound^000000
+This cozy hat with ears will make you look like a teddy bear.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19697#
+^FF0000Account Bound^000000
+This hat belongs to Rudolph, the famous red-nosed reindeer from Santa's team.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19678#
+^FF0000Account Bound^000000
+A Christmas ribbon decorated with bells.
+They ring so merrily!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+7953#
+^FF0000Account Bound^000000
+New Year's gift for Jamput, a brave hero fighting for good and justice.
+Weight: ^7777770^000000
+#
+7952#
+^FF0000Account Bound^000000
+New Year's gift for the friendly and cheerful Smile Gal.
+Weight: ^7777770^000000
+#
+17256#
+^FF0000Account Bound^000000
+New Year's gift for the kind and loving Phina.
+Weight: ^7777770^000000
 #

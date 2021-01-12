@@ -1648,7 +1648,6 @@
 // ----- 2005 chinese event -----
 
 570#Lucky Candy#
-571#Lucky Candy Cane#
 572#Lucky Cookie#
 
 // -----Al De Baran Turbo Track -----
@@ -4805,7 +4804,6 @@
 6215#Tear Gas#
 6216#Oil Bottle#
 6217#Mandragora Flowerpot#
-11513#Neck Protection Candy#
 5683#Horn Of Arch Evil Model#
 5684#Luxurious Crown#
 5685#A Military Cap Of A Knight#
@@ -6125,7 +6123,7 @@
 18897#Azure Diadem#
 18898#Yggdrasil Herald Crown#
 
-19678#C Bell Ribbon#
+
 19840#C Helm Of Sun#
 
 //
@@ -6336,7 +6334,6 @@
 19629#C Tiara#
 19655#C Tiraya Bonnet#
 19662#C Magician Hat#
-19678#C Bell Ribbon#
 19733#C Panda Cap#
 19737#C Corsair K#
 19744#C Black Tail Ribbon#
@@ -6647,10 +6644,8 @@
 31910#Festive Santa Beard#
 20125#Festive Santa Glasses#
 19707#Polar Bear Cap Costume#
-20222#Blue Pigtail Santa Hat Costume#
 19955#Mini Tree J Costume#
 19685#ShineSantaPoring Hat Costume#
-19697#Rudolph Santa Hat Costume#
 6228#Lvl9 Weapon Refine Gurantee Coupon#
 6232#Lvl9 Armour Refine Gurantee Coupon#
 11565#White potion#
@@ -9050,3 +9045,14 @@
 19047#Angeling Flap Hat#
 20418#Floating Santa Poring#
 
+
+19702#Jolly Santa's Hat#
+20222#Wicked Santa's Hat#
+571#Sweet Candy#
+11513#Bitter Candy#
+31166#Teddy Bear Hood#
+19697#Rudolph's Hat#
+19678#Bell Ribbon#
+7953#Jamput's Gift#
+7952#Smile Girl's Gift#
+17256#Sonya's Gift#

@@ -41531,22 +41531,10 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19697#
-Rudolf the red-nosed reindeer had a very shiny Hat!
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20222#
-A double-pommed Blue Christmas Cap
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 14501#
 ^ff0000this cannot be traded with other accounts.^000000
@@ -43884,11 +43872,7 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19678#
-A cute ribbon with small bells. The bells seem to jingle.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19681#
 A silver shining hair accessory with a star at the center.
@@ -54761,4 +54745,9 @@ Weight: ^7777771^000000
 31440#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
-
+19702#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31166#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#

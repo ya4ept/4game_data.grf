@@ -6205,7 +6205,6 @@
 4531#Red Eruma Card#
 4532#Wild Rider Card#
 4533#Mini Octopus Card#
-19678#Ribbon#
 19840#Helmet#
 6499#Ancient Grudge#
 12373#Boy's Love Letter#
@@ -7942,3 +7941,10 @@
 19047#Headgear#
 20418#Accessory#
 
+17256#Sonya's Gift#
+7952#Smile Girl's Gift#
+7953#Zhenbolt's Gift#
+
+20418#액세서리#
+19702#Headgear#
+31166#Headgear#
