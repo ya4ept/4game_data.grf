@@ -34,7 +34,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_CREATECOIN] = {
 		"WS_CREATECOIN",
-		SkillName = "Coin Craft",
+		SkillName = "Чеканка монеты",
 		MaxLv = 3,
 		SpAmount = { 10, 20, 30 },
 		bSeperateLv = false,
@@ -50,7 +50,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_CREATENUGGET] = {
 		"WS_CREATENUGGET",
-		SkillName = "Nugget Craft",
+		SkillName = "Изготовление слитка",
 		MaxLv = 3,
 		SpAmount = { 10, 20, 30 },
 		bSeperateLv = false,
@@ -72,7 +72,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WS_SYSTEMCREATE] = {
 		"WS_SYSTEMCREATE",
-		SkillName = "Battle Machine Craft",
+		SkillName = "Создать атакующую установку",
 		MaxLv = 1,
 		SpAmount = { 40 },
 		bSeperateLv = false,
@@ -100,7 +100,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ST_STEALBACKPACK] = {
 		"ST_STEALBACKPACK",
-		SkillName = "Steal Lunch Money",
+		SkillName = "Украсть деньги на обед",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
 		bSeperateLv = false,
@@ -358,7 +358,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_RUN] = {
 		"TK_RUN",
-		SkillName = "Sprint",
+		SkillName = "Спринт",
 		MaxLv = 10,
 		SpAmount = { 100, 90, 80, 70, 60, 50, 40, 30, 20, 10 },
 		bSeperateLv = false,
@@ -366,7 +366,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_READYSTORM] = {
 		"TK_READYSTORM",
-		SkillName = "Tornado Stance",
+		SkillName = "Стойка торнадо",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -377,7 +377,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_STORMKICK] = {
 		"TK_STORMKICK",
-		SkillName = "Tornado Kick",
+		SkillName = "Удар торнадо",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
 		bSeperateLv = false,
@@ -385,7 +385,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_READYDOWN] = {
 		"TK_READYDOWN",
-		SkillName = "Heel Drop Stance",
+		SkillName = "Стойка метеора",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -396,7 +396,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_DOWNKICK] = {
 		"TK_DOWNKICK",
-		SkillName = "Heel Drop",
+		SkillName = "Удар метеора",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
 		bSeperateLv = false,
@@ -415,7 +415,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_READYTURN] = {
 		"TK_READYTURN",
-		SkillName = "Roundhouse Stance",
+		SkillName = "Стойка урагана",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -426,7 +426,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_TURNKICK] = {
 		"TK_TURNKICK",
-		SkillName = "Roundhouse",
+		SkillName = "Удар урагана",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
 		bSeperateLv = false,
@@ -434,7 +434,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_READYCOUNTER] = {
 		"TK_READYCOUNTER",
-		SkillName = "Counter Kick Stance",
+		SkillName = "Стойка молнии",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -445,7 +445,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_COUNTER] = {
 		"TK_COUNTER",
-		SkillName = "Counter Kick",
+		SkillName = "Удар молнии",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
 		bSeperateLv = false,
@@ -453,7 +453,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_DODGE] = {
 		"TK_DODGE",
-		SkillName = "Tumbling",
+		SkillName = "Стойка дракона",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -464,7 +464,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_JUMPKICK] = {
 		"TK_JUMPKICK",
-		SkillName = "Flying Kick",
+		SkillName = "Полет дракона",
 		MaxLv = 7,
 		SpAmount = { 70, 60, 50, 40, 30, 20, 10 },
 		bSeperateLv = false,
@@ -472,7 +472,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_HPTIME] = {
 		"TK_HPTIME",
-		SkillName = "Peaceful Break",
+		SkillName = "Сила женьшеня",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -480,7 +480,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_SPTIME] = {
 		"TK_SPTIME",
-		SkillName = "Happy Break",
+		SkillName = "Сила лотоса",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -488,7 +488,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_POWER] = {
 		"TK_POWER",
-		SkillName = "Kihop",
+		SkillName = "Помощь братства",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -496,7 +496,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_SEVENWIND] = {
 		"TK_SEVENWIND",
-		SkillName = "Mild Wind",
+		SkillName = "Семь ветров",
 		MaxLv = 7,
 		SpAmount = { 20, 20, 20, 20, 50, 50, 50 },
 		bSeperateLv = true,
@@ -509,7 +509,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TK_HIGHJUMP] = {
 		"TK_HIGHJUMP",
-		SkillName = "Leap",
+		SkillName = "Прыжок тигра",
 		MaxLv = 5,
 		SpAmount = { 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
@@ -517,7 +517,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FEEL] = {
 		"SG_FEEL",
-		SkillName = "Solar, Lunar and Stellar Perception",
+		SkillName = "Постижение космоса",
 		MaxLv = 3,
 		SpAmount = { 100, 100, 100 },
 		bSeperateLv = true,
@@ -525,7 +525,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_WARM] = {
 		"SG_SUN_WARM",
-		SkillName = "Solar Heat",
+		SkillName = "Удар Солнца",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = false,
@@ -536,7 +536,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_WARM] = {
 		"SG_MOON_WARM",
-		SkillName = "Lunar Heat",
+		SkillName = "Удар Луны",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = false,
@@ -547,7 +547,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_WARM] = {
 		"SG_STAR_WARM",
-		SkillName = "Stellar Heat",
+		SkillName = "Удар Звезды",
 		MaxLv = 3,
 		SpAmount = { 10, 10, 10 },
 		bSeperateLv = false,
@@ -558,7 +558,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_COMFORT] = {
 		"SG_SUN_COMFORT",
-		SkillName = "Solar Protection",
+		SkillName = "Защита Солнца",
 		MaxLv = 4,
 		SpAmount = { 70, 60, 50, 40 },
 		bSeperateLv = false,
@@ -580,7 +580,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_COMFORT] = {
 		"SG_MOON_COMFORT",
-		SkillName = "Lunar Protection",
+		SkillName = "Защита Луны",
 		MaxLv = 4,
 		SpAmount = { 70, 60, 50, 40 },
 		bSeperateLv = false,
@@ -591,7 +591,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_COMFORT] = {
 		"SG_STAR_COMFORT",
-		SkillName = "Stellar Protection",
+		SkillName = "Защита Звезды",
 		MaxLv = 4,
 		SpAmount = { 70, 60, 50, 40 },
 		bSeperateLv = false,
@@ -602,7 +602,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_HATE] = {
 		"SG_HATE",
-		SkillName = "Solar, Lunar and Stellar Opposition",
+		SkillName = "Противостояние космоса",
 		MaxLv = 3,
 		SpAmount = { 100, 100, 100 },
 		bSeperateLv = true,
@@ -610,7 +610,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_ANGER] = {
 		"SG_SUN_ANGER",
-		SkillName = "Solar Wrath",
+		SkillName = "Гнев Солнца",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -621,7 +621,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_ANGER] = {
 		"SG_MOON_ANGER",
-		SkillName = "Lunar Wrath",
+		SkillName = "Гнев Луны",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -632,7 +632,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_ANGER] = {
 		"SG_STAR_ANGER",
-		SkillName = "Stellar Wrath",
+		SkillName = "Гнев Звезды",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -643,7 +643,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_SUN_BLESS] = {
 		"SG_SUN_BLESS",
-		SkillName = "Solar Blessings",
+		SkillName = "Дары Солнца",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -655,7 +655,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_MOON_BLESS] = {
 		"SG_MOON_BLESS",
-		SkillName = "Lunar Blessings",
+		SkillName = "Дары Луны",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -667,7 +667,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_STAR_BLESS] = {
 		"SG_STAR_BLESS",
-		SkillName = "Stellar Blessings",
+		SkillName = "Дары Звезды",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -679,7 +679,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_DEVIL] = {
 		"SG_DEVIL",
-		SkillName = "Solar, Lunar and Stellar Shadow ",
+		SkillName = "Космические тени",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -695,7 +695,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FRIEND] = {
 		"SG_FRIEND",
-		SkillName = "Solar, Lunar and Stellar Team-Up",
+		SkillName = "Космическая дружба",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -703,7 +703,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_KNOWLEDGE] = {
 		"SG_KNOWLEDGE",
-		SkillName = "Solar, Lunar and Stellar Courier ",
+		SkillName = "Космический курьер",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -711,7 +711,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SG_FUSION] = {
 		"SG_FUSION",
-		SkillName = "Solar, Lunar and Stellar Union ",
+		SkillName = "Космический союз",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 100 },
@@ -723,7 +723,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ALCHEMIST] = {
 		"SL_ALCHEMIST",
-		SkillName = "Alchemist Spirit",
+		SkillName = "Дух алхимика",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -740,7 +740,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_MONK] = {
 		"SL_MONK",
-		SkillName = "Monk Spirit",
+		SkillName = "Дух монаха",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -760,7 +760,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_STAR] = {
 		"SL_STAR",
-		SkillName = "Taekwon Master Spirit",
+		SkillName = "Дух гладиатора",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -768,7 +768,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SAGE] = {
 		"SL_SAGE",
-		SkillName = "Sage Spirit",
+		SkillName = "Дух мудреца",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -784,7 +784,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_CRUSADER] = {
 		"SL_CRUSADER",
-		SkillName = "Crusader Spirit",
+		SkillName = "Дух крестоносца",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -792,7 +792,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SUPERNOVICE] = {
 		"SL_SUPERNOVICE",
-		SkillName = "Super Novice Spirit",
+		SkillName = "Дух суперновичка",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -803,7 +803,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KNIGHT] = {
 		"SL_KNIGHT",
-		SkillName = "Knight Spirit",
+		SkillName = "Дух рыцаря",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -814,7 +814,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_WIZARD] = {
 		"SL_WIZARD",
-		SkillName = "Wizard Spirit",
+		SkillName = "Дух волшебника",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -825,7 +825,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_PRIEST] = {
 		"SL_PRIEST",
-		SkillName = "Priest Spirit",
+		SkillName = "Дух священника",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -836,7 +836,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_BARDDANCER] = {
 		"SL_BARDDANCER",
-		SkillName = "Bard and Dancer Spirits",
+		SkillName = "Дух артиста",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -852,7 +852,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ROGUE] = {
 		"SL_ROGUE",
-		SkillName = "Rogue Spirit",
+		SkillName = "Дух разбойника",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -863,7 +863,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_ASSASIN] = {
 		"SL_ASSASIN",
-		SkillName = "Assassin Spirit",
+		SkillName = "Дух убийцы",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -871,7 +871,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_BLACKSMITH] = {
 		"SL_BLACKSMITH",
-		SkillName = "Blacksmith Spirit",
+		SkillName = "Дух кузнеца",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -894,7 +894,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_HUNTER] = {
 		"SL_HUNTER",
-		SkillName = "Hunter Spirit",
+		SkillName = "Дух охотника",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -905,7 +905,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SOULLINKER] = {
 		"SL_SOULLINKER",
-		SkillName = "Soul Linker Spirit",
+		SkillName = "Дух медиума",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -916,7 +916,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KAIZEL] = {
 		"SL_KAIZEL",
-		SkillName = "Kaizel",
+		SkillName = "Ка-Рил",
 		MaxLv = 7,
 		SpAmount = { 120, 110, 100, 90, 80, 70, 60 },
 		bSeperateLv = false,
@@ -927,7 +927,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KAAHI] = {
 		"SL_KAAHI",
-		SkillName = "Kaahi",
+		SkillName = "Ка-Хи",
 		MaxLv = 7,
 		SpAmount = { 30, 30, 30, 30, 30, 30, 30 },
 		bSeperateLv = true,
@@ -951,7 +951,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KAUPE] = {
 		"SL_KAUPE",
-		SkillName = "Kaupe",
+		SkillName = "Ка-Пе",
 		MaxLv = 3,
 		SpAmount = { 20, 30, 40 },
 		bSeperateLv = false,
@@ -963,7 +963,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KAITE] = {
 		"SL_KAITE",
-		SkillName = "Kaite",
+		SkillName = "Ка-Тэ",
 		MaxLv = 7,
 		SpAmount = { 70, 70, 70, 70, 70, 70, 70 },
 		bSeperateLv = false,
@@ -975,7 +975,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_KAINA] = {
 		"SL_KAINA",
-		SkillName = "Kaina",
+		SkillName = "Ка-Ина",
 		MaxLv = 7,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -986,7 +986,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_STIN] = {
 		"SL_STIN",
-		SkillName = "Estin",
+		SkillName = "Эс-Тин",
 		MaxLv = 7,
 		SpAmount = { 18, 20, 22, 24, 26, 28, 30 },
 		bSeperateLv = true,
@@ -997,7 +997,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_STUN] = {
 		"SL_STUN",
-		SkillName = "Estun",
+		SkillName = "Эс-Тун",
 		MaxLv = 7,
 		SpAmount = { 18, 20, 22, 24, 26, 28, 30 },
 		bSeperateLv = true,
@@ -1008,7 +1008,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SMA] = {
 		"SL_SMA",
-		SkillName = "Esma",
+		SkillName = "Эс-Ма",
 		MaxLv = 10,
 		SpAmount = { 8, 16, 24, 32, 40, 48, 56, 64, 72, 80 },
 		bSeperateLv = true,
@@ -1020,7 +1020,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SWOO] = {
 		"SL_SWOO",
-		SkillName = "Eswoo",
+		SkillName = "Эс-Ву",
 		MaxLv = 7,
 		SpAmount = { 75, 65, 55, 45, 35, 25, 15 },
 		bSeperateLv = false,
@@ -1031,7 +1031,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SKE] = {
 		"SL_SKE",
-		SkillName = "Eske",
+		SkillName = "Эс-Ке",
 		MaxLv = 3,
 		SpAmount = { 45, 30, 15 },
 		bSeperateLv = false,
@@ -1042,7 +1042,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SKA] = {
 		"SL_SKA",
-		SkillName = "Eska",
+		SkillName = "Эс-Ка",
 		MaxLv = 3,
 		SpAmount = { 100, 80, 60 },
 		bSeperateLv = false,
@@ -1292,7 +1292,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_HIGH] = {
 		"SL_HIGH",
-		SkillName = "1st Transcendent Spirit",
+		SkillName = "Дух экспертов",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -1379,7 +1379,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_ENCHANTBLADE] = {
 		"RK_ENCHANTBLADE",
-		SkillName = "Enchant Blade",
+		SkillName = "Зачаровать клинок",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -1401,7 +1401,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_WINDCUTTER] = {
 		"RK_WINDCUTTER",
-		SkillName = "Wind Cutter",
+		SkillName = "Рассекающий ветер",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -1423,7 +1423,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONHOWLING] = {
 		"RK_DRAGONHOWLING",
-		SkillName = "Dragon Howling",
+		SkillName = "Рев дракона",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
 		bSeperateLv = false,
@@ -1549,7 +1549,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_CLOAKINGEXCEED] = {
 		"GC_CLOAKINGEXCEED",
-		SkillName = "Cloaking Exceed",
+		SkillName = "Исчезновение",
 		MaxLv = 5,
 		SpAmount = { 45, 45, 45, 45, 45 },
 		bSeperateLv = false,
@@ -1568,7 +1568,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_CROSSRIPPERSLASHER] = {
 		"GC_CROSSRIPPERSLASHER",
-		SkillName = "Cross Ripper Slasher",
+		SkillName = "Бросок лезвий",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -1587,7 +1587,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_CLEMENTIA] = {
 		"AB_CLEMENTIA",
-		SkillName = "Clementia",
+		SkillName = "Милосердие",
 		MaxLv = 3,
 		SpAmount = { 280, 320, 360 },
 		bSeperateLv = true,
@@ -3307,7 +3307,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_XENO_SLASHER] = {
 		"MH_XENO_SLASHER",
-		SkillName = "Xeno Slasher",
+		SkillName = "Разрез Ксено",
 		MaxLv = 10,
 		SpAmount = { 85, 90, 95, 100, 105, 110, 115, 120, 125, 130 },
 		bSeperateLv = true,
@@ -3315,7 +3315,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_STEINWAND] = {
 		"MH_STEINWAND",
-		SkillName = "Stein Wand",
+		SkillName = "Каменная стена",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -3323,7 +3323,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_LAVA_SLIDE] = {
 		"MH_LAVA_SLIDE",
-		SkillName = "Lava Slide",
+		SkillName = "Поток лавы",
 		MaxLv = 10,
 		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
 		bSeperateLv = true,
@@ -3784,7 +3784,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_HIGHNESSHEAL] = {
 		"AB_HIGHNESSHEAL",
-		SkillName = "High Heal",
+		SkillName = "Улучшенное лечение",
 		MaxLv = 5,
 		SpAmount = { 70, 100, 130, 160, 190 },
 		bSeperateLv = true,
@@ -3878,7 +3878,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_SIENNAEXECRATE] = {
 		"WL_SIENNAEXECRATE",
-		SkillName = "Sienna Execrate",
+		SkillName = "Гнев Ёрд",
 		MaxLv = 5,
 		SpAmount = { 32, 34, 36, 38, 40 },
 		bSeperateLv = true,
@@ -3889,7 +3889,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_CRIMSONROCK] = {
 		"WL_CRIMSONROCK",
-		SkillName = "Crimson Rock",
+		SkillName = "Огненный метеорит",
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
@@ -3900,7 +3900,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_SUMMONBL] = {
 		"WL_SUMMONBL",
-		SkillName = "Summon Lightning Ball",
+		SkillName = "Сфера молнии",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -3911,7 +3911,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_READING_SB] = {
 		"WL_READING_SB",
-		SkillName = "Reading Spell Book",
+		SkillName = "Чтение книг заклинаний",
 		MaxLv = 1,
 		SpAmount = { 40 },
 		bSeperateLv = false,
@@ -3930,7 +3930,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_CLUSTERBOMB] = {
 		"RA_CLUSTERBOMB",
-		SkillName = "Bomb Cluster",
+		SkillName = "Осколочная бомба",
 		MaxLv = 5,
 		SpAmount = { 20, 20, 20, 20, 20 },
 		bSeperateLv = false,
@@ -3941,7 +3941,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_WUGSTRIKE] = {
 		"RA_WUGSTRIKE",
-		SkillName = "Warg Strike",
+		SkillName = "Прыжок варга",
 		MaxLv = 5,
 		SpAmount = { 20, 22, 24, 26, 28 },
 		bSeperateLv = true,
@@ -3952,7 +3952,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_CAMOUFLAGE] = {
 		"RA_CAMOUFLAGE",
-		SkillName = "Camouflage",
+		SkillName = "Камуфляж",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = false,
@@ -3963,7 +3963,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_MAIZETRAP] = {
 		"RA_MAIZETRAP",
-		SkillName = "Maze Trap",
+		SkillName = "Желтая ловушка",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -3974,7 +3974,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MADOLICENCE] = {
 		"NC_MADOLICENCE",
-		SkillName = "Madogear License",
+		SkillName = "Лицензия Мадо",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -3982,7 +3982,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_FLAMELAUNCHER] = {
 		"NC_FLAMELAUNCHER",
-		SkillName = "Flame Launcher",
+		SkillName = "Огнемет",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = true,
@@ -3993,7 +3993,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_HOVERING] = {
 		"NC_HOVERING",
-		SkillName = "Hover",
+		SkillName = "Антигравитация",
 		MaxLv = 1,
 		SpAmount = { 25 },
 		bSeperateLv = false,
@@ -4012,7 +4012,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_ANALYZE] = {
 		"NC_ANALYZE",
-		SkillName = "Analyze",
+		SkillName = "Эвристический анализ",
 		MaxLv = 3,
 		SpAmount = { 30, 30, 30 },
 		bSeperateLv = false,
@@ -4023,7 +4023,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_REPAIR] = {
 		"NC_REPAIR",
-		SkillName = "Repair",
+		SkillName = "Ремонт",
 		MaxLv = 5,
 		SpAmount = { 25, 30, 35, 40, 45 },
 		bSeperateLv = true,
@@ -4034,7 +4034,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_POWERSWING] = {
 		"NC_POWERSWING",
-		SkillName = "Power Swing",
+		SkillName = "Силовой удар",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -4045,7 +4045,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_DISJOINT] = {
 		"NC_DISJOINT",
-		SkillName = "Divest FAW ",
+		SkillName = "Разобрать турель",
 		MaxLv = 1,
 		SpAmount = { 15 },
 		bSeperateLv = false,
@@ -4056,7 +4056,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_SHADOWFORM] = {
 		"SC_SHADOWFORM",
-		SkillName = "Shadow Formation",
+		SkillName = "Смертельная связь",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -4067,7 +4067,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_DEADLYINFECT] = {
 		"SC_DEADLYINFECT",
-		SkillName = "Deadly Infection",
+		SkillName = "Заражение",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -4079,7 +4079,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_LAZINESS] = {
 		"SC_LAZINESS",
-		SkillName = "Masquerade-Laziness",
+		SkillName = "Лик апатии",
 		MaxLv = 3,
 		SpAmount = { 30, 40, 50 },
 		bSeperateLv = true,
@@ -4100,7 +4100,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_BLOODYLUST] = {
 		"SC_BLOODYLUST",
-		SkillName = "Bloody Lust ",
+		SkillName = "Символ крови",
 		MaxLv = 3,
 		SpAmount = { 60, 70, 80 },
 		bSeperateLv = true,
@@ -4111,7 +4111,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_CANNONSPEAR] = {
 		"LG_CANNONSPEAR",
-		SkillName = "Cannon Spear",
+		SkillName = "Гарпун",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
 		bSeperateLv = true,
@@ -4122,7 +4122,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_REFLECTDAMAGE] = {
 		"LG_REFLECTDAMAGE",
-		SkillName = "Reflect Damage",
+		SkillName = "Отражение",
 		MaxLv = 5,
 		SpAmount = { 60, 80, 100, 120, 140 },
 		bSeperateLv = true,
@@ -4133,7 +4133,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_SHIELDSPELL] = {
 		"LG_SHIELDSPELL",
-		SkillName = "Shield Spell",
+		SkillName = "Магия щита",
 		MaxLv = 3,
 		SpAmount = { 50, 50, 50 },
 		bSeperateLv = true,
@@ -4145,7 +4145,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_BANDING] = {
 		"LG_BANDING",
-		SkillName = "Banding",
+		SkillName = "Объединение",
 		MaxLv = 5,
 		SpAmount = { 30, 36, 42, 48, 54 },
 		bSeperateLv = true,
@@ -4157,7 +4157,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_EARTHDRIVE] = {
 		"LG_EARTHDRIVE",
-		SkillName = "Earth Drive",
+		SkillName = "Сотрясение земли",
 		MaxLv = 5,
 		SpAmount = { 52, 60, 68, 76, 84 },
 		bSeperateLv = true,
@@ -4168,7 +4168,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_SKYNETBLOW] = {
 		"SR_SKYNETBLOW",
-		SkillName = "Sky Blow",
+		SkillName = "Небесный вихрь",
 		MaxLv = 5,
 		SpAmount = { 8, 9, 10, 11, 12 },
 		bSeperateLv = true,
@@ -4190,7 +4190,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_LIGHTNINGWALK] = {
 		"SR_LIGHTNINGWALK",
-		SkillName = "Lightning Walk",
+		SkillName = "Встречный ветер",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -4201,7 +4201,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GATEOFHELL] = {
 		"SR_GATEOFHELL",
-		SkillName = "Gates of Hell",
+		SkillName = "Врата ада",
 		MaxLv = 10,
 		SpAmount = { 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 },
 		bSeperateLv = true,
@@ -4213,7 +4213,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
 		"SR_GENTLETOUCH_CHANGE",
-		SkillName = "Gentle Touch-Convert",
+		SkillName = "Прикосновение силы",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -4224,7 +4224,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WA_SYMPHONY_OF_LOVER] = {
 		"WA_SYMPHONY_OF_LOVER",
-		SkillName = "Lover Symphony",
+		SkillName = "Романс",
 		MaxLv = 5,
 		SpAmount = { 60, 69, 78, 87, 96 },
 		bSeperateLv = true,
@@ -4243,7 +4243,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MI_HARMONIZE] = {
 		"MI_HARMONIZE",
-		SkillName = "Harmonize",
+		SkillName = "Гармония",
 		MaxLv = 5,
 		SpAmount = { 70, 75, 80, 85, 90 },
 		bSeperateLv = true,
@@ -4269,7 +4269,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_POEMOFNETHERWORLD] = {
 		"WM_POEMOFNETHERWORLD",
-		SkillName = "Song of Despair",
+		SkillName = "Песнь страданий",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
 		bSeperateLv = true,
@@ -4280,7 +4280,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SIRCLEOFNATURE] = {
 		"WM_SIRCLEOFNATURE",
-		SkillName = "Circle of Nature",
+		SkillName = "Круг жизни",
 		MaxLv = 5,
 		SpAmount = { 42, 46, 50, 54, 58 },
 		bSeperateLv = true,
@@ -4302,7 +4302,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_LERADS_DEW] = {
 		"WM_LERADS_DEW",
-		SkillName = "Lerad's Dew",
+		SkillName = "Слеза Лерада",
 		MaxLv = 5,
 		SpAmount = { 120, 130, 140, 150, 160 },
 		bSeperateLv = true,
@@ -4322,7 +4322,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_FIREWALK] = {
 		"SO_FIREWALK",
-		SkillName = "Fire Walk",
+		SkillName = "След огня",
 		MaxLv = 5,
 		SpAmount = { 30, 34, 38, 42, 46 },
 		bSeperateLv = true,
@@ -4333,7 +4333,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_DIAMONDDUST] = {
 		"SO_DIAMONDDUST",
-		SkillName = "Diamond Dust",
+		SkillName = "Алмазная пыль",
 		MaxLv = 5,
 		SpAmount = { 50, 56, 62, 68, 74 },
 		bSeperateLv = false,
@@ -4344,7 +4344,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_STRIKING] = {
 		"SO_STRIKING",
-		SkillName = "Striking",
+		SkillName = "Стихийное усиление",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = false,
@@ -4358,7 +4358,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_ARRULLO] = {
 		"SO_ARRULLO",
-		SkillName = "Arrullo",
+		SkillName = "Колыбельная ветра",
 		MaxLv = 5,
 		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
@@ -4381,7 +4381,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_SYMPATHY] = {
 		"SO_EL_SYMPATHY",
-		SkillName = "Spirit Sympathy",
+		SkillName = "Повиновение",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -4392,7 +4392,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_WIND_INSIGNIA] = {
 		"SO_WIND_INSIGNIA",
-		SkillName = "Wind Insignia",
+		SkillName = "Символ ветра",
 		MaxLv = 3,
 		SpAmount = { 22, 30, 38 },
 		bSeperateLv = true,
@@ -4403,7 +4403,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_REMODELING_CART] = {
 		"GN_REMODELING_CART",
-		SkillName = "Cart Remodeling",
+		SkillName = "Улучшенная телега",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -4411,7 +4411,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_THORNS_TRAP] = {
 		"GN_THORNS_TRAP",
-		SkillName = "Thorn Trap",
+		SkillName = "Терновая ловушка",
 		MaxLv = 5,
 		SpAmount = { 22, 26, 30, 34, 38 },
 		bSeperateLv = true,
@@ -4422,7 +4422,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CRAZYWEED] = {
 		"GN_CRAZYWEED",
-		SkillName = "Crazy Vines",
+		SkillName = "Безумная трава",
 		MaxLv = 10,
 		SpAmount = { 24, 28, 32, 36, 40, 44, 48, 52, 56, 60 },
 		bSeperateLv = true,
@@ -4444,7 +4444,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_MIX_COOKING] = {
 		"GN_MIX_COOKING",
-		SkillName = "Mixed Cooking",
+		SkillName = "Готовка",
 		MaxLv = 2,
 		SpAmount = { 5, 40 },
 		bSeperateLv = true,
@@ -4463,7 +4463,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_SECRAMENT] = {
 		"AB_SECRAMENT",
-		SkillName = "Sacrament",
+		SkillName = "Таинство",
 		MaxLv = 5,
 		SpAmount = { 100, 120, 140, 160, 180 },
 		bSeperateLv = true,
@@ -4713,7 +4713,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_NEEDLE_OF_PARALYZE] = {
 		"MH_NEEDLE_OF_PARALYZE",
-		SkillName = "Needle of Paralysis",
+		SkillName = "Паралич",
 		MaxLv = 10,
 		SpAmount = { 42, 48, 54, 60, 66, 72, 78, 84, 90, 96 },
 		bSeperateLv = true,
@@ -4721,7 +4721,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_STYLE_CHANGE] = {
 		"MH_STYLE_CHANGE",
-		SkillName = "Style Change",
+		SkillName = "Смена стиля",
 		MaxLv = 1,
 		SpAmount = { 35 },
 		bSeperateLv = false,
@@ -4729,7 +4729,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_ANGRIFFS_MODUS] = {
 		"MH_ANGRIFFS_MODUS",
-		SkillName = "Angriffs Modus",
+		SkillName = "Режим атаки",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -4737,7 +4737,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_VOLCANIC_ASH] = {
 		"MH_VOLCANIC_ASH",
-		SkillName = "Volcanic Ash",
+		SkillName = "Вулканический пепел",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -5185,7 +5185,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_SONICWAVE] = {
 		"RK_SONICWAVE",
-		SkillName = "Sonic Wave",
+		SkillName = "Звуковая волна",
 		MaxLv = 5,
 		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
@@ -5196,7 +5196,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_HUNDREDSPEAR] = {
 		"RK_HUNDREDSPEAR",
-		SkillName = "Hundred Spears",
+		SkillName = "Тысяча копий",
 		MaxLv = 10,
 		SpAmount = { 60, 60, 60, 60, 60, 60, 60, 60, 60, 60 },
 		bSeperateLv = true,
@@ -5207,7 +5207,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_IGNITIONBREAK] = {
 		"RK_IGNITIONBREAK",
-		SkillName = "Ignition Break",
+		SkillName = "Воспламеняющий разлом",
 		MaxLv = 5,
 		SpAmount = { 35, 40, 45, 50, 55 },
 		bSeperateLv = true,
@@ -5220,7 +5220,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONBREATH] = {
 		"RK_DRAGONBREATH",
-		SkillName = "Dragon's Breath",
+		SkillName = "Дыхание дракона",
 		MaxLv = 10,
 		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -5231,7 +5231,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_RUNEMASTERY] = {
 		"RK_RUNEMASTERY",
-		SkillName = "Rune Mastery",
+		SkillName = "Знание рун",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5271,7 +5271,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_PHANTOMTHRUST] = {
 		"RK_PHANTOMTHRUST",
-		SkillName = "Phantom Thrust",
+		SkillName = "Стальная хватка",
 		MaxLv = 5,
 		SpAmount = { 15, 18, 21, 24, 27 },
 		bSeperateLv = true,
@@ -5282,7 +5282,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_CROSSIMPACT] = {
 		"GC_CROSSIMPACT",
-		SkillName = "Cross Impact",
+		SkillName = "Сверхсветовой удар",
 		MaxLv = 5,
 		SpAmount = { 25, 25, 25, 25, 25 },
 		bSeperateLv = false,
@@ -5293,7 +5293,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_RESEARCHNEWPOISON] = {
 		"GC_RESEARCHNEWPOISON",
-		SkillName = "New Poison Research",
+		SkillName = "Исследование токсичных ядов",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5301,7 +5301,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_ANTIDOTE] = {
 		"GC_ANTIDOTE",
-		SkillName = "Antidote",
+		SkillName = "Антитоксин",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -5312,7 +5312,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_WEAPONBLOCKING] = {
 		"GC_WEAPONBLOCKING",
-		SkillName = "Weapon Blocking",
+		SkillName = "Блокировка оружием",
 		MaxLv = 5,
 		SpAmount = { 40, 36, 32, 28, 24 },
 		bSeperateLv = true,
@@ -5334,7 +5334,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_POISONSMOKE] = {
 		"GC_POISONSMOKE",
-		SkillName = "Poisonous Smoke",
+		SkillName = "Ядовитый дым",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = false,
@@ -5346,7 +5346,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_PHANTOMMENACE] = {
 		"GC_PHANTOMMENACE",
-		SkillName = "Phantom Menace",
+		SkillName = "Теневое чутье",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -5358,7 +5358,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_ROLLINGCUTTER] = {
 		"GC_ROLLINGCUTTER",
-		SkillName = "Rolling Cutter",
+		SkillName = "Вихрь лезвий",
 		MaxLv = 5,
 		SpAmount = { 5, 5, 5, 5, 5 },
 		bSeperateLv = false,
@@ -5369,7 +5369,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_JUDEX] = {
 		"AB_JUDEX",
-		SkillName = "Judex",
+		SkillName = "Правосудие",
 		MaxLv = 5,
 		SpAmount = { 20, 23, 26, 29, 32 },
 		bSeperateLv = true,
@@ -5380,7 +5380,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_ADORAMUS] = {
 		"AB_ADORAMUS",
-		SkillName = "Adoramus",
+		SkillName = "Кара",
 		MaxLv = 10,
 		SpAmount = { 20, 24, 28, 32, 36, 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -5393,7 +5393,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_CANTO] = {
 		"AB_CANTO",
-		SkillName = "Cantocandidus",
+		SkillName = "Песнопение",
 		MaxLv = 3,
 		SpAmount = { 200, 220, 240 },
 		bSeperateLv = true,
@@ -5426,7 +5426,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_LAUDARAMUS] = {
 		"AB_LAUDARAMUS",
-		SkillName = "Lauda Ramus",
+		SkillName = "Лауда Рамус",
 		MaxLv = 4,
 		SpAmount = { 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -5437,7 +5437,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_CLEARANCE] = {
 		"AB_CLEARANCE",
-		SkillName = "Clearance",
+		SkillName = "Исповедь",
 		MaxLv = 5,
 		SpAmount = { 54, 60, 66, 72, 78 },
 		bSeperateLv = true,
@@ -5579,7 +5579,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_RADIUS] = {
 		"WL_RADIUS",
-		SkillName = "Radius",
+		SkillName = "Познание",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -5587,7 +5587,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_HELLINFERNO] = {
 		"WL_HELLINFERNO",
-		SkillName = "Hell Inferno",
+		SkillName = "Адское пламя",
 		MaxLv = 5,
 		SpAmount = { 35, 40, 45, 50, 55 },
 		bSeperateLv = true,
@@ -5598,7 +5598,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_EARTHSTRAIN] = {
 		"WL_EARTHSTRAIN",
-		SkillName = "Earth Strain",
+		SkillName = "Оползень",
 		MaxLv = 5,
 		SpAmount = { 70, 78, 86, 94, 102 },
 		bSeperateLv = true,
@@ -5620,7 +5620,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_SUMMONWB] = {
 		"WL_SUMMONWB",
-		SkillName = "Summon Water Ball",
+		SkillName = "Сфера воды",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -5631,7 +5631,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_FREEZE_SP] = {
 		"WL_FREEZE_SP",
-		SkillName = "Freezing Spell",
+		SkillName = "Печать памяти",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5650,7 +5650,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_WUGMASTERY] = {
 		"RA_WUGMASTERY",
-		SkillName = "Warg Mastery",
+		SkillName = "Призыв варга",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -5658,7 +5658,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_WUGBITE] = {
 		"RA_WUGBITE",
-		SkillName = "Warg Bite",
+		SkillName = "Укус варга",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 46, 48, 50 },
 		bSeperateLv = true,
@@ -5669,7 +5669,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_RESEARCHTRAP] = {
 		"RA_RESEARCHTRAP",
-		SkillName = "Trap Research",
+		SkillName = "Исследование ловушек",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5693,7 +5693,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_BOOSTKNUCKLE] = {
 		"NC_BOOSTKNUCKLE",
-		SkillName = "Knuckle Boost",
+		SkillName = "Реактивный кулак",
 		MaxLv = 5,
 		SpAmount = { 3, 6, 9, 12, 15 },
 		bSeperateLv = true,
@@ -5704,7 +5704,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_COLDSLOWER] = {
 		"NC_COLDSLOWER",
-		SkillName = "Ice Launcher",
+		SkillName = "Криогенная пушка",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = true,
@@ -5715,7 +5715,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_F_SIDESLIDE] = {
 		"NC_F_SIDESLIDE",
-		SkillName = "Front Slide",
+		SkillName = "Накат",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -5735,7 +5735,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAGNETICFIELD] = {
 		"NC_MAGNETICFIELD",
-		SkillName = "Magnetic Field",
+		SkillName = "Магнитное поле",
 		MaxLv = 3,
 		SpAmount = { 60, 70, 80 },
 		bSeperateLv = true,
@@ -5746,7 +5746,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_TRAININGAXE] = {
 		"NC_TRAININGAXE",
-		SkillName = "Axe Mastery ",
+		SkillName = "Мастер топора",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5754,7 +5754,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_AXETORNADO] = {
 		"NC_AXETORNADO",
-		SkillName = "Axe Tornado ",
+		SkillName = "Вращение топора",
 		MaxLv = 5,
 		SpAmount = { 18, 20, 22, 24, 26 },
 		bSeperateLv = true,
@@ -5774,7 +5774,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_TRIANGLESHOT] = {
 		"SC_TRIANGLESHOT",
-		SkillName = "Triangle Shot",
+		SkillName = "Тройной выстрел",
 		MaxLv = 10,
 		SpAmount = { 22, 24, 26, 28, 30, 32, 34, 36, 38, 40 },
 		bSeperateLv = true,
@@ -5785,7 +5785,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_ENERVATION] = {
 		"SC_ENERVATION",
-		SkillName = "Masquerade-Enervation",
+		SkillName = "Лик истощения",
 		MaxLv = 3,
 		SpAmount = { 30, 40, 50 },
 		bSeperateLv = true,
@@ -5804,7 +5804,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SM_MOVINGRECOVERY] = {
 		"SM_MOVINGRECOVERY",
-		SkillName = "HP Recovery While Moving",
+		SkillName = "Восстановление HP при движении",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = { 0 },
@@ -5813,7 +5813,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_FEINTBOMB] = {
 		"SC_FEINTBOMB",
-		SkillName = "Feint Bomb",
+		SkillName = "Призрачный двойник",
 		MaxLv = 3,
 		SpAmount = { 24, 28, 32 },
 		bSeperateLv = true,
@@ -5824,7 +5824,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_BANISHINGPOINT] = {
 		"LG_BANISHINGPOINT",
-		SkillName = "Vanishing Point",
+		SkillName = "Пронзить копьем",
 		MaxLv = 10,
 		SpAmount = { 20, 20, 20, 20, 20, 25, 25, 25, 25, 25 },
 		bSeperateLv = true,
@@ -5835,7 +5835,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_PINPOINTATTACK] = {
 		"LG_PINPOINTATTACK",
-		SkillName = "Pinpoint Attack",
+		SkillName = "Бронебойный удар",
 		MaxLv = 5,
 		SpAmount = { 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
@@ -5855,7 +5855,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_MOONSLASHER] = {
 		"LG_MOONSLASHER",
-		SkillName = "Moonslasher",
+		SkillName = "Лунная сабля",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -5866,7 +5866,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_HESPERUSLIT] = {
 		"LG_HESPERUSLIT",
-		SkillName = "Hesperus Lit",
+		SkillName = "Звездный свет",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -5878,7 +5878,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_EARTHSHAKER] = {
 		"SR_EARTHSHAKER",
-		SkillName = "Earth Shaker",
+		SkillName = "Дрожь земли",
 		MaxLv = 5,
 		SpAmount = { 20, 25, 30, 35, 40 },
 		bSeperateLv = true,
@@ -5899,7 +5899,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_KNUCKLEARROW] = {
 		"SR_KNUCKLEARROW",
-		SkillName = "Knuckle Arrow",
+		SkillName = "Летящий кулак",
 		MaxLv = 5,
 		SpAmount = { 10, 15, 20, 25, 30 },
 		bSeperateLv = false,
@@ -5911,7 +5911,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_ASSIMILATEPOWER] = {
 		"SR_ASSIMILATEPOWER",
-		SkillName = "Power Absorb",
+		SkillName = "Поглощение энергии",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -5923,7 +5923,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_QUIET] = {
 		"SR_GENTLETOUCH_QUIET",
-		SkillName = "Gentle Touch-Silence",
+		SkillName = "Прикосновение тишины",
 		MaxLv = 5,
 		SpAmount = { 20, 25, 30, 35, 40 },
 		bSeperateLv = true,
@@ -5943,7 +5943,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WA_MOONLIT_SERENADE] = {
 		"WA_MOONLIT_SERENADE",
-		SkillName = "Moonlight Serenade",
+		SkillName = "Лунная соната",
 		MaxLv = 5,
 		SpAmount = { 84, 96, 108, 120, 134 },
 		bSeperateLv = true,
@@ -5990,7 +5990,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_VOICEOFSIREN] = {
 		"WM_VOICEOFSIREN",
-		SkillName = "Siren's Voice",
+		SkillName = "Ода соблазна",
 		MaxLv = 5,
 		SpAmount = { 48, 56, 64, 72, 80 },
 		bSeperateLv = true,
@@ -6001,7 +6001,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_RANDOMIZESPELL] = {
 		"WM_RANDOMIZESPELL",
-		SkillName = "Improvised Song",
+		SkillName = "Импровизация",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -6021,7 +6021,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_MELODYOFSINK] = {
 		"WM_MELODYOFSINK",
-		SkillName = "Sinking Melody",
+		SkillName = "Мелодия забвения",
 		MaxLv = 5,
 		SpAmount = { 120, 130, 140, 150, 160 },
 		bSeperateLv = true,
@@ -6041,7 +6041,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_POISON_BUSTER] = {
 		"SO_POISON_BUSTER",
-		SkillName = "Poison Burst",
+		SkillName = "Интоксикация",
 		MaxLv = 5,
 		SpAmount = { 70, 90, 110, 130, 150 },
 		bSeperateLv = true,
@@ -6052,7 +6052,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_WARMER] = {
 		"SO_WARMER",
-		SkillName = "Warmer",
+		SkillName = "Пламя жизни",
 		MaxLv = 5,
 		SpAmount = { 40, 52, 64, 76, 88 },
 		bSeperateLv = true,
@@ -6064,7 +6064,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_CONTROL] = {
 		"SO_EL_CONTROL",
-		SkillName = "Spirit Control ",
+		SkillName = "Управление элементалем",
 		MaxLv = 4,
 		SpAmount = { 10, 10, 10, 10 },
 		bSeperateLv = true,
@@ -6084,7 +6084,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_CURE] = {
 		"SO_EL_CURE",
-		SkillName = "Spirit Cure",
+		SkillName = "Жертва",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -6095,7 +6095,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EARTH_INSIGNIA] = {
 		"SO_EARTH_INSIGNIA",
-		SkillName = "Earth Insignia",
+		SkillName = "Символ земли",
 		MaxLv = 3,
 		SpAmount = { 22, 30, 38 },
 		bSeperateLv = true,
@@ -6115,7 +6115,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_BLOOD_SUCKER] = {
 		"GN_BLOOD_SUCKER",
-		SkillName = "Blood Sucker",
+		SkillName = "Пиявка",
 		MaxLv = 5,
 		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
@@ -6135,7 +6135,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_MAKEBOMB] = {
 		"GN_MAKEBOMB",
-		SkillName = "Bomb Creation",
+		SkillName = "Изготовление бомбы",
 		MaxLv = 2,
 		SpAmount = { 5, 40 },
 		bSeperateLv = true,
@@ -6251,7 +6251,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_PAIN_KILLER] = {
 		"MH_PAIN_KILLER",
-		SkillName = "Pain Killer",
+		SkillName = "Болевой шок",
 		MaxLv = 10,
 		SpAmount = { 48, 52, 56, 60, 64, 68, 72, 76, 80, 84 },
 		bSeperateLv = true,
@@ -6259,7 +6259,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SILVERVEIN_RUSH] = {
 		"MH_SILVERVEIN_RUSH",
-		SkillName = "Silvervein Rush",
+		SkillName = "Серебряный порыв",
 		MaxLv = 10,
 		SpAmount = { 17, 19, 21, 23, 25, 27, 29, 31, 33, 35 },
 		bSeperateLv = true,
@@ -6267,7 +6267,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_CBC] = {
 		"MH_CBC",
-		SkillName = "C.B.C : Continual Break Combo",
+		SkillName = "Непрерывная комбинация",
 		MaxLv = 5,
 		SpAmount = { 10, 20, 30, 40, 50 },
 		bSeperateLv = true,
@@ -6584,7 +6584,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_DRAGONCOMBO] = {
 		"SR_DRAGONCOMBO",
-		SkillName = "Dragon Combo",
+		SkillName = "Удар дракона",
 		MaxLv = 10,
 		SpAmount = { 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 		bSeperateLv = true,
@@ -6595,7 +6595,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_STRIPACCESSARY] = {
 		"SC_STRIPACCESSARY",
-		SkillName = "Divest Accessory ",
+		SkillName = "Снять аксессуары",
 		MaxLv = 5,
 		SpAmount = { 15, 18, 21, 24, 27 },
 		bSeperateLv = true,
@@ -6759,7 +6759,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_SHIELDPRESS] = {
 		"LG_SHIELDPRESS",
-		SkillName = "Shield Press",
+		SkillName = "Давление щитом",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -6875,7 +6875,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_PYROCLASTIC] = {
 		"MH_PYROCLASTIC",
-		SkillName = "Pyroclastic",
+		SkillName = "Пирокластика",
 		MaxLv = 10,
 		SpAmount = { 20, 28, 36, 44, 52, 56, 60, 64, 66, 70 },
 		bSeperateLv = true,
@@ -6883,7 +6883,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_GRANITIC_ARMOR] = {
 		"MH_GRANITIC_ARMOR",
-		SkillName = "Granitic Armor",
+		SkillName = "Гранитная броня",
 		MaxLv = 5,
 		SpAmount = { 54, 58, 62, 66, 70 },
 		bSeperateLv = true,
@@ -6918,7 +6918,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_TINDER_BREAKER] = {
 		"MH_TINDER_BREAKER",
-		SkillName = "Tinder Breaker",
+		SkillName = "Тесак",
 		MaxLv = 5,
 		SpAmount = { 20, 25, 30, 35, 40 },
 		bSeperateLv = true,
@@ -6937,7 +6937,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_HEILIGE_STANGE] = {
 		"MH_HEILIGE_STANGE",
-		SkillName = "Heilage Stange",
+		SkillName = "Святой Рода",
 		MaxLv = 10,
 		SpAmount = { 48, 54, 60, 66, 72, 78, 84, 90, 96, 102 },
 		bSeperateLv = true,
@@ -6945,7 +6945,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_GOLDENE_FERSE] = {
 		"MH_GOLDENE_FERSE",
-		SkillName = "Goldene Ferse",
+		SkillName = "Золотые подковы",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -6972,7 +6972,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SONIC_CRAW] = {
 		"MH_SONIC_CRAW",
-		SkillName = "Sonic Claw",
+		SkillName = "Звуковой захват",
 		MaxLv = 5,
 		SpAmount = { 20, 25, 30, 35, 40 },
 		bSeperateLv = true,
@@ -6980,7 +6980,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SILENT_BREEZE] = {
 		"MH_SILENT_BREEZE",
-		SkillName = "Silent Breeze",
+		SkillName = "Дуновение ветра",
 		MaxLv = 5,
 		SpAmount = { 45, 54, 63, 72, 81 },
 		bSeperateLv = true,
@@ -6999,7 +6999,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_ERASER_CUTTER] = {
 		"MH_ERASER_CUTTER",
-		SkillName = "Eraser Cutter",
+		SkillName = "Резак",
 		MaxLv = 10,
 		SpAmount = { 25, 30, 35, 40, 45, 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
@@ -7007,7 +7007,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_OVERED_BOOST] = {
 		"MH_OVERED_BOOST",
-		SkillName = "Over Boost",
+		SkillName = "Раздувание",
 		MaxLv = 5,
 		SpAmount = { 70, 90, 110, 130, 150 },
 		bSeperateLv = true,
@@ -7032,7 +7032,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_POISON_MIST] = {
 		"MH_POISON_MIST",
-		SkillName = "Poison Mist",
+		SkillName = "Отравленный туман",
 		MaxLv = 5,
 		SpAmount = { 65, 75, 85, 95, 105 },
 		bSeperateLv = true,
@@ -7040,7 +7040,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_SUMMON_LEGION] = {
 		"MH_SUMMON_LEGION",
-		SkillName = "Summon Legion",
+		SkillName = "Призвать легион",
 		MaxLv = 5,
 		SpAmount = { 60, 80, 100, 120, 140 },
 		bSeperateLv = true,
@@ -7172,7 +7172,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_OVERBRAND] = {
 		"LG_OVERBRAND",
-		SkillName = "Overbrand",
+		SkillName = "Нанесение клейма",
 		MaxLv = 5,
 		SpAmount = { 20, 30, 40, 50, 60 },
 		bSeperateLv = true,
@@ -7203,7 +7203,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_RIDEINLIGHTNING] = {
 		"SR_RIDEINLIGHTNING",
-		SkillName = "Lightning Ride",
+		SkillName = "Ментальная молния",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -7214,7 +7214,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_HOWLINGOFLION] = {
 		"SR_HOWLINGOFLION",
-		SkillName = "Lion's Howl",
+		SkillName = "Рев льва",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -7226,7 +7226,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_TIGERCANNON] = {
 		"SR_TIGERCANNON",
-		SkillName = "Tiger Cannon",
+		SkillName = "Когти тигра",
 		MaxLv = 10,
 		SpAmount = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 },
 		bSeperateLv = true,
@@ -7248,7 +7248,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CHANGEMATERIAL] = {
 		"GN_CHANGEMATERIAL",
-		SkillName = "Change Material",
+		SkillName = "Изменение материи",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -7256,7 +7256,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_SLINGITEM] = {
 		"GN_SLINGITEM",
-		SkillName = "Item Sling",
+		SkillName = "Праща",
 		MaxLv = 1,
 		SpAmount = { 4 },
 		bSeperateLv = false,
@@ -7267,7 +7267,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_MANDRAGORA] = {
 		"GN_MANDRAGORA",
-		SkillName = "Mandragora Howl",
+		SkillName = "Крик мандрагоры",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -7286,7 +7286,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_HELLS_PLANT] = {
 		"GN_HELLS_PLANT",
-		SkillName = "Hell Plant",
+		SkillName = "Плотоядное растение",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -7297,7 +7297,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_FIRE_EXPANSION] = {
 		"GN_FIRE_EXPANSION",
-		SkillName = "Fire Expansion",
+		SkillName = "Огненный зев",
 		MaxLv = 5,
 		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
@@ -7308,7 +7308,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_DEMONIC_FIRE] = {
 		"GN_DEMONIC_FIRE",
-		SkillName = "Demonic Fire ",
+		SkillName = "Демонический костер",
 		MaxLv = 5,
 		SpAmount = { 24, 28, 32, 36, 40 },
 		bSeperateLv = true,
@@ -7327,7 +7327,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_WALLOFTHORN] = {
 		"GN_WALLOFTHORN",
-		SkillName = "Thorn Wall",
+		SkillName = "Стена терновника",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -7338,7 +7338,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_CRESCENTELBOW] = {
 		"SR_CRESCENTELBOW",
-		SkillName = "Crescent Elbow",
+		SkillName = "Отблеск луны",
 		MaxLv = 5,
 		SpAmount = { 80, 80, 80, 80, 80 },
 		bSeperateLv = false,
@@ -7349,7 +7349,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CARTBOOST] = {
 		"GN_CARTBOOST",
-		SkillName = "Geneticist Cart Boost",
+		SkillName = "Ускорение телеги",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -7371,7 +7371,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CARTCANNON] = {
 		"GN_CARTCANNON",
-		SkillName = "Cart Cannon",
+		SkillName = "Боевая телега",
 		MaxLv = 5,
 		SpAmount = { 40, 42, 46, 48, 50 },
 		bSeperateLv = true,
@@ -7382,7 +7382,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_CART_TORNADO] = {
 		"GN_CART_TORNADO",
-		SkillName = "Cart Tornado",
+		SkillName = "Ураган телеги",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
 		bSeperateLv = true,
@@ -7393,7 +7393,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_TRAINING_SWORD] = {
 		"GN_TRAINING_SWORD",
-		SkillName = "Sword Mastery",
+		SkillName = "Владение мечом",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -7519,7 +7519,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_EQC] = {
 		"MH_EQC",
-		SkillName = "E.Q.C : Eternal Quick Combo",
+		SkillName = "Комбинация бесконечности",
 		MaxLv = 5,
 		SpAmount = { 24, 28, 32, 36, 40 },
 		bSeperateLv = true,
@@ -7581,7 +7581,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_CLOUD_KILL] = {
 		"SO_CLOUD_KILL",
-		SkillName = "Killing Cloud",
+		SkillName = "Смертельный туман",
 		MaxLv = 5,
 		SpAmount = { 48, 56, 64, 70, 78 },
 		bSeperateLv = true,
@@ -7600,7 +7600,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_ACTION] = {
 		"SO_EL_ACTION",
-		SkillName = "Elemental Action",
+		SkillName = "Атака элементаля",
 		MaxLv = 1,
 		SpAmount = { 50 },
 		bSeperateLv = false,
@@ -7623,7 +7623,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_WATER_INSIGNIA] = {
 		"SO_WATER_INSIGNIA",
-		SkillName = "Water Insignia",
+		SkillName = "Символ воды",
 		MaxLv = 3,
 		SpAmount = { 22, 30, 38 },
 		bSeperateLv = true,
@@ -7634,7 +7634,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_RAISINGDRAGON] = {
 		"SR_RAISINGDRAGON",
-		SkillName = "Rising Dragon",
+		SkillName = "Энергия дракона",
 		MaxLv = 10,
 		SpAmount = { 120, 120, 120, 120, 120, 120, 120, 120, 120, 120 },
 		bSeperateLv = true,
@@ -7646,7 +7646,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_POWERVELOCITY] = {
 		"SR_POWERVELOCITY",
-		SkillName = "Power Implantation",
+		SkillName = "Передача энергии",
 		MaxLv = 1,
 		SpAmount = { 50 },
 		bSeperateLv = false,
@@ -7669,7 +7669,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SUMMON_AQUA] = {
 		"SO_SUMMON_AQUA",
-		SkillName = "Call Aqua",
+		SkillName = "Элементаль Аква",
 		MaxLv = 3,
 		SpAmount = { 100, 150, 200 },
 		bSeperateLv = true,
@@ -7709,7 +7709,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_EUCHARISTICA] = {
 		"AB_EUCHARISTICA",
-		SkillName = "Eucharistica",
+		SkillName = "Святое причастие",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -7732,7 +7732,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_SILENTIUM] = {
 		"AB_SILENTIUM",
-		SkillName = "Silentium",
+		SkillName = "Безмолвие",
 		MaxLv = 5,
 		SpAmount = { 64, 68, 72, 76, 80 },
 		bSeperateLv = true,
@@ -7754,7 +7754,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SUMMON_TERA] = {
 		"SO_SUMMON_TERA",
-		SkillName = "Call Tera",
+		SkillName = "Элементаль Тера",
 		MaxLv = 3,
 		SpAmount = { 100, 150, 200 },
 		bSeperateLv = true,
@@ -7778,7 +7778,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SUMMON_VENTUS] = {
 		"SO_SUMMON_VENTUS",
-		SkillName = "Call Ventus",
+		SkillName = "Элементаль Вентус",
 		MaxLv = 3,
 		SpAmount = { 100, 150, 200 },
 		bSeperateLv = true,
@@ -7801,7 +7801,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EL_ANALYSIS] = {
 		"SO_EL_ANALYSIS",
-		SkillName = "Analyze Element",
+		SkillName = "Исследование элементов",
 		MaxLv = 2,
 		SpAmount = { 10, 20 },
 		bSeperateLv = true,
@@ -7826,7 +7826,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_VARETYR_SPEAR] = {
 		"SO_VARETYR_SPEAR",
-		SkillName = "Varetyr Spear",
+		SkillName = "Копье Вератюра",
 		MaxLv = 5,
 		SpAmount = { 55, 62, 69, 76, 83 },
 		bSeperateLv = false,
@@ -7892,7 +7892,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {
 		"SR_GENTLETOUCH_ENERGYGAIN",
-		SkillName = "Gentle Touch-Energy Gain",
+		SkillName = "Прикосновение энергии",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -7915,7 +7915,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_EARTHGRAVE] = {
 		"SO_EARTHGRAVE",
-		SkillName = "Earth Grave",
+		SkillName = "Каменный шип",
 		MaxLv = 5,
 		SpAmount = { 62, 70, 78, 86, 94 },
 		bSeperateLv = true,
@@ -7937,7 +7937,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SPELLFIST] = {
 		"SO_SPELLFIST",
-		SkillName = "Spell Fist",
+		SkillName = "Преобразование",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -7959,7 +7959,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_ELECTRICWALK] = {
 		"SO_ELECTRICWALK",
-		SkillName = "Electric Walk",
+		SkillName = "След молнии",
 		MaxLv = 5,
 		SpAmount = { 30, 34, 38, 42, 46 },
 		bSeperateLv = true,
@@ -7981,7 +7981,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_UNLIMITED_HUMMING_VOICE] = {
 		"WM_UNLIMITED_HUMMING_VOICE",
-		SkillName = "Infinite Humming",
+		SkillName = "Бесконечный напев",
 		MaxLv = 5,
 		SpAmount = { 120, 130, 140, 150, 160 },
 		bSeperateLv = true,
@@ -8004,7 +8004,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WA_SWING_DANCE] = {
 		"WA_SWING_DANCE",
-		SkillName = "Swing Dance",
+		SkillName = "Крещендо",
 		MaxLv = 5,
 		SpAmount = { 96, 112, 128, 144, 160 },
 		bSeperateLv = true,
@@ -8071,7 +8071,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SOUND_OF_DESTRUCTION] = {
 		"WM_SOUND_OF_DESTRUCTION",
-		SkillName = "Song of Destruction",
+		SkillName = "Гимн разрушения",
 		MaxLv = 5,
 		SpAmount = { 50, 60, 70, 80, 90 },
 		bSeperateLv = true,
@@ -8094,7 +8094,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_DANCE_WITH_WUG] = {
 		"WM_DANCE_WITH_WUG",
-		SkillName = "Dances with Wargs",
+		SkillName = "Танец с волками",
 		MaxLv = 5,
 		SpAmount = { 120, 140, 160, 180, 200 },
 		bSeperateLv = true,
@@ -8122,7 +8122,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SONG_OF_MANA] = {
 		"WM_SONG_OF_MANA",
-		SkillName = "Song Of Mana",
+		SkillName = "Песнь вдохновения",
 		MaxLv = 5,
 		SpAmount = { 120, 140, 160, 180, 200 },
 		bSeperateLv = true,
@@ -8153,7 +8153,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_WHITEIMPRISON] = {
 		"WL_WHITEIMPRISON",
-		SkillName = "White Imprison",
+		SkillName = "Объятия Хель",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
@@ -8175,7 +8175,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_STASIS] = {
 		"WL_STASIS",
-		SkillName = "Stasis",
+		SkillName = "Воздушный барьер",
 		MaxLv = 5,
 		SpAmount = { 50, 60, 70, 80, 90 },
 		bSeperateLv = true,
@@ -8197,7 +8197,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_TETRAVORTEX] = {
 		"WL_TETRAVORTEX",
-		SkillName = "Tetra Vortex",
+		SkillName = "Стихийное разрушение",
 		MaxLv = 5,
 		SpAmount = { 120, 150, 180, 210, 240 },
 		bSeperateLv = true,
@@ -8222,7 +8222,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_GREAT_ECHO] = {
 		"WM_GREAT_ECHO",
-		SkillName = "Great Echo",
+		SkillName = "Великое эхо",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -8244,7 +8244,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_ARROWSTORM] = {
 		"RA_ARROWSTORM",
-		SkillName = "Arrow Storm",
+		SkillName = "Ливень стрел",
 		MaxLv = 10,
 		SpAmount = { 30, 32, 34, 36, 38, 40, 42, 44, 46, 48 },
 		bSeperateLv = true,
@@ -8267,7 +8267,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_WUGRIDER] = {
 		"RA_WUGRIDER",
-		SkillName = "Warg Ride",
+		SkillName = "Вскочить на варга",
 		MaxLv = 3,
 		SpAmount = { 2, 2, 2 },
 		bSeperateLv = false,
@@ -8290,7 +8290,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_MAGENTATRAP] = {
 		"RA_MAGENTATRAP",
-		SkillName = "Magenta Trap",
+		SkillName = "Красная ловушка",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -8313,7 +8313,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_PILEBUNKER] = {
 		"NC_PILEBUNKER",
-		SkillName = "Pile Bunker",
+		SkillName = "Отбойник",
 		MaxLv = 3,
 		SpAmount = { 50, 50, 50 },
 		bSeperateLv = true,
@@ -8336,7 +8336,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_B_SIDESLIDE] = {
 		"NC_B_SIDESLIDE",
-		SkillName = "Back Slide",
+		SkillName = "Откат",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -8358,7 +8358,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_NEUTRALBARRIER] = {
 		"NC_NEUTRALBARRIER",
-		SkillName = "Neutral Barrier",
+		SkillName = "Энергетическое поле",
 		MaxLv = 3,
 		SpAmount = { 80, 90, 100 },
 		bSeperateLv = true,
@@ -8380,7 +8380,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_SILVERSNIPER] = {
 		"NC_SILVERSNIPER",
-		SkillName = "FAW Silver Sniper",
+		SkillName = "Механическая турель",
 		MaxLv = 5,
 		SpAmount = { 25, 30, 35, 40, 45 },
 		bSeperateLv = true,
@@ -8402,7 +8402,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_BODYPAINT] = {
 		"SC_BODYPAINT",
-		SkillName = "Body Painting",
+		SkillName = "Облако краски",
 		MaxLv = 5,
 		SpAmount = { 10, 15, 20, 25, 30 },
 		bSeperateLv = true,
@@ -8446,7 +8446,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_GLOOMYDAY] = {
 		"WM_GLOOMYDAY",
-		SkillName = "Gloomy Shyness",
+		SkillName = "Элегия",
 		MaxLv = 5,
 		SpAmount = { 60, 75, 90, 105, 120 },
 		bSeperateLv = true,
@@ -8468,7 +8468,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_FORCEOFVANGUARD] = {
 		"LG_FORCEOFVANGUARD",
-		SkillName = "Vanguard Force",
+		SkillName = "Ярость",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
 		bSeperateLv = true,
@@ -8489,7 +8489,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_RAYOFGENESIS] = {
 		"LG_RAYOFGENESIS",
-		SkillName = "Genesis Ray",
+		SkillName = "Проблеск бытия",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -8508,7 +8508,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_FALLENEMPIRE] = {
 		"SR_FALLENEMPIRE",
-		SkillName = "Fallen Empire",
+		SkillName = "Павшая империя",
 		MaxLv = 5,
 		SpAmount = { 20, 30, 40, 50, 60 },
 		bSeperateLv = false,
@@ -8527,7 +8527,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_WINDMILL] = {
 		"SR_WINDMILL",
-		SkillName = "Windmill",
+		SkillName = "Ветряная мельница",
 		MaxLv = 1,
 		SpAmount = { 45 },
 		bSeperateLv = false,
@@ -8546,7 +8546,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_CURE] = {
 		"SR_GENTLETOUCH_CURE",
-		SkillName = "Gentle Touch-Cure",
+		SkillName = "Прикосновение очищения",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = false,
@@ -8565,7 +8565,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_LULLABY_DEEPSLEEP] = {
 		"WM_LULLABY_DEEPSLEEP",
-		SkillName = "Deep Sleep Lullaby",
+		SkillName = "Шепот Морфея",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -8584,7 +8584,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_DEADHILLHERE] = {
 		"WM_DEADHILLHERE",
-		SkillName = "Death Valley",
+		SkillName = "Гимн возрождения",
 		MaxLv = 5,
 		SpAmount = { 50, 53, 56, 59, 62 },
 		bSeperateLv = true,
@@ -8603,7 +8603,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_SEVERE_RAINSTORM] = {
 		"WM_SEVERE_RAINSTORM",
-		SkillName = "Severe Rainstorm",
+		SkillName = "Ария поющих стрел",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -8627,7 +8627,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MI_RUSH_WINDMILL] = {
 		"MI_RUSH_WINDMILL",
-		SkillName = "Windmill Rush",
+		SkillName = "Борьба с ветряными мельницами",
 		MaxLv = 5,
 		SpAmount = { 82, 88, 94, 100, 106 },
 		bSeperateLv = true,
@@ -8646,7 +8646,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_REVERBERATION] = {
 		"WM_REVERBERATION",
-		SkillName = "Reverberation",
+		SkillName = "Реверберация",
 		MaxLv = 5,
 		SpAmount = { 28, 32, 38, 42, 48 },
 		bSeperateLv = true,
@@ -8670,7 +8670,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_METALICSOUND] = {
 		"WM_METALICSOUND",
-		SkillName = "Metallic Sound",
+		SkillName = "Акустический шок",
 		MaxLv = 5,
 		SpAmount = { 64, 68, 72, 76, 80 },
 		bSeperateLv = true,
@@ -8689,7 +8689,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_LESSON] = {
 		"WM_LESSON",
-		SkillName = "Voice Lessons",
+		SkillName = "Сценическое мастерство",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -8705,7 +8705,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MI_ECHOSONG] = {
 		"MI_ECHOSONG",
-		SkillName = "Echo Song",
+		SkillName = "Песнь покровительства",
 		MaxLv = 5,
 		SpAmount = { 86, 92, 98, 104, 110 },
 		bSeperateLv = true,
@@ -8724,7 +8724,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_DOMINION_IMPULSE] = {
 		"WM_DOMINION_IMPULSE",
-		SkillName = "Dominion Impulse",
+		SkillName = "Доминанта",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -8759,7 +8759,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_BEYOND_OF_WARCRY] = {
 		"WM_BEYOND_OF_WARCRY",
-		SkillName = "Warcry from Beyond",
+		SkillName = "Боевой клич",
 		MaxLv = 5,
 		SpAmount = { 120, 130, 140, 150, 160 },
 		bSeperateLv = true,
@@ -8781,7 +8781,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_GENTLETOUCH_REVITALIZE] = {
 		"SR_GENTLETOUCH_REVITALIZE",
-		SkillName = "Gentle Touch-Revitalize",
+		SkillName = "Прикосновение стойкости",
 		MaxLv = 5,
 		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -8805,7 +8805,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_PSYCHIC_WAVE] = {
 		"SO_PSYCHIC_WAVE",
-		SkillName = "Psychic Wave",
+		SkillName = "Ударная волна",
 		MaxLv = 5,
 		SpAmount = { 48, 56, 64, 70, 78 },
 		bSeperateLv = true,
@@ -8827,7 +8827,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SUMMON_AGNI] = {
 		"SO_SUMMON_AGNI",
-		SkillName = "Call Agni",
+		SkillName = "Элементаль Агни",
 		MaxLv = 3,
 		SpAmount = { 100, 150, 200 },
 		bSeperateLv = true,
@@ -8850,7 +8850,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_FIRE_INSIGNIA] = {
 		"SO_FIRE_INSIGNIA",
-		SkillName = "Fire Insignia",
+		SkillName = "Символ огня",
 		MaxLv = 3,
 		SpAmount = { 22, 30, 38 },
 		bSeperateLv = true,
@@ -8877,7 +8877,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_CURSEDCIRCLE] = {
 		"SR_CURSEDCIRCLE",
-		SkillName = "Cursed Circle",
+		SkillName = "Остановка времени",
 		MaxLv = 5,
 		SpAmount = { 40, 60, 80, 100, 120 },
 		bSeperateLv = false,
@@ -8900,7 +8900,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_SPORE_EXPLOSION] = {
 		"GN_SPORE_EXPLOSION",
-		SkillName = "Spore Explosion",
+		SkillName = "Взрыв спор",
 		MaxLv = 5,
 		SpAmount = { 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -8927,7 +8927,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_RAMPAGEBLASTER] = {
 		"SR_RAMPAGEBLASTER",
-		SkillName = "Rampage Blast",
+		SkillName = "Буйство энергии",
 		MaxLv = 5,
 		SpAmount = { 150, 150, 150, 150, 150 },
 		bSeperateLv = false,
@@ -8949,7 +8949,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_S_PHARMACY] = {
 		"GN_S_PHARMACY",
-		SkillName = "Special Pharmacy ",
+		SkillName = "Трансмутация",
 		MaxLv = 10,
 		SpAmount = { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12 },
 		bSeperateLv = true,
@@ -8986,7 +8986,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_INSPIRATION] = {
 		"LG_INSPIRATION",
-		SkillName = "Inspiration",
+		SkillName = "Воодушевление",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -9007,7 +9007,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_PIETY] = {
 		"LG_PIETY",
-		SkillName = "Piety",
+		SkillName = "Благочестие",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -9029,7 +9029,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_PRESTIGE] = {
 		"LG_PRESTIGE",
-		SkillName = "Prestige",
+		SkillName = "Защищающий свет",
 		MaxLv = 5,
 		SpAmount = { 75, 80, 85, 90, 95 },
 		bSeperateLv = true,
@@ -9071,7 +9071,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_EXEEDBREAK] = {
 		"LG_EXEEDBREAK",
-		SkillName = "Exceed Break",
+		SkillName = "Разрушающий прорыв",
 		MaxLv = 5,
 		SpAmount = { 20, 32, 44, 56, 68 },
 		bSeperateLv = true,
@@ -9112,7 +9112,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_RAGEBURST] = {
 		"LG_RAGEBURST",
-		SkillName = "Burst Attack",
+		SkillName = "Взрыв ярости",
 		MaxLv = 1,
 		SpAmount = { 150 },
 		bSeperateLv = false,
@@ -9153,7 +9153,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_TRAMPLE] = {
 		"LG_TRAMPLE",
-		SkillName = "Trample",
+		SkillName = "Топот",
 		MaxLv = 3,
 		SpAmount = { 30, 45, 60 },
 		bSeperateLv = true,
@@ -9169,7 +9169,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_MAELSTROM] = {
 		"SC_MAELSTROM",
-		SkillName = "Maelstrom",
+		SkillName = "Символ искажения",
 		MaxLv = 3,
 		SpAmount = { 50, 55, 60 },
 		bSeperateLv = true,
@@ -9237,7 +9237,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_MANHOLE] = {
 		"SC_MANHOLE",
-		SkillName = "Manhole ",
+		SkillName = "Символ бездны ",
 		MaxLv = 3,
 		SpAmount = { 20, 25, 30 },
 		bSeperateLv = true,
@@ -9278,7 +9278,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_WEAKNESS] = {
 		"SC_WEAKNESS",
-		SkillName = "Masquerade-Weakness",
+		SkillName = "Лик слабости",
 		MaxLv = 3,
 		SpAmount = { 30, 40, 50 },
 		bSeperateLv = true,
@@ -9302,7 +9302,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_UNLUCKY] = {
 		"SC_UNLUCKY",
-		SkillName = "Masquerade-Unlucky",
+		SkillName = "Лик неудачи",
 		MaxLv = 3,
 		SpAmount = { 30, 40, 50 },
 		bSeperateLv = true,
@@ -9325,7 +9325,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_IGNORANCE] = {
 		"SC_IGNORANCE",
-		SkillName = "Masquerade-Ignorance",
+		SkillName = "Лик невежества",
 		MaxLv = 3,
 		SpAmount = { 30, 40, 50 },
 		bSeperateLv = true,
@@ -9336,7 +9336,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_GROOMY] = {
 		"SC_GROOMY",
-		SkillName = "Masquerade-Gloomy",
+		SkillName = "Лик скорби",
 		MaxLv = 3,
 		SpAmount = { 30, 40, 50 },
 		bSeperateLv = true,
@@ -9347,7 +9347,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_INVISIBILITY] = {
 		"SC_INVISIBILITY",
-		SkillName = "Invisibility",
+		SkillName = "Невидимость",
 		MaxLv = 5,
 		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = true,
@@ -9360,7 +9360,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_AUTOSHADOWSPELL] = {
 		"SC_AUTOSHADOWSPELL",
-		SkillName = "Shadow Spell",
+		SkillName = "Заклинание тени",
 		MaxLv = 10,
 		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
 		bSeperateLv = true,
@@ -9371,7 +9371,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_REPRODUCE] = {
 		"SC_REPRODUCE",
-		SkillName = "Reproduce",
+		SkillName = "Репродукция",
 		MaxLv = 10,
 		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
 		bSeperateLv = true,
@@ -9382,7 +9382,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_FATALMENACE] = {
 		"SC_FATALMENACE",
-		SkillName = "Fatal Menace",
+		SkillName = "Призрачное объятие",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -9393,7 +9393,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAGICDECOY] = {
 		"NC_MAGICDECOY",
-		SkillName = "FAW Magic Decoy",
+		SkillName = "Магическая турель",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -9412,7 +9412,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_AXEBOOMERANG] = {
 		"NC_AXEBOOMERANG",
-		SkillName = "Axe Boomerang",
+		SkillName = "Бросок топора",
 		MaxLv = 5,
 		SpAmount = { 20, 22, 24, 26, 28 },
 		bSeperateLv = true,
@@ -9450,7 +9450,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_RESEARCHFE] = {
 		"NC_RESEARCHFE",
-		SkillName = "Fire Earth Research ",
+		SkillName = "Исследование огня и земли",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -9466,7 +9466,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_STEALTHFIELD] = {
 		"NC_STEALTHFIELD",
-		SkillName = "Stealth Field",
+		SkillName = "Термооптический камуфляж",
 		MaxLv = 3,
 		SpAmount = { 80, 100, 120 },
 		bSeperateLv = true,
@@ -9478,7 +9478,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_INFRAREDSCAN] = {
 		"NC_INFRAREDSCAN",
-		SkillName = "Infrared Scan",
+		SkillName = "Инфракрасное сканирование",
 		MaxLv = 1,
 		SpAmount = { 45 },
 		bSeperateLv = false,
@@ -9489,7 +9489,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_EMERGENCYCOOL] = {
 		"NC_EMERGENCYCOOL",
-		SkillName = "Cooldown",
+		SkillName = "Аварийное охлаждение",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -9500,7 +9500,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_SHAPESHIFT] = {
 		"NC_SHAPESHIFT",
-		SkillName = "Elemental Shift",
+		SkillName = "Трансформация",
 		MaxLv = 4,
 		SpAmount = { 100, 100, 100, 100 },
 		bSeperateLv = true,
@@ -9511,7 +9511,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_SELFDESTRUCTION] = {
 		"NC_SELFDESTRUCTION",
-		SkillName = "Suicidal Destruction",
+		SkillName = "Самоуничтожение",
 		MaxLv = 3,
 		SpAmount = { 200, 200, 200 },
 		bSeperateLv = true,
@@ -9522,7 +9522,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAINFRAME] = {
 		"NC_MAINFRAME",
-		SkillName = "Remodel Mainframe",
+		SkillName = "Преобразование каркаса",
 		MaxLv = 4,
 		SpAmount = { 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -9533,7 +9533,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_ACCELERATION] = {
 		"NC_ACCELERATION",
-		SkillName = "Acceleration",
+		SkillName = "Ускорение",
 		MaxLv = 3,
 		SpAmount = { 20, 40, 60 },
 		bSeperateLv = true,
@@ -9544,7 +9544,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_ARMSCANNON] = {
 		"NC_ARMSCANNON",
-		SkillName = "Arm Cannon",
+		SkillName = "Плазменная пушка",
 		MaxLv = 3,
 		SpAmount = { 30, 45, 60 },
 		bSeperateLv = true,
@@ -9556,7 +9556,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_VULCANARM] = {
 		"NC_VULCANARM",
-		SkillName = "Vulcan Arm",
+		SkillName = "Вулкан",
 		MaxLv = 3,
 		SpAmount = { 2, 4, 6 },
 		bSeperateLv = true,
@@ -9567,7 +9567,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_ICEBOUNDTRAP] = {
 		"RA_ICEBOUNDTRAP",
-		SkillName = "Ice Trap",
+		SkillName = "Замораживающая ловушка",
 		MaxLv = 5,
 		SpAmount = { 10, 10, 10, 10, 10 },
 		bSeperateLv = false,
@@ -9578,7 +9578,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_FIRINGTRAP] = {
 		"RA_FIRINGTRAP",
-		SkillName = "Fire Trap",
+		SkillName = "Обжигающая ловушка",
 		MaxLv = 5,
 		SpAmount = { 10, 10, 10, 10, 10 },
 		bSeperateLv = false,
@@ -9589,7 +9589,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_VERDURETRAP] = {
 		"RA_VERDURETRAP",
-		SkillName = "Verdure Trap",
+		SkillName = "Зеленая ловушка",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -9600,7 +9600,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_COBALTTRAP] = {
 		"RA_COBALTTRAP",
-		SkillName = "Cobalt Trap",
+		SkillName = "Синяя ловушка",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -9611,7 +9611,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_SENSITIVEKEEN] = {
 		"RA_SENSITIVEKEEN",
-		SkillName = "Keen Nose",
+		SkillName = "Чутье варга",
 		MaxLv = 5,
 		SpAmount = { 12, 12, 12, 12, 12 },
 		bSeperateLv = false,
@@ -9622,7 +9622,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_TOOTHOFWUG] = {
 		"RA_TOOTHOFWUG",
-		SkillName = "Warg Teeth",
+		SkillName = "Тренировка варга",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -9633,7 +9633,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_WUGDASH] = {
 		"RA_WUGDASH",
-		SkillName = "Warg Dash",
+		SkillName = "Рывок варга",
 		MaxLv = 1,
 		SpAmount = { 4 },
 		bSeperateLv = false,
@@ -9644,7 +9644,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_ELECTRICSHOCKER] = {
 		"RA_ELECTRICSHOCKER",
-		SkillName = "Electric Shock",
+		SkillName = "Электрошоковая ловушка",
 		MaxLv = 5,
 		SpAmount = { 35, 35, 35, 35, 35 },
 		bSeperateLv = false,
@@ -9655,7 +9655,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_DETONATOR] = {
 		"RA_DETONATOR",
-		SkillName = "Detonator",
+		SkillName = "Детонация",
 		MaxLv = 1,
 		SpAmount = { 15 },
 		bSeperateLv = false,
@@ -9666,7 +9666,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_AIMEDBOLT] = {
 		"RA_AIMEDBOLT",
-		SkillName = "Aimed Bolt ",
+		SkillName = "Прицельный выстрел",
 		MaxLv = 10,
 		SpAmount = { 30, 32, 34, 36, 38, 40, 42, 44, 46, 48 },
 		bSeperateLv = true,
@@ -9677,7 +9677,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_RANGERMAIN] = {
 		"RA_RANGERMAIN",
-		SkillName = "Main Ranger",
+		SkillName = "Инстинкт рейнджера",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -9685,7 +9685,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_FEARBREEZE] = {
 		"RA_FEARBREEZE",
-		SkillName = "Fear Breeze",
+		SkillName = "Ветер страха",
 		MaxLv = 5,
 		SpAmount = { 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -9697,7 +9697,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_RELEASE] = {
 		"WL_RELEASE",
-		SkillName = "Release",
+		SkillName = "Стихийный удар",
 		MaxLv = 2,
 		SpAmount = { 3, 20 },
 		bSeperateLv = true,
@@ -9705,7 +9705,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_SUMMONSTONE] = {
 		"WL_SUMMONSTONE",
-		SkillName = "Summon Stone",
+		SkillName = "Сфера земли",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -9716,7 +9716,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_SUMMONFB] = {
 		"WL_SUMMONFB",
-		SkillName = "Summon Fire Ball",
+		SkillName = "Сфера огня",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -9727,7 +9727,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_CHAINLIGHTNING] = {
 		"WL_CHAINLIGHTNING",
-		SkillName = "Chain Lightning",
+		SkillName = "Цепная молния",
 		MaxLv = 5,
 		SpAmount = { 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
@@ -9738,7 +9738,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_COMET] = {
 		"WL_COMET",
-		SkillName = "Comet",
+		SkillName = "Комета",
 		MaxLv = 5,
 		SpAmount = { 480, 560, 640, 720, 800 },
 		bSeperateLv = true,
@@ -9749,7 +9749,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_DRAINLIFE] = {
 		"WL_DRAINLIFE",
-		SkillName = "Drain Life",
+		SkillName = "Поглощение жизни",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -9760,7 +9760,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_RECOGNIZEDSPELL] = {
 		"WL_RECOGNIZEDSPELL",
-		SkillName = "Recognized Spell",
+		SkillName = "Мощь стихий",
 		MaxLv = 5,
 		SpAmount = { 100, 120, 140, 160, 180 },
 		bSeperateLv = true,
@@ -9784,7 +9784,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_MARSHOFABYSS] = {
 		"WL_MARSHOFABYSS",
-		SkillName = "Marsh Of Abyss",
+		SkillName = "Бездонная топь",
 		MaxLv = 5,
 		SpAmount = { 40, 42, 44, 46, 48 },
 		bSeperateLv = true,
@@ -9795,7 +9795,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_JACKFROST] = {
 		"WL_JACKFROST",
-		SkillName = "Jack Frost",
+		SkillName = "Ледяные иглы",
 		MaxLv = 5,
 		SpAmount = { 50, 60, 70, 80, 90 },
 		bSeperateLv = true,
@@ -9806,7 +9806,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_FROSTMISTY] = {
 		"WL_FROSTMISTY",
-		SkillName = "Frost Misty",
+		SkillName = "Морозный туман",
 		MaxLv = 5,
 		SpAmount = { 40, 48, 56, 64, 72 },
 		bSeperateLv = true,
@@ -9817,7 +9817,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_SOULEXPANSION] = {
 		"WL_SOULEXPANSION",
-		SkillName = "Soul Expansion",
+		SkillName = "Призрачная дымка",
 		MaxLv = 5,
 		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
@@ -9828,7 +9828,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_DUPLELIGHT] = {
 		"AB_DUPLELIGHT",
-		SkillName = "Duple Light",
+		SkillName = "Двойной свет",
 		MaxLv = 10,
 		SpAmount = { 55, 60, 65, 70, 75, 80, 85, 90, 95, 100 },
 		bSeperateLv = true,
@@ -9839,7 +9839,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_EXPIATIO] = {
 		"AB_EXPIATIO",
-		SkillName = "Expiatio",
+		SkillName = "Искупление",
 		MaxLv = 5,
 		SpAmount = { 35, 40, 45, 50, 55 },
 		bSeperateLv = true,
@@ -9863,7 +9863,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_RENOVATIO] = {
 		"AB_RENOVATIO",
-		SkillName = "Renovatio",
+		SkillName = "Обновление",
 		MaxLv = 1,
 		SpAmount = { 70 },
 		bSeperateLv = false,
@@ -9887,7 +9887,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_LAUDAAGNUS] = {
 		"AB_LAUDAAGNUS",
-		SkillName = "Lauda Agnus",
+		SkillName = "Лауда Агнус",
 		MaxLv = 4,
 		SpAmount = { 50, 60, 70, 80 },
 		bSeperateLv = true,
@@ -9911,7 +9911,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_ORATIO] = {
 		"AB_ORATIO",
-		SkillName = "Oratio",
+		SkillName = "Отлучение",
 		MaxLv = 10,
 		SpAmount = { 35, 38, 41, 44, 47, 50, 53, 56, 59, 62 },
 		bSeperateLv = false,
@@ -9935,7 +9935,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_PRAEFATIO] = {
 		"AB_PRAEFATIO",
-		SkillName = "Praefatio",
+		SkillName = "Покровительство",
 		MaxLv = 10,
 		SpAmount = { 90, 100, 110, 120, 130, 140, 150, 160, 170, 180 },
 		bSeperateLv = false,
@@ -9954,7 +9954,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_EPICLESIS] = {
 		"AB_EPICLESIS",
-		SkillName = "Epiclesis",
+		SkillName = "Древо жизни",
 		MaxLv = 5,
 		SpAmount = { 300, 300, 300, 300, 300 },
 		bSeperateLv = true,
@@ -9966,7 +9966,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_CHEAL] = {
 		"AB_CHEAL",
-		SkillName = "Coluseo Heal",
+		SkillName = "Массовое лечение",
 		MaxLv = 3,
 		SpAmount = { 200, 220, 240 },
 		bSeperateLv = true,
@@ -9977,7 +9977,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_ANCILLA] = {
 		"AB_ANCILLA",
-		SkillName = "Ancilla",
+		SkillName = "Анцилла",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -10001,7 +10001,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_HALLUCINATIONWALK] = {
 		"GC_HALLUCINATIONWALK",
-		SkillName = "Hallucination Walk",
+		SkillName = "Защитная иллюзия",
 		MaxLv = 5,
 		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = false,
@@ -10025,7 +10025,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_VENOMPRESSURE] = {
 		"GC_VENOMPRESSURE",
-		SkillName = "Venom Pressure",
+		SkillName = "Впрыск яда",
 		MaxLv = 5,
 		SpAmount = { 30, 40, 50, 60, 70 },
 		bSeperateLv = false,
@@ -10050,7 +10050,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_WEAPONCRUSH] = {
 		"GC_WEAPONCRUSH",
-		SkillName = "Weapon Crush",
+		SkillName = "Обезоруживание",
 		MaxLv = 5,
 		SpAmount = { 20, 20, 20, 20, 20 },
 		bSeperateLv = false,
@@ -10073,7 +10073,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_POISONINGWEAPON] = {
 		"GC_POISONINGWEAPON",
-		SkillName = "Poisonous Weapon",
+		SkillName = "Нанесение токсичного яда",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -10095,7 +10095,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_DARKILLUSION] = {
 		"GC_DARKILLUSION",
-		SkillName = "Dark Illusion",
+		SkillName = "Смертельный прыжок",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -10220,7 +10220,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONTRAINING] = {
 		"RK_DRAGONTRAINING",
-		SkillName = "Dragon Training",
+		SkillName = "Приручение дракона",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -10244,7 +10244,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DEATHBOUND] = {
 		"RK_DEATHBOUND",
-		SkillName = "Death Bound",
+		SkillName = "Зеркало боли",
 		MaxLv = 10,
 		SpAmount = { 50, 60, 65, 70, 75, 80, 85, 90, 95, 100 },
 		bSeperateLv = true,
@@ -10288,7 +10288,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_STAHL_HORN] = {
 		"MH_STAHL_HORN",
-		SkillName = "Stahl Horn",
+		SkillName = "Стальной рог",
 		MaxLv = 10,
 		SpAmount = { 43, 46, 49, 52, 55, 58, 61, 64, 67, 70 },
 		bSeperateLv = true,
@@ -10472,7 +10472,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_YAMIKUMO] = {
 		"KO_YAMIKUMO",
-		SkillName = "Shadow Hiding",
+		SkillName = "Спрятаться",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -10483,7 +10483,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_RIGHT] = {
 		"KO_RIGHT",
-		SkillName = "Righthand Mastery",
+		SkillName = "Усиление правой руки",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -10491,7 +10491,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_LEFT] = {
 		"KO_LEFT",
-		SkillName = "Lefthand Mastery",
+		SkillName = "Усиление левой руки",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -10499,7 +10499,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_JYUMONJIKIRI] = {
 		"KO_JYUMONJIKIRI",
-		SkillName = "Cross Slash",
+		SkillName = "Кровавая метка",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -10510,7 +10510,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_SETSUDAN] = {
 		"KO_SETSUDAN",
-		SkillName = "Soul Cutter",
+		SkillName = "Разрыв духовной связи",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
 		bSeperateLv = true,
@@ -10521,7 +10521,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_BAKURETSU] = {
 		"KO_BAKURETSU",
-		SkillName = "Kunai Explosion",
+		SkillName = "Взрывной кунай",
 		MaxLv = 5,
 		SpAmount = { 5, 6, 7, 8, 9 },
 		bSeperateLv = true,
@@ -10532,7 +10532,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_HAPPOKUNAI] = {
 		"KO_HAPPOKUNAI",
-		SkillName = "Kunai Splash",
+		SkillName = "Пронзающий смерч",
 		MaxLv = 5,
 		SpAmount = { 12, 14, 16, 18, 20 },
 		bSeperateLv = true,
@@ -10543,7 +10543,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_MUCHANAGE] = {
 		"KO_MUCHANAGE",
-		SkillName = "Rapid Throw",
+		SkillName = "Золотая смерть",
 		MaxLv = 10,
 		SpAmount = { 50, 50, 50, 50, 50, 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
@@ -10554,7 +10554,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_HUUMARANKA] = {
 		"KO_HUUMARANKA",
-		SkillName = "Swirling Petal",
+		SkillName = "Вихрь лепестков",
 		MaxLv = 5,
 		SpAmount = { 24, 28, 32, 36, 40 },
 		bSeperateLv = true,
@@ -10565,7 +10565,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_MAKIBISHI] = {
 		"KO_MAKIBISHI",
-		SkillName = "Makibishi",
+		SkillName = "Макибиши",
 		MaxLv = 5,
 		SpAmount = { 9, 12, 15, 18, 21 },
 		bSeperateLv = true,
@@ -10576,7 +10576,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_MEIKYOUSISUI] = {
 		"KO_MEIKYOUSISUI",
-		SkillName = "Pure Soul",
+		SkillName = "Безупречный дух",
 		MaxLv = 5,
 		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = true,
@@ -10587,7 +10587,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_ZANZOU] = {
 		"KO_ZANZOU",
-		SkillName = "Illusion - Shadow",
+		SkillName = "Иллюзия тени",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -10598,7 +10598,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KYOUGAKU] = {
 		"KO_KYOUGAKU",
-		SkillName = "Illusion - Shock",
+		SkillName = "Иллюзия шока",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -10609,7 +10609,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_JYUSATSU] = {
 		"KO_JYUSATSU",
-		SkillName = "Illusion - Death",
+		SkillName = "Иллюзия смерти",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -10620,7 +10620,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KAHU_ENTEN] = {
 		"KO_KAHU_ENTEN",
-		SkillName = "Fire Charm",
+		SkillName = "Мощь огня",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -10628,7 +10628,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_HYOUHU_HUBUKI] = {
 		"KO_HYOUHU_HUBUKI",
-		SkillName = "Ice Charm",
+		SkillName = "Мощь воды",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -10636,7 +10636,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KAZEHU_SEIRAN] = {
 		"KO_KAZEHU_SEIRAN",
-		SkillName = "Wind Charm",
+		SkillName = "Мощь ветра",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -10644,7 +10644,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_DOHU_KOUKAI] = {
 		"KO_DOHU_KOUKAI",
-		SkillName = "Earth Charm",
+		SkillName = "Мощь земли",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -10652,7 +10652,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KAIHOU] = {
 		"KO_KAIHOU",
-		SkillName = "Release Ninja Spell",
+		SkillName = "Высвобождение духа",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -10666,7 +10666,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_ZENKAI] = {
 		"KO_ZENKAI",
-		SkillName = "Cast Ninja Spell",
+		SkillName = "Печать духов",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -10678,7 +10678,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_GENWAKU] = {
 		"KO_GENWAKU",
-		SkillName = "Illusion - Bewitch",
+		SkillName = "Иллюзия хаоса",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -10689,7 +10689,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_IZAYOI] = {
 		"KO_IZAYOI",
-		SkillName = "16th Night",
+		SkillName = "Шестнадцатая ночь",
 		MaxLv = 5,
 		SpAmount = { 70, 75, 80, 85, 90 },
 		bSeperateLv = true,
@@ -10700,7 +10700,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KG_KAGEHUMI] = {
 		"KG_KAGEHUMI",
-		SkillName = "Shadow Trampling",
+		SkillName = "Срыв покровов",
 		MaxLv = 5,
 		SpAmount = { 25, 30, 35, 40, 45 },
 		bSeperateLv = true,
@@ -10711,7 +10711,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KG_KYOMU] = {
 		"KG_KYOMU",
-		SkillName = "Empty Shadow",
+		SkillName = "Подавление ауры",
 		MaxLv = 5,
 		SpAmount = { 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
@@ -10722,7 +10722,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KG_KAGEMUSYA] = {
 		"KG_KAGEMUSYA",
-		SkillName = "Shadow Warrior",
+		SkillName = "Воин тени",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -10733,7 +10733,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.OB_ZANGETSU] = {
 		"OB_ZANGETSU",
-		SkillName = "Distorted Crescent",
+		SkillName = "Искажение луны",
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
@@ -10744,7 +10744,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.OB_OBOROGENSOU] = {
 		"OB_OBOROGENSOU",
-		SkillName = "Moonlight Fantasy",
+		SkillName = "Фаза луны",
 		MaxLv = 5,
 		SpAmount = { 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -10755,7 +10755,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.OB_AKAITSUKI] = {
 		"OB_AKAITSUKI",
-		SkillName = "Ominous Moonlight",
+		SkillName = "Кровавая луна",
 		MaxLv = 5,
 		SpAmount = { 20, 30, 40, 50, 60 },
 		bSeperateLv = true,
@@ -10774,7 +10774,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECL_SNOWFLIP] = {
 		"ECL_SNOWFLIP",
-		SkillName = "Snow Flip",
+		SkillName = "Снежный удар",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10782,7 +10782,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECL_PEONYMAMY] = {
 		"ECL_PEONYMAMY",
-		SkillName = "Peony Mommy",
+		SkillName = "Огненный цветок",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10790,7 +10790,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECL_SADAGUI] = {
 		"ECL_SADAGUI",
-		SkillName = "Slapping Herb",
+		SkillName = "Лепесток смерти",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10798,7 +10798,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECL_SEQUOIADUST] = {
 		"ECL_SEQUOIADUST",
-		SkillName = "Yggdrasil Dust",
+		SkillName = "Пыль Древа жизни",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10814,7 +10814,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MER_INVINCIBLEOFF2] = {
 		"MER_INVINCIBLEOFF2",
-		SkillName = "Mind Blaster",
+		SkillName = "Взрыв разума",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -10822,7 +10822,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GC_DARKCROW] = {
 		"GC_DARKCROW",
-		SkillName = "Dark Claw",
+		SkillName = "Темный коготь",
 		MaxLv = 5,
 		SpAmount = { 22, 34, 46, 58, 70 },
 		bSeperateLv = true,
@@ -10833,7 +10833,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RA_UNLIMIT] = {
 		"RA_UNLIMIT",
-		SkillName = "No Limits",
+		SkillName = "Без ограничений",
 		MaxLv = 5,
 		SpAmount = { 100, 120, 140, 160, 180 },
 		bSeperateLv = true,
@@ -10844,7 +10844,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LG_KINGS_GRACE] = {
 		"LG_KINGS_GRACE",
-		SkillName = "King's Grace",
+		SkillName = "Благословение короля",
 		MaxLv = 5,
 		SpAmount = { 200, 180, 160, 140, 120 },
 		bSeperateLv = false,
@@ -10855,7 +10855,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONBREATH_WATER] = {
 		"RK_DRAGONBREATH_WATER",
-		SkillName = "Dragon's Water Breath",
+		SkillName = "Ледяное дыхание",
 		MaxLv = 10,
 		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -10866,7 +10866,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAGMA_ERUPTION] = {
 		"NC_MAGMA_ERUPTION",
-		SkillName = "Lava Flow",
+		SkillName = "Потоки лавы",
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
@@ -10877,7 +10877,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WM_FRIGG_SONG] = {
 		"WM_FRIGG_SONG",
-		SkillName = "Frigg's Song",
+		SkillName = "Песнь плодородия",
 		MaxLv = 5,
 		SpAmount = { 200, 230, 260, 290, 320 },
 		bSeperateLv = true,
@@ -10888,7 +10888,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_ELEMENTAL_SHIELD] = {
 		"SO_ELEMENTAL_SHIELD",
-		SkillName = "Elemental Shield",
+		SkillName = "Щит элементаля",
 		MaxLv = 5,
 		SpAmount = { 120, 120, 120, 120, 120 },
 		bSeperateLv = false,
@@ -10946,7 +10946,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_FULL_THROTTLE] = {
 		"ALL_FULL_THROTTLE",
-		SkillName = "Full Throttle",
+		SkillName = "Полный ход",
 		MaxLv = 5,
 		SpAmount = { 1, 1, 1, 1, 1 },
 		bSeperateLv = true,
@@ -10966,7 +10966,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_ATKMAX] = {
 		"GM_ITEM_ATKMAX",
-		SkillName = "№°ё® ѕЖАМЕЫ °ш°Э·В ГЦґл",
+		SkillName = "Повысить силу физ. атаки предмета",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -10974,7 +10974,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_ATKMIN] = {
 		"GM_ITEM_ATKMIN",
-		SkillName = "Max Physical item attack rate",
+		SkillName = "Понизить силу физ. атаки предмета",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -10982,7 +10982,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_MATKMAX] = {
 		"GM_ITEM_MATKMAX",
-		SkillName = "Minimize Physical item attack rate",
+		SkillName = "Повысить силу маг. атаки предмета",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -10990,7 +10990,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GM_ITEM_MATKMIN] = {
 		"GM_ITEM_MATKMIN",
-		SkillName = "Minimize Magic item attack rate",
+		SkillName = "Понизить силу маг. атаки предмета",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,

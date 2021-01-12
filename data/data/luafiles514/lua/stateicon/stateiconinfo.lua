@@ -122,8 +122,9 @@ StateIconList[EFST_IDs.EFST_HALLUCINATIONWALK] = {
 }
 StateIconList[EFST_IDs.EFST_STORMKICK_ON] = {
 	descript = {
-		{ "Удар торнадо", COLOR_TITLE_BUFF },
-		{ "Можно использовать только в стойке торнадо." }
+		{ "Стойка Торнадо", COLOR_TITLE_BUFF },
+		{ "С определенной вероятностью при физ. атаке активирует" },
+		{ "эффект, позволяющий использовать умение Удар Торнадо." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAUPE] = {
@@ -185,8 +186,9 @@ StateIconList[EFST_IDs.EFST_PROPERTYTELEKINESIS] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 1,
 	descript = {
+		{ "Зачаровать Призрачным элементом", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Наносит врагу урон стихией призраков." }
+		{ "Наделяет оружие силой призраков." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
@@ -697,9 +699,9 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
 	descript = {
-		{ "Удар Урагана", COLOR_TITLE_BUFF },
-		{ "Можно использовать только в стойке Урагана." },
-		{ "Roundhouse Stance when the caster successfully hits a target" }
+		{ "Стойка Урагана", COLOR_TITLE_BUFF },
+		{ "С определенной вероятностью при физ. атаке активирует" },
+		{ "эффект, позволяющий использовать умение Удар Урагана." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTPOISON] = {
@@ -1621,8 +1623,8 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
 StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
 	descript = {
 		{ "Стойка Молнии", COLOR_TITLE_BUFF },
-		{ "Дает 20%-ную вероятность встать в Стойку Молнии" },
-		{ "при успешной атаке на противника." }
+		{ "С определенной вероятностью при физ. атаке активирует" },
+		{ "эффект, позволяющий использовать умение Удар Молнии." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLORIA] = {
@@ -2049,15 +2051,16 @@ StateIconList[EFST_IDs.EFST_STRIKING] = {
 }
 StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
-		{ "Удар Метеора", COLOR_TITLE_BUFF },
-		{ "Можно использовать только в стойке Метеора." },
-		{ "Наносит урон и оглушает противника на 3 сек." }
+		{ "Стойка Метеора", COLOR_TITLE_BUFF },
+		{ "С определенной вероятностью при физ. атаке активирует" },
+		{ "эффект, позволяющий использовать умение Удар Метеора." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 1,
 	descript = {
+		{ "Зачаровать Тьмой", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Наделяет оружие силами Тьмы." }
 	}
