@@ -88147,9 +88147,6 @@ Jobs: ^777777All^000000
 ^FF0000Account Bound^000000
 You put on this hat and feel overwhelmed by the New Year mood!
 Merry Christmas and Happy New Year! Ho-ho-ho!
-Exp +20%
-Max HP +5%
-Max SP +5%
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -88160,6 +88157,7 @@ Jobs: ^777777All^000000
 ^FF0000Account Bound^000000
 You put on this hat and feel overwhelmed with shame for all the bad things that you have done this year...
 This is a punishment for your disgusting deeds! Heh-heh-heh!
+^ff0000[Effects are only active until January 20, 2021.]^000000
 Exp +20%
 Max HP +5%
 Max SP +5%
