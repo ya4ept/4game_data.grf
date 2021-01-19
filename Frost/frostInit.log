@@ -4,6 +4,7 @@ instance of shieldSecurityDll created
 LoadLibraryA(./Frost/gameShieldDll.dll) ok 
 frostInitialize:
 frostFinalize:
-frostSetUserName: 666
-frostSetUserNameW: 666
+frostSetUserName:
+frostSetUserNameW:
+setUserName()  
 finish() 

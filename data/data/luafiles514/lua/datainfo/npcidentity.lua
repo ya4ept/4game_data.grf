@@ -3865,5 +3865,7 @@ jobtbl = {
 	JT_IRO_Moon_Slayer = 3304,
 	JT_IRO_Skoll = 3305,
 	JT_IRO_Valkyrie = 3306,
-	JT_IRO_WORLD_EATER = 3307
+	JT_IRO_WORLD_EATER = 3307,
+	JT_C6_MIMIC = 20591,
+	JT_C7_MIMIC = 20592
 }

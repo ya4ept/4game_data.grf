@@ -1,0 +1,2 @@
+0|System\iteminfo.lub|eb3e504dc1b9165fcc200f5ec15a0ec915e1532e|e91befe2bfdf49f11c53a96c4c75b1a66c4b9f54|pack-1|7478211|578361||
+0|data.grf|2a9b2b6270b0f1b8b53fb9f7bb4a97dfb501dfbe|344c62afd5df7fa551e3503bd0b8a6c92e6eb11f|pack-1|0|7478211||

@@ -816,7 +816,6 @@ pvp_n_4-5.rsw#PvP : Room Copass#
 pvp_n_5-5.rsw#PvP : Room Copass#
 pvp_n_6-5.rsw#PvP : Room Copass#
 pvp_n_7-5.rsw#PvP : Room Copass#
-pvp_n_8-5.rsw#PvP : Room Copass#
 pvp_y_1-1.rsw#Арена: Пронтера #
 pvp_y_2-1.rsw#Арена: Пронтера #
 pvp_y_3-1.rsw#Арена: Пронтера #
@@ -1027,3 +1026,5 @@ pay_d03_i.rsw#Nightmare_of_the_Moonlight_Flower#
 gef_d01_i.rsw#250 Page#
 
 1@jtb.rsw#The Shadowed Dream#
+
+pvp_n_8-5.rsw#Зловещая сокровищница #
