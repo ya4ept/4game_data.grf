@@ -2599,7 +2599,7 @@
 14520#Alchemical Weapon Scroll#
 14521#Repair Weapon Scroll#
 14522#Big Bun#
-14523#Pill#
+14523#Taoist Pills#
 14524#Superb Fish Slice#
 14525#Chewy Ricecake#
 14526#Oriental Pastry#
@@ -7945,6 +7945,15 @@
 7952#Smile Girl's Gift#
 7953#Zhenbolt's Gift#
 
-20418#액세서리#
+20418#Accessory#
 19702#Headgear#
 31166#Headgear#
+
+20088#Accessory#
+20179#Accessory#
+20249#Accessory#
+20496#Accessory#
+31159#Accessory#
+31718#Accessory#
+31721#Accessory#
+9992#Longwang Treasure#

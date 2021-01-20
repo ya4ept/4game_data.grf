@@ -54751,3 +54751,75 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 31166#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
+14523#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+
+20088#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20249#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20496#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31159#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31718#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31721#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+9992#
+A golden chest decorated with an ornament in the form of Longwang, the prince of dragons.
+It looks like it was made in the distant lands of the East...
+^ffffff_^000000
+Open the box and receive one of the following gifts:
+Baby Panda
+Sky Lanterns
+Thunder Drums
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Mask of Ryujin
+Silvervine x777
+Inf. Giant Fly Wing Box (1 h.)
+Red Super Stylish Wig
+Jormungandr Hat
+Monkey Hat
+Black Shiba Inu Hat
+Drooping Panda
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Bloody Branch x2
+Greed Scroll Box (100 pcs.)
+Gym Pass
+Bubblegum Battle Manual
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Savory Herb Salad x20
+Taoist Pills x15
+Blessing of Tyr x9
+Kafra Card x11
+Big Bun x20
+Yummy Skewered Grill x25
+Chewy Ricecake x10
+Oriental Pastry x10
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14523#
+A paper package with a handful of small yellow pills.
+Secret of their manufacture is owned by the old Amatsu Taoist who lives on the sacred mountain.
+Recover 100% SP.
+Weight: ^7777771^000000
+#
+

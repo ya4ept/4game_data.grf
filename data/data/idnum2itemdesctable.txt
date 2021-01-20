@@ -54010,23 +54010,13 @@ Required Level: ^7777771^000000
 Jobs:^777777Gunslinger^000000
 #
 20179#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A sawed off shotgun
-that fires shots more
-rapidly like a pistol
-at the cost of reduced
-accuracy. HIT -5.
-Splash damage.
-Increases Attack
-Speed by 20%.
-^CC0000This item is not Refinable^000000
-Class: ^777777Shotgun^000000
-Attack Strength ^777777110^000000
-Weight: ^77777770^000000
-Weapon Level: ^7777773^000000
+Now you seem to have two heads! And one of them belongs to a monkey...
+Quite cute but creepy at the same time!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Gunslinger^000000
+Jobs: ^777777All^000000
 #
 
 20371#
@@ -88157,10 +88147,6 @@ Jobs: ^777777All^000000
 ^FF0000Account Bound^000000
 You put on this hat and feel overwhelmed with shame for all the bad things that you have done this year...
 This is a punishment for your disgusting deeds! Heh-heh-heh!
-^ff0000[Effects are only active until January 20, 2021.]^000000
-Exp +20%
-Max HP +5%
-Max SP +5%
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -88212,17 +88198,125 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 7953#
-^FF0000Account Bound^000000
+^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
 New Year's gift for Jamput, a brave hero fighting for good and justice.
 Weight: ^7777770^000000
 #
 7952#
-^FF0000Account Bound^000000
+^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
 New Year's gift for the friendly and cheerful Smile Gal.
 Weight: ^7777770^000000
 #
 17256#
-^FF0000Account Bound^000000
+^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
 New Year's gift for the kind and loving Phina.
 Weight: ^7777770^000000
 #
+
+20088#
+Mask of the mighty Eastern dragonlord.
+He lives in an underwater palace and rules over the sea, rain and clouds.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20249#
+A red wig designed for those who broke their limits in being incredibly stylish.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20496#
+Nice and cozy hat, similar to the face of a black hound from Amatsu.
+Perhaps now you'll be less sad when your beloved dog is not around.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31159#
+A funny hat in the shape of Jormungandr's head.
+Just don't put it on when you are going to visit the Great Serpent, okay?
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31718#
+They fly beside you, illuminating everything around with their warm light.
+How beautiful!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31721#
+Drums of Raiden, the legendary God of Thunder.
+Some people say they can be used to cause heavy rain.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9992#
+A golden chest decorated with an ornament in the form of Longwang, the prince of dragons.
+It looks like it was made in the distant lands of the East...
+^ffffff_^000000
+Open the box and receive one of the following gifts:
+Baby Panda
+Sky Lanterns
+Thunder Drums
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Mask of Ryujin
+Silvervine x777
+Inf. Giant Fly Wing Box (1 h.)
+Red Super Stylish Wig
+Jormungandr Hat
+Monkey Hat
+Black Shiba Inu Hat
+Drooping Panda
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x3
+Enriched Oridecon x3
+Bloody Branch x2
+Greed Scroll Box (100 pcs.)
+Gym Pass
+Bubblegum Battle Manual
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Savory Herb Salad x20
+Taoist Pills x15
+Blessing of Tyr x9
+Kafra Card x11
+Big Bun x20
+Yummy Skewered Grill x25
+Chewy Ricecake x10
+Oriental Pastry x10
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14523#
+A paper package with a handful of small yellow pills.
+Secret of their manufacture is owned by the old Amatsu Taoist who lives on the sacred mountain.
+Recover 100% SP.
+Weight: ^7777771^000000
+#
+

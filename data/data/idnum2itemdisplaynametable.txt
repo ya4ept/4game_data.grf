@@ -2657,7 +2657,7 @@
 14520#Alchemical Weapon Scroll#
 14521#Repair Weapon Scroll#
 14522#Big Bun#
-14523#Pill#
+14523#Taoist Pills#
 14524#Superb Fish Slice#
 14525#Chewy Ricecake#
 14526#Oriental Pastry#
@@ -9056,3 +9056,12 @@
 7953#Jamput's Gift#
 7952#Smile Girl's Gift#
 17256#Sonya's Gift#
+
+20088#Mask of Ryujin#
+20179#Monkey Hat#
+20249#Red Super Stylish Wig#
+20496#Black Shiba Inu Hat#
+31159#Jormungandr Hat#
+31718#Sky Lanterns#
+31721#Thunder Drums#
+9992#Longwang Treasure#
