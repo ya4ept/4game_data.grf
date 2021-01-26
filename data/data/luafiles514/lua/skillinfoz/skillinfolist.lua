@@ -10309,7 +10309,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_MAGICMIRROR] = {
 		"NPC_MAGICMIRROR",
-		SkillName = "Magic Mirror",
+		SkillName = "Волшебное зеркало",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,

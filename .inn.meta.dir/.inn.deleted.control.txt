@@ -1,6 +1,7 @@
 2|data.grf|344c62afd5df7fa551e3503bd0b8a6c92e6eb11f
 2|data.grf|364a47efa9ad78f7a3c9420b8ffd585589a4eb7f
 2|data.grf|5fcf2f933913510bc954ab0021137aa7386c269d
+2|data.grf|612a52ae346f052d0a39250167a57c12daa91636
 2|data.grf|85c409c0e55cb33a667aec2ad835f70f56a24fe3
 2|data.grf|8f15d50e19f89df40d0ddae1352c712c213a8c70
 2|data.grf|d6507ca23eb2acaad6aad3c20a111a580d7eaea4
@@ -11,10 +12,11 @@
 2|System\achievement_list.lub|ac9229d95a4468018f57282afaf3b521690dc8c0
 2|System\achievement_list.lub|ad0efc650d335dcdd4044404fdb8bf2c1f6b3051
 2|System\CheckAttendance.lub|132411c07b3e330743ce70460f1a5f998a0f7726
-2|System\iteminfo.lub|3254cdc233fa944c5c0e731c4641e941d58047be
-2|System\iteminfo.lub|515bc78a07c44bf17b8f404e28cf50f8a399d9b0
-2|System\iteminfo.lub|800aed04a144efbdbabbd369e7f9b318ceece510
-2|System\iteminfo.lub|ac02863935ba6d32d8f13f266ec5ce5300b2310f
-2|System\iteminfo.lub|d7cd816ac66738606e3d648bc5bbd21c32726060
-2|System\iteminfo.lub|e91befe2bfdf49f11c53a96c4c75b1a66c4b9f54
-2|System\iteminfo.lub|f80b72dd9fce4337740ebc29e6a4b8657aa34e17
+2|system\iteminfo.lub|2af65275cbfb156b42b60995994ff92c2f7827a1
+2|system\iteminfo.lub|3254cdc233fa944c5c0e731c4641e941d58047be
+2|system\iteminfo.lub|515bc78a07c44bf17b8f404e28cf50f8a399d9b0
+2|system\iteminfo.lub|800aed04a144efbdbabbd369e7f9b318ceece510
+2|system\iteminfo.lub|ac02863935ba6d32d8f13f266ec5ce5300b2310f
+2|system\iteminfo.lub|d7cd816ac66738606e3d648bc5bbd21c32726060
+2|system\iteminfo.lub|e91befe2bfdf49f11c53a96c4c75b1a66c4b9f54
+2|system\iteminfo.lub|f80b72dd9fce4337740ebc29e6a4b8657aa34e17
