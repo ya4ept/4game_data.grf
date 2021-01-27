@@ -3271,20 +3271,20 @@
 
 // -------------- Rental cash item as of 200808 Accessory--------------------
 
-12953#Neo Critical Ring Box#
-12954#Neo Earring Box#
-12955#Neo Ring Box#
-12956#Neo Necklace Box#
-12957#Neo Glove Box#
-12958#Neo Brooch Box#
-12959#Neo Rosary Box#
+12953#Vorpal Ring Box (7 d.)#
+12954#Orichalcum Earring Box (7 d.)#
+12955#Orichalcum Ring Box (7 d.)#
+12956#Orichalcum Pendant Box (7 d.)#
+12957#Trickster's Glove Box (7 d.)#
+12958#Black Silver Brooch Box (7 d.)#
+12959#White God's Sigil Box (7 d.)#
 12960#Neo Safety Ring Box#
-12961#Neo Vesper Core 01 Box#
-12962#Neo Vesper Core 02 Box#
-12963#Neo Vesper Core 03 Box#
-12964#Neo Vesper Core 04 Box#
-13783#Bloody Iron Ball Box#
-13784#Spiritual Ring Box#
+12961#Vesper's INT Module Box (7 d.)#
+12962#Vesper's STR Module Box (7 d.)#
+12963#Vesper's AGI Module Box (7 d.)#
+12964#Vesper's DEX Module Box (7 d.)#
+13783#Prisoner's Flail Box (7 d.)#
+13784#Ring of Heavenly Spirit Box (7 d.)#
 13953#All-in-One Ring Box (7 d.)#
 
 // -------------- Rental cash item as of 200808 10 monsters ring tem--------------------
@@ -3354,20 +3354,20 @@
 
 //---------0829MA rental tem after BOX----------
 
-2688#Neo Critical Ring#
-2689#Neo Earring#
-2690#Neo Ring#
-2691#Neo Necklace#
-2692#Neo Glove#
-2693#Neo Brooch#
-2694#Neo Rosary#
+2688#Vorpal Ring Ring#
+2689#Orichalcum Earring#
+2690#Orichalcum Ring#
+2691#Orichalcum Pendant#
+2692#Trickster's Glove#
+2693#Black Silver Brooch#
+2694#White God's Sigil#
 2695#Neo Safety Ring#
-2696#Neo Vesper Core 01#
-2697#Neo Vesper Core 02#
-2698#Neo Vesper Core 03#
-2699#Neo Vesper Core 04#
-2710#Bloody Iron Ball#
-2711#Spiritual Ring#
+2696#Vesper's INT Module#
+2697#Vesper's STR Module#
+2698#Vesper's AGI Module#
+2699#Vesper's DEX Module#
+2710#Prisoner's Flail#
+2711#Ring of Heavenly Spirit#
 2741#All-in-One Ring#
 2753#Beholder Ring#
 2754#Hallow Ring#

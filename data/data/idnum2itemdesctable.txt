@@ -17392,82 +17392,75 @@ Weight: ^7777770^000000
 Jobs: ^777777All Except Novice^000000
 #
 2688#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-An esoteric ring that
-enables its wearer to^FFFFFF     ^000000 amplify his hidden powers.
-Critical +10%
-This item cannot be Dropped or Traded.
+An esoteric ring
+which enables its wearer to amplify his hidden power.
+Critical Rate + 10
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000  
 #
 2689#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An ancient earring.
-Int +3
-This item cannot be Dropped or Traded.
+INT +3
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000 
 #
 2690#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An ancient ring.
-Str +4
-This item cannot be Dropped or Traded.
+STR +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000 
 #
 2691#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An ancient necklace.
-Vit +4
-This item cannot be Dropped or Traded.
+VIT +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000 
 #
 2692#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An ancient glove.
-Dex + 4
-This item cannot be Dropped or Traded.
+DEX + 4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000 
 #
 2693#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An ancient brooch.
-Agi +4
-This item cannot be Dropped or Traded.
+AGI +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000 
 #
 2694#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An ancient rosary.
-Luk +4, MDEF +5
-This item cannot be Dropped or Traded.
+LUK +4, MDEF +5
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000 
 #
 2695#
 ^000088Rental Item^000000
@@ -17483,62 +17476,58 @@ Required Level: ^7777771^000000
 Jobs: ^777777All Except Novice^000000
 #
 2696#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
 An object that seems
 to have been part of
 a Vesper. It has the
 mysterious power to
 clear its owner's
-mind. MDEF +3,
-Int +2, Max SP +5%
+mind. 
+MDEF +3
+INT +2, Max SP +5%
 Class: ^777777Accessory^000000
-Defense: ^7777771^000000  
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2697#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-An object which
-seems to be part
-of a Vesper that
-can mysteriously
-empower its wearer
-with enhanced strength.
+An object which seems
+to be part of the Vesper. Possesses a mysterious
+power that grants great strength to its owner.
 MDEF +3, STR+3, ATK +10
 Class: ^777777Accessory^000000
-Defense: ^7777771^000000
-Weight: ^7777770^000000
-Required Level: ^7777771
-Jobs: ^777777All except Novice^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2698#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-An object which
-seems to be part
-of a Vesper that
-can mysteriously
-empower its wearer
-with enhanced agility.
+An object which seems
+to be part of the Vesper. Possesses a mysterious
+power that grants agility to he who wears it.
 MDEF +3, Agi +3, Flee +5
 Class: ^777777Accessory^000000
-Defense: ^7777771^000000
-Weight: ^7777770^000000
-Required Level: ^7777771
-Jobs: ^777777All except Novice^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2699#
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-An object which
-seems to be part
-of a Vesper that
-can mysteriously
-empower its wearer
-by enhancing his
+An object which seems
+to be part of the Vesper. Possesses a mysterious
+power that endows the
+owner with greater
 accuracy and dexterity.
-MDEF +3, Dex +3, Hit +10
+MDEF +3, DEX +3, Hit +10
 Class: ^777777Accessory^000000
-Defense: ^7777771^000000
-Weight: ^7777770^000000
-Required Level: ^7777771
-Jobs: ^777777All except Novice^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 2700#
 Red silk that a
@@ -17632,10 +17621,41 @@ placeholder
 placeholder
 #
 2710#
-placeholder
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+A heavy steel ball
+attached to a shackle
+that was supposed to
+keep prisoners from
+escaping in an earlier
+era. However, prisoners outfitted with this ball
+managed to use it as
+a weapon.
+ATK +30
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000  
 #
 2711#
-placeholder
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+A beautiful ring imbued with strange spiritual powers.
+INT + 2, DEX + 2
+[+ Wizardry Staff or Soul Staff]
+MATK + 6%, DEX + 2
+Reduce variable cast time by a percentage according to the Staff's upgrade level.
+[+ Clip or Rosary]
+Inflict 50% more damage against Undead monster with Heal.
+Inflict 30% more damage with Magnus Exorcismus.
+SP Recovery + 9%
+[+ Divine Cross]
+MATK +10%, DEX +2 
+Additional reduction to damage received from Undead and Demon race monsters by 10%.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000   
 #
 2712#
 placeholder
@@ -33804,94 +33824,112 @@ Required Class: ^777777Every Class except Novice^000000
 Weight: ^7777771^000000
 #
 12953#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Critical Ring^000000
-Duration: 7 Days after opening
-An esoteric ring that
-enables its wearer to^FFFFFF     ^000000 amplify his hidden powers.
-Critical +10%
-This item cannot be Dropped or Traded.
+An esoteric ring
+which enables its wearer to amplify his hidden power.
+Critical Rate + 10
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^7777771^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All Except Novice^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 12954#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Earring^000000
-Duration: 7 Days after opening
 An ancient earring.
-Int +3
-This item cannot be Dropped or Traded.
+INT +3
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
 #
 12955#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Ring^000000
-Duration: 7 Days after opening
 An ancient ring.
-Str +4
-This item cannot be Dropped or Traded.
+STR +4
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
 #
 12956#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Necklace^000000
-Duration: 7 Days after opening
 An ancient necklace.
-Vit +4
-This item cannot be Dropped or Traded.
+VIT +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
 Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
 #
 12957#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Glove^000000
-Duration: 7 Days after opening
 An ancient glove.
-Dex + 4
-This item cannot be Dropped or Traded.
+DEX + 4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 12958#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Brooch^000000
-Duration: 7 Days after opening
 An ancient brooch.
-Agi +4
-This item cannot be Dropped or Traded.
+AGI +4
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 12959#
+Rental term: 7 d.
 A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
 ^000088Rental Item^000000
-^6A5ACD1 Rosary^000000
-Duration: 7 Days after opening
 An ancient rosary.
-Luk +4, MDEF +5
-This item cannot be Dropped or Traded.
+LUK +4, MDEF +5
 Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777771^000000
-Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 12960#
 A box that contains:
@@ -33909,28 +33947,76 @@ Weight: ^7777771^000000
 Required Level: ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000
 #
 12961#
-A box that contains 1 Vesper Core 01. Handle with care.
+Rental term: 7 d.
+A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+An object that seems
+to have been part of
+a Vesper. It has the
+mysterious power to
+clear its owner's
+mind. 
+MDEF +3
+INT +2, Max SP +5%
+Class: ^777777Accessory^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12962#
-A box that contains
-1 Vesper Core 02.
-Handle with care.
+Rental term: 7 d.
+A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+An object which seems
+to be part of the Vesper. Possesses a mysterious
+power that grants great strength to its owner.
+MDEF +3, STR+3, ATK +10
+Class: ^777777Accessory^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12963#
-A box that contains
-1 Vesper Core 03.
-Handle with care.
+Rental term: 7 d.
+A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+An object which seems
+to be part of the Vesper. Possesses a mysterious
+power that grants agility to he who wears it.
+MDEF +3, Agi +3, Flee +5
+Class: ^777777Accessory^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12964#
-A box that contains
-1 Vesper Core 04.
-Handle with care.
+Rental term: 7 d.
+A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+An object which seems
+to be part of the Vesper. Possesses a mysterious
+power that endows the
+owner with greater
+accuracy and dexterity.
+MDEF +3, DEX +3, Hit +10
+Class: ^777777Accessory^000000
+Defense: ^7777771^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -88319,4 +88405,50 @@ Secret of their manufacture is owned by the old Amatsu Taoist who lives on the s
 Recover 100% SP.
 Weight: ^7777771^000000
 #
-
+13783#
+Rental term: 7 d.
+A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+A heavy steel ball
+attached to a shackle
+that was supposed to
+keep prisoners from
+escaping in an earlier
+era. However, prisoners outfitted with this ball
+managed to use it as
+a weapon.
+ATK +30
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+13784#
+Rental term: 7 d.
+A box that contains:
+^ffffff_^000000
+^FF0000Account Bound^000000
+^000088Rental Item^000000
+A beautiful ring imbued with strange spiritual powers.
+INT + 2, DEX + 2
+[+ Wizardry Staff or Soul Staff]
+MATK + 6%, DEX + 2
+Reduce variable cast time by a percentage according to the Staff's upgrade level.
+[+ Clip or Rosary]
+Inflict 50% more damage against Undead monster with Heal.
+Inflict 30% more damage with Magnus Exorcismus.
+SP Recovery + 9%
+[+ Divine Cross]
+MATK +10%, DEX +2
+Additional reduction to damage received from Undead and Demon race monsters by 10%.
+Class: ^777777Accessory^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
