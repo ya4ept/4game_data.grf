@@ -784,7 +784,7 @@ pvp_n_4-1.rsw#PvP : Room Sandwich#
 pvp_n_5-1.rsw#PvP : Room Sandwich#
 pvp_n_6-1.rsw#PvP : Room Sandwich#
 pvp_n_7-1.rsw#PvP : Room Sandwich#
-pvp_n_8-1.rsw#PvP : Room Sandwich#
+pvp_n_8-1.rsw#Арена: Колизей #
 pvp_n_1-2.rsw#PvP : Room Rock On#
 pvp_n_2-2.rsw#PvP : Room Rock On#
 pvp_n_3-2.rsw#PvP : Room Rock On#
@@ -792,7 +792,7 @@ pvp_n_4-2.rsw#PvP : Room Rock On#
 pvp_n_5-2.rsw#PvP : Room Rock On#
 pvp_n_6-2.rsw#PvP : Room Rock On#
 pvp_n_7-2.rsw#PvP : Room Rock On#
-pvp_n_8-2.rsw#PvP : Room Rock On#
+pvp_n_8-2.rsw#Арена: Подземелье #
 pvp_n_1-3.rsw#Арена: 4 комнаты #
 pvp_n_2-3.rsw#Арена: 4 комнаты #
 pvp_n_3-3.rsw#Арена: 4 комнаты #
@@ -800,7 +800,7 @@ pvp_n_4-3.rsw#Арена: 4 комнаты #
 pvp_n_5-3.rsw#Арена: 4 комнаты #
 pvp_n_6-3.rsw#Арена: 4 комнаты #
 pvp_n_7-3.rsw#Арена: 4 комнаты #
-pvp_n_8-3.rsw#PvP : Four Room#
+pvp_n_8-3.rsw#Арена: Пещеры #
 pvp_n_1-4.rsw#PvP : Room Undercross#
 pvp_n_2-4.rsw#PvP : Room Undercross#
 pvp_n_3-4.rsw#PvP : Room Undercross#
@@ -808,7 +808,7 @@ pvp_n_4-4.rsw#PvP : Room Undercross#
 pvp_n_5-4.rsw#PvP : Room Undercross#
 pvp_n_6-4.rsw#PvP : Room Undercross#
 pvp_n_7-4.rsw#PvP : Room Undercross#
-pvp_n_8-4.rsw#PvP : Room Undercross#
+pvp_n_8-4.rsw#Арена: Сокровищница #
 pvp_n_1-5.rsw#PvP : Room Copass#
 pvp_n_2-5.rsw#PvP : Room Copass#
 pvp_n_3-5.rsw#PvP : Room Copass#

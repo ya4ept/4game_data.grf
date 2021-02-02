@@ -1247,7 +1247,7 @@ pvp_n_4-1.gnd#prt_maze02.gnd#
 pvp_n_5-1.gnd#prt_maze02.gnd#
 pvp_n_6-1.gnd#prt_maze02.gnd#
 pvp_n_7-1.gnd#prt_maze02.gnd#
-pvp_n_8-1.gnd#prt_maze02.gnd#
+pvp_n_8-1.gnd#guild_vs5.gnd#
 pvp_n_1-2.gnd#job_hunter.gnd#
 pvp_n_2-2.gnd#job_hunter.gnd#
 pvp_n_3-2.gnd#job_hunter.gnd#
@@ -1255,7 +1255,7 @@ pvp_n_4-2.gnd#job_hunter.gnd#
 pvp_n_5-2.gnd#job_hunter.gnd#
 pvp_n_6-2.gnd#job_hunter.gnd#
 pvp_n_7-2.gnd#job_hunter.gnd#
-pvp_n_8-2.gnd#job_hunter.gnd#
+pvp_n_8-2.gnd#job_knight.gnd#
 pvp_n_1-3.gnd#job_wizard.gnd#
 pvp_n_2-3.gnd#job_wizard.gnd#
 pvp_n_3-3.gnd#job_wizard.gnd#
@@ -1286,7 +1286,7 @@ pvp_n_4-1.gat#prt_maze02.gat#
 pvp_n_5-1.gat#prt_maze02.gat#
 pvp_n_6-1.gat#prt_maze02.gat#
 pvp_n_7-1.gat#prt_maze02.gat#
-pvp_n_8-1.gat#prt_maze02.gat#
+pvp_n_8-1.gat#guild_vs5.gat#
 pvp_n_1-2.gat#job_hunter.gat#
 pvp_n_2-2.gat#job_hunter.gat#
 pvp_n_3-2.gat#job_hunter.gat#
@@ -1294,7 +1294,7 @@ pvp_n_4-2.gat#job_hunter.gat#
 pvp_n_5-2.gat#job_hunter.gat#
 pvp_n_6-2.gat#job_hunter.gat#
 pvp_n_7-2.gat#job_hunter.gat#
-pvp_n_8-2.gat#job_hunter.gat#
+pvp_n_8-2.gat#job_knight.gat#
 pvp_n_1-3.gat#job_wizard.gat#
 pvp_n_2-3.gat#job_wizard.gat#
 pvp_n_3-3.gat#job_wizard.gat#
@@ -1326,7 +1326,7 @@ pvp_n_4-1.rsw#prt_maze02.rsw#
 pvp_n_5-1.rsw#prt_maze02.rsw#
 pvp_n_6-1.rsw#prt_maze02.rsw#
 pvp_n_7-1.rsw#prt_maze02.rsw#
-pvp_n_8-1.rsw#prt_maze02.rsw#
+pvp_n_8-1.rsw#guild_vs5.rsw#
 pvp_n_1-2.rsw#job_hunter.rsw#
 pvp_n_2-2.rsw#job_hunter.rsw#
 pvp_n_3-2.rsw#job_hunter.rsw#
@@ -1334,7 +1334,7 @@ pvp_n_4-2.rsw#job_hunter.rsw#
 pvp_n_5-2.rsw#job_hunter.rsw#
 pvp_n_6-2.rsw#job_hunter.rsw#
 pvp_n_7-2.rsw#job_hunter.rsw#
-pvp_n_8-2.rsw#job_hunter.rsw#
+pvp_n_8-2.rsw#job_knight.rsw#
 pvp_n_1-3.rsw#job_wizard.rsw#
 pvp_n_2-3.rsw#job_wizard.rsw#
 pvp_n_3-3.rsw#job_wizard.rsw#
@@ -1399,7 +1399,7 @@ nguild_gef.gnd#gefg_cas01.gnd#
 유저인터페이스\map\pvp_n_5-1.bmp#유저인터페이스\map\prt_maze02.bmp#
 유저인터페이스\map\pvp_n_6-1.bmp#유저인터페이스\map\prt_maze02.bmp#
 유저인터페이스\map\pvp_n_7-1.bmp#유저인터페이스\map\prt_maze02.bmp#
-유저인터페이스\map\pvp_n_8-1.bmp#유저인터페이스\map\prt_maze02.bmp#
+유저인터페이스\map\pvp_n_8-1.bmp#유저인터페이스\map\guild_vs5.bmp#
 유저인터페이스\map\pvp_n_1-2.bmp#유저인터페이스\map\job_hunter.bmp#
 유저인터페이스\map\pvp_n_2-2.bmp#유저인터페이스\map\job_hunter.bmp#
 유저인터페이스\map\pvp_n_3-2.bmp#유저인터페이스\map\job_hunter.bmp#
@@ -1407,7 +1407,7 @@ nguild_gef.gnd#gefg_cas01.gnd#
 유저인터페이스\map\pvp_n_5-2.bmp#유저인터페이스\map\job_hunter.bmp#
 유저인터페이스\map\pvp_n_6-2.bmp#유저인터페이스\map\job_hunter.bmp#
 유저인터페이스\map\pvp_n_7-2.bmp#유저인터페이스\map\job_hunter.bmp#
-유저인터페이스\map\pvp_n_8-2.bmp#유저인터페이스\map\job_hunter.bmp#
+유저인터페이스\map\pvp_n_8-2.bmp#유저인터페이스\map\job_knight.bmp#
 유저인터페이스\map\pvp_n_1-3.bmp#유저인터페이스\map\job_wizard.bmp#
 유저인터페이스\map\pvp_n_2-3.bmp#유저인터페이스\map\job_wizard.bmp#
 유저인터페이스\map\pvp_n_3-3.bmp#유저인터페이스\map\job_wizard.bmp#

@@ -10524,3 +10524,8 @@
 31791#Eat_Coin#
 480052#C_Sakura_Fes_TW#
 100672#비황등달스크롤#
+20572#WingOfHeart#
+31454#Love_Feeling#
+31483#CatEarRibbon#
+31942#C_Romance_Rose_TW#
+100696#대만7월7석스크롤#
