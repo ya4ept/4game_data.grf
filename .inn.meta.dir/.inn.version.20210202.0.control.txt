@@ -1,0 +1,459 @@
+distribution {24}
+    version=20200925.0
+    type=full
+    env=
+    files=../../20200925.0/distr/
+    control-hash=29cbf7449e0c77e35b1cba2804f8702fba97e8bf
+    deleted-control-hash=d1a78c6f092dbea659435cd8a7794ed7436d3884
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1804881512
+    size=1959887120
+    compressed-size-total=1804881512
+    size-total=1959887120
+    compressed-stages=
+
+    version=20200928.0
+    type=partial
+    env=
+    files=../../20200928.0/distr/
+    control-hash=b37b295c5890b629db45a9c44c7e8838b5b8f373
+    deleted-control-hash=e8c9ed77bbf4ff67864c66294f33bb670c2f4189
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1496783130
+    size=1624567506
+    compressed-size-total=1805021945
+    size-total=1959887120
+    compressed-stages=
+
+    version=20200929.0
+    type=partial
+    env=
+    files=../../20200929.0/distr/
+    control-hash=2ea21bc7d95e3667713ec0c841477c526d643504
+    deleted-control-hash=5c452d3111f1b176206f46807891ea198e4653a7
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1497330838
+    size=1624567506
+    compressed-size-total=1805569653
+    size-total=1959887120
+    compressed-stages=
+
+    version=20200929.1
+    type=partial
+    env=
+    files=../../20200929.1/distr/
+    control-hash=0701ad94b29291aa9419df2b46989a71775b3d4a
+    deleted-control-hash=1a7bb3e0fdd67ac643257325258c2f559c43b92c
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1497430722
+    size=1624567506
+    compressed-size-total=1805669537
+    size-total=1959887120
+    compressed-stages=
+
+    version=20201006.0
+    type=partial
+    env=
+    files=../../20201006.0/distr/
+    control-hash=95feb3cba130e44f395717200f1db61819b164ab
+    deleted-control-hash=6c88e3ce6815f7d435881d6cfc71890dcd30f98f
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1495562141
+    size=1624567506
+    compressed-size-total=1803800956
+    size-total=1959887120
+    compressed-stages=
+
+    version=20201013.0
+    type=partial
+    env=
+    files=../../20201013.0/distr/
+    control-hash=babed38f2b950a13fc3757d2cc1c4fc6f7868b15
+    deleted-control-hash=db30239ca90382256551860867681915cc64788b
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1499232281
+    size=1634199146
+    compressed-size-total=1805539805
+    size-total=1960283920
+    compressed-stages=
+
+    version=20201020.0
+    type=partial
+    env=
+    files=../../20201020.0/distr/
+    control-hash=ec9e9c62210be47df553c5c2f33716594d57b0be
+    deleted-control-hash=29263109e8b25da1cc44d28f2c61cf93d8402b1c
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1497712054
+    size=1624567506
+    compressed-size-total=1805991421
+    size-total=1960283920
+    compressed-stages=
+
+    version=20201027.0
+    type=partial
+    env=
+    files=../../20201027.0/distr/
+    control-hash=665629fce9a145f9f6404ed291af4311da19ebcb
+    deleted-control-hash=c711e4a465eebdb2882a6c346453d5f5b29061a3
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1506480666
+    size=1640328812
+    compressed-size-total=1812788190
+    size-total=1966413586
+    compressed-stages=
+
+    version=20201028.0
+    type=partial
+    env=
+    files=../../20201028.0/distr/
+    control-hash=1c1641b9453b3074a262d080d34b9344e7afa80d
+    deleted-control-hash=3911c226e371ed43094e97f84e004789a300293b
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1504881251
+    size=1632188681
+    compressed-size-total=1813162768
+    size-total=1967905599
+    compressed-stages=
+
+    version=20201102.0
+    type=partial
+    env=
+    files=../../20201102.0/distr/
+    control-hash=ff08baeab682dfd8c3eff900a8d3940a8ffdc02e
+    deleted-control-hash=e2d46f56863597d81187297724a3c3c3b2c70c61
+    command-hash=e9d4d651e6235b4fe239217b077e690e0ee5074f
+    adapter-hash=
+    compressed-size=1504858105
+    size=1632188681
+    compressed-size-total=1813139622
+    size-total=1967905599
+    compressed-stages=
+
+    version=20201110.0
+    type=partial
+    env=
+    files=../../20201110.0/distr/
+    control-hash=e2bccd0e5877c02497924e6e8a6c0e13dffff5a4
+    deleted-control-hash=c8d28b776745c269bb89118e7336fcda41d0a71f
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1504767562
+    size=1634160549
+    compressed-size-total=1813049079
+    size-total=1969877467
+    compressed-stages=
+
+    version=20201117.0
+    type=partial
+    env=
+    files=../../20201117.0/distr/
+    control-hash=7b2e6c0549dc61fe18437c978722a0bb996c4695
+    deleted-control-hash=03143903545fb495f57017ca1f4d4efdabfd1f62
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1506079099
+    size=1635664140
+    compressed-size-total=1814360616
+    size-total=1971381058
+    compressed-stages=
+
+    version=20201124.0
+    type=partial
+    env=
+    files=../../20201124.0/distr/
+    control-hash=058cfb0a05b36515414549f8fd1f384adf317a36
+    deleted-control-hash=37521707ca449899cee415f3888bd1088a687bc4
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1513141707
+    size=1648117681
+    compressed-size-total=1821423224
+    size-total=1983834599
+    compressed-stages=
+
+    version=20201208.0
+    type=partial
+    env=
+    files=../../20201208.0/distr/
+    control-hash=7591a8b4d51e6826fe9f0acc5b522f3ff66d94fe
+    deleted-control-hash=c68302619cee25adec4536044b53dff73b003387
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1514535648
+    size=1649909247
+    compressed-size-total=1822817165
+    size-total=1985626165
+    compressed-stages=
+
+    version=20201215.0
+    type=partial
+    env=
+    files=../../20201215.0/distr/
+    control-hash=8b1999e9781bac81c0d7c86fd0a64a7b912ea794
+    deleted-control-hash=4f30e4483fd42cb665f7b5b2f4bc6e3e68155d67
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1515745449
+    size=1651450613
+    compressed-size-total=1824026966
+    size-total=1987167531
+    compressed-stages=
+
+    version=20201222.0
+    type=partial
+    env=
+    files=../../20201222.0/distr/
+    control-hash=efcbd1031489ffa6b9bb4471b0e164e9ca3ee101
+    deleted-control-hash=907280680fedcb6a8513aa36bb68b4a5c67dbfe8
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1541168617
+    size=1682910793
+    compressed-size-total=1849450134
+    size-total=2018627711
+    compressed-stages=
+
+    version=20201223.0
+    type=partial
+    env=
+    files=../../20201223.0/distr/
+    control-hash=c043bb4203fd2301bc908d2c3c52395c959f783c
+    deleted-control-hash=67f7570d9e9c97ecf38453b0b4607b85a69298c4
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1542481182
+    size=1684490217
+    compressed-size-total=1850762699
+    size-total=2020207135
+    compressed-stages=
+
+    version=20201229.0
+    type=partial
+    env=
+    files=../../20201229.0/distr/
+    control-hash=7f294df6d26d0871bc4b10d75d7f8b84f4b704f4
+    deleted-control-hash=b9aba51068e161f40d972e6cddcfe77d7a194204
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1544047074
+    size=1686070186
+    compressed-size-total=1852328591
+    size-total=2021787104
+    compressed-stages=
+
+    version=20210112.0
+    type=partial
+    env=
+    files=../../20210112.0/distr/
+    control-hash=03b50a8cdf8b4013645bf0e4f171131cd474e875
+    deleted-control-hash=51a56e4861b9f71acb395c6426560ac858c81195
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1544017781
+    size=1686070186
+    compressed-size-total=1852299298
+    size-total=2021787104
+    compressed-stages=
+
+    version=20210119.0
+    type=partial
+    env=
+    files=../../20210119.0/distr/
+    control-hash=caee5e8085e0a08be01f6526e293007685a679a6
+    deleted-control-hash=6d5c967625f57c060b055bb8d437115701556ec7
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1544127944
+    size=1686070186
+    compressed-size-total=1852409461
+    size-total=2021787104
+    compressed-stages=
+
+    version=20210126.0
+    type=partial
+    env=
+    files=../../20210126.0/distr/
+    control-hash=b5c53d643ee66ad5e21782db9e10967022891f0a
+    deleted-control-hash=88c6d852077aa6a73ff4f48c4879dbeb023c2373
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1545456728
+    size=1687652138
+    compressed-size-total=1853738245
+    size-total=2023369056
+    compressed-stages=
+
+    version=20210127.0
+    type=partial
+    env=
+    files=../../20210127.0/distr/
+    control-hash=ec7c832748beb970f455f0684f581536a5db76f6
+    deleted-control-hash=a50b6704450971b79e133130b533326af115b98e
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1545268263
+    size=1687652138
+    compressed-size-total=1853549780
+    size-total=2023369056
+    compressed-stages=
+
+    version=20210127.1
+    type=partial
+    env=
+    files=../../20210127.1/distr/
+    control-hash=59c9c90f9237d9b330571c8b0efc4252d73dcd2e
+    deleted-control-hash=a84e6af31c823881e9138dcf4468cc5f42451ac8
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1544570271
+    size=1687652138
+    compressed-size-total=1852851788
+    size-total=2023369056
+    compressed-stages=
+
+    version=20210202.0
+    type=partial
+    env=
+    files=./
+    control-hash=c64958df628aac7e8d3eb5335a2e473da85bcd87
+    deleted-control-hash=aab33cf0426164d56067a56aabd8b0ae9ebd94cd
+    command-hash=333e3b8547a08b9ab641cd87c02a9ed1e64ce8ef
+    adapter-hash=
+    compressed-size=1541240429
+    size=1687652138
+    compressed-size-total=1849521946
+    size-total=2023369056
+    compressed-stages=
+
+delta {23}
+    version=20200925.0
+    files=../delta/20200925.0/
+    compressed-size=72189985
+    control-hash=a916f5014b85877bcbbc043d706a7b26625b14b3
+
+    version=20200928.0
+    files=../delta/20200928.0/
+    compressed-size=71809162
+    control-hash=d4bb1dd77831942a4556e8b8a02a903cb793e078
+
+    version=20200929.0
+    files=../delta/20200929.0/
+    compressed-size=69863874
+    control-hash=ad0e9e783e8039e19f6e2e30d1ef84a8220164c4
+
+    version=20200929.1
+    files=../delta/20200929.1/
+    compressed-size=69820835
+    control-hash=d31c745c3e45e739777b9d70f0677080b5ce0982
+
+    version=20201006.0
+    files=../delta/20201006.0/
+    compressed-size=68879667
+    control-hash=a34d335866b598f6917849c2573b60e3186df321
+
+    version=20201013.0
+    files=../delta/20201013.0/
+    compressed-size=67911725
+    control-hash=173c1fa82dcb7a1853214c72f6de6c59f5c02dd1
+
+    version=20201020.0
+    files=../delta/20201020.0/
+    compressed-size=67804641
+    control-hash=314355da07bc6e1afe25d5ef46929e81bcf9c867
+
+    version=20201027.0
+    files=../delta/20201027.0/
+    compressed-size=57006968
+    control-hash=af7c5278a701e426d4679bc5a95c33dfa46725f4
+
+    version=20201028.0
+    files=../delta/20201028.0/
+    compressed-size=57006944
+    control-hash=6ea5cdebb3887ac2f178ec566c3e5f4f2c10cb7a
+
+    version=20201102.0
+    files=../delta/20201102.0/
+    compressed-size=56881397
+    control-hash=876b605f16c820f95e9d2384601eaf6062d97c10
+
+    version=20201110.0
+    files=../delta/20201110.0/
+    compressed-size=54938883
+    control-hash=8a2faf0ca518a94146396bb0f47ab54f089be935
+
+    version=20201117.0
+    files=../delta/20201117.0/
+    compressed-size=54621239
+    control-hash=7a658aa9e5689f0a0727ca83ee3c547826bf4eb4
+
+    version=20201124.0
+    files=../delta/20201124.0/
+    compressed-size=45071246
+    control-hash=e479c20d559f1914f9b7920b9f5931e6d24e95b4
+
+    version=20201208.0
+    files=../delta/20201208.0/
+    compressed-size=43139270
+    control-hash=9aac74288d2bc7587ea6a6be89347188b6c0e8e0
+
+    version=20201215.0
+    files=../delta/20201215.0/
+    compressed-size=41479824
+    control-hash=d630453bb3014cbfc84216b7edee54f981a428cc
+
+    version=20201222.0
+    files=../delta/20201222.0/
+    compressed-size=13515898
+    control-hash=46c983dfdb38eb9bd08e766f624f9b2583ac0a75
+
+    version=20201223.0
+    files=../delta/20201223.0/
+    compressed-size=13514777
+    control-hash=563866f0c9dfdfc0302e543a20ad2562a8d580c4
+
+    version=20201229.0
+    files=../delta/20201229.0/
+    compressed-size=12695644
+    control-hash=628229260a0cf95154734cb0c936fed516e53d50
+
+    version=20210112.0
+    files=../delta/20210112.0/
+    compressed-size=12623827
+    control-hash=3b5e681759545a65b40057418988004ca1e33cc6
+
+    version=20210119.0
+    files=../delta/20210119.0/
+    compressed-size=11101867
+    control-hash=bfe34529e6db442a90fe30b1ca53099747181a25
+
+    version=20210126.0
+    files=../delta/20210126.0/
+    compressed-size=9090258
+    control-hash=8c1e066cd4efe794ab35dd6004b4d86c4e1f7b1c
+
+    version=20210127.0
+    files=../delta/20210127.0/
+    compressed-size=8920764
+    control-hash=5a4247b3f0e470435abcdb212ac7ec1b1582d154
+
+    version=20210127.1
+    files=../delta/20210127.1/
+    compressed-size=6236434
+    control-hash=3eb47ff3a952dfda0433ededf1b0afb4014ccd8e
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-02-02T17:38:50+03:00
+    date-modified=2021-02-02T17:38:50+03:00
+    running-time-sec=1204
+

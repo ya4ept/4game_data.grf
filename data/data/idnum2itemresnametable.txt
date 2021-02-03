@@ -8607,3 +8607,10 @@
 31718#Blessing_Sky_Lantern#
 31721#ResonateTaego#
 9992#비황등달스크롤#
+
+20509#우리엘의날개#
+20564#C_160LV_Minstrel_Pink#
+20987#C_Heart_Wing_Backpack#
+31483#CatEarRibbon#
+31951#C_Happy_Cat_TW#
+11527#덱요리02#

@@ -3383,36 +3383,36 @@
 // ------------- Ep. 12 ---------------
 // ------------- Battlefield Reward ---------------
 
-13036#Assassin Damascus#
-13037#Assassin Damascus#
-13410#Gladiator Blade#
-13411#Gladiator Blade#
+13036#Brave Assassin's Damascus#
+13037#Valorous Assassin's Damascus#
+13410#Valorous Gladiator Blade#
+13411#Brave Gladiator Blade#
 1425#Assaulter Spear#
 1632#Warlock's Magic Wand#
 1633#Warlock's Battle Wand#
 1634#Strong Recovery Wand#
 1635#Speedy Recovery Wand#
-1542#Battlefield Morning Star#
-1543#Battlefield Morning Star#
-1923#Battlefield Guitar#
-1924#Battlefield Guitar#
-1977#Battle Lariat#
-1978#Battle Lariat#
-1574#Battle Strategy Book#
-1575#Battle Strategy Book#
-1823#Battle Fist#
-1824#Battle Fist#
-1183#Assaulter's Katzbalger#
-1184#Assaulter's Katzbalger#
+1542#Valorous Battlefield Morning Star#
+1543#Brave Battlefield Morning Star#
+1923#Valorous Battlefield Guitar#
+1924#Brave Battlefield Guitar#
+1977#Valorous Battle Lariat#
+1978#Brave Battle Lariat#
+1574#Brave Battle Strategy Book#
+1575#Valorous Battle Strategy Book#
+1823#Valorous Battle Fist#
+1824#Brave Battle Fist#
+1183#Brave Assaulter's Katzbalger#
+1184#Valorous Assaulter's Katzbalger#
 1482#Assaulter Lance#
-1379#Insane Battle Axe#
-1380#Insane Battle Axe#
-13305#Huuma Front Shuriken#
-13306#Huuma Front Shuriken#
-1279#Carnage Katar#
-1280#Carnage Katar#
-1738#Battle CrossBow#
-1739#Battle CrossBow#
+1379#Valorous Insane Battle Axe#
+1380#Brave Insane Battle Axe#
+13305#Brave Huuma Front Shuriken#
+13306#Valorous Huuma Front Shuriken#
+1279#Brave Carnage Katar#
+1280#Valorous Carnage Katar#
+1738#Valorous Battle CrossBow#
+1739#Brave Battle CrossBow#
 13108#Soldier Revolver#
 13171#Soldier Rifle#
 13172#Soldier GatlingGun#
@@ -7957,3 +7957,12 @@
 31718#Accessory#
 31721#Accessory#
 9992#Longwang Treasure#
+
+20509#Garment#
+20564#Garment#
+20987#Garment#
+31483#Accessory#
+31951#Accessory#
+11527#Mini Cake#
+9574#Cupid's Treasure#
+

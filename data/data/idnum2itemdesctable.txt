@@ -3725,8 +3725,8 @@ Required Level: ^77777750^000000
 Jobs: ^777777Transcendent Swordsman^000000
 #
 1183#
+^0000ffCharacter Bound^000000
 ^808080A Two-Handed Sword made to rush at the enemy's position, especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Sword
@@ -3744,8 +3744,8 @@ This item is indestructible in battle.
 #
 
 1184#
+^0000ffCharacter Bound^000000
 ^808080A Two-Handed Sword made to rush at the enemy's position, especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Sword
@@ -3790,7 +3790,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Transcendent Swordsman^000000
 #
 1187#
-^FF0000Account bound^000000
+^0000ffCharacter Bound^000000
 Physical damage to Demihuman targets +70%
 Physical defense of Demihuman targets -25%
 Indestructible
@@ -4960,8 +4960,8 @@ Adds a 5% chance of inflicting ^800000Sleep^000000 on the target when performing
 #
 
 1279#
+^0000ffCharacter Bound^000000
 ^808080A particularly modified Katar created for battles against Demi-Humans. It makes for a battlefield full of blood and terrible crimes if equipped by a Master Assassin.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Katar
@@ -4981,8 +4981,8 @@ This item is indestructible in battle.
 #
 
 1280#
+^0000ffCharacter Bound^000000
 ^808080A particularly modified Katar created for battles against Demi-Humans. It can be used for terrible crimes if equipped by a Master Assassin.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Katar
@@ -5003,7 +5003,7 @@ This item is indestructible in battle.
 #
 
 1281#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Katar
@@ -5027,7 +5027,7 @@ Adds a 7% chance of ASPD + 100% for 5 seconds when performing a physical attack.
 #
 
 1282#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Katar
@@ -5312,7 +5312,7 @@ This item is indestructible in battle.
 #
 
 1310#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Axe
@@ -5861,8 +5861,8 @@ Jobs: ^777777Transcendent Swordsman / Transcendent Merchant^000000
 ^FF0000This item requires translation.^000000
 #
 1379#
+^0000ffCharacter Bound^000000
 ^808080A terrifying Two-Handed Axe that is said to stimulate the nerves in order to kill Demi-Humans, once it's in the wearer's hands.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Axe
@@ -5879,7 +5879,7 @@ Pierces 20% of DEF on Demi-Human race targets when performing a physical attack.
 This item is indestructible in battle.
 #
 1380#
-^FF0000Account bound^000000
+^0000ffCharacter Bound^000000
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in its wearer's hands.
 Str +3
 Physical damage to Demihuman targets +55%
@@ -5909,7 +5909,7 @@ This item cannot be upgraded.
 This item is indestructible in battle.
 #
 1382#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Axe
@@ -6434,8 +6434,8 @@ ASPD - 5%.
 #
 
 1425#
+^0000ffCharacter Bound^000000
 ^808080A special spear made for charging at the enemy's position. It is especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Spear
@@ -6456,7 +6456,7 @@ ASPD + 20%.
 #
 
 1426#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Spear
@@ -7059,8 +7059,8 @@ Required Level: ^77777748^000000
 Jobs: ^777777Swordsman^000000
 #
 1482#
+^0000ffCharacter Bound^000000
 ^808080A Two-Handed Spear made to rush at the enemy's position, especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Spear
@@ -7118,7 +7118,7 @@ Jobs: Transcendent Swordsman Jobs
 #
 
 1486#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Hand Spear
@@ -7766,8 +7766,8 @@ Required Level: ^77777760^000000
 Jobs: ^777777Acolyte^000000
 #
 1542#
+^0000ffCharacter Bound^000000
 ^808080A deadly mace that is usually worn by the best fighter. It is especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Mace
@@ -7785,7 +7785,7 @@ Pierces 20% of DEF on Demi-Human race targets when performing a physical attack.
 This item is indestructible in battle.
 #
 1543#
-^FF0000Account bound^000000
+^0000ffCharacter Bound^000000
 A deadly mace that is usually worn by the best fighter. It is especially designed for battles against Demihumans.
 Str/Dex +1
 Physical damage to Demihuman targets +75%
@@ -7832,7 +7832,7 @@ This item cannot be upgraded.
 #
 
 1546#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Mace
@@ -8228,8 +8228,8 @@ MDEF + 8
 #
 
 1574#
+^0000ffCharacter Bound^000000
 ^808080A battlefield book written by ancient strategists from a far east country. It is still being studied by many militarists.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Book
@@ -8249,8 +8249,8 @@ This item is indestructible in battle.
 #
 
 1575#
+^0000ffCharacter Bound^000000
 ^808080A battlefield book written by ancient strategists from a far east country. It is still being studied by many militarists.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Book
@@ -8268,7 +8268,7 @@ Pierces 25% of MDEF on Demi-Human race targets when performing a magical attack.
 This item is indestructible in battle.
 #
 1576#
-^FF0000Account bound^000000
+^0000ffCharacter Bound^000000
 Matk +115
 Physical damage to Demihuman targets +80%
 Physical defense of Demihuman targets -25%
@@ -8286,7 +8286,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Priest / Sage / Taekwon Master^000000
 #
 1577#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Book
@@ -8935,8 +8935,8 @@ Required Level: ^77777770^000000
 Jobs: ^777777Priest / Monk^000000
 #
 1632#
+^0000ffCharacter Bound^000000
 ^808080A Rod that has been modified for brave magicians whom face enemies in battle. It is especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Staff
@@ -8956,8 +8956,8 @@ This item is indestructible in battle.
 #
 
 1633#
+^0000ffCharacter Bound^000000
 ^808080A Rod that has been modified for brave magicians whom face enemies in battle. It is especially designed for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Staff
@@ -8977,8 +8977,8 @@ This item is indestructible in battle.
 #
 
 1634#
+^0000ffCharacter Bound^000000
 ^808080A Rod that is intended to heal people during battle. It provides special treatment to serious wounds.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Staff
@@ -8996,6 +8996,7 @@ This item is indestructible in battle.
 #
 
 1635#
+^0000ffCharacter Bound^000000
 ^808080A Rod that is intended to heal people during battle. It has been optimized to heal more rapidly.^000000
 ^FFFFFF_^000000
 Type: Weapon
@@ -9063,7 +9064,7 @@ This item cannot be upgraded.
 #
 
 1640#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Staff
@@ -9089,7 +9090,7 @@ Fixed Cast Time - 5%
 #
 
 1641#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: One-Handed Staff
@@ -10016,8 +10017,8 @@ Required Level: ^77777770^000000
 Jobs: ^777777Sniper^000000
 #
 1738#
+^0000ffCharacter Bound^000000
 ^808080A Crossbow that has been designed to deal more damage to Demi-Human monsters.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Bow
@@ -10035,8 +10036,8 @@ This item is indestructible in battle.
 #
 
 1739#
+^0000ffCharacter Bound^000000
 ^808080A Crossbow that has been designed to deal more damage to Demi-Human monsters.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Bow
@@ -10101,7 +10102,7 @@ This item cannot be upgraded.
 #
 
 1743#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Bow
@@ -10770,8 +10771,8 @@ Increases the damage of ^0000FFRaging Quadruple Blow^000000 and ^0000FFRaging Tr
 #
 
 1823#
+^0000ffCharacter Bound^000000
 ^808080Battle Gloves used by combatants in the field of battle. Its wearer is never exhausted because it brings unlimited power once worn.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Knuckle
@@ -10791,8 +10792,8 @@ This item is indestructible in battle.
 #
 
 1824#
+^0000ffCharacter Bound^000000
 ^808080Battle Gloves used by combatants in the field of battle. Its wearer is never exhausted because it brings unlimited power once worn.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Knuckle
@@ -10829,7 +10830,7 @@ Adds a 1% chance of casting ^0000FFLevel 5 Summon Spirit Sphere^000000 on the us
 #
 
 1826#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Knuckle
@@ -10854,7 +10855,7 @@ Adds a chance of casting ^0000FFLevel 5 Occult Impaction^000000 on the target wh
 #
 
 1827#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Knuckle
@@ -11296,8 +11297,8 @@ Increases the damage of ^0000FFArrow Vulcan^000000 and ^0000FF^Melody Strike^000
 #
 
 1923#
+^0000ffCharacter Bound^000000
 ^808080A guitar which was created to encourage armies amidst battle. It looks useful for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Instrument
@@ -11315,8 +11316,8 @@ This item is indestructible in battle.
 #
 
 1924#
+^0000ffCharacter Bound^000000
 ^808080A guitar which was created to encourage armies amidst battle. It looks useful for battles against Demi-Humans.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Instrument
@@ -11371,7 +11372,7 @@ Adds an additional 10% chance of inflicting ^800000Stun^000000 on the target whe
 #
 
 1927#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Instrument
@@ -11905,8 +11906,8 @@ Increases the damage of ^0000FFArrow Vulcan^000000 and ^0000FF^Slinging Arrow^00
 #
 
 1977#
+^0000ffCharacter Bound^000000
 ^808080An especially made whip for battling against Demi-Humans; this whip is strong enough to cut their flesh.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Whip^00000
@@ -11924,8 +11925,8 @@ This item is indestructible in battle.
 #
 
 1978#
+^0000ffCharacter Bound^000000
 ^808080An especially made whip for battling against Demi-Humans; this whip is strong enough to cut their flesh.^000000
-^FF0000Account Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Whip
@@ -11980,7 +11981,7 @@ Knocks the target back 2 cells when using ^0000FFMelody Strike^000000.
 #
 
 1981#
-^FF0000Account Bound^000000
+^0000ffCharacter Bound^000000
 ^FFFFFF_^000000
 Type: Weapon
 Class: Whip
@@ -12209,6 +12210,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Priest / Monk^000000
 #
 2002#
+^0000ffCharacter Bound^000000
 Matk +210
 Magic Attack strength to Demihuman monsters +15%.
 Ignore 25% of Magic Defense of Demihuman monsters.
@@ -14753,6 +14755,7 @@ Weight: ^77777760^000000
 Jobs: ^777777Transcendent Swordsman, Merchant, Thief^000000
 #
 2376#
+^ff0000Character bound^000000
 Designed for brave warriors who face enemies at the forefront. It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
 MaxHP +150, MDEF +2.
@@ -14769,6 +14772,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordsman, Merchant, Taekwon Boy/Girl, Taekwon Master^000000
 #
 2377#
+^0000ffCharacter Bound^000000
 Designed to be used by outstanding warriors who have remarkable attack skills. It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
 MHP +150, MDEF +2, 
@@ -14786,6 +14790,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Merchant^000000
 #
 2378#
+^0000ffCharacter Bound^000000
 If you desire to move more quickly, this might help. It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
 MaxHP +150, MDEF +2, 
@@ -14803,6 +14808,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Thief Classes and Ninja^000000
 #
 2379#
+^0000ffCharacter Bound^000000
 A Battle Robe that helps increase the possibility of survival. It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
 MaxHP +150, MDEF +2, 
@@ -14819,6 +14825,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Mage/Soul Linker^000000
 #
 2380#
+^0000ffCharacter Bound^000000
 Designed to be used by responsible warriors who take charge of the survival of the guild or party. 
 It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
@@ -14837,6 +14844,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Acolyte^000000
 #
 2381#
+^0000ffCharacter Bound^000000
 If you desire to become an accurate and efficient warrior in battle, this might help. 
 It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
@@ -14853,6 +14861,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Archer^000000
 #
 2382#
+^0000ffCharacter Bound^000000
 If you are a true Gunslinger, you might want this suit! It gives off multiple effects when compounded as a set.
 Reduces damage from Demihuman monsters by 2%.
 MHP +150, MDEF +2.
@@ -14976,6 +14985,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 2394#
+^0000ffCharacter Bound^000000
 HP + 20%
 7% additional resistance to the attack from Demi-Human monsters.
 When equipped with Glorious Shoes and Glorious Muffler, attack strength to all enemies increase by 5%, MATK +5%, and gives 3% increase in the recovery amount of using Heal, Potion Pitcher, Sanctuary. Never gets freezed.
@@ -14985,6 +14995,7 @@ Required Level: ^77777781^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2395#
+^0000ffCharacter Bound^000000
 HP +600, SP Recovery rate +10%
 Class: ^777777Armor^000000
 Defense: ^77777710^000000
@@ -14993,6 +15004,7 @@ Required Level: ^77777761^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2396#
+^0000ffCharacter Bound^000000
 HP +500
 Class: ^777777Armor^000000
 Defense: ^77777710^000000
@@ -15411,6 +15423,7 @@ Jobs: ^777777All Transcendent
 Jobs except Novice^000000
 #
 2435#
+^0000ffCharacter Bound^000000
 A Greave that optimizes the quality of one's ability for battle. 
 Reduces damage from Demihuman monsters by 1%.
 MaxHP + 100. MDEF + 1.
@@ -15421,6 +15434,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordsman, Merchant, Thief Classes, Ninja, Taekwon Boy/Girl and Taekwon Master^000000
 #
 2436#
+^0000ffCharacter Bound^000000
 Shoes that are comfortable and solidly made for battle.
 Reduces damage from Demihuman monsters by 1%.
 MaxHP + 100. MDEF + 1.
@@ -15431,6 +15445,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Mage, Acolyte, Archer, Soul Linker^000000
 #
 2437#
+^0000ffCharacter Bound^000000
 They don't look any different than other boots, but they are designed exclusively for Gunslingers.
 Reduces damage from Demihuman monsters by 1%.
 MaxHP + 100. MDEF + 1.
@@ -15475,6 +15490,7 @@ Weight: ^77777725^000000
 Job: ^777777All^000000
 #
 2444#
+^0000ffCharacter Bound^000000
 HP + 10%
 4% additional resistance to the attack from Demi-Human monsters.
 When attacked, Moving Speed increases at a certain rate
@@ -15484,14 +15500,16 @@ Required Level: ^77777781^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2445#
+^0000ffCharacter Bound^000000
 HP & SP +5%
 Class: ^777777Footwear^000000
-Defense: ^7777770^000000
+Defense: ^7777775^000000
 Weight: ^7777770^000000
 Required Level: ^77777761^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2446#
+^0000ffCharacter Bound^000000
 HP +5%
 Class: ^777777Footwear^000000
 Defense: ^77777710^000000
@@ -16231,6 +16249,7 @@ Weight: ^77777725^000000
 Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 2538#
+^0000ffCharacter Bound^000000
 A dignified, splendid Manteau that is provided to any warrior who brings great honor from the battlefield. 
 Reduces damage from Demihuman monsters by 1%.
 MaxHP + 50. MDEF + 1.
@@ -16241,6 +16260,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordsman, Merchant, Thief Classes, Ninja, Taekwon Boy/Girl and Taekwon Master^000000
 #
 2539#
+^0000ffCharacter Bound^000000
 A Manteau that is provided to any superior commander who has the outstanding ability to support their base. 
 Reduces damage from Demihuman monsters by 1%.
 MaxHP + 50. MDEF + 1.
@@ -16251,6 +16271,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Mage, Acolyte, Archer, Soul Linker^000000
 #
 2540#
+^0000ffCharacter Bound^000000
 A Manteau imbued with tension and the mysterious spirit of desolate wilderness.
 Reduces damage from Demihuman monsters by 1%.
 MaxHP + 50. MDEF + 1.
@@ -16318,6 +16339,7 @@ Jobs: ^777777High Priest^000000
 //--------------------------------------------------------------------------
 
 2549#
+^0000ffCharacter Bound^000000
 HP + 5%
 Increase in resistance against the attack from Demi-Human monsters by 5%
 Class: ^777777Garment^000000    Defense: ^7777773^000000
@@ -17723,6 +17745,7 @@ Required Level: ^77777750^000000
 Jobs: ^777777Swordsman, Merchant Class Jobs^000000
 #
 2720#
+^ff0000Account Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 HIT +10
@@ -17735,6 +17758,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordsman / Taekwon Master^000000
 #
 2721#
+^ff0000Account Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 FLEE +10
@@ -17747,6 +17771,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Thief / Ninja^000000
 #
 2722#
+^ff0000Account Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 Mdef +6
@@ -17758,6 +17783,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Acolyte^000000
 #
 2723#
+^ff0000Account Bound^000000
 A medal rewarded to honorable warriors.
 ATK +5%, MATK +5%,
 MDEF +6, MaxHP +600.
@@ -17769,6 +17795,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Mage Classes/Soul Linker^000000
 #
 2724#
+^ff0000Account Bound^000000
 A medal rewarded to honorable warriors.
 ATK +5%, MATK +5%,
 CRI +10, MaxHP +300, 
@@ -17781,6 +17808,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Archer Classes^000000
 #
 2725#
+^ff0000Account Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 Increases ASPD (attack delay -10%)
@@ -17860,6 +17888,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2733#
+^ff0000Account Bound^000000
 A badge rewarded to honorable warriors.
 ATK +5%, MATK +5%,
 CRI +10, MHP +300,
@@ -18078,6 +18107,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2772#
+^0000ffCharacter Bound^000000
 HP +300. Resistance to attacks with Water, Wind, Earth, and Fire properties +10%.
 Aspd +5%. Variable Casting Speed reduces by 3%
 HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
@@ -18090,6 +18120,7 @@ Required Level: ^77777781^000000
 Job: ^777777All excpet Novice Class^000000
 #
 2773#
+^0000ffCharacter Bound^000000
 All stat +2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -18098,6 +18129,7 @@ Required Level: ^77777761^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2774#
+^0000ffCharacter Bound^000000
 All stats +1
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
@@ -37423,6 +37455,7 @@ Jobs: ^777777All^000000
 // ------------- ���� ���� ������ ---------------
 
 13036#
+^0000ffCharacter Bound^000000
 A dagger especially used for assassinations such as killing Demihumans.
 Str + 1, Agi + 1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
@@ -37437,6 +37470,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000
 #
 13037#
+^0000ffCharacter Bound^000000
 A dagger especially used for assassinations such as killing Demihumans.
 Str + 1, Agi + 1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
@@ -37451,6 +37485,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Novice, Swordsman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000
 #
 13410#
+^0000ffCharacter Bound^000000
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
 Str + 1, Dex + 1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
@@ -37464,6 +37499,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Novice, Swordsman, Merchant, Thief Classes^000000
 #
 13411#
+^0000ffCharacter Bound^000000
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
 Str + 1, Dex + 1
 MATK + 74
@@ -37477,6 +37513,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Novice, Swordsman, Merchant, Thief Classes^000000
 #
 13305#
+^0000ffCharacter Bound^000000
 Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
 Str + 2, Dex + 1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
@@ -37490,6 +37527,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Ninja^000000
 #
 13306#
+^0000ffCharacter Bound^000000
 Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
 Str + 2, Dex + 1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
@@ -37505,6 +37543,7 @@ Jobs: ^777777Ninja^000000
 
 
 13108#
+^0000ffCharacter Bound^000000
 A Pistol made for short and medium ranged battles against Demihumans.
 It seems to be capable of doing damage even through a bulletproof vest.
 Dex +2, Accuracy -10
@@ -37520,6 +37559,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Gunslinger^000000
 #
 13171#
+^0000ffCharacter Bound^000000
 A Rifle made for short and medium ranged battles against Demihumans, that enables a reduction to the targeting delay;
 as it is designed to limit the trembling of the shooter's hands.
 Dex +2, Hit +10, Critical +10
@@ -37535,6 +37575,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Gunslinger^000000
 #
 13172#
+^0000ffCharacter Bound^000000
 A specialized Gatling Gun made for battles against Demihumans; occasionally, it shoots high-powered bullets.
 Dex + 2
 Increases Physical Attack Strength towards Demihuman monsters by 35%.
@@ -37550,6 +37591,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Gunslinger^000000
 #
 13173#
+^0000ffCharacter Bound^000000
 A powerful shotgun for short-range battles against Demihumans.
 Dex +2
 Splash damage
@@ -37564,6 +37606,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Gunslinger^000000
 #
 13174#
+^0000ffCharacter Bound^000000
 A Grenade Launcher that shows great fire-power in battles against Demihumans.
 Dex + 2
 Increases Physical Attack Strength towards Demihuman monsters by 35%.
@@ -37583,30 +37626,35 @@ Jobs: ^777777Gunslinger^000000
 
 
 12269#
+^FF0000Account Bound^000000
 Foodstuffs prepared for urgent situations. Don't eat too fast, you might choke on it.
 ^000088ATK + 15 for 10 minutes.^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12270#
+^FF0000Account Bound^000000
 Foodstuffs prepared for urgent situations. Don't eat too fast, you might choke on it. 
 ^000088MATK + 15 for 10 minutes.^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12271#
+^FF0000Account Bound^000000
 Meal Ready to Eat. Improved Ration A, which is convenient for a busy life. Don't be so sure about the taste.
 ^000088Restores amount of HP by 5%^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12272#
+^FF0000Account Bound^000000
 Meal Ready to Eat. Improved Ration B, which is convenient for a busy life. Don't be so sure about the taste.
 ^000088Hit +33 for 10 minutes.^000000
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
 12273#
+^FF0000Account Bound^000000
 Improved Ration C, consisting of a single-celled protein combined with aminos, vitamins, and minerals.
 Everything the body needs.
 ^000088Flee +33 for 10 min.^000000
@@ -37717,10 +37765,12 @@ Jobs: ^777777Assassin Cross^000000
 
 // ------------- ���� ���� ---------------
 7828#
+^FF0000Character Bound^000000
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
 ^ffffff_^000000
 #
 7829#
+^FF0000Character Bound^000000
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
 ^ffffff_^000000
 #
@@ -39819,6 +39869,7 @@ Weight: ^77777730^000000
 
 // ---------- ũ���� ���� ������ ----------
 13416#
+^0000ffCharacter Bound^000000
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
@@ -39835,6 +39886,7 @@ Job: ^777777Novice Class / Swordsman Class / Merchant Class / Thief Class^000000
 #
 
 13417#
+^0000ffCharacter Bound^000000
 Int +6, Matk +80, Increases Int based on refine level.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade: Decrease SP consumption by 10%.
@@ -39848,6 +39900,7 @@ Job: ^777777Novice Class / Swordsman Class / Merchant Class / Thief Class^000000
 #
 
 13418#
+^0000ffCharacter Bound^000000
 Int +6, Matk +80, Increases Int based on refine level.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade: Decrease SP consumption by 10 % 
@@ -39862,6 +39915,7 @@ Job: ^777777Swordsman Class / Merchant Class^000000
 #
 
 13042#
+^0000ffCharacter Bound^000000
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 When physically attacking, has a chance of autocasting [Lex Divina] Lv 1.
@@ -39876,6 +39930,7 @@ Required Level: ^77777780^000000
 Job: ^777777Novice Class / Swordsman Class / Mage Class / Archer Class / Merchant Class / Thief Class /Soul Linker/ Ninja Class^000000
 #
 13307#
+^0000ffCharacter Bound^000000
 Increases Physical Attack Strength to Demihuman monster by 95%.
 Ignores physical defense from Demihuman monster by 20%.
 MATK + 90
@@ -39899,6 +39954,7 @@ Jobs: ^777777Ninja Jobs^000000
 
 
 13110#
+^0000ffCharacter Bound^000000
 Physical Attack Strength to Demihuman monsters +55%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
@@ -39914,6 +39970,7 @@ Job: ^777777Gunslinger^000000
 #
 
 13176#
+^0000ffCharacter Bound^000000
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 30% increase in damage of [Triple Action].
@@ -39930,6 +39987,7 @@ Job: ^777777Gunslinger^000000
 #
 
 13177#
+^0000ffCharacter Bound^000000
 Physical Attack Strength to Demihuman monsters +35%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 30% increase in damage of [Triple Action].
@@ -39945,6 +40003,7 @@ Job: ^777777Gunslinger^000000
 #
 
 13178#
+^0000ffCharacter Bound^000000
 Increases Physical Attack Strength to Demihuman monster by 55%..
 Ignores physical defense from Demihuman monster by 20%.
 Splash Attack
@@ -39964,6 +40023,7 @@ Jobs: ^777777Gunslinger Jobs^000000
 #
 
 13179#
+^0000ffCharacter Bound^000000
 Physical Attack Strength to Demihuman monster +35%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 30% increase in damage of [Triple Action].
@@ -42698,7 +42758,7 @@ Defense: ^7777777^000000
 5388#
 ^ff0000Account bound^000000
 This cute snake will keep you company as you wander around on your adventures.
-Enables Double Attack 5
+Enables Double Attack 5 when equipped with a weapon
 ^000088Animated^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -53916,7 +53976,10 @@ Summon supporting Female Game Master to Fight at your side for 30 minutes.
 Weight: ^7777770^000000
 #
 11527#
-A sweet restorative that heals an extensive amount of HP & SP
+^FF0000Account Bound^000000
+Delicious shortcrust pastry covered with chocolate glaze and garnished with fresh berries.
+Restores ^0000881200 HP and 440 SP^000000.
+^ffffff_^000000
 Weight: ^77777710^000000
 #
 20161#
@@ -59006,15 +59069,21 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18856#
-A hat that is shaped like a white tiger.
-STR + 2, DEX + 2.
-10% additional damage on Animal monsters.
-Has a chance of transforming you into an Eddga, king of tigers, while you are Physically attacking or when you receive Physical damage. During the transformation, 5 SP is consumed each second in exchange for the beastly power temporarily bestowed upon you. 
-The transformation chance and the power increase in proportion to the item's upgrade level.
+What should you do if a ferocious predator has nodded on your head?
+The correct answer is to give him a good sleep! Then maybe he won't eat you.
+STR +2
+DEX +2
+Increases physical damage on Animal monsters by 10% when equipped with a weapon. 
+Has a chance of transforming you into an Eddga for 3 seconds while you are Physically attacking or when you receive Physical damage.
+Chance to transform increases as refine level goes higher. 
+During transformation:
+ATK +25
+Drains 5 SP from the user every second.
+[For each refine level]
+Additional ATK +25
 Class: ^777777Headgear^000000
-Defense: ^77777710^000000
 Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Defense: ^77777710^000000 Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -59466,16 +59535,6 @@ AGI + 3, INT + 3.
 Creates a chance of adding Wind Attribute to your weapon for 3 minutes while you are Physically attacking.
 Class: ^777777Headgear^000000 Defense: ^77777710^000000
 Location: ^777777Upper ^000000Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
-18856#
-A hat that is shaped like a tiger with a sahkkat on his head and a pipe in his mouth. In Korea, smoking tigers are synonymous with ancient times, as in, 'Once upon a time when tigers smoked...'
-STR + 2, DEX + 2.
-10% additional damage on Animal monsters.
-Transforms you into Eddga, king of tigers, while you are Physically attacking or when you receive Physical damage. During the transformation, 5 SP is consumed each second in exchange for the beastly power temporarily bestowed upon you. The transformation chance and the power increase in proportion to the item's upgrade level.
-Class: ^777777Headgear^000000 Defense: ^77777710^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -83677,10 +83736,9 @@ Universal Golden Catalog x25
 Weight: ^7777771^000000
 #
 31160#
-^ff0000Character bound^000000
 A mysterious helm imbued with the power of rune stones.
 Class: ^777777Costume^000000
-Location: ^777777Headgear (Upper)^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -84912,16 +84970,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20255#
-^ff0000Account bound.^000000
 Cheeks burn and heart pounds. What is it? Love.
-Exp +10%
-Max. SP +10%
-SP regen +20%
-Increased move speed
-^ff0000Animated^000000
-^ff0000[Effects are active only during the event (until February 19, 2020).]^000000
 Type: ^777777Costume^000000
-Position: ^777777Headgear (Middle)^000000
+Position: ^777777Middle^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -88452,3 +88503,97 @@ Jobs: ^777777All^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+
+20509#
+Wings of Uriel, one of the eight archangels of Heaven.
+His name means "God is my Light".
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20564#
+Puffs of pink smoke envelop you. They resemble cherry petals in color.
+How beautiful and romantic!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+
+#
+20987#
+A comfortable backpack, decorated with an Angeling image and cute white wings.
+It seems unusually light even when you fill it with heavy stuff.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31483#
+False ears covered with soft white fur and decorated with ribbons.
+Everyone around will gasp when you put them on! See? Love is in the air!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31951#
+This cat has wrapped its long tail around you... and now it purrs.
+It seems that this cutie really doesn't want to get off your head.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9574#
+Cupid's Treasure
+Two hearts pierced by one arrow...
+What an accurate and elegant metaphor for the true love!
+^ffffff_^000000
+Open the box and receive one of the following items:
+Angeling Backpack
+Uriel's Wings
+Pink Mist
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Silvervine x500
+Inf. Giant Fly Wing Box (1 h.)
+Fluffy Ears
+Hero's Runic Visor
+Long Tailed Cat
+Love Fever
+Sleepy Little Tiger
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Bloody Branch x2
+Pegasus Candy x10
+Gym Pass
+Mini Cake x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Angeling Potion x6
+Huge Spray Of Flowers x11
+Kafra Card x11
+Sweet Canape x35
+Strawberry Chocolate x20
+Sesame Pastry x35
+Honey Pastry x35
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
