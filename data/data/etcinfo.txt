@@ -1,4 +1,4 @@
 loadingscreen#
 9#
-event#1#
+//event#1#
 //file end

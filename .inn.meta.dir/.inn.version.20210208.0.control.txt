@@ -1,0 +1,71 @@
+distribution {2}
+    version=20210201.0
+    type=full
+    env=
+    files=../../20210201.0/distr/
+    control-hash=888e5b625ffdb8e1b19dd5e407c5077681fa5746
+    deleted-control-hash=1bbbfc0bd7657c138a02f1ed11174ebc49639654
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2304909382
+    size=2601765149
+    compressed-size-total=2304909382
+    size-total=2601765149
+    compressed-stages=
+
+    version=20210208.0
+    type=partial
+    env=
+    files=./
+    control-hash=76432d843ab25f70ae3307e9188d6270f6d9ab68
+    deleted-control-hash=914368f2e1c0eb292d9286c77a532ae0593a986a
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=1966210375
+    size=2227363453
+    compressed-size-total=2306872343
+    size-total=2604994519
+    compressed-stages=
+
+delta {7}
+    version=20201229.0
+    files=../delta/20201229.0/
+    compressed-size=11062044
+    control-hash=63e4d83444530b8419fca3caed3aebff70058c46
+
+    version=20201229.1
+    files=../delta/20201229.1/
+    compressed-size=10284131
+    control-hash=7ba923788b102845ea523d456fb2242673291f95
+
+    version=20210111.0
+    files=../delta/20210111.0/
+    compressed-size=10811550
+    control-hash=af7e561f2354e683165acab49dd42a518fb49aef
+
+    version=20210112.0
+    files=../delta/20210112.0/
+    compressed-size=10690141
+    control-hash=1c36840d5e2266fdb42a38e29914b3218b02cde7
+
+    version=20210118.0
+    files=../delta/20210118.0/
+    compressed-size=8755774
+    control-hash=863dad6d382cceca020dc696abc347e379e16d50
+
+    version=20210125.0
+    files=../delta/20210125.0/
+    compressed-size=8639726
+    control-hash=4780303cb95b88a7578219d69745f08aada6ab44
+
+    version=20210201.0
+    files=../delta/20210201.0/
+    compressed-size=4962127
+    control-hash=b4bb66a23080caa6e34868636ed98eef556d571f
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-02-08T17:17:40+03:00
+    date-modified=2021-02-08T17:17:40+03:00
+    running-time-sec=612
+

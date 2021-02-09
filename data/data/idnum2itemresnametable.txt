@@ -10529,3 +10529,7 @@
 31483#CatEarRibbon#
 31942#C_Romance_Rose_TW#
 100696#대만7월7석스크롤#
+
+31445#Feather_Fedora_TW#
+31762#Heart_Card_In_Mouth#
+11617#금광석#

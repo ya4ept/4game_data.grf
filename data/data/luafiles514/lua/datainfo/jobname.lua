@@ -3706,5 +3706,7 @@ JobNameTable = {
 	[jobtbl.JT_IRO_Valkyrie] = "iro_valkyrie",
 	[jobtbl.JT_IRO_WORLD_EATER] = "iro_world_eater",
 	[jobtbl.JT_C6_MIMIC] = "MIMIC",
-	[jobtbl.JT_C7_MIMIC] = "MIMIC"
+	[jobtbl.JT_C7_MIMIC] = "MIMIC",
+	[jobtbl.JT_FAKE_ANGEL_E] = "FAKE_ANGEL",
+	[jobtbl.JT_SOLACE_E] = "SOLACE"
 }

@@ -1,7 +1,7 @@
 c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-9a7a355437729fd586734db549af4978 *data.grf
+ffcdf15e49e2c4fb36c7246e7dda0171 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -50,7 +50,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 f14f83778d2b92484866dff79fdba2f1 *Frost\frostinfo.txt
-e59abff0f58b0d34cd532b4bcb311326 *Frost\frostInit.log
+c444d0133be8e80b81b470394f7c408a *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -58,7 +58,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 43bf56790f8597a2ccb245e29824951e *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-fd492e0010658d08a55348399ba2e352 *Frost\launcherUpdater.log
+44ce4ed63f114817cd2113c5688607b6 *Frost\launcherUpdater.log
 fb9a5faddd75389b83efda3145c07c98 *Frost\ro.exe
 99c37cfa293789da021ac2cf9be1d8d0 *Frost\.inn.meta.dir\.inn.cache.txt
 99c37cfa293789da021ac2cf9be1d8d0 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -69,7 +69,7 @@ fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.cont
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
 0e8649d5faeae5e32da5983cc4a773af *System\achievement_list.lub
 1b1b537ae004e245e5a2824c1e0ff140 *System\CheckAttendance.lub
-6d97ad2c64860511dc0c7334e35a4fc4 *System\iteminfo.lub
+38489ed12523f154a667ec7a9c8a7989 *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 070f3d654f1cd8663f5bcc80eba51ce5 *System\monster_size_effect.lub
 5fde27f0179ff3af4343a6eeca13d1cf *System\monster_size_effect_new.lub
