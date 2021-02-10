@@ -1866,12 +1866,12 @@
 5134#Pumpkin-Head#
 7460#Niflheim Express Ticket#
 7461#Blue A Card#
-7462#Blue E Card#
+7462#E#
 7463#Blue F Card#
 7464#Blue H Card#
-7465#Blue L Card#
+7465#L#
 7466#Blue N Card#
-7467#Blue O Card#
+7467#O#
 7468#Blue P Card#
 7469#Blue U Card#
 7470#Blue W Card#
@@ -5408,7 +5408,7 @@
 2576#Garment#
 16999#Bravery Bag Box#
 6566#Fierce Cacao 99 Recipe#
-6567#Chocolate Drink Recipe#
+6567#Valentine's Day Card#
 11057#February Sweets#
 2881#Accessory#
 18531#Cap#
@@ -7965,4 +7965,8 @@
 31951#Accessory#
 11527#Mini Cake#
 9574#Cupid's Treasure#
-
+31445#Accessory#
+31762#Accessory#
+11617#Chocolate Ball#
+23554#LOVE Envelope#
+6018#V#

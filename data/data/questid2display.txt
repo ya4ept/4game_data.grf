@@ -1305,7 +1305,7 @@ Hurry and bring 5 Iron Ore and 1 Phracon to Cougar.#
 #
 
 6019#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#
-You have found the Seal. It�? time to bring it to the Cougar.#
+You have found the Seal. It�?? time to bring it to the Cougar.#
 Bring the Seal to the Cougar.#
 
 //�ǽ�����
@@ -1681,7 +1681,7 @@ Bring the Laphine craftsman 15 Crystallized Teardrops and 15 Fluorescent Liquid.
 You did great finding the Crystallized Teardrops and Fluorescent Liquid. They have enough supply for today.#
 #
 
-// �̰��?
+// �̰��??
 //--------------------��������--------------------------------
 8000#Quitting Job Change#SG_FEEL#QUE_NOIMAGE#
 Give up changing your job to Assassin and go back to town. #
@@ -1819,7 +1819,7 @@ The superintendant refused to approve the increase in the Factory Repair budget.
 Zelmeto still wants to make the repairs so he has asked you to bring back ^FF000020 Flexible Tube^000000, ^FF000010 Rusty Screw^000000, and ^FF000010 Used Iron Plate^000000 so they can make the needed repairs.#
 #
 
-// ����Ÿ���� : �����?����Ʈ
+// ����Ÿ���� : �����??����Ʈ
 
 8032#Tarlock's Favor#SG_FEEL#QUE_NOIMAGE#
 Tarlock says that he wouldn't mind telling you how the Airship works if you do him a favor of delivering a letter to his brother Ferlock.#
@@ -2139,7 +2139,7 @@ I warned Bekento that he might cause trouble for you, but it seems that you've c
 Go back to Zhed.#
 
 
-// ���� : ��ô���� ���� ���?����Ʈ (rachel_ryu.sc)
+// ���� : ��ô���� ���� ���??����Ʈ (rachel_ryu.sc)
 
 8106#Mr. Shendar's daughter#SG_FEEL#QUE_NOIMAGE#
 Mr. Shendar says that his daughter has been going out with someone. She went to some town for that boy and he hasn't heard from her since. Find someone who may know what may have happened to her.#
@@ -2467,7 +2467,7 @@ G-go away. Talk to Canell, my sister...!..ZzzzzZzZZZzzzZZ..#
 Now, a true Dancer should be able to figure out the secret to winking on her own. But since I'm such a kind woman, I will deign to explain it to you. Ho-ho~#
  #
 
-// ep13 : �ﱹ ���� �������?���� (ep13_1_rhea.sc)
+// ep13 : �ﱹ ���� �������??���� (ep13_1_rhea.sc)
 
 8196#The Tripartite Union's Feud#SG_FEEL#QUE_NOIMAGE#
 "Those researchers complain a lot these days. They're terribly stressed out and I think somebody should really listen to their problems. Especially those dealing with document files argue with each other many times. You might wanna start by talking to them."#
@@ -2718,7 +2718,7 @@ Return after 1 hour.#
 The Chivalry Captain 'Hermann' says you need to get approvals by other Knights in order to become a Knight. #
 Talk to other members of Chivalry.#
 
-//-----------------�����?----------------------
+//-----------------�����??----------------------
 
 // 1st test - 1
 9001#Loyalty of a Knight#SG_FEEL#QUE_NOIMAGE#
@@ -2817,7 +2817,7 @@ Collect 5 Crystal Blue, 5 Green Live, 5 Red Blood, 5 Wind of Verdure.#
 You've passed the first test. Katrine says that now you should go to the man in the corner.#
 Talk to the Dismal Wizard.#
 
-//---------------------------���?( ��ħ�� ���� )--------------------------------
+//---------------------------���??( ��ħ�� ���� )--------------------------------
 
 9016#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
 The second step of the Job Change test is to give correct answers to the questions given by Laurel.#
@@ -3007,7 +3007,7 @@ Go to Meto and check if your interference was effective.#
 Reforming successful! Go and report to Weigon.#
 #
 
-//---------------------------���?���� �ΰ�--------------------------------
+//---------------------------���??���� �ΰ�--------------------------------
 10034#Search the knife#SG_FEEL#QUE_NOIMAGE#
 Go down to the field to find Yun Kyo Ham's knife.#
 #
@@ -3016,7 +3016,7 @@ Go down to the field to find Yun Kyo Ham's knife.#
 You found the knife. Return to Yun Kyo Ham.#
 #
 
-//---------------------------���� �ͻ��?��--------------------------------
+//---------------------------���� �ͻ��??��--------------------------------
 10036#Candies for Magumagu#SG_FEEL#QUE_NOIMAGE#
 Bring 10 Candies to Magumagu.#
 #
@@ -3106,7 +3106,7 @@ You'll be able to learn the Utan language if you bring the following materials: 
 Collect the required materials.#
 
 // --------------EP13------------------------------------------
-//---------------------------�̰��?����--------------------------------
+//---------------------------�̰��??����--------------------------------
 10057#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 Go to the promotional staff in Aldebaran.#
 #
@@ -3240,7 +3240,7 @@ Your story seems quite influential to him.#
 You experienced of things to tell him, just tell all of things you felt from the experience.#
 
 // �ۼ���
-// ----------�������? ��ü����, ������, ���ݴ³���
+// ----------�������?? ��ü����, ������, ���ݴ³���
 11000#Inspection of Odin Shrine#SG_FEEL#QUE_NOIMAGE#
 Anyway, if you'd like to help us, please take a look around the shrine and see if you'd want to work for us. Please talk to the Boatman to travel to the shrine, okay?#
 Talk to Alex again after investigating the Shrine.#
@@ -3627,7 +3627,7 @@ I need something to fix the tent with, if you can get^0000FF 30 Horn of Hillslio
 
 
 // ���Ͽ�
-//---------------ģ��, �������?-----------------------
+//---------------ģ��, �������??-----------------------
 12000#An old friend#SG_FEEL#QUE_NOIMAGE#
 Find Maku's old friend and talk with him.#
 #
@@ -8642,7 +8642,7 @@ Message from ^0000FFBorobudur Temple Manager^000000: "^404040Dewata Island and J
 Go back to the ^0000FFTribal Chief Paiko^000000 and receive the reward.#
 
 //---------13.3 �߰� �� ����-------
-//--ep13_3_invite , ep13_3_secret ���Ǽҵ� 13.3 ������ ��û, ����ӹ�?
+//--ep13_3_invite , ep13_3_secret ���Ǽҵ� 13.3 ������ ��û, ����ӹ�??
 7182#Sapha's Visit#SG_FEEL#QUE_NOIMAGE#
 There are rumors that a Sapha from Manuk has come to visit the camp. Aello trusts me so he appointed me to speak to him. The delegate is in the room at the right on the second floor.#
 Meet the Sapha delegate upstairs.#
@@ -10471,7 +10471,7 @@ You have finished a job for the Knights of the Neighborhood Boss. Wait for the t
 #
 
 // ���Ǽҵ� 14.1
-// �����?�����?���� ������
+// �����??�����??���� ������
 5016#Bring me Research Tools#SG_FEEL#QUE_NOIMAGE#
 The Raffle Researchers are saying that they were being attached by an unidentified life and so their research was stolen from them.#
 Go and retrieve the research from the unidentified life and give it back to the researchers.#
@@ -11444,7 +11444,7 @@ Observe Beho and Bianca and make sure that your plan for the one-eyed loverboy w
 #
 
 
-//- ��Ʈ �����?
+//- ��Ʈ �����??
 2271#Secret in the Woods#SG_FEEL#QUE_NOIMAGE#
 Guard from Port Malaya said villagers are all talking about a treasure.#
 Talk to the gathered Port Malaya villagers.#
@@ -11491,7 +11491,7 @@ Get Rid of Buwaya#
 
 // ---------- Port Malaya Update ------------
 
-//------------��Ʈ �����?������
+//------------��Ʈ �����??������
 7350#Cautious Village#SG_FEEL#QUE_NOIMAGE#
 First time in Port Malaya. Feeling a bit confused but better go see Phong in Mumbaki in the village as told. I'm sure he'll help me out.#
 Talk to Phong in Mumbaki#
@@ -11820,7 +11820,7 @@ Set up the trap. Report back to the Chief.#
 Talk to the 'Chief' in Malaya.#
 
 
-//-- ��Ʈ�����?
+//-- ��Ʈ�����??
 12278#Towards Bakonawa Lake...#SG_FEEL#QUE_NOIMAGE#
 Entered the lake to stop Bakonawa. Don't think I need to go back into the lake within the week.#
 #
@@ -11830,7 +11830,7 @@ A huge fight will break out if Bakonawa is left as is. He must be eliminated.#
 #
 
 
-// �ʸ��� ���ö���¡ : "������ ���� 2��" ��Ʈ�����?
+// �ʸ��� ���ö���¡ : "������ ���� 2��" ��Ʈ�����??
 9222#Get Rid of Bangungot from Hospital 2F'#SG_FEEL#QUE_NOIMAGE#
 Track and kill ^0000FFBangungot^000000 and then return to the nurse.#
 #
@@ -11844,7 +11844,7 @@ Investigate the ^0000FFHospital 2F^000000 overflowing with dark energy.#
 #
 
 
-//-- ��Ʈ �����?
+//-- ��Ʈ �����??
 11284#Nurse at Port Malaya#SG_FEEL#QUE_NOIMAGE#
 Looks dirty but 'Rotten Bandages' were soaked in special juice and have special powers. It only takes 2 of these bandages to cover both feet.#
 Deliver 2 Rotten Bandages and talk again.#
@@ -11949,7 +11949,7 @@ Feel like Las was playing you. Talk to the nurse in front of the hospital.#
 You've not only interrupted my job but you also brought her to the room making you responsible. Don't think of running away.#
 Get rid of Bangungot and return.#
 
-//-- ��Ʈ �����?
+//-- ��Ʈ �����??
 4229#Devil in the Cave#SG_FEEL#QUE_NOIMAGE#
 People say the monster is not appearing at the moment. Should come back tomorrow.#
 Buwaya in hiding#
@@ -13052,7 +13052,7 @@ When you finish your job, Please report to Cat gamers Director.#
 Go Malangdo..#
 Malangdo#
 
-//-- ������ �߿� �����?
+//-- ������ �߿� �����??
 7242#Play with the baby cat#SG_FEEL#QUE_NOIMAGE#
 The request from Rato, an expert cat sailor in Malangdo. He worries about the baby cats so asked you find them and play with them. Go to find those baby cats. They are Rosy the white one, Roku the black one, and gold one Charo.#
 #
@@ -13614,7 +13614,7 @@ Let's get back with 30 delicious jelly.#
 You can't receive any request from Biscuit during one day.#
 #
 
-//--���Ϲ����?���� ����Ʈ(����14.1���߰�_����������)
+//--���Ϲ����??���� ����Ʈ(����14.1���߰�_����������)
 12254#Now it's cleaning#SG_FEEL#QUE_NOIMAGE#
 Now it's cleaning time. Please concentrate one spot before the time finishes#
 Clean the culvert within 1 hour#
@@ -20704,7 +20704,7 @@ Church Donation Quest#
 I have completed learning Odin's skill for today. Need to wait till 20 hours pass.#
 Come back 20 hours later.#
 
-//------20090826 ���ݸ��?����Ʈ-----------
+//------20090826 ���ݸ��??����Ʈ-----------
 9034#No Fears!!#SG_FEEL#QUE_NOIMAGE#
 I am a fearless warrior! Let's try again tomorrow!#
 Come back 20 hours later.#
@@ -20753,7 +20753,7 @@ Refine ^0000FFGloria's^000000 ^006400Ordinary Armor^000000 up to ^0000FF+5 level
 9045#Gloria's Study: Present#SG_FEEL#QUE_NOIMAGE#
 I have completed helping Gloria for today.Need to wait till 20 hours have passed.#
 Come back 20 hours later.#
-//---- �ʸ��� ���?�̺�Ʈ 1�� --------
+//---- �ʸ��� ���??�̺�Ʈ 1�� --------
 9049#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : ^404040Visit Mercenary Scout^000000#
 Find ^FF0000Mercenary Scout^000000 in the ^8B4513Glast Heim Prison^000000!!#
@@ -20766,7 +20766,7 @@ Kill 150 ^FF0000Zombie Prisoners^000000, then you can get rewards from ^FF0000Me
 ^0000FFElite Mercenary^000000, ^0000FFMercenary Scout^000000 : ^404040Well done! You did a good job^000000#
 Defeated ^FF0000Zombie Prisoners^000000. Now, ^8B4513Glast Heim Prison^000000 is in a peace.#
 
-//----- 2010 ���������?------------
+//----- 2010 ���������??------------
 // IARA 
 9052#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : "^404040Visit Mercenary Scout^000000"#
@@ -20780,7 +20780,7 @@ Kill 150 ^FF0000Ice Titan^000000, then you can get rewards from ^FF0000Mercenary
 ^0000FFElite Mercenary^000000, ^0000FFMercenary Scout^000000 : "^404040Well done! You did a good job^000000"#
 Defeated ^FF0000Ice Titan^000000. Now, ^8B4513Ice Cave^000000 is in a peace.#
 
-// 2010 �ʸ��� ��������- ����佺Ƽ��?
+// 2010 �ʸ��� ��������- ����佺Ƽ��??
 9055#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : "^404040Visit Mercenary Scout^000000"#
 Find ^FF0000Mercenary Scout^000000 in the ^8B4513Sphinx^000000!!#
@@ -20997,12 +20997,12 @@ Kill 100 ^FF0000Gullinbursti^000000 from ^8B4513dungeon^000000!!#
 Message from ^0000FFValkyrie Yuna D^000000: "^404040defeat 100 Zombie Master^000000"#
 Kill 100 ^FF0000Zombie Master^000000 from ^8B4513dungeon^000000!!#
 
-// ------- �ʸ��� : ���?����Ʈ - 5�� -
+// ------- �ʸ��� : ���??����Ʈ - 5�� -
 
 9166#Stat Reset : Present Condition#SG_FEEL#QUE_NOIMAGE#
 You can get a Stat Reset Service if you have [Shard of Odin].#
 Come back ^FF000020 hours^000000 later.#
-//-----------�ʸ��� 2010 ���� ħ�� ���?�̺�Ʈ
+//-----------�ʸ��� 2010 ���� ħ�� ���??�̺�Ʈ
 
 9200#1st Adventure#SG_FEEL#QUE_NOIMAGE#
 Talk to Rina.#
@@ -22190,4 +22190,42 @@ Report to Wicked Santa.#
 #
 17264#Santa Assistant Course#SG_FEEL#QUE_IMAGE#
 Everybody got their gifts! Return to your Santa for reward.#
+#
+29150#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+It seems our new friend needs help with love affairs! Find Juliet in Comodo and talk to her.#
+#
+29151#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+Families of Romeo and Juliet are at bad relationship! We need to somehow reconcile them. Find Romeo's father in Prontera.#
+#
+29152#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+The reason for the enmity between the families of Romeo and Juliet is an ancient artifact. Find Juliet's father in Comodo and find out the details.#
+#
+29153#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+It seems that you are not welcome here. Find another member of Juliet's family in Comodo.#
+#
+29154#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+To gain the trust of Juliet's family, bring 25 Valentines to Juliet's grandfather.#
+#
+29155#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+Prepare your valentines! Your rivals are Rosalyn and Tybalt!#
+Show them how fortune loves you.#
+
+29156#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+You defeated the masters of the traditional Comodo games. Talk to Juliet's father.#
+#
+29157#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+Juliet's fate has already been decided ... or not?#
+Talk to Romeo.#
+
+29158#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+Make a bet with Juliet's father.#
+#
+29159#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+The relic is back! Talk to Father Romeo.#
+#
+29160#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+Talk to Romeo.#
+#
+29161#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
+Talk to Juliet.#
 #

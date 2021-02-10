@@ -10332,8 +10332,9 @@ letter ''^000088A^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7462#
-A card marked with the
-letter ''^000088E^000000'' which is used for special events.
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -10350,8 +10351,9 @@ letter ''^000088H^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7465#
-A card marked with the
-letter ''^000088L^000000'' which is used for special events.
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -10362,8 +10364,9 @@ letter ''^000088N^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7467#
-A card marked with the
-letter ''^000088O^000000'' which is used for special events.
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -41847,9 +41850,9 @@ It seems like there's a certain place for using this recipe.
 Weight: ^7777770^000000
 #
 6567#
-Magic Recipe which will teach you how to make a cool chocolate drink.
-It seems like there's a certain place for using this recipe.
-^B90000Essential Ingredients:  30 Cacao beans, 3 Chocolates, 2 Milk^000000
+^FF0000Account Bound^000000
+A postcard that replaces money in a casino. Ask how roulette and Valentine's Day are related?
+Well... Love is the greatest gamble!
 Weight: ^7777770^000000
 #
 
@@ -55115,4 +55118,33 @@ Honey Pastry x35
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
+6018#
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23554#
+^FF0000Account Bound^000000
+An envelope with one of the letters from the word LOVE.
+What is the letter? Open and find out!
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+11617#
+^FF0000Account Bound^000000
+A ball of chocolate sponge cake breaded with walnuts.
+It's not very good for your teeth... but it's so delicious!
+ATK and MATK +14 for 5 minutes
+Restores 14% HP
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31762#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31445#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#

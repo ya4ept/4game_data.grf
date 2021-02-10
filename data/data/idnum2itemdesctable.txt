@@ -442,7 +442,9 @@ Weight: 1
 #
 
 558#
-^808080Fried and ground Cacao that is solidified with Milk and cacao paste. Delicious and bittersweet.^000000
+^FF0000Account Bound^000000
+Fried and ground Cacao that is solidified with Milk and cacao paste. Delicious and bittersweet.
+Recovers ^000088some HP and SP^000000.
 ^FFFFFF_^000000
 Weight: 2
 #
@@ -17745,7 +17747,7 @@ Required Level: ^77777750^000000
 Jobs: ^777777Swordsman, Merchant Class Jobs^000000
 #
 2720#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 HIT +10
@@ -17758,7 +17760,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Swordsman / Taekwon Master^000000
 #
 2721#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 FLEE +10
@@ -17771,7 +17773,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Thief / Ninja^000000
 #
 2722#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 Mdef +6
@@ -17783,7 +17785,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Acolyte^000000
 #
 2723#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A medal rewarded to honorable warriors.
 ATK +5%, MATK +5%,
 MDEF +6, MaxHP +600.
@@ -17795,7 +17797,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Mage Classes/Soul Linker^000000
 #
 2724#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A medal rewarded to honorable warriors.
 ATK +5%, MATK +5%,
 CRI +10, MaxHP +300, 
@@ -17808,7 +17810,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Archer Classes^000000
 #
 2725#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A medal rewarded to honorable warriors.
 Atk/Matk +5%
 Increases ASPD (attack delay -10%)
@@ -17888,7 +17890,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777All Jobs except Novice^000000
 #
 2733#
-^ff0000Account Bound^000000
+^FF0000Character Bound^000000
 A badge rewarded to honorable warriors.
 ATK +5%, MATK +5%,
 CRI +10, MHP +300,
@@ -28741,8 +28743,9 @@ letter ''^000088A^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7462#
-A card marked with the
-letter ''^000088E^000000'' which is used for special events.
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28759,8 +28762,9 @@ letter ''^000088H^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7465#
-A card marked with the
-letter ''^000088L^000000'' which is used for special events.
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -28771,8 +28775,9 @@ letter ''^000088N^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7467#
-A card marked with the
-letter ''^000088O^000000'' which is used for special events.
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -39862,10 +39867,13 @@ Weight: ^77777730^000000
 #
 
 12322#
-A pie covered with sweet chocolate.  This isn't pretty but the taste is excellent.  It reminds you of the taste of homemade pie. 
+^FF0000Account Bound^000000
+A pie covered with sweet chocolate.
+This isn't pretty but the taste is excellent.
+It reminds you of the taste of homemade pie. 
 ^000088HP & SP recovery +5%.^000000
 ^ffffff_^000000
-Weight: ^77777730^000000
+Weight: ^7777775^000000
 
 // ---------- ũ���� ���� ������ ----------
 13416#
@@ -63581,9 +63589,9 @@ It seems like there's a certain place for using this recipe.
 Weight: ^7777770^000000
 #
 6567#
-Magic Recipe which will teach you how to make a cool chocolate drink.
-It seems like there's a certain place for using this recipe.
-^B90000Essential Ingredients:  30 Cacao beans, 3 Chocolates, 2 Milk^000000
+^FF0000Account Bound^000000
+A postcard that replaces money in a casino. Ask how roulette and Valentine's Day are related?
+Well... Love is the greatest gamble!
 Weight: ^7777770^000000
 #
 
@@ -88596,4 +88604,53 @@ Honey Pastry x35
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
+31445#
+^FF0000Account Bound^000000
+Headdress of Ferdinand Fossett, the famous gambler and sharper.
+Decorated with lucky cards, feathers of rare birds and amulet ribbon...
+It seems that Fossett was a very superstitious man!
+EXP +20%
+Max HP/SP +10%
+Increase damage against Demi-Humans by 7%
+Movement Speed +100%
+^ff0000[Effects are active only during the event (until February 17, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31762#
+^FF0000Account Bound^000000
+Nobody in the casino understands the secret of your constant luck.
+But everything is so simple! You can hide a winning card anywhere, even in your mouth!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+11617#
+^FF0000Account Bound^000000
+A ball of chocolate sponge cake breaded with walnuts.
+It's not very good for your teeth... but it's so delicious!
+ATK and MATK +14 for 5 minutes
+Restores 14% HP
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23554#
+^FF0000Account Bound^000000
+An envelope with one of the letters from the word LOVE.
+What is the letter? Open and find out!
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+6018#
+^FF0000Account Bound^000000
+One of the four letters that make up the word LOVE.
+^777777Can be used in the 'Love Roulette!' event or sold to NPC^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
