@@ -145,45 +145,13 @@ HatEFID = {
 	HAT_EF_99LV_STAR_E_MBLUE = 144,
 	HAT_EF_160LV_STAR_E_MBLUE = 145,
 	HAT_EF_99LV_SOUL_R_GRAY = 146,
-	HAT_EF_160LV_SOUL_R_GRAY = 147
+	HAT_EF_160LV_SOUL_R_GRAY = 147,
+	HAT_EF_GearWheel = 148,
+	HAT_EF_GIFT_OF_SNOW = 149,
+	HAT_EF_Snow_Powder = 150,
+	HAT_EF_Falling_Snow = 151
 }
 hatEffectTable = {
-	[HatEFID.HAT_EF_2020RTC_01] = {
-		resourceFileName = "2020RTC_01\\mcgold.str",
-		hatEffectPos = -11,
-		hatEffectPosX = 0,
-		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true,
-		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
-	},
-	[HatEFID.HAT_EF_2020RTC_02] = {
-		resourceFileName = "2020RTC_02\\mcblack.str",
-		hatEffectPos = -11,
-		hatEffectPosX = 0,
-		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true,
-		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
-	},
-	[HatEFID.HAT_EF_2020RTC_03] = {
-		resourceFileName = "2020RTC_03\\mcred.str",
-		hatEffectPos = -11,
-		hatEffectPosX = 0,
-		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true,
-		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
-	},
-	[HatEFID.HAT_EF_C_2020RTC_Imp_TW] = {
-		resourceFileName = "C_2020RTC_Imp_TW\\mc.str",
-		hatEffectPos = -11,
-		hatEffectPosX = 0,
-		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true,
-		isRenderBeforeCharacter = true,
-		isIgnoreRiding = true
-	},
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
 		resourceFileName = "efst_blossom_fluttering\\sakura.str",
 		hatEffectPos = -4,
@@ -211,7 +179,9 @@ hatEffectTable = {
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true
+		isAdjustSizeWhenShrinkState = true,
+		isEffectPair = true,
+		hatEffectID = 203
 	},
 	[HatEFID.HAT_EF_CLOCKING] = { hatEffectID = 120 },
 	[HatEFID.HAT_EF_SNOW] = { hatEffectID = 162 },
@@ -422,7 +392,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_SUBJECT_AURA_GOLD] = { hatEffectID = 1211 },
 	[HatEFID.HAT_EF_SUBJECT_AURA_WHITE] = { hatEffectID = 1212 },
 	[HatEFID.HAT_EF_SUBJECT_AURA_RED] = { hatEffectID = 1213 },
-	[HatEFID.HAT_EF_SUBJECT_AURA_BLACK] = { hatEffectID = 2285 },
+	[HatEFID.HAT_EF_SUBJECT_AURA_BLACK] = { hatEffectID = 2281 },
 	[HatEFID.HAT_EF_C_Shining_Angel_Wing] = {
 		resourceFileName = "efst_C_Shining_Angel_Wing\\C_Shining_Angel_Wing.str",
 		hatEffectPos = -8,
@@ -633,12 +603,86 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
+	[HatEFID.HAT_EF_2020RTC_01] = {
+		resourceFileName = "2020RTC_01\\mcgold.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isEffectPair = true,
+		hatEffectID = 1211
+	},
+	[HatEFID.HAT_EF_2020RTC_02] = {
+		resourceFileName = "2020RTC_02\\mcblack.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_2020RTC_03] = {
+		resourceFileName = "2020RTC_03\\mcred.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_C_2020RTC_Imp_TW] = {
+		resourceFileName = "C_2020RTC_Imp_TW\\mc.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_2020RTC_EFFECT_01] = { hatEffectID = 2281 },
+	[HatEFID.HAT_EF_2020RTC_EFFECT_02] = { hatEffectID = 2281 },
+	[HatEFID.HAT_EF_2020RTC_EFFECT_03] = { hatEffectID = 2281 },
 	[HatEFID.HAT_EF_99LV_STAR_E_MBLUE] = { hatEffectID = 2281 },
 	[HatEFID.HAT_EF_160LV_STAR_E_MBLUE] = { hatEffectID = 2282 },
 	[HatEFID.HAT_EF_99LV_SOUL_R_GRAY] = { hatEffectID = 2283 },
-	[HatEFID.HAT_EF_160LV_SOUL_R_GRAY] = { hatEffectID = 2284 }
+	[HatEFID.HAT_EF_160LV_SOUL_R_GRAY] = { hatEffectID = 2284 },
+	[HatEFID.HAT_EF_GearWheel] = {
+		resourceFileName = "C_Rotating_Gears\\gearwheel.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_GIFT_OF_SNOW] = {
+		resourceFileName = "efst_gift_of_snow\\gift_of_snow.str",
+		hatEffectPos = -4,
+		hatEffectPosX = -0.5,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_Snow_Powder] = {
+		resourceFileName = "efst_Snow_Powder\\bbss2.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_Falling_Snow] = {
+		resourceFileName = "efst_Falling_Snow\\Falling_Snow.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 1,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	}
 }
 effectHatItemTable = {
+	20522,
 	20285,
 	20209,
 	31091,
@@ -675,7 +719,8 @@ effectHatItemTable = {
 	31768,
 	400073,
 	20547,
-	20548
+	20548,
+	20990
 }
 
 -- Function #0

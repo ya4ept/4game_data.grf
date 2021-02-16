@@ -89,7 +89,17 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW",
 	[SPRITE_ROBE_IDs.ROBE_C_CAPOO_Bag_TW] = "C_CAPOO_Bag_TW",
 	[SPRITE_ROBE_IDs.ROBE_Ten_G_Shield_TW] = "Ten_G_Shield_TW",
-	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW"
+	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Mechanical_Butterfly] = "C_Mechanical_Butterfly",
+	[SPRITE_ROBE_IDs.ROBE_C_Mainspring_Screw] = "C_Mainspring_Screw",
+	[SPRITE_ROBE_IDs.ROBE_C_Rotating_Gears] = "C_Rotating_Gears",
+	[SPRITE_ROBE_IDs.ROBE_Fairy_Of_Eden] = "Fairy_Of_Eden",
+	[SPRITE_ROBE_IDs.ROBE_C_Sudden_Wealth_TW] = "C_Sudden_Wealth_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Scepter] = "C_Scepter",
+	[SPRITE_ROBE_IDs.ROBE_C_Giant_White_Rabbit] = "C_Giant_White_Rabbit",
+	[SPRITE_ROBE_IDs.ROBE_C_Put_On_Coat] = "C_Put_On_Coat",
+	[SPRITE_ROBE_IDs.ROBE_C_Snow_Powder] = "C_Snow_Powder",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Spider] = "Wing_Of_Spider"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -182,7 +192,17 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW",
 	[SPRITE_ROBE_IDs.ROBE_C_CAPOO_Bag_TW] = "C_CAPOO_Bag_TW",
 	[SPRITE_ROBE_IDs.ROBE_Ten_G_Shield_TW] = "Ten_G_Shield_TW",
-	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW"
+	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Mechanical_Butterfly] = "C_Mechanical_Butterfly",
+	[SPRITE_ROBE_IDs.ROBE_C_Mainspring_Screw] = "C_Mainspring_Screw",
+	[SPRITE_ROBE_IDs.ROBE_C_Rotating_Gears] = "C_Rotating_Gears",
+	[SPRITE_ROBE_IDs.ROBE_Fairy_Of_Eden] = "Fairy_Of_Eden",
+	[SPRITE_ROBE_IDs.ROBE_C_Sudden_Wealth_TW] = "C_Sudden_Wealth_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Scepter] = "C_Scepter",
+	[SPRITE_ROBE_IDs.ROBE_C_Giant_White_Rabbit] = "C_Giant_White_Rabbit",
+	[SPRITE_ROBE_IDs.ROBE_C_Put_On_Coat] = "C_Put_On_Coat",
+	[SPRITE_ROBE_IDs.ROBE_C_Snow_Powder] = "C_Snow_Powder",
+	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Spider] = "Wing_Of_Spider"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -205,5 +225,7 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Evil_Druid_Cross,
 	SPRITE_ROBE_IDs.ROBE_C_Big_Ribbon_Cloak,
 	SPRITE_ROBE_IDs.ROBE_C_Ice_Wing,
-	SPRITE_ROBE_IDs.ROBE_C_GiantCatBag_JP_BL
+	SPRITE_ROBE_IDs.ROBE_C_GiantCatBag_JP_BL,
+	SPRITE_ROBE_IDs.ROBE_Calabash,
+	SPRITE_ROBE_IDs.ROBE_C_Blessed_Veil
 }
