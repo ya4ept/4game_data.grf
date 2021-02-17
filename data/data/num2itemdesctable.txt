@@ -31422,10 +31422,10 @@ Required Level: ^777777120^000000
 Cooldown Time: ^7777775 Seconds^000000
 #
 11526#
-A cold beverage made by blending Pingui berries with syrup and ice.
-^000088Restores approximately 120 SP^000000.
+^FF0000Account Bound^000000
+A delicious drink made from Pinguicula berries, served chilled.
+Restores 120 SP.
 Weight: ^77777710^000000
-Required Level: ^777777120^000000
 #
 1773#
 Arrows once used by the ancient elves guarding the forest. Increases Ranged Attack by 50%, when used together with an Elven Bow.
@@ -55148,3 +55148,79 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 31445#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
+9727#
+It seems that this magic box is empty, but it is only an illusion. It is filled with pure mana!
+The box will transform mana into a magical item at your will.
+^ffffff_^000000
+Activate the artifact and receive one of the following items:
+Transmutation Treasure
+Mana Absorbant
+Black Cat Bag
+Spotless Mind Gem
+Rainbow Hexagram
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Neuralizer Box
+Silvervine x350
+Celestial Circlet
+Minion's Hood
+Veil of Eternal Night
+Loli Ruri's Cat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Bloody Branch x2
+Quagmire Scroll Box
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Blessing of Tyr x9
+Token of Ziegfried x6
+Superb Fish Slice x25
+Speed Up Potion x50
+Kafra Card x11
+Mushroom Pancake x25
+Guyak Pudding x25
+Rafflecino x25
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+
+18528#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20521#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20538#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31391#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31396#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31399#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31433#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31619#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+#
+20006#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+

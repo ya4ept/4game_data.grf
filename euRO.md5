@@ -1,7 +1,7 @@
 65bed0db5e34d3cbc5fc3a7a2e4e8b48 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-f015f4e4b18fcaa6443332844acef039 *data.grf
+464abfbf28fc03251cd81bec7219ee8b *data.grf
 827f816474e830b458d83443efdd8020 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -64,7 +64,6 @@ cb04b36300ea8e987d5bcbcf54c904a4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.control.txt
 2fc6a4db7f594e73eb1de890baa4d30e *gameManager\gameManager.exe
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
-c68845eb87c187564ac256cb5693eb8d *gameManager\log.log
 fae3e4799f0479bdc9d19086fc51ae42 *System\monster_size_effect.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub
 bf2883a0197c45ba9c03a845e7d6a665 *System\LuaFiles514\OptionInfo.lub
