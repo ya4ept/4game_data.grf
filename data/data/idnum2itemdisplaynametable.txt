@@ -4854,8 +4854,8 @@
 11022#Cooking Book: Mix Cooking#
 11023#Study On Explosively Stamina#
 11024#How To Vital Drink#
-12418#Full SwingK#
-12419#Mana +#
+12418#Killer's Potion#
+12419#Mana Plus#
 12422#HP Increase Potion(Small)#
 12423#HP Increase Potion(Mid)#
 12424#HP Increase Potion(Large)#
@@ -4863,12 +4863,12 @@
 12426#SP Increase Potion(Mid)#
 12427#SP Increase Potion(Large)#
 12428#Enriched White PotionZ#
-12429#Savage BBQ#
-12430#Wug Blood Cocktail#
-12431#Minor Brisket#
-12432#Siroma Icetea#
-12433#Drocera Herb Stew#
-12434#Petti Tail Noodle#
+12429#Baked Pig#
+12430#Warg Blood Cocktail#
+12431#Pork Belly#
+12432#Siroma Ice Tea#
+12433#Drosera Herb Stew#
+12434#Petite Tail Noodles#
 12435#Black Thing#
 12436#Vitata500#
 12437#Enrich Celermine Juice#
@@ -5090,13 +5090,13 @@
 
 15032#Tidung#
 18520#Jaty Crown#
-13067#Caress#
+13067#Keris#
 6401#Palm Oils#
 6402#Oil Palm Fruit#
-6403#Leather of Comodo#
-6404#Caress Hilt #
-6405#Feather of Cendrawasih#
-6406#Shining Feather of Cendrawasih#
+6403#Comodo Leather #
+6404#Keris Hilt #
+6405#Cendrawasih Feather#
+6406#Shining Cendrawasih Feather#
 11532#Nasi Goreng#
 11533#Satay#
 11534#Coconut Juice#
@@ -6781,7 +6781,7 @@
 19956#Costume Soldier Hat#
 19957#Costume Scooter Hat J#
 19958#Costume Choir Hat#
-19959#Costume Drooping Argiope#
+19959#Sleepy Argiope#
 19960#Marionette Chains#
 19951#Costume Solo Play Box2#
 20234#C Baphomet Hat#
@@ -7124,10 +7124,10 @@
 20039#C Butterfly Wing Ear J#
 20040#C Rose Crown#
 20041#C Earth Goddess Flower#
-20042#C Hermose Cap#
+20042#Hermode Cap#
 20043#C Red Cherry Blossom#
 20044#C Carmen Miranda Hat#
-20045#C Samambaia#
+20045#Fern Wreath#
 20046#C Decoration bluerose#
 20047#C Pray Cherry Blossom#
 20048#C Wind Of The Prairie#
@@ -9090,26 +9090,28 @@
 31619#Mana Absorbant#
 9727#Transmutation Treasure#
 
-20524#의상_빛나는_천사의_날개#
-31308#의상_프로텍트_페더#
-31600#의상_백구#
-31625#의상_프로텍트_클로스#
-31858#의상_시뇽_프린세스_웨이브(파랑)#
-31859#의상_시뇽_프린세스_웨이브(빨강)#
-31860#의상_시뇽_프린세스_웨이브(노랑)#
-31861#의상_시뇽_프린세스_웨이브(초록)#
-31862#의상_시뇽_프린세스_웨이브(검정)#
-31863#의상_시뇽_프린세스_웨이브(흰색)#
-31864#의상_시뇽_프린세스_웨이브(주황)#
-31865#의상_시뇽_프린세스_웨이브(보라)#
-31874#의상_히멜메즈의_가발(물색)#
-31875#의상_히멜메즈의_가발(노랑)#
-31876#의상_히멜메즈의_가발(흰색)#
-31877#의상_히멜메즈의_가발(연보라)#
-31878#의상_히멜메즈의_가발(핑크)#
-31879#의상_히멜메즈의_가발(청록)#
-31880#의상_히멜메즈의_가발(칠흑)#
-31881#의상_히멜메즈의_가발(갈색)#
-31905#의상_스노우_아이스_헤어#
-31965#의상_웨이브펌_헤어(빨강)#
-31966#의상_웨이브펌_헤어(흰색)#
+20524#Wings of Noctifer#
+31308#Winged Aureola#
+31600#Sir Goodboy#
+31625#Forgotten Sacrament#
+31858#Blue Swirl Chignons#
+31859#Red Swirl Chignons#
+31860#Blonde Swirl Chignons#
+31861#Green Swirl Chignons#
+31862#Brown Swirl Chignons#
+31863#White Swirl Chignons#
+31864#Light-Brown Swirl Chignons#
+31865#Purple Swirl Chignons#
+31874#Blue Bob Wig#
+31875#Blonde Bob Wig#
+31876#White Bob Wig#
+31877#Lavender Bob Wig#
+31878#Pink Bob Wig#
+31879#Pistachio Bob Wig#
+31880#Black Bob Wig#
+31881#Brown Bob Wig#
+31905#Icicle Tails#
+31965#Red Frizz Wig#
+31966#White Frizz Wig#
+
+25627#Golden Card#

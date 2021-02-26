@@ -1,7 +1,7 @@
 65bed0db5e34d3cbc5fc3a7a2e4e8b48 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-464abfbf28fc03251cd81bec7219ee8b *data.grf
+86a9408c5ef52a86f42a972ca32f3da4 *data.grf
 827f816474e830b458d83443efdd8020 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -44,16 +44,16 @@ b8b127426039587d72a6c4f57eef748b *AI\USER_AI\Util.lua
 6d342202659cfea4ab59a3ebaa928b55 *Frost\frost.ico
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 a0a44a64eff5c590c9eb95a43e97491c *Frost\frostcollector.dll
-c40d1bd4b6aec6155d5e79f1fefd0fbe *Frost\frostinfo.txt
-db44f23d852bcf4efcd8a060a8b0b6a9 *Frost\frostInit.log
+e7a1b018503a69dbbb55e942d1d01a06 *Frost\frostinfo.txt
+aab122b33e55c7cca36eb7671bdb164e *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost_64.sys
 e62ff60e163586fd6615b4ff0759b3c1 *Frost\frost_redirip_info.txt
-0fcfc9c324a4ff7d990eb2e924693275 *Frost\gameShieldDll.dll
+6020339b316a741f82d4e898174ccd57 *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-dccb05afedf5643d8461d0001fd0ec97 *Frost\launcherUpdater.log
+25494fb9d04fe07d70bca673af9b38e4 *Frost\launcherUpdater.log
 fb9a5faddd75389b83efda3145c07c98 *Frost\ro.exe
 4c4336e1bb98af1523ee12a67eb02324 *Frost\.inn.meta.dir\.inn.cache.txt
 becc18c1df698952a593bf005c8e8ec0 *Frost\.inn.meta.dir\.inn.cache.txt.corrupt.1593964248
@@ -64,6 +64,7 @@ cb04b36300ea8e987d5bcbcf54c904a4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.control.txt
 2fc6a4db7f594e73eb1de890baa4d30e *gameManager\gameManager.exe
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
+30038bb78ceb801869608a4ce4454185 *gameManager\log.log
 fae3e4799f0479bdc9d19086fc51ae42 *System\monster_size_effect.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub
 bf2883a0197c45ba9c03a845e7d6a665 *System\LuaFiles514\OptionInfo.lub

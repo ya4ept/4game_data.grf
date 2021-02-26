@@ -4804,8 +4804,8 @@
 11022#Cooking Book: Mix Cooking#
 11023#Study On Explosively Stamina#
 11024#How To Vital Drink#
-12418#Full SwingK#
-12419#Mana +#
+12418#Killer's Potion#
+12419#Mana Plus#
 12422#HP Increase Potion(Small)#
 12423#HP Increase Potion(Mid)#
 12424#HP Increase Potion(Large)#
@@ -4813,12 +4813,12 @@
 12426#SP Increase Potion(Mid)#
 12427#SP Increase Potion(Large)#
 12428#Enriched White PotionZ#
-12429#Savage BBQ#
-12430#Wug Blood Cocktail#
-12431#Minor Brisket#
-12432#Siroma Icetea#
-12433#Drocera Herb Stew#
-12434#Petti Tail Noodle#
+12429#Baked Pig#
+12430#Warg Blood Cocktail#
+12431#Pork Belly#
+12432#Siroma Ice Tea#
+12433#Drosera Herb Stew#
+12434#Petite Tail Noodles#
 12435#Black Thing#
 12436#Vitata500#
 12437#Enrich Celermine Juice#
@@ -7979,26 +7979,28 @@
 31433#Accessory#
 31619#Accessory#
 9727#Transmutation Treasure#
-20524#걸칠것#
-31308#머리띠#
-31600#백구#
-31625#액세서리#
-31858#모자#
-31859#모자#
-31860#모자#
-31861#모자#
-31862#모자#
-31863#모자#
-31864#모자#
-31865#모자#
-31874#모자#
-31875#모자#
-31876#모자#
-31877#모자#
-31878#모자#
-31879#모자#
-31880#모자#
-31881#모자#
-31905#리본#
-31965#액세서리#
-31966#액세서리#
+20524#Garment#
+31308#Accessory#
+31600#Accessory#
+31625#Garment#
+31858#Accessory#
+31859#Accessory#
+31860#Accessory#
+31861#Accessory#
+31862#Accessory#
+31863#Accessory#
+31864#Accessory#
+31865#Accessory#
+31874#Accessory#
+31875#Accessory#
+31876#Accessory#
+31877#Accessory#
+31878#Accessory#
+31879#Accessory#
+31880#Accessory#
+31881#Accessory#
+31905#Accessory#
+31965#Accessory#
+31966#Accessory#
+
+25627#Golden Card#

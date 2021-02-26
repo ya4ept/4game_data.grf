@@ -17946,10 +17946,7 @@ using a Magnifier.
 #
 
 5284#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 5285#
@@ -28765,12 +28762,18 @@ Weight: ^7777775^000000
 #
 
 12418#
-A potion that increases Atk a little. Duration: 500 sec.
+^FF0000Account Bound^000000
+A potion that increases the power of physical attacks.
+Possible side effects: battle frenzy, cramps in the stomach, itching in the lumbar region, death.
++50 ATK for 8 minutes.
 Weight: ^7777775^000000
 #
 
 12419#
-A potion that increases Matk a little. Duration: 500 sec.
+^FF0000Account Bound^000000
+A potion that increases the power of magical attacks.
+It tastes like cough syrup.
++50 MATK for 8 minutes.
 Weight: ^7777775^000000
 #
 
@@ -28816,44 +28819,50 @@ Weight: ^7777777^000000
 #
 
 12429#
-A very wild dish, whole Savage barbecue!
-Str +20.
-Duration: 30 min.
+Spit-roasted pig with herbs and spicy sauce.
+Incredible aroma and amazing taste!
+STR +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12430#
-Deep red colored cocktail. It could contain blood of a wolf.
-Int +20.
-Duration: 30 min.
+An alcoholic cocktail with warg’s blood.
+It is famous for its rich red color and specific taste.
+INT +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12431#
-Meat of a Minor's head. Famous for it's soft and good taste.
-Vit +20.
-Duration: 30 min.
+Fragrant pork belly with crispy fried skin and tender juicy meat.
+Served with soy sauce.
+VIT +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12432#
-Fantastic combination of transparent ice and tea.
-Dex +20.
-Duration: 30 min.
+Iced tea popular with the Siroma tribe.
+These strange creatures really love ice!
+DEX +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12433#
-One of a best delicacies in Arunafeltz with a chewy texture.
-Agi +20.
-Duration: 30 min.
+Hearty vegetable stew made from the predatory plant.
+Make sure to pour lemon juice on it before eating.
+AGI +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12434#
-Noodle which is decorated with the best part of Petti. Delicacy of Geffen.
-Luk +20.
-Duration: 30 min.
+Fragrant noodles with Petite meat.
+Rich in protein and carbohydrates.
+LUK +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
@@ -30774,10 +30783,12 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6401#
+^FF0000Character bound^000000
 Vegetable oil from oil palm fruit. It's very heavy!!
 Weight: ^77777750^000000
 #
 6402#
+^FF0000Character bound^000000
 An oil palm fruit. It is used when vegetable oil is made.
 Weight: ^7777775^000000
 #
@@ -30786,6 +30797,7 @@ A leather of comodo. It is used when weapon or shield is made.
 Weight: ^7777771^000000
 #
 6404#
+^FF0000Account bound^000000
 It's a handle of weapon.
 Weight: ^77777710^000000
 #
@@ -44620,11 +44632,7 @@ Req Lvl.: ^7777771^000000
 Job: ^777777All^000000
 #
 19959#
-Argiope put on top of head. Be careful, sometimes it might move fiercely.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19960#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -44718,13 +44726,7 @@ Required Lv: ^777777110^000000
 Jobs: ^777777All^000000
 #
 20706#
-Bag that mimics the "Amistr" Oh homunculus.
-ALL Status + 1.
-Tolerance + 5% for the attribute all attacks.
-class: ^777777clothes^000000 Def: ^77777718^000000
-Weight: ^77777750 ^000000
-Req LV: ^7777771 ^000000
-jobs: ^777777All Jobs ^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
 20707#
 Wings made from a legendary mythical beast of an East Asian culture.
@@ -52159,6 +52161,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 22624#
 A traditional snack twisted funny. It's very bigger than usual and you can see this only in Oktoberfest.
 It recovers all your HP instantly.
+Weight: ^7777773^000000
 #
 22625#
 You can be charming with this bag including a chic costume! Please enjoy the Oktoberfest! 
@@ -55223,4 +55226,84 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 20006#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
-
+25627#
+^FF0000Account bound^000000
+A beautiful but completely useless golden card.
+Although, maybe you can find a use for it.
+Weight: ^7777771^000000
+#
+20042#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20045#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31600#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20524#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31625#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31308#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31862#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31858#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31861#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31864#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31865#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31859#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31860#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31905#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31965#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31966#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31874#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31877#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31876#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31875#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31879#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31881#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31880#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31878#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31863#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#

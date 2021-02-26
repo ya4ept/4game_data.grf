@@ -35274,20 +35274,16 @@ Jobs: ^777777All^000000
 #
 
 5284#
-A training cap that
-lends a sense of
-quiet and stability
-to the wearer.
+A crown made from a huge water lily.
+When you put it on, you feel calmer and happier for some reason.
 DEX  +1, Agi +1,
-Magic Defense +3.
+MDEF +3.
 Increases HP Recovery
-by 5% and SP Recovery by^FFFFFF  ^000000 3%. Cannot be upgraded.
-Cannot be Dropped, 
-or Tradable
-Can be placed in Kafra Storage
+by 5% and SP Recovery by^FFFFFF  ^000000 3%. 
+Cannot be upgraded.
 Class: ^777777Headgear^000000
-Defense: ^7777770^000000
 Location: ^777777Upper^000000
+Defense: ^7777770^000000
 Weight: ^77777720^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
@@ -46381,12 +46377,18 @@ Weight: ^7777775^000000
 #
 
 12418#
-A potion that increases Atk a little. Duration: 500 sec.
+^FF0000Account Bound^000000
+A potion that increases the power of physical attacks.
+Possible side effects: battle frenzy, cramps in the stomach, itching in the lumbar region, death.
++50 ATK for 8 minutes.
 Weight: ^7777775^000000
 #
 
 12419#
-A potion that increases Matk a little. Duration: 500 sec.
+^FF0000Account Bound^000000
+A potion that increases the power of magical attacks.
+It tastes like cough syrup.
++50 MATK for 8 minutes.
 Weight: ^7777775^000000
 #
 
@@ -46431,45 +46433,43 @@ Recovers a large amount of HP, increases natural HP recovery speed by 20%. Durat
 Weight: ^7777777^000000
 #
 
-12429#
-A very wild dish made out of a whole Savage with a slight barbecue flavor!
-Str +20.
-Duration: 5 min.
-Weight: ^7777775^000000
-#
-
 12430#
-A deep red colored cocktail containing wolf's blood.
-Int +20.
-Duration: 5 min.
+An alcoholic cocktail with warg's blood.
+It is famous for its rich red color and specific taste.
+INT +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12431#
-Meat of a Minor's head. Famous for it's soft and tender textures.
-Vit +20.
-Duration: 5 min.
+Fragrant pork belly with crispy fried skin and tender juicy meat.
+Served with soy sauce.
+VIT +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12432#
-Fantastic combination of transparent ice and tea.
-Dex +20.
-Duration: 5 min.
+Iced tea popular with the Siroma tribe.
+These strange creatures really love ice!
+DEX +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12433#
-One of the best delicacies in Arunafeltz that has a chewy texture.
-Agi +20.
-Duration: 5 min.
+Hearty vegetable stew made from the predatory plant.
+Make sure to pour lemon juice on it before eating.
+AGI +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12434#
-A Geffen delicacy that is decorated with the best part of the Petite, the tail.
-Luk +20.
-Duration: 5 min.
+Fragrant noodles with Petite meat.
+Rich in protein and carbohydrates.
+LUK +20 for 5 minutes
+^ffffff_^000000
 Weight: ^7777775^000000
 #
 
@@ -50339,6 +50339,7 @@ Required Level: ^7777771^000000
 Job: ^777777All except Novice^000000
 #
 18520#
+^FF0000Account bound^000000
 A crown that only the person who receives the tribal honor of the Jaty Tribe can wear.
 Decrease 5% of damage from animal and plant type monsters. Increases 5% of damage to animal and plant type monsters.
 Class: ^777777Headgear^000000
@@ -50361,10 +50362,12 @@ Required Level: ^77777730^000000
 Job: ^777777Swordsman, Mage, Archer, Merchant, and Thief Classes; Soul Linker and Ninja^000000
 #
 6401#
+^FF0000Character bound^000000
 Vegetable oil from oil palm fruit. It's very heavy!!
 Weight: ^77777750^000000
 #
 6402#
+^FF0000Character bound^000000
 An oil palm fruit. It is used when vegetable oil is made.
 Weight: ^7777775^000000
 #
@@ -50373,6 +50376,7 @@ A leather of comodo. It is used when weapon or shield is made.
 Weight: ^7777771^000000
 #
 6404#
+^FF0000Account bound^000000
 It's a handle of weapon.
 Weight: ^77777710^000000
 #
@@ -59282,9 +59286,10 @@ Required Level: ^77777730^000000
 Job: ^777777All^000000
 #
 19689#
-A grand, magnificent-looking headgear that is made of rings of various attributes.
+Festive headdress of the Aeta people.
+It looks so majestic!
 Class: ^777777Headgear^000000 Defense: ^7777770^000000
-Location: ^777777UpperMiddleLower ^000000Weight: ^7777770^000000
+Location: ^777777Upper/Middle/Lower^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
@@ -59680,13 +59685,6 @@ Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^77777730^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-19689#
-A grand, magnificent-looking headgear that is made of rings of various attributes.
-Class: ^777777Headgear^000000 Defense: ^7777770^000000
-Location: ^777777UpperMiddleLower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 19690#
 Dark Snake Lord's hat that affects an air of authority.
@@ -66907,11 +66905,12 @@ Req Lvl.: ^7777771^000000
 Job: ^777777All^000000
 #
 19959#
-Argiope put on top of head. Be careful, sometimes it might move fiercely.
+An ordinary Argiope who decided to take a nap on your head.
+We really don't recommend waking it up!
 Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Upper ^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19960#
 Do marionettes dream of puppet sheep?
@@ -67012,13 +67011,15 @@ Required Lv: ^777777110^000000
 Jobs: ^777777All^000000
 #
 20706#
-Bag that mimics the Amistr homunculus.
+A funny backpack, very similar to the famous Homunculus Amistr.
+Oh, what a cutie!
 ALL Status + 1.
-Tolerance + 5% for the attribute all attacks.
-Class: ^777777clothes^000000 Def: ^77777718^000000
-Weight: ^77777750 ^000000
-Req LV: ^7777771 ^000000
-jobs: ^777777All Jobs ^000000
+Increase resistance to the All property by 5%.
+Class: ^777777Garment^000000
+Defense: ^77777718^000000
+Weight: ^77777750^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 20707#
 Wings made from a legendary mythical beast of an East Asian culture.
@@ -83503,7 +83504,7 @@ Weight: ^7777771^000000
 22624#
 A traditional snack twisted funny. It's much bigger than usual and you can find it only during Oktoberfest.
 It recovers all your HP instantly.
-Weight: ^77777720^000000
+Weight: ^7777773^000000
 #
 22625#
 You can be charming with this bag including a chic costume! Please enjoy the Oktoberfest! 
@@ -88784,6 +88785,7 @@ Rafflecino x25
 Weight: ^7777771^000000
 #
 20006#
+^FF0000Account bound^000000
 Helmet of the legendary warrior who has perfectly mastered both the Path of the Sword and the Path of Magic.
 Be worthy of this artifact!
 Class: ^777777Costume^000000
@@ -88792,4 +88794,243 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-
+25627#
+^FF0000Account bound^000000
+A beautiful but completely useless golden card.
+Although, maybe you can find a use for it.
+Weight: ^7777771^000000
+#
+20042#
+^FF0000Account bound^000000
+A hat worn by the Assassins of the Sograt Desert.
+But this is just a fake, right? P-please, tell me I'm right...
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20045#
+A lush wreath of golden polypody leaves.
+This plant is said to have many medicinal properties.
+Class: ^777777Costume^000000
+Location: ^777777Upper/Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31600#
+Don't call me a good boy!
+I'm Sir Goodboy to you, am I clear? Now throw that frisbee away.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20524#
+During the day or gloomy night
+They shine with all their holy might.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31625#
+Shoulder pad bearing the symbol of a forgotten ancient deity.
+It was probably made several millennia ago.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31308#
+A hair accessory beautifully decorated with two white wings.
+It is said that such headbands are now in vogue among the Valkyries.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31862#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31858#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31861#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31864#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31865#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31859#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31860#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31905#
+A wig for the coolest adventurers.
+With this, you will always remain chill and cold-blooded.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31965#
+A ginger wig with lush curly hair.
+It looks so luxurious!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31966#
+A white wig with lush curly hair.
+It looks so luxurious!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31874#
+An elegant wig with bob hairstyle.
+Blue hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31877#
+An elegant wig with bob hairstyle.
+Lavender hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31876#
+An elegant wig with bob hairstyle.
+White hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31875#
+An elegant wig with bob hairstyle.
+Blonde hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31879#
+An elegant wig with bob hairstyle.
+Pistachio hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31881#
+An elegant wig with bob hairstyle.
+Brown hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31880#
+An elegant wig with bob hairstyle.
+Black hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31878#
+An elegant wig with bob hairstyle.
+Pink hair is in vogue today!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31863#
+Such hairpieces are popular among aristocrats.
+Feel like a princess!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+12429#
+Spit-roasted pig with herbs and spicy sauce.
+Incredible aroma and amazing taste!
+STR +20 for 5 minutes
+^ffffff_^000000
+Weight: ^7777775^000000
+#

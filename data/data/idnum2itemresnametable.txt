@@ -8650,3 +8650,5 @@
 31905#C_Blanc_Neige_Prince#
 31965#C_RK_Hair_RD#
 31966#C_RK_Hair_WH#
+
+25627#Gold_Card#
