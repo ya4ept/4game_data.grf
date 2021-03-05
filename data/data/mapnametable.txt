@@ -958,3 +958,5 @@ dew_in01.rsw#Inside Dewata#
 dew_dun02.rsw#Tina Grace Cave#
 dew_fild01.rsw#Tribal Village#
 dew_dun01.rsw#Volcanic Island of Krakatoa#
+
+epay_fild07.rsw#Payon Forest of the Past#

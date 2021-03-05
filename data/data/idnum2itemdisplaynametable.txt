@@ -6660,7 +6660,6 @@
 11580#Candy#
 11581#A piece of Cake#
 11582#Well baked cookie#
-11583#Chocolate Drink#
 11584#White Chocolate#
 11585#Handmade Chocolate#
 11586#Handmade Chocolate#
@@ -9115,3 +9114,25 @@
 31966#White Frizz Wig#
 
 25627#Golden Card#
+5914#Sun Moth Aura#
+18813#New Wave Sunshades#
+19079#Celestial Flower#
+20284#Petal Hat#
+20482#Paradise Cage#
+20490#Forget-Me-Nots Knots#
+20511#Moon Fairy Wings#
+31514#Asian Tabby Cat#
+31534#Bifrost Groom Circlet#
+31934#Blinking Lilac Eyes#
+19760#Bifrost Bride Veil#
+11702#Mooncake#
+9615#Flower Wind Treasure#
+23317#Hanami Dango#
+31314#Ox Horns#
+19031#Lilin's Pins#
+
+31449#Blue Rose Eyepatch#
+7634#Eternal Flower#
+12704#Essence of Time#
+7618#Monster Crystal#
+11583#Spring Chocolate Drink#

@@ -8004,3 +8004,26 @@
 31966#Accessory#
 
 25627#Golden Card#
+
+5914#Accessory#
+18813#Glasses#
+19079#Headgear#
+20284#Hat#
+20482#Hat#
+20490#Hat#
+20511#Garment#
+31514#Accessory#
+31534#Accessory#
+31934#Accessory#
+19760#Hat#
+11702#Mooncake#
+9615#Flower Wind Treasure#
+23317#Hanami Dango#
+31314#Accessory#
+19031#Accessory#
+
+31449#Accessory#
+7634#Eternal Flower#
+12704#Essence of Time#
+7618#Monster Crystal#
+11583#Spring Chocolate Drink#

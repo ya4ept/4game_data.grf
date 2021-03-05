@@ -27030,10 +27030,6 @@ weight: ^7777770^000000
 A report card with straight ^FF0000A^000000's on it.
 weight: ^7777770^000000
 #
-7634#
-A rose given to your Father.
-weight: ^7777770^000000
-#
 5658#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -33799,19 +33795,7 @@ Box Weight: ^7777770^000000
 #
 
 19031#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Unholy Touch^000000
-Duration: 2 Weeks after opening.
-^000088Rental Item^000000
-When dealing a melee physical attack there is a 50% chance to cause [Blind] status on the opponent.
-Class: ^777777Katar^000000
-Attack Strength: ^777777179^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Assassin^000000
-Box Weight: ^7777770^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 19032#
@@ -41763,14 +41747,6 @@ Weight: ^77777715^000000
 A condensed White Potion  that weighs less.
 ^ffffff_^000000
 Weight: ^7777775^000000
-#
-11583#
-^000088HP/SP Recovery Item^000000
-A kind of drink made from chocolate and milk from one of the Royal Court Dessert Specialist's recipes.
-Although the Dessert Chef wishes for people to drink this treat elegantly, it's usually gulped down, enjoyed with hands sloppily placed on the waist.
-^000088Restores 330 ~ 410 HP^000000
-^000088Restores 45 ~ 65 SP^000000
-Weight: ^77777715^000000
 #
 18518#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -55305,5 +55281,84 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
 31863#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+23317#
+봄소풍에 딱 맞는 벚꽃잎으로 만든 과자.
+5분 동안 소형, 중형, 대형 적으로부터 받는 데미지 5% 감소.
+
+무게 : ^7777773^000000
+#
+
+
+5914#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+18813#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19079#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20482#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20490#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20511#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31514#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31534#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31934#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+11702#
+Traditional Oriental dessert, usually eaten during the Mid-Autumn Festival.
+Cleans from all negative effects. When used, the effect of [Blessing] lvl. 7 will be obtained.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+9615#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+23317#
+Delicious sweet especially popular during the Cherry Blossom Festival.
+Reduces damage taken from small, medium and large enemies by 5% for 5 minutes.
+HP and SP recovery 30%.
+Weight: ^7777773^000000
+#
+31314#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+
+31449#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+
+7634#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+
+12704#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+
+11583#
+^FF0000Account bound^000000
+Tasty hot chocolate. Warms the best... among soft drinks.
+^FFFFFF_^000000
+Restores 10% HP.
+ATK, MATK +20 for 3 minutes
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+7618#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #

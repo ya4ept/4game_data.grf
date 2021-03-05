@@ -44711,10 +44711,6 @@ Weight: ^7777770^000000
 A report card with straight ^FF0000A^000000's on it.
 Weight: ^7777770^000000
 #
-7634#
-A rose given to your Father.
-Weight: ^7777770^000000
-#
 5658#
 A sweet and friendly imp... who instantly becomes furious and aggressive if you dare to offend his master!
 Has a chance of auto-casting Lv.1 Endow Blaze when dealing physical damage.
@@ -53885,19 +53881,15 @@ Box Weight: ^7777770^000000
 #
 
 19031#
-A box that contains:
-^000088Rental Item^000000
-^6A5ACD1 Unholy Touch^000000
-Duration: 2 Weeks after opening.
-^000088Rental Item^000000
-When dealing a melee physical attack there is a 50% chance to cause [Blind] status on the opponent.
-Class: ^777777Katar^000000
-Attack Strength: ^777777179^000000
-Weight: ^7777770^000000
-Weapon Level: ^7777774^000000
+Two stylish hairpins in the form of black wings.
+Named after Lilin, the evil spirits of night and darkness.
+Increases physical damage against angel-type monsters by 5%.
+Reduces damage taken from angel-type monsters by 5%.
+Class: ^777777Headgear^000000
+Location: ^777777Mid^000000
+Defense: ^7777771^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Jobs: ^777777Assassin^000000
-Box Weight: ^7777770^000000
+Jobs: ^777777All^000000
 #
 
 19032#
@@ -59288,7 +59280,7 @@ Job: ^777777All^000000
 19689#
 Festive headdress of the Aeta people.
 It looks so majestic!
-Class: ^777777Headgear^000000 Defense: ^7777770^000000
+Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper/Middle/Lower^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
@@ -63484,14 +63476,6 @@ A condensed White Potion  that weighs less.
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
-11583#
-^000088HP/SP Recovery Item^000000
-A kind of drink made from chocolate and milk from one of the Royal Court Dessert Specialist's recipes.
-Although the Dessert Chef wishes for people to drink this treat elegantly, it's usually gulped down, enjoyed with hands sloppily placed on the waist.
-^000088Restores 330 ~ 410 HP^000000
-^000088Restores 45 ~ 65 SP^000000
-Weight: ^77777715^000000
-#
 18518#
 An ear accesory that looks just like white, beautiful angel wings.
 Str +1
@@ -67253,6 +67237,8 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19760#
+Sometimes marriages are made in Heaven!
+More precisely, on Bifrost, the Rainbow Bridge that connects earth and sky.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
@@ -72397,7 +72383,6 @@ Required Level: 1
 Jobs: All Jobs
 #
 20285#
-^ff0000Account bound^000000
 Petals of cherry blossoms that are gently falling to the ground. They dance in the air as if the spring has come.
 ^ff0000Animated^000000
 Class: ^777777Costume^000000
@@ -89033,4 +89018,209 @@ Incredible aroma and amazing taste!
 STR +20 for 5 minutes
 ^ffffff_^000000
 Weight: ^7777775^000000
+#
+5914#
+These butterflies, shining with bright gold, live in the Sun.
+They descend from Heavens in early spring to awaken nature from its sleep.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+18813#
+Looks like you escaped from a rave party.
+Or from some weird school for gifted youngsters.
+10% reduction in delay after skill.
+Class: ^777777Headgear^000000
+Location: ^777777Mid^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19079#
+Headdress in the form of a water lily, shining with inner light.
+All river spirits wear such flowers this spring!
+STR +2, AGI+2
+[With each refine rate]
+ATK+3
+STR +1, AGI +1
+[+7 and higher]
+ASPD +1%
+[+9 and higher]
+HIT +10
+[+10 and higher]
+ATK +5
+ASPD +3%
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777775^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20482#
+A birdcage hat, decorated with bindweed and flowers.
+Includes one blue bird of paradise!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20490#
+Two elegant hairpins decorated with forget-me-nots.
+No one will forget you once they see how gorgeous you are!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20511#
+According to the legend, these are the wings of a beautiful fairy who lived on the Moon.
+She lost them once and has been sad ever since, because she can't go home.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31514#
+Miniature tabby cat with light blue coat.
+It’s peaceful, friendly and very active.
+Class: ^777777Costume^000000
+Location: ^777777Mid^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31534#
+Sometimes marriages are made in Heaven!
+More precisely, on Bifrost, the Rainbow Bridge that connects earth and sky.
+Class: ^777777Costume^000000
+Location: ^777777Mid^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31934#
+To blink or not to blink?..
+With this accessory, you will definitely not have such a question.
+Class: ^777777Costume^000000
+Location: ^777777Mid^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+11702#
+Traditional Oriental dessert, usually eaten during the Mid-Autumn Festival.
+Removing effect: Poison, Silence, Confuse, Hallucinations, Blind and Curse. When used, the effect of [Blessing] lvl. 7 will be obtained.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+9615#
+The fresh breeze of spring has brought you cherry petals, the smell of warmed earth... and this wonderful pink box!
+Open the box and receive one of the following items:
+Asian Tabby Cat
+Sun Moth Aura
+Moon Fairy Wings
+Fluttering Cherry Blossom
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Neuralizer Box
+Silvervine x300
+Paradise Cage
+Bifrost Bride Veil
+Bifrost Groom Circlet
+Ox Horns
+Petal Hat
+Forget-Me-Nots Knots
+Celestial Flower
+New Wave Sunshades
+Lilin’s Pins
+Bubblegum Battle Manual x2
+Blinking Lilac Eyes
+HE Battle Manual x2
+HE Bubble Gum x2
+Enriched Elunium x2
+Enriched Oridecon x2
+ASPD Potion x11
+Bloody Branch x2
+Hanami Dango x20
+Kafra Card x11 
+Abrasive x4
+Token of Ziegfried x6 
+Mooncake x20 
+Guyak_Pudding x25
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4 
+INT Biscuit Stick x4 
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Sweet Canape x35
+Baked Mushrooms	x35
+Akaraje	x20
+WoE Teleport Scroll	x20
+WoE 2.0 Teleport Scroll	x20
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+23317#
+Delicious sweet especially popular during the Cherry Blossom Festival.
+Reduces damage taken from small, medium and large enemies by 5% for 5 minutes.
+HP and SP recovery 30%.
+Weight: ^7777773^000000
+#
+31314#
+This Year of the Ox can bring us many surprises.
+You'd better meet him fully armed... or rather, fully horned!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+
+31449#
+^FF0000Account bound^000000
+An eye patch that uses an elegant blue rose to cover the eye.
+EXP +15%
+ATK +8% when equipped with a weapon.
+MATK +8% when equipped with a weapon.
+Increase damage on Plant monsters by 8%.
+^ff0000[Effects are active only during the event (until March 10, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+7634#
+^FF0000Character bound^000000
+A flower, the one that saved countless lives and broke just as many hearts.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+7618#
+^FF0000Character bound^000000
+Little crystal shard. Doesn't look edible.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+11583#
+^FF0000Account bound^000000
+Tasty hot chocolate. Warms the best... among soft drinks.
+^FFFFFF_^000000
+Restores 10% HP.
+ATK, MATK +20 for 3 minutes
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12704#
+^FF0000Account bound^000000
+Essence, created by the Elder. If you look through it, you can see everithing in the past.
+Summons Memory Crystal.
+^ffffff_^000000
+Weight: ^7777770^000000
 #

@@ -22229,3 +22229,42 @@ Talk to Romeo.#
 29161#Romeo! Romeo!#SG_FEEL#QUE_IMAGE#
 Talk to Juliet.#
 #
+17270#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Fairy Queen wants something she has never seen before. Maybe, the Elder will help me#
+#
+
+17271#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+The Elder told about mysterious flowers. Ask florist from Payon about them#
+#
+
+17272#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Ask Elder for a piece of advice#
+#
+
+17273#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Defeat 50 Spring Permeters outside the city and turn back to the Elder#
+#
+
+17274#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Use the Summoning stone and defeat Memory Crystal. After that return to the Elder#
+#
+
+17275#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+The Elder told about chain of portals and if portal throws you away - just come back to it. Portal 1 - Prontera Fields (201, 187). Portal 2 - Payon Forest (109, 158). Portal 3 - Geffen Field (353, 330). Portal 4 - Sograt Desert (188, 289). Portal 5 - Lighthalzen Field (225, 270). Portal 6 - Veins Field (155, 135). #
+#
+
+17276#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+The Stranger asked a riddle. 8 Necklaces, 7 Eagles, 5 Names, 5 Wolves, 10 Notes, 12 Ends, 5 Nomads, 3 Ways, 13 Nights, 5 Worlds, 7 Seas, 2 Eras, 5 Seals, 11 Wounds, 2 Souls, 3 Esquires, 2 Sons, 6 Worlds, 10 Nations, 3 Empires, 4 Seconds, 2 Elves, 12 Numbers#
+Pass the labyrinth.#
+
+17277#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Talk to the Elder#
+#
+
+17278#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Talk to the Queen#
+#
+
+17279#Gift to the Queen#SG_FEEL#QUE_IMAGE#
+Talk to the Florist#
+#
