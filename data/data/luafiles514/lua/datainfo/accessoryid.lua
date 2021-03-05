@@ -2071,5 +2071,12 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_White_Corone = 2081,
 	ACCESSORY_C_Floating_Parasol = 2082,
 	ACCESSORY_C_Long_Ribbon = 2083,
-	ACCESSORY_C_Hair_Bun_Wave = 2084
+	ACCESSORY_C_Hair_Bun_Wave = 2084,
+	ACCESSORY_C_P_blossom_Hairpin = 2085,
+	ACCESSORY_C_Poulet_TW = 2086,
+	ACCESSORY_C_Choco_Banana = 2087,
+	ACCESSORY_YinYang_Earring_Y = 2088,
+	ACCESSORY_Thanos_Helm_2 = 2089,
+	ACCESSORY_Thanos_Helm2_LT = 2090,
+	ACCESSORY_C_Rose_Crispinette = 2091
 }

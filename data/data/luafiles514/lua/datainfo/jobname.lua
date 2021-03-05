@@ -3708,5 +3708,7 @@ JobNameTable = {
 	[jobtbl.JT_C6_MIMIC] = "MIMIC",
 	[jobtbl.JT_C7_MIMIC] = "MIMIC",
 	[jobtbl.JT_FAKE_ANGEL_E] = "FAKE_ANGEL",
-	[jobtbl.JT_SOLACE_E] = "SOLACE"
+	[jobtbl.JT_SOLACE_E] = "SOLACE",
+	[jobtbl.JT_E_PERMETER] = "PERMETER",
+	[jobtbl.JT_E_CRYSTAL_H] = "CRYSTAL_H"
 }

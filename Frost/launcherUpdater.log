@@ -1,6 +1,6 @@
 CmdLine = -frostGameNameType rot-ru_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.4:80
-selected httpIp 109.105.133.4
+checking connection to 109.105.133.6:80
+selected httpIp 109.105.133.6
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
@@ -39,8 +39,7 @@ ru|109.105.141.34|10001-10016,17453|109.105.130.19 |10001-10016,17453|100
 ru|109.105.141.35|10001-10016,17453|109.105.130.20 |10001-10016,17453|100
 create_mcr_info() failed no mcr info
 frbl not found in shared memory
-download_url_to_file(files/gameshield_32/36.17.9.22/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll in 5 seconds, err = 0(OK/200), sysErr = 0
-download_file(files/gameshield_32/36.17.9.22/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll encountered currupted md5(6020339b316a741f82d4e898174ccd57)
+skipping download (files/gameshield_32/36.17.9.22/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll as encountered equal md5s[6020339b316a741f82d4e898174ccd57]
 skipping download (files/driver_32/10.17.0.36/frost_32.sys) -> I:\Love\4game\rusRO_Prime\Frost\frost_32.sys as encountered equal md5s[9d79179ac8471bbeb56e25b5720166f2]
 skipping download (files/driver_64/10.17.1.36/frost_64.sys) -> I:\Love\4game\rusRO_Prime\Frost\frost_64.sys as encountered equal md5s[995d4c7cf610c30042afc2d8922fc0f5]
 skipping download (files/collector_32/1.3.9.67/frostcollector.dll) -> I:\Love\4game\rusRO_Prime\Frost\frostcollector.dll as encountered equal md5s[bc14ab6c17f3d721af5dc0249928f0a7]
@@ -53,4 +52,4 @@ started perform_delete_command()
 delated file I:\Love\4game\rusRO_Prime\Frost\FrostConfigs.exe GetLastError=2
 delated file I:\Love\4game\rusRO_Prime\Frost\whitenames.wl GetLastError=2
 will start launcher with params: "I:\Love\4game\rusRO_Prime\Frost\\ro.exe" 1rag1 id:666 pw:999 -frostGame ..\Ragexe.exe -frostOptions 5 -frostGameNameType rot-ru_live, using CreateProcess
-CreateProcess: 1, lastError: 3
+CreateProcess: 1, lastError: 298

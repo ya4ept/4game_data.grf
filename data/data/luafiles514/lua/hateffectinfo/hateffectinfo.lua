@@ -149,7 +149,8 @@ HatEFID = {
 	HAT_EF_GearWheel = 148,
 	HAT_EF_GIFT_OF_SNOW = 149,
 	HAT_EF_Snow_Powder = 150,
-	HAT_EF_Falling_Snow = 151
+	HAT_EF_Falling_Snow = 151,
+	HAT_EF_C_Phigasia_Scarf_EXE = 152
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -179,9 +180,7 @@ hatEffectTable = {
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true,
-		isEffectPair = true,
-		hatEffectID = 203
+		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_CLOCKING] = { hatEffectID = 120 },
 	[HatEFID.HAT_EF_SNOW] = { hatEffectID = 162 },
@@ -331,7 +330,7 @@ hatEffectTable = {
 		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_FSTONE] = {
-		resourceFileName = "efst_fstone\\fstone.str",
+		resourceFileName = "efst_fstone\\stoneofint.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
@@ -664,7 +663,7 @@ hatEffectTable = {
 		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_Snow_Powder] = {
-		resourceFileName = "efst_Snow_Powder\\bbss2.str",
+		resourceFileName = "efst_Snow_Powder\\ssnnnn2.str",
 		hatEffectPos = -11,
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,
@@ -677,6 +676,14 @@ hatEffectTable = {
 		hatEffectPos = -11,
 		hatEffectPosX = 1,
 		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Phigasia_Scarf_EXE] = {
+		resourceFileName = "efst_C_Phigasia_Scarf_EXE\\singa.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isIgnoreRiding = false,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	}
@@ -720,7 +727,8 @@ effectHatItemTable = {
 	400073,
 	20547,
 	20548,
-	20990
+	20990,
+	480097
 }
 
 -- Function #0

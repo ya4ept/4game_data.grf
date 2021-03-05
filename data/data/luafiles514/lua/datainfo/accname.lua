@@ -2066,5 +2066,12 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_White_Corone] = "_C_White_Corone",
 	[ACCESSORY_IDs.ACCESSORY_C_Floating_Parasol] = "_C_Floating_Parasol",
 	[ACCESSORY_IDs.ACCESSORY_C_Long_Ribbon] = "_C_Long_Ribbon",
-	[ACCESSORY_IDs.ACCESSORY_C_Hair_Bun_Wave] = "_C_Hair_Bun_Wave"
+	[ACCESSORY_IDs.ACCESSORY_C_Hair_Bun_Wave] = "_C_Hair_Bun_Wave",
+	[ACCESSORY_IDs.ACCESSORY_C_P_blossom_Hairpin] = "_C_P_blossom_Hairpin",
+	[ACCESSORY_IDs.ACCESSORY_C_Poulet_TW] = "_C_Poulet_TW",
+	[ACCESSORY_IDs.ACCESSORY_C_Choco_Banana] = "_C_Choco_Banana",
+	[ACCESSORY_IDs.ACCESSORY_YinYang_Earring_Y] = "_YinYang_Earring_Y",
+	[ACCESSORY_IDs.ACCESSORY_Thanos_Helm_2] = "_Thanos_Helm_2",
+	[ACCESSORY_IDs.ACCESSORY_Thanos_Helm2_LT] = "_Thanos_Helm2_LT",
+	[ACCESSORY_IDs.ACCESSORY_C_Rose_Crispinette] = "_C_Rose_Crispinette"
 }
