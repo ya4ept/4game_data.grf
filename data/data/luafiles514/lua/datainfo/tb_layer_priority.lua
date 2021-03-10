@@ -74,7 +74,7 @@ TB_Layer_Priority = {
 		[ACCESSORY_IDs.ACCESSORY_C_Alchemist_Square_Bag] = { Default = 450, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Poring_On_Shoulder] = { Default = 450, Direction = { [3] = 321, [4] = 321, [5] = 321 } },
 		[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig] = { Default = 150, Direction = {} },
-		[ACCESSORY_IDs.ACCESSORY_C_Picnic_Basket] = { Default = 450, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_Picnic_Basket] = { Default = 304, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Pigtail_Red_Hood] = { Default = 150, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Smiling_Eyes] = { Default = 100, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_Flower_Blossom] = { Default = 450, Direction = {} },
