@@ -848,6 +848,7 @@ JobNameTable = {
 	[jobtbl.JT_TREASURE_BOX38] = "TREASUREBOX_2.gr2",
 	[jobtbl.JT_TREASURE_BOX39] = "TREASUREBOX_2.gr2",
 	[jobtbl.JT_TREASURE_BOX40] = "TREASUREBOX_2.gr2",
+	[jobtbl.JT_TREASURE_BOX50] = "TREASUREBOX_2.gr2",
 	[jobtbl.JT_G_ASSULTER] = "G_ASSULTER",
 	[jobtbl.JT_APOCALIPS] = "APOCALIPS",
 	[jobtbl.JT_LAVA_GOLEM] = "LAVA_GOLEM",
