@@ -22107,9 +22107,27 @@ It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-14590#Party_Assumptio_Scroll#
-14589#Party_Increase_Agi_Scroll#
-14588#Party_Blessing_Scroll#
+14590#
+^FF0000Account Bound^000000
+A scroll that allows you to cast the Assumptio spell on a group of allies.
+Casts ^0000FFLv.5 Assumptio^000000.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14589#
+^FF0000Account Bound^000000
+A scroll that allows you to cast the Increase Agility spell on a group of allies.
+Casts ^0000FFLv.10 Increase Agility^000000.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+14588#
+^FF0000Account Bound^000000
+A scroll that allows you to cast the Blessing spell on a group of allies.
+Casts ^0000FFLv.10 Blessing^000000.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
 14593#A scroll that will cast Magic Amplification Lvl 10 for you.  Good for making the next magic attack do +50% Magic attack power.
 It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
@@ -37141,12 +37159,7 @@ Required Level: ^77777710^000000
 Job: ^777777All jobs^000000
 #
 19538#
-Bright full moon which is the biggest on the15th of August.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
 15044#
 A lab outfit from a scholar who went crazy while studying Homunculi for too long.
@@ -37605,7 +37618,9 @@ Chewing Gum is a lower headgear that by chance upon being hit gives the user a 7
 Weight: ^7777771^000000
 #
 6480#
-The coin used for a special event. It will be removed after event finish.
+^FF0000Character Bound^000000
+Antique coin, the face value is equal to half a Poring Sterling.
+Out of circulation. Now used as a game chip.
 Weight: ^7777770^000000
 #
 18632#
@@ -49611,13 +49626,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 20318#
-^808080A costume item resembles a decoration of the robot Charleston's body in Verus. It is said to be an antenna having a receiving function, but the details are unknown.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31091#
 ^808080Thoughts of zeny cloud the mind.^000000
@@ -55361,4 +55370,96 @@ Weight: ^7777771^000000
 
 7618#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+
+31849#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+
+20064#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31447#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31463#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31479#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31480#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+31849#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20204#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+20085#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
+#
+12712#
+^FF0000Account Bound^000000
+Herbal ale brewed without hops.
+Wort additives include yarrow, wild rosemary and juniper berries.
+Restores 5% to 20% HP.
+ATK/MATK +5~20 for 3 min.
+FLEE +5~20 for 3 min. 
+Randomly activates the 'Chaos' status for 3 seconds or casts one of skills (Lvl. 1):
+[Item Appraisal]
+[Find Stone]
+[Sprint]
+[First Aid]
+[Back Slide]
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+23957#
+It looks like a window into an endless abyss full of stars.
+And if you gaze long into this abyss, the abyss also gazes into you...
+Open the box and receive one of the following items:
+Flying Drone
+Dance of Planets
+Gioia Pet
+Moon and Stars
+Silvervine x1204
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Blue Hoverbrain
+Fool Moon
+Motion Accelerator
+Inf. Giant Fly Wing Box (1 h.)
+Cyber Headphones
+Charleston Antenna
+Pale Moon Hat
+Poring Fedora Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Blessing Of Tyr x10
+Token of Ziegfried x6
+Enriched Elunium x2
+Enriched Oridecon x2
+Convex Mirror x7
+Bloody Branch x2
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Assumptio Scroll x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Mental Potion x7
+Guyak Pudding x25
+Big Bun x20
+Sparkling Candy x11
+Guarana Candy x7
+Superb Fish Slice x25
+Yummy Skewered Grill x25
+^ffffff_^000000
+Weight: ^7777771^000000
 #

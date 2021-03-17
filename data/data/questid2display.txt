@@ -22268,3 +22268,7 @@ Talk to the Queen#
 17279#Gift to the Queen#SG_FEEL#QUE_IMAGE#
 Talk to the Florist#
 #
+
+17290#Lepricoring hunt#SG_FEEL#QUE_IMAGE#
+Defeat 50 Lepricorings#
+#

@@ -38552,54 +38552,6 @@ It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-14588#
-A scroll in which
-a single use of Level 10
-Party Blessing
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-14589#
-A scroll in which
-a single use of Level 10
-Party Increase AGI
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
-14590#
-A scroll in which
-a single use of Level 5
-Party Assumptio
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 14593#A scroll that will cast Magic Amplification Lvl 10 for you.  Good for making the next magic attack do +50% Magic attack power.
 It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
@@ -57145,14 +57097,13 @@ Required Level: ^77777710^000000
 Job: ^777777All^000000
 #
 19538#
-Bright full moon which is the biggest on the15th of August.
-Has a chance of adding +50 Atk or +50 Matk while physically attacking or magically attacking for 5 seconds.
-This effect does not work during War of Emperium
+Full moon illusion that can effectively detect werewolves.
+Only a fool or a suicide will use this thing. We warned you.
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 15044#
 A lab outfit from a student who went crazy while studying Homunculi for too long.
@@ -57773,8 +57724,9 @@ Weight: ^7777771^000000
 #
 
 6480#
-A special coin dropped from the King Poring himself.
-Bring these to the coin exchanger in Prontera.
+^FF0000Character Bound^000000
+Antique coin, the face value is equal to half a Poring Sterling.
+Out of circulation. Now used as a game chip.
 Weight: ^7777770^000000
 #
 18632#
@@ -65330,6 +65282,7 @@ Jobs: ^777777All^000000
 #
 18742#
 A moonlit night sky will always be with you wherever you go!
+^FF0000Animated^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Mid)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -72528,13 +72481,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20318#
-^808080A costume item resembles a decoration of the robot Charleston's body in Verus. It is said to be an antenna having a receiving function, but the details are unknown.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Middle)
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
+A device designed to receive and transmit radio waves.
+Used by robots from the Charleston Factory.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 31091#
 ^808080Thoughts of zeny cloud the mind.^000000
@@ -78589,50 +78543,23 @@ a spell or skill.
 Weight: ^7777771^000000
 #
 14588#
-A scroll in which
-a single use of Level 10
-Party Blessing
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
+^FF0000Account Bound^000000
+A scroll that allows you to cast the Blessing spell on a group of allies.
+Casts ^0000FFLv.10 Blessing^000000.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14589#
-A scroll in which
-a single use of Level 10
-Party Increase AGI
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
+^FF0000Account Bound^000000
+A scroll that allows you to cast the Increase Agility spell on a group of allies.
+Casts ^0000FFLv.10 Increase Agility^000000.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 14590#
-A scroll in which
-a single use of Level 5
-Party Assumptio
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution-- This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
+^FF0000Account Bound^000000
+A scroll that allows you to cast the Assumptio spell on a group of allies.
+Casts ^0000FFLv.5 Assumptio^000000.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -89137,7 +89064,7 @@ Petal Hat
 Forget-Me-Nots Knots
 Celestial Flower
 New Wave Sunshades
-Lilin’s Pins
+Lilin's Pins
 Bubblegum Battle Manual x2
 Blinking Lilac Eyes
 HE Battle Manual x2
@@ -89185,11 +89112,6 @@ Jobs: ^777777All^000000
 31449#
 ^FF0000Account bound^000000
 An eye patch that uses an elegant blue rose to cover the eye.
-EXP +15%
-ATK +8% when equipped with a weapon.
-MATK +8% when equipped with a weapon.
-Increase damage on Plant monsters by 8%.
-^ff0000[Effects are active only during the event (until March 10, 2021).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -89219,8 +89141,159 @@ Weight: ^7777771^000000
 #
 12704#
 ^FF0000Account bound^000000
-Essence, created by the Elder. If you look through it, you can see everithing in the past.
-Summons Memory Crystal.
+Essence, that was used to summon the Crystal. It lost its brightness.
+But who knows, maybe it will be useful later...
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+20064#
+A very talkative companion who knows everything in this world.
+Communicates through telepathy.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31447#
+A uniform hat worn by the Pale Moon delivery staff.
+Sign here, please!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31479#
+The entire planetary system revolves around you!
+Now it's not heliocentric, but egocentric!
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31480#
+Little Gioia who likes to sleep.
+It feeds on lollipops and electricity from an outlet.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31849#
+An electro-telepathic helmet designed to speed up reflexes.
+It doesn't work, but it looks cool.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20204#
+^FF0000Account Bound^000000
+As you value your life or your reason keep away from Kalala Swamp...
+However, if you suddenly get there, this hat will definitely help you survive!
+EXP +7%
+LUK +3
+ATK/MATK +3%
+^ff0000[Effects are active only during the event (until March 24, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20085#
+^FF0000Account Bound^000000
+The shamrock is a symbol of St. Patrick's homeland.
+Legends say that using the example of a clover leaf, Patrick explained the doctrine of the Three Faces of God.
+EXP +10%
+LUK +5
+ATK/MATK +5%
+Recover 25 HP and 5 SP every 10 seconds.
+Reduces SP consumption of skills by 10%.
+^ff0000[Effects are active only during the event (until March 24, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+12712#
+^FF0000Account Bound^000000
+Herbal ale brewed without hops.
+Wort additives include yarrow, wild rosemary and juniper berries.
+Restores 5% to 20% HP.
+ATK/MATK +5~20 for 3 min.
+FLEE +5~20 for 3 min. 
+Randomly activates the 'Chaos' status for 3 seconds or casts one of skills (Lvl. 1):
+[Item Appraisal]
+[Find Stone]
+[Sprint]
+[First Aid]
+[Back Slide]
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+23957#
+It looks like a window into an endless abyss full of stars.
+And if you gaze long into this abyss, the abyss also gazes into you...
+Open the box and receive one of the following items:
+Flying Drone
+Dance of Planets
+Gioia Pet
+Moon and Stars
+Silvervine x1204
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Blue Hoverbrain
+Fool Moon
+Motion Accelerator
+Inf. Giant Fly Wing Box (1 h.)
+Cyber Headphones
+Charleston Antenna
+Pale Moon Hat
+Poring Fedora Hat
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Blessing Of Tyr x10
+Token of Ziegfried x6
+Enriched Elunium x2
+Enriched Oridecon x2
+Convex Mirror x7
+Bloody Branch x2
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Assumptio Scroll x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Mental Potion x7
+Guyak Pudding x25
+Big Bun x20
+Sparkling Candy x11
+Guarana Candy x7
+Superb Fish Slice x25
+Yummy Skewered Grill x25
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31463#
+This little robot is extremely helpful!
+It can walk your dog, deliver pizza, or guard the house while you are away.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #

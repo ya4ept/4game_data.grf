@@ -851,6 +851,7 @@ JobNameTable = {
 	[jobtbl.JT_TREASURE_BOX38] = "TREASUREBOX_2.gr2",
 	[jobtbl.JT_TREASURE_BOX39] = "TREASUREBOX_2.gr2",
 	[jobtbl.JT_TREASURE_BOX40] = "TREASUREBOX_2.gr2",
+	[jobtbl.JT_TREASURE_BOX50] = "TREASUREBOX_2.gr2",
 	[jobtbl.JT_G_ASSULTER] = "G_ASSULTER",
 	[jobtbl.JT_APOCALIPS] = "APOCALIPS",
 	[jobtbl.JT_LAVA_GOLEM] = "LAVA_GOLEM",
@@ -3505,5 +3506,6 @@ JobNameTable = {
 	[jobtbl.JT_FAKE_ANGEL_E] = "FAKE_ANGEL",
 	[jobtbl.JT_SOLACE_E] = "SOLACE",
 	[jobtbl.JT_E_PERMETER] = "PERMETER",
-	[jobtbl.JT_E_CRYSTAL_H] = "CRYSTAL_H"
+	[jobtbl.JT_E_CRYSTAL_H] = "CRYSTAL_H",
+	[jobtbl.JT_E_POPORING_CLOVER] = "e_poporing_clover"
 }
