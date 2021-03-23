@@ -1,0 +1,52 @@
+distribution {1}
+    version=20210322.0
+    type=full
+    env=
+    files=./
+    control-hash=ad160c1f7b167a169dbf502242834a7532695d8c
+    deleted-control-hash=cdefd53d888ca98fff3d551f4634e7c4882e3351
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2317153774
+    size=2623997522
+    compressed-size-total=2317153774
+    size-total=2623997522
+    compressed-stages=
+
+delta {6}
+    version=20210301.0
+    files=../delta/20210301.0/
+    compressed-size=14749587
+    control-hash=8a08475ffbb8c6686c16f963fa00e041d65d4ad8
+
+    version=20210301.1
+    files=../delta/20210301.1/
+    compressed-size=10986887
+    control-hash=e63337a3a43b9956ac22899eb42e4b85ff66f5ee
+
+    version=20210302.0
+    files=../delta/20210302.0/
+    compressed-size=11765431
+    control-hash=b5521d2a8f35aec663713f87972d3581f5c859b6
+
+    version=20210309.0
+    files=../delta/20210309.0/
+    compressed-size=8132753
+    control-hash=d71867a14033ddcea47326049d93d2d639b9c1f3
+
+    version=20210310.0
+    files=../delta/20210310.0/
+    compressed-size=8133085
+    control-hash=61dd6539123a7cd97a6a61efe66e78c93d71a7ee
+
+    version=20210316.0
+    files=../delta/20210316.0/
+    compressed-size=3035384
+    control-hash=e8fac4334bb66b6b4de08e30305eb034ab0148b6
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-03-22T15:53:56+03:00
+    date-modified=2021-03-22T15:53:56+03:00
+    running-time-sec=663
+

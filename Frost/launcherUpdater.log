@@ -1,11 +1,11 @@
 CmdLine = -frostGameNameType rot-ru_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.4:80
-selected httpIp 109.105.133.4
+checking connection to 109.105.133.6:80
+selected httpIp 109.105.133.6
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
 get_32bit_client_setting end
-download_url_to_file(version/rot-ru_live/32/frostinfo.txt) -> I:\Love\4game\rusRO_Prime\Frost\\frostinfo.txt in 1 seconds, err = 0(OK/200), sysErr = 0
+download_url_to_file(version/rot-ru_live/32/frostinfo.txt) -> I:\Love\4game\rusRO_Prime\Frost\\frostinfo.txt in 0 seconds, err = 0(OK/200), sysErr = 0
 balance	100|0
 option	5
 redir ru|109.105.141.32|10001-10016,17453|109.105.130.17 |10001-10016,17453|100

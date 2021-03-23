@@ -1116,10 +1116,11 @@ StateIconList[EFST_IDs.EFST_EARTHSCROLL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Happy Break", COLOR_TITLE_BUFF },
+		{ "Счастливый перерыв", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "При использовании свитка Земли" },
-		{ "затрачивает некоторое кол-во SP." }
+		{ "затрачивает некоторое кол-во SP." },
+		{ "Низкий шанс использовать книгу заклинаний." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FALCON] = {
@@ -2992,35 +2993,35 @@ StateIconList[EFST_IDs.EFST_HANDICAPSTATE_ICEEXPLO] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 5,
 	descript = {
-		{ "???щЖшЕ?", COLOR_TITLE_DEBUFF },
-		{ "АМ???У?? °Ё?Т" },
-		{ "АПБ¤ ?Г°? ?Ъ?? Жш№ЯЗП??" },
-		{ "БЦ???? Е? ??№МБцё| БШ?Щ." },
+		{ "Ледяная бомба", COLOR_TITLE_DEBUFF },
+		{ "Уменьшает скорость передвижения." },
+		{ "Взрывается через определенное время." },
+		{ "Наносит большой урон противникам вокруг." },
 		{ "%s", COLOR_TIME }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_ATKMAX] = {
 	descript = {
-		{ "MAX ATK", COLOR_TITLE_TOGGLE },
-		{ "ГЦ?л №°ё®??№МБц" }
+		{ "Максимальная физ. атака", COLOR_TITLE_TOGGLE },
+		{ "Максимальный физический урон" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_ATKMIN] = {
 	descript = {
-		{ "MIN ATK", COLOR_TITLE_TOGGLE },
-		{ "ГЦ?Т №°ё®??№МБц" }
+		{ "Минимальная физ. атака", COLOR_TITLE_TOGGLE },
+		{ "Минимальный физический урон" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_MATKMAX] = {
 	descript = {
-		{ "MAX MATK", COLOR_TITLE_TOGGLE },
-		{ "ГЦ?л ё¶№э??№МБц" }
+		{ "Максимальная маг. атака", COLOR_TITLE_TOGGLE },
+		{ "Максимальный магический урон" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ITEM_MATKMIN] = {
 	descript = {
-		{ "MIN MATK", COLOR_TITLE_TOGGLE },
-		{ "ГЦ?Т ё¶№э??№МБц" }
+		{ "Минимальная маг. атака", COLOR_TITLE_TOGGLE },
+		{ "Минимальный магический урон" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHILL] = {
@@ -3817,9 +3818,9 @@ StateIconList[EFST_IDs.EFST_ENERGY_DRINK_RESERCH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "SP Increase Potion", COLOR_TITLE_BUFF },
+		{ "Зелье увеличения SP", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase MSP" }
+		{ "Увеличивает макс. SP" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
@@ -3983,19 +3984,19 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_CONFUSION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Confusion", COLOR_TITLE_DEBUFF },
+		{ "Хаос", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Move in random" }
+		{ "Персонаж двигается в случайном направлении." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_CURSE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Curse", COLOR_TITLE_DEBUFF },
+		{ "Проклятие", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Movement Speed and Physical attack reduced" },
-		{ "LUK became 0 " }
+		{ "Скорость передвижения и физическая атака уменьшены." },
+		{ "Удача снижена до 0. " }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALTHSTATE_FEAR] = {
@@ -4438,5 +4439,23 @@ StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
 		{ "Увеличение скорости атаки", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Скорость атаки +10%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MANA_PLUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение маг. атаки", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Маг. атака +50" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FULL_SWING_K] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Увеличение физ. атаки", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Физ. атака +50" }
 	}
 }
