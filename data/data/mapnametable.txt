@@ -960,3 +960,4 @@ dew_fild01.rsw#Tribal Village#
 dew_dun01.rsw#Volcanic Island of Krakatoa#
 
 epay_fild07.rsw#Payon Forest of the Past#
+epay_dun00.rsw#Unknown area#

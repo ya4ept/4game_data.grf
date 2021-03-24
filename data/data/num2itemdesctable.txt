@@ -37618,9 +37618,11 @@ Chewing Gum is a lower headgear that by chance upon being hit gives the user a 7
 Weight: ^7777771^000000
 #
 6480#
-^FF0000Character Bound^000000
 Antique coin, the face value is equal to half a Poring Sterling.
 Out of circulation. Now used as a game chip.
+^ffffff_^000000
+^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
+^ffffff_^000000
 Weight: ^7777770^000000
 #
 18632#
@@ -41803,13 +41805,7 @@ Weight: ^7777770^000000
 #
 
 19923#
-A classy dark hat once popular in the old days of Glastheim
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
 
 17347#
@@ -55462,4 +55458,37 @@ Superb Fish Slice x25
 Yummy Skewered Grill x25
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+19086#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19087#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19088#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19089#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19092#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19093#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19128#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19176#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19241#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19181#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19118#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

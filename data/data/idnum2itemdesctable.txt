@@ -3704,7 +3704,7 @@ Pierces 100% of DEF on Dragon race targets when performing a physical attack.
 A sword of brave men from the orient.
 Perfect Dodge +10
 [If upgrade level is +9 or higher]
-Aspd +20%
+Reduces after cast delay by 20%
 Skill cost -20%
 [If job level is maxed]
 With a low chance, Atk +50 for 10 sec. after a physical attack
@@ -37779,8 +37779,6 @@ A badge that is provided to warriors who have brought great honor from the Battl
 // -------- ������ ���� ������ ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
-^ffffff_^000000
-^ff0000Cannot be traded or stored.^000000
 Weight: ^7777771^000000
 #
 6002#
@@ -57724,9 +57722,11 @@ Weight: ^7777771^000000
 #
 
 6480#
-^FF0000Character Bound^000000
 Antique coin, the face value is equal to half a Poring Sterling.
 Out of circulation. Now used as a game chip.
+^ffffff_^000000
+^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
+^ffffff_^000000
 Weight: ^7777770^000000
 #
 18632#
@@ -63478,11 +63478,12 @@ Weight: ^7777770^000000
 #
 
 19923#
-A hat of black feathers made by the power of demons who bless the arrival of the Dark Ages.
+^FF0000Account Bound^000000
+Elegant biretta trimmed with purple corduroy and embellished with feathers.
+Wearing this headdress would make you look like a rich priest... or a cult leader.
 Class: ^777777Costume^000000 
-Defense: ^7777770^000000
 Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
@@ -89198,10 +89199,6 @@ Jobs: ^777777All^000000
 ^FF0000Account Bound^000000
 As you value your life or your reason keep away from Kalala Swamp...
 However, if you suddenly get there, this hat will definitely help you survive!
-EXP +7%
-LUK +3
-ATK/MATK +3%
-^ff0000[Effects are active only during the event (until March 24, 2021).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -89212,12 +89209,6 @@ Jobs: ^777777All^000000
 ^FF0000Account Bound^000000
 The shamrock is a symbol of St. Patrick's homeland.
 Legends say that using the example of a clover leaf, Patrick explained the doctrine of the Three Faces of God.
-EXP +10%
-LUK +5
-ATK/MATK +5%
-Recover 25 HP and 5 SP every 10 seconds.
-Reduces SP consumption of skills by 10%.
-^ff0000[Effects are active only during the event (until March 24, 2021).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -89294,6 +89285,143 @@ It can walk your dog, deliver pizza, or guard the house while you are away.
 Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19093#
+A pair of glasses
+that make the wearer's
+eyes look like they're
+spinning without focus.
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19089#
+A face mask that is worn by those whohave trouble sleeping.
+EXP +3%
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000 
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19088#
+A special optical
+tool that enables one
+to observe objects
+from a great distance.
+Dex + 1
+Class: ^777777Headgear^000000
+Defense: ^7777772^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19092#
+70's tough guy style
+sunglasses that give its wearer a manly swagger.
+LUK +1
+Class: ^777777Headgear^000000
+Defense: ^7777771^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19087#
+Gorgeous golden mask that belonged to a powerful ancient goddess.
+STR +1
+HIT +8
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777720^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19086#
+Glasses that allow you to emit beams from your eyes. They seem to have been made in the outer space.
+DEX +1
+ATK +1%
+MATK +1%
+^FF0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777772^000000    Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All^000000
+#
+19128#
+A headgear that imitates the ears of Ifrit, the spirit of an unquenchable flame.
+STR +1
+AGI +1
+VIT +1
+ATK +3%
+Ignore target's DEF by 2%
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19118#
+Sunglasses with the lenses that look like Porings. An essential item for drawing everybody's attention.
+INT +1
+VIT +1
+DEX +1
+MATK +3%
+Ignore target's MDEF by 2%
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^7777771^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19241#
+A hair accessory glowing with blue lights. It is supposed to boost your abilities, but unfortunately, it doesn't seem to work.
+INT +1
+STR +1
+DEX +1
+HIT +10
+ATK +3%
+^ff0000Animated^000000
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19181#
+Looks like you escaped from a rave party.
+Or from some weird school for gifted youngsters.
+STR +1
+AGI +1
+DEX +1
+FLEE +10
+Reduce damage from players and Demi-Human monsters by 3%
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19176#
+Two stylish hairpins in the form of black wings.
+Named after Lilin, the evil spirits of night and darkness.
+DEX +1
+INT +1
+AGI +1
+FLEE +10
+Ranged attack damage +5%
+Class: ^777777Headgear^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #

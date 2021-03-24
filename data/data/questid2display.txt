@@ -22272,3 +22272,6 @@ Talk to the Florist#
 17290#Lepricoring hunt#SG_FEEL#QUE_IMAGE#
 Defeat 50 Lepricorings#
 #
+17215#Baphomet pass#SG_FEEL#QUE_IMAGE#
+You can re-enter Baphomet Dungeon during 5 minutes after the first enter#
+#

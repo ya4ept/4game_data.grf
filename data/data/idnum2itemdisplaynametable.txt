@@ -6447,7 +6447,7 @@
 15056#Special Ninja Suit#
 17155#Upg Huuma Shuriken Box#
 19922#Costume Noah Hat#
-19923#Costume Dark Age#
+19923#Purple Biretta#
 19925#Costume One Eyed Glasses#
 19926#Costume Black Ribbon#
 19929#Costume Classical Ribbon#
@@ -9146,3 +9146,15 @@
 20204#Hunting Cap#
 20085#Shamrock Hat#
 23957#Space Treasure#
+
+19086#Robo Eyes#
+19087#Angel Mask#
+19088#Binoculars#
+19089#Blinker#
+19092#Machoman's Glasses#
+19093#Geek Glasses#
+19128#Ears of Ifrit#
+19241#Azure Booster#
+19176#Lilin's Pins#
+19181#New Wave Sunshades#
+19118#Poring Sunglasses#

@@ -8042,3 +8042,16 @@
 20085#Hat#
 12712#Gruit#
 23957#Space Treasure#
+
+19086#Accessory#
+19087#Accessory#
+19088#Accessory#
+19089#Accessory#
+19092#Accessory#
+19093#Accessory#
+19128#Accessory#
+19241#Accessory#
+19176#Accessory#
+19181#Accessory#
+19118#Accessory#
+

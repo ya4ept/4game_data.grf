@@ -3507,5 +3507,9 @@ JobNameTable = {
 	[jobtbl.JT_SOLACE_E] = "SOLACE",
 	[jobtbl.JT_E_PERMETER] = "PERMETER",
 	[jobtbl.JT_E_CRYSTAL_H] = "CRYSTAL_H",
-	[jobtbl.JT_E_POPORING_CLOVER] = "e_poporing_clover"
+	[jobtbl.JT_E_POPORING_CLOVER] = "e_poporing_clover",
+	[jobtbl.JT_EVT_FARMILIAR] = "Farmiliar",
+	[jobtbl.JT_EVT_ZOMBIE] = "Zombie",
+	[jobtbl.JT_EVT_SNAKE] = "Snake",
+	[jobtbl.JT_EVT_SKELETON] = "SKELETON"
 }

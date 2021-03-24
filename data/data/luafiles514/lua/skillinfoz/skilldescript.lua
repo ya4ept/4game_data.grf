@@ -4610,9 +4610,9 @@ SKILL_DESCRIPT = {
 		"^777777Skill Requirement: Magic Rod 3,",
 		"Spell Breaker 2^000000",
 		"Skill Form: ^777777Supportive^000000",
-		"Description: ^777777Exchange caster's remaining SP with",
-		"target's remaining SP. The SP that the caster",
-		"receives cannot exceed the caster's Max SP limit.^000000"
+		"Description: ^777777Exchanges the SP of the caster and the target in such a way",
+		"that each of them gets 50% of the current amount of the other's SP.",
+		"The SP that the caster receives cannot exceed the caster's Max SP limit.^000000"
 	},
 	[SKID.PF_SOULBURN] = {
 		"[Soul Siphon]",
