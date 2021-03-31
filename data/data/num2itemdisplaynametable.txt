@@ -1451,7 +1451,7 @@
 7231#Gold Ore#
 7232#Silver Ore#
 7233#Mithril Ore#
-670#Bag of Gold Coins#
+670#Coin Purse#
 671#Gold Coin #
 672#Bag of Bronze Coins#
 673#Bronze Coin#
@@ -8037,7 +8037,6 @@
 14588#Party Blessing Scroll#
 14589#Party Increase Agility Scroll#
 14590#Party Assumptio Scroll#
-23957#아리부타스크롤#
 20204#Hat#
 20085#Hat#
 12712#Gruit#
@@ -8055,3 +8054,19 @@
 19181#Accessory#
 19118#Accessory#
 
+
+19876#Accessory#
+20257#Accessory#
+20525#Garment#
+31299#Accessory#
+31693#Accessory#
+31766#Accessory#
+31814#Accessory#
+31815#Hat#
+19881#Accessory#
+9601#Ostara's Treasure#
+
+20117#Hat#
+31526#Hat#
+31914#Hat#
+19908#Accessory#

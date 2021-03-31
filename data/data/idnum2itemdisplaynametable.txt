@@ -1458,7 +1458,7 @@
 7231#Gold Ore#
 7232#Silver Ore#
 7233#Mithril Ore#
-670#Bag of Gold Coins#
+670#Coin Purse#
 671#Gold Coin #
 672#Bag of Bronze Coins#
 673#Bronze Coin#
@@ -6757,7 +6757,7 @@
 17448#Toybox Scroll#
 19984#Costume Winter Hat#
 19985#Crown of Legendary kama#
-19986#Costume LunatiCostume Hat#
+19986#Lunatic Hat#
 19987#Costume Blue Fur Hat#
 19988#Crown of Elders#
 19989#Mouton Earmuffs#
@@ -7091,7 +7091,7 @@
 20022#Costume Love Piece#
 20023#Costume Red Beret#
 20024#Costume Ribbon Orange#
-20031#Costume Bunny Head Dress#
+20031#Lucky Bunny Hairband#
 20032#Costume Firinto Scarf#
 20033#Costume Buddhist Priest Crown#
 
@@ -8507,7 +8507,7 @@
 20285#Fluttering Cherry Blossoms#
 20297#Costume: Cactus Hat#
 31123#Ghostring Tall Hat#
-19876#Costume: Rabbit Ear Hat#
+19876#Rabbit Boater#
 20145#Costume: Robo Eye#
 20146#Costume: Angel's Masquerade#
 2189#Mad Bunny#
@@ -9158,3 +9158,18 @@
 19176#Lilin's Pins#
 19181#New Wave Sunshades#
 19118#Poring Sunglasses#
+
+20257#Rabbit Bonnet#
+20525#Bloody Wings#
+31299#White Rabbit#
+31693#Lunatic Muffler#
+31766#의상_모란_머리장식#
+31814#Rabbit Family Balloon#
+31815#Rabbit Lord Wig#
+19881#Pink Bunny Hood#
+9601#Ostara's Treasure#
+
+20117#Raspberry Mousse Hat#
+31526#Black Forest Hat#
+31914#Red Beret Headband#
+19908#Jester's Cap#

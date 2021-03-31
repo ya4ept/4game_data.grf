@@ -1150,7 +1150,13 @@ Unimplimented Item
 #
 
 670#
-Unimplimented Item
+^FF0000Account Bound^000000
+A pouch filled with magic coins.
+They have no money value, but they shine beautifully in the sun.
+Restores 10% HP.
+When recieving physical damage, has a chance to Autocast [Lv.1 Unbarring Octave] or [Lv.1 Dazzler].
+^FFFFFF_^000000
+Weight: 1
 #
 
 671#
@@ -62638,13 +62644,18 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19908#
-A specially made hat for the event.
+^FF0000Account bound^000000
+The long ends of this cap symbolize the donkey's ears and tail. They serve as a reminder of the Feast of Fools and Asses.
+In the old days, Rune-Midgard was famous for the processions of mummers who rode around the city on donkeys.
+Max HP/SP +10%
+Increases effectiveness of Healing skills by 5%.
+When recieving physical damage, has a chance to Autocast [Lv.1 Unbarring Octave] or [Lv.1 Dazzler].
+^ff0000[Effects are active only during the event (until April 7, 2021).]^000000
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 19910#
 A fashionable witch's hat made specifically for this year's Halloween party.
@@ -62986,17 +62997,6 @@ Location: ^777777Middle^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-19876#
-An energetic Bunny Band perfect for a magic show.
-This can be exchanged with [Designer Heidam] for enchantment stones that are used to enchant other kitcoin costume items.
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to enchant your Kitcoin costume item on slot 1.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 19654#
 A replica of the hats worn by the strange antlered captains of the airships that cross Rune Midgard.
@@ -67287,11 +67287,13 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19881#
-A newly designed love rabbit hood for the new year.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid Lower ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+Have you ever dreamed of catching the Easter Bunny?
+Use this camouflage hood to get closer to your target!
+Class: ^777777Costume^000000
+Location: ^777777Upper/Middle/Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19951#
 A yellow colored paper box with eye holes. You can play super awesome just by yourself.
@@ -70263,12 +70265,13 @@ Required lvl : ^7777771^000000
 Job : ^777777All^000000
 #
 19986#
-A fluffy looking hat.
-
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required lvl: ^7777771^000000
-Job: ^777777All^000000
+Faux fur hat made in the shape of a Lunatic.
+It's indistinguishable from a real animal, we guarantee!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19987#
 Warm hat for cold times. Sometimes people wear this just because it looks cool.
@@ -71719,11 +71722,13 @@ Job: ^777777All^000000
 #
 
 20031#
-^ff0000From 3-17-2016 to 6-01-2016 will increase Luk by 5 and enable the dropping of Green Ale Items.^000000
-Class: ^777777Costume Equipment^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Lv: ^7777771^000000
-Job: ^777777All^000000
+Welcome to Lucky Bunny restaurant!
+One hundred meals and drinks made from carrots! You haven't eaten anything like this before!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 20011#
@@ -82777,15 +82782,13 @@ Required Level: 1
 Jobs: All Jobs
 #
 19876#
-An energetic Bunny Band perfect for a magic show.
-This can be exchanged with [Designer Heidam] for enchantment stones that are used to enchant other kitcoin costume items.
-Bring this to [Aver De Dosh] in Malangdo at the building location 115 150 to enchant your Kitcoin costume item on slot 1.
+Eh... What's up, doc? I'm just an ordinary gondolier.
+Take your hunting rifle and move on.
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20145#
 A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
@@ -89425,3 +89428,149 @@ Defense: ^7777770^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+20257#
+Eh... What's up, doc? I'm just an ordinary high society lady.
+Take your hunting rifle and move on.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20525#
+Apocrypha says that the Archistratigus Michael wounded his wings during the battle with Adversary.
+Since then, the feathers on them are red.
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31299#
+Cute rabbit, white rabbit, little ball of fluff.
+Happy rabbit, 'coz you gave him all your love.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31693#
+The coat of this little animal is so soft and airy!
+It feels like a small cloud is lying on your shoulders!
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31766#
+흰 모란이 성실함을 연상시키는 의상용 머리장식.
+빨간 장식끈이 포인트.
+^ffffff<NAVI>^4D4DFF[헤이담 펠로우]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4의상 인챈트 스톤 상자19로 교환 가능.^000000
+계열: ^777777의상장비^000000 방어: ^7777770^000000
+위치: ^777777상단 ^000000무게: ^7777770^000000
+요구 레벨: ^7777771^000000
+장착: ^777777전 직업^000000
+#
+31814#
+A bunch of balloons in the shape of a Lunatic, a Leaf Lunatic and an Eclipse.
+Sold three at a time. They cannot be separated because they are family!
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31815#
+It is time, my Rabbit brothers!
+Let us rise and crush the dominion of Humans! I will lead you into battle!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9601#
+It is said that the hare was a sacred animal of Ostara, the ancient goddess of spring and dawn.
+An Easter Holiday is named after her.
+Open the egg and receive one of the following gifts:
+White Rabbit
+Bloody Wings
+Lunatic Muffler
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Rabbit Lord Wig
+Rabbit Family Balloon
+Lunatic Hat
+Inf. Giant Fly Wing Box (1 h.)
+Pink Bunny Hood
+Rabbit Boater
+Rabbit Bonnet
+Lilin's Pins
+Lucky Bunny Hairband
+Piamette's Ribbon
+Mad Bunny
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Blessing Of Tyr x10
+Holy Egg x4
+Mental Potion x7
+Guyak Pudding x25
+Token of Ziegfried x6
+Enriched Elunium x2
+Enriched Oridecon x2
+Convex Mirror x7
+Bloody Branch x2
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Assumptio Scroll x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Guarana Candy x7
+Rainbow Carrot x25
+Mooncake x18
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20117#
+^FF0000Account bound^000000
+This hat looks like a cake and smells like a cake, but you can't eat it.
+Or can you? Find out at your own risk and peril!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31526#
+^FF0000Account bound^000000
+Fritz has a fancy feather hat, he is the smuggest dandy!
+I'll beat him up if he decides to tease my dear lady!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31914#
+^FF0000Account bound^000000
+A charming red beret with a pompom attached to the headband.
+It will not fly off your head, no matter how strong the wind is!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+
