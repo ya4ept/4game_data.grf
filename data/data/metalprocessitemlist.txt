@@ -1,328 +1,328 @@
 998#
-1 Iron Ore
+1 Железная руда
 #
 999#
-5 Iron
-1 Coal
+5 Железо
+1 Каменный уголь
 #
 1000#
-10 Star Dust
+10 Звездная пыль
 #
 994#
-10 Red Blood
+10 Красная кровь
 #
 995#
-10 Crystal Blue
+10 Голубой кристалл
 #
 997#
-10 Green Live
+10 Зеленая жизнь
 #
 996#
-10 Wind Of Verdure
+10 Желтый ветер
 #
 1101#
-2 Iron
+2 Железо
 #
 1104#
-30 Iron
+30 Железо
 #
 1107#
-45 Iron
-25 Tooth of Bat
+45 Железо
+25 Клык летучей мыши
 #
 1110#
-20 Steel
+20 Сталь
 #
 1113#
-35 Steel
+35 Сталь
 #
 1122#
-40 Steel
-50 Wolf Claw
+40 Сталь
+50 Волчий коготь
 #
 1119#
-8 Oridecon
-15 Steel
-1 Garnet
+8 Оридекон
+15 Сталь
+1 Гранат
 #
 1123#
-8 Oridecon
-10 Steel
-1 Topaz
+8 Оридекон
+10 Сталь
+1 Топаз
 #
 1126#
-8 Oridecon
-5 Steel
-1 Opal
+8 Оридекон
+5 Сталь
+1 Опал
 #
 1129#
-16 Oridecon
-1 Ruby
+16 Оридекон
+1 Проклятый рубин
 #
 1201#
-1 Iron
-10 Jellopy
+1 Железо
+10 Желлопи
 #
 1204#
-25 Iron
+25 Железо
 #
 1207#
-50 Iron
+50 Железо
 #
 1210#
-17 Steel
+17 Сталь
 #
 1213#
-30 Steel
+30 Сталь
 #
 1216#
-40 Steel
+40 Сталь
 #
 1219#
-4 Oridecon
-40 Steel
-1 Sapphire
+4 Оридекон
+40 Сталь
+1 Сапфир
 #
 1222#
-4 Oridecon
-60 Steel
-1 Zircon
+4 Оридекон
+60 Сталь
+1 Циркон
 #
 1116#
-35 Iron
-15 Horrendous Mouth
+35 Железо
+15 Челюсть мертвеца
 #
 1151#
-25 Steel
-20 Decayed Nail
+24 Сталь
+20 Ноготь мертвеца
 #
 1154#
-45 Steel
+45 Сталь
 #
 1157#
-12 Oridecon
-10 Steel
+12 Оридекон
+10 Сталь
 #
 1160#
-12 Oridecon
-20 Steel
+12 Оридекон
+20 Сталь
 #
 1163#
-16 Oridecon
-20 Steel
-1 Diamond
+16 Оридекон
+20 Сталь
+1 Треснувший алмаз
 #
 1301#
-10 Iron
+10 Железо
 #
 1351#
-110 Iron
+110 Железо
 #
 1354#
-30 Steel
+30 Сталь
 #
 1357#
-4 Oridecon
-20 Steel
-30 Orc's Fang
+4 Оридекон
+20 Сталь
+30 Клык орка
 #
 1360#
-8 Oridecon
-10 Steel
-1 Amethyst
+8 Оридекон
+20 Сталь
+1 Аметист
 #
 1501#
-3 Iron
+3 Железо
 #
 1504#
-30 Iron
+30 Железо
 #
 1507#
-20 Steel
+20 Сталь
 #
 1510#
-33 Steel
+33 Сталь
 #
 1519#
-45 Steel
+45 Сталь
 #
 1513#
-85 Steel
-1 Diamond
+85 Сталь
+1 Алмаз 1 карат
 #
 1516#
-100 Steel
-20 Sharp Scale
+100 Сталь
+20 Острая чешуйка
 #
 1522#
-120 Steel
-1 Heroic Emblem
+120 Сталь
+1 Эмблема орка
 #
 1401#
-3 Iron
+3 Железо
 #
 1404#
-35 Iron
+35 Железо
 #
 1407#
-70 Iron
+70 Железо
 #
 1451#
-25 Steel
+25 Сталь
 #
 1454#
-40 Steel
+40 Сталь
 #
 1457#
-55 Steel
+55 Сталь
 #
 1460#
-8 Oridecon
-10 Steel
-5 Aquamarine
+8 Оридекон
+10 Сталь
+5 Аквамарин
 #
 1463#
-3 Oridecon
-10 Steel
+12 Оридекон
+10 Сталь
 #
 1410#
-12 Oridecon
-3 Ruby
-2 Evil Horn
+12 Оридекон
+3 Рубин
+2 Злой рог
 #
 1801#
-160 Iron
-1 Pearl
+160 Железо
+1 Жемчужина
 #
 1803#
-50 Steel
+50 Сталь
 #
 1805#
-65 Steel
+65 Сталь
 #
 1807#
-4 Oridecon
-10 Ruby
+4 Оридекон
+10 Рубин
 #
 1809#
-8 Oridecon
-10 Topaz
+8 Оридекон
+10 Топаз
 #
 1811#
-4 Oridecon
-10 Opal
+4 Оридекон
+10 Опал
 #
 7135#
-1 Alcohol
-1 Fabric
-1 Empty Bottle
+1 Спирт
+1 Прозрачная ткань
+1 Пустая бутылка
 #
 7136#
-1 Immortal Heart
-1 Empty Bottle
+1 Бессмертное сердце
+1 Пустая бутылка
 #
 7137#
-2 Maneater Blossom
-1 Empty Bottle
+2 Цветок-людоед
+1 Пустая бутылка
 #
 7138#
-1 Detonator
-1 Tendon
-1 Empty Bottle
+1 Детонатор
+1 Сухожилия
+1 Пустая бутылка
 #
 7139#
-1 Alcohol
-1 Zenorc's Fang
-1 Heart of Mermaid
-1 Empty Bottle
+1 Спирт
+1 Клык зенорка
+1 Сердце русалки
+1 Пустая бутылка
 #
 545#
-1 Red Potion
-1 Empty Test Tube
-1 Cactus Needle
+1 Красное зелье
+1 Пустая колба
+1 Игла кактуса
 #
 546#
-1 Yellow Potion
-1 Empty Test Tube
-1 Mole Whiskers
+1 Желтое зелье
+1 Пустая колба
+1 Усы крота
 #
 547#
-1 White Potion
-1 Empty Test Tube
-1 Witch Starsand
+1 Белое зелье
+1 Пустая колба
+1 Золотой песок ведьмы
 #
 501#
-1 Red Herb
-1 Empty Potion Bottle
+1 Красная трава
+1 Пустой пузырек
 #
 503#
-1 Yellow Herb
-1 Empty Potion Bottle
+1 Желтая трава
+1 Пустой пузырек
 #
 504#
-1 White Herb
-1 Empty Potion Bottle
+1 Белая трава
+1 Пустой пузырек
 #
 970#
-5 Stem
-1 Empty Bottle
+5 Стебель
+1 Пустая бутылка
 5 Poison Spore
-1 Empty Test Tube
+1 Пустая колба
 #
 505#
-1 Blue Herb
-1 Scell
-1 Empty Potion Bottle
+1 Синяя трава
+1 Сэлл
+1 Пустой пузырек
 #
 605#
-1 Ment
-1 Alcohol
-1 Empty Bottle
+1 Мята
+1 Спирт
+1 Пустая бутылка
 #
 606#
-1 Aloe
-1 Honey
-1 Empty Bottle
+1 Алоэ
+1 Мед
+1 Пустая бутылка
 #
 12118#
-2 Frills
-1 Red Gemstone
+2 Воротник ящерицы
+1 Красный драгоценный камень
 #
 12119#
-3 Hearts of Mermaid
-1 Blue Gemstone
+3 Сердце русалки
+1 Синий драгоценный камень
 #
 12120#
-2 Large Jellopies
-1 Yellow Gemstone
+2 Большой желлопи
+1 Желтый драгоценный камень
 #
 12121#
-3 Moth Dust
-1 Blue Gemstone
+3 Пыльца мотылька
+1 Синий драгоценный камень
 #
 12118#
-2 Frills
-1 Red Gemstone
-1 Empty Potion Bottle
+2 Воротник ящерицы
+1 Красный драгоценный камень
+1 Пустой пузырек
 #
 12119#
-3 Hearts of Mermaid
-1 Blue Gemstone
-1 Empty Potion Bottle
+3 Сердце русалки
+1 Синий драгоценный камень
+1 Пустой пузырек
 #
 12120#
-2 Large Jellopies
-1 Yellow Gemstone
-1 Empty Potion Bottle
+2 Большой желлопи
+1 Желтый драгоценный камень
+1 Пустой пузырек
 #
 12121#
-3 Powders of Butterfly
-1 Blue Gemstone
-1 Empty Potion Bottle
+3 Пыльца бабочки
+1 Синий драгоценный камень
+1 Пустой пузырек
 #
 7142#
-1 Morning Dew of Yggdrasil
-1 Seed of Life
-1 Glass Tube
+1 Роса Иггдрасиля
+1 Семя жизни
+1 Сосуд жизни
 #
 
