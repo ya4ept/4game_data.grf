@@ -504,8 +504,11 @@ Restores ^00800010-20 SP^000000.
 Weight: ^7777774^000000
 #
 569#
+^FF0000Character Bound^000000
 An exclusive red potion for Novices.
-Restores ^00800022-33 HP^000000.
+Restores ^00800044-66HP^000000.
+^FFFFFF_^000000
+It can be sold to NPC.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -62647,10 +62650,6 @@ Job: ^777777All^000000
 ^FF0000Account bound^000000
 The long ends of this cap symbolize the donkey's ears and tail. They serve as a reminder of the Feast of Fools and Asses.
 In the old days, Rune-Midgard was famous for the processions of mummers who rode around the city on donkeys.
-Max HP/SP +10%
-Increases effectiveness of Healing skills by 5%.
-When recieving physical damage, has a chance to Autocast [Lv.1 Unbarring Octave] or [Lv.1 Dazzler].
-^ff0000[Effects are active only during the event (until April 7, 2021).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000

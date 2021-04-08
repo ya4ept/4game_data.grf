@@ -1,5 +1,26 @@
+07.04.2021
+Baphomet
+The maintenance finished, the server is online. Changelog:
+Events:
+
+— Novice Arena has been updated:
+1. The entrance to the arena is now only possible with 0 weight;
+2. Inside the waiting room there is now an npc Supplier (49 16), which gives out a Rental Sword for 1 hour and 5 Novice Potions;
+3. Reward luckyboxes have been changed.
+
+Shop:
+— Sprout, Spring and Bloom packs already available on 4game Launcher.
+
+Finished activities:
+— The Fool's Gold event is now turned off;
+— The Black Market Auction was a success and will be out of the server for a brief while.
+— The Ostara's Treasure and its sets have been removed from 4game Launcher and the shop.
+
+Due to the technical issues on Forums full patchnotes we posted a little bit later. Sorry for inconvenience.
+
+================
 31.03.2021 12:13
-[CM] Godfather — Сегодня, в
+[CM] Godfather
 The maintenance has finished, the server is online. Changelog:
 
 https://eu.4gameforum.com/threads/681686/

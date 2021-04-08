@@ -8098,8 +8098,11 @@ An egg of a monster. Can hatch the monster with a [Pet Incubator].
 Type: ^777777Pet Egg^000000
 #
 569#
+^FF0000Character Bound^000000
 An exclusive red potion for Novices.
-Restores ^00800022-33 HP^000000.
+Restores ^00800044-66HP^000000.
+^FFFFFF_^000000
+It can be sold to NPC.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
