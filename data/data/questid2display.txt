@@ -4362,97 +4362,97 @@ Vitre#
 The Secret Service have taken Vitre away for Espionage. You should probably go back to Lasda and let him know what happened to Vitre.#
 Lasda Midar#
 
-18030#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Oh, thank you so much! You don't understand how much I dread those Airships. Now, would you please deliver these books to ^ff0000Mr. Karlomoff^000000 near the Juno Library?"#
-Mr. Karlomoff#
+18030#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Большое спасибо! Вы не представляете, как я боюсь этих дирижаблей. А теперь не могли бы вы доставить эти книги ^ff0000мистеру Карломоффу^000000 возле библиотеки Юно?"#
+Отнесите книги мистеру Карломоффу#
 
-18031#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"It would be a great help to me if you could get this report to her right away. Ah, her name is Rodafrian. I'm certain you can find her somewhere in that desert town."#
-Rodafrian#
+18031#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Пожалуйста, отыщите мою коллегу и передайте ей этот отчет. Ее зовут Родафриан. Она работает где-то в Морроке."#
+Найдите Родафриан в Морроке#
 
-18032#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Find Mondo in Mt. Mjolnir. Tell him your version of the story "The great serpent swallowed the sea. The eagle of the rainbow swallowed the serpent. Then the eagle built its nest. A nest upon the swallowed sea."#
-Mondo#
+18032#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Найдите Модо по просьбе Родафриан. Она говорит, что Модо может быть в руинах на горе Мьелльнир. Перескажите ему свою версию песни.#
+Найдите Модо в руинах на горе Мьелльнир#
 
-18033#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Ahh, if you want to learn more, then you should try to find the kid that was singing the song. Hmm, he might be around ^3131ddthe river near here^000000. Hopefully it won't be too hard to find him."#
-Dazed Boy#
+18033#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Эх, если ты хочешь узнать другие варианты, тогда найди того безумного мальчика, от которого я услышал песню. Он должен быть где-то неподалеку, ^3131ddу реки^000000. Надеюсь, тебе не составит труда его найти."#
+Найдите Безумного мальчика#
 
-18034#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Deliver the herbs from the Exhausted-Looking Woman to Father Bamph in Prontera Church.#
-Father Bamph#
+18034#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Доставьте травы Отцу Бамфу в церковь Пронтеры от Измученной женщины.#
+Отдайте травы Отцу Бамфу#
 
-18035#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Please visit Bonnie Imbullea in Mount Mjolnir to see if you can learn more about that song, or about what happened after the attempted exorcism of the Jormungand curse."#
-Bonnie Imbullea#
+18035#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Пожалуйста, посетите Бонни Имбулиа на горе Мьелльнир, чтобы узнать больше подробностей о песне или о том, что произошло на церемонии изгнания проклятие Ёрмунганда."#
+Поговорите с Бонни Имбулиа#
 
-18036#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Head back to Prontera Church and tell Father Bamph what you learned from speaking to Bonnie Imbullea.#
-Father Bamph#
+18036#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Возвращайтесь в церковь Пронтеры и расскажите, что вы узнали у Бонни Имбулиа.#
+Возвращайтесь к Отцу Бамфу#
 
-18037#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Come with me, adventurer, to the secret ceremonial grounds for the royal family. Just use the switch hidden within the bookshelf and I will meet you there."#
-Hidden switch#
+18037#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Следуй за мной, странник. Чтобы попасть в секретную церемониальную комнату королевской семьи воспользуйся рычагом, скрытым в книжном шкафу."#
+Найдите рычаг.#
 
-18038#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-You've examined the body of the king's first son, the crown prince. Examine the body of the second prince.#
-Second prince#
+18038#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы осмотрели тело первенца короля, первого принца. Осмотрите тело второго принца.#
+Осмотрите тело второго принца#
 
-18039#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-You've examined the body of the king's second son. Examine the body of the third prince.#
-Third prince#
+18039#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы осмотрели тело второго сына короля. Осмотрите тело третьего принца.#
+Осмотрите тело третьего принца#
 
-18040#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Brave adventurer, would you please visit the Assassin Guild in Morroc and see if you can learn anything about how we can verify whether poison was used to kill the princes?"#
-Assassin Guild#
+18040#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Храбрый странник, не могли бы вы посетить Гильдию Ассасинов в Морроке и разузнать что-нибудь про способ определения яда, которым отравили принцев?"#
+Посетите Гильдию Ассасинов#
 
-18041#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"There is an Assassin's Private Pub in the 7 o'clock direction in Morroc. Go find someone named ^3131ffMarjana^000000 inside."#
-Marjana#
+18041#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"В Морроке по направлению на 7 часов есть Закрытый Паб Ассасинов. Попадите туда и найдите ^3131ffМарьяну^000000."#
+Найдите Марьяну#
 
-18042#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Well, it's easier for me to visit Rodafrian now. She's much closer than Father Bamph, so I guess that I'll go talk to her first."#
-Rodafrian#
+18042#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Сейчас быстрее всего я смогу добраться до Родафриан, чем до Отца Бамф, так что, думаю, стоит навестить первой ее."#
+Направляйтесь к Родафриан#
 
-18043#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Well, it's more important that I go see Father Bamph and investigate the princes bodies. I better head over to Prontera right away."#
-Father Bamph#
+18043#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Сейчас важнее всего наведаться к Отцу Бамфу и исследовать тела принцев. Мне следует прямо сейчас отправиться в Пронтеру."#
+Отправляйтесь к Отцу Бамфу#
 
-18044#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Drat, she didn't give me any help... All I did was reveal a huge secret to her that she might spread around! Oh well, I guess I better head back to the priests..."#
-Prontera Church#
+18044#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Она ничем мне не помогла... Надо возвращаться к священникам в Пронтеру."#
+Вернитесь в церковь Пронтеры#
 
-18045#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Rodafrian seemed very happy and began to read through Karlomoff's report. For now, it would be best to return to Father Bamph."#
-Father Bamph#
+18045#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Родафриан выглядит очень радостной и начала читать репорт от Карлмоффа. Сейчас лучше всего вернуться к Отцу Бамфу."#
+Возвращайтесь к Отцу Бамфу#
 
-18046#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-"Then, would you please bring 1 Yellow Gemstone and 1 Green Potion to the secret ceremonial grounds as soon as you can? I will wait over there for you once again."#
-1 Yellow Gemstone and 1 Green Potion#
+18046#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+"Теперь я попрошу тебя принести ^3131ff1 Желтый драгоценный камень^000000 и ^3131ff1 Зеленое зелье^000000 в секретную церемониальную комнату королевской семьи. Я буду ждать тебя там. Прошу, поторопись."#
+Принесите 1 Желтый драгоценный камень и 1 Зеленое зелье#
 
-18047#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-The solution worked to remove the scale marks from the princes. Report your findings to Father Bamph.#
-Father Bamph#
+18047#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Способ, предложенный Марьяной, сработал. Сообщите о результатах Отцу Бамфу.#
+Сообщите о результатах Отцу Бамфу#
 
-18048#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Father Bamph thanks you for helping them find out the truth. Speak to Father Biscuss and relate your findings to him as well.#
-Father Biscuss#
+18048#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Отец Бамф благодарит вас за помощь в поисках правды. Поговорите с Отцом Бискуссом и также расскажите ему о результатах.#
+Поговорите с Отцом Бискуссом#
 
-18049#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Father Bamph thanks you for helping them find out the truth. Speak to Bonnie Imbullea and tell her that it was not her fault.#
-Bonnie Imbullea#
+18049#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Священники благодарят вас за оказанную помощь. Поговорите с Бонни Имбулиа и расскажите, что произошедшее - не ее вина.#
+Отправляйтесь к Бонни Имбулиа#
 
-18050#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Tell Bonnie Imbullea what you have discovered about the prince's deaths.#
-Bonnie Imbullea#
+18050#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Расскажите Бонни Имбулио, что вы узнали о смертях принцев.#
+Поговорите с Бонни Имбулиа#
 
-18051#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-After telling Bonnie Imbullea the truth, you should speak to Rodfrian for the last time.#
-Rodafrian#
+18051#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+После того, как вы рассказали Бонни Имбулиа всю правду, вам следует поговорить с Родафриан в последний раз.#
+Поговорите с Родафриан#
 
-18052#Gaebolg Family Curse#SG_FEEL#QUE_NOIMAGE#
-Speak to Father Bamph one more time.#
-#
+18052#Проклятие семьи Геобург#SG_FEEL#QUE_NOIMAGE#
+Поговорите еще раз с Отцом Бамф.#
+Поговорите с Отцом Бамф#
 
 18060#Missing boy Mikhail#SG_FEEL#QUE_GALLINA#
 You have agreed to find the Gallina's timid son Mikhail. He couldn't have gone far, search around and see if he is hiding somewhere.#
@@ -24195,6 +24195,25 @@ Resets at 4 am#
 Убейте 50 леприкорингов#
 Одолеть монстров#
 
+17291#Подготовка к забегу#SG_FEEL#QUE_IMAGE#
+Добегите до <NAVI>стражника<INFO>prt_fild05,270,212,0,100,0,0</INFO></NAVI> к западу от Пронтеры за 3 минуты, после чего вернитесь к Раску#
+Добегите до стражника#
+
+17292#Подготовка к забегу#SG_FEEL#QUE_IMAGE#
+Добегите до <NAVI>друга Раска<INFO>pay_fild08,218,283,0,100,0,0</INFO></NAVI> к востоку от Пайона за 5 минут, после чего вернитесь к Раску#
+Добегите до друга Раска#
+
+17293#Подготовка к забегу#SG_FEEL#QUE_IMAGE#
+Добегите до <NAVI>продавца мороженого<INFO>moc_fild16,88,304,0,100,0,0</INFO></NAVI> далеко на юго-западе от Моррока, после чего вернитесь к Раску#
+Добегите до продавца мороженого#
+
+17294#Подготовка к забегу#SG_FEEL#QUE_IMAGE#
+Погасите 50 вихрей#
+Погасите 50 вихрей#
+
+17295#Подготовка к забегу#SG_FEEL#QUE_IMAGE#
+Добегите до <NAVI>Раска<INFO>eprt_fild02,34,358,0,100,0,0</INFO></NAVI> за 6 минут#
+Добегите до Раска#
 //переносить вниз до nameless
 //в будущем при вводе nameless необходимо будет проверить квестжурнал, потому что квесты начиная с 17000 в трансе относились к нему
 

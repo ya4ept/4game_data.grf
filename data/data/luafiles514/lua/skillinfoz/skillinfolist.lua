@@ -3099,7 +3099,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_SLOWCAST] = {
 		"NPC_SLOWCAST",
-		SkillName = "Slow Cast",
+		SkillName = "Замедление магии",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -3107,7 +3107,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_CRITICALWOUND] = {
 		"NPC_CRITICALWOUND",
-		SkillName = "Critical Wounds",
+		SkillName = "Смертельное ранение",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,

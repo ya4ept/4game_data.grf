@@ -3711,5 +3711,7 @@ JobNameTable = {
 	[jobtbl.JT_FAKE_ANGEL_E] = "FAKE_ANGEL",
 	[jobtbl.JT_SOLACE_E] = "SOLACE",
 	[jobtbl.JT_E_PERMETER] = "PERMETER",
-	[jobtbl.JT_E_CRYSTAL_H] = "CRYSTAL_H"
+	[jobtbl.JT_E_CRYSTAL_H] = "CRYSTAL_H",
+	[jobtbl.JT_E_POTON_CANON] = "POTON_CANON",
+	[jobtbl.JT_E_BREEZE] = "BREEZE"
 }
