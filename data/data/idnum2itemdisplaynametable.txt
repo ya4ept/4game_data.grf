@@ -4605,7 +4605,7 @@
 16409#Chrysanthemum Scroll#
 5359#Ship Captain Hat#
 13517#Yggdrasilberry Box#
-12232#Ginger Bread#
+12232#Ginger Protein Bar#
 12710#Guyak Pudding#
 
 // --------- 2010.09.07. Cash item update(2010 RWC Indonesia) -------------
@@ -6783,7 +6783,7 @@
 19959#Sleepy Argiope#
 19960#Marionette Chains#
 19951#Costume Solo Play Box2#
-20234#C Baphomet Hat#
+20234#Baphomet Hat#
 6956#Captured Sheep#
 6957#Soft Wool#
 6958#Lamb Horn#
@@ -9173,3 +9173,16 @@
 31526#Black Forest Hat#
 31914#Red Beret Headband#
 19908#Jester's Cap#
+
+18784#Elder Demon's Horns#
+19288#Giant's Helm#
+20518#Deviruchi Bag#
+20737#Kirin's Wings#
+31326#Sleepy Baphomet Jr.#
+31378#Chibi Succubus#
+31947#Sinister Horns#
+10525#Thanatos Treasure#
+20069#Griffin Forehead#
+6537#Race Medal#
+7528#Race Ticket#
+31842#Amatsu Provost Cap#

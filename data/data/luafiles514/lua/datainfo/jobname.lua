@@ -3511,5 +3511,7 @@ JobNameTable = {
 	[jobtbl.JT_EVT_FARMILIAR] = "Farmiliar",
 	[jobtbl.JT_EVT_ZOMBIE] = "Zombie",
 	[jobtbl.JT_EVT_SNAKE] = "Snake",
-	[jobtbl.JT_EVT_SKELETON] = "SKELETON"
+	[jobtbl.JT_EVT_SKELETON] = "SKELETON",
+	[jobtbl.JT_E_POTON_CANON] = "POTON_CANON",
+	[jobtbl.JT_E_BREEZE] = "BREEZE"
 }

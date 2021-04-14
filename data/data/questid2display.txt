@@ -22272,6 +22272,28 @@ Talk to the Florist#
 17290#Lepricoring hunt#SG_FEEL#QUE_IMAGE#
 Defeat 50 Lepricorings#
 #
+
+17291#Run Midgard#SG_FEEL#QUE_IMAGE#
+Reach Drainage Soldier (270 212) to the West from Prontera in 3 minutes, then return to Rask#
+Reach Drainage Soldier#
+
+17292#Run Midgard#SG_FEEL#QUE_IMAGE#
+Reach Rask's friend (218 283) to the East from Payon in 5 minutes, then return to Rask#
+Reach Rask's friend#
+
+17293#Run Midgard#SG_FEEL#QUE_IMAGE#
+Reach Ice-Cream Babe (88 304) far to the South-East from Morroc in 15 minutes, then return to Rask#
+Reach Ice-Cream Babe#
+
+17294#Run Midgard#SG_FEEL#QUE_IMAGE#
+Defeat 50 Whirlwinds#
+Defeat 50 Whirlwinds#
+
+17295#Run Midgard#SG_FEEL#QUE_IMAGE#
+Run the course in 6 minutes.#
+Run the course#
+
 17215#Baphomet pass#SG_FEEL#QUE_IMAGE#
 You can re-enter Baphomet Dungeon during 5 minutes after the first enter#
 #
+

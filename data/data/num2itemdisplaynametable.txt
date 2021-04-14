@@ -4553,7 +4553,7 @@
 16409#Chrysanthemum Scroll#
 5359#Cap#
 13517#Yggdrasilberry Box#
-12232#Ginger Bread#
+12232#Ginger Protein Bar#
 12710#Guyak Pudding#
 
 // --------- 2010.09.07. Cash item update(2010 RWC Indonesia) -------------
@@ -8070,3 +8070,15 @@
 31526#Hat#
 31914#Hat#
 19908#Accessory#
+18784#Accessory#
+19288#Hat#
+20518#Garment#
+20737#Garment#
+31326#Accessory#
+31378#Accessory#
+31947#Accessory#
+10525#Thanatos Treasure#
+20069#Accessory#
+6537#Race Medal#
+7528#Race Ticket#
+31842#Accessory#

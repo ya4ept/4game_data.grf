@@ -41769,15 +41769,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 
 20234#
-Warm and cozy hat made with top class lamb's wool.
-HP+15%, SP+15%.
-15% magic damage increase to all types of monsters.
-2015% Recovery amount increse when drinking milk.
-^ff0000Option vanish after the event period.^000000
-Class: ^777777Costume^000000
-Location: ^777777Upper Middle Lower ^000000Weight: ^7777770^000000
-Req LvL: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 6956#
 ^ff0000This item cannot be traded with other account.^000000
@@ -55557,3 +55549,107 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
+
+10525#
+뭐야 이거... 무서워
+공포의 느낌이 물씬 풍겨져 나오는 상자.
+무게: ^7777771^000000
+#
+
+
+18784#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19288#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20518#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20737#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31326#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31378#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31947#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+10525#
+Legends say that this chest once belonged to a hero named Thanatos who defeated evil Jotunn Surt.
+Be careful with things stored inside. Sometimes a beautiful gift becomes the greatest curse.
+Open the box and receive one of the following gifts:
+Deviruchi Bag
+Grim Reaper's Scythe
+Kirin's Wings
+Evil Snake Lord's Scarf
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Baphomet Hat
+Sinister Horns
+Giant's Helm
+Inf. Giant Fly Wing Box (1 h.)
+Ox Horns
+Chibi Succubus
+Sleepy Baphomet Jr.
+Elder Demon's Horns
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Ghostring Scroll x7
+Blessing Of Tyr x10
+Bloody Branch  x2
+Mental Potion x7
+Guyak Pudding x25
+Token of Ziegfried x6
+ASPD Potion x11
+Abrasive x11 
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Assumptio Scroll x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Deviruchi Transformation Scroll x10
+Speed Up Potion x50
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20069#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12232#
+^FF0000Account Bound^000000
+Ginger protein bar with honey filling.
+Healthy, aromatic and very sweet!
+Restores 10% HP
+Has a chance of auto casting Lv. 5 [Wind Walker].
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+6537#
+^FF0000Account Bound^000000
+The prize received for participating in the Prontera Race.
+You can exchange these medals for valuable items!
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+7528#
+^FF0000Character Bound^000000
+Use this ticket to take part in an exciting new event!
+Rask from Prontera will tell you more about it.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+31842#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
