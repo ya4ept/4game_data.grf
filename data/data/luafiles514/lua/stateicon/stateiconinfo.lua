@@ -1278,8 +1278,8 @@ StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
 	posTimeLimitStr = 1,
 	descript = {
 		{ "%s", COLOR_TIME },
-		{ "+10% Макс. SP," },
-		{ "-10% расход SP." }
+		{ "Макс. SP +10%" },
+		{ "Затрата SP -10%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
@@ -1313,7 +1313,7 @@ StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Малое зелье жизни", COLOR_TITLE_BUFF },
+		{ "Сок дерева Иггдрасиль", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Каждые 5 секунд восстанавливает 5% HP." },
 		{ "Не действует в состоянии [Берсерка]." }
@@ -1453,9 +1453,8 @@ StateIconList[EFST_IDs.EFST_CASH_PLUSEXP] = {
 	descript = {
 		{ "Увеличение опыта", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{
-			"Увеличивает количество получаемого базового и профессионального опыта при охоте на монстров."
-		}
+		{ "Увеличивает количество получаемого базового и" },
+		{ "профессионального опыта при охоте на монстров." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION2] = {
