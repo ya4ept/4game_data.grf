@@ -30239,6 +30239,7 @@ This well written, detailed manual explains Extremely Efficient battle methods.
 Weight: ^7777771^000000
 #
 6237#
+^FF0000Character Bound^000000
 The most famous fruit from Brasilis. This fruit has natural properties that boost concentration and speed.
 Weight: ^7777770^000000
 #
@@ -30253,6 +30254,7 @@ Recover small amount HP.
 Weight: ^7777772^000000
 #
 6221#
+^FF0000Character Bound^000000
 A ball with mysterious power.
 Weight: ^7777770^000000
 #
@@ -30261,6 +30263,7 @@ Small purity beads.
 Weight: ^7777770^000000
 #
 12408#
+^FF0000Character Bound^000000
 A strange ball that can capture Strange Hydra.
 Weight: ^7777770^000000
 #
@@ -30271,6 +30274,7 @@ Can be identified by
 using a Magnifier.
 #
 7553#
+^FF0000Character Bound^000000
 A delicate flower found in the depths of Brasilis.
 Weight: ^7777770^000000
 #
@@ -55640,6 +55644,7 @@ Weight: ^7777770^000000
 ^FF0000Account Bound^000000
 The prize received for participating in the Prontera Race.
 You can exchange these medals for valuable items!
+^ff0000This item can be sold to an NPC.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -55647,6 +55652,7 @@ Weight: ^7777771^000000
 ^FF0000Character Bound^000000
 Use this ticket to take part in an exciting new event!
 Rask from Prontera will tell you more about it.
+^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
 ^ffffff_^000000
 Weight: ^7777770^000000
 #

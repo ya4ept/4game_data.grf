@@ -829,6 +829,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
+		{ "Concentration Potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
 	}

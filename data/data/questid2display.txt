@@ -5855,19 +5855,19 @@ Guarding Valkyrie, you have to collect horn pipes.#
 
 //========Brasilis============
 2192#Guarana quest#SG_FEEL#QUE_NOIMAGE#
-The Candy maker says that if you want to taste guarana candy, you need to go to Cherto in the art museum and ask him about it.#
-Speak with Cherto#
+The Candy maker says that if you want to taste guarana candy, you need to go to Chetro in the art museum and ask him about it.#
+Speak with Chetro#
 
 2193#Guarana quest#SG_FEEL#QUE_NOIMAGE#
-According to Cherto, the reason that Brasilis can't grow Guarana fruit is that a Guarana boy was born.#
+According to Chetro, the reason that Brasilis can't grow Guarana fruit is that a Guarana boy was born.#
 Search for the Guarana kid.#
 
 2194#Guarana quest#SG_FEEL#QUE_NOIMAGE#
-You found a Strange kid who makes animal-like sounds. Go to Cherto and ask him if this is the Guarana boy.#
-Speak with Cherto#
+You found a Strange kid who makes animal-like sounds. Go to Chetro and ask him if this is the Guarana boy.#
+Speak with Chetro#
 
 2195#Guarana quest#SG_FEEL#QUE_NOIMAGE#
-Cherto says to ask for help from a Mage in Brasilis named Paje.#
+Chetro says to ask for help from a Mage in Brasilis named Paje.#
 Speak with Mage Paje.#
 
 2196#Guarana quest#SG_FEEL#QUE_NOIMAGE#
@@ -5911,8 +5911,8 @@ Jasira let you know that what Jasi is talking about is a Coconut. Someone in Bra
 Buy 5 Coconuts and bring them to Jasi.#
 
 2206#Brasilis Water Lily#SG_FEEL#QUE_NOIMAGE#
-Go back to Jasira and tell her what the message that Jasi told you.#
-Speak with Jasira#
+Get the Flower from Water Lily  and go back to Jasira and tell her what the message that Jasi told you.#
+Pick a flower and speak with Jasira#
 
 2207#Brasilis Water Lily#SG_FEEL#QUE_NOIMAGE#
 Jasira understands when you give her Jasi's message as she decorates your Brasilis Water Lily.#
@@ -6494,13 +6494,13 @@ Deliver items to Dashia in Payon#
 Help an errand who comes to prontera from Ainbroc for finding jellopy.#
 Collect 100 jellopy and go back to 'an errand'.#
 
-9028#Strange Hydra#SG_FEEL#QUE_NOIMAGE#
-Strange Hydra have appeared in ^8B4513Brasilis^000000. Use the ^006400Hydra Ball^000000 from Lucia to capture a ^FF0000Strange Hydra^000000.#
-Capture a^FF0000Strange Hydra^000000#
+9028#Strange Mouse#SG_FEEL#QUE_NOIMAGE#
+Strange Mouse have appeared in ^8B4513Brasilis^000000. Use the ^006400Leaf Cat Ball^000000 from Lucia to capture a ^FF0000Strange Mouse^000000.#
+Capture a^FF0000Sticky Rat^000000#
 
-9029#Strange Hydra : present conditions#SG_FEEL#QUE_NOIMAGE#
-In ^8B4513Brasilis^000000, there is a message from ^0000FFLucia^000000: ^404040Thanks for your help. Unfortunately, I can supply a new ^006400Hydra Ball^404040 to you tomorrow.^000000#
-If you want another ^FF0000Hydra Ball^000000 return to^0000FFLucia^000000 after the timer expires.#
+9029#Strange Mouse : present conditions#SG_FEEL#QUE_NOIMAGE#
+In ^8B4513Brasilis^000000, there is a message from ^0000FFLucia^000000: ^404040Thanks for your help. Unfortunately, I can supply a new ^006400Leaf Cat Ball^404040 to you tomorrow.^000000#
+If you want another ^FF0000Leaf Cat Ball^000000 return to^0000FFLucia^000000 after the timer expires.#
 
 //�̹���
 9030#Lost Puppies#SG_FEEL#QUE_NOIMAGE#
