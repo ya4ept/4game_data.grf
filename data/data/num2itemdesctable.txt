@@ -10092,19 +10092,19 @@ A solid tablet that is cold to the touch.
 Weight: ^7777771^000000
 #
 7333#
-��In the town of Prontera I fell sick, I needed something from the land of trees to make my blood thick....�� - The First Man
+占쏙옙In the town of Prontera I fell sick, I needed something from the land of trees to make my blood thick....占쏙옙 - The First Man
 Weight: ^7777771^000000
 #
 7334#
-��We��re on our way now, soon we will venture to the desert in high spirits...�� - The Second Man
+占쏙옙We占쏙옙re on our way now, soon we will venture to the desert in high spirits...占쏙옙 - The Second Man
 Weight: ^7777771^000000
 #
 7335#
-��There is a strange feeling in the air here...almost as if I can do magic myself...�� - The Third Man
+占쏙옙There is a strange feeling in the air here...almost as if I can do magic myself...占쏙옙 - The Third Man
 Weight: ^7777771^000000
 #
 7336#
-��We ventured just North of the giant beautiful Jolnir flower...and that��s where our journey began...�� - The Fourth Man
+占쏙옙We ventured just North of the giant beautiful Jolnir flower...and that占쏙옙s where our journey began...占쏙옙 - The Fourth Man
 Weight: ^7777771^000000
 #
 7337#
@@ -10996,7 +10996,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// ---------- �� �����߰� -----------
+// ---------- 占쏙옙 占쏙옙占쏙옙占쌩곤옙 -----------
 5107#
 Unknown item
 requiring Appraisal.
@@ -11080,7 +11080,7 @@ allows use of the Kafra Teleport Service for a
 limited amount of times without any zeny charge.
 #
 
-// --------- ���ο� ���� ��ġ ----------
+// --------- 占쏙옙占싸울옙 占쏙옙占쏙옙 占쏙옙치 ----------
 
 5122#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -11125,7 +11125,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// -------- ������� ����Ÿ���� ----------
+// -------- 占쏙옙占쏙옙占쏙옙占?占쏙옙占쏙옙타占쏙옙占쏙옙 ----------
 
 
 576#
@@ -11740,7 +11740,7 @@ random food item.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
-// -------------- �߰���ų�� ������ --------------
+// -------------- 占쌩곤옙占쏙옙킬占쏙옙 占쏙옙占쏙옙占쏙옙 --------------
 1771#
 A throwing knife
 laced with toxin that
@@ -12707,7 +12707,7 @@ sublimely delicious.
 ^FFFFFF ^000000
 Weight: ^7777777^000000
 #
-// ------------ �丮���� --------------
+// ------------ 占썰리占쏙옙占쏙옙 --------------
 
 7472#
 Level 1 Recipes
@@ -14060,7 +14060,7 @@ Can be exchanged for unique items through the Arena Lord.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// -------------------------- ������æƮ �űԹ����߰� ----------------------------
+// -------------------------- 占쏙옙占쏙옙占쏙옙챈트 占신규뱄옙占쏙옙占쌩곤옙 ----------------------------
 
 1816#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -14183,10 +14183,10 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------------- 2006 ��ݱ� �ű�ī�� �߰�.-----------------------
-//������ 11.1 ���� ������Ʈ �����ϱ�� �մϴ�.
+// ------------------- 2006 占쏙옙膚占?占신깍옙카占쏙옙 占쌩곤옙.-----------------------
+//占쏙옙占쏙옙占쏙옙 11.1 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙트 占쏙옙占쏙옙占싹깍옙占?占쌌니댐옙.
 
-// ------------- �Ʒ糪 ��ݱ� -----------
+// ------------- 占싣루나 占쏙옙膚占?-----------
 
 7561#
 A frozen heart that
@@ -14297,7 +14297,7 @@ Weight: ^7777774^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-//----------------------20060610 �ű��߰�������-------------------------
+//----------------------20060610 占신깍옙占쌩곤옙占쏙옙占쏙옙占쏙옙-------------------------
 
 5169#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -14327,7 +14327,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// -------------- 2006 �߰������� -------------
+// -------------- 2006 占쌩곤옙占쏙옙占쏙옙占쏙옙 -------------
 
 5184#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -14400,7 +14400,7 @@ of different foods.
 Weight: ^7777771^000000
 #
 
-// --------------- ��Ű�������� ----------------
+// --------------- 占쏙옙키占쏙옙占쏙옙占쏙옙占쏙옙 ----------------
 
 5137#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -14421,7 +14421,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------- �̱� ������ �� �̺�Ʈ ������ --------------
+// ------------- 占싱깍옙 占쏙옙占쏙옙占쏙옙 占쏙옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 --------------
 
 7875#
 A recovered Treasure box
@@ -16112,7 +16112,7 @@ Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Monk^000000
 #
-// ------------------- 2006 ��ݱ� �ű�ī�� �߰�.-----------------------
+// ------------------- 2006 占쏙옙膚占?占신깍옙카占쏙옙 占쌩곤옙.-----------------------
 
 4332#
 ATK +5, INT +1
@@ -16950,7 +16950,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 
-// ------------- å�б� ----------------------
+// ------------- 책占싻깍옙 ----------------------
 
 11001#
 A new novel from best
@@ -17031,7 +17031,7 @@ fiction author.
 Weight: ^7777771^000000
 #
 
-// ----------------------- �丣ȭ�� ����Ʈ ������ ----------------------
+// ----------------------- 占썰르화占쏙옙 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ----------------------
 7704#
 A device that can
 measure the ground's
@@ -17053,7 +17053,7 @@ by a Geologist.
 Weight: ^7777770^000000
 #
 
-// ----------------------- �丣ȭ�� �ű� ��� ������ ------------------------
+// ----------------------- 占썰르화占쏙옙 占신깍옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 ------------------------
 
 1370#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -17641,7 +17641,7 @@ Magic defense +3% for 3 min.
 Weight: ^7777770^000000
 #
 
-// ---------------- �ε��׽þ� ������ ĳ�� ������ --------------
+// ---------------- 占싸듸옙占쌓시억옙 占쏙옙占쏙옙占쏙옙 캐占쏙옙 占쏙옙占쏙옙占쏙옙 --------------
 
 13809#
 A box that contains
@@ -17987,7 +17987,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------- 2007 �ҷ��� �������� ---------------
+// ------------- 2007 占쌀뤄옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 ---------------
 
 5356#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -18006,7 +18006,7 @@ your life.
 ^ffffff_^000000
 #
 
-// -------- 2007 �Ϻ� ���� ĳ�������� ----------
+// -------- 2007 占싹븝옙 占쏙옙占쏙옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 ----------
 
 5380#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -18143,7 +18143,7 @@ Weight: 15
 Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^00800060^000000 SP.
 Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
-// ----- ũ�������� �̺�Ʈ ��Ÿ ���� --------
+// ----- 크占쏙옙占쏙옙占쏙옙占쏙옙 占싱븝옙트 占쏙옙타 占쏙옙占쏙옙 --------
 7908#
 A hairstyling coupon
 that can be redeemed
@@ -18199,7 +18199,7 @@ Weight: ^7777770^000000
 #
 
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- �븸 �� �߰� ------------------
+// ----------- 占쎈만 占쏙옙 占쌩곤옙 ------------------
 
 9038#
 An egg in which the
@@ -18275,7 +18275,7 @@ LUK +21.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-//============2008 �̱� ����Ʈ��Ʈ�� �̺�Ʈ ������============
+//============2008 占싱깍옙 占쏙옙占쏙옙트占쏙옙트占쏙옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙============
 12715#
 [This item will be removed
 
@@ -18317,7 +18317,7 @@ Somehow this box is easily stolen by snakes.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ---------------------- �뺴��ȯ�� -------------------------------
+// ---------------------- 占쎈병占쏙옙환占쏙옙 -------------------------------
 
 12153#
 Summon a 1st
@@ -18526,7 +18526,7 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-// ------------------ �뺴�� ���� ------------------
+// ------------------ 占쎈병占쏙옙 占쏙옙占쏙옙 ------------------
 12241#
 A Concentration Potion
 for Mercenaries that
@@ -18552,7 +18552,7 @@ Attack Speed.
 Weight: ^77777720^000000
 #
 
-// ---------------- ������ ����Ʈ ������ ------------------
+// ---------------- 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ------------------
 7730#
 A ticket proving
 that the bearer has
@@ -18674,7 +18674,7 @@ a new mission.
 Weight: ^7777771^000000
 #
 
-// -------------- 11.3 ���� -------------------
+// -------------- 11.3 占쏙옙占쏙옙 -------------------
 7751#
 A worn-out white
 cloth that can be
@@ -18715,7 +18715,7 @@ Merchant NPCs.
 Weight: ^7777771^000000
 #
 
-// ------------ ����Ʈ ������ -----------------
+// ------------ 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 -----------------
 7755#
 Much of the writing
 on this note isn't
@@ -18733,7 +18733,7 @@ behind a tight seal.
 Weight: ^7777771^000000
 #
 
-// ------------------- 11.3 �ű� ��� ������ --------------------------
+// ------------------- 11.3 占신깍옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 --------------------------
 2122#
 Unknown item
 requiring Appraisal.
@@ -19100,7 +19100,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------ 11.3 ����Ʈ ������ --------------
+// ------------ 11.3 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 --------------
 
 7722#
 A loan document
@@ -19147,7 +19147,7 @@ seal of the King of the Rune-Midgarts Kingdom.
 Weight: ^7777770^000000
 #
 
-// ----------------- 20070808 �ű�Card 34�� -----------------
+// ----------------- 20070808 占신깍옙Card 34占쏙옙 -----------------
 
 4408#
 Physical damage to Angel and Demon monsters +40%
@@ -19508,7 +19508,7 @@ it's been cooked.
 Weight: ^7777771^000000
 #
 
-// -------- �̱� �̺�Ʈ ������ ----------------
+// -------- 占싱깍옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ----------------
 
 5409#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -19517,7 +19517,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// -------- �̱� �佺Ƽ�� Ƽ�� ----------
+// -------- 占싱깍옙 占썰스티占쏙옙 티占쏙옙 ----------
 
 7919#
 Evidence that you really enjoyed the festival!
@@ -19527,14 +19527,14 @@ This item cannot be dropped, traded, mailed or vended.
 Weight: ^7777771^000000
 #
 
-// -------- �̱� �̺�Ʈ ������ ----------------
+// -------- 占싱깍옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ----------------
 
 6025#
 A towel that helps you remember those that have passed on.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// -------- �ʺ����� ������ -----------
+// -------- 占십븝옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 -----------
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
 ^ffffff_^000000
@@ -19660,7 +19660,7 @@ A tribute to luck and fortune throughout the year.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ---------- ����� �˻��� ��ƽ�� ----------
+// ---------- 占쏙옙占쏙옙占?占싯삼옙占쏙옙 占쏙옙틱占쏙옙 ----------
 5129#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -19674,7 +19674,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------------�߱��̺�Ʈ ����--------------------
+// ------------------占쌩깍옙占싱븝옙트 占쏙옙占쏙옙--------------------
 
 5152#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -19698,13 +19698,13 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------------ 2006 �Ϻ� �ִϹ����� Headgear -----------------
+// ------------------ 2006 占싹븝옙 占쌍니뱄옙占쏙옙占쏙옙 Headgear -----------------
 
 5211#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------------ ����� ���� �ø��� -----------------------
+// ------------------ 占쏙옙占쏙옙占?占쏙옙占쏙옙 占시몌옙占쏙옙 -----------------------
 
 5273#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -19719,19 +19719,19 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// --------------- ����� ĳ�� ������ 20070605 ------------
+// --------------- 占쏙옙占쏙옙占?캐占쏙옙 占쏙옙占쏙옙占쏙옙 20070605 ------------
 
 5307#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// -------------- �±� ĳ�������� Headgear �߰� 20070809 --------------
+// -------------- 占승깍옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 Headgear 占쌩곤옙 20070809 --------------
 
 5325#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// -------------- 2007�� 9�� �Ϻ� ����� Headgear 13�� -----------------
+// -------------- 2007占쏙옙 9占쏙옙 占싹븝옙 占쏙옙占쏙옙占?Headgear 13占쏙옙 -----------------
 
 5333#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -19776,13 +19776,13 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// --------- �±� ���� ������ -------------
+// --------- 占승깍옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 -------------
 
 5387#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// -------------- 2008 �Ϻ� ������ �� 2ź -----------------
+// -------------- 2008 占싹븝옙 占쏙옙占쏙옙占쏙옙 占쏙옙 2탄 -----------------
 
 5401#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -19800,7 +19800,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// --------------- �ʸ��� ��ü���� Headgear 7�� -------------
+// --------------- 占십몌옙占쏙옙 占쏙옙체占쏙옙占쏙옙 Headgear 7占쏙옙 -------------
 
 5372#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -19904,7 +19904,7 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 
-// ------�˵��ٶ��ͺ�Ʈ��------
+// ------占싯듸옙占쌕띰옙占싶븝옙트占쏙옙------
 
 12016#
 A potion that increases character's movement speed for 5 sec.
@@ -19918,7 +19918,7 @@ A potion which decreases the moving speed of a character for a set duration.
 Weight: ^77777710^000000
 #
 
-// ---------- �ʸ��� 4�� �ڽ� ��Ű�� ----------------
+// ---------- 占십몌옙占쏙옙 4占쏙옙 占쌘쏙옙 占쏙옙키占쏙옙 ----------------
 
 13994#
 A box containing 5 Speed Potions.
@@ -19964,12 +19964,12 @@ Used for re-dyeing your clothes to their original color.
 Weight: ^7777770^000000
 #
 
-// -------- �̱� �̺�Ʈ ������ ----------------
+// -------- 占싱깍옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ----------------
 
 2776#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-// ------------- �ű� �ű� ������ GOD ITEMS --------------
+// ------------- 占신깍옙 占신깍옙 占쏙옙占쏙옙占쏙옙 GOD ITEMS --------------
 2383#
 Brynhild is one of the valiant valkyries, meaning 'the warrior's armor'.
 Base level*20 MHP increase. Base Lv*5 MSP increase.
@@ -20047,7 +20047,7 @@ You can exchange it for a gift.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ---------------- �׽�Ʈ�� ĳ�������� ���� Town B-wings -----------------
+// ---------------- 占쌓쏙옙트占쏙옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 Town B-wings -----------------
 
 13849#
 A box containing 5 scrolls on which the towns of Run Midgartz are written. You may be moving to the town when using it.
@@ -20098,7 +20098,7 @@ Locations: Ayothaya, Amatsu, Luoyang, Kunlun
 Weight: ^7777771^000000
 #
 
-// ----------- 20071004 ĳ�þ����� -----------
+// ----------- 20071004 캐占시억옙占쏙옙占쏙옙 -----------
 
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
@@ -20482,7 +20482,7 @@ Jobs: ^777777All^000000
 #
 
 // --------------------- Ep. 12 --------------------------
-// ------------- ���� ���� ������ ---------------
+// ------------- 占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ---------------
 13036#
 ^0000ffCharacter Bound^000000
 A dagger especially used for assassinations such as killing Demihumans.
@@ -20539,7 +20539,7 @@ Jobs: ^777777Novice,Swordsman,Merchant,Thief Classes,and Ninja^000000
 #
 1425#
 ^0000ffCharacter Bound^000000
-A special spear made for charging at the enemy��s position. It is especially designed for battles against Demihumans.
+A special spear made for charging at the enemy占쏙옙s position. It is especially designed for battles against Demihumans.
 STR + 2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
@@ -20745,7 +20745,7 @@ Jobs: ^777777Priest, Monk^000000
 #
 1183#
 ^0000ffCharacter Bound^000000
-A Two-handed Sword made to rush at the enemy��s position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemy占쏙옙s position, especially designed for battles against Demihumans.
 STR + 2
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 Ignores Physical Defense from Demihuman monsters by 20%.
@@ -20758,7 +20758,7 @@ Jobs: ^777777Swordsman Class^000000
 #
 1184#
 ^0000ffCharacter Bound^000000
-A Two-handed Sword made to rush at the enemy��s position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemy占쏙옙s position, especially designed for battles against Demihumans.
 CRI + 20
 Increases Physical Attack Strength to Demihuman monsters by 55%.
 Increases Critical damage by 20%.
@@ -20771,7 +20771,7 @@ Jobs: ^777777Swordsman Class^000000
 #
 1482#
 ^0000ffCharacter Bound^000000
-A Two-handed Sword made to rush at the enemy��s position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemy占쏙옙s position, especially designed for battles against Demihumans.
 STR + 2
 Increases Physical Attack Strength to Demihuman monsters by 25%.
 Ignores Physical Defense from Demihuman monsters.
@@ -21163,7 +21163,7 @@ A sealed paper envelope. It seems to contain an important message in it.
 Weight: ^7777771^000000
 #
 
-// ------------ �޸𸮾� ���� ������ ----------------
+// ------------ 占쌨모리억옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ----------------
 
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
@@ -21208,7 +21208,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777All Transcendent Jobs except Novice^000000
 #
 
-//���ũ ��Ƽ��Ż ���� ������
+//占쏙옙占신?占쏙옙티占쏙옙탈 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
 ^ffffff_^000000
@@ -21217,7 +21217,7 @@ Continental Guard. Balrog.
 Weight: ^7777770^000000
 #
 
-// ------------ ���� ���ũ ----------------
+// ------------ 占쏙옙占쏙옙 占쏙옙占신?----------------
 2536#
 Lucifer's skin, cursed by the devil's language. It seems thrown on the back.
 MDEF + 2, MHP + 200, FLEE + 10
@@ -21306,7 +21306,7 @@ Weight: ^77777725^000000
 Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 
-// ---------- ��¦ �׽�Ʈ -----------
+// ---------- 占쏙옙짝 占쌓쏙옙트 -----------
 2129#
 Unknown item
 requiring Appraisal.
@@ -21395,7 +21395,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------- ���� ���� ---------------
+// ------------- 占쏙옙占쏙옙 占쏙옙占쏙옙 ---------------
 
 7828#
 ^FF0000Character Bound^000000
@@ -21408,7 +21408,7 @@ A badge that is provided to warriors who have brought great honor from the Battl
 ^ffffff_^000000
 #
 
-// -------- ������ ���� ������ ------------
+// -------- 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
 ^ffffff_^000000
@@ -21425,14 +21425,14 @@ A pendant that used to be used for confining wandered souls from unknown places.
 Weight: ^7777771^000000
 #
 
-// ----------------- ������ ��� ������Ʈ ���� -----------------
+// ----------------- 占쏙옙占쏙옙占쏙옙 占쏙옙占?占쏙옙占쏙옙占쏙옙트 占쏙옙占쏙옙 -----------------
 6004#
 A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
-// ------------------- 12.1 ����Ʈ ������ ----------------------
+// ------------------- 12.1 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ----------------------
 7798#
 A dark fragment imbued with a gloomy spirit. Once you stare into it, you might feel absorbed into it.
 ^ffffff_^000000
@@ -21445,7 +21445,7 @@ You might feel a strong dangerous power from this crystal. When you are close to
 Weight: ^7777771^000000
 #
 
-// --------------- �ʸ��� ��ü���� ���� 7�� ----
+// --------------- 占십몌옙占쏙옙 占쏙옙체占쏙옙占쏙옙 占쏙옙占쏙옙 7占쏙옙 ----
 5374#
 A sorcery headgear made of goat horns.
 Increases Physical Damage from Demihuman monsters by 12%.
@@ -21455,7 +21455,7 @@ Location: ^777777Upper^000000    Weight: ^77777780^000000
 Jobs: ^777777All Jobs^000000
 #
 
-// ------------------- �̺�Ʈ ������ ------------------
+// ------------------- 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ------------------
 6000#
 A dark ash imbued with mysterious magical power and darkness.
 ^ffffff_^000000
@@ -21492,7 +21492,7 @@ Stepmother - karma from a previous life?"
 Weight: ^7777771^000000
 #
 
-// ------------------ �Ͼ� �׽�Ʈ (����)----------------
+// ------------------ 占싹억옙 占쌓쏙옙트 (占쏙옙占쏙옙)----------------
 1568#
 Unknown item
 requiring Appraisal.
@@ -21692,7 +21692,7 @@ Weight: ^7777775^000000
 #
 
 7877#
-Mashenka��s ring. It seems to have a sad story.
+Mashenka占쏙옙s ring. It seems to have a sad story.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -21710,7 +21710,7 @@ Weight: ^7777771^000000
 #
 
 7880#
-Babayaga��s silver spoon stolen by pirates.
+Babayaga占쏙옙s silver spoon stolen by pirates.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -22202,7 +22202,7 @@ Weight: ^77777710^000000
 A box that contains 1 Necromancer's Hood Headgear.
 #
 
-// 2009-01-16 �̱� ��û ������
+// 2009-01-16 占싱깍옙 占쏙옙청 占쏙옙占쏙옙占쏙옙
 6125#
 A Lucky Box, Please hold onto this box until the next Lucky Box event.
 ^ffffff_^000000
@@ -22223,7 +22223,7 @@ Weight: ^7777771^000000
 ^FF0000This item can only be opened until Feb. 10, 2009^000000
 #
 
-//�߷�Ÿ��
+//占쌩뤄옙타占쏙옙
 12742#
 A box containing a ring which is an exchanging gift for Valentine's Day.
 ^ffffff_^000000
@@ -22270,7 +22270,7 @@ Weight: ^7777770^000000
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ----------- �������� ����ǰ ������ ------------01/07/09
+// ----------- 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙품 占쏙옙占쏙옙占쏙옙 ------------01/07/09
 
 2765#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -22294,7 +22294,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ----------- ��ǰ ������ ---------------
+// ----------- 占쏙옙품 占쏙옙占쏙옙占쏙옙 ---------------
 
 12109#
 A wrapped box stamped with the Poring seal. You can faintly hear rustling coming from inside.
@@ -22303,20 +22303,20 @@ Summons a Poring-type monster.
 Weight: ^77777720^000000
 #
 
-// ---------------- �������� -----------------
+// ---------------- 占쏙옙占쏙옙占쏙옙占쏙옙 -----------------
 
 7539#
 A small coin with a monster Poring engraved in it.
 #
 
-// ------------- �������� ---------------
+// ------------- 占쏙옙占쏙옙占쏙옙占쏙옙 ---------------
 
 7773#
 A badge indicating that the wearer is currently participated in the war. It was taken off from a failure of the battle.
 ^ffffff_^000000
 #
 
-// -------------- ���ͷ��̽� -----------------
+// -------------- 占쏙옙占싶뤄옙占싱쏙옙 -----------------
 
 7515#
 A medal crafted from a rare and mysterious metal that can only be found in Hugel.
@@ -22324,7 +22324,7 @@ These medals cannot be traded or given to other players.
 ^ffffff_^000000
 #
 
-// 2009-02-16 �̱� ������ �־�� �߰�
+// 2009-02-16 占싱깍옙 占쏙옙占쏙옙占쏙옙 占쌍억옙占?占쌩곤옙
 
 5512#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -22695,7 +22695,7 @@ Weight: ^7777770^000000
 
 
 //=============================Ep13========================================
-// ----------- ���Ǽҵ� 13 ���� ------------
+// ----------- 占쏙옙占실소듸옙 13 占쏙옙占쏙옙 ------------
 6020#
 Beautiful Silver colored fur that can be sold to merchant NPC at a high price.
 ^ffffff_^000000
@@ -22720,7 +22720,7 @@ Beautiful long, white colored horn with the very strong magical power. It can be
 Weight: ^7777771^000000
 #
 
-// --------- EP13 �ű� ��� ������ ---------------
+// --------- EP13 占신깍옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 ---------------
 5398#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -22847,7 +22847,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ---------- ���Ǽҵ� 13 ����Ʈ ������ ------------
+// ---------- 占쏙옙占실소듸옙 13 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ------------
 6027#
 A crystal bearing strong force of darkness.  Blood stain on the surface looks full of darkness.  It gives the feeling of evil.
 ^ffffff_^000000
@@ -22922,7 +22922,7 @@ A box full of something heavy.
 Weight: ^77777710^000000
 #
 
-// ----------- 20080521 ���Ǽҵ� 13 ����Ʈ ������ -----------
+// ----------- 20080521 占쏙옙占실소듸옙 13 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 -----------
 6036#
 Rune-Midgard's investigator, Ryosen has filled out this Meeting Invitation.  The agenda and the schedule of the meeting are written. 
 ^ffffff_^000000
@@ -23041,7 +23041,7 @@ A pie covered with sweet chocolate.  This sure looks not pretty but the taste is
 Weight: ^77777730^000000
 #
 
-// ----------- ���Ǽҵ� 13 ppl ������ -----------
+// ----------- 占쏙옙占실소듸옙 13 ppl 占쏙옙占쏙옙占쏙옙 -----------
 6051#
 Unknown mineral which is not found in Midgards.  Looks like it has some unknown magical power inside.
 ^ffffff_^000000
@@ -23050,14 +23050,14 @@ Weight: ^7777771^000000
 Weight: ^7777771^000000
 #
 
-// ---------- ũ���� ���� ������ ----------
+// ---------- 크占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ----------
 13042#
 ^0000ffCharacter Bound^000000
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
 When attacking, inflicts an auto-spell of [Lex Divina] Lv.1 at a certain rate.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23132,7 +23132,7 @@ Jobs: ^777777Swordsman Class/Merchant Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attack Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 2(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23152,7 +23152,7 @@ Jobs: ^777777Swordsman Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 increase in Attack Speed(Delay decreases by 5% after attacking)
@@ -23173,7 +23173,7 @@ Jobs: ^777777Swordsman Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attact Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23193,7 +23193,7 @@ Matk+ 210
 Increases Physical Attack Strength to Demihuman monster by 15%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 Matk increases per Refining degree
 +6 Refining
 Matk 5% increase
@@ -23213,7 +23213,7 @@ Matk+ 135%
 Increases Magical Attack Strength to Demihuman monster by 15%..
 Ignores Magical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Magical Defense of Demihuman monster
 +9 Refining
@@ -23233,7 +23233,7 @@ MATK + 135
 14% increase in the amount of recovery when using [Heal] and [Sanctuary].
 Delay reduces by 10% after using skills. 
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in the amount of Recovery
 ^0000ff[Bless]^000000 Lv 1(but,increase in damage by bless option applies refinement up to +14)
@@ -23253,7 +23253,7 @@ Jobs: ^777777Wizard Class/Acolyte Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores Physical  defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Defense of Demihuman monster
 increase in Attack Speed(Delay after attacking reduces by 5%)
@@ -23273,7 +23273,7 @@ Jobs: ^777777Novice Class/Swordsman Class/Acolyte Class/Merchant Class Jobs^0000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attact Defense of Demihuman monsters
 When attacking, inflicts [Fatal Wound] by 5% chance
@@ -23294,7 +23294,7 @@ Jobs: ^777777Sword Class/Merchant Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 Increase in Attack Speed by 5% 
 5% increase in ignoring Physical Defense of Demihuman monster
@@ -23317,7 +23317,7 @@ Ignores physical defense from Demihuman monster by 20%.
 MATK + 90
 Increase damage by 100% of [Throw Huuma Shuriken] and [Killing Strike] for 10 sec. when attacking and synchronizing the weapon by 5%
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 2(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23338,13 +23338,13 @@ Ignores physical defense from Demihuman monster by 20%.
 (Refining degree * 2)% additional Critical Damage
 (but critical damage addition applies up to refining degree +10)
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
 +9 Refining
 20% increase in damage of [Double Strafing]
-Class: ^777777Ȱ^000000      Attack: ^777777100^000000
+Class: ^777777활^000000      Attack: ^777777100^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777780^000000
@@ -23356,7 +23356,7 @@ Jobs: ^777777Archer Class/Thief/Rogue Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attack Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23374,7 +23374,7 @@ Jobs: ^777777Assassin Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Increases Critical Attack Strength to Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in chance of Critical Attack to Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23402,7 +23402,7 @@ Jobs: ^777777Bard Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attack Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23421,7 +23421,7 @@ MATK + 155
 Increases Physical Attack Strength to Demihuman monster by 80%..
 Ignores Physical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23440,7 +23440,7 @@ MATK + 75
 Increases Physical Attack Strength to Demihuman monster by 80%..
 Ignores Magical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Magical Defense of Demihuman monster
 +9 Refining 
@@ -23459,7 +23459,7 @@ Jobs: ^777777Priest/Sage/Star Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23478,7 +23478,7 @@ Jobs: ^777777Priest/Monk Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23497,7 +23497,7 @@ Jobs: ^777777Priest/Monk Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 55%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23518,7 +23518,7 @@ Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
 30% increase in damage of [Triple Action]
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23540,7 +23540,7 @@ Increases Physical Attack Strength to Demihuman monster by 35%..
 Ignores physical defense from Demihuman monster by 20%.
 30% increase in damage of [Triple Action]
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23561,7 +23561,7 @@ Ignores physical defense from Demihuman monster by 20%.
 Splash Attack
 30% increase in Damage of [Triple Action]
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23582,7 +23582,7 @@ Increases Physical Attack Strength to Demihuman monster by 35%..
 Ignores physical defense from Demihuman monster by 20%.
 30% increase in damage of [Triple Action]
 Indestructible.
-�� Additional Weapon Refining Level Option
+占쏙옙 Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -23705,7 +23705,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ----------- �̺�Ʈ ������ ------------
+// ----------- 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ------------
 2443#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -23830,7 +23830,7 @@ Furthermore, you can tame a monster 'Hot Rice Cake' by using this item.
 Weight: ^7777771^000000
 #
 
-//-------------�̱� ĳ�� 2009.10.07-----------------------------
+//-------------占싱깍옙 캐占쏙옙 2009.10.07-----------------------------
 
 1194#
 ^000088Rental Item^000000
@@ -24462,7 +24462,7 @@ A one-handed sword adorned with an engraving of the sun, symbolizing battle spir
 Regains 1% of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its owner every 10 seconds.
 Weapon Class: ^777777One-handed Sword^^000000      Attack Strength: ^777777120^000000
-Weight: ^7777770^000000     Property: ^777777ȭ^000000
+Weight: ^7777770^000000     Property: ^777777화^000000
 Weapon Level: ^7777774^000000
 Jobs: ^777777Swordsman, Merchant, and Thief Classes^000000
 #
@@ -24616,7 +24616,7 @@ Weapon Class: ^777777Dagger^000000      Attack Strength: ^777777209^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
-Jobs: ^777777������Weapon Class/�ҿ�RingĿ ����^000000
+Jobs: ^777777占쏙옙占쏙옙占쏙옙Weapon Class/占쌀울옙Ring커 占쏙옙占쏙옙^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -24629,7 +24629,7 @@ Holy property
 STR + 10, Holy property, Enables use of Lvl 3 Heal
 Increases damage inflicted on Demon monsters by 3%, Increases Movement Speed.
 Weapon Class: ^777777Axe^000000    Attack Strength: ^777777229^000000
-Weight: ^7777770^000000     Property: ^777777��^000000
+Weight: ^7777770^000000     Property: ^777777占쏙옙^000000
 Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Swordsman and Merchant Classes^000000
@@ -24642,7 +24642,7 @@ A box that contains: Rental Item Sage's Diary
 ^000088Rental Item^000000
 The diary of a great sage that was published without him ever knowing.
 MATK + 140, Increases Attack Speed(Delay after attacking reduces by 5%)
-Weapon Class: ^777777å^000000      Attack Strength: ^777777135^000000
+Weapon Class: ^777777책^000000      Attack Strength: ^777777135^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^7777771^000000
@@ -25731,7 +25731,7 @@ Magical Attack Damage done to the monsters in Manuk Area increases by 10% for 10
 Weight: ^7777775^000000
 #
 
-// ----------- �ű� ���� ���� ������ ------------
+// ----------- 占신깍옙 占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ------------
 
 5436#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -25776,7 +25776,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ------------ 2008 ���Ǽҵ� 13.2 �߰������� --------------
+// ------------ 2008 占쏙옙占실소듸옙 13.2 占쌩곤옙占쏙옙占쏙옙占쏙옙 --------------
 
 1643#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -28193,7 +28193,7 @@ Jobs: ^777777Priest/Monk^000000
 A report that a step, Lust requested for an approval to a test supervisor Caution.
 Weight: ^7777771^000000
 #
-// ------------ ���ɴ� ���� ������ ���� -------------------
+// ------------ 占쏙옙占심댐옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 -------------------
 
 1549#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -28848,7 +28848,7 @@ Weight: ^7777775^000000
 #
 
 12430#
-An alcoholic cocktail with warg’s blood.
+An alcoholic cocktail with warg?셲 blood.
 It is famous for its rich red color and specific taste.
 INT +20 for 5 minutes
 ^ffffff_^000000
@@ -29208,7 +29208,7 @@ Increases long range physical attack power by 5%
 rushed toward windmill, decrease sp by 10.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-��ġ: ^777777��� ^000000
+占쏙옙치: ^777777占쏙옙占?^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Minstrel^000000
@@ -29284,7 +29284,7 @@ Increases long range physical attack power by 5%.
 Swing dance, for the consumed SP for the symphony decreased by 10.
 Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Location: ^777777��� ^000000
+Location: ^777777占쏙옙占?^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Jobs: ^777777Wanderer^000000
@@ -30239,7 +30239,6 @@ This well written, detailed manual explains Extremely Efficient battle methods.
 Weight: ^7777771^000000
 #
 6237#
-^FF0000Character Bound^000000
 The most famous fruit from Brasilis. This fruit has natural properties that boost concentration and speed.
 Weight: ^7777770^000000
 #
@@ -30254,7 +30253,6 @@ Recover small amount HP.
 Weight: ^7777772^000000
 #
 6221#
-^FF0000Character Bound^000000
 A ball with mysterious power.
 Weight: ^7777770^000000
 #
@@ -30263,7 +30261,6 @@ Small purity beads.
 Weight: ^7777770^000000
 #
 12408#
-^FF0000Character Bound^000000
 A strange ball that can capture Strange Hydra.
 Weight: ^7777770^000000
 #
@@ -30274,7 +30271,6 @@ Can be identified by
 using a Magnifier.
 #
 7553#
-^FF0000Character Bound^000000
 A delicate flower found in the depths of Brasilis.
 Weight: ^7777770^000000
 #
@@ -30412,7 +30408,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
-// ---------- Ep13.3 ����Ʈ������ ------------
+// ---------- Ep13.3 占쏙옙占쏙옙트占쏙옙占쏙옙占쏙옙 ------------
 
 2463#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -30494,7 +30490,7 @@ An old piece of sheet music filled with notes inscribed in blue ink.
 Weight: ^7777771^000000
 #
 
-// ---------- EP13.3 �ű� ������ ------------
+// ---------- EP13.3 占신깍옙 占쏙옙占쏙옙占쏙옙 ------------
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
 Weight: ^7777771^000000
@@ -32017,7 +32013,7 @@ Weight: ^7777772^000000
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
 A box that contains 1 of each:
 -1x Costume: Chicken Beak
--1x Costume: Rooster��s Comb
+-1x Costume: Rooster占쏙옙s Comb
 This box can be stored and traded, the items inside are account bound.
 Box Weight: ^7777771^000000
 #
@@ -32063,68 +32059,68 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 17110#
-ȯ���� ����, ������ ����, ������ �հ�, �þ��� ����ȣ, ��ؽ�ũ�ν�Card �� ����� �������� ����ִ� ��ũ��.
+환占쏙옙占쏙옙 占쏙옙占쏙옙, 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙, 占쏙옙占쏙옙占쏙옙 占쌌곤옙, 占시억옙占쏙옙 占쏙옙占쏙옙호, 占쏙옙灣占신⑼옙館占폚ard 占쏙옙 占쏙옙占쏙옙占?占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙獵占?占쏙옙크占쏙옙.
 Weight: ^7777771^000000
 #
 17121#
-����ȭ Card, ���ڱú���, �ֳ�ú���, �ֳ�ÿհ�, õĪ�ú���, õĪ�ÿհ� �� ����� �������� ����ִ� ��ũ��.
+占쏙옙占쏙옙화 Card, 占쏙옙占쌘궁븝옙占쏙옙, 占쌍놂옙첬占쏙옙占? 占쌍놂옙첼卵占? 천칭占시븝옙占쏙옙, 천칭占시왕곤옙 占쏙옙 占쏙옙占쏙옙占?占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙獵占?占쏙옙크占쏙옙.
 Weight: ^7777771^000000
 #
 17127#
-�븸 8�� ���ڸ� ���� �Ǹ� ����.
+占쎈만 8占쏙옙 占쏙옙占쌘몌옙 占쏙옙占쏙옙 占실몌옙 占쏙옙占쏙옙.
 Weight: ^7777771^000000
 #
 2589#
-Ÿ��õ���� Ŀ�ٶ��� ���� ����.
+타占쏙옙천占쏙옙占쏙옙 커占쌕띰옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙.
 LUK + 2.
-�ΰ��� ������ ���ݿ� ���� ���� 10% ����.
-�ϼӼ� ���ݿ� ���� ���� 30% ����, ���Ӽ� ���ݿ� ���� ���� 30% ����.
-Class: ^777777��ĥ��^000000  Defense: ^77777718^000000
+占싸곤옙占쏙옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쌥울옙 占쏙옙占쏙옙 占쏙옙占쏙옙 10% 占쏙옙占쏙옙.
+占싹속쇽옙 占쏙옙占쌥울옙 占쏙옙占쏙옙 占쏙옙占쏙옙 30% 占쏙옙占쏙옙, 占쏙옙占쌈쇽옙 占쏙옙占쌥울옙 占쏙옙占쏙옙 占쏙옙占쏙옙 30% 占쏙옙占쏙옙.
+Class: ^777777占쏙옙칠占쏙옙^000000  Defense: ^77777718^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Jobs: ^777777������ ��������^000000
+Jobs: ^777777占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙^000000
 #
 17117#
-Ÿ��õ���� ����, ������Ʈ Card, ���� �հ�, ���� ����, ȯ���� ���� �� ����� �������� ����ִ� ��ũ��.
+타占쏙옙천占쏙옙占쏙옙 占쏙옙占쏙옙, 占쏙옙占쏙옙占쏙옙트 Card, 占쏙옙占쏙옙 占쌌곤옙, 占쏙옙占쏙옙 占쏙옙占쏙옙, 환占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙 占쏙옙占쏙옙占?占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙獵占?占쏙옙크占쏙옙.
 Weight: ^7777771^000000
 #
 18581#
-�����ϴ� ����� �� ����ũ�� ���� �Ǹ�, ���簡 �ȴٴ� �ҹ��� �ִ�.
+占쏙옙占쏙옙占싹댐옙 占쏙옙占쏙옙占?占쏙옙 占쏙옙占쏙옙크占쏙옙 占쏙옙占쏙옙 占실몌옙, 占쏙옙占썹가 占싫다댐옙 占쌀뱄옙占쏙옙 占쌍댐옙.
 STR + 3
 HP + 100
-���úҰ�
-Class: ^777777����^000000    Defense: ^7777772^000000
-Location: ^777777���ߴ�^000000    Weight: ^77777740^000000
+占쏙옙占시불곤옙
+Class: ^777777占쏙옙占쏙옙^000000    Defense: ^7777772^000000
+Location: ^777777占쏙옙占쌩댐옙^000000    Weight: ^77777740^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All Jobs^000000
 #
 18582#
-�����ϴ� ����� �� ����ũ�� ���� �Ǹ�, ���簡 �ȴٴ� �ҹ��� �ִ�.
+占쏙옙占쏙옙占싹댐옙 占쏙옙占쏙옙占?占쏙옙 占쏙옙占쏙옙크占쏙옙 占쏙옙占쏙옙 占실몌옙, 占쏙옙占썹가 占싫다댐옙 占쌀뱄옙占쏙옙 占쌍댐옙.
 STR + 3
 HP + 100
-���úҰ�
-Class: ^777777����^000000    Defense: ^7777772^000000
-Location: ^777777���ߴ�^000000    Weight: ^77777740^000000
+占쏙옙占시불곤옙
+Class: ^777777占쏙옙占쏙옙^000000    Defense: ^7777772^000000
+Location: ^777777占쏙옙占쌩댐옙^000000    Weight: ^77777740^000000
 Required Level: ^77777750^000000
 Jobs: ^777777All Jobs^000000
 #
 18583#
-�Ӹ����� ��� �ٴҼ� �ֵ��� ������� ����. ��𼱰� ������ �����Ҹ��� �鸮�ų� �Ӹ������� �������� �������ų� �ϴ°� ���ſ�̴�.
+占쌈몌옙占쏙옙占쏙옙 占쏙옙占?占쌕닐쇽옙 占쌍듸옙占쏙옙 占쏙옙占쏙옙占쏙옙占?占쏙옙占쏙옙. 占쏙옙兆굅占?占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쌀몌옙占쏙옙 占썽리占신놂옙 占쌈몌옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占신놂옙 占싹는곤옙 占쏙옙占신울옙甄占?
 MDEF + 15
-���ֿ� ���� ���� 30%
+占쏙옙占쌍울옙 占쏙옙占쏙옙 占쏙옙占쏙옙 30%
 Class: ^777777Headgear^000000    Defense: ^7777773^000000
-Location: ^777777���^000000    Weight: ^77777750^000000
+Location: ^777777占쏙옙占?000000    Weight: ^77777750^000000
 Required Level: ^777777None^000000
-Jobs: ^777777��񽺰迭�� ������ All Jobs^000000
+Jobs: ^777777占쏙옙洲별瓦?옙占?占쏙옙占쏙옙占쏙옙 All Jobs^000000
 #
 18584#
-�Ӹ����� ��� �ٴҼ� �ֵ��� ������� ����. ��𼱰� ������ �����Ҹ��� �鸮�ų� �Ӹ������� �������� �������ų� �ϴ°� ���ſ�̴�.
+占쌈몌옙占쏙옙占쏙옙 占쏙옙占?占쌕닐쇽옙 占쌍듸옙占쏙옙 占쏙옙占쏙옙占쏙옙占?占쏙옙占쏙옙. 占쏙옙兆굅占?占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쌀몌옙占쏙옙 占썽리占신놂옙 占쌈몌옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占신놂옙 占싹는곤옙 占쏙옙占신울옙甄占?
 MDEF + 15
-���ֿ� ���� ���� 30%
+占쏙옙占쌍울옙 占쏙옙占쏙옙 占쏙옙占쏙옙 30%
 Class: ^777777Headgear^000000    Defense: ^7777773^000000
-Location: ^777777���^000000    Weight: ^77777750^000000
+Location: ^777777占쏙옙占?000000    Weight: ^77777750^000000
 Required Level: ^777777None^000000
-Jobs: ^777777��񽺰迭�� ������ All Jobs^000000
+Jobs: ^777777占쏙옙洲별瓦?옙占?占쏙옙占쏙옙占쏙옙 All Jobs^000000
 #
 17109#
 May cause unrestrained delight from the receiver of its contents, Each May You Groove On Pack contains:
@@ -32141,31 +32137,31 @@ And randomly:
 Box Weight: ^7777771^000000
 #
 17080#
-õ��� �հ�, ���谡�� �賶 �� ����� �������� ���� �� �ִ� �ź��� ��.
+천占쏙옙占?占쌌곤옙, 占쏙옙占썼가占쏙옙 占썼낭 占쏙옙 占쏙옙占쏙옙占?占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙 占쌍댐옙 占신븝옙占쏙옙 占쏙옙.
 Weight: ^7777771^000000
 #
 17120#
-��Ʈ�ν� Card, ȯ���� ����, ��Ű���� ����, �ƿ�Ÿ�� ����, �������� ���� ���� �� ����� �������� ����ִ� ��ũ��.
+占쏙옙트占싸쏙옙 Card, 환占쏙옙占쏙옙 占쏙옙占쏙옙, 占쏙옙키占쏙옙占쏙옙 占쏙옙占쏙옙, 占싣울옙타占쏙옙 占쏙옙占쏙옙, 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙 占쏙옙占쏙옙占?占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙獵占?占쏙옙크占쏙옙.
 Weight: ^7777771^000000
 #
 17138#
-���ر� �ڸ��� ���� ����ϴ� Ư���� ��ũ��. ���ر� �հ�, ���ر� ����, ��Ƽ Card, ��ġŸ��, ����ϴ� õ�� �� �ٸ� ������ �������� ȹ���� �� �ִ�.
+占쏙옙占쌔깍옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙求占?특占쏙옙占쏙옙 占쏙옙크占쏙옙. 占쏙옙占쌔깍옙 占쌌곤옙, 占쏙옙占쌔깍옙 占쏙옙占쏙옙, 占쏙옙티 Card, 占쏙옙치타占쏙옙, 占쏙옙占쏙옙求占?천占쏙옙 占쏙옙 占쌕몌옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 획占쏙옙占쏙옙 占쏙옙 占쌍댐옙.
 Weight: ^7777771^000000
 #
 17140#
-���ڱ� �ڸ��� ���� ����ϴ� Ư���� ��ũ��. ���ڱ� �հ�, ���ڱ� ����, Ÿ���Ѵ�Ű� Card, ��Ų ���� ������, ���� ���� ������ �� �ٸ� ������ �������� ȹ���� �� �ִ�.
+占쏙옙占쌘깍옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙求占?특占쏙옙占쏙옙 占쏙옙크占쏙옙. 占쏙옙占쌘깍옙 占쌌곤옙, 占쏙옙占쌘깍옙 占쏙옙占쏙옙, 타占쏙옙占싼댐옙키占?Card, 占쏙옙킨 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙, 占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 占쏙옙 占쌕몌옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 획占쏙옙占쏙옙 占쏙옙 占쌍댐옙.
 Weight: ^7777771^000000
 #
 17141#
-�ֳ�� �ڸ��� ���� ����ϴ� Ư���� ��ũ��. �ֳ�� �հ�, �ֳ�� ����, �������� ��������, ���� ����[1], ���� ������ƽ����Ʈ �� �ٸ� ������ �������� ȹ���� �� �ִ�.
+占쌍놂옙占?占쌘몌옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙求占?특占쏙옙占쏙옙 占쏙옙크占쏙옙. 占쌍놂옙占?占쌌곤옙, 占쌍놂옙占?占쏙옙占쏙옙, 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙, 占쏙옙占쏙옙 占쏙옙占쏙옙[1], 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙틱占쏙옙占쏙옙트 占쏙옙 占쌕몌옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 획占쏙옙占쏙옙 占쏙옙 占쌍댐옙.
 Weight: ^7777771^000000
 #
 17142#
-õĪ�� �ڸ��� ���� ����ϴ� Ư���� ��ũ��. õĪ�� �հ�, õĪ�� ����, �������ڵ�Card, ���谡�� �賶, ������ ��, ���±�� Cardø �� �ٸ� ������ �������� ȹ���� �� �ִ�.
+천칭占쏙옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙求占?특占쏙옙占쏙옙 占쏙옙크占쏙옙. 천칭占쏙옙 占쌌곤옙, 천칭占쏙옙 占쏙옙占쏙옙, 占쏙옙占쏙옙占쏙옙占쌘듸옙Card, 占쏙옙占썼가占쏙옙 占썼낭, 占쏙옙占쏙옙占쏙옙 占쏙옙, 占쏙옙占승깍옙占?Card첩 占쏙옙 占쌕몌옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 획占쏙옙占쏙옙 占쏙옙 占쌍댐옙.
 Weight: ^7777771^000000
 #
 17143#
-õ��� �ڸ��� ���� ����ϴ� Ư���� ��ũ��. õ��� �հ�, õ��� ����, Ÿ���佺�� ��� Card, ���÷���Ʈ, Ÿ���佺�� ���� ����, ���ɹ����� ���� ���� �� �ٸ� ������ �������� ȹ���� �� �ִ�.
+천占쏙옙占?占쌘몌옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙求占?특占쏙옙占쏙옙 占쏙옙크占쏙옙. 천占쏙옙占?占쌌곤옙, 천占쏙옙占?占쏙옙占쏙옙, 타占쏙옙占썰스占쏙옙 占쏙옙占?Card, 占쏙옙占시뤄옙占쏙옙트, 타占쏙옙占썰스占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙, 占쏙옙占심뱄옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙 占쌕몌옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 획占쏙옙占쏙옙 占쏙옙 占쌍댐옙.
 Weight: ^7777771^000000
 #
 17082#
@@ -32185,55 +32181,55 @@ A box containing 10 piece of Gemini Crown Scroll.
 Weight: ^7777771^000000
 #
 4480#
-��� ��ų�� �� �����̰� 15% �����Ѵ�.
-15���� �̻� �� ���� �� ������ 5% �߰� ����.
+占쏙옙占?占쏙옙킬占쏙옙 占쏙옙 占쏙옙占쏙옙占싱곤옙 15% 占쏙옙占쏙옙占싼댐옙.
+15占쏙옙占쏙옙 占싱삼옙 占쏙옙 占쏙옙占쏙옙 占쏙옙 占쏙옙占쏙옙占쏙옙 5% 占쌩곤옙 占쏙옙占쏙옙.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4481#
-ȭ�Ӽ� ���Ϳ��� ���� ������ 25% �߰�.
-����, ���� �������� �Ծ��� �� ���� Ȯ���� ���佺�� ���ν�Ʈ ��� Lv10 �ߵ�.
-15���� �̻��� ��� ȭ�Ӽ� ���Ϳ��� ���� ������ 10% �߰�����.
+화占쌈쇽옙 占쏙옙占싶울옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 25% 占쌩곤옙.
+占쏙옙占쏙옙, 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쌉억옙占쏙옙 占쏙옙 占쏙옙占쏙옙 확占쏙옙占쏙옙 占쏙옙占썰스占쏙옙 占쏙옙占싸쏙옙트 占쏙옙占?Lv10 占쌩듸옙.
+15占쏙옙占쏙옙 占싱삼옙占쏙옙 占쏙옙占?화占쌈쇽옙 占쏙옙占싶울옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 10% 占쌩곤옙占쏙옙占쏙옙.
 Class: ^777777Card^000000
-Compound on: ^777777����^000000
+Compound on: ^777777占쏙옙占쏙옙^000000
 Weight: ^7777771^000000
 #
 4482#
-15�ʸ��� 50�� HP, 10�� Sp ȸ��.
-MHP�� MSP�� 5% �����Ѵ�.
-15���� �̻� �� ��� HP, SPȸ���ӵ� 10�ʷ� ����, MHP, MSP�� 2% �߰� ����.
+15占십몌옙占쏙옙 50占쏙옙 HP, 10占쏙옙 Sp 회占쏙옙.
+MHP占쏙옙 MSP占쏙옙 5% 占쏙옙占쏙옙占싼댐옙.
+15占쏙옙占쏙옙 占싱삼옙 占쏙옙 占쏙옙占?HP, SP회占쏙옙占쌈듸옙 10占십뤄옙 占쏙옙占쏙옙, MHP, MSP占쏙옙 2% 占쌩곤옙 占쏙옙占쏙옙.
 Class: ^777777Card^000000
-Compound on: ^777777�Ź�^000000
+Compound on: ^777777占신뱄옙^000000
 Weight: ^7777771^000000
 #
 4483#
-����Ȯ��(5%)�� ������ �� ������� 5% �� �ڽ��� SP�� ���� �Ѵ�. 15���� �̻��� ��� ������ Ȯ���� 7%�� ����.
+占쏙옙占쏙옙확占쏙옙(5%)占쏙옙 占쏙옙占쏙옙占쏙옙 占쏙옙 占쏙옙占쏙옙占쏙옙占?5% 占쏙옙 占쌘쏙옙占쏙옙 SP占쏙옙 占쏙옙占쏙옙 占싼댐옙. 15占쏙옙占쏙옙 占싱삼옙占쏙옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 확占쏙옙占쏙옙 7%占쏙옙 占쏙옙占쏙옙.
 Class: ^777777Card^000000
-Compound on: ^777777����^000000
+Compound on: ^777777占쏙옙占쏙옙^000000
 Weight: ^7777771^000000
 #
 4484#
-�������� �Ҹ��ϴ� �������� �Ҹ���� ��밡���ϰ� �Ѵ�.
-��ų ���� SP�Ҹ��� 50% �����Ѵ�.
-15���� �̻� �� ��� ��ų ���� SP�Ҹ��� 35% ����.
+占쏙옙占쏙옙占쏙옙占쏙옙 占쌀몌옙占싹댐옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쌀몌옙占쏙옙占?占쏙옙諛∽옙占쏙옙構占?占싼댐옙.
+占쏙옙킬 占쏙옙占쏙옙 SP占쌀몌옙占쏙옙 50% 占쏙옙占쏙옙占싼댐옙.
+15占쏙옙占쏙옙 占싱삼옙 占쏙옙 占쏙옙占?占쏙옙킬 占쏙옙占쏙옙 SP占쌀몌옙占쏙옙 35% 占쏙옙占쏙옙.
 Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4485#
-���Ӽ�, �ϼӼ�, õ����, �Ǹ��� ���Ϳ��� ���� ������ 20% �߰�.
-15���� �̻��� ���, ���Ӽ�, �ϼӼ�, õ����, �Ǹ��� ���Ϳ��� ���� ������ 10% �߰� ����.
+占쏙옙占쌈쇽옙, 占싹속쇽옙, 천占쏙옙占쏙옙, 占실몌옙占쏙옙 占쏙옙占싶울옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 20% 占쌩곤옙.
+15占쏙옙占쏙옙 占싱삼옙占쏙옙 占쏙옙占? 占쏙옙占쌈쇽옙, 占싹속쇽옙, 천占쏙옙占쏙옙, 占실몌옙占쏙옙 占쏙옙占싶울옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 10% 占쌩곤옙 占쏙옙占쏙옙.
 Class: ^777777Card^000000
-Compound on: ^777777����^000000
+Compound on: ^777777占쏙옙占쏙옙^000000
 Weight: ^7777771^000000
 #
 2573#
-��õ���� Ŀ�ٶ��� �Ͼ� ����.
-�迭: ^777777��ĥ��^000000  ���: ^77777718^000000
-����: ^77777720^000000
-�䱸 ����: ^7777771^000000
-����: ^777777������ ��������^000000
+占쏙옙천占쏙옙占쏙옙 커占쌕띰옙占쏙옙 占싹억옙 占쏙옙占쏙옙.
+占썼열: ^777777占쏙옙칠占쏙옙^000000  占쏙옙占? ^77777718^000000
+占쏙옙占쏙옙: ^77777720^000000
+占썰구 占쏙옙占쏙옙: ^7777771^000000
+占쏙옙占쏙옙: ^777777占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙^000000
 #
 
 12859#
@@ -32344,7 +32340,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ---------- Port Malaya �ű� ������ ------------
+// ---------- Port Malaya 占신깍옙 占쏙옙占쏙옙占쏙옙 ------------
 2169#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -32389,8 +32385,8 @@ Type: ^777777Taming Item^000000
 Weight: ^7777775^000000
 #
 12700#
-Common shirt turned inside out. Used to break Tikbalang��s curse that makes people get lost.
-Can warp back to the ��Port Malaya�� village when used directly.
+Common shirt turned inside out. Used to break Tikbalang占쏙옙s curse that makes people get lost.
+Can warp back to the 占쏙옙Port Malaya占쏙옙 village when used directly.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -32458,7 +32454,7 @@ Weight: ^7777770^000000
 #
 6507#
 ^ff0000Item cannot be traded with other characters.^000000
-Animal bones with a hint of evil spirit. Won��t be able to as dog treats at this state.
+Animal bones with a hint of evil spirit. Won占쏙옙t be able to as dog treats at this state.
 Weight: ^7777770^000000
 #
 6508#
@@ -32482,7 +32478,7 @@ Doll made to look like Bakonawa. Cuter than its original.
 Weight: ^7777771^000000
 #
 6517#
-Doll made to look like Bangungot. Suspicious of the creator��s taste.
+Doll made to look like Bangungot. Suspicious of the creator占쏙옙s taste.
 Weight: ^7777771^000000
 #
 6518#
@@ -32504,18 +32500,18 @@ Transparent item which imprisons Bakonawa's Spirit. Rumor says you can see Bakon
 Weight: ^7777771^000000
 #
 6524#
-Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot��s screeching screams when placed in a dark room.
+Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot占쏙옙s screeching screams when placed in a dark room.
 Weight: ^7777771^000000
 #
 6525#
-Transparent item which imprisons Buwaya��s Spirit. Rumor says you can hear Buwaya��s angry shrieks when touched with water.
+Transparent item which imprisons Buwaya占쏙옙s Spirit. Rumor says you can hear Buwaya占쏙옙s angry shrieks when touched with water.
 Weight: ^7777771^000000
 #
 18647#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5188#
-Given as a reward to creative members of the community to say ��thank you�� for their help in contributing to the game.
+Given as a reward to creative members of the community to say 占쏙옙thank you占쏙옙 for their help in contributing to the game.
 Class: ^777777Costume^000000
 Location: ^777777Upper ^000000
 Defense: ^7777770^000000
@@ -32676,7 +32672,7 @@ Will be used to access the Instance Dungeon starting 6/12/12
 Weight: ^77777730^000000
 #
 19580#
-The ornamental version of long dead Pharaoh Amset-Ra��s headdress. It is lightweight and can be worn over your existing hat-
+The ornamental version of long dead Pharaoh Amset-Ra占쏙옙s headdress. It is lightweight and can be worn over your existing hat-
 For decorative use.
 Class: ^777777Costume^000000
 Location: ^777777Upper & Lower^000000
@@ -34286,21 +34282,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
-20372#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A triple pronged
-spear that can also
-be used for fishing.
-^CC0000This item is not Refinable^000000
-Class: ^777777Spear^000000
-Attack Strength: ^777777180^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordsman Class^000000
-#
 20373#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -35379,7 +35360,7 @@ for everyone else...^000000
 Box Weight: ^7777771^000000
 #
 
-//-----�ɿ���ȸ�� �߰�������------
+//-----占심울옙占쏙옙회占쏙옙 占쌩곤옙占쏙옙占쏙옙占쏙옙------
 1293#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -35926,7 +35907,7 @@ it is amazingly freezed
 MATK + 100.
 when closer physical Attack,  ATK + 30 for 7 sec
 when magical  Attack,  MATK + 20 for 7 sec
-if base level is over 100 ��, ATK + 10, MATK + 10 
+if base level is over 100 占쏙옙, ATK + 10, MATK + 10 
 Class: ^777777Sword^000000 Attack: ^777777160^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
@@ -35973,7 +35954,7 @@ has the ability to freeze enemies
 when closer physical Attack, it casts stun or auto spells Bash 5 Lv.(if over 5, will cast as the level learned)
 Freezes itself at low chance
 if Base LV over 100 , ATK + 20.
-Class: ^777777�б�^000000 Attack: ^777777180^000000
+Class: ^777777占싻깍옙^000000 Attack: ^777777180^000000
 Weight: ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level: ^77777750^000000
@@ -38233,7 +38214,7 @@ Weight: ^7777771^000000
 4515#
 Reduce damage from Plant type enemies by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777����^00000000
+Compound on: ^777777占쏙옙占쏙옙^00000000
 Weight: ^7777771^000000
 #
 4516#
@@ -46240,14 +46221,6 @@ Item Class: ^777777Headgear^000000    Defense: ^7777770^000000
 Location: ^777777Lower^000000    Weight: ^77777710^000000
 Available Job: ^777777All^000000
 #
-5179#
-A tiara that has shimmering gold color. A big star in the middle of tiara is impressive
-INT + 2.
-Class: ^777777Headgear^000000    Defense : ^7777770^000000
-Equipped on: ^777777Upper^000000
-Weight : ^77777710^000000
-Available Job: ^777777All Jobs^000000
-#
 5180#
 A hat made for a national holiday of somewhere in western country.
 VIT + 1.
@@ -49815,7 +49788,7 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight: ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and�� just cute.
+Wickebine's one of favorite ear cap. Cute and占쏙옙 just cute.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class: ^777777Costume^000000 Def: ^7777770^000000
@@ -50069,7 +50042,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 22699#
 Testing reagent that has not yet passed clinical tests.
-Sticker reads ��It can vitalize physical abilities to an extreme and temporarily increase agility, but could lose sight as a side effect.��
+Sticker reads 占쏙옙It can vitalize physical abilities to an extreme and temporarily increase agility, but could lose sight as a side effect.占쏙옙
 Weight: ^7777773^000000
 #
 
@@ -50572,10 +50545,10 @@ VIT + 3, AGI + 3.
 ^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 #
 25011#
-���� �������� ��� ������ �������� ����.
+占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙.
 Gives below stats on Costume middle slot.
 LUK + 3, INT - 3.
-LUK��ȯ����(Middle)�� �߰� Job��, �Ʒ��� �ɷ�ġ�� ����Ѵ�.
+LUK占쏙옙환占쏙옙占쏙옙(Middle)占쏙옙 占쌩곤옙 Job占쏙옙, 占싣뤄옙占쏙옙 占심뤄옙치占쏙옙 占쏙옙占쏙옙磯占?
 STR + 3, INT + 3.
 ^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 #
@@ -52025,45 +51998,6 @@ You don't know whose blood it is. Could it be... yours?
 Restores ^000088about 30 SP^000000.
 ^ffffff_^000000
 Weight: ^7777773^000000
-#
-23968#
-A scary-looking pumpkin that contains a lot of very interesting things. Trick or treat!
-Open it to obtain one of the following items:
-^ffffff_^000000
-Black Cat
-Pumpkin Head
-Ghostring Tall Hat
-Assassin Skull Mask
-Battle Manual x3
-Job Manual x3
-Bubble Gum x3
-Stuffed Pumpkin x3
-Stuffed Pumpkin x5
-Stuffed Pumpkin x10
-Gym Membership Card
-Enriched Elunium x3
-Enriched Oridecon x3
-Silvervine x96
-Pumpkin Cake x66
-Pumpkin Pie x66
-Bat Cookies x66
-Steamed Tongue x6
-Steamed Scorpion x6
-Stew of Immortality x6
-Dragon Breath Cocktail x6
-Hwergelmir's Tonic x6
-Cooked Nine Tail's Tails x6
-Kafra Card x9
-LV10 Blessing Scroll x26
-LV10 Increase Agi Scroll x26
-Magnificat Scroll x36
-Giant Fly Wing x26
-Token of Ziegfried x6
-Universal Golden Catalog x36
-Megaphone x10
-Convex Mirror x3
-Life Insurance Certificate x6
-Weight: ^7777771^000000
 #
 19512#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -55267,10 +55201,10 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
 23317#
-봄소풍에 딱 맞는 벚꽃잎으로 만든 과자.
-5분 동안 소형, 중형, 대형 적으로부터 받는 데미지 5% 감소.
+遊꾩냼?띿뿉 ??留욌뒗 踰싰퐙?롮쑝濡?留뚮뱺 怨쇱옄.
+5遺??숈븞 ?뚰삎, 以묓삎, ????곸쑝濡쒕???諛쏅뒗 ?곕?吏 5% 媛먯냼.
 
-무게 : ^7777773^000000
+臾닿쾶 : ^7777773^000000
 #
 
 
@@ -55555,9 +55489,9 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 
 
 10525#
-뭐야 이거... 무서워
-공포의 느낌이 물씬 풍겨져 나오는 상자.
-무게: ^7777771^000000
+萸먯빞 ?닿굅... 臾댁꽌??
+怨듯룷???먮굦??臾쇱뵮 ?띻꺼???섏삤???곸옄.
+臾닿쾶: ^7777771^000000
 #
 
 
@@ -55644,7 +55578,6 @@ Weight: ^7777770^000000
 ^FF0000Account Bound^000000
 The prize received for participating in the Prontera Race.
 You can exchange these medals for valuable items!
-^ff0000This item can be sold to an NPC.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -55652,10 +55585,108 @@ Weight: ^7777771^000000
 ^FF0000Character Bound^000000
 Use this ticket to take part in an exciting new event!
 Rask from Prontera will tell you more about it.
-^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 31842#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5179#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+11531#
+^FF0000Account Bound^000000
+Strong coffee with a pleasant flavor and aroma.
+Restores 15% HP
+Casts Lv.3 Magnificat when used.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+7808#
+^FF0000Character Bound^000000
+A blacksmith's hammer made of an unusual alloy. It looks like a relic.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+792#
+^FF0000Account Bound^000000
+A gem that reflects and refracts sunlight.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+5822#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20372#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20431#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20450#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20483#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20533#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20992#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31316#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31509#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31617#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+23968#
+This gift was sent to you by Titania, the Queen of the Fairy Summer Court.
+Handle it carefully! Faeries are known for their mischief.
+Open the box and receive one of the following gifts:
+Amorous Lady Tanee
+Elysium Wings
+Faerie Butterfly Aura
+Pink Butterfly Wings
+Neuralizer Box
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Peony Magic Hat
+Maggi's Headdress
+Big Blossom Hat
+Butterfly Barrettes
+Fawn Ears
+Red Spellbird
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Giant Fly Wing x6
+Enriched Elunium x2
+Enriched Oridecon x2
+Blessing Of Tyr x10
+Bloody Branch x2
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Guyak Pudding x25
+Huge Spray Of Flowers x11
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Water of Life  x7
+Mushroom Pancake x25
+Guarana Candy x7
+Meteor Storm Scroll x25
+Storm Gust Scroll x25
+Lord of Vermilion Scroll x25
+Wind Walker Scroll x25
+^ffffff_^000000
+Weight: ^7777771^000000
 #

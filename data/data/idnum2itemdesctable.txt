@@ -22982,7 +22982,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4407#
-Weapons don’t break  (except in upgrade attempts).
+Weapons don?셳 break  (except in upgrade attempts).
 ATK  + 10%
 Adds a chance of autocasting Lv. 1 Dispell with each physical attack.
 Class: ^777777Card^000000
@@ -28525,7 +28525,7 @@ Weight: ^77777780^000000
 
 
 
-// ------��mobile item -------
+// ------占쏙옙mobile item -------
 
 
 
@@ -29740,7 +29740,7 @@ random food item.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
-// -------------- �߰���ų�� ������ --------------
+// -------------- 占쌩곤옙占쏙옙킬占쏙옙 占쏙옙占쏙옙占쏙옙 --------------
 
 7419#
 A reference for
@@ -30647,7 +30647,7 @@ sublimely delicious.
 ^FFFFFF ^000000
 Weight: ^7777777^000000
 #
-// ------------ �丮���� --------------
+// ------------ 占썰리占쏙옙占쏙옙 --------------
 
 7472#
 Level 1 Recipes
@@ -32221,7 +32221,7 @@ Weight: ^7777770^000000
 #
 
 //--------------------11.1 Rachel------------------------
-// -------------------------- ������æƮ �űԹ����߰� ----------------------------
+// -------------------------- 占쏙옙占쏙옙占쏙옙챈트 占신규뱄옙占쏙옙占쌩곤옙 ----------------------------
 
 13016#
 A fearsome dagger with
@@ -32301,9 +32301,9 @@ Merchant, and
 Thief Classes^000000
 #
 
-// ------------------- 2006 ��ݱ� �ű�card �߰�.-----------------------
-//������ 11.1 ���� ������Ʈ �����ϱ�� �մϴ�.
-// ------------- �Ʒ糪 ��ݱ� -----------
+// ------------------- 2006 占쏙옙膚占?占신깍옙card 占쌩곤옙.-----------------------
+//占쏙옙占쏙옙占쏙옙 11.1 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙트 占쏙옙占쏙옙占싹깍옙占?占쌌니댐옙.
+// ------------- 占싣루나 占쏙옙膚占?-----------
 
 7561#
 A frozen heart that
@@ -32407,12 +32407,12 @@ You risk freezing youself if you touch it.
 
 
 
-//----------------------20060610 �ű��߰�������-------------------------
+//----------------------20060610 占신깍옙占쌩곤옙占쏙옙占쏙옙占쏙옙-------------------------
 
 
 
 
-// -------------- 2006 �߰������� -------------
+// -------------- 2006 占쌩곤옙占쏙옙占쏙옙占쏙옙 -------------
 
 
 12183#
@@ -32423,7 +32423,7 @@ Weight: ^77777725^000000
 #
 
 // ---------------Package Items----------------
-// ------------- �̱� ������ �� �̺�Ʈ ������ --------------
+// ------------- 占싱깍옙 占쏙옙占쏙옙占쏙옙 占쏙옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 --------------
 
 7875#
 A recovered Treasure box
@@ -34174,7 +34174,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------------- 2006 ��ݱ� �ű�card �߰�.-----------------------
+// ------------------- 2006 占쏙옙膚占?占신깍옙card 占쌩곤옙.-----------------------
 
 
 
@@ -34186,7 +34186,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------- å�б� ----------------------
+// ------------- 책占싻깍옙 ----------------------
 
 11001#
 A new novel from best
@@ -34267,7 +34267,7 @@ fiction author.
 Weight: ^7777771^000000
 #
 
-// ----------------------- �丣ȭ�� ����Ʈ ������ ----------------------
+// ----------------------- 占썰르화占쏙옙 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ----------------------
 7704#
 A device that can
 measure the ground's
@@ -34288,7 +34288,7 @@ by a Geologist.
 Weight: ^7777770^000000
 #
 
-// ---------------------- �丣ȭ�� �ű� ��� ������ ----------------------
+// ---------------------- 占썰르화占쏙옙 占신깍옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 ----------------------
 
 13163#
 A sniping rifle with a lengthened barrel for improved accuracy.
@@ -34961,7 +34961,7 @@ Magic defense +3% for 3 min.
 Weight: ^7777770^000000
 #
 
-// ---------------- �ε��׽þ� ������ ĳ�� ������ --------------
+// ---------------- 占싸듸옙占쌓시억옙 占쏙옙占쏙옙占쏙옙 캐占쏙옙 占쏙옙占쏙옙占쏙옙 --------------
 
 13809#
 A box that contains
@@ -35422,7 +35422,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// ------------- 2007 �ҷ��� �������� ---------------
+// ------------- 2007 占쌀뤄옙占쏙옙 占쏙옙占쏙옙占쏙옙占쏙옙 ---------------
 
 5356#
 A pumpkin hat for celebrating Halloween: wear it when you go trick-or-treating!
@@ -35447,7 +35447,7 @@ that have shaped
 your life.
 ^ffffff_^000000
 #
-// -------- 2007 �Ϻ� ���� ĳ�������� ----------
+// -------- 2007 占싹븝옙 占쏙옙占쏙옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 ----------
 5380#
 A gaping fish head
 fashioned into a hat.
@@ -35560,7 +35560,7 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 
-// ----- ũ�������� �̺�Ʈ ��Ÿ ���� --------
+// ----- 크占쏙옙占쏙옙占쏙옙占쏙옙 占싱븝옙트 占쏙옙타 占쏙옙占쏙옙 --------
 //5811#
 //A beard that makes
 //you want to laugh
@@ -35629,7 +35629,7 @@ Weight: ^7777770^000000
 #
 
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- �븸 �� �߰� ------------------
+// ----------- 占쎈만 占쏙옙 占쌩곤옙 ------------------
 
 9038#
 An egg in which the
@@ -35685,7 +35685,7 @@ Luk +21.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-//============2008 �̱� ����Ʈ��Ʈ�� �̺�Ʈ ������============
+//============2008 占싱깍옙 占쏙옙占쏙옙트占쏙옙트占쏙옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙============
 12715#
 [This item will be removed
 
@@ -35726,7 +35726,7 @@ A treasure box that belongs to Leprechaun O'Riley who is in Izlude next to the a
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ---------------------- �뺴��ȯ�� -------------------------------
+// ---------------------- 占쎈병占쏙옙환占쏙옙 -------------------------------
 
 12153#
 Summon a 1st
@@ -35938,7 +35938,7 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-// ------------------ �뺴�� ���� ------------------
+// ------------------ 占쎈병占쏙옙 占쏙옙占쏙옙 ------------------
 12241#
 A Concentration Potion
 for Mercenaries that
@@ -35964,7 +35964,7 @@ Attack Speed.
 Weight: ^77777720^000000
 #
 
-// ---------------- ������ ����Ʈ ������ ------------------
+// ---------------- 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ------------------
 7730#
 A ticket proving
 that the bearer has
@@ -36089,7 +36089,7 @@ a new mission.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-// -------------- 11.3 ���� -------------------
+// -------------- 11.3 占쏙옙占쏙옙 -------------------
 7751#
 A worn-out white
 cloth that can be
@@ -36130,7 +36130,7 @@ Merchant NPCs.
 Weight: ^7777771^000000
 #
 
-// ------------ ����Ʈ ������ -----------------
+// ------------ 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 -----------------
 7755#
 Much of the writing
 on this note isn't
@@ -36149,7 +36149,7 @@ Weight: ^7777771^000000
 #
 
 
-// ------------------- 11.3 �ű� ��� ������ --------------------------
+// ------------------- 11.3 占신깍옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 --------------------------
 
 
 
@@ -36338,7 +36338,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777Gunslinger Job^000000
 #
 
-// ------------ 11.3 ����Ʈ ������ --------------
+// ------------ 11.3 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 --------------
 7722#
 A loan document
 that includes the
@@ -36385,7 +36385,7 @@ seal of the King of the Rune-Midgarts Kingdom.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// ----------------- 20070808 �ű�Card 34�� -----------------
+// ----------------- 20070808 占신깍옙Card 34占쏙옙 -----------------
 
 
 
@@ -36403,7 +36403,7 @@ it's been cooked.
 Weight: ^7777771^000000
 #
 
-// ------------------- ������ ?E�Ecardø ------------------
+// ------------------- 占쏙옙占쏙옙占쏙옙 ?E占폜card첩 ------------------
 
 12246#
 Powerful spirits are 
@@ -36414,7 +36414,7 @@ if the seal is undone?
 Weight: ^7777775^000000
 #
 
-// -------- �̱� �̺�Ʈ ������ ----------------
+// -------- 占싱깍옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ----------------
 
 5409#
 A hat, symbolizing western frontiers, made to celebrate the festival.
@@ -36438,7 +36438,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// -------- �̱� �佺Ƽ�� Ƽ�� ----------
+// -------- 占싱깍옙 占썰스티占쏙옙 티占쏙옙 ----------
 
 7919#
 Evidence that you really enjoyed the festival!
@@ -36447,13 +36447,13 @@ This item cannot be dropped, traded, mailed or vended.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-// -------- �̱� �̺�Ʈ ������ ----------------
+// -------- 占싱깍옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ----------------
 6025#
 A towel that helps you remember those that have passed on.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
-// -------- �ʺ����� ������ -----------
+// -------- 占십븝옙占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 -----------
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
 ^ffffff_^000000
@@ -36523,11 +36523,11 @@ A tribute to luck and fortune throughout the year.
 Weight: ^7777770^000000
 #
 
-// ---------- ����� �˻��� ��ƽ�� ----------
+// ---------- 占쏙옙占쏙옙占?占싯삼옙占쏙옙 占쏙옙틱占쏙옙 ----------
 // --------------- Package Item ----------------
-// ------------------�߱��̺�Ʈ ����--------------------
+// ------------------占쌩깍옙占싱븝옙트 占쏙옙占쏙옙--------------------
 // -------------- 2006 Japan Event -------------
-// ------------------ 2006 �Ϻ� �ִϹ����� Headgear -----------------
+// ------------------ 2006 占싹븝옙 占쌍니뱄옙占쏙옙占쏙옙 Headgear -----------------
 
 5211#
 ^ff0000Account bound^000000
@@ -36546,7 +36546,7 @@ Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
 
-// ------------------ ����� ���� �ø��� -----------------------
+// ------------------ 占쏙옙占쏙옙占?占쏙옙占쏙옙 占시몌옙占쏙옙 -----------------------
 
 5273#
 Wig with green, white and red colors.
@@ -36587,7 +36587,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// --------------- ����� ĳ�� ������ 20070605 ------------
+// --------------- 占쏙옙占쏙옙占?캐占쏙옙 占쏙옙占쏙옙占쏙옙 20070605 ------------
 
 5307#
 A hat made with tropical fruits. It looks delicious.
@@ -36602,7 +36602,7 @@ Location: ^777777Upper^000000    Weight: ^77777740^000000
 Jobs: ^777777All^000000
 #
 
-// -------------- �±� ĳ�������� Headgear �߰� 20070809 --------------
+// -------------- 占승깍옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 Headgear 占쌩곤옙 20070809 --------------
 
 5325#
 ^FF0000Account bound^000000
@@ -36618,7 +36618,7 @@ Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 #
 
-// -------------- 2007�� 9�� �Ϻ� ����� Headgear 13�� -----------------
+// -------------- 2007占쏙옙 9占쏙옙 占싹븝옙 占쏙옙占쏙옙占?Headgear 13占쏙옙 -----------------
 
 5333#
 A hat designed to transmit electric waves. Sometimes it receives electric waves from external worlds.
@@ -36763,7 +36763,7 @@ Required Level: ^77777711^000000
 Jobs: ^777777All^000000
 #
 
-// --------- �±� ���� ������ -------------
+// --------- 占승깍옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 -------------
 
 5387#
 A cute hairband that combines the classic Kafra hairband with cat ears.
@@ -36776,7 +36776,7 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 
-// -------------- 2008 �Ϻ� ������ �� 2ź -----------------
+// -------------- 2008 占싹븝옙 占쏙옙占쏙옙占쏙옙 占쏙옙 2탄 -----------------
 
 5401#
 ^ff0000Account bound^000000
@@ -36835,7 +36835,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 
-// --------------- �ʸ��� ��ü���� Headgear 7�� -------------
+// --------------- 占십몌옙占쏙옙 占쏙옙체占쏙옙占쏙옙 Headgear 7占쏙옙 -------------
 
 5372#
 ^ff0000Account bound^000000
@@ -36981,7 +36981,7 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 
-// ------�˵��ٶ��ͺ�Ʈ��------
+// ------占싯듸옙占쌕띰옙占싶븝옙트占쏙옙------
 
 12016#
 A potion that increases character's movement speed for 5 sec.
@@ -36995,7 +36995,7 @@ A potion which decreases the moving speed of a character for a set duration.
 Weight: ^77777710^000000
 #
 
-// ---------- �ʸ��� 4�� �ڽ� ��Ű�� ----------------
+// ---------- 占십몌옙占쏙옙 4占쏙옙 占쌘쏙옙 占쏙옙키占쏙옙 ----------------
 
 13994#
 A box containing 5 Speed Potions.
@@ -37041,8 +37041,8 @@ Used for re-dyeing your clothes to their original color.
 Weight: ^7777770^000000
 #
 
-// -------- �̱� �̺�Ʈ ������ ----------------
-// ------------- �ű� �ű� ������ GOD ITEMS --------------
+// -------- 占싱깍옙 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ----------------
+// ------------- 占신깍옙 占신깍옙 占쏙옙占쏙옙占쏙옙 GOD ITEMS --------------
 
 7830#
 A clear and transparent gem that reflects light beautifully.
@@ -37103,7 +37103,7 @@ You can exchange it for a gift.
 Weight: ^7777770^000000
 #
 
-// ---------------- �׽�Ʈ�� ĳ�������� ���� Town B-wings -----------------
+// ---------------- 占쌓쏙옙트占쏙옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 Town B-wings -----------------
 
 13849#
 Contains 5 scrolls on which the names of towns of Rune Midgard are written. Use it to teleport to one of them.
@@ -37162,7 +37162,7 @@ Warning: If no town is selected, the item will disappear.
 Weight: ^7777771^000000
 #
 
-// ----------- 20071004 ĳ�þ����� -----------
+// ----------- 20071004 캐占시억옙占쏙옙占쏙옙 -----------
 
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgard Kingdom.
@@ -37462,7 +37462,7 @@ Jobs: ^777777All^000000
 #
 
 // --------------------- Ep. 12 --------------------------
-// ------------- ���� ���� ������ ---------------
+// ------------- 占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ---------------
 
 13036#
 ^0000ffCharacter Bound^000000
@@ -37682,7 +37682,7 @@ A sealed paper envelope. It seems to contain an important message in it.
 Weight: ^7777771^000000
 #
 
-// ------------ �޸𸮾� ���� ������ ----------------
+// ------------ 占쌨모리억옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ----------------
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
@@ -37708,7 +37708,7 @@ Required Level: ^77777775^000000
 Jobs: ^777777Transcendent Swordsman, Merchant, Thief Classes^000000
 #
 
-//���ũ ��Ƽ��Ż ���� ������
+//占쏙옙占신?占쏙옙티占쏙옙탈 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙
 
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
@@ -37718,7 +37718,7 @@ Continental Guard. Balrog.
 Weight: ^7777770^000000
 #
 
-// ------------ ���� ���ũ ----------------
+// ------------ 占쏙옙占쏙옙 占쏙옙占신?----------------
 
 
 
@@ -37734,7 +37734,7 @@ Jobs: ^777777Above Transcendent 2-1 Classes^000000
 
 
 
-// ---------- ��¦ �׽�Ʈ -----------
+// ---------- 占쏙옙짝 占쌓쏙옙트 -----------
 
 
 
@@ -37773,7 +37773,7 @@ Jobs: ^777777Assassin Cross^000000
 #
 
 
-// ------------- ���� ���� ---------------
+// ------------- 占쏙옙占쏙옙 占쏙옙占쏙옙 ---------------
 7828#
 ^FF0000Character Bound^000000
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
@@ -37785,7 +37785,7 @@ A badge that is provided to warriors who have brought great honor from the Battl
 ^ffffff_^000000
 #
 
-// -------- ������ ���� ������ ------------
+// -------- 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
 Weight: ^7777771^000000
@@ -37802,14 +37802,14 @@ A pendant that was been used to confine wandered souls from unknown places.
 Weight: ^7777771^000000
 #
 
-// ----------------- ������ ��� ������Ʈ ���� -----------------
+// ----------------- 占쏙옙占쏙옙占쏙옙 占쏙옙占?占쏙옙占쏙옙占쏙옙트 占쏙옙占쏙옙 -----------------
 6004#
 A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
-// ------------------- 12.1 ����Ʈ ������ ----------------------
+// ------------------- 12.1 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ----------------------
 7798#
 A dark fragment imbued with a gloomy spirit. Once you stare into it, you might feel absorbed into it.
 ^ffffff_^000000
@@ -37822,7 +37822,7 @@ You might feel a strong dangerous power from this crystal. When you are close to
 Weight: ^7777771^000000
 #
 
-// --------------- �ʸ��� ��ü���� ���� 7�� ----
+// --------------- 占십몌옙占쏙옙 占쏙옙체占쏙옙占쏙옙 占쏙옙占쏙옙 7占쏙옙 ----
 5374#
 A headgear forged from the horns of the Unsealed Baphomet.
 Increases Physical Damage to Demihuman monsters by 12%.
@@ -37834,7 +37834,7 @@ Weight: ^77777780^000000
 Jobs: ^777777All^000000
 #
 
-// ------------------- �̺�Ʈ ������ ------------------
+// ------------------- 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ------------------
 
 6000#
 ^FF0000Character Bound^000000
@@ -37875,7 +37875,7 @@ Stepmother - karma from a previous life?''
 Weight: ^7777771^000000
 #
 
-// ------------------ �Ͼ� �׽�Ʈ (����)---------------
+// ------------------ 占싹억옙 占쌓쏙옙트 (占쏙옙占쏙옙)---------------
 
 13030#
 Crafted from a
@@ -38690,7 +38690,7 @@ A box containing one Crown of Deceit
 Weight: ^7777771^000000
 #
 
-// 2009-01-16 �̱� ��û ������
+// 2009-01-16 占싱깍옙 占쏙옙청 占쏙옙占쏙옙占쏙옙
 
 6125#
 A box that brings a feeling of prosperity. Every time you think about opening it you resist the temptation. Perhaps a professional ^3CB371Gift Opener^000000 could be of assistance.
@@ -38714,7 +38714,7 @@ Weight: ^7777771^000000
 ^FF0000This item can only be opened until Aug. 25, 2009^000000
 #
 
-//�߷�Ÿ��
+//占쌩뤄옙타占쏙옙
 
 12742#
 A box containing a ring which is an exchanging gift for Valentine's Day.
@@ -38769,7 +38769,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ----------- �������� ����ǰ ������ ------------01/07/09
+// ----------- 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙품 占쏙옙占쏙옙占쏙옙 ------------01/07/09
 
 
 
@@ -38784,19 +38784,19 @@ Jobs: ^777777All^000000
 
 
 
-// ---------------- �������� -----------------
+// ---------------- 占쏙옙占쏙옙占쏙옙占쏙옙 -----------------
 7539#
 A small coin with a monster Poring engraved in it.
 ^ff0000This can be sold to NPCs^000000
 #
 
-// ------------- �������� ---------------
+// ------------- 占쏙옙占쏙옙占쏙옙占쏙옙 ---------------
 7773#
 A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.
 ^ffffff_^000000
 #
 
-// 2009-02-16 �̱� ������ �־�� �߰�
+// 2009-02-16 占싱깍옙 占쏙옙占쏙옙占쏙옙 占쌍억옙占?占쌩곤옙
 5512#
 ^ff0000Account bound^000000
 This diadem honors Aquarius, the 11th astrological sign in the zodiac calendar.
@@ -39570,7 +39570,7 @@ Beautiful long, white colored horn with the very strong magical power. It can be
 Weight: ^7777771^000000
 #
 
-// --------- EP13 �ű� ��� ������ ---------------
+// --------- EP13 占신깍옙 占쏙옙占?占쏙옙占쏙옙占쏙옙 ---------------
 5398#
 Headgear made of the skull of a dragon. So hard that it does not easily break.
 Str +2, MDEF +5,
@@ -39830,7 +39830,7 @@ It reminds you of the taste of homemade pie.
 ^ffffff_^000000
 Weight: ^7777775^000000
 
-// ---------- ũ���� ���� ������ ----------
+// ---------- 크占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 ----------
 13416#
 ^0000ffCharacter Bound^000000
 Physical Attack against Demihuman monsters +75%.
@@ -40010,7 +40010,7 @@ Job: ^777777Gunslinger^000000
 
 
 
-// ---------- ũ���� ���� ������ �߰� Defense�� ----------
+// ---------- 크占쏙옙占쏙옙 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 占쌩곤옙 Defense占쏙옙 ----------
 
 
 
@@ -40021,12 +40021,12 @@ Job: ^777777Gunslinger^000000
 
 
 
-// ----------- ���Ǽҵ� 13 ���� ------------
+// ----------- 占쏙옙占실소듸옙 13 占쏙옙占쏙옙 ------------
 
 
 
 
-// ----------- �̺�Ʈ ������ ------------
+// ----------- 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ------------
 
 6048#
 A mineral not found in Rune Midgard that any scientist would love to study.
@@ -40155,7 +40155,7 @@ Class: ^777777Taming Item^000000
 Weight: ^7777771^000000
 #
 
-//--------------------�̱� ĳ�� 2009.10.07---------------------------
+//--------------------占싱깍옙 캐占쏙옙 2009.10.07---------------------------
 
 5612#
 A cat doll that you
@@ -49259,7 +49259,6 @@ Weight: ^7777771^000000
 #
 
 6237#
-^FF0000Character Bound^000000
 The most famous fruit from Brasilis. This fruit has natural properties that boost concentration and speed.
 Weight: ^7777770^000000
 #
@@ -49274,7 +49273,6 @@ Recover small amount HP.
 Weight: ^7777772^000000
 #
 6221#
-^FF0000Character Bound^000000
 A ball with mysterious power.
 Weight: ^7777770^000000
 #
@@ -49283,7 +49281,6 @@ Small purity beads.
 Weight: ^7777770^000000
 #
 12408#
-^FF0000Character Bound^000000
 A strange ball that can capture Strange Hydra.
 Weight: ^7777770^000000
 #
@@ -49298,7 +49295,6 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 7553#
-^FF0000Character Bound^000000
 A delicate flower found in the depths of Brasilis.
 Weight: ^7777770^000000
 #
@@ -49693,7 +49689,7 @@ Contains the following:
 Weight:  ^7777771^000000
 #
 
-// ---------- Ep13.3 ����Ʈ������ ------------
+// ---------- Ep13.3 占쏙옙占쏙옙트占쏙옙占쏙옙占쏙옙 ------------
 
 
 
@@ -49743,7 +49739,7 @@ An old piece of sheet music filled with notes inscribed in blue ink.
 Weight: ^7777771^000000
 #
 
-// ---------- EP13.3 �ű� ������ ------------
+// ---------- EP13.3 占신깍옙 占쏙옙占쏙옙占쏙옙 ------------
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
 Weight: ^7777771^000000
@@ -49832,13 +49828,13 @@ Weapon Level: ^7777773^000000
 Required Level: ^777777105^000000
 Jobs: ^7777773rd Class Archer Type^000000
 #
-//---------- EP13.3 ������Ʈ ���� ���� �Ǵ� ������(���� ������ �����ϰ� �Ʒ� �߰�) ------------
-//4229 �� ������ �ش� �������� ���� �ڸ��� ����ǰ� �� ��ġ�� ���� ��.
-//2140 �� ������ �ش� �������� ���� �ڸ��� ����ǰ� �� ��ġ�� ���� ��.
-//2794 �� ������ �ش� �������� ���� �ڸ��� ����ǰ� �� ��ġ�� ���� ��.
-//15002 �� ������ �ش� �������� ���� �ڸ��� ����ǰ� �� ��ġ�� ���� ��.
-//1549  �� ������ �ش� �������� ���� �ڸ��� ����ǰ� �� ��ġ�� ���� ��.
-// ----------�Ʒ� �����۵��� ����Ÿ ������Ʈ �ÿ��� ���� �����۵�� ����Ÿ ������Ʈ ���Ķ�� ������ �߰��� �ʿ���� ------------
+//---------- EP13.3 占쏙옙占쏙옙占쏙옙트 占쏙옙占쏙옙 占쏙옙占쏙옙 占실댐옙 占쏙옙占쏙옙占쏙옙(占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙占싹곤옙 占싣뤄옙 占쌩곤옙) ------------
+//4229 占쏙옙 占쏙옙占쏙옙占쏙옙 占쌔댐옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙품占?占쏙옙 占쏙옙치占쏙옙 占쏙옙占쏙옙 占쏙옙.
+//2140 占쏙옙 占쏙옙占쏙옙占쏙옙 占쌔댐옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙품占?占쏙옙 占쏙옙치占쏙옙 占쏙옙占쏙옙 占쏙옙.
+//2794 占쏙옙 占쏙옙占쏙옙占쏙옙 占쌔댐옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙품占?占쏙옙 占쏙옙치占쏙옙 占쏙옙占쏙옙 占쏙옙.
+//15002 占쏙옙 占쏙옙占쏙옙占쏙옙 占쌔댐옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙품占?占쏙옙 占쏙옙치占쏙옙 占쏙옙占쏙옙 占쏙옙.
+//1549  占쏙옙 占쏙옙占쏙옙占쏙옙 占쌔댐옙 占쏙옙占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙 占쌘몌옙占쏙옙 占쏙옙占쏙옙품占?占쏙옙 占쏙옙치占쏙옙 占쏙옙占쏙옙 占쏙옙.
+// ----------占싣뤄옙 占쏙옙占쏙옙占쌜듸옙占쏙옙 占쏙옙占쏙옙타 占쏙옙占쏙옙占쏙옙트 占시울옙占쏙옙 占쏙옙載∽옙占?占쏙옙占쏙옙占쌜듸옙占?占쏙옙占쏙옙타 占쏙옙占쏙옙占쏙옙트 占쏙옙占식띰옙占?占쏙옙占쏙옙占쏙옙 占쌩곤옙占쏙옙 占십울옙占쏙옙占?------------
 
 6437#
 A perfume made to make one smell like a Scaraba. Spraying this will help you avoid Scarabas from mobbing you.
@@ -51007,12 +51003,12 @@ Weight: ^7777771^000000
 #
 6535#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock�� though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sock占쏙옙 though you're sure they mean Stocking
 Weight: ^7777771^000000
 #
 6536#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock�� though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sock占쏙옙 though you're sure they mean Stocking
 Weight: ^7777771^000000
 #
 18671#
@@ -52137,7 +52133,7 @@ Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ---------- Port Malaya �ű� ������ ------------
+// ---------- Port Malaya 占신깍옙 占쏙옙占쏙옙占쏙옙 ------------
 
 
 
@@ -54149,21 +54145,6 @@ Required Level: ^7777771^000000
 Jobs: ^777777Swordsman
 and Merchant Classes^000000
 #
-20372#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Water Element Targets^000000
-A triple pronged
-spear that can also
-be used for fishing.
-^CC0000This item is not Refinable^000000
-Class: ^777777Spear^000000
-Attack Strength: ^777777180^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordsman Class^000000
-#
 20373#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -55219,7 +55200,7 @@ for everyone else...^000000
 Box Weight: ^7777771^000000
 #
 
-//-------�ɿ���ȸ�� �߰� ������------------
+//-------占심울옙占쏙옙회占쏙옙 占쌩곤옙 占쏙옙占쏙옙占쏙옙------------
 
 
 
@@ -55969,7 +55950,7 @@ Weight: ^7777771^000000
 16749#
 A box that has snow crab from malangdo area (1 hour rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason��
+Crabs usually, live in sand or mud but this is used as a bow for some odd reason占쏙옙
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class: ^777777bow^000000 Attack: ^777777120^000000
@@ -55983,7 +55964,7 @@ Weight: ^7777771^000000
 16750#
 A box that has snow crab from malangdo area (7 days rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason��
+Crabs usually, live in sand or mud but this is used as a bow for some odd reason占쏙옙
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class: ^777777bow^000000 Attack: ^777777120^000000
@@ -55996,7 +55977,7 @@ Weight: ^7777771^000000
 #
 18107#
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason��
+Crabs usually, live in sand or mud but this is used as a bow for some odd reason占쏙옙
 LUK + 3, critical damage 50%.
 if base LV over100, ranged  physical Attack +20%
 Class: ^777777bow^000000 Attack: ^777777120^000000
@@ -56302,7 +56283,7 @@ Weight: ^7777775^000000
 #
 12636#
 Delicious canned food from Malangdo.
-You will think about the sea and see the sights  of  Malangdo in your mind when you eat it�� Transports you to Malangdo when consumed.
+You will think about the sea and see the sights  of  Malangdo in your mind when you eat it占쏙옙 Transports you to Malangdo when consumed.
 Weight: ^7777770^000000
 #
 12637#
@@ -58378,7 +58359,7 @@ Weight: ^7777771^000000
 4515#
 Reduce damage from Plant type enemies by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777����^00000000
+Compound on: ^777777占쏙옙占쏙옙^00000000
 Weight: ^7777771^000000
 #
 4516#
@@ -63349,8 +63330,8 @@ Jobs: ^777777All^000000
 #
 31910#
 ^ff0000Account bound.^000000
-Ho ho ho! And it�s not shaving foam at all, but my beard!
-Just don�t touch it, otherwise the magic will disappear!
+Ho ho ho! And it占퐏 not shaving foam at all, but my beard!
+Just don占퐐 touch it, otherwise the magic will disappear!
 ^ff0000[Effects are active only during the event (until January 15, 2020).]^000000
 Max. HP and SP +10%
 ^0000ff[Festive Santa Set]^000000
@@ -68552,14 +68533,6 @@ Class: ^777777Headgear^000000    Defense: ^7777770^000000
 Location: ^777777Lower^000000    Weight: ^77777710^000000
 Available Job: ^777777All^000000
 #
-5179#
-A tiara that has shimmering gold color. A big star in the middle of tiara is impressive
-INT + 2.
-Class: ^777777Headgear^000000    Defense : ^7777770^000000
-Equipped on: ^777777Upper^000000
-Weight : ^77777710^000000
-Available Job: ^777777All^000000
-#
 5180#
 A hat made for a national holiday of somewhere in western country.
 VIT + 1.
@@ -71563,7 +71536,7 @@ Weight: ^7777771^000000
 #
 
 19914#
-^808080Airship Captain Felrock��s Hat^000000
+^808080Airship Captain Felrock占쏙옙s Hat^000000
 ^FFFFFF_^000000
 Type: Costume
 Location: Upper
@@ -71607,21 +71580,21 @@ Required Level: ^777777125^000000
 Job: ^777777All^000000
 #
 15117#
-Airship captain Felrock��s possessions.
+Airship captain Felrock占쏙옙s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 MaxHP + 500, MaxSP + 50, MDEF + 10.
 All State + 1.
 If 7 refined, MaxHP + 500, MaxSP + 50.
 If 9 refined, MaxHP + 200, MaxSP + 20.
 If 12 refined, MaxHP + 300, MaxSP + 30.
-If equipped together with Felrock��s Armor, Felrock��s Cloak, Felrock��s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
+If equipped together with Felrock占쏙옙s Armor, Felrock占쏙옙s Cloak, Felrock占쏙옙s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
 Type: ^777777Armor^000000    Defense: ^77777770^000000
 Weight: ^77777775^000000
 Required Level: ^777777125^000000
 Job: ^777777All^000000
 #
 20744#
-Airship captain Felrock��s possessions.
+Airship captain Felrock占쏙옙s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 Neutral tolerance 10% increase, Flee + 20.
 Floating Casting 10% decrease.
@@ -71634,7 +71607,7 @@ Required Level: ^777777125^000000
 Job: ^777777All^000000
 #
 22047#
-Airship captain Felrock��s possessions.
+Airship captain Felrock占쏙옙s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 AGI + 1, Attack rate increase (Delay after attack 5% reduction).
 If 7 refined, AGI + 1, Delay after attack extra 5% decrease
@@ -72725,7 +72698,7 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight: ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and�� just cute.
+Wickebine's one of favorite ear cap. Cute and占쏙옙 just cute.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class: ^777777Costume^000000 Def: ^7777770^000000
@@ -73919,14 +73892,6 @@ Location: ^777777Lower ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-20450#
-A beautiful magician hat with flower on it.
-
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
-#
 17739#
 ^ff0000Cannot trade with other accounts.^000000
 Change up your hairstyle, gain a creepy aura, or surround your self with ghosts from this Spooktober Costume Box.
@@ -74565,7 +74530,7 @@ Weight: 0
 Required Monster: Scatleton
 #
 20397#
-^808080A helmet that can transform you into Jakk. It is so precise that even Jakk��s friends are tricked. The way it is produced is confidential...^000000
+^808080A helmet that can transform you into Jakk. It is so precise that even Jakk占쏙옙s friends are tricked. The way it is produced is confidential...^000000
 ^FFFFFF_^000000
 Type: Headgear
 Position: Middle, Lower
@@ -83218,45 +83183,6 @@ Restores ^000088about 30 SP^000000.
 ^ffffff_^000000
 Weight: ^7777773^000000
 #
-23968#
-A scary-looking pumpkin that contains a lot of very interesting things. Trick or treat!
-Open it to obtain one of the following items:
-^ffffff_^000000
-Black Cat
-Pumpkin Head
-Ghostring Tall Hat
-Assassin Skull Mask
-Battle Manual x3
-Job Manual x3
-Bubble Gum x3
-Stuffed Pumpkin x3
-Stuffed Pumpkin x5
-Stuffed Pumpkin x10
-Gym Membership Card
-Enriched Elunium x3
-Enriched Oridecon x3
-Silvervine x96
-Pumpkin Cake x66
-Pumpkin Pie x66
-Bat Cookies x66
-Steamed Tongue x6
-Steamed Scorpion x6
-Stew of Immortality x6
-Dragon Breath Cocktail x6
-Hwergelmir's Tonic x6
-Cooked Nine Tail's Tails x6
-Kafra Card x9
-LV10 Blessing Scroll x26
-LV10 Increase Agi Scroll x26
-Magnificat Scroll x36
-Giant Fly Wing x26
-Token of Ziegfried x6
-Universal Golden Catalog x36
-Megaphone x10
-Convex Mirror x3
-Life Insurance Certificate x6
-Weight: ^7777771^000000
-#
 31186#
 A cute black cat. She seems to like you very much, so she's decided to follow you around!
 ^ff0000Animated^000000
@@ -85841,7 +85767,7 @@ Jobs: ^777777All^000000
 #
 5915#
 A veil created from feathers of an angel.
-Put it on to feel yourself confident and protected. It�s like a guardian angel has covered you with his wings.
+Put it on to feel yourself confident and protected. It占퐏 like a guardian angel has covered you with his wings.
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -89018,7 +88944,7 @@ Jobs: ^777777All^000000
 #
 31514#
 Miniature tabby cat with light blue coat.
-It’s peaceful, friendly and very active.
+It?셲 peaceful, friendly and very active.
 Class: ^777777Costume^000000
 Location: ^777777Mid^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -89467,14 +89393,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31766#
-흰 모란이 성실함을 연상시키는 의상용 머리장식.
-빨간 장식끈이 포인트.
-^ffffff<NAVI>^4D4DFF[헤이담 펠로우]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4의상 인챈트 스톤 상자19로 교환 가능.^000000
-계열: ^777777의상장비^000000 방어: ^7777770^000000
-위치: ^777777상단 ^000000무게: ^7777770^000000
-요구 레벨: ^7777771^000000
-장착: ^777777전 직업^000000
+??紐⑤????깆떎?⑥쓣 ?곗긽?쒗궎???섏긽??癒몃━?μ떇.
+鍮④컙 ?μ떇?덉씠 ?ъ씤??
+^ffffff<NAVI>^4D4DFF[?ㅼ씠???좊줈??^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4?섏긽 ?몄콌???ㅽ넠 ?곸옄19濡?援먰솚 媛??^000000
+怨꾩뿴: ^777777?섏긽?λ퉬^000000 諛⑹뼱: ^7777770^000000
+?꾩튂: ^777777?곷떒 ^000000臾닿쾶: ^7777770^000000
+?붽뎄 ?덈꺼: ^7777771^000000
+?μ갑: ^777777??吏곸뾽^000000
 #
 31814#
 A bunch of balloons in the shape of a Lunatic, a Leaf Lunatic and an Eclipse.
@@ -89613,7 +89539,7 @@ Jobs: ^777777All^000000
 #
 20737#
 Kirin has fish scales, the body of a horse, legs of a deer and the head of a dragon.
-Legends say that he is very kind and doesn't harm anyone.
+Legends say that he is very kind and doesn?셳 harm anyone.
 Class: ^777777Costume^000000
 Location: ^777777Garment^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
@@ -89698,6 +89624,11 @@ Weight: ^7777771^000000
 ^FF0000Account Bound^000000
 Metal forehead decorated with large wings.
 This artifact will give you courage and inner strength.
+EXP +10%
+Max HP +10%
+ATK +25
+MATK +25
+^ff0000[Effects are active only during the event (until April 21, 2021).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
@@ -89717,7 +89648,6 @@ Weight: ^7777770^000000
 ^FF0000Account Bound^000000
 The prize received for participating in the Prontera Race.
 You can exchange these medals for valuable items!
-^ff0000This item can be sold to an NPC.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -89725,7 +89655,6 @@ Weight: ^7777771^000000
 ^FF0000Character Bound^000000
 Use this ticket to take part in an exciting new event!
 Rask from Prontera will tell you more about it.
-^ff0000This item cannot be traded between accounts but can be sold to an NPC.^000000
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
@@ -89738,4 +89667,189 @@ Location: ^777777Upper^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+5179#
+^FF0000Account Bound^000000
+A beautiful tiara forged from light and fire.
+EXP +10%
+STR +5
+INT +5
+Casting time -5%
+Increases physical damage on Demi-Human race targets by 10%.
+Reduce damage from Demi-Human by 10%
+^ff0000[Effects are active only during the event (until May 6, 2021).]^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+11531#
+^FF0000Account Bound^000000
+Strong coffee with a pleasant flavor and aroma.
+Restores 15% HP
+Casts Lv.3 Magnificat when used.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+7808#
+^FF0000Character Bound^000000
+A blacksmith's hammer made of an unusual alloy. It looks like a relic.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+792#
+^FF0000Account Bound^000000
+A gem that reflects and refracts sunlight.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+5822#
+Spellbirds sense magic in humans and often accompany the most gifted sorcerers.
+Or those who are completely devoid of magic.
+^ffffff_^000000
+Increases physical and magical damage against Plant and Undead monsters by 3%.
+[For each refine level]
+Additional increase physical and magical damage against Plant and Undead monsters by 1%.
+[If refine level is +8 or higher]
+ATK/MATK +1% per refine level from +8 and higher.
+MaxSP + 1% per refine level from +8 and higher.
+[If refine level is +9 or higher]
+Increases healing effect of Ice Cream by 200%
+^ffffff_^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777774^000000    Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20372#
+Amazingly beautiful lady's hat, decorated with a large flower.
+A really big flower, it's just huge!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20431#
+A copy of the headband that belonged to a young Warlock named Maggi Steen.
+As elegant as its owner. 
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20450#
+Elegant magic hat, decorated with a peony flower.
+For the most fashionable witches!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20483#
+Barrettes in the form of butterflies.
+According to rumors, they are bewitched and make their owner incredibly attractive.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20533#
+Behind your back, these pink wings glow with an inner light.
+Is there someone as beautiful and graceful as a Faerie? Probably only you!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20992#
+Incredible multi-colored wings, a gift from the Faeries living in Elysium.
+Perhaps these wings will not lift a mortal into the air... but they are so beautiful!
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31316#
+A swarm of butterflies from the magical forest will surround you.
+They will follow you everywhere as a symbol of the Faerie's blessing.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31509#
+Those who have spent a long time in the Faerie forests change forever.
+They grow cat tails, goat hooves... or fawn ears.
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31617#
+It seems like this cute little spirit has fallen in love with you!
+Try not to hurt her feelings. Lady Tanee's anger can be deadly!
+^FF0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+23968#
+This gift was sent to you by Titania, the Queen of the Fairy Summer Court.
+Handle it carefully! Faeries are known for their mischief.
+Open the box and receive one of the following gifts:
+Amorous Lady Tanee
+Elysium Wings
+Faerie Butterfly Aura
+Pink Butterfly Wings
+Neuralizer Box
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Peony Magic Hat
+Maggi's Headdress
+Big Blossom Hat
+Butterfly Barrettes
+Fawn Ears
+Red Spellbird
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Giant Fly Wing x6
+Enriched Elunium x2
+Enriched Oridecon x2
+Blessing Of Tyr x10
+Bloody Branch x2
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Guyak Pudding x25
+Huge Spray Of Flowers x11
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Water of Life  x7
+Mushroom Pancake x25
+Guarana Candy x7
+Meteor Storm Scroll x25
+Storm Gust Scroll x25
+Lord of Vermilion Scroll x25
+Wind Walker Scroll x25
+^ffffff_^000000
+Weight: ^7777771^000000
 #

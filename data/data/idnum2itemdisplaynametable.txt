@@ -2827,7 +2827,6 @@
 //--------------mobile items added----------------------
 
 5153#Angeling Hairpin#
-5179#Gold Tiara#
 5211#Ribbon Hat#
 5212#Satellite Hairband#
 5213#Black Bunny Band#
@@ -3033,7 +3032,6 @@
 7805#Brown Jenoss's Family Ring#
 7806#God Anvil#
 7807#God Mineral#
-7808#God Hammer#
 7809#God Furnace#
 7810#Symbol of Richness#
 7811#Anvil#
@@ -5740,7 +5738,7 @@
 20724#Love Dad Wing 2012#
 
 //ep 14.1
-//----141 �߰��� ----------
+//----141 占쌩곤옙占쏙옙 ----------
 
 2156#Bible of Promise (Vol 1)#
 2467#Golden Rod Shoes#
@@ -5817,7 +5815,7 @@
 11526#Rafflecino#
 1773#Elven Arrow#
 1774#Hunting Arrow#
-//���� ��� �߰�
+//占쏙옙占쏙옙 占쏙옙占?占쌩곤옙
 1197#Eden Group Slayer III#
 1289#Eden Group Katar I#
 1391#Eden Group Two Handed Axe I#
@@ -5936,7 +5934,7 @@
 17075#Empty Bottle 100 Box#
 17076#Empty Bottle 500 Box#
 
-//-----------------------------------------------ASPD Idn Independ Scroll < ����¹������?Lucky Free Scroll [December]
+//-----------------------------------------------ASPD Idn Independ Scroll < 占쏙옙占쏙옙쨔占쏙옙占쏙옙占쏙옙?Lucky Free Scroll [December]
 
 17245#Lucky Free Scroll#
 12684#Aspd Potion#
@@ -8102,7 +8100,6 @@
 5815#Classic Hat#
 5816#New Cowboy Hat#
 5819#Carnival Circlet#
-5822#Love#
 14493#Sting Hat Box#
 5510#Shower Cap#
 14495#Aquarius Diadem Box#
@@ -8564,7 +8561,6 @@
 11703#Mysterious Blood#
 
 31186#Black Cat#
-23968#Stuffed Pumpkin#
 
 19512#Red Eyepatch#
 31535#Pink Poo Poo Hat#
@@ -8857,7 +8853,7 @@
 20335#Neverending Tears#
 31251#Cat's Snoot#
 31615#Geisha Make-Up#
-31699#�ute Eyes#
+31699#占퐑te Eyes#
 31716#Blinking Red Eyes#
 19539#Tiara of Reginleif#
 
@@ -9163,7 +9159,7 @@
 20525#Bloody Wings#
 31299#White Rabbit#
 31693#Lunatic Muffler#
-31766#의상_모란_머리장식#
+31766#?섏긽_紐⑤?_癒몃━?μ떇#
 31814#Rabbit Family Balloon#
 31815#Rabbit Lord Wig#
 19881#Pink Bunny Hood#
@@ -9186,3 +9182,20 @@
 6537#Race Medal#
 7528#Race Ticket#
 31842#Amatsu Provost Cap#
+
+5179#Tiara with Skyfire Gem#
+11531#Coffee#
+792#Skyfire Gem#
+7808#Special Hammer#
+
+5822#Red Spellbird#
+20372#Big Blossom Hat#
+20431#Maggi's Headdress#
+20450#Peony Magic Hat#
+20483#Butterfly Barrettes#
+20533#Pink Butterfly Wings#
+20992#Elysium Wings#
+31316#Faerie Butterfly Aura#
+31509#Fawn Ears#
+31617#Amorous Lady Tanee#
+23968#Seelie Court Treasure#

@@ -2770,7 +2770,6 @@
 //--------------mobile items added----------------------
 
 5153#Accessory#
-5179#Headgear#
 5211#Hat#
 5212#Hairband#
 5213#Hairband#
@@ -2982,14 +2981,13 @@
 7805#Brown Jenoss's Family Ring#
 7806#God Anvil#
 7807#God Mineral#
-7808#God Hammer#
 7809#God Furnace#
 7810#Symbol of Richness#
 7811#Anvil#
 7812#Symbol of Bravery#
-7813#Red Jenoss�s Family Ring#
-7814#Green Jenoss�s Family Ring#
-7815#Blue Jenoss�s Family Ring#
+7813#Red Jenoss占퐏 Family Ring#
+7814#Green Jenoss占퐏 Family Ring#
+7815#Blue Jenoss占퐏 Family Ring#
 7816#Symbol of Faith#
 7817#Symbol of Peace#
 7818#Jessur's Necklace#
@@ -3007,7 +3005,7 @@
 12242#Mercenary Awakening Potion#
 12243#Mercenary Berserk Potion#
 
-// ---------------- ������ ����Ʈ ������ ------------------
+// ---------------- 占쏙옙占쏙옙占쏙옙 占쏙옙占쏙옙트 占쏙옙占쏙옙占쏙옙 ------------------
 7730#Mission Certificate 1#
 7731#Mission Certificate 2#
 7732#Mission Certificate 3#
@@ -5887,7 +5885,7 @@
 17075#Empty Bottle 100 Box#
 17076#Empty Bottle 500 Box#
 
-//-----------------------------------------------ASPD Idn Independ Scroll < ����¹������ Lucky Free Scroll [December]
+//-----------------------------------------------ASPD Idn Independ Scroll < 占쏙옙占쏙옙쨔占쏙옙占쏙옙占쏙옙 Lucky Free Scroll [December]
 
 17245#Lucky Free Scroll#
 12684#Aspd Potion#
@@ -8082,3 +8080,20 @@
 6537#Race Medal#
 7528#Race Ticket#
 31842#Accessory#
+
+5179#Tiara#
+11531#Coffee#
+792#Skyfire Gem#
+7808#Special Hammer#
+
+5822#Accessory#
+20372#Accessory#
+20431#Accessory#
+20450#Accessory#
+20483#Accessory#
+20533#Garment#
+20992#Garment#
+31316#Accessory#
+31509#Accessory#
+31617#Accessory#
+23968#Seelie Court Treasure#

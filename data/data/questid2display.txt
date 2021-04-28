@@ -22297,3 +22297,27 @@ Run the course#
 You can re-enter Baphomet Dungeon during 5 minutes after the first enter#
 #
 
+17300#Everyday blacksmith's labor#SG_FEEL#QUE_IMAGE#
+Find explorers at the city gates and find out about gems#
+Find out about gems#
+
+17301#Everyday blacksmith's labor#SG_FEEL#QUE_IMAGE#
+Return to Velund's follower and tell him about the skyfire gems#
+Return to Velund's follower#
+
+17302#Everyday blacksmith's labor#SG_FEEL#QUE_IMAGE#
+Bring 20 Skyfire gems to Velund's follower#
+Bring 20 Skyfire gems#
+
+17303#Everyday blacksmith's labor#SG_FEEL#QUE_IMAGE#
+Find Eorlund in the blacksmith guild in Einbroch#
+Find Eorlund#
+
+17304#Everyday blacksmith's labor#SG_FEEL#QUE_IMAGE#
+Ask manager about ordering blades in the armory and return to Eorlund#
+Ask manager about order#
+
+17305#Everyday blacksmith's labor#SG_FEEL#QUE_IMAGE#
+Bring a special hammer to Velund's follower#
+Bring a special hammer#
+
