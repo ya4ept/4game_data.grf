@@ -17022,15 +17022,6 @@ Defense: ^7777770^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
-2647#
-An extremely rare jewel attached to a solid silver chain bracelet which symbolizes strength, growth, and energy. This jewel was crafted to mark the second year 
-Anniversary of the world of International Ragnarok.
-HP +10
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777710^000000
-Jobs: ^777777All^000000
-#
 2648#
 A ring, enchanted with
 the power of the Fate
@@ -18327,22 +18318,24 @@ Required Level: ^77777799^000000
 Jobs: ^777777Every Third Job Except Novice^000000
 #
 2796#
+^FF0000Character Bound^000000
 A stone with enormous latent magic power.
 Increases Magic attack against Naga monsters by 10%.
 Wearing this will give you a chance of receiving a Glittering Crystal while hunting Naga monsters.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
-Weight: ^77777720^000000
+Weight: ^7777770^000000
 Required Level: ^77777799^000000
 Jobs: ^777777Mage Class^000000
 #
 2797#
+^FF0000Character Bound^000000
 A stone with enormous latent magic power.
 Increases Magic attack against Bradium Golems by 10%.
 Wearing this will give you a chance of receiving a Giant Bradium Fragment while hunting Bradium Golems.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
-Weight: ^77777720^000000
+Weight: ^7777770^000000
 Required Level: ^77777799^000000
 Jobs: ^777777Mage Class^000000
 #
@@ -27861,9 +27854,10 @@ You can cover your head with this huge leaf in the rain.
 Weight: ^7777771^000000
 #
 7199#
+^FF0000Character Bound^000000
 A coupon with an unidentified purpose.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7200#
 An amazing length of flexible material which returns to its original form after being stretched.
@@ -28214,7 +28208,7 @@ Weight: ^7777771^000000
 ^ff0000Character bound^000000
 A message written in an ancient language obtained from the Sobbing Starlight.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7276#
 A message in pictures doodled by a child.
@@ -28951,6 +28945,7 @@ Weight: ^7777775^000000
 
 // -------- US 2nd anniversary event --------
 2647#
+^FF0000Character Bound^000000
 An extremely rare
 jewel attached to
 a solid silver chain
@@ -28961,7 +28956,7 @@ was crafted to mark
 iRO's second anniversary. HP +10
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
-Weight: ^77777710^000000
+Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 7332#
@@ -32875,6 +32870,7 @@ Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 5269#
+^FF0000Character Bound^000000
 A beautiful headgear
 that looks just like
 the wings of an angel
@@ -32887,7 +32883,7 @@ traded, but can be
 placed in Kafra Storage.^FFFFFF  ^000000 Class: ^777777Headgear^000000
 Defense: ^7777773^000000
 Location: ^777777Upper^000000
-Weight: ^77777730^000000
+Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 5223#
@@ -37856,23 +37852,26 @@ The Oliver Hilpert novel that received the Youngest Literary Award of Honor.
 Weight: ^7777770^000000
 #
 7795#
+^FF0000Character Bound^000000
 Mammi's photo album that contained various pictures of Mammi, who used to be the envoy of Public Relations in Morocc.
 On the cover, it says, ''Love and a true heart message from Angel Mammi, just for you!''
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7796#
+^FF0000Character Bound^000000
 Oliver Hilpert's autograph is on this note.
 You can recognize his poor handwriting.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7797#
-''Ancient Weapon - unknown motive.
+^FF0000Character Bound^000000
+Ancient Weapon - unknown motive.
 Seclusion - the letter from a lady disciple.
 Stepmother - karma from a previous life?''
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 // ------------------ 占싹억옙 占쌓쏙옙트 (占쏙옙占쏙옙)---------------
@@ -38025,7 +38024,7 @@ Weight: ^7777771^000000
 ^ff0000Character bound^000000
 A marvelous bottle that can be used to carry human words inside.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7762#
 Baba Yaga always carries this. All of the markings on it have been rubbed off.
@@ -45573,9 +45572,10 @@ A rare rough Rune Stone that gives a high chance of successfully creating refine
 Weight: ^77777710^000000
 #
 12333#
+^FF0000Character Bound^000000
 A crystal that is shining with mysterious color. When used, you recover 15% of MaxSP.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7931#
 Basic tools for poison making are all stocked. It's a gift set for those who dream of making poison.
@@ -45774,18 +45774,21 @@ Weight: ^7777775^000000
 #
 
 12388#
+^FF0000Character Bound^000000
 A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 12389#
+^FF0000Character Bound^000000
 A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 12390#
+^FF0000Character Bound^000000
 A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 15002#
@@ -49723,20 +49726,24 @@ A shard from a broken piece of Bradium.
 Weight: ^7777771^000000
 #
 6340#
-An old piece of sheet music filled with notes inscribed in green ink.
-Weight: ^7777771^000000
+^FF0000Character Bound^000000
+An old piece of sheet music filled with notes inscribed in blue ink.
+Weight: ^7777770^000000
 #
 6341#
-An old piece of sheet music filled with notes inscribed in red ink.
-Weight: ^7777771^000000
+^FF0000Character Bound^000000
+An old piece of sheet music filled with notes inscribed in blue ink.
+Weight: ^7777770^000000
 #
 6342#
-An old piece of sheet music filled with notes inscribed in purple ink.
-Weight: ^7777771^000000
+^FF0000Character Bound^000000
+An old piece of sheet music filled with notes inscribed in blue ink.
+Weight: ^7777770^000000
 #
 6343#
+^FF0000Character Bound^000000
 An old piece of sheet music filled with notes inscribed in blue ink.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 // ---------- EP13.3 占신깍옙 占쏙옙占쏙옙占쏙옙 ------------
@@ -49852,7 +49859,7 @@ Contains one of the following headgears:
 ^0000FFBenevolent Guardian^000000
 ^FFFFFF ^000000
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 13990#
 Contains 10 Job Manuals.
@@ -50319,7 +50326,7 @@ Job: ^777777Swordsman, Mage, Archer, Merchant, and Thief Classes; Soul Linker an
 6401#
 ^FF0000Character bound^000000
 Vegetable oil from oil palm fruit. It's very heavy!!
-Weight: ^77777750^000000
+Weight: ^7777770^000000
 #
 6402#
 ^FF0000Character bound^000000
@@ -51023,18 +51030,6 @@ Weight: ^77777720^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
-12294#
-A costume box that contains 1 Blue Christmas Cheer
-Description:
-A double-pommed Blue Christmas Cap
-During the Holiday Season of December 20 through January 6, 2012.
-On Monster Kill has chance to drop a Xmas Gift!
-Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
 
 
 
@@ -51497,21 +51492,21 @@ Jobs: ^777777All^000000
 #
 
 15033#
+^FF0000Character Bound^000000
 An armor used by the Tutorial Instructor from Eden Group to show you what armor enchanted items looks like.
-^ff0000Cannot be worn or sold^000000
 Class: ^777777Armor^000000
 Defense: ^77777737^000000
-Weight: ^77777760^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777None^000000
 #
 
 15034#
+^FF0000Character Bound^000000
 An armor used by the Tutorial Instructor from Eden Group to show you what armor enchanted items looks like.
-^ff0000Cannot be worn or sold^000000
 Class: ^777777Armor^000000
 Defense: ^77777737^000000
-Weight: ^77777760^000000
+Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777None^000000
 #
@@ -56751,11 +56746,11 @@ Required Level: ^77777799^000000
 Applicable Job: ^777777Ninja Class^000000
 #
 13312#
-^ff0000Cannot trade this item with other players.^000000
+^FF0000Character Bound^000000
 Prototype Huuma Shuriken being prepared by the Ninja Association.
 Still at the early stages of development and will have to wait a while for actual commercial sales to start.
 Class: ^777777Huuma Shuriken^000000 Attack: ^7777770^000000
-Weight: ^777777300^000000
+Weight: ^7777770^000000
 Weapon lvl: ^7777774^000000
 Required Level: ^77777799^000000
 Applicable Job: ^777777Ninja Class^000000
@@ -57924,7 +57919,7 @@ Weight: ^7777771^000000
 In one of the East countires, they gave a round-shaped copper to the government works in old days. 
 For 9mins, ^000088increase the movement speed^000000.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12845#
 ^ff0000Cannot trade to other user^000000
@@ -60637,10 +60632,10 @@ Instantly consumes 3,000 of your HP and in return, immunizes you against Blind f
 Weight: ^7777771^000000
 #
 12888#
-^ff0000Cannot be traded.^000000
+^FF0000Character Bound^000000
 This box randomly generates a variety of useful guild supplies.
 ^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000
-Weight: ^77777710^000000
+Weight: ^7777770^000000
 #
 15067#
 ^000088Rental Item^000000
@@ -76198,7 +76193,7 @@ Cap worn to keep the sun from your eyes.
 Class: ^777777Head Gear^000000
 Defense: ^7777775^000000
 Equipped On: ^777777Upper^000000
- Weight: ^77777720^000000
+Weight: ^7777770^000000
 Jobs: ^777777All^000000
 #
 7530#
@@ -76722,22 +76717,6 @@ Weight: ^7777771^000000
 ^CC0000Playspan is offering a Pack of 5 Lucky Boxes.  That 5x Pack may be traded, but the Individual boxes may not be traded.^000000
 ^ffffff_^000000
 Weight: ^7777771^000000
-#
-5269#
-A beautiful headgear
-that looks just like
-the wings of an angel
-in flight. Wearing it
-makes your spirits
-feel lighter. Agi +1,
-Int +1. Adds +3% to
-ASPD and Variable Casting Speed.^FFFFFF   ^000000 Cannot be dropped or
-traded, but can be
-placed in Kafra Storage.^FFFFFF  ^000000 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
-Weight: ^77777730^000000
-Jobs: ^777777All^000000
 #
 2682#
 A mysterious ring that is blessed by the Spirit of Water.
@@ -78216,12 +78195,6 @@ juices. Luk +2
 ^FFFFFF ^000000
 Weight: ^7777771^000000
 #
-12262#
-In one of the East countires, they gave a round-shaped copper to the government works in old days. 
-For 9mins, ^000088increase the movement speed^000000.
-^ffffff_^000000
-Weight: ^7777771^000000
-#
 13826#
 This item cannot be traded, but can be saved and opened at your leisure!
 ^ff0000This box is account bound.^000000
@@ -78701,7 +78674,7 @@ Adds 10% resistance to the status effects of:
 ^880000Bleeding^000000
 ^880000Confusion^000000
 
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 5392#
 placeholder
@@ -82295,21 +82268,7 @@ And also get one of the below prizes too!
 Wearable by all, but lvl 70 required, no special attributes other than high Defense at this time.
 
 Groove Pack is NOT tradable.
-Weight:^7777771^000000
-#
-12296#
-^0000CCSplendid Spring Hat Box^000000, opening this up and get your prize!  This item cannot be traded, but can be saved and opened at your leisure!
-^ff0000This box is account bound, the items inside can be traded, stored and vended.^000000
-Description:
-Contains one of the following headgears:
-^0000FFSpirit Whispers^000000
-^0000FFSkull Cap^000000
-^0000FFDemon Mask^000000
-^0000FFLittle Feather Hat^000000
-^0000FFBenevolent Guardian^000000
-^FFFFFF ^000000
-^ffffff_^000000
-Weight: ^7777771^000000
+Weight:^7777770^000000
 #
 12297#
 Contains the following:
@@ -89671,13 +89630,6 @@ Jobs: ^777777All^000000
 5179#
 ^FF0000Account Bound^000000
 A beautiful tiara forged from light and fire.
-EXP +10%
-STR +5
-INT +5
-Casting time -5%
-Increases physical damage on Demi-Human race targets by 10%.
-Reduce damage from Demi-Human by 10%
-^ff0000[Effects are active only during the event (until May 6, 2021).]^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000

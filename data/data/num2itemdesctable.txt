@@ -7253,9 +7253,10 @@ You can cover your head with this huge leaf in the rain.
 Weight: ^7777771^000000
 #
 7199#
+^FF0000Character Bound^000000
 A coupon with an unidentified purpose.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7200#
 An amazing length of flexible material which returns to its original form after being stretched.
@@ -7873,7 +7874,7 @@ Weight: ^7777771^000000
 ^ff0000Character bound^000000
 A message written in an ancient language obtained from the Sobbing Starlight.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7276#
 A message in pictures doodled by a child.
@@ -21473,23 +21474,26 @@ The Oliver Hilpert novel that received the Youngest Literary Award of Honor.
 Weight: ^7777770^000000
 #
 7795#
-Mami's photo album that contained various pictures of Mami, who used to be the envoy of Public Relations in Morroc.
-On the cover, it says, "Love and a true heart message from Angel Mami, just for you!" 
+^FF0000Character Bound^000000
+Mammi's photo album that contained various pictures of Mammi, who used to be the envoy of Public Relations in Morocc.
+On the cover, it says, ''Love and a true heart message from Angel Mammi, just for you!''
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7796#
+^FF0000Character Bound^000000
 Oliver Hilpert's autograph is on this note.
 You can recognize his poor handwriting.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7797#
-"Ancient Weapon - unknown motive.
+^FF0000Character Bound^000000
+Ancient Weapon - unknown motive.
 Seclusion - the letter from a lady disciple.
-Stepmother - karma from a previous life?"
+Stepmother - karma from a previous life?''
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 // ------------------ 占싹억옙 占쌓쏙옙트 (占쏙옙占쏙옙)----------------
@@ -21646,7 +21650,7 @@ Weight: ^7777771^000000
 ^ff0000Character bound^000000
 A marvelous bottle that can be used to carry human words inside.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7762#
 Baba Yaga always carries this. All of the markings on it have been rubbed off.
@@ -21850,7 +21854,7 @@ Adds 10% resistance to the status effects of:
 ^000000Bleeding^000000
 ^000000Confusion^000000
 Cannot be traded or dropped.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 11503#
 ^ff0000Account bound^000000
@@ -27964,9 +27968,10 @@ A rune stone that is very rare.
 Weight: ^77777710^000000
 #
 12333#
+^FF0000Character Bound^000000
 A crystal that is shining with mysterious color. When used, you recover 15% of MaxSP.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 7931#
 Basic tools for poison making are all stocked. It's a gift set for those who dream of making poison.
@@ -28157,18 +28162,21 @@ Weight: ^7777775^000000
 #
 
 12388#
+^FF0000Character Bound^000000
 A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 12389#
+^FF0000Character Bound^000000
 A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 12390#
+^FF0000Character Bound^000000
 A rune stone for probationary Rune Knights.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 15002#
@@ -29602,8 +29610,8 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 7484#
 A token given to you from the Soul Mage.
 He will exchange this for a Gloomy Pumpkin Hat once he has completed crafting it.
-^ff0000This item is account bound^000000
-Weight: ^7777771^000000
+^ff0000This item is character bound^000000
+Weight: ^7777770^000000
 #
 6302#
 A special bond received from a GM.
@@ -30474,20 +30482,24 @@ Weight: ^7777771^000000
 #
 
 6340#
-An old piece of sheet music filled with notes inscribed in green ink.
-Weight: ^7777771^000000
+^FF0000Character Bound^000000
+An old piece of sheet music filled with notes inscribed in blue ink.
+Weight: ^7777770^000000
 #
 6341#
-An old piece of sheet music filled with notes inscribed in red ink.
-Weight: ^7777771^000000
+^FF0000Character Bound^000000
+An old piece of sheet music filled with notes inscribed in blue ink.
+Weight: ^7777770^000000
 #
 6342#
-An old piece of sheet music filled with notes inscribed in purple ink.
-Weight: ^7777771^000000
+^FF0000Character Bound^000000
+An old piece of sheet music filled with notes inscribed in blue ink.
+Weight: ^7777770^000000
 #
 6343#
+^FF0000Character Bound^000000
 An old piece of sheet music filled with notes inscribed in blue ink.
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 // ---------- EP13.3 占신깍옙 占쏙옙占쏙옙占쏙옙 ------------
@@ -30582,7 +30594,7 @@ Contains one of the following headgears:
 ^0000FFBenevolent Guardian^000000
 ^FFFFFF ^000000
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 13990#
 Contains 10 Job Manuals.
@@ -30806,7 +30818,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 6401#
 ^FF0000Character bound^000000
 Vegetable oil from oil palm fruit. It's very heavy!!
-Weight: ^77777750^000000
+Weight: ^7777770^000000
 #
 6402#
 ^FF0000Character bound^000000
@@ -37844,7 +37856,7 @@ Weight: ^7777771^000000
 In one of the East countires, they gave a round-shaped copper to the government works in old days. 
 For 9mins, ^000088increase the movement speed^000000.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 12845#
 ^ff0000Cannot trade to other user^000000
@@ -39663,10 +39675,10 @@ Instantly consumes 3,000 of your HP and in return, immunizes you against Blind f
 Weight: ^7777771^000000
 #
 12888#
-^ff0000Cannot be traded with others.^000000
+^FF0000Character Bound^000000
 This box randomly generates a variety of useful guild supplies.
 "^ff0000Warning: The contents can disappear if you exceed the weight limit or item quantity limit at the time this box is opened.^000000"
-Weight: ^77777710^000000
+Weight: ^7777770^000000
 #
 15067#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
