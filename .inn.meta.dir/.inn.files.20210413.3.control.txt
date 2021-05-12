@@ -1,3 +1,0 @@
-1|data.grf|df9204f25d9542bd941fe868ec3aa7cac20e08cb||pack-02|0|1981067080|2245746931|
-1|system\CheckAttendance.lub|9b0128128a3e19daf5970b49badcc7ccd5a85d0d||pack-01|734624|811|2065|
-1|system\iteminfo.lub|70defdf341aeb1ad1e6e5573f860f09a46f3b262||pack-01|0|734624|4375121|
