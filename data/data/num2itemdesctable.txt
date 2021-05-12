@@ -41277,9 +41277,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 19654#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-19712#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 19608#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -43451,18 +43448,6 @@ Location: ^777777Upper ^000000Weight: ^777777120^000000
 Required LV: ^77777738^000000
 Jobs: ^777777All^000000
 #
-18827#
-A holy circlet symbolized Valkyrie's apprentice which punish all the evil people.
-STR + 1.
-Additional physical damage 10% against Darkness, Demon Monsters.
-Equipped with Ears of Angel's Wing, you can transform into Randgris by a certain chance.
-Increase Randgris transformation chance per 1 refine grade.
-When transforming into Randgris, lose 30 HP per every sec, HIT -10, nomal physical attacks excluding skills can be splashed up to 9 slots.
-Class: ^777777Headgear^000000 Defense: ^77777710^000000
-Location: ^777777Upper ^000000Weight: ^77777730^000000
-Required LV: ^77777750^000000
-Jobs: ^777777All^000000
-#
 18832#
 A celebration hat for the sworn of 666th Gigue family grand master.
 Certain chance of activating 2 LV Adrenalin Rush skill when performing physical attacks.
@@ -44196,13 +44181,6 @@ Jobs: ^777777All^000000
 #
 19750#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000
-#
-19752#
-A wing-shaped accessory with purple roses.
-Class: ^777777Costume^000000
-Location: ^777777Middle ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
 #
 19753#
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -55699,6 +55677,82 @@ Meteor Storm Scroll x25
 Storm Gust Scroll x25
 Lord of Vermilion Scroll x25
 Wind Walker Scroll x25
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+18827#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19712#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19752#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20289#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20457#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20571#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20589#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31313#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31737#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20493#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9671#
+This crystal egg contains the feather of the Paradise Guardian, a mighty angel protecting the gates of Heaven.
+When you take a feather in your hands, it will turn into a magical gift.
+^ffffff_^000000
+Open the box and receive one of the following items:
+Valkyrie Wings
+Lucifer's Wings
+Fan Wing
+Fallen Angel Feathering
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Featherfall Aura
+Sleepy Angel
+White Earwings
+Black Earwings
+Winged Headphones
+Valkyrie Circlet
+HE Battle Manual x2
+HE Bubble Gum x2
+Bubblegum Battle Manual x2
+Gym Pass
+Enriched Elunium x2
+Enriched Oridecon x2
+Blessing Of Tyr x10
+Bloody Branch x2
+Guarana Candy x7
+Gold Pill Extra x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Token of Ziegfried x6
+ASPD Potion x11
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Universal Golden Catalog x20
+Sparkling Candy x11
+Giant Fly Wing x6
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
 ^ffffff_^000000
 Weight: ^7777771^000000
 #

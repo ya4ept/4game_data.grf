@@ -7413,7 +7413,6 @@
 13534#Light White Potion Box#
 11703#Mysterious Blood#
 
-23968#Stuffed Pumpkin#
 
 19511#Hat#
 19512#Hat#
@@ -8097,3 +8096,15 @@
 31509#Accessory#
 31617#Accessory#
 23968#Seelie Court Treasure#
+
+18827#Hat#
+19712#Accessory#
+19752#Accessory#
+20289#Accessory#
+20457#Accessory#
+20571#Garment#
+20589#Garment#
+31313#Accessory#
+31737#Garment#
+20493#Accessory#
+9671#Paradise Guardian Treasure#

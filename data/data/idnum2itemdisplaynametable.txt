@@ -9199,3 +9199,15 @@
 31509#Fawn Ears#
 31617#Amorous Lady Tanee#
 23968#Seelie Court Treasure#
+
+18827#Valkyrie Circlet#
+19712#Sleepy Angel#
+19752#White Earwings#
+20289#Black Earwings#
+20457#Featherfall Aura#
+20571#Valkyrie Wings#
+20589#Fan Wing#
+31313#Fallen Angel Feathering#
+31737#Lucifer's Wings#
+20493#Winged Headphones#
+9671#Paradise Guardian Treasure#
