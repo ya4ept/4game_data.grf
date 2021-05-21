@@ -3515,5 +3515,8 @@ JobNameTable = {
 	[jobtbl.JT_E_ROCK] = "rock",
 	[jobtbl.JT_E_PURPLESTONE] = "purplestone",
 	[jobtbl.JT_E_POTON_CANON] = "POTON_CANON",
-	[jobtbl.JT_E_BREEZE] = "BREEZE"
+	[jobtbl.JT_E_BREEZE] = "BREEZE",
+	[jobtbl.JT_DALCOM] = "dalcom",
+	[jobtbl.JT_BIG_DALCOM] = "dalcom",
+	[jobtbl.JT_SAECOM] = "SAECOM"
 }

@@ -22321,3 +22321,46 @@ Ask manager about order#
 Bring a special hammer to Velund's follower#
 Bring a special hammer#
 
+8577#Melon festival preparation#SG_FEEL#QUE_IMAGE#
+Collect and bring 10 Sweet Melons to Dilpor#
+Collect 10 Sweet Melons#
+
+8578#Melon festival preparation#SG_FEEL#QUE_IMAGE#
+Take a cooler with melon parfait to Dilpor's parents in Hugel#
+Visit parents in Hugel#
+
+8579#Melon festival preparation#SG_FEEL#QUE_IMAGE#
+Return to Dilpor and give him the note from his father#
+Return to Dilpor#
+
+8580#Failed experiment#SG_FEEL#QUE_IMAGE#
+Collect and bring 10 Sour Melons to Soor#
+Collect 10 Sour Melons#
+
+8581#Sour research#SG_FEEL#QUE_IMAGE#
+Come to Soor tomorrow#
+Come to Soor tomorrow#
+
+8582#Sour research#SG_FEEL#QUE_IMAGE#
+Come to Soor tomorrow#
+Come to Soor tomorrow#
+
+8583#Sour research#SG_FEEL#QUE_IMAGE#
+Come to Soor tomorrow#
+Come to Soor tomorrow#
+
+8584#Melon fashion#SG_FEEL#QUE_IMAGE#
+Talk to Nannabi about the hat from vegetable skin#
+Talk to Nannabi#
+
+8585#Melon fashion#SG_FEEL#QUE_IMAGE#
+Collect and bring 30 Melon Peels to Nannabi#
+Collect 30 Melon Peels#
+
+8311#The biggest melon contest#SG_FEEL#QUE_IMAGE#
+Take part in the melon contest every day and win prizes#
+#
+
+8312#The biggest melon contest#SG_FEEL#QUE_IMAGE#
+Take part in the melon contest every day and win prizes#
+#

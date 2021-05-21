@@ -1,0 +1,2 @@
+0|System\monster_size_effect.lub|08e04f8c0f92df97384b629ebfe508bd8dce9482|29fc1eedeab15d6e2eabfd06ac5cedcc72273371|pack-1|46693592|438||
+0|data.grf|1a87e71d5e248b77df3db7fc0d587428c38509eb|6f7c721c05a9ea022fcb75b8ddc6b2adde01db64|pack-1|0|46693592||

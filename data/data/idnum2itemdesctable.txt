@@ -3728,9 +3728,11 @@ Jobs: ^777777Transcendent Swordsman^000000
 A magical sword that releases a dismal black aura.
 HP +100 when killing a monster with a melee attack
 With a low chance, Critical +100, Atk +50 for 5 sec. after a physical attack
+^ffffff_^000000
 Class: ^777777Two-handed Sword^000000
 Property: ^777777Ghost^000000
-Attack: ^777777200^000000    Weight: ^777777120^000000
+Attack: ^777777200^000000    
+Weight: ^777777120^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777750^000000
 Jobs: ^777777Transcendent Swordsman^000000
@@ -7766,9 +7768,12 @@ Adds a 10% chance of casting ^0000FFLevel 3 Turn Undead^000000 on the target whe
 #
 1541#
 A large silver mace made for exorcism.
-Physical damage to Demon and Shadow targets +10%
-Low chance to cast ^0000FFSignum Crusis^000000 on the target after a physical attack (the level of the skill is +1 per upgrade level of the item)
-With a 10% chance, Atk +50 for 20 sec. after a physical attack
+Physical damage to ^FF0000Demon^000000 and ^777777Shadow^000000 targets +10%
+Low chance to cast ^0000FFSignum Crusis^000000 on the target after a physical attack. The level of Signum Crusis will increased followed by the upgrade level.
+With a low chance, Atk +50 for 20 sec. after a physical attack
+^6A5ACD[If refine level is +11 or higher]^000000
+There are no additional additions to the characteristics
+^ffffff_^000000
 Class: ^777777Mace^000000
 Property: ^777777Holy^000000
 Attack: ^777777120^000000    Weight: ^77777790^000000
@@ -8935,9 +8940,9 @@ Adds a 10% chance of restoring 100 HP and 50 SP to the user every 2 seconds for 
 A holy stick which is made of Rune of Odin especially for exorcism.
 Matk +140
 Variable cast time -25% for ^0000FFHoly Light^000000, ^0000FFMagnus Exorcismus^000000, and ^0000FFTurn Undead^000000
-[Set effect with Exorcism Bible and Holy Stick [1]]
-Low chance to cast ^0000FFTurn Undead 1^000000 on the target when receiving a physical attack
-Damage of ^0000FFMagnus Exorcismus^000000 +20%
+^6A5ACD[When equipped with Exorcism Bible]^000000
+^FF0000Magnus Exorcismus^000000 attack strength increases by 20%.
+Adds a low chance of auto casting ^FF0000LvL 1 Turn Undead^000000 skill when receiving damage.
 Class: ^777777One-handed Staff^000000
 Property: ^777777Holy^000000
 Attack: ^77777750^000000    Weight: ^77777750^000000
@@ -12705,10 +12710,12 @@ Jobs: ^777777Crusader^000000
 #
 2129#
 A thick book that contains basic skills for the clergy. 
-HP, SP Recovery 3%. Int + 1.
-[When equipped with Holy Stick]
+HP, SP Recovery +3%.
+INT +1
+^6A5ACD[When equipped with Holy Stick]^000000
 ^FF0000Magnus Exorcismus^000000 attack strength increases by 20%.
-Adds a low chance of auto casting ^FF0000Lv1 Turn Undead^000000 skill when receiving damage.
+Adds a low chance of auto casting ^FF0000LvL 1 Turn Undead^000000 skill when receiving damage.
+^ffffff_^000000
 Class: ^777777Shield^000000
 Defense: ^77777780^000000
 Weight: ^77777760^000000
@@ -12717,7 +12724,7 @@ Jobs: ^777777Priest, Monk^000000
 #
 2130#
 A big and thick cross-shaped shield. 
-Str + 1.
+STR +1
 Increase SP Consumption of skills by 10%.
 Increases damage when using ^FF0000Rapid Smiting^000000 and ^FF0000Shield Boomerang^000000 by 30%.
 Item Clsss: ^777777Shield^000000
@@ -14742,11 +14749,14 @@ Jobs: ^777777Acolyte Class^000000
 #
 2374#
 A robe which is decorated with unknown letters. The wearer feels like they're learning a new language.
-MaxSP +150, MDEF +5
+MaxSP +150
+MDEF +5
 Reduces casting delay by 10%
-Increases effectiveness of ^FF0000Heal^000000 skill by 6%.
-When equipped with Diabolus Ring, 
-MATK +3% and ATK +3%.
+Effectiveness of ^FF0000Heal^000000 skill +6%.
+^6A5ACD[When equipped with Diabolus Robe]^000000
+MATK +3%
+Physical weapon damage +3%
+^ffffff_^000000
 Class: ^777777Armor^000000
 Defense: ^77777757^000000
 Weight: ^77777730^000000
@@ -14755,14 +14765,18 @@ Jobs: ^777777Transcendent Archer, Mage, Acolyte^000000
 #
 2375#
 An Armor which is made of an unknown metal in the human-world. Mysterious power is hidden in the armor.
-Str +2, Dex +1, 
-MaxHP +150. 
+STR +2
+DEX +1
+MaxHP +150
 Tolerance to ^FF0000Stun^000000 and ^FF0000Stone^000000 +5%.
-When equipped with Diabolus Ring, 
-MATK +3% and ATK +3%.
+^6A5ACD[When equipped with Diabolus Ring]^000000
+MATK +3%
+Physical weapon damage +3%
+^ffffff_^000000
 Class: ^777777Armor^000000
 Defense: ^77777779^000000
 Weight: ^77777760^000000
+Required Level: ^77777760^000000
 Jobs: ^777777Transcendent Swordsman, Merchant, Thief^000000
 #
 2376#
@@ -15410,11 +15424,13 @@ except Novice^000000
 2433#
 Mysterious boots that automatically adjust their size to the wearer's size. They seem alive.
 Increases MaxHP by 10 times your Base Level.
-When worn with Diabolus Manteau, MaxHP +6%.
+^6A5ACD[When equipped with Diabolus Boots]^000000
+MaxHP +6%.
+^ffffff_^000000
 Class: ^777777Footwear^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
-Jobs: ^777777Transcendent 2nd Class or higher^000000
+Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 2434#
 A pair of boots
@@ -16238,8 +16254,10 @@ placeholder
 #
 2536#
 Lucifer's skin, cursed by the devil's language. It can be worn as a robe.
-MDEF +2, MaxHP +200,
+MDEF +2
+MaxHP +200
 FLEE +10
+^ffffff_^000000
 Class: ^777777Garment^000000
 Defense: ^7777777^000000
 Weight: ^77777725^000000
@@ -16248,12 +16266,12 @@ Jobs: ^777777All Jobs except Novice^000000
 #
 2537#
 A manteau with an endless dark shape waving near it. Only those who overcome fear can wear this manteau.
-Decreases Neutral property damage by 5%. 
-MaxHP + 100
-Increases Physical Damage to Satan Morocc by 10%.
-^FFFFFF000000^000000
-[When equipped with Diabolus Boots]
+Neutral property damage -5%. 
+MaxHP +100
+Physical Damage to Satan Morocc +10%.
+^6A5ACD[When equipped with Diabolus Boots]^000000
 MaxHP +6%.
+^ffffff_^000000
 Class: ^777777Garment^000000
 Defense: ^77777715^000000
 Weight: ^77777725^000000
@@ -17843,8 +17861,10 @@ Jobs: ^777777Sniper only^000000
 #
 2728#
 A dried bone hand. It releases a feeling of mystery.
-HIT + 10, Increases HP recovery by 20%.
-When dealing physical damage, has a 3% chance to Autocast ^FF0000Lv.1 Fatal Wound^000000.
+HIT + 10
+HP recovery +20%.
+When dealing physical damage, has a chance to Autocast ^FF0000LvL 1 Fatal Wound^000000.
+^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -17853,17 +17873,27 @@ Jobs: ^777777All Jobs except Novice^000000
 #
 2729#
 A ring with mysterious letters carved into it. It is so beautiful, it fascinates all people.
-MaxHP+100, MaxSP+100. 
+MaxHP +100 
+MaxSP +100 
 Increases effectiveness of ^FF0000Heal^000000 skill by 5%.
 Increases Physical Damage to Satan Morocc by 10%.
+Increase resistance to the ^4682B4Freeze^000000 status by 10%
+^6A5ACD[When equipped with Diabolus Armor]^000000
+MATK +3%
+Physical weapon damage +3%
+^6A5ACD[When equipped with Diabolus Robe]^000000
+MATK +3%
+Physical weapon damage +3%
+^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
-Jobs: ^777777Transcendent 2nd Class or higher^000000
+Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 2730#
 A royal gift to a member of the Continental Guard.
-MaxHP + 50, when equipped, attack speed increases(delay after attacking reduces by 3%)
+MaxHP + 50, when equipped, attack speed increases (delay after attacking reduces by 3%)
+^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -17874,6 +17904,7 @@ Jobs: ^777777All Jobs except Novice^000000
 One of the royal gifts which are given to the members of the Morocc Dispatch.
 MaxSP + 50, 
 Reduces Variable Casting Time by 1%.
+^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -17883,6 +17914,7 @@ Jobs: ^777777All Jobs except Novice^000000
 2732#
 One of the royal gifts which are given to the members of the Morocc Dispatch.
 CRI + 5.
+^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777775^000000
@@ -19369,6 +19401,9 @@ Weight: ^7777771^000000
 4009#
 Agi +1
 Flee +2
+^6A5ACD[If used with Dragon Fly Card]^000000
+Flee +18
+^ffffff_^000000
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
@@ -19382,6 +19417,7 @@ Weight: ^7777771^000000
 4011#
 Vit +1
 Max HP +100
+^ffffff_^000000
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -20706,8 +20742,9 @@ Weight: ^7777771^000000
 #
 4179#
 Agi +1
-[If used with Chon Chon Card]
+^6A5ACD[If used with Chon Chon Card]^000000
 Flee +18
+^ffffff_^000000
 Class: ^777777Card^000000
 Slot: ^777777Garment^000000
 Weight: ^7777771^000000
@@ -37707,9 +37744,8 @@ Jobs: ^777777Transcendent Swordsman, Merchant, Thief Classes^000000
 //占쏙옙占신?占쏙옙티占쏙옙탈 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙
 
 7826#
+^FF0000Character Bound^000000
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
-^ffffff_^000000
-Continental Guard. Balrog.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
@@ -37719,12 +37755,18 @@ Weight: ^7777770^000000
 
 
 5808#
-A strong diadem which has been covered by the face of Satan Morocc. It can be possessed only by the ones who have overcome the fear of Satan Morocc.
-Adds 20% tolerance to ^FF0000Stone^000000, ^FF0000Freeze^000000, and ^FF0000Stun^000000.
-Each upgrade level increases tolerance by 2%
-(but, tolernace increase applies up to refeine level +10)
-Class: ^777777Headgear^000000    Defense: ^7777775^000000
-Location: ^777777Upper, Mid, Lower^000000    Weight: ^77777725^000000
+A helmet worn by exceptionally strong people of Morroc.
+Only one who can surmount the fear of facing Satan Morroc can acquire this helm.
+Tolerance to ^4682B4Stone^000000, ^4682B4Freeze^000000, and ^4682B4Stun^000000 +20%
+^6A5ACD[For each refine level]^000000
+Tolerance to ^4682B4Stone^000000, ^4682B4Freeze^000000, and ^4682B4Stun^000000 +2%
+^6A5ACD[If refine level is +10 or higher]^000000
+There are no additional additions to the characteristics
+^ffffff_^000000
+Class: ^777777Headgear^000000
+Defense: ^7777775^000000
+Location: ^777777Upper, Mid, Lower^000000
+Weight: ^77777725^000000
 Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 
@@ -37842,6 +37884,7 @@ Weight: ^7777770^000000
 //-- Ep12 Add-------------------------------------------
 
 7820#
+^FF0000Character Bound^000000
 It seems like a piece of Morocc skin. There is a burned mark on the edge of it.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -45075,25 +45118,43 @@ Weight: ^7777770^000000
 
 6223#
 One of the hardest metals on the Rune Midgard continent. It has a extraordinary degree of strength but it's too solid to be easily refined. 
+Used to refining equipment +11 and higher at the blacksmith Bestry
+prt_in 90 72
+morocc_in 64 41
+payon_in01 18 132
+In case of failure the item does not disappear, and the level of its refinement is reduced by 3.
+^ffffff_^000000
 Weight: ^77777715^000000
 #
 
 6224#
-One of the hardest metals found in the Ash Vacuum.
-It was difficult to refine because of it's high density, but recent experiments have made it possible to use it in weapon strengthening.
+The strongest mineral found in the Ash Vacuum.
+It seems very difficult to work with, but with research its come to be the best ore for forging weapons.
+Used to refining equipment +11 and higher at the blacksmith Bestry
+prt_in 90 72
+morocc_in 64 41
+payon_in01 18 132
+In case of failure the item does not disappear, and the level of its refinement is reduced by 3.
+^ffffff_^000000
 Weight: ^77777715^000000
 #
 
 6225#
-A high density Carnium used in upgrading armor. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade armor at +10 and higher.
-This Carnium's density guarantees that your armor will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Carnium.
-Weight: ^7777770^000000
+^ff0000Account bound.^000000
+A high density Carnium used in upgrading armor.
+Used to refining equipment +11 and higher at the Blacksmith Basta (prontera 147 67)
+In case of failure the item does not disappear, and the level of its refinement is reduced by 1.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 
 6226#
-A high density Bradium used in upgrading weapons. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade weapons at +10 and higher.
-This Bradium's density guarantees that your weapon will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Bradium.
-Weight: ^7777770^000000
+^ff0000Account bound.^000000
+A high density Bradium used in upgrading weapons.
+Used to refining equipment +11 and higher at the Blacksmith Basta (prontera 147 67)
+In case of failure the item does not disappear, and the level of its refinement is reduced by 1.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 
 16258#
@@ -48575,26 +48636,20 @@ Weight: ^7777771^000000
 Weight: ^7777771^000000
 #
 6240#
-High Density Oridecon
-that has been buried
-deep underground. 
-Used as a material to
-strengthen weapons currently from refine levels 7 through 9.
-This item's density ensures that refine attempts will not break the weapon and if the attempt fails it will only downgrade by 1.
-Only a Blacksmith named Mighty Hammer in Eden Group or Payon can use this ore to refine.
+^ff0000Account bound.^000000
+High Density Oridecon that has been buried deep underground.
+Used to refining equipment +7, +8, +9 at the Blacksmith Hamma (prontera 147 67)
+In case of failure the item does not disappear, and the level of its refinement is reduced by 1.
 ^ffffff_^000000
-Weight: ^7777770^000000
+Weight: ^7777771^000000
 #
 6241#
-High Density Elunium
-that has been buried
-deep underground. 
-Used as a material
-to strengthen armor currently from refine levels 7 through 9.
-This item's density ensures that refine attempts will not break the armor and if the attempt fails it will only downgrade by 1.
-Only a Blacksmith named Mighty Hammer in Eden Group or Payon can use this ore to refine.
+^ff0000Account bound.^000000
+High Density Elunium that has been buried deep underground.
+Used to refining equipment +7, +8, +9 at the Blacksmith Hamma (prontera 147 67)
+In case of failure the item does not disappear, and the level of its refinement is reduced by 1.
 ^ffffff_^000000
-Weight: ^7777770^000000
+Weight: ^7777771^000000
 #
 
 //---- 2010 X-mas Event -----
@@ -48915,8 +48970,10 @@ It looks very menacing and ominous.
 FLEE + 10
 VIT + 5
 Damage from Demihuman monsters -5%
-[For each refine level]
+^6A5ACD[For each refine level]^000000
 Damage from Demihuman monsters -1%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle^000000
 Defense: ^7777775^000000    Weight: ^77777760^000000
@@ -52312,12 +52369,14 @@ The Chibi Pope wishes to escape her duties in Rachel.
 So she's taking a sightseeing vacation with the assistance of helpful adventurers!
 MDEF +7
 SP Recovery rate +2%
-[For every 2 refine levels]
+^6A5ACD[For every 2 refine levels]^000000
 INT/VIT +2
 Increase effectiveness of healing skills and healing items by 1%
-[If refine level is +9 or higher]
+^6A5ACD[If refine level is +9 or higher]^000000
 MATK +7%
 Additional increase effectiveness of healing skills and healing items by 7%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^77777730^000000
@@ -57416,11 +57475,13 @@ Job: ^777777All^000000
 #
 18843#
 Just two little Devilings that started a party on your head. Nothing special.
-[For each 2 refine level]
+^6A5ACD[For each 2 refine level]^000000
 Max SP +1%
 INT/DEX +2
-[If refined to +9 or higher]
+^6A5ACD[If refined to +9 or higher]^000000
 Increase magic damage against Demi-Humans by 5%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 ^ff0000Animated^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -58655,6 +58716,8 @@ Damage from Undead monsters -10%
 Weapon damage to Demihuman monsters +1% for each refine level
 ^6A5ACD[If refined to +7 and higher]^000000
 Weapon damage to Undead monsters +10%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle, Lower^000000
 Defense: ^7777775^000000   Weight: ^77777730^000000
@@ -58667,6 +58730,8 @@ Damage from Demon monsters -10%
 Resistance to Demihuman monsters +1% for each refine level
 ^6A5ACD[If refined to +7 and higher]^000000
 Weapon damage to Demon monsters +10%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Class: ^777777Headgear^000000
 Location: ^777777Upper, Middle, Lower^000000
 Defense: ^7777775^000000   Weight: ^77777730^000000
@@ -59603,16 +59668,18 @@ STR +2
 AGI +1
 LUK +2
 CRIT +3
-[For every 2 refine levels]
+^6A5ACD[For every 2 refine levels]^000000
 STR +1
 AGI +1
 LUK +1
 CRIT +1
-[If refine level is +4 or higher]
+^6A5ACD[If refine level is +4 or higher]^000000
 Enables use of Lv. 1 Bash.
-[If refine level is +8 or higher]
+^6A5ACD[If refine level is +8 or higher]^000000
 Increases damage of Fire Bolt, Fire Pillar, Meteor Storm skill by 15%
 Increases damage of Bash, Magnum Break, Pierce skill by 15%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^77777730^000000
@@ -65650,13 +65717,17 @@ Jobs: ^777777All^000000
 A headband with blue rabbit ears. It looks very cute.
 +2 INT/DEX/VIT
 +5 MATK
-[For every 3 refine levels]
+Additional reduces damage from DemiHuman monster by 5%.
+^6A5ACD[For every 3 refine levels]^000000
 Additional:
 +1 INT/DEX/VIT
 +10 MATK
 Increase effectiveness of healing skills and healing items by 3%
-[If refine level is +9 or higher]
-Additional reduces damage from DemiHuman monster by 5%. 
+Additional reduces damage from DemiHuman monster by 5%.
+^6A5ACD[If refine level is +9 or higher]^000000
+Additional reduces damage from DemiHuman monster by 5%.
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Type: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^77777710^000000
@@ -65776,6 +65847,8 @@ DEX +1
 Reflects 1% of received physical melee damage
 ^6A5ACD[If refined to +9 or higher]^000000
 Increase damage against Demi-Humans by 5%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 ^ff0000Animated^000000
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -84617,8 +84690,10 @@ Weight: ^7777771^000000
 Love hurts and you don't want to get hurt again?
 Wear this hairband so Cupid doesn't shoot you.
 Max HP +5%, 
-[Per each 2 refine levels]:
+^6A5ACD[Per each 2 refine levels]:^000000
 Max HP, SP +1%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Type: ^777777Headgear^000000 Defense: ^7777770^000000
 Position: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^77777740^000000
@@ -85438,13 +85513,15 @@ A bird which flew out of the Gates of Hell, sat on your head and folded its wing
 ^ff0000Animated^000000
 +2 STR/DEX/AGI 
 +5 ATK
-[For every 3 refine levels]
+^6A5ACD[For every 3 refine levels]^000000
 Additional:
 +1 STR/DEX/AGI 
 +10 ATK
 HIT\FLEE +3
-[If refine level is +9 or higher]
+^6A5ACD[If refine level is +9 or higher]^000000
 Increase damage inflicted on DemiHuman monster by 5%.
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Type: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^77777750^000000
@@ -85843,10 +85920,12 @@ Weight: ^7777771^000000
 A gold fish hat with a mouth open. It looks fishy every time when it open its mouth.
 When physically attacking, has a chance to grant a holy property to a weapon for 60 seconds.
 When attacking with magic, has a chance that the Holy property magical damage is increased by 10% for 60 seconds.
-[If refine level is +6 or higher]
+^6A5ACD[If refine level is +6 or higher]^000000
 Has a chance to grant a Holy property, higher chance to cast the Holy property magical damage increasing.
-[If refine level is +9 or higher]
+^6A5ACD[If refine level is +9 or higher]^000000
 Adds a chance of casting ^0000FFLevel 1 Quagmire^000000 when receiving a physical attack.
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 ^ff0000Animated^000000
 Type: ^777777Headgear^000000
 Location: ^777777Upper^000000
@@ -86620,12 +86699,14 @@ Jobs: ^777777All^000000
 #
 18569#
 It is not even really a beret, but a warm cloud with the soft scent of wool.
-[For each refine level]
+^6A5ACD[For each refine level]^000000
 Max HP +1%
 ATK +3
 MATK +3
-[If refine level is +10]
+^6A5ACD[If refine level is +10]^000000
 Exp +5%
+^6A5ACD[If refine level is +13 or higher]^000000
+There are no additional additions to the characteristics
 Class: ^777777Headgear^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^777777100^000000
@@ -89922,4 +90003,107 @@ WoE Teleport Scroll x15
 WoE 2.0 Teleport Scroll x15
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+19464#
+^FF0000Account Bound^000000
+Round headdress made from environmentally friendly plant materials.
+The latest fashion, and a perfect fit!
+EXP +15%
+50% healing from Sweet Melon
+^ff0000[Effects are active only during the event (until May 26, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31516#
+^FF0000Account Bound^000000
+A small cap made from green melon peel.
+It gives off a sweet fresh scent.
+MaxHP +10%
+100% healing from Sweet Melon
+Increases Movement Speed
+^ff0000[Effects are active only during the event (until May 26, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+11610#
+^FF0000Account Bound^000000
+Fragrant ripe melon.
+Raised by a hardworking farmer, stolen by a hungry monster.
+Restores 150-250 HP
+Gives 1 Sweet Melon Peel
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23320#
+^FF0000Account Bound^000000
+Fresh melon juice, excellent thirst quencher.
+Rich source of vitamins A and C.
+HP and SP recovery 10%.
+HIT +30 for 3 min.
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23321#
+^FF0000Account Bound^000000
+Fresh melon juice, an excellent thirst quencher.
+Sweetened with sorghum syrup.
+HP and SP recovery 30%.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+23723#
+^FF0000Account Bound^000000
+Made with crispy cookie dough and melon chunks.
+It looks like a cantaloupe fruit.
+HP recovery 60%.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+23322#
+^FF0000Account Bound^000000
+Gourmet cold melon dessert with whipped cream.
+Decorated with fruit pieces, served in a tall transparent glass.
+Using item casts ^0000FFLevel 10 Kyrie Eleison^000000.
+^ffffff_^000000
+Weight: ^77777750^000000
+#
+25319#
+^FF0000Character Bound^000000
+Small refrigeration chamber with precious contents.
+Inside is a Melon Parfait, the best delicacy ever!
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+25318#
+^FF0000Account Bound^000000
+Fragrant melon skin, slightly dried in the sun.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+25320#
+^FF0000Account Bound^000000
+A strange looking melon of huge size.
+Better to take it to Falpadora as soon as possible.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+25655#
+^FF0000Account Bound^000000
+Emperor Vespasian once said that money doesn't stink...
+And it's true! A delicious melon aroma comes from this coin!
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+7685#
+^FF0000Character Bound^000000
+It seems that the experiments of the plant breeder Soor ended in failure.
+This melon gives off an unpleasant sour smell. And you are afraid to imagine what it tastes like!
+^ffffff_^000000
+Weight: ^7777770^000000
 #

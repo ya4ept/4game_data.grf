@@ -3512,8 +3512,8 @@
 2728#Cursed Hand#
 2729#Diabolus Ring#
 2730#Seal of Continental Guard#
-2731#Morroc Charm Stone#
-2732#Morroc Ring#
+2731#Rune Spellstone#
+2732#Death Loop#
 5808#Dark Bacilium#
 2374#Diabolus Robe#
 2375#Diabolus Armor#
@@ -9211,3 +9211,16 @@
 31737#Lucifer's Wings#
 20493#Winged Headphones#
 9671#Paradise Guardian Treasure#
+
+19464#Melon Cap#
+31516#Melon Mini Cap#
+11610#Sweet Melon#
+23320#Melon Juice#
+23321#Sweet Melon Juice#
+23723#Melon Bread#
+23322#Melon Parfait#
+25319#Parfait Ice Box#
+25318#Sweet Melon Peel#
+25320#Mysterious Melon#
+25655#Sweet Coin#
+7685#Sour Melon#

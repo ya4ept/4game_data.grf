@@ -8108,3 +8108,16 @@
 31737#Garment#
 20493#Accessory#
 9671#Paradise Guardian Treasure#
+
+19464#Hat#
+31516#Hat#
+11610#Sweet Melon#
+23320#Melon Juice#
+23321#Sweet Melon Juice#
+23723#Melon Bread#
+23322#Melon Parfait#
+25319#Parfait Ice Box#
+25318#Sweet Melon Peel#
+25320#Mysterious Melon#
+25655#Sweet Coin#
+7685#Sour Melon#

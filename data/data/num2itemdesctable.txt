@@ -21211,6 +21211,7 @@ Jobs: ^777777All Transcendent Jobs except Novice^000000
 
 //占쏙옙占신?占쏙옙티占쏙옙탈 占쏙옙占쏙옙 占쏙옙占쏙옙占쏙옙
 7826#
+^FF0000Character Bound^000000
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
 ^ffffff_^000000
 Continental Guard. Balrog.
@@ -21220,105 +21221,45 @@ Weight: ^7777770^000000
 
 // ------------ 占쏙옙占쏙옙 占쏙옙占신?----------------
 2536#
-Lucifer's skin, cursed by the devil's language. It seems thrown on the back.
-MDEF + 2, MHP + 200, FLEE + 10
-Weapon Class: ^777777Garment^000000    Defense: ^7777772^000000
-Weight: ^77777725^000000
-Required Level: ^77777760^000000
-Jobs: ^777777All Transcendent Jobs except Novice^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2537#
-A manteau with an endless dark shape waving near it. Only the ones who overcome fear can put on this manteau.
-Decreases 5% of Neutral damage. MHP + 100
-Increases 10% of Physical Damage to Satan Morocc.
-Increases MHP 6%, when equipped with Diabolus Boots.
-Weapon Class: ^777777Garment^000000    Defense: ^7777775^000000
-Weight: ^77777725^000000
-Jobs: ^777777Above Transcendent 2-1 Classes^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2728#
-A dried bone hand. It releases a feeling of mystery.
-Autocasts Fatal Wound Lv 1 by a 3% chance when physically attacked.
-DEX + 10, Increases HP recovery by 20%.
-Weapon Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777775^000000
-Required Level: ^77777780^000000
-Jobs: ^777777All Transcendent Jobs except Novice^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2729#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2730#
-A royal gift to a member of the Continental Guard.
-MHP + 50
-Increases 3% ATK Speed when equipped.
-Weapon Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777775^000000
-Required Level: ^77777780^000000
-Jobs: ^777777All Transcendent Jobs except Novice^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2731#
-One of the royal gifts which are given to the members of the Morocc Dispatch.
-MSP + 50, Reduces casting delay by 1%.
-Weapon Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777775^000000
-Required Level: ^77777780^000000
-Jobs: ^777777All Transcendent Jobs except Novice^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2732#
-One of the royal gifts which are given to the members of the Morocc Dispatch.
-CRI + 5.
-Weapon Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^7777775^000000
-Required Level: ^77777780^000000
-Jobs: ^777777All Transcendent Jobs except Novice^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5808#
-A strong diadem which has been covered by the face of Satan Morocc. It can be possessed only by the ones who have overcome the fear of Satan Morocc.
-Increases additional 20% tolerance to Stone, Freeze, and Stun. As upgraded every 1 level, the tolerance will additionally increase by 2%.
-Weapon Class: ^777777Headgear^000000    Defense: ^7777775^000000
-Location: ^777777Upper, Mid, Lower^000000    Weight: ^77777725^000000
-Jobs: ^777777Above Transcendent 2-1 Classes^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2374#
-A robe which is decorated with unknown letters. The wearer feels like they're learning a new language.
-MSP + 150, MDEF + 5
-Reduces casting delay by 10%
-Increases 6% of effectiveness for Heal skill.
-When equipped with Diabolus Ring, ATK + 3%, MATK + 3%.
-Weapon Class: ^777777Armor^000000    Defense: ^7777776^000000
-Weight: ^77777730^000000
-Jobs: ^777777Transcendent Archer,Mage,Acolyte^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2375#
-An Armor which is made of an unknown metal in the human-world. Mysterious power is hidden in the armor.
-STR + 2, DEX + 1, MHP + 150. 
-Increases additional 5% of tolerance for Stun and Stone.
-When equipped with Diabolus Ring, ATK + 3%, MATK + 3%.
-Weapon Class: ^777777Armor^000000    Defense: ^7777777^000000
-Weight: ^77777760^000000
-Jobs: ^777777Transcendent Swordsman,Merchant,Thief^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2433#
-Mysterious boots that automatically adjust their size to the wearer's size. They seem alive.
-Increases MAX HP as Base Level 10 times when equipped.
-Weapon Class: ^777777Shoes^000000    Defense: ^7777774^000000
-Weight: ^77777725^000000
-Jobs: ^777777Above Transcendent 2-1 Classes^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 
 // ---------- 占쏙옙짝 占쌓쏙옙트 -----------
 2129#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2130#
-Unknown item
-requiring Appraisal.
-Can be identified by
-using a Magnifier.
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 2131#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
@@ -21464,6 +21405,7 @@ Weight: ^7777770^000000
 #
 //-- Ep12 Add-------------------------------------------
 7820#
+^FF0000Character Bound^000000
 It seems like a piece of Morocc skin. There is a burned mark on the edge of it.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -27367,24 +27309,42 @@ Weight: ^7777770^000000
 
 6223#
 One of the hardest metals on the Rune Midgard continent. It has a extraordinary degree of strength but it's too solid to be easily refined. 
+Used to refining equipment +11 and higher at the blacksmith Bestry
+prt_in 90 72
+morocc_in 64 41
+payon_in01 18 132
+In case of failure the item does not disappear, and the level of its refinement is reduced by 3.
+^ffffff_^000000
 Weight: ^77777715^000000
 #
 
 6224#
-One of the hardest metals found in the Ash Vacuum.
-It was difficult to refine because of it's high density, but recent experiments have made it possible to use it in weapon strengthening.
+The strongest mineral found in the Ash Vacuum.
+It seems very difficult to work with, but with research its come to be the best ore for forging weapons.
+Used to refining equipment +11 and higher at the blacksmith Bestry
+prt_in 90 72
+morocc_in 64 41
+payon_in01 18 132
+In case of failure the item does not disappear, and the level of its refinement is reduced by 3.
+^ffffff_^000000
 Weight: ^77777715^000000
 #
 
 6225#
-It has been compressed for such a long time that the density and solidity is heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
+^ff0000Account bound.^000000
+A high density Carnium used in upgrading armor.
+Used to refining equipment +11 and higher at the Blacksmith Basta (prontera 147 67)
+In case of failure the item does not disappear, and the level of its refinement is reduced by 1.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6226#
-The density and solidity has been heightened by repeated experiments from Rune Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
+^ff0000Account bound.^000000
+A high density Bradium used in upgrading weapons.
+Used to refining equipment +11 and higher at the Blacksmith Basta (prontera 147 67)
+In case of failure the item does not disappear, and the level of its refinement is reduced by 1.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 
@@ -55755,4 +55715,85 @@ WoE Teleport Scroll x15
 WoE 2.0 Teleport Scroll x15
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+19464#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31516#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+11610#
+^FF0000Account Bound^000000
+Fragrant ripe melon.
+Raised by a hardworking farmer, stolen by a hungry monster.
+Restores 150-250 HP
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23320#
+^FF0000Account Bound^000000
+Fresh melon juice, excellent thirst quencher.
+Rich source of vitamins A and C.
+HP and SP recovery 10%.
+HIT +30 for 3 min.
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+23321#
+^FF0000Account Bound^000000
+Fresh melon juice, an excellent thirst quencher.
+Sweetened with sorghum syrup.
+HP and SP recovery 30%.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+23323#
+^FF0000Account Bound^000000
+Made with crispy cookie dough and melon chunks.
+It looks like a cantaloupe fruit.
+HP recovery 60%.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+23322#
+^FF0000Account Bound^000000
+Gourmet cold melon dessert with whipped cream.
+Decorated with fruit pieces, served in a tall transparent glass.
+Using item casts ^0000FFLevel 10 Kyrie Eleison^000000.
+^ffffff_^000000
+Weight: ^77777750^000000
+#
+25319#
+^FF0000Character Bound^000000
+Small refrigeration chamber with precious contents.
+Inside is a Melon Parfait, the best delicacy ever!
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+25318#
+^FF0000Account Bound^000000
+Fragrant melon skin, slightly dried in the sun.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+25320#
+^FF0000Account Bound^000000
+A strange looking melon of huge size.
+Better to take it to Falpadora as soon as possible.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+25655#
+^FF0000Account Bound^000000
+Emperor Vespasian once said that money doesn't stink...
+And it’s true! A delicious melon aroma comes from this coin!
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+7685#
+^FF0000Character Bound^000000
+It seems that the experiments of the plant breeder Soor ended in failure.
+This melon gives off an unpleasant sour smell. And you are afraid to imagine what it tastes like!
+^ffffff_^000000
+Weight: ^7777770^000000
 #
