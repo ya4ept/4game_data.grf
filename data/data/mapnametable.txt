@@ -942,7 +942,7 @@ c_tower3_.rsw#Clock Town of twisted time 3rd floor#
 
 //EP.14.3
 moro_vol.rsw#Flame Basin#
-moro_cav.rsw#Flame cave#
+moro_cav.rsw#Пещера Пламени#
 1@dth1.rsw#Bios Island#
 1@dth2.rsw#Bios Island#
 1@dth3.rsw#Bios Island#
@@ -1033,4 +1033,4 @@ pvp_n_8-1.rsw#Арена: Колизей #
 pvp_n_8-2.rsw#Арена: Подземелье #
 pvp_n_8-3.rsw#Арена: Пещера #
 
-eprt_fild02.rsw#Окрестности Пронтеры (Бега) #
+eprt_fild02.rsw#Окрестности Пронтеры: Бега #

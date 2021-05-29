@@ -108,7 +108,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_HEATER] = {
 		"EL_HEATER",
-		SkillName = "Heater",
+		SkillName = "Нагреватель",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -116,7 +116,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_ALCHEMY] = {
 		"CR_ALCHEMY",
-		SkillName = "Alchemy",
+		SkillName = "Алхимия",
 		MaxLv = 0,
 		SpAmount = {},
 		bSeperateLv = false,
@@ -124,7 +124,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_SYNTHESISPOTION] = {
 		"CR_SYNTHESISPOTION",
-		SkillName = "Potion Synthesis",
+		SkillName = "Синтез зелий",
 		MaxLv = 0,
 		SpAmount = {},
 		bSeperateLv = false,
@@ -844,7 +844,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_TROPIC] = {
 		"EL_TROPIC",
-		SkillName = "Tropic",
+		SkillName = "Тропик",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -1984,7 +1984,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_FIGHTING] = {
 		"MB_FIGHTING",
-		SkillName = "Munak Fighting",
+		SkillName = "Битва Мунак",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -1992,7 +1992,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_NEUTRAL] = {
 		"MB_NEUTRAL",
-		SkillName = "Bongun Neutral",
+		SkillName = "Бонган",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -2000,7 +2000,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_TAIMING_PUTI] = {
 		"MB_TAIMING_PUTI",
-		SkillName = "Puti Taming",
+		SkillName = "Приручение",
 		MaxLv = 7,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -2008,7 +2008,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MB_WHITEPOTION] = {
 		"MB_WHITEPOTION",
-		SkillName = "White Potion",
+		SkillName = "Белое зелье",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -3795,7 +3795,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_DUPLELIGHT_MELEE] = {
 		"AB_DUPLELIGHT_MELEE",
-		SkillName = "Duple Strike",
+		SkillName = "Физический святой огонь",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5448,7 +5448,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_DUPLELIGHT_MAGIC] = {
 		"AB_DUPLELIGHT_MAGIC",
-		SkillName = "Duple Magic",
+		SkillName = "Магический святой огонь",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -7849,7 +7849,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_VACUUM_EXTREME] = {
 		"SO_VACUUM_EXTREME",
-		SkillName = "Extreme Vacuum",
+		SkillName = "Вакуум",
 		MaxLv = 5,
 		SpAmount = { 34, 42, 50, 58, 66 },
 		bSeperateLv = true,
@@ -10179,7 +10179,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_GIANTGROWTH] = {
 		"RK_GIANTGROWTH",
-		SkillName = "Giant Growth",
+		SkillName = "Гигантский рост",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10246,7 +10246,7 @@ SKILL_INFO_LIST = {
 		"RK_DEATHBOUND",
 		SkillName = "Зеркало боли",
 		MaxLv = 10,
-		SpAmount = { 50, 60, 65, 70, 75, 80, 85, 90, 95, 100 },
+		SpAmount = { 28, 31, 34, 37, 40, 43, 46, 49, 52, 55 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -10899,7 +10899,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SR_FLASHCOMBO] = {
 		"SR_FLASHCOMBO",
-		SkillName = "Flash Combo",
+		SkillName = "Залп",
 		MaxLv = 5,
 		SpAmount = { 65, 65, 65, 65, 65 },
 		bSeperateLv = true,
@@ -10913,7 +10913,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SC_ESCAPE] = {
 		"SC_ESCAPE",
-		SkillName = "Urgent Escape",
+		SkillName = "Побег",
 		MaxLv = 5,
 		SpAmount = { 30, 26, 22, 18, 14 },
 		bSeperateLv = true,
@@ -10924,7 +10924,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AB_OFFERTORIUM] = {
 		"AB_OFFERTORIUM",
-		SkillName = "Offertorium",
+		SkillName = "Песнь преданности",
 		MaxLv = 5,
 		SpAmount = { 30, 60, 90, 120, 150 },
 		bSeperateLv = true,
@@ -10935,7 +10935,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_TELEKINESIS_INTENSE] = {
 		"WL_TELEKINESIS_INTENSE",
-		SkillName = "Intensification",
+		SkillName = "Усиление Призраков",
 		MaxLv = 5,
 		SpAmount = { 100, 150, 200, 250, 300 },
 		bSeperateLv = true,
@@ -10955,7 +10955,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GN_ILLUSIONDOPING] = {
 		"GN_ILLUSIONDOPING",
-		SkillName = "Hallucination Drug",
+		SkillName = "Галюциноген",
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,

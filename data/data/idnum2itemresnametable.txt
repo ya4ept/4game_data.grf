@@ -10718,3 +10718,11 @@
 25655#Dalcom_Coin#
 7685#SourMelon#
 
+
+18572#판관모자#
+20448#C물의마스터#
+31719#Cons_Of_Fire#
+31803#C_Cons_Of_Wind#
+31885#Cons_Of_Earth#
+100828#Up_OneSkyOneSun#
+
