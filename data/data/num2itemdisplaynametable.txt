@@ -8121,3 +8121,12 @@
 25320#Mysterious Melon#
 25655#Sweet Coin#
 7685#Sour Melon#
+
+18572#Headgear#
+19292#Hat#
+19643#Hat#
+20522#Garment#
+20598#Garment#
+31906#Hat#
+31907#Hat#
+9575#Kitty Cat's Treasure#

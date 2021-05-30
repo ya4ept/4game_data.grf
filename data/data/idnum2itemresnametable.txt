@@ -8072,7 +8072,6 @@
 31452#White_Cat#
 20195#할퀴는고양이#
 19823#흰고양이후드#
-9575#코스타마에그45#
 
 18565#레프리컨의모자#
 
@@ -8762,3 +8761,12 @@
 25320#미지의멜론#
 25655#Dalcom_Coin#
 7685#SourMelon#
+
+18572#판관모자#
+19292#C_Wildcat_Knit_Cap#
+19643#휘케바인의귀#
+20522#C_Blessings_Of_Soul#
+20598#C_GiantCatBag_JP_BL#
+31906#C_PGstone_Knit_Hat_PK#
+31907#C_PGstone_Knit_Hat_BW#
+9575#Doram_Scroll#

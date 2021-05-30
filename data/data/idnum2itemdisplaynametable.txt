@@ -8633,7 +8633,7 @@
 18802#Poring Fedora Hat#
 20344#Poring Balloons#
 20404#Poring Blessing#
-20458#Cute Poring Rider#
+20458#Wild Poring Rider#
 20507#Poring Backpack#
 20727#Stylish Golden Wings#
 31462#Poring Earmuffs#
@@ -8851,9 +8851,9 @@
 19679#Blank Eyes#
 19787#Heterochromic Eyes#
 20335#Neverending Tears#
-31251#Cat's Snoot#
+31251#Cat Mouth#
 31615#Geisha Make-Up#
-31699#占퐑te Eyes#
+31699#Cute Eyes#
 31716#Blinking Red Eyes#
 19539#Tiara of Reginleif#
 
@@ -9224,3 +9224,12 @@
 25320#Mysterious Melon#
 25655#Sweet Coin#
 7685#Sour Melon#
+
+18572#Imperial Judge Hat#
+19292#Wildcat Hat#
+19643#Pointed Cat Ears#
+20522#Cat Guide Aura#
+20598#Giant Catbag#
+31906#Pink Catmother Hood#
+31907#Black Catmother Hood#
+9575#Kitty Cat's Treasure#

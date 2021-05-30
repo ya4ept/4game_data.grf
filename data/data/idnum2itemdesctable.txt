@@ -72764,13 +72764,14 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight: ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and占쏙옙 just cute.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
+It's not so bad to be a cat!
+I can convince you all of that!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 20199#
 A dark marching hat worn by members of an undead band from Niflheim.
@@ -83862,7 +83863,8 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20458#
-A cute cat and an adorable Poring became a team! They are here to loot your heart!
+Yipie I oh, yipie I ay!
+Poring rider on your head!
 ^ff0000Animated^000000
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper)^000000
@@ -86225,7 +86227,9 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31251#
-Funny half-mask that will turn your face into a cat's snoot.
+Have you always melted with emotion at the sight of little Dorams?
+Now you can be that cute too!
+^ffffff_^000000
 Class: ^777777Costume^000000
 Location: ^777777Lower^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -90106,4 +90110,123 @@ It seems that the experiments of the plant breeder Soor ended in failure.
 This melon gives off an unpleasant sour smell. And you are afraid to imagine what it tastes like!
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+18572#
+In ancient times, the Emperor's childless wife replaced her rival's baby with a kitten.
+Then she began to tell everyone that the child was her son. But the wise judge figured out the deception.
+^ffffff_^000000
+Variable cast time -6%.
+Attack speed (decreases attack delay) +6%.
+MDEF + 2.
+^6A5ACD[If refine rate is 7 or higher]^000000
+Damage taken from demihuman enemies -2%.
+^6A5ACD[When equipped by Swordsman, Merchant, Thief, Monk, Taekwondo or Star Gladiator classes]^000000
+Physical damage against all type monsters +1% per 2 refine rate.
+^6A5ACD[When equipped by Magician, Acolyte, Soul Linker or Ninja classes]^000000
+Magical damage +1% per 2 refine rate.
+^6A5ACD[When equipped by Archer and Gunslinger classes]^000000
+Long ranged physical damage +1% per refine rate.
+^ffffff_^000000
+Class: ^777777Headgear^000000 Defense: ^7777772^000000
+Location: ^777777Upper ^000000 Weight: ^77777730^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19292#
+Hat of a member of the Wildcats Charity Society. Decorated with faux fur.
+Save the rare monsters of Rune-Midgard from extinction!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20522#
+These ghostly cat guides will protect you from harm!
+Trust them!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20598#
+Is this a big backpack made in the shape of a cat?
+Or is it a giant cat pretending to be a backpack? Who knows?
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31906#
+The hood worn by the Great Catmother cultists for their rituals.
+Praise the goddess of all cats! Meow!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31907#
+The hood worn by the Great Catmother cultists for their rituals.
+Praise the goddess of all cats! Meow!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9575#
+Just look at this cute kitty!
+Looks like it brought you something interesting...
+^ffffff_^000000
+Open the box and receive one of the following items:
+Sillit Pong 
+Cat Guide Aura
+Giant Catbag
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Wild Poring Rider
+Wildcat Hat
+Pink Catmother Hood
+Black Catmother Hood
+Pointed Cat Ears
+Cat Mouth
+Imperial Judge Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Party Assumptio Scroll x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+Water of Life x7
+Giant Fly Wing x6
+ASPD Potion x11
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Guarana Candy x7
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Superb Fish Slice x25
+Sparkling Candy x11
+^ffffff_^000000
+Weight: ^7777771^000000
 #
