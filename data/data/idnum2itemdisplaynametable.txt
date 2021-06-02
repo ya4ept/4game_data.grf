@@ -9233,3 +9233,10 @@
 31906#Pink Catmother Hood#
 31907#Black Catmother Hood#
 9575#Kitty Cat's Treasure#
+
+19581#Sun Helmet#
+11707#Lulah Kebab#
+14608#Hearty Lunch#
+6769#Flatbread Dough#
+6736#Kebab Minced Meat#
+11716#Garnish Salad#

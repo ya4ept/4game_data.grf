@@ -52456,15 +52456,6 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19581#
-The lucky, well-worn hat of former adventurer Mort Whimsey.
-Class: ^777777Costume^000000
-Location: ^777777Upper & Lower^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
-#
 5267#
 ^ff0000Account bound^000000
 A stylish hat of the Eastern warrior.
@@ -90229,4 +90220,64 @@ Superb Fish Slice x25
 Sparkling Candy x11
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+19581#
+^FF0000Account Bound^000000
+Hat made of light cork, trimmed with fabric.
+Perfectly protects from the scorching sun.
+^ffffff_^000000
+EXP +10%
+HP Recovery rate +20%
+Physical and Magical weapon damage to ^009900Plants^000000 race monsters +10%
+Damage from ^009900Plants^000000 race monsters -10%
+Every monster kill has a chance of dropping Garnish Salad, Kebab Minced Meat and Flatbread Dough.
+^ff0000[Effects are active only during the event (until June 09, 2021).]^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+11707#
+^FF0000Account Bound^000000
+Juicy minced meat kebab and fresh salad, served on a toasted flatbread.
+A very appetizing description, isn't it?
+^ffffff_^000000
+HP recovery 15%.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+14608#
+^FF0000Account Bound^000000
+An exceptionally hearty and delicious lunch of meat chowder, salad and steamed cutlet with vegetables.
+And a lemon ice cream for dessert!
+^ffffff_^000000
+SP recovery 15%.
+HIT +20 for 10 min.
+LUK +5 for 10 min.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+6769#
+^FF0000Account Bound^000000
+Can you imagine a kebab without a flavored flatbread baked in bean oil?
+Well... You can, of course, but it tastes better with a flatbread, believe me!
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+6736#
+^FF0000Account Bound^000000
+Chilled minced lamb, spices and finely chopped onions.
+The kebab will turn out to be great, that's for sure!
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+11716#
+^FF0000Account Bound^000000
+Lettuce leaves seasoned with olive oil and spices.
+Sprinkled with sweet pepper strips.
+^ffffff_^000000
+Weight: ^7777770^000000
 #
