@@ -1,167 +1,93 @@
 %faf0e6
-^000088Эта книга написана первой женщиной-поварой в королевстве Рун-Мидгард!^000000
-Здесь вы найдете ее восхитительные рецепты. Кроме того, эта книга подписана автором!
+^000088Vicissitudinous story of the Rune-Midgarts Kingdom's very first female chef! ^000000
+This book has become a best seller because it contains this woman's cooking recipes 
+that which perfectly display her passion for cooking. This copy is also specially 
+autographed by the author.
+
+^ff0000Steamed Tongue:^000000 
+Ingredients: ^4b008220 Tongues, 1 Pot, 1 Alcohol, 2 Aloe Vera, 1 Spicy Sauce, 5 Royal Jellys, 
+                   10 Yggdrasil Leaves, 2 Blue Potions ^000000
+Directions: 
+	1. Pour clear broth and Alcohol into a pot, and boil. 
+	2. Parboil Tongues with the clear broth.
+	3. Cut Aloe Vera in diagonal slices, and garnish a plate by lining its rim with 
+                    the Aloe Vera.
+	4. Remove skin, muscle, and tendons from the parboiled Tongues, and mix the Tongues 
+                    with Spicy Sauce. 
+	5. Serve the Tongue salad on the plate with Spicy Sauce to taste.
 
 
+^0000ffDragon Breath Cocktail:^000000 sticky, full flavored cocktail that warms your stomach!
+Ingredients: ^4b008210 Maneater Roots, 1 Singing Plant, 5 Aloe Leaflets, 5 Royal Jellys, 
+                   5 Lemons, 5 Prickly Fruits, 1 Yggdrasilberry, 10 Blue Herbs ^000000
+Directions:
+	1. Dry and pulverize the Singing Plant.
+	2. Wash and chop up Maneater Roots. Wash Prickly Fruits.
+	3. Wrap the chopped Maneater Roots with Aloe Leaflets. Boil and simmer 
+                    the wrapped Maneater Roots and Prickly Fruits for at least 2 hours.
+	4. Skim the broth by using a sieve or a cotton cloth to make the cocktail.
+	5. Refrigerate the cocktail, and drink with ice, Royal Jellys, 
+                    and a Lemon slice to taste.
 
 
+^800000Hwergelmir's Tonic:^000000 alcoholic drink made with water from a legendary pond.
+Ingredients: ^4b00821 Yggdrasilberry, 10 Ice Cubes, 10 Bacillus, 4 Royal Jellys, 
+                   3 Concentration Potions, 5 Alcohol, 2 Prickly Fruits, 1 Illusion Flower^000000
+Directions:
+	1. Wash and peel the Yggdrasilberry and Prickly Fruits.
+	2. Put Bacillus, Alcohol, well-dried Illusion Flower, and Concentration Potions
+                    into a pot, and close the lid so it's airtight. Let the contents age 
+                    for about a week.
+	3. Pour the aged Concentration Potions, Royal Jellys, and skinned fruits into 
+                    an oak barrel, and let it age for at least a year. The tonic's taste 
+                    varies depending on how long it is aged.
+	4. Skim the aged drink with a sieve or cotton cloth, and then bottle it.
 
 
+^008040Steamed Desert Scorpions:^000000 Desert Scorpions steamed under hot desert sand.
+Ingredients: ^4b008220 Scorpion Tails, 20 Scorpion Nippers, 2 Aloe Vera, 3 Yggdrasil Leaves, 
+                   3 Bitter Herbs, 10 Royal Jellys, 1 Spicy Sauce, 1 Pot ^000000
+Directions: 
+	1. Remove the poison glands from the Scorpion Tails, and wash them 
+                    along with the nippers.
+	2. Mix Aloe Vera juice, chopped Yggdrasil Leaves, Royal Jellys, and Spicy Sauce 
+                    with water to make marinade sauce.
+	3. Soak Scorpion Tails and Nippers in the marinade for 10 hours, and then move 
+                    these ingredients to a pot, and close the lid so it's airtight.
+	4. Dig a hole in desert sand, place the pot in the hole around 10 AM 
+                    when the Sograt's Desert sand is at its strongest. Cover the pot with 
+                    sand, and then remove the pot around 5 PM.
+	5. Serve the steamed Desert Scorpion Tails and Nippers on a plate.
 
 
+^ff8040Immortal Stew: ^000000a dish rumored to be sought by an eastern emperor to attain immortal life.
+Ingredients: ^4b008220 Immortal Hearts, 10 Mementos, 1 Yggdrasil Seed, 2 Anodynes, 
+                   10 Hearts of Mermaid, 2 Spicy Sauce, 10 Amulets, 2 Bitter Herbs ^000000
+Directions:
+	1. Wash and cut the Immortal Hearts into squares. Be careful since the hearts squirm, 
+                    especially while you cut them.
+	2. Pick out small Hearts of Mermaids, and wash them under running water.
+	3. Fry the Immortal Hearts, Spicy Sauce, and Amulet strips altogether.
+	4. Move them to a pot, add water and pulverized Mementos, and boil.
+	5. When it starts boiling, add Hearts of Mermaids, and continue boiling 
+                    until the hearts are well cooked.
+	6. Add chopped Bitter Herbs and Yggdrasil Seed, and simmer until it comes to 
+                    a boil again.
 
 
-
-
-
-
-
-
-
-<ITEM>Язык по-лоянгски<INFO>12075</INFO></ITEM>
-Восхитительный язык, приготовленный по древнему лоянгскому рецепту.
-
-^000088Ингредиенты:^000000
-• <ITEM>Язык<INFO>1015</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Кастрюля<INFO>7482</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Спирт<INFO>970</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Алоэвера<INFO>606</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Острый соус<INFO>7455</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Королевский мед<INFO>526</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Лист Иггдрасиля<INFO>610</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Синее зелье<INFO>505</INFO></ITEM> ^777777(2 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Налейте в кастрюлю прозрачный бульон и спирт и доведите до кипения.
-2) Обдайте языки кипящим бульоном.
-3) Порежьте алоэвера на кусочки и выложите по краю тарелки.
-4) Очистите ошпаренные языки от кожи и сухожилий и полейте острым соусом.
-5) Выложите языки на тарелку. Можно добавить еще острого соуса по вкусу.
-<ITEM>Коктейль 'Дыхание дракона'<INFO>12080</INFO></ITEM>
-Напиток, обладающий незабываемым вкусом!
-^000088Ингредиенты:^000000
-• <ITEM>Корень-людоед<INFO>1033</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Поющая трава<INFO>707</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Лист алоэ<INFO>521</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Королевский мед<INFO>526</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Лимон<INFO>568</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Колючий фрукт<INFO>576</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Ягода Иггдрасиля<INFO>607</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Синяя трава<INFO>510</INFO></ITEM> ^777777(10 шт.)^000000
-^000088Способ приготовления:^000000
-1) Высушите и измельчите поющую траву.
-2) Помойте и порежьте корни-людоеды. Помойте колючие фрукты.
-3) Заверните порезанные корни в листья алоэ и опустите в воду вместе с колючими
-фруктами. Доведите до кипения и варите на медленном огне не менее 2 часов.
-4) Процедите отвар.
-5) Поставьте коктейль в холодное место. Подавайте со льдом, королевским медом и
-кусочком лимона.
-<ITEM>Эссенция Хвергельмира<INFO>12095</INFO></ITEM>
-Алкогольный напиток, приготовленный на воде из мифического
-родника.
-^000088Ингредиенты:^000000
-• <ITEM>Ягода Иггдрасиля<INFO>607</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Кусок льда<INFO>7066</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Бацилла<INFO>7119</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Королевский мед<INFO>526</INFO></ITEM> ^777777(4 шт.)^000000
-• <ITEM>Зелье концентрации<INFO>645</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Спирт<INFO>970</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Колючий фрукт<INFO>576</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Иллюзорный цветок<INFO>710</INFO></ITEM> ^777777(1 шт.)^000000
-^000088Способ приготовления:^000000
-1) Вымойте и почистите ягоды Иггдрасиля и колючие фрукты.
-2) Положите в кастрюлю бациллы, высушенный иллюзорный цветок, туда же вылейте спирт
-и зелье концентрации. Плотно закройте крышкой и настаивайте около недели.
-3) Вылейте настой в дубовую бочку, добавьте королевский мед и очищенные фрукты и
-выдерживайте не меньше года. Вкус напитка зависит от того, как долго он настаивался.
-4) Процедите напиток и разлейте в бутылки.
-<ITEM>Запеченные скорпионы<INFO>12090</INFO></ITEM>
-Блюдо из пустынных скорпионов, испеченных прямо в песке.
-
-^000088Ингредиенты:^000000
-• <ITEM>Хвост скорпиона<INFO>904</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Клешня скорпиона<INFO>7125</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Алоэвера<INFO>606</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Лист Иггдрасиля<INFO>610</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Горькая трава<INFO>621</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Королевский мед<INFO>526</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Острый соус<INFO>7455</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Кастрюля<INFO>7482</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Вымойте клешни и хвосты скорпиона, предварительно удалив с последних ядовитые
-железы.
-2) Добавьте в воду сок алоэвера, нарезанные листья Иггдрасиля, королевский мед и
-острый соус.
-3) Положите хвосты и клешни скорпиона в полученный маринад на 10 часов, затем
-выложите их в кастрюлю и плотно закройте крышкой.
-4) Выкопайте в песке ямку и около 10 часов утра, когда песок в пустыне Сограт начнет
-прогреваться, поставьте туда кастрюлю. Засыпьте ее песком и оставьте до 5 часов
-вечера.
-5) Выложите готовые клешни и хвосты скорпиона на тарелку и подавайте на стол.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ITEM>Пища богов<INFO>12085</INFO></ITEM>
-По слухам, это блюдо разыскивал восточный император в попытках
-обрести бессмертие.
-
-^000088Ингредиенты:^000000
-• <ITEM>Бессмертное сердце<INFO>929</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Сувенир мертвеца<INFO>934</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Семя Иггдрасиля<INFO>608</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Анальгин<INFO>605</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Сердце русалки<INFO>950</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Острый соус<INFO>7455</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Амулет<INFO>609</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Горькая трава<INFO>621</INFO></ITEM> ^777777(2 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Вымойте бессмертные сердца и порежьте кубиками. Будьте осторожны - сердца
-сокращаются, особенно во время резки.
-2) Выберите маленькие сердца русалок и промойте в проточной воде.
-3) Поджарьте бессмертные сердца с острым соусом и кусочками амулетов.
-4) Переложите все в кастрюлю, добавьте воды и растертые в порошок сувениры мертвеца
-и начните варить.
-5) Когда вода закипит, положите туда сердца русалки и варите до готовности.
-6) Добавьте нарезанную горькую траву и семя Иггдрасиля и доведите до кипения на
-медленном огне.
-
-
-<ITEM>Лисьи хвосты по-пайонски<INFO>12100</INFO></ITEM>
-Это вкуснейшее блюдо даст вам невероятную силу!
-
-^000088Ингредиенты:^000000
-• <ITEM>Хвост лисы<INFO>1022</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Четырехлистный клевер<INFO>706</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Корень-людоед<INFO>1033</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Острый лист<INFO>7100</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Лист Иггдрасиля<INFO>610</INFO></ITEM> ^777777(4 шт.)^000000
-• <ITEM>Пряный соус<INFO>7454</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Желтая приправа<INFO>7452</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Изидор<INFO>709</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Очистите и вымойте в холодной воде хвосты. Обдайте их кипятком и подождите, пока
-стечет вода и жир.
-2) Помойте и порежьте корни-людоеды. Обдайте кипятком острые листья и разрежьте их
-напополам.
-3) Сделайте соус из нарезанных листьев Иггдрасиля, изидора, пряного соуса и желтой
-приправы.
-4) Маринуйте хвосты в полученном соусе.
-5) Вылейте соус с маринованными хвостами в кастрюлю, добавьте чашку мясного бульона
-и доведите до кипения.
-6) Уменьшите огонь, добавьте четырехлистный клевер и варите на медленном огне.
-(Не кладите четырехлистный клевер, пока смесь не закипит, иначе он пожелтеет.)
-
+^400080Cooked Nine Tail's Tails:^000000 eat this dish and become strong enough to defeat and 
+                                                      cook Moonlight!
+Ingredients: ^4b008210 Nine Tails, 2 Four Leaf Clovers, 10 Maneater Roots, 10 Sharp Leaves, 
+                    4 Yggdrasil Leaves, 1 Savory Sauce, 1 Yellow Spice, 2 Izdors ^000000
+Directions:
+	1. Skin the Nine Tails, and wash under running water. Parboil the skinned Nine Tails, 
+                    and then drain the excess water and fat.
+	2. Wash and chop the Maneater Roots. Parboil the Sharp Blades, and cut them in halves.
+	3. Mix the chopped Yggdrasil Leaves, Izidor, Savory Sauce and Yellow Spice to make sauce.
+	4. Marinade Nine Tails in the sauce.
+	5. Pour the sauce and the marinaded Nine Tails to a pot, add 1 cup of meat broth, 
+                    and boil.
+	6. When it boils, reduce heat, add Four Leaf Clovers, and then simmer it down. 
+                    (Do not add Four Leaf Clovers before the mixture boils 
+                      because the leaf color will become too yellow.)
+          

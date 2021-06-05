@@ -1,110 +1,59 @@
 %faf0e6
-Не волнуйтесь, если заблудились где-то в глуши.
-Эта книга поможет вам выжить в самых тяжелых условиях!
-^000088Рецепты для приготовления блюд 1-го уровня:^000000
+^000088- Don't panic when you're alone in the middle of nowhere. 
+You can survive with the recipes in this book! -^000000
 
-<ITEM>[ Жареные лапки кузнечика ]<INFO>12041</INFO></ITEM>
-Очень вкусное и простое в приготовлении блюдо!
+You Can Do It: Level 1 Cooking!
 
-^000088Ингредиенты:^000000
-• <ITEM>Лапка кузнечика<INFO>940</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Старая сковорода<INFO>7031</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Растительное масло<INFO>7457</INFO></ITEM> ^777777(1 шт.)^000000
+^ff0000Fried Grasshopper Legs:^000000 Don't worry-- grasshopper legs are actually quite tasty, 
+                                                    and won't hop around once they're deep fried.
+Ingredients: ^4b00825 Grasshopper Legs, 1 Old Frying Pan, 1 Cooking Oil ^000000
+Directions: 
+	1. Heat the old frying pan over medium heat. (New frying pans tend to absorb oil, and 
+                    take longer to heat. If you don't have a used frying pan, then use 
+                    Savage's fat to pre-treat a new frying pan.)
+	2. Add 2 TS of Cooking Oil to the pan, and lightly fry 3 Grasshopper Legs. 
+                   Once the legs turn golden brown, add the the other 2 legs and 1 TS of 
+                   Cooking Oil, and then fry them until they're crispy.
 
-^000088Способ приготовления:^000000
-1) Разогрейте старую сковороду на среднем огне. Новая сковорода впитывает масло
-и дольше разогревается. Если у вас нет сковороды, которой уже пользовались, 
-используйте для ее обработки свиной жир.
-2) Налейте на сковороду 2/3 растительного масла и слегка обжарьте в нем 3 лапки
-кузнечика. Как только они приобретут золотистый цвет, добавьте еще 2 лапки и
-оставшееся масло и жарьте до появления хрустящей корочки.
-<ITEM>[ Виноградный чай на травах ]<INFO>12046</INFO></ITEM>
-Нужно всего лишь смешать виноград с зельями, и ароматный чай готов!
-
-^000088Ингредиенты:^000000
-• <ITEM>Виноград<INFO>514</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Красное зелье<INFO>501</INFO></ITEM> ^777777(2 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Измельчите виноград и смешайте его с 1 красным зельем при помощи миксера.
-Помните, что виноград не нужно очищать от кожицы и зерен!
-2) Добавьте еще одно красное зелье и перемешивайте в течение 10 секунд.
+^0000ffGrape Juice Herbal Tea:^000000It'll be ready as soon as you blend grapes with potions!
+Ingredients: ^4b00823 Grape, 2 Red Potions ^000000
+Directions: 
+	1. Grind 1 Grape, and then mix it with 1 Red Potion in a mixer. 
+                    Remember: don't remove the Grape seeds and skin! Once the Grape and 
+                    Red Potion are blended, add another Red Potion to the mixer, and then 
+                    shake for 10 seconds.
 
 
 
+^800000Honey Grape Juice:^000000 Just blend Honey and Grapes together, and you'll be good to go!
+Ingredients: ^4b00821 Honey, 2 Grape, 1 Red Potion ^000000
+Directions: This is the same recipe as Grape Juice Herbal Tea, except the you add Honey 
+                   instead of Red Potion in the final step.
 
+^008040Frog Egg Squid Ink Soup:^000000Soup added with healthy Squid Ink sauce.
+Ingredients: ^4b00821 Bag of Grain, 10 Spawn, 1 Squid Ink ^000000
+Directions: 
+	1. Place the Spawns in a bowl of cold water to enhance their chewiness, and then grind 
+                    the grain.
+	2. Mix the grain with water, and then simmer the mixture until it thickens.  
+   	3. Add the Spawns to the simmering mixture.
+	4. Once the Spawns are tender, add the Squid Ink as sauce, and then increase the heat 
+                    until the mixture boils.
+          
+^ff8040Steamed Crab Nippers:^000000 It's fun to shell and eat crabs!
+Ingredients: ^00804010 Nippers, 10 Green Herbs, 1 Yellow Potion ^000000
+Directions:
+	1. Marinade Nippers in Yellow Potion for the night before you cook them.
+	2. Line a steamer with a clean cotton cloth, and then add Green Herbs and 
+                    the marinaded Nippers.
+	3. Steam the Nippers until the color of the shell is deep red.
 
-
-
-
-<ITEM>[ Виноградный сок с медом ]<INFO>12061</INFO></ITEM>
-Cмешайте виноград с медом, и сок готов!
-
-^000088Ингредиенты:^000000
-• <ITEM>Мед<INFO>518</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Виноград<INFO>514</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Красное зелье<INFO>501</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-Готовится по тому же рецепту, что и виноградный чай на травах, только в 
-конце вместо еще одного красного зелья добавляется мед.
-
-
-
-
-
-
-
-
-<ITEM>[ Суп из икры лягушки ]<INFO>12056</INFO></ITEM>
-Cуп, приготовленный на бульоне из чернил кальмара.
-
-^000088Ингредиенты:^000000
-• <ITEM>Сухие зерна<INFO>577</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Икра лягушки<INFO>908</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Чернила кальмара<INFO>1024</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Положите икру лягушки в миску с холодной водой, чтобы размягчить ее.
-2) Разотрите в порошок зерно.
-3) Смешайте полученный порошок с водой и кипятите на медленном огне,
-пока смесь не загустеет.
-4) Добавьте в кипящую смесь лягушачью икру.
-5) Как только икра станет мягкой, добавьте чернила кальмара и варите
-на сильном огне.
-
-
-
-<ITEM>[ Вареные клешни краба ]<INFO>12051</INFO></ITEM>
-Очень вкусное блюдо из крабов!
-
-^000088Ингредиенты:^000000
-• <ITEM>Клешня краба<INFO>960</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Зеленая трава<INFO>511</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Желтое зелье<INFO>503</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Перед началом готовки оставьте клешни краба в маринаде из желтого зелья на ночь.
-2) Накройте пароварку чистой тканью и положите туда зеленую траву и маринованные
-клешни.
-3) Готовьте клешни на пару, пока они не приобретут насыщенный красный цвет.
-
-
-
-
-
-
-<ITEM>[ Жареные хвосты йойо ]<INFO>12066</INFO></ITEM>
-Отличная закуска из вкусного мяса!
-
-^000088Ингредиенты:^000000
-• <ITEM>Хвост йойо<INFO>942</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Старая сковорода<INFO>7031</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Растительное масло<INFO>7457</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Очистите хвосты йойо от кожи и нарежьте небольшими кусочками.
-2) Разогрейте старую сковороду на среднем огне, налейте растительное масло и обжарьте
-в нем небольшую часть нарезанных хвостов. Если вы положите на сковороду все сразу,
-мясо получится жестким, так что обжаривайте небольшими порциями.
-
+^400080Fried Monkey Tails:^000000 You might worry that the monkey tails are too tough to chew, 
+                                             but they're actually easy to eat.
+Ingredients: ^0080405 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
+Directions: 
+	1. Skin Yoyo Tails, and cut them into bite size pieces.
+	2. Heat the Old Frying Pan over medium heat, add Cooking Oil, and then fry a small amount 
+                    of the Yoyo Tails. The meat will be too tough if you cook it all 
+                    at once, so cook the tails in smaller batches.
+          

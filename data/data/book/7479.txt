@@ -1,172 +1,102 @@
 %faf0e6
-^000088Перед вами книга, написанная поваром, странствующим по королевству Рун-Мидгард!^000000
-
-Впечатляющее собрание рецептов 8-го уровня! Побалуйте себя изумительными блюдами!
-
-<ITEM>Медведь в соусе<INFO>12073</INFO></ITEM>
-Нежнейшая медвежатина в пряном соусе.
-
-^000088Ингредиенты:^000000
-• <ITEM>Медвежья лапа<INFO>948</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Морковь<INFO>515</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Тыквенная голова<INFO>1062</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Лист алоэ<INFO>521</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Лист хиналле<INFO>520</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Пряный соус<INFO>7454</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Замочите медвежьи лапы в воде на 4 часа.
-2) Промойте мясо холодной водой и обдайте кипятком. Еще раз вымойте лапы и сделайте
-на мясе надрезы. Затем заверните его в кусок ткани.
-3) Добавьте в воду соль, перец и вино и варите в ней завернутые в ткань медвежьи
-лапы. Когда вода закипит, снимите пену и добавьте имбирь и зеленый перец.
-4) Оставьте на медленном огне на несколько часов.
-5) Порежьте морковь и тыкву на кусочки и обдайте кипятком.
-6) Вымойте листья, посолите их и поджарьте. Разложите половину листьев на тарелке и
-выложите на них вареные медвежьи лапы. Остатки листьев положите на другую тарелку
-вместе с кусочками моркови и тыквы.
-7) Добавьте пряный соус в бульон, в котором варились медвежьи лапы, и еще некоторое
-время подержите на огне. Когда бульон загустеет, добавьте оливкового масла и полейте
-полученной смесью мясо медведя.
-
-Внимание!
-Когда будете готовить лапы медведя, не забудьте об их особом запахе. Перед готовкой
-тщательно удалите с них волоски и грязь. Когда будете замачивать лапы, почаще меняйте
-воду. Варите мясо на самом сильном огне.
+^000088A book written by a lone chef wandering the Rune-Midgarts Kingdom!^000000
+ - An impressive tome of poetic Level 8 cooking recipes -
+Indulge in the wondrous dishes of this lone chef's mysterious cooking world!
 
 
+^ff0000Bearfoot Special :^000000 
+Ingredients: ^4b008220 Bear's Footskin, 10 Carrots, 10 Jack o' Pumpkins, 2 Aloe Leaflets, 
+                   1 Hinalle Leaflet, 1 Savory Sauce ^000000
+Directions: 
+	1. Soak the Bear's Footskin in water for a few hours.
+	2. Wash and rinse the soaked Bear's Footskin under cold running water, and parboil them. 
+                    Wash the parboiled Bear's Footskin once more, and score the meat with 
+                    cross cuts. Afterwards, wrap the meat with cotton cloth.
+	3. Boil the wrapped Bear's Footskin with water, salt, wine, and pepper. Skim the surface 
+                    when it bubbles, and then add ginger and green peppers.
+	4. Simmer the broth for a few hours.
+	5. Cut the Carrots and Jack o' Pumpkins into slices, and parboil the slices.
+	6. Wash the leaflets, and fry them with salt. Serve half of the fried leaflets on 
+                    a plate, and put the steamed Bear's Footskin on them. Use the rest of 
+                    the leaflets to garnish the plate with the parboiled carrots and pumpkins.
+	7. Add Savory Sauce to the Bear's Footskin broth, and boil the broth a little longer. 
+                    When the broth thickens, add olive oil, and then pour the  broth on 
+                    the steamed Bear's Footskin.
+Note: Bear's Footskin has distinctive smell. Make sure to remove all the hair and dirt 
+before cooking, frequently change water while soaking the Footskin, and steam using 
+the highest heat setting.
 
+^0000ffRoyal Family Tea:^000000 its taste depends on how it is blended.
+Ingredients: ^4b00824 Prickly Fruits, 10 Hinalle Leaflets, 3 Yggdrasil Leaves, 10 Aloe Leaflets, 
+                   6 Royal Jellys, 1 Yellow Spice ^000000
+Directions: 
+	1. Roast well-dried Prickly Fruits and other herbal leaves.
+	2. Cut the roasted leaves to the desired length, and blend them. Use more Prickly Fruits 
+                    in the blend if you prefer a sour flavor, or more Hinalle Leaves 
+                    if you prefer a bitter flavor.
+	3. Heat water, and pour the heated water into a tea pot before it reaches a boil.
+	4. Infuse small sized leaves for 2 to 3 minutes, and large size leaves for 
+                    3 to 4 minutes.
+	5. Add Royal Jelly and Yellow Spice to taste before drinking.
 
-<ITEM>Королевский чай<INFO>12078</INFO></ITEM>
-Его вкус зависит от того, как смешиваются ингредиенты.
+^800000Special Toast:^000000 toast made with unconventional ingredients!
+Ingredients: ^4b008210 Bread, 2 Royal Jellys, 5 Meat, 10 Strawberries, 1 Spicy Sauce, 10 Cheese, 
+                   1 Sweet Sauce ^000000
+Directions: 
+	1. Grind Meat, and then mix in Spicy Sauce.
+	2. Make a meat patty using the minced meat, and cook it until it is well done.
+	3. Make a jam with the Strawberries, or just slice them if they're fresh.
+	4. Toast and butter 2 slices of Bread.
+	5. Spread strawberry jam on the side of one bread piece, and then put the meat patty 
+                    on top. Spread Spice Sauce, add a cheese slice, and top it with 
+                    the other bread piece.
+	6. If you use sliced fresh Strawberries, spread Spicy Sauce on one side of a bread piece, 
+                    and put the meat patty on top. Mix the Sweet Sauce with Royal Jelly, 
+                    and spread it on one side of the other bread piece, add a cheese slice 
+                    and sliced fresh strawberries on top.
+	7. Put the bread pieces together to make a sandwich.
 
-^000088Ингредиенты:^000000
-• <ITEM>Колючий фрукт<INFO>576</INFO></ITEM> ^777777(4 шт.)^000000
-• <ITEM>Лист хиналле<INFO>520</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Лист Иггдрасиля<INFO>610</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Лист алоэ<INFO>521</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Королевский мед<INFO>526</INFO></ITEM> ^777777(6 шт.)^000000
-• <ITEM>Желтая приправа<INFO>7452</INFO></ITEM> ^777777(1 шт.)^000000
+^008040Incredibly Spicy Curry+9:^000000 spicy curry beyond imagination!
+Ingredients: ^4b00821 Aloe Vera, 1 Spicy Sauce, 10 Meat, 10 Hinalle Leaflets, 10 Jack o' Pumpkins, 
+                    10 Carrots ^000000
+Directions: 
+	1. Dry Aloe Vera and Hinalle Leaflets, and then pulverize them into powder.
+	2. Mix the powders at your desired ratio.
+	3. Cut Meat to 2 cm squares, and sprinkle salt and pepper. 
+	4. Cut the Jack o' Pumpkins and Carrots into squares, and fry them with butter.
+	5. Fry the cut meat separately from the vegetables. Add the fried vegetables 
+                    when the meat is half cooked, and then fry thema little longer.
+	6. Add the Aloe Vera and Hinalle powder and water to the pan.
+	7. Boil down the mixture, add Spicy Sauce, and continue boiling down 
+                    until the curry thickens.
 
-^000088Способ приготовления:^000000
-1) Прожарьте высушенные колючие фрукты и листья.
-2) Порежьте листья и фрукты и перемешайте. Кусочки могут быть любой величины. Если
-вам нравится кисловатый вкус, добавьте в смесь побольше колючих фруктов, а если
-хотите получить горький напиток, положите больше листьев хиналле.
-3) Нагрейте воду, не доводя до кипения. Вылейте горячую воду в чайник.
-4) Мелко порезанные листья настаивайте 2-3 минуты, крупные - 4-5 минут.
-5) Добавьте королевский мед и желтую приправу по вкусу.
-<ITEM>Бутерброд<INFO>12093</INFO></ITEM>
-Бутерброд с необычными ингредиентами!
+^ff8040Giant Burrito:^000000 big enough to share with friends!
+Ingredients: ^4b008220 Fig Leaves, 20 Meat, 5 Rainbow Carrots, 10 Jack o' Pumpkins, 
+                   1 Savory Sauce, 2 Bags of Grain ^000000
+Directions:
+	1. Peel off the skin from the Fig Leaf stems. Steam the Fig Leaves with Jack o' Pumpkin, 
+                    and then cool them under running water.
+	2. Soak Meat in water to remove excess blood, and then tie the Meat with thread.
+	3. Boil Carrots and Jack o' Pumpkins in water to make broth.
+	4. Put the tied Meat in the Carrot and Jack oЎЇ Pumpkin broth, and boil for 40 minutes. 
+                    Add Savory Sauce taste.
+	5. When the Meat is cooked, turn off the heat, and allow it to cool.
+	6. Cut the Meat into thin slices.
+	7. Winnow out the chaff from the grain, and cook some rice.
+	8. Cut the Carrots into thin slices, and fry them.
+	9. Lay out a Fig leaf, and fold the stem toward the leaf.
+	10. Put the rice, meat slices, carrot slices, and cooked Jack o' Pumpkin on the leaf.
+	11. Spread Savory Sauce, and roll the leaf to make... a burrito?
 
-^000088Ингредиенты:^000000
-• <ITEM>Хлеб<INFO>580</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Королевский мед<INFO>526</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Мясо<INFO>517</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Клубника<INFO>578</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Острый соус<INFO>7455</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Сыр<INFO>548</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Сладкий соус<INFO>7453</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Пропустите мясо через мясорубку и смешайте с острым соусом.
-2) Слепите из фарша котлету и поджарьте ее.
-3) Сделайте из клубники джем или просто порежьте свежие ягоды на дольки.
-4) Поджарьте 2 куска хлеба и намажьте на них масло.
-5) Намажьте на один кусок хлеба клубничный джем и положите сверху котлету. Полейте
-острым соусом, положите ломтик сыра и накройте вторым куском хлеба.
-6) Если вы используете свежие ягоды, полейте один кусок хлеба острым соусом и
-положите на него котлету. Смешайте сладкий соус с королевским медом, намажьте
-полученной смесью второй кусок хлеба, положите сверху ломтик сыра и нарезанную
-клубнику.
-7) Сложите куски хлеба вместе, чтобы получился бутерброд.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ITEM>Очень острое карри<INFO>12088</INFO></ITEM>
-Невероятно пикантное блюдо!
-
-^000088Ингредиенты:^000000
-• <ITEM>Алоэвера<INFO>606</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Острый соус<INFO>7455</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Мясо<INFO>517</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Лист хиналле<INFO>520</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Тыквенная голова<INFO>1062</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Морковь<INFO>515</INFO></ITEM> ^777777(10 шт.)^000000
-^000088Способ приготовления:^000000
-1) Высушите алоэвера и листья хиналле и разотрите в порошок.
-2) Смешайте порошки в желаемой пропорции.
-3) Порежьте мясо кубиками размером 2 см и посыпьте солью и перцем.
-4) Порежьте кубиками тыкву и морковь и обжарьте в масле.
-5) Отдельно пожарьте нарезанное кусочками мясо. Когда мясо будет наполовину готово,
-добавьте к нему овощи и продолжайте жарить вместе.
-6) Добавьте воды и порошок алоэвера и хиналле.
-7) Доведите смесь до кипения, добавьте острый соус и варите, пока карри не загустеет.
-<ITEM>Буррито<INFO>12083</INFO></ITEM>
-Огромный буррито, которого хватит, чтобы угостить всех друзей!
-
-^000088Ингредиенты:^000000
-• <ITEM>Фиговый листок<INFO>7298</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Мясо<INFO>517</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Радужная морковь<INFO>622</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Тыквенная голова<INFO>1062</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Пряный соус<INFO>7454</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Сухие зерна<INFO>577</INFO></ITEM> ^777777(2 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Очистите фиговые листья от кожицы. Сварите их вместе с тыквой и охладите под
-проточной водой.
-2) Замочите мясо в воде, чтобы вытекла лишняя кровь, затем перевяжите куски мяса
-ниткой.
-3) Приготовьте отвар из моркови и тыквы.
-4) Положите в отвар куски мяса и варите 40 минут. Добавьте пряный соус по вкусу.
-5) Когда мясо будет готово, снимите его с огня и дайте остыть.
-6) Порежьте мясо тонкими кусочками.
-7) Извлеките из колосков зерна риса и сварите его.
-8) Порежьте и поджарьте морковь.
-9) Согните черенки листьев.
-10) Выложите на лист рис, кусочки мяса, морковь и тыкву.
-11) Полейте пряным соусом и сверните лист. Буррито готово!
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ITEM>Клубничный онигири<INFO>12098</INFO></ITEM>
-Очень вкусный рисовый шарик.
-
-^000088Ингредиенты:^000000
-• <ITEM>Клубника<INFO>578</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Сухие зерна<INFO>577</INFO></ITEM> ^777777(5 шт.)^000000
-• <ITEM>Фиговый листок<INFO>7298</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Желтая приправа<INFO>7452</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Красная приправа<INFO>7456</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Пряный соус<INFO>7454</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Извлеките из колосков зерна риса и сварите его.
-2) Выжмите из клубники сок.
-3) Положите вареный рис в большую миску и остудите.
-4) Добавьте к рису пряный соус, желтую приправу и клубничный сок и хорошенько
-перемешайте.
-5) Сделайте из риса шарики и заверните в ошпаренные кипятком фиговые листья.
-
+^400080Strawberry Flavored Rice Ball:^000000 a delicious rice ball, 
+                                                               also known as Poring Flavored Rice Ball.
+Ingredients: ^4b008210 Strawberries, 5 Bags of Grain, 10 Fig Leaves, 1 Yellow Spice, 2 Red Spice, 
+                   1 Savory Sauce ^000000
+Directions:
+	1. Winnow away the chaff from the grain, and cook rice.
+	2. Squeeze strawberries to produce strawberry juice.
+	3. Put the cooked rice in a large bowl, and let it cool.
+	4. Add Savory Sauce, Yellow Spice, and strawberry juice to the rice, 
+                    and mix together well. 
+	5. Grab a fistful of rice to make a ball, and wrap it with a parboiled Fig Leaf.
+         

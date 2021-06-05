@@ -1,115 +1,79 @@
 %faf0e6
-^000088Станьте настоящим профессионалом в кулинарии!^000000
-Не каждому удастся приготовить такие сложные блюда, но попробовать можно всегда!
+^000088Be reborn as a true chef, and enter the cooking world of the gods!^000000
 
-<ITEM>[ Блины из Люти ]<INFO>12045</INFO></ITEM>
-Испеките сами блины по рецепту повара из Люти!
-^000088Ингредиенты:^000000
-• <ITEM>Батат<INFO>516</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Мед<INFO>518</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Растительное масло<INFO>7457</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Морковь<INFO>515</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Сухие зерна<INFO>577</INFO></ITEM> ^777777(1 шт.)^000000
-^000088Способ приготовления:^000000
-1) Сварите и разомните бататы.
-2) Порежьте морковь.
-3) Разотрите зерна в муку.
-4) Смешайте муку с яйцами, бататами, порезанной морковью и водой и замесите тесто.
-5) Разогрейте сковороду на сильном огне и полейте растительным маслом.
-6) Налейте на сковороду немного теста и обжаривайте до появления хрустящей золотистой
-корочки.
-<ITEM>[ Вино из мастелы ]<INFO>12050</INFO></ITEM>
-Позволяет сохранить ясность мысли, однако выпив его, все равно
-не стоит ездить на пекопеко!
-
-^000088Ингредиенты:^000000
-• <ITEM>Фрукт мастелы<INFO>522</INFO></ITEM> ^777777(4 шт.)^000000
-• <ITEM>Синее зелье<INFO>505</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Спирт<INFO>970</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Лимон<INFO>568</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Желтая приправа<INFO>7452</INFO></ITEM> ^777777(1 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Выжмите сок из 3 мастел и всех лимонов.
-2) В течение 20 секунд перемешивайте лимонный сок и спирт из одного пузырька.
-3) Добавьте 1 синее зелье, 1 пузырек спирта и сок мастелы и перемешивайте еще
-5 секунд.
-4) Налейте полученное вино в стакан и посыпьте желтой приправой. Украсьте половинкой
-оставшегося фрукта мастелы.
-
-<ITEM>[ Зеленый салат ]<INFO>12065</INFO></ITEM>
-Салат из свежей зелени со сладкой заправкой.
-
-^000088Ингредиенты:^000000
-• <ITEM>Лист хиналле<INFO>520</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Лист алоэ<INFO>521</INFO></ITEM> ^777777(3 шт.)^000000
-• <ITEM>Острый лист<INFO>7100</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Большой лист<INFO>7198</INFO></ITEM> ^777777(6 шт.)^000000
-• <ITEM>Сладкий соус<INFO>7453</INFO></ITEM> ^777777(1 шт.)^000000
-^000088Способ приготовления:^000000
-1) Порежьте листья хиналле, ненадолго замочите в холодной воде и высушите.
-2) Порежьте острые листья на кусочки по 5 см, затем каждый кусочек разрежьте на
-3 части. Ненадолго замочите в холодной воде и высушите.
-3) Сверните большие листья и порежьте. Положите в холодную воду на несколько минут и
-высушите.
-4) Очистите листья алое от колючек и порежьте на половинки. Мелко порубите каждую
-половинку, замочите на несколько минут и высушите.
-5) Аккуратно выложите на тарелку каждый вид зелени по отдельности. Перед подачей
-на стол полейте сладким соусом.
-<ITEM>[ Фаршированная тыква ]<INFO>12060</INFO></ITEM>
-Вкусная сладкая тыква, фаршированная крыльями летучей мыши.
-
-^000088Ингредиенты:^000000
-• <ITEM>Крыло летучей мыши<INFO>7006</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Тыквенная голова<INFO>1062</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Кастрюля<INFO>7482</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Лист хиналле<INFO>520</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Красная трава<INFO>507</INFO></ITEM> ^777777(10 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Порежьте крылья летучей мыши на небольшие кусочки. Крупно порубите листья хиналле
-и красную траву.
-2) Полейте сковороду маслом, обжарьте крылья летучей мыши, посыпьте листьями
-хиналле и продолжайте жарку.
-3) Когда крылья будут готовы, посыпьте их солью и красной травой.
-4) Разрежьте тыкву на 6 частей и вычистите мякоть и семена.
-5) Положите внутрь тыквы жареные крылья летучей мыши и снова сложите дольки вместе.
-6) Готовьте фаршированную тыкву на пару в течение 15 минут.
-<ITEM>[ Жареный пирожок ]<INFO>12055</INFO></ITEM>
-Пирожок с хрустящей корочкой.
-
-^000088Ингредиенты:^000000
-• <ITEM>Пирожок<INFO>553</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Желтая трава<INFO>508</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Острый соус<INFO>7455</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Красная приправа<INFO>7456</INFO></ITEM> ^777777(1 шт.)^000000
-• <ITEM>Зеленая трава<INFO>511</INFO></ITEM> ^777777(20 шт.)^000000
-
-^000088Способ приготовления:^000000
-1) Порежьте зеленую и желтую траву на кусочки размером побольше пирожков.
-2) Поджарьте пирожки и снимите излишки масла.
-3) Покройте тарелку кусочками зеленой травы, положите на нее пирожки и желтую траву
-и полейте острым соусом.
-4) Посыпьте красной приправой и подавайте на стол.
+Not everyone can become a chef, but it couldn't hurt to study this recipe book!
 
 
+^ff0000Lutie Lady's Pancake:^000000 recreate the delicious taste of Lutie lady's pancake on your own!
+Ingredients: ^4b008210 Potatoes, 2 Honey, 1 Cooking Oil, 3 Carrots, 1 Bag of Grain ^000000 
+Directions:
+	1. Make mashed potatos by boiling Potatos and crushing them.
+	2. Cut the Carrots into slices.
+	3. Grind the Grain to make flour, and mix the grain powder with egg, mashed potatos, 
+                    Carrot slices, and water, and then knead.
+	4. Heat a pan over high heat, and oil the pan.
+	5. Add a batch of the dough, and fry it until it is a crisp, golden brown.
 
-<ITEM>[ Жареные хвосты скорпионов ]<INFO>12070</INFO></ITEM>
-Они гораздо вкуснее, чем кажутся!
-^000088Ингредиенты:^000000
-• <ITEM>Хвост скорпиона<INFO>904</INFO></ITEM> ^777777(20 шт.)^000000
-• <ITEM>Лапка жука<INFO>1042</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Большой лист<INFO>7198</INFO></ITEM> ^777777(10 шт.)^000000
-• <ITEM>Старая сковорода<INFO>7031</INFO></ITEM> ^777777(2 шт.)^000000
-• <ITEM>Растительное масло<INFO>7457</INFO></ITEM> ^777777(1 шт.)^000000
-^000088Способ приготовления:^000000
-1) Тонко нарежьте большие листья.
-2) Разогрейте сковороду на среднем огне и полейте растительным маслом.
-3) Поджарьте лапки жука.
-4) Возьмите вторую сковороду, полейте маслом и поджарьте на ней хвосты скорпиона.
-Составляющие этого блюда нужно готовить по отдельности, чтобы они сохранили свой вкус.
-5) Как только лапки жука и хвосты скорпиона поджарятся до золотистого цвета и
-хрустящей корочки, добавьте кусочки больших листьев и еще немного жарьте все вместе.
-6) Положите на тарелку большой лист и выложите на него жареные хвосты скорпиона и
-лапки жука.
-7) Подавайте с соевым соусом.
+^0000ffMastela Fruit Wine:^000000 this purple wine is very tempting, 
+                                           but don't drink and drive your PecoPeco!
+Ingredients: ^4b00824 Mastela Fruits, 1 Blue Potion, 2 Alcohol, 2 Lemons, 1 Yellow Spice ^000000 
+Directions: 
+	1. Squeeze 3 Mastela Fruits and Lemon to make Mestela Fruit juice and Lemon juice.
+	2. Add 1 Alcohol and the lemon juice to a mixer, and mix for 20 seconds.
+	3. Add 1 Blue Potion, 1 Alcohol, and MastelaJuice to the mixer, and mix 
+                    for another 5 seconds..
+	4. Pour the mixed Mastela Wine to a glass. Sprinkle Yellow Spice on top, and garnish 
+                    the glass with the remaining half Mastela Fruit.
+
+^800000Green Salad:^000000fresh green salad with sweet dressing.
+Ingredients: ^4b00822 Hinalle Leaflets, 3 Aloe Leaflets, 10 Sharp Leaves, 6 Huge Leaves, 
+                   1 Sweet Sauce, 1 Yellow Spice ^000000 
+Directions:
+	1. Slice the Hinalle Leaflets, soak the slices shortly in cold water, and then dry.
+	2. Sort the soft Sharp Leaves, cut them into 5 cm pieces. Afterwards, cut the leaf pieces 
+                    into thirds. Soak the slices shortly in cold water, and then dry.
+                3. Roll the Huge Leaves, and cut the rolled Huge Leaves into slices. 
+                    Briefly soak the slices shortly in cold water, and then dry.
+	4. Remove thorns from the Aloe Leaflets, and then cut them into half. 
+                    Slice the Aloe Leaflet halves, briefly soak them in cold water, 
+                    and then dry.
+	5. Place a fistful of each vegetable next to each other. Serve with Sweet Sauce and 
+                    Yellow Space spread on top.
+
+^008040Steamed Bat Wing in Pumpkin:^000000 tender bat wings steamed inside a sweet pumpkin.
+Ingredients: ^4b0082 20 Wings of Red Bat, 20 Jack oЎЇ Pumpkins, 1 Pot, 10 Hinalle Leaflets, 
+                   10 Red Herbs ^000000 
+Directions:
+	1. Cut the bat wings into bite size pieces, and then cut Hinalle Leaflets and Red Herbs 
+                    into thick slices.
+	2. Oil a pan, and fry the bat wings for a while, and then add Hinalle Leaflet slices. 
+                    Continue frying.
+	3. When the bat wings are well cooked, add Red Herb slices and salt.
+	4. Cut a Jack o' Pumkin into 6 lengthwise pieces, and then scrape off the pulp and seeds 
+                    from the pumpkin pieces.
+	5. Reassemble the pumpkin pieces, and then put the fried bat wings inside.
+	6. Steam the pumpkin and bat wings for 15 minutes before serving.
+
+^ff8040Spicy Fried Bao:^000000crispy, fried transparent Baos.
+Ingredients: ^4b008220 Baos, 10 Yellow Herbs, 1 Spicy Sauce, 1 Red Spice, 20 Green Herbs ^000000 
+Directions: 
+	1. Cut Yellow and Green Herbs into pieces that are bigger than a Bao.
+	2. Fry Baos, and skim off the extra oil.
+	3. Line a plate with Green Herbs, and then place the Yellow Herbs and fried Baos 
+                    on the plate before spreading Spicy Sauce on top.
+	4. Sprinkle Red Spice, and then serve.
+
+^400080Fried Scorpion Tails:^000000 don't judge the taste by this dish's appearance!
+Ingredients: ^4b008220 Scorpion Tails, 10 Bug Legs, 10 Huge Leaves, 2 Old Frying Pans, 
+                    1 Cooking Oil ^000000 
+Directions:
+	1. Cut the Huge Leaves into thin slices.
+	2. Heat a frying pan over medium heat, and add 2 TS of Cooking Oil.
+	3. Fry the Bug Legs in the pan.
+	4. Prepare another frying pan in the same fashion, and then fry the Scorpion Tails 
+                    in the pan. These ingredients are cooked separately to keep from mixing 
+                    their tastes.
+	5. Once the Bug Legs and Scorpion Tails are crisp and golden brown, add the Huge Leaf 
+                    pieces, and then briefly fry them altogether.
+	6. Place a Huge Leaf on a plate, and place the fried Scorpion Tails and Bug Legs on it.
+	7. Serve with soy sauce.

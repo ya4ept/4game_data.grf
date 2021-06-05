@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="euc-kr" ?>
-
 <clientinfo>
-
-	<servicetype>russia</servicetype>
+	<servicetype>eu</servicetype>
 	<servertype>primary</servertype>
 	<passwordencrypt></passwordencrypt>
-	<hideaccountlist></hideaccountlist>
-
+	<readfolder></readfolder>
 	<connection>
-		<display>Prime</display>
+		<display>Europe Server</display>
 		<desc>None</desc>
-		<address>109.105.141.16</address>
+		<address>185.47.157.145</address>
 		<port>6800</port>
 		<version>1</version>
-		<registrationweb>https://ru.4game.com/</registrationweb>
-		<aid>
-		<admin>100001</admin>
-		<admin>100002</admin>
-		<admin>101745</admin>
-		<admin>101635</admin>
-		<admin>102021</admin>
+		<registrationweb>https://eu.4game.com/</registrationweb>
+		<aid>	
 		</aid>
 	</connection>
-
 </clientinfo>

@@ -4,12 +4,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "На север от Пронтеры",
+		title = "Prontera Northern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем [1]",
-			details = "В северных окрестностях Пронтеры спрятано\nсокровище. Найдите его!"
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Prontera"
 		},
-		resource = { [1] = { text = "Найти сокровище на севере от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -18,12 +18,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Упырей в Гластхейме ",
+		title = "Glast Heim Ghoul Hunt",
 		content = {
-			summary = "Убить всех монстров ",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убить 20,000 Упырей ", count = 20000 } },
+		resource = { [1] = { text = "Hunt Ghoul 20,000 times", count = 20000 } },
 		reward = { item = 4110 },
 		score = 10
 	},
@@ -32,12 +32,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "На северо-восток от Пронтеры",
+		title = "Prontera Northern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем [2]",
-			details = "В северо-восточных окрестностях Пронтеры\nспрятано сокровище. Найдите его!"
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Prontera"
 		},
-		resource = { [1] = { text = "Найти сокровище на северо-востоке от\nПронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -46,12 +46,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "На северо-восток от Пронтеры",
+		title = "Prontera Northern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем [3]",
-			details = "В северо-восточных окрестностях Пронтеры\nспрятано сокровище. Найдите его!"
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Prontera"
 		},
-		resource = { [1] = { text = "Найти сокровище на северо-востоке от\nПронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -60,12 +60,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на западе от Пронтеры (1)",
+		title = "Prontera Western Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на западе от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields west of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на западе от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields west of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -74,12 +74,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на западе от Пронтеры (2)",
+		title = "Prontera Western Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на западе от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields west of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на западе от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields west of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -88,12 +88,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на востоке от Пронтеры ",
+		title = "Prontera Eastern Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на востоке от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields east of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на востоке от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields east of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -102,12 +102,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юге от Пронтеры (1)",
+		title = "Prontera Southern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юге от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -116,12 +116,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юге от Пронтеры (2)",
+		title = "Prontera Southern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юге от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -130,12 +130,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юге от Пронтеры (3)",
+		title = "Prontera Southern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юже от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -144,12 +144,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юге от Пронтеры (4)",
+		title = "Prontera Southern Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юге от Пронтеры."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Prontera"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Пронтеры." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -158,12 +158,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на востоке от Геффена ",
+		title = "Geffen Eastern Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на востоке от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields east of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на востоке от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields east of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -172,12 +172,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юго-востоке от Геффена ",
+		title = "Geffen Southeastern Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юго-востоке от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields southeast of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юго-востоке от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields southeast of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -186,12 +186,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северо-западе от Геффена (1)",
+		title = "Geffen Northwestern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северо-западе от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields northwest of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северо-западе от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields northwest of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -200,12 +200,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северо-западе от Геффена (2)",
+		title = "Geffen Northwestern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северо-западе от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields northwest of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северо-западе от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields northwest of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -214,12 +214,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северо-западе от Геффена (3)",
+		title = "Geffen Northwestern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северо-западе от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields northwest of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северо-западе от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields northwest of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -228,12 +228,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юге от Геффена (1)",
+		title = "Geffen Southern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юге от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -242,12 +242,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юге от Геффена (2)",
+		title = "Geffen Southern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юге от Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Geffen"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Геффена." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Geffen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -256,12 +256,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски в пустыне Сограт (1)",
+		title = "Sograt Desert Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пустыне Сограт."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sograt Desert"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -270,12 +270,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски в пустыне Сограт (2)",
+		title = "Sograt Desert Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пустыне Сограт."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sograt Desert"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -284,12 +284,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски в пустыне Сограт (3)",
+		title = "Sograt Desert Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пустыне Сограт."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sograt Desert"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -298,12 +298,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски в пустыне Сограт (4)",
+		title = "Sograt Desert Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пустыне Сограт."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sograt Desert"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -312,12 +312,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски в пустыне Сограт (5)",
+		title = "Sograt Desert Field Exploration (5)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пустыне Сограт."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sograt Desert"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -326,12 +326,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски в пустыне Сограт (6)",
+		title = "Sograt Desert Field Exploration (6)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пустыне Сограт."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sograt Desert"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пустыне Сограт." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -340,12 +340,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юго-западе от Пайона (1)",
+		title = "Payon Southwestern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юго-западе от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields southwest of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -354,12 +354,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юго-западе от Пайона (2)",
+		title = "Payon Southwestern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юго-западе от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields southwest of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -368,12 +368,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юго-западе от Пайона (3)",
+		title = "Payon Southwestern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юго-западе от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields southwest of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -382,12 +382,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юго-западе от Пайона (4)",
+		title = "Payon Southwestern Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юго-западе от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields southwest of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юго-западе от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -396,12 +396,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на востоке от Пайона (1)",
+		title = "Payon Eastern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на востоке от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields east of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -410,12 +410,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на востоке от Пайона (2)",
+		title = "Payon Eastern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на востоке от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields east of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -424,12 +424,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на востоке от Пайона (3)",
+		title = "Payon Eastern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на востоке от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields east of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -438,12 +438,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на востоке от Пайона (4)",
+		title = "Payon Eastern Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на востоке от Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields east of Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище на востоке от Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -452,12 +452,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северной горной гряде Мьелльнир (1)",
+		title = "Mjolnir Northern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -466,12 +466,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северной горной гряде Мьелльнир (2)",
+		title = "Mjolnir Northern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -480,12 +480,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северной горной гряде Мьелльнир (3)",
+		title = "Mjolnir Northern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -494,12 +494,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северной горной гряде Мьелльнир (4)",
+		title = "Mjolnir Northern Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -508,12 +508,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на северной горной гряде Мьелльнир (5)",
+		title = "Mjolnir Northern Field Exploration (5)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на северной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на северной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -522,12 +522,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на южной горной гряде Мьелльнир (1)",
+		title = "Mjolnir Southern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -536,12 +536,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на южной горной гряде Мьелльнир (2)",
+		title = "Mjolnir Southern Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -550,12 +550,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на южной горной гряде Мьелльнир (3)",
+		title = "Mjolnir Southern Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -564,12 +564,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на южной горной гряде Мьелльнир (4)",
+		title = "Mjolnir Southern Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -578,12 +578,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на южной горной гряде Мьелльнир (5)",
+		title = "Mjolnir Southern Field Exploration (5)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -592,12 +592,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на южной горной гряде Мьелльнир (6)",
+		title = "Mjolnir Southern Field Exploration (6)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на южной горной гряде Мьелльнир."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Mjolnir"
 		},
-		resource = { [1] = { text = "Найдите сокровище на южной горной гряде Мьелльнир." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -606,12 +606,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски на юго-востоке от Альдебарана ",
+		title = "Al De Baran Southeastern Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юго-востоке от Альдебарана."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Al De Baran"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юго-востоке от Альдебарана." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Al De Baran" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -620,12 +620,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (1)",
+		title = "Comodo Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -634,12 +634,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (2)",
+		title = "Comodo Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -648,12 +648,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (3)",
+		title = "Comodo Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -662,12 +662,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (4)",
+		title = "Comodo Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -676,12 +676,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (5)",
+		title = "Comodo Field Exploration (5)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -690,12 +690,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (6)",
+		title = "Comodo Field Exploration (6)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -704,12 +704,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (7)",
+		title = "Comodo Field Exploration (7)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -718,12 +718,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Поиски около Комодо (8)",
+		title = "Comodo Field Exploration (8)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -732,12 +732,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около Форта Гаррисона (1)",
+		title = "Border Garrison Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Форта Гаррисона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Border Garrison"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Форта Гаррисона." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Border Garrison" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -746,12 +746,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около Форта Гаррисона (2)",
+		title = "Border Garrison Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Форта Гаррисона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Border Garrison"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Форта Гаррисона." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Border Garrison" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -760,12 +760,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около особняка Киеля Кайра ",
+		title = "Kiel Hyre's Cottage Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около особняка Киеля Кайра."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Kiel Hyre's Cottage"
 		},
-		resource = { [1] = { text = "Найдите сокровище около особняка Киеля Кайра." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Kiel Hyre's Cottage" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -774,12 +774,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около плато Эльмес (1)",
+		title = "El Mes Plateau Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около плато Эльмес."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the El Mes Plateau"
 		},
-		resource = { [1] = { text = "Найдите сокровище около плато Эльмес." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the El Mes Plateau" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -788,12 +788,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около плато Эльмес (2)",
+		title = "El Mes Plateau Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около плато Эльмес."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the El Mes Plateau"
 		},
-		resource = { [1] = { text = "Найдите сокровище около плато Эльмес." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the El Mes Plateau" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -802,12 +802,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около плато Эльмес (3)",
+		title = "El Mes Plateau Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около плато Эльмес."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the El Mes Plateau"
 		},
-		resource = { [1] = { text = "Найдите сокровище около плато Эльмес." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the El Mes Plateau" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -816,12 +816,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около каньона Эльмес ",
+		title = "El Mes Gorge Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около каньона Эльмес."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around El Mes Gorge"
 		},
-		resource = { [1] = { text = "Найдите сокровище около каньона Эльмес." } },
+		resource = { [1] = { text = "Discover treasure in the fields around El Mes Gorge" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -830,12 +830,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около академии Киеля Кайра ",
+		title = "Kiel Hyre Academy Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около академии Киеля Кайра."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Kiel Hyre Academy"
 		},
-		resource = { [1] = { text = "Найдите сокровище около академии Киеля Кайра." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Kiel Hyre Academy" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -844,12 +844,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около военного лагеря Шварцвальта ",
+		title = "Guards Camp Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около военного лагеря Шварцвальта."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Guards Camp"
 		},
-		resource = { [1] = { text = "Найдите сокровище около военного лагеря Шварцвальта." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Guards Camp" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -858,9 +858,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Юно ",
-		content = { summary = "Найти сундук с сокровищем ", details = "Найдите сокровище около Юно." },
-		resource = { [1] = { text = "Найдите сокровище около Юно." } },
+		title = "Juno Field Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Juno"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around Juno" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -869,12 +872,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около входа в башню Танатоса.",
+		title = "Thanatos Tower Entrance Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около входа в башню Танатоса."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Thanatos Tower Entrance"
 		},
-		resource = { [1] = { text = "Найдите сокровище около входа в башню Танатоса." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Thanatos Tower Entrance" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -883,12 +886,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Хугель (1)",
+		title = "Hugel Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Хугель."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Hugel"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Хугель." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Hugel" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -897,12 +900,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Хугель (2)",
+		title = "Hugel Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Хугель."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Hugel"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Хугель." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Hugel" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -911,12 +914,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Хугель (3)",
+		title = "Hugel Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Хугель."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Hugel"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Хугель." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Hugel" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -925,12 +928,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около Бездонного озера (1)",
+		title = "Abyss Lake Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около Безднного озера."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Abyss Lake"
 		},
-		resource = { [1] = { text = "Найдите сокровище около Безднного озера." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Abyss Lake" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -939,12 +942,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (1)",
+		title = "Einbroch Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -953,12 +956,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (2)",
+		title = "Einbroch Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -967,12 +970,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (3)",
+		title = "Einbroch Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -981,12 +984,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (4)",
+		title = "Einbroch Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -995,12 +998,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (5)",
+		title = "Einbroch Field Exploration (5)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1009,12 +1012,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (6)",
+		title = "Einbroch Field Exploration (6)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1023,12 +1026,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (7)",
+		title = "Einbroch Field Exploration (7)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1037,12 +1040,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Эйнброх (8)",
+		title = "Einbroch Field Exploration (8)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Эйнброх."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbroch"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Эйнброх." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1051,12 +1054,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Лайтхайзен (1)",
+		title = "Lighthalzen Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Лайтхайзен."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Lighthalzen"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Лайтхайзен." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Lighthalzen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1065,12 +1068,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Лайтхайзен (2)",
+		title = "Lighthalzen Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Лайтхайзен."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Lighthalzen"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Лайтхайзен." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Lighthalzen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1079,12 +1082,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Поиски около города Лайтхайзен (3)",
+		title = "Lighthalzen Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Лайтхайзен."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Lighthalzen"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Лайтхайзен." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Lighthalzen" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1093,12 +1096,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около равнины Аудумлы (1)",
+		title = "Audhumbla Plain Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около равнины Аудумлы."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Audhumbla Plain"
 		},
-		resource = { [1] = { text = "Найдите сокровище около равнины Аудумлы." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Audhumbla Plain" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1107,12 +1110,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около равнины Идун (1)",
+		title = "Plain of Ida Field Exploration (1)",
 		content = {
-			summary = "ННайти сундук с сокровищем ",
-			details = "Найдите сокровище около равнины Идун."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Plain of Ida"
 		},
-		resource = { [1] = { text = "Найдите сокровище около равнины Идун." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Plain of Ida" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1121,12 +1124,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около равнины Идун (2)",
+		title = "Plain of Ida Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около равнины Идун."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Plain of Ida"
 		},
-		resource = { [1] = { text = "Найдите сокровище около равнины Идун." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Plain of Ida" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1135,12 +1138,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около равнины Идун (3)",
+		title = "Plain of Ida Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около равнины Идун."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Plain of Ida"
 		},
-		resource = { [1] = { text = "Найдите сокровище около равнины Идун." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Plain of Ida" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1149,12 +1152,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски на лугах Аудумлы (1)",
+		title = "Audhumbla Grassland Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на лугах Аудумлы."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Audhumbla Grassland"
 		},
-		resource = { [1] = { text = "Найдите сокровище на лугах Аудумлы." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Audhumbla Grassland" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1163,12 +1166,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски на лугах Аудумлы (2)",
+		title = "Audhumbla Grassland Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на лугах Аудумлы."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Audhumbla Grassland"
 		},
-		resource = { [1] = { text = "Найдите сокровище на лугах Аудумлы." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Audhumbla Grassland" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1177,12 +1180,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около врат Луны.",
+		title = "Portus Luna Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около врат Луны."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Portus Luna"
 		},
-		resource = { [1] = { text = "Найдите сокровище около врат Луны." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Portus Luna" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1191,12 +1194,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около города Вейнс (1)",
+		title = "Veins Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Вейнс."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Veins"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1205,12 +1208,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около города Вейнс (2)",
+		title = "Veins Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Вейнс."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Veins"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1219,12 +1222,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около города Вейнс (3)",
+		title = "Veins Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Вейнс."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Veins"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1233,12 +1236,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около города Вейнс (4)",
+		title = "Veins Field Exploration (4)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Вейнс."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Veins"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1247,12 +1250,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Поиски около города Вейнс (5)",
+		title = "Veins Field Exploration (5)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Вейнс."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Veins"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Вейнс." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1261,12 +1264,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски вокруг города Экледж.",
+		title = "Eclage Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Экледж."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Eclage"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Экледж." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Eclage" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1275,12 +1278,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски на севере от Бифроста (1)",
+		title = "Bifrost Northern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на севере от Бифроста."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields north of Bifrost"
 		},
-		resource = { [1] = { text = "Найдите сокровище на севере от Бифроста." } },
+		resource = { [1] = { text = "Discover treasure in the fields north of Bifrost" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1289,12 +1292,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски на юге от Бифроста (1)",
+		title = "Bifrost Southern Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище на юге от Бифроста."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields south of Bifrost"
 		},
-		resource = { [1] = { text = "Найдите сокровище на юге от Бифроста." } },
+		resource = { [1] = { text = "Discover treasure in the fields south of Bifrost" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1303,12 +1306,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски около города Сплендид (1)",
+		title = "Splendide Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Сплендид."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Splendide"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Сплендид." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Splendide" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1317,12 +1320,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски около города Сплендид (2)",
+		title = "Splendide Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Сплендид."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Splendide"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Сплендид." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Splendide" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1331,12 +1334,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски около города Сплендид (3)",
+		title = "Splendide Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Сплендид."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Splendide"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Сплендид." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Splendide" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1345,12 +1348,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски около города Манук (1)",
+		title = "Manuk Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Манук."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Manuk"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Манук." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Manuk" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1359,12 +1362,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски около города Манук (2)",
+		title = "Manuk Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Манук."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Manuk"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Манук." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Manuk" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1373,12 +1376,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски около города Манук (3)",
+		title = "Manuk Field Exploration (3)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Манук."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Manuk"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Манук." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Manuk" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1387,12 +1390,16 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски в округе горного хребта Камидаль (1)",
+		title = "Outskirts of Kamidal Mountain Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в округе горного хребта Камидаль."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Outskirts of Kamidal Mountain"
 		},
-		resource = { [1] = { text = "Найдите сокровище в округе горного хребта Камидаль." } },
+		resource = {
+			[1] = {
+				text = "Discover treasure in the fields around the Outskirts of Kamidal Mountain"
+			}
+		},
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1401,12 +1408,16 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Поиски в округе горного хребта Камидаль (2)",
+		title = "Outskirts of Kamidal Mountain Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в округе горного хребта Камидаль."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Outskirts of Kamidal Mountain"
 		},
-		resource = { [1] = { text = "Найдите сокровище в округе горного хребта Камидаль." } },
+		resource = {
+			[1] = {
+				text = "Discover treasure in the fields around the Outskirts of Kamidal Mountain"
+			}
+		},
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1415,12 +1426,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски в окрестностях Амацу.",
+		title = "Amatsu Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в окрестностях Амацу."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Amatsu"
 		},
-		resource = { [1] = { text = "Найдите сокровище в окрестностях Амацу." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Amatsu" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1429,12 +1440,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски в окрестностях Кунлуна.",
+		title = "Gonryun Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в окрестностях Кунлуна."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Gonryun"
 		},
-		resource = { [1] = { text = "Найдите сокровище в окрестностях Кунлуна." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Gonryun" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1443,12 +1454,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски в окрестностях Лоянга.",
+		title = "Louyang Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в окрестностях Лоянга."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Luoyang"
 		},
-		resource = { [1] = { text = "Найдите сокровище в окрестностях Лоянга." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Luoyang" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1457,12 +1468,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски около города Аотайя.",
+		title = "Ayothaya Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около города Аотайя."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Ayothaya"
 		},
-		resource = { [1] = { text = "Найдите сокровище около города Аотайя." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Ayothaya" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1471,12 +1482,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски около сказочного города Московия.",
+		title = "Moscovia Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около сказочного города Московия."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Moscovia"
 		},
-		resource = { [1] = { text = "Найдите сокровище около сказочного города Московия." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Moscovia" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1485,12 +1496,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски около города Бразилис.",
+		title = "Brasilis Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище города Бразилис."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Brasilis"
 		},
-		resource = { [1] = { text = "Найдите сокровище города Бразилис." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Brasilis" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1499,12 +1510,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски около города Дэвата.",
+		title = "Dewata Field Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище города Дэвата."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Dewata"
 		},
-		resource = { [1] = { text = "Найдите сокровище города Дэвата." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Dewata" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1513,12 +1524,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски вокруг порта Малайя (1)",
+		title = "Malaya Field Exploration (1)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище порта Малайя."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Malaya"
 		},
-		resource = { [1] = { text = "Найдите сокровище порта Малайя." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Malaya" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1527,12 +1538,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Поиски вокруг порта Малайя (2)",
+		title = "Malaya Field Exploration (2)",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище порта Малайя."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Malaya"
 		},
-		resource = { [1] = { text = "Найдите сокровище порта Малайя." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Malaya" } },
 		reward = { item = 668 },
 		score = 10
 	},
@@ -1541,12 +1552,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски около монастыря Безымянного острова. ",
+		title = "Abbey Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище около монастыря Безымянного острова."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Abbey Dungeon"
 		},
-		resource = { [1] = { text = "Найдите сокровище около монастыря Безымянного острова." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Abbey Dungeon" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1555,12 +1566,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в пещере Бездонного озера.",
+		title = "Hugel Abyss Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в пещере Бездонного озера."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Hugel Abyss"
 		},
-		resource = { [1] = { text = "Найдите сокровище в пещере Бездонного озера." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Hugel Abyss" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1569,12 +1580,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в часовой башне Альдебарана.",
+		title = "Clock Tower Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в часовой башне Альдебарана."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Clock Tower"
 		},
-		resource = { [1] = { text = "Найдите сокровище в часовой башне Альдебарана." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Clock Tower" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1583,12 +1594,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Амацу.",
+		title = "Amatsu Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в подземелье Амацу."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Amatsu"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Амацу." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Amatsu" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1597,12 +1608,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Муравейнике.",
+		title = "Ant Hell Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в Муравейнике."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Ant Hell"
 		},
-		resource = { [1] = { text = "Найдите сокровище в Муравейнике." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Ant Hell" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1611,12 +1622,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Аотайи.",
+		title = "Ayothaya Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в подземелье Аотайи."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Ayothaya"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Аотайи." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Ayothaya" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1625,12 +1636,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Комодо.",
+		title = "Comodo Dungeon Exploration",
 		content = {
-			summary = "Найти сундук с сокровищем ",
-			details = "Найдите сокровище в подземелье Комодо."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Comodo"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Комодо." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1639,12 +1650,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Бразилиса.",
+		title = "Brasilis Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Бразилиса."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Brasilis"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Бразилиса." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Brasilis" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1653,12 +1664,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в часовой Башней Альдебарана.",
+		title = "Clock Tower Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в часовой башне Альдебарана."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Clock Tower"
 		},
-		resource = { [1] = { text = "Найдите сокровище в часовой башне Альдебарана." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Clock Tower" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1667,12 +1678,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Истана.",
+		title = "Istana Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Истана."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Istana"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Истана." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Istana" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1681,12 +1692,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Скарава Холл.",
+		title = "Skarava Hall Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Скарава Холл."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Skarava Hall"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Скарава Холл." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Skarava Hall" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1695,12 +1706,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Бифроста.",
+		title = "Bifrost Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Бифроста."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Bifrost"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Бифроста." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Bifrost" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1709,12 +1720,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Эйнбеха.",
+		title = "Einbech Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Эйнбеха."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Einbech"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Эйнбеха." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Einbech" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1723,12 +1734,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Геффена.",
+		title = "Geffen Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Геффена."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Geffen Dungeon"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Геффена" } },
+		resource = { [1] = { text = "Discover treasure in the fields around Geffen Dungeon" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1737,12 +1748,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Гласхейма (1)",
+		title = "Glast Heim Dungeon Exploration (1)",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Гласхейма."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Glast Heim"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1751,12 +1762,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Гласхейма (2)",
+		title = "Glast Heim Dungeon Exploration (2)",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Гласхейма."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Glast Heim"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1765,12 +1776,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Гласхейма (3)",
+		title = "Glast Heim Dungeon Exploration (3)",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Гласхейма."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Glast Heim"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1779,12 +1790,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Гласхейма (4)",
+		title = "Glast Heim Dungeon Exploration (4)",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Гласхейма."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Glast Heim"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Гласхейма." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1793,12 +1804,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье острова Кунлун.",
+		title = "Gonryun Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье острова Кунлун."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Gonryun"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье острова Кунлун." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Gonryun" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1807,12 +1818,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье города Рашель.",
+		title = "Rachel Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье города Рашель."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Rachel"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье города Рашель." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Rachel" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1821,9 +1832,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Сфинксе.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Сфинксе." },
-		resource = { [1] = { text = "Найдите сокровище в Сфинксе." } },
+		title = "Sphinx Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sphinx"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Sphinx" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1832,12 +1846,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Излюда.",
+		title = "Izlude Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Излюда."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Izlude"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Излюда." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Izlude" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1846,9 +1860,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски на заводе роботов.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на заводе роботов." },
-		resource = { [1] = { text = "Найдите сокровище на заводе роботов." } },
+		title = "Robot Factory Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Robot Factory"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Robot Factory" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1857,9 +1874,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Биолаборатории.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Биолаборатории." },
-		resource = { [1] = { text = "Найдите сокровище в Биолаборатории." } },
+		title = "Regenschirm Laboratory Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Regenschirm Laboratory"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around Regenschirm Laboratory" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1868,12 +1888,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Лоянга.",
+		title = "Luoyang Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Лоянга."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Luoyang"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Лоянга." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Luoyang" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1882,9 +1902,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Муспельхейме.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Муспельхейме." },
-		resource = { [1] = { text = "Найдите сокровище в Муспельхейме." } },
+		title = "Nogg Road Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Nogg Road"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around Nogg Road" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1893,12 +1916,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в заброшенной шахте.",
+		title = "Mjolnir Dead Pit Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в заброшенной шахте."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Mjolnir Dead Pit"
 		},
-		resource = { [1] = { text = "Найдите сокровище в заброшенной шахте." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Mjolnir Dead Pit" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1907,9 +1930,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Пирамиде.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Пирамиде." },
-		resource = { [1] = { text = "Найдите сокровище в Пирамиде." } },
+		title = "Pyramid Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Pyramid"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Pyramid" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1918,9 +1944,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Орков.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в подземелье Орков." },
-		resource = { [1] = { text = "Найдите сокровище в подземелье Орков." } },
+		title = "Orc Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Orc Dungeon"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Orc Dungeon" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1929,12 +1958,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Пайона.",
+		title = "Payon Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Пайона."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Payon"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Пайона." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Payon" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1943,9 +1972,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Лабиринте.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Лабиринте." },
-		resource = { [1] = { text = "Найдите сокровище в Лабиринте." } },
+		title = "Labyrinth Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Labyrinth"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Labyrinth" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1954,9 +1986,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в Канализации.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в Канализации." },
-		resource = { [1] = { text = "Найдите сокровище в Канализации." } },
+		title = "Culvert Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Culvert"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Culvert" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1965,9 +2000,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в башне Танатоса.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище в башне Танатоса." },
-		resource = { [1] = { text = "Найдите сокровище в башне Танатоса." } },
+		title = "Thanatos Tower Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Thanatos Tower"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around Thanatos Tower" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1976,12 +2014,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье вулкана Тора.",
+		title = "Thor's Volcano Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье вулкана Тора."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Thor's Volcano"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье вулкана Тора." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Thor's Volcano" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -1990,12 +2028,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски на затонувшем корабле.",
+		title = "Sunken Ship Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище на затонувшем корабле."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Sunken Ship"
 		},
-		resource = { [1] = { text = "Найдите сокровище на затонувшем корабле." } },
+		resource = { [1] = { text = "Discover treasure in the fields around the Sunken Ship" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -2004,12 +2042,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски в подземелье Черепашьего острова.",
+		title = "Turtle Island Dungeon Exploration",
 		content = {
-			summary = "Найдите сокровище ",
-			details = "Найдите сокровище в подземелье Черепашьего острова."
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around Turtle Island"
 		},
-		resource = { [1] = { text = "Найдите сокровище в подземелье Черепашьего острова." } },
+		resource = { [1] = { text = "Discover treasure in the fields around Turtle Island" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -2018,9 +2056,12 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Поиски на фабрике игрушек.",
-		content = { summary = "Найдите сокровище ", details = "Найдите сокровище на фабрике игрушек." },
-		resource = { [1] = { text = "Найдите сокровище на фабрике игрушек." } },
+		title = "Toy Factory Dungeon Exploration",
+		content = {
+			summary = "Discover Hidden Treasure",
+			details = "Discover treasure in the fields around the Toy Factory"
+		},
+		resource = { [1] = { text = "Discover treasure in the fields around the Toy Factory" } },
 		reward = { item = 668 },
 		score = 20
 	},
@@ -2029,19 +2070,22 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь Пронтеры ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Пронтеры." },
+		title = "Explorer of Prontera",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Prontera exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски на севере от Пронтеры (1)", shortcut = 120001 },
-			[2] = { text = "Завершите поиски на севере от Пронтеры (2)", shortcut = 120002 },
-			[3] = { text = "Завершите поиски на севере от Пронтеры (3)", shortcut = 120003 },
-			[4] = { text = "Завершите поиски на западе от Пронтеры (1)", shortcut = 120004 },
-			[5] = { text = "Завершите поиски на западе от Пронтеры (2)", shortcut = 120005 },
-			[6] = { text = "Завершите поиски на востоке от Пронтеры (1)", shortcut = 120006 },
-			[7] = { text = "Завершите поиски на юге от Пронтеры (1)", shortcut = 120007 },
-			[8] = { text = "Завершите поиски на юге от Пронтеры (2)", shortcut = 120008 },
-			[9] = { text = "Завершите поиски на юге от Пронтеры (3)", shortcut = 120009 },
-			[10] = { text = "Завершите поиски на юге от Пронтеры (4)", shortcut = 120010 }
+			[1] = { text = "Complete Prontera Northern Field Exploration (1)", shortcut = 120001 },
+			[2] = { text = "Complete Prontera Northern Field Exploration (2)", shortcut = 120002 },
+			[3] = { text = "Complete Prontera Northern Field Exploration (3)", shortcut = 120003 },
+			[4] = { text = "Complete Prontera Western Field Exploration (1)", shortcut = 120004 },
+			[5] = { text = "Complete Prontera Western Field Exploration (2)", shortcut = 120005 },
+			[6] = { text = "Complete Prontera Eastern Field Exploration (1)", shortcut = 120006 },
+			[7] = { text = "Complete Prontera Southern Field Exploration (1)", shortcut = 120007 },
+			[8] = { text = "Complete Prontera Southern Field Exploration (2)", shortcut = 120008 },
+			[9] = { text = "Complete Prontera Southern Field Exploration (3)", shortcut = 120009 },
+			[10] = { text = "Complete Prontera Southern Field Exploration (4)", shortcut = 120010 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2051,16 +2095,19 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь Геффена ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Геффена." },
+		title = "Explorer of Geffen",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Geffen exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски на востоке от Геффена (1)", shortcut = 120011 },
-			[2] = { text = "Завершите поиски на юго-востоке от Геффена (1)", shortcut = 120012 },
-			[3] = { text = "Завершите поиски на северо-западе от Геффена (1)", shortcut = 120013 },
-			[4] = { text = "Завершите поиски на северо-западе от Геффена (2)", shortcut = 120014 },
-			[5] = { text = "Завершите поиски на северо-западе от Геффена (3)", shortcut = 120015 },
-			[6] = { text = "Завершите поиски на юге от Геффена (1)", shortcut = 120016 },
-			[7] = { text = "Завершите поиски на юге от Геффена (2)", shortcut = 120017 }
+			[1] = { text = "Complete Geffen Eastern Field Exploration (1)", shortcut = 120011 },
+			[2] = { text = "Complete Geffen Southeastern Field Exploration (1)", shortcut = 120012 },
+			[3] = { text = "Complete Geffen Northwestern Field Exploration (1)", shortcut = 120013 },
+			[4] = { text = "Complete Geffen Northwestern Field Exploration (2)", shortcut = 120014 },
+			[5] = { text = "Complete Geffen Northwestern Field Exploration (3)", shortcut = 120015 },
+			[6] = { text = "Complete Geffen Southern Field Exploration (1)", shortcut = 120016 },
+			[7] = { text = "Complete Geffen Southern Field Exploration (2)", shortcut = 120017 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2070,15 +2117,18 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь пустыни Сограт ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски в пустыне Сограт." },
+		title = "Explorer of the Sograt Desert",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Sograt Desert exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски в пустыне Сограт (1)", shortcut = 120018 },
-			[2] = { text = "Завершите поиски в пустыне Сограт (2)", shortcut = 120019 },
-			[3] = { text = "Завершите поиски в пустыне Сограт (3)", shortcut = 120020 },
-			[4] = { text = "Завершите поиски в пустыне Сограт (4)", shortcut = 120021 },
-			[5] = { text = "Завершите поиски в пустыне Сограт (5)", shortcut = 120022 },
-			[6] = { text = "Завершите поиски в пустыне Сограт (6)", shortcut = 120023 }
+			[1] = { text = "Complete Sograt Desert Field Exploration (1)", shortcut = 120018 },
+			[2] = { text = "Complete Sograt Desert Field Exploration (2)", shortcut = 120019 },
+			[3] = { text = "Complete Sograt Desert Field Exploration (3)", shortcut = 120020 },
+			[4] = { text = "Complete Sograt Desert Field Exploration (4)", shortcut = 120021 },
+			[5] = { text = "Complete Sograt Desert Field Exploration (5)", shortcut = 120022 },
+			[6] = { text = "Complete Sograt Desert Field Exploration (6)", shortcut = 120023 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2088,17 +2138,20 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь Пайона ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски в Пайоне." },
+		title = "Explorer of Payon",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Payon exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски на юго-западе от Пайона (1)", shortcut = 120024 },
-			[2] = { text = "Завершите поиски на юго-западе от Пайона (2)", shortcut = 120025 },
-			[3] = { text = "Завершите поиски на юго-западе от Пайона (3)", shortcut = 120026 },
-			[4] = { text = "Завершите поиски на юго-западе от Пайона (4)", shortcut = 120027 },
-			[5] = { text = "Завершите поиски на востоке от Пайона (1)", shortcut = 120028 },
-			[6] = { text = "Завершите поиски на востоке от Пайона (2)", shortcut = 120029 },
-			[7] = { text = "Завершите поиски на востоке от Пайона (3)", shortcut = 120030 },
-			[8] = { text = "Завершите поиски на востоке от Пайона (4)", shortcut = 120031 }
+			[1] = { text = "Complete Payon Southwestern Field Exploration (1)", shortcut = 120024 },
+			[2] = { text = "Complete Payon Southwestern Field Exploration (2)", shortcut = 120025 },
+			[3] = { text = "Complete Payon Southwestern Field Exploration (3)", shortcut = 120026 },
+			[4] = { text = "Complete Payon Southwestern Field Exploration (4)", shortcut = 120027 },
+			[5] = { text = "Complete Payon Eastern Field Exploration (1)", shortcut = 120028 },
+			[6] = { text = "Complete Payon Eastern Field Exploration (2)", shortcut = 120029 },
+			[7] = { text = "Complete Payon Eastern Field Exploration (3)", shortcut = 120030 },
+			[8] = { text = "Complete Payon Eastern Field Exploration (4)", shortcut = 120031 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2108,32 +2161,17 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь северной горной гряды Мьелльнира ",
+		title = "Explorer of Northern Mjolnir",
 		content = {
-			summary = "Завершите поиски.",
-			details = "Завершите поиски на северной горной гряде Мьелльнира."
+			summary = "Complete target field exploration",
+			details = "Complete northern Mjolnir exploration"
 		},
 		resource = {
-			[1] = {
-				text = "Завершите поиски на северной горной гряде Мьелльнира (1)",
-				shortcut = 120032
-			},
-			[2] = {
-				text = "Завершите поиски на северной горной гряде Мьелльнира (2)",
-				shortcut = 120033
-			},
-			[3] = {
-				text = "Завершите поиски на северной горной гряде Мьелльнира (3)",
-				shortcut = 120034
-			},
-			[4] = {
-				text = "Завершите поиски на северной горной гряде Мьелльнира (4)",
-				shortcut = 120035
-			},
-			[5] = {
-				text = "Завершите поиски на северной горной гряде Мьелльнира (5)",
-				shortcut = 120036
-			}
+			[1] = { text = "Complete Mjolnir Northern Field Exploration (1)", shortcut = 120032 },
+			[2] = { text = "Complete Mjolnir Northern Field Exploration (2)", shortcut = 120033 },
+			[3] = { text = "Complete Mjolnir Northern Field Exploration (3)", shortcut = 120034 },
+			[4] = { text = "Complete Mjolnir Northern Field Exploration (4)", shortcut = 120035 },
+			[5] = { text = "Complete Mjolnir Northern Field Exploration (5)", shortcut = 120036 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2143,19 +2181,19 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь южной горной гряды Мьелльнира ",
+		title = "Explorer of Southern Mjolnir",
 		content = {
-			summary = "Завершите поиски.",
-			details = "Завершите поиски на южной горной гряде Мьелльнира."
+			summary = "Complete target field exploration",
+			details = "Complete southern Mjolnir exploration"
 		},
 		resource = {
-			[1] = { text = "Завершите поиски на южной горной гряде Мьелльнира (1)", shortcut = 120037 },
-			[2] = { text = "Завершите поиски на южной горной гряде Мьелльнира (2)", shortcut = 120038 },
-			[3] = { text = "Завершите поиски на южной горной гряде Мьелльнира (3)", shortcut = 120039 },
-			[4] = { text = "Завершите поиски на южной горной гряде Мьелльнира (4)", shortcut = 120040 },
-			[5] = { text = "Завершите поиски на южной горной гряде Мьелльнира (5)", shortcut = 120041 },
-			[6] = { text = "Завершите поиски на южной горной гряде Мьелльнира (6)", shortcut = 120042 },
-			[7] = { text = "Завершите поиски на юге от Альдебарана (1)", shortcut = 120043 }
+			[1] = { text = "Complete Mjolnir Southern Field Exploration (1)", shortcut = 120037 },
+			[2] = { text = "Complete Mjolnir Southern Field Exploration (2)", shortcut = 120038 },
+			[3] = { text = "Complete Mjolnir Southern Field Exploration (3)", shortcut = 120039 },
+			[4] = { text = "Complete Mjolnir Southern Field Exploration (4)", shortcut = 120040 },
+			[5] = { text = "Complete Mjolnir Southern Field Exploration (5)", shortcut = 120041 },
+			[6] = { text = "Complete Mjolnir Southern Field Exploration (6)", shortcut = 120042 },
+			[7] = { text = "Complete Al De Baran Southern Field Exploration (1)", shortcut = 120043 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2165,17 +2203,20 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь Комодо ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Комодо." },
+		title = "Explorer of Comodo",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Comodo exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около Комодо (1)", shortcut = 120044 },
-			[2] = { text = "Завершите поиски около Комодо (2)", shortcut = 120045 },
-			[3] = { text = "Завершите поиски около Комодо (3)", shortcut = 120046 },
-			[4] = { text = "Завершите поиски около Комодо (4)", shortcut = 120047 },
-			[5] = { text = "Завершите поиски около Комодо (5)", shortcut = 120048 },
-			[6] = { text = "Завершите поиски около Комодо (6)", shortcut = 120049 },
-			[7] = { text = "Завершите поиски около Комодо (7)", shortcut = 120050 },
-			[8] = { text = "Завершите поиски около Комодо (8)", shortcut = 120051 }
+			[1] = { text = "Complete Comodo Field Exploration (1)", shortcut = 120044 },
+			[2] = { text = "Complete Comodo Field Exploration (2)", shortcut = 120045 },
+			[3] = { text = "Complete Comodo Field Exploration (3)", shortcut = 120046 },
+			[4] = { text = "Complete Comodo Field Exploration (4)", shortcut = 120047 },
+			[5] = { text = "Complete Comodo Field Exploration (5)", shortcut = 120048 },
+			[6] = { text = "Complete Comodo Field Exploration (6)", shortcut = 120049 },
+			[7] = { text = "Complete Comodo Field Exploration (7)", shortcut = 120050 },
+			[8] = { text = "Complete Comodo Field Exploration (8)", shortcut = 120051 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2185,16 +2226,19 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Исследователь Рун-Мидгарда ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски в Рун-Мидгарде." },
+		title = "Explorer of Rune-Midgarts",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Rune-Midgarts exploration"
+		},
 		resource = {
-			[1] = { text = "Исследователь Пронтеры ", shortcut = 129001 },
-			[2] = { text = "Исследователь Геффена ", shortcut = 129002 },
-			[3] = { text = "Исследователь пустыни Сограт ", shortcut = 129003 },
-			[4] = { text = "Исследователь Пайона ", shortcut = 129004 },
-			[5] = { text = "Исследователь северной горной гряды Мьелльнира ", shortcut = 129005 },
-			[6] = { text = "Исследователь южной горной гряды Мьелльнира ", shortcut = 129006 },
-			[7] = { text = "Исследователь Комодо ", shortcut = 129007 }
+			[1] = { text = "Explorer of Prontera", shortcut = 129001 },
+			[2] = { text = "Explorer of Geffen", shortcut = 129002 },
+			[3] = { text = "Explorer of the Sograt Desert", shortcut = 129003 },
+			[4] = { text = "Explorer of Payon", shortcut = 129004 },
+			[5] = { text = "Explorer of Northern Mjolnir", shortcut = 129005 },
+			[6] = { text = "Explorer of Southern Mjolnir", shortcut = 129006 },
+			[7] = { text = "Explorer of Comodo", shortcut = 129007 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2204,22 +2248,22 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Исследователь Юно ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Юно." },
+		title = "Explorer of Juno",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Juno exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около Форта Гаррисона (1)", shortcut = 120052 },
-			[2] = { text = "Завершите поиски около Форта Гаррисона (2)", shortcut = 120053 },
-			[3] = { text = "Завершите поиски около усадьбы Киеля Кайра (1)", shortcut = 120054 },
-			[4] = { text = "Завершите поиски около плато Эльмес (1)", shortcut = 120055 },
-			[5] = { text = "Завершите поиски около плато Эльмес (2)", shortcut = 120056 },
-			[6] = { text = "Завершите поиски около плато Эльмес (3)", shortcut = 120057 },
-			[7] = { text = "Завершите поиски около каньона Эльмес (1)", shortcut = 120058 },
-			[8] = { text = "Завершите поиски около академии Киеля Кайра (1)", shortcut = 120059 },
-			[9] = {
-				text = "Завершите поиски около военного лагеря Шварцвальта (1)",
-				shortcut = 120060
-			},
-			[10] = { text = "Завершите поиски около города Юно (1)", shortcut = 120061 }
+			[1] = { text = "Complete Border Garrison Field Exploration (1)", shortcut = 120052 },
+			[2] = { text = "Complete Border Garrison Field Exploration (2)", shortcut = 120053 },
+			[3] = { text = "Complete Kiel Hyre's Cottage Field Exploration (1)", shortcut = 120054 },
+			[4] = { text = "Complete El Mes Plateau Field Exploration (1)", shortcut = 120055 },
+			[5] = { text = "Complete El Mes Plateau Field Exploration (2)", shortcut = 120056 },
+			[6] = { text = "Complete El Mes Plateau Field Exploration (3)", shortcut = 120057 },
+			[7] = { text = "Complete El Mes Gorge Field Exploration (1)", shortcut = 120058 },
+			[8] = { text = "Complete Kiel Hyre Academy Field Exploration (1)", shortcut = 120059 },
+			[9] = { text = "Complete Guards Camp Field Exploration (1)", shortcut = 120060 },
+			[10] = { text = "Complete Juno Field Exploration (1)", shortcut = 120061 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2229,14 +2273,20 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Исследователь Хугеля ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Хугеля." },
+		title = "Explorer of Hugel",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Hugel exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около Хугеля", shortcut = 120062 },
-			[2] = { text = "Завершите поиски около города Хугель (1)", shortcut = 120063 },
-			[3] = { text = "Завершите поиски около города Хугель (2)", shortcut = 120064 },
-			[4] = { text = "Завершите поиски около города Хугель (3)", shortcut = 120065 },
-			[5] = { text = "Завершите поиски около Бездонного озера (1)", shortcut = 120066 }
+			[1] = {
+				text = "Complete Thanatos Tower Entrance Field Exploration (1)",
+				shortcut = 120062
+			},
+			[2] = { text = "Complete Hugel Field Exploration (1)", shortcut = 120063 },
+			[3] = { text = "Complete Hugel Field Exploration (2)", shortcut = 120064 },
+			[4] = { text = "Complete Hugel Field Exploration (3)", shortcut = 120065 },
+			[5] = { text = "Complete Abyss Lake Field Exploration (1)", shortcut = 120066 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2246,17 +2296,20 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Исследователь Эйнброха ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около города Эйнброх." },
+		title = "Explorer of Einbrochl",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Einbroch exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около города Эйнброх (1)", shortcut = 120067 },
-			[2] = { text = "Завершите поиски около города Эйнброх (2)", shortcut = 120068 },
-			[3] = { text = "Завершите поиски около города Эйнброх (3)", shortcut = 120069 },
-			[4] = { text = "Завершите поиски около города Эйнброх (4)", shortcut = 120070 },
-			[5] = { text = "Завершите поиски около города Эйнброх (5)", shortcut = 120071 },
-			[6] = { text = "Завершите поиски около города Эйнброх (6)", shortcut = 120072 },
-			[7] = { text = "Завершите поиски около города Эйнброх (7)", shortcut = 120073 },
-			[8] = { text = "Завершите поиски около города Эйнброх (8)", shortcut = 120074 }
+			[1] = { text = "Complete Einbroch Field Exploration (1)", shortcut = 120067 },
+			[2] = { text = "Complete Einbroch Field Exploration (2)", shortcut = 120068 },
+			[3] = { text = "Complete Einbroch Field Exploration (3)", shortcut = 120069 },
+			[4] = { text = "Complete Einbroch Field Exploration (4)", shortcut = 120070 },
+			[5] = { text = "Complete Einbroch Field Exploration (5)", shortcut = 120071 },
+			[6] = { text = "Complete Einbroch Field Exploration (6)", shortcut = 120072 },
+			[7] = { text = "Complete Einbroch Field Exploration (7)", shortcut = 120073 },
+			[8] = { text = "Complete Einbroch Field Exploration (8)", shortcut = 120074 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2266,15 +2319,15 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Исследователь Лайтхайзена ",
+		title = "Explorer of Lighthalzen",
 		content = {
-			summary = "Завершите поиски.",
-			details = "Завершите поиски около города Лайтхайзен."
+			summary = "Complete target field exploration",
+			details = "Complete Lighthalzen exploration"
 		},
 		resource = {
-			[1] = { text = "Завершите поиски около города Лайтхайзен (1)", shortcut = 120075 },
-			[2] = { text = "Завершите поиски около города Лайтхайзен (2)", shortcut = 120076 },
-			[3] = { text = "Завершите поиски около города Лайтхайзен (3)", shortcut = 120077 }
+			[1] = { text = "Complete Lighthalzen Field Exploration (1)", shortcut = 120075 },
+			[2] = { text = "Complete Lighthalzen Field Exploration (2)", shortcut = 120076 },
+			[3] = { text = "Complete Lighthalzen Field Exploration (3)", shortcut = 120077 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2284,16 +2337,16 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Исследователь республики Шварцвальт ",
+		title = "Explorer of Schwaltzvalt",
 		content = {
-			summary = "Завершите поиски.",
-			details = "Завершите поиски в республике Шварцвальт."
+			summary = "Complete target field exploration",
+			details = "Complete Schwaltzvalt exploration"
 		},
 		resource = {
-			[1] = { text = "Исследователь Юно ", shortcut = 129009 },
-			[2] = { text = "Исследователь Хугеля ", shortcut = 129010 },
-			[3] = { text = "Исследователь Эйнброха ", shortcut = 129011 },
-			[4] = { text = "Исследователь Лайтхайзена ", shortcut = 129012 }
+			[1] = { text = "Explorer of Juno", shortcut = 129009 },
+			[2] = { text = "Explorer of Hugel", shortcut = 129010 },
+			[3] = { text = "Explorer of Einbrochl", shortcut = 129011 },
+			[4] = { text = "Explorer of Lighthalzen", shortcut = 129012 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2303,16 +2356,19 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Исследователь Рашеля ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около города Рашель." },
+		title = "Explorer of Rachel",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Rachel exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски на равнине Аудумлы (1)", shortcut = 120078 },
-			[2] = { text = "Завершите поиски на равнине Идун (1)", shortcut = 120079 },
-			[3] = { text = "Завершите поиски на равнине Идун (2)", shortcut = 120080 },
-			[4] = { text = "Завершите поиски на равнине Идун (3)", shortcut = 120081 },
-			[5] = { text = "Завершите поиски на лугах Аудумлы (1)", shortcut = 120082 },
-			[6] = { text = "Завершите поиски на лугах Аудумлы (2)", shortcut = 120083 },
-			[7] = { text = "Завершите поиски около врат Луны (1)", shortcut = 120084 }
+			[1] = { text = "Complete Audhumbla Plain Field Exploration (1)", shortcut = 120078 },
+			[2] = { text = "Complete Plain of Ida Field Exploration (1)", shortcut = 120079 },
+			[3] = { text = "Complete Plain of Ida Field Exploration (2)", shortcut = 120080 },
+			[4] = { text = "Complete Plain of Ida Field Exploration (3)", shortcut = 120081 },
+			[5] = { text = "Complete Audhumbla Grassland Field Exploration (1)", shortcut = 120082 },
+			[6] = { text = "Complete Audhumbla Grassland Field Exploration (2)", shortcut = 120083 },
+			[7] = { text = "Complete Portus Luna Field Exploration (1)", shortcut = 120084 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2322,14 +2378,17 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Исследователь Вейнса ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около города Вейнс." },
+		title = "Explorer of Veins",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Veins exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около города Вейнс (1)", shortcut = 120085 },
-			[2] = { text = "Завершите поиски около города Вейнс (2)", shortcut = 120086 },
-			[3] = { text = "Завершите поиски около города Вейнс (3)", shortcut = 120087 },
-			[4] = { text = "Завершите поиски около города Вейнс (4)", shortcut = 120088 },
-			[5] = { text = "Завершите поиски около города Вейнс (5)", shortcut = 120089 }
+			[1] = { text = "Complete Veins Field Exploration (1)", shortcut = 120085 },
+			[2] = { text = "Complete Veins Field Exploration (2)", shortcut = 120086 },
+			[3] = { text = "Complete Veins Field Exploration (3)", shortcut = 120087 },
+			[4] = { text = "Complete Veins Field Exploration (4)", shortcut = 120088 },
+			[5] = { text = "Complete Veins Field Exploration (5)", shortcut = 120089 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2339,11 +2398,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Исследователь Арунафельца ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски в Арунафельце." },
+		title = "Explorer of Arunafeltz",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Arunafeltz exploration"
+		},
 		resource = {
-			[1] = { text = "Исследователь города Рашель ", shortcut = 129014 },
-			[2] = { text = "Исследователь города Вейнс ", shortcut = 129015 }
+			[1] = { text = "Explorer of Rachel", shortcut = 129014 },
+			[2] = { text = "Explorer of Veins", shortcut = 129015 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2353,15 +2415,18 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Исследователь Сплендида ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Сплендида." },
+		title = "Explorer of Rapine",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Rapine exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около города Экледж (1)", shortcut = 120090 },
-			[2] = { text = "Завершите поиски на севере от Бифроста (1)", shortcut = 120091 },
-			[3] = { text = "Завершите поиски на юге от Бифроста (1)", shortcut = 120092 },
-			[4] = { text = "Завершите поиски около Сплендида (1)", shortcut = 120093 },
-			[5] = { text = "Завершите поиски около Сплендида (2)", shortcut = 120094 },
-			[6] = { text = "Завершите поиски около Сплендида (3)", shortcut = 120095 }
+			[1] = { text = "Complete Eclage Field Exploration (1)", shortcut = 120090 },
+			[2] = { text = "Complete Bifrost Northern Field Exploration (1)", shortcut = 120091 },
+			[3] = { text = "Complete Bifrost Southern Field Exploration (1)", shortcut = 120092 },
+			[4] = { text = "Complete Splendide Field Exploration (1)", shortcut = 120093 },
+			[5] = { text = "Complete Splendide Field Exploration (2)", shortcut = 120094 },
+			[6] = { text = "Complete Splendide Field Exploration (3)", shortcut = 120095 }
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2371,14 +2436,23 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Исследователь Манука ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски около Манука." },
+		title = "Explorer of Manuk",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Manuk exploration"
+		},
 		resource = {
-			[1] = { text = "Завершите поиски около Манука (1)", shortcut = 120096 },
-			[2] = { text = "Завершите поиски около Манука (2)", shortcut = 120097 },
-			[3] = { text = "Завершите поиски около Манука (3)", shortcut = 120098 },
-			[4] = { text = "Завершите поиски в округе горного хребта Камидаль (1)", shortcut = 120099 },
-			[5] = { text = "Завершите поиски в округе горного хребта Камидаль (2)", shortcut = 120100 }
+			[1] = { text = "Complete Manuk Field Exploration (1)", shortcut = 120096 },
+			[2] = { text = "Complete Manuk Field Exploration (2)", shortcut = 120097 },
+			[3] = { text = "Complete Manuk Field Exploration (3)", shortcut = 120098 },
+			[4] = {
+				text = "Complete Outskirts of Kamidal Mountain Field Exploration (1)",
+				shortcut = 120099
+			},
+			[5] = {
+				text = "Complete Outskirts of Kamidal Mountain Field Exploration (2)",
+				shortcut = 120100
+			}
 		},
 		reward = { item = 644 },
 		score = 20
@@ -2388,11 +2462,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Исследователь Нового мира ",
-		content = { summary = "Завершите поиски.", details = "Завершите поиски в Новом мире." },
+		title = "Explorer of Another World",
+		content = {
+			summary = "Complete target field exploration",
+			details = "Complete Another World exploration"
+		},
 		resource = {
-			[1] = { text = "Исследователь Сплендида ", shortcut = 129017 },
-			[2] = { text = "Исследователь Манука ", shortcut = 120918 }
+			[1] = { text = "Explorer of Rapine", shortcut = 129017 },
+			[2] = { text = "Explorer of Manuk", shortcut = 120918 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2402,21 +2479,21 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Исследователь культурных городов ",
+		title = "Explorer of Localizing Fields",
 		content = {
-			summary = "Завершите поиски.",
-			details = "Завершите поиски около культурных городов."
+			summary = "Complete target field exploration",
+			details = "Complete Localizing Field exploration"
 		},
 		resource = {
-			[1] = { text = "Завершите поиски в окрестностях Амацу (1)", shortcut = 120101 },
-			[2] = { text = "Завершите поиски в окрестностях Кунлуна (1)", shortcut = 120102 },
-			[3] = { text = "Завершите поиски в окрестностях Лоянга (1)", shortcut = 120103 },
-			[4] = { text = "Завершите поиски около города Аотайя (1)", shortcut = 120104 },
-			[5] = { text = "Завершите поиски около сказочного города Московия (1)", shortcut = 120105 },
-			[6] = { text = "Завершите поиски около города Бразилис (1)", shortcut = 120106 },
-			[7] = { text = "Завершите поиски около города Дэвата (1)", shortcut = 120107 },
-			[8] = { text = "Завершите поиски около порта Малайя (1)", shortcut = 120108 },
-			[9] = { text = "Завершите поиски около порта Малайя (2)", shortcut = 120109 }
+			[1] = { text = "Complete Amatsu Field Exploration (1)", shortcut = 120101 },
+			[2] = { text = "Complete Gonryun Field Exploration (1)", shortcut = 120102 },
+			[3] = { text = "Complete Louyang Field Exploration (1)", shortcut = 120103 },
+			[4] = { text = "Complete Ayothaya Field Exploration (1)", shortcut = 120104 },
+			[5] = { text = "Complete Moscovia Field Exploration (1)", shortcut = 120105 },
+			[6] = { text = "Complete Brasilis Field Exploration (1)", shortcut = 120106 },
+			[7] = { text = "Complete Dewata Field Exploration (1)", shortcut = 120107 },
+			[8] = { text = "Complete Malaya Field Exploration (1)", shortcut = 120108 },
+			[9] = { text = "Complete Malaya Field Exploration (2)", shortcut = 120109 }
 		},
 		reward = { item = 617 },
 		score = 50
@@ -2426,40 +2503,20 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Неофит",
-		content = {
-			summary = "Достигнуть 99 базового уровня",
-			details = "Первая Аура - важное достижение,\nно это лишь начало пути!"
-		},
-		resource = { [1] = { text = "Базовый уровень: 99 " } },
+		title = "Obtained the first Aura!",
+		content = { summary = "Reached Base Lv 99!", details = "Reach Base Level 99." },
+		resource = { [1] = { text = "Base Lv 99" } },
 		reward = { title = 1000, buff = 10, item = 12549 },
 		score = 50
-	},
-	[200001] = {
-		UI_Type = 0,
-		group = "GOAL_LEVEL",
-		major = 1,
-		minor = 0,
-		title = "Специалист",
-		content = {
-			summary = "Достигнуть 150 базового уровня",
-			details = "Вторая Аура. Невероятно! Считали,\nсколько монстров успели истребить?"
-		},
-		resource = { [1] = { text = "Базовый уровень: 150 " } },
-		reward = { title = 1001, buff = 10, item = 5364 },
-		score = 60
 	},
 	[200002] = {
 		UI_Type = 0,
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Эксперт",
-		content = {
-			summary = "Достигнуть 175 базового уровня",
-			details = "Третья Аура. Вы - легенда."
-		},
-		resource = { [1] = { text = "Базовый уровень: 175 " } },
+		title = "Obtained the third Aura!",
+		content = { summary = "Reached Base Lv 175!", details = "Reach Base Level 175." },
+		resource = { [1] = { text = "Base Lv 175" } },
 		reward = { title = 1002, buff = 10, item = 18880 },
 		score = 70
 	},
@@ -2468,12 +2525,9 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Мастер",
-		content = {
-			summary = "Достигнуть 50 проф. уровня",
-			details = "Усердные тренировки приносят свои плоды.\nНе останавливайтесь!"
-		},
-		resource = { [1] = { text = "Профессиональный уровень: 50 " } },
+		title = "Job Level Master!",
+		content = { summary = "Reached Job Lv 50!", details = "Reach Job Level 50." },
+		resource = { [1] = { text = "Job Lv 50" } },
 		reward = { title = 1003, buff = 10, item = 617 },
 		score = 30
 	},
@@ -2482,12 +2536,9 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Великий Мастер",
-		content = {
-			summary = "Достигнуть 70 проф. уровня",
-			details = "Вы настоящий мастер своего дела!"
-		},
-		resource = { [1] = { text = "Профессиональный уровень: 70" } },
+		title = "Job Level Grand Master!",
+		content = { summary = "Reached Job Lv 70!", details = "Reach Job Level 70." },
+		resource = { [1] = { text = "Job Lv 70" } },
 		reward = { title = 1004, buff = 10, item = 12439 },
 		score = 50
 	},
@@ -2496,16 +2547,16 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Жизненные цели ",
+		title = "Life Goals",
 		content = {
-			summary = "Раскройте свой потенциал.",
-			details = "Получите Базовый 99 и Профессиональный 70 уровни."
+			summary = "Reach for your full potential",
+			details = "Achieve Base Level 99 and Job Level 70"
 		},
 		resource = {
-			[1] = { text = "Профессиональный уровень: 70 ", shortcut = 200004 },
-			[2] = { text = "Базовый уровень: 99 ", shortcut = 200000 }
+			[1] = { text = "Reach Job Level 70", shortcut = 200004 },
+			[2] = { text = "Reach Base Level 90", shortcut = 200000 }
 		},
-		reward = { item = 616 },
+		reward = { item = 12817 },
 		score = 50
 	},
 	[200005] = {
@@ -2513,13 +2564,13 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Искатель приключений ",
+		title = "Official Adventurer",
 		content = {
-			summary = "Получить первую профессию",
-			details = "Станьте Мечником, Торговцем, Вором, Магом, Послушником или Лучником."
+			summary = "Obtain the First Job Class",
+			details = "Become a Swordsman, Merchant, Thief, Mage, Acolyte, or Archer."
 		},
-		resource = { [1] = { text = "Получить первую профессию" } },
-		reward = { title = 1005, buff = 12 },
+		resource = { [1] = { text = "Obtain the First Job Class" } },
+		reward = { buff = 12 },
 		score = 10
 	},
 	[200006] = {
@@ -2527,13 +2578,13 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Первые шаги на пути к величию!",
+		title = "First step towards the Transcendent Job Class!",
 		content = {
-			summary = "Получить старшую профессию",
-			details = "Станьте старшим Мечником, старшим Торговцем, старшим Вором, старшим Магом, старшим Послушником или старшим Лучником."
+			summary = "Obtain the First Transcendent Job Class",
+			details = "Become a High Swordsman, High Merchant, High Thief, High Mage, High Acolyte, or High Archer."
 		},
-		resource = { [1] = { text = "Получить старшую профессию" } },
-		reward = { title = 1006, buff = 12 },
+		resource = { [1] = { text = "Obtain the First Transcendent Job Class" } },
+		reward = { buff = 12 },
 		score = 20
 	},
 	[200007] = {
@@ -2541,13 +2592,13 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Ветеран-странник [1]",
+		title = "Veteran Adventurer! (1)",
 		content = {
-			summary = "Получить вторую профессию",
-			details = "Станьте Рыцарем, Кузнецом, Убийцей, Волшебником, Священником или Охотником."
+			summary = "Obtain the Second Job Class (2-1)",
+			details = "Become a Knight, Blacksmith, Assassin, Wizard, Priest, or Hunter."
 		},
-		resource = { [1] = { text = "Получить вторую профессию" } },
-		reward = { title = 1007, buff = 12 },
+		resource = { [1] = { text = "Obtain the Second Job Class (2-1)" } },
+		reward = { buff = 12 },
 		score = 25
 	},
 	[200008] = {
@@ -2555,13 +2606,13 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Ветеран-странник [2]",
+		title = "Veteran Adventurer! (2)",
 		content = {
-			summary = "Получить вторую профессию",
-			details = "Станьте Крестоносцем, Алхимиком, Разбойником, Мудрецом, Монахом, Бардом или Танцовщицей."
+			summary = "Obtain the Second Job Class (2-2)",
+			details = "Become a Crusader, Alchemist, Rogue, Sage, Monk, Bard or Dancer."
 		},
-		resource = { [1] = { text = "Получить вторую профессию" } },
-		reward = { title = 1008, buff = 12 },
+		resource = { [1] = { text = "Obtain the Second Job Class (2-2)" } },
+		reward = { buff = 12 },
 		score = 25
 	},
 	[200009] = {
@@ -2569,12 +2620,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Герой [1]",
+		title = "Hero (1)",
 		content = {
-			summary = "Получить экспертную профессию",
-			details = "Станьте Командором, Архимагом, Епископом, Оружейником, Ассасином или Снайпером."
+			summary = "Obtain the Second Transcendent Job Class (2-1)",
+			details = "Become a Lord Knight, White smith, Assassin Cross, High Wizard, High Priest or Sniper."
 		},
-		resource = { [1] = { text = "Получить экспертную профессию" } },
+		resource = { [1] = { text = "Obtain the Second Transcendent Job Class (2-1)" } },
 		reward = { buff = 12 },
 		score = 30
 	},
@@ -2583,12 +2634,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Герой [2]",
+		title = "Hero (2)",
 		content = {
-			summary = "Получить экспертную профессию",
-			details = "Станьте Паладином, Профессором, Мистиком, Биохимиком, Сталкером, Менестрелем или Цыганкой."
+			summary = "Obtain the Second Transcendent Job Class (2-2)",
+			details = "Become a Paladin, Creator, Stalker, Professor, Champion, Gypsy or Clown."
 		},
-		resource = { [1] = { text = "Получить экспертную профессию" } },
+		resource = { [1] = { text = "Obtain the Second Transcendent Job Class (2-2)" } },
 		reward = { buff = 12 },
 		score = 30
 	},
@@ -2597,12 +2648,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Элитный искатель приключений! (1)",
+		title = "Elite Adventurer! (1)",
 		content = {
-			summary = "Получить третью профессию",
-			details = "Станьте Рунмейстером, Чародеем, Архиепископом, Механиком, Карателем или Рейнджером."
+			summary = "Obtain the Third Job Class (3-1)",
+			details = "Become a Rune Knight, Mechanic, G Cross, Warlock, Arch Bishop or Ranger."
 		},
-		resource = { [1] = { text = "Получите третью профессию (3-1)" } },
+		resource = { [1] = { text = "Obtain the Third Job Class (3-1)" } },
 		reward = { buff = 12, item = 16483 },
 		score = 50
 	},
@@ -2611,12 +2662,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Превосходящий! (1)",
+		title = "Transcendent One! (1)",
 		content = {
-			summary = "Получите третью экспертную профессию (3-1)",
-			details = "После перерождения станьте Рунмейстером, Чародеем, Архиепископом, Механиком, Карателем или Рейнджером."
+			summary = "Obtain the Third Transcendent Job Class (3-1)",
+			details = "After rebirthing, become a Rune Knight, Mechanic, G Cross, Warlock, Arch Bishop or Ranger."
 		},
-		resource = { [1] = { text = "Получите 3 профессию после перерождения (3-1)" } },
+		resource = { [1] = { text = "Obtain the Third Transcendent Job Class (3-1)" } },
 		reward = { buff = 12, item = 16483 },
 		score = 60
 	},
@@ -2625,12 +2676,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Элитный искатель приключений! (2)",
+		title = "Elite Adventurer! (2)",
 		content = {
-			summary = "Получите третью профессию (3-2)",
-			details = "Станьте Тамплиером, Элементалистом, Отшельником, Генетиком, Преследователем, Маэстро или Музой."
+			summary = "Obtain the Third Job Class (3-2)",
+			details = "Become a Royal Guard, Generic, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer."
 		},
-		resource = { [1] = { text = "Получите третью профессию (3-2)" } },
+		resource = { [1] = { text = "Obtain the Third Job Class (3-2)" } },
 		reward = { buff = 12, item = 16483 },
 		score = 50
 	},
@@ -2639,12 +2690,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Превосходящий! (2)",
+		title = "Transcendent One! (2)",
 		content = {
-			summary = "Получите третью экспертную профессию (3-2)",
-			details = "После перерождения станьте Тамплиером, Элементалистом, Отшельником, Генетиком, Преследователем, Маэстро или Музой."
+			summary = "Obtain the Third Transcendent Job Class (3-2)",
+			details = "After rebirthing, become a Royal Guard, Generic, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer."
 		},
-		resource = { [1] = { text = "Получите 3 профессию после перерождения (3-2)" } },
+		resource = { [1] = { text = "Obtain the Third Transcendent Job Class (3-2)" } },
 		reward = { buff = 12, item = 16483 },
 		score = 60
 	},
@@ -2653,12 +2704,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Тот, кто выбрал иной путь.",
+		title = "One Who Walks a Special Path",
 		content = {
-			summary = "Получите расширенную профессию.",
-			details = "Станьте Тхэквондистом, Стрелком, Суперновчком или Ниндзя."
+			summary = "Obtain an Expanded Job Class",
+			details = "Become a TaeKwon Kid, Gunslinger, Super Novice or Ninja."
 		},
-		resource = { [1] = { text = "Получите расширенную профессию." } },
+		resource = { [1] = { text = "Obtain an Expanded Job Class" } },
 		reward = { buff = 12 },
 		score = 10
 	},
@@ -2667,12 +2718,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Это мой путь!",
+		title = "This is My Path!",
 		content = {
-			summary = "Получите вторую расширенную профессию.",
-			details = "Станьте Медиумом, Гладиатором, Мятежником, Оборо или Кагеро."
+			summary = "Obtain the Second Expanded Job Class",
+			details = "Become a Soul Linker, TaeKwon Master, Rebellion, Oboro or Kagerou."
 		},
-		resource = { [1] = { text = "Получите вторую расширенную профессию." } },
+		resource = { [1] = { text = "Obtain the Second Expanded Class" } },
 		reward = { buff = 12, item = 16483 },
 		score = 20
 	},
@@ -2681,9 +2732,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Силен как медведь!",
-		content = { summary = "Поднимите Силу до 90.", details = "Поднимите Силу до 90." },
-		resource = { [1] = { text = "Поднимите Силу до 90." } },
+		title = "O Bear-like Strength!",
+		content = { summary = "Have 90 Base STR", details = "Raise base Strength to 90." },
+		resource = { [1] = { text = "Have 90 Base STR" } },
 		reward = {},
 		score = 10
 	},
@@ -2692,9 +2743,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Переполняющая магия!",
-		content = { summary = "Поднимите Интеллект до 90.", details = "Поднимите Интеллект до 90." },
-		resource = { [1] = { text = "Поднимите Интеллект до 90." } },
+		title = "Overflowing Magic!",
+		content = { summary = "Have 90 Base INT", details = "Raise base Intelligence to 90." },
+		resource = { [1] = { text = "Have 90 Base INT" } },
 		reward = {},
 		score = 10
 	},
@@ -2703,9 +2754,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "В здоровом теле здоровый дух!",
-		content = { summary = "Поднимите Живучесть до 90.", details = "Поднимите Живучесть до 90." },
-		resource = { [1] = { text = "Поднимите Живучесть до 90." } },
+		title = "A Healthy Mind in a Healthy Body!",
+		content = { summary = "Have 90 Base VIT", details = "Raise base Vitality to 90." },
+		resource = { [1] = { text = "Have 90 Base VIT" } },
 		reward = {},
 		score = 10
 	},
@@ -2714,9 +2765,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Маньяк скорости ",
-		content = { summary = "Поднимите Ловкость до 90.", details = "Поднимите Ловкость до 90." },
-		resource = { [1] = { text = "Поднимите Ловкость до 90." } },
+		title = "Speedmania",
+		content = { summary = "Have 90 Base AGI", details = "Raise base Agility to 90." },
+		resource = { [1] = { text = "Have 90 Base AGI" } },
 		reward = {},
 		score = 10
 	},
@@ -2725,9 +2776,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Орлиный глаз ",
-		content = { summary = "Поднимите Сноровку до 90.", details = "Поднимите Сноровку до 90." },
-		resource = { [1] = { text = "Поднимите Сноровку до 90." } },
+		title = "Eagle Eye",
+		content = { summary = "Have 90 Base DEX", details = "Raise base Dexterity to 90." },
+		resource = { [1] = { text = "Have 90 Base DEX" } },
 		reward = {},
 		score = 10
 	},
@@ -2736,9 +2787,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Любимец фортуны ",
-		content = { summary = "Поднимите Удачу до 90.", details = "Поднимите Удачу до 90." },
-		resource = { [1] = { text = "Поднимите Удачу до 90." } },
+		title = "Lucky Max",
+		content = { summary = "Have 90 Base LUK", details = "Raise base Luck to 90." },
+		resource = { [1] = { text = "Have 90 Base LUK" } },
 		reward = {},
 		score = 10
 	},
@@ -2747,9 +2798,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Сила дракона!",
-		content = { summary = "Поднимите Силу до 125.", details = "Поднимите Силу до 125." },
-		resource = { [1] = { text = "Поднимите Силу до 125." } },
+		title = "O Dragon-like Strength!",
+		content = { summary = "Have 125 Base STR", details = "Raise base Strength to 125." },
+		resource = { [1] = { text = "Have 125 Base STR" } },
 		reward = { buff = 319 },
 		score = 20
 	},
@@ -2758,9 +2809,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Безумная Магия!",
-		content = { summary = "Поднимите Интеллект до 125.", details = "Поднимите Интеллект до 125." },
-		resource = { [1] = { text = "Поднимите Интеллект до 125." } },
+		title = "Insane Magic",
+		content = { summary = "Have 125 Base INT", details = "Raise base Intelligence to 125." },
+		resource = { [1] = { text = "Have 125 Base INT" } },
 		reward = { buff = 611 },
 		score = 20
 	},
@@ -2769,9 +2820,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Алмазный сплав ",
-		content = { summary = "Поднимите Живучесть до 125.", details = "Поднимите Живучесть до 125." },
-		resource = { [1] = { text = "Поднимите Живучесть до 125." } },
+		title = "Diamond Alloy",
+		content = { summary = "Have 125 Base VIT", details = "Raise base Vitality to 125." },
+		resource = { [1] = { text = "Have 125 Base VIT" } },
 		reward = { buff = 293 },
 		score = 20
 	},
@@ -2780,9 +2831,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Со скоростью света ",
-		content = { summary = "Поднимите Сноровку до 125.", details = "Поднимите Ловкость до 125." },
-		resource = { [1] = { text = "Поднимите Ловкость до 125." } },
+		title = "Speed of Light",
+		content = { summary = "Have 125 Base AGI", details = "Raise base Agility to 125" },
+		resource = { [1] = { text = "Have 125 Base AGI" } },
 		reward = { buff = 296 },
 		score = 20
 	},
@@ -2791,9 +2842,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Соколиный глаз ",
-		content = { summary = "Поднимите Ловкость до 125.", details = "Поднимите Ловкость до 125." },
-		resource = { [1] = { text = "Поднимите Ловкость до 125." } },
+		title = "Eye of Falcon",
+		content = { summary = "Have 125 Base DEX", details = "Raise base Dexterity to 125." },
+		resource = { [1] = { text = "Have 125 Base DEX" } },
 		reward = { buff = 295 },
 		score = 20
 	},
@@ -2802,9 +2853,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Счастливая лихорадка ",
-		content = { summary = "Поднимите Удачу до 125.", details = "Поднимите Удачу до 125." },
-		resource = { [1] = { text = "Поднимите Удачу до 125." } },
+		title = "Lucky Fever",
+		content = { summary = "Have 125 Base LUK", details = "Raise base Luck to 125." },
+		resource = { [1] = { text = "Have 125 Base LUK" } },
 		reward = { buff = 21 },
 		score = 20
 	},
@@ -2813,9 +2864,12 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Любовь и ненависть ",
-		content = { summary = "Новичок 99 ур.", details = "В погоне за уровнем.\nНичего лишнего." },
-		resource = { [1] = { text = "Достигнуть 99 базового уровня, будучи Новичком." } },
+		title = "Avatar of Love and Hatred",
+		content = {
+			summary = "Reach Base Lv 99 as a Novice",
+			details = "Character is a Novice and reaches base level of 99."
+		},
+		resource = { [1] = { text = "Reach Base Lv 99 as a Novice" } },
 		reward = { buff = 10, item = 16483 },
 		score = 30
 	},
@@ -2824,12 +2878,12 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Ты мне правда нравишься!",
+		title = "I really like you!",
 		content = {
-			summary = "Получите Базовый 99 ур. на 1-й профессии.",
-			details = "Персонаж получил первую профессию и достиг Базового 99 уровня."
+			summary = "Reach Base Lv 99 as a First Job Class",
+			details = "Character has gained a First Job Class and reaches base level of 99."
 		},
-		resource = { [1] = { text = "Получите Базовый 99 ур. на 1-й профессии." } },
+		resource = { [1] = { text = "Reach Base Lv 99 as a First Job Class" } },
 		reward = { buff = 10, item = 16504 },
 		score = 30
 	},
@@ -2838,12 +2892,12 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Добро пожаловать в Вальгаллу ",
+		title = "Rebirth in Valhalla!",
 		content = {
-			summary = "Получить профессию Старший новичок",
-			details = "Валькирия поможет Вам переродиться."
+			summary = "Rebirth as a High Novice",
+			details = "Rebirth as a High Novice. Rebirthing is only possible through a Valkyrie."
 		},
-		resource = { [1] = { text = "Получить профессию Старший новичок" } },
+		resource = { [1] = { text = "Rebirth as a High Novice" } },
 		reward = { buff = 12, item = 603 },
 		score = 10
 	},
@@ -2852,16 +2906,16 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Поринги - это любовь ",
+		title = "Poring is Love.",
 		content = {
-			summary = "Выполните все задачи.",
-			details = "Вы настоящий любитель Порингов, которому они даже снятся!"
+			summary = "Complete all target tasks",
+			details = "You are a true Poring lover who even dreams about Porings in your sleep!"
 		},
 		resource = {
-			[1] = { text = "Выполните задачу 'Поринг - Приручение'", shortcut = 230101 },
-			[2] = { text = "Выполните задачу 'Дропс - Приручение'", shortcut = 230102 },
-			[3] = { text = "Выполните задачу 'Попоринг - Приручение'", shortcut = 230103 },
-			[4] = { text = "Выполните задачу 'Маленький поринг - Приручение'", shortcut = 230104 }
+			[1] = { text = "Complete Task 'Poring - Taming'", shortcut = 230101 },
+			[2] = { text = "Complete Task 'Drops - Taming'", shortcut = 230102 },
+			[3] = { text = "Complete Task 'Poporing - Taming'", shortcut = 230103 },
+			[4] = { text = "Complete Task 'Little Poring - Taming'", shortcut = 230104 }
 		},
 		reward = { title = 1025, buff = 12 },
 		score = 50
@@ -2871,18 +2925,18 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Энтомолог ",
+		title = "Entomologist",
 		content = {
-			summary = "Выполните все задачи.",
-			details = "Вы настоящий энтомолог, который даже во сне собирает насекомых!"
+			summary = "Complete all target tasks",
+			details = "You are a true entomologist who even dreams about collecting insects in your sleep!"
 		},
 		resource = {
-			[1] = { text = "Выполните задачу 'Чончон - Приручение'", shortcut = 230111 },
-			[2] = { text = "Выполните задачу 'Стальной Чончон - Приручение'", shortcut = 230112 },
-			[3] = { text = "Выполните задачу 'Муха-Охотник - Приручение'", shortcut = 230113 },
-			[4] = { text = "Выполните задачу 'Рокер - Приручение'", shortcut = 230114 },
-			[5] = { text = "Выполните задачу 'Спора - Приручение'", shortcut = 230115 },
-			[6] = { text = "Выполните задачу 'Ядовитая спора - Приручение'", shortcut = 230116 }
+			[1] = { text = "Complete Task 'Chonchon - Taming'", shortcut = 230111 },
+			[2] = { text = "Complete Task 'Steel Chonchon - Taming'", shortcut = 230112 },
+			[3] = { text = "Complete 'Hunter Fly - Taming' Task", shortcut = 230113 },
+			[4] = { text = "Complete 'Rocker - Taming' Task", shortcut = 230114 },
+			[5] = { text = "Complete 'Spore - Taming' Task", shortcut = 230115 },
+			[6] = { text = "Complete 'Poison Spore - Taming' Task", shortcut = 230116 }
 		},
 		reward = { title = 1026, buff = 12 },
 		score = 50
@@ -2892,20 +2946,20 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Животные тоже наши друзья ",
+		title = "Animals are our friends too",
 		content = {
-			summary = "Выполните все задачи.",
-			details = "Вы настоящий любитель животных, который даже во снах проводит с ними все время!"
+			summary = "Complete all target tasks",
+			details = "You are a true animal lover who even dreams about animal friends in your sleep!"
 		},
 		resource = {
-			[1] = { text = "Выполните задачу 'Лунатик - Приручение'", shortcut = 230121 },
-			[2] = { text = "Выполните задачу 'Пикки - Приручение'", shortcut = 230122 },
-			[3] = { text = "Выполните задачу 'Поросенок - Приручение'", shortcut = 230123 },
-			[4] = { text = "Выполните задачу 'Пустынный Волчонок - Приручение'", shortcut = 230124 },
-			[5] = { text = "Выполните задачу 'Смоки - Приручение'", shortcut = 230125 },
-			[6] = { text = "Выполните задачу 'Йойо - Приручение'", shortcut = 230126 },
-			[7] = { text = "Выполните задачу 'Пеко-пеко - Приручение'", shortcut = 230127 },
-			[8] = { text = "Выполните задачу 'Земляной дракончик - Приручение'", shortcut = 230128 }
+			[1] = { text = "Complete 'Lunatic - Taming' Task", shortcut = 230121 },
+			[2] = { text = "Complete 'Picky - Taming' Task", shortcut = 230122 },
+			[3] = { text = "Complete 'Savage Babe - Taming' Task", shortcut = 230123 },
+			[4] = { text = "Complete 'Baby Desert Wolf - Taming' Task", shortcut = 230124 },
+			[5] = { text = "Complete 'Smokie - Taming' Task", shortcut = 230125 },
+			[6] = { text = "Complete 'Yoyo - Taming' Task", shortcut = 230126 },
+			[7] = { text = "Complete 'Pecopeco - Taming' Task", shortcut = 230127 },
+			[8] = { text = "Complete 'Petite - Taming' Task", shortcut = 230128 }
 		},
 		reward = { title = 1027, buff = 12 },
 		score = 50
@@ -2915,19 +2969,19 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Девочки-Монстры - звучит опасно!",
+		title = "We are the Monster Girls!",
 		content = {
-			summary = "Выполните все задачи.",
+			summary = "Complete all target tasks",
 			details = "You are a true producer who even dreams about forming the Monster Girls in your sleep!"
 		},
 		resource = {
-			[1] = { text = "Выполните задачу 'Мунак - Приручение'", shortcut = 230141 },
-			[2] = { text = "Выполните задачу 'Изис - Приручение'", shortcut = 230142 },
-			[3] = { text = "Выполните задачу 'Сохи - Приручение'", shortcut = 230143 },
-			[4] = { text = "Выполните задачу 'Зилотус - Приручение'", shortcut = 230144 },
-			[5] = { text = "Выполните задачу 'Алиса - Приручение'", shortcut = 230145 },
-			[6] = { text = "Выполните задачу 'Суккуб - Приручение'", shortcut = 230146 },
-			[7] = { text = "Выполните задачу 'Лоли Рури - Приручение'", shortcut = 230147 }
+			[1] = { text = "Complete 'Munak - Taming' Task", shortcut = 230141 },
+			[2] = { text = "Complete 'Isis - Taming' Task", shortcut = 230142 },
+			[3] = { text = "Complete 'Sohee - Taming' Task", shortcut = 230143 },
+			[4] = { text = "Complete 'Zealotus - Taming' Task", shortcut = 230144 },
+			[5] = { text = "Complete 'Alice - Taming' Task", shortcut = 230145 },
+			[6] = { text = "Complete 'Succubus - Taming' Task", shortcut = 230146 },
+			[7] = { text = "Complete 'Loli Ruri - Taming' Task", shortcut = 230147 }
 		},
 		reward = { title = 1029, buff = 12 },
 		score = 50
@@ -2937,12 +2991,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Поринг - Приручение ",
+		title = "Poring - Taming",
 		content = {
-			summary = "Удачное приручение Поринга.",
-			details = "Сделайте Поринга вашим питомцем. Вы можете приручить его с помощью 'Незрелое яблоко'."
+			summary = "Successfully tame a Poring",
+			details = "Tame a Poring to become your pet. You can tame it with 'Unripe Apple'."
 		},
-		resource = { [1] = { text = "Удачное приручение Поринга." } },
+		resource = { [1] = { text = "Successfully tame a Poring" } },
 		reward = {},
 		score = 10
 	},
@@ -2951,12 +3005,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Дропс - Приручение ",
+		title = "Drops - Taming",
 		content = {
-			summary = "Удачное приручение Дропса.",
-			details = "Сделайте Дропса вашим питомцем. Вы можете приручить его с помощью 'Апельсиновый сок'."
+			summary = "Successfully tame a Drops",
+			details = "Tame a Drops to become your pet. You can tame it with 'Orange Juice'."
 		},
-		resource = { [1] = { text = "Удачное приручение Дропса." } },
+		resource = { [1] = { text = "Successfully tame a Drops" } },
 		reward = {},
 		score = 10
 	},
@@ -2965,12 +3019,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Попоринг - Приручение ",
+		title = "Poporing - Taming",
 		content = {
-			summary = "Удачное приручение Попоринга.",
-			details = "Сделайте Попоринга вашим питомцем. Вы можете приручить его с помощью 'Горькая трава'."
+			summary = "Successfully tame a Poporing",
+			details = "Tame a Poporing to become your pet. You can tame it with 'Bitter Herb'."
 		},
-		resource = { [1] = { text = "Удачное приручение Попоринга." } },
+		resource = { [1] = { text = "Successfully tame a Poporing" } },
 		reward = {},
 		score = 10
 	},
@@ -2979,12 +3033,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Маленький поринг - Приручение ",
+		title = "Little Poring - Taming",
 		content = {
-			summary = "Удачное приручение Маленького поринга.",
-			details = "Сделайте Маленького поринга вашим питомцем. Вы можете приручить его с помощью 'Маленькое незрелое яблоко'."
+			summary = "Successfully tame a Little Poring",
+			details = "Tame a Little Poring to become your pet. You can tame it with 'Little Unripe Apple'."
 		},
-		resource = { [1] = { text = "Удачное приручение Маленького поринга." } },
+		resource = { [1] = { text = "Successfully tame a Little Poring" } },
 		reward = {},
 		score = 10
 	},
@@ -2993,12 +3047,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Чончон - Приручение ",
+		title = "Chonchon - Taming",
 		content = {
-			summary = "Удачное приручение Чончона.",
-			details = "Сделайте Чончона вашим питомцем. Вы можете приручить его с помощью 'Тухлая рыба'."
+			summary = "Successfully tame a Chonchon",
+			details = "Tame a Chonchon to become your pet. You can tame it with 'Rotten Fish'."
 		},
-		resource = { [1] = { text = "Удачное приручение Чончона." } },
+		resource = { [1] = { text = "Successfully tame a Chonchon" } },
 		reward = {},
 		score = 10
 	},
@@ -3007,12 +3061,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Стальной Чончон - Приручение ",
+		title = "Steel Chonchon - Taming",
 		content = {
-			summary = "Удачное приручение Стального Чончона.",
-			details = "Сделайте Стального Чончона вышим питомцем. Вы можете приручить его с помощью 'Rusty Iron'."
+			summary = "Successfully tame a Steel Chonchon",
+			details = "Tame a Steel Chonchon to become your pet. You can tame it with 'Rusty Iron'."
 		},
-		resource = { [1] = { text = "Удачное приручение Стального Чончона." } },
+		resource = { [1] = { text = "Successfully tame a Steel Chonchon" } },
 		reward = {},
 		score = 10
 	},
@@ -3021,12 +3075,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Муха-Охотник - Приручение ",
+		title = "Hunter Fly - Taming",
 		content = {
-			summary = "Удачное приручение Мухи-Охотника.",
-			details = "Сделайте Муху-Охотника своим питомцем. Вы можете приручить ее с помощью 'Сок монстра'."
+			summary = "Successfully tame a Hunter Fly",
+			details = "Tame a Hunter Fly to become your pet. You can tame it with 'Monster Juice'."
 		},
-		resource = { [1] = { text = "Удачное приручение Мухи-Охотника." } },
+		resource = { [1] = { text = "Successfully tame a Hunter Fly" } },
 		reward = {},
 		score = 10
 	},
@@ -3035,12 +3089,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Рокер - Приручение ",
+		title = "Rocker - Taming",
 		content = {
-			summary = "Удачное приручение Рокера.",
-			details = "Сделайте Рокера своим питомцем. Вы можете приручить его с помощью 'Поющий Цветок'."
+			summary = "Successfully tame a Rocker",
+			details = "Tame a Rocker to become your pet. You can tame it with 'Singing Flower'."
 		},
-		resource = { [1] = { text = "Удачное приручение Рокера." } },
+		resource = { [1] = { text = "Successfully tame a Rocker" } },
 		reward = {},
 		score = 10
 	},
@@ -3049,12 +3103,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Спора - Приручение ",
+		title = "Spore - Taming",
 		content = {
-			summary = "Удачное приручение Споры.",
-			details = "Сделайте Спору своим питомцем. Вы можете приручить ее с помощью 'Полный росы мох'."
+			summary = "Successfully tame a Spore",
+			details = "Tame a Spore to become your pet. You can tame it with 'Dew Laden Moss'."
 		},
-		resource = { [1] = { text = "Удачное приручение Споры." } },
+		resource = { [1] = { text = "Successfully tame a Spore" } },
 		reward = {},
 		score = 10
 	},
@@ -3063,12 +3117,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Ядовитая спора - Приручение ",
+		title = "Poison Spore - Taming",
 		content = {
-			summary = "Удачное приручение Ядовитой споры.",
-			details = "Сделайте Ядовитую спору вашим питомцем. Вы можете приручить ее с помощью 'Ядовитая трава'."
+			summary = "Successfully tame a Poison Spore",
+			details = "Tame a Poison Spore to become your pet. You can tame it with 'Deadly Noxious Herb'."
 		},
-		resource = { [1] = { text = "Удачное приручение Ядовитой споры." } },
+		resource = { [1] = { text = "Successfully tame a Poison Spore" } },
 		reward = {},
 		score = 10
 	},
@@ -3077,12 +3131,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Лунатик - Приручение ",
+		title = "Lunatic - Taming",
 		content = {
-			summary = "Удачное приручение Лунатика.",
-			details = "Сделайте Лунатика вашим питомцем. Вы можете приручить его с помощью 'Радужная морковь'."
+			summary = "Successfully tame a Lunatic",
+			details = "Tame a Lunatic to become your pet. You can tame it with 'Rainbow Carrot'."
 		},
-		resource = { [1] = { text = "Удачное приручение Лунатика." } },
+		resource = { [1] = { text = "Successfully tame a Lunatic" } },
 		reward = {},
 		score = 10
 	},
@@ -3091,12 +3145,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Пикки - Приручение ",
+		title = "Picky - Taming",
 		content = {
-			summary = "Удачное приручение Пикки.",
-			details = "Сделайте Пикки вашим питомцем. Вы можете приручить его с помощью 'Земляной червяк'."
+			summary = "Successfully tame a Picky",
+			details = "Tame a Picky to become your pet. You can tame it with 'Earthworm the Dude'."
 		},
-		resource = { [1] = { text = "Удачное приручение Пикки." } },
+		resource = { [1] = { text = "Successfully tame a Picky" } },
 		reward = {},
 		score = 10
 	},
@@ -3105,12 +3159,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Поросенок - Приручение ",
+		title = "Savage Babe - Taming",
 		content = {
-			summary = "Удачное приручение Поросенка.",
-			details = "Сделайте Поросенка вашим питомцем. Вы можете приручить его с помощью 'Сладкое молоко'."
+			summary = "Successfully tame a Savage Babe",
+			details = "Tame a Savage Babe to become your pet. You can tame it with 'Sweet Milk'."
 		},
-		resource = { [1] = { text = "Удачное приручение Поросенка." } },
+		resource = { [1] = { text = "Successfully tame a Savage Babe" } },
 		reward = {},
 		score = 10
 	},
@@ -3119,12 +3173,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Пустынный Волчонок - Приручение ",
+		title = "Baby Desert Wolf - Taming",
 		content = {
-			summary = "Удачное приручение Пустынного Волчонока.",
-			details = "Сделайте Пустынного Волчонока вашим питомцем. Вы можете приручить его с помощью 'Сухая кость'."
+			summary = "Successfully tame a Baby Desert Wolf",
+			details = "Tame a Baby Desert Wolf to become your pet. You can tame it with 'Well-dried Bone'."
 		},
-		resource = { [1] = { text = "Удачное приручение Пустынного Волчонка." } },
+		resource = { [1] = { text = "Successfully tame a Baby Desert Wolf" } },
 		reward = {},
 		score = 10
 	},
@@ -3133,12 +3187,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Смоки - Приручение ",
+		title = "Smokie - Taming",
 		content = {
-			summary = "Удачное приручение Смоки.",
-			details = "Сделайте Смоки вашим питомцем. Вы можете приручить его с помощью 'Запеченный батат'."
+			summary = "Successfully tame a Smokie",
+			details = "Tame a Smokie to become your pet. You can tame it with 'Sweet Potato'."
 		},
-		resource = { [1] = { text = "Удачное приручение Смоки." } },
+		resource = { [1] = { text = "Successfully tame a Smokie" } },
 		reward = {},
 		score = 10
 	},
@@ -3147,12 +3201,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Йойо - Приручение ",
+		title = "Yoyo - Taming",
 		content = {
-			summary = "Удачное приручение Йойо.",
-			details = "Сделайте Йойо вашим питомцем. Вы можете приручить его с помощью 'Тропический банан'."
+			summary = "Successfully tame a Yoyo",
+			details = "Tame a Yoyo to become your pet. You can tame it with 'Tropical Banana'."
 		},
-		resource = { [1] = { text = "Удачное приручение Йойо." } },
+		resource = { [1] = { text = "Successfully tame a Yoyo" } },
 		reward = {},
 		score = 10
 	},
@@ -3161,12 +3215,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Пеко-пеко - Приручение ",
+		title = "Pecopeco - Taming",
 		content = {
-			summary = "Удачное приручение Пеко-пеко.",
-			details = "Сделайте Пеко-пеко вашим питомцем. Вы можете приручить его с помощью 'Упитанный дождевой червяк'."
+			summary = "Successfully tame a Pecopeco",
+			details = "Tame a Pecopeco to become your pet. You can tame it with 'Fatty Chubby Earthworm'."
 		},
-		resource = { [1] = { text = "Удачное приручение Пеко-пеко." } },
+		resource = { [1] = { text = "Successfully tame a Pecopeco" } },
 		reward = {},
 		score = 10
 	},
@@ -3175,12 +3229,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Земляной дракончик - Приручение ",
+		title = "Petite - Taming",
 		content = {
-			summary = "Удачное приручение Земляного дракончика.",
-			details = "Сделайте Земляного дракончика вашим питомцем. Вы можете приручить его с помощью 'Shining Stone'."
+			summary = "Successfully tame a Petite",
+			details = "Tame a Petite to become your pet. You can tame it with 'Shining Stone'."
 		},
-		resource = { [1] = { text = "Удачное приручение Земляного дракончика." } },
+		resource = { [1] = { text = "Successfully tame a Petite" } },
 		reward = {},
 		score = 10
 	},
@@ -3189,12 +3243,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Мунак - Приручение ",
+		title = "Munak - Taming",
 		content = {
-			summary = "Удачное приручение Мунак.",
-			details = "Сделайте Мунак вашим питомцем. Вы можете приручить ее с помощью 'Без адресата'."
+			summary = "Successfully tame a Munak",
+			details = "Tame a Munak to become your pet. You can tame it with 'No Recipient'."
 		},
-		resource = { [1] = { text = "Удачное приручение Мунак." } },
+		resource = { [1] = { text = "Successfully tame a Munak" } },
 		reward = {},
 		score = 10
 	},
@@ -3203,12 +3257,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Изис - Приручение ",
+		title = "Isis - Taming",
 		content = {
-			summary = "Удачное приручение an Изис.",
-			details = "Сделайте Изис вашим питомцем. Вы можете приручить ее с помощью 'Браслет покорности'."
+			summary = "Successfully tame an Isis",
+			details = "Tame an Isis to become your pet. You can tame it with 'Armlet of Obedience'."
 		},
-		resource = { [1] = { text = "Удачное приручение Изис." } },
+		resource = { [1] = { text = "Successfully tame an Isis" } },
 		reward = {},
 		score = 10
 	},
@@ -3217,12 +3271,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Сохи - Приручение ",
+		title = "Sohee - Taming",
 		content = {
-			summary = "Удачное приручение Сохи.",
-			details = "Сделайте Сохи вашим питомцем. Вы можете приручить ее с помощью 'Нож целомудрия'."
+			summary = "Successfully tame a Sohee",
+			details = "Tame a Sohee to become your pet. You can tame it with 'Silver Knife of Chastity'."
 		},
-		resource = { [1] = { text = "Удачное приручение Сохи." } },
+		resource = { [1] = { text = "Successfully tame a Sohee" } },
 		reward = {},
 		score = 10
 	},
@@ -3231,12 +3285,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Зилотус - Приручение ",
+		title = "Zealotus - Taming",
 		content = {
-			summary = "Удачное приручение Зилотус.",
-			details = "Сделайте Зилотус вашим питомцем. Вы можете приручить ее с помощью 'Красная свеча'."
+			summary = "Successfully tame a Zealotus",
+			details = "Tame a Zealotus to become your pet. You can tame it with 'Forbidden Red Candle'."
 		},
-		resource = { [1] = { text = "Удачное приручение Зилотус." } },
+		resource = { [1] = { text = "Successfully tame a Zealotus" } },
 		reward = {},
 		score = 10
 	},
@@ -3245,12 +3299,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Алиса - Приручение ",
+		title = "Alice - Taming",
 		content = {
-			summary = "Удачное приручение Алисы.",
-			details = "Сделайте Алису вашим питомцем. Вы можете приручить ее с помощью 'Тонкий фартук'."
+			summary = "Successfully tame an Alice",
+			details = "Tame an Alice to become your pet. You can tame it with 'Soft Apron'."
 		},
-		resource = { [1] = { text = "Удачное приручение Алисы." } },
+		resource = { [1] = { text = "Successfully tame an Alice" } },
 		reward = {},
 		score = 10
 	},
@@ -3259,12 +3313,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Суккуб - Приручение ",
+		title = "Succubus - Taming",
 		content = {
-			summary = "Удачное приручение Суккуба.",
-			details = "Сделайте Суккуба вашим питомцем. Вы можете приручить ее с помощью 'Любовное письмо'."
+			summary = "Successfully tame a Succubus",
+			details = "Tame a Succubus to become your pet. You can tame it with 'Boy's Pure Heart'."
 		},
-		resource = { [1] = { text = "Удачное приручение Суккуба." } },
+		resource = { [1] = { text = "Successfully tame a Succubus" } },
 		reward = {},
 		score = 10
 	},
@@ -3273,12 +3327,12 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Лоли Рури - Приручение ",
+		title = "Loli Ruri - Taming",
 		content = {
-			summary = "Удачное приручение Лоли Рури.",
-			details = "Сделайте Лоли Рури вашим питомцем. Вы можете приручить ее с помощью 'Красный сок'."
+			summary = "Successfully tame a Loli Ruri",
+			details = "Tame a Loli Ruri to become your pet. You can tame it with 'Very Red Juice'."
 		},
-		resource = { [1] = { text = "Удачное приручение Лоли Рури." } },
+		resource = { [1] = { text = "Successfully tame a Loli Ruri" } },
 		reward = {},
 		score = 10
 	},
@@ -3287,12 +3341,12 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 1,
 		minor = 2,
-		title = "Создание коммьюнити ",
+		title = "Start Community",
 		content = {
-			summary = "Откройте окно чата.",
-			details = "Откройте окно чата. Горячие клавиши по умолчанию ALT + C."
+			summary = "Open Chat Window",
+			details = "Open the chat window. The shortcut is ALT + C (default)."
 		},
-		resource = { [1] = { text = "Откройте окно чата." } },
+		resource = { [1] = { text = "Open Chat Window" } },
 		reward = {},
 		score = 10
 	},
@@ -3301,12 +3355,12 @@ achievement_tbl = {
 		group = "CHATTING_DYING",
 		major = 1,
 		minor = 2,
-		title = "Мрачный болтун ",
+		title = "Grim Chatterbox",
 		content = {
-			summary = "Откройте окно чата пока вы мертвы.",
-			details = "Даже смерть не заставит вас молчать... Откройте окно чата пока вы мертвы. Горячие клавиши по умолчанию ALT + C."
+			summary = "Open the chat window while dead",
+			details = "Even death can't stop you from talking... Open the chat window while dead. The shortcut is ALT + C (default)."
 		},
-		resource = { [1] = { text = "Откройте окно чата пока вы мертвы." } },
+		resource = { [1] = { text = "Open Chat Window while dead" } },
 		reward = {},
 		score = 10
 	},
@@ -3315,12 +3369,12 @@ achievement_tbl = {
 		group = "CHATTING20",
 		major = 1,
 		minor = 2,
-		title = "Болталка ",
+		title = "Chattering Away",
 		content = {
-			summary = "Соберите 20 человек в чате.",
-			details = "Добавляйте кого угодно в чат. Откройте окно чата и полностью заполните список участников."
+			summary = "Have 20 people in the chat window",
+			details = "Have everyone gather for a chat. Open the chat window and fill it full with 20 people."
 		},
-		resource = { [1] = { text = "Соберите 20 человек в чате." } },
+		resource = { [1] = { text = "Have 20 people in the chat window" } },
 		reward = {},
 		score = 10
 	},
@@ -3329,12 +3383,12 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Друг... Мой друг...",
+		title = "Friend... My friend...",
 		content = {
-			summary = "Добавьте 1 человека в список друзей.",
-			details = "Найдите себе друга для приключений. Добавьте 1 человека в свой список друзей."
+			summary = "Add 1 friend to your Friend List",
+			details = "Look for a friend to join your adventure. Add 1 friend to your Friend List."
 		},
-		resource = { [1] = { text = "Добавьте 1 человека в список друзей." } },
+		resource = { [1] = { text = "Add 1 friend to your Friend List" } },
 		reward = {},
 		score = 10
 	},
@@ -3343,12 +3397,12 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Предмет обожания ",
+		title = "Heartthrob",
 		content = {
-			summary = "Добавьте 10 человек в список друзей.",
-			details = "Чем больше друзей, тем веселее. Станьте другом для 10 человек."
+			summary = "Add 10 friends to your Friend List",
+			details = "More friends the merrier. Become friends with 10 people."
 		},
-		resource = { [1] = { text = "Добавьте 10 человек в список друзей." } },
+		resource = { [1] = { text = "Add 10 friends to your Friend List" } },
 		reward = {},
 		score = 10
 	},
@@ -3357,12 +3411,12 @@ achievement_tbl = {
 		group = "PARTY",
 		major = 1,
 		minor = 2,
-		title = "Вечеринка начинается!",
+		title = "Let's Party~",
 		content = {
-			summary = "Создайте группу.",
-			details = "Больше никаких одиночных, трудных приключений! Преодолевайте препятствия в компании."
+			summary = "Form a Party",
+			details = "No more single, arduous adventuring! Overcome obstacles as a party."
 		},
-		resource = { [1] = { text = "Создайте группу." } },
+		resource = { [1] = { text = "Form a Party" } },
 		reward = {},
 		score = 10
 	},
@@ -3371,12 +3425,12 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "Вы женаты...?",
+		title = "Are you married...?",
 		content = {
-			summary = "Сыграйте свадьбу ",
-			details = "В этом суровом и одиноком мире только любовь позволяет защищать друг друга. Скрепите себя узами брака, чтобы запечатать свою любовь."
+			summary = "Marry someone",
+			details = "In this tough and lonely world, only love lets you protect each other. Marry someone to seal your love."
 		},
-		resource = { [1] = { text = "Сыграйте свадьбу." } },
+		resource = { [1] = { text = "Marry someone" } },
 		reward = { title = 1022 },
 		score = 20
 	},
@@ -3385,12 +3439,12 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Не могли бы вы присмотреть за мной?",
+		title = "Could you look after me?",
 		content = {
-			summary = "Станьте чьим-то ребенком.",
-			details = "Путешествуйте по этому суровому миру с помощью родителей."
+			summary = "Adopted by someone",
+			details = "Navigate this harsh world with the help of your parents."
 		},
-		resource = { [1] = { text = "Станьте чьим-то ребенком." } },
+		resource = { [1] = { text = "Adopted by someone" } },
 		reward = { title = 1032 },
 		score = 20
 	},
@@ -3399,12 +3453,12 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Станьте родителем ",
+		title = "Becoming a Parent",
 		content = {
-			summary = "Заведите ребенка.",
-			details = "Дети - это блаженство. Усыновите ребенка и создайте счастливую и любящую семью."
+			summary = "Adopt a child",
+			details = "Children are bliss. Adopt a child and build a happy and loving family."
 		},
-		resource = { [1] = { text = "Станьте родителем." } },
+		resource = { [1] = { text = "Adopt a child" } },
 		reward = { title = 1033 },
 		score = 20
 	},
@@ -3413,12 +3467,12 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Оживление рыночной экономики (1)",
+		title = "Vitalize Markey Economy (1)",
 		content = {
-			summary = "Потратье в магазинах 10,000 зени.",
-			details = "Деньги вокруг. Потратье в магазинах других игроков 10,000 зени."
+			summary = "Spend at least 10000 Zeny at shops",
+			details = "Money goes around and around. Spend 10000 Zeny on buying items from other players' stores. "
 		},
-		resource = { [1] = { text = "Потратье в магазинах 10,000 зени", count = 10000 }, count = 500000000 },
+		resource = { [1] = { text = "Spend at least 10000 Zeny at shops", count = 10000 }, count = 500000000 },
 		reward = {},
 		score = 10
 	},
@@ -3427,13 +3481,13 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Оживление рыночной экономики (2)",
+		title = "Vitalize Markey Economy (2)",
 		content = {
-			summary = "Потратье в магазинах 1,000,000 зени.",
-			details = "Деньги вокруг. Потратье в магазинах других игроков 1,000,000 зени."
+			summary = "Spend at least 1 million Zeny at shops",
+			details = "Money goes around and around. Spend 1 million Zeny on buying items from other players' stores. "
 		},
 		resource = {
-			[1] = { text = "Потратье в магазинах 1,000,000 зени", count = 1000000 },
+			[1] = { text = "Spend at least 1 million Zeny at shops", count = 1000000 },
 			count = 500000000
 		},
 		reward = {},
@@ -3444,13 +3498,13 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Оживление рыночной экономики (3)",
+		title = "Vitalize Markey Economy (3)",
 		content = {
-			summary = "Потратье в магазинах 5,000,000 зени.",
-			details = "Деньги вокруг. Потратье в магазинах других игроков 5,000,000 зени."
+			summary = "Spend at least 5 million Zeny at shops",
+			details = "Money goes around and around. Spend 5 million Zeny on buying items from other players' stores. "
 		},
 		resource = {
-			[1] = { text = "Потратье в магазинах 5,000,000 зени.", count = 5000000 },
+			[1] = { text = "Spend at least 5 million Zeny at shops", count = 5000000 },
 			count = 500000000
 		},
 		reward = {},
@@ -3461,13 +3515,13 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Оживление рыночной экономики (4)",
+		title = "Vitalize Markey Economy (4)",
 		content = {
-			summary = "Потратье в магазинах 100,000,000 зени.",
-			details = "Деньги вокруг. Потратье в магазинах других игроков 100,000,000 зени."
+			summary = "Spend at least 100 million Zeny at shops",
+			details = "Money goes around and around. Spend 100 million Zeny on buying items from other players' stores. "
 		},
 		resource = {
-			[1] = { text = "Потратье в магазинах 100,000,000 зени.", count = 100000000 },
+			[1] = { text = "Spend at least 100 million Zeny at shops", count = 100000000 },
 			count = 500000000
 		},
 		reward = {},
@@ -3478,12 +3532,12 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Оживление рыночной экономики (5)",
+		title = "Vitalize Markey Economy (5)",
 		content = {
-			summary = "Потратье в магазинах 500,000,000 зени.",
-			details = "Деньги вокруг. Потратье в магазинах других игроков 500,000,000 зени."
+			summary = "Spend at least 500 million Zeny at shops",
+			details = "Money goes around and around. Spend 500 million Zeny on buying items from other players' stores. "
 		},
-		resource = { [1] = { text = "Потратье в магазинах 500,000,000 зени.", count = 500000000 } },
+		resource = { [1] = { text = "Spend at least 500 million Zeny at shops", count = 500000000 } },
 		reward = {},
 		score = 50
 	},
@@ -3492,12 +3546,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (1)",
+		title = "Can't Stop Refining! (1)",
 		content = {
-			summary = "Успешно заточите оружие 1 ур. до +7 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 1 ур. до +7 заточки."
+			summary = "Successfully refine a Lv. 1 weapon to +7 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 1 weapon to +7 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 1 ур. до +7 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 1 weapon to +7 refinement" } },
 		reward = {},
 		score = 10
 	},
@@ -3506,12 +3560,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (2)",
+		title = "Can't Stop Refining! (2)",
 		content = {
-			summary = "Успешно заточите оружие 1 ур. до +12 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 1 ур. до +12 заточки."
+			summary = "Successfully refine a Lv. 1 weapon to +12 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 1 weapon to +12 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 1 ур. до +12 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 1 weapon to +12 refinement" } },
 		reward = {},
 		score = 15
 	},
@@ -3520,12 +3574,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (3)",
+		title = "Can't Stop Refining! (3)",
 		content = {
-			summary = "Успешно заточите оружие 2 ур. до +7 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 2 ур. до +7 заточки."
+			summary = "Successfully refine a Lv. 2 weapon to +7 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 2 weapon to +7 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 2 ур. до +7 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 2 weapon to +7 refinement" } },
 		reward = {},
 		score = 10
 	},
@@ -3534,12 +3588,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (4)",
+		title = "Can't Stop Refining! (4)",
 		content = {
-			summary = "Успешно заточите оружие 2 ур. до +12 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 2 ур. до +12 заточки."
+			summary = "Successfully refine a Lv. 2 weapon to +12 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 2 weapon to +12 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 2 ур. до +12 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 2 weapon to +12 refinement" } },
 		reward = {},
 		score = 15
 	},
@@ -3548,12 +3602,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (5)",
+		title = "Can't Stop Refining! (5)",
 		content = {
-			summary = "Успешно заточите оружие 3 ур. до +7 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 3 ур. до +7 заточки."
+			summary = "Successfully refine a Lv. 3 weapon to +7 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 3 weapon to +7 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 3 ур. до +7 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 3 weapon to +7 refinement" } },
 		reward = {},
 		score = 15
 	},
@@ -3562,12 +3616,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (6)",
+		title = "Can't Stop Refining! (6)",
 		content = {
-			summary = "Успешно заточите оружие 3 ур. до +12 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 3 ур. до +12 заточки."
+			summary = "Successfully refine a Lv. 3 weapon to +12 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 3 weapon to +12 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 3 ур. до +12 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 3 weapon to +12 refinement" } },
 		reward = {},
 		score = 20
 	},
@@ -3576,12 +3630,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (7)",
+		title = "Can't Stop Refining! (7)",
 		content = {
-			summary = "Успешно заточите оружие 4 ур. до +7 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 4 ур. до +7 заточки."
+			summary = "Successfully refine a Lv. 4 weapon to +7 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 4 weapon to +7 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 4 ур. до +7 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 4 weapon to +7 refinement" } },
 		reward = {},
 		score = 20
 	},
@@ -3590,12 +3644,12 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "Не могу перестать точить! (8)",
+		title = "Can't Stop Refining! (8)",
 		content = {
-			summary = "Успешно заточите оружие 4 ур. до +12 заточки.",
-			details = "Как долго удача будет сопутствовать вам? Успешно заточите оружие 4 ур. до +12 заточки."
+			summary = "Successfully refine a Lv. 4 weapon to +12 refinement",
+			details = "How far your luck can take you? Successfully refine a Lv. 4 weapon to +12 refinement."
 		},
-		resource = { [1] = { text = "Успешно заточите оружие 4 ур. до +12 заточки." } },
+		resource = { [1] = { text = "Successfully refine a Lv. 4 weapon to +12 refinement" } },
 		reward = {},
 		score = 30
 	},
@@ -3604,12 +3658,12 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "Жадность человека не знает границ ...",
+		title = "Man's greed knows no bounds...",
 		content = {
-			summary = "Получите опыт неудачной заточки.",
-			details = "Человеческая жадность не знает границ и заставляет совершать одни и те же ошибки. Но человек учится на своих ошибках, поэтому опыт неудачной заточки вам необходим."
+			summary = "And experiences refining failure",
+			details = "Man's greed knows no bounds and makes same mistakes. But Man also grows by learning from mistakes. Experience a refining failure."
 		},
-		resource = { [1] = { text = "Получите опыт неудачной заточки." } },
+		resource = { [1] = { text = "Experience refining failure" } },
 		reward = {},
 		score = 10
 	},
@@ -3618,12 +3672,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (1)",
+		title = "Jackpot! (1)",
 		content = {
-			summary = "Получите за предмет 100 зени.",
-			details = "Вы сорвали куш! Получите не меньше 100 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 100 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 100 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 100 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 100 Zeny" } },
 		reward = {},
 		score = 10
 	},
@@ -3632,12 +3686,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (2)",
+		title = "Jackpot! (2)",
 		content = {
-			summary = "Получите за предмет 1000 зени.",
-			details = "Вы сорвали куш! Получите не меньше 1,000 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 1000 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 1000 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 1,000 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 1000 Zeny" } },
 		reward = {},
 		score = 10
 	},
@@ -3646,12 +3700,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (3)",
+		title = "Jackpot! (3)",
 		content = {
-			summary = "Получите за предмет 5,000 зени.",
-			details = "Вы сорвали куш! Получите не меньше 5,000 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 5000 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 5000 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 5,000 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 5000 Zeny" } },
 		reward = {},
 		score = 15
 	},
@@ -3660,12 +3714,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (4)",
+		title = "Jackpot! (4)",
 		content = {
-			summary = "Получите за предмет 10,000 зени.",
-			details = "Вы сорвали куш! Получите не меньше 10,000 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 10000 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 10000 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 10,000 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 10000 Zeny" } },
 		reward = {},
 		score = 15
 	},
@@ -3674,12 +3728,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (5)",
+		title = "Jackpot! (5)",
 		content = {
-			summary = "Получите за предмет 50,000 зени.",
-			details = "Вы сорвали куш! Получите не меньше 50,000 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 50000 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 50000 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 50,000 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 50000 Zeny" } },
 		reward = {},
 		score = 20
 	},
@@ -3688,12 +3742,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (6)",
+		title = "Jackpot! (6)",
 		content = {
-			summary = "Получите за предмет 100,000 зени.",
-			details = "Вы сорвали куш! Получите не меньше 100,000 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 100000 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 100000 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 100,000 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 100000 Zeny" } },
 		reward = {},
 		score = 20
 	},
@@ -3702,12 +3756,12 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "Джекпот! (7)",
+		title = "Jackpot! (7)",
 		content = {
-			summary = "Получите за предмет 150,000 зени.",
-			details = "Вы сорвали куш! Получите не меньше 150,000 зени при продаже предмета неигровому торговцу."
+			summary = "Obtain an item worth at least 150000 Zeny",
+			details = "I can't believe my luck! Obtain an item worth at least 150000 Zeny when selling to an NPC."
 		},
-		resource = { [1] = { text = "Получите за предмет 150,000 зени." } },
+		resource = { [1] = { text = "Obtain an item worth at least 150000 Zeny" } },
 		reward = {},
 		score = 30
 	},
@@ -3716,12 +3770,12 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Богат как Крез (1)",
+		title = "Rich King (1)",
 		content = {
-			summary = "Накопите 10,000 зени.",
-			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 10,000 зени."
+			summary = "Have at least 10000 Zeny",
+			details = "Money Isn't everything, but you can't live without it. Try to save 10000 Zeny."
 		},
-		resource = { [1] = { text = "Накопите 10,000 зени." } },
+		resource = { [1] = { text = "Have at least 10000 Zeny" } },
 		reward = {},
 		score = 10
 	},
@@ -3730,12 +3784,12 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Богат как Крез (2)",
+		title = "Rich King (2)",
 		content = {
-			summary = "Накопите 100,000 зени.",
-			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 100,000 зени."
+			summary = "Have at least 100000 Zeny",
+			details = "Money Isn't everything, but you can't live without it. Try to save 100000 Zeny."
 		},
-		resource = { [1] = { text = "Накопите 100,000 зени." } },
+		resource = { [1] = { text = "Have at least 100000 Zeny" } },
 		reward = {},
 		score = 15
 	},
@@ -3744,12 +3798,12 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Богат как Крез (3)",
+		title = "Rich King (3)",
 		content = {
-			summary = "Накопите 1,000,000 зени.",
-			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 1,000,000 зени."
+			summary = "Have at least 1 million Zeny",
+			details = "Money Isn't everything, but you can't live without it. Try to save 1 million Zeny."
 		},
-		resource = { [1] = { text = "Накопите 1,000,000 зени." } },
+		resource = { [1] = { text = "Have at least 1 million Zeny" } },
 		reward = {},
 		score = 20
 	},
@@ -3758,12 +3812,12 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Богат как Крез (4)",
+		title = "Rich King (4)",
 		content = {
-			summary = "Накопите 10,000,000 зени.",
-			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 10,000,000 зени."
+			summary = "Have at least 10 million Zeny",
+			details = "Money Isn't everything, but you can't live without it. Try to save 10 million Zeny."
 		},
-		resource = { [1] = { text = "Накопите 10,000,000 зени." } },
+		resource = { [1] = { text = "Have at least 10 million Zeny" } },
 		reward = {},
 		score = 25
 	},
@@ -3772,12 +3826,12 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Богат как Крез (5)",
+		title = "Rich King (5)",
 		content = {
-			summary = "Накопите 100,000,000 зени.",
-			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 100,000,000 зени."
+			summary = "Have at least 100 million Zeny",
+			details = "Money Isn't everything, but you can't live without it. Try to save 100 million Zeny."
 		},
-		resource = { [1] = { text = "Накопите 100,000,000 зени." } },
+		resource = { [1] = { text = "Have at least 100 million Zeny" } },
 		reward = {},
 		score = 30
 	},
@@ -3786,12 +3840,12 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Богат как Крез (6)",
+		title = "Rich King (6)",
 		content = {
-			summary = "Накопите 1,000,000,000 зени.",
-			details = "Деньги - не главное, но жить без них нельзя. Попробуйте накопить 1,000,000,000 зени."
+			summary = "Have at least 1 billion Zeny",
+			details = "Money Isn't everything, but you can't live without it. Try to save 1 billion Zeny."
 		},
-		resource = { [1] = { text = "Накопите 1,000,000,000 зени." } },
+		resource = { [1] = { text = "Have at least 1 billion Zeny" } },
 		reward = {},
 		score = 40
 	},
@@ -3800,15 +3854,15 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Исследователь Порингов ",
+		title = "Poring Researcher",
 		content = {
-			summary = "Выполните все задачи.",
-			details = "Поринги - загадочные существа, которые не являются ни растениями, ни животными. Лучший способ узнать о них - встретиться с ними лицом к лицу и узнать, что они из себя представляют."
+			summary = "Complete all target tasks",
+			details = "Porings are enigmatic creatures that are neither plants nor animals. The best way to learn about them is to see them face to face and experience what they are like."
 		},
 		resource = {
-			[1] = { text = "Выполните задачу 'Исследование порингов (1)'", shortcut = 230201 },
-			[2] = { text = "Выполните задачу 'Исследование порингов (2)'", shortcut = 230202 },
-			[3] = { text = "Выполните задачу 'Исследование порингов (3)'", shortcut = 230203 }
+			[1] = { text = "Complete Task 'Poring Research (1)'", shortcut = 230201 },
+			[2] = { text = "Complete Task 'Poring Research (2)'", shortcut = 230202 },
+			[3] = { text = "Complete Task 'Poring Research (3)'", shortcut = 230203 }
 		},
 		reward = {},
 		score = 10
@@ -3818,17 +3872,17 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Исследование порингов (1)",
+		title = "Poring Research (1)",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
 		resource = {
-			[1] = { text = "Убейте Поринга 10 раз.", count = 10 },
-			[2] = { text = "Убейте Маленького поринга 10 раз.", count = 10 },
-			[3] = { text = "Убейте Дропса 10 раз.", count = 10 },
-			[4] = { text = "Убейте Попоринга 10 раз.", count = 10 },
-			[5] = { text = "Убейте Марин 10 раз.", count = 10 }
+			[1] = { text = "Hunt Poring 10 times", count = 10 },
+			[2] = { text = "Hunt Little Poring 10 times", count = 10 },
+			[3] = { text = "Hunt Drops 10 times", count = 10 },
+			[4] = { text = "Hunt Poporing 10 times", count = 10 },
+			[5] = { text = "Hunt Marin 10 times", count = 10 }
 		},
 		reward = {},
 		score = 10
@@ -3838,17 +3892,17 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Исследование порингов (2)",
+		title = "Poring Research (2)",
 		content = {
-			summary = "Убейте все цели.",
-			details = "В мире тоже есть сильные поринги. Почувствуйте, насколько они на самом деле сильны."
+			summary = "Hunt all targets",
+			details = "There are strong Porings in the world too. Experience how strong they really are."
 		},
 		resource = {
-			[1] = { text = "Убейте Мастеринг 1 раз.", count = 1 },
-			[2] = { text = "Убейте Девилинг 1 раз.", count = 1 },
-			[3] = { text = "Убейте Ангелинг 1 раз.", count = 1 },
-			[4] = { text = "Убейте Архангелинг 1 раз.", count = 1 },
-			[5] = { text = "Убейте Гостринг 1 раз.", count = 1 }
+			[1] = { text = "Hunt Mastering once", count = 1 },
+			[2] = { text = "Hunt Deviling once", count = 1 },
+			[3] = { text = "Hunt Angeling once", count = 1 },
+			[4] = { text = "Hunt Archangeling once", count = 1 },
+			[5] = { text = "Hunt Ghostring once", count = 1 }
 		},
 		reward = {},
 		score = 15
@@ -3858,15 +3912,15 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Исследование порингов (3)",
+		title = "Poring Research (3)",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Некоторые Поринги имеют характеристики, которые значительно отклоняются от нормы. Такие представители вида требуют постоянных исследований."
+			summary = "Hunt all targets",
+			details = "Some Porings have features that deviate significantly from the norm. It requires continuous research."
 		},
 		resource = {
-			[1] = { text = "Убейте Металлинг 5 раз.", count = 5 },
-			[2] = { text = "Убейте Броневой Металлинг 5 раз.", count = 5 },
-			[3] = { text = "Убейте Магмарин 5 раз.", count = 5 }
+			[1] = { text = "Hunt Metaling 5 times", count = 5 },
+			[2] = { text = "Hunt Heavy Metaling 5 times", count = 5 },
+			[3] = { text = "Hunt Magmaring 5 times", count = 5 }
 		},
 		reward = {},
 		score = 20
@@ -3876,12 +3930,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 6,
 		minor = 0,
-		title = "Начало приключений!",
+		title = "The beginning of adventure",
 		content = {
-			summary = "Первый вход в игру",
-			details = "Отпразднуйте свой первый вход в игру!\nВас ждут удивительные приключения!"
+			summary = "Join the game",
+			details = "Commemorate the first login!\nAmazing adventures await you!"
 		},
-		resource = { [1] = { text = "Войти в игру первый раз после введения \nсистемы Достижений." } },
+		resource = {
+			[1] = { text = "Join the game after the introduction of the Achievements Task system." }
+		},
 		reward = {},
 		score = 10
 	},
@@ -3890,10 +3946,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 1 ур.",
-		content = { summary = "Получите достижение 1 ур.", details = "Получите достижение 1 ур." },
-		resource = { [1] = { text = "Получите достижение 1 ур." } },
-		reward = { buff = 10 },
+		title = "Reach Achievement Lv 1",
+		content = { summary = "Reach Achievement Lv 1", details = "Reach Achievement Lv 1." },
+		resource = { [1] = { text = "Reach Achievement Lv 1" } },
+		reward = { buff = 12, item = 644 },
 		score = 10
 	},
 	[240002] = {
@@ -3901,9 +3957,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 2 ур.",
-		content = { summary = "Получите достижение 2 ур.", details = "Получите достижение 2 ур." },
-		resource = { [1] = { text = "Получите достижение 2 ур." } },
+		title = "Reach Achievement Lv 2",
+		content = { summary = "Reach Achievement Lv 2", details = "Reach Achievement Lv 2." },
+		resource = { [1] = { text = "Reach Achievement Lv 2" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3912,9 +3968,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 3 ур.",
-		content = { summary = "Получите достижение 3 ур.", details = "Получите достижение 3 ур." },
-		resource = { [1] = { text = "Получите достижение 3 ур." } },
+		title = "Reach Achievement Lv 3",
+		content = { summary = "Reach Achievement Lv 3", details = "Reach Achievement Lv 3." },
+		resource = { [1] = { text = "Reach Achievement Lv 3" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3923,9 +3979,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 4 ур.",
-		content = { summary = "Получите достижение 4 ур.", details = "Получите достижение 4 ур." },
-		resource = { [1] = { text = "Получите достижение 4 ур." } },
+		title = "Reach Achievement Lv 4",
+		content = { summary = "Reach Achievement Lv 4", details = "Reach Achievement Lv 4." },
+		resource = { [1] = { text = "Reach Achievement Lv 4" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3934,9 +3990,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 5 ур.",
-		content = { summary = "Получите достижение 5 ур.", details = "Получите достижение 5 ур." },
-		resource = { [1] = { text = "Получите достижение 5 ур." } },
+		title = "Reach Achievement Lv 5",
+		content = { summary = "Reach Achievement Lv 5", details = "Reach Achievement Lv 5." },
+		resource = { [1] = { text = "Reach Achievement Lv 5" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3945,9 +4001,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 6 ур.",
-		content = { summary = "Получите достижение 6 ур.", details = "Получите достижение 6 ур." },
-		resource = { [1] = { text = "Получите достижение 6 ур." } },
+		title = "Reach Achievement Lv 6",
+		content = { summary = "Reach Achievement Lv 6", details = "Reach Achievement Lv 6." },
+		resource = { [1] = { text = "Reach Achievement Lv 6" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3956,9 +4012,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 7 ур.",
-		content = { summary = "Получите достижение 7 ур.", details = "Получите достижение 7 ур." },
-		resource = { [1] = { text = "Получите достижение 7 ур." } },
+		title = "Reach Achievement Lv 7",
+		content = { summary = "Reach Achievement Lv 7", details = "Reach Achievement Lv 7." },
+		resource = { [1] = { text = "Reach Achievement Lv 7" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3967,9 +4023,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 8 ур.",
-		content = { summary = "Получите достижение 8 ур.", details = "Получите достижение 8 ур." },
-		resource = { [1] = { text = "Получите достижение 8 ур." } },
+		title = "Reach Achievement Lv 8",
+		content = { summary = "Reach Achievement Lv 8", details = "Reach Achievement Lv 8." },
+		resource = { [1] = { text = "Reach Achievement Lv 8" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3978,9 +4034,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 9 ур.",
-		content = { summary = "Получите достижение 9 ур.", details = "Получите достижение 9 ур." },
-		resource = { [1] = { text = "Получите достижение 9 ур." } },
+		title = "Reach Achievement Lv 9",
+		content = { summary = "Reach Achievement Lv 9", details = "Reach Achievement Lv 9." },
+		resource = { [1] = { text = "Reach Achievement Lv 9" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -3989,12 +4045,12 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 10 ур.",
+		title = "Reach Achievement Lv 10",
 		content = {
-			summary = "Получите достижение 10 ур.",
-			details = "Получите достижение 10 ур.. Вы получаете титул за свои старания."
+			summary = "Reach Achievement Lv 10",
+			details = "Reach Achievement Lv 10. You can receive a title for your efforts."
 		},
-		resource = { [1] = { text = "Получите достижение 10 ур." } },
+		resource = { [1] = { text = "Reach Achievement Lv 10" } },
 		reward = { title = 1023, buff = 12, item = 644 },
 		score = 10
 	},
@@ -4003,9 +4059,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 11 ур.",
-		content = { summary = "Получите достижение 11 ур.", details = "Получите достижение 11 ур." },
-		resource = { [1] = { text = "Получите достижение 11 ур." } },
+		title = "Reach Achievement Lv 11",
+		content = { summary = "Reach Achievement Lv 11", details = "Reach Achievement Lv 11." },
+		resource = { [1] = { text = "Reach Achievement Lv 11" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4014,9 +4070,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 12 ур.",
-		content = { summary = "Получите достижение 12 ур.", details = "Получите достижение 12 ур." },
-		resource = { [1] = { text = "Получите достижение 12 ур." } },
+		title = "Reach Achievement Lv 12",
+		content = { summary = "Reach Achievement Lv 12", details = "Reach Achievement Lv 12." },
+		resource = { [1] = { text = "Reach Achievement Lv 12" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4025,9 +4081,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 13 ур.",
-		content = { summary = "Получите достижение 13 ур.", details = "Получите достижение 13 ур." },
-		resource = { [1] = { text = "Получите достижение 13 ур." } },
+		title = "Reach Achievement Lv 13",
+		content = { summary = "Reach Achievement Lv 13", details = "Reach Achievement Lv 13." },
+		resource = { [1] = { text = "Reach Achievement Lv 13" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4036,9 +4092,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 14 ур.",
-		content = { summary = "Получите достижение 14 ур.", details = "Получите достижение 14 ур." },
-		resource = { [1] = { text = "Получите достижение 14 ур." } },
+		title = "Reach Achievement Lv 14",
+		content = { summary = "Reach Achievement Lv 14", details = "Reach Achievement Lv 14." },
+		resource = { [1] = { text = "Reach Achievement Lv 14" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4047,9 +4103,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 15 ур.",
-		content = { summary = "Получите достижение 15 ур.", details = "Получите достижение 15 ур." },
-		resource = { [1] = { text = "Получите достижение 15 ур." } },
+		title = "Reach Achievement Lv 15",
+		content = { summary = "Reach Achievement Lv 15", details = "Reach Achievement Lv 15." },
+		resource = { [1] = { text = "Reach Achievement Lv 15" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4058,9 +4114,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 16 ур.",
-		content = { summary = "Получите достижение 16 ур.", details = "Получите достижение 16 ур." },
-		resource = { [1] = { text = "Получите достижение 16 ур." } },
+		title = "Reach Achievement Lv 16",
+		content = { summary = "Reach Achievement Lv 16", details = "Reach Achievement Lv 16." },
+		resource = { [1] = { text = "Reach Achievement Lv 16" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4069,9 +4125,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 17 ур.",
-		content = { summary = "Получите достижение 17 ур.", details = "Получите достижение 17 ур." },
-		resource = { [1] = { text = "Получите достижение 17 ур." } },
+		title = "Reach Achievement Lv 17",
+		content = { summary = "Reach Achievement Lv 17", details = "Reach Achievement Lv 17." },
+		resource = { [1] = { text = "Reach Achievement Lv 17" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4080,9 +4136,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 18 ур.",
-		content = { summary = "Получите достижение 18 ур.", details = "Получите достижение 18 ур." },
-		resource = { [1] = { text = "Получите достижение 18 ур." } },
+		title = "Reach Achievement Lv 18",
+		content = { summary = "Reach Achievement Lv 18", details = "Reach Achievement Lv 18." },
+		resource = { [1] = { text = "Reach Achievement Lv 18" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4091,9 +4147,9 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 19 ур.",
-		content = { summary = "Получите достижение 19 ур.", details = "Получите достижение 19 ур." },
-		resource = { [1] = { text = "Получите достижение 19 ур." } },
+		title = "Reach Achievement Lv 19",
+		content = { summary = "Reach Achievement Lv 19", details = "Reach Achievement Lv 19." },
+		resource = { [1] = { text = "Reach Achievement Lv 19" } },
 		reward = { buff = 12, item = 644 },
 		score = 10
 	},
@@ -4102,12 +4158,12 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Получите достижение 20 ур.",
+		title = "Reach Achievement Lv 20",
 		content = {
-			summary = "Получите достижение 20 ур.",
-			details = "Получите достижение 20 ур. Вы получаете титул за свои старания."
+			summary = "Reach Achievement Lv 20",
+			details = "Reach Achievement Lv 20. You can receive a title for your efforts."
 		},
-		resource = { [1] = { text = "Получите достижение 20 ур" } },
+		resource = { [1] = { text = "Reach Achievement Lv 20" } },
 		reward = { title = 1024, buff = 12, item = 644 },
 		score = 10
 	},
@@ -4116,12 +4172,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Улитку ",
+		title = "Ambernite Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Улиток.", count = 500 } },
+		resource = { [1] = { text = "Hunt Ambernite 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4130,12 +4186,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Анаконду ",
+		title = "Anacondaq Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Анаконд.", count = 500 } },
+		resource = { [1] = { text = "Hunt Anacondaq 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4144,12 +4200,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Андре ",
+		title = "Andre Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Андре.", count = 500 } },
+		resource = { [1] = { text = "Hunt Andre 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4158,12 +4214,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Яйцо муравья ",
+		title = "Ant Egg Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Уничтожьте 500 Яиц муравья.", count = 500 } },
+		resource = { [1] = { text = "Hunt Ant Egg 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4172,12 +4228,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пустынного Волчонока ",
+		title = "Baby Desert Wolf Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пустынных Волчоноков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Baby Desert Wolf 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4186,12 +4242,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Бигфута ",
+		title = "Bigfoot Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Бигфутов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Bigfoot 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4200,12 +4256,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на ЧонЧона ",
+		title = "Chonchon Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Чончонов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Chonchon 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4214,12 +4270,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охото на Коко ",
+		title = "Coco Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Коко.", count = 500 } },
+		resource = { [1] = { text = "Hunt Coco 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4228,12 +4284,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Кондора ",
+		title = "Condor Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Кондоров.", count = 500 } },
+		resource = { [1] = { text = "Hunt Condor 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4242,12 +4298,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Крими ",
+		title = "Creamy Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Крими.", count = 500 } },
+		resource = { [1] = { text = "Hunt Creamy 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4256,12 +4312,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Дэниро ",
+		title = "Deniro Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Дэниро.", count = 500 } },
+		resource = { [1] = { text = "Hunt Deniro 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4270,12 +4326,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пустынного Волка ",
+		title = "Desert Wolf Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пустынных Волков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Desert Wolf 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4284,12 +4340,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Доккеби ",
+		title = "Dokebi Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Доккеби.", count = 500 } },
+		resource = { [1] = { text = "Hunt Dokebi 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4298,12 +4354,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Стрекозу ",
+		title = "Dragontail Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Стрекоз.", count = 500 } },
+		resource = { [1] = { text = "Hunt Dragontail 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4312,12 +4368,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Дропса ",
+		title = "Drops Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Дропсов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Drops 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4326,12 +4382,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Мотылька ",
+		title = "Dustiness Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Мотыльков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Dustiness 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4340,12 +4396,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Эггиру ",
+		title = "Eggyra Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Эггир.", count = 500 } },
+		resource = { [1] = { text = "Hunt Eggyra 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4354,12 +4410,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Древний пенек ",
+		title = "Elder Willow Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Древних пеньков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Elder Willow 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4368,12 +4424,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Ангелина ",
+		title = "Eliminate Angeling",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Ангелинга.", count = 1 } },
+		resource = { [1] = { text = "Hunt Angeling 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4382,12 +4438,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Чоко ",
+		title = "Eliminate Choco",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Чоко.", count = 1 } },
+		resource = { [1] = { text = "Hunt Choco 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4396,12 +4452,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Девилинга ",
+		title = "Eliminate Deviling",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Девилнга.", count = 1 } },
+		resource = { [1] = { text = "Hunt Deviling 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4410,12 +4466,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожьте Эклипса ",
+		title = "Eliminate Eclipse",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Эклипса.", count = 1 } },
+		resource = { [1] = { text = "Hunt Eclipse 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4424,12 +4480,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Гостринга ",
+		title = "Eliminate Ghostring",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Гостринга.", count = 1 } },
+		resource = { [1] = { text = "Hunt Ghostring 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4438,12 +4494,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Вождя гоблинов ",
+		title = "Eliminate Goblin Leader",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Вождя гоблинов.", count = 1 } },
+		resource = { [1] = { text = "Hunt Goblin Leader 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4452,12 +4508,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Вождя Кобольдов ",
+		title = "Eliminate Kobold Leader",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Вождя кобольдов.", count = 1 } },
+		resource = { [1] = { text = "Hunt Kobold Leader 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4466,12 +4522,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Мастеринга ",
+		title = "Eliminate Mastering",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Мастеринга.", count = 1 } },
+		resource = { [1] = { text = "Hunt Mastering 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4480,12 +4536,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Бронированного Гоблина ",
+		title = "Eliminate Panzer Goblin",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Бронированного Гоблина.", count = 1 } },
+		resource = { [1] = { text = "Hunt Panzer Goblin 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4494,12 +4550,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Жабы ",
+		title = "Eliminate Toad",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Жабу.", count = 1 } },
+		resource = { [1] = { text = "Hunt Toad 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4508,12 +4564,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Бродячего волка ",
+		title = "Eliminate Vagabond Wolf",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Бродячего волка.", count = 1 } },
+		resource = { [1] = { text = "Hunt Vagabond Wolf 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4522,12 +4578,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Уничтожение Певца ",
+		title = "Eliminate Vocal",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Певца ", count = 1 } },
+		resource = { [1] = { text = "Hunt Vocal 1 time", count = 1 } },
 		reward = {},
 		score = 3
 	},
@@ -4536,12 +4592,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Фабре ",
+		title = "Fabre Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Фабре.", count = 500 } },
+		resource = { [1] = { text = "Hunt Fabre 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4550,12 +4606,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Фрилдору ",
+		title = "Frilldora Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Фрилдор.", count = 500 } },
+		resource = { [1] = { text = "Hunt Frilldora 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4564,12 +4620,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота возле Геффена ",
+		title = "Geffen Field Hunting Assignment",
 		content = {
-			summary = "Выполните все охотничьи задания Геффена.",
-			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+			summary = "Complete all Geffen Field Hunts",
+			details = "This may take some time to accomplish, so relax and take your time."
 		},
-		resource = { [1] = { text = "Выполните все охотничьи задания Геффена." } },
+		resource = { [1] = { text = "Complete all Geffen Field Hunt Achievements" } },
 		reward = {},
 		score = 5
 	},
@@ -4578,12 +4634,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Гоблина-Лучника ",
+		title = "Goblin Archer Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Гоблинов-Лучников.", count = 500 } },
+		resource = { [1] = { text = "Hunt Goblin Archer 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4592,12 +4648,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Гоблина с булавой ",
+		title = "Goblin (Mace) Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Гоблинов с булавой.", count = 500 } },
+		resource = { [1] = { text = "Hunt Goblin (Mace) 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4606,12 +4662,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Парового гоблина ",
+		title = "Goblin Steamrider Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Паровых гоблинов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Goblin Steamrider 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4620,12 +4676,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Голема ",
+		title = "Golem Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Големов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Golem 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4634,12 +4690,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Великого генерала ",
+		title = "Greatest General Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Великих генералов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Greatest General 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4648,12 +4704,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Высшего орка ",
+		title = "High Orc Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Высших орков.", count = 500 } },
+		resource = { [1] = { text = "Hunt High Orc 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4662,12 +4718,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Хоуда ",
+		title = "Hode Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Хоудов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Hode 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4676,12 +4732,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пчелу ",
+		title = "Hornet Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пчел.", count = 500 } },
+		resource = { [1] = { text = "Hunt Hornet 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4690,12 +4746,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Кобольда-Лучника ",
+		title = "Kobold Archer Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Кобольдов-Лучников.", count = 500 } },
+		resource = { [1] = { text = "Hunt Kobold Archer 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4704,12 +4760,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Кобольда с булавой ",
+		title = "Kobold (Mace) Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Кобольдов с булавой.", count = 500 } },
+		resource = { [1] = { text = "Hunt Kobold (Mace) 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4718,12 +4774,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Лунатика ",
+		title = "Lunatic Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Лунатиков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Lunatic 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4732,12 +4788,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Магнолию ",
+		title = "Magnolia Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Магнолий.", count = 500 } },
+		resource = { [1] = { text = "Hunt Magnolia 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4746,12 +4802,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Мандрагору ",
+		title = "Mandragora Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Мандрагор.", count = 500 } },
+		resource = { [1] = { text = "Hunt Mandragora 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4760,12 +4816,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Богомола ",
+		title = "Mantis Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Богомолов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Mantis 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4774,12 +4830,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Маринов ",
+		title = "Marine Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Маринов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Marine 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4788,12 +4844,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Металлиста ",
+		title = "Metaller Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Металлистов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Metaller 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4802,12 +4858,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Муку ",
+		title = "Muka Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Мук.", count = 500 } },
+		resource = { [1] = { text = "Hunt Muka 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4816,12 +4872,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Девятихвоста ",
+		title = "Ninetail Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Девятихвостов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Ninetail 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4830,12 +4886,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Детеныша орка ",
+		title = "Orc Baby Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Детенышей орка.", count = 500 } },
+		resource = { [1] = { text = "Hunt Orc Baby 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4844,12 +4900,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Леди-Орк ",
+		title = "Orc Lady Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Леди-Орков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Orc Lady 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4858,12 +4914,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Орка-Воина ",
+		title = "Orc Warrior Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Орков-Воинов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Orc Warrior 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4872,12 +4928,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота возле Пайона ",
+		title = "Payon Forest Hunting Assignment",
 		content = {
-			summary = "Завершите все охотничьи задания Пайона.",
-			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+			summary = "Complete all Payon Forest Hunts",
+			details = "This may take some time to accomplish, so relax and take your time."
 		},
-		resource = { [1] = { text = "Завершите все охотничьи задания Пайона." } },
+		resource = { [1] = { text = "Complete all Payon Forest Hunt Achievements" } },
 		reward = {},
 		score = 5
 	},
@@ -4886,12 +4942,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Яйцо пеко-пеко ",
+		title = "Peco Peco Egg Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Уничтожьте 500 Яиц пеко-пеко.", count = 500 } },
+		resource = { [1] = { text = "Hunt Peco Peco Egg 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4900,12 +4956,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пеко-Пеко ",
+		title = "Peco Peco Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пеко-Пеко.", count = 500 } },
+		resource = { [1] = { text = "Hunt Peco Peco 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4914,12 +4970,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Земляного дракончика ",
+		title = "Petite Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Земляных дракончиков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Petite 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4928,12 +4984,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пикки ",
+		title = "Picky Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пикки.", count = 500 } },
+		resource = { [1] = { text = "Hunt Picky 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4942,12 +4998,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пьера ",
+		title = "Piere Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пьеров ", count = 500 } },
+		resource = { [1] = { text = "Hunt Piere 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4956,12 +5012,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Ядовитую спору ",
+		title = "Poison Spore Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Ядовитых спор.", count = 500 } },
+		resource = { [1] = { text = "Hunt Poison Spore 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4970,12 +5026,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Попоринга ",
+		title = "Poporing Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Попорингов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Poporing 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4984,12 +5040,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Поринга ",
+		title = "Poring Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Порингов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Poring 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -4998,12 +5054,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Лорд Орков ",
+		title = "Priority Target Orc Lord",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Лорда Орков.", count = 1 } },
+		resource = { [1] = { text = "Hunt an Orc Lord", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5012,12 +5068,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Фриони ",
+		title = "Priority Target Phreeoni",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Фриони.", count = 1 } },
+		resource = { [1] = { text = "Hunt a Phreeoni", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5026,12 +5082,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота возле Пронтеры ",
+		title = "Prontera Fields Hunting Assignment",
 		content = {
-			summary = "Завершите все охотничьи задания Пронтеры.",
-			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+			summary = "Complete all Prontera Field Hunts",
+			details = "This may take some time to accomplish, so relax and take your time."
 		},
-		resource = { [1] = { text = "Завершите все охотничьи задания Пронтеры." } },
+		resource = { [1] = { text = "Complete all Prontera Field Hunt Achievements" } },
 		reward = {},
 		score = 5
 	},
@@ -5040,12 +5096,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пупу ",
+		title = "Pupa Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пуп.", count = 500 } },
+		resource = { [1] = { text = "Hunt Pupa 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5054,12 +5110,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Лягушку Рода ",
+		title = "Roda Frog Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Лягушек Рода.", count = 500 } },
+		resource = { [1] = { text = "Hunt Roda Frog 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5068,12 +5124,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Рокера ",
+		title = "Rocker Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Рокеров.", count = 500 } },
+		resource = { [1] = { text = "Hunt Rocker 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5082,12 +5138,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Ротар Заиро ",
+		title = "Rotar Zairo Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Ротар Заиро.", count = 500 } },
+		resource = { [1] = { text = "Hunt Rotar Zairo 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5096,12 +5152,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Песочного человека",
+		title = "Sandman Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Песочных людей.", count = 500 } },
+		resource = { [1] = { text = "Hunt Sandman 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5110,12 +5166,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Поросенка ",
+		title = "Savage Babe Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Поросят.", count = 500 } },
+		resource = { [1] = { text = "Hunt Savage Babe 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5124,12 +5180,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Кабана ",
+		title = "Savage Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Кабанов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Savage 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5138,12 +5194,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Скорпиона ",
+		title = "Scorpion Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Скорпионов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Scorpion 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5152,12 +5208,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Гадюку ",
+		title = "Sidewinder Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Гадюк.", count = 500 } },
+		resource = { [1] = { text = "Hunt Sidewinder 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5166,12 +5222,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Смоки ",
+		title = "Smokie Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Смоки.", count = 500 } },
+		resource = { [1] = { text = "Hunt Smokie 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5180,12 +5236,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Змею ",
+		title = "Snake Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Змей.", count = 500 } },
+		resource = { [1] = { text = "Hunt Snake 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5194,12 +5250,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота в пустыне Сограта ",
+		title = "Sograt Desert Hunting Assignment",
 		content = {
-			summary = "Завершите все охотничьи задания в пустыне Сограта.",
-			details = "Это может занять некоторое время, поэтому расслабьтесь и не торопитесь."
+			summary = "Complete all Sograt Desert Hunts",
+			details = "This may take some time to accomplish, so relax and take your time."
 		},
-		resource = { [1] = { text = "Завершите все охотничьи задания в пустыне СОграта." } },
+		resource = { [1] = { text = "Complete all Sograt Desert Hunt Achievements" } },
 		reward = {},
 		score = 5
 	},
@@ -5208,12 +5264,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Спору ",
+		title = "Spore Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Спор.", count = 500 } },
+		resource = { [1] = { text = "Hunt Spore 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5222,12 +5278,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Стального чончона ",
+		title = "Steel Chonchon Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Стальных чончонов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Steel Chonchon 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5236,12 +5292,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Самку жука-вора ",
+		title = "Thief Bug Female Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Самок жука-вора", count = 500 } },
+		resource = { [1] = { text = "Hunt Thief Bug Female 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5250,12 +5306,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Самца жука-вора ",
+		title = "Thief Bug Male Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Самцов жука-вора.", count = 500 } },
+		resource = { [1] = { text = "Hunt Thief Bug Male 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5264,12 +5320,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Яйцо жука-вора ",
+		title = "Thief Bug Egg Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Уничтожьте 500 Яиц жука-вора.", count = 500 } },
+		resource = { [1] = { text = "Hunt Thief Bug Egg 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5278,12 +5334,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Дикую кошку ",
+		title = "Wild Rose Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Диких кошек.", count = 500 } },
+		resource = { [1] = { text = "Hunt Wild Rose 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5292,12 +5348,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Пенька ",
+		title = "Willow Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Пеньков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Willow 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5306,12 +5362,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Волка ",
+		title = "Wolf Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 ВОлков.", count = 500 } },
+		resource = { [1] = { text = "Hunt Wolf 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5320,12 +5376,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Зеленый хвост ",
+		title = "Wormtail Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Зеленых хвостов.", count = 500 } },
+		resource = { [1] = { text = "Hunt Wormtail 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5334,12 +5390,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Охота на Йойо ",
+		title = "Yoyo Hunt",
 		content = {
-			summary = "Убейте все цели.",
-			details = "Их особенности сильно различаются в зависимости от среды обитания. Это легкие цели, поэтому расслабьтесь и дерзайте."
+			summary = "Hunt all targets",
+			details = "Their features vary a lot depending in their habitat. They are easy targets, so relax and go for them."
 		},
-		resource = { [1] = { text = "Убейте 500 Йойо.", count = 500 } },
+		resource = { [1] = { text = "Hunt Yoyo 500 times", count = 500 } },
 		reward = {},
 		score = 1
 	},
@@ -5348,12 +5404,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Амон Ра ",
+		title = "Priority Target Amon Ra",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Амона Ра.", count = 1 } },
+		resource = { [1] = { text = "Hunt Amon Ra", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5362,12 +5418,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Повелитель Тьмы ",
+		title = "Priority Target Dark Lord",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Повелителя Тьмы.", count = 1 } },
+		resource = { [1] = { text = "Hunt Dark Lord", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5376,12 +5432,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Допельгангер ",
+		title = "Priority Target Doppelganger",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Допельгангера. ", count = 1 } },
+		resource = { [1] = { text = "Hunt Doppelganger", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5390,12 +5446,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Дракула ",
+		title = "Priority Target Dracula",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Дракулу.", count = 1 } },
+		resource = { [1] = { text = "Hunt Dracula", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5404,12 +5460,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Дрейк ",
+		title = "Priority Target Drake",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Дрейка.", count = 1 } },
+		resource = { [1] = { text = "Hunt Drake", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5418,12 +5474,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Грам ",
+		title = "Priority Target Garm",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Гарма.", count = 1 } },
+		resource = { [1] = { text = "Hunt Garm", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5432,12 +5488,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Майя ",
+		title = "Priority Target Maya",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Майю.", count = 1 } },
+		resource = { [1] = { text = "Hunt Maya", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5446,12 +5502,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Герой Орков ",
+		title = "Priority Target Orc Hero",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Героя Орков.", count = 1 } },
+		resource = { [1] = { text = "Hunt Orc Hero", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5460,12 +5516,12 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Осирис ",
+		title = "Priority Target Osiris",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Осириса.", count = 1 } },
+		resource = { [1] = { text = "Hunt Osiris", count = 1 } },
 		reward = {},
 		score = 1
 	},
@@ -5474,87 +5530,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Приоритетная цель - Фараон ",
+		title = "Priority Target Pharaoh",
 		content = {
-			summary = "Уничтожьте цель.",
-			details = "Редкий враг, встречающийся в дикой природе. Они могут оказаться проблемой, так что приготовьтесь."
+			summary = "Hunt the target",
+			details = "A rare foe found in the wild. They may prove to be a challenge, so prepare yourself."
 		},
-		resource = { [1] = { text = "Убейте Фараона.", count = 1 } },
+		resource = { [1] = { text = "Hunt Pharaoh", count = 1 } },
 		reward = {},
 		score = 1
-	},
-	[240021] = {
-		UI_Type = 1,
-		group = "BATTLE",
-		major = 4,
-		minor = 0,
-		title = "Охота на Очень Злых Джекков",
-		content = {
-			summary = "Убить 500 Очень Злых Джекков.",
-			details = "Силы зла наполняют Рун Мидгард!\nМы должны одолеть их!"
-		},
-		resource = { [1] = { text = "Убить Очень Злых Джекков.", count = 500 } },
-		reward = { item = 19917, title = 1035 },
-		score = 10
-	},
-	[240022] = {
-		UI_Type = 1,
-		group = "BATTLE",
-		major = 4,
-		minor = 0,
-		title = "Охота на Очень Злых Духов Тыквы",
-		content = {
-			summary = "Убить 500 Очень Злых Духов Тыквы.",
-			details = "Силы зла наполняют Рун Мидгард!\nМы должны одолеть их!"
-		},
-		resource = { [1] = { text = "Убить Очень Злых Духов Тыквы.", count = 500 } },
-		reward = { item = 19903, title = 1036 },
-		score = 10
-	},
-	[240023] = {
-		UI_Type = 1,
-		group = "BATTLE",
-		major = 4,
-		minor = 0,
-		title = "Помощник Санты ",
-		content = {
-			summary = "Убить 250 Укравших подарки смоки ",
-			details = "Смоки хотят украсть у нас дух нового года!\nНе позволим этому случиться!"
-		},
-		resource = { [1] = { text = "Убить Укравших подарки смоки ", count = 250 } },
-		reward = { item = 19780, title = 1037 },
-		score = 10
-	},
-	[240024] = {
-		UI_Type = 1,
-		group = "BATTLE",
-		major = 4,
-		minor = 0,
-		title = "Это не просто кролик! ",
-		content = {
-			summary = "Убить 500 праздничных лунатиков ",
-			details = "Даже 1 лунатик способен истребить целое королевство!\nБоюсь представить, на что способна армия..."
-		},
-		resource = { [1] = { text = "Убить праздничных лунатиков ", count = 500 } },
-		reward = { item = 19697, title = 1038 },
-		score = 20
-	},
-	[240025] = {
-		UI_Type = 1,
-		group = "BATTLE",
-		major = 4,
-		minor = 0,
-		title = "Быстро под елку! ",
-		content = {
-			summary = "Убить 500 гномов и 500 подарков ",
-			details = "Подарки и гномы разбежались по всему\nРун Мидгарду! Соберите их!"
-		},
-		resource = {
-			[1] = { text = "Убить 500 гномов ", count = 500 },
-			[2] = { text = "Убить 500 подарков ", count = 500 }
-		},
-		reward = { item = 19678, title = 1039 },
-		score = 30
 	}
 }
 

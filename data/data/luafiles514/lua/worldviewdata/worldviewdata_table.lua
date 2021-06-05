@@ -146,7 +146,7 @@ worldtable_main = {
 	{ 102, "lhz_fild01.rsw", 401, 235, 459, 291, WORLD_MSGID.MSI_102_LHZ_FILD01, "86" },
 	{ 102, "lhz_fild02.rsw", 460, 235, 517, 291, WORLD_MSGID.MSI_102_LHZ_FILD02, "84" },
 	{ 102, "lhz_fild03.rsw", 460, 292, 517, 351, WORLD_MSGID.MSI_102_LHZ_FILD03, "92" },
-	{ 102, "ein_fild03.rsw", 460, 174, 517, 234, WORLD_MSGID.MSI_102_EIN_FILD03, "91" },
+	{ 102, "ein_fild03.rsw", 460, 174, 517, 234, WORLD_MSGID.MSI_102_EIN_FILD03, "81" },
 	{ 102, "ein_fild04.rsw", 518, 174, 575, 234, WORLD_MSGID.MSI_102_EIN_FILD04, "87" },
 	{ 102, "ein_fild05.rsw", 576, 174, 635, 234, WORLD_MSGID.MSI_102_EIN_FILD05, "87" },
 	{ 102, "ein_fild06.rsw", 636, 174, 694, 234, WORLD_MSGID.MSI_102_EIN_FILD06, "85" },
