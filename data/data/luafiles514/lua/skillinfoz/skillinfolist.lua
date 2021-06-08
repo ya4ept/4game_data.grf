@@ -6382,7 +6382,7 @@ SKILL_INFO_LIST = {
 		"RG_BACKSTAP",
 		SkillName = "Удар в спину",
 		MaxLv = 10,
-		SpAmount = { 16, 16, 16, 16, 16, 16, 16, 16, 16, 16 },
+		SpAmount = { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -7697,7 +7697,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CR_PROVIDENCE] = {
 		"CR_PROVIDENCE",
-		SkillName = "Преданность",
+		SkillName = "Стойкость души",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
 		bSeperateLv = false,
