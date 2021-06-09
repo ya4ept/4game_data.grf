@@ -34674,25 +34674,6 @@ Weapon Level: ^7777772^000000
 Required Level: ^7777771^000000
 Jobs :^777777Gunslinger^000000
 #
-20138#
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC20% Bonus Attack Damage to Earth Element Targets^000000
-A top of the line,
-high performance
-grenade launcher.
-Each short ranged
-physical attack has
-a low chance of
-destroying an
-enemy's armor.
-^CC0000This item is not Refinable^000000
-Class: ^777777Grenade Launcher^000000
-ATK: ^777777241^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs :^777777Gunslinger^000000
-#
 20139#
 ^CC0000This Rental Weapon is not Tradable^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
@@ -44789,14 +44770,6 @@ Job: ^777777all jobs^000000
 19574#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-19598#
-Can feel a high dignity of the Northern Wolf Tribe. 
-It is made out of Wolf King's fur and feels like you've surrounded by some kind of dignified force when worn.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
-#
 19710#
 A hair ornament made from Valkyrie's Feathers and precious gems. Rumored to protect it's wearer from any harm.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -49305,11 +49278,6 @@ Tam[1]
 3d Glasses 
 Droopy Turtle Hat
 Bloody Butterfly[1]
-#
-
-
-20100#
-Costume:Volume_Feather_Hat
 #
 20197#
 Costume:Amistr_Beret
@@ -55889,4 +55857,87 @@ Lettuce leaves seasoned with olive oil and spices.
 Sprinkled with sweet pepper strips.
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+9634#
+'Who's been sleeping in my bed?' Papa Bear roared.
+'It's not you, is it? Okay, since you're innocent... Here's my present for you.'
+^ffffff_^000000
+Open the box and receive one of the following items:
+Dutch Rabbit
+Mikhail the Bear
+Bear Backpack
+Baby Bear Backpack
+Giant Foxtail Stem
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Nutcracker Mask
+Wolf Slayer Helmet
+Pig Boy Balloon
+Inf. Giant Fly Wing Box (1 h.)
+Money Pig Mask
+Sleepy Fishing Cat	
+Kalan Cap
+Wild Little Boar
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick 4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Yummy Skewered Grill x25
+Sparkling Candy x11
+Deviruchi Transformation Scroll x10
+Grilled Tuna x50
+Grilled Snapper x50
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Superb Fish Slice x25
+Taoist Pills x15
+Guarana Candy x7
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31512#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20596#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20584#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+21206#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19598#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31679#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31791#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31456#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20138#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5572#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20100#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

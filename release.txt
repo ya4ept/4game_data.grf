@@ -1,3 +1,8 @@
+09.06.2021 12:32
+CM_Godfather
+We just uploaded one extra client patch after the maintenance one. This one fixes the inventory window and the possibility to resize it.
+
+================
 02.06.2021 11:30
 [CM] Godfather
 The maintenance is over, the server is online. Changelog:

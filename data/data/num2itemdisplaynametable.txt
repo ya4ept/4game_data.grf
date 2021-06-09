@@ -5253,7 +5253,6 @@
 12264#Bubble Gum#
 12265#Life Insurance Certificate#
 5593#Rabbit Bonnet#
-5572#Savage Baby Hat#
 12361#Delicious Shaved Ice#
 12363#Fit Pipe#
 12370#Girl's Love Letter#
@@ -7057,7 +7056,6 @@
 20080#Hat#
 20098#Hairband#
 20099#Hairband#
-20100#Hat#
 20101#Accessory#
 
 //---------------Shadow 5th----------------
@@ -8137,3 +8135,17 @@
 6769#Flatbread Dough#
 6736#Kebab Minced Meat#
 11716#Garnish Salad#
+
+9634#Papa Bear's Treasure#
+31512#Hat#
+20596#Garment#
+20584#Garment#
+21206#Hat#
+19598#Hat#
+31679#Hat#
+31791#Hat#
+31456#Hat#
+20138#Hat#
+5572#Helmet#
+
+20100#Hat#

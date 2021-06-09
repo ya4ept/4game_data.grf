@@ -54604,19 +54604,6 @@ Weapon Level: ^7777772^000000
 Required Level: ^7777771^000000
 Jobs:^777777Gunslinger^000000
 #
-20138#
-^CC0000Rental item^000000
-^CC0000Cannot be traded^000000
-A top of the line, high performance grenade launcher.
-Low chance to destroy an enemy's armor after a melee attack
-Damage to Earth monsters +20%
-Cannot be upgraded
-Class: ^777777Grenade Launcher^000000
-Attack: ^777777241^000000    Weight: ^777777120^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Gunslinger^000000
-#
 20139#
 ^CC0000This Rental Weapon is not Tradable^000000
 ^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
@@ -67192,14 +67179,6 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19598#
-Can feel a high dignity of the Northern Wolf Tribe. 
-It is made out of Wolf King's fur and feels like you've surrounded by some kind of dignified force when worn.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
 19710#
 A hair ornament made from Valkyrie's Feathers and precious gems. Rumored to protect it's wearer from any harm.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
@@ -72274,10 +72253,6 @@ Tam[1]
 3d Glasses 
 Droopy Turtle Hat
 Bloody Butterfly[1]
-#
-
-20100#
-A costume of the Volumne FHat Item! Wear it with pride.
 #
 20197#
 A beret decked out to resemble a cute amistr
@@ -90226,13 +90201,6 @@ Weight: ^7777771^000000
 Hat made of light cork, trimmed with fabric.
 Perfectly protects from the scorching sun.
 ^ffffff_^000000
-EXP +10%
-HP Recovery rate +20%
-Physical and Magical weapon damage to ^009900Plants^000000 race monsters +10%
-Damage from ^009900Plants^000000 race monsters -10%
-Every monster kill has a chance of dropping Garnish Salad, Kebab Minced Meat and Flatbread Dough.
-^ff0000[Effects are active only during the event (until June 09, 2021).]^000000
-^ffffff_^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
@@ -90281,3 +90249,182 @@ Sprinkled with sweet pepper strips.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
+9634#
+'Who's been sleeping in my bed?' Papa Bear roared.
+'It's not you, is it? Okay, since you're innocent... Here's my present for you.'
+^ffffff_^000000
+Open the box and receive one of the following items:
+Dutch Rabbit
+Mikhail the Bear
+Bear Backpack
+Baby Bear Backpack
+Giant Foxtail Stem
+Silvervine x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Nutcracker Mask
+Wolf Slayer Helmet
+Pig Boy Balloon
+Inf. Giant Fly Wing Box (1 h.)
+Money Pig Mask
+Sleepy Fishing Cat	
+Kalan Cap
+Wild Little Boar
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick 4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Yummy Skewered Grill x25
+Sparkling Candy x11
+Deviruchi Transformation Scroll x10
+Grilled Tuna x50
+Grilled Snapper x50
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Superb Fish Slice x25
+Taoist Pills x15
+Guarana Candy x7
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31512#
+A cheerful and energetic rabbit who doesn't like to sit in a cage.
+It will happily accompany you on your adventures.
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20596#
+What a cute little bear, isn't it?
+It can carry your stuff and will cover your back in case of danger!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20584#
+A decorative wand made from the giant Doram foxtail.
+Exudes the pleasant scent of a summer meadow.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+21206#
+Large mask of a merry chipmunk with a hazelnut in its mouth.
+Enchanted by masters of animagic. Able to wiggle its ears and blink.
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle/Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19598#
+A helmet made from the head of the Wolf King.
+It looks very menacing and ominous.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper/Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31679#
+Balloon in the form of the main characters of 'Pig Boy's Adventures'.
+Haven't you read it? The stories in this book are so hilarious!
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31791#
+The mask of a pink-cheeked pig, a symbol of wealth and prosperity.
+We hope this item will bring you wealth!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31456#
+Fishing cats are excellent hunters for tropical fish, snakes and crabs.
+But sometimes even such a strong and brave cat wants to lie down on someone's head and take a nap. You won't scare it off, will you?
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20138#
+A cap in the form of a sea otter's face.
+It's so cute! We hope you will wear it more often!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5572#
+This forest piglet is so small! But soon it will grow up big and strong.
+Even a bear will bypass this wild boar!
+^ffffff_^000000
+STR +1
+VIT +1
+^6A5ACD[With each refine rate]^000000
+STR +1
+VIT +1
+MaxHP +1%
+^6A5ACD[If refine rate is 7 or higher]^000000
+MaxHP +3%
+^6A5ACD[If refine rate is 9 or higher]^000000
+With a little chance inflicts ^dd99ffStun^000000 status.
+Chance increased with each refine rate.
+^6A5ACD[If refine rate is 12]^000000
+Enables [Maximize Power] LV 1.
+^6A5ACD[If refine rate is +13 or higher]^000000
+There are no additional to the characteristics
+^ffffff_^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777772^000000   Weight: ^77777710^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20100#
+^FF0000Account Bound^000000
+An elegant cap of a wandering poet-singer, adorned with a lush feather.
+I pray you sing us something, master of words and rhymes!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000#

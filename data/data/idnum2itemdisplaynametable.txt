@@ -5298,7 +5298,6 @@
 12264#Bubble Gum#
 12265#Life Insurance Certificate#
 5593#Rabbit Bonnet#
-5572#Savage Baby Hat#
 12361#Delicious Shaved Ice#
 12363#Fit Pipe#
 12370#Girl's Love Letter#
@@ -7103,7 +7102,6 @@
 20080#Costume Shaman's Hair Orna#
 20098#Vampire's Heirloom#
 20099#Costume Ljosalfar#
-20100#Costume Volume Fhat#
 20101#Costume Bragi Wing Ears#
 
 //---------------Shadow 5th----------------
@@ -9240,3 +9238,17 @@
 6769#Flatbread Dough#
 6736#Kebab Minced Meat#
 11716#Garnish Salad#
+
+9634#Papa Bear's Treasure#
+31512#Dutch Rabbit#
+20596#Baby Bear Backpack#
+20584#Giant Foxtail Stem#
+21206#Nutcracker Mask#
+19598#Wolf Slayer Helmet#
+31679#Pig Boy Balloon#
+31791#Money Pig Mask#
+31456#Sleepy Fishing Cat#
+20138#Kalan Cap#
+5572#Wild Little Boar#
+
+20100#Troubadour's Cap#
