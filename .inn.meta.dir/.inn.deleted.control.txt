@@ -1,0 +1,5 @@
+2|data.grf|0112ed82909f3bfd562c2cd33de3adfa25e0f3a8
+2|data.grf|1a8405089b871924c8bb363ef5e1d7b2140d2368
+2|data.grf|51dac45d2e04ec3e336a65dba5176cfd9de52339
+2|System\achievement_list.lub|240eeffce563f0ac08b2f7792ee1a74a9fc6a64f
+2|System\iteminfo.lub|594bcc5dbc668998d4a20cef7c23ac7cac461c25

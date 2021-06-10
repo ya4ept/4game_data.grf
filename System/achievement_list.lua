@@ -10,7 +10,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[999968] = {
@@ -38,7 +38,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120003] = {
@@ -52,7 +52,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120004] = {
@@ -66,7 +66,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields west of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields west of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120005] = {
@@ -80,7 +80,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields west of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields west of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120006] = {
@@ -94,7 +94,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields east of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields east of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120007] = {
@@ -108,7 +108,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120008] = {
@@ -122,7 +122,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120009] = {
@@ -136,7 +136,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120010] = {
@@ -150,7 +150,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Prontera"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Prontera" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120011] = {
@@ -164,7 +164,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields east of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields east of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120012] = {
@@ -178,7 +178,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields southeast of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields southeast of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120013] = {
@@ -192,7 +192,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields northwest of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields northwest of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120014] = {
@@ -206,7 +206,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields northwest of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields northwest of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120015] = {
@@ -220,7 +220,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields northwest of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields northwest of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120016] = {
@@ -234,7 +234,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120017] = {
@@ -248,7 +248,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Geffen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Geffen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120018] = {
@@ -262,7 +262,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sograt Desert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120019] = {
@@ -276,7 +276,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sograt Desert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120020] = {
@@ -290,7 +290,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sograt Desert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120021] = {
@@ -304,7 +304,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sograt Desert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120022] = {
@@ -318,7 +318,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sograt Desert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120023] = {
@@ -332,7 +332,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sograt Desert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sograt Desert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120024] = {
@@ -346,7 +346,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields southwest of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120025] = {
@@ -360,7 +360,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields southwest of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120026] = {
@@ -374,7 +374,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields southwest of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120027] = {
@@ -388,7 +388,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields southwest of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields southwest of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120028] = {
@@ -402,7 +402,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields east of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120029] = {
@@ -416,7 +416,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields east of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120030] = {
@@ -430,7 +430,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields east of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120031] = {
@@ -444,7 +444,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields east of Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields east of Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120032] = {
@@ -458,7 +458,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120033] = {
@@ -472,7 +472,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120034] = {
@@ -486,7 +486,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120035] = {
@@ -500,7 +500,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120036] = {
@@ -514,7 +514,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120037] = {
@@ -528,7 +528,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120038] = {
@@ -542,7 +542,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120039] = {
@@ -556,7 +556,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120040] = {
@@ -570,7 +570,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120041] = {
@@ -584,7 +584,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120042] = {
@@ -598,7 +598,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Mjolnir"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Mjolnir" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120043] = {
@@ -612,7 +612,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Al De Baran"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Al De Baran" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120044] = {
@@ -626,7 +626,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120045] = {
@@ -640,7 +640,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120046] = {
@@ -654,7 +654,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120047] = {
@@ -668,7 +668,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120048] = {
@@ -682,7 +682,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120049] = {
@@ -696,7 +696,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120050] = {
@@ -710,7 +710,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120051] = {
@@ -724,7 +724,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120052] = {
@@ -738,7 +738,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Border Garrison"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Border Garrison" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120053] = {
@@ -752,7 +752,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Border Garrison"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Border Garrison" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120054] = {
@@ -766,7 +766,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Kiel Hyre's Cottage"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Kiel Hyre's Cottage" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120055] = {
@@ -780,7 +780,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the El Mes Plateau"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the El Mes Plateau" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120056] = {
@@ -794,7 +794,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the El Mes Plateau"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the El Mes Plateau" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120057] = {
@@ -808,7 +808,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the El Mes Plateau"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the El Mes Plateau" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120058] = {
@@ -822,7 +822,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around El Mes Gorge"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around El Mes Gorge" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120059] = {
@@ -836,7 +836,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Kiel Hyre Academy"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Kiel Hyre Academy" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120060] = {
@@ -850,7 +850,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Guards Camp"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Guards Camp" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120061] = {
@@ -864,7 +864,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Juno"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Juno" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120062] = {
@@ -878,7 +878,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Thanatos Tower Entrance"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Thanatos Tower Entrance" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120063] = {
@@ -892,7 +892,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Hugel"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Hugel" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120064] = {
@@ -906,7 +906,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Hugel"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Hugel" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120065] = {
@@ -920,7 +920,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Hugel"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Hugel" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120066] = {
@@ -934,7 +934,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Abyss Lake"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Abyss Lake" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120067] = {
@@ -948,7 +948,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120068] = {
@@ -962,7 +962,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120069] = {
@@ -976,7 +976,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120070] = {
@@ -990,7 +990,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120071] = {
@@ -1004,7 +1004,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120072] = {
@@ -1018,7 +1018,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120073] = {
@@ -1032,7 +1032,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120074] = {
@@ -1046,7 +1046,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbroch"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbroch" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120075] = {
@@ -1060,7 +1060,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Lighthalzen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Lighthalzen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120076] = {
@@ -1074,7 +1074,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Lighthalzen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Lighthalzen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120077] = {
@@ -1088,7 +1088,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Lighthalzen"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Lighthalzen" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120078] = {
@@ -1102,7 +1102,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Audhumbla Plain"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Audhumbla Plain" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120079] = {
@@ -1116,7 +1116,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Plain of Ida"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Plain of Ida" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120080] = {
@@ -1130,7 +1130,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Plain of Ida"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Plain of Ida" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120081] = {
@@ -1144,7 +1144,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Plain of Ida"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Plain of Ida" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120082] = {
@@ -1158,7 +1158,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Audhumbla Grassland"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Audhumbla Grassland" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120083] = {
@@ -1172,7 +1172,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Audhumbla Grassland"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Audhumbla Grassland" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120084] = {
@@ -1186,7 +1186,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Portus Luna"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Portus Luna" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120085] = {
@@ -1200,7 +1200,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Veins"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120086] = {
@@ -1214,7 +1214,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Veins"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120087] = {
@@ -1228,7 +1228,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Veins"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120088] = {
@@ -1242,7 +1242,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Veins"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120089] = {
@@ -1256,7 +1256,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Veins"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Veins" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120090] = {
@@ -1270,7 +1270,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Eclage"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Eclage" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120091] = {
@@ -1284,7 +1284,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields north of Bifrost"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields north of Bifrost" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120092] = {
@@ -1298,7 +1298,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields south of Bifrost"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields south of Bifrost" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120093] = {
@@ -1312,7 +1312,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Splendide"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Splendide" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120094] = {
@@ -1326,7 +1326,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Splendide"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Splendide" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120095] = {
@@ -1340,7 +1340,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Splendide"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Splendide" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120096] = {
@@ -1354,7 +1354,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Manuk"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Manuk" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120097] = {
@@ -1368,7 +1368,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Manuk"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Manuk" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120098] = {
@@ -1382,7 +1382,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Manuk"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Manuk" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120099] = {
@@ -1400,7 +1400,7 @@ achievement_tbl = {
 				text = "Discover treasure in the fields around the Outskirts of Kamidal Mountain"
 			}
 		},
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120100] = {
@@ -1418,7 +1418,7 @@ achievement_tbl = {
 				text = "Discover treasure in the fields around the Outskirts of Kamidal Mountain"
 			}
 		},
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120101] = {
@@ -1432,7 +1432,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Amatsu"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Amatsu" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120102] = {
@@ -1446,7 +1446,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Gonryun"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Gonryun" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120103] = {
@@ -1460,7 +1460,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Luoyang"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Luoyang" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120104] = {
@@ -1474,7 +1474,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Ayothaya"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Ayothaya" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120105] = {
@@ -1488,7 +1488,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Moscovia"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Moscovia" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120106] = {
@@ -1502,7 +1502,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Brasilis"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Brasilis" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120107] = {
@@ -1516,7 +1516,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Dewata"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Dewata" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120108] = {
@@ -1530,7 +1530,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Malaya"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Malaya" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120109] = {
@@ -1544,7 +1544,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Malaya"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Malaya" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 10
 	},
 	[120110] = {
@@ -1558,7 +1558,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Abbey Dungeon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Abbey Dungeon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120111] = {
@@ -1572,7 +1572,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Hugel Abyss"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Hugel Abyss" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120112] = {
@@ -1586,7 +1586,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Clock Tower"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Clock Tower" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120113] = {
@@ -1600,7 +1600,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Amatsu"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Amatsu" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120114] = {
@@ -1614,7 +1614,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Ant Hell"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Ant Hell" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120115] = {
@@ -1628,7 +1628,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Ayothaya"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Ayothaya" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120116] = {
@@ -1642,7 +1642,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Comodo"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Comodo" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120117] = {
@@ -1656,7 +1656,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Brasilis"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Brasilis" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120118] = {
@@ -1670,7 +1670,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Clock Tower"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Clock Tower" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120119] = {
@@ -1684,7 +1684,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Istana"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Istana" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120120] = {
@@ -1698,7 +1698,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Skarava Hall"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Skarava Hall" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120121] = {
@@ -1712,7 +1712,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Bifrost"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Bifrost" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120122] = {
@@ -1726,7 +1726,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Einbech"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Einbech" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120123] = {
@@ -1740,7 +1740,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Geffen Dungeon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Geffen Dungeon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120124] = {
@@ -1754,7 +1754,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Glast Heim"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120125] = {
@@ -1768,7 +1768,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Glast Heim"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120126] = {
@@ -1782,7 +1782,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Glast Heim"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120127] = {
@@ -1796,7 +1796,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Glast Heim"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Glast Heim" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120128] = {
@@ -1810,7 +1810,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Gonryun"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Gonryun" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120129] = {
@@ -1824,7 +1824,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Rachel"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Rachel" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120130] = {
@@ -1838,7 +1838,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sphinx"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sphinx" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120131] = {
@@ -1852,7 +1852,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Izlude"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Izlude" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120132] = {
@@ -1866,7 +1866,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Robot Factory"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Robot Factory" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120133] = {
@@ -1880,7 +1880,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Regenschirm Laboratory"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Regenschirm Laboratory" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120134] = {
@@ -1894,7 +1894,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Luoyang"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Luoyang" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120135] = {
@@ -1908,7 +1908,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Nogg Road"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Nogg Road" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120136] = {
@@ -1922,7 +1922,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Mjolnir Dead Pit"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Mjolnir Dead Pit" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120137] = {
@@ -1936,7 +1936,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Pyramid"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Pyramid" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120138] = {
@@ -1950,7 +1950,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Orc Dungeon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Orc Dungeon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120139] = {
@@ -1964,7 +1964,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Payon"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Payon" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120140] = {
@@ -1978,7 +1978,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Labyrinth"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Labyrinth" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120141] = {
@@ -1992,7 +1992,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Culvert"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Culvert" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120142] = {
@@ -2006,7 +2006,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Thanatos Tower"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Thanatos Tower" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120143] = {
@@ -2020,7 +2020,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Thor's Volcano"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Thor's Volcano" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120144] = {
@@ -2034,7 +2034,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Sunken Ship"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Sunken Ship" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120145] = {
@@ -2048,7 +2048,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around Turtle Island"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around Turtle Island" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[120146] = {
@@ -2062,7 +2062,7 @@ achievement_tbl = {
 			details = "Discover treasure in the fields around the Toy Factory"
 		},
 		resource = { [1] = { text = "Discover treasure in the fields around the Toy Factory" } },
-		reward = { item = 668 },
+		reward = { item = 22876 },
 		score = 20
 	},
 	[129001] = {

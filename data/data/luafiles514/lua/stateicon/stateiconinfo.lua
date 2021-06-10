@@ -829,6 +829,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
+		{ "Concentration Potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
 	}
@@ -3956,6 +3957,110 @@ StateIconList[EFST_IDs.EFST_ADAPTATION] = {
 		{ "%s", COLOR_TIME },
 		{ "Decrease SP consumption" },
 		{ "for perfoming, dancing and duet skill." }
+	}
+}
+StateIconList[EFST_IDs.EFST_INTOABYSS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Power Cord", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Party Members can use certain skills" },
+		{ "without any Gemstone requirement." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SERVICEFORYOU] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Gypsy's Kiss", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase Max SP" },
+		{ "Decrease SP consumption when using skills" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FORTUNEKISS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Lady Luck", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase Critical rate" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HUMMING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Focus Ballet", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase Accuracy" }
+	}
+}
+StateIconList[EFST_IDs.EFST_POEMBRAGI] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Magic Strings", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Decrease the casting time" },
+		{ "Decrease after attack delay" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ASSASSINCROSS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Impressive Riff", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase ASPD" }
+	}
+}
+StateIconList[EFST_IDs.EFST_WHISTLE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Perfect Tablature", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase Flee, Perfect Dodge" }
+	}
+}
+StateIconList[EFST_IDs.EFST_APPLEIDUN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Song of Lutie", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase Max HP" },
+		{ "Recover certain amount of HP in every 5 sec" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ETERNALCHAOS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Down Tempo", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Decrease DEF" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ROKISWEIL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Classical Pluck", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Silence" }
+	}
+}
+StateIconList[EFST_IDs.EFST_DONTFORGETME] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Slow Grace", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Decrease ASPD" },
+		{ "Decrease Movement speed" }
 	}
 }
 StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {
