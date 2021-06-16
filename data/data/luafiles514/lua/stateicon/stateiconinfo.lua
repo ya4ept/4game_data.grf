@@ -2233,7 +2233,18 @@ StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 	descript = {
 		{ "Печенье", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "На 3% увеличивает силу атаки и магической атаки." }
+		{ "Увеличивает силу физической атаки оружия" },
+		{ "и магической атаки." }
+	}
+}
+StateIconList[EFST_IDs.EFST_BUCHEDENOEL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Буш дэ Ноэль", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает скорость восстановления HP и SP," },
+		{ "точность и шанс критического удара." }
 	}
 }
 StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {

@@ -19742,21 +19742,25 @@ Deliver goods to Miss Fortuna#
 Miss Fortuna says she would want some more sweets after 4 AM.#
 Visit Miss Fortuna after 4 AM#
 
-15125#In need of COCOA BEAN#SG_FEEL#QUE_NOIMAGE#
-Take care of Sweets Drops monsters from fields and dungeons. Get back to Charles with 20 stolen COCOA BEANs.#
-Collect 20 stolen COCOA BEANs#
+15125#Все за какао бобы#SG_FEEL#QUE_NOIMAGE#
+Добудьте 20 какао бобов из сладких дропсов и принесите их Чарльзу.#
+Соберите 20 какао бобов#
 
-15127#Chocolate Delivery#SG_FEEL#QUE_NOIMAGE#
-Deliver chocolates in order of Geffen, Payon, Aldebarn, Prontera Sweets Shops.#
-Chocolate delivery to big city sweets shops#
+15126#Все за какао бобы#SG_FEEL#QUE_IMAGE#
+У Чарльза украли все какао бобы, и поэтому он не может изготавливать шоколад. Нужно помочь ему.#
+Принесите Чарльзу 20 Какао Бобов#
 
-15128#Chocolate Delivery Complete#SG_FEEL#QUE_NOIMAGE#
-Finished chocolate delivery Charles requested. You can repeat after 4 AM.#
-Deliver again from 4 AM#
+15127#Доставка шоколада#SG_FEEL#QUE_NOIMAGE#
+Доставьте шоколад во все магазины сладостей по порядку. Геффен, Пайон, Альдебаран, Пронтера.#
+Посетите магазины сладостей#
 
-15129#Daily Draw Limitation#SG_FEEL#QUE_NOIMAGE#
-Sweets Shop Draw is only possible once a day. Today you've draw one alredy, so let's try after tomorrow 4 AM.#
-Darwa Cool Time until 4 AM#
+15128#Доставка шоколада#SG_FEEL#QUE_NOIMAGE#
+Вы доставили шоколад во все магазины. Вы можете снова помочь Чарльзу после 04:00#
+Подождите до 04:00#
+
+15129#Колесо удачи#SG_FEEL#QUE_NOIMAGE#
+Сегодня вы уже крутили колесо удачи, подождите до 04:00.#
+Подождите до 04:00#
 
 1#Blackmail#SG_FEEL#QUE_NOIMAGE#
 Turtle#
@@ -24284,3 +24288,8 @@ Resets at 4 am#
 8312#Конкурс большого урожая#SG_FEEL#QUE_IMAGE#
 Участвуйте в конкурсе дынь каждый день и получайте призы#
 #
+
+9166#Сброс характеристик#SG_FEEL#QUE_IMAGE#
+Вы сбросили характеристики с помощью кристаллов забвения. Подождите 20 часов, если хотите повторно воспользоваться услугой или очистить запись в журнале заданий.#
+Ожидание#
+
