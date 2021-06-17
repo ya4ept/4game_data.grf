@@ -35144,14 +35144,6 @@ sour taste. Dex +1
 ^FFFFFF ^000000
 Weight: ^7777771^000000
 #
-
-14564#
-A special chocolate
-mousse cake with a^FFFFFF       ^000000 smooth luxurious flavor
-that even Charles Orleans would be proud of. Dex +2
-^FFFFFF ^000000
-Weight: ^7777771^000000
-#
 14565#
 A mix of various,
 crisp fruit flavored
@@ -38328,13 +38320,6 @@ Weight: ^7777771^000000
 
 // --------------- 2008 Christmas -------------------
 
-12354#
-A chocolate roll cake in the form of firewood covered with snow. When you see it, you can feel Christmas is coming.
-HP & SP restoration +3%
-Hit +3, Critical +7 for 10 min.
-^000088Item effect is not displayed in UI.^000000
-^ffffff_^000000
-Weight: ^7777775^000000
 #
 12355#
 It is rumored that you can get this box once a year. If you cry, you are excluded from Santa's list.
@@ -46923,15 +46908,6 @@ Weight: ^7777771^000000
 A questionable license that allows you to open a Bulk Buyer Vending Shop. The Merchant Guild's stamp looks like it has been hand drawn.
 You must have at least 1 of the items in your inventory that you wish to Buy in Bulk from others.
 (One time use)
-Weight: ^7777771^000000
-#
-
-12379#
-[Not for Sale] It's been made as a special production in Sessrumnir temple. It has been modeled after current pope.
-There's an issue with this as a blasphemy and likely been prohibited but, it's still popular within close associates.
-There's a rumor that the fan club of the girl pope made this. The taste is not bad. Eat before an expiration date.
-For 20 minutes ATK, MATK + 3%, All property resistance 3%.
-^ffffff_^000000
 Weight: ^7777771^000000
 #
 6360#
@@ -59382,12 +59358,6 @@ Weight: ^7777771^000000
 ^ff0000This item cannot be traded with others.^000000
 A chocolate coin wrapped with gold paper. Please do not try to eat this.
 Bring this to Bitta who is at the southeast area of Einbroch.
-Weight: ^7777770^000000
-#
-6840#
-^ff0000This item cannot be traded with others.^000000
-A chocolate coin wrapped with silver paper. Please do not try to eat this.
-Bring this to Bitta who is at the southeast area of Einbroch to exchange it for gold coins
 Weight: ^7777770^000000
 #
 6841#
@@ -78210,13 +78180,6 @@ sour taste. Dex +1
 ^FFFFFF ^000000
 Weight: ^7777771^000000
 #
-14564#
-A special chocolate
-mousse cake with a^FFFFFF       ^000000 smooth luxurious flavor
-that even Charles Orleans would be proud of. Dex +2
-^FFFFFF ^000000
-Weight: ^7777771^000000
-#
 14566#
 Lightly spiced
 monkey tails deep
@@ -90281,7 +90244,7 @@ Guyak Pudding x25
 Blessing Of Tyr x10
 Mental Potion x7
 AGI Biscuit Stick x4
-DEX Biscuit Stick 4
+DEX Biscuit Stick x4
 INT Biscuit Stick x4
 LUK Biscuit Stick x4
 STR Biscuit Stick x4
@@ -90408,7 +90371,7 @@ MaxHP +3%
 With a little chance inflicts ^dd99ffStun^000000 status.
 Chance increased with each refine rate.
 ^6A5ACD[If refine rate is 12]^000000
-Enables [Maximize Power] LV 1.
+Enables [Maximize Power] (Lv. 1).
 ^6A5ACD[If refine rate is +13 or higher]^000000
 There are no additional to the characteristics
 ^ffffff_^000000
@@ -90427,4 +90390,96 @@ Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All^000000#
+Jobs: ^777777All^000000
+#
+20030#
+^FF0000Account Bound^000000
+Doughnut got sweeter with melt chocolate! It goes well with hot tea.
+EXP +5%
+Reduces damage from all elements by 3%.
+^ff0000[Effects are active only during the event (until June 23, 2021).]^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19665#
+^FF0000Account Bound^000000
+It seems to be a pie... And besides, a Poring! And a hat too!
+What to do - fight it, eat it, or put it on your head? You decide!
+EXP +10%
+Reduces damage from all elements by 5%.
+^ff0000[Effects are active only during the event (until June 23, 2021).]^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+14564#
+^FF0000Account Bound^000000
+A special chocolate mousse cake with a smooth luxurious flavor that even Charles would be proud of.
+HP and SP recovery 2%.
+DEX +2 for 20 min.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+12247#
+^FF0000Account Bound^000000
+Cold drink of fruits, melted chocolate and milk. Perfectly quenches the thirst in a warm weather.
+All Stats +3 for 10 min.	
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+12354#
+A chocolate roll cake in the form of firewood covered with snow. When you see it, you can feel Christmas is coming.
+HP and SP restoration +3%.
+Hit +3 for 10 min.
+Crit +7 for 10 min.
+^000088Item effect is not displayed in UI.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12379#
+^FF0000Account Bound^000000
+Gingerbread in the form of the Pope, the supreme ruler of Arunafeltz.
+Made in Sessrumnir Temple.
+Weapon physical and magical attack +3% for 20 min.
+Reduces damage from all elements by 3%.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+22991#
+^FF0000Account Bound^000000
+Down with chips and popcorn!
+Watch your favorite team matches while eating this unusual biscuit cake!
+HP and SP recovery 10%.
+Casts [Endow Quake] (Lv.1).
+^0000FFEffect of the skill is applied only if the weapon is equipped.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+25292#
+^FF0000Account Bound^000000
+Cocoa bean stolen from a chocolate factory.
+You should give it back to Charles.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+6840#
+^FF0000Account Bound^000000
+Coin-shaped chocolate candy.
+Don't eat it! Perhaps you'll still need it.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+11629#
+^FF0000Account Bound^000000
+Chocolate candy with crushed hazelnut sprinkles.
+Delicious nut butter inside!
+^ffffff_^000000
+Weight: ^7777770^000000
+#

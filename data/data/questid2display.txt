@@ -20374,21 +20374,25 @@ Deliver goods to Miss Fortuna#
 Miss Fortuna says she would want some more sweets after 4 AM.#
 Visit Miss Fortuna after 4 AM#
 
-15125#In need of COCOA BEAN#SG_FEEL#QUE_NOIMAGE#
-Take care of Sweets Drops monsters from fields and dungeons. Get back to Charles with 20 stolen COCOA BEANs.#
-Collect 20 stolen COCOA BEANs#
+15125#In need of Cocoa Bean#SG_FEEL#QUE_NOIMAGE#
+Take care of Sweets Drops monsters from fields and dungeons. Get back to Charles with 20 Stolen Cocoa Beans.#
+Collect 20 Stolen Cocoa Beans#
+
+15126#In need of Cocoa Bean#SG_FEEL#QUE_IMAGE#
+Charles can't produce chocolate because Sweets Drops have stolen his Cacao Beans. We need to help this man.#
+Bring 20 Stolen Cacao Beans to Charles#
 
 15127#Chocolate Delivery#SG_FEEL#QUE_NOIMAGE#
-Deliver chocolates in order of Geffen, Payon, Aldebarn, Prontera Sweets Shops.#
+Deliver chocolates in order of Geffen, Payon, Al De Baran, Prontera Sweets Shops.#
 Chocolate delivery to big city sweets shops#
 
 15128#Chocolate Delivery Complete#SG_FEEL#QUE_NOIMAGE#
 Finished chocolate delivery Charles requested. You can repeat after 4 AM.#
-Deliver again from 4 AM#
+Deliver again after 4 AM#
 
 15129#Daily Draw Limitation#SG_FEEL#QUE_NOIMAGE#
-Sweets Shop Draw is only possible once a day. Today you've draw one alredy, so let's try after tomorrow 4 AM.#
-Darwa Cool Time until 4 AM#
+Sweets Shop Draw is only possible once a day. Today you've draw one already, so let's try after tomorrow 4 AM.#
+Spin again after 4 AM#
 
 161#Siege Expert#SG_FEEL#QUE_NOIMAGE#
 Speak to the Siege Expert at the Eden Group Headquarters second floor and pass his quiz.#
@@ -22364,3 +22368,4 @@ Take part in the melon contest every day and win prizes#
 8312#The biggest melon contest#SG_FEEL#QUE_IMAGE#
 Take part in the melon contest every day and win prizes#
 #
+

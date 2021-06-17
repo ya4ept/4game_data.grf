@@ -8149,3 +8149,14 @@
 5572#Helmet#
 
 20100#Hat#
+
+20030#Accessory#
+19665#Hat#
+14564#Chocolate Mousse Cake#
+12247#Halo-Halo#
+12354#Buche De Noel#
+12379#Pope's Cookie#
+22991#Football Cake#
+25292#Stolen Cacao Bean#
+6840#Chocolate Coin#
+11629#Walnut Truffle#

@@ -1,3 +1,22 @@
+17.06.2021 12:26
+[CM] Godfather
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— Enjoy an event that is as Sweet as Ragnarok! Available until 23.06;
+— Refinement rates are boosted until 23.06 for you to go above and beyond!
+
+Shop:
+— Refinement Sets are now available on the launcher. Do not waste any time, they will be available until 23rd of June Only!
+
+https://eu.4gameforum.com/threads/682846/
+
+Finished activities:
+— The Black Market Auction was a success and will be out of the server for a brief while.
+— The Papa Bear's Treasure and its sets were removed from 4game Launcher and the shop.
+— The Shop Discounts are over, we hope everyone enjoyed it!
+
+================
 09.06.2021 12:32
 CM_Godfather
 We just uploaded one extra client patch after the maintenance one. This one fixes the inventory window and the possibility to resize it.

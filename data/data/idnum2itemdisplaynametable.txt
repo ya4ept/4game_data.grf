@@ -3744,7 +3744,6 @@
 // ---------- 2008 Christmas ----------
 
 2784#O Holy Night#
-12354#Buche De Noel#
 12355#Xmas Gift#
 12356#Louise Costume Box#
 6092#Piece Of Singing Crystal#
@@ -5197,7 +5196,6 @@
 // --------- 2011.7.5. Cash item update -------------
 
 16675#Splash Scroll#
-12247#Halo-Halo#
 
 // --------- 2011.7.12. Cash item update -------------
 
@@ -6023,7 +6021,6 @@
 16475#Blue Butterfly Wing 10 Box#
 
 12395#Tantan Noodle#
-12379#Pope's Cookie#
 
 //-------- Item update 26 / 2 / 2013
 18691#Black Dragon's Ascension#
@@ -6367,7 +6364,6 @@
 17307#Midgard Scroll#
 12194#Hometown Gift#
 6839#Gold Choco Coin#
-6840#Silver Choco Coin#
 6841#Bronze Choco Coin#
 22708#Thrilling Box#
 6842#Huge Jewery#
@@ -7289,11 +7285,9 @@
 19683#Costume Sweet Candy#
 31195#Tiny Chocolate Hat#
 9109#Sweet Drops Egg#
-25292#Stolen Cacao Beans#
 11607#Sweet Crepe#
 23259#Strawberry Fresh Cream Cupcake#
 23260#Fruit Parfait#
-22991#Soccer Cake#
 19789#Costume Sweet Gent#
 19796#Costume Bone Helm#
 19797#Costume Apple of Archer#
@@ -7736,7 +7730,6 @@
 14560#Frog Egg Squid Ink Soup#
 14561#Smooth Noodle#
 14563#Honey Grape Juice#
-14564#Chocolate Mousse Cake#
 14566#Fried Monkey Tails#
 14567#Mixed Juice#
 12262#Inspector Certificate#
@@ -9252,3 +9245,14 @@
 5572#Wild Little Boar#
 
 20100#Troubadour's Cap#
+
+20030#Chocolate Donut#
+19665#Piering#
+14564#Chocolate Mousse Cake#
+12247#Halo-Halo#
+12354#Buche De Noel#
+12379#Pope's Cookie#
+22991#Football Cake#
+25292#Stolen Cacao Bean#
+6840#Chocolate Coin#
+11629#Walnut Truffle#

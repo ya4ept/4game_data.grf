@@ -55941,3 +55941,73 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 20100#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
+20030#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19665#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+14564#
+^FF0000Account Bound^000000
+A special chocolate mousse cake with a smooth luxurious flavor that even Charles would be proud of.
+that even Charles Orleans would be proud of.
+HP and SP recovery 2%.
+DEX +2 for 20 min.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+12247#
+^FF0000Account Bound^000000
+Cold drink of fruits, melted chocolate and milk. Perfectly quenches the thirst in a warm weather.
+All Stats +3 for 10 min.	
+^ffffff_^000000
+Weight: ^7777775^000000
+#
+12354#
+A chocolate roll cake in the form of firewood covered with snow. When you see it, you can feel Christmas is coming.
+HP and SP restoration +3%.
+Hit +3 for 10 min.
+Crit +7 for 10 min.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12379#
+^FF0000Account Bound^000000
+Gingerbread in the form of the Pope, the supreme ruler of Arunafeltz.
+Made in Sessrumnir Temple.
+Weapon physical and magical attack +3% for 20 min.
+Reduces damage from all elements by 3%.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+22991#
+^FF0000Account Bound^000000
+Down with chips and popcorn!
+Watch your favorite team matches while eating this unusual biscuit cake!
+HP and SP recovery 10%.
+Casts [Endow Quake] (Lv.1).
+^0000FFEffect of the skill is applied only if the weapon is equipped.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+25292#
+^FF0000Account Bound^000000
+Cocoa bean stolen from a chocolate factory.
+You should give it back to Charles.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+6840#
+^FF0000Account Bound^000000
+Coin-shaped chocolate candy.
+Don't eat it! Perhaps you'll still need it.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+11629#
+^FF0000Account Bound^000000
+Chocolate candy with crushed hazelnut sprinkles.
+Delicious nut butter inside!
+^ffffff_^000000
+Weight: ^7777770^000000
+#

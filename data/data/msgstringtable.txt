@@ -3527,7 +3527,7 @@ The guild tax rate can't be set to more than 50%.#
 3527#
 3528#
 3529#
-3530#
+Requires equipped weapon#
 3531#
 3532#
 3533#
