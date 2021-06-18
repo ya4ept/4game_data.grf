@@ -11,7 +11,8 @@
 		<port>6800</port>
 		<version>1</version>
 		<registrationweb>https://eu.4game.com/</registrationweb>
-		<aid>	
+		<aid>
+		<admin>100549</admin><admin>100009</admin><admin>100006</admin><admin>100008</admin><admin>100423</admin><admin>100509</admin><admin>100548</admin><admin>100005</admin>
 		</aid>
 	</connection>
 </clientinfo>

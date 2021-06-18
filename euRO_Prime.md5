@@ -1,8 +1,7 @@
-d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-1cc285db355d0ff76d8321c9f88dde1f *data.grf
+147e6686672672e0549f81713d14ec7e *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -56,8 +55,8 @@ fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.cont
 be1c678044e557340258729b21c39b8a *gameManager\gameManager.exe
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
 4ee6254633853406d8ae893932b76c11 *System\achievement_list.lub
-62a337855d7c3a3b3abf8ea71b1f1317 *System\checkattendance.lub
-bcbe0aabb8f03a437a69703b0370a488 *System\iteminfo.lub
+640e0a0bdf8eeb59744a54366bf30174 *System\checkattendance.lub
+35d3360290110cdb2df3386aac8d7fca *System\iteminfo.lub
 070f3d654f1cd8663f5bcc80eba51ce5 *System\monster_size_effect.lub
 5fde27f0179ff3af4343a6eeca13d1cf *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
