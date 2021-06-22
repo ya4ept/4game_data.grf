@@ -1,0 +1,76 @@
+distribution {2}
+    version=20210616.1
+    type=full
+    env=
+    files=../../20210616.1/distr/
+    control-hash=76fc7c3fd2add389aff1469ef625ed771e3a0797
+    deleted-control-hash=68b14496c0600c5671b32b23d3b12b69d0a325bb
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2358980660
+    size=2669059833
+    compressed-size-total=2358980660
+    size-total=2669059833
+    compressed-stages=
+
+    version=20210622.0
+    type=partial
+    env=
+    files=./
+    control-hash=7d01ff26d785cd5f29677e4de15ce6d67a2d4698
+    deleted-control-hash=d3c32ba82a8a87f4a35138aa58b7c113c063ced8
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2018776773
+    size=2293703324
+    compressed-size-total=2359450320
+    size-total=2671420404
+    compressed-stages=
+
+delta {8}
+    version=20210506.0
+    files=../delta/20210506.0/
+    compressed-size=69212462
+    control-hash=1b5876f7ab085acf98050388935c1622ab380ed0
+
+    version=20210511.0
+    files=../delta/20210511.0/
+    compressed-size=66937191
+    control-hash=3b7bbc1ce1d7b77ebd5f4ef9b2062cf790a3c820
+
+    version=20210517.0
+    files=../delta/20210517.0/
+    compressed-size=66658275
+    control-hash=b47d8e06fcc9701124096a4252b27a41dfc249c1
+
+    version=20210525.0
+    files=../delta/20210525.0/
+    compressed-size=57629120
+    control-hash=696117b725c4ac0d7a01e2884336711d8fbcc498
+
+    version=20210531.0
+    files=../delta/20210531.0/
+    compressed-size=57295584
+    control-hash=fe96dbaf541324808723f77a4b5956263e967cab
+
+    version=20210615.0
+    files=../delta/20210615.0/
+    compressed-size=57084114
+    control-hash=4e27e07bb00296be71e8b1bc1eb56a35f902d554
+
+    version=20210616.0
+    files=../delta/20210616.0/
+    compressed-size=57085809
+    control-hash=283dcbb66b4602cdde7d621f0b45c9d1df3e4352
+
+    version=20210616.1
+    files=../delta/20210616.1/
+    compressed-size=18958662
+    control-hash=fbd3839b8fb148d138acd2d550026a1bfa74298e
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-06-21T23:44:55+03:00
+    date-modified=2021-06-21T23:44:55+03:00
+    running-time-sec=802
+
