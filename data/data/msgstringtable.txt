@@ -1463,13 +1463,13 @@ Deletion is impossible for over level %d#
 Can't be used while on Magic Gear#
 Dismount Dragon#
 Dismount Magic Gear#
-1#
+I#
 Kafra#
 Armor#
 Weapons#
 Ammo#
 Card#
-3#
+E#
 Client response time has passed so connection is terminated#
 Incorrect version of hack shield file. Please reinstall the client#
 Need a Magic Book#
@@ -2048,8 +2048,8 @@ Write to the party advertising notes section.#
 Ads can be registered with the party.#
 You are already funding a party advertisement.#
 Contents#
-2#
-4#
+G#
+F#
 Lock item drop#
 Find party alarm#
 Party create#
@@ -2497,7 +2497,7 @@ ITEM#
 You cannot use the guild storage.#
 You are not a member of any guild. Please try again after joining one.#
 Other guild member is using it. Please try later.#
-Storage autority#
+Storage#
 Guild Storage#
 You have no right to use the Guild Storage.#
 Limited item sales registration window#
@@ -3527,7 +3527,7 @@ Forced Removal#
 #
 #
 #
-#
+You have to equip the weapon.#
 #
 Learn the quest skill. #
 #
@@ -3678,8 +3678,8 @@ Demihuman#
 Angel#
 Dragon#
 Balance: %s %c#
-^ff0000.^000000 %s.#
-^ff0000.^000000 %s, %s.#
+Do you really want to purchase this item? %s Euros will be deducted from your total 4Game balance.#
+Do you really want to purchase this item? %s Euros and %s Free Points will be deducted from your total 4Game balance.#
 #
 #
 #

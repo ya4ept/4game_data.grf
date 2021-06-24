@@ -100,7 +100,9 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Put_On_Coat] = "C_Put_On_Coat",
 	[SPRITE_ROBE_IDs.ROBE_C_Snow_Powder] = "C_Snow_Powder",
 	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Spider] = "Wing_Of_Spider",
-	[SPRITE_ROBE_IDs.ROBE_C_Kyel_hyre_Ulti_TW] = "C_Kyel_hyre_Ulti_TW"
+	[SPRITE_ROBE_IDs.ROBE_C_Kyel_hyre_Ulti_TW] = "C_Kyel_hyre_Ulti_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
+	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -204,7 +206,9 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Put_On_Coat] = "C_Put_On_Coat",
 	[SPRITE_ROBE_IDs.ROBE_C_Snow_Powder] = "C_Snow_Powder",
 	[SPRITE_ROBE_IDs.ROBE_Wing_Of_Spider] = "Wing_Of_Spider",
-	[SPRITE_ROBE_IDs.ROBE_C_Kyel_hyre_Ulti_TW] = "C_Kyel_hyre_Ulti_TW"
+	[SPRITE_ROBE_IDs.ROBE_C_Kyel_hyre_Ulti_TW] = "C_Kyel_hyre_Ulti_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
+	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -230,5 +234,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_GiantCatBag_JP_BL,
 	SPRITE_ROBE_IDs.ROBE_Calabash,
 	SPRITE_ROBE_IDs.ROBE_C_Blessed_Veil,
-	SPRITE_ROBE_IDs.ROBE_C_Giant_White_Rabbit
+	SPRITE_ROBE_IDs.ROBE_C_Giant_White_Rabbit,
+	SPRITE_ROBE_IDs.ROBE_C_Poring_Basket
 }

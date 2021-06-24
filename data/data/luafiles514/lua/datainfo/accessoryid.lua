@@ -2078,5 +2078,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_YinYang_Earring_Y = 2088,
 	ACCESSORY_Thanos_Helm_2 = 2089,
 	ACCESSORY_Thanos_Helm2_LT = 2090,
-	ACCESSORY_C_Rose_Crispinette = 2091
+	ACCESSORY_C_Rose_Crispinette = 2091,
+	ACCESSORY_C_Cherry_Ribbon = 2112
 }

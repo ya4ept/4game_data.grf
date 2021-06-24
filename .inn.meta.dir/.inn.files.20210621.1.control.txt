@@ -1,0 +1,632 @@
+1|AI\AI.lua|0439b357545956eefbfe4df2dce6e946fe13126c||pack-04|13101350|2970|14162|
+1|AI\AI_M.lua|fa7a5ad9b5fc662dc645abd0f56f479f324e6d74||pack-04|13107244|2924|13866|
+1|AI\Const.lua|9b374ea10086cf0115a1ee5405bb2ed626c37f22||pack-04|13247185|1040|3242|
+1|AI\Homunculus AI Script User Guide.htm|54ab4fc5b23a39bb0f46539ccca619b9f8df05b1||pack-04|13005086|17248|223295|
+1|AI\USER_AI\AI.lua|0439b357545956eefbfe4df2dce6e946fe13126c||pack-04|13098380|2970|14162|
+1|AI\USER_AI\AI_M.lua|fa7a5ad9b5fc662dc645abd0f56f479f324e6d74||pack-04|13104320|2924|13866|
+1|AI\USER_AI\Const.lua|9b374ea10086cf0115a1ee5405bb2ed626c37f22||pack-04|13246145|1040|3242|
+1|AI\USER_AI\Util.lua|3293ec442458eb710f935876f093e9c6e63c63e5||pack-04|13291602|741|2637|
+1|AI\Util.lua|3293ec442458eb710f935876f093e9c6e63c63e5||pack-04|13290861|741|2637|
+0|BGM\01.mp3|ad65e5a52d79104ee88feb218214d1e56ae89ba1||pack-04|10771704|747520||
+0|BGM\02.mp3|471934b0a80662e5714bbf6b2b5048fb7ee61fe1||pack-02|55497544|1830912||
+0|BGM\03.mp3|699dd24d0ca0bdef7662b2de1bc7c8d1ac29215f||pack-03|69784250|1505280||
+0|BGM\04.mp3|848eb58dddea42c211e6817d6870e84833cf43d5||pack-03|20418466|1669120||
+0|BGM\05.mp3|90e8dfbd914a4e1fde8ff316c5297ccf7e7758cf||pack-04|4948683|1146880||
+0|BGM\06.mp3|5b6375a7a92a5b6dd0887c857f9e7994edc06ce1||pack-03|10299193|1695744||
+0|BGM\07.mp3|301d6a5dae20ff7dee449e60c084e19e3faa4925||pack-04|7200635|1050624||
+0|BGM\08.mp3|7fb24df0cd30863b9be4a8f65c3b1ee644307f4d||pack-01|31263779|2740224||
+0|BGM\09.mp3|7f83c532b8c1c3ddd6e2610eb164e5d509560202||pack-04|9217915|796672||
+0|BGM\10.mp3|9e537e364fbe7f59162ac8852f380c28a09e80aa||pack-04|8251259|966656||
+0|BGM\100.mp3|28c58d09d7d4dd9da5253ce14fac4ea2c1ba96b8||pack-02|62816728|1825857||
+0|BGM\101.mp3|4191c9770667a3654647ad79fdd817cb359a6e79||pack-03|65218524|1526494||
+0|BGM\102.mp3|3d9635e9eacacfc70d133f86ab8e19953a26dc05||pack-01|70436366|2250922||
+0|BGM\103.mp3|114c07345ade9d85870de8da5546d42a3e55747a||pack-02|12057317|1976636||
+0|BGM\104.mp3|507f916897addc2fb0a8a7014f5d4a110c19b1f2||pack-02|48104564|1855323||
+0|BGM\105.mp3|00f1f2f897cdc35cceba376174bb62a2adae4d34||pack-03|43384959|1585740||
+0|BGM\106.mp3|33ebba87b26f61d544a5ccc74f3355863fbbb516||pack-02|80893445|1777896||
+0|BGM\107.mp3|2fb4cc80c9e66e22d1b286c4a08cb45120c6ee91||pack-02|53661029|1836515||
+0|BGM\108.mp3|0222408a7d7da0833df1e9dcf7dab68e2b6347d9||pack-01|96781605|2088858||
+0|BGM\109.mp3|5d26ef0656ef1e8e7202b2abee3fb594b6de85cb||pack-02|27474466|1898496||
+0|BGM\11.mp3|58f9406a1c30125326ed7b3af90d3da8d8ff0ecd||pack-03|103144521|1282048||
+0|BGM\110.mp3|4bba07417b411c43463ac4ab0115eb1970d03d52||pack-02|25573922|1900544||
+0|BGM\111.mp3|7fdcc5fb5822e8bb3d2f9b38aad7cd82d90434f9||pack-01|22763304|3002368||
+0|BGM\112.mp3|6f6fbddb80e3790b85c4e77d6a6f514b15f57b63||pack-01|65899918|2279424||
+0|BGM\113.mp3|2e475045c04cf88deebad2a64f99fabd72c0ac8d||pack-01|19726120|3037184||
+0|BGM\114.mp3|abbb0f0b2faf8b317a3b2dd97191a71d6a94d68b||pack-03|89068027|1460224||
+0|BGM\115.mp3|e98c12a9e9e44654f8d19cb87d9ac4781f991e17||pack-03|15370169|1685504||
+0|BGM\116.mp3|97ce7b0ab25726e0e94302b2b7cb2500c3bdd6a5||pack-03|83200813|1470464||
+0|BGM\117.mp3|daba5f7eefcabc078b10cec6e015f55939574163||pack-03|48133627|1576960||
+0|BGM\118.mp3|7d071be94ef3f4a8205d81ea7df001dff9f16067||pack-02|66462711|1818624||
+0|BGM\119.mp3|b21405ab807de0a07b4a4518020c063142a3a44b||pack-02|60987864|1828864||
+0|BGM\12.mp3|0e3699c3b5a784c6e8ea554db8cf7014f5dc6991||pack-03|80249747|1476608||
+0|BGM\120.mp3|0d70c6c55b9b634e266d9686fc7a477612f1c021||pack-02|35033634|1880064||
+0|BGM\121.mp3|f50ea0698bdbe3522687230558de45aa1b1c2024||pack-01|4563455|4153344||
+0|BGM\122.mp3|2b01df8839769bc2e58ec0c17d22d078f4d7b320||pack-01|61281718|2310144||
+0|BGM\123.mp3|60d6d9077e6e1491a31cdbca78c6c09258e74715||pack-02|2036453|2029568||
+1|BGM\124.mp3|05001de55302b06992f1744f45f1800d7c6b6666||pack-01|8716799|4025681|4242393|
+0|BGM\125.mp3|7199bd6e9f1197025d37c6759e37171a85ee014d||pack-01|58951094|2330624||
+0|BGM\126.mp3|cd5479eacda27878b2c0f8203b60abc55d9e448c||pack-02|82671341|1767424||
+0|BGM\127.mp3|709f1d6d79ea1b7aef4a74e90c35a8b7b0e9c239||pack-03|54411003|1556587||
+0|BGM\128.mp3|b3355ee6fa6cb87ed8a24ab848db7b71a48ce46f||pack-02|51811348|1849681||
+0|BGM\129.mp3|38a885f4e971785747d1f6af5dcf25bb461af787||pack-03|44970699|1584712||
+0|BGM\13.mp3|c495112e3c7da0749ec1cd0676d9e8016db70291||pack-02|71896657|1806336||
+0|BGM\130.mp3|255f3f64835931ca0a656005bac5965b2a0f620e||pack-02|64642585|1820126||
+0|BGM\131.mp3|0d1fbdb6f0671f2b32c2338032e2e7dc730ef6d7||pack-02|17935065|1914569||
+0|BGM\132.mp3|071c9e1d9f337f9093e4930872e89688fc2912d9||pack-02|46246419|1858145||
+0|BGM\133.mp3|0474370fc912ea127952820e0adc85c45009d0f5||pack-01|72687288|2249124||
+0|BGM\134.mp3|01ce225277a59904ea30efa16f0d631476aadd64||pack-01|63591862|2308056||
+0|BGM\135.mp3|f523ab4b755cfb9dd09aad941f16123b84057086||pack-01|16650064|3076056||
+0|BGM\136.mp3|212a2f9bbd68831db08012dd52681c1f043e8450||pack-01|12742480|3907584||
+0|BGM\137.mp3|35904c838e16120983e604f339f6ca84453b5d2c||pack-01|83778302|2185216||
+0|BGM\138.mp3|6ecb477bb82680d074a8acc32c4ad752dd629ffe||pack-01|42056739|2447360||
+0|BGM\139.mp3|18cdd7f80ba577d55d61322490269ef0c1af200f||pack-01|74936412|2232320||
+0|BGM\14.mp3|4c24dbac6b00e17424b3981aa60d69450577baa6||pack-03|94881889|1423360||
+0|BGM\140.mp3|126b76d3e8f8fdce820f875538f45f9951d0a603||pack-01|88143781|2174976||
+0|BGM\141.mp3|843f1f36ea962992cafd52c7861e71250427aa99||pack-02|19849634|1912832||
+0|BGM\142.mp3|2f1a61e9efb318af18e91c33127ab32dd0530fce||pack-02|38785002|1868489||
+0|BGM\143.mp3|2399627d499a54b352559281b3c45839e4eb34d4||pack-02|14033953|1960336||
+1|BGM\144.mp3|340bb6ffb7463ffe70ca5d870cb9dffac51f6a2d||pack-02|77311045|1794870|1979771|
+0|BGM\145.mp3|6465fbdab3a01f29c06eef28923fc89fe5872b30||pack-03|81726355|1474458||
+0|BGM\146.mp3|f9c4f050a92bb3c8cfed2670abaf55582907b9c6||pack-03|59076582|1545616||
+0|BGM\147.mp3|b01e15f17341d93880ae761b1a8e0c88e6fa385c||pack-03|78765258|1484489||
+0|BGM\148.mp3|04a58daec14e64f3ed4e88f4973de45124708ac0||pack-03|62156842|1530883||
+0|BGM\149.mp3|b646a6d6eeda71135cba885e4bfb547c473cebb0||pack-03|71289530|1499536||
+0|BGM\15.mp3|7ed7eb1dd703212b7e2e1af42bf0033d17b302a5||pack-02|6093541|2002944||
+0|BGM\150.mp3|14fe5cb57a4844d10b80378208cdee2b034e068b||pack-02|100182676|1731190||
+0|BGM\151.mp3|d960dff5106fffe0ea112cb1c140ed31dd73ce38||pack-02|98451486|1731190||
+0|BGM\152.mp3|8e5f6b3dafa02acb2b4355d4ecf3f53e1b5f9915||pack-04|2516179|1218040||
+0|BGM\153.mp3|d916570c0b9d2390bf374bcb132c9cdabbcd4692||pack-03|8598097|1701096||
+1|BGM\154.mp3|ce160401d812765b82f99fdc0b8c733aac23d387||pack-02|36913698|1871304|2012999|
+0|BGM\155.mp3|22f50daa93f5dd9006c17fafe0733dd5a0f33fb8||pack-03|3449148|1722412||
+0|BGM\156.mp3|67aecafd0319c696ec80da79fda2bb895d0fae1a||pack-02|96714967|1736519||
+0|BGM\157.mp3|dc9e9c63fa88bc09c91a6d0a44eba153b2f44658||pack-03|86138525|1465054||
+0|BGM\158.mp3|4d53f69f3b452e3017335889efebf0ba54184018||pack-03|46555411|1578216||
+0|BGM\159.mp3|987d8e443c7e9c4de4f62e7a98026e8c03ff0fb5||pack-03|84671277|1467248||
+0|BGM\16.mp3|8872d1554085f45e26e088e674f4dd2817d38804||pack-03|97716321|1384448||
+0|BGM\160.mp3|6a20277e01d695a5a7a5d1a160b35c1ee7054210||pack-02|101913866|1730563||
+0|BGM\161.mp3|85d6bdb3b47a6ccdee30b3f748835d889e28a476||pack-02|59159000|1828864||
+0|BGM\162.mp3|9e73eec31e5bd005dd06d732f70bede5c853932c||pack-01|56612278|2338816||
+0|BGM\163.mp3|bbea7bfcda5de37d2cf4ffacb76cb0be54da5ea7||pack-02|23671330|1902592||
+0|BGM\164.mp3|ac2eba151d90c630bdd61b7a29d057094b4e7cb7||pack-03|28732938|1652736||
+0|BGM\165.mp3|88c7c942d1a5717facac2b9357176b1d002a3cff||pack-01|25765672|2751739||
+0|BGM\166.mp3|72dce211b2ca8ea13ffe7b18dad768feb06c8b7d||pack-01|100936895|2043687||
+0|BGM\167.mp3|8e046d24c09bef343aee320fa3f9423738d50c6e||pack-02|49959887|1851461||
+0|BGM\168.mp3|21697ffb61dd7037ef572578fbe4ba979ae51747||pack-01|94629797|2151808||
+0|BGM\169.mp3|4646c1f27ce49729077fcbc9203f49dbf72f285f||pack-04|6095563|1105072||
+0|BGM\17.mp3|37da80bd70121af4694079ff6c01f12247df5e9e||pack-02|33153570|1880064||
+0|BGM\170.mp3|eed0543c9132a8576b3df2b02d800b0a5e353f7c||pack-02|103644429|1180240||
+0|BGM\171.mp3|e1a5b16c69d302c897124d7010e54a5124881085||pack-03|36946204|1631984||
+0|BGM\172.mp3|b67102a2e890d6b69ee641b6d418df87e6de1914||pack-03|27078690|1654248||
+0|BGM\18.mp3|c6ffbdc49a59e797c4ce3862e3ecd418140f1810||pack-01|36711459|2695168||
+0|BGM\19.mp3|9806fb1d094dce36369f171f10f0e07686995b94||pack-01|49381205|2430976||
+0|BGM\20.mp3|6ed5f925360ef470f50c4644c3af36e34f9a0b95||pack-03|72789066|1499136||
+0|BGM\21.mp3|d75cf401b17360f2b63ab69145181b90b7a989a7||pack-04|3734219|1214464||
+0|BGM\22.mp3|e39d69e9edc3b25b2c29bbbb3dd10a836a566da5||pack-03|66745018|1521664||
+0|BGM\23.mp3|74d285eda75f30cf43b7ecbebf8ef0fd693eca6a||pack-01|44504099|2445312||
+0|BGM\24.mp3|f405afaef499a030db8d58983ff35edb9b2512a1||pack-01|39406627|2650112||
+0|BGM\25.mp3|9776ebb44eae102d6a2a406e589851b32abac818||pack-01|102980582|1873920||
+0|BGM\26.mp3|27ffcba370efef04fa8eee738816d7cbda89a3b7||pack-03|55967590|1556480||
+0|BGM\27.mp3|1ef02e695c12ea84e492f2c7406564a45f34800a||pack-01|51812181|2404352||
+0|BGM\28.mp3|e06c1a90db967dcd3427694f97ec39f1d87dc5b7||pack-02|86204141|1761280||
+0|BGM\29.mp3|778a444f54c04a501cc2094fa4e59918bc8f3d27||pack-02|89724653|1755136||
+0|BGM\30.mp3|03356a6a1fa9271102f41e0a3dc8c6986183d94a||pack-01|90318757|2158592||
+0|BGM\31.mp3|bafd7ee5084aaebefddf6b678ff4aa12cb3c9fee||pack-02|4066021|2027520||
+0|BGM\33.mp3|6586801a1b1aea64f1c9555e476464a22d65f101||pack-03|1726652|1722496||
+0|BGM\34.mp3|03be4c4d8d3145ada2663aee9f6342cf90d9b527||pack-02|42521267|1865856||
+0|BGM\35.mp3|09ffaaf7b9b2e877c214aa9d1fefd3bed671e406||pack-01|68179342|2257024||
+0|BGM\36.mp3|13cd0785ecac0743ad8efe7472ffb57fb67b21dc||pack-03|99100769|1382528||
+0|BGM\37.mp3|48ead1f0d2792ca1f56597ed1cb7bc3edfd272c5||pack-03|60|1726592||
+0|BGM\38.mp3|73fdb66894f3cfa4a027acce3d88a0c955dfdf67||pack-02|91479789|1749120||
+0|BGM\39.mp3|f3477216fe82759941299040d1c6c93285d598f1||pack-01|34004003|2707456||
+0|BGM\40.mp3|3dc22c35d7dd793adff28529e804043b959e9a40||pack-02|68281335|1808384||
+0|BGM\41.mp3|9218004df61dd6ad969b6faceea2bcc34c82e8c0||pack-02|40653491|1867776||
+0|BGM\42.mp3|6f4bdf30f04a0d4c33cf90480b3057fcd21fbd22||pack-01|79387366|2203648||
+0|BGM\43.mp3|d03d9f0a40507f200908b811fddc9da2a2293f9b||pack-03|13684665|1685504||
+0|BGM\44.mp3|6b92947074ecfd119ffffa8ec1126a7b1b85f18f||pack-03|51283579|1570816||
+0|BGM\45.mp3|064bc8d37221329d323fae36ac4b58516da13749||pack-03|6891985|1706112||
+0|BGM\46.mp3|6a8dcdc2045f45fd9ad573b2b62def1b0632958d||pack-03|49710587|1572992||
+0|BGM\47.mp3|a516671a505e15e8f67005572a1f4dff74316398||pack-03|11994937|1689728||
+0|BGM\48.mp3|74fcd8a10d27d6effc75038cea75bce9c40b7589||pack-02|21762466|1908864||
+0|BGM\49.mp3|23463227f7ea040a4456a51c0d5f49a50feb9173||pack-02|75508677|1802368||
+0|BGM\50.mp3|9d3b656f83d90c65ec3a4da8d77c9116ea33ed0b||pack-03|23754658|1663104||
+0|BGM\51.mp3|454fef015ef31804913860ad508820bb77f41b6f||pack-03|41789567|1595392||
+0|BGM\52.mp3|bb8b7abfff7171b9cdf2be3527072f02c9c391c3||pack-04|1270995|1245184||
+0|BGM\53.mp3|3ea1a8487c6ddaa0ea6e0c26bb528df5b5efbd5b||pack-03|52854395|1556608||
+0|BGM\54.mp3|2eca45f97a3549ed27793c1938036462357bb2da||pack-03|57524070|1552512||
+0|BGM\55.mp3|c3f3c5358497b64299ce99c0ae380a0b90da99f9||pack-03|93433825|1448064||
+0|BGM\56.mp3|b69d759ceda95f711470fb253d5f898a08b440ef||pack-03|87603579|1464448||
+0|BGM\57.mp3|f96acde94e7e9ed16b33e15d9b438d8169000965||pack-03|75785290|1493120||
+0|BGM\58.mp3|4b07357901e353845a804738f9a3eb20bca6a85c||pack-03|68266682|1517568||
+0|BGM\59.mp3|b4214f3714af844078738e7018d90f77b482e82e||pack-01|28517411|2746368||
+0|BGM\60.mp3|7b12976b0a938abac1bd7e0e81acb9a0d462e8f0||pack-03|96305249|1411072||
+0|BGM\61.mp3|9f4fc3c1764e4b038ec0be99e664cc7eef340b37||pack-03|22087586|1667072||
+0|BGM\62.mp3|23c8529d6606cb7ff5907749cc44d09f1ad5c9e7||pack-02|93228909|1746944||
+0|BGM\63.mp3|3b323b1add08637d16900d9cbad473137b1b02a6||pack-01|98870463|2066432||
+0|BGM\64.mp3|d8b442bf50aeebfaed156bfca0c1c30e72117b51||pack-02|84438765|1765376||
+0|BGM\65.mp3|c8311ea2679b6641d80ae25c464e48e55d46469d||pack-01|92477349|2152448||
+0|BGM\66.mp3|f89273ce76f0746ea71c7faf6d3d6c9ecf5c7796||pack-02|8096485|1982464||
+0|BGM\67.mp3|2b684378f2222eeb3c7790693408a6c427da6255||pack-03|25417762|1660928||
+0|BGM\68.mp3|f47b30a6fed5a7cfe2c886c4850c91bec1770d7a||pack-03|100483297|1363968||
+0|BGM\69.mp3|e21e62963aeb0c2bbf9b330aa5ad71e2dc6f85d2||pack-02|10078949|1978368||
+0|BGM\70.mp3|cabf32f6966e340225a6a32438f9164d873874e0||pack-03|30385674|1644544||
+0|BGM\71.mp3|5b41bed30aa9845806da3a60588285b20842da90||pack-03|74288202|1497088||
+0|BGM\72.mp3|4805bbf79c8f65adf816334285c4b0862fbb42b5||pack-03|18738488|1679978||
+0|BGM\73.mp3|1a6631fd035de0bf1053efed423fdca552bfd491||pack-03|77278410|1486848||
+0|BGM\74.mp3|cc0b9bd6b78e7c37e82aa102344c0104c1074c11||pack-03|40185855|1603712||
+0|BGM\75.mp3|0c20ce5c1c6c68353b32fcf7c920b9b5d04618ee||pack-02|31267362|1886208||
+0|BGM\76.mp3|08df514a2297cfdccbb506e28739c7ee06011418||pack-02|29372962|1894400||
+0|BGM\77.mp3|34670a4c165cdb0c51e044d4a656acf1064d5342||pack-02|87965421|1759232||
+0|BGM\78.mp3|99272d74d3e5796052712d691ee9b7a244c73d7d||pack-03|63687725|1530799||
+0|BGM\79.mp3|95d9c32b2fc4975e6030645eb49ab96279d1a4f0||pack-02|79105915|1787530||
+0|BGM\80.mp3|08745b41ba3064131edc2296553db3a9a8388a0b||pack-03|91982020|1451805||
+0|BGM\81.mp3|744dd9e6d971b2d0c67cccd66e516668665ed99b||pack-02|15994289|1940776||
+0|BGM\82.mp3|e824556ef99e16c001148dd03602fd96aa4dd4bc||pack-03|32030218|1642983||
+0|BGM\83.mp3|0607fc0b5e2e6752232664ca1baf8d7781d53f15||pack-03|60622198|1534644||
+0|BGM\84.mp3|a32fed860b64d8d953b01f0731c2ce07d47b56c5||pack-03|33673201|1636522||
+0|BGM\85.mp3|9da08faa7338a61fe32bea33e6cb3432b25c6ae2||pack-01|77168732|2218634||
+0|BGM\86.mp3|dca9e781ff9e079a18b9eb987dcc04e4e626b6e1||pack-01|46949411|2431794||
+0|BGM\87.mp3|1011e68b76e96977192d591da653b56ada29c923||pack-01|81591014|2187288||
+0|BGM\88.mp3|2dd61d12288d7f6e05b6e80c4195801472e05d06||pack-01|54216533|2395745||
+0|BGM\89.mp3|5ff18c07c8d262670d0ee2b3663687c4fe3738dc||pack-02|57328456|1830544||
+0|BGM\90.mp3|72712aaa72682fb3dcd0f074040ae418ca847fb7||pack-03|5171560|1720425||
+0|BGM\91.mp3|a6a05260fa737f2f13ff5513c12f3ac4987049d0||pack-02|55|2036398||
+0|BGM\92.mp3|788491eef29647cc987a327ee92c6f26572f4ba3||pack-02|73702993|1805684||
+0|BGM\93.mp3|56cb27c5358a7f65e9f935ef3b8749c42ba69fd5||pack-03|38578188|1607667||
+0|BGM\94.mp3|79f69423b82399bb6ce0c0a9a374da7a854796ae||pack-03|17055673|1682815||
+0|BGM\95.mp3|eff05bf543159da100a81e45586febdbf5c60eac||pack-03|101847265|1297256||
+0|BGM\96.mp3|7ad960ba6ed1d6c4e9dda8a56199a4ad4bea2d16||pack-02|44387123|1859296||
+0|BGM\97.mp3|41074549a10104ed2a424d9c87bde241d99246c1||pack-03|35309723|1636481||
+0|BGM\98.mp3|5416f28160cf0b976234768ad1861a19809c21e6||pack-04|63|1270932||
+0|BGM\99.mp3|8b65106dc4b5951fd8ef9707affed0f9b3691302||pack-03|90528251|1453769||
+1|BGM\997.mp3|2bc0e8bdf0d054621fda2831f312f9a9b53636a3||pack-04|13293805|726|721588|
+1|Mp3dec.asi|a317357e6c3869d838aaf4bfa7d4b59e22f0adfb||pack-04|12826804|46374|125952|
+1|Mss32.dll|ceaab7f1e0fc1cf2a8257caa7036dca2ee79da92||pack-04|12016318|127318|346624|
+1|Mssfast.m3d|afa9b94f30e82e37e490888335b18ac2fda3a9de||pack-04|12977442|27644|62976|
+1|Ragexe.exe|826c7a786670a340395633316c30142919638c5f||pack-01|85963518|2180263|8655384|
+1|Ragnarok.exe|72577cc7ea72118f1eb65ad53c7aeca0f976277d||pack-04|11722301|165214|458768|
+1|Setup.exe|b9d288b203bb7baa355c0ce48a2e1bdbcf444d9b||pack-04|11519224|203077|1623984|
+1|System\LuaFiles514\MsgString.lub|8b8d49fa3106216827cef1e6a01c0b77849fa99d||pack-04|13220430|1188|2613|
+1|System\LuaFiles514\OptionInfo.lub|a63301d1d0f3fcdd7cdc3da92c751c75191f2824||pack-04|13290120|741|1535|
+1|System\achievement_list.lub|e2e919e71706f5affce3527844cab83a61cb2d36||pack-04|13022334|16788|141552|
+1|System\checkattendance.lub|c94ebf4eb30b40fe48271103a231b6bf4096a9f3||pack-04|13280597|821|2092|
+1|System\iteminfo.lub|73aa26e3914d81626823c8ba3824496bf3aa7a4f||pack-04|10014587|757117|4502420|
+1|System\monster_size_effect.lub|7a8cf8ad558687eee453efb3dd43bed29c7320a2||pack-04|13065272|10920|90510|
+1|System\monster_size_effect_new.lub|1bec3feac5982b7cb6445a281177d518857a6285||pack-03|104842670|11121|96274|
+1|System\msgstring.lub|e2228cac2183322259593738ced111507362cb7b||pack-04|13216857|1193|2619|
+1|System\optioninfo.lub|5451ef789d658e5e6269e6216400147105461b67||pack-04|13295252|708|1395|
+1|System\petevolutioncln.lub|598b241a9380a4381f6ddcf9b130f5ec64527bb9||pack-04|13180177|1370|8198|
+1|System\towninfo.lub|1e7f119849ade04057e2892bfd4c2e43a92863ae||pack-02|104853507|3718|15129|
+1|binkw32.dll|9ab7dc066110122de73ade73fbde67545f8a0cd2||pack-04|12384614|115658|358963|
+1|concrt140.dll|0e2433c8771ac420b5684c79e96eb7e206350757||pack-04|12500272|105564|249600|
+1|cps.dll|7309cfe429fa4d8090b922c24b1663f8c09c38c6||pack-04|12949005|28437|73728|
+1|data.grf|3d3d6c5ded5c96be5118d2a925e2522b0c06ced7||pack-05|0|2204104974|2574676592|
+1|event.grf|ddc81f5a19efaad7fb9a4dc4658374b325803c34||pack-01|0|4563455|5101435|
+1|granny2.dll|aa7fed4523cb235dbba92408e10a51dc0d26866a||pack-04|12605836|92603|230455|
+1|ijl15.dll|4a6f2a8cb383192c80ee0b2c1deee3c795a0986a||pack-04|12268105|116509|372736|
+1|licence.txt|7c1f6c5edc55cd59275c76fa796f61f37b51707f||pack-04|13054183|11089|33711|
+1|mfc110.dll|eb740e65d5b5ff19bc72a0b1654ceda0872746b8||pack-02|94975853|1739114|4421192|
+1|mfc140.dll|b5f037668d7d6e7fb3fec27b6c1fb8c7c78fc7c2||pack-02|70089719|1806938|4756736|
+1|mfcm140.dll|d33486ba45feaf4a2743b999be3732be7a9f35ef||pack-04|12914232|34773|92416|
+1|msvcp110.dll|557b67e372e85eb39989cb53cffd3ef1adabb9fe||pack-04|11887515|128803|535008|
+1|msvcp140.dll|a78232c352ed06cedd7ca5cd5cb60e61ef8d86fb||pack-04|12143636|124469|449280|
+1|msvcp140_1.dll|ab7a1a33574364d8bfbeace46bda3c8192faf379||pack-04|13039122|15061|28440|
+1|msvcp140_2.dll|348b4c24daeee22c28be7083e152d04fa9689005||pack-03|104777917|64753|172824|
+1|msvcr110.dll|52693d4b5e0b55a929099b680348c3932f2c3c62||pack-03|104426569|351348|875472|
+0|patch_data.gpf|4e65631a8352fc9ffa520d23b5d2cf373665268a||pack-04|12778770|48034||
+1|pcmac.dll|b48eb3abf54454094f163272e71014b8db1cae48||pack-02|104824669|28838|73728|
+1|skin\Scribbling Kid\basic_interface\arw_down.bmp|1649f543ca821a61739b46d162e509bd5114a581||pack-04|13363208|122|216|
+1|skin\Scribbling Kid\basic_interface\arw_left.bmp|2c70e2f49f28767636c9ff65d2ba2c96d87f5eae||pack-04|13364241|111|216|
+1|skin\Scribbling Kid\basic_interface\arw_right.bmp|18ed4d22445e3c14d45038cfaaef4b11dfcab17d||pack-04|13366182|104|216|
+1|skin\Scribbling Kid\basic_interface\arw_right_on.bmp|2bf89661a9b440ad5ed59dbc571987cf0584d8d0||pack-04|13365229|108|452|
+1|skin\Scribbling Kid\basic_interface\arw_up.bmp|8d92f3073b3bfd5b05901101018d039f4dcff5d2||pack-04|13364130|111|216|
+1|skin\Scribbling Kid\basic_interface\basewin_bg.bmp|f57b2d06ffa9cccf5e43c1f748ed9b5802738ec0||pack-04|13131727|2356|34452|
+1|skin\Scribbling Kid\basic_interface\basewin_mini.bmp|9549ad582d9eaaea9038b397328d3b0e104441af||pack-04|13356497|218|9656|
+1|skin\Scribbling Kid\basic_interface\btn_cartoff.bmp|d580f64e7f3a8ec3468f86877ae3bfd43afe4b02||pack-04|13240877|1086|1956|
+1|skin\Scribbling Kid\basic_interface\btn_comm_dis.bmp|7b1a9617a9a7d109d84c8886f1ede47e41d7397f||pack-04|13232033|1123|1492|
+1|skin\Scribbling Kid\basic_interface\btn_comm_off.bmp|f0151486ef94e6fb18e2d48e73d61136f70304cc||pack-04|13243011|1046|1468|
+1|skin\Scribbling Kid\basic_interface\btn_comm_on.bmp|8226d77dc03cdf6747abc93305362b3390230620||pack-04|13278952|823|1292|
+1|skin\Scribbling Kid\basic_interface\btn_equip_dis.bmp|83c1cf27d57b44f77cc0af8c7aba808218dcca23||pack-04|13226337|1151|1604|
+1|skin\Scribbling Kid\basic_interface\btn_equip_off.bmp|eddc7bb6fa17b8d9f9b5a77dd7aad6d832e14118||pack-04|13259134|971|1448|
+1|skin\Scribbling Kid\basic_interface\btn_equip_on.bmp|f46761592b530f3c367f30dac77aa63d8c59a91e||pack-04|13252271|990|1468|
+1|skin\Scribbling Kid\basic_interface\btn_friend_dis.bmp|efbcfba76b5558d458d48b1bbdbb8a890d4bc95e||pack-04|13221618|1185|1520|
+1|skin\Scribbling Kid\basic_interface\btn_friend_off.bmp|122e42c70d4b63b2b06eb18a34d5282603da0366||pack-04|13251281|990|1404|
+1|skin\Scribbling Kid\basic_interface\btn_friend_on.bmp|2ced19fd89897c7bc06775f725174a770b35c6ed||pack-04|13269491|902|1324|
+1|skin\Scribbling Kid\basic_interface\btn_items_dis.bmp|3958beaaeb0313ff55a580545cb067538b3970ab||pack-04|13256214|978|1404|
+1|skin\Scribbling Kid\basic_interface\btn_items_off.bmp|0e235c512332dce9d271d71520899b8b53eaae21||pack-04|13274797|838|1304|
+1|skin\Scribbling Kid\basic_interface\btn_items_on.bmp|ee34dcc592a494ae6aafad601bcfe738fcb35831||pack-04|13276469|831|1284|
+1|skin\Scribbling Kid\basic_interface\btn_map_dis.bmp|0e90b41e61992dec034c17e319fb9952097cdb31||pack-04|13235392|1108|1600|
+1|skin\Scribbling Kid\basic_interface\btn_map_off.bmp|707184571630f3b821689ee41cd434882a63ba21||pack-04|13258163|971|1460|
+1|skin\Scribbling Kid\basic_interface\btn_map_on.bmp|211c813c87e538cba7b0f11e4288113020ee1d11||pack-04|13282238|818|1296|
+1|skin\Scribbling Kid\basic_interface\btn_option_dis.bmp|add0882d7c307ea3771abd33fc3ddf6b09fad238||pack-04|13238700|1089|1552|
+1|skin\Scribbling Kid\basic_interface\btn_option_off.bmp|1270424f0a42bfd83fc2bebb3233e16619e806fe||pack-04|13279775|822|1316|
+1|skin\Scribbling Kid\basic_interface\btn_option_on.bmp|828cdcc12fea2633ffc21dee1ad5fd6e4add91fa||pack-04|13271287|889|1320|
+1|skin\Scribbling Kid\basic_interface\btn_skill_dis.bmp|088908b000315429f3bca0aaf7b6002bb1a2416b||pack-04|13234278|1114|1548|
+1|skin\Scribbling Kid\basic_interface\btn_skill_off.bmp|6c6906ed4f52096e137153a6dc7c80510bf25ac6||pack-04|13254249|984|1440|
+1|skin\Scribbling Kid\basic_interface\btn_skill_on.bmp|103ff6b0b6abb38cfef3439bc6d76905c41c8731||pack-04|13270393|894|1340|
+1|skin\Scribbling Kid\basic_interface\btn_status_dis.bmp|7d9cdb3b5f2de4fa483502223c6ee68e68c72f53||pack-04|13241963|1048|1472|
+1|skin\Scribbling Kid\basic_interface\btn_status_off.bmp|ac056ee4edcfecbfe8c5d33a005a66fe3997e761||pack-04|13273932|865|1352|
+1|skin\Scribbling Kid\basic_interface\btn_status_on.bmp|cdeb4ce8e3449fa2d6909e075493b7693e55b742||pack-04|13264885|949|1376|
+1|skin\Scribbling Kid\basic_interface\btnbar_left.bmp|014a3000ec0167dafcec3b11bb07ee26ec642898||pack-04|13368383|89|588|
+1|skin\Scribbling Kid\basic_interface\btnbar_left2.bmp|029df68b3c6394f5762706a3d1231c7c3066c82e||pack-04|13366794|100|784|
+1|skin\Scribbling Kid\basic_interface\btnbar_mid.bmp|64300936fc8ce59c3e4d6a9e36d810d12895f3fe||pack-04|13369505|84|584|
+1|skin\Scribbling Kid\basic_interface\btnbar_mid2.bmp|469dc53fcc2f4d6571feb380a3c9c3b851424954||pack-04|13369082|86|1912|
+1|skin\Scribbling Kid\basic_interface\btnbar_right.bmp|6da7321bf1f9be03eb0aea55942e7202debf15a5||pack-04|13368648|88|588|
+1|skin\Scribbling Kid\basic_interface\btnbar_right2.bmp|c4adbebe7971ebff817e1c6180191fa9e3ce5044||pack-04|13366894|99|784|
+1|skin\Scribbling Kid\basic_interface\chatwin0_bg.bmp|e9f49ef8d07edff56f63181cd2137c9f92e370ec||pack-04|13086847|4220|29916|
+1|skin\Scribbling Kid\basic_interface\chatwin1_left.bmp|33c86d2d2a436f0e141fa2dc45cc7189920d1ac8||pack-04|13370403|81|1756|
+1|skin\Scribbling Kid\basic_interface\chatwin1_line.bmp|fecef159170c2a4905ec70b51d3f40471a3be29e||pack-04|13371409|75|416|
+1|skin\Scribbling Kid\basic_interface\chatwin1_mid.bmp|1fe42820da52e26c289e2778ff871099409c3a90||pack-04|13371852|73|1752|
+1|skin\Scribbling Kid\basic_interface\chatwin1_right.bmp|3aca27a4d1eaa535ec74f17fc2b886ac5d7ef04a||pack-04|13370322|81|1756|
+1|skin\Scribbling Kid\basic_interface\collection_bg.bmp|60dfc35e4de4df17211cfd7db8a65fedbfcefc60||pack-04|13126750|2615|34608|
+1|skin\Scribbling Kid\basic_interface\cutline_0.bmp|de378334c8ee999a85620237901bd952575561af||pack-03|0|60|136|
+1|skin\Scribbling Kid\basic_interface\dialog_bg.bmp|559dbc49c9ac1bbcac103145b8849e0859a06272||pack-04|13352412|303|43256|
+1|skin\Scribbling Kid\basic_interface\dialog_btn0.bmp|b782fc487f6cb5c0e4afbd951610179bfdf3ad2a||pack-04|13363086|122|244|
+1|skin\Scribbling Kid\basic_interface\dialog_btn1.bmp|1d92b1f12554d32f165121b0d788f1ab519dfe96||pack-04|13362964|122|244|
+1|skin\Scribbling Kid\basic_interface\dialog_btn2.bmp|9bc82c0ba42a3531668ca731058a084b5061402d||pack-04|13362338|128|248|
+1|skin\Scribbling Kid\basic_interface\dialog_mid.bmp|756c1e21f7c241ed63bd65ae29ee7e945f08dae3||pack-04|13368293|90|208|
+1|skin\Scribbling Kid\basic_interface\dialog_resize.bmp|3be6090fd0abb3de79d550df89d415b6556cd0ea||pack-04|13372346|67|268|
+1|skin\Scribbling Kid\basic_interface\equipwin_bg.bmp|0514d1eff04efecee576e13412565cb0788703cf||pack-04|13095191|3189|37040|
+1|skin\Scribbling Kid\basic_interface\exchange_bg.bmp|95bd8f381043a1ea8a8109de5c9417457eb8a68c||pack-04|13091067|4124|29916|
+1|skin\Scribbling Kid\basic_interface\grp_leader.bmp|81d2f2aa6b8c5223992bb397fa817a5ecc9ece63||pack-04|13351183|316|472|
+1|skin\Scribbling Kid\basic_interface\grp_offline.bmp|40a8bd4484b4b52b82f06730f997fd642e8274ee||pack-04|13363449|118|324|
+1|skin\Scribbling Kid\basic_interface\grp_online.bmp|7a08444133ac1f7290dec506950a522809370bef||pack-04|13359801|158|352|
+1|skin\Scribbling Kid\basic_interface\grp_stun.bmp|1a3ffd12b5ed4d1d0868e9cab9b60463adca1f81||pack-04|13355799|248|440|
+1|skin\Scribbling Kid\basic_interface\gze_bg.bmp|84e0078d0ee8494487d9b98ab02bbbc935a00387||pack-04|13360584|153|868|
+1|skin\Scribbling Kid\basic_interface\gzeblue_left.bmp|cff7eea9ba8eac2a36c55792cd81368cfa498b27||pack-04|13369421|84|116|
+1|skin\Scribbling Kid\basic_interface\gzeblue_mid.bmp|e13614222d7dfc0e505c7ba2d8127cd808ec157d||pack-04|13371632|74|112|
+1|skin\Scribbling Kid\basic_interface\gzeblue_right.bmp|87f9c9feddbc9efd70ebdbcbb7cc5e267c74485e||pack-04|13369337|84|116|
+1|skin\Scribbling Kid\basic_interface\gzered_left.bmp|9bfb1ebe9313e2338e9267d9bbbc8e56aced14ad||pack-04|13370241|81|116|
+1|skin\Scribbling Kid\basic_interface\gzered_mid.bmp|b10c1d3f5d67233185cbe54b4405ddcdd7140748||pack-04|13371558|74|112|
+1|skin\Scribbling Kid\basic_interface\gzered_right.bmp|68c7c6ab724153d334e262d5d7a1b7d1d3a1036f||pack-04|13370160|81|116|
+1|skin\Scribbling Kid\basic_interface\ico_confusion.bmp|2e11008a1de5e79abcab9dcca22f65471a3b11f7||pack-04|13364019|111|232|
+1|skin\Scribbling Kid\basic_interface\ico_curse.bmp|eba89bd0e2c4ab8e47b5d1a2a5f484c61c13d9b0||pack-04|13361041|152|244|
+1|skin\Scribbling Kid\basic_interface\ico_frozen.bmp|778ece8bc42d0932a473a5f28310d32ec486fa73||pack-04|13359643|158|248|
+1|skin\Scribbling Kid\basic_interface\ico_poison.bmp|64b40d329a1b90148a6509c719c61d26d1f108ec||pack-04|13363682|115|236|
+1|skin\Scribbling Kid\basic_interface\ico_silence.bmp|3ad75ddc9b7231ddd3780295cb87574cc45a2e46||pack-04|13366693|101|228|
+1|skin\Scribbling Kid\basic_interface\ico_stone.bmp|9a9d43a0e753b2e5891ad78a24a0539cbbe524ae||pack-04|13362841|123|232|
+1|skin\Scribbling Kid\basic_interface\item_invert.bmp|ebc014613ca0516345d512c717a84509a6baed8d||pack-04|13354468|271|628|
+1|skin\Scribbling Kid\basic_interface\itemwin_left.bmp|a53d41c48522b45b6525b33c9a21fa576c652342||pack-04|13372207|70|236|
+1|skin\Scribbling Kid\basic_interface\itemwin_mid.bmp|417f36729468f9f9dfdbf3dfc2ccc05775a63934||pack-04|13363330|119|1104|
+1|skin\Scribbling Kid\basic_interface\itemwin_right.bmp|d0c3c569b0cc08029f2864a7721043842e245100||pack-04|13372137|70|236|
+1|skin\Scribbling Kid\basic_interface\lv_up_off.bmp|94a74be97f69adb0c7b01067fb59c67b35143423||pack-04|13175609|1560|2968|
+1|skin\Scribbling Kid\basic_interface\lv_up_on.bmp|3d97e10600aaa801677b35b6891c28e3c24effb2||pack-04|13177169|1554|2968|
+1|skin\Scribbling Kid\basic_interface\mesbtn_01.bmp|09f87b678af39318ab2b3367b3862fe6b33a2fe7||pack-04|13314465|616|1052|
+1|skin\Scribbling Kid\basic_interface\mesbtn_01_a.bmp|34eba9a79d4e7c655d198a3715918c9ca96d479a||pack-04|13306144|658|1064|
+1|skin\Scribbling Kid\basic_interface\mesbtn_01_b.bmp|b4077a891bfa67410788ec4f17357972e871f870||pack-04|13304164|661|1064|
+1|skin\Scribbling Kid\basic_interface\mesbtn_02.bmp|9513129b7f89e2ccc13c273fbedce7248fa87672||pack-04|13336400|506|900|
+1|skin\Scribbling Kid\basic_interface\mesbtn_02_a.bmp|00e1e00a65da225770a73f58bfe4dd1676be66a3||pack-04|13336906|502|904|
+1|skin\Scribbling Kid\basic_interface\mesbtn_02_b.bmp|eb997519d77f897db3bd132451e2a783a180583a||pack-04|13332760|534|924|
+1|skin\Scribbling Kid\basic_interface\mesbtn_03.bmp|5ac193f04e27620228c4365365dbb5c72c86e93c||pack-04|13355008|268|752|
+1|skin\Scribbling Kid\basic_interface\mesbtn_03_a.bmp|efe3b9343180bdd89686d3865d5b58791324d725||pack-04|13353898|288|760|
+1|skin\Scribbling Kid\basic_interface\mesbtn_03_b.bmp|f117e8c73ff01b0fd9309a205b93db1a64a7a95d||pack-04|13353316|293|764|
+1|skin\Scribbling Kid\basic_interface\mesbtn_04.bmp|7151ec5634a7a1012d751953e09cd328c3f5b559||pack-04|13339795|448|892|
+1|skin\Scribbling Kid\basic_interface\mesbtn_04_a.bmp|e3a15de1a406247bf369380a252e2db5b188d44c||pack-04|13338391|483|916|
+1|skin\Scribbling Kid\basic_interface\mesbtn_04_b.bmp|8c72c85ff72e6b5eaede4495cb5197b407517659||pack-03|104857119|478|916|
+1|skin\Scribbling Kid\basic_interface\mesbtn_05.bmp|c6c5b434a5e95923082165037d46adcf93ee2bbc||pack-04|13343211|410|860|
+1|skin\Scribbling Kid\basic_interface\mesbtn_05_a.bmp|d5613afdec363d29d9721333f83887d9e59f9aac||pack-04|13340243|435|872|
+1|skin\Scribbling Kid\basic_interface\mesbtn_05_b.bmp|5df4850eaab19f6d35674b88c8550039550f1331||pack-04|13341538|427|880|
+1|skin\Scribbling Kid\basic_interface\mesbtn_left.bmp|5e3bb4326cb879577640651157428947642352ee||pack-04|13368022|91|240|
+1|skin\Scribbling Kid\basic_interface\mesbtn_mid.bmp|787f67adc627c7e3a382781f053c69bfc8eb381c||pack-04|13371334|75|236|
+1|skin\Scribbling Kid\basic_interface\mesbtn_right.bmp|ceb1a6718a7baf9e15683fce9f9c36753e51a2c3||pack-04|13367931|91|240|
+1|skin\Scribbling Kid\basic_interface\optwin0_bg.bmp|a9cd5487ce4f99bf06296d4d9c23eb22bd994b58||pack-04|13136429|2319|29916|
+1|skin\Scribbling Kid\basic_interface\optwin1_bg.bmp|a12457401ee88f03ce0e641b4a356d89639416d8||pack-04|13167454|1660|29916|
+1|skin\Scribbling Kid\basic_interface\shortitem_bg.bmp|7c07a8fddb8346b516d287f058e26fb9dd114c18||pack-04|13350217|325|28616|
+1|skin\Scribbling Kid\basic_interface\shortitem_btn.bmp|db85a9c8185917121e5ea31a47b16e006c48f3bb||pack-04|13371484|74|148|
+1|skin\Scribbling Kid\basic_interface\skill_up_a.bmp|864761280e5fb437f53a292d629cf37bb7fd1943||pack-04|13296666|697|1100|
+1|skin\Scribbling Kid\basic_interface\skill_up_b.bmp|91065c29faa1e5975b7c87a12d683c430e24c280||pack-04|13261071|962|1348|
+1|skin\Scribbling Kid\basic_interface\skill_up_c.bmp|ba5eda6eb3947fcfb781cc6eb957bc9cf3b994cc||pack-04|13263936|949|1364|
+1|skin\Scribbling Kid\basic_interface\skillcollection.bmp|5d8dfc56a32bb3df0063b6896c676eba7627782b||pack-01|104854502|3020|34676|
+1|skin\Scribbling Kid\basic_interface\statwin0_bg.bmp|ea0c742eb1e6cfe05b0b8bbf7a1d6bcb7e514886||pack-04|13082187|4660|29916|
+1|skin\Scribbling Kid\basic_interface\statwin1_bg.bmp|8fcabf6d07f82f6172dfb46208a0d9b9f2493b69||pack-04|13076192|5995|29916|
+1|skin\Scribbling Kid\basic_interface\sys_base_off.bmp|c59e8e3f02a266ff0d6f25b1538bbeb9dd7b2623||pack-04|13367657|92|212|
+1|skin\Scribbling Kid\basic_interface\sys_base_on.bmp|e3513a30419510a195b2883256366bfe64348193||pack-04|13367564|93|212|
+1|skin\Scribbling Kid\basic_interface\sys_close_off.bmp|daec26e9565b281bbc081415496bb0d6a7917752||pack-04|13365869|105|212|
+1|skin\Scribbling Kid\basic_interface\sys_close_on.bmp|555bfdfbb86faf9cc665b082f2b6757884454977||pack-04|13365763|106|212|
+1|skin\Scribbling Kid\basic_interface\sys_mini_off.bmp|95db7c5a6a6768d944d90926c0c7f35ea68a0fcd||pack-04|13370878|78|212|
+1|skin\Scribbling Kid\basic_interface\sys_mini_on.bmp|35acb623a736b59871e653a3b5ac806e9430a0c6||pack-04|13370800|78|212|
+1|skin\Scribbling Kid\basic_interface\sysboxs_ld.bmp|17351ea9a04d4812299e2f6088728a153923d6cd||pack-04|13369754|82|140|
+1|skin\Scribbling Kid\basic_interface\sysboxs_lu.bmp|0fa2509eb4de93eb540c00fba8ea60b3628edea3||pack-04|13370564|80|140|
+1|skin\Scribbling Kid\basic_interface\sysboxs_rd.bmp|c0d48e7cf11881632a5c9e74860f5265a47c7294||pack-04|13370079|81|140|
+1|skin\Scribbling Kid\basic_interface\sysboxs_ru.bmp|ebbe925acc9bfacff1240db309d55f837683c280||pack-04|13369998|81|140|
+1|skin\Scribbling Kid\basic_interface\tab_itm_01.bmp|aac393fb99b1af7e56c39d127c3ae8041c536d40||pack-04|13163881|1793|2716|
+1|skin\Scribbling Kid\basic_interface\tab_itm_02.bmp|8dd47cfc9914b233129ad2de0c8533914060e21b||pack-04|13165674|1780|2716|
+1|skin\Scribbling Kid\basic_interface\tab_itm_03.bmp|4c49fc6451b9aca323cb278ddfe12ff84f6b16dd||pack-04|13162055|1826|2716|
+1|skin\Scribbling Kid\basic_interface\titlebar_fix.bmp|3b2eff9b5cb798e226eb8e43e7bb8ba043738fe4||pack-04|13358470|178|4888|
+1|skin\Scribbling Kid\basic_interface\titlebar_left.bmp|302d0b8dfd7ee1bee3329956b222de1938e5f9c4||pack-04|13361343|150|332|
+1|skin\Scribbling Kid\basic_interface\titlebar_mid.bmp|6a3153ae3fbc9458171d5b31693bda83fd65ee20||pack-04|13362065|138|328|
+1|skin\Scribbling Kid\basic_interface\titlebar_right.bmp|95b2663e981fb0c1f60206f8a4da3d3ee7992785||pack-04|13361493|147|332|
+1|skin\Scribbling Kid\basic_interface\txtbox_btn_a.bmp|812ec6427da9d5e8792caa6c0889eebcc9f409e2||pack-04|13360273|156|464|
+1|skin\Scribbling Kid\basic_interface\txtbox_btn_b.bmp|07ffa3b543d9974ca5faa8f739a8b334dba3a96b||pack-04|13360116|157|464|
+1|skin\Scribbling Kid\basic_interface\txtbox_btn_c.bmp|f75625da8eba248c98312ce0c7427c50344e5d93||pack-04|13359959|157|464|
+1|skin\Scribbling Kid\btn_back.bmp|305d03c8077b2df37bd4ffcb96fdb4c0e01545fc||pack-04|13323914|569|1232|
+1|skin\Scribbling Kid\btn_back_a.bmp|be06ff2afba38554e0fb466818486ed08fb344c7||pack-04|13268581|910|1536|
+1|skin\Scribbling Kid\btn_back_b.bmp|7f02bc2d237d7a316f84c617c7472fe2d9977427||pack-04|13253261|988|1668|
+1|skin\Scribbling Kid\btn_buy.bmp|0dc76e8f795cb63fe55326408249651dceb71b15||pack-04|13334870|513|1196|
+1|skin\Scribbling Kid\btn_buy_a.bmp|360b7cf3c049e1951fbe87147b8bd370250c7c5f||pack-04|13287035|781|1456|
+1|skin\Scribbling Kid\btn_buy_b.bmp|9c0a7f907603f5e605238056cb833bba156f896b||pack-04|13278129|823|1512|
+1|skin\Scribbling Kid\btn_cancel.bmp|5a704f7a4dfc979f92dbdf14d185aaf4439b1ad6||pack-04|13327869|554|1216|
+1|skin\Scribbling Kid\btn_cancel_a.bmp|92ea2a3247bee26d61ec892c662d974df04f17dd||pack-04|13277300|829|1468|
+1|skin\Scribbling Kid\btn_cancel_b.bmp|960058fd2b79af1b160dfa55dae9e9489fbf589d||pack-04|13265834|920|1628|
+1|skin\Scribbling Kid\btn_close.bmp|4dbfd55a2e9b3d7421b71f2f2f9e3632c285d97d||pack-04|13333294|531|1200|
+1|skin\Scribbling Kid\btn_close_a.bmp|d87764dd7a1dfd2a1f70d6e82d26aaba7ffadaa1||pack-04|13283873|797|1420|
+1|skin\Scribbling Kid\btn_close_b.bmp|1e8ac4e7d130c214254b4ddd06e8a6d6915b82ae||pack-04|13272176|879|1544|
+1|skin\Scribbling Kid\btn_edit.bmp|68ad9a886393aed7f1a817568beccb83885b55a7||pack-04|13318115|596|1248|
+1|skin\Scribbling Kid\btn_edit_a.bmp|74275556ef68155a8f9f8ec43da6f2a0ea6e4312||pack-04|13266754|916|1528|
+1|skin\Scribbling Kid\btn_edit_b.bmp|45d45491769ee9a41e93e3f63fe64a73dda90472||pack-04|13255233|981|1672|
+1|skin\Scribbling Kid\btn_exchange.bmp|abd3940f6323a99ac7d1aff8af66094ee456e661||pack-04|13315081|611|1252|
+1|skin\Scribbling Kid\btn_exchange_a.bmp|190077a5e661498e719cef32f8367f8d51deb033||pack-04|13257192|971|1560|
+1|skin\Scribbling Kid\btn_exchange_b.bmp|13089efca831aa22657380e523b97ed6b4874940||pack-04|13249262|1027|1692|
+1|skin\Scribbling Kid\btn_exchange_dis.bmp|7a44d9b783cd5f94df7dd10da08a834ab66772a9||pack-04|13331690|536|1172|
+1|skin\Scribbling Kid\btn_next.bmp|d11ed189f6d23acdb79ab9916a73a46f6ea91474||pack-04|13319305|590|1252|
+1|skin\Scribbling Kid\btn_next_a.bmp|8690b54aa0b6dd6d355e15d219365bc95c381682||pack-04|13267670|911|1540|
+1|skin\Scribbling Kid\btn_next_b.bmp|e15e909aef03a13d3c2b7808087de5bc0cfe60a7||pack-04|13260105|966|1632|
+1|skin\Scribbling Kid\btn_ok.bmp|41a4c5a7294f044c3d41550b705be0a81b86b16c||pack-04|13335383|511|1208|
+1|skin\Scribbling Kid\btn_ok_a.bmp|4d85b4ecc20306d0d4355cecb5b7a21a94746259||pack-04|13286252|783|1460|
+1|skin\Scribbling Kid\btn_ok_b.bmp|da585ab33d3553e828621debf0d59207c3cc1382||pack-04|13283056|817|1516|
+1|skin\Scribbling Kid\btn_ok_dis.bmp|c423c4ad2a40f26d93624f46eefb532d41dbb9df||pack-04|13338874|468|1164|
+1|skin\Scribbling Kid\btn_resize.bmp|f58d51171cde1e9416995cf5dffd6dd44327b9ae||pack-04|13367187|96|292|
+1|skin\Scribbling Kid\btn_sell.bmp|61d1d9c8bebdbeafdef8192086097f65c77f6bd4||pack-04|13337900|491|1172|
+1|skin\Scribbling Kid\btn_sell_a.bmp|b5b6dcbc8e05d5ba5e9dac6a595c38ff5065bebc||pack-04|13293076|729|1384|
+1|skin\Scribbling Kid\btn_sell_b.bmp|5518755e6d83cc7969a739a5ed417446ce45e394||pack-04|13288596|775|1488|
+1|skin\Scribbling Kid\btn_send.bmp|36c05a6ab9baa1e05d047548bd364abf1f66094e||pack-04|13318711|594|1252|
+1|skin\Scribbling Kid\btn_send_a.bmp|7756fbbf8dbc99980293bb8054336674c5201030||pack-04|13262033|952|1588|
+1|skin\Scribbling Kid\btn_send_b.bmp|0a1a2a5b2bf6d21fadd9d96e4a90ae7a502fa2e8||pack-04|13250289|992|1684|
+1|skin\Scribbling Kid\btn_use.bmp|cfb1c691bf7c7d77929431937719a68d5ecfde5f||pack-04|13334355|515|1208|
+1|skin\Scribbling Kid\btn_use_a.bmp|62870be486352a0983c1a9bd42675a8cd5e7530b||pack-04|13287816|780|1444|
+1|skin\Scribbling Kid\btn_use_b.bmp|b9b36f4969f3500143818eb7f931929cd99966b6||pack-04|13281418|820|1500|
+1|skin\Scribbling Kid\btn_view.bmp|6169e84413c886747d307b26d9645737044ac565||pack-04|13329521|547|1196|
+1|skin\Scribbling Kid\btn_view_a.bmp|21242836e41eec11fa508aef3451b23b6e5c147c||pack-04|13273055|877|1476|
+1|skin\Scribbling Kid\btn_view_b.bmp|c8db8757db1e7f421fe9973e90c6e94c64ae03a0||pack-04|13262985|951|1600|
+1|skin\Scribbling Kid\chat_close.bmp|e785a8f780b27fff58bc40ac38b97f6b63c70540||pack-04|13335894|506|908|
+1|skin\Scribbling Kid\chat_open.bmp|5d79d3eb2c3e9164b0b2ca13170313c5b606f899||pack-04|13344027|404|844|
+1|skin\Scribbling Kid\checkbox_0.bmp|c42aed34840a5f891a99bfd131ca19c4e532258f||pack-04|13369917|81|196|
+1|skin\Scribbling Kid\checkbox_1.bmp|01fceeb1ee7d4f800753a7b7188020b798c46068||pack-04|13356047|228|304|
+1|skin\Scribbling Kid\colorchip.bmp|beb6525e38acf58d2eb87561b2940d9ec682b0d3||pack-04|13362593|125|1132|
+1|skin\Scribbling Kid\esc_01a.bmp|81666bc9aa05573f7c6ad28dea7c0df6bf52ce81||pack-04|13121438|2678|5556|
+1|skin\Scribbling Kid\esc_01b.bmp|fe0b156ca733b6b13c75a10f23b5c40c45e99c12||pack-04|13110168|2836|5556|
+1|skin\Scribbling Kid\esc_01c.bmp|2070b6a09716fcef69272392821dcae5257822cf||pack-04|13118631|2807|5556|
+1|skin\Scribbling Kid\esc_02a.bmp|9a5dc94e747fb8f67620a9d9b62e3ae14416d155||pack-04|13124116|2634|5556|
+1|skin\Scribbling Kid\esc_02b.bmp|ffe7f221f29e6ab79c14ffef014b31f19cd534c6||pack-04|13113004|2814|5556|
+1|skin\Scribbling Kid\esc_02c.bmp|7181afa73f4677b29438a2d9ae2a5d89995c697a||pack-04|13115818|2813|5556|
+1|skin\Scribbling Kid\esc_03a.bmp|8d4cb759c178ab8c467c2b550b53cdaf61d3ba9d||pack-04|13215640|1217|5120|
+1|skin\Scribbling Kid\esc_03b.bmp|7905acd0cd9ac1a4b1685b0cc3a5dff51a1e43b1||pack-04|13158281|1890|5464|
+1|skin\Scribbling Kid\esc_03c.bmp|c114982301d3f9e876dcf5cd2c2044b94080a34c||pack-04|13156339|1942|5556|
+1|skin\Scribbling Kid\esc_04a.bmp|9a6d9c0b364568d83395f47bb1b979b439b417d3||pack-04|13248225|1037|5044|
+1|skin\Scribbling Kid\esc_04b.bmp|a916c8ee9dccf0b3c7cd95b5387e73f244a0c7e5||pack-04|13172396|1614|5472|
+1|skin\Scribbling Kid\esc_04c.bmp|705eb71f81e5511e2201b282e75e40b43a05f68a||pack-04|13170760|1636|5532|
+1|skin\Scribbling Kid\radiobtn_off.bmp|7b8b053c564ee1e4402826b25c6b6cfb7ec520b4||pack-04|13367090|97|228|
+1|skin\Scribbling Kid\radiobtn_on.bmp|0e07427d5a4a2589bb35017b656969599c07efbc||pack-04|13360889|152|260|
+1|skin\Scribbling Kid\scroll0bar_down.bmp|24a57e43be68da31ccdadf16a4f80a86194744c7||pack-04|13366389|102|156|
+1|skin\Scribbling Kid\scroll0bar_mid.bmp|845cc8b0f6bd0046d0045758f4710e773d3c5cfa||pack-04|13367840|91|152|
+1|skin\Scribbling Kid\scroll0bar_up.bmp|e98d4eabb061947f180055dfd7ad800f61060003||pack-04|13366078|104|156|
+1|skin\Scribbling Kid\scroll0down.bmp|1225ee1be2afa61088dcdc47889ac1aff77ca0d4||pack-04|13361783|143|304|
+1|skin\Scribbling Kid\scroll0mid.bmp|bd4f591dd660f55d804d8a7ff0665c2eb7b36b30||pack-04|13364792|110|292|
+1|skin\Scribbling Kid\scroll0up.bmp|6124ce0873f75acb9d663591d4571539355d840e||pack-04|13359485|158|308|
+1|skin\Scribbling Kid\scroll1bar_left.bmp|cbc6e2cb5093137340695d64213d018c3fda4fbe||pack-04|13365657|106|144|
+1|skin\Scribbling Kid\scroll1bar_mid.bmp|e1097f5d182d0f30b39abbd815b1932919044f89||pack-04|13368560|88|140|
+1|skin\Scribbling Kid\scroll1bar_right.bmp|bede5c38676d074121b136af0342027d635c0acc||pack-04|13366286|103|144|
+1|skin\Scribbling Kid\scroll1left.bmp|d34b228d067a1da8959427f240a802d8b70ea3b6||pack-04|13361193|150|308|
+1|skin\Scribbling Kid\scroll1mid.bmp|c344dfdcbde8bcba7ba27dcce5b497fd7ca2ce65||pack-04|13363908|111|292|
+1|skin\Scribbling Kid\scroll1right.bmp|204439c9aa1a0b8caba8d3567fa61467c1b76a39||pack-04|13361926|139|304|
+1|skin\Scribbling Kid\shop.bmp|3c631d9143394ddf4150ab42ad6d65ee1da38a34||pack-04|13302834|667|1052|
+1|skin\Scribbling Kid\sysbox_arr_l.bmp|a959df9b0737a075721d578da55d4a878b8b3ad5||pack-04|13365120|109|308|
+1|skin\Scribbling Kid\sysbox_arr_r.bmp|4f00044f5f95b1d99738bfe4bcf4e334841d3f3a||pack-04|13365551|106|308|
+1|skin\Scribbling Kid\sysbox_bg.bmp|406fe7020461f458a8f10bdb0a54585cb08e7eb3||pack-04|0|63|296|
+1|skin\Scribbling Kid\sysbox_ld.bmp|82ad53b590907274ae8e45589e51120101ad56a2||pack-04|13364682|110|308|
+1|skin\Scribbling Kid\sysbox_lm.bmp|a27aab1ad546964c1147761ef7f63d39ffc59e57||pack-04|13368996|86|312|
+1|skin\Scribbling Kid\sysbox_lu.bmp|88fbbc6f29496d906483571641693f6187cdc6c5||pack-04|13366592|101|308|
+1|skin\Scribbling Kid\sysbox_md.bmp|00eea6a1b49de14b7f1165294c47fc3134afbaf1||pack-04|13368472|88|308|
+1|skin\Scribbling Kid\sysbox_mu.bmp|0be39fec09ea599f1ebb24209bb63b0509a558a5||pack-04|13367471|93|312|
+1|skin\Scribbling Kid\sysbox_rd.bmp|dabf05fc6956972b3e9485cd2ccd19da1b15d550||pack-04|13364572|110|308|
+1|skin\Scribbling Kid\sysbox_rm.bmp|adecf8508dc7c8ca22a98ac553852b2b0e12279b||pack-04|13368203|90|312|
+1|skin\Scribbling Kid\sysbox_ru.bmp|8407589a8a9338e2cc8c3f9d19daee606e18b2d2||pack-04|13362466|127|308|
+1|skin\Scribbling Kid\win_msgbox.bmp|7f6126029ad73652d875c9a7cafa5b36ecc8ae5f||pack-04|13339342|453|33748|
+1|skin\default\basic_interface\arw_down.bmp|fc27348b7b91027bbae7d520e64b509dd18acb44||pack-04|13358287|183|300|
+1|skin\default\basic_interface\arw_left.bmp|b0e80b5be61a7c8f16eeb80f6a070b4dc2595c22||pack-04|13357529|191|296|
+1|skin\default\basic_interface\arw_right.bmp|ac1ece68d0bfc95a7e541b42b7e8f93b198da158||pack-04|13357910|189|296|
+1|skin\default\basic_interface\arw_right_on.bmp|5ac0f4308fcd47416db37e7774c16ecfd5bafd93||pack-04|13358992|171|296|
+1|skin\default\basic_interface\arw_up.bmp|6a2d41407738f238eed920df3a475c3166946ddc||pack-04|13357720|190|296|
+1|skin\default\basic_interface\basewin_bg.bmp|0886eb0ec87ee892e00b373f7f60f00daf5cf74a||pack-04|13178723|1454|34552|
+1|skin\default\basic_interface\basewin_mini.bmp|bf953eec2385714d3e7974bb3efeb26c2581196f||pack-04|13236500|1107|10364|
+1|skin\default\basic_interface\btn_cartoff.bmp|eeca0756cb1d43c77f50701ded44442251a3f29b||pack-04|13345585|383|1424|
+1|skin\default\basic_interface\btn_comm_dis.bmp|5a4415c1b7af3df57151041eef26362182dfee32||pack-04|13313229|619|1028|
+1|skin\default\basic_interface\btn_comm_off.bmp|763655f007e79ea91ea29d463c2e6925777c2175||pack-04|13313848|617|1028|
+1|skin\default\basic_interface\btn_comm_on.bmp|90cdd4a3a81e533708f281e62e5ff98647f28d81||pack-04|13225165|1172|1676|
+1|skin\default\basic_interface\btn_equip_dis.bmp|ec0342ce533f5c53ae87df5aae8e1eb00b354569||pack-04|13327308|561|984|
+1|skin\default\basic_interface\btn_equip_off.bmp|3b6ae0148833165ad8682cc51bd65ebae96eacea||pack-04|13322203|572|988|
+1|skin\default\basic_interface\btn_equip_on.bmp|e41c8110d3d3ce1fc7316beb813828f8cec3b045||pack-04|13228632|1144|1640|
+1|skin\default\basic_interface\btn_friend_dis.bmp|a8e0961f21691c17921b135ad299fbea6297b771||pack-04|13325619|565|1004|
+1|skin\default\basic_interface\btn_friend_off.bmp|4aa43299e3eb23954322b6781c0b252da6df7531||pack-04|13319895|584|1008|
+1|skin\default\basic_interface\btn_friend_on.bmp|b82152bd91775d001d8fc79bb685e4cd2847dc02||pack-04|13227488|1144|1632|
+1|skin\default\basic_interface\btn_items_dis.bmp|68a78da8d4241863cb5305a948c4b06621e357d3||pack-04|13331151|539|976|
+1|skin\default\basic_interface\btn_items_off.bmp|6367de2f72ad56c102aae0c670c464930d2e5edd||pack-04|13328423|551|980|
+1|skin\default\basic_interface\btn_items_on.bmp|85f070e5082ee63ba7a5cca8eb53f17a7bbf5fb5||pack-04|13237607|1093|1588|
+1|skin\default\basic_interface\btn_map_dis.bmp|639cff83f6a74b5e195984cf0303ad042d070933||pack-04|13330068|544|992|
+1|skin\default\basic_interface\btn_map_off.bmp|52fe838b138f9903397d88863a21d5168401582c||pack-04|13325051|568|996|
+1|skin\default\basic_interface\btn_map_on.bmp|0542a1bab6f6a6f7c44e5a8e32e315dd0586305f||pack-04|13223985|1180|1684|
+1|skin\default\basic_interface\btn_option_dis.bmp|ae293f67e2f272620248ec8b81ef86230b6aafdc||pack-04|13326746|562|1004|
+1|skin\default\basic_interface\btn_option_off.bmp|7cac954eadc0d088b150d812e422c5076e83aede||pack-04|13322775|570|1008|
+1|skin\default\basic_interface\btn_option_on.bmp|f8fd9fb4ee6dfd330011c2b4628f3f9eaa5dc58a||pack-04|13229776|1132|1608|
+1|skin\default\basic_interface\btn_skill_dis.bmp|7d77173a35c33ced37512c437d8f75ee445aa186||pack-04|13323345|569|984|
+1|skin\default\basic_interface\btn_skill_off.bmp|38fee938f7a863d1d4a1b92b8119e18535de8260||pack-04|13320479|579|988|
+1|skin\default\basic_interface\btn_skill_on.bmp|4100fac8b558235d72531b8b3acbc2012484d6cc||pack-04|13222803|1182|1696|
+1|skin\default\basic_interface\btn_status_dis.bmp|b287838eb51057c91925f5a7a8ca1edcfc34701e||pack-04|13326184|562|1008|
+1|skin\default\basic_interface\btn_status_off.bmp|64b2bbbf146bd36145721f07a865007df609f012||pack-04|13324483|568|1012|
+1|skin\default\basic_interface\btn_status_on.bmp|e540032c71cf31626f5b72b457a5764246853e4a||pack-04|13230908|1125|1604|
+1|skin\default\basic_interface\btnbar_left.bmp|aff08443a5f6f99f002f7c8ae1e1012063b5b73e||pack-04|13365974|104|596|
+1|skin\default\basic_interface\btnbar_left2.bmp|da5fbc0a65ebb894bbaf7d2f8cdebbfe90213998||pack-04|13364462|110|792|
+1|skin\default\basic_interface\btnbar_mid.bmp|e51dd0969f184e49b9a27e2d962872205508b303||pack-04|13369253|84|584|
+1|skin\default\basic_interface\btnbar_mid2.bmp|94e14561da7f82aae2ad5fddb245213cf944543e||pack-04|13368823|87|776|
+1|skin\default\basic_interface\btnbar_right.bmp|b3405f8ed9243605e1bcb3afaaac3858391c0c93||pack-04|13365444|107|600|
+1|skin\default\basic_interface\btnbar_right2.bmp|33a08e42b3b25d6a36f17c243da70511ec589fbd||pack-04|13365011|109|792|
+1|skin\default\basic_interface\chatwin0_bg.bmp|e0675c7f91860cc1ceeff5db6d29bac5c7cdd150||pack-04|13289371|749|28940|
+1|skin\default\basic_interface\chatwin1_left.bmp|101185b9829509c7efe3b5bb6d9c4a49f25b1a60||pack-04|13371259|75|1752|
+1|skin\default\basic_interface\chatwin1_line.bmp|dc88d719d957f313ec8cc647338a52aa0085e399||pack-04|13371996|71|412|
+1|skin\default\basic_interface\chatwin1_mid.bmp|5a9de9545dd811527a616fa7d8220315b302ede5||pack-04|13370722|78|1752|
+1|skin\default\basic_interface\chatwin1_right.bmp|9d7938e8f234101d128825f231101379b00fd56c||pack-04|13366993|97|1760|
+1|skin\default\basic_interface\collection_bg.bmp|3b67916ddc6893e39f7ba1b39c4070a0e6011ab8||pack-04|13275635|834|33812|
+1|skin\default\basic_interface\cutline_0.bmp|b6a461c017aef9b68b1af1d8182a887383f42b0b||pack-04|13371779|73|140|
+1|skin\default\basic_interface\dialog_bg.bmp|d88f090b322c7c67aef94ba3417b0baea25fd259||pack-04|13355276|262|14512|
+1|skin\default\basic_interface\dialog_btn0.bmp|9bde8a411dfc497fffa23ce01b3cf4c8a5da7e2f||pack-04|13360429|155|272|
+1|skin\default\basic_interface\dialog_btn1.bmp|123962d2dbb50535c4d9cdad480253b2c61ed536||pack-04|13362203|135|272|
+1|skin\default\basic_interface\dialog_btn2.bmp|2c0c8e08429a6c5acbf95761605e31d40df6bc9d||pack-04|13361640|143|276|
+1|skin\default\basic_interface\dialog_mid.bmp|ed383a152eeefa2b0f359f745ffa4e13b2a7f107||pack-04|13364352|110|212|
+1|skin\default\basic_interface\dialog_resize.bmp|4ea40a51c18a167ff55dc7f89bed165f05a702e3||pack-04|13370956|77|272|
+1|skin\default\basic_interface\equipwin_bg.bmp|e453f1cdeacd77c88138ddb4daf534f0c4d1d80c||pack-03|104853791|3328|37124|
+1|skin\default\basic_interface\exchange_bg.bmp|0634900ec8d4cc3c297ba767f91eae0f675abc73||pack-04|13219240|1190|29164|
+1|skin\default\basic_interface\grp_leader.bmp|5b72e3d2e1f882d4cc73afa70373572ec6d6ebfc||pack-04|13349891|326|500|
+1|skin\default\basic_interface\grp_offline.bmp|3b3a8791b30c63a9a67da69654612fa1b115ba67||pack-04|13349565|326|496|
+1|skin\default\basic_interface\grp_online.bmp|15d92e9450938bbd25ce190f856556ed0183f574||pack-04|13316299|606|752|
+1|skin\default\basic_interface\grp_stun.bmp|75bb5972112aa5ea69eaee25bdd1bfd67154546d||pack-04|13317510|605|756|
+1|skin\default\basic_interface\gze_bg.bmp|e5aa8c2694c9a4b5d1aa4828ef181e625e344d76||pack-04|13356275|222|964|
+1|skin\default\basic_interface\gzeblue_left.bmp|738759da85e96a7fd9c175db4280fa30273b5340||pack-04|13345202|383|520|
+1|skin\default\basic_interface\gzeblue_mid.bmp|d47f8f95296715492d5b02cb85719dd22e9789c3||pack-04|13347835|363|524|
+1|skin\default\basic_interface\gzeblue_right.bmp|fc89a369fd5d086cfbcef0f75075f1d900486b22||pack-04|13345968|382|520|
+1|skin\default\basic_interface\gzered_left.bmp|94bf5cd17b03354cdd89b5773fcd650ca436ed2c||pack-04|13344818|384|500|
+1|skin\default\basic_interface\gzered_mid.bmp|fd3b967b5c0e1d9abf036f26cd7e98ebfde61a60||pack-04|13347470|365|504|
+1|skin\default\basic_interface\gzered_right.bmp|d7a8989dbfedd57112df74d223a6d9bc9e0809a9||pack-04|13358099|188|216|
+1|skin\default\basic_interface\ico_confusion.bmp|2e11008a1de5e79abcab9dcca22f65471a3b11f7||pack-04|13363797|111|232|
+1|skin\default\basic_interface\ico_curse.bmp|eba89bd0e2c4ab8e47b5d1a2a5f484c61c13d9b0||pack-04|13360737|152|244|
+1|skin\default\basic_interface\ico_frozen.bmp|778ece8bc42d0932a473a5f28310d32ec486fa73||pack-04|13359327|158|248|
+1|skin\default\basic_interface\ico_poison.bmp|64b40d329a1b90148a6509c719c61d26d1f108ec||pack-04|13363567|115|236|
+1|skin\default\basic_interface\ico_silence.bmp|3ad75ddc9b7231ddd3780295cb87574cc45a2e46||pack-04|13366491|101|228|
+1|skin\default\basic_interface\ico_stone.bmp|9a9d43a0e753b2e5891ad78a24a0539cbbe524ae||pack-04|13362718|123|232|
+1|skin\default\basic_interface\item_invert.bmp|13270efc3f539e659ac869b19706f89a5d564968||pack-04|13346729|372|628|
+1|skin\default\basic_interface\itemwin_left.bmp|6bf33fa04644d4979962da48ca8a50b9f36a1325||pack-04|13370644|78|236|
+1|skin\default\basic_interface\itemwin_mid.bmp|a02f00b9a3be36f61cf57cc7b95e62bc83d9f146||pack-04|13285466|786|1632|
+1|skin\default\basic_interface\itemwin_right.bmp|534b835652d04952282e095ef04291a15f137b83||pack-01|104857522|77|236|
+1|skin\default\basic_interface\lv_up_off.bmp|82fcc05df8ca6a47f2adb80efb04310e11ac3761||pack-04|13169114|1646|2968|
+1|skin\default\basic_interface\lv_up_on.bmp|a4436c0d41e19fca6d77af313cc22cc582c08e9e||pack-04|13160171|1884|2968|
+1|skin\default\basic_interface\mesbtn_01.bmp|c9ab7c9c8f1ed484cf15dd138186bdaebc18da51||pack-04|13342798|413|836|
+1|skin\default\basic_interface\mesbtn_01_a.bmp|9831b60cb3c4b9b99f0aa7f5f5491aa600db6bbf||pack-04|13316905|605|1036|
+1|skin\default\basic_interface\mesbtn_01_b.bmp|7bb79ab5d1899a4aafd5b8f99b589dc3958e8049||pack-04|13330612|539|956|
+1|skin\default\basic_interface\mesbtn_02.bmp|73ab8135e0bcdb3f1cc778240c389b20f4593ea6||pack-04|13340678|431|840|
+1|skin\default\basic_interface\mesbtn_02_a.bmp|14ad8afcc1a4c12bfad91ba3057ef8c4fc68d28a||pack-04|13301493|674|1100|
+1|skin\default\basic_interface\mesbtn_02_b.bmp|f3d1cbec95aeda7b9117abe340368f7893cfb810||pack-04|13321631|572|992|
+1|skin\default\basic_interface\mesbtn_03.bmp|c0110d3cae16329ef6812193ea73ea63b01d5d54||pack-04|13341109|429|844|
+1|skin\default\basic_interface\mesbtn_03_a.bmp|306ec04e6c3f0d541df16b938facc6dfd941f34f||pack-04|13310062|647|1064|
+1|skin\default\basic_interface\mesbtn_03_b.bmp|b11fbaae19812a146836855ac8b5e5ddfd3c8e20||pack-04|13332226|534|936|
+1|skin\default\basic_interface\mesbtn_04.bmp|28509bf2a98ce0d2b26bb9c86a1d9988c94903e3||pack-04|13341965|419|856|
+1|skin\default\basic_interface\mesbtn_04_a.bmp|7ac954cb2e85d5b8aafd7a7004dcaa81da7f5eb5||pack-04|13315692|607|1028|
+1|skin\default\basic_interface\mesbtn_04_b.bmp|1cae17c01ec7520570ce3196a97841d2d7a1bec6||pack-04|13337408|492|920|
+1|skin\default\basic_interface\mesbtn_05.bmp|10b49a2eae5ce88dcef575591f0c81706a34d070||pack-04|13342384|414|892|
+1|skin\default\basic_interface\mesbtn_05_a.bmp|ed8e75d97466c51d094770633a21186f4d2377a5||pack-04|13300130|682|1192|
+1|skin\default\basic_interface\mesbtn_05_b.bmp|4a7a94de43129a46972b1a07b43986a1d564a1e6||pack-04|13321058|573|1080|
+1|skin\default\basic_interface\mesbtn_left.bmp|f3536521f8892e5ceef50014e7a1eb99015a809d||pack-04|13352108|304|444|
+1|skin\default\basic_interface\mesbtn_mid.bmp|1765e2d4a113bc89fd5544e08329bf416f36cff7||pack-04|13358648|173|1238|
+1|skin\default\basic_interface\mesbtn_right.bmp|5303047cb7f225b160587e53ae2729e160c556e5||pack-04|13353016|300|444|
+1|skin\default\basic_interface\optwin0_bg.bmp|e7fb97eff3c4cfef74365e6de0992f922200de71||pack-04|13298754|690|28948|
+1|skin\default\basic_interface\optwin1_bg.bmp|9cbba76b002013726a4499ae28308b0f0dfbaa5f||pack-04|13311986|623|28952|
+1|skin\default\basic_interface\shortitem_bg.bmp|d5ca7dce574caf1bfc9d5f30dfde268e8e09d6ce||pack-04|13356931|210|9612|
+1|skin\default\basic_interface\shortitem_btn.bmp|ed6bb8159321243a0919d6f98c62d07fc4f7978d||pack-04|13368736|87|156|
+1|skin\default\basic_interface\skill_up_a.bmp|4176877939623dda14dc61bb3b47ffc8dff5f402||pack-04|13328974|547|924|
+1|skin\default\basic_interface\skill_up_b.bmp|2c3791d3776db8cdde9554d7c9bc6d10e0d6c71c||pack-04|13214417|1223|1652|
+1|skin\default\basic_interface\skill_up_c.bmp|469003b95df2263ffc4bbcfe0c123ad7a8c95269||pack-04|13213180|1237|1652|
+1|skin\default\basic_interface\skillcollection.bmp|2bcbf06047985cf392c5a65ae6c99cedb893ff46||pack-04|13298059|695|33832|
+1|skin\default\basic_interface\statwin0_bg.bmp|3da05b182652e0f06a0e187e8b6998c3a8508547||pack-04|13154243|2096|29000|
+1|skin\default\basic_interface\statwin1_bg.bmp|a7950cc4786d53442e675e1593ed12f66221ab73||pack-04|13147658|2205|29052|
+1|skin\default\basic_interface\sys_base_off.bmp|878f6cef229328c2e7b0785b0032bfb52aa45e70||pack-04|13354186|282|368|
+1|skin\default\basic_interface\sys_base_on.bmp|302a91dcb28cf0cdb8500d4bb1cf13622685c1d9||pack-04|13355538|261|364|
+1|skin\default\basic_interface\sys_close_off.bmp|e8ba676e6996b8a03402f219000fb3ef6f994b26||pack-04|13348549|350|460|
+1|skin\default\basic_interface\sys_close_on.bmp|d37961753dfca9da05dadb1733cea1e2bc43061c||pack-04|13348899|339|452|
+1|skin\default\basic_interface\sys_mini_off.bmp|12b86fd790ef5005136448f335f56ae53d95109a||pack-04|13350542|324|416|
+1|skin\default\basic_interface\sys_mini_on.bmp|c9f969e916bbcbdc30ea79d5bbf3059511ae6264||pack-04|13351499|305|404|
+1|skin\default\basic_interface\sysboxs_ld.bmp|cea12fde3955b2da4a6921bd0c767e34f6369946||pack-04|13371033|76|136|
+1|skin\default\basic_interface\sysboxs_lu.bmp|a09930613c4cd32a1803c61bb8c94e6a4dddf9f7||pack-04|13371706|73|136|
+1|skin\default\basic_interface\sysboxs_rd.bmp|ae746fbbc172e5d56b8616f4796ff06ca21a6350||pack-04|13371184|75|136|
+1|skin\default\basic_interface\sysboxs_ru.bmp|ce425858ecca0284746329484b3ffe749e0501e1||pack-04|13371109|75|136|
+1|skin\default\basic_interface\tab_itm_01.bmp|2620c5f7e9f1d270c5bcb4fe2b1306e984149850||pack-04|13351804|304|1768|
+1|skin\default\basic_interface\tab_itm_02.bmp|4bca6af67c58d147a5d958989deb26d28a0e6d6f||pack-04|13352715|301|1764|
+1|skin\default\basic_interface\tab_itm_03.bmp|72f773ed9655d11e91a5c1cbb3589b08c0ecf517||pack-04|13353609|289|1752|
+1|skin\default\basic_interface\titlebar_fix.bmp|3f3149aaae4760eaafee1633acadd1337a620c1c||pack-04|13233156|1122|5708|
+1|skin\default\basic_interface\titlebar_left.bmp|aba3187bfd3490aed2de640dabc9de4cf3a44c45||pack-04|13295960|706|1152|
+1|skin\default\basic_interface\titlebar_mid.bmp|a76207945018c4da062ce3319709fd51d60ee0c0||pack-04|13304825|660|1152|
+1|skin\default\basic_interface\titlebar_right.bmp|d281632779d0f605d4a6dc41d44da5ffca1f36b2||pack-04|13284670|796|1152|
+1|skin\default\basic_interface\txtbox_btn_a.bmp|52d6837faa36594ded12e6fd0ad30ea42995e112||pack-04|13343621|406|688|
+1|skin\default\basic_interface\txtbox_btn_b.bmp|ff26d30fc0748e88d1b34a73135f57816f101de7||pack-02|104857225|373|688|
+1|skin\default\basic_interface\txtbox_btn_c.bmp|d1d1270ec56208cc01f44067cd9cda30e5533574||pack-04|13347101|369|684|
+1|skin\default\btn_back.bmp|920d27564627df03f2fcbc53e09f8f05ec7d7950||pack-04|13306802|656|1244|
+1|skin\default\btn_back_a.bmp|19b126ff26c66b0bf50736c6784996061badbb19||pack-04|13190891|1323|1956|
+1|skin\default\btn_back_b.bmp|5794f6ee469eb8974557e58d96dab2eaa21437d6||pack-04|13202756|1312|1956|
+1|skin\default\btn_buy.bmp|1868ee5108dc978b8b92727dadff4e0aad887b0f||pack-04|13309413|649|1248|
+1|skin\default\btn_buy_a.bmp|8d94b358db2fcf503462ab296c982d17756d9f39||pack-04|13186918|1327|1956|
+1|skin\default\btn_buy_b.bmp|28312f394978967682cd8f33c14f86bb371754e7||pack-04|13189568|1323|1956|
+1|skin\default\btn_cancel.bmp|39c817e2cd5b0bf0645a14691d69f0e22ce14bcb||pack-04|13308111|652|1256|
+1|skin\default\btn_cancel_a.bmp|7a9488eb46eb755ab1acd98ebbd322cc48c89fb4||pack-04|13182903|1352|1956|
+1|skin\default\btn_cancel_b.bmp|d827c962a04090931da72bedb1d8c81d585d21b6||pack-04|13206688|1305|1956|
+1|skin\default\btn_close.bmp|02c9ae2385c90c8cac8225e914b0d447c1f43fd3||pack-04|13308763|650|1252|
+1|skin\default\btn_close_a.bmp|eed264ffffcc848ce6e68d7aa880a0a619ea6a30||pack-04|13200131|1313|1956|
+1|skin\default\btn_close_b.bmp|17f0e9f851189464a901c7418b03be1dade99403||pack-04|13209294|1301|1956|
+1|skin\default\btn_edit.bmp|2454fd471578276e25a228f7fd48582d20c8a36c||pack-04|13305485|659|1256|
+1|skin\default\btn_edit_a.bmp|fae45d777bf096ebc446389b1f728d3af5e2a7f2||pack-04|13194858|1321|1956|
+1|skin\default\btn_edit_b.bmp|934ba2bbfcd39bf0ea083e31e136cb05bab4898b||pack-04|13193536|1322|1956|
+1|skin\default\btn_exchange.bmp|a2a61ad3c7995ed7bd834225ea8dfc6366796ced||pack-04|13300812|681|1260|
+1|skin\default\btn_exchange_a.bmp|3c3deb4fdc9ffcfe22c0d7a92f48b52f42ed3bf8||pack-04|13185588|1330|1956|
+1|skin\default\btn_exchange_b.bmp|646b1fd69988149dfa2846e12d15733ee75d89e6||pack-04|13201444|1312|1956|
+1|skin\default\btn_exchange_dis.bmp|97a0ed1fcd00514ad2ee990d45ae77704b48f30f||pack-04|13299444|686|1958|
+1|skin\default\btn_next.bmp|75893905dc0a51c1320694761678a1393377776f||pack-04|13302167|667|1248|
+1|skin\default\btn_next_a.bmp|b813504b44f4b266add0a9332364011d92678995||pack-04|13188245|1323|1956|
+1|skin\default\btn_next_b.bmp|32b17738c2f15921cef799068390bd1543fb2b18||pack-04|13197499|1318|1956|
+1|skin\default\btn_ok.bmp|61f7431bcac4e648ef3e5b5cbe7e921e912096a9||pack-04|13307458|653|1248|
+1|skin\default\btn_ok_a.bmp|1b9a8e19234203b518c55d8cbac8d3b07f9b851f||pack-04|13184255|1333|1956|
+1|skin\default\btn_ok_b.bmp|83fadb0bbb420427632008526cd9325cf2fee921||pack-04|13192214|1322|1956|
+1|skin\default\btn_ok_dis.bmp|3e9edf9cbf04113919e46d3a0d4b1ccf756022e5||pack-04|13333825|530|1192|
+1|skin\default\btn_resize.bmp|f81638bb814d517125ba53183527400020c641b2||pack-04|13350866|317|480|
+1|skin\default\btn_sell.bmp|daf4f4e4991b7ba244003aef7e69618f022df070||pack-04|13310709|640|1248|
+1|skin\default\btn_sell_a.bmp|7f4284f1ee04ec8d8565e8ca1647fc4f555fb13a||pack-04|13207993|1301|1956|
+1|skin\default\btn_sell_b.bmp|4848c3bb4f6be54bf2de935d970f3e266262fb9d||pack-04|13205378|1310|1956|
+1|skin\default\btn_send.bmp|bd317aa5d6b5379249860f069c2eefc21bd39a7f||pack-04|13303501|663|1252|
+1|skin\default\btn_send_a.bmp|505764e48712b10ad2bd9109633d7ab3a620c6ab||pack-04|13204068|1310|1960|
+1|skin\default\btn_send_b.bmp|6fb815a26beb8ff33832f5831836d05e34cebff7||pack-04|13181547|1356|1960|
+1|skin\default\btn_use.bmp|de26f5937b042d22ea6dd288bb07de821cb9c1f3||pack-04|13312609|620|1240|
+1|skin\default\btn_use_a.bmp|070226395ca779e41d7f4ef79b1b89477e898b39||pack-04|13211895|1285|1956|
+1|skin\default\btn_use_b.bmp|3bf4303bc5669726246d7786a66cb8ab213514d9||pack-04|13210595|1300|1956|
+1|skin\default\btn_view.bmp|a8c62dc9ccc3ef537ac9dfd0359660d41a6782b7||pack-04|13311349|637|1236|
+1|skin\default\btn_view_a.bmp|0e01eccb8be69f4eaf044cc07ee7054e444bfd1a||pack-04|13196179|1320|1960|
+1|skin\default\btn_view_b.bmp|62150acaaaf65906403b8cdc934a60b2b97d12b3||pack-04|13198817|1314|1960|
+1|skin\default\chat_close.bmp|de2a6e9b6558499157ec9a3964e914929e4fdf4f||pack-04|13297363|696|1654|
+1|skin\default\chat_open.bmp|608e550d98e8d0dcd59e19cf4dd4136146d7bf40||pack-04|13294531|721|1654|
+1|skin\default\checkbox_0.bmp|0f1614b259ad30b460fd5afc0772e1c7f5c32c89||pack-04|13372277|69|196|
+1|skin\default\checkbox_1.bmp|60df090640eaf77e286cfb6b69b251da97e290b7||pack-04|13356715|216|344|
+1|skin\default\colorchip.bmp|1ff2d100edbf4f0146b01b88db63753c191d0813||pack-04|13365337|107|3128|
+1|skin\default\esc_01a.bmp|10304dffdf3592225561e5f8a4f0ef2cda4d33c7||pack-04|13244057|1045|4848|
+1|skin\default\esc_01b.bmp|db608b4cec10d745fa6f4581cf4a5f0e0ec9abd6||pack-04|13138748|2237|5556|
+1|skin\default\esc_01c.bmp|74b8536abeb88bc1875b4ea0497d36a4398c25f9||pack-04|13152061|2182|5556|
+1|skin\default\esc_02a.bmp|08d97f241720b8f1e97975449ad66c1ce3af2ed4||pack-04|13245102|1043|4860|
+1|skin\default\esc_02b.bmp|91940c39a34b0269861712cc8f3e776e9b4824a3||pack-04|13140985|2233|5556|
+1|skin\default\esc_02c.bmp|6b93dd60f3ba1affe5fab86cb5af5bbda6669437||pack-04|13149863|2198|5556|
+1|skin\default\esc_03a.bmp|129e72eb38b352dd40e41b9477b0896db1cf1ba8||pack-04|13239789|1088|4864|
+1|skin\default\esc_03b.bmp|6df9c9079788064ed372ded0a1ef0e5f77471bc8||pack-04|13143218|2227|5556|
+1|skin\default\esc_03c.bmp|a655f0bc0cc1bc80d5ba2ca94cf6fa6c1237b66e||pack-04|13145445|2213|5556|
+1|skin\default\esc_04a.bmp|e57af21400707865d68825c623e70360d85a0ca9||pack-04|13218050|1190|4864|
+1|skin\default\esc_04b.bmp|bea34d896b470841dcb66cfaf14f33abb52a0e62||pack-04|13129365|2362|5556|
+1|skin\default\esc_04c.bmp|b6e4b7cc098fffb3cccf6adb5de1fbf5294d3829||pack-04|13134083|2346|5556|
+1|skin\default\radiobtn_off.bmp|292f5ce5fd34b46c98e54a0724304d71aa7047a0||pack-04|13369836|81|216|
+1|skin\default\radiobtn_on.bmp|e17487fdbf6948ea0e094522660bd6737ab1ddf0||pack-04|13349238|327|428|
+1|skin\default\scroll0bar_down.bmp|e07503e2e322532aa08e7ad22001f02098dbf43f||pack-04|13359163|164|204|
+1|skin\default\scroll0bar_mid.bmp|23793022bc184abcd999b3c3d2a8209086d10d0b||pack-04|13367377|94|156|
+1|skin\default\scroll0bar_up.bmp|32575be1810d2fee5511b38a477324522662bc1f||pack-04|13358821|171|212|
+1|skin\default\scroll0down.bmp|d1c09715a661033b37f752be3892e3dbdb6db311||pack-04|13346350|379|528|
+1|skin\default\scroll0mid.bmp|6833384ae3546983c790b2cbcc202228e4c634b0||pack-04|13369168|85|296|
+1|skin\default\scroll0up.bmp|d48802115133b86cc30721cb872980038fa9dd5e||pack-04|13344431|387|528|
+1|skin\default\scroll1bar_left.bmp|eac7e9b853056a3c60d76d1e64bd38080fd6cc8f||pack-04|13357335|194|236|
+1|skin\default\scroll1bar_mid.bmp|e92315d22864b51fda1413897be20e844e8d0636||pack-04|13364902|109|160|
+1|skin\default\scroll1bar_right.bmp|3d6f0b91783853637b90b19b9b784969a91ffde9||pack-04|13357141|194|236|
+1|skin\default\scroll1left.bmp|61b3153110c5da47efce98172787e4a3d37b52cb||pack-04|13354739|269|424|
+1|skin\default\scroll1mid.bmp|4e00f0558b7db2e2ff6559af045b842331f148ca||pack-04|13367283|94|296|
+1|skin\default\scroll1right.bmp|cdcdac957221ce42505704f41b5631be6017062c||pack-04|13348198|351|488|
+1|skin\default\shop.bmp|0c1113563ca5c70c8ad8ba0b41eb39cf8fc95069||pack-04|13292343|733|1654|
+1|skin\default\sysbox_arr_l.bmp|c919aa07c9bec151fca00e863cc10d3ea4efe417||pack-04|13367749|91|300|
+1|skin\default\sysbox_arr_r.bmp|504763b79501cef4d3445deafb490678891db7cf||pack-04|13368113|90|300|
+1|skin\default\sysbox_bg.bmp|6c9a87dc159a647cacb292c2469d50770bec586e||pack-02|0|55|180|
+1|skin\default\sysbox_ld.bmp|d666afc2973d57b6ef63fa0d098f65fbe001c3ce||pack-04|13369672|82|296|
+1|skin\default\sysbox_lm.bmp|525c16220e05fd3801b825131752916fdb13c808||pack-04|13372413|66|296|
+1|skin\default\sysbox_lu.bmp|84bab38cabc44b52a6109326a47266a7e87d7299||pack-04|13369589|83|296|
+1|skin\default\sysbox_md.bmp|70fac763db2dd79b3ff31dc12622c6d630a96986||pack-04|13371925|71|296|
+1|skin\default\sysbox_mu.bmp|b742bc45e18f69a2a61017558282b209a9c75e1d||pack-04|13372067|70|296|
+1|skin\default\sysbox_rd.bmp|71ce2aef3e133d4dcd31d59c63880e706947306c||pack-04|13370484|80|296|
+1|skin\default\sysbox_rm.bmp|8f705cf40cffee08e62e6480f5e5002d9f23f4aa||pack-04|13372479|65|296|
+1|skin\default\sysbox_ru.bmp|142914d48786beec2652df8461a3237dd99e040e||pack-04|13368910|86|296|
+1|skin\default\win_msgbox.bmp|9a7e975d018cb944da256b70ddb5c7043d09b357||pack-04|13174010|1599|34576|
+1|vccorlib140.dll|0201d3fd949da6c5a5d0804c40d014c8db355b97||pack-04|12698439|80331|269568|
+1|vcruntime140.dll|6f25a874d6cbf8158cb7c491dcedaa81ceaebbae||pack-04|12873178|41054|80128|

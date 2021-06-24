@@ -100,5 +100,7 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Put_On_Coat = 99,
 	ROBE_C_Snow_Powder = 100,
 	ROBE_Wing_Of_Spider = 101,
-	ROBE_C_Kyel_hyre_Ulti_TW = 102
+	ROBE_C_Kyel_hyre_Ulti_TW = 102,
+	ROBE_C_Poring_Basket = 103,
+	ROBE_C_Flower_Wing = 106
 }

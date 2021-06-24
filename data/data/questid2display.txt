@@ -3361,7 +3361,7 @@ Bring the rocks to Bahed.#
 Those rocks were called 'Hetarium' which are sold to Rekenber. Oh, and please give Zabaroo my regards and thank him for his hard work.#
 Go back to Zabaroo.#
 
-11029#Going Going to the Turtle Island..#SG_FEEL#QUE_NOIMAGE#
+11029#Going to the Turtle Island..#SG_FEEL#QUE_NOIMAGE#
 My, that place is difficult to find and even more difficult to travel to. You're sure you want to go?#
 Find an old ferryboatman at the eastern side of the Alberta port to find out how to get to the Turtle Island.#
 

@@ -702,6 +702,7 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 1,
 	descript = {
+		{ "Berserk Potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase ASPD" }
 	}
@@ -1896,6 +1897,8 @@ StateIconList[EFST_IDs.EFST_ASPERSIO] = {
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
 	descript = {
+		{ "Increase Speed", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
 		{ "Increase Movement Speed" }
 	}
 }
@@ -2364,7 +2367,8 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_CASH] = {
 	descript = {
 		{ "ASPD Reinforce Potion", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase Attack Speed" }
+		{ "Increase Attack Speed" },
+		{ "Can be used with other ASPD Potions" }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
@@ -2708,6 +2712,14 @@ StateIconList[EFST_IDs.EFST_SKF_MATK] = {
 		{ "MATK Increase" }
 	}
 }
+StateIconList[EFST_IDs.EFST_GLASTHEIM_ATK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "%s", COLOR_TIME },
+		{ "ATK Increase" }
+	}
+}
 StateIconList[EFST_IDs.EFST_STEELBODY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -2941,8 +2953,7 @@ StateIconList[EFST_IDs.EFST_P_ALTER] = {
 	descript = {
 		{ "Platinum Alter", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK increase" },
-		{ "Resistance increase to immortal attribute attack" }
+		{ "ATK increase" }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
@@ -3007,7 +3018,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Poweful 30 seconds", COLOR_TITLE_BUFF },
+		{ "Powerful!", COLOR_TITLE_BUFF },
 		{ "ATK Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3016,7 +3027,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Clever 30 seconds", COLOR_TITLE_BUFF },
+		{ "Clever!", COLOR_TITLE_BUFF },
 		{ "MATK Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3025,7 +3036,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Healthy 30 seconds", COLOR_TITLE_BUFF },
+		{ "Healthy!", COLOR_TITLE_BUFF },
 		{ "MHP Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3034,7 +3045,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Magical 30 seconds", COLOR_TITLE_BUFF },
+		{ "Magical!", COLOR_TITLE_BUFF },
 		{ "MSP Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3043,7 +3054,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE5] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Lighter 30 seconds", COLOR_TITLE_BUFF },
+		{ "Lighter!", COLOR_TITLE_BUFF },
 		{ "FLEE Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3052,7 +3063,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE6] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Fast 30 seconds", COLOR_TITLE_BUFF },
+		{ "Fast!", COLOR_TITLE_BUFF },
 		{ "ASPD Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3061,7 +3072,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE7] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Defensive 30 seconds", COLOR_TITLE_BUFF },
+		{ "Defensive!", COLOR_TITLE_BUFF },
 		{ "DEF Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3070,7 +3081,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE8] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Safer 30 seconds", COLOR_TITLE_BUFF },
+		{ "Safer!", COLOR_TITLE_BUFF },
 		{ "MDEF Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3079,7 +3090,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE9] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Lucky 30 seconds", COLOR_TITLE_BUFF },
+		{ "Lucky!", COLOR_TITLE_BUFF },
 		{ "CRI Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3088,7 +3099,7 @@ StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE10] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 3,
 	descript = {
-		{ "Accurate 30 seconds", COLOR_TITLE_BUFF },
+		{ "Accurate!", COLOR_TITLE_BUFF },
 		{ "HIT Increase" },
 		{ "%s", COLOR_TIME }
 	}
@@ -3633,7 +3644,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
 	descript = {
 		{ "Item drop rate increased", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Item drop rate +15%" }
+		{ "Item drop rate +30%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
@@ -3642,7 +3653,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
 	descript = {
 		{ "Exp gain increased", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Exp +30%" }
+		{ "Exp +50%" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
@@ -4079,5 +4090,179 @@ StateIconList[EFST_IDs.EFST_DEFSCROLL] = {
 		{ "Shiny Physical DEF Scroll", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase DEF" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AURABLADE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Aura blade", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase physical attack" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGICPOWER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Magic power amplification", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase magic power" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Ensemble fatigue", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Fatigue due to ensemble." },
+		{ "Cannot use skills." },
+		{ "Movement and attack speed reduced by 30%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_M_LIFEPOTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Mysterious Water", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Recover certain amount of HP in every 3 sec" },
+		{ "Doesn't have effect in Berserk condition" }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF1] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increases ATK" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increases MATK" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF3] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increases ASPD" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF4] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Decrease SP Consumption" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF5] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Decrease after cast delay" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF6] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increase HIT" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF7] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increase DEF" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF8] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increase the effect of healing skills" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF9] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increase MDEF" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF10] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "Increase Dodge" },
+		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase physical attack damage", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase ATK + 3%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase magical attack damage", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase MATK + 3%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MANA_PLUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase magical attack damage", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase MATK +50" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FULL_SWING_K] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase physical attack damage", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase MATK +50" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Increase attack speed", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increase ASPD" }
+	}
+}
+StateIconList[EFST_IDs.EFST_S_MANAPOTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Small Mana Potion", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Recover certain amount of HP in every 5 sec" },
+		{ "Doesn't have effect in Berserk condition" }
 	}
 }
