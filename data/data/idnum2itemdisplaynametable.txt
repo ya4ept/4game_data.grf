@@ -6110,7 +6110,6 @@
 18890#Gray Bunny Band#
 18891#Husky Hat#
 18892#Ufo Poring Hat#
-18893#Dragon Claw Helm#
 18894#Rainbow Star#
 18895#Celestial Dark Flame#
 18896#Pterios Fins#
@@ -6347,7 +6346,6 @@
 19838#C Fox Hat#
 19839#C Vanilmirth Hat#
 19840#C Helm Of Sun#
-19841#C Dragonhelm Copper#
 19842#C Puppy Hat#
 19852#C Galapago Cap#
 19854#C Ear Of Black Cat #
@@ -6772,7 +6770,6 @@
 19955#Costume Mini Tree J#
 19956#Costume Soldier Hat#
 19957#Costume Scooter Hat J#
-19958#Costume Choir Hat#
 19959#Sleepy Argiope#
 19960#Marionette Chains#
 19951#Costume Solo Play Box2#
@@ -9042,8 +9039,6 @@
 7953#Jamput's Gift#
 7952#Smile Girl's Gift#
 17256#Sonya's Gift#
-
-20088#Mask of Ryujin#
 20179#Monkey Hat#
 20249#Red Super Stylish Wig#
 20496#Black Shiba Inu Hat#
@@ -9256,3 +9251,13 @@
 25292#Stolen Cacao Bean#
 6840#Chocolate Coin#
 11629#Walnut Truffle#
+
+9721#Wyvern's Treasure#
+20088#Longwang Hat#
+19575#Tall Dragon Hat#
+19841#Copper Dragon Helmet#
+31406#Nidhoggur's White Wig#
+31884#Dragon Knight Helm#
+18893#Dragon Claw Helm#
+
+19958#Chorist Cap#

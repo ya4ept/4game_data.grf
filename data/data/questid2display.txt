@@ -536,7 +536,7 @@ You accept the favor from Morestone and he introduce you the myterious place tha
 
 // EP13
 2147#Attitude to the New#SG_FEEL#QUE_NOIMAGE#
-Rumis Block, a zoologist, wants to give up the study since he is afraid of the monsters in the Ash Vacuum. Kill 1 Nepethenes and bring him 1 Strong Vine to show him that they're not so intimidating.#
+Rumis Block, a zoologist, wants to give up the study since he is afraid of the monsters in the Ash Vacuum. Kill Nepethenes and bring him 1 Strong Vine to show him that they're not so intimidating.#
 1 Strong Vine#
 
 2148#Attitude to the New#SG_FEEL#QUE_NOIMAGE#
@@ -996,8 +996,8 @@ Inventor Dorian in Izlude might be able to restore the bond of debt by using his
   #
 
 3104#Consolidating Heavy Debt - Repair Materials of Magic Dryer#SG_FEEL#QUE_NOIMAGE#
-Dorian says you must help him fix the dryer if you want to use it.#
-  20 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones#
+Dorian says you must help him fix the dryer if you want to use it. Bring this list of items: ^FF000020 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones.^000000#
+20 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones#
   
 3105#Consolidating Heavy Debt - Repairing Magic Dryer#SG_FEEL#QUE_NOIMAGE#
 Dorian tells you how to fix the dryer and lets you fix it yourself. It seems difficult...#
@@ -1392,19 +1392,19 @@ Conversation with 'Moogang'#
 
 7012#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 The conversation with Echinacea was a rather one-sided talk. You have been assigned to be Mr. Kidd's assistant so you better go speak to him.#
-Mr. Kidd#
+Find Mr. Kidd#
 
 7013#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 ...You have expressed that you're not comfortable with doing chores and Mr. Kidd tells you to be clear with Echinacea that you don't want the task.#
-Echinacea#
+Talk to Echinacea again#
 
 7014#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 ...Well, it was still impossible to win Echinacea over. You should just go back and help Mr. Kidd no matter what.#
-Mr. Kidd#
+Come back to Mr. Kidd#
 
 7015#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 Mr. Kidd's request was simpler than you thought. At Southwest Morroc, you must meet Rin at the underground tavern.#
-Rin#
+Find Rin#
 
 7016#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 You must investigate the region where Rin was ambushed. The area is somewhere west of Abyss Lake and south of the second hill from the top of the mountain...#
@@ -1432,7 +1432,7 @@ Report to Mr. Kidd#
 
 7022#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 You need to investigate the magic spell scroll. Echinacea knows which scholar to consult about it.#
-Echinacea#
+Speak to Echinacea#
 
 7023#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 Echinacea has introduced a scholar named 'Defaria' but where is he? Is he the one baking sweet potatoes?#
@@ -1448,7 +1448,7 @@ Conversation with Defaria#
 
 7026#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 The scroll is unsealed. Such scrolls are generally used by ^4d4dfforganizations to gather their members^000000. He says you should use it now but it's a question whether you should talk to Mr. Kidd first.#
-#
+Use the scroll and investigate the area#
 
 7027#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
 You heard some suspicious story while investigating the building where you arrived by using the scroll. You heard that the Dandelions are fighting each other..#
@@ -1492,7 +1492,7 @@ Report to Echinacea#
 
 7037#Case closed?#SG_FEEL#QUE_NOIMAGE#
 The case is closed now, but what is this thing that still lingers in your head? You should ask somebody about the Dandelion request because Echinacea isn't being too helpful.#
-#
+Ask people around#
 
 7038#Passion for Baked Sweet Potatoes#SG_FEEL#QUE_NOIMAGE#
 You have consulted Defaria about your concern, but all you got was a chore to gather some materials for baking sweet potatoes...#
@@ -1508,29 +1508,29 @@ Deliver 2 sweet potatoes to Echinacea#
 
 7041#Politics is for the Politicians#SG_FEEL#QUE_NOIMAGE#
 Echinacea advises that you stop questioning the motives of the politicians and trust that they will do what is in the best interest of keeping peace. Return to Defaria and thank him for the Sweet Potatoes.#
-Defaria#
+Come back to Defaria#
 
 //----- EP 13
 //---- ķ���� ������
 7042#Part-time Job - Tatacho's feed#SG_FEEL#QUE_NOIMAGE#
-Please bring me 50 Fresh Fish. They��re feed for Tatachoes. I��m fresh out, and I��ll need to restock very soon. You can find them from Tatachoes in the fields.#
+Please bring me 50 Fresh Fish. They're feed for Tatachoes. I'm fresh out, and I'll need to restock very soon. You can find them from Tatachoes in the fields.#
 50 Fresh Fish#
 
 7043#Part-time Job - Cornus's feed#SG_FEEL#QUE_NOIMAGE#
-I��ve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
-30 Great Leaf & 30 Brown Root#
+I've just run out of feed for Cornuses. Can you please bring me 30 Huge Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
+30 Huge Leaf & 30 Brown Root#
 
 7044#Part-time Job - Hillslion's feed1#SG_FEEL#QUE_NOIMAGE#
-I��ve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I��ve been trying to feed them various things.. This time�� I��d like to try Monster��s Feed. Can you please bring me 20 Monster��s Feeds and 30 Pet Foods?#
-20 Monster��s Feeds and 30 Pet Foods#
+I've just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I've been trying to feed them various things.. This time I'd like to try Monster's Feed. Can you please bring me 20 Monster's Feeds and 30 Pet Foods?#
+20 Monster's Feeds and 30 Pet Foods#
 
 7045#Part-time Job - Hillslion's feed2#SG_FEEL#QUE_NOIMAGE#
-This is perfect because I was going to try some new feed for Hillslions. I tried Monster��s Feed, but I don��t know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
+This is perfect because I was going to try some new feed for Hillslions. I tried Monster's Feed, but I don't know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
 50 Meats and 30 Pet Foods#
 
 7046#Part-time Job - warm rugs#SG_FEEL#QUE_NOIMAGE#
-I always wanted to put something warm on the floor for my creatures. Can you please bring me 30 scraps of fur?#
-30 scraps of fur#
+I always wanted to put something warm on the floor for my creatures. Can you please bring me 30 scraps of Fur?#
+30 scraps of Fur#
 
 7047#Part-time Job - Let's call it a day!#SG_FEEL#QUE_NOIMAGE#
 Seems like all of the part-time work is done for the day. Taab may have more work for you if you come back after 5 hours or so...#
@@ -2469,7 +2469,7 @@ Now, a true Dancer should be able to figure out the secret to winking on her own
 
 // ep13 : �ﱹ ���� �������??���� (ep13_1_rhea.sc)
 
-8196#The Tripartite Union's Feud#SG_FEEL#QUE_NOIMAGE#
+8196#Tripatriate Union's Feud#SG_FEEL#QUE_NOIMAGE#
 "Those researchers complain a lot these days. They're terribly stressed out and I think somebody should really listen to their problems. Especially those dealing with document files argue with each other many times. You might wanna start by talking to them."#
  #
 
@@ -2477,11 +2477,11 @@ Now, a true Dancer should be able to figure out the secret to winking on her own
 "Ok, now, please deliver the file to Hue and Hansenne. Hue's in charge of Schwartzvalt documents and Hansenne's in charge of Arunafeltz'. You should go see Hue at Schwartzvalt's office, otherwise, he'd be whining about it."#
 Deliver the documents to Hue and Hansenne and return to Ryosen#
 
-8198#Report to the United Research Official#SG_FEEL#QUE_NOIMAGE#
+8198#Report to the Official Researcher#SG_FEEL#QUE_NOIMAGE#
 "Well, it's already spilled water. I need to go to that meeting whether I like it or not. Could you please send this to the Official of the United Research? In the mean time, I should prepare myself for the meeting."#
-Deliver the documents to the United Research Official#
+Deliver the documents to the Official Researcher#
 
-8199#United Research Official's Favor#SG_FEEL#QUE_NOIMAGE#
+8199#Official Researcher's Favor#SG_FEEL#QUE_NOIMAGE#
 "Please, you should participate in the meeting and mediate them if anything goes wrong!First, you should go meet those 3 people and check them on preparing for the meeting. Hope they're not preparing any weapons, though."#
  #
 
@@ -2505,7 +2505,7 @@ Bring 1 Folding Fan of Cat Ghost, 1 Old Frying Pan, 1 Flame Stone, 1 Squid Ink#
 "The binding was too loose, so I re-arranged and binded the file all over. Please, deliver this file before it's too late."#
  #
 
-8205#Report to the United Research Official#SG_FEEL#QUE_NOIMAGE#
+8205#Report to the Official Researcher#SG_FEEL#QUE_NOIMAGE#
 "Could you please ask the official to wait for me a bit? I have to find another document for the meeting."#
  #
 
@@ -2522,10 +2522,10 @@ Participate in the meeting#
  #
 
 8209#Hue's Report#SG_FEEL#QUE_NOIMAGE#
-"Here, this is the Rune-Midgard's report I took with me when everything went messy in the meeting room.. Could you please give this to Ryosen?"#
+"Here, this is the Rune-Midgard's report I took with me when everything went messy in the meeting room. Could you please give this to Ryosen?"#
  #
 
-8210#Report to the United Research Official#SG_FEEL#QUE_NOIMAGE#
+8210#Report to the Official Researcher#SG_FEEL#QUE_NOIMAGE#
 "Ok. I should set up another meeting asap. Could you go see the official instead of me and set up a meeting?"#
  #
 
@@ -3145,19 +3145,19 @@ Go to Lighthalzen in Schwaltzvalt.#
 
 10066#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 You've listened to the statement of the commander-in-chief of the United Midgard troops.#
-Talk with Sikaiz.#
+Talk with Kai.#
 
 10067#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
-Continue your conversation with Sikaiz.#
+Continue your conversation with Kai.#
 #
 
 10068#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
-Sikaiz has requested you to go to Prontera and speak to the Alliance Manager there on his behalf.#
+Kai has requested you to go to Prontera and speak to the Alliance Manager there on his behalf.#
 #
 
 10069#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 You finished talking with the manager in Prontera.#
-Go back to Sikaiz.#
+Go back to Kai.#
 
 10070#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 You've got to know about the United Midgard Alliance.#
@@ -3169,7 +3169,7 @@ Go to the Alliance Manager Rachel Freya Grand Temple - Cheshrumnir.#
 
 10072#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 You've finished talking with the Alliance Manager on Arunafeltz.#
-Go back to Sikaiz again.#
+Go back to Kai again.#
 
 10073#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 Register to be a member of the United Midgard Alliance.#
@@ -3567,11 +3567,11 @@ All the broken poles are repaired! You should speak to Diego now.#
 //-------------------EP13---------------------------------------------------------------
 11091#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 Talk to Marian to receive the supplies from the mainland that Instructor Lugen has asked you to distribute.#
-Marian#
+Find Marian.#
 
 11092#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 Marian has given you 3 Supply Boxes, go back to Lugen and find ou where you need to deliver them to.#
-Lugen#
+Go back to Lugen.#
 
 11093#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 Lugen says to deliver the first box to Jan who is at the northwest end of the camp near the fence.#
@@ -3579,15 +3579,15 @@ Deliver the first supply box to Jan.#
 
 11094#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 You've delivered the first supply box to Jan. Go back to Instructor Lugen.#
-Lugen.#
+Go back to Lugen.#
 
 11095#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 Deliver the second supply box to Gerard across the west bridge outside of the camp.#
-Deliver the second supply box to Gerard#
+Deliver the second supply box to Gerard.#
 
 11096#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 You've delivered the second supply box to Gerard. Go back to Instructor Lugen.#
-Lugen.#
+Go back to Lugen.#
 
 11097#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 Deliver the last supply box to Alberto who is at the entrance to the eastern field.#
@@ -3595,15 +3595,15 @@ Deliver the last supply box to Alberto.#
 
 11098#Delivering Supplies#SG_FEEL#QUE_NOIMAGE#
 You've delivered the last supply box to Alberto. Go back to Instructor Lugen.#
-Lugen.#
+Go back to Lugen.#
 
-11099# To My Friend��#SG_FEEL#QUE_NOIMAGE#
+11099#To My Friend Otto#SG_FEEL#QUE_NOIMAGE#
 Lugen asked you to deliver a letter to his friend Otto who is working on the barrier in the west.#
-Otto#
+Find Otto.#
 
-11100#To My Friend��#SG_FEEL#QUE_NOIMAGE#
+11100#To My Friend Lugen#SG_FEEL#QUE_NOIMAGE#
 Otto asked you to bring his letter to Lugen and to tell him that he will be visiting him when he gets his next vacation.#
-Lugen.#
+Go back to Lugen.#
 
 11101#Secret note of Bazett#SG_FEEL#QUE_NOIMAGE#
 Help Bazett conduct studies of the fairies and giants by searching for signs of their existence.#

@@ -6063,7 +6063,6 @@
 18890#Hairband#
 18891#headgear#
 18892#Cap#
-18893#Cap#
 18894#Accessory#
 18895#Accessory#
 18896#Accessory#
@@ -6300,7 +6299,6 @@
 19838#Mask#
 19839#hat#
 19840#Helmet#
-19841#Helmet#
 19842#Helmet#
 19852#Hat#
 19854#Hat#
@@ -7944,7 +7942,6 @@
 19702#Headgear#
 31166#Headgear#
 
-20088#Accessory#
 20179#Accessory#
 20249#Accessory#
 20496#Accessory#
@@ -8160,3 +8157,11 @@
 25292#Stolen Cacao Bean#
 6840#Chocolate Coin#
 11629#Walnut Truffle#
+
+9721#Wyvern's Treasure#
+20088#Hat#
+19575#Hat#
+19841#Hat#
+31406#Hat#
+31884#Hat#
+18893#Helmet#

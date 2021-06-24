@@ -3793,11 +3793,12 @@ Agi +2
 Perfect Dodge +20
 Low chance to inflict ^800000Hell Power^000000 on the target or oneself after a physical attack
 Low chance to cast ^0000FFVampire's Gift 1^000000 on the target after a physical attack
-[If upgrade level is +9 or higher]
+^6A5ACD[If upgrade level is +9 or higher]^000000
 Casts ^0000FFVampire's Gift 2^000000 instead
 Class: ^777777Two-handed Sword^000000
 Property: ^777777Neutral^000000
-Attack: ^777777200^000000    Weight: ^777777200^000000
+Attack: ^777777200^000000    
+Weight: ^777777200^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Transcendent Swordsman^000000
@@ -7073,7 +7074,7 @@ Jobs: ^777777Swordsman^000000
 #
 1482#
 ^0000ffCharacter Bound^000000
-^808080A Two-Handed Spear made to rush at the enemy's position, especially designed for battles against Demi-Humans.^000000
+A Two-Handed Spear made to rush at the enemy's position, especially designed for battles against Demi-Humans.
 ^FFFFFF_^000000
 Type: Weapon
 Class: Two-Handed Spear
@@ -7091,57 +7092,50 @@ This item is indestructible in battle.
 #
 1483#
 Two-handed spear made of the ivory of a mammoth. It is very hard to wield due to its weight, but its sharp end makes it perfect for stabbing.
-Agi +2
-Aspd +3%
-Enables ^0000FFSpear Stab 5^000000
-Low chance to cast ^0000FFFatal Wound 1^000000 on the target after a physical attack
+Agi +2.
+ASPD +3%.
+Enables ^0000FF5 Lv. [Spear Stab]^000000.
+Chance to cast ^0000FF1 Lv. [Fatal Wound]^000000 on the target after a physical attack.
 Class: ^777777Two-Handed Spear^000000
 Property: ^777777Neutral^000000
-Attack: ^777777160^000000    Weight: ^777777100^000000
+Attack: ^777777160^000000    
+Weight: ^777777100^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777750^000000
 Jobs: ^777777Transcendent Swordsman^000000
 #
 1484#
-^808080Two handed spear which looks just like a miniature of a pillar from the ancient temples.^000000
+Two handed spear which looks just like a miniature of a pillar from the ancient temples.
+ASPD -10%
+^6A5ACD[For each 2 refine level]^000000
+DEF +1
 ^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Spear
-Attack: 150
-Property: Neutral
-Weight: 560
-Weapon Level: 4
-Required Level: 70
-Jobs: Lord Knight Jobs
+Type: ^777777Weapon^000000
+Class: ^777777Two-Handed Spear^000000
+Attack: ^777777150^000000
+Property: ^777777Neutral^000000
+Weight: ^777777560^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Lord Knight Jobs^000000
 ^FFFFFF_^000000
-DEF + 1 per 2 upgrade levels of the item.
-ASPD - 10%
+
 #
 1485#
-^808080Two handed three-pronged fork that doubles as a spear. It is light and very useful despite its size.^000000
+Two handed three-pronged fork that doubles as a spear. It is light and very useful despite its size.
 ^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Spear
-Attack: 112
-Property: Neutral
-Weight: 70
-Weapon Level: 2
-Required Level: 50
-Jobs: Transcendent Swordsman Jobs
+Type: ^777777Weapon^000000
+Class: ^777777Two-Handed Spear^000000
+Attack: ^777777112^000000
+Property: ^777777Neutral^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777772^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Transcendent Swordsman Jobs^000000
 #
 
 1486#
 ^0000ffCharacter Bound^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Hand Spear
-Attack: 220
-Property: Neutral
-Weight: 0
-Weapon Level: 4
-Required Level: 80
-Jobs: Swordsman Jobs
-^FFFFFF_^000000
 Increases physical damage on Demi-Human race targets by 70%.
 Pierces 25% of DEF on Demi-Human race targets when performing a physical attack.
 This item is indestructible in battle.
@@ -7155,6 +7149,15 @@ Adds a 20% chance of casting ^0000FFLevel 2 Fatal Wound^000000 on the target whe
 ^FFFFFF_^000000
 If upgrade level is +9 or higher and used by Crusader Jobs,
 Adds a 20% chance of casting ^0000FFLevel 5 Gloria Domini^000000 on the target when performing a physical attack.
+^FFFFFF_^000000
+Type: ^777777Weapon^000000
+Class: ^777777Two-Hand Spear^000000
+Attack: ^777777220^000000
+Property: ^777777Neutral^000000
+Weight: ^7777770^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Swordsman Jobs^000000
 #
 1487#
 ^FF0000This item requires translation.^000000
@@ -7815,21 +7818,23 @@ Required Level: ^77777780^000000
 Jobs: ^777777Novice / Swordsman / Merchant / Acolyte^000000
 #
 1544#
-^808080An old, large black frying pan.^000000
+An old, large black frying pan.
+^6A5ACD[If base STR is 77 or higher]^000000
+ASPD +4%
+Chance of inflicting ^800000Stun^000000 on the target when performing a physical attack.
+Chance of gaining item when killing a monster of the specified race:
+Animal: ^008080Bomber Steak^000000
+Plant: ^008080Green Salad^000000 
+Fish: ^008080Steamed Ancient Lips^000000
 ^FFFFFF_^000000
-Type: Weapon
-Class: Mace
-Attack: 110
-Property: Neutral
-Weight: 70
-Weapon Level: 3
-Required Level: 50
-Jobs: Transcendent Acolyte Jobs
-^FFFFFF_^000000
-If base STR is 77 or higher,
-ASPD + 4%
-Adds a 15% chance of inflicting ^800000Stun^000000 on the target when performing a physical attack.
-Adds a 5% chance of gaining ^008080Bomber Steak^000000, ^008080Green Salad^000000 or ^008080Steamed Ancient Lips^000000 when a Brute race targets is killed.
+Type: ^777777Weapon^000000
+Class: ^777777Mace^000000
+Attack: ^777777110^000000
+Property: ^777777Neutral^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777750^000000
+Jobs: ^777777Transcendent Acolyte Jobs^000000
 #
 
 1545#
@@ -9051,11 +9056,12 @@ Dex +2
 Matk +170
 SP recovery rate +8%
 Low chance to cast ^0000FFArea Soul Drain 1^000000 on the target after a magic attack
-[If upgrade level is +10 or higher]
+^6A5ACD[If upgrade level is +10 or higher]^000000
 Casts ^0000FFArea Soul Drain 3^000000 instead
 Class: ^777777One-handed Staff^000000
 Property: ^777777Neutral^000000
-Attack: ^77777780^000000    Weight: ^77777750^000000
+Attack: ^77777780^000000    
+Weight: ^77777750^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777770^000000
 Jobs: ^777777Transcendent Mage / Transcendent Acolyte^000000
@@ -10072,34 +10078,31 @@ This item is indestructible in battle.
 #
 1740#
 A very flexible bow made of Nepenthes' tough tentacles.
-Low chance to cast ^0000FFArrow Repel 1^000000 on the target when using ^0000FFDouble Strafe^000000
+Chance to cast ^0000FF1 Lv. [Arrow Repel]^000000 on the target when using ^0000FFDouble Strafe^000000
 Class: ^777777Bow^000000
 Property: ^777777Neutral^000000
-Attack: ^777777105^000000    Weight: ^777777100^000000
+Attack: ^777777105^000000
+Weight: ^777777100^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777760^000000
 Jobs: ^777777Sniper^000000
 #
 1741#
-^808080A cursed bow that once killed a hero of an ancient nation long ago. The curse of the bow takes luck away from its user.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Bow
-Attack: 125
-Property: Neutral
-Weight: 125
-Weapon Level: 4
-Required Level: 80
-Jobs: Transcendent Archer Jobs
-^FFFFFF_^000000
-LUK - 2
-Adds a 4% chance of inflicting ^800000Curse^000000 on the target when dealing ranged attacks.
-^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Cursed Lyre [1]^000000
-^008080Cursed Star^000000
+A cursed bow that once killed a hero of an ancient nation long ago. The curse of the bow takes luck away from its user.
+LUK -2.
+Сhance of inflicting ^800000Curse^000000 on the target when dealing ranged attacks.
+^6A5ACD[When equipped with Cursed Star]^000000
 ATK + 25
-Adds a 6% chance of inflicting ^800000Curse^000000 on the target when dealing ranged attacks instead.
+Higher chance of inflicting ^800000Curse^000000 on the target when dealing ranged attack.
+^FFFFFF_^000000
+Type: ^777777Weapon^000000
+Class: ^777777Bow^000000
+Attack: ^777777125^000000
+Property: ^777777Neutral^000000
+Weight: ^777777125^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Transcendent Archer Jobs^000000
 #
 
 1742#
@@ -10829,20 +10832,19 @@ This item is indestructible in battle.
 #
 
 1825#
-^808080A knuckle made from 3 of Hillslion's horns.^000000
+A knuckle made from 3 of Hillslion's horns.
+Chance to casting ^0000FFLv. 1 Fatal Wound^000000 on the target when performing a physical attack.
+Chance to casting ^0000FFLv. 1 Occult Impaction^000000 on the target when using ^0000FFRaging Palm Strike^000000.
+Chance to casting ^0000FFLv. 5 Summon Spirit Sphere^000000 on the user when performing a physical attack.
 ^FFFFFF_^000000
-Type: Weapon
-Class: Knuckle
-Attack: 95
-Property: Neutral
-Weight: 60
-Weapon Level: 3
-Required Level: 60
-Jobs: Champion Jobs
-^FFFFFF_^000000
-Adds a 3% chance of casting ^0000FFLevel 1 Fatal Wound^000000 on the target when performing a physical attack.
-Adds a 10% chance of casting ^0000FFLevel 1 Occult Impaction^000000 on the target when using ^0000FFRaging Palm Strike^000000.
-Adds a 1% chance of casting ^0000FFLevel 5 Summon Spirit Sphere^000000 on the user when performing a physical attack.
+Type: ^777777Weapon^000000
+Class: ^777777Knuckle^000000
+Attack: ^77777795
+Property: ^777777Neutral^000000
+Weight: ^77777760^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777760^000000
+Jobs: ^777777Champion Jobs^000000
 #
 
 1826#
@@ -11333,7 +11335,7 @@ This item is indestructible in battle.
 
 1924#
 ^0000ffCharacter Bound^000000
-^808080A guitar which was created to encourage armies amidst battle. It looks useful for battles against Demi-Humans.^000000
+A guitar which was created to encourage armies amidst battle. It looks useful for battles against Demi-Humans.
 ^FFFFFF_^000000
 Type: Weapon
 Class: Instrument
@@ -11351,40 +11353,37 @@ This item is indestructible in battle.
 #
 
 1925#
-^808080An instrument with a low tone. Its 4 strings play nice calm sounds so this instrument is good for both solo and concert play.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Instrument
-Attack: 110
-Property: Neutral
-Weight: 70
-Weapon Level: 3
-Required Level: 70
-Jobs: Minstrel Jobs
-^FFFFFF_^000000
-AGI + 2
-DEX + 3
+An instrument with a low tone. Its 4 strings play nice calm sounds so this instrument is good for both solo and concert play.
+AGI +2.
+DEX +3.
 Knocks the target back 3 cells when using ^0000FFArrow Vulcan^000000.
 Knocks the target back 2 cells when using ^0000FFMelody Strike^000000.
+^FFFFFF_^000000
+Type: ^777777Weapon^000000
+Class: ^777777Instrument^000000
+Attack: ^777777110^000000
+Property: ^777777Neutral^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Minstrel Jobs^000000
 #
 
 1926#
-^808080A harp with its strings made from the tentacles of Nepenthes.^000000
+A harp with its strings made from the tentacles of Nepenthes.
+INT +2.
+Chance to inflicting ^800000Stun^000000 on the target when using ^0000FFMelody Strike^000000.
+^6A5ACD[If upgrade level is +10 or higher]^000000
+Higher chance to inflicting ^800000Stun^000000 on the target when using ^0000FFMelody Strike^000000.
 ^FFFFFF_^000000
-Type: Weapon
-Class: Instrument
-Attack: 120
-Property: Neutral
-Weight: 100
-Weapon Level: 4
-Required Level: 60
-Jobs: Minstrel Jobs, Gypsy Jobs
-^FFFFFF_^000000
-INT + 2
-Adds a 10% chance of inflicting ^800000Stun^000000 on the target when using ^0000FFMelody Strike^000000.
-^FFFFFF_^000000
-If upgrade level is +10 or higher,
-Adds an additional 10% chance of inflicting ^800000Stun^000000 on the target when using ^0000FFMelody Strike^000000.
+Type: ^777777Weapon^000000
+Class: ^777777Instrument^000000
+Attack: ^777777120^000000
+Property: ^777777Neutral^000000
+Weight: ^777777100^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777760^000000
+Jobs: ^777777Minstrel Jobs, Gypsy Jobs^000000
 #
 
 1927#
@@ -11960,40 +11959,36 @@ This item is indestructible in battle.
 #
 
 1979#
-^808080Strong and flexible whip made of Nepenthes' tentacle.^000000
+Strong and flexible whip made of Nepenthes' tentacle.
+INT +2
+Chance of inflicting ^0000FFFrozen^000000 on the target when using ^0000FF[Slinging Arrow]^000000.
+^6A5ACD[If refine level is +10 or higher]^000000
+Higher chance of inflicting ^0000FFFrozen^000000 on the target when using ^0000FF[Slinging Arrow]^000000.
 ^FFFFFF_^000000
-Type: Weapon
-Class: Whip
-Attack: 120
-Property: Neutral
-Weight: 100
-Weapon Level: 4
-Required Level: 60
-Jobs: Gypsy Jobs
-^FFFFFF_^000000
-INT + 2
-Adds a 10% chance of inflicting ^0000FFFrozen^000000 on the target when using ^0000FFSlinging Arrow^000000.
-^FFFFFF_^000000
-If upgrade level is +10 or higher,
-Adds an additional 10% chance of inflicting ^0000FFFrozen^000000 on the target when using ^0000FFSlinging Arrow^000000.
+Type: ^777777Weapon^000000
+Class: ^77777Whip^000000
+Attack: ^77777120^000000
+Property: ^77777Neutral^000000
+Weight: ^77777100^000000
+Weapon Level: ^777774^000000
+Required Level: ^7777760^000000
+Jobs: ^77777Gypsy Jobs^000000
 #
 
 1980#
-^808080A balance is attached at the tip of the whip.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Whip
-Attack: 110
-Property: Neutral
-Weight: 70
-Weapon Level: 3
-Required Level: 70
-Jobs: Gypsy Jobs
-^FFFFFF_^000000
-AGI + 2
-DEX + 3
-Knocks the target back 3 cells when using ^0000FFArrow Vulcan^000000.
-Knocks the target back 2 cells when using ^0000FFMelody Strike^000000.
+A balance is attached at the tip of the whip.
+AGI +2.
+DEX +3.
+Knocks the target back 3 cells when using ^0000FF[Arrow Vulcan]^000000.
+Knocks the target back 2 cells when using ^0000FF[Melody Strike]^000000.
+Type: ^777777Weapon^000000
+Class: ^777777Whip^000000
+Attack: ^777777110^000000
+Property: ^777777Neutral^000000
+Weight: ^77777770^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777770^000000
+Jobs: ^777777Gypsy Jobs^000000
 #
 
 1981#
@@ -12755,9 +12750,11 @@ Jobs: ^777777All^000000
 #
 2133#
 A Shield that a lance can be placed on top of. Very efficient to defend oneself while attacking with a lance.
-Damage increases by 1% against all monsters.
-When equipped with Long Horn, Battle Hook, or Hunting Spear, damage increases by 4% against all monsters.
-If equipped by a Lord Knight, Attack speed decreases(Delay after attacking increasesby 5%)
+Weapon phisical damage increases by 1% against all monsters.
+^6A5ACD[When equipped with Long Horn or Battle Hook or Hunting Spear]^000000
+Weapon phisical damage increases by 4% against all monsters.
+^6A5ACD[If set equipped by a Lord Knight]^000000
+Attack speed decreases (Delay after attacking increasesby 5%)
 Class: ^777777Shield^000000
 Defense: ^777777105^000000
 Weight: ^777777100^000000
@@ -12766,10 +12763,10 @@ Jobs: ^777777Transcendent Swordsman Class^000000
 #
 2134#
 A hard, firm-looking shield made from the scales of Naga. The scales are as sharp as blades.
-Mdef +3
-Has a chance of reflecting physical damage for 5 secs. when physically damaged.
-The rate of the damage reflection increases by 3% with each refine level up to +10
-When refine level is over 11, reflective duration increases by 1 sec for every 2 refinement 
+MDEF +3.
+Has a chance of reflecting physical damage for 5 sec. when physically damaged.
+The rate of the damage reflection increases by 3% with each refine level up to +10.
+When refine level is over 11, reflective duration increases by 1 sec. for every 2 refinement .
 Class: ^777777Shield^000000
 Defense: ^77777735^000000
 Weight: ^77777750^000000
@@ -14955,6 +14952,9 @@ Very nimble looking armor that lets you gallop like a Peco Peco. It looks like a
 Vit +1.
 HP Recovery +5% 
 Improves the effectiveness of receiving Heals and Recovery items by 3%
+^6A5ACD[When equipped with Sprint Ring and Sprint Shoes]^000000
+MaxHP and MaxSP +7% 
+Variable Casting Time reduces by 3% before using the skill and reduces by 15% after using the skill.
 Class: ^777777Armor^000000
 Defense: ^77777720^000000
 Weight: ^777777100^000000
@@ -14975,6 +14975,7 @@ Jobs: ^777777Assassin Cross^000000
 An armor made from the scales of Naga. It is very sharp and shiny and it seems like it will hurt anything that goes near it.
 Mdef +2
 Has a chance of adding Atk +20 when the wearer physically attacks an enemy.
+^ffffff_^000000
 Class: ^777777Armor^000000
 Defense: ^77777745^000000
 Weight: ^777777100^000000
@@ -15500,7 +15501,8 @@ Jobs: ^777777All^000000
 Very useful for running.  Tighten the strips and you're off to the races!
 Agi +1,
 SP Recovery +5%
-When worn with Sprint Mail and Ring, 7% increase in each MaxHP & MaxSP, 
+^6A5ACD[When equipped with Sprint Mail and Sprint Ring]^000000
+MaxHP and MaxSP +7% 
 Variable Casting Time reduces by 3% before using the skill and reduces by 15% after using the skill.
 Class: ^777777Footwear^000000
 Defense: ^77777710^000000
@@ -16348,7 +16350,7 @@ Jobs: ^777777All Except Novice^000000
 2544#
 Leather of a Tendrilion with plant stems sticking out of it.
 Resistance to Earth and Water property +5%
-Resistance to animal or plant monsters +5%
+Resistance to Animal or Plant monsters +5%
 Class: ^777777Garment^000000
 Defense: ^77777714^000000
 Weight: ^77777750^000000
@@ -17979,8 +17981,10 @@ placeholder
 2743#
 A ring which bears holy powers that responds to certain abilities and strenthens their potency.
 Int +2, Dex +1
-If the power of the ring activates when using Heal, Potion Pitcher, Sanctuary Skills, the recovery in HP of those skills increase by 20% for 3 sec.
-Mdef + 2
+Mdef +2
+^6A5ACD[When using [Heal], [Potion Pitcher], [Sanctuary] skills]^000000
+Chance to increase HP recovery by 20% of those skills for 3 sec.
+^ffffff_^000000
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17990,6 +17994,9 @@ Jobs: ^7777772nd Transcendent Class^000000
 2744#
 A ring that gives you a feeling of flying like a rocket through the wind.
 Reduces Variable Casting Tiime of skills by 10%, but increases after skill delay by 5%.
+^6A5ACD[When equipped with Sprint Mail and Sprint Shoes]^000000
+MaxHP and MaxSP +7% 
+Variable Casting Time reduces by 3% before using the skill and reduces by 15% after using the skill.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -17997,7 +18004,8 @@ Jobs: ^7777772nd Transcendent Class^000000
 #
 2745#
 A small Corsge that looks like Pinguicula.
-Mdef +2, SP +25
+MDEF +2.
+SP +25.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -18006,8 +18014,9 @@ Jobs: ^7777772nd Transcendent Class^000000
 2746#
 A little something that Assassins should have. There're a number of rumors regarding the blood stain at the end of the blade.
 Agi +3
-When equipped with Ring of Rogue, damage against medium sized monsters +8%.
-Increase in attack speed(delay after attacking reduces by 3%)
+^6A5ACD[When equipped with Ring of Rogue]^000000
+Damage against medium sized monsters +8%.
+Increase in attack speed (delay after attacking reduces by 3%)
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -18016,9 +18025,11 @@ Jobs: ^777777Assassin Cross^000000
 #
 2747#
 A pendant which symbolizes a well-known Rogue Guild among people in dark side.
-Dex + 3
-When equipped with Ring of Rogue, inflicts additional damage to large sized monsters by 8% and Variable Casting Speed -3%.
-HIT +3, reduction in Variable Casting speed by 3%
+Dex +3
+^6A5ACD[When equipped with Ring of Rogue]^000000
+Inflicts additional damage to large sized monsters by 8%.
+HIT +3.
+Reduction in Variable Casting speed by 3%.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -23344,58 +23355,44 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4441#
-MATK + 10%, Maximum SP - 50%
+MATK + 10%, Maximum SP -50%
 Increases damage inflicted on Demihuman and Angel monster by 50%.
 Class: ^777777Card^000000
 Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
-4442#
-Decreases damage from Neutral Property by 20%.
-Increases damage dealt to Neutral Property by 5%.
-Class: ^777777Card^000000
-Slot: ^777777Shield^000000
-Weight: ^7777771^000000
-#
 4443#
-Decreases damage from Water Property by 20%.
-Increases damage dealt to Water Property by 5%.
+Decreases physical damage from Water Property by 20%.
+Increases physical damage dealt to Water Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4444#
-Decreases damage from Earth Property by 20%.
-Increases damage dealt to Earth Property by 5%.
-Class: ^777777Card^000000
-Slot: ^777777Shield^000000
-Weight: ^7777771^000000
-#
-4445#
-Decreases damage from Wind Property by 20%.
-Increases damage dealt to Wind Property by 5%.
+Decreases physical damage from Earth Property by 20%.
+Increases physical damage dealt to Earth Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 //--------------------------------------------------------------------------
 4447#
-Decreases damage from Poison Property by 20%.
-Increases damage dealt to Poison Property by 5%.
+Decreases physical damage from Poison Property by 20%.
+Increases physical damage dealt to Poison Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4448#
-Decreases damage from Holy Property by 20%.
-Increases damage dealt to Holy Property by 5%.
+Decreases physical damage from Holy Property by 20%.
+Increases physical damage dealt to Holy Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4449#
-Decreases damage from Shadow Property by 20%.
-Increases damage dealt to Shadow Property by 5%.
+Decreases physical damage from Shadow Property by 20%.
+Increases physical damage dealt to Shadow Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -23407,13 +23404,14 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4451#
-Matk +100
+MATK +100
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4452#
-Int +1, Matk +3
+Int +1. 
+MATK +3
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -23461,13 +23459,22 @@ Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4462#
-Hardrock Mammoth DEF + 5. If the armor is refined to +12 or higher, DEF + 20, MaxHP + 10%. If the armor is refined to +14 or higher, MaxHP + 3%. 
+DEF +5. 
+^6A5ACD[If the armor is refined to +12 or higher]^000000
+DEF +20.
+MaxHP +10%. 
+^6A5ACD[If the armor is refined to +14 or higher]^000000
+MaxHP +3%. 
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4463#
-Tendrillion CRIT + 5. If the weapon is refined to +12 or higher, ATK + 35. If the weapon is refined to +14 or higher, CRIT + 10. 
+CRIT +5. 
+^6A5ACD[If the weapon is refined to +12 or higher]^000000
+ATK +35. 
+^6A5ACD[If the weapon is refined to +14 or higher]^000000
+CRIT +10. 
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -26382,9 +26389,7 @@ ridden rodent.
 Weight: ^7777771^000000
 #
 7008#
-A tough horn that
-might break, but
-will never bend.
+A tough horn that might break, but will never bend.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -29650,11 +29655,10 @@ Weight: ^7777771^000000
 
 // -------------- Main Quest ---------------
 7416#
-A well written letter
-of recommendation
-that is recognized by
-the Assassin Guild.
+^ff0000Account bound^000000
+A well written letter of recommendation that is recognized by the Assassin Guild.
 ^FFFFFF ^000000
+Weight: ^7777770^000000
 #
 7417#
 A written request
@@ -39613,7 +39617,8 @@ Jobs: ^777777Transcendent Swordsman / Merchant Class^000000
 
 5399#
 A Mandragora has bloomed on this hat. Don't even think about plucking the flower!
-Vit +3. Gives a chance to auto-spell Lv.5 Dazzler when physically damaged.
+Vit +3.
+Chance to auto-spell Lv.5 [Dazzler] when physically damaged.
 Unable to refine.
 Class: ^777777Headgear^000000
 Defense: ^7777775^000000
@@ -39648,9 +39653,11 @@ Required Level: ^77777770^000000
 Jobs: ^777777Stalker^000000
 #
 13039#
-A dagger made of Mammoth's Ivory.  It is very hard to be processed due to the strong solidity of the ivory. It's sharply pointed tip makes it effective for stabbing rather than cutting.
-Agi +2, Aspd +3%, Increase in attack speed(delay after attacking reduces by 3%)
-Has a consistent chance of inflicting bleeding or Lv.1 Fatal Wound while attacking.
+A dagger made of Mammoth's Ivory. It is very hard to be processed due to the strong solidity of the ivory. It's sharply pointed tip makes it effective for stabbing rather than cutting.
+Agi +2.
+ASPD +3%. 
+Increase in attack speed (delay after attacking reduces by 3%)
+Chance of inflicting ^ff0000bleeding^000000 or Lv.1 [Fatal Wound] while attacking.
 Class: ^777777Dagger^000000
 Attack: ^777777130^000000
 Weight: ^77777770^000000
@@ -39662,12 +39669,14 @@ Jobs: ^777777Transcendent Swordsman / Merchant / Thief / Archer / Wizard Class^0
 // ---------- Ep 13 Quest Items ------------
 
 6027#
-A crystal bearing strong dark forces.  Blood stains on the surface give it the feeling of evil.
+^FF0000Account Bound^000000
+A crystal bearing strong dark forces. Blood stains on the surface give it the feeling of evil.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 6028#
+^FF0000Account Bound^000000
 A sealed scroll hiding magical spells.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -39687,6 +39696,7 @@ Weight: ^7777770^000000
 #
 
 14595#
+^FF0000Account Bound^000000
 Unsealed paper full of magic spells related to transferring. 
 By using the spell, the user can be transferred to a certain place.
 ^ffffff_^000000
@@ -39724,6 +39734,7 @@ Weight: ^7777770^000000
 #
 
 6035#
+^FF0000Account Bound^000000
 An old, decaying stem of a plant.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -39738,30 +39749,35 @@ Weight: ^77777710^000000
 
 // ----------- 20080521 Ep 13 Quest Items -----------
 6036#
+^FF0000Account Bound^000000
 Rune-Midgard's investigator, Ryosen has filled out this Meeting Invitation.  The agenda and the schedule of the meeting are written. 
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6037#
+^FF0000Account Bound^000000
 A bundle of ripped and crumpled files.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight: ^7777770^000000
 #
 
 6038#
+^FF0000Account Bound^000000
 A nicely sorted document file.  A small thank you note is attached on the bottom of the file.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6039#
+^FF0000Account Bound^000000
 A piece of raw fish.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6040#
+^FF0000Account Bound^000000
 Looks like a part of the expedition's report.  Some parts are destroyed and wrinkled and can hardly be recognized.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -39774,76 +39790,88 @@ Weight: ^7777775^000000
 #
 
 6042#
+^FF0000Account Bound^000000
 Strong looking branch. Looks useful for various uses.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6043#
+^FF0000Account Bound^000000
 A letter written by Lugen to his close friend, Otto.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6044#
+^FF0000Account Bound^000000
 Otto's reply letter to Lugen.  You can feel their close friendship in it.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
 6045#
+^FF0000Account Bound^000000
 A box with various supplies.  Many living supplies with the articles of comfort are contained.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 11012#
-The first report of the expedition with the Commander's seal.  The report records all the information related to ecological environment, situations of the species and the expedition in another world.
+^FF0000Account Bound^000000
+The first report of the expedition with the Commander's seal. The report records all the information related to ecological environment, situations of the species and the expedition in another world.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 11013#
-Expedition Report Vol.1, sorted by Abidal.  The information on the expedition's settlement and occupation are all written in here.
+^FF0000Account Bound^000000
+Expedition Report Vol.1, sorted by Abidal. The information on the expedition's settlement and occupation are all written in here.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 11014#
+^FF0000Account Bound^000000
 Expedition Report Vol.2 which reports the dimensional gorge and the traces of Satan Morocc.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 11015#
+^FF0000Account Bound^000000
 Expedition Report Vol.3 which reports the ecological environment and the species.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 11016#
+^FF0000Account Bound^000000
 Expedition Report Vol.4 which reports the internal situation of the expedition and the investigation. It also introduces the future plans.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 12319#
+^FF0000Account Bound^000000
 A snack sent from the Rune-Midgarts Kingdom flavored with strawberries.
-^000088 ATK & MATK +5 for 10 minutes.^000000
+^000088 ATK and MATK +5 for 10 min.^000000
 ^ffffff_^000000
 Weight: ^77777730^000000
 #
 
 12320#
+^FF0000Account Bound^000000
 A snack sent from Schwartzwalt. Ice cold fruit juice quenches your throat and cools your whole body.
-^000088HIT +10, Flee +20 for 10 minutes.^000000
+^000088HIT +10, Flee +20 for 10 min.^000000
 ^ffffff_^000000
 Weight: ^77777730^000000
 #
 
 12321#
+^FF0000Account Bound^000000
 A snack sent from Arunafeltz. This sandwich helps developing stamina with its spicy taste.
-^000088CRI +7 for 10 minutes.^000000
+^000088CRI +7 for 10 min.^000000
 ^ffffff_^000000
 Weight: ^77777730^000000
 #
@@ -40056,11 +40084,13 @@ Job: ^777777Gunslinger^000000
 // ----------- 占싱븝옙트 占쏙옙占쏙옙占쏙옙 ------------
 
 6048#
+^ff0000Account bound^000000
 A mineral not found in Rune Midgard that any scientist would love to study.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 6049#
+^ff0000Account bound^000000
 A fish called Marlin. But, it looks a bit different from what you saw in a book.
 ^ffffff_^000000
 Weight: ^7777771^000000
@@ -48399,43 +48429,15 @@ Jobs: ^777777All^000000
 Weight: ^7777771^000000
 #
 4442#
-Decreases damage from Neutral Property by 20%.
-Increases damage dealt to Neutral Property by 5%.
-Class: ^777777Card^000000
-Slot: ^777777Shield^000000
-Weight: ^7777771^000000
-#
-4443#
-Decreases damage from Water Property by 20%.
-Increases damage dealt to Water Property by 5%.
-Class: ^777777Card^000000
-Slot: ^777777Shield^000000
-Weight: ^7777771^000000
-#
-4444#
-Decreases damage from Earth Property by 20%.
-Increases damage dealt to Earth Property by 5%.
+Decreases physical damage from Neutral Property by 20%.
+Increases physical damage dealt to Neutral Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4445#
-Decreases damage from Wind Property by 20%.
-Increases damage dealt to Wind Property by 5%.
-Class: ^777777Card^000000
-Slot: ^777777Shield^000000
-Weight: ^7777771^000000
-#
-4447#
-Decreases damage from Poison Property by 20%.
-Increases damage dealt to Poison Property by 5%.
-Class: ^777777Card^000000
-Slot: ^777777Shield^000000
-Weight: ^7777771^000000
-#
-4448#
-Decreases damage from Holy Property by 20%.
-Increases damage dealt to Holy Property by 5%.
+Decreases physical damage from Wind Property by 20%.
+Increases physical damage dealt to Wind Property by 5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -48451,18 +48453,6 @@ Weight: ^7777771^000000
 Matk +100
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
-Weight: ^7777771^000000
-#
-4452#
-Int +1, Matk +3
-Class: ^777777Card^000000
-Slot: ^777777Weapon^000000
-Weight: ^7777771^000000
-#
-4453#
-Atk +25
-Class: ^777777Card^000000
-Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 18532#
@@ -50442,24 +50432,6 @@ number ''^0000881^000000'' which is used for special events.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
-
-
-
-
-14447#
-A box that contains 1 Scallywag's Hat
-Description:
-Aaarrrgghhhh, this hat be made out of bona fide unidentified dead animal leather. With time, aging and weathering, most of the hat formed into it's current shape and dyed a bright red.
-Str +1
-Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777771^000000
-Weight: ^77777750^000000
-Required Level: ^77777720^000000
-Jobs: ^777777All^000000
-#
-
 5774#
 Aaarrrgghhhh, this hat be made out of bona fide unidentified dead animal leather. With time, aging and weathering, most of the hat formed into it's current shape and dyed a bright red.
 Str +1
@@ -65730,18 +65702,6 @@ Location: ^777777Upper ^000000Weight: ^77777750^000000
 Required Level: ^77777770^000000
 Job: ^777777All^000000
 #
-18893#
-I feel the power of a flame dragon flowing inside me!
-Increase resistance against Dragon and Demi-human by 8%
-Increases healing effect of Meat by 200%
-if refined to 12, increase MHP + 7%, MSP + 3%
-^FF0000Winner of pRO's Headgear-making contest 2012
-Created by bladetip of pRO Valkyrie Server^000000
-Type: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Upper ^000000Weight: ^777777100^000000
-Required Level: ^77777710^000000
-Job: ^777777All^000000
-#
 18894#
 ''Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty.
 There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell''
@@ -66728,13 +66688,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
-19841#
-A legendary headgear.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
 19842#
 A hat with small brown puppy.
 Class: ^777777Costume^000000
@@ -66825,13 +66778,6 @@ Job: ^777777All^000000
 #
 19957#
 A safety equipment for motor scooter riding.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
-#
-19958#
-A Hat worn in church choir.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Req Lvl.: ^7777771^000000
@@ -88171,17 +88117,6 @@ Weight: ^7777770^000000
 New Year's gift for the kind and loving Phina.
 Weight: ^7777770^000000
 #
-
-20088#
-Mask of the mighty Eastern dragonlord.
-He lives in an underwater palace and rules over the sea, rain and clouds.
-^ff0000Animated^000000
-Class: ^777777Costume^000000
-Location: ^777777Upper^000000
-Defense: ^7777770^000000    Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
 20249#
 A red wig designed for those who broke their limits in being incredibly stylish.
 ^ff0000Animated^000000
@@ -90483,3 +90418,126 @@ Delicious nut butter inside!
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
+9721#
+A casket in the form of a scaly egg, decorated with an artificial wyvern skull.
+It looks beautiful and scary at the same time.
+Open the box and receive one of the following items:
+Sillit Pong
+Flames of Rage
+Devil Wings
+Silvervine	x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Longwang Hat
+Inf. Giant Fly Wing Box (1 h.)
+Tall Dragon Hat
+Copper Dragon Helmet
+Nidhoggur's White Wig
+Dragon Knight Helm
+Dragon Claw Helm
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Sparkling Candy x11
+Glass of Illusion x11
+Guarana Candy x7
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Superb Fish Slice x25
+Taoist Pills x15
+Big Bun x20
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20088#
+An unusual hat in the shape of the Dragon Prince's head.
+You must be especially fond of the legendary Dragon Court!
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19575#
+A tall hat shaped like the head and neck of an angry black dragon.
+Put it on to transform into a two-headed beast! Monsters will scatter in horror!
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19841#
+Copper helmet in the form of a dragon's head.
+Decorated with white horsehair.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31406#
+White wig with decorative dragon wings.
+It mimics the hairstyle of Nidhoggur, the protector of Yggdrasil.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31884#
+Those who swear allegiance to the Dragon Prince become his champions, the Dragon Knights.
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+18893#
+Instead of blood, living fire flows in your veins!
+You are the Chosen One of the dragonkin!
+^ffffff_^000000
+Increase resistance against Dragon and Demi-human monsters by 8%.
+Increases healing effect of Meat by 200%.
+^6A5ACD[If refine rate is 12 or higher]^000000 
+MaxHP +7%.
+MaxSP +3%.
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777775^000000   Weight: ^777777100^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19958#
+^ff0000Account Bound^000000
+A cap worn by members of the church choir.
+Have you ever tried to sing chorales?
+^ffffff_^000000
+Class: ^777777Costume^000000 
+Location: ^777777Upper ^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Req Lvl.: ^7777771^000000
+Job: ^777777All^000000#

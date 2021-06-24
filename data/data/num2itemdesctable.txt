@@ -43580,18 +43580,6 @@ Location: ^777777Upper ^000000Weight: ^77777750^000000
 Required Level: ^77777770^000000
 Job: ^777777All Jobs^000000
 #
-18893#
-I feel the power of a flame dragon flowing inside me!
-Increase resistance against Dragon and Demi-human by 8%
-Increases healing effect of Meat by 200%
-if refined to 12, increase MHP + 7%, MSP + 3%
-^FF0000Winner of pRO's Headgear-making contest 2012
-Created by bladetip of pRO Valkyrie Server^000000
-Type: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Upper ^000000Weight: ^777777100^000000
-Required Level: ^77777710^000000
-Job: ^777777All Jobs^000000
-#
 18894#
 ''Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty.
 There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell''
@@ -44405,13 +44393,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
-19841#
-A legendary headgear.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
-#
 19842#
 A hat with small brown puppy.
 Class: ^777777Costume^000000
@@ -44502,13 +44483,6 @@ Job: ^777777All^000000
 #
 19957#
 A safety equipment for motor scooter riding.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Req Lvl.: ^7777771^000000
-Job: ^777777All^000000
-#
-19958#
-A Hat worn in church choir.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Req Lvl.: ^7777771^000000
@@ -54738,10 +54712,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 14523#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
-
-20088#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
-#
 20249#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000..
 #
@@ -56010,4 +55980,70 @@ Chocolate candy with crushed hazelnut sprinkles.
 Delicious nut butter inside!
 ^ffffff_^000000
 Weight: ^7777770^000000
+#
+9721#
+A casket in the form of a scaly egg, decorated with an artificial wyvern skull.
+It looks beautiful and scary at the same time.
+Open the box and receive one of the following items:
+Sillit Pong
+Flames of Rage
+Devil Wings
+Silvervine	x1000
+Battle Manual (24 h.)
+Bubble Gum (24 h.)
+Longwang Hat
+Inf. Giant Fly Wing Box (1 h.)
+Tall Dragon Hat
+Copper Dragon Helmet
+Nidhoggur's White Wig
+Dragon Knight Helm
+Dragon Claw Helm
+Bubblegum Battle Manual	x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Sparkling Candy x11
+Glass of Illusion x11
+Guarana Candy x7
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Superb Fish Slice x25
+Taoist Pills x15
+Big Bun x20
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20088#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19575#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19841#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31406#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31884#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+18893#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19958#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

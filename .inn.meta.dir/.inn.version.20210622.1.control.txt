@@ -1,0 +1,142 @@
+distribution {1}
+    version=20210622.1
+    type=full
+    env=
+    files=./
+    control-hash=13ffd2c5c10781803d1271ef1dcaafb43385f6e3
+    deleted-control-hash=56076243c4907953312bdba83807888880693a2a
+    command-hash=a9dea54a0dcccb11071f3c831acabf4b52d24abe
+    adapter-hash=
+    compressed-size=1890724751
+    size=2093818471
+    compressed-size-total=1890724751
+    size-total=2093818471
+    compressed-stages=
+
+delta {24}
+    version=20210302.0
+    files=../delta/20210302.0/
+    compressed-size=66880443
+    control-hash=c4c94a8c234280417024c8f189ed556da95b366e
+
+    version=20210302.1
+    files=../delta/20210302.1/
+    compressed-size=66879538
+    control-hash=7444d9d00469d06fe06c45778c5b3715a3e4b8eb
+
+    version=20210305.0
+    files=../delta/20210305.0/
+    compressed-size=66879309
+    control-hash=a8b51cf6e1c1da57ecb569217ceb4bb99a2d9e15
+
+    version=20210309.0
+    files=../delta/20210309.0/
+    compressed-size=66879153
+    control-hash=b9b7dd57f1ef4281d509d9b783f4f1077449214a
+
+    version=20210316.0
+    files=../delta/20210316.0/
+    compressed-size=66494052
+    control-hash=951e9e4fb33be8a9e48878a8414505863e4fe802
+
+    version=20210323.0
+    files=../delta/20210323.0/
+    compressed-size=61385213
+    control-hash=a3dd8e353023cca498a68d239701b6dfcbc4b619
+
+    version=20210330.0
+    files=../delta/20210330.0/
+    compressed-size=59837370
+    control-hash=0ccab99f1b832484ebe01b996512dae0c215fa29
+
+    version=20210406.0
+    files=../delta/20210406.0/
+    compressed-size=59831921
+    control-hash=b033439f663bc1d1d5682ea4a5aea80de30cc108
+
+    version=20210413.0
+    files=../delta/20210413.0/
+    compressed-size=51392426
+    control-hash=c9b142f393038d3b51ff7dea6fbaa80583c07060
+
+    version=20210413.1
+    files=../delta/20210413.1/
+    compressed-size=51359577
+    control-hash=d4cd1d0c8d67bd1337c310fc07f3c3b46bf90fee
+
+    version=20210414.0
+    files=../delta/20210414.0/
+    compressed-size=51356973
+    control-hash=8f6bad78aa3e07093dad5932007614cb1ad17843
+
+    version=20210420.0
+    files=../delta/20210420.0/
+    compressed-size=46135596
+    control-hash=ff00dcf79aa3ff5e925ba041da8431e40b0b5d2e
+
+    version=20210427.0
+    files=../delta/20210427.0/
+    compressed-size=42691296
+    control-hash=0fd9502bb15cf028b195f56d94edfb7bee86e73c
+
+    version=20210504.0
+    files=../delta/20210504.0/
+    compressed-size=42685740
+    control-hash=5a73cc96af534c6789d72e1285c0847e9a4985f0
+
+    version=20210511.0
+    files=../delta/20210511.0/
+    compressed-size=38440547
+    control-hash=e7c54e8b093ef7f8de9cb537444849895b979a9a
+
+    version=20210518.0
+    files=../delta/20210518.0/
+    compressed-size=31090132
+    control-hash=78a2fef92b6877a2ef0b0f6f6bad582c43e81acb
+
+    version=20210519.0
+    files=../delta/20210519.0/
+    compressed-size=31049892
+    control-hash=7934fc95d1c17f8e52ccca1c505b678ae40b4710
+
+    version=20210519.1
+    files=../delta/20210519.1/
+    compressed-size=31008801
+    control-hash=81fd9038276480c34d18f32dd5948403753194ae
+
+    version=20210525.0
+    files=../delta/20210525.0/
+    compressed-size=30783087
+    control-hash=8a05e28f27b8eeb3358399e9da22359f7b8994b5
+
+    version=20210526.0
+    files=../delta/20210526.0/
+    compressed-size=27080977
+    control-hash=a587f3aa0d17ceff428ff224f9dc458d92fdbded
+
+    version=20210601.0
+    files=../delta/20210601.0/
+    compressed-size=26831343
+    control-hash=b06d0e8db1e145433bef98ae0b0d5215eb8b3088
+
+    version=20210607.0
+    files=../delta/20210607.0/
+    compressed-size=22765179
+    control-hash=37aa56cd37d6ca51856218feb61585f5a1dcbb0c
+
+    version=20210616.0
+    files=../delta/20210616.0/
+    compressed-size=21975642
+    control-hash=ed0094060a6ceeb03844034eb2cd31d8cd19d5fa
+
+    version=20210622.0
+    files=../delta/20210622.0/
+    compressed-size=1611994
+    control-hash=1d9fda34f7f0555824495f776229b900750db28b
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-06-22T19:51:29+03:00
+    date-modified=2021-06-22T19:51:29+03:00
+    running-time-sec=1154
+
