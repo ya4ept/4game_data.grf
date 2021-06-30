@@ -1,0 +1,22 @@
+distribution {1}
+    version=20210630.0-live
+    type=env
+    env=live
+    files=./live/
+    control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    deleted-control-hash=4903bd142d0787c964d7894f7336635f7568ad15
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=0
+    size=0
+    compressed-size-total=2359278864
+    size-total=2678053071
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-06-29T21:18:37+03:00
+    date-modified=2021-06-29T21:18:37+03:00
+    running-time-sec=574
+

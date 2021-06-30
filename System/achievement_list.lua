@@ -2024,6 +2024,48 @@ achievement_tbl = {
 		reward = { item = 22876 },
 		score = 20
 	},
+	[128008] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Уничтожение Бафомета.",
+		content = {
+			summary = "Убейте Бафомета 1 раз.",
+			details = "Завершите прохождение гробницы Бафомета."
+		},
+		resource = { [1] = { text = "Убейте Бафомета 1 раз.", count = 1 } },
+		reward = {},
+		score = 10
+	},
+	[128009] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Уничтожение Бафомета.",
+		content = {
+			summary = "Убейте Бафомета 10 раз.",
+			details = "Завершите прохождение гробницы Бафомета."
+		},
+		resource = { [1] = { text = "Убейте Бафомета 10 раз.", count = 10 } },
+		reward = {},
+		score = 20
+	},
+	[128010] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Уничтожение Бафомета.",
+		content = {
+			summary = "Убейте Бафомета 50 раз.",
+			details = "Завершите прохождение гробницы Бафомета."
+		},
+		resource = { [1] = { text = "Убейте Бафомета 50 раз.", count = 50 } },
+		reward = {},
+		score = 50
+	},
 	[129001] = {
 		UI_Type = 0,
 		group = "ADVENTURE",
