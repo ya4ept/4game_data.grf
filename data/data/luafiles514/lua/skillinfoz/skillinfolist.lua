@@ -9321,7 +9321,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_CALLPARTNER] = {
 		"WE_CALLPARTNER",
-		SkillName = "Romantic Rendeavous!!",
+		SkillName = "Romantic Rendeavous",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -11968,7 +11968,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CG_SPECIALSINGER] = {
 		"SKID_CG_SPECIALSINGER",
-		SkillName = "Experienced father",
+		SkillName = "Skilled Special Singer",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,

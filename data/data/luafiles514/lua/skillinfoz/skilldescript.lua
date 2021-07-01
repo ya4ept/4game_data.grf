@@ -4300,6 +4300,21 @@ SKILL_DESCRIPT = {
 		"location. This skill is disabled in certain",
 		"places, such as WoE areas.^000000"
 	},
+	[SKID.WE_ONEFOREVER] = {
+		"[Love is stronger than death]",
+		"Skill Form: ^777777Wedding Skill^000000",
+		"Description:^777777Restores a family member",
+		"that is out of combat to HP 30%.^000000",
+		"^777777The effect is not triggered if the",
+		"family is in the Undead attribute.^000000"
+	},
+	[SKID.WE_CALLALLFAMILY] = {
+		"[Family Unity]",
+		"Skill Form: ^777777Wedding Skill^000000",
+		"Description: ^777777The family members ",
+		"on the same map are brought to your location.^000000",
+		"^777777Your family members must be in the same party.^000000"
+	},
 	[SKID.ITM_TOMAHAWK] = { "[Tomahawk Throwing]" },
 	[SKID.LK_AURABLADE] = {
 		"[Aura Blade]",
@@ -4307,15 +4322,14 @@ SKILL_DESCRIPT = {
 		"^777777Skill Requirement: Bash 5, Magnum Break 5,",
 		"Two Handed Sword Mastery 5^000000",
 		"Skill Form: ^777777Supportive^000000",
-		"Description: ^777777Enchant equipped weapon with an",
-		"aura that will grant additional damage that is",
-		"unaffected by the caster's Accuracy Rate or the",
-		"enemy's Defense.^000000",
-		"[Lv 1]: ^777777+20 Damage^000000",
-		"[Lv 2]: ^777777+40 Damage^000000",
-		"[Lv 3]: ^777777+60 Damage^000000",
-		"[Lv 4]: ^777777+80 Damage^000000",
-		"[Lv 5]: ^777777+100 Damage^000000"
+		"Description : ^777777Produces a special aura around the equipped weapon to strengthen its power temporarily.",
+		"Damage is affected by the caster's base level.^000000",
+		"^ffffff_^000000",
+		"[Lv 1] : ^777777Additional Damage : Base level X 4^000000",
+		"[Lv 2] : ^777777Additional Damage : Base level X 5^000000",
+		"[Lv 3] : ^777777Additional Damage : Base level X 6^000000",
+		"[Lv 4] : ^777777Additional Damage : Base level X 7^000000",
+		"[Lv 5] : ^777777Additional Damage : Base level X 8^000000"
 	},
 	[SKID.LK_PARRYING] = {
 		"[Parry]",
@@ -6402,6 +6416,17 @@ SKILL_DESCRIPT = {
 		"[Lv. 3] ^777777Movement/attack speed 80%^000000",
 		"[Lv. 4] ^777777Movement/attack speed 90%^000000",
 		"[Lv. 5] ^777777Movement/attack speed 100%^000000"
+	},
+	[SKID.CG_SPECIALSINGER] = {
+		"[Skilled Special Singer]",
+		"Max Level : 1",
+		"^777777Skill Requirements:",
+		"Minstrel: Marionette Control 1, Unchained",
+		"Serenade 3, Music Lessons 10",
+		"Gypsy: Marionette Control 1, Hip Shaker 3,",
+		"Dance Lessons 10^000000",
+		"Description : ^777777Overcome fatigue after",
+		"ensemble by gypsy and clown right away.^000000"
 	},
 	[SKID.CG_HERMODE] = {
 		"[Hermode's Rod]",

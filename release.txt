@@ -1,3 +1,25 @@
+01.07.2021 11:39
+Imp
+The maintenance is over, the server is online. Changelog:
+
+https://eu.4gameforum.com/threads/683188/
+
+Shop:
+— The Kafra shop range is updated. New useful decorative equipment is now available. Check it;
+— The XP Packs have been added to 4game launcher: useful consumables at a discounted price are available until 07.07
+
+Finished activities:
+— The Summertime Treasure and its sets are removed from the launcher and Kafra shop;
+— The Emperium Box is no longer be available in Kafra shop.
+
+Fixes:
+— Poring Hotpot can be stored now;
+— added the possibility to restart the Assassin job change quest after the disconnect;
+— added missing skill descriptions for some skills;
+— corrected monster spawn during the Wizard job change quest;
+— Izlude minimap navigation is fixed.
+
+================
 25.06.2021 14:05
 Imp
 We need to close for a short maintenance to fix a few little but important things. 

@@ -2,11 +2,11 @@ d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-48ad398b9bb7cd707c574925dbbaab62 *data.grf
+728817ad145cf894e2d91a9df17c69ec *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
-f78e012376e289094fe7107bbb75d4ee *licence.txt
+c100b5d1fc6f4f4c7db3dc1bf5d8b7dd *licence.txt
 19d292b0d8d417c90440b41aefd8a38e *mfc110.dll
 e9503911178352a473eeba6ab0768ff7 *mfc140.dll
 2dc882a3d0a01ebd6698e3e46db5834c *mfcm140.dll
@@ -38,7 +38,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 e61b4135fa2600247b074065a5f35ba6 *Frost\frostinfo.txt
-830fb07428127119a0876824beef4cfd *Frost\frostInit.log
+19af04ee9c3d93684ca64f811e1fb954 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -46,7 +46,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 9e9981908f0cfcf229e0f07da00951bf *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-9927fa9721e1ad8a806f91755fe04a17 *Frost\launcherUpdater.log
+f5905ceedb7f908270db7e6caccfdde7 *Frost\launcherUpdater.log
 fb9a5faddd75389b83efda3145c07c98 *Frost\ro.exe
 2972a25cdc6c9b76e2623c97fa9765e0 *Frost\.inn.meta.dir\.inn.cache.txt
 2972a25cdc6c9b76e2623c97fa9765e0 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -57,12 +57,12 @@ fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.cont
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
 4ee6254633853406d8ae893932b76c11 *System\achievement_list.lub
 a46edcff7901a3462d25baa88db60f9a *System\checkattendance.lub
-89c7326885b1c30a59bfe27a70263ca1 *System\iteminfo.lub
+2732c129132805ea418e3750f963f4ea *System\iteminfo.lub
 070f3d654f1cd8663f5bcc80eba51ce5 *System\monster_size_effect.lub
 5fde27f0179ff3af4343a6eeca13d1cf *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
 c171ba082bc4ba94c221c7d66f569dc7 *System\optioninfo.lub
 14b3ad7ce1052eae2a826b8d7c003636 *System\petevolutioncln.lub
-60c6c1711392c3b0787821b8ae6f323f *System\towninfo.lub
+ae0022f989b2c50a51b4226e37a43ba0 *System\towninfo.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub
 01b292af47edea89613314d96aca54e8 *System\LuaFiles514\OptionInfo.lub

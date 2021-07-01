@@ -1,15 +1,7 @@
 mapNPCInfoTable = {
 	prontera = {
-		{ name = "Convenience", X = 146, Y = 89, TYPE = 6 },
-		{ name = "Convenience", X = 151, Y = 29, TYPE = 6 },
-		{ name = "Convenience", X = 282, Y = 200, TYPE = 6 },
-		{ name = "Convenience", X = 29, Y = 207, TYPE = 6 },
-		{ name = "Convenience", X = 152, Y = 326, TYPE = 6 },
-		{ name = "Guide", X = 154, Y = 187, TYPE = 4 },
-		{ name = "Guide", X = 282, Y = 208, TYPE = 4 },
-		{ name = "Guide", X = 29, Y = 200, TYPE = 4 },
-		{ name = "Guide", X = 160, Y = 29, TYPE = 4 },
-		{ name = "Guide", X = 151, Y = 330, TYPE = 4 },
+		{ name = "Convenience", X = 134, Y = 88, TYPE = 6 },
+		{ name = "Guide", X = 121, Y = 87, TYPE = 4 },
 		{ name = "Miscellaneous", X = 134, Y = 221, TYPE = 0 },
 		{ name = "Weapons", X = 175, Y = 220, TYPE = 1 },
 		{ name = "Blacksmith", X = 179, Y = 184, TYPE = 3 },
@@ -21,12 +13,10 @@ mapNPCInfoTable = {
 		{ name = "Miscellaneous", X = 290, Y = 221, TYPE = 0 }
 	},
 	izlude = {
-		{ name = "Convenience", X = 128, Y = 148, TYPE = 6 },
-		{ name = "Guide", X = 129, Y = 175, TYPE = 4 },
-		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
-		{ name = "Guide", X = 120, Y = 206, TYPE = 4 },
-		{ name = "Merchant", X = 112, Y = 179, TYPE = 0 },
-		{ name = "Blacksmith", X = 162, Y = 125, TYPE = 3 }
+		{ name = "Convenience", X = 134, Y = 88, TYPE = 6 },
+		{ name = "Guide", X = 121, Y = 87, TYPE = 4 },
+		{ name = "Weapons", X = 110, Y = 150, TYPE = 1 },
+		{ name = "Armors", X = 100, Y = 160, TYPE = 2 }
 	},
 	geffen = {
 		{ name = "Convenience", X = 120, Y = 62, TYPE = 6 },
@@ -329,7 +319,7 @@ main = function()
 	for mapName, info in pairs(mapNPCInfoTable) do
 		for k, v in pairs(info) do
 			result, msg = AddTownInfo(mapName, v.name, v.X, v.Y, v.TYPE)
-			if not result == true then
+			if  not result == true then
 				return false, msg
 			end
 		end
