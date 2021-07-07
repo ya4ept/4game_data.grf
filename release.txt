@@ -1,3 +1,23 @@
+07.07.2021 12:03
+CM_Godfather
+Guys, we are going to need a bit more time than initially planned. We hope that one more hour should be enough to prepare everything and get the server up and running better than ever!
+
+CM_Godfather 12:51
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Saintly Treasure is here both individually and in packs to Bestow you with power from the gods. Check our Launcher and the Shop.
+
+Finished activities:
+—The XP Packs were removed from the launcher.
+
+Fixes and changes:
+— Some localization errors were corrected.
+— If you experienced connection issues while doing the Assassin Quest, you now can try to do it again.
+
+https://eu.4gameforum.com/threads/683308/
+
+================
 01.07.2021 11:39
 Imp
 The maintenance is over, the server is online. Changelog:

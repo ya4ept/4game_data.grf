@@ -2607,8 +2607,7 @@ StateIconList[EFST_IDs.EFST_PHI_DEMON] = {
 	descript = {
 		{ "Ancient Spirit of Daebujeok", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Give Demon type Monster" },
-		{ "Physical, Magic damage is increased" }
+		{ "Increase damage to demon monsters" }
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {

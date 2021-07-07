@@ -2074,5 +2074,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Thanos_Helm_2] = "_Thanos_Helm_2",
 	[ACCESSORY_IDs.ACCESSORY_Thanos_Helm2_LT] = "_Thanos_Helm2_LT",
 	[ACCESSORY_IDs.ACCESSORY_C_Rose_Crispinette] = "_C_Rose_Crispinette",
-	[ACCESSORY_IDs.ACCESSORY_C_Cherry_Ribbon] = "_C_Cherry_Ribbon"
+	[ACCESSORY_IDs.ACCESSORY_C_Cherry_Ribbon] = "_C_Cherry_Ribbon",
+	[ACCESSORY_IDs.ACCESSORY_C_Feather_Stola] = "_C_Feather_Stola"
 }

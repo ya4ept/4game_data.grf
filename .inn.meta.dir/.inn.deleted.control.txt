@@ -6,6 +6,7 @@
 2|data.grf|8ddd045e78b5f0f98ecb155af528ebccbed6a2fa
 2|data.grf|96e9571bcc82ac3883706fbc21f4c0c5d526ac97
 2|data.grf|a06e0fc64b4bb101f88e8e305eaec8439a736e4a
+2|data.grf|b467ad1d30605d4e0d9f548680368c308c8ef7e0
 2|data.grf|bc0545cb55d5f6e3608fa876ce598abdb90d35b2
 2|data.grf|ee89116f52977660bf510322cdbcac2594af9d1c
 2|data.grf|fcfe57177ebf18196e01bdc4b5709bd3711140af
@@ -16,7 +17,8 @@
 2|system\iteminfo.lub|0739b86986a4ddde98db917d48de398fb35958a7
 2|system\iteminfo.lub|691a8cd84d1fc9290272b73480eeda3aabd0fc3c
 2|system\iteminfo.lub|73aa26e3914d81626823c8ba3824496bf3aa7a4f
+2|system\iteminfo.lub|8d6f7c5affc5173a996fb7ee54afe3b309b44088
 2|system\iteminfo.lub|d8af5446d3b4faad7e0fd166dcc024af9fbf53ce
 2|system\iteminfo.lub|de563366bf6b11bc6067bf75d427a72d581bfad5
 2|system\iteminfo.lub|f0f8463becc97be1930449b735344cd166fcefe5
-2|system\towninfo.lub|1e7f119849ade04057e2892bfd4c2e43a92863ae
+2|System\towninfo.lub|1e7f119849ade04057e2892bfd4c2e43a92863ae
