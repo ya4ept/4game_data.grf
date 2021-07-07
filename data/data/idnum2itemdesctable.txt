@@ -54633,25 +54633,6 @@ Weapon Level: ^7777772^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Sage, Taekwon Master^000000
 #
-20325#
-^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC40% Bonus Attack Damage to Earth Element Targets^000000
-A staff with a
-hynpotizing effect
-that can even make
-a Novice feel just like   a High Wizard. Sort of.
-Int + 1, MATK + 120
-^CC0000This item is not Refinable^000000
-Class: ^777777Staff^000000
-Attack Strength: ^777777100^000000
-Weight: ^77777750^000000
-Property:^777777Neutral^000000
-Weapon Level: ^7777773^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Novice, Mage,
-Acolyte Classes, and Soul Linker^000000
-#
 20326#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
 ^CC0000This Rental Weapon is not Tradable^000000
@@ -54796,20 +54777,6 @@ Weight: ^777777230^000000
 Weapon Level: ^7777772^000000
 Required Level: ^7777771^000000
 Jobs:^777777Gunslinger^000000
-#
-20338#
-^00CC00Contains 1 item (available for 2 weeks). The box is tradable, but its contents are not, please read the description.^000000
-^CC0000Rental item^000000
-^CC0000Cannot be traded^000000
-A top of the line, high performance grenade launcher.
-Low chance to destroy an enemy's armor after a melee attack
-Damage to Earth monsters +20%
-Cannot be upgraded
-Class: ^777777Grenade Launcher^000000
-Attack: ^777777241^000000    Weight: ^777777120^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Gunslinger^000000
 #
 20339#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The Box is Tradable, but the item that comes out of it may not be, please read the description.^000000
@@ -90540,4 +90507,180 @@ Class: ^777777Costume^000000
 Location: ^777777Upper ^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
 Req Lvl.: ^7777771^000000
-Job: ^777777All^000000#
+Job: ^777777All^000000
+#
+20190#
+^FF0000Account Bound^000000
+Unique crown of the Pig Farm King, adorned with feathers and a cockscomb.
+What are you talking about? It's just a chicken? This is nonsense!
+EXP +10%
+Physical and magical damage against Animals monster +5%.
+Flee +10.
+CRIT +5.
+^ff0000[Effects are active only during the event (until July 07, 2021).]^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+12240#
+^FF0000Account Bound^000000
+There seems to be something edible inside...
+I wonder what is there? 
+Open the box and receive one of the following items:
+Garlic Lard x100 
+Garlic Lard x50 
+Smoked Pork x75 
+Salted Bacon x60
+Garlic Lard x10
+Salted Bacon x20
+Smoked Pork x10
+Salted Bacon x12
+Smoked Pork x6
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+11559#
+^FF0000Account Bound^000000
+Homemade bacon salted in onion peel.
+Fragrant and mouth-watering!
+Restores 5% HP
+ATK and MATK +10 for 3 min.	
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+11708#
+^FF0000Account Bound^000000
+A large piece of pork smoked using hardwood logs.
+The taste is unmatched!
+Restores 10% HP
+ATK and MATK +10 for 3 min.
+ASPD +3% for 3 min.
+Casting Time -5% for 3 min.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+11529#
+^FF0000Account Bound^000000
+Rendered pork fat tossed with crushed garlic.
+Spread it on bread and taste it! How delicious!
+Restores 15% HP
+ATK and MATK +10 for 3 min. 
+ASPD +3% for 3 min. 
+Casting Time -5% for 3 min. 
+Cast [Assumptio] Lv. 5.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+9646#
+It seems that there is only sea water in this casket.
+But is it really so? You will have to check it yourself!
+Fearlessly dip your hand into the box and receive one of the following items:
+Sea Angel Wings
+Aura of Downpour
+Miracle Aquarium
+Silvervine x1000
+Mermaid's Wig
+Inf. Giant Fly Wing Box (1 h.)
+Golden Fish Hat
+Shrimp King Hat
+Rainbow Octopus
+Octoporing Balloon
+Hungry Fish Hat
+Giant Fly Wing x8
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Enriched Elunium x2
+Enriched Oridecon x2
+Token of Ziegfried x6
+Taoist Pills x15
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Glass of Illusion x11
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Water of Life x7
+Superb Fish Slice x25
+Big Bun x20
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20579#
+Who lives in the big temple under the sea?
+Glorious and brave and mighty is he?
+He is endowed with great wisdom and wits!
+Enemies tremble as he spreads his wings!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20325#
+It seems that you can admire the floating fish forever...
+And indeed you can! Our Miracle Aquarium will give you the opportunity to watch fish anywhere, anytime!
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19857#
+It is very handy when your headdress is also your advisor!
+Glory to the Shrimp King!
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20338#
+Seven colors of the rainbow, one limb for each!
+And the one remaining tentacle is white.
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31425#
+Octoporings do exist! They look like this - see this balloon?
+It's an ancient and wise race living at the bottom of the ocean! Why don't you believe me?
+^FF0000Animated^000000
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31504#
+Sorry... Something seems to be trying to eat your head!
+So is it just a hat? Then why is it winking at me?
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#

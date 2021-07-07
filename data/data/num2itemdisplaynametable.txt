@@ -6893,7 +6893,6 @@
 
 17517#Costama  Animals#
 19842#Headgear#
-20190#Hat#
 20191#Hairband#
 20192#Accessory#
 20193#Accessory#
@@ -8165,3 +8164,17 @@
 31406#Hat#
 31884#Hat#
 18893#Helmet#
+
+20190#Hat#
+12240#Provision Box#
+11559#Salted Bacon#
+11708#Smoked Pork#
+11529#Garlic Lard#
+
+9646#Tidal Treasure#
+20579#Garment#
+20325#Accessory#
+19857#Hat#
+20338#Hat#
+31425#Accessory#
+31504#Hat#

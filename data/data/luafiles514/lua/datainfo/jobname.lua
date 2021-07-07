@@ -3519,5 +3519,8 @@ JobNameTable = {
 	[jobtbl.JT_DALCOM] = "dalcom",
 	[jobtbl.JT_BIG_DALCOM] = "dalcom",
 	[jobtbl.JT_SAECOM] = "SAECOM",
-	[jobtbl.JT_4_BONFIRE] = "4_bonfire"
+	[jobtbl.JT_4_BONFIRE] = "4_bonfire",
+	[jobtbl.JT_E_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
+	[jobtbl.JT_EVT_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
+	[jobtbl.JT_E_SAVAGE] = "SAVAGE"
 }

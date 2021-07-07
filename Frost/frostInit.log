@@ -6,7 +6,7 @@ frostInitialize:
 frostFinalize:
 frostSetUserName:
 frostSetUserNameW:
-setUserName()  
+finish() 
 FrostInt - 2.1
 init(./Frost/gameShieldDll.dll)
 instance of shieldSecurityDll created
@@ -15,5 +15,5 @@ frostInitialize:
 frostFinalize:
 frostSetUserName:
 frostSetUserNameW:
-finish() 
+setUserName()  
 finish() 

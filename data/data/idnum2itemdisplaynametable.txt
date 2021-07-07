@@ -6935,7 +6935,6 @@
 //-------------Costama Animals------------
 17517#Costama Animals#
 19842#C Puppy Hat#
-20190#C Chicken Hat#
 20191#C Black Cat Ears Beret#
 20192#Green Foxtail#
 20193#C Foxtail#
@@ -9261,3 +9260,17 @@
 18893#Dragon Claw Helm#
 
 19958#Chorist Cap#
+
+20190#Cackling Crown#
+12240#Provision Box#
+11559#Salted Bacon#
+11708#Smoked Pork#
+11529#Garlic Lard#
+
+9646#Tidal Treasure#
+20579#Sea Angel Wings#
+20325#Miracle Aquarium#
+19857#Shrimp King Hat#
+20338#Rainbow Octopus#
+31425#Octoporing Balloon#
+31504#Hungry Fish Hat#

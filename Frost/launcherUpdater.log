@@ -52,4 +52,4 @@ started perform_delete_command()
 delated file I:\Love\4game\euRO\Frost\FrostConfigs.exe GetLastError=2
 delated file I:\Love\4game\euRO\Frost\whitenames.wl GetLastError=2
 will start launcher with params: "I:\Love\4game\euRO\Frost\\ro.exe" 1rag1 id:666 pw:999 -frostGame ..\Ragexe.exe -frostOptions 69 -frostGameNameType roeu_live, using CreateProcess
-CreateProcess: 1, lastError: 3
+CreateProcess: 1, lastError: 0
