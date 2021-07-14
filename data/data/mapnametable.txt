@@ -964,3 +964,5 @@ epay_dun00.rsw#Unknown area#
 eprt_fild02.rsw#Prontera Fields (Course) #
 egef_swn1.rsw#Hyrde's Farm (Red team)#
 egef_swn2.rsw#Hyrde's Farm (Blue team)#
+
+emjolnir_05.rsw#Mt.Mjolnir#

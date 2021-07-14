@@ -3522,5 +3522,10 @@ JobNameTable = {
 	[jobtbl.JT_4_BONFIRE] = "4_bonfire",
 	[jobtbl.JT_E_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
 	[jobtbl.JT_EVT_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
-	[jobtbl.JT_E_SAVAGE] = "SAVAGE"
+	[jobtbl.JT_E_SAVAGE] = "SAVAGE",
+	[jobtbl.JT_EVT_ARGOS] = "ARGOS",
+	[jobtbl.JT_EVT_MANTIS] = "MANTIS",
+	[jobtbl.JT_EVT_HORNET] = "Hornet",
+	[jobtbl.JT_EVT_ARGIOPE] = "ARGIOPE",
+	[jobtbl.JT_EVT_FLORA] = "FLORA"
 }

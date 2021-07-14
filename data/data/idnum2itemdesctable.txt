@@ -12787,7 +12787,8 @@ Jobs: ^777777Stalker^000000
 
 2138#
 A heavy and strong shield made out of Bradium.
-MaxHP + 500, Agi -1.
+MaxHP + 500.
+Agi -1.
 The attack power of the skill 'Shield Boomerang' increases by 60%.
 Class: ^777777Shield^000000
 Defense: ^77777798^000000
@@ -14021,41 +14022,35 @@ Thief Classes^000000
 #
 //--------------------------------------------------------------------------
 2301#
-A simple, sturdily
-made shirt of cotton.
+A simple, sturdily made shirt of cotton.
 Class: ^777777Armor^000000
 Defense: ^77777710^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2302#
-A simple, sturdily
-made shirt of cotton.
+A simple, sturdily made shirt of cotton.
 Class: ^777777Armor^000000
 Defense: ^77777710^000000
 Weight: ^77777710^000000
 Jobs: ^777777All^000000
 #
 2303#
-A jacket made out
-of mediocre leather.
+A jacket made out of mediocre leather.
 Class: ^777777Armor^000000
 Defense: ^77777715^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 2304#
-A jacket made out
-of mediocre leather.
+A jacket made out of mediocre leather.
 Class: ^777777Armor^000000
 Defense: ^77777715^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 2305#
-A light, comfortable
-suit made just for
-young adventurers.
+A light, comfortable suit made just for young adventurers.
 Class: ^777777Armor^000000
 Defense: ^77777720^000000
 Weight: ^77777730^000000
@@ -18273,14 +18268,17 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2782#
+^ff0000Account Bound^000000
 A ring imitating the legendary ring of the Ancient Wise King who used to communicate with animals.
 Rune-Midgart's Magical Power, Schwarzwalt's technology, and Arunafeltz's linguistic ability are put together in this ring.
 By equipping this ring, you can talk freely with the people of in Ash Vacuum.
-MaxHP +50, MaxSP +20.
+MaxHP +50.
+MaxSP +20.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
-Job: ^777777All Classes^000000
+Required Level: ^7777771^000000
+Job: ^777777All^000000
 #
 2783#
 A ring with a small bead set in. It feels like the bead is watching you.
@@ -23506,7 +23504,8 @@ Slot: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4468#
-ATK + 10. When killing a monster, adds a chance to have a poisonous herb drop. 
+ATK + 10.
+When killing a monster, adds a chance to have a poisonous herb drop. 
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -27132,16 +27131,17 @@ Sea otter fur that
 is soft and downy
 enough to be used
 in making clothing.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7066#
-A miraculous lump of
-ice that wil never melt. Weight: ^7777771^000000
+A miraculous lump of ice that wil never melt.
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7067#
-A small piece of rock
-that has been broken
-from a larger stone.
+A small piece of rock that has been broken from a larger stone.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7068#
@@ -27151,25 +27151,31 @@ have little practical
 value, despite the
 fact that shops will
 still buy it for zeny.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7069#
 Pieces of armor that have been damaged beyond repair.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7070#
 A damaged turtle's
 shell. In ancient times, turtle shells were used
-to foretell the future. Weight: ^7777771^000000
+to foretell the future. 
+^ffffff_^000000
+Weight: ^7777771^000000
 #
 7071#
 Worn out clothes.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7072#
 An old, rusty shuriken
 that has little hope of being thrown by an
 awesome ninja.
+^ffffff_^000000
 Weight: ^7777771^000000
 #
 7073#
@@ -43056,6 +43062,7 @@ Weight: ^7777770^000000
 #
 
 6074#
+^ff0000Character Bound^000000
 Slightly worn notes. Be careful not to lose any pages!
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -43068,6 +43075,7 @@ Weight: ^7777770^000000
 #
 
 6076#
+^ff0000Character Bound^000000
 A toolbox that consists of portable tools for collecting ores or plants.
 They include a small rockhammer and a radar.
 ^ffffff_^000000
@@ -43075,12 +43083,14 @@ Weight: ^7777770^000000
 #
 
 6077#
+^ff0000Character Bound^000000
 Roughly collected ore.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 6078#
+^ff0000Character Bound^000000
 Small fragments of the broken stone.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -43100,57 +43110,64 @@ Weight: ^7777770^000000
 #
 
 6079#
+^ff0000Character Bound^000000
 A wild flower easily found in Alfheim.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 6080#
+^ff0000Character Bound^000000
 Currency used in Manuk.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 6081#
+^ff0000Character Bound^000000
 Currency used in the Splendide Outpost.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 6082#
+^ff0000Character Bound^000000
 Perfume made from distilled flowers of Alfheim. It smells cozy and nostalgic.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 12342#
+^ff0000Account Bound^000000
 Supplement made by the Manuk Research Center. It is officially recommended to the Mine Workers.
-Physical Attack Damage done to the monsters in Manuk Area increases by 10% for 10 minutes.
-^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+Physical Damage to the monsters' list increases by 10% for 10 min.:
+^000088Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth^000000
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12343#
+^ff0000Account Bound^000000
 Supplement made by the Manuk Research Center. It is officially recommended to the Mine Workers.
-Physical & Magical Damage from the monsters in Manuk Area decreased by 10% for 10minutes.
-^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+Physical & Magical Damage from the monsters' list decreased by 10% for 10 min.:
+^000088Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth^000000
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12344#
+^ff0000Account Bound^000000
 Sweet Jam made out of a Pinguicula's fruit.
-Physical Attack Damage done to the monsters in Splendide Area increases by 10% for 10 minutes.
-^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Physical Damage to the monsters' list increases by 10% for 10 min.:
+^000088Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion^000000
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12345#
 Jam made out of Luciola's Honey and Herb.
-Physical & Magical Damage from the monsters in Splendide Area decrease by 10% for 10 minutes.
-^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Physical & Magical Damage from the monsters' list decrease by 10% for 10 min.:
+^000088Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion^000000
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
@@ -43169,17 +43186,18 @@ Weight: ^7777775^000000
 #
 
 12348#
+^ff0000Account Bound^000000
 Supplement made by the Manuk Research Center. It is officially recommended to the Mine Workers.
-Magical Attack Damage done to the monsters in Manuk Area increases by 10% for 10 minutes.
-^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+Magical Damage to the monsters' list increases by 10% for 10 min.:
+^000088Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth^000000
 ^ffffff_^000000
 Weight: ^7777775^000000
 #
 
 12349#
 Potion made out of Cornus' Tears. You don't know how the tear drops were obtained.
-Magical Attack Damage done to the monsters in Manuk Area increases by 10% for 10 minutes.
-^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Magical Damage to the monsters' list increases by 10% for 10 min.:
+^000088Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion^000000
 Weight: ^7777775^000000
 #
 
@@ -43460,14 +43478,16 @@ A shiny yellow jewel.
 Weight: ^7777775^000000
 #
 7575#
+^ff0000Charater Bound^000000
 A shiny red jewel.
 ^ffffff_^000000
-Weight: ^7777775^000000
+Weight: ^7777770^000000
 #
 7576#
+^ff0000Charater Bound^000000
 A shiny blue jewel.
 ^ffffff_^000000
-Weight: ^7777775^000000
+Weight: ^7777770^000000
 #
 
 //HiddenSocket
@@ -57135,10 +57155,6 @@ Weight: ^7777775^000000
 
 /-------EP14.2-------------------
 
-6081#
-^ff0000Cannot be traded^000000
-Laphine tribe coin that stands for 'Shining brightly'.
-Weight: ^7777770^000000
 #
 6539#
 ^ff0000Cannot be traded^000000

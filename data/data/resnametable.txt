@@ -1245,3 +1245,8 @@ march8.gat#prontera.gat#
 march8.gnd#prontera.gnd#	
 march8.rsw#prontera.rsw#	
 유저인터페이스\map\march8.bmp#유저인터페이스\map\prontera.bmp#	
+
+emjolnir_05.gnd#mjolnir_05.gnd#
+emjolnir_05.gat#mjolnir_05.gat#
+emjolnir_05.rsw#mjolnir_05.rsw#
+유저인터페이스\map\emjolnir_05.bmp#유저인터페이스\map\mjolnir_05.bmp#
