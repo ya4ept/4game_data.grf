@@ -120,7 +120,7 @@ Deliver Arbalest to Talpiz in Payon.#
 
 2012#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 All done! Okay. Give this Ring Pommel Saber to Bismarc who is in Comodo. Be sure to bring the reciept back to me.#
-Deliver Ring Pommel Saber to Bismark in Hugel.#
+Deliver Ring Pommel Saber to Bismark in Comodo.#
 
 2013#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Well done! You're a great merchant indeed! Okay, go to Altazen in Geffen!#

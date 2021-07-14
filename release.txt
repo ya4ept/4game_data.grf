@@ -1,3 +1,24 @@
+14.07.2021 11:45
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— Refinement Sets are here and will be available until July 21st.
+— New Items were added to the shop. Make sure to check our Shop Update.
+
+Finished activities:
+— The Saintly Treasure and its sets are longer be available in 4game launcher and Kafra shop.
+
+Fixes and Other Changes:
+— NPCs now sell Pet Food for Nine Tails.
+— An issue with the spawn of Mobs in the Robot Factory.
+
+Extra:
+— Wanna know your chances of refinement? CHECK NOW our Refinement Rates.
+
+https://eu.4gameforum.com/threads/683482/
+
+================
 07.07.2021 12:03
 CM_Godfather
 Guys, we are going to need a bit more time than initially planned. We hope that one more hour should be enough to prepare everything and get the server up and running better than ever!
