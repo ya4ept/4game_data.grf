@@ -71,7 +71,7 @@ Gain 2 base levels to complete your Field Combat Training by killing as many mon
 // ������
 
 2000#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
-We want to check the dedication and eagerness of Merchants who apply to us to become Blacksmiths. For the first test, go to Alberta and help one of our guild members Getsufenst.#
+We want to check the dedication and eagerness of Merchants who apply to us to become Blacksmiths. For the first test, go to Einbech and help one of our guild members Getsufenst.#
 Meet Getsufenst#
 
 2001#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
@@ -123,7 +123,7 @@ All done! Okay. Give this Ring Pommel Saber to Bismarc who is in Comodo. Be sure
 Deliver Ring Pommel Saber to Bismark in Comodo.#
 
 2013#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
-Well done! You're a great merchant indeed! Okay, go to Altazen in Geffen!#
+Well done! You're a great merchant indeed! Okay, go to Altazen in Einbroch!#
 Go back to Altazen#
 
 2014#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
@@ -1289,23 +1289,23 @@ Collect the items and bring them to Tzerero#
 
 //����
 6015#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#
-Go find Wildcat Joe in Einbroch and talk to him.#
-#
+Go find Red Wildcat Joe in Einbroch and talk to him.#
+Talk with Red Wildcat Joe.#
 
 6016#A favor from a Suspicious Man#SG_FEEL#QUE_NOIMAGE#
 Go through the South Gate of Einbroch City and find the Seal near the red tree seen from the Westside over the Bridge.#
-#
+Find the Seal.#
 
-6017#Red Leopard Joe's Reply#SG_FEEL#QUE_NOIMAGE#
-Go back to Cougar guy with Red Leopard Joe's recommendation.#
-#
+6017#Red Wildcat Joe's Reply#SG_FEEL#QUE_NOIMAGE#
+Go back to Cougar guy with Red Wildcat Joe's recommendation.#
+Go back to Cougar.#
 
 6018#Cougar's Madness#SG_FEEL#QUE_NOIMAGE#
 Hurry and bring 5 Iron Ore and 1 Phracon to Cougar.#
-#
+Collect 5 Iron Ore and 1 Phracon.#
 
 6019#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#
-You have found the Seal. It�?? time to bring it to the Cougar.#
+You have found the Seal. It's time to bring it to the Cougar.#
 Bring the Seal to the Cougar.#
 
 //�ǽ�����
@@ -1314,20 +1314,20 @@ According to Master Miller's request, go to Wise Bull Horn in Payon.#
 Talk to Wise Bull Horn.#
 
 6021#Wise Bull Horn's voucher#SG_FEEL#QUE_NOIMAGE#
-Wise Bull Horn can make you a voucher that will demonstrate your desire to become a warrior of the earth. For that he needs 1 Trunk, 1 Mushroom Spore, and 1 Green Herb.#
+Wise Bull Horn can make you a voucher that will demonstrate your desire to become a warrior of the earth. For that he needs 3 Mushroom Spore and 3 Green Herb.#
 Gather the materials for Wise Bull Horn.#
 
 6022#Making a voucher#SG_FEEL#QUE_NOIMAGE#
 It's going to take a little while. Talk to him again a bit later.#
-#
+Talk again with Wise Bull Horn.#
 
 6023#Wise Bull Horn's Favor#SG_FEEL#QUE_NOIMAGE#
 I'm thirsty, and would like a cold glass of Milk. Would you please bring me some?#
-#
+Bring some Milk.#
 
 6024#Job Change to Gunslinger!#SG_FEEL#QUE_NOIMAGE#
 Eeh~Yeah~Eeh~Hooom, Maaaaarrraaa Neeey~ Yippee Yippee Yai Yocaiyay~ Take this to Miller, the Black Fox.#
-#
+Go back to Master Miller.#
 
 // ������
 //-------�������� �κ�---------------
@@ -2015,55 +2015,55 @@ Return to Cellette.#
 
 // ���κ���?: ���� ����Ʈ (Einbroch Lovers)
 
-8076#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8076#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 I know I'm acting like a complete idiot. But I'd give anything to see Calla... Just don't listen to anything I say. I'm just a poor fool in love with the wrong person. That has to be it....#
  #
 
-8077#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
-Well, maybe I can't see him, but would you give my violin to Klitzer for me? I used to play this for him all the time...#
-Take Calla's Violin to Klitzer.#
+8077#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+Well, maybe I can't see him, but would you give my violin to Clitzer for me? I used to play this for him all the time...#
+Take Calla's Violin to Clitzer.#
 
-8078#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8078#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 That's my daughter's Violin. I gave that to her for her sweet sixteen... You've crossed the line, punk! Guards! Get over here!#
 Calla's Violin is taken away.#
 
-8079#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8079#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 All you need to do is just give her ^FF00001 Flower^000000. I don't have the zeny and I don't think I'm welcome at Kapellthaine Manor.#
 Bring 1 Flower to Calla.#
 
-8080#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
-Oh, if you pass by Einbroch, would you thank Klitzer for the flower for me please? A-and... And... Please tell him that I really miss him a lot.#
-Deliver Calla's message to Klitzer.#
+8080#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+Oh, if you pass by Einbroch, would you thank Clitzer for the flower for me please? A-and... And... Please tell him that I really miss him a lot.#
+Deliver Calla's message to Clitzer.#
 
-8081#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8081#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 I feel so much better now. Oh! When you have the time, why don't you talk to my mother? She always likes meeting my friends.#
-Meet Klitzer's mother.#
+Meet Clitzer's mother.#
 
-8082#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8082#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 I can't bear to see the petty hatred between our two towns stop my son from seeing the woman he loves... Find someone who may know of the history of Einbroch and Einbech.#
  #
 
-8083#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8083#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 Why don't you bring me ^990000Coals^000000? It's not impossible for someone like yourself, but this kind of task will require some effort on your part.#
 Bring Coals to Satra.#
 
-8084#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8084#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 Well, I shall try to find some use for these. I'm afraid the gift I've asked from you isn't very practical. How is Coal usually used? Ah, I have a novel idea! It seems that bringing Coals will get Satra to talk.#
 Bring more Coals to Satra.#
 
-8085#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
-Anyway, when you next meet Klitzer, please tell him to pay me a visit soon. Oh, and remind him to dress appropriately for this special occasion. Ho ho ho ho ho~!#
-Deliver the message to Klitzer.#
+8085#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+Anyway, when you next meet Clitzer, please tell him to pay me a visit soon. Oh, and remind him to dress appropriately for this special occasion. Ho ho ho ho ho~!#
+Deliver the message to Clitzer.#
 
-8086#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8086#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 Eh...?  What did you just say? Did you just say that Calla's mother wants me to have tea with her? Holy moley...!!#
  #
 
-8087#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
-Thank you for helping my son Klitzer. Sadly, the little fool doesn't have any clue when it comes to certain things like choosing clothing. A man should wear nice clothes, like a Formal Suit or a Tuxedo, for important meetings and special occasions. #
-Get Klitzer a nice outfit.#
+8087#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+Thank you for helping my son Clitzer. Sadly, the little fool doesn't have any clue when it comes to certain things like choosing clothing. A man should wear nice clothes, like a Formal Suit or a Tuxedo, for important meetings and special occasions. #
+Get Clitzer a nice outfit.#
 
-8088#Klitzer and Calla#SG_FEEL#QUE_NOIMAGE#
+8088#Clitzer and Calla#SG_FEEL#QUE_NOIMAGE#
 You've really opened my eyes. From now on, I'll do my best to earn the approval of Calla's parents and become worthy of Calla's love.#
  #
 

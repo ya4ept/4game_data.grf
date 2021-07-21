@@ -1711,7 +1711,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GS_SPREADATTACK] = {
 		"GS_SPREADATTACK",
-		SkillName = "Spread Attack",
+		SkillName = "Spread Shot",
 		MaxLv = 10,
 		SpAmount = { 15, 20, 25, 30, 35, 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -1744,7 +1744,7 @@ SKILL_INFO_LIST = {
 		"NJ_SYURIKEN",
 		SkillName = "Throw Shuriken",
 		MaxLv = 10,
-		SpAmount = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 },
+		SpAmount = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 },
 		bSeperateLv = false,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
@@ -1755,7 +1755,7 @@ SKILL_INFO_LIST = {
 		"NJ_KUNAI",
 		SkillName = "Throw Kunai",
 		MaxLv = 5,
-		SpAmount = { 30, 25, 20, 15, 10 },
+		SpAmount = { 10, 10, 10, 10, 10 },
 		bSeperateLv = false,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
@@ -1766,7 +1766,7 @@ SKILL_INFO_LIST = {
 		"NJ_HUUMA",
 		SkillName = "Throw Huuma Shuriken",
 		MaxLv = 5,
-		SpAmount = { 20, 25, 30, 35, 40 },
+		SpAmount = { 15, 20, 25, 30, 35 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
@@ -1801,7 +1801,7 @@ SKILL_INFO_LIST = {
 		"NJ_KASUMIKIRI",
 		SkillName = "Haze Slasher",
 		MaxLv = 10,
-		SpAmount = { 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 },
+		SpAmount = { 8, 8, 8, 8, 8, 8, 8, 8, 8, 8 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -1823,7 +1823,7 @@ SKILL_INFO_LIST = {
 		"NJ_KIRIKAGE",
 		SkillName = "Shadow Slash",
 		MaxLv = 5,
-		SpAmount = { 14, 16, 18, 20, 22 },
+		SpAmount = { 10, 11, 12, 13, 14 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
