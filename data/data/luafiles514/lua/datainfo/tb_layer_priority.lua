@@ -55,7 +55,7 @@ TB_Layer_Priority = {
 		[ACCESSORY_IDs.ACCESSORY_C_Medium_Wave] = { Default = 150, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = { Default = 450, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_BELL_PIGEON] = { Default = 480, Direction = {} },
-		[ACCESSORY_IDs.ACCESSORY_C_Fox] = { Default = 450, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_Fox] = { Default = 304, isIgnoreRiding = true },
 		[ACCESSORY_IDs.ACCESSORY_C_Geisha_Make] = { Default = 100, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BD] = { Default = 150, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_SV] = { Default = 150, Direction = {} },

@@ -3721,5 +3721,9 @@ JobNameTable = {
 	[jobtbl.JT_SAECOM] = "SAECOM",
 	[jobtbl.JT_E_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
 	[jobtbl.JT_EVT_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
-	[jobtbl.JT_E_SAVAGE] = "SAVAGE"
+	[jobtbl.JT_E_SAVAGE] = "SAVAGE",
+	[jobtbl.JT_E_NYAIL_PIG] = "e_nyailo",
+	[jobtbl.JT_E_SEA_WORMS] = "hode",
+	[jobtbl.JT_E_SMALL_SWIRL] = "breeze",
+	[jobtbl.JT_E_RIPE_WATERMELON] = "watermelon"
 }

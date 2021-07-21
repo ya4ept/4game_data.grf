@@ -2501,3 +2501,8 @@ pvp_n_8-5.gnd#abyss_03.gnd#
 pvp_n_8-5.gat#abyss_03.gat#
 pvp_n_8-5.rsw#abyss_03.rsw#
 유저인터페이스\map\pvp_n_8-5.bmp#유저인터페이스\map\abyss_03.bmp#
+
+lasa_sea.gnd#lasa_sea.gnd#
+lasa_sea.gat#lasa_sea.gat#
+lasa_sea.rsw#lasa_sea.rsw#
+유저인터페이스\map\lasa_sea.bmp#유저인터페이스\map\lasa_sea.bmp#
