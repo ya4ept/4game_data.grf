@@ -7032,7 +7032,6 @@
 20005#Costume Pegasus Wing Ears#
 20006#Spellblade's Helm#
 20007#Costume Bullock Helm J#
-20008#Costume General Helmet#
 20009#Costume Dragon Skull#
 20010#Rainbow Wing Ears#
 20011#Costume Lightning Speed#
@@ -7082,7 +7081,6 @@
 20024#Costume Ribbon Orange#
 20031#Lucky Bunny Hairband#
 20032#Costume Firinto Scarf#
-20033#Costume Buddhist Priest Crown#
 
 //---------Costama Wings----------
 17493#Costama Wings#
@@ -8639,7 +8637,6 @@
 20547#Whisper's Blessing#
 20586#Loli Ruri's Crescent Moon#
 20588#Witch's Broom#
-31568#Floating Yin-Yang Beads#
 31611#Evil Snake Lord's Scarf#
 31832#Witch's Catty Hat#
 31088#Mad Hatter's Hat#
@@ -9144,7 +9141,7 @@
 20525#Bloody Wings#
 31299#White Rabbit#
 31693#Lunatic Muffler#
-31766#?섏긽_紐⑤?_癒몃━?μ떇#
+31766#Decorative Peonies#
 31814#Rabbit Family Balloon#
 31815#Rabbit Lord Wig#
 19881#Pink Bunny Hood#
@@ -9274,3 +9271,11 @@
 20338#Rainbow Octopus#
 31425#Octoporing Balloon#
 31504#Hungry Fish Hat#
+
+9694#Azure Dragon Treasure#
+31568#Yin Yang Orbs#
+31735#Fortuneteller Scarf#
+19807#Kuwagata Kabuto#
+20008#General's Helmet#
+20033#Preceptor's Crown#
+19555#Crescent Moon Kabuto#

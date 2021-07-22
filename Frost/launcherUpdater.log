@@ -5,7 +5,7 @@ get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
 get_32bit_client_setting end
-download_url_to_file(version/roeu_live/32/frostinfo.txt) -> I:\Love\4game\euRO\Frost\\frostinfo.txt in 0 seconds, err = 0(OK/200), sysErr = 0
+download_url_to_file(version/roeu_live/32/frostinfo.txt) -> I:\Love\4game\euRO\Frost\\frostinfo.txt in 1 seconds, err = 0(OK/200), sysErr = 0
 balance	100|0
 option	69
 redir ru|185.47.158.75|10001-10016,17453|185.47.156.161|10001-10016,17453|100

@@ -6991,7 +6991,6 @@
 20005#Accessory#
 20006#Helm#
 20007#Helm#
-20008#Helm#
 20009#Helm#
 20010#Accessory#
 20011#Helm#
@@ -7041,7 +7040,6 @@
 20024#Accessory#
 20031#Accessory#
 20032#Accessory#
-20033#Accessory#
 
 //---------Costama Wings----------
 17493#Costama Wings#
@@ -7527,7 +7525,6 @@
 20547#Garment#
 20586#Garment#
 20588#Garment#
-31568#Accessory#
 31611#Accessory#
 31832#Hat#
 31088#Hat#
@@ -8178,3 +8175,11 @@
 20338#Hat#
 31425#Accessory#
 31504#Hat#
+
+9694#Azure Dragon Treasure#
+31568#Accessory#
+31735#Accessory#
+19807#Hat#
+20008#Helm#
+20033#Accessory#
+19555#Hat#

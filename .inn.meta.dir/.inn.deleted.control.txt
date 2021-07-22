@@ -27,4 +27,5 @@
 2|data.grf|d20aec180e5c737ddd83057db66cd4a49d628bbf
 2|data.grf|d952006f5c5f0a8dc5a23255e79d3aad5f09b0ac
 2|data.grf|dc8b9ff02da593c586cb40956dbd174aeca59510
+2|data.grf|f0992f460e14d72ad26a23256eacc6b938017091
 2|System\monster_size_effect.lub|29fc1eedeab15d6e2eabfd06ac5cedcc72273371

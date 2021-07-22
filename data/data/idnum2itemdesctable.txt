@@ -66490,13 +66490,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
-19807#
-A brave headgear that no one can block.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
 19808#
 A broiling sun
 Class: ^777777Costume^000000
@@ -67061,13 +67054,6 @@ Location: ^777777Headgear (Upper-Mid)^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-19555#
-A solid hat decorated very colorful, which was from the far east.
-Class: ^777777Costume^000000
-Location: ^777777Upper Mid ^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
 #
 19574#
 ^ff0000Character bound^000000
@@ -83914,15 +83900,6 @@ Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-31568#
-Feel the surge of mystical powers with these yin-yang beads floating beside you.
-^ff0000Animated^000000
-Class: ^777777Costume^000000
-Location: ^777777Headgear (Middle)^000000
-Defense: ^7777770^000000   Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-#
 31611#
 A replica of the scarf worn by the Evil Snake Lord. You don't see it, but it's always smiling behind your back.
 ^ff0000Animated^000000
@@ -90696,6 +90673,103 @@ So is it just a hat? Then why is it winking at me?
 ^ffffff_^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9694#
+Azure Dragon, the noble guardian spirit of the East, has prepared something for you. But what exactly?
+Figure it out for yourself.
+Open the box and receive one of the following gifts:
+Sillit Pong
+Yin Yang Orbs
+Silvervine x1000
+Fortuneteller Scarf
+Kuwagata Kabuto
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+General's Helmet
+Preceptor's Crown
+Crescent Moon Kabuto
+Drooping Panda
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Bloody Branch x2
+Guyak Pudding x25
+Blessing Of Tyr x10
+Mental Potion x7
+Chewy Ricecake x4
+Oriental Pastry x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Glass of Illusion x11
+Party Assumptio Scroll x4
+Guarana Candy x7
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Taoist Pills x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+31568#
+Yin and Yang are two great dualistic forces born from Wuji, the primordial universe.
+The sun and the moon, man and woman, light and darkness are their incarnations.
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31735#
+A thin cloth scarf decorated with images of the Eight Trigrams.
+Wandering Taoists use them to tell fortunes.
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19807#
+A beautiful lacquered helmet with a gilded kuwagata antlers.
+Feel like a medieval warlord!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20008#
+A conical helmet with a lamellar camail trimmed with bear fur.
+Are you ready to lead your troops into battle?
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20033#
+Lines of sacred texts are inscribed on the ribbons that adorn this headdress.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19555#
+An ornate golden helmet with a crescent moon maedate.
+It must have once belonged to a wealthy samurai.
+Class: ^777777Costume^000000
+Location: ^777777Upper/Middle^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
