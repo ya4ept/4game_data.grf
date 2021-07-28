@@ -4986,12 +4986,12 @@ Hunt 30 Dustiness and 30 Poporing#
 Jacob has found the Crown, and I have the solvent!  I should take both to Payon's mashing mallet to combine the two. Once the Crown has been rendered inert I can go tell my adventure to Derik in Prontera.#
 #
 
-60200#Endless Tower Effect#SG_FEEL#QUE_NOIMAGE#
-The Endless Tower has strange after-effect properties that only allow you to enter it once a week. Wait until the time limit is up before re-entering again.#
+60200#Бесконечная башня#SG_FEEL#QUE_NOIMAGE#
+Вы сможете вернутся в Бесконечную башню только спустя 7 дней.#
 #
 
-60201#Endless Tower Time Limit#SG_FEEL#QUE_NOIMAGE#
-The time limit for access to the Endless Tower is 4 hours.#
+60201#Бесконечная башня#SG_FEEL#QUE_NOIMAGE#
+Доступ в Бесконечную башню возможен в течение 4 часов.#
 #
 
 60000#День Победы#SG_FEEL#QUE_IMAGE#
@@ -5715,27 +5715,27 @@ You have volunteered to hunt 200 Novus Dragons for Will in Hugel. If you have a 
 Передать биологу результаты ваших изысканий#
 
 2208#Призрак уборной комнаты#SG_FEEL#QUE_IMAGE#
-Узнав особое заклинание у Фердо, вам предстоит найти призрака уборной комнаты.#
-Призвать призрака уборной комнаты в музее искусств#
+Узнав особое заклинание у Фердо, вам предстоит найти призрака уборной комнаты в музее искусств.#
+Призвать призрака#
 
-60351#Bathroom Ghost#SG_FEEL#QUE_NOIMAGE#
-You hear something from the toilet. The second line of Pedro's song was '^FF0000Mother the water is flooding!^000000 If the moon disappears 3 times, don't worry.#
-#
+60351#Призрак уборной комнаты#SG_FEEL#QUE_NOIMAGE#
+Вам слышится какой-то звук из туалета. Вторая строчка песни Фердо была: ^3131FFМама, уровень воды поднимается!^000000 ^FF0000Когда луна сменится трижды, станет спокойнее.^000000#
+Унитаз#
 
-60352#Bathroom Ghost#SG_FEEL#QUE_NOIMAGE#
-You hear something from the faucet. The third line of Pedro's song was '^FF0000Mother the drought has started!^000000 Don't worry, the waterfall will help it.#
-#
+60352#Призрак уборной комнаты#SG_FEEL#QUE_NOIMAGE#
+Вам слышится какой-то звук со стороны крана. Третья строчка песни Фердо была: ^3131FFМама, засуха пришла!^000000 ^FF0000Не волнуйся, водопад нас спасет.^000000#
+Кран#
 
-60353#Bathroom Ghost#SG_FEEL#QUE_NOIMAGE#
-You hear something from the carpet. The fourth line of Pedro's song was '^FF0000Mother where are my friends?^000000 Your 7 friends are sleeping. now it's time to wake them.#
-#
+60353#Призрак уборной комнаты#SG_FEEL#QUE_NOIMAGE#
+Вам слышится какой-то звук из-под ковра. Четвертая строчка песни Фердо была: ^3131FFМама, где мои друзья?^000000 ^FF0000Семь твоих друзей спят. Пришло время их разбудить.^000000#
+Ковер#
 
-60354#Bathroom Ghost#SG_FEEL#QUE_NOIMAGE#
-You hear something from the mirror. The fifth line of Pedro's song was '^FF0000Where are you mom?^000000 Don't worry, the waterfall will help it.#
-#
+60354#Призрак уборной комнаты#SG_FEEL#QUE_NOIMAGE#
+Вам слышится какой-то звук от зеркала. Пятая строчка песни Фердо была: ^3131FFМама, где вы?^000000 Не волнуйтесь, водопад поможет.#
+Зеркало#
 
-60355#Bathroom Ghost#SG_FEEL#QUE_NOIMAGE#
-The ghost appeared and disappeared into the murky toilet...#
+60355#Призрак уборной комнаты#SG_FEEL#QUE_NOIMAGE#
+Призрак появился и исчез в темном туалете ...#
 #
 
 3200#Становление Рунмейстером - Рекомендация в качестве Рунмейстера#SG_FEEL#QUE_IMAGE#
@@ -5883,16 +5883,16 @@ The ghost appeared and disappeared into the murky toilet...#
 #
 
 4133#Яра#SG_FEEL#QUE_IMAGE#
-Необходимо собрать ингредиенты Зелья очищения, которое позволит остановить Яру, соблазняющую мужчин племени.#
-Сердце русалки 20 шт., Коготь леопарда 10 шт., Губы древней рыбы 3 шт#
+Необходимо собрать ингредиенты Зелья очищения, которое позволит остановить Яру, соблазняющую мужчин племени: Сердце русалки 20 шт., Коготь леопарда 10 шт., Губы древней рыбы 3 шт#
+Собрать ингредиенты#
 
 4134#Яра#SG_FEEL#QUE_IMAGE#
 Более подробное описание не требуется.#
 #
 
 4135#Яра#SG_FEEL#QUE_IMAGE#
-Кажется, Анори занимается чем-то другим. Надо придти чуть позже.#
-Через 24 часа#
+Кажется, Анори занимается чем-то другим. Надо прийти чуть позже.#
+Вернутья через 24 часа#
 
 7091#Совет Даоры 01#SG_FEEL#QUE_IMAGE#
 Хорошо бы собрать побольше информации. Людьми с хорошей памятью в деревне признаются Маделле из Таверны, Стражник Тробан. Также вам поможет Крейб, он сейчас в магазине инструментов.#
@@ -6276,15 +6276,15 @@ The ghost appeared and disappeared into the murky toilet...#
 
 9030#Найдите щенка#SG_FEEL#QUE_IMAGE#
 Помогите щенку добраться до деревни.#
-#
+Найти щенков#
 
 9031#Найдите щенка#SG_FEEL#QUE_IMAGE#
 Верните 3-х щенков и поговорите в деревне с Анжелло.#
-#
+Поговорить с Анжелло#
 
 9032#Найдите щенка#SG_FEEL#QUE_IMAGE#
 Кажется, сейчас все нормализовалось. Через сутки, если щенки вновь убегут, надо будет их вернуть вновь.#
-#
+Прийти завтра#
 
 10090#Смена профессии на Механика#SG_FEEL#QUE_IMAGE#
 Вы выслушали Цепное сердце насчет профессии Механика.#
@@ -10822,144 +10822,144 @@ Pinkamenia in Moscovia has asked you to get a Costume Cake Hat from the Baker Ex
 Ангелы отправили Посланников света. Вы должны остановить их.#
 Уничтожьте 7 Посланников света.#
 
-60921#Stumped Investigators#SG_FEEL#QUE_NOIMAGE#
-Agent York says that a group of kids are at the Brasilis Museum investigating a crime.#
-Brasilis Museum (location - southwest Brasilis)#
+60921#Озадаченные следователи#SG_FEEL#QUE_NOIMAGE#
+Агент Йорк говорит, что группа детей в музее Бразилиса расследуют преступление.#
+Посетить музей Бразилиса#
 
-60922#Anomalies LLC#SG_FEEL#QUE_NOIMAGE#
-The group of investigators says that this mystery is the toughest case they've ever had.#
-Continue your conversation with Velmenna#
+60922#ООО 'Аномалии'#SG_FEEL#QUE_NOIMAGE#
+Группа следователей заявляет, что эта загадка - самое сложное дело, которое у них когда-либо было.#
+Поговорить с Велменной#
 
-60923#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags hasn't left her room since the murder occurred. Find her at the Brasilis hotel.#
-Go to the Brasilis Hotel at the southeast area of Brasilis.#
+60923#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум не выходила из своей комнаты с момента убийства. Найдите ее в отеле Бразилиса.#
+Посетить отель Бразилиса#
 
-60924#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags says that you need to talk to the museum's Head Curator.#
-Find the Head Curator on the second floor of the Brasilis museum#
+60924#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум отправляет вас поговорить с главным куратором музея. Вы найдете его на втором этаже музея Бразилиса.#
+Поговорить с куратором#
 
-60925#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-The Head Curator said that the security guard on duty is being questioned downstairs.#
-Speak to the security guard Mr. Herring.#
+60925#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Главный куратор сообщил, что внизу дежурит охранник. Его зовут мистер Херринг.#
+Поговорить с Херрингом#
 
-60926#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Red Herring said that Mr. Moneybags was robbed of a Locket that he always wore around his neck.#
-Report your findings to the Anomalies LLC group in the museum.#
+60926#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Рэд Херринг сказал, что у мистера Толстосума украли медальон, который он всегда носил на шее. Сообщите ООО 'Аномалии' обо всем, что вы выяснили.#
+Сообщить сведения #
 
-60927#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've told the investigators that Red Herring murdered Mr. Moneybags.#
-Go back to Red and tell him of your accusation#
+60927#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы сказали следователям, что Рэд Херринг убил мистера Толстосума. Вернитесь к Рэду и расскажите ему о своем обвинении.#
+Поговорить с Рэдом#
 
-60928#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've decided that you need to find more clues before accusing anyone yet. Mrs. Moneybags might have some insight about the murder.#
+60928#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы решили, что вам нужно найти еще улики, прежде чем кого-либо обвинять. У миссис Толстосум могут быть какие-то соображения об убийстве.#
 #
 
-60929#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Red Herring blames Broddy for being accused of the murder.#
+60929#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Рэд Херринг обвиняет Бродди в убийстве.#
 #
 
-60930#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've once again caught Mrs. Moneybags stuffing something into her pocket as you walked in...#
-Speak to Mrs. Moneybags.#
+60930#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Когда вошли, вы снова заметили, как миссис Толстосум что-то засовывает в карман...#
+Поговорить с миссис Толстосум#
 
-60931#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags is clearly distraught. The investigators may have found clues while you were away.#
-Speak to the Investigating kids at the museum.#
+60931#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум явно обезумела. Следователи могли найти улики, пока вас не было.#
+Поговорить со следователями#
 
-60932#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Seems that the kids found a secret passage that can't be accessed from here. You better ask someone more knowledgable about the museum about it.#
+60932#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Похоже, дети нашли секретный ход, в который нельзя попасть отсюда. Вам лучше спросить об этом у кого-нибудь более осведомленного о музее.#
 #
 
-60933#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-The Head Curator said that there is a house next to the mansion that belonged to the former owners of the museum.#
-Find the house and break the door down.#
+60933#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Главный куратор сообщил, что рядом с особняком находится дом, принадлежавший бывшим владельцам музея.#
+Найдите дом и выломайте дверь.#
 
-60934#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You managed to get into the mansion. Search around and find the secret passageway to the museum.#
+60934#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вам удалось попасть в особняк. Поищите вокруг и найдите секретный проход в музей.#
 #
 
-60935#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You're convinced that the culprit must have been the Head Curator. Time to go and present your accusation to him.#
+60935#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы уверены, что виновником был главный куратор. Пора пойти и предъявить ему свое обвинение.#
 #
 
-60936#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You decide that you need to investigate further to be sure of who the real culprit is so you should consult Mrs. Moneybags further.#
+60936#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы решаете, что вам нужно продолжить расследование, чтобы быть уверенным в том, кто настоящий виновник, поэтому вам следует проконсультироваться с миссис Толстосум.#
 #
 
-60937#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-With Mrs. Moneybags' help you are sure that the Head Curator is the murderer. Now you just have to present your evidence to the investigators.#
+60937#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+С помощью миссис Толстосум вы можете быть уверены, что главный куратор - убийца. Теперь вам просто нужно представить свои доказательства следователям.#
 #
 
-60938#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-The Head Curator says that you don't have enough evidence to incriminate him... Mrs. Moneybags must be told of this turn of events.#
+60938#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Главный куратор говорит, что у вас недостаточно улик, чтобы обвинить его ... Миссис Толстосум должна знать об этом повороте событий.#
 #
 
-60939#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-It's up to you now to confront the Head Curator about the murder.#
+60939#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Теперь дело за вами. Поговорите об убийстве с главным куратором.#
 #
 
-60940#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Present the evidence of the 'Note' to the Head Curator.#
+60940#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Предъявите свидетельство главному куратору.#
 #
 
-60941#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-The Head Curator has made a run for it through the southern exit!!! Chase him quickly!#
+60941#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Главный куратор сбежал через южный выход !!! Догоните его!#
 #
 
-60942#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-The Head Curator has made a run for it into the jungle. Search for him at Brasilis Field, he couldn't have gotten far.#
+60942#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Главный куратор убежал в джунгли. Ищите его на поле Бразилиса, он не мог уйти далеко.#
 #
 
-60943#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Now that you've finally caught the Head Curator, you can tell the investigators that the true murderer has been found.#
+60943#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Теперь, когда вы наконец поймали главного куратора, вы можете сказать следователям, что настоящий убийца найден.#
 #
 
-60944#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags apparently has a reward for the person who found the killer. Speak to her now.#
+60944#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+У миссис Толстосум явно есть награда для человека, нашедшего убийцу. Поговорите с ней.#
 #
 
-60945#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags asked you to find the remains of Mr. Moneybags' missing locket. Search the Brasilis Sewers for the locket's pieces#
+60945#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум попросила вас найти остатки пропавшего медальона мистера Толстосума. Обыщите канализацию Бразилиса в поисках кусочков медальона.#
 #
 
-60946#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've found a fragment of the locket under some wet earth. Take it back to Mrs. Moneybags.#
+60946#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы нашли фрагмент медальона под влажной землей. Отнесите его миссис Толстосум.#
 #
 
-60947#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Wait 12 hours before helping Mrs. Moneybags find another locket fragment.#
+60947#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Подождите 12 часов, прежде чем помочь миссис Толстосум найти еще один фрагмент медальона.#
 #
 
-60948#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags asked you to find the remains of Mr. Moneybags' missing locket. Search the Brasilis Sewers for the locket's pieces#
+60948#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум попросила вас найти остатки пропавшего медальона мистера Толстосума. Обыщите канализацию Бразилиса в поисках кусочков медальона.#
 #
 
-60949#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've found a fragment of the locket under some wet earth. Take it back to Mrs. Moneybags.#
+60949#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы нашли фрагмент медальона под влажной землей. Отнесите его миссис Толстосум.#
 #
 
-60950#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Wait 12 hours before helping Mrs. Moneybags find another locket fragment.#
+60950#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Подождите 12 часов, прежде чем помочь миссис Толстосум найти еще один фрагмент медальона.#
 #
 
-60951#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags asked you to find the remains of Mr. Moneybags' missing locket. Search the Brasilis Sewers for the locket's pieces#
+60951#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум попросила вас найти остатки пропавшего медальона мистера Толстосума. Обыщите канализацию Бразилиса в поисках кусочков медальона#
 #
 
-60952#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've found a fragment of the locket under some wet earth. Take it back to Mrs. Moneybags.#
+60952#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы нашли фрагмент медальона под влажной землей. Отнесите его миссис Толстосум.#
 #
 
-60953#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Wait 12 hours before helping Mrs. Moneybags find another locket fragment.#
+60953#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Подождите 12 часов, прежде чем помочь миссис Толстосум найти еще один фрагмент медальона.#
 #
 
-60954#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-Mrs. Moneybags asked you to find the last remains of Mr. Moneybags' missing locket. Search the Brasilis Sewers for the locket's pieces#
+60954#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Миссис Толстосум попросила вас найти последний фрагмент пропавшего медальона мистера Толстосума. Обыщите канализацию Бразилиса в поисках кусочков медальона#
 #
 
-60955#Museum Murder Mystery#SG_FEEL#QUE_NOIMAGE#
-You've found the last fragment of the locket under some wet earth. Take it back to Mrs. Moneybags.#
+60955#Тайна убийства в музее#SG_FEEL#QUE_NOIMAGE#
+Вы нашли последний фрагмент медальона под влажной землей. Отнесите его миссис Толстосум.#
 #
 
 60956#Orcish Envoy#SG_FEEL#QUE_NOIMAGE#

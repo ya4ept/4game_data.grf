@@ -586,8 +586,8 @@
 4584#머너넝걸카드#
 4585#멍쿠쿠럼카드#
 4586#틱버렁카드#
-4587#티억넠카드#
-4588#웤웤카드#
+4587#티억ㅔサ#
+4588#pp카드#
 4589#제제링카드#
 4590#벙웅곳카드#
 4591#버코너워카드#
@@ -799,3 +799,11 @@
 
 27264#Evil_Shadow_Card#
 27265#Evil_Fanatics_Card#
+
+27122#Curupira_Card#
+27123#Toucan_Card#
+27124#Jaguar_Card#
+27125#Headless_Mule_Card#
+27120#Iara_Card#
+27121#Piranha_Card#
+27126#Boitata_Card#

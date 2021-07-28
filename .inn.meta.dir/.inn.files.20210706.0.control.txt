@@ -1,2 +1,0 @@
-1|data.grf|7ccc2b919e6ec5a93a20f1802018eeeea90f2095||pack-02|0|2016855219|2295883287|
-1|system\iteminfo.lub|bca0ceddb41d9d6c7af722efee9fb2e8e1210d42||pack-01|0|705837|4182991|
