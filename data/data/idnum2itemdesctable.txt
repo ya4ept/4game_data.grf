@@ -109,13 +109,9 @@ Restores ^00800010^000000 to ^00800015^000000 SP.
 #
 
 515#
-^808080An orange root that is supposedly good for your vision. Despite the Beta Carotene, kids don't care much for it.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
+An orange root that is supposedly good for your vision. Despite the Beta Carotene, kids don't care much for it.
+Restores 18-20 HP.
 Weight: 2
-^FFFFFF_^000000
-Restores ^00800018^000000 to ^00800020^000000 HP.
 #
 516#
 ^808080A tuber that can be fried, baked, boiled mashed, even eaten.^000000
@@ -2411,7 +2407,7 @@ An iridescent dragon's scale that is tough enough to protect from weather and mo
 Weight: ^7777771^000000
 #
 1037#
-^808080A tail cut off from a dragon that, sadly, will never grow back.^000000
+A tail cut off from a dragon that, sadly, will never grow back.
 ^FFFFFF_^000000
 Weight: 1
 #
@@ -3821,25 +3817,20 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordsman^000000
 #
 1188#
-^808080A sword that only allows for its sword master to use it.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 180
-Property: Neutral
-Weight: 200
-Weapon Level: 4
-Required Level: 80
-Jobs: Swordsman Jobs
-^FFFFFF_^000000
-STR + 1
-DEX + 1
-^FFFFFF_^000000
-If ^0000FFBash^800080 is at maximum level,
+A sword that only allows for its sword master to use it.
+STR +1, DEX +1
+^6A5ACD[If Bash is at maximum level]^000000
 Increases the damage of 0000FFBash^000000 by 50%.
 ^FFFFFF_^000000
-If ^^0000FFBowling Bash^800080 is at maximum level,
+^6A5ACD[If ^^0000FFBowling Bash^800080 is at maximum level]^000000
 Increases the damage of 0000FFBowling Bash^000000 by 50%.
+Type: ^777777Weapon^000000
+Class: ^777777Two-Handed Sword^000000
+Attack: ^777777180^000000
+Weight: ^777777200^000000
+Weapon Level: ^7777774^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Swordsman Jobs^000000
 #
 1189#
 A strong-looking sword which resembles a claymore. Its hand grip is decorated with red colors of high class Knights.
@@ -5962,43 +5953,20 @@ Increases physical damage on Undead race targets by 10%.
 Adds a chance of casting ^0000FFLevel 5 Blessing^000000 on the user when performing a physical attack.
 This item is indestructible in battle.
 #
-
 1384#
-^808080An axe made out of the metal which the Ancient God of Blacksmiths gave to humans. If someone handy with metals uses this axe, it will show their incredible power.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Axe
-Attack: 250
-Element: Neutral
-Weight: 300
-Weapon Level: 3
-Required Level: 80
-Jobs: Merchant Jobs
-^FFFFFF_^000000
-VIT + 2
-Adds a 5% chance of casting ^0000FFLevel 3 Magnum Break^000000 on the target when using ^0000FFHammerfall^000000.
-This item is indestructible in battle.
-^FFFFFF_^000000
-If ^0000FFForge Axe^000000 is at maximum level,
-ATK + 10
-^FFFFFF_^000000
-If ^0000FFForge Dagger^000000 is at maximum level,
-ATK + 10
-^FFFFFF_^000000
-If ^0000FFForge Knuckle^000000 is at maximum level,
-ATK + 10
-^FFFFFF_^000000
-If ^0000FFForge Mace^000000 is at maximum level,
-ATK + 10
-^FFFFFF_^000000
-If ^0000FFForge Spear^000000 is at maximum level,
-ATK + 10
-^FFFFFF_^000000
-If ^0000FFForge Sword^000000 is at maximum level,
-ATK + 10
-^FFFFFF_^000000
-If ^0000FFForge Two-Handed Sword^000000 is at maximum level,
-ATK + 10
+An axe made out of the metal which the Ancient God of Blacksmiths gave to humans. If someone handy with metals uses this axe, it will show their incredible power.
+VIT +2
+Adds a little chance of casting ^0000FFLevel 3 Magnum Break^000000 on the target when using ^0000FFHammerfall^000000.
+^ff0000This item is indestructible in battle.^000000
+[If Forge Axe/Forge Dagger/Forge Knuckle/Forge Mace/Forge Spear/Forge Sword/Forge Two-Handed Sword is at maximum level]
+ATK +10
+Type: ^777777Weapon^000000
+Class: ^777777Two-Handed Axe^000000
+Attack: ^777777250^000000
+Weight: ^777777300^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Merchant Jobs^000000
 #
 1385#
 A stone hammer made out of Bradium.
@@ -7883,21 +7851,17 @@ Adds a 20% chance of inflicting ^800000Stun^000000 on the target when performing
 #
 
 1548#
-^808080A hard hammer made out of the pieces of a meteorite from space. Ancient clerics said it to be blessed by the Gods.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Mace
-Attack: 160
-Property: Neutral
-Weight: 180
-Weapon Level: 3
-Required Level: 80
-Jobs: Acolyte Jobs
-^FFFFFF_^000000
-INT + 1
-LUK + 1
-CRIT + 2 per level of ^0000FFMace Mastery^000000 known.
-Increases the recovery rate of ^0000FFHeal^000000 by 1% per level of ^0000FFDivine Protection^000000 known.
+A hard hammer made out of the pieces of a meteorite from space. Ancient clerics said it to be blessed by the Gods.
+INT +1, LUK +1.
+CRIT +2 per level of ^0000FFMace Mastery^000000 known.
+Recovery rate of ^0000FFHeal^000000 +1% per level of ^0000FFDivine Protection^000000 known.
+Type: ^777777Weapon^000000
+Class: ^777777Mace^000000
+Attack: ^777777160^000000
+Weight: ^777777180^000000
+Weapon Level: ^7777773^000000
+Required Level: ^77777780^000000
+Jobs: ^777777Acolyte Jobs^000000
 #
 
 1549#
@@ -15035,8 +14999,10 @@ Jobs: ^777777All Jobs except Novice^000000
 //--------------------------------------------------------------------------
 2399#
 Inner wear made out of a draco's mane.
-Mdef + 3
-When equipped with Dragon Manteau:  Agi +5 / Flee +15 
+MDEF +3
+[When equipped with Dragon Manteau] 
+AGI +5.
+Flee +15.
 Class: ^777777Armor^000000
 Defense: ^7777773^000000
 Weight: ^77777750^000000
@@ -18282,7 +18248,8 @@ Job: ^777777All^000000
 #
 2783#
 A ring with a small bead set in. It feels like the bead is watching you.
-Cri +2, MaxSP +25.
+Crit +2. 
+MaxSP +25.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -18300,8 +18267,8 @@ Job: ^777777All^000000
 //--------------------------------------------------------------------------
 2787#
 A brooch made out of tear drops of the Aqua Elemental.
-Increases resistance to Water property by 5%.
-MaxHP +1%, Mdef + 2
+Resistance to Water property +5%.
+MaxHP +1%, MDEF + 2
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -23360,15 +23327,15 @@ Slot: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4443#
-Decreases physical damage from Water Property by 20%.
-Increases physical damage dealt to Water Property by 5%.
+Physical damage from Water Property -20%.
+Physical damage dealt to Water Property +5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4444#
-Decreases physical damage from Earth Property by 20%.
-Increases physical damage dealt to Earth Property by 5%.
+Physical damage from Earth Property -20%.
+Physical damage dealt to Earth Property +5%.
 Class: ^777777Card^000000
 Slot: ^777777Shield^000000
 Weight: ^7777771^000000
@@ -23421,7 +23388,9 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4456#
-INT + 5. When equipped by a High Wizard or Warlock Jobs, Fixed cast of all skills -50%.
+INT + 5. 
+[When equipped by a High Wizard or Warlock Jobs] 
+Fixed cast of all skills -50%.
 Class: ^777777Card^000000
 Slot: ^777777Armor^000000
 Weight: ^7777771^000000
@@ -23433,25 +23402,29 @@ Slot: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4458#
-ATK + 10. When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10. 
+ATK + 10. 
+When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10. 
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4459#
-MATK + 10. When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%. 
+MATK + 10. 
+When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%. 
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4460#
-Heal Skill Recovery + 3%. Increases SP cost of skills by 5%. 
+Heal Skill Recovery + 3%. 
+Increases SP cost of skills by 5%. 
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4461#
-Dex + 1, Agi + 1. When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT + 20. 
+Dex + 1, Agi + 1. 
+When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT + 20. 
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -23523,7 +23496,7 @@ Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4471#
-Increases magic damage on Dragon type monsters by 10%. 
+Magic damage on Dragon type monsters +10%. 
 Class: ^777777Card^000000
 Slot: ^777777Weapon^000000
 Weight: ^7777771^000000
@@ -24304,13 +24277,12 @@ Required Level: ^77777765^000000
 Jobs: ^777777Swordsman Class^000000
 #
 5015#
-A peculiar hat that
-makes it wearer look
-freshly hatched.
+A peculiar hat that makes it wearer look freshly hatched.
 Class: ^777777Headgear^000000
 Defense: ^7777776^000000
 Location: ^777777Upper^000000
-Weight: ^77777720Jobs: ^777777All^000000
+Weight: ^77777720^000000
+Jobs: ^777777All^000000
 #
 5016#
 A black cap that is
@@ -26540,9 +26512,7 @@ its usefulness.
 Weight: ^7777771^000000
 #
 7032#
-An eggshell fragment
-that protected its egg
-to the final, tragic end. ^ffffff      ^000000
+An eggshell fragment that protected its egg to the final, tragic end.
 Weight: ^7777771^000000
 #
 7033#
@@ -35483,24 +35453,7 @@ your life.
 ^ffffff_^000000
 #
 // -------- 2007 占싹븝옙 占쏙옙占쏙옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 ----------
-5380#
-A gaping fish head
-fashioned into a hat.
-A nasty stench is
-released whenever
-it opens its mouth.
-Adds a low chance
-of automatically
-casting Lv.1 Endow
-Tsunami with each
-physical attack.
-Can be placed in Kafra Storage, cart and traded.
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777740^000000
-Jobs: ^777777All^000000
-#
+
 
 5381#
 A cute hat made
@@ -43056,6 +43009,7 @@ Weight: ^7777771^000000
 #
 
 6073#
+^ff0000Character Bound^000000
 Mysterious blue mane of a dragon. It is used for decoration, due to its beautiful color and silky touch.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -43069,6 +43023,7 @@ Weight: ^7777770^000000
 #
 
 6075#
+^ff0000Character Bound^000000
 The one and only tear drop of the Aqua Elemental.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -43097,12 +43052,14 @@ Weight: ^7777770^000000
 #
 
 6084#
+^ff0000Character Bound^000000
 Fragmented Bradium's piece. Laphines were experimenting on it and its quality is now different from the refined Bradium at Manuk.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #
 
 6085#
+^ff0000Character Bound^000000
 A Muffler made out of unacquainted materials and techniques. It is the Manuk Sapha tribe's favorite muffler.
 It's worn out. The name is inscribed on the tip of the muffler.
 ^ffffff_^000000
@@ -43173,6 +43130,7 @@ Weight: ^7777775^000000
 #
 
 12346#
+^ff0000Character Bound^000000
 Puckery unripe acorn. It's best not to eat this.
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -43316,17 +43274,6 @@ Defense: ^7777770^000000    Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-5447#
-A hat which resembles the Frog God. But even the God of all frogs looks exactly like any other frog.
-Physical and Magical Attack damage done to Insect type monsters increased by 12%.
-Mdef +1
-Class: ^777777Headgear^000000
-Defense: ^7777776^000000
-Equip: ^777777Upper^000000
-Weight: ^77777750^000000
-Required Level: ^77777770^000000
-Job: ^777777All Classes^000000
-#
 5448#
 A cardboard box with holes in it. You can show others how you can adventure solo with no problem.
 Enables the use of 'Lv 1. Scribble'.
@@ -43390,7 +43337,7 @@ Weight: ^7777770^000000
 #
 12353#
 A tiny bottle with water in it that's almost freezing.
-Gives Water-Elemental endowment to weapon for 90 seconds.
+Endows weapon with Water element for 90 sec.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -51231,12 +51178,6 @@ Refreshing fruit occasionally found wild in the vicinity of Bifrost.
 Weight: ^7777772^000000
 Required Level: ^7777771^000000
 #
-11521#
-A beverage made by mixing Pinguicula Berry Juice with fizzy juice. Tastes surprisingly good.
-^000088Restores approximately 400 HP and 50 SP^000000.
-Weight: ^7777775^000000
-Required Level: ^7777771^000000
-#
 11522#
 Red sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 400 HP -> 600 HP^000000.
@@ -51257,13 +51198,6 @@ White sap with amazing healing power. You wouldn't want to find out what it's ma
 Weight: ^77777714^000000
 Required Level: ^7777771^000000
 Cooldown Time: ^7777773 Seconds^000000
-#
-11525#
-Tea made by infusing dried plants, rarely found even in Mora Village. Smells extremely good.
-^000088Restores approximately 1500 HP^000000.
-Weight: ^77777715^000000
-Required Level: ^777777120^000000
-Cooldown Time: ^7777775 Seconds^000000
 #
 11526#
 ^FF0000Account Bound^000000
@@ -66665,11 +66599,14 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19842#
-A hat with small brown puppy.
+^FF0000Account Bound^000000
+A loyal puppy who wants to be with you all the time!
+It is the funniest and cutest headgear of this season!
 Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19873#
 A hat for Brazilian carnival. You can dance everywhere with wearing this.
@@ -90773,4 +90710,91 @@ Location: ^777777Upper/Middle^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+20157#
+^ff0000Account Bound^000000
+While you were catching fish, one of them jumped out of the water and fell on your head.
+Let it stay there! Perhaps it will bring good luck!
+Casting Time -5%.
+ASPD +5%.
+Physical and magical damage against Fish monsters +20%.
+^ff0000[Effects are active only during the event (until August 04, 2021).]^000000
+Class: ^777777Costume^000000
+Defense: ^7777770^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5380#
+^ff0000Account Bound^000000
+^ff0000Animated^000000
+This scaly kid can translate from Aquatic to Midgardian!
+Fish monsters rarely say anything intelligent, they usually just swear... It makes you angry. And anger gives strength!
+EXP +10%.
+SP consumption -10%.
+Reflect 5% of all Physical Melee Damage back to the enemy which inflicted it.
+^ff0000[Effects are active only during the event (until August 04, 2021).]^000000
+Class: ^777777Headgear^000000
+Defense: ^7777774^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5447#
+^ff0000Account Bound^000000
+One day, a great hero killed a giant lion and made a helmet out of its head.
+And you killed 5000 frogs! You are no worse than him!
+All stats +5.
+Increase Movement Speed.
+Physical and magical damage against Insects monsters +20%.
+^ff0000[Effects are active only during the event (until August 04, 2021).]^000000
+Class: ^777777Headgear^000000
+Defense: ^7777774^000000
+Equip: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^77777770^000000
+Job: ^777777All^000000
+#
+11521#
+^ff0000Account Bound^000000
+Take a sip to feel the harmony of the Universe.
+The heavenly spheres revolve in perfect conjunction with the flow of time and the transmutation of elements... Oh, how wonderful!
+Restores 10% SP.
+Hit +15 for 5 min.
+Flee +15 for 5 min.
+Weight: ^7777775^000000
+#
+11525#
+^ff0000Account Bound^000000
+Tea made by infusing dried plants, rarely found even in Mora Village. Smells extremely good.
+Restores 40% HP.
+Randomly applies one of the effects: 
+- Physical and magical atack +20 for 2 min.
+or
+- STR, INT, LUK +5 for 2 min.
+or
+- Increase Movement Speed for 2 min.
+or
+- MDEF +5, Endure for 2 min.
+Weight: ^7777773^000000
+#
+12602#
+^ff0000Account Bound^000000
+You have achieved great success in sea hunting. Keep it up!
+We hope these potions will help you in the future!
+Open the box and receive these following items: 
+Potion of Harmony x10
+Potion of Disharmony x10
+Weight: ^77777720^000000
+#
+12604#
+^ff0000Account Bound^000000
+You are a true legend of sea hunting! What is the secret of your success?
+Don't answer, let it remain a mystery. Here, take this prize!
+Open the box and receive these following items: 
+Potion of Harmony x50
+Potion of Disharmony x50
+Weight: ^777777100^000000
 #

@@ -3005,7 +3005,6 @@
 594#Sour-Cream Pancake#
 595#Mushroom Pancake#
 // ------------------- 2007. 3 cash hat items --------------------------
-5380#Fish Head Hat#
 5381#Santa Poring Hat#
 5382#Bell Ribbon#
 13902#Fish Head Hat Box#
@@ -4202,7 +4201,6 @@
 5444#Hair Brush#
 5445#Candy Cane In Mouth#
 5446#Catfoot Hairpin#
-5447#Frog Hat#
 5448#Soloplay Box1#
 5449#Soloplay Box#
 
@@ -5804,11 +5802,9 @@
 4805#Archbishop1Lv#
 11519#Bifrost#
 11520#Mora Mandarin#
-11521#Pinguicula Berry Juice#
 11522#Red Raffle Sap#
 11523#Yellow Raffle Sap#
 11524#White Raffle Sap#
-11525#Mora Hip Tea#
 11526#Rafflecino#
 1773#Elven Arrow#
 1774#Hunting Arrow#
@@ -6346,7 +6342,7 @@
 19838#C Fox Hat#
 19839#C Vanilmirth Hat#
 19840#C Helm Of Sun#
-19842#C Puppy Hat#
+19842#Happy Puppy Hat#
 19852#C Galapago Cap#
 19854#C Ear Of Black Cat #
 20706#Amistr Bag#
@@ -6934,7 +6930,6 @@
 
 //-------------Costama Animals------------
 17517#Costama Animals#
-19842#C Puppy Hat#
 20191#C Black Cat Ears Beret#
 20192#Green Foxtail#
 20193#C Foxtail#
@@ -9279,3 +9274,11 @@
 20008#General's Helmet#
 20033#Preceptor's Crown#
 19555#Crescent Moon Kabuto#
+
+20157#Head Fish#
+5380#Fish Interpreter#
+5447#Frog Cap#
+11521#Potion of Harmony#
+11525#Potion of Disharmony#
+12602#Hunting Prize#
+12604#Great Hunting Prize#

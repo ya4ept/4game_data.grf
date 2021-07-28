@@ -22372,3 +22372,58 @@ Take part in the melon contest every day and win prizes#
 17308#Catching some hogs#SG_FEEL#QUE_NOIMAGE#
 Hyrde asked to bring him 5 Salted Bacon, 3 Smoked Pork и 1 Garlic Lard.#
 Help the farmer.#
+
+
+17309#Sea hunt - 60 Roda Frogs#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Roda Frogs#
+Kill 60 Roda Frogs#
+17310#Sea hunt - 240 Roda Frogs#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Roda Frogs#
+Kill 240 Roda Frogs#
+
+17311#Sea hunt - 60 Crabs#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Crabs#
+Kill 60 Crabs#
+17312#Sea hunt - 240 Crabs#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Crabs#
+Kill 240 Crabs#
+
+17313#Sea hunt - 60 Shellfishes#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Shellfishes#
+Kill 60 Shellfishes#
+17314#Sea hunt - 240 Shellfishes#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Shellfishes#
+Kill 240 Shellfishes#
+
+17315#Sea hunt - 60 Kukre#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Kukre#
+Kill 60 Kukre#
+17316#Sea hunt - 240 Kukre#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Kukre#
+Kill 240 Kukre#
+
+17317#Sea hunt - 60 Penomenas#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Penomenas#
+Kill 60 Penomenas#
+17318#Sea hunt - 240 Penomenas#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Penomenas#
+Kill 240 Penomenas#
+
+17319#Sea hunt - 60 Marses#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Marses#
+Kill 60 Marses#
+17320#Sea hunt - 240 Marses#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Marses#
+Kill 240 Marses#
+
+17321#Sea hunt - 60 Vadons#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 60 Vadons#
+Kill 60 Vadons#
+17322#Sea hunt - 240 Vadons#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 240 Vadons#
+Kill 240 Vadons#
+
+17323#Sea hunt - 5000 Roda Frogs#SG_FEEL#QUE_NOIMAGE#
+You took a special order to kill 5000 Roda Frogs#
+Kill 5000 Roda Frogs#
+

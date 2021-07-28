@@ -1509,7 +1509,6 @@
 5062#Helm#
 5063#Accessory#
 5064#Accessory#
-5065#Helm#
 5066#Helm#
 5067#Helm#
 5068#Accessory#
@@ -2950,7 +2949,6 @@
 594#Sour-Cream Pancake#
 595#Mushroom Pancake#
 // ------------------- 2007. 3 cash hat items --------------------------
-5380#Cap#
 5381#Cap#
 5382#Ribbon#
 13902#Fish Head Hat Box#
@@ -4152,7 +4150,6 @@
 5444#Accessory#
 5445#Accessory#
 5446#Accessory#
-5447#Hat#
 5448#Hat#
 5449#Cap#
 
@@ -5755,11 +5752,9 @@
 4805#Archbishop1Lv#
 11519#Beef Toast#
 11520#Mora Mandarin#
-11521#Pingui Berry Juice#
 11522#Red Raffle Sap#
 11523#Yellow Raffle Sap#
 11524#White Raffle Sap#
-11525#Mora Hip Tea#
 11526#Rafflecino#
 1773#Elven Arrow#
 1774#Hunting Arrow#
@@ -6299,7 +6294,6 @@
 19838#Mask#
 19839#hat#
 19840#Helmet#
-19842#Helmet#
 19852#Hat#
 19854#Hat#
 2985#Accessory#
@@ -8183,3 +8177,12 @@
 20008#Helm#
 20033#Accessory#
 19555#Hat#
+
+5065#Headgear#
+20157#Hat#
+5380#Headgear#
+5447#Hat#
+11521#Potion of Harmony#
+11525#Potion of Disharmony#
+12602#Hunting Prize#
+12604#Great Hunting Prize#

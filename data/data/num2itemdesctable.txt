@@ -7704,9 +7704,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 5064#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-5065#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 5066#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -18008,9 +18005,6 @@ your life.
 #
 
 // -------- 2007 占싹븝옙 占쏙옙占쏙옙 캐占쏙옙占쏙옙占쏙옙占쏙옙 ----------
-
-5380#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 5381#
 Unknown item
@@ -25712,9 +25706,6 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 5446#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
-5447#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 5448#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -31382,12 +31373,6 @@ Refreshing fruit occasionally found wild in the vicinity of Bifrost.
 Weight: ^7777772^000000
 Required Level: ^777777100^000000
 #
-11521#
-A beverage made by mixing Pinguicula Berry Juice with fizzy juice. Tastes surprisingly good.
-^000088Restores approximately 400 HP and 50 SP^000000.
-Weight: ^7777775^000000
-Required Level: ^777777100^000000
-#
 11522#
 Red sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 400 HP^000000.
@@ -31408,13 +31393,6 @@ White sap with amazing healing power. You wouldn't want to find out what it's ma
 Weight: ^77777712^000000
 Required Level: ^777777120^000000
 Cooldown Time: ^7777773 Seconds^000000
-#
-11525#
-Tea made by infusing dried plants, rarely found even in Mora Village. Smells extremely good.
-^000088Restores approximately 1500 HP^000000.
-Weight: ^77777715^000000
-Required Level: ^777777120^000000
-Cooldown Time: ^7777775 Seconds^000000
 #
 11526#
 ^FF0000Account Bound^000000
@@ -44345,11 +44323,7 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19842#
-A hat with small brown puppy.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19873#
 A hat for Brazilian carnival. You can dance everywhere with wearing this.
@@ -56169,5 +56143,58 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19555#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5065#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5380#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5447#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+11521#
+^ff0000Account Bound^000000
+Take a sip to feel the harmony of the Universe.
+The heavenly spheres revolve in perfect conjunction with the flow of time and the transmutation of elements... Oh, how wonderful!
+Restores 10% SP.
+Hit +15 for 5 min.
+Flee +15 for 5 min.
+Weight: ^7777775^000000
+#
+11525#
+^ff0000Account Bound^000000
+Tea made by infusing dried plants, rarely found even in Mora Village. Smells extremely good.
+Restores 40% HP.
+Randomly applies one of the effects: 
+- Physical and magical atack +20 for 2 min.
+or
+- STR, INT, LUK +5 for 2 min.
+or
+- Increase Movement Speed for 2 min.
+or
+- MDEF +5, Endure for 2 min.
+Weight: ^7777773^000000
+#
+12602#
+^ff0000Account Bound^000000
+You are a true legend of sea hunting! What is the secret of your success?
+Don't answer, let it remain a mystery. Here, take this prize!
+Open the box and receive these following items: 
+Potion of Harmony x10
+Potion of Disharmony x10
+Weight: ^77777720^000000
+#
+12604#
+^ff0000Account Bound^000000
+You have achieved great success in sea hunting. Keep it up!
+We hope these potions will help you in the future!
+Open the box and receive these following items: 
+Potion of Harmony x50
+Potion of Disharmony x50
+Weight: ^777777100^000000
+#
+20157#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
