@@ -56,7 +56,14 @@ title_tbl = {
 	[1036] = "Midnight Exorcist",
 	[1037] = "Santa's Helper",
 	[1038] = "Snowflake Lord",
-	[1039] = "Shiny"
+	[1039] = "Shiny",
+	[5002] = "Ruffian",
+	[5003] = "Brawler",
+	[5004] = "Warboss",
+	[5008] = "Sushi Lover",
+	[5009] = "Fish Nemesis",
+	[5010] = "Sea Legend",
+	[5011] = "Champion of Champions"
 }
 
 -- Function #0

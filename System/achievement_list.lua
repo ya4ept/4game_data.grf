@@ -5538,6 +5538,306 @@ achievement_tbl = {
 		resource = { [1] = { text = "Hunt Pharaoh", count = 1 } },
 		reward = {},
 		score = 1
+	},
+	[501004] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "PVP Winner",
+		content = { summary = "Kill 1 player in PVP", details = "Take part in PVP battles." },
+		resource = { [1] = { text = "Kill 1 player in PVP", count = 1 } },
+		reward = { item = 12602, title = 5002 },
+		score = 10
+	},
+	[501005] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "PVP Winner",
+		content = { summary = "Kill 10 player in PVP", details = "Take part in PVP battles." },
+		resource = { [1] = { text = "Kill 10 player in PVP", count = 10 } },
+		reward = { item = 12602, title = 5003 },
+		score = 10
+	},
+	[501006] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "PVP Winner",
+		content = { summary = "Kill 50 player in PVP", details = "Take part in PVP battles." },
+		resource = { [1] = { text = "Kill 50 player in PVP", count = 50 } },
+		reward = { item = 12604, title = 5004 },
+		score = 10
+	},
+	[501007] = {
+		UI_Type = 1,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 0,
+		title = "Harmony effect",
+		content = {
+			summary = "Consume Harmony Potion 10 times",
+			details = "Try the Harmony Potion effect on yourself."
+		},
+		resource = { [1] = { text = "Consume Harmony Potion 10 times", count = 10 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501008] = {
+		UI_Type = 1,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 0,
+		title = "Disharmony effect",
+		content = {
+			summary = "Consume Disharmony Potion 10 times",
+			details = "Try the Disharmony Potion effect on yourself."
+		},
+		resource = { [1] = { text = "Consume Disharmony Potion 10 times", count = 10 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501015] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Frog annihilator",
+		content = {
+			summary = "Kill Roda Frog 5000 times",
+			details = "Clear the fields from Roda Frogs."
+		},
+		resource = { [1] = { text = "Kill Roda Frog 5000 times", count = 5000 } },
+		reward = { item = 5447 },
+		score = 10
+	},
+	[501016] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Roda Frog 50 times", details = "Kill Roda Frog 50 times." },
+		resource = { [1] = { text = "Kill Roda Frog 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501017] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Roda Frog 200 times", details = "Kill Roda Frog 200 times." },
+		resource = { [1] = { text = "Kill Roda Frog 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501018] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Crab 50 times", details = "Kill Crab 50 times." },
+		resource = { [1] = { text = "Kill Crab 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501019] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Crab 200 times", details = "Kill Crab 200 times." },
+		resource = { [1] = { text = "Kill Crab 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501020] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Shellfish 50 times", details = "Kill Shellfish 50 times." },
+		resource = { [1] = { text = "Kill Shellfish 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Shellfish 200 times", details = "Kill Shellfish 200 times." },
+		resource = { [1] = { text = "Kill Shellfish 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501022] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Kukre 50 times", details = "Kill Kukre 50 times." },
+		resource = { [1] = { text = "Kill Kukre 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501023] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Kukre 200 times", details = "Kill Kukre 200 times." },
+		resource = { [1] = { text = "Kill Kukre 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501024] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Penomena 50 times", details = "Kill Penomena 50 times." },
+		resource = { [1] = { text = "Kill Penomena 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501025] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Penomena 200 times", details = "Kill Penomena 200 times." },
+		resource = { [1] = { text = "Kill Penomena 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501026] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Marse 50 times", details = "Kill Marse 50 times." },
+		resource = { [1] = { text = "Kill Marse 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501027] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Marse 200 times", details = "Kill Marse 200 times." },
+		resource = { [1] = { text = "Kill Marse 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501028] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Vadon 50 times", details = "Kill Vadon 50 times." },
+		resource = { [1] = { text = "Kill Vadon 50 times", count = 50 } },
+		reward = { item = 12602 },
+		score = 10
+	},
+	[501029] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Sea hunt",
+		content = { summary = "Kill Vadon 200 times", details = "Kill Vadon 200 times." },
+		resource = { [1] = { text = "Kill Vadon 200 times", count = 200 } },
+		reward = { item = 12604 },
+		score = 10
+	},
+	[501030] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Novice hunter",
+		content = { summary = "Take part in the sea hunt", details = "Complete the sea hunt." },
+		resource = {
+			[1] = { text = "Kill Roda Frog 50 times" },
+			[2] = { text = "Kill Crab 50 times" },
+			[3] = { text = "Kill Shellfish 50 times" }
+		},
+		reward = { item = 20157, title = 5008 },
+		score = 10
+	},
+	[501031] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Experienced hunter",
+		content = { summary = "Take part in the sea hunt", details = "Complete the sea hunt." },
+		resource = {
+			[1] = { text = "Kill Roda Frog 50 times" },
+			[2] = { text = "Kill Crab 50 times" },
+			[3] = { text = "Kill Shellfish 50 times" },
+			[4] = { text = "Kill Kukre 50 times" },
+			[5] = { text = "Kill Penomena 50 times" },
+			[6] = { text = "Kill Marse 50 times" },
+			[7] = { text = "Kill Vadon 50 times" }
+		},
+		reward = { item = 5380, title = 5009 },
+		score = 10
+	},
+	[501032] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Master hunter",
+		content = { summary = "Take part in the sea hunt", details = "Complete the sea hunt." },
+		resource = {
+			[1] = { text = "Kill Roda Frog 200 times" },
+			[2] = { text = "Kill Crab 200 times" },
+			[3] = { text = "Kill Shellfish 200 times" },
+			[4] = { text = "Kill Kukre 200 times" },
+			[5] = { text = "Kill Penomena 200 times" },
+			[6] = { text = "Kill Marse 200 times" },
+			[7] = { text = "Kill Vadon 200 times" }
+		},
+		reward = { title = 5010 },
+		score = 10
+	},
+	[501033] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Tribal slayer",
+		content = { summary = "Kill monster leaders", details = "Find and kill leaders." },
+		resource = {
+			[1] = { text = "Kill Furious Roda Frog" },
+			[2] = { text = "Kill Chief Roda Frog" },
+			[3] = { text = "Kill Solid Cornutus" },
+			[4] = { text = "Kill Swift Shellfish" },
+			[5] = { text = "Kill Elusive Phen" },
+			[6] = { text = "Kill Solid Vadon" }
+		},
+		reward = { title = 5011 },
+		score = 10
 	}
 }
 

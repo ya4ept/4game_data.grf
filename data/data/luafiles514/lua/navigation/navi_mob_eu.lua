@@ -1550,7 +1550,7 @@ Navi_Mob = {
 	{ "prt_fild00", 16495, 300, 8520692, "Roda Frog", "RODA_FROG", 13, 1376517 },
 	{ "prt_fild00", 16496, 300, 3277894, "Ambernite", "AMBERNITE", 19, 1376772 },
 	{ "prt_fild00", 16497, 300, 1311887, "Savage\tBabe", "SAVAGE_BABE", 14, 1441794 },
-	{ "prt_fild00", 18381, 300, 133750, "Roda Frog Ringleader", "C3_RODA_FROG", 13, 1376517 },
+	{ "prt_fild00", 18381, 300, 133750, "Chief Roda Frog", "C3_RODA_FROG", 13, 1376517 },
 	{ "prt_fild00", 18850, 300, 66619, "Shining Plant", "SHINING_PLANT", 1, 1703939 },
 	{ "prt_fild00", 18851, 300, 328760, "Green Plant", "GREEN_PLANT", 1, 1441795 },
 	{ "prt_fild01", 16462, 300, 1967082, "Poring", "PORING", 1, 1376515 },
