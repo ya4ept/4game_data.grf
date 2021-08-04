@@ -2075,5 +2075,8 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Thanos_Helm2_LT] = "_Thanos_Helm2_LT",
 	[ACCESSORY_IDs.ACCESSORY_C_Rose_Crispinette] = "_C_Rose_Crispinette",
 	[ACCESSORY_IDs.ACCESSORY_C_Cherry_Ribbon] = "_C_Cherry_Ribbon",
-	[ACCESSORY_IDs.ACCESSORY_C_Feather_Stola] = "_C_Feather_Stola"
+	[ACCESSORY_IDs.ACCESSORY_C_Feather_Stola] = "_C_Feather_Stola",
+	[ACCESSORY_IDs.ACCESSORY_C_Fishbone_Hair] = "_C_Fishbone_Hair",
+	[ACCESSORY_IDs.ACCESSORY_C_Whale_Cap] = "_C_Whale_Cap",
+	[ACCESSORY_IDs.ACCESSORY_C_Sailor_Collar_WH] = "_C_Sailor_Collar_WH"
 }
