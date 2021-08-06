@@ -57666,13 +57666,13 @@ Required Level: ^77777710^000000
 Job: ^777777All^000000
 #
 19587#
-The Master of all porings, the King Poring's hat.
+A hat in the shape of King Poring, the best of all kings!
+Glory to His Majesty, may he reign forever!
 Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^77777710^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All^000000
 #
 
 
@@ -66154,12 +66154,13 @@ Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
 19693#
-A hat which seems to stack a few of the most popular monster, Poring.
-Are they Angeling at the bottom, Masterling in the middle, Poring at the top?
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+Angeling, Mastering and Poring...
+And all three are on your head! What are you going to do?
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
 19694#
 A hairpin shaped like a windmill rolling. Can you check the wind velocity with this?
@@ -84329,6 +84330,7 @@ A fragment of crystallized spiritual imprint. It works like a mirror, reflecting
 Weight: ^7777771^000000
 #
 6101#
+^ff0000Account bound^000000
 Can be exchanged for Enlightened One's rewards in Prontera (156, 116).
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -88747,7 +88749,7 @@ Jobs: ^777777All^000000
 #
 31514#
 Miniature tabby cat with light blue coat.
-It?셲 peaceful, friendly and very active.
+It's peaceful, friendly and very active.
 Class: ^777777Costume^000000
 Location: ^777777Mid^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
@@ -90715,10 +90717,6 @@ Jobs: ^777777All^000000
 ^ff0000Account Bound^000000
 While you were catching fish, one of them jumped out of the water and fell on your head.
 Let it stay there! Perhaps it will bring good luck!
-Casting Time -5%.
-ASPD +5%.
-Physical and magical damage against Fish monsters +20%.
-^ff0000[Effects are active only during the event (until August 04, 2021).]^000000
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper^000000
@@ -90731,10 +90729,6 @@ Jobs: ^777777All^000000
 ^ff0000Animated^000000
 This scaly kid can translate from Aquatic to Midgardian!
 Fish monsters rarely say anything intelligent, they usually just swear... It makes you angry. And anger gives strength!
-EXP +10%.
-SP consumption -10%.
-Reflect 5% of all Physical Melee Damage back to the enemy which inflicted it.
-^ff0000[Effects are active only during the event (until August 04, 2021).]^000000
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Location: ^777777Upper^000000
@@ -90746,10 +90740,6 @@ Jobs: ^777777All^000000
 ^ff0000Account Bound^000000
 One day, a great hero killed a giant lion and made a helmet out of its head.
 And you killed 5000 frogs! You are no worse than him!
-All stats +5.
-Increase Movement Speed.
-Physical and magical damage against Insects monsters +20%.
-^ff0000[Effects are active only during the event (until August 04, 2021).]^000000
 Class: ^777777Headgear^000000
 Defense: ^7777774^000000
 Equip: ^777777Upper^000000
@@ -90798,3 +90788,91 @@ Potion of Harmony x50
 Potion of Disharmony x50
 Weight: ^777777100^000000
 #
+19676#
+This tiny Poring can change color while jumping.
+But only if it jumps on someone's head! Kind of weird...
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20425#
+Is it a bird? Is it a plane? No, it's Angeling in all its fame!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20427#
+Is it a bird? Is it a plane? No, it's Arc Angeling in all its fame!
+^ff0000Animated^000000
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20575#
+An old-fashioned synthetic leather schoolbag.
+It brings back melancholic childhood memories. 
+^ffffff_^000000
+Class: ^777777Costume^000000
+Location: ^777777Garment^000000
+Defense: ^7777770^000000   Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+9622#
+This little one came from Poringia, the planet of the Poring race.
+On his starship, he brought a cute little army to take over this world!
+What kind of army? Open the box and find out! And also receive one of the following gifts:
+Choco Bag
+Schoolbag
+Poring Blessing
+Silvervine x1000
+Poring Muffler
+King Poring Hat
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Triple Poring Hat
+Rainbow Poring Hat
+Angeling Companion
+Arc Angeling Companion
+Poring Fedora Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Poring Box x4
+Party Assumptio Scroll x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Sweet Canape x35
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Poring Hotpot x20
+Angeling Potion x6
+Bloody Branch x2
+Guyak Pudding x25
+Superb Fish Slice x25
+Sparkling Candy  x11
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+
+
+

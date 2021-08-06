@@ -5590,7 +5590,7 @@
 18634#Green Poring Hairpin#
 18635#Blue Poring Hairpin#
 18785#King Poring Hat#
-19587#Costume King Poring Hat#
+19587#King Poring Hat#
 12676#WoE Violet Potion Box#
 12623#High Weapon box#
 12531#White Potion Box#
@@ -9282,3 +9282,9 @@
 11525#Potion of Disharmony#
 12602#Hunting Prize#
 12604#Great Hunting Prize#
+19676#Rainbow Poring Hat#
+19693#Triple Poring Hat#
+20425#Angeling Companion#
+20427#Arc Angeling Companion#
+20575#Schoolbag#
+9622#Alien Poring Treasure#

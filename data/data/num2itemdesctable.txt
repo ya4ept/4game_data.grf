@@ -43932,12 +43932,7 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19693#
-A hat which seems to stack a few of the most popular monster, Poring.
-Are they Angeling at the bottom, Masterling in the middle, Poring at the top?
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19694#
 A hairpin shaped like a windmill rolling. Can you check the wind velocity with this?
@@ -52616,6 +52611,7 @@ A fragment of crystallized spiritual imprint. It works like a mirror, reflecting
 Weight: ^7777771^000000
 #
 6101#
+^ff0000Account bound^000000
 Can be exchanged for Enlightened One's rewards in Prontera (156, 116).
 ^ffffff_^000000
 Weight: ^7777770^000000
@@ -56198,3 +56194,72 @@ Weight: ^777777100^000000
 20157#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
+9622#
+뾰잉뾰잉
+
+무게 : ^7777771^000000
+#
+
+
+19676#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20425#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20427#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20575#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+9622#
+This little one came from Poringia, the planet of the Poring race.
+On his starship, he brought a cute little army to take over this world!
+What kind of army? Open the box and find out! And also receive one of the following gifts:
+Choco Bag
+Schoolbag
+Poring Blessing
+Silvervine x1000
+Poring Muffler
+King Poring Hat
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Triple Poring Hat
+Rainbow Poring Hat
+Angeling Companion
+Arc Angeling Companion
+Poring Fedora Hat
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Poring Box x4
+Party Assumptio Scroll x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Ancient City Wing x15
+Rune-Midgard Wing x15
+Sweet Canape x35
+WoE Teleport Scroll x15
+WoE 2.0 Teleport Scroll x15
+Poring Hotpot x20
+Angeling Potion x6
+Bloody Branch x2
+Guyak Pudding x25
+Superb Fish Slice x25
+Sparkling Candy  x11
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+
+
+
+

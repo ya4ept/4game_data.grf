@@ -8186,3 +8186,9 @@
 11525#Potion of Disharmony#
 12602#Hunting Prize#
 12604#Great Hunting Prize#
+19676#Hat#
+19693#Hat#
+20425#Accessory#
+20427#Accessory#
+20575#Garment#
+9622#Alien Poring Treasure#
