@@ -1,22 +1,22 @@
 distribution {1}
-    version=20210803.0-live
+    version=20210805.0-live
     type=env
     env=live
     files=./live/
     control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
-    deleted-control-hash=74b9ee6c71d93121528e77515fb6835781f0312b
+    deleted-control-hash=4cd9c37faa504cc38ce732c2f64cca0da06e4b4a
     command-hash=efcc7d91c7fd16f4dbc59f84fe95f87b32622e07
     adapter-hash=
     compressed-size=0
     size=0
-    compressed-size-total=2529206384
-    size-total=2926531695
+    compressed-size-total=2527205451
+    size-total=2926541040
     compressed-stages=
 
 delta {0}
 patcher {1}
     version=1.1.6.0
-    date-created=2021-08-03T13:52:14+03:00
-    date-modified=2021-08-03T13:52:14+03:00
-    running-time-sec=1029
+    date-created=2021-08-05T11:56:45+03:00
+    date-modified=2021-08-05T11:56:45+03:00
+    running-time-sec=1024
 
