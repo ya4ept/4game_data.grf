@@ -5206,7 +5206,7 @@ SKILL_DESCRIPT = {
 		"[Lv. 4] ^7777778 SP, 310% Atk^000000",
 		"[Lv. 5] ^7777776 SP, 340% Atk^000000",
 		"[Lv. 6] ^7777774 SP, 370% Atk^000000",
-		"[Lv. 7] ^7777772 SP, 400% Atk^0000000"
+		"[Lv. 7] ^7777772 SP, 400% Atk^000000"
 	},
 	[SKID.TK_DODGE] = {
 		"Tumbling",
@@ -5305,11 +5305,11 @@ SKILL_DESCRIPT = {
 		"inflict an amount of additional according to",
 		"the skill's level.^000000",
 		"Additional Damage by Level",
-		"[Lv 1] ^777777+(Party Member*2%)^000000",
-		"[Lv 2] ^777777+(Party Member*4%)^000000",
-		"[Lv 3] ^777777+(Party Member*6%)^000000",
-		"[Lv 4] ^777777+(Party Member*8%)^000000",
-		"[Lv 5] ^777777+(Party Member*10%)^000000"
+		"[Lv 1] ^777777ATK +2%^000000",
+		"[Lv 2] ^777777ATK +4%^000000",
+		"[Lv 3] ^777777ATK +6%^000000",
+		"[Lv 4] ^777777ATK +8%^000000",
+		"[Lv 5] ^777777ATK +10%^000000"
 	},
 	[SKID.TK_SEVENWIND] = {
 		"Mild Wind",
@@ -5684,7 +5684,7 @@ SKILL_DESCRIPT = {
 		"^00BB00Each cast requires 2 Berserk Potions.^000000"
 	},
 	[SKID.SL_MONK] = {
-		"Monk Spirit",
+		"[Monk Spirit]",
 		"Max Level: 5",
 		"Skill Form: ^777777Supportive^000000",
 		"Description: ^777777Summon the spirit of history's",
@@ -5810,7 +5810,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^77777760 SP, 350 sec^000000"
 	},
 	[SKID.SL_PRIEST] = {
-		"Priest Spirit",
+		"[Priest Spirit]",
 		"Max Level: 5",
 		"^777777Skill Requirement: Monk Spirit 1^000000",
 		"Skill Form: ^777777Supportive^000000",
@@ -6020,7 +6020,7 @@ SKILL_DESCRIPT = {
 		"healing spells do not heal the caster. Spells",
 		"from high level monsters or Bosses cannot",
 		"be reflected. The skill has a 100% chance of",
-		"reflecting spells from other players regardless",
+		"reflecting targeted spells from other players regardless",
 		"of their level. While the effect is active, you",
 		"receive 400% more physical damage.^000000",
 		"[Lv. 1] ^777777Reflects 1 spell, casting time: 6 sec.,",
@@ -6060,7 +6060,7 @@ SKILL_DESCRIPT = {
 		"[Lv 7] ^777777H.B. +100% , Max SP +210^000000"
 	},
 	[SKID.SL_STIN] = {
-		"Estin",
+		"[Estin]",
 		"Max Level: 7",
 		"^777777Skill Requirement: Wizard Spirit 1^000000",
 		"Skill Form: ^777777Magic Attack^000000",
@@ -6081,16 +6081,13 @@ SKILL_DESCRIPT = {
 		"[Lv 7] ^77777730 SP, 70% Damage^000000"
 	},
 	[SKID.SL_STUN] = {
-		"Estun",
+		"[Estun]",
 		"Max Level: 7",
 		"^777777Skill Requirement: Wizard Spirit 1^000000",
 		"Skill Form: ^777777Magic Attack^000000",
 		"[Es-] Category: ^777777Can only be used on monsters.^000000",
-		"Description: ^777777Push back a targeted monster",
-		"2 cells away. Only Medium sized monsters are",
-		"damaged by this skill, which takes the elemental",
-		"property of the Mild Wind skill if it is cast.",
-		"At skill level 7, Estun will have a 3 second",
+		"Description: ^777777Attempts to stun a targeted",
+		"monster for 2 seconds. At skill level 7, Estun will have a 3 second",
 		"delay that will allow the casting of the",
 		"Esma skill.^000000",
 		"[Lv 1] ^77777718 SP, 5% Damage^000000",
@@ -6102,7 +6099,7 @@ SKILL_DESCRIPT = {
 		"[Lv 7] ^77777730 SP, 35% Damage^000000"
 	},
 	[SKID.SL_SMA] = {
-		"Esma",
+		"[Esma]",
 		"Max Level: 10",
 		"^777777Skill Requirement: Estin 7, Estun 7^000000",
 		"Skill Form: ^777777Magic Attack^000000",
@@ -6149,7 +6146,7 @@ SKILL_DESCRIPT = {
 		"[Lv 7] ^77777715 SP, 7 sec.^000000"
 	},
 	[SKID.SL_SKE] = {
-		"Eske",
+		"[Eske]",
 		"Max Level: 3",
 		"^777777Skill Requirement: Knight Spirit 1^000000",
 		"Skill Form: ^777777Status Magic^000000",
@@ -6164,7 +6161,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3] ^77777715 SP, 1 sec. cast, 30 sec. duration^000000"
 	},
 	[SKID.SL_SKA] = {
-		"Eska",
+		"[Eska]",
 		"Max Level: 3",
 		"^777777Skill Requirement: Monk Spirit 1^000000",
 		"Skill Form: ^777777Status Magic^000000",

@@ -5901,6 +5901,398 @@ achievement_tbl = {
 		},
 		reward = { title = 5011 },
 		score = 10
+	},
+	[501068] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Bigfoot 50 times",
+			details = "Kill Bigfoot 50 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Bigfoot 50 times", count = 50 } },
+		reward = { item = 12768 },
+		score = 10
+	},
+	[501069] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Bigfoot 100 times",
+			details = "Kill Bigfoot 100 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Bigfoot 100 times", count = 100 } },
+		reward = { item = 12771 },
+		score = 10
+	},
+	[501070] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Bigfoot 200 times",
+			details = "Kill Bigfoot 200 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Bigfoot 200 times", count = 200 } },
+		reward = { item = 12769 },
+		score = 10
+	},
+	[501071] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Alligator 50 times",
+			details = "Kill Alligator 50 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Alligator 50 times", count = 50 } },
+		reward = { item = 12768 },
+		score = 10
+	},
+	[501072] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Alligator 100 times",
+			details = "Kill Alligator 100 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Alligator 100 times", count = 100 } },
+		reward = { item = 12771 },
+		score = 10
+	},
+	[501073] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Alligator 200 times",
+			details = "Kill Alligator 200 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Alligator 200 times", count = 200 } },
+		reward = { item = 12769 },
+		score = 10
+	},
+	[501074] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Wolf 50 times",
+			details = "Kill Wolf 50 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Wolf 50 times", count = 50 } },
+		reward = { item = 12768 },
+		score = 10
+	},
+	[501075] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Wolf 100 times",
+			details = "Kill Wolf 100 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Wolf 100 times", count = 100 } },
+		reward = { item = 12771 },
+		score = 10
+	},
+	[501076] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Wolf 200 times",
+			details = "Kill Wolf 200 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Wolf 200 times", count = 200 } },
+		reward = { item = 12769 },
+		score = 10
+	},
+	[501077] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Yoyo 50 times",
+			details = "Kill Yoyo 50 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Yoyo 50 times", count = 50 } },
+		reward = { item = 12768 },
+		score = 10
+	},
+	[501078] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Yoyo 100 times",
+			details = "Kill Yoyo 100 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Yoyo 100 times", count = 100 } },
+		reward = { item = 12771 },
+		score = 10
+	},
+	[501079] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Yoyo 200 times",
+			details = "Kill Yoyo 200 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Yoyo 200 times", count = 200 } },
+		reward = { item = 12769 },
+		score = 10
+	},
+	[501080] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Baby Leopard 50 times",
+			details = "Kill Baby Leopard 50 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Baby Leopard 50 times", count = 50 } },
+		reward = { item = 12768 },
+		score = 10
+	},
+	[501081] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Baby Leopard 100 times",
+			details = "Kill Baby Leopard 100 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Baby Leopard 100 times", count = 100 } },
+		reward = { item = 12771 },
+		score = 10
+	},
+	[501082] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Baby Leopard 200 times",
+			details = "Kill Baby Leopard 200 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Baby Leopard 200 times", count = 200 } },
+		reward = { item = 12769 },
+		score = 10
+	},
+	[501083] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Grand Peco 50 times",
+			details = "Kill Grand Peco 50 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Grand Peco 50 times", count = 50 } },
+		reward = { item = 12768 },
+		score = 10
+	},
+	[501084] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Grand Peco 100 times",
+			details = "Kill Grand Peco 100 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Grand Peco 100 times", count = 100 } },
+		reward = { item = 12771 },
+		score = 10
+	},
+	[501085] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Hunting Time",
+		content = {
+			summary = "Kill Grand Peco 200 times",
+			details = "Kill Grand Peco 200 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Grand Peco 200 times", count = 200 } },
+		reward = { item = 12769 },
+		score = 10
+	},
+	[501086] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "No more Alligators!",
+		content = {
+			summary = "Kill Alligator 5000 times",
+			details = "Kill Alligator 5000 times.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill Alligator 5000 times", count = 5000 } },
+		reward = { item = 31697 },
+		score = 20
+	},
+	[501087] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Let the hunting begins",
+		content = {
+			summary = "Hunt the Brute monsters ",
+			details = "Hunt the Brute monsters.\nThe 'Hunting Time' event has ended."
+		},
+		resource = {
+			[1] = { text = "Kill Bigfoot" },
+			[2] = { text = "Kill Alligator" },
+			[3] = { text = "Kill Wolf" },
+			[4] = { text = "Kill Yoyo" },
+			[5] = { text = "Kill Baby Leopard" },
+			[6] = { text = "Kill Grand Peco" }
+		},
+		reward = { title = 5020 },
+		score = 10
+	},
+	[501088] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Patient hunter",
+		content = {
+			summary = "Take part in the hunt",
+			details = "Complete the hunt.\nThe 'Hunting Time' event has ended."
+		},
+		resource = {
+			[1] = { text = "Kill Bigfoot 50 times" },
+			[2] = { text = "Kill Alligator 50 times" },
+			[3] = { text = "Kill Wolf 50 times" },
+			[4] = { text = "Kill Yoyo 50 times" },
+			[5] = { text = "Kill Baby Leopard 50 times" },
+			[6] = { text = "Kill Grand Peco 50 times" }
+		},
+		reward = { item = 12771, title = 5021 },
+		score = 10
+	},
+	[501089] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Unstoppable stalker",
+		content = {
+			summary = "Take part in the hunt",
+			details = "Complete the hunt.\nThe 'Hunting Time' event has ended."
+		},
+		resource = {
+			[1] = { text = "Kill Bigfoot 100 times" },
+			[2] = { text = "Kill Alligator 100 times" },
+			[3] = { text = "Kill Wolf 100 times" },
+			[4] = { text = "Kill Yoyo 100 times" },
+			[5] = { text = "Kill Baby Leopard 100 times" },
+			[6] = { text = "Kill Grand Peco 100 times" }
+		},
+		reward = { item = 5129, title = 5022 },
+		score = 10
+	},
+	[501090] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "Child of Skadi",
+		content = {
+			summary = "Take part in the hunt",
+			details = "Complete the hunt.\nThe 'Hunting Time' event has ended."
+		},
+		resource = {
+			[1] = { text = "Kill Bigfoot 200 times" },
+			[2] = { text = "Kill Alligator 200 times" },
+			[3] = { text = "Kill Wolf 200 times" },
+			[4] = { text = "Kill Yoyo 200 times" },
+			[5] = { text = "Kill Baby Leopard 200 times" },
+			[6] = { text = "Kill Grand Peco 200 times" }
+		},
+		reward = { item = 2811, title = 5023 },
+		score = 10
+	},
+	[501091] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "PVP Winner",
+		content = {
+			summary = "Kill 10 players in PVP",
+			details = "Take part in PVP battles.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill 10 players in PVP", count = 10 } },
+		reward = { item = 12768, title = 5024 },
+		score = 10
+	},
+	[501092] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "PVP Winner",
+		content = {
+			summary = "Kill 25 players in PVP",
+			details = "Take part in PVP battles.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill 25 players in PVP", count = 25 } },
+		reward = { item = 12771, title = 5025 },
+		score = 10
+	},
+	[501093] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 11,
+		minor = 0,
+		title = "PVP Winner",
+		content = {
+			summary = "Kill 50 players in PVP",
+			details = "Take part in PVP battles.\nThe 'Hunting Time' event has ended."
+		},
+		resource = { [1] = { text = "Kill 50 players in PVP", count = 50 } },
+		reward = { item = 12769, title = 5026 },
+		score = 10
 	}
 }
 

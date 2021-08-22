@@ -119,8 +119,8 @@ All done! Okay. Give this Arbalest to Talpiz who is in Payon of Rune-Midgarts Ki
 Deliver Arbalest to Talpiz in Payon.#
 
 2012#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
-All done! Okay. Give this Ring Pommel Saber to Bismarc who is in Comodo. Be sure to bring the reciept back to me.#
-Deliver Ring Pommel Saber to Bismark in Comodo.#
+All done! Okay. Give this Ring Pommel Saber to Bismarc who is in Hugel. Be sure to bring the reciept back to me.#
+Deliver Ring Pommel Saber to Bismarc in Hugel.#
 
 2013#Job Change to Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Well done! You're a great merchant indeed! Okay, go to Altazen in Einbroch!#
@@ -1267,7 +1267,7 @@ You finally can become a Taekwon by having a conversation with Phoenix.#
 //�ҿ︵Ŀ����
 
 6005#Job Change to Soul Linker#SG_FEEL#QUE_NOIMAGE#
-If you want to rule the power of spirits, you need to participate in a ceremony. For that you must bring a Witherless Rose, a 1 Carat Diamond and an Immortal Heart.#
+If you want to rule the power of spirits, you need to participate in a ceremony. For that you must bring a Witherless Rose, a 3 Carat Diamond and an Immortal Heart.#
 Gather necessary materials#
 
 6006#Job Change to Soul Linker#SG_FEEL#QUE_NOIMAGE#

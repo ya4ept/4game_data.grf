@@ -63,7 +63,14 @@ title_tbl = {
 	[5008] = "Sushi Lover",
 	[5009] = "Fish Nemesis",
 	[5010] = "Sea Legend",
-	[5011] = "Champion of Champions"
+	[5011] = "Champion of Champions",
+	[5020] = "Amateur Hunter",
+	[5021] = "Patient",
+	[5022] = "Stalker",
+	[5023] = "Kiss of Skadi",
+	[5024] = "Haunter",
+	[5025] = "Sharpshooter",
+	[5026] = "Cold-blooded"
 }
 
 -- Function #0
