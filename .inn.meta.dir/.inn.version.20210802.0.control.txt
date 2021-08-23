@@ -1,0 +1,138 @@
+distribution {5}
+    version=20210726.0
+    type=full
+    env=
+    files=../../20210726.0/distr/
+    control-hash=8a0d3f8583ed7a861e5613e3759e3468c522557a
+    deleted-control-hash=6b0dc95e0eee19cb5039151cd3582307e24e539f
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2360452937
+    size=2677823137
+    compressed-size-total=2360452937
+    size-total=2677823137
+    compressed-stages=
+
+    version=20210726.1
+    type=partial
+    env=
+    files=../../20210726.1/distr/
+    control-hash=b23d78ee2070961491fed9c837e33da77f90b3bb
+    deleted-control-hash=c25d04007cc904bb7a3c41b1d93f72c532cea333
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2019100952
+    size=2295883287
+    compressed-size-total=2360487628
+    size-total=2677823137
+    compressed-stages=
+
+    version=20210727.0
+    type=partial
+    env=
+    files=../../20210727.0/distr/
+    control-hash=7d042631bc666ec8aa5f19aba9875fa7fd3a95e7
+    deleted-control-hash=320b962502ba17eb60b44cd9fafe3fd250497853
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2019089007
+    size=2295883287
+    compressed-size-total=2360475683
+    size-total=2677823137
+    compressed-stages=
+
+    version=20210727.1
+    type=partial
+    env=
+    files=../../20210727.1/distr/
+    control-hash=8c1c0194a4b4e515da2537b52f4ad04dab38747e
+    deleted-control-hash=703afcce4f13caeed4757d0bfd0c13230300383c
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2019792828
+    size=2300090384
+    compressed-size-total=2360468824
+    size-total=2677823137
+    compressed-stages=
+
+    version=20210802.0
+    type=partial
+    env=
+    files=./
+    control-hash=7ee9f1eacf4cd0ddc7062552b7783766fe139b1d
+    deleted-control-hash=d2d1fdee69420fdaa4ffea04a786b1096d3b66f7
+    command-hash=61099d066b4bea3743c6ff25d6136a273cf39864
+    adapter-hash=
+    compressed-size=2008095442
+    size=2300254882
+    compressed-size-total=2348751299
+    size-total=2677827616
+    compressed-stages=
+
+delta {12}
+    version=20210705.0
+    files=../delta/20210705.0/
+    compressed-size=21816387
+    control-hash=c4bb890030552761047a17fd568c3256657b6069
+
+    version=20210705.1
+    files=../delta/20210705.1/
+    compressed-size=21808611
+    control-hash=a78e9a2e8ed0c7367ac0a80c1ee3fca82744a300
+
+    version=20210706.0
+    files=../delta/20210706.0/
+    compressed-size=21801418
+    control-hash=6a9d46c698725f3ec77a9a60777dc1310bc628e8
+
+    version=20210706.1
+    files=../delta/20210706.1/
+    compressed-size=21130671
+    control-hash=72663491daf3351674332dba5c8e1c6ba3d53c95
+
+    version=20210712.0
+    files=../delta/20210712.0/
+    compressed-size=14177946
+    control-hash=3283d7a36e95afbf35a9980719582abcc95a580b
+
+    version=20210713.0
+    files=../delta/20210713.0/
+    compressed-size=14174343
+    control-hash=5538128fa4c7fa12f7ed70c8a59a1ce982d00284
+
+    version=20210720.0
+    files=../delta/20210720.0/
+    compressed-size=12310421
+    control-hash=54945eb41b64485a1da39cb927ea436b662960c2
+
+    version=20210723.0
+    files=../delta/20210723.0/
+    compressed-size=12324076
+    control-hash=70654cf268bdb1f5386a81c19ed4ac5a9c71b631
+
+    version=20210726.0
+    files=../delta/20210726.0/
+    compressed-size=11187767
+    control-hash=4b504f72ccafd14ac44d1171a123dedacab3220a
+
+    version=20210726.1
+    files=../delta/20210726.1/
+    compressed-size=10633580
+    control-hash=4493f85784427fdedf9aa9403aeac8ad08bc1022
+
+    version=20210727.0
+    files=../delta/20210727.0/
+    compressed-size=10181902
+    control-hash=23d723577eb64e356ef60d208008f3c6d09b9442
+
+    version=20210727.1
+    files=../delta/20210727.1/
+    compressed-size=10728866
+    control-hash=e179b803aef14895ce00cf0dc881519fadff816e
+
+patcher {1}
+    version=1.1.6.0
+    date-created=2021-08-02T19:46:59+03:00
+    date-modified=2021-08-02T19:46:59+03:00
+    running-time-sec=982
+

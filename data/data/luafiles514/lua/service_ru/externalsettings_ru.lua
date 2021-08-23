@@ -11,7 +11,7 @@ MaxLevelTable = {
 	JobLevel2nd = 70,
 	JobLevel3rd = 60,
 	JobLevelExtend2 = 70,
-	JobLevelUpperJob = 70,
+	JobLevelUpperJob = 60,
 	JobLevelDoram = 60
 }
 MakeableRace = { Doram = false }
