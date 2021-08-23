@@ -966,3 +966,5 @@ egef_swn1.rsw#Hyrde's Farm (Red team)#
 egef_swn2.rsw#Hyrde's Farm (Blue team)#
 
 emjolnir_05.rsw#Mt.Mjolnir#
+
+eanthell01.rsw#Ant Hell#

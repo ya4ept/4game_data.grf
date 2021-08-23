@@ -3527,5 +3527,9 @@ JobNameTable = {
 	[jobtbl.JT_EVT_MANTIS] = "MANTIS",
 	[jobtbl.JT_EVT_HORNET] = "Hornet",
 	[jobtbl.JT_EVT_ARGIOPE] = "ARGIOPE",
-	[jobtbl.JT_EVT_FLORA] = "FLORA"
+	[jobtbl.JT_EVT_FLORA] = "FLORA",
+	[jobtbl.JT_EVT_DENIRO] = "DENIRO",
+	[jobtbl.JT_EVT_GIEARTH] = "GIEARTH",
+	[jobtbl.JT_EVT_VITATA] = "VITATA",
+	[jobtbl.JT_EVT_PIERE] = "PIERE"
 }

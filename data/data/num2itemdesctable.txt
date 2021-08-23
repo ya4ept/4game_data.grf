@@ -44768,13 +44768,6 @@ Location: ^777777Upper Mid Lower ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
-19875#
-A rabbit doll hat made by a very famous artist.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid Lower ^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
-#
 19881#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -56260,6 +56253,60 @@ Sparkling Candy  x11
 Weight: ^7777771^000000
 #
 
-
-
-
+9656#
+Follow the white rabbit, hero.
+And I will show you that rabbit bounty is as bottomless as his burrow.
+Open the box and receive one of the following gifts:
+Orange Rabbit
+Three Rabbits Ribbon
+Grim Reaper's Scythe
+Silvervine x1000
+Happy Bunny Hood
+Rabbit Hat
+Niflheim Bunny Hat
+Dark Night Veil
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Brown Hare Ears
+Bunny King Crown
+Rabbit Earmuffs
+Rabbit in the Head
+Piamette's Silver Wig
+Mad Bunny
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Party Assumptio Scroll x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Sparkling Candy x12
+Giant Fly Wing x6
+WoE Teleport Scroll x15
+Meteor Storm Scroll x25
+Storm Gust Scroll x25
+Lord of Vermilion Scroll x25
+Wind Walker Scroll x25
+Bloody Branch x2
+Guyak Pudding x25
+Superb Fish Slice x25
+Abrasive x11
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19875#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20413#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31788#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#

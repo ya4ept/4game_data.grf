@@ -8192,3 +8192,8 @@
 20427#Accessory#
 20575#Garment#
 9622#Alien Poring Treasure#
+
+9656#White Rabbit Treasure#
+19875#Hat#
+20413#Hat#
+31788#Hat#

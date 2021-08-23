@@ -15004,29 +15004,22 @@ MDEF +3
 AGI +5.
 Flee +15.
 Class: ^777777Armor^000000
-Defense: ^7777773^000000
+Defense: ^77777720^000000
 Weight: ^77777750^000000
 Job: ^777777All Transcendent Job Classes^000000
 #
 //--------------------------------------------------------------------------
 2401#
-Cute, feminine shoes
-that are a part of the
-standard schoolgirl's
-uniform. Fortunately,
-these are unisex.
+Cute, feminine shoes that are a part of the standard schoolgirl's uniform. 
+Fortunately, these are unisex.
 Class: ^777777Footwear^000000
-Defense:^7777775
-^000000
+Defense:^7777775^000000
 Weight: ^77777720^000000
 Jobs: ^777777All^000000
 #
 2402#
-Cute, feminine shoes
-that are a part of the
-standard schoolgirl's
-uniform. Fortunately,
-these are unisex.
+Cute, feminine shoes that are a part of the standard schoolgirl's uniform. 
+Fortunately, these are unisex.
 Class: ^777777Footwear^000000
 Defense:^7777775^000000
 Weight: ^77777720^000000
@@ -23410,7 +23403,7 @@ Weight: ^7777771^000000
 #
 4459#
 MATK + 10. 
-When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%. 
+When dealing magic damage, there's a chance that for 4 seconds your variable cast time will be reduced by 50%. 
 Class: ^777777Card^000000
 Slot: ^777777Headgear^000000
 Weight: ^7777771^000000
@@ -67119,13 +67112,6 @@ Location: ^777777Upper Mid Lower ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777All^000000
 #
-19875#
-A rabbit doll hat made by a very famous artist.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid Lower ^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
 19881#
 Have you ever dreamed of catching the Easter Bunny?
 Use this camouflage hood to get closer to your target!
@@ -69733,7 +69719,7 @@ A prize box for Morocc adventure troops.
 Weight: ^77777710^000000
 #
 22568#
-A spell scroll summoning Nydhogg
+A spell scroll summoning Nidhogg
 #
 
 12530#
@@ -90872,7 +90858,79 @@ Sparkling Candy  x11
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-
-
-
+9656#
+Follow the white rabbit, hero.
+And I will show you that rabbit bounty is as bottomless as his burrow.
+Open the box and receive one of the following gifts:
+Orange Rabbit
+Three Rabbits Ribbon
+Grim Reaper's Scythe
+Silvervine x1000
+Happy Bunny Hood
+Rabbit Hat
+Niflheim Bunny Hat
+Dark Night Veil
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Brown Hare Ears
+Bunny King Crown
+Rabbit Earmuffs
+Rabbit in the Head
+Piamette's Silver Wig
+Mad Bunny
+Bubblegum Battle Manual x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Token of Ziegfried x6
+Party Assumptio Scroll x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Sparkling Candy x12
+Giant Fly Wing x6
+WoE Teleport Scroll x15
+Meteor Storm Scroll x25
+Storm Gust Scroll x25
+Lord of Vermilion Scroll x25
+Wind Walker Scroll x25
+Bloody Branch x2
+Guyak Pudding x25
+Superb Fish Slice x25
+Abrasive x11
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19875#
+As white as snow, as sweet as honey!
+So cute and happy little bunny!
+Class: ^777777Costume^000000
+Location: ^777777Upper-Middle-Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+20413#
+In summer, the coat of European hare turns brown.
+This hare is capable of speeds up to 60 km/h. It will not be easy for a fox to get these ears!
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+31788#
+A luxurious wig inspired by Piamette's hairstyle.
+These silver curls enhance the beauty of your face so much!
+Class: ^777777Costume^000000
+Location: ^777777Lower^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
 

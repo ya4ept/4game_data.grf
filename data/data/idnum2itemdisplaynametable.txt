@@ -4227,7 +4227,7 @@
 2399#Dragon Vest#
 2450#Vital Tree Shoes#
 2553#Dragon Manteau#
-2554#Piece Of Angent Skin#
+2554#Nidhoggur's Shadow Garb#
 2787#Waterdrop Brooch#
 2788#Bradium Earring#
 2789#Bradium Ring#
@@ -9288,3 +9288,8 @@
 20427#Arc Angeling Companion#
 20575#Schoolbag#
 9622#Alien Poring Treasure#
+
+9656#White Rabbit Treasure#
+19875#Happy Bunny Hood#
+20413#Brown Hare Ears#
+31788#Piamette's Silver Wig#
