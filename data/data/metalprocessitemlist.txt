@@ -93,7 +93,7 @@
 15 Horrendous Mouth
 #
 1151#
-25 Steel
+24 Steel
 20 Decayed Nail
 #
 1154#
@@ -128,7 +128,7 @@
 #
 1360#
 8 Oridecon
-10 Steel
+20 Steel
 1 Amethyst
 #
 1501#
@@ -182,7 +182,7 @@
 5 Aquamarine
 #
 1463#
-3 Oridecon
+12 Oridecon
 10 Steel
 #
 1410#

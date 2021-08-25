@@ -1,3 +1,26 @@
+25.08.2021 13:04
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+https://eu.4gameforum.com/threads/684286/
+
+Events:
+— A new permanent event is here to stay. The Arena Chest Starts today!
+
+Shop:
+— We just brought you freshly baked new Refinement Sets. Check them out now as they will be available only until 01/09!
+— The In-Game Shop has been updated with new items, don't forget to browse through them!
+
+Other Changes:
+— Special Stat Biscuits are dead. My new best friend is Stackable regular Stat Biscuits! Check your Rodex Inbox, as your previous Special Stat Biscuits were deleted from you inventory and regular Stat Biscuits were sent to replace them!
+
+Finished activities:
+— The old Refinement Sets were removed from the launcher.
+— The Warlock Treasure and its sets were removed from the launcher.
+— The Refinement Rates were set back to standard
+— The Purple Biretta was removed from the launcher.
+
+==========
 18.08.2021
 CM_Godfather
 The Maintenance is over and the update is up, changes are the following:

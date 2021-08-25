@@ -322,7 +322,7 @@ StateIconList[EFST_IDs.EFST_GS_ADJUSTMENT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Gunslinger's_Panic", COLOR_TITLE_BUFF },
+		{ "Gunslinger's Panic", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Decrease Acuuracy" },
 		{ "Increase Flee" },
@@ -4263,5 +4263,55 @@ StateIconList[EFST_IDs.EFST_S_MANAPOTION] = {
 		{ "%s", COLOR_TIME },
 		{ "Recover certain amount of HP in every 5 sec" },
 		{ "Doesn't have effect in Berserk condition" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULLINK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Spirit", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Imbues a character with the spirits" },
+		{ "of ancient masters of thier profession" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULSHADOW] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Spirit", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Imbues a character with the spirits" },
+		{ "of ancient masters of thier profession" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULFAIRY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Spirit", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Imbues a character with the spirits" },
+		{ "of ancient masters of thier profession" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULFALCON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Spirit", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Imbues a character with the spirits" },
+		{ "of ancient masters of thier profession" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULGOLEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Spirit", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Imbues a character with the spirits" },
+		{ "of ancient masters of thier profession" }
 	}
 }
