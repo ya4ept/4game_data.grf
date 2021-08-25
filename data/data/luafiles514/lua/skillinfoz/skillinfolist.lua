@@ -2703,9 +2703,9 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RETURN_TO_ELDICASTES] = {
 		"RETURN_TO_ELDICASTES",
-		SkillName = "To El Dicastes",
+		SkillName = "Эль Дикастес",
 		MaxLv = 1,
-		SpAmount = { 10 },
+		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
 	},
@@ -10499,7 +10499,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_JYUMONJIKIRI] = {
 		"KO_JYUMONJIKIRI",
-		SkillName = "Кровавая метка",
+		SkillName = "Кровавая казнь",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -10998,7 +10998,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_D_TAIL] = {
 		"RL_D_TAIL",
-		SkillName = "Dragon Tail",
+		SkillName = "Хвост дракона",
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
@@ -11010,7 +11010,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_R_TRIP] = {
 		"RL_R_TRIP",
-		SkillName = "Round Trip",
+		SkillName = "Круговой обстрел",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -11021,7 +11021,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_RICHS_COIN] = {
 		"RL_RICHS_COIN",
-		SkillName = "Rich's Coin",
+		SkillName = "Удача богача",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11032,7 +11032,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_MASS_SPIRAL] = {
 		"RL_MASS_SPIRAL",
-		SkillName = "Mass Spiral",
+		SkillName = "Пробивающий выстрел",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -11043,7 +11043,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_B_TRAP] = {
 		"RL_B_TRAP",
-		SkillName = "Binding Trap",
+		SkillName = "Замедляющая ловушка",
 		MaxLv = 5,
 		SpAmount = { 30, 32, 34, 36, 38 },
 		bSeperateLv = true,
@@ -11054,7 +11054,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_BANISHING_BUSTER] = {
 		"RL_BANISHING_BUSTER",
-		SkillName = "Vanishing Buster",
+		SkillName = "Пугающий выстрел",
 		MaxLv = 5,
 		SpAmount = { 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -11065,7 +11065,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_S_STORM] = {
 		"RL_S_STORM",
-		SkillName = "Shattering Storm",
+		SkillName = "Вихрь осколков",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
@@ -11077,7 +11077,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_SLUGSHOT] = {
 		"RL_SLUGSHOT",
-		SkillName = "Slug Shot",
+		SkillName = "Мощный выстрел",
 		MaxLv = 5,
 		SpAmount = { 80, 84, 88, 92, 96 },
 		bSeperateLv = true,
@@ -11088,7 +11088,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_AM_BLAST] = {
 		"RL_AM_BLAST",
-		SkillName = "Anti Material Blast",
+		SkillName = "Взрыв антиматерии",
 		MaxLv = 5,
 		SpAmount = { 80, 84, 88, 92, 96 },
 		bSeperateLv = true,
@@ -11099,7 +11099,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_E_CHAIN] = {
 		"RL_E_CHAIN",
-		SkillName = "Eternal Chain",
+		SkillName = "Бесконечная цепь",
 		MaxLv = 10,
 		SpAmount = { 45, 45, 45, 45, 45, 45, 45, 45, 45, 45 },
 		bSeperateLv = true,
@@ -11111,7 +11111,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_QD_SHOT] = {
 		"RL_QD_SHOT",
-		SkillName = "Quick Draw Shot",
+		SkillName = "Быстрая реакция",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -11122,7 +11122,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_C_MARKER] = {
 		"RL_C_MARKER",
-		SkillName = "Crimson Marker",
+		SkillName = "Кровавая метка",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11133,7 +11133,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_FIREDANCE] = {
 		"RL_FIREDANCE",
-		SkillName = "Fire Dance",
+		SkillName = "Танец огня",
 		MaxLv = 5,
 		SpAmount = { 12, 14, 16, 18, 20 },
 		bSeperateLv = true,
@@ -11144,7 +11144,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_FIRE_RAIN] = {
 		"RL_FIRE_RAIN",
-		SkillName = "Fire Rain",
+		SkillName = "Огненный дождь",
 		MaxLv = 5,
 		SpAmount = { 70, 70, 70, 70, 70 },
 		bSeperateLv = true,
@@ -11155,7 +11155,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_FALLEN_ANGEL] = {
 		"RL_FALLEN_ANGEL",
-		SkillName = "Fallen Angel",
+		SkillName = "Падший ангел",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11166,7 +11166,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_P_ALTER] = {
 		"RL_P_ALTER",
-		SkillName = "Platinum Altar",
+		SkillName = "Благословление платины",
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
@@ -11177,7 +11177,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_FLICKER] = {
 		"RL_FLICKER",
-		SkillName = "Flicker",
+		SkillName = "Детонатор",
 		MaxLv = 1,
 		SpAmount = { 2 },
 		bSeperateLv = false,
@@ -11188,7 +11188,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_H_MINE] = {
 		"RL_H_MINE",
-		SkillName = "Howling Mine",
+		SkillName = "Воющая мина",
 		MaxLv = 5,
 		SpAmount = { 45, 50, 55, 60, 65 },
 		bSeperateLv = true,
@@ -11199,7 +11199,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_HAMMER_OF_GOD] = {
 		"RL_HAMMER_OF_GOD",
-		SkillName = "God's Hammer",
+		SkillName = "Молот бога",
 		MaxLv = 5,
 		SpAmount = { 35, 40, 45, 50, 55 },
 		bSeperateLv = true,
@@ -11210,7 +11210,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RL_HEAT_BARREL] = {
 		"RL_HEAT_BARREL",
-		SkillName = "Hit Barrel",
+		SkillName = "Пальба",
 		MaxLv = 5,
 		SpAmount = { 30, 30, 30, 30, 30 },
 		bSeperateLv = true,

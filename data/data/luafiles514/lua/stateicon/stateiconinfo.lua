@@ -1155,7 +1155,7 @@ StateIconList[EFST_IDs.EFST_KYRIE] = {
 	descript = {
 		{ "Кирие Элейсон", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Накладывает на персонаж барьер, защищающий от определенного кол-ва атак." }
+		{ "Накладывает на персонажа барьер, защищающий от определенного кол-ва атак." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
@@ -2671,7 +2671,8 @@ StateIconList[EFST_IDs.EFST_AKAITSUKI] = {
 	descript = {
 		{ "Кровавая Луна", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Получение урона, вместо исцеления умениями." }
+		{ "Персонаж получает урон вместо" },
+		{ "исцеления от умений." }
 	}
 }
 StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
@@ -2689,7 +2690,10 @@ StateIconList[EFST_IDs.EFST_GENSOU] = {
 	descript = {
 		{ "Фаза Луны", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Случайное увеличение или снижение HP и SP." }
+		{ "Восстанавливает либо отнимает HP/SP цели" },
+		{ "в зависимости от ее текущего запаса HP/SP." },
+		{ "Получаемый магический урон распространяется" },
+		{ "на все ближайшие цели." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GM_BATTLE] = {
@@ -2728,9 +2732,9 @@ StateIconList[EFST_IDs.EFST_IZAYOI] = {
 	descript = {
 		{ "Шестнадцатая Ночь", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Фикс. время произнесения заклинаний -100%" },
-		{ "Измен. время произнесения заклинаний -50%" },
-		{ "Увеличена магическая атака, получаемая от экипировки." }
+		{ "Маг. атака увеличена." },
+		{ "Фиксированное и переменное время" },
+		{ "чтений заклинаний снижены." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAGEMUSYA] = {
@@ -2739,8 +2743,8 @@ StateIconList[EFST_IDs.EFST_KAGEMUSYA] = {
 	descript = {
 		{ "Воин Тени", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Двойная атака" },
-		{ "Затрачивается 1 SP в секунду." }
+		{ "Используется умение [Двойная атака]." },
+		{ "Расходуется 1 SP в сек." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KG_KAGEHUMI] = {
@@ -2758,7 +2762,8 @@ StateIconList[EFST_IDs.EFST_KYOMU] = {
 	descript = {
 		{ "Подавление Ауры", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Временно блокирует у противника эффекты отражения физического урона" }
+		{ "Временно блокирует эффекты" },
+		{ "отражения физического урона" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MEIKYOUSISUI] = {
@@ -2767,8 +2772,8 @@ StateIconList[EFST_IDs.EFST_MEIKYOUSISUI] = {
 	descript = {
 		{ "Безупречный Дух", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Восстановление HP" },
-		{ "Восстановление SP" },
+		{ "Восстановление HP." },
+		{ "Восстановление SP." },
 		{ "Передвижение невозможно." },
 		{ "С некоторым шансом позволяет увернуться от атаки." }
 	}
@@ -2822,8 +2827,8 @@ StateIconList[EFST_IDs.EFST_ZANGETSU] = {
 	descript = {
 		{ "Искажение Луны", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "изменяет атаку и магическую атаку цели" },
-		{ "в зависимости от количества ее текущих HP и SP" }
+		{ "Изменяет силу физической и магической атаки цели" },
+		{ "в зависимости от количества ее текущих HP и SP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ACARAJE] = {
@@ -3382,7 +3387,7 @@ StateIconList[EFST_IDs.EFST_B_TRAP] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Связывающая ловушка", COLOR_TITLE_DEBUFF },
+		{ "Замедляющая ловушка", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
 		{ "Скорость передвижения уменьшена." }
 	}
@@ -3391,37 +3396,40 @@ StateIconList[EFST_IDs.EFST_E_CHAIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Вечная цепь", COLOR_TITLE_BUFF },
+		{ "Бесконечная цепь", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Акивирует действие Цепи с определенным шансом." }
+		{ "С определенной вероятностью акивирует" },
+		{ "эффект 'Цепная реакция'." }
 	}
 }
 StateIconList[EFST_IDs.EFST_C_MARKER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Багровый рынок", COLOR_TITLE_DEBUFF },
+		{ "Кровавая метка", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Уворон снижен." }
+		{ "Уворот снижен." },
+		{ "Местоположение персонажа известно врагу." }
 	}
 }
 StateIconList[EFST_IDs.EFST_P_ALTER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Платиновый алтарь", COLOR_TITLE_BUFF },
+		{ "Благословление платины", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Физ. атака увеличена" }
+		{ "Физ. атака увеличена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Тепловая бочка ", COLOR_TITLE_BUFF },
+		{ "Пальба", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Физ. атака, точность, скорость атаки увеличены." },
-		{ "Фиксированное время чтения заклинаний уменьшено." }
+		{ "Физ. атака и скорость атаки увеличены." },
+		{ "Фиксированное время чтения заклинаний уменьшено." },
+		{ "Точность уменьшена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ANTI_M_BLAST] = {
@@ -3430,7 +3438,8 @@ StateIconList[EFST_IDs.EFST_ANTI_M_BLAST] = {
 	descript = {
 		{ "Взрыв антиматерии", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Сопротивление неэлементальным атакам снижено." }
+		{ "Защита от физ. атак человекоподобных" },
+		{ "монстров сниижена." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL_AFTER] = {
@@ -4145,9 +4154,10 @@ StateIconList[EFST_IDs.EFST_H_MINE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Ревущая мина", COLOR_TITLE_DEBUFF },
+		{ "Воющая мина", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Персонаж находится под действием эффекта 'Ревущая мина'." }
+		{ "Персонаж находится под действием эффекта 'Воющая мина'." },
+		{ "При взрыве мины персонаж получает урон огнем." }
 	}
 }
 StateIconList[EFST_IDs.EFST_INTOABYSS] = {

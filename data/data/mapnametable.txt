@@ -70,7 +70,8 @@ ma_zif07.rsw#Джипни #
 ma_zif08.rsw#Джипни #
 ma_zif09.rsw#Джипни #
 
-job_ko.rsw#Hidden Place# //***
+job_ko.rsw#Скрытое место#
+job_gun.rsw#Секретное логово Мятежников#
 
 gld_dun01_2.rsw#Guild basement dungeon 2nd floor#
 gld_dun02_2.rsw#Guild basement dungeon 2nd floor#
@@ -1034,6 +1035,10 @@ pvp_n_8-3.rsw#Арена: Пещера #
 eprt_fild02.rsw#Окрестности Пронтеры: Бега #
 
 egef_swn1.rsw#Ферма Хёрде (Красная команда)#
+<<<<<<< HEAD
 egef_swn2.rsw#Ферма Хёрде (Синяя команда)#
 
 lasa_sea#Наводнённый остров#
+=======
+egef_swn2.rsw#Ферма Хёрде (Синяя команда)#
+>>>>>>> 153fec79 (map names)
