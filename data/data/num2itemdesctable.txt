@@ -19656,9 +19656,6 @@ A tribute to luck and fortune throughout the year.
 Weight: ^7777770^000000
 #
 // ---------- 占쏙옙占쏙옙占?占싯삼옙占쏙옙 占쏙옙틱占쏙옙 ----------
-5129#
-An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
-#
 5131#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
@@ -45579,15 +45576,6 @@ Defense: ^7777770^000000      Weight: ^7777770^000000
 Required Level: ^77777795^000000
 Jobs: ^777777All Transcendent Jobs except Novice^000000
 #
-2811#
-^000088Rental Item^000000
-A spiritual bracelet granted by Freya. It appears very sturdy, but it will eventually disappear and return to Freya's realm, Folkvangr.
-All stats +1.
-Item Class: ^777777Accessory^000000 Defense: ^7777771^000000
-Weight: ^77777720^000000
-Required Level: ^77777720^000000
-Jobs: ^777777All^000000
-#
 2812#
 ^000088Rental Item^000000
 A spiritual bracelet granted by Freya. It appears very sturdy, but it will eventually disappear and return to Freya's realm, Folkvangr.
@@ -56309,4 +56297,60 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 31788#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31697#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5129#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+2811#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12646#
+^ff0000Account Bound^000000
+A tasty delicacy of boiled octopus, covered with greens and ginger. No doubt, everyone will like this.
+LUK +10, ATK +20, MATK +20 for 10 minutes.
+Weight: ^7777773^000000
+#
+12197#
+^ff0000Account Bound^000000
+A salty Rice Cake.
+Restores 10% HP and SP.
+^ffffff_^000000
+Weight: ^77777710^000000
+#
+12768#
+^ff0000Account Bound^000000
+A little present for young hunters. Open it!
+Open the box and receive these following items: 
+Takoyaki x10
+Salty Rice Cake x20
+^ffffff_^000000
+Weight: ^777777200^000000
+#
+12771#
+^ff0000Account Bound^000000
+The box says: "If you get this box are a truely worthy hunter." 
+Wait... talking box???
+Open the box and receive these following items: 
+Takoyaki x25
+Salty Rice Cake x50
+^ffffff_^000000
+Weight: ^777777500^000000
+#
+12769#
+^ff0000Account Bound^000000
+A huge and heavy box full of tasty things. 
+Yummy!
+Open the box and receive these following items: 
+Takoyaki x50
+Salty Rice Cake x75
+^ffffff_^000000
+Weight: ^777777700^000000
+#
+25258#
+^ff0000Account Bound^000000
+An arrow found from soldiers who died fighting for their village. It radiates with negative energy.
+Weight: ^7777770^000000
 #

@@ -2292,7 +2292,6 @@
 
 // ----------koream mobile ----------
 
-5129#Hat#
 5130#Masque#
 5132#Cap#
 
@@ -4503,10 +4502,7 @@
 5858#Hat#
 5859#Hat#
 12767#Worldcup Hat of Passion Box#
-12768#Worldcup Hat of Fight Box#
-12769#Worldcup Hat of Victory Box#
 12770#Worldcup Hat of Honor Box#
-12771#Worldcup Hat of Passion Box#
 12772#Worldcup Hat of Fight Box#
 12773#Worldcup Hat of Victory Box#
 7547#Football#
@@ -6303,7 +6299,6 @@
 19996#Headgear#
 12536#Tako Rice Cake Soup#
 22538#Hanbok bag#
-12646#Takoyaki#
 12647#Ink Ball#
 11538#Octopus Leg#
 14699#Garuda Scroll#
@@ -8197,3 +8192,13 @@
 19875#Hat#
 20413#Hat#
 31788#Hat#
+
+31697#Hat#
+5129#Hat#
+2811#Accessory#
+12646#Takoyaki#
+12197#Salty Rice Cake#
+12768#Small hunter box#
+12771#Medium hunter box#
+12769#Big hunter box#
+25258#Broken Arrow#

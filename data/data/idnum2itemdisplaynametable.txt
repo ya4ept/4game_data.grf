@@ -2352,7 +2352,6 @@
 
 // ----------korean mobild ----------
 
-5129#Bird Nest#
 5130#Lion Mask#
 5132#Angeling Cap#
 
@@ -4556,10 +4555,7 @@
 5858#Worldcup Hat of Victory#
 5859#Worldcup Hat of Honor#
 12767#Worldcup Hat of Passion Box#
-12768#Worldcup Hat of Fight Box#
-12769#Worldcup Hat of Victory Box#
 12770#Worldcup Hat of Honor Box#
-12771#Worldcup Hat of Passion Box#
 12772#Worldcup Hat of Fight Box#
 12773#Worldcup Hat of Victory Box#
 7547#Football#
@@ -6351,7 +6347,6 @@
 19996#Horse Mask#
 12536#Tako Rice Cake Soup#
 22538#Hanbok bag#
-12646#Takoyaki#
 12647#Ink Ball#
 11538#Fresh Octopus Leg#
 14699#Garuda Scroll#
@@ -6407,7 +6402,6 @@
 12195#Plain Rice Cake#
 12198#Lucky Rice Cake#
 12196#Hearty Rice Cake#
-12197#Salty Rice Cake#
 2171#Fox Armguard#
 2172#Wolf Armguard#
 2173#Crescent Armguard#
@@ -8112,7 +8106,6 @@
 2556#Freya's Spiritual Scarf#
 2557#Freya's Spiritual Scarf#
 2558#Freya's Spiritual Scarf#
-2811#Freya's Spiritual Bracelet#
 2812#Freya's Spiritual Bracelet#
 2813#Freya's Spiritual Bracelet#
 2814#Freya's Spiritual Bracelet#
@@ -9293,3 +9286,13 @@
 19875#Happy Bunny Hood#
 20413#Brown Hare Ears#
 31788#Piamette's Silver Wig#
+
+31697#Mysterious Bird Nest#
+5129#Bird Nest#
+2811#Freya's Spiritual Bracelet#
+12646#Takoyaki#
+12197#Salty Rice Cake#
+12768#Small hunter box#
+12771#Medium hunter box#
+12769#Big hunter box#
+25258#Broken Arrow#
