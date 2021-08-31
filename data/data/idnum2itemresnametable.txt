@@ -10825,3 +10825,14 @@
 9895#그린에일#
 23049#사탕#
 100947#애니멀스크롤#
+
+19300#Dog_Officer#
+20518#Gerhard_Von_Devi_Bag#
+20597#C_Evil_Scythe#
+31674#C_Jitterbug_Cap#
+400158#C_Demon_Crown#
+420053#C_Shadow_Devil#
+480123#C_Nydhog_Rumor#
+100993#데비루치알#
+
+31826#C_Sunglass_Bear_Cap_J#
