@@ -56354,3 +56354,65 @@ Weight: ^777777700^000000
 An arrow found from soldiers who died fighting for their village. It radiates with negative energy.
 Weight: ^7777770^000000
 #
+23969#
+You see a tiny flame flickering inside this treasure.
+Will it be enough to guide you to Heavens...?
+To find out, open the treasure and receive one of the following gifts:
+Ribboned Wings
+Wings of Love
+Angelic Shawl
+Silvervine x1000
+Gift of Panagia
+Pope's Tiara
+Angelic Nurse Cap
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Heavenly Guard Cap
+Nun's Headband
+Drooping Pope Hat
+Bubblegum Battle Manual x2
+Secret Medicine x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Party Assumptio Scroll x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Convex Mirror x7
+Bloody Branch x2
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Poring Hotpot x20
+Megaphone x6
+Giant Fly Wing x6
+Abrasive x11
+Sparkling Candy x12
+Box of Sunlight x25
+Sesame Pastry x33
+Guyak Candy x33
+Guyak Pudding x25
+WoE Teleport Scroll x15
+Superb Fish Slice x25
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+20541#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31315#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31850#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31560#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31309#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.#
+19673#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.#

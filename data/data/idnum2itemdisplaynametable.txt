@@ -9296,3 +9296,11 @@
 12771#Medium hunter box#
 12769#Big hunter box#
 25258#Broken Arrow#
+
+23969#Angelic Treasure#
+20541#Ribboned Wings#
+31315#Angelic Shawl#
+31850#Gift of Panagia#
+31560#Angelic Nurse Cap#
+31309#Heavenly Guard Cap#
+19673#Nun's Headband#

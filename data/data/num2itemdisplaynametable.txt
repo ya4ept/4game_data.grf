@@ -8202,3 +8202,11 @@
 12771#Medium hunter box#
 12769#Big hunter box#
 25258#Broken Arrow#
+
+23969#Angelic Treasure#
+20541#Garment#
+31315#Hat#
+31850#Hat#
+31560#Hat#
+31309#Hat#
+19673#Hat#
