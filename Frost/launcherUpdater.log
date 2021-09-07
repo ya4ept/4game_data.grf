@@ -1,6 +1,6 @@
 CmdLine = -frostGameNameType rot-ru_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.6:80
-selected httpIp 109.105.133.6
+checking connection to 109.105.133.7:80
+selected httpIp 109.105.133.7
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
@@ -52,4 +52,4 @@ started perform_delete_command()
 delated file I:\Love\4game\rusRO_Prime\Frost\FrostConfigs.exe GetLastError=2
 delated file I:\Love\4game\rusRO_Prime\Frost\whitenames.wl GetLastError=2
 will start launcher with params: "I:\Love\4game\rusRO_Prime\Frost\\ro.exe" 1rag1 id:666 pw:999 -frostGame ..\Ragexe.exe -frostOptions 5 -frostGameNameType rot-ru_live, using CreateProcess
-CreateProcess: 1, lastError: 3
+CreateProcess: 1, lastError: 0

@@ -3725,5 +3725,8 @@ JobNameTable = {
 	[jobtbl.JT_E_NYAIL_PIG] = "e_nyailo",
 	[jobtbl.JT_E_SEA_WORMS] = "hode",
 	[jobtbl.JT_E_SMALL_SWIRL] = "breeze",
-	[jobtbl.JT_E_RIPE_WATERMELON] = "watermelon"
+	[jobtbl.JT_E_RIPE_WATERMELON] = "watermelon",
+	[jobtbl.JT_E_ELDER_WILOW] = "elder_wilow",
+	[jobtbl.JT_EVT_QUVE] = "QUVE",
+	[jobtbl.JT_EVT_WHISPER] = "WHISPER"
 }
