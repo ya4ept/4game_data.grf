@@ -22152,3 +22152,76 @@ You can go back to Buwaya's cave before he hides#
 62837#Training#SG_FEEL#QUE_IMAGE#
 Gramps will give you important information and will test you!#
 Take the test#
+
+3364#Light and Fire#SG_FEEL#QUE_IMAGE#
+Bring Lana ^0000cd5 Tarry Branches^000000, ^0000cd10 Tree roots^000000 to create fire, and ^0000cdFire arrow^000000 to burn it. ^0000cdTarry Branches^000000 can be obtained from Revived Branches.#
+Bring supplies to Lana#
+3365#Light and Fire#SG_FEEL#QUE_IMAGE#
+Find out what Loon needs to organize the festival.#
+Talk to Loon#
+3366#Light and Fire#SG_FEEL#QUE_IMAGE#
+Find out what Serena needs to organize the festival.#
+Talk to Serena#
+3367#Light and Fire#SG_FEEL#QUE_IMAGE#
+Find out what Eve needs to organize the festival.#
+Talk to Eve#
+3369#Light and Fire#SG_FEEL#QUE_IMAGE#
+Loon's experiment ended unsuccessfully, now you need to stop the reproduction of the Revived branches.#
+Defeat Revived Branches#
+3370#Light and Fire#SG_FEEL#QUE_IMAGE#
+Today you helped Loon stop the invasion of the Revived Branches.#
+Come back tomorrow#
+3371#Light and Fire#SG_FEEL#QUE_IMAGE#
+Serena revealed that Hungry Boars are ravaging the homes of Alberta residents. You need to catch them using the ^0000cdBoar Trap^000000.#
+Catch 10 Hungry Boars #
+3372#Light and Fire#SG_FEEL#QUE_IMAGE#
+Today you helped Serena catch boars.#
+Come back tomorrow#
+3373#Light and Fire#SG_FEEL#QUE_IMAGE#
+Bring Gustav the ingredients for the dish: ^0000cd1 Dry Grains, 3 Honey, 10 Green Herbs^000000.#
+Bring Gustav the ingredients#
+3374#Light and Fire#SG_FEEL#QUE_IMAGE#
+Bring Estrid the ingredients for the dish: ^0000cd1 Yellow Spice, 3 Trunks^000000.#
+Bring Estrid the ingredients#
+3375#Light and Fire#SG_FEEL#QUE_IMAGE#
+Bring Louie the ingredients for the dish: ^0000cd1 Savory Sauce, 10 Carrots and 3 Lemons^000000.#
+Bring Louie the ingredients#
+3376#Light and Fire#SG_FEEL#QUE_IMAGE#
+Today you helped Eve organize the festival.#
+Come back tomorrow#
+3377#Light and Fire#SG_FEEL#QUE_IMAGE#
+Ask Louie about errands.#
+Talk to Louie#
+3378#Light and Fire#SG_FEEL#QUE_IMAGE#
+Louie wants to surprise everyone with his new dish, bring him ^0000cd30 Grasshopper's Legs, 20 Festival Cookies and 20 Green Herbs^000000.#
+Bring Louie the ingredients#
+3379#Light and Fire#SG_FEEL#QUE_IMAGE#
+Louie wants to surprise everyone with his new dish, bring him ^0000cd30 Grasshopper's Legs, 20 Festival Cookies and 20 Green Herbs^000000.#
+Bring Louie the ingredients#
+3380#Light and Fire#SG_FEEL#QUE_IMAGE#
+Today you helped Louie with his new dish.#
+Come back tomorrow#
+3381#Light and Fire#SG_FEEL#QUE_IMAGE#
+Ask Gustav about errands.#
+Talk to Gustav#
+3382#Light and Fire#SG_FEEL#QUE_IMAGE#
+Gustav wants to visit his daughter. Bring him ^0000cd2 Tickets to the ship^000000.#
+Bring Gustav tickets#
+3383#Light and Fire#SG_FEEL#QUE_IMAGE#
+Gustav wants to visit his daughter. Bring him ^0000cd2 Tickets to the ship^000000.#
+Bring Gustav tickets#
+3384#Light and Fire#SG_FEEL#QUE_IMAGE#
+Today you helped Gustav visit his daughter.#
+Come back tomorrow#
+3385#Light and Fire#SG_FEEL#QUE_IMAGE#
+Ask Estrid about errands.#
+Talk to Estrid#
+3386#Light and Fire#SG_FEEL#QUE_IMAGE#
+Estrid does not have time to prepare desserts alone. Bring Estrid ^0000cd10 Festival Cookies^000000.#
+Bring Estrid cookies#
+3387#Light and Fire#SG_FEEL#QUE_IMAGE#
+Estrid does not have time to prepare desserts alone. Bring Estrid ^0000cd10 Festival Cookies^000000.#
+Bring Estrid cookies#
+3388#Light and Fire#SG_FEEL#QUE_IMAGE#
+Today you helped Estrid with desserts.#
+Come back tomorrow#
