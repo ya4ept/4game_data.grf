@@ -91082,3 +91082,135 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+
+31368#
+^ff0000Account Bound^000000
+The fire warms so gloriously on a chilly autumn night...
+Do you wish to feel its warmth whenever you want? Then we have an offer for you!
+^ff0000[Effects are active only during the event (until September 15, 2021).]^000000
+Has a chance to get Festival Cookie after killing a monster
+Has a chance while dealing physical and magical damage:
+CRIT +15%
+MATK +10%
+^FFFFFF_^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+
+31580#
+^ff0000Account Bound^000000
+Autumn is here, corn and sweet potatoes are ripe!
+What could be tastier than juicy cobs and tubers baked over a fire after a harvest?
+^ff0000[Effects are active only during the event (until September 15, 2021).]^000000
+HP Recovery Amount of Sweet Potato +400%
+^FFFFFF_^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Weight: ^7777770^000000
+Jobs: ^777777All^000000
+#
+
+11613#
+^ff0000Account Bound^000000
+Cinnamon cookie with a drop of raspberry jelly.
+It smells so delicious! No wonder the monsters decided to steal it!
+Restores ^008000275-350 HP^000000 and ^00800020-40 SP^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+
+11611#
+^ff0000Account Bound^000000
+The smell of popcorn awakens so many memories!
+Late screening at the cinema, a horror movie. Long road home under the autumn stars shining in the dark heights... It gives goosebumps!
+Restores ^008000150^000000 to ^008000250^000000 HP.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+
+11625#
+^ff0000Account Bound^000000
+A bucket with flavored popcorn.
+Which one do you like best, sweet or salty?
+Restores ^008000150-250 HP^000000 and ^00800040-50 SP^000000.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+
+23445#
+^ff0000Account Bound^000000
+A honey-soy marinade turkey stuffed with apples and leeks. Yummy!
+HP and SP recovery ^00800020%.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+
+12188#
+^ff0000Account Bound^000000
+Traditional Oriental dessert, usually eaten during the Mid-Autumn Festival.
+This gourmet pastry is stuffed with sweet bean paste.
+HP and SP recovery ^00800050%.
+^FFFFFF_^000000
+Weight: ^7777775^000000
+#
+
+14908#
+^ff0000Account Bound^000000
+Hot steamed pies stuffed with cabbage and meat.
+Eat carefully or you may burn yourself!
+HP recovery ^00800010%.
+^FFFFFF_^000000
+Weight: ^7777771^000000
+#
+
+22658#
+^ff0000Account Bound^000000
+Appetizing beef ribs, braised in tomato sauce.
+Before serving, we recommend sprinkling the meat with grated cheese and garnishing the dish with lettuce leaves. Bon Appetit!
+Decrease SP consumption by 3% for 2 min.
+Reduce casting time by 5% for 2 min.
+^FFFFFF_^000000
+Weight: ^7777775^000000
+#
+
+25876#
+^ff0000Account Bound^000000
+Take part in the festival lottery to win a valuable prize!
+Or not to win, depending on how lucky you are!
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+
+25392#
+^ff0000Account Bound^000000
+Use this ticket to board the ship and sail to any port city!
+Feel like a citizen of the world!
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+
+25390#
+^ff0000Character Bound^000000
+This boar is very hungry and angry.
+We do not advise you to pet or tease him, it may end badly!
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+
+25391#
+^ff0000Character Bound^000000
+Highly flammable resin-infused pine branch.
+A useful tool for firemaking.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#
+
+23446#
+^ff0000Character Bound^000000
+Boar cage trap.
+Equipped with a heavy drop-style door.
+^FFFFFF_^000000
+Weight: ^7777770^000000
+#

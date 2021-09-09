@@ -3522,7 +3522,6 @@ JobNameTable = {
 	[jobtbl.JT_4_BONFIRE] = "4_bonfire",
 	[jobtbl.JT_E_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
 	[jobtbl.JT_EVT_GOLDEN_SAVAGE] = "GOLDEN_SAVAGE",
-	[jobtbl.JT_E_SAVAGE] = "SAVAGE",
 	[jobtbl.JT_EVT_ARGOS] = "ARGOS",
 	[jobtbl.JT_EVT_MANTIS] = "MANTIS",
 	[jobtbl.JT_EVT_HORNET] = "Hornet",
@@ -3531,5 +3530,7 @@ JobNameTable = {
 	[jobtbl.JT_EVT_DENIRO] = "DENIRO",
 	[jobtbl.JT_EVT_GIEARTH] = "GIEARTH",
 	[jobtbl.JT_EVT_VITATA] = "VITATA",
-	[jobtbl.JT_EVT_PIERE] = "PIERE"
+	[jobtbl.JT_EVT_PIERE] = "PIERE",
+	[jobtbl.JT_E_SAVAGE] = "savage",
+	[jobtbl.JT_E_ELDER_WILOW] = "elder_wilow"
 }

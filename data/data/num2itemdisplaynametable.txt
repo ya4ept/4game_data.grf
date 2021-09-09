@@ -8210,3 +8210,19 @@
 31560#Hat#
 31309#Hat#
 19673#Hat#
+
+31580#Garment#
+31368#Hat#
+11613#Festival Cookie#
+11611#Handful of Popcorn#
+11625#Popcorn Bucket#
+23445#Grilled Turkey#
+12188#Festival Mooncake#
+22658#Braised Short Ribs#
+14908#Pigodi#
+25876#Lottery Ticket#
+25392#Ship Ticket#
+25390#Captured Boar#
+25391#Tarry Branch#
+23446#Boar Trap#
+23921#Box#
