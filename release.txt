@@ -1,3 +1,18 @@
+09.09.2021 11:17
+CM_Godfather
+Good morning!
+We have found a tiny issue we have to fix ASAP to avoid that it snowballs into a bigger issue. A brief maintenance maintenance will be performed on the server stating at 11:00 CEST.
+We will let you know once it is all done.
+
+13:04
+Baphomet
+The maintenance is over, the server is up.
+— Fixed work of Dragan's Shadow Gloves;
+— Changed description of Braised short ribs: SP consumption reduces by 3% instead of 5%.
+For the next 24 hours, the server will have 15% EXP Bonus active.
+Have a good game, everyone!
+
+================ 
 08.09.2021 13:35
 CM_Godfather
 The Maintenance is over and the update is up, changes are the following:
