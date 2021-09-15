@@ -10056,7 +10056,7 @@ A cursed bow that once killed a hero of an ancient nation long ago. The curse of
 LUK -2.
 Сhance of inflicting ^800000Curse^000000 on the target when dealing ranged attacks.
 ^6A5ACD[When equipped with Cursed Star]^000000
-ATK + 25
+ATK +25.
 Higher chance of inflicting ^800000Curse^000000 on the target when dealing ranged attack.
 ^FFFFFF_^000000
 Type: ^777777Weapon^000000
@@ -11318,15 +11318,12 @@ This item is indestructible in battle.
 
 1925#
 An instrument with a low tone. Its 4 strings play nice calm sounds so this instrument is good for both solo and concert play.
-AGI +2.
-DEX +3.
-Knocks the target back 3 cells when using ^0000FFArrow Vulcan^000000.
-Knocks the target back 2 cells when using ^0000FFMelody Strike^000000.
+AGI +2, DEX +3.
+Knocks the target back 3 cells when using [Arrow Vulcan].
+Knocks the target back 2 cells when using [Melody Strike].
 ^FFFFFF_^000000
-Type: ^777777Weapon^000000
-Class: ^777777Instrument^000000
+Class: ^777777Musical Instrument^000000
 Attack: ^777777110^000000
-Property: ^777777Neutral^000000
 Weight: ^77777770^000000
 Weapon Level: ^7777773^000000
 Required Level: ^77777770^000000
@@ -12751,9 +12748,9 @@ Jobs: ^777777Stalker^000000
 
 2138#
 A heavy and strong shield made out of Bradium.
-MaxHP + 500.
-Agi -1.
-The attack power of the skill 'Shield Boomerang' increases by 60%.
+MaxHP +500.
+AGI -1.
+The attack power of the skill [Shield Boomerang] +60%.
 Class: ^777777Shield^000000
 Defense: ^77777798^000000
 Weight: ^777777180^000000
@@ -15567,11 +15564,12 @@ Required Level: ^77777794^000000
 Jobs: ^777777All^000000
 #
 2463#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Character Bound.^000000
 It has a message inscribed - Feline boots of a forgotten era, with both an unpolished and polished beauty.
-Unable to Refine or Destroy.
+Unbreakable.
+Unrefinable.
 Class: ^777777Shoes^000000
-Defense: ^77777712^000000
+Defense: ^77777722^000000
 Weight: ^7777770^000000
 Required Level: ^77777775^000000
 Job: ^777777All^000000
@@ -16343,7 +16341,8 @@ Job: ^777777All^000000
 //--------------------------------------------------------------------------
 2553#
 Manteau from a Draco's mane.
-Agi +1, Mdef +5
+AGI +1,
+MDEF +5.
 Class: ^777777Clothes^000000
 Defense: ^7777775^000000
 Weight: ^777777100^000000
@@ -16375,10 +16374,11 @@ Jobs: ^777777All^000000
 #
 //--------------------------------------------------------------------------
 2564#
-^ff0000This item cannot be traded with others.^000000
-It has a message inscribed - A symbol of valor made with the tail of a savage beast.
-Unable to Refine or Destroy.
-Class: ^777777Robe^000000
+^ff0000Character Bound.^000000
+It has a message inscribed - a symbol of valor made with the tail of a savage beast.
+Unbreakable.
+Unrefinable.
+Class: ^777777Garment^000000
 Defense: ^77777716^000000
 Weight: ^7777770^000000
 Required Level: ^77777775^000000
@@ -17967,10 +17967,10 @@ Jobs: ^7777772nd Transcendent Class^000000
 #
 2746#
 A little something that Assassins should have. There're a number of rumors regarding the blood stain at the end of the blade.
-Agi +3
+AGI +3
 ^6A5ACD[When equipped with Ring of Rogue]^000000
+ASPD +3%
 Damage against medium sized monsters +8%.
-Increase in attack speed (delay after attacking reduces by 3%)
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
 Weight: ^77777710^000000
@@ -17979,10 +17979,10 @@ Jobs: ^777777Assassin Cross^000000
 #
 2747#
 A pendant which symbolizes a well-known Rogue Guild among people in dark side.
-Dex +3
+DEX +3
 ^6A5ACD[When equipped with Ring of Rogue]^000000
-Inflicts additional damage to large sized monsters by 8%.
 HIT +3.
+Inflicts additional damage to large sized monsters by 8%.
 Reduction in Variable Casting speed by 3%.
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -18270,7 +18270,8 @@ Job: ^777777All Transcendent Job Classes except Novice Classes^000000
 #
 2788#
 A strangely warm earring made out of Bradium Ore.
-Matk +2%, Int + 1, Dex +1
+INT +1, DEX +1
+MATK +2%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -18279,8 +18280,8 @@ Job: ^777777All Transcendent Job Classes except Novice Classes^000000
 #
 2789#
 A very tough ring made out of Bradium Ore.
-Str +1, Vit +1,
-Increases attack damage on all monsters by 2%.
+STR +1, VIT +1,
+Attack damage on all monsters +2%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -18289,8 +18290,8 @@ Job: ^777777All Transcendent Job Classes except Novice Classes^000000
 #
 2790#
 A brooch made out of Bradium Ore. 
-Flee +4, Agi +1,
-Aspd increases by 2% (after-attack delay)
+AGI +1,
+Flee +4, ASPD +2%
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777720^000000
@@ -18669,9 +18670,11 @@ Jobs: ^777777All Except Novice^000000
 #
 //--------------------------------------------------------------------------
 2843#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Character Bound.^000000
 It has a message inscribed - An accessory hung over a beast's neck to show dignity.
-SP + 50.
+MaxSP +50.
+Unbreakable.
+Unrefinable.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -18679,10 +18682,9 @@ Required Level: ^77777775^000000
 Class: ^777777All^000000
 #
 2844#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A brooch made to resemble the El Dicastes Diel.
 Allows teleportation to the Sapha Capital El Discastes at all times with the skill [To El Dicastes].
-^3CB371Open your skill window and use the [To El Dicastes] skill to activate^000000.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -43321,10 +43323,10 @@ Weight: ^7777771^000000
 
 15000#
 Dark-plated armor covered with sharp bones.
-A 1% chance of inflicting Bleed on enemies in 5x5 area around oneself when receiving physical damage
-Damage to Demihuman/Animal monsters +10%
-Str +1
-Mdef +3
+STR +1.
+MDEF +3.
+Has a chance of inflicting Bleed on enemies in 5x5 area around oneself when receiving physical damage.
+Damage to Demihuman/Animal monsters +10%.
 Class: ^777777Armor^000000
 Defense: ^77777760^000000    Weight: ^777777100^000000
 Required Level: ^77777785^000000
@@ -49662,27 +49664,27 @@ Weight:  ^7777771^000000
 
 
 6304#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A certificate given by Sapha leaders for meritorious deeds.
 Weight: ^7777770^000000
 #
 6305#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A piece of skin that is frozen solid. Something is very strange about it...
 Weight: ^7777770^000000
 #
 6306#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A mass made of somebody or something's blood. It is not similar to any human or creature's blood that you've ever seen before.
 Weight: ^7777770^000000
 #
 6307#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 Mineral with an odd pulse similar to the dimensional crack. You sense a magic that is not of this world from it.
 Weight: ^7777770^000000
 #
 6308#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 An unappraised ancient item. It's true nature is unknown.
 Weight: ^7777770^000000
 #
@@ -49736,15 +49738,6 @@ Weight: ^7777771^000000
 A beautiful wing fragment of a large insect. Gorgeous colors are displayed between the torn hide.
 Weight: ^7777771^000000
 #
-
-
-
-
-
-
-
-
-
 13061#
 A sawtooth dagger crafted by the Rogue Guild.
 30% ATK increase of Fatal Menace. 2% ATK and +3 MATK increase with every upgrade above level 6.
@@ -59213,29 +59206,29 @@ This wonderful smell reminds you of your hometown.
 Weight: ^7777771^000000
 #
 6839#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A chocolate coin wrapped with gold paper. Please do not try to eat this.
 Bring this to Bitta who is at the southeast area of Einbroch.
 Weight: ^7777770^000000
 #
 6841#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A chocolate coin wrapped with bronze paper. Please do not try to eat this.
 Bring this to Bitta who is at the southeast area of Einbroch to exchange it for silver coins
 Weight: ^7777770^000000
 #
 22708#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A box full of random Valentine's Day treats.
 Weight: ^77777710^000000
 #
 6842#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A jewelry made with sculptor's heart. Its sheer size shows how thankful he is.
 Weight: ^7777770^000000
 #
 6843#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 Humble ring made with a flower stream.
 Weight: ^7777770^000000
 #
@@ -59244,12 +59237,12 @@ A raw cacao bean. This tastes rather bitter.
 Weight: ^7777770^000000
 #
 6844#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 Colorful stone with a mild texture to it. Used as an ingredient for making many kinds of jewelry.
 Weight: ^7777770^000000
 #
 6845#
-^ff0000This item cannot be traded with others.^000000
+^ff0000Account Bound.^000000
 A natural ingredient used as fertilizer.
 The odor is strong but no as bothersome as normal monster excrement...
 Weight: ^7777770^000000
@@ -66354,13 +66347,6 @@ Job: ^777777All^000000
 #
 19790#
 A wedding veil for women. You can be misunderstood with wearing this, if you're a boy.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
-#
-19802#
-A hat shaped like a fox with nine tails. It makes you warm, definitely.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
@@ -73772,13 +73758,6 @@ Location: ^777777Upper^000000
 Defense: ^7777770^000000   Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-31118#
-A mask worn by a group of eastern assassins. It's shaped like a skull to notify targets of their imminent death.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle,Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
 #
 31117#
 A Helm used in ancient western country that was famous for close formation and tight defense.
@@ -91087,12 +91066,6 @@ Jobs: ^777777All^000000
 ^ff0000Account Bound^000000
 The fire warms so gloriously on a chilly autumn night...
 Do you wish to feel its warmth whenever you want? Then we have an offer for you!
-^ff0000[Effects are active only during the event (until September 15, 2021).]^000000
-Has a chance to get Festival Cookie after killing a monster
-Has a chance while dealing physical and magical damage:
-CRIT +15%
-MATK +10%
-^FFFFFF_^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Weight: ^7777770^000000
@@ -91103,9 +91076,6 @@ Jobs: ^777777All^000000
 ^ff0000Account Bound^000000
 Autumn is here, corn and sweet potatoes are ripe!
 What could be tastier than juicy cobs and tubers baked over a fire after a harvest?
-^ff0000[Effects are active only during the event (until September 15, 2021).]^000000
-HP Recovery Amount of Sweet Potato +400%
-^FFFFFF_^000000
 Class: ^777777Costume^000000
 Location: ^777777Middle^000000
 Weight: ^7777770^000000
@@ -91213,4 +91183,68 @@ Boar cage trap.
 Equipped with a heavy drop-style door.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
+#
+
+9787#
+'My many eyes are terrifying. Yet I'm no foe, and I'm not lying. There is a prize that you should see. Take courage then, and open me.'
+Open the box and receive one of the following gifts:
+Sillit Pong
+Deviruchi Bag
+Devil Wings
+Silvervine x1000
+Ghostring Tall Hat
+Headcloth of the Horned One
+Demon In Your Head
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Zombie Mask	
+Sleepy Nine Tails
+Assassin's Skull Mask
+Marionette Chains
+Bubblegum Battle Manual x2
+Secret Medicine x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Deviruchi Transformation Scroll x10
+Convex Mirror x7
+Mental Potion x8
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Life Insurance x6
+Token of Ziegfried x6
+Giant Fly Wing x6
+Guarana Candy x8
+Coca Cola x35
+Yummy Skewered Grill x25
+ASPD Potion x11
+Guyak Candy x33
+Guyak Pudding x25
+WoE Teleport Scroll x15
+Superb Fish Slice x25
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19802#
+This little kitsune will surely enchant and deceive you.
+But only later, after it sleeps.
+Class: ^777777Costume^000000 
+Location: ^777777Upper^000000
+Weight: ^7777770^000000
+Required LV: ^7777771^000000
+Job: ^777777All^000000
+#
+31118#
+There is a man hiding his face behind a monstrous mask.
+He's got more blood on his hands than most monsters.
+Class: ^777777Costume^000000 
+Location: ^777777Middle/Lower^000000
+Weight: ^7777770^000000
+Required LV: ^7777771^000000
+Job: ^777777All^000000
 #

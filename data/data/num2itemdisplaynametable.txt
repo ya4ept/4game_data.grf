@@ -8226,3 +8226,7 @@
 25391#Tarry Branch#
 23446#Boar Trap#
 23921#Box#
+
+9787#Monstrous Treasure#
+19802#Hat#
+31118#Hat#

@@ -44133,11 +44133,7 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19802#
-A hat shaped like a fox with nine tails. It makes you warm, definitely.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 19803#
 A hairband decorated with a pinwheel. It makes you cool!
@@ -50117,11 +50113,7 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31118#
-A mask worn by a group of eastern assassins. It's shaped like a skull to notify targets of their imminent death.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Middle,Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
 31117#
 A Helm used in ancient western country that was famous for close formation and tight defense.
@@ -56523,4 +56515,49 @@ Boar cage trap.
 Equipped with a heavy drop-style door.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
+#
+9787#
+'My many eyes are terrifying. Yet I'm no foe, and I'm not lying. There is a prize that you should see. Take courage then, and open me.'
+Open the box and receive one of the following gifts:
+Sillit Pong
+Deviruchi Bag
+Devil Wings
+Silvervine x1000
+Ghostring Tall Hat
+Headcloth of the Horned One
+Demon In Your Head
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Zombie Mask	
+Sleepy Nine Tails
+Assassin's Skull Mask
+Marionette Chains
+Bubblegum Battle Manual x2
+Secret Medicine x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Bloody Branch x2
+Deviruchi Transformation Scroll x10
+Convex Mirror x7
+Mental Potion x8
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Life Insurance x6
+Token of Ziegfried x6
+Giant Fly Wing x6
+Guarana Candy x8
+Coca Cola x35
+Yummy Skewered Grill x25
+ASPD Potion x11
+Guyak Candy x33
+Guyak Pudding x25
+WoE Teleport Scroll x15
+Superb Fish Slice x25
+^ffffff_^000000
+Weight: ^7777771^000000
 #

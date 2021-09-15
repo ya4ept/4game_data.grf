@@ -5343,7 +5343,7 @@
 4765#CRI+7#
 4766#ATK+2%#
 4767#ATK+3%#
-6304#Exploit Certification of Sapa#
+6304#Sapha Certification#
 6305#Piece of Frozen Skin#
 6306#Cotted Bloodstain#
 6307#Strange Magic Stone#
@@ -9320,3 +9320,7 @@
 25391#Tarry Branch#
 23446#Boar Trap#
 23921#Box#
+
+9787#Monstrous Treasure#
+19802#Sleepy Nine Tails#
+31118#Assassin's Skull Mask#
