@@ -1250,3 +1250,8 @@ emjolnir_05.gnd#mjolnir_05.gnd#
 emjolnir_05.gat#mjolnir_05.gat#
 emjolnir_05.rsw#mjolnir_05.rsw#
 유저인터페이스\map\emjolnir_05.bmp#유저인터페이스\map\mjolnir_05.bmp#
+
+emoc_fild12.gnd#emoc_fild12.gnd#
+emoc_fild12.gat#emoc_fild12.gat#
+emoc_fild12.rsw#emoc_fild12.rsw#
+유저인터페이스\map\emoc_fild12.bmp#유저인터페이스\map\emoc_fild12.bmp#
