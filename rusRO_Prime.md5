@@ -1,7 +1,7 @@
 d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-211e7ede2482346cde562d8701fd1785 *data.grf
+dbfcd1f4b90cdf5b301b40c96fca739c *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -50,7 +50,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 7a834f26d88b007cc9c27021d7504735 *Frost\frostinfo.txt
-a37cbf192e6a6fef8154d2c2f6f5f4d7 *Frost\frostInit.log
+db9cd9f9ec1497a79fc4d7b2327778e1 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -58,7 +58,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 076d8a97864b432368addec9b2066445 *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-bc58e6df602fd36f7b60efbda262aec7 *Frost\launcherUpdater.log
+4e92b5b03961c984048db96cc812d74c *Frost\launcherUpdater.log
 15c1e94cfc4ba15099f32d17a8403e74 *Frost\ro.exe
 99c37cfa293789da021ac2cf9be1d8d0 *Frost\.inn.meta.dir\.inn.cache.txt
 99c37cfa293789da021ac2cf9be1d8d0 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -67,11 +67,10 @@ cb04b36300ea8e987d5bcbcf54c904a4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.control.txt
 edc9264ac3c9be8d65b9ae99d4ae63e0 *gameManager\gameManager.exe
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
-6c8fa0fcef82d34dd8aecb218707159e *gameManager\log.log
 1f759491c8f2f4caab3c544093016617 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 49b96a9a0fda7c5ee0bfe02ae61aeae6 *System\CheckAttendance.lub
-f8e1eba3029fe745be81f7546c4216e8 *System\iteminfo.lub
+a612a825dc343e325d9bd71c6b717da2 *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 070f3d654f1cd8663f5bcc80eba51ce5 *System\monster_size_effect.lub
 c52432991795db6eb12b017ecaa04e05 *System\monster_size_effect_new.lub
