@@ -2136,5 +2136,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_White_Cat_On_Shoulder] = "_C_White_Cat_On_Shoulder",
 	[ACCESSORY_IDs.ACCESSORY_Pope_Ribbon_R] = "_Pope_Ribbon_R",
 	[ACCESSORY_IDs.ACCESSORY_Purple_Cat_Ears_Beret] = "_Purple_Cat_Ears_Beret",
-	[ACCESSORY_IDs.ACCESSORY_Sweet_Potato_In_Mouth] = "_Sweet_Potato_In_Mouth"
+	[ACCESSORY_IDs.ACCESSORY_Sweet_Potato_In_Mouth] = "_Sweet_Potato_In_Mouth",
+	[ACCESSORY_IDs.ACCESSORY_DOMOVOI] = "_µµёрєёАМ"
 }

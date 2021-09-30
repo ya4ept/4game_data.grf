@@ -807,3 +807,10 @@
 27120#Iara_Card#
 27121#Piranha_Card#
 27126#Boitata_Card#
+
+27157#wood_goblin_card#
+27158#mavka_card#
+27159#uzhas_card#
+27160#vavayaga_card#
+27161#les_card#
+27162#gopinich_card#

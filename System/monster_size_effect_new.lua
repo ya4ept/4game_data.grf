@@ -1344,7 +1344,26 @@ tbl = {
 	[3636] = { MonsterSize = 0.7, MonsterEff = { EFFECT.EF_BOTTOM_BARRIER } },
 	[3969] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_NONE } },
 	[3970] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_HASTEUP } },
-	[20628] = { MonsterSize = 1.5, MonsterEff = { EFFECT.EF_NONE } }
+	[20628] = { MonsterSize = 1.5, MonsterEff = { EFFECT.EF_NONE } },
+	[20635] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20636] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20637] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20638] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20639] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20640] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20641] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20642] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20643] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20644] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20645] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20646] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20647] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20648] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20649] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20650] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20651] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20652] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20653] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } }
 }
 
 -- Function #0
