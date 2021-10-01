@@ -44678,13 +44678,6 @@ Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
-19756#
-A hat blessed by Holy Mother. It can bless other people even by self-sacrifice.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
-#
 19760#
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
@@ -49217,15 +49210,6 @@ Required Job: All Jobs
 #
 20282#
 ^808080A white crude hat usually worn by the leader of students.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Upper)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
-#
-20283#
-^808080A hat having a story that a father left it to his son. You can feel how much he loved his son from its stout design.^000000
 ^FFFFFF_^000000
 Type: Costume
 Position: Headgear (Upper)
@@ -56560,4 +56544,64 @@ WoE Teleport Scroll x15
 Superb Fish Slice x25
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+9921#
+Just look who brought you this box!
+Are these autumn leaves? Or butterflies? What a strange and wonderful creatures!
+Open the box and receive one of the following items:
+Shiba Inu
+School Backpack
+Golden Leaves
+Silvervine x1000
+Maple Leaves Dance
+Black Catmother Hood
+Red Eremes' Scarf
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Autumn Bear Hat
+World Ruler's Cap
+Bubblegum Battle Manual x2
+Secret Medicine x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Party Assumptio Scroll x4
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Party Blessing Scroll x4
+Party Increase Agility Scroll x4
+Convex Mirror x7
+Poring Hotpot x20
+Megaphone x6
+Giant Fly Wing x6
+Bloody Branch x2
+Sparkling Candy x12
+Box of Sunlight x25
+Sesame Pastry x33
+Guyak Candy x33
+Guyak Pudding x25
+Yummy Skewered Grill x25
+Superb Fish Slice x25
+Taoist Pills x15
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+19291#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20574#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31543#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20283#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19756#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #

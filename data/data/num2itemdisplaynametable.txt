@@ -8230,3 +8230,11 @@
 9787#Monstrous Treasure#
 19802#Hat#
 31118#Hat#
+
+9921#Autumn Moths' Treasure#
+19291#Accessory#
+20574#Garment#
+31543#Hat#
+20283#Hat#
+
+19756#Hat#

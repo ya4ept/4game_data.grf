@@ -9324,3 +9324,11 @@
 9787#Monstrous Treasure#
 19802#Sleepy Nine Tails#
 31118#Assassin's Skull Mask#
+
+9921#Autumn Moths' Treasure#
+19291#Shiba Inu#
+20574#School Backpack#
+31543#Autumn Bear Hat#
+20283#World Ruler's Cap#
+
+19756#Holy Mom Love#
