@@ -6352,7 +6352,7 @@
 14699#Garuda Scroll#
 17307#Midgard Scroll#
 12194#Hometown Gift#
-6839#Gold Choco Coin#
+6839#Cursed Coin#
 6841#Bronze Choco Coin#
 22708#Thrilling Box#
 6842#Huge Jewery#
@@ -9332,3 +9332,14 @@
 20283#World Ruler's Cap#
 
 19756#Holy Mom Love#
+
+12516#Special Small Life Potion#
+9610#Special Mystical Potion#
+12515#Special Medium Life Potion#
+23047#Special Blessing of Tyr#
+23177#Special Kafra Card#
+
+31034#Pirate Captain Hat#
+5924#Pirate Eyepatch#
+12131#Bottle of Rum#
+12400#Cup of Life#

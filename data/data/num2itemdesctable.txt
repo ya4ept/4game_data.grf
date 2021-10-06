@@ -56605,3 +56605,70 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 19756#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
 #
+12516#
+^ff0000Account Bound.^000000
+A small bottle of Yggdrasil Tree Sap that is effective in healing wounds.
+Restores an amount of HP equal of 5% of your Max HP every 5 seconds for a 10 minute duration.
+Not effective in Berserk status.
+If you are incapacitated, the item effect will disappear.
+Weight: ^7777771^000000
+#
+9610#
+^ff0000Account Bound.^000000
+A small bottle with a mixture of various potions.
+Restores 7% of max HP every 4 sec.
+Duration: 10 min.
+^777777_^000000
+Weight: ^7777771^000000
+#
+12515#
+^ff0000Account Bound.^000000
+A sizeable bottle of Yggdrasil tree sap that is used for healing wounds.
+Restores 7% of max HP every 4 sec.
+Duration: 10 min.
+^777777_^000000
+Weight: ^7777771^000000
+#
+23047#
+^ff0000Account Bound.^000000
+A potion that possesses the spirit of Tyr, the god of battle.
+Atk/Matk +20
+Hit/Flee +30
+Duration: 5 min.
+^777777_^000000
+Weight: ^7777771^000000
+#
+23177#
+^ff0000Account Bound.^000000
+A card issued by the Kafra Headquarters.
+Allows to open the Kafra storage.
+^777777_^000000
+Weight: ^7777771^000000
+#
+31034#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+5924#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+12131#
+^ff0000Account Bound.^000000
+You don't have a dead man's chest, and you don't have fifteen men either...
+Well, fine! So you won't have to share this glorious rum with anyone!
+Recover 30% HP.
+Recover 10% SP.
+CRIT +10 for 2 min.
+Physical/Magic attack +10 for 2 min.
+Confusion for 10 sec.
+^777777_^000000
+Weight: ^7777775^000000
+#
+12400#
+^ff0000Account Bound.^000000
+A cup of water from the Fountain of Youth.
+They say that if you put a dry branch in it, it will bloom and give new shoots.
+Casts [Assumptio] Lv. 5 for 100 sec.
+Recovers 100 HP every 5 sec for 100 sec.
+^777777_^000000
+Weight: ^77777710^000000
+#

@@ -3536,5 +3536,8 @@ JobNameTable = {
 	[jobtbl.JT_EVT_PICKY_] = "PICKY_",
 	[jobtbl.JT_EVT_DROPS] = "DROPS",
 	[jobtbl.JT_EVT_CHONCHON] = "CHOCHO",
-	[jobtbl.JT_EVT_ANT_EGG] = "ANT_EGG"
+	[jobtbl.JT_EVT_ANT_EGG] = "ANT_EGG",
+	[jobtbl.JT_E_ZOMBIE_PIRATE] = "ZOMBIE",
+	[jobtbl.JT_E_ZOMBIE_CAPTAIN] = "ZOMBIE_MASTER",
+	[jobtbl.JT_E_ZOMBIE_TREASURE] = "ZOMBIE_SLAUGHTER"
 }

@@ -31176,15 +31176,6 @@ Weight: ^7777771^000000
 
 
 // ------------ Korean SAT item -----------------
-12131#
-A drink that is
-already past its
-expiration date, and
-no longer has any
-potency. Or does it?
-^FFFFFF ^000000
-Weight: ^77777710^000000
-#
 
 
 7483#
@@ -59206,9 +59197,9 @@ This wonderful smell reminds you of your hometown.
 Weight: ^7777771^000000
 #
 6839#
-^ff0000Account Bound.^000000
-A chocolate coin wrapped with gold paper. Please do not try to eat this.
-Bring this to Bitta who is at the southeast area of Einbroch.
+^ff0000Character Bound.^000000
+One of 500 coins stolen by pirates from starving townspeople.
+According to legend, it brings misfortune to its owner.
 Weight: ^7777770^000000
 #
 6841#
@@ -91324,4 +91315,96 @@ Location: ^777777Upper, Middle^000000
 Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777All^000000
+#
+12516#
+^ff0000Account Bound.^000000
+A small bottle of Yggdrasil Tree Sap that is effective in healing wounds.
+Restores an amount of HP equal of 5% of your Max HP every 5 seconds for a 10 minute duration.
+Not effective in Berserk status.
+If you are incapacitated, the item effect will disappear.
+Weight: ^7777771^000000
+#
+9610#
+^ff0000Account Bound.^000000
+A small bottle with a mixture of various potions.
+Restores 7% of max HP every 4 sec.
+Duration: 10 min.
+^777777_^000000
+Weight: ^7777771^000000
+#
+12515#
+^ff0000Account Bound.^000000
+A sizeable bottle of Yggdrasil tree sap that is used for healing wounds.
+Restores 7% of max HP every 4 sec.
+Duration: 10 min.
+^777777_^000000
+Weight: ^7777771^000000
+#
+23047#
+^ff0000Account Bound.^000000
+A potion that possesses the spirit of Tyr, the god of battle.
+Atk/Matk +20
+Hit/Flee +30
+Duration: 5 min.
+^777777_^000000
+Weight: ^7777771^000000
+#
+23177#
+^ff0000Account Bound.^000000
+A card issued by the Kafra Headquarters.
+Allows to open the Kafra storage.
+^777777_^000000
+Weight: ^7777771^000000
+#
+31034#
+^ff0000Account Bound.^000000
+Old worn cocked hat with the skull emblem.
+On the lining you see the embroidered words: 'Clothes and deeds make the man'.
+LUK +10.
+Damage against Fish and Undead monsters +20%.
+Physical weapon damage against normal monsters and players +5%.
+Skill delay -10%.
+^ff0000[Effects are active only during the event (until October 13, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+5924#
+^ff0000Account Bound.^000000
+A scarlet silk eyepatch with adjustable strap.
+Decorated with images of a winged skull and two crossed bones.
+EXP from monsters +15%.
+SP consumption -10%.
+HIT +15.
+^ff0000[Effects are active only during the event (until October 13, 2021).]^000000
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+12131#
+^ff0000Account Bound.^000000
+You don't have a dead man's chest, and you don't have fifteen men either...
+Well, fine! So you won't have to share this glorious rum with anyone!
+Recover 30% HP.
+Recover 10% SP.
+CRIT +10 for 2 min.
+Physical/Magic attack +10 for 2 min.
+Confusion for 10 sec.
+^777777_^000000
+Weight: ^7777775^000000
+#
+12400#
+^ff0000Account Bound.^000000
+A cup of water from the Fountain of Youth.
+They say that if you put a dry branch in it, it will bloom and give new shoots.
+Casts [Assumptio] Lv. 5 for 100 sec.
+Recovers 100 HP every 5 sec for 100 sec.
+^777777_^000000
+Weight: ^77777710^000000
 #

@@ -6304,7 +6304,7 @@
 14699#Garuda Scroll#
 17307#Midgard Scroll#
 12194#Hometown Gift#
-6839#Gold Choco Coin#
+6839#Cursed Coin#
 6840#Silver Choco Coin#
 6841#Bronze Choco Coin#
 22708#Thrilling Box#
@@ -8238,3 +8238,14 @@
 20283#Hat#
 
 19756#Hat#
+
+12516#Special Small Life Potion#
+9610#Special Mystical Potion#
+12515#Special Medium Life Potion#
+23047#Special Blessing of Tyr#
+23177#Special Kafra Card#
+
+31034#Hat#
+5924#Hat#
+12131#Bottle of Rum#
+12400#Cup of Life#
