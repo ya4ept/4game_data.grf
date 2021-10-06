@@ -3711,5 +3711,8 @@ JobNameTable = {
 	[jobtbl.JT_E_ELDER_WILOW] = "elder_wilow",
 	[jobtbl.JT_E_SAVAGE] = "savage",
 	[jobtbl.JT_EVT_QUVE] = "QUVE",
-	[jobtbl.JT_EVT_WHISPER] = "WHISPER"
+	[jobtbl.JT_EVT_WHISPER] = "WHISPER",
+	[jobtbl.JT_E_ZOMBIE_PIRATE] = "ZOMBIE",
+	[jobtbl.JT_E_ZOMBIE_CAPTAIN] = "ZOMBIE_MASTER",
+	[jobtbl.JT_E_ZOMBIE_TREASURE] = "ZOMBIE_SLAUGHTER"
 }

@@ -22225,3 +22225,358 @@ Bring Estrid cookies#
 3388#Light and Fire#SG_FEEL#QUE_IMAGE#
 Today you helped Estrid with desserts.#
 Come back tomorrow#
+
+17401#Pirate's Life#SG_FEEL#QUE_IMAGE#
+Pirate ships moored in Rune-Midgard. Visit pirate captains in Alberta, Izlude and Hugel.#
+Find pirates#
+17402#Pirate's Life#SG_FEEL#QUE_IMAGE#
+The life of a sailor depends on the captain of their ship. Find out how things are going with Murmossa.#
+Visit Murmossa#
+17403#Pirate's Life#SG_FEEL#QUE_IMAGE#
+The life of a sailor depends on the captain of their ship. Find out how things are going with Henry Murgan.#
+Visit Henry Murgan#
+17404#Pirate's Life#SG_FEEL#QUE_IMAGE#
+The life of a sailor depends on the captain of their ship. Find out how things are going with One Eyed Meowk.#
+Visit One Eyed Meowk#
+17405#Pirate's Life#SG_FEEL#QUE_IMAGE#
+Today you found out how the sailors are doing. Come back and find out again tomorrow.#
+Come back tomorrow#
+17406#Pirate's Life#SG_FEEL#QUE_IMAGE#
+Trick's sailors are starving. Bring them ^0000FF5 Meat^000000, ^0000FFAwakening Potion^000000, and ^0000FF10 Apples^000000.#
+Bring supplies#
+17407#Pirate's Life#SG_FEEL#QUE_IMAGE#
+You complete all Captain Trick's errands for today. Come back again tomorrow.#
+Come back tomorrow#
+17408#Pirate's Life#SG_FEEL#QUE_IMAGE#
+You have to find out if the rumors about the rising of the dead are true.#
+Find and kill zombies#
+17409#Pirate's Life#SG_FEEL#QUE_IMAGE#
+You complete all Captain Flint's errands for today. Come back again tomorrow.#
+Come back tomorrow#
+17410#Pirate's Life#SG_FEEL#QUE_IMAGE#
+Merchants and sailors hide their treasures on the fields. Find at least one of them.#
+Find treasure#
+17411#Pirate's Life#SG_FEEL#QUE_IMAGE#
+You have found treasure. Go to Captain Mjorn and tell him, where the mark have been.#
+Go to Captain Mjorn#
+17412#Pirate's Life#SG_FEEL#QUE_IMAGE#
+You complete all Captain Mjorn's errands for today. Come back again tomorrow.#
+Come back tomorrow#
+17413#Pirate's Life#SG_FEEL#QUE_IMAGE#
+1st day#
+#
+17414#Pirate's Life#SG_FEEL#QUE_IMAGE#
+2nd day#
+#
+17415#Pirate's Life#SG_FEEL#QUE_IMAGE#
+3rd day#
+#
+17416#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Karakasa^000000 to get a reward.#
+Defeat monsters#
+17417#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Smokie^000000 to get a reward.#
+Defeat monsters#
+17418#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Miming^000000 to get a reward.#
+Defeat monsters#
+17419#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Little Fatum^000000 to get a reward.#
+Defeat monsters#
+17420#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Toucan^000000 to get a reward.#
+Defeat monsters#
+17421#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Grove^000000 to get a reward.#
+Defeat monsters#
+17422#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Seal^000000 to get a reward.#
+Defeat monsters#
+17423#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Alligator^000000 to get a reward.#
+Defeat monsters#
+17424#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Sea Otter^000000 to get a reward.#
+Defeat monsters#
+17425#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Golem^000000 to get a reward.#
+Defeat monsters#
+17426#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Raggler^000000 to get a reward.#
+Defeat monsters#
+17427#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Deniro^000000 to get a reward.#
+Defeat monsters#
+17428#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Metaller^000000 to get a reward.#
+Defeat monsters#
+17429#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Menblatt^000000 to get a reward.#
+Defeat monsters#
+17430#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Teddy Bear^000000 to get a reward.#
+Defeat monsters#
+17431#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Venomous^000000 to get a reward.#
+Defeat monsters#
+17432#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Noxious^000000 to get a reward.#
+Defeat monsters#
+17433#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Holden^000000 to get a reward.#
+Defeat monsters#
+17434#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Metaling^000000 to get a reward.#
+Defeat monsters#
+17435#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Metaling^000000 to get a reward.#
+Defeat monsters#
+17436#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Porcellio^000000 to get a reward.#
+Defeat monsters#
+17437#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Chonchon^000000 to get a reward.#
+Defeat monsters#
+17438#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Roda Frog^000000 to get a reward.#
+Defeat monsters#
+17439#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Coco^000000 to get a reward.#
+Defeat monsters#
+17440#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Orc Lady^000000 to get a reward.#
+Defeat monsters#
+17441#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Mandragora^000000 to get a reward.#
+Defeat monsters#
+17442#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Creamy^000000 to get a reward.#
+Defeat monsters#
+17443#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Petite^000000 to get a reward.#
+Defeat monsters#
+17444#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Pupa^000000 to get a reward.#
+Defeat monsters#
+17445#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Petite^000000 to get a reward.#
+Defeat monsters#
+17446#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Ambernite^000000 to get a reward.#
+Defeat monsters#
+17447#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Orc Warrior^000000 to get a reward.#
+Defeat monsters#
+17448#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Goblin^000000 to get a reward.#
+Defeat monsters#
+17449#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Rice Cake Boy^000000 to get a reward.#
+Defeat monsters#
+17450#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Novus^000000 to get a reward.#
+Defeat monsters#
+17451#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Novus^000000 to get a reward.#
+Defeat monsters#
+17452#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Shellfish^000000 to get a reward.#
+Defeat monsters#
+17453#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Rafflesia^000000 to get a reward.#
+Defeat monsters#
+17454#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Stem Worm^000000 to get a reward.#
+Defeat monsters#
+17455#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Breeze^000000 to get a reward.#
+Defeat monsters#
+17456#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Tiyanak^000000 to get a reward.#
+Defeat monsters#
+17457#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Bungisngis^000000 to get a reward.#
+Defeat monsters#
+17458#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Caramel^000000 to get a reward.#
+Defeat monsters#
+17459#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Horn^000000 to get a reward.#
+Defeat monsters#
+17460#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Side Winder^000000 to get a reward.#
+Defeat monsters#
+17461#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Driller^000000 to get a reward.#
+Defeat monsters#
+17462#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Argiope^000000 to get a reward.#
+Defeat monsters#
+17463#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Poison Spore^000000 to get a reward.#
+Defeat monsters#
+17464#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Savage^000000 to get a reward.#
+Defeat monsters#
+17465#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Beetle King^000000 to get a reward.#
+Defeat monsters#
+17466#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Savage Babe^000000 to get a reward.#
+Defeat monsters#
+17467#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Argos^000000 to get a reward.#
+Defeat monsters#
+17468#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Argiope^000000 to get a reward.#
+Defeat monsters#
+17469#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Dustiness^000000 to get a reward.#
+Defeat monsters#
+17470#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Peco Peco^000000 to get a reward.#
+Defeat monsters#
+17471#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Muka^000000 to get a reward.#
+Defeat monsters#
+17472#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Drops^000000 to get a reward.#
+Defeat monsters#
+17473#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Baby Desert Wolf^000000 to get a reward.#
+Defeat monsters#
+17474#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Picky^000000 to get a reward.#
+Defeat monsters#
+17475#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Scorpion^000000 to get a reward.#
+Defeat monsters#
+17476#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Willow^000000 to get a reward.#
+Defeat monsters#
+17477#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Boa^000000 to get a reward.#
+Defeat monsters#
+17478#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Fabre^000000 to get a reward.#
+Defeat monsters#
+17479#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Poporing^000000 to get a reward.#
+Defeat monsters#
+17480#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Bigfoot^000000 to get a reward.#
+Defeat monsters#
+17481#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Spore^000000 to get a reward.#
+Defeat monsters#
+17482#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Elder Willow^000000 to get a reward.#
+Defeat monsters#
+17483#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Greatest General^000000 to get a reward.#
+Defeat monsters#
+17484#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Roda Frog^000000 to get a reward.#
+Defeat monsters#
+17485#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Lunatic^000000 to get a reward.#
+Defeat monsters#
+17486#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Stainer^000000 to get a reward.#
+Defeat monsters#
+17487#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Yoyo^000000 to get a reward.#
+Defeat monsters#
+17488#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Ambernite^000000 to get a reward.#
+Defeat monsters#
+17489#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Hornet^000000 to get a reward.#
+Defeat monsters#
+17490#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Fabre^000000 to get a reward.#
+Defeat monsters#
+17491#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Rocker^000000 to get a reward.#
+Defeat monsters#
+17492#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Poring^000000 to get a reward.#
+Defeat monsters#
+17493#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Magnolia^000000 to get a reward.#
+Defeat monsters#
+17494#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Elder Willow^000000 to get a reward.#
+Defeat monsters#
+17495#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Goblin^000000 to get a reward.#
+Defeat monsters#
+17496#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Desert Wolf^000000 to get a reward.#
+Defeat monsters#
+17497#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Hill Wind^000000 to get a reward.#
+Defeat monsters#
+17498#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Roween^000000 to get a reward.#
+Defeat monsters#
+17499#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Kobold^000000 to get a reward.#
+Defeat monsters#
+17500#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Kobold Archer^000000 to get a reward.#
+Defeat monsters#
+17501#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Anacondaq^000000 to get a reward.#
+Defeat monsters#
+17502#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Roween^000000 to get a reward.#
+Defeat monsters#
+17503#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Dryad^000000 to get a reward.#
+Defeat monsters#
+17504#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Wootan Fighter^000000 to get a reward.#
+Defeat monsters#
+17505#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Parasite^000000 to get a reward.#
+Defeat monsters#
+17506#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Wild Rose^000000 to get a reward.#
+Defeat monsters#
+17507#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Galion^000000 to get a reward.#
+Defeat monsters#
+17508#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Drosera^000000 to get a reward.#
+Defeat monsters#
+17509#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Magmaring^000000 to get a reward.#
+Defeat monsters#
+17510#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Muscipular^000000 to get a reward.#
+Defeat monsters#
+17511#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Stapo^000000 to get a reward.#
+Defeat monsters#
+17512#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Geographer^000000 to get a reward.#
+Defeat monsters#
+17513#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Sleeper^000000 to get a reward.#
+Defeat monsters#
+17514#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Harpy^000000 to get a reward.#
+Defeat monsters#
+17515#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Geographer^000000 to get a reward.#
+Defeat monsters#
+17516#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Sleeper^000000 to get a reward.#
+Defeat monsters#
+17517#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Goat^000000 to get a reward.#
+Defeat monsters#
+17518#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
+You and Pirate have come to an agreement. Kill 500 ^000077Geographer^000000 to get a reward.#
+Defeat monsters#
