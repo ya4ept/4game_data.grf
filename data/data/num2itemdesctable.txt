@@ -56672,3 +56672,15 @@ Recovers 100 HP every 5 sec for 100 sec.
 ^777777_^000000
 Weight: ^77777710^000000
 #
+9922#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+31203#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19768#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+19815#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#

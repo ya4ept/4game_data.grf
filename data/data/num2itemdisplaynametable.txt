@@ -7090,7 +7090,6 @@
 25199#Red Crystal Fragment#
 23117#Songkran Egg2016#
 23118#Red Crystal Chunk#
-19815#Cap#
 19969#Hairband#
 
 //------------------EXTREME----------------------
@@ -8249,3 +8248,8 @@
 5924#Hat#
 12131#Bottle of Rum#
 12400#Cup of Life#
+
+9922#Oktoberfest Treasure#
+31203#Hat#
+19768#Hat#
+19815#Hat#

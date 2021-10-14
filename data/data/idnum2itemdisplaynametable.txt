@@ -7131,7 +7131,6 @@
 25199#Red Crystal Fragment#
 23117#Songkran Egg2016#
 23118#Red Crystal Chunk#
-19815#Costume Lolita Tengallon Hat#
 19969#Costume Blazing Spirit#
 
 //------------------EXTREME----------------------
@@ -9343,3 +9342,8 @@
 5924#Pirate Eyepatch#
 12131#Bottle of Rum#
 12400#Cup of Life#
+
+9922#Oktoberfest Treasure#
+31203#Festive Brazier#
+19768#Cherry Wreath#
+19815#Party Broadbrim#

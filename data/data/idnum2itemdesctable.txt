@@ -66284,13 +66284,6 @@ Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
-19768#
-A pink flowered wreath.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
-#
 19769#
 A headgear looks like the ears of a mischievous fairy.
 Class: ^777777Costume^000000
@@ -91360,11 +91353,6 @@ Weight: ^7777771^000000
 ^ff0000Account Bound.^000000
 Old worn cocked hat with the skull emblem.
 On the lining you see the embroidered words: 'Clothes and deeds make the man'.
-LUK +10.
-Damage against Fish and Undead monsters +20%.
-Physical weapon damage against normal monsters and players +5%.
-Skill delay -10%.
-^ff0000[Effects are active only during the event (until October 13, 2021).]^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
 Defense: ^7777770^000000
@@ -91376,11 +91364,7 @@ Jobs: ^777777All^000000
 ^ff0000Account Bound.^000000
 A scarlet silk eyepatch with adjustable strap.
 Decorated with images of a winged skull and two crossed bones.
-EXP from monsters +15%.
-SP consumption -10%.
-HIT +15.
-^ff0000[Effects are active only during the event (until October 13, 2021).]^000000
-Class: ^777777Costume^000000
+Class: ^777777Headgear^000000
 Location: ^777777Middle^000000
 Defense: ^7777770^000000
 Weight: ^7777770^000000
@@ -91407,4 +91391,80 @@ Casts [Assumptio] Lv. 5 for 100 sec.
 Recovers 100 HP every 5 sec for 100 sec.
 ^777777_^000000
 Weight: ^77777710^000000
+#
+9922#
+Welcome to Oktoberfest, the largest and wildest Volksfest ever!
+Let the pork sausages sizzle and smoke on the fire, let the foam flow like a river! Ein Prosit!
+Open the box and receive one of the following items:
+Sillit Pong
+Snack Aura
+Silvervine x1000
+Elder Demon's Horns
+Picnic Basket
+Valhalla Chaplet
+Festive Brazier
+HE Elunium
+HE Oridecon
+Inf. Giant Fly Wing Box (1 h.)
+Rabbit Bonnet
+Cake Pillow
+Cherry Wreath
+Party Broadbrim
+Bubblegum Battle Manual x2
+Secret Medicine x2
+HE Battle Manual x2
+HE Bubble Gum x2
+Steamed Tongue x7
+Convex Mirror x7
+Mental Potion x8
+Bloody Branch x2
+Life Insurance x6
+AGI Biscuit Stick x4
+DEX Biscuit Stick x4
+INT Biscuit Stick x4
+LUK Biscuit Stick x4
+STR Biscuit Stick x4
+VIT Biscuit Stick x4
+Token of Ziegfried x6
+Megaphone x6
+Guarana Candy x7
+Riesen Brezel x15
+Giant Fly Wing x6
+ASPD Potion x11
+Guyak Candy x33
+WoE Teleport Scroll x15
+Guyak Pudding x25
+Superb Fish Slice x25
+^777777_^000000
+Weight: ^7777771^000000
+#
+31203#
+A portable oven with hot coals.
+On Oktoberfest, many celebrators bring braziers to grill spicy sausages.
+Class: ^777777Costume^000000
+Location: ^777777Middle^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19768#
+A wreath made of cherry blossoms.
+Decorated with two red silk ribbons.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
+#
+19815#
+An elegant and expensive wide-brimmed hat.
+Decorated with a lace pink ribbon and a star badge.
+Class: ^777777Costume^000000
+Location: ^777777Upper^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All^000000
 #
