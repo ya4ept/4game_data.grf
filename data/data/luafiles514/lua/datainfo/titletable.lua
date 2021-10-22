@@ -70,7 +70,18 @@ title_tbl = {
 	[5023] = "Kiss of Skadi",
 	[5024] = "Haunter",
 	[5025] = "Sharpshooter",
-	[5026] = "Cold-blooded"
+	[5026] = "Cold-blooded",
+	[5027] = "Stuck",
+	[5028] = "Ghost",
+	[5029] = "Devil",
+	[5030] = "Angel",
+	[5031] = "Archangel",
+	[5032] = "Poring Hunter",
+	[5033] = "Poring Destroyer",
+	[5034] = "Viscount",
+	[5035] = "Earl",
+	[5036] = "Baron",
+	[5037] = "Investigator"
 }
 
 -- Function #0

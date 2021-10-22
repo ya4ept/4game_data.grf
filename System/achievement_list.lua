@@ -6293,6 +6293,468 @@ achievement_tbl = {
 		resource = { [1] = { text = "Kill 50 players in PVP", count = 50 } },
 		reward = { item = 12769, title = 5026 },
 		score = 10
+	},
+	[501094] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Crusher",
+		content = {
+			summary = "Kill Poring 100 times",
+			details = "Kill Poring 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Poring", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501095] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Annihilator",
+		content = {
+			summary = "Kill Poring 500 times",
+			details = "Kill Poring 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Poring", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501096] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poporing Crusher",
+		content = {
+			summary = "Kill Poporing 100 times",
+			details = "Kill Poporing 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Poporing", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501097] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poporing Annihilator",
+		content = {
+			summary = "Kill Poporing 500 times",
+			details = "Kill Poporing 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Poporing", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501098] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Marin Crusher",
+		content = {
+			summary = "Kill Marin 100 times",
+			details = "Kill Marin 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Marin", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501099] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Marin Annihilator",
+		content = {
+			summary = "Kill Marin 500 times",
+			details = "Kill Marin 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Marin", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501100] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Drops Crusher",
+		content = {
+			summary = "Kill Drops 100 times",
+			details = "Kill Drops 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Drops", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501101] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Drops Annihilator",
+		content = {
+			summary = "Kill Drops 500 times",
+			details = "Kill Drops 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Drops", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501102] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Metalling Crusher",
+		content = {
+			summary = "Kill Metallings 100 times",
+			details = "Kill Metallings 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Metallings", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501103] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Metalling Annihilator",
+		content = {
+			summary = "Kill Metallings 500 times",
+			details = "Kill Metallings 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Metallings", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501104] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Stapo Crusher",
+		content = {
+			summary = "Kill Stapo 100 times",
+			details = "Kill Stapo 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Stapo", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501105] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Stapo Annihilator",
+		content = {
+			summary = "Kill Stapo 500 times",
+			details = "Kill Stapo 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Stapo", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501106] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Blazzer Crusher",
+		content = {
+			summary = "Kill Blazzer 100 times",
+			details = "Kill Blazzer 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Blazzer", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501107] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Blazzer Annihilator",
+		content = {
+			summary = "Kill Blazzer 500 times",
+			details = "Kill Blazzer 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Blazzer", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501108] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Magmaring Crusher",
+		content = {
+			summary = "Kill Magmaring 100 times",
+			details = "Kill Magmaring 100 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Magmaring", count = 100 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501109] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Magmaring Annihilator",
+		content = {
+			summary = "Kill Magmaring 500 times",
+			details = "Kill Magmaring 500 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Magmaring", count = 500 } },
+		reward = { item = 14668 },
+		score = 10
+	},
+	[501110] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Mastering Researcher",
+		content = {
+			summary = "Kill Mastering 1 time",
+			details = "Kill Mastering 1 time.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Mastering", count = 1 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501111] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Mastering Subjugator",
+		content = {
+			summary = "Kill Mastering 5 times",
+			details = "Kill Mastering 5 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Mastering", count = 5 } },
+		reward = { item = 14668, title = 5027 },
+		score = 10
+	},
+	[501112] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Ghostring Researcher",
+		content = {
+			summary = "Kill Ghostring 1 time",
+			details = "Kill Ghostring 1 time.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Ghostring", count = 1 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501113] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Ghostring Subjugator",
+		content = {
+			summary = "Kill Ghostring 5 times",
+			details = "Kill Ghostring 5 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Ghostring", count = 5 } },
+		reward = { item = 14668, title = 5028 },
+		score = 10
+	},
+	[501114] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Deviling Researcher",
+		content = {
+			summary = "Kill Deviling 1 time",
+			details = "Kill Deviling 1 time.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Deviling", count = 1 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501115] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Deviling Subjugator",
+		content = {
+			summary = "Kill Deviling 5 times",
+			details = "Kill Deviling 5 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Deviling", count = 5 } },
+		reward = { item = 14668, title = 5029 },
+		score = 10
+	},
+	[501116] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Angeling Researcher",
+		content = {
+			summary = "Kill Angeling 1 time",
+			details = "Kill Angeling 1 time.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Angeling", count = 1 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501117] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Angeling Subjugator",
+		content = {
+			summary = "Kill Angeling 5 times",
+			details = "Kill Angeling 5 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Angeling", count = 5 } },
+		reward = { item = 14668, title = 5030 },
+		score = 10
+	},
+	[501118] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Archangeling Researcher",
+		content = {
+			summary = "Kill Arc Angeling 1 time",
+			details = "Kill Arc Angeling 1 time.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Arc Angeling", count = 1 } },
+		reward = { item = 14640 },
+		score = 10
+	},
+	[501119] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Archangeling Subjugator",
+		content = {
+			summary = "Kill Arc Angeling 5 times",
+			details = "Kill Arc Angeling 5 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill Arc Angeling", count = 5 } },
+		reward = { item = 14668, title = 5031 },
+		score = 10
+	},
+	[501120] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Hunter",
+		content = {
+			summary = "Take part in hunt.",
+			details = "Take part in hunt.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = {
+			[1] = { text = "Kill 100 Poring" },
+			[2] = { text = "Kill 100 Poporing" },
+			[3] = { text = "Kill 100 Marin" },
+			[4] = { text = "Kill 100 Drops" }
+		},
+		reward = { item = 18633, title = 5032 },
+		score = 10
+	},
+	[501121] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Destroyer",
+		content = {
+			summary = "Poring Destroyer.",
+			details = "Take part in hunt.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = {
+			[1] = { text = "Kill 100 Poring" },
+			[2] = { text = "Kill 100 Poporing" },
+			[3] = { text = "Kill 100 Marin" },
+			[4] = { text = "Kill 100 Drops" },
+			[5] = { text = "Kill 100 Metallings" },
+			[6] = { text = "Kill 100 Stapo" },
+			[7] = { text = "Kill 100 Blazzer" },
+			[8] = { text = "Kill 100 Magmaring" }
+		},
+		reward = { item = 31688, title = 5033 },
+		score = 10
+	},
+	[501122] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Patron",
+		content = {
+			summary = "Kill player 5 times",
+			details = "Kill player in PVP.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill players in PVP", count = 5 } },
+		reward = { item = 14640, title = 5034 },
+		score = 10
+	},
+	[501123] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Defender",
+		content = {
+			summary = "Kill player 20 times",
+			details = "Kill player in PVP.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill players in PVP", count = 20 } },
+		reward = { item = 14640, title = 5035 },
+		score = 10
+	},
+	[501124] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poring Guard",
+		content = {
+			summary = "Kill player 50 times",
+			details = "Kill player in PVP.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Kill players in PVP", count = 50 } },
+		reward = { item = 14668, title = 5036 },
+		score = 10
+	},
+	[501125] = {
+		UI_Type = 1,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 0,
+		title = "Curious one",
+		content = {
+			summary = "Consume Strawberry Cream Cake",
+			details = "Consume Strawberry Cream Cake 5 times.\nThe event 'Poring Hunt' [19.10.2021 - 26.10.2021]"
+		},
+		resource = { [1] = { text = "Consume Strawberry Cream Cake 5 times", count = 5 } },
+		reward = { item = 14640, title = 5037 },
+		score = 10
 	}
 }
 
