@@ -86581,10 +86581,6 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-9922#
-It seems to contain content related to the origin of the element.
-Weight : ^7777771^000000
-#
 23009#
 ^ff0000Account bound^000000
 Job Exp rate +50% for 24 hours to all the characters in the same world.
