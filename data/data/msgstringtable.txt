@@ -592,7 +592,7 @@ You have been knocked down by %s.#
 Feed - `%s' is not available.#
 Feed Pet#
 Performance#
-Return to Egg Shell#
+Return to Egg Shell (Autofeed off)#
 Unequip Accessory#
 Check the Pet Status#
 Accessory#

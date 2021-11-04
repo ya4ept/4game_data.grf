@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-19b1e2a05f9592540169d1106feba5c8 *data.grf
+ef0c9dcbf320f4949360c6f98eb1c3c1 *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -38,7 +38,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 5de76ae92bc5f506f699d9d5f71a4a12 *Frost\frostinfo.txt
-5049951d5442b5d38e09f7f279d7dc8d *Frost\frostInit.log
+dae22531fd0729bd5839d3b642cbe227 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 28e16ecc90fa38d92f3ae36f494e4c55 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -46,7 +46,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 076d8a97864b432368addec9b2066445 *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-bfe4a5dfd485c251e58d980610019c64 *Frost\launcherUpdater.log
+8834df23ef1a26126309603106046203 *Frost\launcherUpdater.log
 15c1e94cfc4ba15099f32d17a8403e74 *Frost\ro.exe
 2972a25cdc6c9b76e2623c97fa9765e0 *Frost\.inn.meta.dir\.inn.cache.txt
 2972a25cdc6c9b76e2623c97fa9765e0 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -55,15 +55,15 @@ cb04b36300ea8e987d5bcbcf54c904a4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 fc12a994da29e953a418d143cb497794 *Frost\.inn.meta.dir\.inn.version.3.0.0.43.control.txt
 edc9264ac3c9be8d65b9ae99d4ae63e0 *gameManager\gameManager.exe
 5d7eed4dc38d2485fc23cee4f449d905 *gameManager\gameManager.pdb
-a36b2522eada7bad870e69491c744eff *gameManager\log.log
-81dababd41d1672d5ac5ddabdf5186c2 *System\achievement_list.lub
+465abb72732f636f14b09a9f15ab8cd2 *gameManager\log.log
+ba103d66f294b491dbfba6a786d30890 *System\achievement_list.lub
 26de7fa3f0208439ab903eef07f58ba9 *System\checkattendance.lub
-a94745ae749758e83298fb3ac29df736 *System\iteminfo.lub
+5b07c1ce47cd26a1d26ea05df35d99a2 *System\iteminfo.lub
 070f3d654f1cd8663f5bcc80eba51ce5 *System\monster_size_effect.lub
 5fde27f0179ff3af4343a6eeca13d1cf *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
 c171ba082bc4ba94c221c7d66f569dc7 *System\optioninfo.lub
-14b3ad7ce1052eae2a826b8d7c003636 *System\petevolutioncln.lub
+7f88b9528f825088757ddf894ec33224 *System\petevolutioncln.lub
 ae0022f989b2c50a51b4226e37a43ba0 *System\towninfo.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub
 01b292af47edea89613314d96aca54e8 *System\LuaFiles514\OptionInfo.lub

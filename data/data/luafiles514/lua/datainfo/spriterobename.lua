@@ -104,7 +104,19 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
 	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing",
 	[SPRITE_ROBE_IDs.ROBE_C_Giant_Shark] = "C_Giant_Shark",
-	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream"
+	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream",
+	[SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key] = "C_Niflheim_Key",
+	[SPRITE_ROBE_IDs.ROBE_Striking_Mikoshi] = "Striking_Mikoshi",
+	[SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival] = "C_Samba_Carnival",
+	[SPRITE_ROBE_IDs.ROBE_C_Nydhog_Rumor] = "C_Nydhog_Rumor",
+	[SPRITE_ROBE_IDs.ROBE_C_G_DaeHyon_Sword_TW] = "C_G_DaeHyon_Sword_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Hooked_Straw_Hat] = "C_Hooked_Straw_Hat",
+	[SPRITE_ROBE_IDs.ROBE_C_Beer_Server] = "C_Beer_Server",
+	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
+	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy",
+	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set",
+	[SPRITE_ROBE_IDs.ROBE_C_Vietnam_flag_hood] = "C_Vietnam_flag_hood"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -212,7 +224,19 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
 	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing",
 	[SPRITE_ROBE_IDs.ROBE_C_Giant_Shark] = "C_Giant_Shark",
-	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream"
+	[SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key] = "C_Niflheim_Key",
+	[SPRITE_ROBE_IDs.ROBE_Striking_Mikoshi] = "Striking_Mikoshi",
+	[SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival] = "C_Samba_Carnival",
+	[SPRITE_ROBE_IDs.ROBE_C_Nydhog_Rumor] = "C_Nydhog_Rumor",
+	[SPRITE_ROBE_IDs.ROBE_C_G_DaeHyon_Sword_TW] = "C_G_DaeHyon_Sword_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Hooked_Straw_Hat] = "C_Hooked_Straw_Hat",
+	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream",
+	[SPRITE_ROBE_IDs.ROBE_C_Beer_Server] = "C_Beer_Server",
+	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
+	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy",
+	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set",
+	[SPRITE_ROBE_IDs.ROBE_C_Vietnam_flag_hood] = "C_Vietnam_flag_hood"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -240,6 +264,14 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Blessed_Veil,
 	SPRITE_ROBE_IDs.ROBE_C_Giant_White_Rabbit,
 	SPRITE_ROBE_IDs.ROBE_C_Poring_Basket,
+	SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream,
+	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key,
 	SPRITE_ROBE_IDs.ROBE_C_Giant_Shark,
-	SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream
+	SPRITE_ROBE_IDs.ROBE_C_Hooked_Straw_Hat,
+	SPRITE_ROBE_IDs.ROBE_C_Scepter,
+	SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU,
+	SPRITE_ROBE_IDs.ROBE_C_School_Bag_BU,
+	SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival,
+	SPRITE_ROBE_IDs.ROBE_C_Filir_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set
 }
