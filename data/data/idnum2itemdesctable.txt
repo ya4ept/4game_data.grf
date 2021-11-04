@@ -62563,13 +62563,6 @@ Weight: ^7777771^000000
 A hat box that contains a random headgear when opened
 Weight: ^7777771^000000
 #
-11550#
-^ff0000Account bound^000000
-A cake made from smashed moist pumpkin.
-Restores ^00008810% HP/SP^000000.
-^ffffff_^000000
-Weight: ^7777773^000000
-#
 11592#
 ^ff0000Account bound^000000
 Your mother definitely told you not to take candies from strangers. But the Masked man is your good friend, is he? Sure he is!
@@ -74271,53 +74264,10 @@ ATK + 1%
 29031#
 MATK + 1%
 #
-9101#
-^808080An egg where the cute pet Scatleton is sleeping.^000000
-^FF0000Once the pet egg has been named, it can never be undone. This is marked by a Beloved prefix.^000000
-^FFFFFF_^000000
-Type: Monster Egg
-Weight: 0
-Food Required: ITEM
-^FFFFFF_^000000
-^800080While Summoned^000000
-Increases the recovery rate of ^008080ITEM^000000 consumables by 100%.
-#
-10040#
-^808080A red necklace with a pretty bell. It will go well with a small animal.^000000
-^FFFFFF_^000000
-Type: Pet Equipment
-Weight: 0
-Required Monster: Scatleton
-#
-20397#
-^808080A helmet that can transform you into Jakk. It is so precise that even Jakk占쏙옙s friends are tricked. The way it is produced is confidential...^000000
-^FFFFFF_^000000
-Type: Headgear
-Position: Middle, Lower
-Defense: 0
-Weight: 0
-Required Level: 1
-Jobs: All Jobs
-^FFFFFF_^000000
-Adds a 3.1% chance of transforming into Jakk for 10 seconds when receiving a physical or magical attack.
-#
-25245#
-^808080There are small bones that seem to belong to a small animal. Among the bones, there is a necklace with a red bell.^000000
-^FF0000Account Bound^000000
-^FFFFFF_^000000
-Weight: 0
-#
 25133#
 ^808080Clean and dry stem. Suitable as a Halloween decoration!^000000
 ^FFFFFF_^000000
 Weight: 0
-#
-11605#
-^ff0000Account bound^000000
-A crispy cookie with chocolate drops. Take care as it may fly away the moment you try to take a bite!
-Restores ^000088about 300 HP and 50 SP^000000.
-^FFFFFF_^000000
-Weight: ^7777773^000000
 #
 25132#
 ^ff0000Account bound^000000
@@ -84856,7 +84806,7 @@ The main measures to combat the epidemy are:
 Weight: ^7777770^000000
 #
 19634#
-^ff0000Account bound.^000000
+^ff0000Character Bound.^000000
 Terms of use:
 - wash your hands before putting on a mask
 - use the mask no longer than 2-3 hours
@@ -84864,15 +84814,40 @@ Terms of use:
 - dispose used mask immediately
 - don't reuse it
 - if you touched the mask while removing it - wash your hands or clean them up with sanitizer.
+"^777777-------------^000000
+EXP from monsters +5%.
+Damage against Virus +1000%.		
+^777777-------------^000000
+^ff0000[Effects are active only during the 'Fight the Virus' event]^000000
+^777777-------------^000000
 Class: ^777777Costume^000000
-Location: ^777777Headgear (Upper)^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31052#
-^ff0000Account bound.^000000
+^ff0000Character Bound.^000000
 Personal protective equipment. Remember that in real life such masks are used my medical staff in strict accordance with instructions.
+^777777-------------^000000
+EXP from monsters +15%.
+Damage against Virus +2000%.
+^777777-------------^000000
+^6A5ACD[For every 2 refine levels]^000000
+EXP from monsters +1%.
+Max HP/SP +1%.
+^777777-------------^000000
+^6A5ACD[If refine level is +10]^000000
+Movement speed +100%.
+Damage from Demi-Humans -10%.
+^777777-------------^000000
+^6A5ACD[If refine level is +15]^000000
+EXP from monsters +2%.
+All Stats +2.
+Damage against Demi-Humans +5%.
+^777777-------------^000000
+^ff0000[Effects are active only during the 'Fight the Virus' event]^000000
+^777777-------------^000000",
 Class: ^777777Costume^000000
 Location: ^777777Headgear (Upper, middle, lower)^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
@@ -91463,4 +91438,115 @@ Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+20397#
+^ff0000Account Bound.^000000
+^777777-------------^000000
+Type: ^777777Costume^000000
+Position: ^777777Middle, Lower^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
+20394#
+^ff0000Account Bound.^000000
+Although Jack has no legs, he can walk more than any other pumpkin... Right on your head!
+^777777-------------^000000
+Type: ^777777Costume^000000
+Position: ^777777Middle, Lower^000000
+Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
+10040#
+^ff0000Account Bound^000000
+Red necklace with a bell for a small animal.
+^777777-------------^000000
+Type: ^777777Pet Equipment^000000
+Weight: ^7777770^000000
+Required Pet: ^777777Skellity^000000
+#
+10042#
+^ff0000Account Bound^000000
+A cool looking dark mane, you will feel like a true king.
+^777777-------------^000000
+Class: ^777777Pet Accessory^000000
+Weight: ^7777770^000000
+Required Pet: ^777777Skelion^000000
+#
+11605#
+^ff0000Account bound^000000
+A crispy cookie with chocolate drops. Take care as it may fly away the moment you try to take a bite!
+Restores ^000088about 300 HP and 50 SP^000000.
+^FFFFFF_^000000
+Weight: ^7777773^000000
+#
+11550#
+^ff0000Account bound^000000
+A cake made from smashed moist pumpkin.
+Restores ^00008810% HP/SP^000000.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+9101#
+^ff0000Account Bound^000000
+An egg where the cute pet Scatleton is sleeping.
+Once the pet egg has been named, it can never be undone. This is marked by a Beloved prefix.
+^777777-------------^000000
+Type: ^777777Pet^000000
+Weight: ^7777770^000000
+Food Required: ^777777Fresh Fish^000000
+Evolves to: ^777777Skelion^000000
+^777777-------------^000000
+^800080[Skellity]^000000
+Increases the recovery rate of ^008080Fresh Fish^000000 consumables by 25%.
+#
+9113#
+^ff0000Account Bound^000000
+An egg in which a cute Skelion pet rests.
+This can be hatched using a ^008080Pet Incubator^000000.
+^777777-------------^000000
+Type: ^777777Pet^000000
+Weight: ^7777770^000000
+Food Required: ^777777Yummy Meat^000000
+^777777-------------^000000
+^800080[Skelion]^000000
+Increases the recovery rate of ^008080Fresh Fish^000000 consumables by 50%.
+#
+25245#
+^ff0000Character Bound.^000000
+There are small bones that seem to belong to a small animal.
+Among the bones, there is a necklace with a red bell.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25422#
+^ff0000Character Bound.^000000
+A whitened old oak branch.
+Ideal for decorating Jack'o'Lanterns.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25401#
+^ff0000Character Bound.^000000
+Part of the hairline. An ominous energy is felt.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25408#
+^ff0000Character Bound.^000000
+A bit of memory of Skelion, the most powerful feline in the Valley of the Dead.
+Through the translucent shell, you can see some of the shapes and outlines.
+An item for Skellity's evolution.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25421#
+^ff0000Character Bound.^000000
+An irreplaceable decoration for Halloween!
+You can make the atmosphere even more creepy by lighting a candle inside.
+^777777-------------^000000
+Weight: ^7777770^000000
 #

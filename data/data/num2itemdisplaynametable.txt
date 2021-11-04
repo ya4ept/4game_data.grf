@@ -6206,7 +6206,6 @@
 19919#Mask#
 19920#Mask#
 19903#Helm#
-11550#Pumpkin Cake#
 22514#Candy Holder#
 18539#Hat#
 18516#Helmet#
@@ -6856,7 +6855,6 @@
 //-------------------Halloween Event 2015--------------
 
 25133#Dried White Stem#
-11605#Bat Cookie#
 
 //-------------------Costama Halloween 2--------------
 
@@ -7150,10 +7148,6 @@
 5786#Accessory#
 
 //2016 halloween event
-9101#Portable cage for Scatleton#
-10040#Accessory#
-20397#Festival Mask#
-25245#Small pile of bones#
 25133#Dry White Stem#
 
 17746#Siege Blue Supply Box#
@@ -8253,3 +8247,17 @@
 31203#Hat#
 19768#Hat#
 19815#Hat#
+
+20397#Helm#
+20394#Hat#
+10040#Red Collar#
+10042#Dark Mane#
+11605#Bat Cookie#
+11550#Pumpkin Cake#
+9101#Skellity Egg#
+9113#Skelion Egg#
+25245#Small pile of bones#
+25422#White Thin Stem#
+25401#Black Fur#
+25408#Memory of Skelion#
+25421#Jack'o'Lantern#

@@ -93,7 +93,7 @@ PetNameTable = {
 	[jobtbl.JT_DIABOLIC2] = "diabolic2",
 	[jobtbl.JT_TEDDY_BEAR] = "teddy_bear",
 	[jobtbl.JT_GREMLIN] = "gremlin",
-	[jobtbl.JT_SCATLETON] = "scatleton"
+	[jobtbl.JT_SCATLETON] = "Skellity"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "Жк_№ЩЖчёЮЖ®.bmp",

@@ -50401,8 +50401,6 @@ MATK + 1%.
 #
 9101#
 An egg where the Qpet Scatleton is sleeping. You can wake up the sleeping monster using [Portable Egg Incubator].
-Increase 1031% healing effect for Delicious Fish, during the event period.
-The option will be removed after Halloween event period.
 Type: Monster egg
 #
 10040#
@@ -56683,4 +56681,100 @@ An unknown item that requires appraisal. It can be identified by using a ^008080
 #
 19815#
 An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20397#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+20394#
+An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.
+#
+10040#
+^ff0000Account Bound^000000
+Red necklace with a bell for a small animal.
+^777777-------------^000000
+Type: ^777777Pet Equipment^000000
+Weight: ^7777770^000000
+Required Pet: ^777777Skellity^000000
+#
+10042#
+^ff0000Account Bound^000000
+A cool looking dark mane, you will feel like a true king.
+^777777-------------^000000
+Class: ^777777Pet Accessory^000000
+Weight: ^7777770^000000
+Required Pet: ^777777Skelion^000000
+#
+11605#
+^ff0000Account bound^000000
+A crispy cookie with chocolate drops. Take care as it may fly away the moment you try to take a bite!
+Restores ^000088about 300 HP and 50 SP^000000.
+^FFFFFF_^000000
+Weight: ^7777773^000000
+#
+11550#
+^ff0000Account bound^000000
+A cake made from smashed moist pumpkin.
+Restores ^00008810% HP/SP^000000.
+^ffffff_^000000
+Weight: ^7777773^000000
+#
+9101#
+^ff0000Account Bound^000000
+An egg where the cute pet Scatleton is sleeping.
+Once the pet egg has been named, it can never be undone. This is marked by a Beloved prefix.
+^777777-------------^000000
+Type: ^777777Pet^000000
+Weight: ^7777770^000000
+Food Required: ^777777Fresh Fish^000000
+Evolves to: ^777777Skelion^000000
+^777777-------------^000000
+^800080[Skellity]^000000
+Increases the recovery rate of ^008080Fresh Fish^000000 consumables by 25%.
+#
+9113#
+^ff0000Account Bound^000000
+An egg in which a cute Skelion pet rests.
+This can be hatched using a ^008080Pet Incubator^000000.
+^777777-------------^000000
+Type: ^777777Pet^000000
+Weight: ^7777770^000000
+Food Required: ^777777Yummy Meat^000000
+^777777-------------^000000
+^800080[Skelion]^000000
+Increases the recovery rate of ^008080Fresh Fish^000000 consumables by 50%.
+#
+25245#
+^ff0000Character Bound.^000000
+There are small bones that seem to belong to a small animal.
+Among the bones, there is a necklace with a red bell.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25422#
+^ff0000Character Bound.^000000
+A whitened old oak branch.
+Ideal for decorating Jack'o'Lanterns.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25401#
+^ff0000Character Bound.^000000
+Part of the hairline. An ominous energy is felt.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25408#
+^ff0000Character Bound.^000000
+A bit of memory of Skelion, the most powerful feline in the Valley of the Dead.
+Through the translucent shell, you can see some of the shapes and outlines.
+An item for Skellity's evolution.
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+25421#
+^ff0000Character Bound.^000000
+An irreplaceable decoration for Halloween!
+You can make the atmosphere even more creepy by lighting a candle inside.
+^777777-------------^000000
+Weight: ^7777770^000000
 #

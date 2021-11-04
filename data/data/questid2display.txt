@@ -22923,3 +22923,131 @@ Defeat monsters#
 17518#Pirate's Pact#SG_FEEL#QUE_NOIMAGE#
 You and Pirate have come to an agreement. Kill 500 ^000077Geographer^000000 to get a reward.#
 Defeat monsters#
+
+11498#Single Jack#SG_FEEL#QUE_NOIMAGE#
+Waking up to the whispering of ghosts, I found myself in Niflheim, the city of the dead. Let's listen to ghost stories. #
+Talk to Horro#
+
+11499#Single Jack#SG_FEEL#QUE_NOIMAGE#
+They say that Jack got lost somewhere in the square. Need to find Jack.#
+Find Jack#
+
+11500#Single Jack#SG_FEEL#QUE_NOIMAGE#
+I heard about the place where Jack was. Back to Fry. #
+Talk to Fry#
+
+11501#Jack's Recovery#SG_FEEL#QUE_NOIMAGE#
+Catch 10 Evil Jacks somewhere in a field or dungeon and bring 10 Jack'o'Lanterns and 20 White Thin Stems to Horro.#
+Search for Evil Jacks#
+
+11502#Jack's Recovery#SG_FEEL#QUE_NOIMAGE#
+The capture of the Evil Jacks in Niflheim went well. According to the ghosts, if Jack attaches branches too often, they can grow back. #
+Come back tomorrow#
+
+11503#Jack's Recovery#SG_FEEL#QUE_NOIMAGE#
+Catch 10 Evil Jacks somewhere in a field or dungeon and bring 10 Jack'o'Lanterns and 20 White Thin Stems to Horro.#
+Search for Evil Jacks#
+
+11504#Jack's Recovery#SG_FEEL#QUE_NOIMAGE#
+Jack can't find his own body. Help him bringing 1 ^FF0000White Thin Stem^000000.#
+Bring White Thin Stem#
+
+11505#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+When Jack was caught, it turned out that his pet was missing. Ask Sleepwalker, Jack saw him nearby.#
+Talk to a Sleepwalker#
+
+11506#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+They say that the person at the entrance could see the cat. Talk to Lamia at the west entrance to Niflheim. #
+Talk to Lamia#
+
+11507#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+It is not clear whether it is a cat or not, but they say that recently a white, small and fast object flew through the entrance. Ask Jack at the west entrance of Niflheim. #
+Talk to Screaming Jack#
+
+11508#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+Screaming Jack confirmed that he saw someone. I need to tell Jack about this.#
+Tell Jack#
+
+11509#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+It looks like Jack's cat went through the Yggdrasil tree to Midgard. The people of Umbala and Morrok should know about this.#
+Explore the north of Umbala#
+
+11510#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+The researcher said that he saw something flying in the direction of Alberta. It's worth finding out about it in Morroc.#
+Explore Morroc#
+
+11511#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+They say that the merchant showed someone the way to Alberta. Explore the northern entrance to Alberta.#
+Explore Alberta#
+
+11512#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+They say there are a lot of cats in the port trying to catch fish. You need to explore the surroundings of the port.#
+Explore the port#
+
+11513#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+The silhouette of a cat is trying to hint at a pile of ashes next to it.#
+Inspect the ash pile#
+
+11514#Missing Pet#SG_FEEL#QUE_NOIMAGE#
+You found a red collar and small bones that seemed to belong to a small animal. Back to Jack. #
+Back to Jack#
+
+11515#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Jack does not despair and tells you to find his cat here in Niflheim. #
+Find a cat#
+
+11516#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+The cat turned out to be the same Scarie, but he forgot Jack, as he lived the rest of his life without him. #
+Tell Jack#
+
+11517#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Having told Jack, you feel that he expected something else. Heron told you that he saw an unusual tombstone in the center of the valley.#
+Search the Valley of the Dead#
+
+11518#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+You found pets buried in the ground and Scarie among them. He asks to bring him some ^FF0000Black Fur^000000 to keep warm. Black Fur can be obtained by killing Niflheim ^FF0000monsters^000000.#
+Bring 5 Black Fur#
+
+11519#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+I think Scarie is too shocked to talk. Back to Jack.#
+Back to Jack#
+
+11520#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Jack thinks that Scarie has not lived a long life. We need to convince an adult Scarie to tell Jack everything. #
+Talk to Scarie#
+
+11521#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+It looks like Scarie doesn't want to talk to you anymore. Back to Jack. #
+Back to Jack#
+
+11522#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Jack asks to take care of his cat even in the valley of the dead. Collect ^ff000010 White Thin Stem^000000 and bring Scarie. White Thin Stem can be obtained by killing ^FF0000Evil Jacks^000000.#
+Bring Scarie branches#
+
+11523#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Scarie is very hungry and asks to bring him 10 ^FF0000Fresh fish^000000.#
+Bring fish to Scarie#
+
+11524#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Scarie asks for help in restoring his skeleton. Collect ^ff000020 White Thin Stem^000000 and bring Scarie to the valley. White Thin Stem can be obtained by killing ^FF0000Evil Jacks^000000.#
+Bring Scarie branches#
+
+11525#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+You have a very familiar feeling. It's worth talking to an adult Scarie. #
+Adult Scarie#
+
+11526#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+The adult Scarie says that Jack should not know about his existence. He will leave the valley and Niflheim. I need to talk to Jack about this. #
+Talk to Jack#
+
+11527#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+The new toy was made by Jack with your help. He says there's enough toys for a day. #
+Come back tomorrow#
+
+11528#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Jack asks to bring 10 ^FF0000Black Fur^000000 for a new toy for Scarie. Black Fur can be obtained by killing Niflheim ^FF0000monsters^000000.#
+Bring Black Fur#
+
+11529#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
+Jack seems to be upset after our first meeting. Maybe I should talk to him?#
+Talk to Jack#
