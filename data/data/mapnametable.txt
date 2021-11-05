@@ -36,6 +36,8 @@ treasure_n2.rsw#Izlude wreck 2nd floor#
 moc_prydn1.rsw#Пирамида - 1-й уровень (испытание) #
 moc_prydn2.rsw#Пирамида - 2-й уровень (испытание) #
 
+
+
 eclage.rsw#Эрклаж #
 ecl_fild01.rsw#Цветущая земля #
 ecl_in01.rsw#Эрклаж #
@@ -1042,3 +1044,5 @@ era_fild05.rsw#Искажённые земли (160-170)#
 egef_fild08.rsw#Искажённые земли (140-150)#
 elhz_fild01.rsw#Искажённые земли (150-160)#
 eprt_maze03.rsw#Искажённый лабиринт#
+
+mora.rsw#Деревня Мора#
