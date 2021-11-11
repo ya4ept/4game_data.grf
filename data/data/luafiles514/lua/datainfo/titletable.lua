@@ -81,7 +81,23 @@ title_tbl = {
 	[5034] = "Viscount",
 	[5035] = "Earl",
 	[5036] = "Baron",
-	[5037] = "Investigator"
+	[5037] = "Investigator",
+	[5038] = "Lord of Drops",
+	[5039] = "Lord of Scorpions",
+	[5040] = "Lord of Peco",
+	[5041] = "Lord of Yoyo",
+	[5042] = "Lord of Metallers",
+	[5043] = "Lord of Wootan",
+	[5044] = "Grand Lord of Peco",
+	[5045] = "Lord of Goats",
+	[5046] = "Lord of Wolves",
+	[5047] = "Lord of Fire",
+	[5048] = "Hot lover",
+	[5049] = "Fire adept",
+	[5050] = "Fire master",
+	[5051] = "Fire guru",
+	[5052] = "Thrill seeker",
+	[5053] = "Avid foodie"
 }
 
 -- Function #0

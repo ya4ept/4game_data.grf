@@ -6177,7 +6177,7 @@ You found a Mansion Key from the dead Dandelion. Find out what that key is for a
 #
 
 7109#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
-Go south of Rachel and find one of our guild members there. She is waiting to help you get into the mansion.#
+Go far southwest of Rachel and find one of our guild members there. She is waiting to help you get into the mansion.#
 #
 
 7110#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#

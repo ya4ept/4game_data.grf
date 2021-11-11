@@ -6755,6 +6755,491 @@ achievement_tbl = {
 		resource = { [1] = { text = "Consume Strawberry Cream Cake 5 times", count = 5 } },
 		reward = { item = 14640, title = 5037 },
 		score = 10
+	},
+	[501126] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Drops Crusher",
+		content = {
+			summary = "Kill Drops 100 times",
+			details = "Kill Drops 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Drops", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501127] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Drops Slayer",
+		content = {
+			summary = "Kill Drops 500 times",
+			details = "Kill Drops 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Drops", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501128] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Drops",
+		content = {
+			summary = "Kill Drops 5000 times",
+			details = "Kill Drops 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Drops", count = 5000 } },
+		reward = { item = 22886, title = 5038 },
+		score = 10
+	},
+	[501129] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Scorpion Crusher",
+		content = {
+			summary = "Kill Scorpion 100 times",
+			details = "Kill Scorpion 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Scorpion", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501130] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Scorpion Slayer",
+		content = {
+			summary = "Kill Scorpion 500 times",
+			details = "Kill Scorpion 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Scorpion", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501131] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Scorpions",
+		content = {
+			summary = "Kill Scorpion 5000 times",
+			details = "Kill Scorpion 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Scorpion", count = 5000 } },
+		reward = { item = 22886, title = 5039 },
+		score = 10
+	},
+	[501132] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Peco Peco Crusher",
+		content = {
+			summary = "Kill Peco Peco 100 times",
+			details = "Kill Peco Peco 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Peco Peco", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501133] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Peco Peco Slayer",
+		content = {
+			summary = "Kill Peco Peco 500 times",
+			details = "Kill Peco Peco 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Peco Peco", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501134] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Peco",
+		content = {
+			summary = "Kill Peco Peco 5000 times",
+			details = "Kill Peco Peco 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Peco Peco", count = 5000 } },
+		reward = { item = 22886, title = 5040 },
+		score = 10
+	},
+	[501135] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Yoyo Crusher",
+		content = {
+			summary = "Kill Yoyo 100 times",
+			details = "Kill Yoyo 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Yoyo", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501136] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Yoyo Slayer",
+		content = {
+			summary = "Kill Yoyo 500 times",
+			details = "Kill Yoyo 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Yoyo", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501137] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Yoyo",
+		content = {
+			summary = "Kill Yoyo 5000 times",
+			details = "Kill Yoyo 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Yoyo", count = 5000 } },
+		reward = { item = 22886, title = 5041 },
+		score = 10
+	},
+	[501138] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Metaller Crusher",
+		content = {
+			summary = "Kill Metaller 100 times",
+			details = "Kill Metaller 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Metaller", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501139] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Metaller Slayer",
+		content = {
+			summary = "Kill Metaller 500 times",
+			details = "Kill Metaller 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Metaller", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501140] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Metallers",
+		content = {
+			summary = "Kill Metaller 5000 times",
+			details = "Kill Metaller 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Metaller", count = 5000 } },
+		reward = { item = 22886, title = 5042 },
+		score = 10
+	},
+	[501141] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Wootan Fighter Crusher",
+		content = {
+			summary = "Kill Wootan Fighter 100 times",
+			details = "Kill Wootan Fighter 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Wootan Fighter", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501142] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Wootan Fighter Slayer",
+		content = {
+			summary = "Kill Wootan Fighter 500 times",
+			details = "Kill Wootan Fighter 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Wootan Fighter", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501143] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Wootan",
+		content = {
+			summary = "Kill Wootan Fighter 5000 times",
+			details = "Kill Wootan Fighter 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Wootan Fighter", count = 5000 } },
+		reward = { item = 22886, title = 5043 },
+		score = 10
+	},
+	[501144] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Grand Peco Crusher",
+		content = {
+			summary = "Kill Grand Peco 100 times",
+			details = "Kill Grand Peco 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Grand Peco", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501145] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Grand Peco Slayer",
+		content = {
+			summary = "Kill Grand Peco 500 times",
+			details = "Kill Grand Peco 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Grand Peco", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501146] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Grand Lord of Peco",
+		content = {
+			summary = "Kill Grand Peco 5000 times",
+			details = "Kill Grand Peco 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Grand Peco", count = 5000 } },
+		reward = { item = 22886, title = 5044 },
+		score = 10
+	},
+	[501147] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Goat Crusher",
+		content = {
+			summary = "Kill Goat 100 times",
+			details = "Kill Goat 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Goat", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501148] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Goat Slayer",
+		content = {
+			summary = "Kill Goat 500 times",
+			details = "Kill Goat 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Goat", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501149] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Goats",
+		content = {
+			summary = "Kill Goat 5000 times",
+			details = "Kill Goat 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Goat", count = 5000 } },
+		reward = { item = 22886, title = 5045 },
+		score = 10
+	},
+	[501150] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Desert Wolf Crusher",
+		content = {
+			summary = "Kill Desert Wolf 100 times",
+			details = "Kill Desert Wolf 100 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Desert Wolf", count = 100 } },
+		reward = { item = 23619 },
+		score = 10
+	},
+	[501151] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Desert Wolf Slayer",
+		content = {
+			summary = "Kill Desert Wolf 500 times",
+			details = "Kill Desert Wolf 500 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Desert Wolf", count = 500 } },
+		reward = { item = 22886 },
+		score = 10
+	},
+	[501152] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Wolves",
+		content = {
+			summary = "Kill Desert Wolf 5000 times",
+			details = "Kill Desert Wolf 5000 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill Desert Wolf", count = 5000 } },
+		reward = { item = 22886, title = 5046 },
+		score = 10
+	},
+	[501153] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Lord of Fire",
+		content = {
+			summary = "Take part in the hunt.",
+			details = "Take part in the hunt.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = {
+			[1] = { text = "Kill 100 Drops " },
+			[2] = { text = "Kill 100 Scorpion" },
+			[3] = { text = "Kill 100 Peco Peco" },
+			[4] = { text = "Kill 100 Yoyo" },
+			[5] = { text = "Kill 100 Metaller" }
+		},
+		reward = { item = 22886, title = 5047 },
+		score = 10
+	},
+	[501155] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Fire adept",
+		content = {
+			summary = "Kill player 10 times",
+			details = "Kill player in PVP.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill players in PVP", count = 10 } },
+		reward = { item = 23619, title = 5049 },
+		score = 10
+	},
+	[501156] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Fire master",
+		content = {
+			summary = "Kill player 25 times",
+			details = "Kill player in PVP.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill players in PVP", count = 25 } },
+		reward = { item = 23619, title = 5050 },
+		score = 10
+	},
+	[501157] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Fire guru",
+		content = {
+			summary = "Kill player 50 times",
+			details = "Kill player in PVP.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Kill players in PVP", count = 50 } },
+		reward = { item = 22886, title = 5051 },
+		score = 10
+	},
+	[501158] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 0,
+		title = "Hard not to get burned!",
+		content = {
+			summary = "Consume Lava Chicken ",
+			details = "Consume Lava Chicken 5 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Consume Lava Chicken", count = 5 } },
+		reward = { title = 5052 },
+		score = 10
+	},
+	[501159] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 0,
+		title = "Hard not to get burned!",
+		content = {
+			summary = "Consume Fiery Pinagong",
+			details = "Consume Fiery Pinagong 5 times.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = { [1] = { text = "Consume Fiery Pinagong ", count = 5 } },
+		reward = { title = 5053 },
+		score = 10
+	},
+	[501160] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hot lover",
+		content = {
+			summary = "Consume Flamy Food Chest staff.",
+			details = "Consume Flamy Food Chest staff.\nThe event 'Flame Hunt' [11.11.2021 - 17.11.2021]."
+		},
+		resource = {
+			[1] = { text = "Consume Lava Chicken 5 times." },
+			[2] = { text = "Consume Fiery Pinagong 5 times." }
+		},
+		reward = { item = 23619, title = 5048 },
+		score = 10
 	}
 }
 
