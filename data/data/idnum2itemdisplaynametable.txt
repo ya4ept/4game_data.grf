@@ -9355,3 +9355,8 @@
 25401#Black Fur#
 25408#Memory of Skelion#
 25421#Jack'o'Lantern#
+
+22992#Fiery Pinagong#
+23243#Lava Chicken#
+23619#Flamy Food Box#
+22886#Flamy Food Chest#

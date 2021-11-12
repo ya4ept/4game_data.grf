@@ -22924,6 +22924,90 @@ Defeat monsters#
 You and Pirate have come to an agreement. Kill 500 ^000077Geographer^000000 to get a reward.#
 Defeat monsters#
 
+
+17519#Flame Hunt - 100 Drops#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Drops#
+Kill 100 Drops#
+17520#Flame Hunt - 500 Drops#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Drops#
+Kill 500 Drops#
+17521#Flame Hunt - 5000 Drops#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Drops#
+Kill 5000 Drops#
+17522#Flame Hunt - 100 Scorpion #SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Scorpion#
+Kill 100 Scorpion#
+17523#Flame Hunt - 500 Scorpion#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Scorpion#
+Kill 500 Scorpion#
+17524#Flame Hunt - 5000 Scorpion#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Scorpion#
+Kill 5000 Scorpion#
+17525#Flame Hunt - 100 Peco Peco #SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Peco Peco#
+Kill 100 Peco Peco#
+17526#Flame Hunt - 500 Peco Peco#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Peco Peco#
+Kill 500 Peco Peco#
+17527#Flame Hunt - 5000 Peco Peco#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Peco Peco#
+Kill 5000 Peco Peco#
+17528#Flame Hunt - 100 Yoyo#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Yoyo#
+Kill 100 Yoyo#
+17529#Flame Hunt - 500 Yoyo#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Yoyo#
+Kill 500 Yoyo#
+17530#Flame Hunt - 5000 Yoyo#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Yoyo#
+Kill 5000 Yoyo#
+17531#Flame Hunt - 100 Metaller#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Metaller#
+Kill 100 Metaller#
+17532#Flame Hunt - 500 Metaller#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Metaller#
+Kill 500 Metaller#
+17533#Flame Hunt - 5000 Metaller#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Metaller#
+Kill 5000 Metaller#
+17534#Flame Hunt - 100 Wootan Fighter#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Wootan Fighter#
+Kill 100 Wootan Fighter#
+17535#Flame Hunt - 500 Wootan Fighter#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Wootan Fighter#
+Kill 500 Wootan Fighter#
+17536#Flame Hunt - 5000 Wootan Fighter#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Wootan Fighter#
+Kill 5000 Wootan Fighter#
+17537#Flame Hunt - 100 Grand Peco#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Grand Peco#
+Kill 100 Grand Peco#
+17538#Flame Hunt - 500 Grand Peco#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Grand Peco#
+Kill 500 Grand Peco#
+17539#Flame Hunt - 5000 Grand Peco#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Grand Peco#
+Kill 5000 Grand Peco#
+17540#Flame Hunt - 100 Goat#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Goat#
+Kill 100 Goat#
+17541#Flame Hunt - 500 Goat#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Goat#
+Kill 500 Goat#
+17542#Flame Hunt - 5000 Goat#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Goat#
+Kill 5000 Goat#
+17543#Flame Hunt - 100 Desert Wolf#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 100 Desert Wolf#
+Kill 100 Desert Wolf#
+17544#Flame Hunt - 500 Desert Wolf#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 500 Desert Wolf#
+Kill 500 Desert Wolf#
+17545#Flame Hunt - 5000 Desert Wolf#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 5000 Desert Wolf#
+Kill 5000 Desert Wolf#
+
+
 11498#Single Jack#SG_FEEL#QUE_NOIMAGE#
 Waking up to the whispering of ghosts, I found myself in Niflheim, the city of the dead. Let's listen to ghost stories. #
 Talk to Horro#
@@ -23051,3 +23135,4 @@ Bring Black Fur#
 11529#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
 Jack seems to be upset after our first meeting. Maybe I should talk to him?#
 Talk to Jack#
+

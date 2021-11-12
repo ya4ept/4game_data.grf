@@ -56778,3 +56778,43 @@ You can make the atmosphere even more creepy by lighting a candle inside.
 ^777777-------------^000000
 Weight: ^7777770^000000
 #
+22992#
+^ff0000Account bound.^000000
+A type of pinagong bread roll, also known as 'turtle bread'.
+The chefs bake these buns on the Heaters' shells.
+^777777-------------^000000
+Recovers 10% HP and SP.
+Casts 'Endow Blaze' 1 lv.
+^777777-------------^000000
+Weight: ^7777771^000000
+#
+23243#
+^ff0000Account bound.^000000
+A chicken drumstick grilled and glazed with a ginger-pepper sauce.
+Prepared according to the recipe of the Thor's Volcano inhabitants. It tastes like red-hot lava!
+^777777-------------^000000
+Recovers 5% HP and SP.
+^777777-------------^000000
+Weight: ^7777771^000000
+#
+23619#
+^ff0000Account bound.^000000
+A day's supply of chicken drumsticks in a ginger-pepper sauce.
+It will ignite the flames in your stomach and your soul!
+^777777-------------^000000
+Contains:
+1-30 Lava Chicken.
+^777777-------------^000000
+Weight: ^77777710^000000
+#
+22886#
+^ff0000Account bound.^000000
+A week's supply of spicy food for those who hunt fire monsters.
+After such a meal, you won't even feel their fiery attacks!
+^777777-------------^000000
+Contains:
+1-100 Lava Chicken.
+1-50 Fiery Pinagong.
+^777777-------------^000000
+Weight: ^77777750^000000
+#
