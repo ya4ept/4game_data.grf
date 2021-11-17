@@ -317,7 +317,7 @@ SKILL_INFO_LIST = {
 		"ASC_METEORASSAULT",
 		SkillName = "Meteor Assault",
 		MaxLv = 10,
-		SpAmount = { 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 },
+		SpAmount = { 13, 16, 19, 22, 25, 28, 31, 34, 37, 40 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -3391,7 +3391,7 @@ SKILL_INFO_LIST = {
 		"KN_BRANDISHSPEAR",
 		SkillName = "Brandish Spear",
 		MaxLv = 10,
-		SpAmount = { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12 },
+		SpAmount = { 24, 24, 24, 24, 24, 24, 24, 24, 24, 24 },
 		bSeperateLv = false,
 		AttackRange = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
@@ -9901,7 +9901,7 @@ SKILL_INFO_LIST = {
 		"HP_BASILICA",
 		SkillName = "Basilica",
 		MaxLv = 5,
-		SpAmount = { 80, 90, 100, 110, 120 },
+		SpAmount = { 40, 50, 60, 70, 80 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {

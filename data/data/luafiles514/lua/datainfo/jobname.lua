@@ -3716,5 +3716,6 @@ JobNameTable = {
 	[jobtbl.JT_E_ZOMBIE_CAPTAIN] = "ZOMBIE_MASTER",
 	[jobtbl.JT_E_ZOMBIE_TREASURE] = "ZOMBIE_SLAUGHTER",
 	[jobtbl.JT_4_SKELION] = "SKELION",
-	[jobtbl.JT_E_VENOMOUS] = "VENOMOUS"
+	[jobtbl.JT_E_VENOMOUS] = "VENOMOUS",
+	[jobtbl.JT_4_F_PREMI] = "4_F_PREMI"
 }

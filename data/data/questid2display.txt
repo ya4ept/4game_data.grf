@@ -22708,3 +22708,7 @@ Bring Black Fur#
 11529#Jack's Pet#SG_FEEL#QUE_NOIMAGE#
 <NAVI>Jack<INFO>niflheim.gat,172,244,0,000,0</INFO></NAVI> seems to be upset after our first meeting. Maybe I should talk to him?#
 Talk to Jack#
+
+11495#Introducing Premium-Neko#SG_FEEL#QUE_IMAGE#
+You have met Premium-Neko.#
+Talk to Premium-Neko#
