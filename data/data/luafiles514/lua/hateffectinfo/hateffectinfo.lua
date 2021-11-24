@@ -85,7 +85,7 @@ HatEFID = {
 	HAT_EF_SUBJECT_AURA_RED = 84,
 	HAT_EF_C_Shining_Angel_Wing = 85,
 	HAT_EF_Magic_Star_TW = 86,
-	HAT_Digital_Space = 87,
+	HAT_EF_Digital_Space = 87,
 	HAT_EF_Sleipnir = 88,
 	HAT_EF_C_Maple_Which_Falls_Rd = 89,
 	HAT_EF_MagiccircleRainbow = 90,
@@ -169,7 +169,8 @@ HatEFID = {
 	HAT_EF_SUBJECT_AURA_WHITE_ALPHA = 168,
 	HAT_EF_GC_DARKCROW = 169,
 	HAT_EF_DIABOLUS_RING = 170,
-	HAT_EF_Magiccircle_Blue_TW = 171
+	HAT_EF_Magiccircle_Blue_TW = 171,
+	HAT_EF_C_Disapear_Time_TW_2 = 172
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -183,7 +184,6 @@ hatEffectTable = {
 		resourceFileName = "efst_mermaid_loging\\bubblebubble.str",
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
-		effectsizeAdjustment = 0,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
@@ -252,7 +252,8 @@ hatEffectTable = {
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true
+		isAdjustSizeWhenShrinkState = true,
+		isAttachedHead = true
 	},
 	[HatEFID.HAT_EF_BOTTOM_FORTUNEKISS] = { hatEffectID = 293 },
 	[HatEFID.HAT_EF_PINKBODY] = { hatEffectID = 396 },
@@ -426,7 +427,7 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_Digital_Space] = { hatEffectID = 1240 },
+	[HatEFID.HAT_EF_Digital_Space] = { hatEffectID = 1240 },
 	[HatEFID.HAT_EF_Sleipnir] = { hatEffectID = 1241 },
 	[HatEFID.HAT_EF_C_Maple_Which_Falls_Rd] = {
 		resourceFileName = "efst_C_Maple_Which_Falls_Rd\\C_Maple_Which_Falls_Rd.str",
@@ -814,6 +815,13 @@ hatEffectTable = {
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Disapear_Time_TW_2] = {
+		resourceFileName = "efst_C_Disapear_Time_TW\\cdhs.str",
+		hatEffectPos = -13,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	}
 }
 effectHatItemTable = {
@@ -857,7 +865,9 @@ effectHatItemTable = {
 	20548,
 	20990,
 	480097,
-	480131
+	400149,
+	480131,
+	31957
 }
 
 -- Function #0

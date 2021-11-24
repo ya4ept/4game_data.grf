@@ -118,7 +118,10 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Beer_Server] = "C_Beer_Server",
 	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
-	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy"
+	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy",
+	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set",
+	[SPRITE_ROBE_IDs.ROBE_C_Vietnam_flag_hood] = "C_Vietnam_flag_hood",
+	[SPRITE_ROBE_IDs.ROBE_C_Lunatic_Bag] = "C_Lunatic_Bag"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -240,7 +243,10 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Beer_Server] = "C_Beer_Server",
 	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
-	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy"
+	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy",
+	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set",
+	[SPRITE_ROBE_IDs.ROBE_C_Vietnam_flag_hood] = "C_Vietnam_flag_hood",
+	[SPRITE_ROBE_IDs.ROBE_C_Lunatic_Bag] = "C_Lunatic_Bag"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -280,5 +286,7 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU,
 	SPRITE_ROBE_IDs.ROBE_C_School_Bag_BU,
 	SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival,
-	SPRITE_ROBE_IDs.ROBE_C_Filir_Bag
+	SPRITE_ROBE_IDs.ROBE_C_Filir_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set,
+	SPRITE_ROBE_IDs.ROBE_C_G_DaeHyon_Sword_TW
 }
