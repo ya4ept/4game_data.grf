@@ -84814,11 +84814,6 @@ Terms of use:
 - dispose used mask immediately
 - don't reuse it
 - if you touched the mask while removing it - wash your hands or clean them up with sanitizer.
-"^777777-------------^000000
-EXP from monsters +5%.
-Damage against Virus +1000%.		
-^777777-------------^000000
-^ff0000[Effects are active only during the 'Fight the Virus' event]^000000
 ^777777-------------^000000
 Class: ^777777Costume^000000
 Location: ^777777Upper^000000
@@ -84829,32 +84824,9 @@ Jobs: ^777777All^000000
 31052#
 ^ff0000Character Bound.^000000
 Personal protective equipment. Remember that in real life such masks are used my medical staff in strict accordance with instructions.
-^777777-------------^000000
-EXP from monsters +15%.
-Damage against Virus +2000%.
-^777777-------------^000000
-^6A5ACD[For every 2 refine levels]^000000
-EXP from monsters +1%.
-Max HP/SP +1%.
-^777777-------------^000000
-^6A5ACD[If refine level is +10]^000000
-Movement speed +100%.
-Damage from Demi-Humans -10%.
-^777777-------------^000000
-^6A5ACD[If refine level is +15]^000000
-EXP from monsters +2%.
-All Stats +2.
-Damage against Demi-Humans +5%.
-^777777-------------^000000
-"^6A5ACD[If refine level is +20]^000000
-EXP from monsters +3%.
-All Stats +3.
-Damage against Demi-Humans +5%.
-^777777-------------^000000
-^ff0000[Effects are active only during the 'Fight the Virus' event]^000000
 ^777777-------------^000000",
 Class: ^777777Costume^000000
-Location: ^777777Headgear (Upper, middle, lower)^000000
+Location: ^777777Upper, middle, lower^000000
 Defense: ^7777770^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
