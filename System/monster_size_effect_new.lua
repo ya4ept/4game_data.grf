@@ -1343,20 +1343,22 @@ tbl = {
 	[3132] = { MonsterSize = 2, MonsterEff = { EFFECT.EF_BOTTOM_SUITON } },
 	[3636] = { MonsterSize = 0.7, MonsterEff = { EFFECT.EF_BOTTOM_BARRIER } },
 	[3969] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_NONE } },
-	[3970] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_HASTEUP } }
+	[3970] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_HASTEUP } },
+	[20661] = { MonsterSize = 0.8, MonsterEff = { EFFECT.EF_GREEN99_6 } },
+	[20662] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[20663] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_REDLIGHTBODY } }
 }
 
 -- Function #0
 main = function()
 	for MonsterID, info in pairs(tbl) do
 		result, msg = AddItem(MonsterID, info.MonsterSize)
-		if not result == true then
+		if  not result == true then
 			return false, msg
-		end
-		if type(info.MonsterEff) ~= type(1) then
+		elseif type(info.MonsterEff) ~= type(1) then
 			for k, v in pairs(info.MonsterEff) do
 				result, msg = AddEffect(MonsterID, v)
-				if not result == true then
+				if  not result == true then
 					return false, msg
 				end
 			end

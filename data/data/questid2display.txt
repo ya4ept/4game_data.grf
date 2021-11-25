@@ -22712,3 +22712,52 @@ Talk to Jack#
 11495#Introducing Premium-Neko#SG_FEEL#QUE_IMAGE#
 You have met Premium-Neko.#
 Talk to Premium-Neko#
+
+17600#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+Each stage of the trial is given 15 minutes. Hurry up to get the full reward!#
+Trial timer#
+17601#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17602#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17603#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17604#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17605#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17606#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17607#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17608#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17609#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17610#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17611#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17612#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17613#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17614#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
+17615#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+To complete the trial, you need to kill the monsters in the specified time.#
+#
