@@ -97,7 +97,22 @@ title_tbl = {
 	[5050] = "Fire master",
 	[5051] = "Fire guru",
 	[5052] = "Thrill seeker",
-	[5053] = "Avid foodie"
+	[5053] = "Avid foodie",
+	[5054] = "Lord of Lunatics ",
+	[5055] = "Lord of Myst Cases ",
+	[5056] = "Lord of Petites ",
+	[5057] = "Lord of Seals ",
+	[5058] = "Lord of Sea Otters ",
+	[5059] = "Lord of Siromas ",
+	[5060] = "Lord of Snowiers ",
+	[5062] = "Snow professional ",
+	[5063] = "Winter-hardy ",
+	[5064] = "Snow King ",
+	[5065] = "Snow adept ",
+	[5066] = "Snow master ",
+	[5067] = "Snow guru ",
+	[5068] = "Coffee lover ",
+	[5069] = "Pancake lover "
 }
 
 -- Function #0

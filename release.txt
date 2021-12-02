@@ -1,3 +1,43 @@
+02.12.2021 12:30
+Imp
+The Maintenance is over and the update is up, changes are the following:
+
+Game updates:
+— Travel far lands to discover new opportunities, get into a good fight with evil or be the last man standing amid the great labyrinth,
+because Sealed Shrine, Malangdo island and Nidhoggur's Nest are now available!
+
+Event:
+— The Snow Hunt is here. Grind through the achievements and get warming rewards and titles;
+— New mysterious enchanter emerged in one of the Malangdo's cabins. (mal_in01.gat 21, 22)
+They say, that if you have a pair of Fallen Angel Wings, Dark Luhir is the right person to be sought out.
+
+Shop:
+— The Win-Win Machine is set and ready. This time it contains all HD refinement materials, shadow equipment,
+best pet friend ever, Fallen Angel Wings and much more;
+— Kafra Shop got two new headgear items: Amistr Cap and Spiked Mask.
+
+Finished Activities:
+— Loki's Trial is finished;
+— Black Friday offers are no longer valid;
+— The Arcadia's Treasure and it's Sets left Kafra shop and launcher;
+— Card Removal Sets were removed from the launcher.
+https://eu.4gameforum.com/threads/685771/
+
+16:35
+Imp
+@everyone We will have a short maintenance starting at 15:00 CET.
+As soon as the server opens, it will be announced.
+
+17:27
+Imp
+The short maintenance is over!
+— Fallen Angel Wings bonuses were updated at forum and in-game. Now they have correct properties. 
+Those, who feel that they were affected by this change, please contact the Support Service; 
+— Dark Machine TX100 stopped suggesting Silvervines exchange option.
+
+A 15% EXP boost has been applied for a day.
+
+================
 24.11.2021 13:17
 Imp
 The maintenance is over, the server is online. Changelog:
