@@ -23136,3 +23136,70 @@ Bring Black Fur#
 Jack seems to be upset after our first meeting. Maybe I should talk to him?#
 Talk to Jack#
 
+17546#Snow Hunt - 50 Lunatics#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Lunatics#
+Kill 50 Lunatics#
+17547#Snow Hunt - 250 Lunatics#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Lunatics#
+Kill 250 Lunatics#
+17548#Snow Hunt - 2500 Lunatics#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Lunatics#
+Kill 2500 Lunatics#
+17549#Snow Hunt - 50 Myst Cases#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Myst Cases#
+Kill 50 Myst Cases#
+17550#Snow Hunt - 250 Myst Cases#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Myst Cases#
+Kill 250 Myst Cases#
+17551#Snow Hunt - 2500 Myst Cases#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Myst Cases#
+Kill 2500 Myst Cases#
+17552#Snow Hunt - 50 Seals#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Seals#
+Kill 50 Seals#
+17553#Snow Hunt - 250 Seals#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Seals#
+Kill 250 Seals#
+17554#Snow Hunt - 2500 Seals#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Seals#
+Kill 2500 Seals#
+17555#Snow Hunt - 50 Sea Otters#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Sea Otters#
+Kill 50 Sea Otters#
+17556#Snow Hunt - 250 Sea Otters#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Sea Otters#
+Kill 250 Sea Otters#
+17557#Snow Hunt - 2500 Sea Otters#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Sea Otters#
+Kill 2500 Sea Otters#
+17558#Snow Hunt - 50 Siromas#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Siromas#
+Kill 50 Siromas#
+17559#Snow Hunt - 250 Siromas#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Siromas#
+Kill 250 Siromas#
+17560#Snow Hunt - 2500 Siromas#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Siromas#
+Kill 2500 Siromas#
+17561#Snow Hunt - 50 Snowiers#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Snowiers#
+Kill 50 Snowiers#
+17562#Snow Hunt - 250 Snowiers#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Snowiers#
+Kill 250 Snowiers#
+17563#Snow Hunt - 2500 Snowiers#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Snowiers#
+Kill 2500 Snowiers#
+17564#Snow Hunt - 50 Ice Titans#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 50 Ice Titans#
+Kill 50 Ice Titans#
+17565#Snow Hunt - 250 Ice Titans#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 250 Ice Titans#
+Kill 250 Ice Titans#
+17566#Snow Hunt - 2500 Ice Titans#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 2500 Ice Titans#
+Kill 2500 Ice Titans#
+17567#Snow Hunt - Amateur Hunter#SG_FEEL#QUE_NOIMAGE#
+You took an order to kill 1 Animal of several kinds#
+Kill Lunatic, Myst Case, Seal#
+

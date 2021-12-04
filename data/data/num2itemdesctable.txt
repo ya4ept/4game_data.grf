@@ -5957,7 +5957,8 @@ Weight: ^7777775^000000
 #
 7057#
 A great bugle made out of an animal horn. Its sound is thunderous and can be heard for miles around.
-Weight: ^77777750^000000
+Worth keeping it...
+Weight: ^7777775^000000
 #
 7058#
 A iron chain made out of cat whisker, woman's moustache, stone root, fish spirit, bird sputem, and bear sinew. Although it's light and thin as thread, it is extremely strong.
@@ -56815,6 +56816,27 @@ After such a meal, you won't even feel their fiery attacks!
 Contains:
 1-100 Lava Chicken.
 1-50 Fiery Pinagong.
+^777777-------------^000000
+Weight: ^77777750^000000
+#
+12187#
+^ff0000Account Bound.^000000
+A few stacks of sweet pancakes.
+Treats that will warm you up on the coldest winter day.
+^777777-------------^000000
+Contains:
+Honey Pancake x25
+^777777-------------^000000
+Weight: ^77777710^000000
+#
+12201#
+^ff0000Account Bound.^000000
+Pancakes and hot coffee.
+Treats that will warm you up on the coldest winter day.
+^777777-------------^000000
+Contains:
+Honey Pancake x50,
+Coffee x25,
 ^777777-------------^000000
 Weight: ^77777750^000000
 #

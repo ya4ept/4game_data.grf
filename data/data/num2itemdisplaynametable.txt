@@ -8266,3 +8266,6 @@
 23243#Lava Chicken#
 23619#Flamy Food Box#
 22886#Flamy Food Chest#
+
+12187#Warm Food Box#
+12201#Warm Treats Box#

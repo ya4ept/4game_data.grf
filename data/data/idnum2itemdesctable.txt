@@ -673,12 +673,11 @@ Restores ^008000325^000000 to ^008000405^000000 HP and ^00800040^000000 to ^0080
 Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
 #
 593#
-^808080A very sweet pancake topped with honey.^000000
-^FFFFFF_^000000
+A very sweet pancake topped with honey.
 ^FFFFFF_^000000
 Recovers HP and SP.
 Cures ^008000Blind^000000, ^008000Curse^000000, ^008000Confusion^000000, ^008000Poison^000000, ^008000Silence^000000.
-Weight: 15
+Weight: 0
 #
 
 594#
@@ -27033,10 +27032,10 @@ Weight: ^7777775^000000
 
 #
 7057#
-A great bugle made
-from an animal's horn
-whose thunderous sound
-can be heard for miles. Weight: ^77777750^000000
+^ff0000Account Bound.^000000
+A great bugle made from an animal's horn, whose thunderous sound can be heard for miles. 
+Worth keeping it...
+Weight: ^7777770^000000
 #
 7058#
 Impossibly strong
@@ -91567,3 +91566,26 @@ Contains:
 ^777777-------------^000000
 Weight: ^77777750^000000
 #
+12187#
+^ff0000Account Bound.^000000
+A few stacks of sweet pancakes.
+Treats that will warm you up on the coldest winter day.
+^777777-------------^000000
+Contains:
+Honey Pancake x25
+^777777-------------^000000
+Weight: ^77777710^000000
+#
+12201#
+^ff0000Account Bound.^000000
+Pancakes and hot coffee.
+Treats that will warm you up on the coldest winter day.
+^777777-------------^000000
+Contains:
+Honey Pancake x50,
+Coffee x25,
+^777777-------------^000000
+Weight: ^77777750^000000
+#
+
+
