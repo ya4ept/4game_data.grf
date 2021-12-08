@@ -7242,294 +7242,294 @@ achievement_tbl = {
 		score = 10
 	},
 	[501161] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Lunatics",
 		content = {
 			summary = "Kill Lunatics 100 times",
-			details = "Kill Lunatics 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Lunatics 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Lunatics", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501162] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Lunatics",
 		content = {
 			summary = "Kill Lunatics 500 times",
-			details = "Kill Lunatics 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Lunatics 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Lunatics", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501163] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Lunatics",
 		content = {
 			summary = "Kill Lunatics 5000 times",
-			details = "Kill Lunatics 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Lunatics 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Lunatics", count = 5000 } },
 		reward = { item = 12201, title = 5054 },
 		score = 10
 	},
 	[501164] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Myst Cases",
 		content = {
 			summary = "Kill Myst Cases 100 times",
-			details = "Kill Myst Cases 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Myst Cases 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Myst Cases", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501165] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Myst Cases",
 		content = {
 			summary = "Kill Myst Cases 500 times",
-			details = "Kill Myst Cases 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Myst Cases 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Myst Cases", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501166] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Myst Cases",
 		content = {
 			summary = "Kill Myst Cases 5000 times",
-			details = "Kill Myst Cases 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Myst Cases 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Myst Cases", count = 5000 } },
 		reward = { item = 12201, title = 5055 },
 		score = 10
 	},
 	[501167] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Petites",
 		content = {
 			summary = "Kill Petites 100 times",
-			details = "Kill Petites 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Petites 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Petites", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501168] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Petites",
 		content = {
 			summary = "Kill Petites 500 times",
-			details = "Kill Petites 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Petites 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Petites", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501169] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Petites",
 		content = {
 			summary = "Kill Petites 5000 times",
-			details = "Kill Petites 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Petites 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Petites", count = 5000 } },
 		reward = { item = 12201, title = 5056 },
 		score = 10
 	},
 	[501170] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Seals",
 		content = {
 			summary = "Kill Seals 100 times",
-			details = "Kill Seals 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Seals 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Seals", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501171] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Seals",
 		content = {
 			summary = "Kill Seals 500 times",
-			details = "Kill Seals 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Seals 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Seals", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501172] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Seals",
 		content = {
 			summary = "Kill Seals 5000 times",
-			details = "Kill Seals 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Seals 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Seals", count = 5000 } },
 		reward = { item = 12201, title = 5057 },
 		score = 10
 	},
 	[501173] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Sea Otters",
 		content = {
 			summary = "Kill Sea Otters 100 times",
-			details = "Kill Sea Otters 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Sea Otters 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Sea Otters", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501174] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Sea Otters",
 		content = {
 			summary = "Kill Sea Otters 500 times",
-			details = "Kill Sea Otters 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Sea Otters 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Sea Otters", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501175] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Sea Otters",
 		content = {
 			summary = "Kill Sea Otters 5000 times",
-			details = "Kill Sea Otters 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Sea Otters 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Sea Otters", count = 5000 } },
 		reward = { item = 12201, title = 5058 },
 		score = 10
 	},
 	[501176] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Siromas",
 		content = {
 			summary = "Kill Siromas 100 times",
-			details = "Kill Siromas 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Siromas 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Siromas", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501177] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Siromas",
 		content = {
 			summary = "Kill Siromas 500 times",
-			details = "Kill Siromas 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Siromas 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Siromas", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501178] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Siromas",
 		content = {
 			summary = "Kill Siromas 5000 times",
-			details = "Kill Siromas 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Siromas 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Siromas", count = 5000 } },
 		reward = { item = 12201, title = 5059 },
 		score = 10
 	},
 	[501179] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Enemy of Snowiers",
 		content = {
 			summary = "Kill Snowiers 100 times",
-			details = "Kill Snowiers 100 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Snowiers 100 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Snowiers", count = 100 } },
 		reward = { item = 13825 },
 		score = 10
 	},
 	[501180] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tyrant of Snowiers",
 		content = {
 			summary = "Kill Snowiers 500 times",
-			details = "Kill Snowiers 500 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Snowiers 500 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Snowiers", count = 500 } },
 		reward = { item = 12201 },
 		score = 10
 	},
 	[501181] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Lord of Snowiers",
 		content = {
 			summary = "Kill Snowiers 5000 times",
-			details = "Kill Snowiers 5000 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill Snowiers 5000 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill Snowiers", count = 5000 } },
 		reward = { item = 12201, title = 5060 },
@@ -7538,12 +7538,12 @@ achievement_tbl = {
 	[501183] = {
 		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Snow professional",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Take part in the hunt.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill 100 Lunatics " },
@@ -7558,42 +7558,42 @@ achievement_tbl = {
 		score = 10
 	},
 	[501185] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Snow adept",
 		content = {
 			summary = "Kill player 10 times",
-			details = "Kill player in PVP.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill player in PVP.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill players in PVP", count = 10 } },
 		reward = { item = 13825, title = 5065 },
 		score = 10
 	},
 	[501186] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Snow master",
 		content = {
 			summary = "Kill player 25 times",
-			details = "Kill player in PVP.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill player in PVP.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill players in PVP", count = 25 } },
 		reward = { item = 13825, title = 5066 },
 		score = 10
 	},
 	[501187] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Snow guru",
 		content = {
 			summary = "Kill player 50 times",
-			details = "Kill player in PVP.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Kill player in PVP.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Kill players in PVP", count = 50 } },
 		reward = { item = 12201, title = 5067 },
@@ -7602,12 +7602,12 @@ achievement_tbl = {
 	[501188] = {
 		UI_Type = 0,
 		group = "ADVENTURE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Coffee ceremony",
 		content = {
 			summary = "Consume Coffee",
-			details = "Consume Coffee 5 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Consume Coffee 5 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Consume Coffee 5 times", count = 5 } },
 		reward = { title = 5068 },
@@ -7616,12 +7616,12 @@ achievement_tbl = {
 	[501189] = {
 		UI_Type = 0,
 		group = "ADVENTURE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Pancake party",
 		content = {
 			summary = "Consume Honey Pancake",
-			details = "Consume Honey Pancake 5 times.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Consume Honey Pancake 5 times.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = { [1] = { text = "Consume Honey Pancake 5 times", count = 5 } },
 		reward = { title = 5069 },
@@ -7630,12 +7630,12 @@ achievement_tbl = {
 	[501190] = {
 		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Snow King",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Take part in the hunt.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill 5000 Lunatics " },
@@ -7652,12 +7652,12 @@ achievement_tbl = {
 	[501191] = {
 		UI_Type = 0,
 		group = "ADVENTURE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Warming kit",
 		content = {
 			summary = "Try warming dishes.",
-			details = "Try warming dishes.\nThe event 'Snow Hunt' [02.12.2021 - 08.12.2021]."
+			details = "Try warming dishes.\nThe event 'Snow Hunt' has ended."
 		},
 		resource = {
 			[1] = { text = "Consume Coffee 5 times " },

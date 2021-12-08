@@ -4372,3 +4372,14 @@ StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] =
 		{"when physical attacking", },
 	}
 }
+
+StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] =
+{
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript =
+	{
+		{"Archmage Potion", COLOR_TITLE_BUFF },
+		{"%s", COLOR_TIME },
+	}
+}

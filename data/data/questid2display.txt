@@ -1602,7 +1602,7 @@ You heard that the Laphine captured in Manuk is injured.  Maybe you'll be able t
 Ask Arc#
 
 7063#Messenger - Terra's Whereabouts#SG_FEEL#QUE_NOIMAGE#
-You found out that 'Yggdrasil berry' is the best remedy for the Raffine. You should collect some Yggdrasil berries around the gigantic tree.#
+You found out that 'Yggdrasil berry' is the best remedy for the Laphine. You should collect some Yggdrasil berries around the gigantic tree.#
 Collect at least 6 Yggdrasil berries#
 
 7064#Messenger - Terra's Whereabouts#SG_FEEL#QUE_NOIMAGE#
@@ -1610,8 +1610,8 @@ You've collected the last Yggdrasil berry. You must deliver these to Snorren at 
 Deliver the Yggdrasil berries to Snorren#
 
 7065#Messenger - Terra's Whereabouts#SG_FEEL#QUE_NOIMAGE#
-You could talk to the captured Raffine through Snorren's help. You must interpret the conversation with the Raffine to Snorren and Luik.#
-Conversation with Raffine#
+You could talk to the captured Laphine through Snorren's help. You must interpret the conversation with the Laphine to Snorren and Luik.#
+Conversation with Laphine#
 
 7066#Messenger - Prove the Truth#SG_FEEL#QUE_NOIMAGE#
 Snorren suspects that the hardened Sapha might be his friend, 'Ogen' and requests to see the evidence.#
@@ -22713,51 +22713,51 @@ Talk to Jack#
 You have met Premium-Neko.#
 Talk to Premium-Neko#
 
-17600#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17600#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 Each stage of the trial is given 15 minutes. Hurry up to get the full reward!#
 Trial timer#
-17601#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17601#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17602#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17602#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17603#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17603#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17604#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17604#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17605#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17605#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17606#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17606#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17607#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17607#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17608#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17608#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17609#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17609#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17610#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17610#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17611#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17611#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17612#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17612#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17613#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17613#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17614#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17614#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17615#Loki's Trial#SG_FEEL#QUE_NOIMAGE#
+17615#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
