@@ -22761,3 +22761,96 @@ To complete the trial, you need to kill the monsters in the specified time.#
 17615#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
+17621#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks to give a present to the Elder.#
+Talk to Elder in Prontera.#
+17622#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+The Elder send us to Forest Guardians.#
+Talk to Stranger.#
+17623#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+The Stranger asked a riddle. 8 Necklaces, 7 Eagles, 5 Names, 5 Wolves, 10 Notes, 12 Ends, 5 Nomads, 3 Ways, 13 Nights, 5 Worlds, 7 Seas, 2 Eras, 5 Seals, 11 Wounds, 2 Souls, 3 Esquires, 2 Sons, 6 Worlds, 10 Nations, 3 Empires, 4 Seconds, 2 Elves, 12 Numbers#
+Pass the labyrinth.#
+17624#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Forest Guardian gave us one of the New Year spirit parts. Return to Santa.#
+Talk to Santa in Prontera.#
+17625#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks to give a present to Kordomir.#
+Talk to Kordomir in Prontera.#
+17626#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Kordomir has been defeated. Time to visit Rask.#
+Talk to Rask in Prontera.#
+17627#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Rask asks to pass the route in 4 minutes.#
+Run the course.#
+17628#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Answer the Captain Mjorn's question and give him a present.#
+Talk to Captain Mjorn in Alberta.#
+17629#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Answer the Captain Trick's question and give him a present.#
+Talk to Captain Trick in Izlude.#
+17630#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Answer the Captain Flint's question and give him a present.#
+Talk to Captain Flint in Malangdo.#
+17631#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Visit Hyrde and give him a present.#
+Talk to Hyrde.#
+17632#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Hyrde asks to help him with Xmas Porings.#
+Defeat 50 Xmas Porings.#
+17633#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Hyrde send you to St. Patrick.#
+Talk to St. Patrick#
+17634#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+You gave out gifts to all the guests. Time to go to Lutie.#
+Talk to Santa in Lutie.#
+17635#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Noel.#
+#
+17636#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Klaus.#
+#
+17637#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Eve.#
+#
+17638#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Miss Mittens.#
+#
+17639#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Icicle.#
+#
+17640#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Sparkling Snowman.#
+#
+17641#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks you to deliver gifts to his friends in Lutie. Take gift to Carol.#
+#
+17642#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+You help Santa with all his friends. Time to talk to him.#
+Talk to Santa.#
+17643#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
+Santa asks to come back to Prontera.#
+Talk to Santa in Prontera.#
+17644#Fight with Kordomir#SG_FEEL#QUE_NOIMAGE#
+Santa asks to fight Kordomir once more.#
+Fight Kordomir.#
+17645#Fight with Kordomir - completed#SG_FEEL#QUE_NOIMAGE#
+You have already defeated Kordomir today.#
+Wait until tomorrow.#
+17646#New Year Run#SG_FEEL#QUE_NOIMAGE#
+Santa asks to run the course once more.#
+Come to Rask and run the course in 3 minutes.#
+17647#New Year Run - completed#SG_FEEL#QUE_NOIMAGE#
+You have already run the course today.#
+Wait until tomorrow.#
+17648#New Year Hunt#SG_FEEL#QUE_NOIMAGE#
+Santa asks to help Hyrde once more.#
+Defeat 50 Xmas Porings.#
+17649#New Year Hunt - completed#SG_FEEL#QUE_NOIMAGE#
+You have already helped Hyrde today.#
+Wait until tomorrow.#
+17650#Gift giveaway#SG_FEEL#QUE_NOIMAGE#
+Santa asks to help him give out some presents.#
+Give out gifts for 3 minutes.#
+17651#Gift giveaway - completed#SG_FEEL#QUE_NOIMAGE#
+You have already helped Santa today.#
+Wait until tomorrow.#

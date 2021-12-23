@@ -3720,5 +3720,7 @@ JobNameTable = {
 	[jobtbl.JT_4_F_PREMI] = "4_F_PREMI",
 	[jobtbl.JT_E_BAPHOMET_FAST] = "EXPLOSION",
 	[jobtbl.JT_E_BAPHOMET_JUMP] = "EXPLOSION",
-	[jobtbl.JT_E_BAPHOMET_HEAVY] = "EXPLOSION"
+	[jobtbl.JT_E_BAPHOMET_HEAVY] = "EXPLOSION",
+	[jobtbl.JT_G_PORING_] = "Poring_",
+	[jobtbl.JT_E_POTON_CANON] = "POTON_CANON"
 }
