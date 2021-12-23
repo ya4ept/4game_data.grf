@@ -11229,7 +11229,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_BASIC_SKILL] = {
 		"SU_BASIC_SKILL",
-		SkillName = "New Basic Skill",
+		SkillName = "Новое базовое умение",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11237,7 +11237,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_BITE] = {
 		"SU_BITE",
-		SkillName = "Bite",
+		SkillName = "Укус",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11248,7 +11248,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_HIDE] = {
 		"SU_HIDE",
-		SkillName = "Hide",
+		SkillName = "Прятки",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -11259,7 +11259,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SCRATCH] = {
 		"SU_SCRATCH",
-		SkillName = "Scratch",
+		SkillName = "Царапина",
 		MaxLv = 3,
 		SpAmount = { 20, 25, 30 },
 		bSeperateLv = true,
@@ -11270,7 +11270,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_STOOP] = {
 		"SU_STOOP",
-		SkillName = "Stoop",
+		SkillName = "Стойка",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11281,7 +11281,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_LOPE] = {
 		"SU_LOPE",
-		SkillName = "Lope",
+		SkillName = "Скачок",
 		MaxLv = 3,
 		SpAmount = { 30, 30, 30 },
 		bSeperateLv = false,
@@ -11292,7 +11292,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPRITEMABLE] = {
 		"SU_SPRITEMABLE",
-		SkillName = "Sprite Mable",
+		SkillName = "Сферы духов",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11303,7 +11303,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_FRESHSHRIMP] = {
 		"SU_FRESHSHRIMP",
-		SkillName = "Fresh Shrimp",
+		SkillName = "Вкусная креветка",
 		MaxLv = 5,
 		SpAmount = { 22, 24, 26, 28, 30 },
 		bSeperateLv = true,
@@ -11314,7 +11314,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_BUNCHOFSHRIMP] = {
 		"SU_BUNCHOFSHRIMP",
-		SkillName = "Bunch of Shrimp",
+		SkillName = "Горсть креветок",
 		MaxLv = 5,
 		SpAmount = { 44, 48, 52, 56, 60 },
 		bSeperateLv = false,
@@ -11325,7 +11325,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_TUNABELLY] = {
 		"SU_TUNABELLY",
-		SkillName = "Tuna Belly",
+		SkillName = "Аппетитный тунец",
 		MaxLv = 5,
 		SpAmount = { 20, 30, 40, 50, 60 },
 		bSeperateLv = true,
@@ -11336,7 +11336,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_TUNAPARTY] = {
 		"SU_TUNAPARTY",
-		SkillName = "Tuna Party",
+		SkillName = "Рыбный пир",
 		MaxLv = 5,
 		SpAmount = { 20, 30, 40, 50, 60 },
 		bSeperateLv = true,
@@ -11347,7 +11347,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SV_STEMSPEAR] = {
 		"SU_SV_STEMSPEAR",
-		SkillName = "SV Stem Spear",
+		SkillName = "Копье сциндапсуса",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -11358,7 +11358,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SV_ROOTTWIST] = {
 		"SU_SV_ROOTTWIST",
-		SkillName = "SV Root Twist",
+		SkillName = "Корни сциндапсуса",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = false,
@@ -11369,7 +11369,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_CN_METEOR] = {
 		"SU_CN_METEOR",
-		SkillName = "CN Meteor",
+		SkillName = "Дождь котовника",
 		MaxLv = 5,
 		SpAmount = { 20, 35, 50, 65, 80 },
 		bSeperateLv = true,
@@ -11380,7 +11380,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_CN_POWDERING] = {
 		"SU_CN_POWDERING",
-		SkillName = "CN Powdering",
+		SkillName = "Порошок котовника",
 		MaxLv = 5,
 		SpAmount = { 40, 36, 32, 28, 24 },
 		bSeperateLv = false,
@@ -11391,7 +11391,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_PICKYPECK] = {
 		"SU_PICKYPECK",
-		SkillName = "Picky Peck",
+		SkillName = "Удар пикки",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -11402,7 +11402,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_ARCLOUSEDASH] = {
 		"SU_ARCLOUSEDASH",
-		SkillName = "Arclouze Dash",
+		SkillName = "Юркий арклоуз",
 		MaxLv = 5,
 		SpAmount = { 12, 14, 16, 18, 20 },
 		bSeperateLv = true,
@@ -11413,7 +11413,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SCAROFTAROU] = {
 		"SU_SCAROFTAROU",
-		SkillName = "Scar of Tarou",
+		SkillName = "Шрамы тароу",
 		MaxLv = 5,
 		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
@@ -11424,7 +11424,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_LUNATICCARROTBEAT] = {
 		"SU_LUNATICCARROTBEAT",
-		SkillName = "Lunatic Carrot Beat",
+		SkillName = "Морковная атака лунатика",
 		MaxLv = 5,
 		SpAmount = { 15, 20, 25, 30, 35 },
 		bSeperateLv = true,
@@ -11435,7 +11435,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_POWEROFSEA] = {
 		"SU_POWEROFSEA",
-		SkillName = "Power of Sea",
+		SkillName = "Сила моря",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11446,7 +11446,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_POWEROFLAND] = {
 		"SU_POWEROFLAND",
-		SkillName = "Power of Land",
+		SkillName = "Сила суши",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11457,7 +11457,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_POWEROFLIFE] = {
 		"SU_POWEROFLIFE",
-		SkillName = "Power of Life",
+		SkillName = "Сила жизни",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11468,7 +11468,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SOULATTACK] = {
 		"SU_SOULATTACK",
-		SkillName = "Soul Attack",
+		SkillName = "Атака душами",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11479,7 +11479,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_POWEROFFLOCK] = {
 		"SU_POWEROFFLOCK",
-		SkillName = "Power Of Lock",
+		SkillName = "Сила стаи",
 		MaxLv = 5,
 		SpAmount = { 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
@@ -11490,7 +11490,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SVG_SPIRIT] = {
 		"SU_SVG_SPIRIT",
-		SkillName = "Sprit Of Savage",
+		SkillName = "Дух кабана",
 		MaxLv = 5,
 		SpAmount = { 60, 60, 60, 60, 60 },
 		bSeperateLv = true,
@@ -11501,7 +11501,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_HISS] = {
 		"SU_HISS",
-		SkillName = "Hiss",
+		SkillName = "Шипение",
 		MaxLv = 5,
 		SpAmount = { 50, 46, 42, 38, 34 },
 		bSeperateLv = true,
@@ -11512,7 +11512,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_NYANGGRASS] = {
 		"SU_NYANGGRASS",
-		SkillName = "Nyang Grass",
+		SkillName = "Кошачья трава",
 		MaxLv = 5,
 		SpAmount = { 50, 48, 46, 44, 42 },
 		bSeperateLv = true,
@@ -11523,7 +11523,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_GROOMING] = {
 		"SU_GROOMING",
-		SkillName = "Grooming",
+		SkillName = "Уход за собой",
 		MaxLv = 5,
 		SpAmount = { 15, 15, 15, 15, 15 },
 		bSeperateLv = true,
@@ -11534,7 +11534,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_PURRING] = {
 		"SU_PURRING",
-		SkillName = "Purring",
+		SkillName = "Мурлыканье",
 		MaxLv = 5,
 		SpAmount = { 70, 65, 60, 55, 50 },
 		bSeperateLv = true,
@@ -11545,7 +11545,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SHRIMPARTY] = {
 		"SU_SHRIMPARTY",
-		SkillName = "Tasty Shrimp Party",
+		SkillName = "Креветочный коктейль",
 		MaxLv = 5,
 		SpAmount = { 100, 90, 80, 70, 60 },
 		bSeperateLv = true,
@@ -11556,7 +11556,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPIRITOFLIFE] = {
 		"SU_SPIRITOFLIFE",
-		SkillName = "Spirit Of Life",
+		SkillName = "Дух жизни",
 		MaxLv = 1,
 		SpAmount = {},
 		bSeperateLv = false,
@@ -11567,7 +11567,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_MEOWMEOW] = {
 		"SU_MEOWMEOW",
-		SkillName = "Meow Meow",
+		SkillName = "Мяу-мяу",
 		MaxLv = 5,
 		SpAmount = { 100, 90, 80, 70, 60 },
 		bSeperateLv = true,
@@ -11578,7 +11578,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPIRITOFLAND] = {
 		"SU_SPIRITOFLAND",
-		SkillName = "Spirit Of Land",
+		SkillName = "Дух суши",
 		MaxLv = 1,
 		SpAmount = {},
 		bSeperateLv = false,
@@ -11589,7 +11589,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_CHATTERING] = {
 		"SU_CHATTERING",
-		SkillName = "Chattering",
+		SkillName = "Стрекот",
 		MaxLv = 5,
 		SpAmount = { 50, 45, 40, 35, 30 },
 		bSeperateLv = true,
@@ -11600,7 +11600,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SPIRITOFSEA] = {
 		"SU_SPIRITOFSEA",
-		SkillName = "Spirit Of Sea",
+		SkillName = "Дух моря",
 		MaxLv = 1,
 		SpAmount = {},
 		bSeperateLv = false,
