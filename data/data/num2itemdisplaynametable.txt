@@ -8269,3 +8269,14 @@
 
 12187#Warm Food Box#
 12201#Warm Treats Box#
+
+12187#Warm Food Box#
+12201#Warm Treats Box#
+7614]#Gift Wrap#
+7861#Powerhouse Pill#
+6891#Fake Gem#
+7855#Rice Heart#
+7617#Ginger Ale#
+7616#Snowflake#
+6847#Christmas Gift Box#
+12589#Santa's Gift#

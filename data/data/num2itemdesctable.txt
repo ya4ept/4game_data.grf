@@ -56840,3 +56840,70 @@ Coffee x25,
 ^777777-------------^000000
 Weight: ^77777750^000000
 #
+7614#
+^ff0000Account bound.^000000
+A roll of paper for wrapping Christmas gifts.
+It smells like pine needles and tangerines!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+7861#
+^ff0000Account bound.^000000
+Contains a set of vitamins and minerals that increase physical activity.
+Take three times a day with warm water!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+6891#
+^ff0000Account bound.^000000
+A beautiful fake made of colored glass.
+It's not very expensive, but look at the sparkles!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+7855#
+^ff0000Account bound.^000000
+A heart-shaped patty made with glutinous rice flour.
+It's a favorite food of rural farmers.
+^777777-------------^000000
+Weight: ^7777771^000000
+#
+7617#
+^ff0000Account bound.^000000
+A magical drink made by hardworking pixie.
+It sizzles like beer, but it won't make you tipsy.
+^777777-------------^000000
+Weight: ^7777771^000000" 
+#
+7616#
+^ff0000Account bound.^000000
+A coin-sized snowflake exuding a pleasant coolness.
+It doesn't melt or break, no matter how you squeeze it in your hand. Marvelous!
+^777777-------------^000000
+Weight: ^7777771^000000"
+#
+6847#
+^ff0000Account bound.^000000
+You really want to see what's inside...
+But no, you can't! You need to deliver the gift to the addressee!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+12589#
+^ff0000Account bound.^000000
+The main reward for your hard work.
+Wondering what's inside? Rip off the wrapping paper!
+^777777-------------^000000
+Open the box and receive one of the following items:
+Spring Chocolate Drink x25
+Salted bacon x10
+Smoked pork x7
+Lard x7
+Ginger Protein Bar x25
+Cup of Life x4
+Lulah Kebab x15
+Hearty lunch x4
+Gruit x10
+^777777-------------^000000
+Weight: ^7777775^000000
+#

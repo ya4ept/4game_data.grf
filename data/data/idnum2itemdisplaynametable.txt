@@ -5227,7 +5227,7 @@
 5775#Choco Donut in Mouth#
 12546#Strange Dish#
 16193#Tuca Hat Box#
-6220#Mysterious Dyestuff#
+6220#Rainbow Elixir#
 
 // --------- 2011.9.6. item update -------------
 17024#Lovely Aquarius Scroll#
@@ -6624,7 +6624,6 @@
 31910#Festive Santa Beard#
 20125#Festive Santa Glasses#
 19707#Polar Bear Cap Costume#
-19955#Mini Tree J Costume#
 19685#ShineSantaPoring Hat Costume#
 6228#Lvl9 Weapon Refine Gurantee Coupon#
 6232#Lvl9 Armour Refine Gurantee Coupon#
@@ -6756,7 +6755,7 @@
 19952#Costume Bubble Gum In Mouth#
 19953#Costume Parade Cap#
 19954#Costume 3D Glasses#
-19955#Costume Mini Tree J#
+19955#Mini Christmas Tree#
 19956#Costume Soldier Hat#
 19957#Costume Scooter Hat J#
 19959#Sleepy Argiope#
@@ -8561,7 +8560,7 @@
 20499#Black Cat Ears & White Hat#
 31252#White Cat Ears & Black Hat#
 31472#Fairy Feathers#
-20433#Red Christmas Hat#
+20433#Beret of the Best#
 20461#Bloodstained Wings#
 
 31125#Bloody Beard's Hat#
@@ -9363,3 +9362,11 @@
 
 12187#Warm Food Box#
 12201#Warm Treats Box#
+7614]#Gift Wrap#
+7861#Powerhouse Pill#
+6891#Fake Gem#
+7855#Rice Heart#
+7617#Ginger Ale#
+7616#Snowflake#
+6847#Christmas Gift Box#
+12589#Santa's Gift#

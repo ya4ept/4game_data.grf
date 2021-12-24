@@ -40101,8 +40101,11 @@ Used for changing hairstyle. Absolutely necessary if you want to be different fr
 Weight: ^7777771^000000
 #
 6220#
-Various colors are mixed into this mysterious dye. It is a primary ingredient for dying certain headgears.
-Weight: ^7777771^000000
+^ff0000Account bound.^000000
+A potion that improves mood and happiness.
+Drink it and the world around you will sparkle with colors!
+^777777-------------^000000
+Weight: ^7777770^000000
 #
 
 //Harvest Moon Festival
@@ -63163,8 +63166,8 @@ Jobs: ^777777All^000000
 #
 31910#
 ^ff0000Account bound.^000000
-Ho ho ho! And it占퐏 not shaving foam at all, but my beard!
-Just don占퐐 touch it, otherwise the magic will disappear!
+Ho ho ho! And it's not shaving foam at all, but my beard!
+Just don't touch it, otherwise the magic will disappear!
 ^ff0000[Effects are active only during the event (until January 15, 2020).]^000000
 Max. HP and SP +10%
 ^0000ff[Festive Santa Set]^000000
@@ -63179,9 +63182,8 @@ Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
-
 19955#
-A 'fashionable' Christmas Tree hat
+Cute and tiny Christmas Tree-shaped hat.
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Upper ^000000
@@ -83156,10 +83158,27 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20433#
-^ff0000Account bound^000000
-A cute red hat which is perfect for celebrating Christmas and New Year. And don't forget about this pompom!
+^ff0000Account bound.^000000
+A red beret made of camel hair, decorated with a pompom.
+This is a reward for heroes who have completed all the tasks of the Christmas event.
+^777777-------------^000000
+EXP for killing monsters +15%.
+Recovery speed HP and SP +10%.
+ATK and MATK +5%.
+^6A5ACD[If refine lv +1]^000000
+EXP for killing monsters +5%.
+Damage to Human and Player targets +5%.
+^6A5ACD[If refine lv +2]^000000
+EXP for killing monsters +5%.
+Damage to Human and Player targets +5%.
+^6A5ACD[If refine lv +3]^000000
+EXP for killing monsters +5%.
+Damage to Human and Player targets +5%.
+^777777-------------^000000
+^ff0000[Effects are active only during the Christmas event (until Jan 13, 2022)]^000000
+^777777-------------^000000
 Class: ^777777Costume^000000
-Location: ^777777Headgear (Upper)^000000
+Location: ^777777Upper^000000
 Defense: ^7777770^000000    Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
@@ -84018,7 +84037,7 @@ Green Snowman Cookie
 Weight: ^7777771^000000
 #
 9746#
-Happy New Year 2020!
+Happy New Year 2022!
 Open to obtain Christmas Miracle, as well as one of the following items:
 Costume Baby Penguin
 Present Of Snow
@@ -91587,5 +91606,70 @@ Coffee x25,
 ^777777-------------^000000
 Weight: ^77777750^000000
 #
-
-
+7614#
+^ff0000Account bound.^000000
+A roll of paper for wrapping Christmas gifts.
+It smells like pine needles and tangerines!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+7861#
+^ff0000Account bound.^000000
+Contains a set of vitamins and minerals that increase physical activity.
+Take three times a day with warm water!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+6891#
+^ff0000Account bound.^000000
+A beautiful fake made of colored glass.
+It's not very expensive, but look at the sparkles!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+7855#
+^ff0000Account bound.^000000
+A heart-shaped patty made with glutinous rice flour.
+It's a favorite food of rural farmers.
+^777777-------------^000000
+Weight: ^7777771^000000
+#
+7617#
+^ff0000Account bound.^000000
+A magical drink made by hardworking pixie.
+It sizzles like beer, but it won't make you tipsy.
+^777777-------------^000000
+Weight: ^7777771^000000" 
+#
+7616#
+^ff0000Account bound.^000000
+A coin-sized snowflake exuding a pleasant coolness.
+It doesn't melt or break, no matter how you squeeze it in your hand. Marvelous!
+^777777-------------^000000
+Weight: ^7777771^000000"
+#
+6847#
+^ff0000Account bound.^000000
+You really want to see what's inside...
+But no, you can't! You need to deliver the gift to the addressee!
+^777777-------------^000000
+Weight: ^7777770^000000
+#
+12589#
+^ff0000Account bound.^000000
+The main reward for your hard work.
+Wondering what's inside? Rip off the wrapping paper!
+^777777-------------^000000
+Open the box and receive one of the following items:
+Spring Chocolate Drink x25
+Salted bacon x10
+Smoked pork x7
+Lard x7
+Ginger Protein Bar x25
+Cup of Life x4
+Lulah Kebab x15
+Hearty lunch x4
+Gruit x10
+^777777-------------^000000
+Weight: ^7777775^000000
+#
