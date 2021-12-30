@@ -1,3 +1,30 @@
+29.12.2021 11:42
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Win-Win Machine is here! Each spin will definitely grant you the win!
+
+Other:
+— Server's work was optimized to fix the lag issues. Please share your feedback on this.
+
+Finished activities:
+— The Holly Jolly Treasure and its packs were removed from the launcher;
+— Christmas Special Sets left the launcher;
+— Christmas Gift Set was removed from the launcher.
+https://eu.4gameforum.com/threads/686056/
+
+==========
+24.12.2021
+CM_Godfather
+The maintenance is finally over. Here are the changes:
+
+- The Christmas event issue has been fixed. Now it is possible to talk to Santa after walking around and to pass the poring quest.
+- The description of the Snowflake has been updated. The item is character bound.
+- The description of the Amistr Hat has been updated.
+- A 15% EXP bonus has been activated for the next 24h.
+
+==========
 22.12.2021
 Imp
 The maintenance is over, the server is online. Changelog:
