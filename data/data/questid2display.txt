@@ -22713,52 +22713,52 @@ Talk to Jack#
 You have met Premium-Neko.#
 Talk to Premium-Neko#
 
-17600#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17600#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 Each stage of the trial is given 15 minutes. Hurry up to get the full reward!#
 Trial timer#
-17601#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17601#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17602#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17602#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17603#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17603#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17604#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17604#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17605#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17605#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17606#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17606#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17607#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17607#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17608#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17608#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17609#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17609#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17610#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17610#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17611#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17611#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17612#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17612#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17613#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17613#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17614#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17614#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17615#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
+17615#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
 17621#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
@@ -22854,3 +22854,27 @@ Give out gifts for 3 minutes.#
 17651#Gift giveaway - completed#SG_FEEL#QUE_NOIMAGE#
 You have already helped Santa today.#
 Wait until tomorrow.#
+
+12340#Rebel Path#SG_FEEL#QUE_IMAGE#
+It looks like you've been mistaken for a criminal. Go to the secret <NAVI>[Einbroch Bar]<INFO>einbroch.gat,54,97,0,000,0</INFO></NAVI> and find someone who can explain everything.#
+Visit a secret bar#
+
+12341#Rebel Path#SG_FEEL#QUE_IMAGE#
+To become a member of the Rebel society, you need to pass a test. Find <NAVI>[Alvin Konik]<INFO>einbroch.gat,54,97,0,000,0</INFO></NAVI> to start the challenge.#
+Kill the monster 'Skeleton in the Closet'#
+
+12342#Rebel Path#SG_FEEL#QUE_IMAGE#
+Take 5 Steel Plates and make a weapon out of them in 3 minutes. To smelt weapons, use <NAVI>[Furnace Controller]<INFO>job_gun.gat,165,18,0,000,0</INFO></NAVI>.#
+Smelt a weapon#
+
+12343#Rebel Path#SG_FEEL#QUE_IMAGE#
+Hit all correct targets and report to <NAVI>[Ivan Sidorenko]<INFO>job_gun.gat,120,138,0,000,0</INFO></NAVI>.#
+Hit the targets#
+
+12344#Rebel Path#SG_FEEL#QUE_IMAGE#
+You will be disqualified if you hit 3 or more incorrect targets.#
+Wrong targets#
+
+12345#Rebel Path#SG_FEEL#QUE_IMAGE#
+You have completed all the tests. To join the Rebel Society, speak to <NAVI>[Ivan Sidorenko]<INFO>job_gun.gat,220,132,0,000,0</INFO></NAVI>.#
+Become a Rebel#

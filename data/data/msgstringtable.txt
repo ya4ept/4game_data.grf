@@ -1327,7 +1327,7 @@ Block all party invitations.#
 Allow all party invitations.#
 This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
 %s is now permanently bound to this character.#
-Not enough money.#
+Not enough Kafra cards.#
 Request to Join Party#
 Display WOE Info#
 Memorial Dungeon %s's reservation has been canceled.#
@@ -1946,7 +1946,7 @@ Too many rune items. Failed to purchase.#
 The number of individual items purchased exceeds the limit#
 An unknown error has occurred and the purchase failed.#
 Please try again later.#
- this mounting item is only available in one status.#
+Need Kunai.#
 Please enter the value of the minimum level of recruit.#
 Cannot obtain. Check your inventory limit.#
 Available only during WoE.#
@@ -2464,7 +2464,7 @@ JOB EXP from Monsters will increase %d%% for %d mins.#
 Zeny: %s#
 Zeny#
 You can keep up to 2,147,483,647 zeny.#
-Not enough money.#
+Not enough ammo.#
 Even if you input over 1,000,000,000 zeny, it will be sold for 1,000,000,000.#
 AuthTicket is Not Vaild#
 ErrorCode : %d, ErrorValue : %d#

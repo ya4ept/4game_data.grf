@@ -10176,10 +10176,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_STAHL_HORN] = {
 		"MH_STAHL_HORN",
 		SkillName = "Stahl Horn",
-		MaxLv = 5,
-		SpAmount = { 40, 45, 50, 55, 60 },
+		MaxLv = 10,
+		SpAmount = { 43, 46, 49, 52, 55, 58, 61, 64, 67, 70 },
 		bSeperateLv = true,
-		AttackRange = { 5, 6, 7, 8, 9 }
+		AttackRange = { 5, 5, 6, 6, 7, 7, 8, 8, 9, 9 }
 	},
 	[SKID.PF_SOULBURN] = {
 		"PF_SOULBURN",
@@ -10899,7 +10899,7 @@ SKILL_INFO_LIST = {
 		"RL_R_TRIP",
 		SkillName = "Round Trip",
 		MaxLv = 5,
-		SpAmount = { 20, 25, 30, 35, 40 },
+		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
 		AttackRange = { 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
@@ -10934,7 +10934,11 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 30, 32, 34, 36, 38 },
 		bSeperateLv = true,
-		AttackRange = { 0, 0, 0, 0, 0 }
+		AttackRange = { 0, 0, 0, 0, 0 },
+		_NeedSkillList = {
+			{ SKID.RL_FLICKER, 1 }
+		}
+
 	},
 	[SKID.RL_BANISHING_BUSTER] = {
 		"RL_BANISHING_BUSTER",
@@ -10989,6 +10993,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
+			{ SKID.GS_GLITTERING, 1 },
 			{ SKID.GS_CHAINACTION, 10 }
 		}
 	},
@@ -11000,7 +11005,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 0 },
 		_NeedSkillList = {
-			{ SKID.RL_E_CHAIN, 1 }
+			{ SKID.GS_CHAINACTION, 1 }
 		}
 	},
 	[SKID.RL_C_MARKER] = {
@@ -11011,7 +11016,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 11 },
 		_NeedSkillList = {
-			{ SKID.GS_INCREASING, 1 }
+			{ SKID.GS_GLITTERING, 1 }
 		}
 	},
 	[SKID.RL_FIREDANCE] = {
@@ -11022,7 +11027,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
-			{ SKID.RL_FALLEN_ANGEL, 1 }
+			{ SKID.GS_DESPERADO, 1 }
 		}
 	},
 	[SKID.RL_FIRE_RAIN] = {
@@ -11039,10 +11044,10 @@ SKILL_INFO_LIST = {
 	[SKID.RL_FALLEN_ANGEL] = {
 		"RL_FALLEN_ANGEL",
 		SkillName = "Fallen Angel",
-		MaxLv = 5,
-		SpAmount = { 10, 10, 10, 10, 10 },
+		MaxLv = 1,
+		SpAmount = { 10 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9 },
+		AttackRange = { 9 },
 		_NeedSkillList = {
 			{ SKID.GS_DESPERADO, 10 }
 		}
@@ -11053,7 +11058,11 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 20, 24, 28, 32, 36 },
 		bSeperateLv = true,
-		AttackRange = { 0, 0, 0, 0, 0 }
+		AttackRange = { 0, 0, 0, 0, 0 },
+		_NeedSkillList = {
+			{ SKID.RL_RICHS_COIN, 1 }
+		}
+
 	},
 	[SKID.RL_FLICKER] = {
 		"RL_FLICKER",
@@ -11063,7 +11072,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 0 },
 		_NeedSkillList = {
-			{ SKID.GS_FLING, 1 }
+			{ SKID.GS_GLITTERING, 1 }
 		}
 	},
 	[SKID.RL_H_MINE] = {
@@ -11074,7 +11083,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 7, 8, 9, 10, 11 },
 		_NeedSkillList = {
-			{ SKID.GS_SPREADATTACK, 1 }
+			{ SKID.GS_GROUNDDRIFT, 1 }
 		}
 	},
 	[SKID.RL_HAMMER_OF_GOD] = {
@@ -11096,7 +11105,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
-			{ SKID.RL_FIREDANCE, 2 }
+				{ SKID.RL_RICHS_COIN, 1 }
 		}
 	},
 	[SKID.MC_CARTDECORATE] = {
