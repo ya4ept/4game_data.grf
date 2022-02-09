@@ -7,3 +7,4 @@ frostFinalize:
 frostSetUserName:
 frostSetUserNameW:
 setUserName()  
+finish() 
