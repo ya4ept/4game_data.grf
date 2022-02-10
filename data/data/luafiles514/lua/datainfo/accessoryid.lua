@@ -2085,5 +2085,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Fishbone_Hair = 2139,
 	ACCESSORY_C_Whale_Cap = 2140,
 	ACCESSORY_C_Sailor_Collar_WH = 2141,
-	ACCESSORY_C_Fishbowl_Parfait_Hat = 2145
+	ACCESSORY_C_Fishbowl_Parfait_Hat = 2145,
+	ACCESSORY_C_Inner_Color_Long = 2155
 }
