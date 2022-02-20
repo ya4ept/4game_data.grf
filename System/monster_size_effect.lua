@@ -1340,14 +1340,15 @@ tbl = {
 	[3041] = { MonsterSize = 1.5, MonsterEff = EFFECT.EF_LEVEL150_SUB },
 	[3505] = { MonsterSize = 1.5, MonsterEff = EFFECT.EF_DOUBLEGUMGANG3 },
 	[3129] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_BOTTOM_SUITON },
-	[3132] = { MonsterSize = 2, MonsterEff = EFFECT.EF_BOTTOM_SUITON }
+	[3132] = { MonsterSize = 2, MonsterEff = EFFECT.EF_BOTTOM_SUITON },
+	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE }
 }
 
 -- Function #0
 main = function()
 	for MonsterID, info in pairs(tbl) do
 		result, msg = AddItem(MonsterID, info.MonsterSize, info.MonsterEff)
-		if not result == true then
+		if  not result == true then
 			return false, msg
 		end
 	end

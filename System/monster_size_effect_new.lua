@@ -1346,7 +1346,8 @@ tbl = {
 	[3970] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_HASTEUP } },
 	[20661] = { MonsterSize = 0.8, MonsterEff = { EFFECT.EF_GREEN99_6 } },
 	[20662] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
-	[20663] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_REDLIGHTBODY } }
+	[20663] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_REDLIGHTBODY } },
+	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE }
 }
 
 -- Function #0
