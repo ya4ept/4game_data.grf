@@ -1,3 +1,25 @@
+24.02.2022 12:05
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— New Transmutator Packs are now available on the Launcher, offering a possibility for rearranging your stats. Offer available until March 2nd.
+— The Bear Day Treasure is here both individually and in packs to nourish your love for the motherland. Check our Launcher and the Shop.
+— There are new Fallen Angel Wings Sets available on the Launcher. Do not miss them!
+
+Fixes:
+— Now the achievement for reaching the Level 150 is displayed correctly.
+— The weight of the Yummi Skewered Grill was changed to 1.
+— Now The Crystal Mirror can be sold to the NPC.
+
+Finished activities:
+— The event Recipe for Love has come to an end.
+— The Fortune, Fate & Destiny Sets was removed from the launcher.
+— Refinement Sets was also removed from the launcher.
+
+https://eu.4gameforum.com/threads/686623/
+
+==========
 16.02.2022
 CM_Godfather
 The Maintenance is over and the update is up, changes are the following:

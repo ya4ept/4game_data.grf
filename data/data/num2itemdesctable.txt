@@ -8805,12 +8805,12 @@ Weight: ^7777771^000000
 // ---- Valentine's Day event -----------
 #
 7182#
-A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
+A nut from the Cocoa tree that is naturally found in warm climes. It must be dried into Cocoa beans, fried and then ground to become Cocoa paste. Chocolate is made by solidying the Cocoa paste with milk. The fat extracted from the Cocoa paste is used as Cocoa butter, so it's not ready to eat yet.
 ^ffffff_^000000
 weight: ^7777772^000000
 #
 558#
-Fried and grinded Cacao that is solidified with Milk and cacao paste. Delicious and bittersweet.
+Fried and grinded Cocoa that is solidified with Milk and Cocoa paste. Delicious and bittersweet.
 ^ffffff_^000000
 weight: ^7777772^000000
 #
@@ -9261,7 +9261,7 @@ White chocolate which is used to propose to a girl by a boy during White Day.
 Weight: ^7777778^000000
 #
 561#
-A white cacao.
+A white Cocoa.
 ^ffffff_^000000
 Weight: ^7777778^000000
 #
@@ -12858,19 +12858,19 @@ A solid tablet that is cold to the touch.
 Weight: ^7777771^000000
 #
 7333#
-¡°In the town of Prontera I fell sick, I needed something from the land of trees to make my blood thick....¡± - The First Man
+ï¿½ï¿½In the town of Prontera I fell sick, I needed something from the land of trees to make my blood thick....ï¿½ï¿½ - The First Man
 Weight: ^7777771^000000
 #
 7334#
-¡°We¡¯re on our way now, soon we will venture to the desert in high spirits...¡± - The Second Man
+ï¿½ï¿½Weï¿½ï¿½re on our way now, soon we will venture to the desert in high spirits...ï¿½ï¿½ - The Second Man
 Weight: ^7777771^000000
 #
 7335#
-¡°There is a strange feeling in the air here...almost as if I can do magic myself...¡± - The Third Man
+ï¿½ï¿½There is a strange feeling in the air here...almost as if I can do magic myself...ï¿½ï¿½ - The Third Man
 Weight: ^7777771^000000
 #
 7336#
-¡°We ventured just North of the giant beautiful Jolnir flower...and that¡¯s where our journey began...¡± - The Fourth Man
+ï¿½ï¿½We ventured just North of the giant beautiful Jolnir flower...and thatï¿½ï¿½s where our journey began...ï¿½ï¿½ - The Fourth Man
 Weight: ^7777771^000000
 #
 7337#
@@ -13921,7 +13921,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// ---------- »õ Åõ±¸Ãß°¡ -----------
+// ---------- ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ß°ï¿½ -----------
 5107#
 Unknown item
 requiring Appraisal.
@@ -14025,7 +14025,7 @@ allows use of the Kafra Teleport Service for a
 limited amount of times without any zeny charge.
 #
 
-// --------- »õ·Î¿î ¹«±â ÆĞÄ¡ ----------
+// --------- ï¿½ï¿½ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ä¡ ----------
 
 5122#
 Unknown item
@@ -14094,7 +14094,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// -------- ±â¾÷µµ½Ã ¸®È÷Å¸¸£Á¨ ----------
+// -------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å¸ï¿½ï¿½ï¿½ï¿½ ----------
 
 
 576#
@@ -14739,7 +14739,7 @@ random food item.
 ^FFFFFF ^000000
 Weight: ^77777720^000000
 #
-// -------------- Ãß°¡½ºÅ³¿ë ¾ÆÀÌÅÛ --------------
+// -------------- ï¿½ß°ï¿½ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 1771#
 A throwing knife
 laced with toxin that
@@ -15724,7 +15724,7 @@ sublimely delicious.
 ^FFFFFF ^000000
 Weight: ^7777777^000000
 #
-// ------------ ¿ä¸®Á¦Á¶ --------------
+// ------------ ï¿½ä¸®ï¿½ï¿½ï¿½ï¿½ --------------
 
 7472#
 Level 1 Recipes
@@ -15780,7 +15780,7 @@ with these recipes.''
 10 Yellow Herbs
 
 ^800000Chocolate Mousse Cake^000000
-10 Cacao
+10 Cocoa
 1 Piece of Cake
 1 Milk
 1 China
@@ -17106,9 +17106,9 @@ Weight: ^7777770^000000
 #		
 7718#		
 A fermented and		
-dried Cacao Bean		
+dried Cocoa Bean		
 that has been shelled		
-from a raw Cacao.		
+from a raw Cocoa.		
 Weight: ^7777771^000000		
 #		
 7604#		
@@ -17144,7 +17144,7 @@ Weight: ^77777710^000000
 12234#							
 A chocolate bar
 whose content is
-99% Cacao: it tastes
+99% Cocoa: it tastes
 more bitter than sweet,^FFFFFF   ^000000 but chocolate aficionados
 love it for its rugged
 flavor and various
@@ -17190,7 +17190,7 @@ impressive bling.
 ^ffffff_^000000
 Weight : ^77777780^000000
 #
-// -------------------------- ¼ÒÄÏÀÎÃ¦Æ® ½Å±Ô¹«±âÃß°¡ ----------------------------
+// -------------------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¦Æ® ï¿½Å±Ô¹ï¿½ï¿½ï¿½ï¿½ß°ï¿½ ----------------------------
 
 1816#
 Unknown item
@@ -17386,10 +17386,10 @@ using a Magnifier.
 #
 
 
-// ------------------- 2006 »ó¹İ±â ½Å±ÔÄ«µå Ãß°¡.-----------------------
-//¿µ¹®±Ç 11.1 ¿¡¼­ ¾÷µ¥ÀÌÆ® Á¦¿ÜÇÏ±â·Î ÇÕ´Ï´Ù.
+// ------------------- 2006 ï¿½ï¿½İ±ï¿½ ï¿½Å±ï¿½Ä«ï¿½ï¿½ ï¿½ß°ï¿½.-----------------------
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 11.1 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ï¿½ ï¿½Õ´Ï´ï¿½.
 
-// ------------- ¾Æ·ç³ª »ó¹İ±â -----------
+// ------------- ï¿½Æ·ç³ª ï¿½ï¿½İ±ï¿½ -----------
 
 7561#
 A frozen heart that
@@ -17503,7 +17503,7 @@ Can be identified by
 using a Magnifier.
 #
 
-//----------------------20060610 ½Å±ÔÃß°¡¾ÆÀÌÅÛ-------------------------
+//----------------------20060610 ï¿½Å±ï¿½ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-------------------------
 5169#
 Unknown item
 requiring Appraisal.
@@ -17559,7 +17559,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// -------------- 2006 Ãß°¡¾ÆÀÌÅÛ -------------
+// -------------- 2006 ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -------------
 
 5184#
 Unknown item
@@ -17625,9 +17625,9 @@ Weight: ^7777770^000000
 #		
 7718#		
 A fermented and		
-dried Cacao Bean		
+dried Cocoa Bean		
 that has been shelled		
-from a raw Cacao.		
+from a raw Cocoa.		
 Weight: ^7777771^000000		
 #		
 7604#		
@@ -17638,7 +17638,7 @@ be used in a variety
 of different foods.		
 Weight: ^7777771^000000		
 #		
-// --------------- ÆĞÅ°Áö¾ÆÀÌÅÛ ----------------
+// --------------- ï¿½ï¿½Å°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 5137#
 Unknown item
 requiring Appraisal.
@@ -17675,7 +17675,7 @@ requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-// ------------- ¹Ì±¹ ÇØÀûÀÇ ³¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ --------------
+// ------------- ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 7875#
 A recovered Treasure box
 that was Lost by 
@@ -19430,7 +19430,7 @@ Weapon Level: ^7777774^000000
 Required Level: ^7777771^000000
 Jobs: ^777777Priest, Monk^000000
 #
-// ------------------- 2006 »ó¹İ±â ½Å±ÔÄ«µå Ãß°¡.-----------------------
+// ------------------- 2006 ï¿½ï¿½İ±ï¿½ ï¿½Å±ï¿½Ä«ï¿½ï¿½ ï¿½ß°ï¿½.-----------------------
 
 4332#
 ATK +5, INT +1
@@ -20293,7 +20293,7 @@ Compound on: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 
-// ------------- Ã¥ÀĞ±â ----------------------
+// ------------- Ã¥ï¿½Ğ±ï¿½ ----------------------
 
 11001#
 A new novel from best
@@ -20374,7 +20374,7 @@ fiction author.
 Weight: ^7777771^000000
 #
 
-// ----------------------- Åä¸£È­»ê Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ----------------------- ï¿½ä¸£È­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 7704#
 A device that can
 measure the ground's
@@ -20396,7 +20396,7 @@ by a Geologist.
 Weight: ^7777770^000000
 #
 
-// ----------------------- Åä¸£È­»ê ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ------------------------
+// ----------------------- ï¿½ä¸£È­ï¿½ï¿½ ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------------
 1370#
 Unknown item
 requiring Appraisal.
@@ -21060,7 +21060,7 @@ for 3 minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
-// ---------------- ÀÎµµ³×½Ã¾Æ °¡º­¿î Ä³½¬ ¾ÆÀÌÅÛ --------------
+// ---------------- ï¿½Îµï¿½ï¿½×½Ã¾ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 
 12999#
 A box that contains
@@ -21456,7 +21456,7 @@ requiring Appraisal.
 Can be identified by
 using a Magnifier.
 #
-// ------------- 2007 ÇÒ·ÎÀ© ÃàÁ¦¸ğÀÚ ---------------
+// ------------- 2007 ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 5356#
 Unknown item
 requiring Appraisal.
@@ -21474,7 +21474,7 @@ that have shaped
 your life.							
 ^ffffff_^000000							
 #
-// -------- 2007 ÀÏº» ¿¬¸» Ä³½¬¾ÆÀÌÅÛ ----------					
+// -------- 2007 ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------					
 5380#					
 Unknown item					
 requiring Appraisal.					
@@ -21615,7 +21615,7 @@ abnormal statuses^000088,
 ^ffffff_^000000		
 Weight: ^77777715^000000		
 #		
-// ----- Å©¸®½º¸¶½º ÀÌº¥Æ® »êÅ¸ ¼ö¿° --------			
+// ----- Å©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ --------			
 7908#			
 A hairstyling coupon			
 that can be redeemed			
@@ -21676,7 +21676,7 @@ outside of the machine.
 Weight : ^7777770^000000							
 #							
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- ´ë¸¸ Æê Ãß°¡ ------------------						
+// ----------- ï¿½ë¸¸ ï¿½ï¿½ ï¿½ß°ï¿½ ------------------						
 9038#						
 An egg in which the						
 New Year Doll Cute						
@@ -21760,7 +21760,7 @@ LUK +21.
 ^ffffff_^000000						
 Weight: ^77777710^000000						
 #						
-//============2008 ¹Ì±¹ ¼¼ÀÎÆ®ÆĞÆ®¸¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ============					
+//============2008 ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½============					
 12715#					
 [This item will be removed
 
@@ -21802,7 +21802,7 @@ Somehow this box is easily stolen by snakes.
 ^ffffff_^000000
 Weight: ^7777770^000000
 #					
-// ---------------------- ¿ëº´¼ÒÈ¯¼­ -------------------------------
+// ---------------------- ï¿½ëº´ï¿½ï¿½È¯ï¿½ï¿½ -------------------------------
 
 12153#
 Summon a 1st
@@ -22011,7 +22011,7 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
-// ------------------ ¿ëº´¿ë Æ÷¼Ç ------------------
+// ------------------ ï¿½ëº´ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ------------------
 12241#
 A Concentration Potion
 for Mercenaries that
@@ -22037,7 +22037,7 @@ Attack Speed.
 Weight: ^77777720^000000
 #
 
-// ---------------- ¸±·¹ÀÌ Äù½ºÆ® ¾ÆÀÌÅÛ ------------------
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 7730#
 A ticket proving
 that the bearer has
@@ -22159,7 +22159,7 @@ a new mission.
 Weight: ^7777771^000000
 #
 
-// -------------- 11.3 ÀâÅÛ -------------------
+// -------------- 11.3 ï¿½ï¿½ï¿½ï¿½ -------------------
 7751#
 A worn-out white
 cloth that can be
@@ -22200,7 +22200,7 @@ Merchant NPCs.
 Weight: ^7777771^000000
 #
 
-// ------------ Äù½ºÆ® ¾ÆÀÌÅÛ -----------------
+// ------------ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------------
 7755#
 Much of the writing
 on this note isn't
@@ -22218,7 +22218,7 @@ behind a tight seal.
 Weight: ^7777771^000000
 #
 
-// ------------------- 11.3 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ --------------------------
+// ------------------- 11.3 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------------------
 2122#
 Unknown item
 requiring Appraisal.
@@ -22681,7 +22681,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// ------------ 11.3 Äù½ºÆ® ¾ÆÀÌÅÛ --------------
+// ------------ 11.3 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 7722#
 A loan document
 that includes the
@@ -22729,7 +22729,7 @@ seal of the King of the Rune-Midgarts Kingdom.
 Weight: ^7777770^000000
 #
 
-// ----------------- 20070808 ½Å±ÔCard 34Á¾ -----------------
+// ----------------- 20070808 ï¿½Å±ï¿½Card 34ï¿½ï¿½ -----------------
 4408#
 Increases Physical
 damage to Holy,
@@ -23090,14 +23090,14 @@ it's been cooked.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 5409#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
 5410#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
-// -------- ¹Ì±¹ Æä½ºÆ¼¹ú Æ¼ÄÏ ----------
+// -------- ï¿½Ì±ï¿½ ï¿½ä½ºÆ¼ï¿½ï¿½ Æ¼ï¿½ï¿½ ----------
 7919#
 Evidence that you really enjoyed the festival!
 ^ffffff_^000000
@@ -23105,13 +23105,13 @@ This item cannot be dropped, traded, mailed or vended.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------				
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------				
 6025#
 A towel that helps you remember those that have passed on.				
 ^ffffff_^000000				
 Weight: ^7777770^000000
 #
-// -------- ÃÊº¸ÀÚÁ¸ ¾ÆÀÌÅÛ -----------
+// -------- ï¿½Êºï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
 ^ffffff_^000000
@@ -23237,7 +23237,7 @@ A tribute to luck and fortune throughout the year.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------- ¸ğ¹ÙÀÏ °Ë»çÆí ÅÃÆ½½º ----------
+// ---------- ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ë»ï¿½ï¿½ï¿½ ï¿½ï¿½Æ½ï¿½ï¿½ ----------
 5129#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23250,7 +23250,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// ------------------Áß±¹ÀÌº¥Æ® ºÀ°ü--------------------
+// ------------------ï¿½ß±ï¿½ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½--------------------
 5152#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23272,12 +23272,12 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// ------------------ 2006 ÀÏº» ¾Ö´Ï¹ö¼­¸® Headgear -----------------
+// ------------------ 2006 ï¿½Ïºï¿½ ï¿½Ö´Ï¹ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear -----------------
 5211#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// ------------------ ºê¶óÁú °¡¹ß ½Ã¸®Áî -----------------------
+// ------------------ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã¸ï¿½ï¿½ï¿½ -----------------------
 5273#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23291,17 +23291,17 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// --------------- ºê¶óÁú Ä³½¬ ¾ÆÀÌÅÛ 20070605 ------------
+// --------------- ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 20070605 ------------
 5307#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// -------------- ÅÂ±¹ Ä³½¬¾ÆÀÌÅÛ Headgear Ãß°¡ 20070809 --------------
+// -------------- ï¿½Â±ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear ï¿½ß°ï¿½ 20070809 --------------
 5325#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// -------------- 2007³â 9¿ù ÀÏº» ¸ğ¹ÙÀÏ Headgear 13Á¾ -----------------
+// -------------- 2007ï¿½ï¿½ 9ï¿½ï¿½ ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear 13ï¿½ï¿½ -----------------
 5333#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23345,12 +23345,12 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// --------- ÅÂ±¹ ¸ğÀÚ ¾ÆÀÌÅÛ -------------
+// --------- ï¿½Â±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -------------
 5387#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// -------------- 2008 ÀÏº» ¾ÆÀÌÅÛ Á¦ 2Åº -----------------
+// -------------- 2008 ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ 2Åº -----------------
 5401#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23367,7 +23367,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// --------------- ÇÊ¸®ÆÇ ÀÚÃ¼Á¦ÀÛ Headgear 7Á¾ -------------
+// --------------- ï¿½Ê¸ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ Headgear 7ï¿½ï¿½ -------------
 5372#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -23470,7 +23470,7 @@ Jobs : ^777777All^000000
 Weight : ^7777771^000000
 #
 
-// ------¾Ëµ¥¹Ù¶õÅÍº¸Æ®·¢------
+// ------ï¿½Ëµï¿½ï¿½Ù¶ï¿½ï¿½Íºï¿½Æ®ï¿½ï¿½------
 12016#
 A potion which increases the moving speed of a character for a set duration.
 ^ffffff_^000000
@@ -23482,7 +23482,7 @@ A potion which decreases the moving speed of a character for a set duration.
 Weight : ^77777710^000000
 #
 
-// ---------- ÇÊ¸®ÇÉ 4¿ù ¹Ú½º ÆĞÅ°Áö ----------------
+// ---------- ï¿½Ê¸ï¿½ï¿½ï¿½ 4ï¿½ï¿½ ï¿½Ú½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½ ----------------
 13994#
 A box containing 5 Speed Potions.
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
@@ -23515,11 +23515,11 @@ A box that contains 1 coupon to dye your clothes to the original color.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 2776#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
-// ------------- ½Å±Ô ½Å±Ş ¾ÆÀÌÅÛ GOD ITEMS --------------
+// ------------- ï¿½Å±ï¿½ ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ GOD ITEMS --------------
 2383#
 Brynhild is one of the valiant valkyries, meaning 'the warrior's armor'.
 Base level*20 MHP increase. Base Lv*5 MSP increase.
@@ -23597,7 +23597,7 @@ You can exchange it for a gift.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------------- Å×½ºÆ®¿ë Ä³½¬¾ÆÀÌÅÛ »óÀÚ Town B-wings -----------------
+// ---------------- ï¿½×½ï¿½Æ®ï¿½ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Town B-wings -----------------
 13849#
 A box containing 5 scrolls on which the towns of Run Midgartz are written. You may be moving to the town when using it.
 "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran", "Alberta"
@@ -23654,7 +23654,7 @@ Locations: "Ayothaya", "Amatsu", "Luoyang", "Kunlun"
 Weight : ^7777771^000000
 #
 
-// ----------- 20071004 Ä³½Ã¾ÆÀÌÅÛ -----------
+// ----------- 20071004 Ä³ï¿½Ã¾ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
 Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
@@ -24052,7 +24052,7 @@ Jobs : ^777777All^000000
 #
 
 // --------------------- Ep. 12 --------------------------
-// ------------- ÀüÀå º¸»ó ¾ÆÀÌÅÛ ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 13036#
 A dagger especially used for assassinations such as killing Demihumans.
 STR + 1, AGI + 1
@@ -24104,7 +24104,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Novice,Swordman,Merchant,Thief Classes,and Ninja^000000
 #
 1425#
-A special spear made for charging at the enemy¢¥s position. It is especially designed for battles against Demihumans.
+A special spear made for charging at the enemyï¿½ï¿½s position. It is especially designed for battles against Demihumans.
 STR + 2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
@@ -24295,7 +24295,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Priest, Monk^000000
 #
 1183#
-A Two-handed Sword made to rush at the enemy¢¥s position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemyï¿½ï¿½s position, especially designed for battles against Demihumans.
 STR + 2
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
 Ignores Physical Defense from Demihuman monsters by 20%.
@@ -24307,7 +24307,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordman Class^000000
 #
 1184#
-A Two-handed Sword made to rush at the enemy¢¥s position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemyï¿½ï¿½s position, especially designed for battles against Demihumans.
 CRI + 20
 Increases Physical Attack Strength to Demihuman monsters by 55%.
 Increases Critical damage by 20%.
@@ -24319,7 +24319,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordman Class^000000
 #
 1482#
-A Two-handed Sword made to rush at the enemy¢¥s position, especially designed for battles against Demihumans.
+A Two-handed Sword made to rush at the enemyï¿½ï¿½s position, especially designed for battles against Demihumans.
 STR + 2
 Increases Physical Attack Strength to Demihuman monsters by 25%.
 Ignores Physical Defense from Demihuman monsters.
@@ -24681,7 +24681,7 @@ A sealed paper envelope. It seems to contain an important message in it.
 Weight: ^7777771^000000
 #
 
-// ------------ ¸Ş¸ğ¸®¾ó ´øÀü º¸»óÅÛ ----------------
+// ------------ ï¿½Ş¸ğ¸®¾ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
 Low chance to ignore general monsters' Def when physically attacked.
@@ -24733,7 +24733,7 @@ Required Level: ^77777770^000000
 Jobs: ^777777All Transcendent Jobs except Novice^000000
 #
 
-//¸ğ·ÎÅ© ÄÁÆ¼³ÙÅ» °¡µå ÀÎÁõ¼­
+//ï¿½ï¿½ï¿½Å© ï¿½ï¿½Æ¼ï¿½ï¿½Å» ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
 ^ffffff_^000000
@@ -24742,7 +24742,7 @@ Continental Guard. Balrog.
 Weight: ^7777770^000000
 #
 
-// ------------ ¸¶¿Õ ¸ğ·ÎÅ© ----------------
+// ------------ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Å© ----------------
 2536#
 Lucifer's skin, cursed by the devil's language. It seems thrown on the back.
 MDEF + 2, MHP + 200, FLEE + 10
@@ -24831,7 +24831,7 @@ Weight: ^77777725^000000
 Jobs: ^777777Above Transcendent 2-1 Classes^000000
 #
 
-// ---------- ÇÒÂ¦ Å×½ºÆ® -----------
+// ---------- ï¿½ï¿½Â¦ ï¿½×½ï¿½Æ® -----------
 2129#
 Unknown item					
 requiring Appraisal.					
@@ -24995,7 +24995,7 @@ Can be identified by
 using a Magnifier.
 #
 
-// ------------- ÀüÀå ÈÖÀå ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ---------------
 7828#
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
 ^ffffff_^000000
@@ -25005,7 +25005,7 @@ A badge that is provided to warriors who have brought great honor from the Battl
 ^ffffff_^000000
 #
 
-// -------- ºÀÀÎÀÇ ½ÅÀü ¾ÆÀÌÅÛ ------------
+// -------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
 ^ffffff_^000000
@@ -25022,14 +25022,14 @@ A pendant that used to be used for confining wandered souls from unknown places.
 Weight: ^7777771^000000
 #
 
-// ----------------- ¸¶·ÂÀÌ ±êµç ¹ÙÆ÷¸ŞÆ® ÀÎÇü -----------------
+// ----------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ -----------------
 6004#
 A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 
-// ------------------- 12.1 Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ------------------- 12.1 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 7798#
 A dark fragment imbued with a gloomy spirit. Once you stare into it, you might feel absorbed into it.
 ^ffffff_^000000
@@ -25042,7 +25042,7 @@ You might feel a strong dangerous power from this crystal. When you are close to
 Weight: ^7777771^000000
 #
 
-// --------------- ÇÊ¸®ÇÉ ÀÚÃ¼Á¦ÀÛ Åõ±¸ 7Á¾ ----
+// --------------- ï¿½Ê¸ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 7ï¿½ï¿½ ----
 5374#
 A sorcery headgear made of goat horns.
 Increases Physical Damage from Demihuman monsters by 12%.
@@ -25052,7 +25052,7 @@ Location : ^777777Upper^000000    Weight: ^77777780^000000
 Jobs: ^777777All Jobs^000000
 #
 
-// ------------------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------------
+// ------------------- ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 6000#
 A dark ash imbued with mysterious magical power and darkness.
 ^ffffff_^000000
@@ -25089,7 +25089,7 @@ Stepmother - karma from a previous life?"
 Weight: ^7777771^000000
 #
 
-// ------------------ ÇÏ¾Ç Å×½ºÆ® (¼ÒÄÏ)----------------
+// ------------------ ï¿½Ï¾ï¿½ ï¿½×½ï¿½Æ® (ï¿½ï¿½ï¿½ï¿½)----------------
 1568#
 Unknown item
 requiring Appraisal.
@@ -25386,7 +25386,7 @@ Weight : ^7777775^000000
 #
 
 7877#
-Mashenka¡¯s ring. It seems to have a sad story.
+Mashenkaï¿½ï¿½s ring. It seems to have a sad story.
 ^ffffff_^000000
 Weight : ^77777710^000000
 #
@@ -25404,7 +25404,7 @@ Weight : ^7777771^000000
 #
 
 7880#
-Babayaga¡¯s silver spoon stolen by pirates.
+Babayagaï¿½ï¿½s silver spoon stolen by pirates.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -25896,7 +25896,7 @@ Weight: ^77777710^000000
 A box that contains 1 Necromancer's Hood Headgear.
 #
 
-// 2009-01-16 ¹Ì±¹ ¿äÃ» ¾ÆÀÌÅÛ
+// 2009-01-16 ï¿½Ì±ï¿½ ï¿½ï¿½Ã» ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 6125#
 A Lucky Box, Please hold onto this box until the next Lucky Box event.
 ^ffffff_^000000
@@ -25917,7 +25917,7 @@ Weight: ^7777771^000000
 ^FF0000This item can only be opened until Feb. 10, 2009^000000
 #
 
-//¹ß·»Å¸ÀÎ
+//ï¿½ß·ï¿½Å¸ï¿½ï¿½
 12742#
 A box containing a ring which is an exchanging gift for Valentine's Day.
 ^ffffff_^000000
@@ -25966,7 +25966,7 @@ Weight : ^7777770^000000
 Unknown Item, can be identified by [Magnifier].
 #
 
-// ----------- Æ÷¸µ´ëÀü º¸»óÇ° ¾ÆÀÌÅÛ ------------01/07/09		
+// ----------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------01/07/09		
 2765#			
 Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
 #			
@@ -25994,7 +25994,7 @@ Unknown item requiring Appraisal.  Can be identified by using a Magnifier.
 2771#			
 Unknown item requiring Appraisal.  Can be identified by using a Magnifier.			
 #			
-// ----------- »óÇ° ¾ÆÀÌÅÛ ---------------				
+// ----------- ï¿½ï¿½Ç° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------				
 12109#				
 A wrapped box stamped^FFFFFF    ^000000 with the Poring seal. You				
 can faintly hear rustling coming from inside of it.				
@@ -26002,25 +26002,25 @@ can faintly hear rustling coming from inside of it.
 Weight: ^77777720^000000				
 #				
 				
-// ---------------- Æ÷¸µÄÚÀÎ -----------------				
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------------				
 7539#				
 A small coin with a monster Poring engraved in it.				
 #				
 				
-// ------------- ÀüÅõÈÖÀå ---------------				
+// ------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------				
 7773#				
 A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.				
 ^ffffff_^000000				
 #				
 				
-// -------------- ¸ó½ºÅÍ·¹ÀÌ½Ì -----------------				
+// -------------- ï¿½ï¿½ï¿½Í·ï¿½ï¿½Ì½ï¿½ -----------------				
 7515#				
 A medal crafted from a rare and mysterious metal that can only be found in Hugel.				
 These medals cannot be traded or given to other players.				
 ^ffffff_^000000				
 #				
 	
-// 2009-02-16 ¹Ì±¹ º¸º´±Ã ½Ö¾î±Ã Ãß°¡		
+// 2009-02-16 ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ ï¿½ß°ï¿½		
 5512#		
 Unknown item requiring Appraisal.  Can be identified by using a Magnifier.	
 #		
@@ -26366,7 +26366,7 @@ Weight : ^7777770^000000
 
 
 //=============================Ep13========================================
-// ----------- ¿¡ÇÇ¼Òµå 13 ÀâÅÛ ------------
+// ----------- ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13 ï¿½ï¿½ï¿½ï¿½ ------------
 6020#
 Beautiful Silver colored fur that can be sold to merchant NPC at a high price.
 ^ffffff_^000000
@@ -26391,7 +26391,7 @@ Beautiful long, white colored horn with the very strong magical power. It can be
 Weight : ^7777771^000000
 #
 
-// --------- EP13 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ---------------
+// --------- EP13 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 5398#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -26540,7 +26540,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// ---------- ¿¡ÇÇ¼Òµå 13 Äù½ºÆ® ¾ÆÀÌÅÛ ------------
+// ---------- ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6027#
 A crystal bearing strong force of darkness.  Blood stain on the surface looks full of darkness.  It gives the feeling of evil.
 ^ffffff_^000000
@@ -26615,7 +26615,7 @@ A box full of something heavy.
 Weight : ^77777710^000000
 #
 
-// ----------- 20080521 ¿¡ÇÇ¼Òµå 13 Äù½ºÆ® ¾ÆÀÌÅÛ -----------
+// ----------- 20080521 ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 6036#
 Rune-Midgard's investigator, Ryosen has filled out this Meeting Invitation.  The agenda and the schedule of the meeting are written. 
 ^ffffff_^000000
@@ -26734,7 +26734,7 @@ A pie covered with sweet chocolate.  This sure looks not pretty but the taste is
 Weight : ^77777730^000000
 #
 
-// ----------- ¿¡ÇÇ¼Òµå 13 ppl ¾ÆÀÌÅÛ -----------
+// ----------- ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13 ppl ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 6051#
 Unknown mineral which is not found in Midgards.  Looks like it has some unknown magical power inside.
 ^ffffff_^000000
@@ -26743,13 +26743,13 @@ Weight : ^7777771^000000
 Weight : ^7777771^000000
 #
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ ----------
+// ---------- Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------
 13042#
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
 When attacking, inflicts an auto-spell of [Lex Divina] Lv.1 at a certain rate.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -26766,7 +26766,7 @@ Jobs : ^777777Novice Class/Swordman Class/Wizard Class/Archer Class/Merchant Cla
 75% increase in Physical Attack against Demihuman monsters.
 Ignore 20% of Physical Defense of Demihuman monsters.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining 
 5% increase in ignoring physical defense of Demi-human monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -26785,7 +26785,7 @@ Jobs : ^777777Novice Class/Swordman Class/Merchant Class/Thief Class Jobs^000000
 INT + 6
 MATK + 80
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +(Refining Degree - 5) Int. Increase
 +6 Refining
 SP consume reduces by 10%.
@@ -26801,7 +26801,7 @@ Jobs : ^777777Novice Class/Swordman Class/Merchant Class/Theif Class Jobs^000000
 13418#
 INT + 6
 MATK + 80
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +(Refining Degree - 5) Int Increase
 +6 Refining
 SP Consume reduces by 10%  
@@ -26820,7 +26820,7 @@ Jobs : ^777777Swordman Class/Merchant Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attack Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 2(but,increase in damage by slaughter option applies refinement up to +14)
@@ -26839,7 +26839,7 @@ Jobs : ^777777Swordman Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 increase in Attack Speed(Delay decreases by 5% after attacking)
@@ -26859,7 +26859,7 @@ Jobs : ^777777Swordman Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attact Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -26878,7 +26878,7 @@ Matk+ 210
 Increases Physical Attack Strength to Demihuman monster by 15%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 Matk increases per Refining degree
 +6 Refining
 Matk 5% increase
@@ -26897,7 +26897,7 @@ Matk+ 135%
 Increases Magical Attack Strength to Demihuman monster by 15%..
 Ignores Magical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Magical Defense of Demihuman monster
 +9 Refining
@@ -26916,7 +26916,7 @@ MATK + 135
 14% increase in the amount of recovery when using [Heal] and [Sanctuary].
 Delay reduces by 10% after using skills. 
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in the amount of Recovery
 ^0000ff[Bless]^000000 Lv 1(but,increase in damage by bless option applies refinement up to +14)
@@ -26935,7 +26935,7 @@ Jobs : ^777777Wizard Class/Acolyte Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores Physical  defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Defense of Demihuman monster
 increase in Attack Speed(Delay after attacking reduces by 5%)
@@ -26954,7 +26954,7 @@ Jobs : ^777777Novice Class/Swordman Class/Acolyte Class/Merchant Class Jobs^0000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attact Defense of Demihuman monsters
 When attacking, inflicts [Fatal Wound] by 5% chance
@@ -26974,7 +26974,7 @@ Jobs : ^777777Sword Class/Merchant Class Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 Increase in Attack Speed by 5% 
 5% increase in ignoring Physical Defense of Demihuman monster
@@ -26996,7 +26996,7 @@ Ignores physical defense from Demihuman monster by 20%.
 MATK + 90
 Increase damage by 100% of [Throw Huuma Shuriken] and [Killing Strike] for 10 sec. when attacking and synchronizing the weapon by 5%
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 2(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27016,7 +27016,7 @@ Ignores physical defense from Demihuman monster by 20%.
 (Refining degree * 2)% additional Critical Damage
 (but critical damage addition applies up to refining degree +10)
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27033,7 +27033,7 @@ Jobs : ^777777Archer Class/Thief/Rogue Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attack Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27050,7 +27050,7 @@ Jobs : ^777777Assassin Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 70%..
 Increases Critical Attack Strength to Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in chance of Critical Attack to Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27076,7 +27076,7 @@ Jobs : ^777777Bard Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Attack Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27094,7 +27094,7 @@ MATK + 155
 Increases Physical Attack Strength to Demihuman monster by 80%..
 Ignores Physical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Physical Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27112,7 +27112,7 @@ MATK + 75
 Increases Physical Attack Strength to Demihuman monster by 80%..
 Ignores Magical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Magical Defense of Demihuman monster
 +9 Refining 
@@ -27130,7 +27130,7 @@ Jobs : ^777777Priest/Sage/Star Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 25%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27148,7 +27148,7 @@ Jobs : ^777777Priest/Monk Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 95%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27166,7 +27166,7 @@ Jobs : ^777777Priest/Monk Jobs^000000
 Increases Physical Attack Strength to Demihuman monster by 55%..
 Ignores physical defense from Demihuman monster by 20%.
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27186,7 +27186,7 @@ Increases Physical Attack Strength to Demihuman monster by 75%..
 Ignores physical defense from Demihuman monster by 20%.
 30% increase in damage of [Triple Action]
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27207,7 +27207,7 @@ Increases Physical Attack Strength to Demihuman monster by 35%..
 Ignores physical defense from Demihuman monster by 20%.
 30% increase in damage of [Triple Action]
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27227,7 +27227,7 @@ Ignores physical defense from Demihuman monster by 20%.
 Splash Attack
 30% increase in Damage of [Triple Action]
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monsters
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27247,7 +27247,7 @@ Increases Physical Attack Strength to Demihuman monster by 35%..
 Ignores physical defense from Demihuman monster by 20%.
 30% increase in damage of [Triple Action]
 Indestructible.
-¡Ø Additional Weapon Refining Level Option
+ï¿½ï¿½ Additional Weapon Refining Level Option
 +6 Refining
 5% increase in ignoring Defense of Demihuman monster
 ^ff0000[Slaughter]^000000 Lv 1(but,increase in damage by slaughter option applies refinement up to +14)
@@ -27360,7 +27360,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// ----------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------
+// ----------- ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 2443#
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
@@ -27478,7 +27478,7 @@ Furthermore, you can tame a monster 'Hot Rice Cake' by using this item.
 Weight : ^7777771^000000
 #
 
-//-------------¹Ì±¹ Ä³½¬ 2009.10.07-----------------------------
+//-------------ï¿½Ì±ï¿½ Ä³ï¿½ï¿½ 2009.10.07-----------------------------
 
 1194#
 ^000088Rental Item^000000
@@ -28274,7 +28274,7 @@ Weapon Class : ^777777Dagger^000000      Attack Strength : ^777777209^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^7777771^000000
-Jobs : ^777777¸¶¹ı»çWeapon Class/¼Ò¿ïRingÄ¿ Àü¿ë^000000
+Jobs : ^777777ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Weapon Class/ï¿½Ò¿ï¿½RingÄ¿ ï¿½ï¿½ï¿½ï¿½^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -28287,7 +28287,7 @@ Holy property
 STR + 10, Holy property, Enables use of Lvl 3 Heal
 Increases damage inflicted on Devil monsters by 3%, Increases Movement Speed.
 Weapon Class : ^777777Axe^000000    Attack Strength : ^777777229^000000
-Weight : ^7777770^000000     Property : ^777777¼º^000000
+Weight : ^7777770^000000     Property : ^777777ï¿½ï¿½^000000
 Weapon Level : ^7777774^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Swordman and Merchant Classes^000000
@@ -29366,7 +29366,7 @@ Magical Attack Damage done to the monsters in Manuk Area increases by 10% for 10
 Weight : ^7777775^000000
 #
 
-// ----------- ½Å±Ô Á¶ÇÕ Åõ±¸ ¾ÆÀÌÅÛ ------------
+// ----------- ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 5436#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
@@ -29424,7 +29424,7 @@ Unknown item requiring appraisal. Can be identified by using a magnifier.
 Unknown item requiring appraisal. Can be identified by using a magnifier.
 #
 
-// ------------ 2008 ¿¡ÇÇ¼Òµå 13.2 Ãß°¡¾ÆÀÌÅÛ --------------
+// ------------ 2008 ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13.2 ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 
 1643#
 Unknown item requiring appraisal. Can be identified by using a magnifier.
@@ -31909,7 +31909,7 @@ Jobs : ^777777Priest/Monk^000000
 A report that a step, Lust requested for an approval to a test supervisor Caution.
 Weight : ^7777771^000000
 #
-// ------------ ¹ÌÄÉ´Ğ °ü·Ã ¾ÆÀÌÅÛ Á¾ÇÕ -------------------
+// ------------ ï¿½ï¿½ï¿½É´ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ -------------------
 
 1549#
 An unknown item requiring appraisal. It can be identified by using a magnifier.
@@ -32921,7 +32921,7 @@ Increases long range physical attack power by 5%
 rushed toward windmill, decrease sp by 10.
 Class : ^777777Headgear^000000
 Defense : ^77777712^000000
-À§Ä¡: ^777777»ó´Ü ^000000
+ï¿½ï¿½Ä¡: ^777777ï¿½ï¿½ï¿½ ^000000
 Weight : ^77777710^000000
 Required Level : ^777777100^000000
 Jobs : ^777777Minstrel^000000
@@ -32974,12 +32974,12 @@ Jobs : ^777777Guillotine Cross^000000
 #
 
 5756#
-Á¤·ÉÀÇ ÈûÀÌ ±êµç ±êÀ» ¸ğ¾Æ ¸¸µç Á¦·Ê¿ë ¸ğÀÚ.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ê¿ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Int +1, Dex +1, Mdef +5.
-¼ø¼ö INT 120 ÀÏ °æ¿ì MATK + 10, FLEE + 3.
-°è¿­ : ^777777Åõ±¸^000000
+ï¿½ï¿½ï¿½ï¿½ INT 120 ï¿½ï¿½ ï¿½ï¿½ï¿½ MATK + 10, FLEE + 3.
+ï¿½è¿­ : ^777777ï¿½ï¿½ï¿½ï¿½^000000
 Defense : ^77777712^000000
-À§Ä¡: ^777777»ó´Ü ^000000
+ï¿½ï¿½Ä¡: ^777777ï¿½ï¿½ï¿½ ^000000
 Weight : ^77777710^000000
 Required Level : ^777777100^000000
 Jobs : ^777777Sorcerer^000000
@@ -33012,7 +33012,7 @@ Increases long range physical attack power by 5%.
 Swing dance, for the consumed SP for the symphony decreased by 10.
 Class : ^777777Headgear^000000
 Defense : ^77777712^000000
-Location: ^777777»ó´Ü ^000000
+Location: ^777777ï¿½ï¿½ï¿½ ^000000
 Weight : ^77777710^000000
 Required Level : ^777777100^000000
 Jobs : ^777777Wanderer^000000
@@ -33088,7 +33088,7 @@ A High Efficiency bubble gum that packs double the punch.
 Weight : ^7777771^000000
 #
 5667#
-This frightening hooded mask is so scary that you don¡¯t have to worry about the nasty ghosts bothering you as you Trick or Treat!  
+This frightening hooded mask is so scary that you donï¿½ï¿½t have to worry about the nasty ghosts bothering you as you Trick or Treat!  
 Available this Halloween season from Playspan!
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
@@ -34248,7 +34248,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 #
 
-// ---------- Ep13.3 Äù½ºÆ®¾ÆÀÌÅÛ ------------
+// ---------- Ep13.3 ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 2463#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -34329,7 +34329,7 @@ An old piece of sheet music filled with notes inscribed in blue ink.
 Weight : ^7777771^000000
 #
 
-// ---------- EP13.3 ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- EP13.3 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
 Weight : ^7777771^000000
@@ -35762,7 +35762,7 @@ Weight : ^7777770^000000
 
 
 7864#
-Cacao stolen from Pinkamenia in Moscovia while she was baking. Return them to her and she will give you some rewards.
+Cocoa stolen from Pinkamenia in Moscovia while she was baking. Return them to her and she will give you some rewards.
 Weight : ^7777770^000000
 #
 
@@ -35904,7 +35904,7 @@ Weight : ^7777772^000000
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
 A box that contains 1 of each:
 -1x Costume: Chicken Beak
--1x Costume: Rooster¡¯s Comb
+-1x Costume: Roosterï¿½ï¿½s Comb
 This box can be stored and traded, the items inside are account bound.
 Box Weight : ^7777771^000000
 #
@@ -35955,72 +35955,72 @@ Jobs: ^777777All^000000
 #
 
 17113#
-È¯»óÀÇ ¿µ¾à, ½Ö¾î±Ã º¸°ü, ½Ö¾î±Ã ¿Õ°ü, Æ¼¶ó¾ßº¸³İ, º¸½º ÀÌ±×´ÏÁªCard µî Èñ±ÍÇÑ ¾ÆÀÌÅÛÀÌ µé¾îÀÖ´Â ½ºÅ©·Ñ.
+È¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½Ö¾ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½Ö¾ï¿½ï¿½ ï¿½Õ°ï¿½, Æ¼ï¿½ï¿½ßºï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½Ì±×´ï¿½ï¿½ï¿½Card ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½Å©ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 17110#
-È¯»óÀÇ ¿µ¾à, º¸º´±Ã º¸°ü, º¸º´±Ã ¿Õ°ü, ´Ã¾îÁø ±¸¹ÌÈ£, ¾î½Ø½ÅÅ©·Î½ºCard µî Èñ±ÍÇÑ ¾ÆÀÌÅÛÀÌ µé¾îÀÖ´Â ½ºÅ©·Ñ.
+È¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Õ°ï¿½, ï¿½Ã¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½È£, ï¿½ï¿½Ø½ï¿½Å©ï¿½Î½ï¿½Card ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½Å©ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 17121#
-¿ù¾ßÈ­ Card, »çÀÚ±Ãº¸°ü, ½Ö³à±Ãº¸°ü, ½Ö³à±Ã¿Õ°ü, ÃµÄª±Ãº¸°ü, ÃµÄª±Ã¿Õ°ü µî Èñ±ÍÇÑ ¾ÆÀÌÅÛÀÌ µé¾îÀÖ´Â ½ºÅ©·Ñ.
+ï¿½ï¿½ï¿½ï¿½È­ Card, ï¿½ï¿½ï¿½Ú±Ãºï¿½ï¿½ï¿½, ï¿½Ö³ï¿½Ãºï¿½ï¿½ï¿½, ï¿½Ö³ï¿½Ã¿Õ°ï¿½, ÃµÄªï¿½Ãºï¿½ï¿½ï¿½, ÃµÄªï¿½Ã¿Õ°ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½Å©ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 17127#
-´ë¸¸ 8¿ù º°ÀÚ¸® ÇÑÁ¤ ÆÇ¸Å »óÀÚ.
+ï¿½ë¸¸ 8ï¿½ï¿½ ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¸ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 2589#
-Å¸¶ôÃµ»çÀÇ Ä¿´Ù¶ş°í °ËÀº ³¯°³.
+Å¸ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ Ä¿ï¿½Ù¶ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
 LUK + 2.
-ÀÎ°£Çü ¸ó½ºÅÍÀÇ °ø°İ¿¡ ´ëÇÑ ³»¼º 10% Áõ°¡.
-¾Ï¼Ó¼º °ø°İ¿¡ ´ëÇÑ ³»¼º 30% Áõ°¡, ¼º¼Ó¼º °ø°İ¿¡ ´ëÇÑ ³»¼º 30% °¨¼Ò.
-Class : ^777777°ÉÄ¥°Í^000000  Defense : ^77777718^000000
+ï¿½Î°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½İ¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 10% ï¿½ï¿½ï¿½ï¿½.
+ï¿½Ï¼Ó¼ï¿½ ï¿½ï¿½ï¿½İ¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 30% ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Ó¼ï¿½ ï¿½ï¿½ï¿½İ¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 30% ï¿½ï¿½ï¿½ï¿½.
+Class : ^777777ï¿½ï¿½Ä¥ï¿½ï¿½^000000  Defense : ^77777718^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs : ^777777ÀüÁ÷¾÷ ÀåÂø°¡´É^000000
+Jobs : ^777777ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^000000
 #
 17117#
-Å¸¶ôÃµ»çÀÇ ³¯°³, ÀÌÇÁ¸®Æ® Card, ¹é¾ç±Ã ¿Õ°ü, ¹é¾ç±Ã º¸°ü, È¯»óÀÇ ¿µ¾à µî Èñ±ÍÇÑ ¾ÆÀÌÅÛÀÌ µé¾îÀÖ´Â ½ºÅ©·Ñ.
+Å¸ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® Card, ï¿½ï¿½ï¿½ï¿½ ï¿½Õ°ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, È¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½Å©ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 18581#
-¼øÁøÇÏ´ø »ç¶÷µµ ÀÌ ¸¶½ºÅ©¸¦ ¾²°Ô µÇ¸é, Àü»ç°¡ µÈ´Ù´Â ¼Ò¹®ÀÌ ÀÖ´Ù.
+ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å©ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¸ï¿½, ï¿½ï¿½ï¿½ç°¡ ï¿½È´Ù´ï¿½ ï¿½Ò¹ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½.
 STR + 3
 HP + 100
-Á¦·ÃºÒ°¡
-Class : ^777777Åõ±¸^000000    Defense : ^7777772^000000
-Location : ^777777»óÁß´Ü^000000    Weight : ^77777740^000000
+ï¿½ï¿½ï¿½ÃºÒ°ï¿½
+Class : ^777777ï¿½ï¿½ï¿½ï¿½^000000    Defense : ^7777772^000000
+Location : ^777777ï¿½ï¿½ï¿½ß´ï¿½^000000    Weight : ^77777740^000000
 Required Level : ^77777750^000000
 Jobs : ^777777All Jobs^000000
 #
 18582#
-¼øÁøÇÏ´ø »ç¶÷µµ ÀÌ ¸¶½ºÅ©¸¦ ¾²°Ô µÇ¸é, Àü»ç°¡ µÈ´Ù´Â ¼Ò¹®ÀÌ ÀÖ´Ù.
+ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å©ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¸ï¿½, ï¿½ï¿½ï¿½ç°¡ ï¿½È´Ù´ï¿½ ï¿½Ò¹ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½.
 STR + 3
 HP + 100
-Á¦·ÃºÒ°¡
-Class : ^777777Åõ±¸^000000    Defense : ^7777772^000000
-Location : ^777777»óÁß´Ü^000000    Weight : ^77777740^000000
+ï¿½ï¿½ï¿½ÃºÒ°ï¿½
+Class : ^777777ï¿½ï¿½ï¿½ï¿½^000000    Defense : ^7777772^000000
+Location : ^777777ï¿½ï¿½ï¿½ß´ï¿½^000000    Weight : ^77777740^000000
 Required Level : ^77777750^000000
 Jobs : ^777777All Jobs^000000
 #
 18583#
-¸Ó¸®À§¿¡ ¾ñ°í ´Ù´Ò¼ö ÀÖµµ·Ï ¸¸µé¾îÁø ÀÎÇü. ¾îµğ¼±°¡ °í¾çÀÌ ¿ïÀ½¼Ò¸®°¡ µé¸®°Å³ª ¸Ó¸®À§¿¡¼­ ¿òÁ÷ÀÓÀÌ ´À²¸Áö°Å³ª ÇÏ´Â°Ç ±âºĞÅ¿ÀÌ´Ù.
+ï¿½Ó¸ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ù´Ò¼ï¿½ ï¿½Öµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. ï¿½ï¿½ğ¼±°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ò¸ï¿½ï¿½ï¿½ ï¿½é¸®ï¿½Å³ï¿½ ï¿½Ó¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å³ï¿½ ï¿½Ï´Â°ï¿½ ï¿½ï¿½ï¿½Å¿ï¿½Ì´ï¿½.
 MDEF + 15
-ÀúÁÖ¿¡ ´ëÇÑ ³»¼º 30%
+ï¿½ï¿½ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 30%
 Class : ^777777Headgear^000000    Defense : ^7777773^000000
-Location : ^777777»ó´Ü^000000    Weight : ^77777750^000000
+Location : ^777777ï¿½ï¿½ï¿½^000000    Weight : ^77777750^000000
 Required Level : ^777777None^000000
-Jobs : ^777777³ëºñ½º°è¿­À» Á¦¿ÜÇÑ All Jobs^000000
+Jobs : ^777777ï¿½ï¿½ñ½º°è¿­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ All Jobs^000000
 #
 18584#
-¸Ó¸®À§¿¡ ¾ñ°í ´Ù´Ò¼ö ÀÖµµ·Ï ¸¸µé¾îÁø ÀÎÇü. ¾îµğ¼±°¡ °í¾çÀÌ ¿ïÀ½¼Ò¸®°¡ µé¸®°Å³ª ¸Ó¸®À§¿¡¼­ ¿òÁ÷ÀÓÀÌ ´À²¸Áö°Å³ª ÇÏ´Â°Ç ±âºĞÅ¿ÀÌ´Ù.
+ï¿½Ó¸ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ù´Ò¼ï¿½ ï¿½Öµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. ï¿½ï¿½ğ¼±°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ò¸ï¿½ï¿½ï¿½ ï¿½é¸®ï¿½Å³ï¿½ ï¿½Ó¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å³ï¿½ ï¿½Ï´Â°ï¿½ ï¿½ï¿½ï¿½Å¿ï¿½Ì´ï¿½.
 MDEF + 15
-ÀúÁÖ¿¡ ´ëÇÑ ³»¼º 30%
+ï¿½ï¿½ï¿½Ö¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 30%
 Class : ^777777Headgear^000000    Defense : ^7777773^000000
-Location : ^777777»ó´Ü^000000    Weight : ^77777750^000000
+Location : ^777777ï¿½ï¿½ï¿½^000000    Weight : ^77777750^000000
 Required Level : ^777777None^000000
-Jobs : ^777777³ëºñ½º°è¿­À» Á¦¿ÜÇÑ All Jobs^000000
+Jobs : ^777777ï¿½ï¿½ñ½º°è¿­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ All Jobs^000000
 #
 17109#
 May cause unrestrained delight from the receiver of its contents, Each May You Groove On Pack contains:
@@ -36037,31 +36037,31 @@ And randomly:
 Box Weight : ^7777771^000000
 #
 17080#
-ÃµÇæ±Ã ¿Õ°ü, ¸ğÇè°¡ÀÇ ¹è³¶ µî Èñ±ÍÇÑ ¾ÆÀÌÅÛÀ» ¾òÀ» ¼ö ÀÖ´Â ½ÅºñÇÑ ¾Ë.
+Ãµï¿½ï¿½ï¿½ ï¿½Õ°ï¿½, ï¿½ï¿½ï¿½è°¡ï¿½ï¿½ ï¿½è³¶ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½Åºï¿½ï¿½ï¿½ ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 17120#
-¾ÆÆ®·Î½º Card, È¯»óÀÇ ¿µ¾à, ¹ßÅ°¸®ÀÇ °©¿Ê, ¾Æ¿äÅ¸¾ß ¸ğÀÚ, ´ëÇàÀÚÀÇ ²®Áú Á¶°¢ µî Èñ±ÍÇÑ ¾ÆÀÌÅÛÀÌ µé¾îÀÖ´Â ½ºÅ©·Ñ.
+ï¿½ï¿½Æ®ï¿½Î½ï¿½ Card, È¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½Å°ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½Æ¿ï¿½Å¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½Å©ï¿½ï¿½.
 Weight : ^7777771^000000
 #
 17138#
-°ÅÇØ±Ã ÀÚ¸®ÀÇ ´ŞÀ» ±â³äÇÏ´Â Æ¯º°ÇÑ ½ºÅ©·Ñ. °ÅÇØ±Ã ¿Õ°ü, °ÅÇØ±Ã º¸°ü, ÇÏÆ¼ Card, ºñÄ¡Å¸¿Ã, ºñ»óÇÏ´Â Ãµ»ç ¹× ´Ù¸¥ ±ÍÁßÇÑ ¾ÆÀÌÅÛÀ» È¹µæÇÒ ¼ö ÀÖ´Ù.
+ï¿½ï¿½ï¿½Ø±ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½. ï¿½ï¿½ï¿½Ø±ï¿½ ï¿½Õ°ï¿½, ï¿½ï¿½ï¿½Ø±ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½Æ¼ Card, ï¿½ï¿½Ä¡Å¸ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ Ãµï¿½ï¿½ ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 Weight : ^7777771^000000
 #
 17140#
-»çÀÚ±Ã ÀÚ¸®ÀÇ ´ŞÀ» ±â³äÇÏ´Â Æ¯º°ÇÑ ½ºÅ©·Ñ. »çÀÚ±Ã ¿Õ°ü, »çÀÚ±Ã º¸°ü, Å¸¶ôÇÑ´ë½Å°ü Card, ½ºÅ² ¿Àºê º¥Åõ½º, ³¯°í ½ÍÀº ¿£Á©¸µ ¹× ´Ù¸¥ ±ÍÁßÇÑ ¾ÆÀÌÅÛÀ» È¹µæÇÒ ¼ö ÀÖ´Ù.
+ï¿½ï¿½ï¿½Ú±ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½. ï¿½ï¿½ï¿½Ú±ï¿½ ï¿½Õ°ï¿½, ï¿½ï¿½ï¿½Ú±ï¿½ ï¿½ï¿½ï¿½ï¿½, Å¸ï¿½ï¿½ï¿½Ñ´ï¿½Å°ï¿½ Card, ï¿½ï¿½Å² ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 Weight : ^7777771^000000
 #
 17141#
-½Ö³à±Ã ÀÚ¸®ÀÇ ´ŞÀ» ±â³äÇÏ´Â Æ¯º°ÇÑ ½ºÅ©·Ñ. ½Ö³à±Ã ¿Õ°ü, ½Ö³à±Ã º¸°ü, ´ëÇàÀÚÀÇ ²®ÁúÁ¶°¢, ¹°ÀÇ °©¿Ê[1], ´ëÇü ¸¶Á¦½ºÆ½°í¿ìÆ® ¹× ´Ù¸¥ ±ÍÁßÇÑ ¾ÆÀÌÅÛÀ» È¹µæÇÒ ¼ö ÀÖ´Ù.
+ï¿½Ö³ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½. ï¿½Ö³ï¿½ï¿½ ï¿½Õ°ï¿½, ï¿½Ö³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½[1], ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 Weight : ^7777771^000000
 #
 17142#
-ÃµÄª±Ã ÀÚ¸®ÀÇ ´ŞÀ» ±â³äÇÏ´Â Æ¯º°ÇÑ ½ºÅ©·Ñ. ÃµÄª±Ã ¿Õ°ü, ÃµÄª±Ã º¸°ü, ÇÏÀÌÀ§ÀÚµåCard, ¸ğÇè°¡ÀÇ ¹è³¶, ¿£Á©¸µ ÇÉ, ¸¶·Â±êµç CardÃ¸ ¹× ´Ù¸¥ ±ÍÁßÇÑ ¾ÆÀÌÅÛÀ» È¹µæÇÒ ¼ö ÀÖ´Ù.
+ÃµÄªï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½. ÃµÄªï¿½ï¿½ ï¿½Õ°ï¿½, ÃµÄªï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Úµï¿½Card, ï¿½ï¿½ï¿½è°¡ï¿½ï¿½ ï¿½è³¶, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½, ï¿½ï¿½ï¿½Â±ï¿½ï¿½ CardÃ¸ ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 Weight : ^7777771^000000
 #
 17143#
-ÃµÇæ±Ã ÀÚ¸®ÀÇ ´ŞÀ» ±â³äÇÏ´Â Æ¯º°ÇÑ ½ºÅ©·Ñ. ÃµÇæ±Ã ¿Õ°ü, ÃµÇæ±Ã º¸°ü, Å¸³ªÅä½ºÀÇ ±â¾ï Card, º»ÇÃ·¹ÀÌÆ®, Å¸³ªÅä½ºÀÇ Áõ¿À °¡¸é, ÈÖÄÉ¹ÙÀÎÀÇ °ËÀº ²¿¸® ¹× ´Ù¸¥ ±ÍÁßÇÑ ¾ÆÀÌÅÛÀ» È¹µæÇÒ ¼ö ÀÖ´Ù.
+Ãµï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½. Ãµï¿½ï¿½ï¿½ ï¿½Õ°ï¿½, Ãµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, Å¸ï¿½ï¿½ï¿½ä½ºï¿½ï¿½ ï¿½ï¿½ï¿½ Card, ï¿½ï¿½ï¿½Ã·ï¿½ï¿½ï¿½Æ®, Å¸ï¿½ï¿½ï¿½ä½ºï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½É¹ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 Weight : ^7777771^000000
 #
 17082#
@@ -36081,55 +36081,55 @@ A box containing 10 piece of Gemini Crown Scroll.
 Weight : ^7777771^000000
 #
 4480#
-¸ğµç ½ºÅ³ÀÇ ÈÄ µô·¹ÀÌ°¡ 15% °¨¼ÒÇÑ´Ù.
-15Á¦·Ã ÀÌ»ó ½Ã ½ÃÀü ÈÄ µô·¹ÀÌ 5% Ãß°¡ °¨¼Ò.
+ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì°ï¿½ 15% ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½.
+15ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 5% ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Class : ^777777Card^000000
 Compound on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4481#
-È­¼Ó¼º ¸ó½ºÅÍ¿¡°Ô ¹°¸® µ¥¹ÌÁö 25% Ãß°¡.
-¹°¸®, ¸¶¹ı µ¥¹ÌÁö¸¦ ÀÔ¾úÀ» ¶§ ÀÏÁ¤ È®·ü·Î ¿ÀÅä½ºÆç ÇÁ·Î½ºÆ® ³ë¹Ù Lv10 ¹ßµ¿.
-15Á¦·Ã ÀÌ»óÀÏ °æ¿ì È­¼Ó¼º ¸ó½ºÅÍ¿¡°Ô ¹°¸® µ¥¹ÌÁö 10% Ãß°¡Áõ°¡.
+È­ï¿½Ó¼ï¿½ ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 25% ï¿½ß°ï¿½.
+ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô¾ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ä½ºï¿½ï¿½ ï¿½ï¿½ï¿½Î½ï¿½Æ® ï¿½ï¿½ï¿½ Lv10 ï¿½ßµï¿½.
+15ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ È­ï¿½Ó¼ï¿½ ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 10% ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½.
 Class : ^777777Card^000000
-Compound on : ^777777°©¿Ê^000000
+Compound on : ^777777ï¿½ï¿½ï¿½ï¿½^000000
 Weight : ^7777771^000000
 #
 4482#
-15ÃÊ¸¶´Ù 50ÀÇ HP, 10ÀÇ Sp È¸º¹.
-MHP¿Í MSP°¡ 5% Áõ°¡ÇÑ´Ù.
-15Á¦·Ã ÀÌ»ó ÀÏ °æ¿ì HP, SPÈ¸º¹¼Óµµ 10ÃÊ·Î ´ÜÃà, MHP, MSP°¡ 2% Ãß°¡ Áõ°¡.
+15ï¿½Ê¸ï¿½ï¿½ï¿½ 50ï¿½ï¿½ HP, 10ï¿½ï¿½ Sp È¸ï¿½ï¿½.
+MHPï¿½ï¿½ MSPï¿½ï¿½ 5% ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½.
+15ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ HP, SPÈ¸ï¿½ï¿½ï¿½Óµï¿½ 10ï¿½Ê·ï¿½ ï¿½ï¿½ï¿½ï¿½, MHP, MSPï¿½ï¿½ 2% ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Class : ^777777Card^000000
-Compound on : ^777777½Å¹ß^000000
+Compound on : ^777777ï¿½Å¹ï¿½^000000
 Weight : ^7777771^000000
 #
 4483#
-ÀÏÁ¤È®·ü(5%)·Î Àû¿¡°Ô ÁØ ´ë¹ÌÁöÀÇ 5% ¸¦ ÀÚ½ÅÀÇ SP·Î Èí¼ö ÇÑ´Ù. 15Á¦·Ã ÀÌ»óÀÏ °æ¿ì Èí¼öÇÒ È®·üÀÌ 7%·Î Áõ°¡.
+ï¿½ï¿½ï¿½ï¿½È®ï¿½ï¿½(5%)ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 5% ï¿½ï¿½ ï¿½Ú½ï¿½ï¿½ï¿½ SPï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½. 15ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È®ï¿½ï¿½ï¿½ï¿½ 7%ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Class : ^777777Card^000000
-Compound on : ^777777¹«±â^000000
+Compound on : ^777777ï¿½ï¿½ï¿½ï¿½^000000
 Weight : ^7777771^000000
 #
 4484#
-Áª½ºÅæÀ» ¼Ò¸ğÇÏ´Â ¸¶¹ıµéÀ» ¼Ò¸ğ¾øÀÌ »ç¿ë°¡´ÉÇÏ°Ô ÇÑ´Ù.
-½ºÅ³ »ç¿ë½Ã SP¼Ò¸ğ·®ÀÌ 50% Áõ°¡ÇÑ´Ù.
-15Á¦·Ã ÀÌ»ó ÀÏ °æ¿ì ½ºÅ³ »ç¿ë½Ã SP¼Ò¸ğ·®ÀÌ 35% Áõ°¡.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ò¸ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ò¸ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ë°¡ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½Ñ´ï¿½.
+ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½ SPï¿½Ò¸ï¿½ï¿½ï¿½ 50% ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½.
+15ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½ SPï¿½Ò¸ï¿½ï¿½ï¿½ 35% ï¿½ï¿½ï¿½ï¿½.
 Class : ^777777Card^000000
 Compound on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 4485#
-¼º¼Ó¼º, ¾Ï¼Ó¼º, Ãµ»çÇü, ¾Ç¸¶Çü ¸ó½ºÅÍ¿¡°Ô ¹°¸® µ¥¹ÌÁö 20% Ãß°¡.
-15Á¦·Ã ÀÌ»óÀÏ °æ¿ì, ¼º¼Ó¼º, ¾Ï¼Ó¼º, Ãµ»çÇü, ¾Ç¸¶Çü ¸ó½ºÅÍ¿¡°Ô ¹°¸® µ¥¹ÌÁö 10% Ãß°¡ Áõ°¡.
+ï¿½ï¿½ï¿½Ó¼ï¿½, ï¿½Ï¼Ó¼ï¿½, Ãµï¿½ï¿½ï¿½ï¿½, ï¿½Ç¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 20% ï¿½ß°ï¿½.
+15ï¿½ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Ó¼ï¿½, ï¿½Ï¼Ó¼ï¿½, Ãµï¿½ï¿½ï¿½ï¿½, ï¿½Ç¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 10% ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Class : ^777777Card^000000
-Compound on : ^777777°©¿Ê^000000
+Compound on : ^777777ï¿½ï¿½ï¿½ï¿½^000000
 Weight : ^7777771^000000
 #
 2573#
-´ëÃµ»çÀÇ Ä¿´Ù¶ş°í ÇÏ¾á ³¯°³.
-°è¿­ : ^777777°ÉÄ¥°Í^000000  ¹æ¾î : ^77777718^000000
-¹«°Ô : ^77777720^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777ÀüÁ÷¾÷ ÀåÂø°¡´É^000000
+ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ Ä¿ï¿½Ù¶ï¿½ï¿½ï¿½ ï¿½Ï¾ï¿½ ï¿½ï¿½ï¿½ï¿½.
+ï¿½è¿­ : ^777777ï¿½ï¿½Ä¥ï¿½ï¿½^000000  ï¿½ï¿½ï¿½ : ^77777718^000000
+ï¿½ï¿½ï¿½ï¿½ : ^77777720^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^000000
 #
 
 12859#
@@ -36240,7 +36240,7 @@ Weight : ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ---------- Port Malaya ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- Port Malaya ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 2169#
 Unknown Item, can be identified by [Magnifier].
 #
@@ -36285,8 +36285,8 @@ Type : ^777777Taming Item^000000
 Weight : ^7777775^000000
 #
 12700#
-Common shirt turned inside out. Used to break Tikbalang¡¯s curse that makes people get lost.
-Can warp back to the ¡®Port Malaya¡¯ village when used directly.
+Common shirt turned inside out. Used to break Tikbalangï¿½ï¿½s curse that makes people get lost.
+Can warp back to the ï¿½ï¿½Port Malayaï¿½ï¿½ village when used directly.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -36354,7 +36354,7 @@ Weight : ^7777770^000000
 #
 6507#
 ^ff0000Item cannot be traded with other characters.^000000
-Animal bones with a hint of evil spirit. Won¡¯t be able to as dog treats at this state.
+Animal bones with a hint of evil spirit. Wonï¿½ï¿½t be able to as dog treats at this state.
 Weight : ^7777770^000000
 #
 6508#
@@ -36378,7 +36378,7 @@ Doll made to look like Bakonawa. Cuter than its original.
 Weight : ^7777771^000000
 #
 6517#
-Doll made to look like Bangungot. Suspicious of the creator¡¯s taste.
+Doll made to look like Bangungot. Suspicious of the creatorï¿½ï¿½s taste.
 Weight : ^7777771^000000
 #
 6518#
@@ -36400,18 +36400,18 @@ Transparent item which imprisons Bakonawa's Spirit. Rumor says you can see Bakon
 Weight : ^7777771^000000
 #
 6524#
-Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot¡¯s screeching screams when placed in a dark room.
+Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungotï¿½ï¿½s screeching screams when placed in a dark room.
 Weight : ^7777771^000000
 #
 6525#
-Transparent item which imprisons Buwaya¡¯s Spirit. Rumor says you can hear Buwaya¡¯s angry shrieks when touched with water.
+Transparent item which imprisons Buwayaï¿½ï¿½s Spirit. Rumor says you can hear Buwayaï¿½ï¿½s angry shrieks when touched with water.
 Weight : ^7777771^000000
 #
 18647#
 Unknown Item, can be identified by [Magnifier]
 #
 5188#
-Given as a reward to creative members of the community to say ¡®thank you¡¯ for their help in contributing to the game.
+Given as a reward to creative members of the community to say ï¿½ï¿½thank youï¿½ï¿½ for their help in contributing to the game.
 Class : ^777777Costume^000000
 Location: ^777777Upper ^000000
 Defense : ^7777770^000000
@@ -36572,7 +36572,7 @@ Will be used to access the Instance Dungeon starting 6/12/12
 Weight : ^77777730^000000
 #
 19580#
-The ornamental version of long dead Pharaoh Amset-Ra¡¯s headdress. It is lightweight and can be worn over your existing hat-
+The ornamental version of long dead Pharaoh Amset-Raï¿½ï¿½s headdress. It is lightweight and can be worn over your existing hat-
 For decorative use.
 Class : ^777777Costume^000000
 Location: ^777777Upper & Lower^000000
@@ -39461,7 +39461,7 @@ for everyone else...^000000
 Box Weight : ^7777771^000000
 #
 
-//-----½É¿¬ÀÇÈ¸¶û Ãß°¡¾ÆÀÌÅÛ------
+//-----ï¿½É¿ï¿½ï¿½ï¿½È¸ï¿½ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½------
 1293#
 Unknown Item, can be identified by [Magnifier]
 #
@@ -40036,7 +40036,7 @@ it is amazingly freezed
 MATK + 100.
 when closer physical Attack,  ATK + 30 for 7 sec
 when magical  Attack,  MATK + 20 for 7 sec
-if base level is over 100 ÀÌ, ATK + 10, MATK + 10 
+if base level is over 100 ï¿½ï¿½, ATK + 10, MATK + 10 
 Class : ^777777Sword^000000 Attack : ^777777160^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
@@ -40083,7 +40083,7 @@ has the ability to freeze enemies
 when closer physical Attack, it casts stun or auto spells Bash 5 Lv.(if over 5, will cast as the level learned)
 Freezes itself at low chance
 if Base LV over 100 , ATK + 20.
-Class : ^777777µĞ±â^000000 Attack : ^777777180^000000
+Class : ^777777ï¿½Ğ±ï¿½^000000 Attack : ^777777180^000000
 Weight : ^7777770^000000
 Weapon Level : ^7777771^000000
 Required Level : ^77777750^000000
@@ -41014,7 +41014,7 @@ Unknown item requiring Appraisal. Can be identified by using a Magnifier.
 Special Kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!
 Class : ^777777Throwing Weapon^000000
 Atk : ^77777750^000000
-Weight : ^7777773^000000      Property : ^777777¹«^000000
+Weight : ^7777773^000000      Property : ^777777ï¿½ï¿½^000000
 Level Limit : ^777777100^000000
 #
 13311#
@@ -42433,7 +42433,7 @@ Weight : ^7777771^000000
 4515#
 Reduce damage from Plant type enemies by 30%.
 Class : ^777777Card^000000
-Compound on : ^777777¹æÆĞ^00000000
+Compound on : ^777777ï¿½ï¿½ï¿½ï¿½^00000000
 Weight : ^7777771^000000
 #
 4516#
@@ -46211,15 +46211,15 @@ Written by : Arles Orleans, the Chocolate Expert and the famous Patissiere.
 Weight : ^7777775^000000
 #
 6566#
-Magic Recipe which will teach you how to make a fierce Cacao 99.
+Magic Recipe which will teach you how to make a fierce Cocoa 99.
 It seems like there's a certain place for using this recipe.
-^B90000Essential Ingredients :  99 Cacao beans, 1 Milk.^000000
+^B90000Essential Ingredients :  99 Cocoa beans, 1 Milk.^000000
 Weight : ^7777770^000000
 #
 6567#
 Magic Recipe which will teach you how to make a cool chocolate drink.
 It seems like there's a certain place for using this recipe.
-^B90000Essential Ingredients :  30 Cacao beans, 3 Chocolates, 2 Milk^000000
+^B90000Essential Ingredients :  30 Cocoa beans, 3 Chocolates, 2 Milk^000000
 Weight : ^7777770^000000
 #
 
@@ -54795,7 +54795,7 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight : ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and¡¦ just cute.
+Wickebine's one of favorite ear cap. Cute andï¿½ï¿½ just cute.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class : ^777777Costume^000000 Def : ^7777770^000000
@@ -55089,7 +55089,7 @@ Not assessed. [Spectacles] can be used to assess.
 #
 22699#
 Testing reagent that has not yet passed clinical tests.
-Sticker reads ¡°It can vitalize physical abilities to an extreme and temporarily increase agility, but could lose sight as a side effect.¡±
+Sticker reads ï¿½ï¿½It can vitalize physical abilities to an extreme and temporarily increase agility, but could lose sight as a side effect.ï¿½ï¿½
 Weight : ^7777773^000000
 #
 
@@ -55409,7 +55409,7 @@ Job : ^777777All^000000
 #
 31123#
 Tall hat with flying Ghostring. Cute shabby tall hat.
-Wearing this hat makes feel horrifying. Well¡¦just feeling.
+Wearing this hat makes feel horrifying. Wellï¿½ï¿½just feeling.
 Class : ^777777Costume^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -55621,10 +55621,10 @@ VIT + 3, AGI + 3.
 ^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 #
 25011#
-¿îÀÌ ³ô¾ÆÁö°í ´ë½Å Áö´ÉÀÌ ¶³¾îÁö´Â ½ºÅæ.
+ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
 Gives below stats on Costume middle slot.
 LUK + 3, INT - 3.
-LUKº¯È¯½ºÅæ(Middle)À» Ãß°¡ Job½Ã, ¾Æ·¡ÀÇ ´É·ÂÄ¡°¡ »ó½ÂÇÑ´Ù.
+LUKï¿½ï¿½È¯ï¿½ï¿½ï¿½ï¿½(Middle)ï¿½ï¿½ ï¿½ß°ï¿½ Jobï¿½ï¿½, ï¿½Æ·ï¿½ï¿½ï¿½ ï¿½É·ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½.
 STR + 3, INT + 3.
 ^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 #
@@ -56191,4 +56191,26 @@ Equip with Kick Step Card, no consumes Madogear energy.
 Class : ^777777Card^000000
 Compound on : ^777777Weapon^000000
 Weight : ^7777771^000000
+#
+
+15919#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
+#
+19265#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
+#
+20396#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
+#
+20585#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
+#
+31423#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
+#
+31939#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
+#
+101327#
+ê°ì •ë˜ì§€ ì•ŠìŒ. [ë‹ë³´ê¸°] ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°ì •í•  ìˆ˜ ìˆë‹¤.
 #

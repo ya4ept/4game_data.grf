@@ -2509,6 +2509,17 @@ achievement_tbl = {
 		reward = { title = 1000, buff = 10, item = 12549 },
 		score = 50
 	},
+	[200001] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "Obtained the second Aura!",
+		content = { summary = "Reached Base Lv 150!", details = "Reach Base Level 150." },
+		resource = { [1] = { text = "Base Lv 150" } },
+		reward = { title = 1001, buff = 10, item = 5364 },
+		score = 60
+	},
 	[200002] = {
 		UI_Type = 0,
 		group = "GOAL_LEVEL",

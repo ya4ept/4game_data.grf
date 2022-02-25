@@ -529,7 +529,7 @@ Weight: 1
 #
 
 558#
-^808080Fried and ground Cacao that is solidified with Milk and cacao paste. Delicious and bittersweet.^000000
+^808080Fried and ground Cocoa that is solidified with Milk and Cocoa paste. Delicious and bittersweet.^000000
 ^FFFFFF_^000000
 Type: Miscellaneous
 Weight: 2
@@ -550,7 +550,7 @@ Weight: 8
 #
 
 561#
-^808080A white cacao.^000000
+^808080A white Cocoa.^000000
 ^FFFFFF_^000000
 Type: Miscellaneous
 Weight: 8
@@ -28220,7 +28220,7 @@ A birthday cake replica that won't fit a Dancer
 inside, but it's almost just as much fun to
 wear it on top of your
 head. Almost.
-^ff0000While wearing this, monsters have a chance of dropping Stolen Cacao when killed.^000000
+^ff0000While wearing this, monsters have a chance of dropping Stolen Cocoa when killed.^000000
 MaxSP +60
 Class : ^777777Costume^000000
 Defense: ^7777772^000000
@@ -30801,7 +30801,7 @@ Weight : ^7777771^000000
 // ---- Valentine's Day event -----------
 #
 7182#
-A nut from the Cacao tree that is naturally found in warm climes. It must be dried into cacao beans, fried and then ground to become cacao paste. Chocolate is made by solidying the cacao paste with milk. The fat extracted from the cacao paste is used as cacao butter, so it's not ready to eat yet.
+A nut from the Cocoa tree that is naturally found in warm climes. It must be dried into Cocoa beans, fried and then ground to become Cocoa paste. Chocolate is made by solidying the Cocoa paste with milk. The fat extracted from the Cocoa paste is used as Cocoa butter, so it's not ready to eat yet.
 ^ffffff_^000000
 Weight : ^7777772^000000
 #
@@ -31717,7 +31717,7 @@ Weight : ^77777780^000000
 
 
 
-// ------¤Ñmobile item -------
+// ------ï¿½ï¿½mobile item -------
 
 
 
@@ -32950,7 +32950,7 @@ random food item.
 ^FFFFFF ^000000
 Weight : ^77777720^000000
 #
-// -------------- Ãß°¡½ºÅ³¿ë ¾ÆÀÌÅÛ --------------
+// -------------- ï¿½ß°ï¿½ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 
 7419#
 A reference for
@@ -33871,7 +33871,7 @@ sublimely delicious.
 ^FFFFFF ^000000
 Weight : ^7777777^000000
 #
-// ------------ ¿ä¸®Á¦Á¶ --------------
+// ------------ ï¿½ä¸®ï¿½ï¿½ï¿½ï¿½ --------------
 
 7472#
 Level 1 Recipes
@@ -33927,7 +33927,7 @@ with these recipes.''
 10 Yellow Herbs
 
 ^800000Chocolate Mousse Cake^000000
-10 Cacao
+10 Cocoa
 1 Piece of Cake
 1 Milk
 1 China
@@ -35459,9 +35459,9 @@ Weight : ^7777770^000000
 #		
 7718#
 A fermented and
-dried Cacao Bean
+dried Cocoa Bean
 that has been shelled
-from a raw Cacao.
+from a raw Cocoa.
 Weight : ^7777771^000000		
 #		
 7604#		
@@ -35476,7 +35476,7 @@ Weight : ^7777771^000000
 12234#							
 A chocolate bar
 whose content is
-99% Cacao: it tastes
+99% Cocoa: it tastes
 more bitter than sweet,^FFFFFF   ^000000 but chocolate aficionados
 love it for its rugged
 flavor and various
@@ -35532,7 +35532,7 @@ Weight : ^7777770^000000
 
 #
 //--------------------11.1 Rachel------------------------
-// -------------------------- ¼ÒÄÏÀÎÃ¦Æ® ½Å±Ô¹«±âÃß°¡ ----------------------------
+// -------------------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¦Æ® ï¿½Å±Ô¹ï¿½ï¿½ï¿½ï¿½ß°ï¿½ ----------------------------
 
 
 
@@ -35635,10 +35635,10 @@ Thief Classes^000000
 
 
 
-// ------------------- 2006 »ó¹İ±â ½Å±Ôcard Ãß°¡.-----------------------
-//¿µ¹®±Ç 11.1 ¿¡¼­ ¾÷µ¥ÀÌÆ® Á¦¿ÜÇÏ±â·Î ÇÕ´Ï´Ù.
+// ------------------- 2006 ï¿½ï¿½İ±ï¿½ ï¿½Å±ï¿½card ï¿½ß°ï¿½.-----------------------
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 11.1 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ï¿½ ï¿½Õ´Ï´ï¿½.
 
-// ------------- ¾Æ·ç³ª »ó¹İ±â -----------
+// ------------- ï¿½Æ·ç³ª ï¿½ï¿½İ±ï¿½ -----------
 
 7561#
 A frozen heart that
@@ -35742,12 +35742,12 @@ You risk freezing youself if you touch it.
 
 
 
-//----------------------20060610 ½Å±ÔÃß°¡¾ÆÀÌÅÛ-------------------------
+//----------------------20060610 ï¿½Å±ï¿½ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½-------------------------
 
 
 
 
-// -------------- 2006 Ãß°¡¾ÆÀÌÅÛ -------------
+// -------------- 2006 ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -------------
 
 
 12183#
@@ -35766,7 +35766,7 @@ Weight : ^77777725^000000
 
 
 
-// ------------- ¹Ì±¹ ÇØÀûÀÇ ³¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ --------------
+// ------------- ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 7875#
 A recovered Treasure box
 that was Lost by 
@@ -37627,7 +37627,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------------- 2006 »ó¹İ±â ½Å±Ôcard Ãß°¡.-----------------------
+// ------------------- 2006 ï¿½ï¿½İ±ï¿½ ï¿½Å±ï¿½card ï¿½ß°ï¿½.-----------------------
 
 
 
@@ -37639,7 +37639,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------- Ã¥ÀĞ±â ----------------------
+// ------------- Ã¥ï¿½Ğ±ï¿½ ----------------------
 
 11001#
 A new novel from best
@@ -37720,7 +37720,7 @@ fiction author.
 Weight : ^7777771^000000
 #
 
-// ----------------------- Åä¸£È­»ê Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ----------------------- ï¿½ä¸£È­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 7704#
 A device that can
 measure the ground's
@@ -37742,7 +37742,7 @@ by a Geologist.
 Weight : ^7777770^000000
 #
 
-// ---------------------- Åä¸£È­»ê ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ----------------------
+// ---------------------- ï¿½ä¸£È­ï¿½ï¿½ ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 
 
 
@@ -38464,7 +38464,7 @@ the item effect will disappear.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// ---------------- ÀÎµµ³×½Ã¾Æ °¡º­¿î Ä³½¬ ¾ÆÀÌÅÛ --------------	
+// ---------------- ï¿½Îµï¿½ï¿½×½Ã¾ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------	
 	
 12999#	
 A box that contains	
@@ -38983,7 +38983,7 @@ Weight : ^77777750^000000
 Required Level: ^77777730^000000
 Jobs : ^777777All^000000
 #
-// ------------- 2007 ÇÒ·ÎÀ© ÃàÁ¦¸ğÀÚ ---------------
+// ------------- 2007 ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 5356#
 A pumpkin hat for
 celebrating Halloween:
@@ -39011,7 +39011,7 @@ that have shaped
 your life.							
 ^ffffff_^000000							
 #							
-// -------- 2007 ÀÏº» ¿¬¸» Ä³½¬¾ÆÀÌÅÛ ----------							
+// -------- 2007 ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------							
 5380#							
 A gaping fish head							
 fashioned into a hat.							
@@ -39124,7 +39124,7 @@ Jobs: ^777777All^000000
 Weight : ^7777771^000000							
 #							
 			
-// ----- Å©¸®½º¸¶½º ÀÌº¥Æ® »êÅ¸ ¼ö¿° --------					
+// ----- Å©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ --------					
 //5811#					
 //A beard that makes					
 //you want to laugh					
@@ -39198,7 +39198,7 @@ outside of the machine.
 Weight : ^7777770^000000							
 #
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- ´ë¸¸ Æê Ãß°¡ ------------------						
+// ----------- ï¿½ë¸¸ ï¿½ï¿½ ï¿½ß°ï¿½ ------------------						
 9038#						
 An egg in which the						
 New Year Doll Cute						
@@ -39253,7 +39253,7 @@ Luk +21.
 ^ffffff_^000000						
 Weight : ^77777710^000000						
 #						
-//============2008 ¹Ì±¹ ¼¼ÀÎÆ®ÆĞÆ®¸¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ============					
+//============2008 ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½============					
 12715#					
 [This item will be removed
 
@@ -39294,7 +39294,7 @@ A treasure box that belongs to Leprechaun O'Riley who is in Izlude next to the a
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------------------- ¿ëº´¼ÒÈ¯¼­ -------------------------------
+// ---------------------- ï¿½ëº´ï¿½ï¿½È¯ï¿½ï¿½ -------------------------------
 
 12153#
 Summon a 1st
@@ -39506,7 +39506,7 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight : ^77777710^000000
 #
-// ------------------ ¿ëº´¿ë Æ÷¼Ç ------------------
+// ------------------ ï¿½ëº´ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ------------------
 12241#
 A Concentration Potion
 for Mercenaries that
@@ -39532,7 +39532,7 @@ Attack Speed.
 Weight : ^77777720^000000
 #
 
-// ---------------- ¸±·¹ÀÌ Äù½ºÆ® ¾ÆÀÌÅÛ ------------------
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 7730#
 A ticket proving
 that the bearer has
@@ -39657,7 +39657,7 @@ a new mission.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------------- 11.3 ÀâÅÛ -------------------
+// -------------- 11.3 ï¿½ï¿½ï¿½ï¿½ -------------------
 7751#
 A worn-out white
 cloth that can be
@@ -39698,7 +39698,7 @@ Merchant NPCs.
 Weight : ^7777771^000000
 #
 
-// ------------ Äù½ºÆ® ¾ÆÀÌÅÛ -----------------
+// ------------ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------------
 7755#
 Much of the writing
 on this note isn't
@@ -39717,7 +39717,7 @@ Weight : ^7777771^000000
 #
 
 
-// ------------------- 11.3 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ --------------------------
+// ------------------- 11.3 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------------------
 
 
 
@@ -39955,7 +39955,7 @@ Required Level : ^77777770^000000
 Jobs: ^777777Gunslinger Job^000000
 #
 
-// ------------ 11.3 Äù½ºÆ® ¾ÆÀÌÅÛ --------------
+// ------------ 11.3 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ --------------
 7722#
 A loan document
 that includes the
@@ -40002,7 +40002,7 @@ seal of the King of the Rune-Midgarts Kingdom.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ----------------- 20070808 ½Å±ÔCard 34Á¾ -----------------
+// ----------------- 20070808 ï¿½Å±ï¿½Card 34ï¿½ï¿½ -----------------
 
 
 
@@ -40019,7 +40019,7 @@ it's been cooked.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// ------------------- ¸¶·ÂÀÌ ±EEcardÃ¸ ------------------
+// ------------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Eï¿½EcardÃ¸ ------------------
 12246#
 Powerful spirits are 
 sealed within this album.  
@@ -40028,7 +40028,7 @@ if the seal is undone?
 ^ffffff_^000000
 Weight : ^7777775^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 5409#
 A hat, symbolizing western frontiers, made to celebrate the festival.
 Int +2 , Vit +2 , SP +50
@@ -40048,7 +40048,7 @@ Head Location : ^777777Upper-Mid-Lower^000000
 Weight : ^77777720^000000
 Job : ^777777All^000000
 #
-// -------- ¹Ì±¹ Æä½ºÆ¼¹ú Æ¼ÄÏ ----------
+// -------- ï¿½Ì±ï¿½ ï¿½ä½ºÆ¼ï¿½ï¿½ Æ¼ï¿½ï¿½ ----------
 7919#
 Evidence that you really enjoyed the festival!
 ^ffffff_^000000
@@ -40056,13 +40056,13 @@ This item cannot be dropped, traded, mailed or vended.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------				
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------				
 6025#				
 A towel that helps you remember those that have passed on.				
 ^ffffff_^000000				
 Weight : ^7777770^000000				
 #
-// -------- ÃÊº¸ÀÚÁ¸ ¾ÆÀÌÅÛ -----------
+// -------- ï¿½Êºï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
 ^ffffff_^000000
@@ -40135,21 +40135,21 @@ A tribute to luck and fortune throughout the year.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------- ¸ğ¹ÙÀÏ °Ë»çÆí ÅÃÆ½½º ----------
+// ---------- ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ë»ï¿½ï¿½ï¿½ ï¿½ï¿½Æ½ï¿½ï¿½ ----------
 
 
 
 // --------------- Package Item ----------------
 
 
-// ------------------Áß±¹ÀÌº¥Æ® ºÀ°ü--------------------
+// ------------------ï¿½ß±ï¿½ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½--------------------
 
 
 // -------------- 2006 Japan Event -------------
 
 
 
-// ------------------ 2006 ÀÏº» ¾Ö´Ï¹ö¼­¸® Headgear -----------------
+// ------------------ 2006 ï¿½Ïºï¿½ ï¿½Ö´Ï¹ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear -----------------
 5211#
 A tiny and cute hat that can decorate a part of the head.
 This hat, along with a pretty dress, makes the wearer want to go on a picnic.
@@ -40166,7 +40166,7 @@ Required Level : ^77777720^000000
 Jobs : ^777777All^000000
 #
 
-// ------------------ ºê¶óÁú °¡¹ß ½Ã¸®Áî -----------------------
+// ------------------ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã¸ï¿½ï¿½ï¿½ -----------------------
 5273#
 Wig with green, white and red colors.
 When equipped, increases movement speed.
@@ -40207,7 +40207,7 @@ Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
-// --------------- ºê¶óÁú Ä³½¬ ¾ÆÀÌÅÛ 20070605 ------------
+// --------------- ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 20070605 ------------
 5307#
 A hat made with tropical fruits. It looks delicious.
 MDEF + 3
@@ -40217,7 +40217,7 @@ Location : ^777777Upper^000000    Weight : ^77777740^000000
 Jobs : ^777777All^000000
 #
 
-// -------------- ÅÂ±¹ Ä³½¬¾ÆÀÌÅÛ Headgear Ãß°¡ 20070809 --------------
+// -------------- ï¿½Â±ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear ï¿½ß°ï¿½ 20070809 --------------
 5325#
 A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
 ATK, MATK + 2%, Dex + 1
@@ -40229,7 +40229,7 @@ Required Level : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
-// -------------- 2007³â 9¿ù ÀÏº» ¸ğ¹ÙÀÏ Headgear 13Á¾ -----------------
+// -------------- 2007ï¿½ï¿½ 9ï¿½ï¿½ ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ Headgear 13ï¿½ï¿½ -----------------
 5333#
 A hat designed to transmit electric waves. Sometimes it receives electric waves from external worlds.
 MDEF + 2
@@ -40372,7 +40372,7 @@ Required Level : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
-// --------- ÅÂ±¹ ¸ğÀÚ ¾ÆÀÌÅÛ -------------
+// --------- ï¿½Â±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -------------
 5387#
 A hairband that mixes Kafra Style and Cat Hairband Style. It looks so cute!
 Inflicts a random abnormal status to an enemy when physically attacked.
@@ -40383,7 +40383,7 @@ Required Level : ^77777730^000000
 Jobs : ^777777All^000000
 #
 
-// -------------- 2008 ÀÏº» ¾ÆÀÌÅÛ Á¦ 2Åº -----------------
+// -------------- 2008 ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ 2Åº -----------------
 5401#
 Dark-colored plastic frame Locs.
 Int + 1, MDEF + 2
@@ -40433,7 +40433,7 @@ Required Level : ^77777780^000000
 Jobs : ^777777All^000000
 #
 
-// --------------- ÇÊ¸®ÆÇ ÀÚÃ¼Á¦ÀÛ Headgear 7Á¾ -------------
+// --------------- ï¿½Ê¸ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ Headgear 7ï¿½ï¿½ -------------
 5372#
 A magical kitty hat which shows various expressions on its face.
 Reduces Cast Delay of all skills by 3%.
@@ -40568,7 +40568,7 @@ Jobs : ^777777All^000000
 Weight : ^7777771^000000
 #
 
-// ------¾Ëµ¥¹Ù¶õÅÍº¸Æ®·¢------
+// ------ï¿½Ëµï¿½ï¿½Ù¶ï¿½ï¿½Íºï¿½Æ®ï¿½ï¿½------
 12016#
 A potion which increases the moving speed of a character for a set duration.
 ^ffffff_^000000
@@ -40580,7 +40580,7 @@ A potion which decreases the moving speed of a character for a set duration.
 Weight : ^77777710^000000
 #
 
-// ---------- ÇÊ¸®ÇÉ 4¿ù ¹Ú½º ÆĞÅ°Áö ----------------
+// ---------- ï¿½Ê¸ï¿½ï¿½ï¿½ 4ï¿½ï¿½ ï¿½Ú½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½ ----------------
 13994#
 A box containing 5 Speed Potions.
 ^ff0000For this item, the cancellation of purchase or refund is not allowed.^000000
@@ -40613,9 +40613,9 @@ A box that contains 1 coupon to dye your clothes to the original color.
 This item is not refundable and also not transferable.
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- ï¿½Ì±ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 
-// ------------- ½Å±Ô ½Å±Ş ¾ÆÀÌÅÛ GOD ITEMS --------------
+// ------------- ï¿½Å±ï¿½ ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ GOD ITEMS --------------
 
 
 7830#
@@ -40672,7 +40672,7 @@ You can exchange it for a gift.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------------- Å×½ºÆ®¿ë Ä³½¬¾ÆÀÌÅÛ »óÀÚ Town B-wings -----------------
+// ---------------- ï¿½×½ï¿½Æ®ï¿½ï¿½ Ä³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Town B-wings -----------------
 13849#
 A box containing 5 scrolls on which the towns of Run Midgartz are written. You may be moving to the town when using it.
 "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran", "Alberta"
@@ -40737,7 +40737,7 @@ Warning: If no town is selected, the item will disappear.
 Weight : ^7777771^000000
 #
 
-// ----------- 20071004 Ä³½Ã¾ÆÀÌÅÛ -----------
+// ----------- 20071004 Ä³ï¿½Ã¾ï¿½ï¿½ï¿½ï¿½ï¿½ -----------
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
 Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
@@ -41055,7 +41055,7 @@ Jobs : ^777777All^000000
 #
 
 // --------------------- Ep. 12 --------------------------
-// ------------- ÀüÀå º¸»ó ¾ÆÀÌÅÛ ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 13036#
 A dagger especially used for assassinations such as killing Demihumans.
 Str + 1, Agi + 1
@@ -41270,7 +41270,7 @@ A sealed paper envelope. It seems to contain an important message in it.
 Weight : ^7777771^000000
 #
 
-// ------------ ¸Ş¸ğ¸®¾ó ´øÀü º¸»óÅÛ ----------------
+// ------------ ï¿½Ş¸ğ¸®¾ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
@@ -41299,7 +41299,7 @@ Jobs: ^777777Transcendent Swordman, Merchant, Thief Classes^000000
 
 
 
-//¸ğ·ÎÅ© ÄÁÆ¼³ÙÅ» °¡µå ÀÎÁõ¼­
+//ï¿½ï¿½ï¿½Å© ï¿½ï¿½Æ¼ï¿½ï¿½Å» ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
 ^ffffff_^000000
@@ -41308,7 +41308,7 @@ Continental Guard. Balrog.
 Weight : ^7777770^000000
 #
 
-// ------------ ¸¶¿Õ ¸ğ·ÎÅ© ----------------
+// ------------ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Å© ----------------
 
 
 
@@ -41324,7 +41324,7 @@ Jobs: ^777777Above Transcendent 2-1 Classes^000000
 
 
 
-// ---------- ÇÒÂ¦ Å×½ºÆ® -----------
+// ---------- ï¿½ï¿½Â¦ ï¿½×½ï¿½Æ® -----------
 
 
 
@@ -41363,7 +41363,7 @@ Jobs : ^777777Assassin Cross^000000
 #
 
 
-// ------------- ÀüÀå ÈÖÀå ---------------
+// ------------- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ---------------
 7828#
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
 ^ffffff_^000000
@@ -41373,7 +41373,7 @@ A badge that is provided to warriors who have brought great honor from the Battl
 ^ffffff_^000000
 #
 
-// -------- ºÀÀÎÀÇ ½ÅÀü ¾ÆÀÌÅÛ ------------
+// -------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
 ^ffffff_^000000
@@ -41392,14 +41392,14 @@ A pendant that was been used to confine wandered souls from unknown places.
 Weight : ^7777771^000000
 #
 
-// ----------------- ¸¶·ÂÀÌ ±êµç ¹ÙÆ÷¸ŞÆ® ÀÎÇü -----------------
+// ----------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ -----------------
 6004#
 A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
 
-// ------------------- 12.1 Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ------------------- 12.1 ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------------------
 7798#
 A dark fragment imbued with a gloomy spirit. Once you stare into it, you might feel absorbed into it.
 ^ffffff_^000000
@@ -41412,7 +41412,7 @@ You might feel a strong dangerous power from this crystal. When you are close to
 Weight : ^7777771^000000
 #
 
-// --------------- ÇÊ¸®ÇÉ ÀÚÃ¼Á¦ÀÛ Åõ±¸ 7Á¾ ----
+// --------------- ï¿½Ê¸ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 7ï¿½ï¿½ ----
 5374#
 A headgear forged from the horns of the Unsealed Baphomet.
 Increases Physical Damage to Demihuman monsters by 12%.
@@ -41424,7 +41424,7 @@ Weight : ^77777780^000000
 Jobs: ^777777All Jobs^000000
 #
 
-// ------------------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------------
+// ------------------- ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------------
 6000#
 A dark ash imbued with mysterious magical power and darkness.
 ^ffffff_^000000
@@ -41461,7 +41461,7 @@ Stepmother - karma from a previous life?"
 Weight : ^7777771^000000
 #
 
-// ------------------ ÇÏ¾Ç Å×½ºÆ® (¼ÒÄÏ)----------------
+// ------------------ ï¿½Ï¾ï¿½ ï¿½×½ï¿½Æ® (ï¿½ï¿½ï¿½ï¿½)----------------
 
 
 
@@ -42353,7 +42353,7 @@ A box containing one Crown of Deceit
 Weight : ^7777771^000000
 #
 
-// 2009-01-16 ¹Ì±¹ ¿äÃ» ¾ÆÀÌÅÛ
+// 2009-01-16 ï¿½Ì±ï¿½ ï¿½ï¿½Ã» ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 6125#
 A box that brings a feeling of prosperity. Every time you think about opening it you resist the temptation. Perhaps a professional ^00FF00"Gift Opener"^000000  could be of assistance.
 ^FF0000You must be above base level 40 in order to have a Gift Opener open this box^000000
@@ -42383,7 +42383,7 @@ Weight : ^7777771^000000
 ^FF0000This item can only be opened until Aug. 25, 2009^000000
 #
 
-//¹ß·»Å¸ÀÎ
+//ï¿½ß·ï¿½Å¸ï¿½ï¿½
 12742#
 A box containing a ring which is an exchanging gift for Valentine's Day.
 ^ffffff_^000000
@@ -42439,7 +42439,7 @@ Weight : ^7777770^000000
 Jobs : ^777777All Jobs^000000
 #
 
-// ----------- Æ÷¸µ´ëÀü º¸»óÇ° ¾ÆÀÌÅÛ ------------01/07/09
+// ----------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------01/07/09
 				
 					
 
@@ -42454,19 +42454,19 @@ Jobs : ^777777All Jobs^000000
 					
 
 			
-// ---------------- Æ÷¸µÄÚÀÎ -----------------			
+// ---------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ -----------------			
 7539#
 A small coin with a monster Poring engraved in it.
 ^ff0000This can be sold to NPCs^000000
 #			
 			
-// ------------- ÀüÅõÈÖÀå ---------------			
+// ------------- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------			
 7773#			
 A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.			
 ^ffffff_^000000			
 #			
 		
-// 2009-02-16 ¹Ì±¹ º¸º´±Ã ½Ö¾î±Ã Ãß°¡			
+// 2009-02-16 ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ ï¿½ß°ï¿½			
 5512#
 This diadem honors Aquarius, the 11th astrological sign in the zodiac calendar. Its power increases defense from Wind attacks. 
 Str + 2, FLEE + 10, 
@@ -43183,7 +43183,7 @@ Beautiful long, white colored horn with the very strong magical power. It can be
 Weight : ^7777771^000000
 #
 
-// --------- EP13 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ---------------
+// --------- EP13 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ---------------
 5398#
 Headgear made of the skull of a dragon. So hard that it does not easily break.
 Str +2, MDEF +5,
@@ -43458,7 +43458,7 @@ A pie covered with sweet chocolate.  This isn't pretty but the taste is excellen
 ^ffffff_^000000
 Weight : ^77777730^000000
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ ----------
+// ---------- Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ----------
 13416#
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
@@ -43632,7 +43632,7 @@ Job : ^777777Gunslinger^000000
 
 
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ Ãß°¡ Defense±¸ ----------
+// ---------- Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ Defenseï¿½ï¿½ ----------
 
 
 
@@ -43643,12 +43643,12 @@ Job : ^777777Gunslinger^000000
 
 
 
-// ----------- ¿¡ÇÇ¼Òµå 13 ³¬½Ã ------------
+// ----------- ï¿½ï¿½ï¿½Ç¼Òµï¿½ 13 ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
 
-// ----------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------
+// ----------- ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
@@ -43800,7 +43800,7 @@ Weight : ^7777771^000000
 #
 
 
-//--------------------¹Ì±¹ Ä³½¬ 2009.10.07---------------------------
+//--------------------ï¿½Ì±ï¿½ Ä³ï¿½ï¿½ 2009.10.07---------------------------
 
 
 
@@ -53464,7 +53464,7 @@ Contains the following:
 Weight :  ^7777771^000000
 #
 
-// ---------- Ep13.3 Äù½ºÆ®¾ÆÀÌÅÛ ------------
+// ---------- Ep13.3 ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
@@ -53514,7 +53514,7 @@ An old piece of sheet music filled with notes inscribed in blue ink.
 Weight : ^7777771^000000
 #
 
-// ---------- EP13.3 ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- EP13.3 ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
 Weight : ^7777771^000000
@@ -53603,13 +53603,13 @@ Weapon Level : ^7777773^000000
 Required Level : ^777777105^000000
 Jobs : ^7777773rd Class Archer Type^000000
 #
-//---------- EP13.3 ¾÷µ¥ÀÌÆ® ÀÌÈÄ º¯°æ µÇ´Â ¾ÆÀÌÅÛ(±âÁ¸ ¾ÆÀÌÅÛ »èÁ¦ÇÏ°í ¾Æ·¡ Ãß°¡) ------------
-//4229 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//2140 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//2794 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//15002 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//1549  ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-// ----------¾Æ·¡ ¾ÆÀÌÅÛµéÀº µ¥¿ÍÅ¸ ¾÷µ¥ÀÌÆ® ½Ã¿¡µµ µé¾î°¡´Â ¾ÆÀÌÅÛµé·Î µ¥¿ÍÅ¸ ¾÷µ¥ÀÌÆ® ÀÌÈÄ¶ó¸é º°µµ·Î Ãß°¡ÇÒ ÇÊ¿ä¾øÀ½ ------------
+//---------- EP13.3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½Æ·ï¿½ ï¿½ß°ï¿½) ------------
+//4229 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//2140 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//2794 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//15002 ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+//1549  ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ ï¿½ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½.
+// ----------ï¿½Æ·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ûµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ã¿ï¿½ï¿½ï¿½ ï¿½ï¿½î°¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ûµï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Å¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ ï¿½Ê¿ï¿½ï¿½ï¿½ï¿½ ------------
 
 6437#
 A perfume made to make one smell like a Scaraba. Spraying this will help you avoid Scarabas from mobbing you.
@@ -54788,12 +54788,12 @@ Weight: ^7777771^000000
 
 6535#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sockï¿½ï¿½ though you're sure they mean Stocking
 Weight : ^7777771^000000
 #
 6536#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sockï¿½ï¿½ though you're sure they mean Stocking
 Weight : ^7777771^000000
 #
 18671#
@@ -55451,7 +55451,7 @@ Weight : ^7777770^000000
 #
 
 7864#
-Cacao stolen from Pinkamenia in Moscovia while she was baking. Return them to her and she will give you some rewards.
+Cocoa stolen from Pinkamenia in Moscovia while she was baking. Return them to her and she will give you some rewards.
 Weight : ^7777770^000000
 #
 
@@ -55951,7 +55951,7 @@ Weight : ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ---------- Port Malaya ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- Port Malaya ï¿½Å±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ------------
 
 
 
@@ -59176,7 +59176,7 @@ for everyone else...^000000
 Box Weight : ^7777771^000000
 #
 
-//-------½É¿¬ÀÇÈ¸¶û Ãß°¡ ¾ÆÀÌÅÛ------------
+//-------ï¿½É¿ï¿½ï¿½ï¿½È¸ï¿½ï¿½ ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½------------
 
 
 
@@ -59916,7 +59916,7 @@ Weight : ^7777771^000000
 16749#
 A box that has snow crab from malangdo area (1 hour rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonï¿½ï¿½
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class : ^777777bow^000000 Attack : ^777777120^000000
@@ -59930,7 +59930,7 @@ Weight : ^7777771^000000
 16750#
 A box that has snow crab from malangdo area (7 days rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonï¿½ï¿½
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class : ^777777bow^000000 Attack : ^777777120^000000
@@ -59943,7 +59943,7 @@ Weight : ^7777771^000000
 #
 18107#
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonï¿½ï¿½
 LUK + 3, critical damage 50%.
 if base LV over100, ranged  physical Attack +20%
 Class : ^777777bow^000000 Attack : ^777777120^000000
@@ -60240,7 +60240,7 @@ Weight : ^7777775^000000
 #
 12636#
 Delicious canned food from Malangdo.
-You will think about the sea and see the sights  of  Malangdo in your mind when you eat it¡¦ Transports you to Malangdo when consumed.
+You will think about the sea and see the sights  of  Malangdo in your mind when you eat itï¿½ï¿½ Transports you to Malangdo when consumed.
 Weight : ^7777770^000000
 #
 12637#
@@ -60699,7 +60699,7 @@ Applicable Job : ^777777Ninja Class^000000
 Special Kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!
 Class : ^777777Throwing Weapon^000000
 Attack : ^77777750^000000
-Weight : ^7777773^000000      Property : ^777777¹«^000000
+Weight : ^7777773^000000      Property : ^777777ï¿½ï¿½^000000
 Level Limit : ^777777100^000000
 #
 13311#
@@ -62359,7 +62359,7 @@ Weight : ^7777771^000000
 4515#
 Reduce damage from Plant type enemies by 30%.
 Class : ^777777Card^000000
-Compound on : ^777777¹æÆĞ^00000000
+Compound on : ^777777ï¿½ï¿½ï¿½ï¿½^00000000
 Weight : ^7777771^000000
 #
 4516#
@@ -63402,7 +63402,7 @@ Humble ring made with a flower stream.
 Weight : ^7777770^000000
 #
 11598#
-A raw cacao bean. This tastes rather bitter.
+A raw Cocoa bean. This tastes rather bitter.
 Weight : ^7777770^000000
 #
 6844#
@@ -64619,7 +64619,7 @@ Class: ^777777Two-handed Sword^000000 Attack : ^777777150^000000
 Weight : ^7777770^000000
 Weapon level : ^7777773^000000
 Required level : ^77777740^000000
-Job : ^777777°Ë»ç°è¿­^000000
+Job : ^777777ï¿½Ë»ï¿½è¿­^000000
 #
 2950#
 ^000088Rental Item^000000
@@ -67688,15 +67688,15 @@ Written by : Arles Orleans, the Chocolate Expert and the famous Patissiere.
 Weight : ^7777775^000000
 #
 6566#
-Magic Recipe which will teach you how to make a fierce Cacao 99.
+Magic Recipe which will teach you how to make a fierce Cocoa 99.
 It seems like there's a certain place for using this recipe.
-^B90000Essential Ingredients :  99 Cacao beans, 1 Milk.^000000
+^B90000Essential Ingredients :  99 Cocoa beans, 1 Milk.^000000
 Weight : ^7777770^000000
 #
 6567#
 Magic Recipe which will teach you how to make a cool chocolate drink.
 It seems like there's a certain place for using this recipe.
-^B90000Essential Ingredients :  30 Cacao beans, 3 Chocolates, 2 Milk^000000
+^B90000Essential Ingredients :  30 Cocoa beans, 3 Chocolates, 2 Milk^000000
 Weight : ^7777770^000000
 #
 
@@ -75745,7 +75745,7 @@ Weight: ^7777771^000000
 #
 
 19914#
-^808080Airship Captain Felrock¡®s Hat^000000
+^808080Airship Captain Felrockï¿½ï¿½s Hat^000000
 ^FFFFFF_^000000
 Type: Costume
 Location: Upper
@@ -75789,21 +75789,21 @@ Required Level : ^777777125^000000
 Job : ^777777All^000000
 #
 15117#
-Airship captain Felrock¡®s possessions.
+Airship captain Felrockï¿½ï¿½s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 MaxHP + 500, MaxSP + 50, MDEF + 10.
 All State + 1.
 If 7 refined, MaxHP + 500, MaxSP + 50.
 If 9 refined, MaxHP + 200, MaxSP + 20.
 If 12 refined, MaxHP + 300, MaxSP + 30.
-If equipped together with Felrock¡®s Armor, Felrock¡®s Cloak, Felrock¡®s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
+If equipped together with Felrockï¿½ï¿½s Armor, Felrockï¿½ï¿½s Cloak, Felrockï¿½ï¿½s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
 Type : ^777777Armor^000000    Defense : ^77777770^000000
 Weight : ^77777775^000000
 Required Level : ^777777125^000000
 Job : ^777777All^000000
 #
 20744#
-Airship captain Felrock¡®s possessions.
+Airship captain Felrockï¿½ï¿½s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 Neutral tolerance 10% increase, Flee + 20.
 Floating Casting 10% decrease.
@@ -75816,7 +75816,7 @@ Required Level : ^777777125^000000
 Job : ^777777All^000000
 #
 22047#
-Airship captain Felrock¡®s possessions.
+Airship captain Felrockï¿½ï¿½s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 AGI + 1, Attack rate increase (Delay after attack 5% reduction).
 If 7 refined, AGI + 1, Delay after attack extra 5% decrease
@@ -77026,7 +77026,7 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight : ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and¡¦ just cute.
+Wickebine's one of favorite ear cap. Cute andï¿½ï¿½ just cute.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class : ^777777Costume^000000 Def : ^7777770^000000
@@ -78350,7 +78350,7 @@ Job : ^777777All^000000
 #
 31123#
 Tall hat with flying Ghostring. Cute shabby tall hat.
-Wearing this hat makes feel horrifying. Well¡¦just feeling.
+Wearing this hat makes feel horrifying. Wellï¿½ï¿½just feeling.
 Class : ^777777Costume^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -78980,7 +78980,7 @@ Weight: 0
 Required Monster: Scatleton
 #
 20397#
-^808080A helmet that can transform you into Jakk. It is so precise that even Jakk¡®s friends are tricked. The way it is produced is confidential...^000000
+^808080A helmet that can transform you into Jakk. It is so precise that even Jakkï¿½ï¿½s friends are tricked. The way it is produced is confidential...^000000
 ^FFFFFF_^000000
 Type: Headgear
 Position: Middle, Lower
@@ -79456,142 +79456,206 @@ Weight : ^7777771^000000
 #
 
 20521#
-°ËÀº °í¾çÀÌ ¸ğ¾çÀ» º»µû ¸¸µç °¡¹æ, °í¾çÀÌ°¡ ÁÁ¾ÆÇÏ´Â Àå³­°¨ÀÌ ¸¹ÀÌ µé¾î ÀÖ´Ù.
+ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½Ì°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½å³­ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½.
 
-°è¿­ : ^777777°ÉÄ¥°Í^000000
-¹æ¾î : ^7777770^000000
-¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½è¿­ : ^777777ï¿½ï¿½Ä¥ï¿½ï¿½^000000
+ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 20586#
-·Î¸®·ç¸®°¡ Å¸´Â ´ŞÀ» Èä³» ³½ ÀÇ»ó¿ë ÃÊ½Â´Ş.
-Âø¿ëÇÏ¸é Á¶±İÀÌÁö¸¸, µ¿È­ ¼Ó¿¡ ÀÖ´Â °Í °°Àº ±âºĞÀÌ µç´Ù.
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î : ^7777770^000000
-À§Ä¡ : ^777777°ÉÄ¥°Í ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½Î¸ï¿½ï¿½ç¸®ï¿½ï¿½ Å¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ä³» ï¿½ï¿½ ï¿½Ç»ï¿½ï¿½ ï¿½Ê½Â´ï¿½.
+ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½È­ ï¿½Ó¿ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½.
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½Ä¥ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 410005#
-Èñ±ÍÇÑ ´ÙÀÌ¾Æ¸óµå °áÁ¤À¸·Î Á¦ÀÛÇÑ ¸¶¹ı Ææ´øÆ®ÀÌ´Ù.
-´ÙÀÌ¾Æ¸óµå¿¡ ³ôÀº ¸¶¹ı·ÂÀÌ ºÎ¿©µÇ¾î ÀÖ±â ¶§¹®¿¡, ¸¶¹ı»çµé »çÀÌ¿¡¼­ ÀÎ±â°¡ ³ôÀº ¾ÆÀÌÅÛÀÌ´Ù.
-^ffffff<NAVI>^4D4DFF[ÇìÀÌ´ã Æç·Î¿ì]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4ÀÇ»ó ÀÎÃ¦Æ® ½ºÅæ »óÀÚ21·Î ±³È¯ °¡´É.^000000
-°è¿­: ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î: ^7777770^000000
-À§Ä¡: ^777777Áß´Ü ^000000 ¹«°Ô: ^7777770^000000
-¿ä±¸ ·¹º§: ^7777771^000000
-ÀåÂø: ^777777Àü Á÷¾÷^000000
+ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¾Æ¸ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Æ®ï¿½Ì´ï¿½.
+ï¿½ï¿½ï¿½Ì¾Æ¸ï¿½å¿¡ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Î¿ï¿½ï¿½Ç¾ï¿½ ï¿½Ö±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì¿ï¿½ï¿½ï¿½ ï¿½Î±â°¡ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½.
+^ffffff<NAVI>^4D4DFF[ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½Î¿ï¿½]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4ï¿½Ç»ï¿½ ï¿½ï¿½Ã¦Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½21ï¿½ï¿½ ï¿½ï¿½È¯ ï¿½ï¿½ï¿½ï¿½.^000000
+ï¿½è¿­: ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ï¿½Ä¡: ^777777ï¿½ß´ï¿½ ^000000 ï¿½ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½: ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½: ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 9944#
-½Åºñ·Î¿î ºĞÀ§±â¸¦ ÀÚ¾Æ³»´Â »óÀÚ´Ù.
-¹«°Ô : ^7777771^000000
+ï¿½Åºï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½â¸¦ ï¿½Ú¾Æ³ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú´ï¿½.
+ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
 #
 
 
 
 20543#
-ÇÒ·ÎÀ© Àå½Ä¿ëÀ¸·Î °³¹ßµÈ ¹ÙÀÌÅ· È£¹Ú Æ÷¸µ ¸ğ¾çÀÇ °¡¹æ.
-^ffffff<NAVI>^4D4DFF[ÇìÀÌ´ã Æç·Î¿ì]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4ÀÇ»ó ÀÎÃ¦Æ® ½ºÅæ »óÀÚ16À¸·Î ±³È¯ °¡´É.^000000
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î : ^7777770^000000
-À§Ä¡ : ^777777°ÉÄ¥°Í ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ßµï¿½ ï¿½ï¿½ï¿½ï¿½Å· È£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
+^ffffff<NAVI>^4D4DFF[ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½Î¿ï¿½]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4ï¿½Ç»ï¿½ ï¿½ï¿½Ã¦Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½16ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ ï¿½ï¿½ï¿½ï¿½.^000000
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½Ä¥ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 20588#
-¸¶¹ı»çÀÇ ±æÀ» °È´Â ÀÚ¶ó¸é ÇÑ¹ø ÂëÀº µ¿°æÀ» Ç°À» °Í °°Àº ÀÇ»ó¿ë ºøÀÚ·ç.
-»ç¿ª¸¶¿Í ÇÔ²² ¸ÅÁöÄÃÇÑ ÆĞ¼ÇÀ¸·Î ÄÚµğÇÏ¸é ¸¶¹ı»ç°¡ µÈ ±âºĞÀ» ¸Àº¼ ¼ö ÀÖ´Ù.
-^ffffff<NAVI>^4D4DFF[ÇìÀÌ´ã Æç·Î¿ì]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4ÀÇ»ó ÀÎÃ¦Æ® ½ºÅæ »óÀÚ20À¸·Î ±³È¯ °¡´É.^000000
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î : ^7777770^000000
-À§Ä¡ : ^777777°ÉÄ¥°Í ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½È´ï¿½ ï¿½Ú¶ï¿½ï¿½ ï¿½Ñ¹ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ç°ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç»ï¿½ï¿½ ï¿½ï¿½ï¿½Ú·ï¿½.
+ï¿½ç¿ªï¿½ï¿½ï¿½ï¿½ ï¿½Ô²ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ğ¼ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Úµï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ç°¡ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
+^ffffff<NAVI>^4D4DFF[ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½Î¿ï¿½]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4ï¿½Ç»ï¿½ ï¿½ï¿½Ã¦Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½20ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ ï¿½ï¿½ï¿½ï¿½.^000000
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½Ä¥ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 31387#
-¸öÀÌ Á¶±İ Àç»ı µÈ Àè.
-¸Ó¸®ÀÇ ¿µ¾çºĞÀ» ÀÏºÎ Èñ»ıÇÏ¿´À½¿¡µµ ºÒ±¸ÇÏ°í ÀÌµ¿Àº ºÒ°¡´É ÇÑ µí ÇÏ´Ù.
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î : ^7777770^000000
-À§Ä¡ : ^777777»ó´Ü ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½.
+ï¿½Ó¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ò±ï¿½ï¿½Ï°ï¿½ ï¿½Ìµï¿½ï¿½ï¿½ ï¿½Ò°ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ï´ï¿½.
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 9946#
-·¯½Ã¾Æ ÇÒ·ÎÀ© ·°Å°¹Ú½º
-¹«°Ô : ^7777771^000000
+ï¿½ï¿½ï¿½Ã¾ï¿½ ï¿½Ò·ï¿½ï¿½ï¿½ ï¿½ï¿½Å°ï¿½Ú½ï¿½
+ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
 #
 
 
 
 31581#
-¸Ó¸®°¡ ÅëÂ°·Î µé¾î°¥ Á¤µµ·Î °Å´ëÇÑ È£¹ÚÀ» µµ·Á³»¾î ¸¸µç ¸ğÀÚ. ½Ä¿ë È£¹ÚÀ» »ç¿ëÇØ¼­ ¸¸µé¾ú±â ¶§¹®¿¡ Á¶¸®ÀÇ Àç·á·Î ¾µ ¼ö ÀÖ´Ù°í ÇÑ´Ù
+ï¿½Ó¸ï¿½ï¿½ï¿½ ï¿½ï¿½Â°ï¿½ï¿½ ï¿½ï¿½î°¥ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Å´ï¿½ï¿½ï¿½ È£ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. ï¿½Ä¿ï¿½ È£ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´Ù°ï¿½ ï¿½Ñ´ï¿½
 
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000¹æ¾î : ^7777770^000000
-À§Ä¡ : ^777777»ó´Ü ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 
 
 20088#
-^ff0000Å¸ °èÁ¤°ú °Å·¡°¡ ºÒ°¡´ÉÇÑ ¾ÆÀÌÅÛ ÀÔ´Ï´Ù.^000000
-12Áö½Å Áß ¿ëÀÇ ±â¿îÀÌ °¡µæÇÑ ¸ğÀÚ.
-ºû³ª´Â ¿©ÀÇÁÖ¸¦ Ç°°í ÀÖ¾î ¼Ò¿øÀ» µé¾îÁÙ °Í ¸¸ °°´Ù.
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000
-À§Ä¡ : ^777777»ó´Ü ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+^ff0000Å¸ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Å·ï¿½ï¿½ï¿½ ï¿½Ò°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô´Ï´ï¿½.^000000
+12ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ Ç°ï¿½ï¿½ ï¿½Ö¾ï¿½ ï¿½Ò¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 20552#
-·¹ÀÎÀúÀÇ Ä¡¹ĞÇÔÀ» ´À³¥ ¼ö ÀÖ´Ù.
-°è¿­: ^777777°ÉÄ¥°Í^000000 ¹æ¾î: ^7777770^000000
-¹«°Ô: ^7777770^000000
-¿ä±¸ ·¹º§: ^7777771^000000
-ÀåÂø: ^777777Àü Á÷¾÷^000000
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
+ï¿½è¿­: ^777777ï¿½ï¿½Ä¥ï¿½ï¿½^000000 ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½: ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½: ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 20563#
-·¹ÀÎÀúÀÇ Ä¡¹ĞÇÔÀ» ´õ ¸¹ÀÌ ´À³¥ ¼ö ÀÖ´Ù.
-°è¿­: ^777777°ÉÄ¥°Í^000000 ¹æ¾î: ^7777770^000000
-¹«°Ô: ^7777770^000000
-¿ä±¸ ·¹º§: ^7777771^000000
-ÀåÂø: ^777777Àü Á÷¾÷^000000
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
+ï¿½è¿­: ^777777ï¿½ï¿½Ä¥ï¿½ï¿½^000000 ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½: ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½: ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 31406#
-´ÏµåÈ£±×ÀÇ ¸Ó¸®¸¦ º»µû ¸¸µç °¡¹ß.
+ï¿½Ïµï¿½È£ï¿½ï¿½ï¿½ï¿½ ï¿½Ó¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
 
 
-°è¿­ : ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î : ^7777770^000000
-À§Ä¡ : ^777777»ó´Ü ^000000¹«°Ô : ^7777770^000000
-¿ä±¸ ·¹º§ : ^7777771^000000
-ÀåÂø : ^777777Àü Á÷¾÷^000000
+ï¿½è¿­ : ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ï¿½Ä¡ : ^777777ï¿½ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½ : ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 31721#
-ÅÂ°í¸¦ ¼±È¸ÇÏ´Â ¿ëÀÇ ¸ğ½ÀÀÌ¸ç, ±× ¿¾³¯ ³ú½ÅÀÌ »ç¿ëÇÏ´ø Àåºñ¶ó´Â ¼³µµ ÀÖ´Ù.
-°è¿­: ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î: ^7777770^000000
-À§Ä¡: ^777777»ó´Ü ^000000¹«°Ô: ^7777770^000000
-¿ä±¸ ·¹º§: ^7777771^000000
-ÀåÂø: ^777777Àü Á÷¾÷^000000
+ï¿½Â°ï¿½ï¿½ï¿½ ï¿½ï¿½È¸ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ì¸ï¿½, ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½.
+ï¿½è¿­: ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ï¿½Ä¡: ^777777ï¿½ï¿½ï¿½ ^000000ï¿½ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½: ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½: ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 14524#
-1³â¿¡ ÇÑ ¸¶¸® ÀâÈú±î ¸»±î ÇÑ È¯»óÀÇ ¹°°í±â·Î ¸¸µç È¸. ¸ÔÀ¸¸é ÀÔ ¾È¿¡¼­ ¹Ù´Ù°¡ ´À²¸Áö¸ç, ¸ÀÀÇ ÆÄ³ë¶ó¸¶°¡ ÆîÃÄÄ£´Ù°í ÇÑ´Ù.
-¸ÔÀ¸¸é HP¿Í SP¸¦ ¿ÏÀüÈ÷ È¸º¹½ÃÄÑ ÁØ´Ù°í ÇÑ´Ù.
+1ï¿½â¿¡ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ È¯ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È¸. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½È¿ï¿½ï¿½ï¿½ ï¿½Ù´Ù°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½Ä³ï¿½ó¸¶°ï¿½ ï¿½ï¿½ï¿½ï¿½Ä£ï¿½Ù°ï¿½ ï¿½Ñ´ï¿½.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ HPï¿½ï¿½ SPï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø´Ù°ï¿½ ï¿½Ñ´ï¿½.
 ^ffffff_^000000
-¹«°Ô : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
 #
 100625#
-¸»À» ¾Æ³¢°í ÁöÄÑº¸´Ù º¸¸é ¿ëÀÌ ºÎÈ­ÇÒ °Í¸¸ °°Àº ´À³¦ÀÌ µç´Ù.
-¹«°Ô : ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½ ï¿½Æ³ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ñºï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È­ï¿½ï¿½ ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½.
+ï¿½ï¿½ï¿½ï¿½ : ^7777771^000000
 #
 
 
 
 31884#
-½ÅÀÇ °¡È£°¡ ÀÔÇôÁ® ÀÖ¾ú´ø Àü¼³ÀÇ Åõ±¸¸¦ ¸ğ¹æÇÑ ÀÇ»ó¿ë Åõ±¸.
-^ffffff<NAVI>^4D4DFF[ÇìÀÌ´ã Æç·Î¿ì]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4ÀÇ»ó ÀÎÃ¦Æ® ½ºÅæ »óÀÚ20À¸·Î ±³È¯ °¡´É.^000000
-°è¿­: ^777777ÀÇ»óÀåºñ^000000 ¹æ¾î: ^7777770^000000
-À§Ä¡: ^777777»ó´Ü ^000000 ¹«°Ô: ^7777770^000000
-¿ä±¸ ·¹º§: ^7777771^000000
-ÀåÂø: ^777777Àü Á÷¾÷^000000
+ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ç»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½.
+^ffffff<NAVI>^4D4DFF[ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½Î¿ï¿½]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4ï¿½Ç»ï¿½ ï¿½ï¿½Ã¦Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½20ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ ï¿½ï¿½ï¿½ï¿½.^000000
+ï¿½è¿­: ^777777ï¿½Ç»ï¿½ï¿½ï¿½ï¿½^000000 ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ï¿½Ä¡: ^777777ï¿½ï¿½ï¿½ ^000000 ï¿½ï¿½ï¿½ï¿½: ^7777770^000000
+ï¿½ä±¸ ï¿½ï¿½ï¿½ï¿½: ^7777771^000000
+ï¿½ï¿½ï¿½ï¿½: ^777777ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½^000000
 #
 
+15919#
+ë„ëª¨ë³´ì´ì˜ ì¸í˜•.
+ê°€ì •ì¼ì´ ì˜ ëŒì•„ê°€ëŠ”ì§€ë¥¼ ê°ì‹œí•˜ëŠ” ìŠ¬ë¼ë¸Œ ì‹ í™”ì— ë‚˜ì˜¤ëŠ” ì§‘ì˜ ì •ë ¹ìœ¼ë¡œ ê²Œìœ¼ë¥¸ ê°€ì¡±ë“¤ì—ê²ŒëŠ” ì ‘ì‹œë¥¼ ê¹¨ëŠ” ë“±ì˜ ë²Œì„ ì£¼ê¸°ë„ í•˜ì§€ë§Œ ê·¼ë©´í•˜ê³  ì–‘ì‹¬ì ì¸ ì‚¬ëŒë“¤ì˜ ê°€ì •ê³¼ ì¬ì‚°ì€ ì§€ì¼œì¤€ë‹¤ê³  ì•Œë ¤ì ¸ ìˆë‹¤.
+ê³„ì—´ : ^777777ì˜ìƒì¥ë¹„^000000 ë°©ì–´ : ^7777770^000000
+ìœ„ì¹˜ : ^777777ì¤‘ë‹¨^000000 ë¬´ê²Œ : ^7777770^000000
+ìš”êµ¬ ë ˆë²¨ : ^7777771^000000
+ì¥ì°© : ^777777ì „ ì§ì—…^000000
+#
+19265#
+ìŠ¤ëª¨í‚¤ê°€ ì‚¬ìš©í•˜ëŠ” ë³€ì‹  ë‚˜ë­‡ì.
+ìŠ¤ëª¨í‚¤ì˜ ê¸°ìš´ì´ ëŠê»´ì§„ë‹¤.
+1ì œë ¨ ë‹¹ ëª¨ë“  ì†ì„± ë§ˆë²• ê³µê²©ë ¥ 1% ì¦ê°€.
+ë¬¼ë¦¬ ê³µê²© ì‹œ, ì¼ì • í™•ë¥ ë¡œ 5ì´ˆê°„ ìŠ¤ëª¨í‚¤ ë¹™ì˜.
+
+ìŠ¤ëª¨í‚¤ ë¹™ì˜ ì‹œ, ì•„ë˜ì™€ ê°™ì€ íš¨ê³¼ê°€ ë°œë™ë©ë‹ˆë‹¤.
+ê·¼ì ‘ ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ, 5% í™•ë¥ ë¡œ ë³¼íŠ¸ë¥˜ ë§ˆë²• 2Lv ë°œë™.
+7ì œë ¨ì´ê³  ê·¼ì ‘ ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ 4% í™•ë¥ ë¡œ í”„ë¡œìŠ¤íŠ¸ ë…¸ë°” 5ë ˆë²¨ ì¶”ê°€ ë°œë™.
+8ì œë ¨ì´ê³  ê·¼ì ‘ ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ 3% í™•ë¥ ë¡œ ì¬ë” ìŠ¤í†° 5ë ˆë²¨ ì¶”ê°€ ë°œë™.
+9ì œë ¨ì´ê³  Base LVì´ 100 ì´ìƒì¼ ê²½ìš°,
+ê·¼ì ‘ ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ 2%ì˜ í™•ë¥ ë¡œ í—¬ ì¸í˜ë¥´ë…¸ 5ë ˆë²¨ ì¶”ê°€ ë°œë™.
+10ì œë ¨ì´ê³  Base LVì´ 100 ì´ìƒì¼ ê²½ìš°,
+ê·¼ì ‘ ì¼ë°˜ ë¬¼ë¦¬ ê³µê²© ì‹œ 1%ì˜ í™•ë¥ ë¡œ ì²´ì¸ ë¼ì´íŠ¸ë‹ 3ë ˆë²¨ ì¶”ê°€ ë°œë™.
+ê³„ì—´ : ^777777íˆ¬êµ¬^000000 ë°©ì–´ : ^7777777^000000
+ìœ„ì¹˜ : ^777777ìƒë‹¨ ^000000ë¬´ê²Œ : ^77777760^000000
+ìš”êµ¬ ë ˆë²¨ : ^7777771^000000
+ì¥ì°© : ^777777ì „ ì§ì—…^000000
+#
+20396#
+ê·€ì—¬ìš´ ë‚˜ë¬´ ì •ë ¹ì˜ ëª¨ì.
+^ffffff<NAVI>^4D4DFF[í—¤ì´ë‹´ í ë¡œìš°]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4ì˜ìƒ ì¸ì±ˆíŠ¸ ìŠ¤í†¤ ìƒì8ë¡œ êµí™˜ ê°€ëŠ¥.^000000
+ê³„ì—´ : ^777777ì˜ìƒì¥ë¹„^000000 ë°©ì–´ : ^7777770^000000
+ìœ„ì¹˜ : ^777777ìƒë‹¨ ^000000ë¬´ê²Œ : ^7777770^000000
+ìš”êµ¬ ë ˆë²¨ : ^7777771^000000
+ì¥ì°© : ^777777ì „ ì§ì—…^000000
+#
+20585#
+ê°•ë ¥í•œ ê¸°ë°±ì´ ëŠê»´ì§€ëŠ” ë¶ˆê³° ì¸í˜• ê°€ë°©
+ì‚´ì•„ ì›€ì§ì´ê³  ìˆëŠ” ì°©ê°ì„ ì¤€ë‹¤.
+ê³„ì—´: ^777777ê±¸ì¹ ê²ƒ^000000  ë°©ì–´: ^7777770^000000
+ë¬´ê²Œ: ^7777770^000000
+ìš”êµ¬ ë ˆë²¨: ^7777771^000000
+ì¥ì°©: ^777777ì „ ì§ì—…^000000
+#
+31423#
+ê³°ëŒì´ í˜•ìƒì„ ëˆ í’ì„ . í¬ë§ìœ¼ë¡œ ì°©ê°í•˜ëŠ” ì¼ì´ ë§ë‹¤ê³  í•œë‹¤.
+ê³„ì—´ : ^777777ì˜ìƒì¥ë¹„^000000 ë°©ì–´ : ^7777770^000000
+ìœ„ì¹˜ : ^777777í•˜ë‹¨ ^000000ë¬´ê²Œ : ^7777770^000000
+ìš”êµ¬ ë ˆë²¨ : ^7777771^000000
+ì¥ì°© : ^777777ì „ ì§ì—…^000000
+#
+31939#
+ì¹´ë„¤ì´ì…˜ìœ¼ë¡œ ë§Œë“  í™”í™˜.
+ì–´ë²„ì´ë‚ ì— ì„ ë¬¼í•˜ëŠ” ì¹´ë„¤ì´ì…˜ì—ëŠ” ë¶€ëª¨ë‹˜ì— ëŒ€í•œ ì‚¬ë‘ì˜ ëœ»ì´ ë‹´ê²¨ìˆë‹¤.
+ê³„ì—´: ^777777ì˜ìƒì¥ë¹„^000000 ë°©ì–´: ^7777770^000000
+ìœ„ì¹˜: ^777777ìƒë‹¨ ^000000 ë¬´ê²Œ: ^7777770^000000
+ìš”êµ¬ ë ˆë²¨: ^7777771^000000
+ì¥ì°©: ^777777ì „ ì§ì—…^000000
+#
+101327#
+ìŠ¬ë¼ë¸Œì¸ì˜ ê¸°ìƒì„ ë³´ì—¬ì£¼ë§ˆ!
+(ìœ ë£Œ)
+ë¬´ê²Œ : ^7777770^000000
+#
