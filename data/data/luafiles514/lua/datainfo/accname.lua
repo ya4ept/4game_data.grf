@@ -2137,6 +2137,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Pope_Ribbon_R] = "_Pope_Ribbon_R",
 	[ACCESSORY_IDs.ACCESSORY_Purple_Cat_Ears_Beret] = "_Purple_Cat_Ears_Beret",
 	[ACCESSORY_IDs.ACCESSORY_Sweet_Potato_In_Mouth] = "_Sweet_Potato_In_Mouth",
+	[ACCESSORY_IDs.ACCESSORY_DOMOVOI] = "_µµёрєёАМ",
 	[ACCESSORY_IDs.ACCESSORY_C_Inner_Color_Long] = "_C_Inner_Color_Long",
 	[ACCESSORY_IDs.ACCESSORY_C_Avenger] = "_C_Avenger",
 	[ACCESSORY_IDs.ACCESSORY_2021RTC_Headset_1_TW] = "_2021RTC_Headset_1_TW",
@@ -2185,8 +2186,5 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Einherial_Mantle] = "_Einherial_Mantle",
 	[ACCESSORY_IDs.ACCESSORY_C_B_Thin_Eyes_B_TW] = "_C_B_Thin_Eyes_B_TW",
 	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_GC] = "_Viva_Adul_Hat_GC",
-	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_SO] = "_Viva_Adul_Hat_SO",
-	[ACCESSORY_IDs.ACCESSORY_Crushed_Snow_Man] = "_Crushed_Snow_Man",
-	[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = "_C_Fluffy_Rabbit_Cape",
-	[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = "_C_SR_Hair_SV"
+	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_SO] = "_Viva_Adul_Hat_SO"
 }
