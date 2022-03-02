@@ -112,7 +112,21 @@ title_tbl = {
 	[5066] = "Snow master ",
 	[5067] = "Snow guru ",
 	[5068] = "Coffee lover ",
-	[5069] = "Pancake lover "
+	[5069] = "Pancake lover ",
+	[5070] = "Andre Slayer ",
+	[5071] = "Argos Slayer ",
+	[5072] = "Chonchon Slayer ",
+	[5073] = "Fabre Slayer ",
+	[5074] = "Horn Slayer ",
+	[5075] = "Creamy Slayer ",
+	[5076] = "Ambernite Slayer ",
+	[5077] = "Insectophobe ",
+	[5078] = "Fly swatter ",
+	[5079] = "Pest control ",
+	[5080] = "Desinsector ",
+	[5081] = "Poisoner ",
+	[5082] = "Deadly ",
+	[5083] = "Merciless "
 }
 
 -- Function #0
