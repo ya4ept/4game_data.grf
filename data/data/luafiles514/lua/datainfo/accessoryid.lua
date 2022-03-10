@@ -2191,5 +2191,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Einherial_Mantle = 2200,
 	ACCESSORY_C_B_Thin_Eyes_B_TW = 2201,
 	ACCESSORY_Viva_Adul_Hat_GC = 2202,
-	ACCESSORY_Viva_Adul_Hat_SO = 2203
+	ACCESSORY_Viva_Adul_Hat_SO = 2203,
+	ACCESSORY_Belka_Strelka = 2246
 }
