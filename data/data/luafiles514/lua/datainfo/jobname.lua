@@ -3722,5 +3722,14 @@ JobNameTable = {
 	[jobtbl.JT_E_BAPHOMET_JUMP] = "PASANA",
 	[jobtbl.JT_E_BAPHOMET_HEAVY] = "PASANA",
 	[jobtbl.JT_G_PORING_] = "Poring_",
-	[jobtbl.JT_E_POTON_CANON] = "POTON_CANON"
+	[jobtbl.JT_E_POTON_CANON] = "POTON_CANON",
+	[jobtbl.JT_EVT_PORING] = "Poring",
+	[jobtbl.JT_EVT_LITTLE_PORING] = "LITTLE_PORING",
+	[jobtbl.JT_EVT_POPORING] = "Poporing",
+	[jobtbl.JT_EVT_MARIN] = "MARIN",
+	[jobtbl.JT_EVT_ANGELING] = "ANGELING",
+	[jobtbl.JT_EVT_GHOSTRING] = "GHOSTRING",
+	[jobtbl.JT_EVT_DEVILING] = "DEVILING",
+	[jobtbl.JT_EVT_ARCHANGELING] = "ARCHANGELING",
+	[jobtbl.JT_EVT_KING_PORING] = "KING_PORING"
 }

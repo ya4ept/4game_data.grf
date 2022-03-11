@@ -1,3 +1,36 @@
+10.03.2022 12:01
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+ Shop:
+— The First Flowering Treasure is here both individually and in packs to bring the new season breeze all over Rune-Midgard. Check our Launcher and the Shop.
+— The Leveling Sets are back to help you reach higher levels faster. Available until 16th of March.
+
+Events:
+— The new Daily Rewards are here. Log in every day to win a Sleepy Fishing Cat!
+
+Fixes:
+— Now the sprite of the item "her heart" is correctly displayed when dragging it.
+— Spear Dynamo and Berserk Potion Buffs are now correctly displayed.
+
+Finished activities:
+— The Win-Win Machine was turned off.
+— The Pest Control Event has come to an end.
+
+https://eu.4gameforum.com/threads/686725/
+
+14:28
+CM_Godfather
+Attention!
+An extra maintenance is needed to correct a few issues.
+I should not take too long and we will come back announce once it is over. 
+
+15:00
+CM_Godfather
+The server is back online. A small issue with warps has been fixed.
+Have a great game!
+
+================
 02.03.2022 11:44
 CM_Godfather
 The maintenance is over, the server is online. Changelog:
