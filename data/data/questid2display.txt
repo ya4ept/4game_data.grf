@@ -18022,189 +18022,253 @@ Deliver the items to Schweddy#
 Enter the Ghost Palace via a secret passage.#
 #
 
-1261#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
-Entering the Ghost Palace is restricted until the timer has expired.#
+1261#Проклятый мечник#SG_FEEL#QUE_NOIMAGE#
+Вход в Дворец Призраков запрещен до истечения времени таймера.#
 #
 
-1262#Cursed Swordman#SG_FEEL#QUE_NOIMAGE#
-Exploring to the palace of the ghost is stopped#
-Stop exploring to the palace of the ghost#
+1262#Проклятый мечник#SG_FEEL#QUE_NOIMAGE#
+Исследование Дворца Призраков остановлен#
+Прекратить исследовать Дворец Призраков#
 
-1263# Cursed Swordman #SG_FEEL#QUE_NOIMAGE#
-It is time to leave the Ghost Palace. All the ghosts seem to have disappeared.#
+1263#Проклятый мечник#SG_FEEL#QUE_NOIMAGE#
+Пора покинуть Дворец Призраков. Кажется, все призраки исчезли.#
 #
 
-7568#Explore the tower#SG_FEEL#QUE_NOIMAGE#
-You've been asked to explore the tower of Thanatos through the dimensional gap.#
+7568#Исследование башни#SG_FEEL#QUE_NOIMAGE#
+Вас попросили исследовать башню Танатоса.#
 #
 
-7569#Treat the injured#SG_FEEL#QUE_NOIMAGE#
-Treat the wounded soldiers with the first-aid kits#
+7569#Помощь раненым#SG_FEEL#QUE_NOIMAGE#
+Вылечите раненых солдат при помощи набора первой помощи#
 #
 
-7570#Destroy the demons#SG_FEEL#QUE_NOIMAGE#
-Demons are invading from the upper floor. Get rid of the Evil Shadows that are invading there will be 7 of each kind to destroy.#
+7570#Уничтожение демонов#SG_FEEL#QUE_NOIMAGE#
+Демоны прорываются с верхнего этажа. Избавьтесь от Злобных Теней по 7 каждого типа.#
 #
 
-7571#Tower Expedition#SG_FEEL#QUE_NOIMAGE#
-The tower was built by a demon tribe headed by one named Thanatos during a war between gods and demons. It was activated by Satan Morocc in an attempt to re-enter Rune Midgard#
+7571#Экспедиция в Башню#SG_FEEL#QUE_NOIMAGE#
+Башня была построена демонами под предводительством Танатоса. Она была активирована в попытках проникновения в Рун Мидгард.#
 #
 
-7572#Lucile...?#SG_FEEL#QUE_NOIMAGE#
-Lucile, a mysterious girl in the Devil's tower asked to help recover her body.#
-Help Lucile#
+7572#Люсиль...?#SG_FEEL#QUE_NOIMAGE#
+Люсиль, загадочная девушка из башни, просит помочь восстановить ее тело.#
+Помочь Люсиль#
 
-7573#Magic Swordman Thanatos#SG_FEEL#QUE_NOIMAGE#
-Magic swordman thanatos has to prevent the Magic Seals of the demon from approaching to successfully seal the demon Morocc.#
-Get rid of the Magic Seals#
+7573#Волшебный мечник Танатоса#SG_FEEL#QUE_NOIMAGE#
+Необходимо уничтожить волшебные печати, чтобы заточить демона Моррока.#
+Уничтожить печати.#
 
-7574#Thanatos Tower#SG_FEEL#QUE_NOIMAGE#
-It is called Thanatos Tower because it is where the magic swordsman sealed the power of Satan Morocc hundreds of years ago.#
+7574#Башня Танатос#SG_FEEL#QUE_NOIMAGE#
+Она называется башней Танатоса, т.к. именно здесь волшебныый мечник запечатал силу демона Моррока сотни лет назад.#
 #
 
 7575#Evil followers#SG_FEEL#QUE_NOIMAGE#
 Destroy the Evil Followers#
 #
 
-7576#Morocc castle seal#SG_FEEL#QUE_NOIMAGE#
-Years from now, someone will try to awaken Satan Morocc in Morocc castle since Thanatos Tower is sealed.#
+7576#Печать замка Моррока#SG_FEEL#QUE_NOIMAGE#
+Через несколько лет кто-нибудь обязательно попытается снова пробудить демона Моррока.#
 #
 
-7577#Space distortion#SG_FEEL#QUE_NOIMAGE#
-Exploring time and space causes your body to be in flux. You need to take a break or you will lose your mind.#
-Wait for the timer before re-entering.#
+7577#Искажение пространства#SG_FEEL#QUE_NOIMAGE#
+Исследуя пространство и время, твое тело подверглось огромным напряжениям потока. Необходимо восстановиться.#
+Подождать перед повторным входом в подземелье.#
 
-9284#Stopping Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
-Stop the ^0000FFGeffen Gangsters^000000 from bullying ^8B4513Kafra^000000#
+9284#Остановить Геффенских разбойников#SG_FEEL#QUE_NOIMAGE#
+Остановить ^0000FFГеффенских разбойников^000000 от издевательств над ^8B4513Сотрудником Кафры^000000.#
 #
 
-9285#Beating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
-You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
-Register for the ^8B4513Magic Competition^000000#
+9285#Побить Геффенских разбойников#SG_FEEL#QUE_NOIMAGE#
+Вы победили ^8B4513Геффенских разбойников^000000, но возможно придут еще.#
+Зарегистрируйтесь на "^8B4513Магический турнир^000000#
 
-9286#Stop Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
-Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513A student^000000#
-Let’s save ^8B4513 A student^000000#
+9286#Остановить Геффенских разбойников#SG_FEEL#QUE_NOIMAGE#
+Остановить ^0000FFГеффенских разбойников^000000 от издевательств над ^8B4513студентом^000000.#
+Спасти ^8B4513 студента^000000#
 
-9287#defeating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
-You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
-Register for the ^8B4513Magic Competition^000000#
+9287#Побить Геффенских разбойников#SG_FEEL#QUE_NOIMAGE#
+Вы победили ^8B4513Геффенских разбойников^000000, но возможно придут еще.#
+Зарегистрируйтесь на ^8B4513Магическом турнире^000000#
 
-9288#Catch a Geffen thief#SG_FEEL#QUE_NOIMAGE#
-Catch the ^0000FFGeffen Shoplifter^000000 who stole the money of a ^8B4513Geffen Resident^000000.#
+9288#Поймайте Геффенскую воровку#SG_FEEL#QUE_NOIMAGE#
+Поймайте ^0000FFГеффенскую воровку^000000, которая украла деньги у ^8B4513жителя Геффена^000000.#
 #
 
-9289#Get things back from the thief#SG_FEEL#QUE_NOIMAGE#
-A salary of a resident was returned from the ^8B4513Geffen Shoplifter^000000 I think I will meet you again.#
-Register for the ^8B4513Magic Competition^000000#
+9289#Верните сворованные вещи#SG_FEEL#QUE_NOIMAGE#
+Вы вернули украденные у жителя деньги.#
+Зарегистрируйтесь на "^8B4513Магический турнир^000000#
 
-9290#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let’s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
+9290#Участие в магическом турнире#SG_FEEL#QUE_NOIMAGE#
+Участвуйте в ^8B4513 магическом турнире^000000 после того как поговорите с Распорядитель турнира на юге от фонтана.#
 #
 
-9291# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let’s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+9291#Участие в магическом турнире#SG_FEEL#QUE_NOIMAGE#
+Участвуйте в ^8B4513 магическом турнире^000000 после того как поговорите с Распорядитель турнира на юге от фонтана.#
 #
 
-9292# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let’s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+9292#Участие в магическом турнире#SG_FEEL#QUE_NOIMAGE#
+Участвуйте в ^8B4513 магическом турнире^000000 после того как поговорите с Распорядитель турнира на юге от фонтана.#
 #
 
-9293# Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
-Destroy 1 ^0000FFDesert Wolf^000000 to participatein^8B4513Magic Competition^000000.#
-Hunt ^8B4513Desert Wolf^000000#
+9293#Регистрация на магический турнир#SG_FEEL#QUE_NOIMAGE#
+Уничтожьте ^0000FFПустынного волка^000000 для участия в ^8B4513магическом турнире^000000.#
+Победите ^8B4513Пустынного волка^000000#
 
-9294#Registration Complete#SG_FEEL#QUE_NOIMAGE#
-Enter to^0000FFportal^000000 under the fountain at the southern part of ^8B4513Geffen^000000 to participate in the Magic Competition.#
-Enter ^8B4513portal^000000#
+9294#Регистрация завершена#SG_FEEL#QUE_NOIMAGE#
+Войдите в ^0000FFпортал^000000 у фонтана на Юге ^8B4513Геффена^000000 для участия в ^8B4513магическом турнире^000000.#
+Войдите в ^8B4513портал^000000#
 
-9295# 1st match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+9295#Первый раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
 #
 
-9296#2nd match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62838#Первый раунд - Архи#SG_FEEL#QUE_NOIMAGE#
+Победите Архи #
 #
 
-9297#3rd match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+9296#Второй раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
 #
 
-9298#4th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62839#Второй раунд - Дио Анемос#SG_FEEL#QUE_NOIMAGE#
+Победите Дио Анемоса #
 #
 
-9299#5th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+9297#Третий раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
 #
 
-9300#6th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62840#Третий раунд - Геффенский разбойник#SG_FEEL#QUE_NOIMAGE#
+Победите Геффенского разбойника  #
 #
 
-9301#7th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62841#Третий раунд - Геффенский задира#SG_FEEL#QUE_NOIMAGE#
+Победите Геффенского задиру #
 #
 
-9302#8th match of the Competition has started #SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62842#Третий раунд - Геффенская воровка#SG_FEEL#QUE_NOIMAGE#
+Победите Геффенскую воровку #
 #
 
-9303#9th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+9298#Четверный раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
 #
 
-9304#10th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62843#Четверный раунд - Фэймона#SG_FEEL#QUE_NOIMAGE#
+Победите Фэймона #
 #
 
-9305#11th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+9299#Пятый раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
 #
 
-9306#12th match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Defeat your opponent in battle.#
+62844#Пятый раунд - Ордре#SG_FEEL#QUE_NOIMAGE#
+Победите Ордре #
 #
 
-9307# Final match of the Competition has started#SG_FEEL#QUE_NOIMAGE#
-Must defeat the ^8B4513Final match competitor^000000#
-Defeat ^8B45131Fenrir ^000000#
-
-9308# Magic Competition Win~!.#SG_FEEL#QUE_NOIMAGE#
-Win at ^8B4513Magic Competition^^000000 and return to the scholar researching the dimensional gap near the entrance to the tournament.#
+9300#Шестой раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
 #
 
-9309# Magic competitions^defeat#SG_FEEL#QUE_NOIMAGE#
-Defeated at the ^8B4513Magic competitions^^000000 Return to the scholar researching with what you found.#
-Exploring ^8B4513old Geffen in the crack^000000 is completed#
+62845#Шестой раунд - Ушастый Рыцарь#SG_FEEL#QUE_NOIMAGE#
+Победите Ушастого Рыцаря #
+#
 
-9310#Encounter Iris#SG_FEEL#QUE_NOIMAGE#
-Speak with^8B4513Iris ^000000. Received a small gift#
-Speak with^8B4513Iris^000000 #
+9301#Седьмой раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
+#
 
-9311#Encounter Chaos#SG_FEEL#QUE_NOIMAGE#
-Speak with^8B4513 Chaos ^000000 to receive a small gift#
-Speak with ^8B4513Chaos^000000#
+62846#Седьмой - Куро Акума#SG_FEEL#QUE_NOIMAGE#
+Победите Куро Акума#
+#
 
-9312#Encounter Lydia#SG_FEEL#QUE_NOIMAGE#
-Speak with^8B4513Lydia^000000 to receive a small gift#
-Speak with^8B4513Lydia^000000#
+9302#Восьмой раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
+#
 
-9313#Encounter Fenrir#SG_FEEL#QUE_NOIMAGE#
-Speak with^8B4513 Fenrir^000000. I want to meet if there is another chance #
-Speak with^8B4513 Fenrir^000000#
+62847#Восьмой раунд - Куро Акума#SG_FEEL#QUE_NOIMAGE#
+Победите Куро Акума#
+#
 
-9314# Encounter Loki#SG_FEEL#QUE_NOIMAGE#
-Speak with ^8B4513Loki^000000 to receive a small gift#
-Speak with ^8B4513Loki^000000#
+9303#Девятый раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
+#
 
-9315#Exploring the dimensional gap#SG_FEEL#QUE_NOIMAGE#
-The message from ^8B4513a scholar who is researching^000000: Please check out the Magic Competitions.#
-Exploring ^8B4513Geffen in the dimensional gap.^000000 #
+62848#Девятый раунд - Лишени#SG_FEEL#QUE_NOIMAGE#
+Победите Лишени#
+#
 
-9316#Re-exploring the crack of spaces#SG_FEEL#QUE_NOIMAGE#
-The message of ^8B4513a scholar who is research the crack of spaces ^000000: Please check out about magic competitions at ^0000FFold Geffen of crack^000000#
-Exploring ^8B4513Geffen in the cracks ^000000 #
+9304#Десятый раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
+#
+
+62849#Десятый раунд - Одорико#SG_FEEL#QUE_NOIMAGE#
+Победите Одорико#
+#
+
+9305#Одиннадцатый раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
+#
+
+62850#Одиннадцатый раунд - Дзю #SG_FEEL#QUE_NOIMAGE#
+Победите Дзю#
+#
+
+9306#Двенадцатый раунд турнира#SG_FEEL#QUE_NOIMAGE#
+Победить своего соперника.#
+#
+
+62851#Двенадцатый раунд - Двай#SG_FEEL#QUE_NOIMAGE#
+Победите Двай #
+#
+
+62852#Двенадцатый раунд - Фэй Канавиан#SG_FEEL#QUE_NOIMAGE#
+Победите Фэй Канавиан #
+#
+
+9307#Финальный матч турнира#SG_FEEL#QUE_NOIMAGE#
+Победите ^8B4513Финального соперника^000000#
+Победить ^8B45131Фенрира^000000#
+
+62852#Финальный раунд - Фенрир #SG_FEEL#QUE_NOIMAGE#
+Победите Фенрир #
+#
+
+9308#Победа на турнире.#SG_FEEL#QUE_NOIMAGE#
+Победите в ^8B4513Магическом турнире^^000000 и вернитесь к ученому, изучающему пространственные разломы у входа на турнир.#
+#
+
+9309#Поражение на турнире#SG_FEEL#QUE_NOIMAGE#
+Вас победили на магическом турнире. Вернитесь к ученому.#
+Изучение пространственной расщелины завершено.#
+
+9310#Встреча с Ирис#SG_FEEL#QUE_NOIMAGE#
+Поговорите с ^8B4513Ирис ^000000. Получите небольшой подарок.#
+Поговорить с ^8B4513Ирис^000000 #
+
+9311#Встреча с Хаосом#SG_FEEL#QUE_NOIMAGE#
+Поговорите с ^8B4513Хаосом ^000000. Получите небольшой подарок.#
+Поговорить с ^8B4513Хаосом^000000#
+
+9312#Встреча с Лидией#SG_FEEL#QUE_NOIMAGE#
+Поговорите с ^8B4513Лидией^000000. Получите небольшой подарок.#
+Поговорить с ^8B4513Лидией^000000#
+
+9313#Встреча с Фенриром#SG_FEEL#QUE_NOIMAGE#
+Поговорите с ^8B4513Фенриром^000000. Хотелось бы сразиться еще, если выпадет такой шанс.#
+Поговорить с ^8B4513Фенриром^000000#
+
+9314# Встреча с Локи#SG_FEEL#QUE_NOIMAGE#
+Поговорите с ^8B4513Локи^000000. Получите небольшой подарок.#
+Поговорить с ^8B4513Локи^000000#
+
+9315#Изучение пространственной воронки#SG_FEEL#QUE_NOIMAGE#
+Сообщение от  ^8B4513ученого^000000: Пожалуйста, Исследуйте Магический турнир.#
+Изучение ^8B4513Геффена в пространственной воронке.^000000 #
+
+9316#Повторное изучение пространственного портала#SG_FEEL#QUE_NOIMAGE#
+Сообщение от  ^8B4513ученого^000000: Пожалуйста, Исследуйте Магический турнир.#
+Изучение ^8B4513Геффена в пространственной воронке.^000000 #
 
 62835#2015 Spotlight Juno#SG_FEEL#QUE_NOIMAGE#
 Complete all quests in the Juno Area to receive a bonus reward from Victoria Quest#
@@ -18722,97 +18786,97 @@ Hunt 150 of the monster below and return to the Bounty Board at Aldebaran#
 Hunt 150 of the monster below and return to the Bounty Board at Aldebaran#
 #
 
-4295#Wandering Bard#SG_FEEL#QUE_NOIMAGE#
-Finish talking to the Bard.#
+4295#Странствующий бард#SG_FEEL#QUE_NOIMAGE#
+Закончите разговор с Бардом.#
 #
 
-4296#Take a Break#SG_FEEL#QUE_NOIMAGE#
-He has no stories to tell you for the moment. Come back to him tomorrow.#
+4296#Отдых#SG_FEEL#QUE_NOIMAGE#
+У него для вас пока больше нет историй. Вернитесь к нему завтра.#
 #
 
-4297#Bard's Story: Some Corporation#SG_FEEL#QUE_NOIMAGE#
-Investigate the story about the Lighthalzen-based corporation, and then return to the Bard.#
+4297#История Барда: Корпорация#SG_FEEL#QUE_NOIMAGE#
+Разузнайте об истории о подозрительной корпорации, затем вернитесь к Барду.#
 #
 
-4298#Bard's Story: The President#SG_FEEL#QUE_NOIMAGE#
-What about the President?#
+4298#История Барда: Президент#SG_FEEL#QUE_NOIMAGE#
+Что с президентом?#
 #
 
-4299#Bard's Story: a Scholar in Juno#SG_FEEL#QUE_NOIMAGE#
-A scholar in Juno studies the relics of Juperos. Go talk to the scholar.#
+4299#История Барда: Ученый из Юно#SG_FEEL#QUE_NOIMAGE#
+Ученый из Юно изучает реликвии Юпероса. Поговорите с ученым.#
 #
 
-4300#Bard's Story: a Mad Scientist#SG_FEEL#QUE_NOIMAGE#
-There's a mad scientist in Juno. Go check if the rumors about him are true.#
+4300#История Барда: безумный ученый#SG_FEEL#QUE_NOIMAGE#
+В Юно живет безумный ученый. Узнайте, правдивы ли слухи о нем.#
 #
 
-4301#Bard's Story: Hugel#SG_FEEL#QUE_NOIMAGE#
-Someone in Hugel is in need of your help. Go talk to him.#
+4301#История Барда: Хугель#SG_FEEL#QUE_NOIMAGE#
+Кое-кому в Хугеле нужна ваша помощь. Поговорите с ним.#
 #
 
-4302#Bard's Story: Odin Temple#SG_FEEL#QUE_NOIMAGE#
-Apply for the excavation of Odin Temple. Something's going on at the excavation site.#
+4302#История Барда: Храм Одина#SG_FEEL#QUE_NOIMAGE#
+Примите участие в раскопках храма Одина. Что-то происходит в месте раскопок.#
 #
 
-5304#Police Chief Kesler#SG_FEEL#QUE_NOIMAGE#
-You have met Police Chief Kesler for the first time.#
-Police Chief Kesler#
+5304#Шеф полиции Кеслер#SG_FEEL#QUE_NOIMAGE#
+Вы впервые встретили Шефа полиции Кеслера.#
+Поговорить с Шефом полиции Кеслером#
 
-5305#Police Officer Salgran#SG_FEEL#QUE_NOIMAGE#
-You have met Police Officer Salgran for the first time.#
-Police Officer Salgran#
+5305#Офицер полиции Салгран#SG_FEEL#QUE_NOIMAGE#
+Вы впервые встретились с Офицером полиции Салграном.#
+Поговорите с офицером полиции Салграном#
 
-5306#Police Officer Gerev#SG_FEEL#QUE_NOIMAGE#
-You have met Police Officer Gerev for the first time.#
-Police Officer Gerev#
+5306#Офицер полиции Герев#SG_FEEL#QUE_NOIMAGE#
+Вы впервые встретились с Офицером полиции Геревом.#
+Поговорите с офицером полиции Геревом#
 
-5307#Police Officer Seiden#SG_FEEL#QUE_NOIMAGE#
-You have met Police Officer Seiden for the first time.#
-Police Officer Seiden#
+5307#Офицер полиции Сейден#SG_FEEL#QUE_NOIMAGE#
+Вы впервые встретились с Офицером полиции Сейденом.#
+Поговорите с офицером полиции Сейденом#
 
-5308#Police Officer Piffs#SG_FEEL#QUE_NOIMAGE#
-You have met Police Officer Piffs for the first time.#
-Police Officer Piffs#
+5308#Офицер полиции Пиффс#SG_FEEL#QUE_NOIMAGE#
+Вы впервые встретились с Офицером полиции Пиффсом.#
+Поговорите с офицером полиции Пиффсом#
 
-5309#Police Chief's Request#SG_FEEL#QUE_NOIMAGE#
-The Chief has asked you to listen to the problems of the members of the Phantasmagorika policing unit.#
+5309#Просьба шефа полиции#SG_FEEL#QUE_NOIMAGE#
+Шеф полиции просит вас поговорить о проблемах офицеров полиции.#
 #
 
-5310#Salgran's Problem#SG_FEEL#QUE_NOIMAGE#
-You have asked Police Officer Salgran if he has a problem.#
+5310#Жалоба Салграна#SG_FEEL#QUE_NOIMAGE#
+Вы спросили, есть ли у офицера Салграна проблемы.#
 #
 
-5311#Gerev's Problem#SG_FEEL#QUE_NOIMAGE#
-You have asked Police Officer Gerev if he has a problem.#
+5311#Жалоба Герева#SG_FEEL#QUE_NOIMAGE#
+Вы спросили, есть ли у офицера Герева проблемы.#
 #
 
-5312#Seiden's Problem#SG_FEEL#QUE_NOIMAGE#
-You have asked Police Officer Seiden if he has a problem.#
+5312#Жалоба Сейдена#SG_FEEL#QUE_NOIMAGE#
+Вы спросили, есть ли у офицера Сейдена проблемы.#
 #
 
-5313#Piffs's Problem#SG_FEEL#QUE_NOIMAGE#
-You have asked Police Officer Piffs if he has a problem.#
+5313#Жалоба Пиффса#SG_FEEL#QUE_NOIMAGE#
+Вы спросили, есть ли у офицера Пиффса проблемы.#
 #
 
-5314#Salgran's Request#SG_FEEL#QUE_NOIMAGE#
-The Doom Prayers have been leaving illegal propaganda materials everywhere in Phantasmagorika. Remove 10 Illegal Leaflets before they are permanently glued to the ground.#
+5314#Просьба Салграна#SG_FEEL#QUE_NOIMAGE#
+Вестники рока распространяют незаконные листовки с пропогандой по всей Фантасмагорике. Уберите 10 листовок с улиц.#
 #
 
-5315#Gerev's Request#SG_FEEL#QUE_NOIMAGE#
-People have been falling victim to the traps the Doom Prayers have left everywhere in Phantasmagorika. Remove 10 traps.#
+5315#Просьба Герева#SG_FEEL#QUE_NOIMAGE#
+Люди попадают в ловушки, расставленные Вестниками рока по Фантасмагорике. Уберите 10 ловушек.#
 #
 
-5316#Seiden's Request#SG_FEEL#QUE_NOIMAGE#
-The Doom Prayers have been throwing stones at the police officers. Remove 10 stones from the ground for the safety of the police officers.#
+5316#Просьба Сейдена#SG_FEEL#QUE_NOIMAGE#
+Вестники рока кидаются камнями в офицеров полиции. Уберите 10 камней.#
 #
 
-5317#Piffs's Request#SG_FEEL#QUE_NOIMAGE#
-The police officers constantly injure themselves while fighting the Doom Prayers. Collect 10 herbs for the wounded.#
+5317#Просьба Пиффса#SG_FEEL#QUE_NOIMAGE#
+Офицеры полиции постоянно получают ранения в стычках с Вестниками рока. Соберите 10 трав для раненых.#
 #
 
-5318#Come Back Tomorrow#SG_FEEL#QUE_NOIMAGE#
-Return to the Phantasmagorika Police Chief tomorrow for more work.#
-Downtime: 23 hours#
+5318#Приходите завтра#SG_FEEL#QUE_NOIMAGE#
+Вернитесь к шефу полиции Фантасмагорики завтра.#
+Подождать 23 часа#
 
 5341#Limits of Journeys#SG_FEEL#QUE_NOIMAGE#
 Start a journey using a Memory Record. This journey is possible up to 22 hours.#
@@ -18938,175 +19002,175 @@ Successfully completed journey using a Memory Record.#
 The Juperos Ruins have been expanded. Come join us for exploration in the newly discovered Phantasmagorika!#
 #
 
-7607#Eden Group Leader#SG_FEEL#QUE_NOIMAGE#
-The Eden Group's leader has been revealed. She wants to talk to you as to Phantasmagorika. Go to the farthest room on the left side on the second floor.#
-Talk to the Eden Group Captain.#
+7607#Встреча с капитаном#SG_FEEL#QUE_NOIMAGE#
+Капитан хочет поговорить с вами. Она находится в дальней комнате слева на 2 этаже.#
+Поговорить с капитаном.#
 
-7608#Artnard Excavation Team 1#SG_FEEL#QUE_NOIMAGE#
-The Eden Group Captain has asked you to talk to Lime in the employee office as to joining the excavation project. The employee office is the next room.#
-Talk to Lime in the employee office.#
+7608#Сбор команды для раскопок Атнад#SG_FEEL#QUE_NOIMAGE#
+Капитан Аркьен попросила вас поговорить с Лаймом для участия в раскопках. Его офис в соседней комнате.#
+Поговорить с Лаймом.#
 
-7609#Artnard Excavation Team 2#SG_FEEL#QUE_NOIMAGE#
-Use the Juperos dungeon to move to the newly discovered area. Don't forget to register with the Central Command Center upon your arrival.#
-Register as an Artnard Excavation Team member.#
+7609#Сбор команды для раскопок Атнад#SG_FEEL#QUE_NOIMAGE#
+Доберитесь до Юпероса. Не забудьте зарегистрироваться по прибытии. #
+Зарегистрируйтесь как челен команды раскопок Атнад.#
 
-7610#Registered Excavator#SG_FEEL#QUE_NOIMAGE#
-You are now an official member of the Artnard Excavation Team, and can participate in the Phantasmagorika excavation project.#
+7610#Зарегистрированный землекоп#SG_FEEL#QUE_NOIMAGE#
+Вы теперь официальный член археологической команды Атнад и можете участвовать в раскопках в Фантасмагорике.#
 #
 
-7611#Passage Cleaning#SG_FEEL#QUE_NOIMAGE#
-Could you help us take care of monsters in the tunnel and around here?#
+7611#Расчистка прохода#SG_FEEL#QUE_NOIMAGE#
+Вы можете помочь зачистить монстров в туннеле?#
 #
 
-7612#Passage Cleaning - Down#SG_FEEL#QUE_NOIMAGE#
-You should take rest. Our mercenaries can take care of the monsters in the passage.#
-The Daily quest is cooling down.#
+7612#Расчистка прохода (Ожидание)#SG_FEEL#QUE_NOIMAGE#
+Вы должны отдохнуть. Другие наемники позаботятся об остальных монстрах в проходе.#
+Ожидание#
 
-7613#Eliminating Risks#SG_FEEL#QUE_NOIMAGE#
-Robots in the main excavation site are getting in our way. Please get rid of them.#
+7613#Устранение рисков#SG_FEEL#QUE_NOIMAGE#
+Роботы в главной зоне раскопок у нас на пути. Пожалуйста, избавься от них.#
 #
 
-7614#Eliminating Risks - Down#SG_FEEL#QUE_NOIMAGE#
-We're able to clear the excavation site of those robots. Please come back next time.#
-The Daily quest is cooling down.#
+7614#Устранение рисков (Ожидание)#SG_FEEL#QUE_NOIMAGE#
+Мы сами сможем справиться с остальными роботами. Пожалуйста, приходи в следующий раз.#
+Ожидание#
 
-7615#Core Collection#SG_FEEL#QUE_NOIMAGE#
-Please collect 20 Power Control Devices from robots. They can be the key to the highly advanced civilization.#
-20 Power Control Devices#
+7615#Сбор устройств#SG_FEEL#QUE_NOIMAGE#
+Соберите 20 устройств регулирования мощности из роботов. Они могут быть ключом к продвинутым цивилизациям.#
+Собрать 20 устройств.#
 
-7616#Core Collection - Down#SG_FEEL#QUE_NOIMAGE#
-The Artnard Excavation Team is focusing on studying the Power Control Devices. You should take rest while you can.#
-The Daily quest is cooling down.#
+7616#Сбор устройств (Ожидание) #SG_FEEL#QUE_NOIMAGE#
+Команда раскопок Атнад сфокусировалась на изучении устройств регулирования мощности. Вы должны отдохнуть.#
+Ожидание#
 
-7617#Turning In Excavation Report#SG_FEEL#QUE_NOIMAGE#
-Take the Artnard Excavation Team's daily excavation report to Louis at the Central Command Center. After that your work for the day is done!#
-Turn in the report to Louis.#
+7617#Отчитаться о результатах раскопок#SG_FEEL#QUE_NOIMAGE#
+Отчитайтесь по результатам раскопок за день перед Луисом. После этого ваши работы на сегодня окончены.#
+Отчитайтесь перед Луисом.#
 
-7618#Reporting the Results - Down#SG_FEEL#QUE_NOIMAGE#
-Wait for the Artnard Excavation Team's next report.#
-The Daily quest is cooling down.#
+7618#Отчитаться о результатах раскопок)#SG_FEEL#QUE_NOIMAGE#
+Подождите до следующих распоряжений команды.#
+Ожидание#
 
-7619#Assisting the Excavation Team#SG_FEEL#QUE_NOIMAGE#
-You are now an official member of the excavation team. Go to Aureth.#
-Talk to Aureth.#
+7619#Помощь команды раскопок#SG_FEEL#QUE_NOIMAGE#
+Вы теперь официальный член команды раскопок. Поговорите с Ауретом.#
+Поговорить с Ауретом.#
 
-7620#Young Blood?#SG_FEEL#QUE_NOIMAGE#
-Aureth has asked you to go to Lloyd and Luke at the plaza in the middle of Verus.#
-Find Lloyd.#
+7620#Свежая кровь?#SG_FEEL#QUE_NOIMAGE#
+Аурет попросил вас сходить к Ллойду и Люку в центре Веруса.#
+Найдите Ллойда.#
 
-7621#Bottling the Energy#SG_FEEL#QUE_NOIMAGE#
-Lloyd has asked for your assistance in his energy research. Use ^4d4dffEmpty Bottles^000000 to collect 10 Condensed Energies from debris everywhere in Verus.#
-10 Condensed Energies#
+7621#Сбор энергии#SG_FEEL#QUE_NOIMAGE#
+Ллойд попросил помощи в исследовании энергии. Наполните 10 ^4d4dffПустых бутылок^000000.#
+Сбор 10 бутылок с энергией#
 
-7622#Good News!#SG_FEEL#QUE_NOIMAGE#
-Report Aureth with Lloyd's research results.#
-Talk to Aureth.#
+7622#Отличные новости!#SG_FEEL#QUE_NOIMAGE#
+Отчитайтесь перед Ауретом о результатах исследований Ллойда.#
+Поговорить с Ауретом.#
 
-7623#Artnard's Summon#SG_FEEL#QUE_NOIMAGE#
-Artnard has some chore in store for you. Talk to him.#
-Talk to Artnard.#
+7623#Призыв Атнада#SG_FEEL#QUE_NOIMAGE#
+У Атнада есть задание для тебя. Поговори с ним.#
+Погвоорить с Атнадом.#
 
-7624#In Search of a Delicacy#SG_FEEL#QUE_NOIMAGE#
-Find something that is ready to eat, juicy, refreshing, and clean-tasting. Seek advice from other team members.#
-Find a delicacy.#
+7624#В поисках деликатеса#SG_FEEL#QUE_NOIMAGE#
+Найдите что-нибудь приготовленное, сочное, освежающее и чистое на вкус.#
+Найти деликатес.#
 
-7625#Count On Me#SG_FEEL#QUE_NOIMAGE#
-Luke will cook something for you if you can bring 2 Meats, 1 Mora Mandarin, and 1 Banana.#
-2 Meats, 1 Mora Mandarin, and 1 Banana#
+7625#Рассчитывай на меня#SG_FEEL#QUE_NOIMAGE#
+Люк приготовит что-нибудь для тебя, если ты принесешь ему 2 мяса, 1 мандарин из Моры и 1 банан.#
+Принести 2 мяса, 1 мандарин из Мора и 1 банан.#
 
-7626#Delicacy for Him#SG_FEEL#QUE_NOIMAGE#
-Take Luke's Beef Toast, Mora's specialty food, to Artnard.#
-To Ian#
+7626#Деликатес для него#SG_FEEL#QUE_NOIMAGE#
+Возьмите фирменное блюдо Моры и отнесите к Атнаду.#
+Поговорить с Атнадом.#
 
-7627#Last Exploration#SG_FEEL#QUE_NOIMAGE#
-Ask Ian Artnard about his last exploration effort.#
+7627#Последнее исследование#SG_FEEL#QUE_NOIMAGE#
+Спросите Атнада о его последней просьбе.#
 #
 
-7628#New Power Source#SG_FEEL#QUE_NOIMAGE#
-You are charged with collecting Condensed Energies for Lloyd's research. You need 10 Empty Bottles.#
-10 Condensed Energies#
+7628#Новый источник энергии#SG_FEEL#QUE_NOIMAGE#
+Вас попросили собрать энергию для исследований Ллойда. Вам будут нужны 10 бутылок.#
+Собрать 10 бутылок энергии.#
 
-7629#Tomorrow for Tomorrow's Energy#SG_FEEL#QUE_NOIMAGE#
-Return to Lloyd tomorrow to continue to help him with his research.#
-The Daily quest is cooling down.#
+7629#Завтра за завтрашней энергией (Ожидание)#SG_FEEL#QUE_NOIMAGE#
+Возвращайтесь к Ллойду завтра, чтобы помочь ему со сбором энергии.#
+Ожидание.#
 
-11363#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
-Go to Rekenber Corporation Headquarters in Lighthalzen. Talk to Leitner at the desk on the west side from the main entrance.#
-Talk to Leitner.#
+11363#В Фантасмагорику!#SG_FEEL#QUE_NOIMAGE#
+Сходите в штаб-квартиру корпорации Рекенбер в Лайтхайзене и поговорите с Лейтнер у стойки информации, что к западу от главного входа на первом этаже.#
+Поговорить с Лейтнер.#
 
-11364#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
-You have registered for the use of the elevator.#
-Talk to Elisha.#
+11364#В Фантасмагорику!#SG_FEEL#QUE_NOIMAGE#
+Вы зарегистрированы и теперь можете пользоваться лифтом.#
+Поговорите с Элишей.#
 
-11365#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
-Meet Guide Scarlet by the fountain in the middle of Phantasmagorika.#
+11365#В Фантасмагорику!#SG_FEEL#QUE_NOIMAGE#
+Встретьтесь с Экскурсоводом Скарлет у фонтана в центре Фантасмагорики.#
 Talk to Scarlet.#
 
-11366#To Phantasmagorika!#SG_FEEL#QUE_NOIMAGE#
-Collect 30 Old Steel Plates from Dimiks in Juperos.#
-30 Old Steel Plates#
+11366#В Фантасмагорику!#SG_FEEL#QUE_NOIMAGE#
+Соберите 30 листов железа из димиков, обитающих в Юперосе.#
+Собрать 30 листов железа.#
 
-11367#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-The first thing you saw in Phantasmagorika is a gigantic fountain in the center. Investigate the fountain with the Deus. #
-Investigate the fountain.#
+11367#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Первое, что вы увидели в Фантасмагорике это гигантский фонтан в центре. Осмотрите фонтан с Деу.#
+Осмотреть фонтан.#
 
-11368#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-You have found nothing in the fountain. Check the sundries on the left side.#
-Investigate the sundries.#
+11368#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Вы ничего не нашли у фонтана. Осмотрите штуковины слева.#
+Осмотреть штуковины.#
 
-11369#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-Is this environment good for plants? Check the tree on the upper left side.#
-Investigate the tree.#
+11369#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+В этой среде могут расти растения? Осмотрите дерево слева.#
+Осмотреть дерево.#
 
-11370#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-A peculiar-looking sign is hung on the door. Examine it.#
-Examine the sign.#
+11370#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+На двери висит странный знак. Осмотрите его.#
+Осмотрите знак.#
 
-11371#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-There's a new path behind the building. Turn around the building and enter the portal.#
-Move on to another area.#
+11371#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Сзади здания есть тропа. Обойдите дом и зайдите в портал. #
+Зайти в портал.#
 
-11372#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-Investigate the fountain on the upper side.#
-Investigate the fountain.#
+11372#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Осмотрите фонтан сверху.#
+Осмотреть фонтан.#
 
-11373#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-Follow Mark to the north.#
-Talk to Mark.#
+11373#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Следуйте за Марком на север.#
+Поговорить с Марком.#
 
-11374#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-The path is blocked. Talk to Tamarin standing farther in.#
-Talk to Tamarin.#
+11374#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Путь закрыт. Поговорите с Тамарин.#
+Поговорить с Тамарин.#
 
-11375#Looking for the Traces#SG_FEEL#QUE_NOIMAGE#
-Talk to Magi down below.#
-Talk to Magi.#
+11375#В поисках следов#SG_FEEL#QUE_NOIMAGE#
+Поговорите с Маги внизу.#
+Поговорить с Маги.#
 
-11376#Let the Specialists Handle It#SG_FEEL#QUE_NOIMAGE#
-Suddenly the elevator stopped moving, but it does not seem to be broken. Go down and check.#
-Check the elevator.#
+11376#Позвольте разобраться профессионалам#SG_FEEL#QUE_NOIMAGE#
+Внезапно лифт остановился, но, кажется, он не сломался. Сходите вниз и проверьте.#
+Проверить лифт.#
 
-11377#Act of Kindness#SG_FEEL#QUE_NOIMAGE#
-You helped the man stuck between the elevator doors.#
+11377#Акт доброты#SG_FEEL#QUE_NOIMAGE#
+Вы помогли застрявшему в дверях лифта мужчине.#
 #
 
-13184#Charleston Factory#SG_FEEL#QUE_NOIMAGE#
-Enter Charleston Factory.#
+13184#Завод Шарлин#SG_FEEL#QUE_NOIMAGE#
+Войдите в завод Шарлин.#
 #
 
-13185#Charleston Factory - Hold#SG_FEEL#QUE_NOIMAGE#
-You have used mechanic device.#
+13185#Завод Шарлин (Ожидание)#SG_FEEL#QUE_NOIMAGE#
+Вы уже использовали механизм.#
 #
 
-13186#Charleston Factory - Complete#SG_FEEL#QUE_NOIMAGE#
+13186#Завод Шарлин - Выполнено#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-13187#Deal with the Staff#SG_FEEL#QUE_NOIMAGE#
-Take care of the Factory Staff.#
+13187#Разобраться с прыгуноидами#SG_FEEL#QUE_NOIMAGE#
+Убейте 50 прыгуноидов.#
 #
 
-13188#Deal with the Staff - Hold#SG_FEEL#QUE_NOIMAGE#
+13188#Разобраться с прыгуноидами (Ожидание)#SG_FEEL#QUE_NOIMAGE#
 #
 #
 
@@ -25122,3 +25186,12 @@ Resets at 4 am#
 17651#Раздача подарков - выполнено#SG_FEEL#QUE_NOIMAGE#
 Вы сегодня уже помогли Санте.#
 Подождите до завтра.#
+12275#Объявление о розыске#SG_FEEL#QUE_NOIMAGE#
+Надо найти листовки Валькхирии и отнести их Стражу. Высока вероятность того, что их можно найти у ^990099Валькирий-самозванок^000000.#
+#
+12276#Аппарат сошел с ума#SG_FEEL#QUE_NOIMAGE#
+Щипцы аппарата Cтражей сошли с ума. Когда аппарат в таком состоянии, достать что-либо сложно. ^990099Примерное время завершения ремонта отображено ниже^000000#
+#
+12277#Объявление о розыске, вот оно#SG_FEEL#QUE_NOIMAGE#
+Нужно найти объявления о розыске, ими заинтересуется Валькхирия. Вероятность того, что их можно найти у ^990099Валькирий-самозванок^000000 чрезвычайно высока.#
+#

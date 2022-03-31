@@ -921,19 +921,19 @@ gl_chyard_.rsw#Churchyard#
 1@gl_k.rsw#2nd floor of Old Glast Heim Chivalry#
 
 //Hero's trail
-1@face.rsw#Faceworm's Nest#
+1@face.rsw#Гнездо масочного червя#
 1@sara.rsw#Sara's Memory#
-dali.rsw#Dimensional Gap#
+dali.rsw#Разрыв в пространстве#
 
 //їµїхАЗИзАы
-dali02.rsw#Dimensional Gap#
-1@tnm1.rsw#Masin Tower Top floor#
-1@tnm2.rsw#Masin Tower Top floor#
-1@tnm3.rsw#Morocc Castle's basement#
-1@ge_st.rsw#Geffen Magic  Competition#
-1@gef.rsw#Geffen Magic  Competition#
-1@gef_in.rsw#Geffen Magic  Competition#
-1@spa.rsw#Palace of Ghost#
+dali02.rsw#Разрыв в пространстве#
+1@tnm1.rsw#Верхний этаж Демонической башни#
+1@tnm2.rsw#Верхний этаж Демонической башни#
+1@tnm3.rsw#Подвал замка Моррок#
+1@ge_st.rsw#Арена магического турнира#
+1@gef.rsw#Магический турнир Геффена#
+1@gef_in.rsw#Магический турнир Геффена#
+1@spa.rsw#Дворец призраков#
 
 1@def01.rsw#Wave Dungeon - forest#
 
@@ -942,27 +942,27 @@ c_tower2_.rsw#Clock Town of twisted time 2nd floor#
 c_tower3_.rsw#Clock Town of twisted time 3rd floor#
 
 //EP.14.3
-moro_vol.rsw#Flame Basin#
-moro_cav.rsw#Пещера Пламени#
-1@dth1.rsw#Bios Island#
-1@dth2.rsw#Bios Island#
-1@dth3.rsw#Bios Island#
-1@rev.rsw#Mors Cave#
-1@eom.rsw#Masin war#
-1@jtb.rsw#Jitterbug of Nightmare#
+moro_vol.rsw#Огненная долина#
+moro_cav.rsw#Огненная пещера#
+1@dth1.rsw#Остров жизни#
+1@dth2.rsw#Остров жизни#
+1@dth3.rsw#Остров жизни#
+1@rev.rsw#Пещера Морза#
+1@eom.rsw#Храм Бога-демона#
+1@jtb.rsw#Кошмарный Пианофорт#
 
 // їµїхАЗ ИзАы3
-1@glast.rsw#Old Glastheim#
+1@glast.rsw#Старый Гластхейм#
 1@air1.rsw#Aircraft#
 1@air2.rsw#Aircraft#
 
 // ep15.1 ЖЗЕёЅєё¶°нё®Д«
-ver_eju.rsw#Yuperos Eastern Ruin#
-ver_tunn.rsw#Verus Outter tunnel#
-verus04.rsw#Verus Findspot#
-verus03.rsw#Verus Center Square#
+ver_eju.rsw#Восточные руины Юпероса#
+ver_tunn.rsw#Внешний туннель Веруса#
+verus04.rsw#Место раскопок Веруса#
+verus03.rsw#Центральная площадь Веруса#
 
-1@mcd.rsw#Charlston Factory#
+1@mcd.rsw#Завод Шарлин#
 
 // ep15.2 ЖЗЕёЅєё¶°нё®Д«
 verus01.rsw#Lab-OPTATIO#

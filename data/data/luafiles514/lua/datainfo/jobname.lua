@@ -3767,5 +3767,6 @@ JobNameTable = {
 	[jobtbl.JT_EVT_DEVILING] = "DEVILING",
 	[jobtbl.JT_EVT_ARCHANGELING] = "ARCHANGELING",
 	[jobtbl.JT_EVT_KING_PORING] = "KING_PORING",
-	[jobtbl.JT_G_PORING_] = "Poring_"
+	[jobtbl.JT_G_PORING_] = "Poring_",
+	[jobtbl.JT_INGRID] = "INGRID"
 }

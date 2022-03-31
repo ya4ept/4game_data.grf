@@ -504,7 +504,7 @@
 4533#Blinding#
 4534#Water Bomb#
 4545#Новичка#
-4556#Power Ward#
+4556#Слова силы#
 4557#of Spell Power#
 4559#Blitz#
 4560#of Bragi#
@@ -618,12 +618,12 @@
 4694#Feint#
 4695#Rainstorm#
 4696#Reverberation#
-4697#Overload#
-4698#Boomerang#
-4699#Dual Cannon#
+4697#Перегрузки#
+4698#Бумеранга#
+4699#Двойной пушки#
 4991#Carefree#
-27012#Active Protection#
-27013#Balkan#
+27012#Усиленной защиты#
+27013#Вулкана#
 27014#Mirage#
 27015#Restore#
 27016#All Scanning#
@@ -675,24 +675,24 @@
 27181#Bane Band#
 27182#Hammer Shooter#
 27183#Onslaught#
-27184#Salvation#
-27249#Archi#
-27250#Anemos#
-27251#Gangster#
-27252#Bully#
-27253#Shoplifter#
-27254#Faymont#
-27255#Ordre#
-27256#Hase#
-27257#Akuma#
-27258#Ifodes#
-27259#Licheniyes#
-27260#Odorico#
-27261#Juu#
-27262#Dwigh#
-27263#Kanavian#
-27264#Evil Shadow#
-27265#Evil Fanatic#
+27184#Спасения#
+27249#Архи#
+27250#Анемоса#
+27251#Бандита#
+27252#Задиры#
+27253#Воровки#
+27254#Фэймона#
+27255#Ордре#
+27256#Рыцаря#
+27257#Акумы#
+27258#Ифодеса#
+27259#Лишени#
+27260#Одорико#
+27261#Дзю#
+27262#Двая#
+27263#Канавиана#
+27264#Злобной тени#
+27265#Злобного фанатика#
 31016#of Sorrow#
 31017#of Hate#
 31018#Frustration#
