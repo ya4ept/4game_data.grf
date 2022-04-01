@@ -2088,5 +2088,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Sailor_Collar_WH = 2141,
 	ACCESSORY_C_Fishbowl_Parfait_Hat = 2145,
 	ACCESSORY_C_Inner_Color_Long = 2155,
+	ACCESSORY_C_WL_Hair_BU = 2164,
 	ACCESSORY_C_domovoi = 2172
 }

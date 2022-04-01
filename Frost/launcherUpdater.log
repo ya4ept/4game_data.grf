@@ -27,6 +27,7 @@ frbl not found in shared memory
 balance: 0
 check_custom_balance
 check_custom_balance end
+For old OS changing balance to 1 form 0
 frostOptions: 5
 get_custom_frost_option
 get_custom_frost_option end

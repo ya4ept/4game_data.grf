@@ -4252,7 +4252,7 @@ Elly might need some help. Talk to her.#
 #
 
 16103#Kiel Hyre Academy#SG_FEEL#QUE_NOIMAGE#
-Find the ingredients for Elly's cookies. You can get Wine from a pub in Juno, Cacaos from Yoyos, and flour and eggs from the Toast Stand in Juno.#
+Find the ingredients for Elly's cookies. You can get Wine from a pub in Juno, Cocoas from Yoyos, and flour and eggs from the Toast Stand in Juno.#
 #
 
 16104#Kiel Hyre Academy#SG_FEEL#QUE_NOIMAGE#
@@ -11117,8 +11117,8 @@ You need to wait at least 23 hours before repeating the lunar new year quest.#
 Continue your conversation with Pinkamenia#
 #
 
-60920#Recovering the Stolen Cacao#SG_FEEL#QUE_NOIMAGE#
-Pinkamenia in Moscovia has asked you to get a Costume Cake Hat from the Baker Extaordinaire and use it to bring her 15 Stolen Cacao.#
+60920#Recovering the Stolen Cocoa#SG_FEEL#QUE_NOIMAGE#
+Pinkamenia in Moscovia has asked you to get a Costume Cake Hat from the Baker Extaordinaire and use it to bring her 15 Stolen Cocoa.#
 #
 
 4154#Homunculus S mutation#SG_FEEL#QUE_NOIMAGE#
@@ -18409,11 +18409,11 @@ Learn how to make a Chocolate Tart from the Dessert Class. Preparation: 3 Milk, 
 #
 
 7457#Dessert Class-Chocolate Drink#SG_FEEL#QUE_NOIMAGE#
-Learn how to make a Chocolate Drink from the Dessert Class. Preparation: 30 Cacao bean, 3 Chocolate, 2 Milk#
+Learn how to make a Chocolate Drink from the Dessert Class. Preparation: 30 Cocoa bean, 3 Chocolate, 2 Milk#
 #
 
-7458#Dessert Class-Fierce Cacao 99%#SG_FEEL#QUE_NOIMAGE#
-Learn how to make a Fierce Cacao 99% from the Dessert Class. Preparation: 99 Cacao bean, 1 Milk#
+7458#Dessert Class-Fierce Cocoa 99%#SG_FEEL#QUE_NOIMAGE#
+Learn how to make a Fierce Cocoa 99% from the Dessert Class. Preparation: 99 Cocoa bean, 1 Milk#
 #
 
 7459#Dessert Class Ticket#SG_FEEL#QUE_NOIMAGE#
@@ -22878,3 +22878,13 @@ Wrong targets#
 12345#Rebel Path#SG_FEEL#QUE_IMAGE#
 You have completed all the tests. To join the Rebel Society, speak to <NAVI>[Ivan Sidorenko]<INFO>job_gun.gat,220,132,0,000,0</INFO></NAVI>.#
 Become a Rebel#
+
+12275#Evidence#SG_FEEL#QUE_NOIMAGE#
+Find 30 original Valkyrie's posters and bring them to the agent. You can get them from ^990099Impostor Valkyries^000000.#
+#
+12276#Machine gone mad#SG_FEEL#QUE_NOIMAGE#
+Vending machine broke down. During downtime, chances of getting a reward are decreased. ^990099Estimated time when repair finishes is below.^000000#
+#
+12277#Wanted posters#SG_FEEL#QUE_NOIMAGE#
+Find 30 wanted posters and bring them to Valkyrie. You can get them from ^990099Impostor Valkyries^000000.#
+#

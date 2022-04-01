@@ -1,4 +1,4 @@
-.inn.meta.dir\.inn.files.3.1.0.50.control.txt|7e2bde58e0d84947a385f9eb20d6ef5c796ef7e4|0|1643976276
-.inn.meta.dir\.inn.installed.control.txt|891e4159b8d43bd62520b346872dfe3bd64784e3|0|0
-.inn.meta.dir\.inn.version.3.1.0.50.control.txt|27e798340db0420a27daedecf2cfd6f46ee15e87|0|0
-frostupdater.exe|75d324dbb2909324fabe4167fc5bec1804abbd4a|224418|1643976276
+.inn.meta.dir\.inn.files.3.1.0.52.control.txt|f38eeabf6c6864dbb498f4e6299b0650a99f64be|0|1648714018
+.inn.meta.dir\.inn.installed.control.txt|7c47731bb9015f0ad3ae0ce0f9a499f97ec68aa5|0|0
+.inn.meta.dir\.inn.version.3.1.0.52.control.txt|eb60b72a7ea512cfe204ee226cec9bbb1813cde0|0|0
+frostupdater.exe|814ea47e2f6570f0377b7cd214ea74496c03fdc3|224483|1648714018

@@ -1,3 +1,86 @@
+30.03.2022 10:57
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Dog Cap, Diabolic Halo and Thanatos' Dolor Hat is back to launcher with special Refinement Sets.
+
+Events:
+— The "Valkyrie's trick" event has begun. It's time to find out what's really going on.
+— The Refinement Rates are currently boosted, it is time to hit the forge!
+
+Fixes:
+— Fixed a visual bug of the Super Novice while riding the mount
+— Several localization fixes applied.
+
+https://eu.4gameforum.com/threads/686887/
+
+Finished activities:
+— The Disco Balloon Treasure removed from the shop and the launcher.
+— The Shadow Swordsman Pack and Shadow Diviner Pack also removed from the Launcher.
+
+==========
+27.03.2022
+CM_Godfather
+Attention!!
+
+An extra maintenance will be held at 12:00 CEST. During the maintenance the time of the server will be adjusted from CET to CEST.
+
+27.03.2022
+CM_Godfather
+The maintenance is over. The server time has been adjusted to CEST.
+
+==========
+23.03.2022
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Disco Balloon Treasure is here both individually and in packs to bring the big party to Midgard. Check our Launcher and the Shop.
+— The Shadow Swordsman Pack and Shadow Diviner Pack arrived to the 4game launcher for one week. Packs will be available until March 30.
+
+Fixes:
+— Several localization fixes applied.
+
+https://eu.4gameforum.com/threads/686833/
+
+Finished activities:
+— The Rideword Hat Set was removed from the Launcher;
+— The Fortune, Fate and Destiny packs were also removed from the launcher;
+— Our Gift left the launcher;
+— The Poring Invasion came to an end.
+
+==========
+16.03.2022
+CM_Godfather
+The Maintenance is over and the update is up, changes are the following:
+
+Game updates:
+— The possibilities are now limitless with our newest update. Explore the unknown with Bifrost, Dewata & Mora Village.
+
+Event:
+— The are back and they want their revenge. Play now the Poring Invasion.
+
+Shop:
+— The Rideword Hat Set is back with an even more special price this time. Don't forget to check the Launcher before 23rd of March.
+— The Fortune, Fate and Destiny packs are here to give you a second chance to snatch previous Treasures. They will be available on the Launcher until 23rd of March.
+
+Gift:
+— We prepared a small Gift to thank you for being with us through this journey. Grab it on the Launcher before 23rd of March.
+
+More:
+— The Gift for Warriors from Chaos that decided to stay with us are already available.
+
+https://eu.4gameforum.com/threads/686782/
+Finished Activities:
+— The First Flowering Treasure was removed from the Launcher and the Shop.
+— The Leveling Sets was removed from the Launcher.
+
+16.03.2022
+CM_Godfather
+We will need an Extra hour to complete the maintenance. We expect to finish it around 13:00 CET.
+
+================
 10.03.2022 12:01
 CM_Godfather
 The maintenance is over, the server is online. Changelog:
