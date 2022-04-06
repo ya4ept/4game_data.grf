@@ -1,7 +1,7 @@
 d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-aff2578dc4a97743dc0d7c0c4ce6a092 *data.grf
+bb4c5b6b914607d618cf5ee6c78f0396 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -50,7 +50,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 f98abae413f467db29db0c40b2b631de *Frost\frostcollector.dll
 4fb2f6b85304df12a588d539ffbc9634 *Frost\frostinfo.txt
-c734baed8461770b37c98770284dc452 *Frost\frostInit.log
+1d17cb4f6ae05dd86e173748fe318fc0 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 83fa02c71279e6b1869de8a1a604c951 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -58,7 +58,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 451db6a928fac12f6671860373b3cf53 *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-6902c563a70c749fea7fbefc1770c58d *Frost\launcherUpdater.log
+2ccbef47038ab3cce19e9121be8cde75 *Frost\launcherUpdater.log
 a8e672f33685db1107a0d3073042ce84 *Frost\ro.exe
 f3a25d583d1261aa5fd5fb40360080a2 *Frost\.inn.meta.dir\.inn.cache.txt
 f3a25d583d1261aa5fd5fb40360080a2 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -66,11 +66,11 @@ f3a25d583d1261aa5fd5fb40360080a2 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
 21438917633b0e661b212bdf04ab9b8a *Frost\.inn.meta.dir\.inn.installed.control.txt
 44bd7bee53ad464c6680adccb177d8d3 *Frost\.inn.meta.dir\.inn.version.3.1.0.52.control.txt
 edc9264ac3c9be8d65b9ae99d4ae63e0 *gameManager\gameManager.exe
-3d5f28d13c231860fafaaefefa92de6f *gameManager\log.log
-41730baa75a7f65108297941d7dbb4f7 *System\achievement_list.lub
+960cf7a2c5d8fe7341458c8016181525 *gameManager\log.log
+5c8aab701065fdb7ee09e106e7e7cf0a *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 5dff66f11202aa9c2786098001667bbd *System\CheckAttendance.lub
-2e18f972eaf9b80f05ad5a68a8ff9978 *System\iteminfo.lub
+d9fc3831e538f20f46613d38ce991c1d *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 d00c1c39530e3f5fa6c9ffcea2daee95 *System\monster_size_effect_new.lub

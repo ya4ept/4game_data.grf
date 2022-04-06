@@ -4528,6 +4528,21 @@ StateIconList[EFST_IDs.EFST_S_MANAPOTION] =
 		{"Не действует в состоянии [Берсерка].", },
 	}
 }
+StateIconList[EFST_IDs.EFST_INFINITY_DRINK] =
+{
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript =
+	{
+		{"Зелье бесконечности", COLOR_TITLE_BUFF },
+		{"%s", COLOR_TIME },
+		{"Макс. HP и SP +5%.", },
+		{"Сила крит. удара +5%.", },
+		{"Дальний физ. урон +5%.", },
+		{"Маг. урон всеми элементами +5%.", },
+		{"Предотвращает прерывание заклинаний.", },
+	}
+}
 StateIconList[EFST_IDs.EFST_ATK_POPCORN] =
 {
 	haveTimeLimit = 1,
