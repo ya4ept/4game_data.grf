@@ -126,7 +126,22 @@ title_tbl = {
 	[5080] = "Desinsector",
 	[5081] = "Poisoner",
 	[5082] = "Deadly",
-	[5083] = "Merciless"
+	[5083] = "Merciless",
+	[5084] = "Mandragora Slayer",
+	[5085] = "Hydra Slayer",
+	[5086] = "Poison spore Splayer",
+	[5087] = "Wormtail Slayer",
+	[5088] = "Poporing Slayer",
+	[5089] = "Wilow Slayer",
+	[5090] = "Muka Slayer",
+	[5091] = "Amateur gardener",
+	[5092] = "Cottager",
+	[5093] = "Gardener",
+	[5094] = "Farmer",
+	[5095] = "Coffee harmony",
+	[5096] = "Ferocious Lumberjack",
+	[5097] = "Bloody Forester",
+	[5098] = "Fatal arborist"
 }
 
 -- Function #0

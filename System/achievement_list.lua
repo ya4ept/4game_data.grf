@@ -8128,6 +8128,472 @@ achievement_tbl = {
 		resource = { [1] = { text = "Use Pigodi 5 times", count = 5 } },
 		reward = { item = 12571 },
 		score = 10
+	},
+	[501223] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Mandragora",
+		content = {
+			summary = "Kill Mandragoras 200 times",
+			details = "Kill Mandragoras 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Mandragoras", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501224] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Mandragora",
+		content = {
+			summary = "Kill Mandragoras 1000 times",
+			details = "Kill Mandragoras 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Mandragoras", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501225] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Mandragora annihilation",
+		content = {
+			summary = "Kill Mandragoras 4000 times",
+			details = "Kill Mandragoras 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Mandragoras", count = 4000 } },
+		reward = { item = 12818, title = 5084 },
+		score = 10
+	},
+	[501226] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Hydra",
+		content = {
+			summary = "Kill Hydras 200 times",
+			details = "Kill Hydras 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Hydras", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501227] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Hydra",
+		content = {
+			summary = "Kill Hydras 1000 times",
+			details = "Kill Hydras 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Hydras", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501228] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hydra annihilation",
+		content = {
+			summary = "Kill Hydras 4000 times",
+			details = "Kill Hydras 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Hydras", count = 4000 } },
+		reward = { item = 12818, title = 5085 },
+		score = 10
+	},
+	[501229] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Poison spores",
+		content = {
+			summary = "Kill Poison Spores 200 times",
+			details = "Kill Poison Spores 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Poison Spores", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501230] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Poison spores",
+		content = {
+			summary = "Kill Poison Spores 1000 times",
+			details = "Kill Poison Spores 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Poison Spores", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501231] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poison spores annihilation",
+		content = {
+			summary = "Kill Poison Spores 4000 times",
+			details = "Kill Poison Spores 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Poison Spores", count = 4000 } },
+		reward = { item = 12818, title = 5086 },
+		score = 10
+	},
+	[501232] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Wormtail",
+		content = {
+			summary = "Kill Wormtails 200 times",
+			details = "Kill Wormtails 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Wormtails", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501233] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Wormtail",
+		content = {
+			summary = "Kill Wormtails 1000 times",
+			details = "Kill Wormtails 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Wormtails", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501234] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Wormtail annihilation",
+		content = {
+			summary = "Kill Wormtails 4000 times",
+			details = "Kill Wormtails 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Wormtails", count = 4000 } },
+		reward = { item = 12818, title = 5087 },
+		score = 10
+	},
+	[501235] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Poporing",
+		content = {
+			summary = "Kill Poporings 200 times",
+			details = "Kill Poporings 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Poporings", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501236] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Poporing",
+		content = {
+			summary = "Kill Poporings 1000 times",
+			details = "Kill Poporings 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Poporings", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501237] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Poporing annihilation",
+		content = {
+			summary = "Kill Poporings 4000 times",
+			details = "Kill Poporings 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Poporings", count = 4000 } },
+		reward = { item = 12818, title = 5088 },
+		score = 10
+	},
+	[501238] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Wilow",
+		content = {
+			summary = "Kill Wilows 200 times",
+			details = "Kill Wilows 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Wilows", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501239] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Wilow",
+		content = {
+			summary = "Kill Wilows 1000 times",
+			details = "Kill Wilows 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Wilows", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501240] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Wilow annihilation",
+		content = {
+			summary = "Kill Wilows 4000 times",
+			details = "Kill Wilows 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Wilows", count = 4000 } },
+		reward = { item = 12818, title = 5089 },
+		score = 10
+	},
+	[501241] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Hostility towards Muka",
+		content = {
+			summary = "Kill Mukas 200 times",
+			details = "Kill Mukas 200 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Mukas", count = 200 } },
+		reward = { item = 23949 },
+		score = 10
+	},
+	[501242] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Getting rid of Muka",
+		content = {
+			summary = "Kill Mukas 1000 times",
+			details = "Kill Mukas 1000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Mukas", count = 1000 } },
+		reward = { item = 12187 },
+		score = 10
+	},
+	[501243] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Muka annihilation",
+		content = {
+			summary = "Kill Mukas 4000 times",
+			details = "Kill Mukas 4000 times\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill Mukas", count = 4000 } },
+		reward = { item = 12818, title = 5090 },
+		score = 10
+	},
+	[501244] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Amateur gardener",
+		content = {
+			summary = "Kill every plant once",
+			details = "Kill every plant once\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = {
+			[1] = { text = "Kill a Mandragora" },
+			[2] = { text = "Kill a Hydra" },
+			[3] = { text = "Kill a Poison Spore" },
+			[4] = { text = "Kill a Wormtail" },
+			[5] = { text = "Kill a Poporing" },
+			[6] = { text = "Kill a Wilow" },
+			[7] = { text = "Kill a Muka" }
+		},
+		reward = { title = 5091 },
+		score = 10
+	},
+	[501245] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Cottager",
+		content = {
+			summary = "Participate in the hunt",
+			details = "Participate in the hunt\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = {
+			[1] = { text = "Kill Mandragoras 200 times" },
+			[2] = { text = "Kill Hydras 200 times" },
+			[3] = { text = "Kill Poison Spores 200 times" },
+			[4] = { text = "Kill Wormtails 200 times" },
+			[5] = { text = "Kill Poporings 200 times" },
+			[6] = { text = "Kill Wilows 200 times" },
+			[7] = { text = "Kill Mukas 200 times" }
+		},
+		reward = { title = 5092, item = 12187 },
+		score = 10
+	},
+	[501246] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Gardener",
+		content = {
+			summary = "Participate in the hunt",
+			details = "Participate in the hunt\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = {
+			[1] = { text = "Kill Mandragoras 1000 times" },
+			[2] = { text = "Kill Hydras 1000 times" },
+			[3] = { text = "Kill Poison Spores 1000 times" },
+			[4] = { text = "Kill Wormtails 1000 times" },
+			[5] = { text = "Kill Poporings 1000 times" },
+			[6] = { text = "Kill Wilows 1000 times" },
+			[7] = { text = "Kill Mukas 1000 times" }
+		},
+		reward = { title = 5093, item = 12818 },
+		score = 10
+	},
+	[501247] = {
+		UI_Type = 0,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Farmer",
+		content = {
+			summary = "Participate in the hunt",
+			details = "Participate in the hunt\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = {
+			[1] = { text = "Kill Mandragoras 4000 times" },
+			[2] = { text = "Kill Hydras 4000 times" },
+			[3] = { text = "Kill Poison Spores 4000 times" },
+			[4] = { text = "Kill Wormtails 4000 times" },
+			[5] = { text = "Kill Poporings 4000 times" },
+			[6] = { text = "Kill Wilows 4000 times" },
+			[7] = { text = "Kill Mukas 4000 times" }
+		},
+		reward = { title = 5094, item = 12818 },
+		score = 10
+	},
+	[501248] = {
+		UI_Type = 0,
+		group = "ADVENTURE",
+		major = 4,
+		minor = 0,
+		title = "Coffee harmony",
+		content = {
+			summary = "Have some coffee and Potion of Harmony",
+			details = "Have some coffee and Potion of Harmony\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Have some coffee" }, [2] = { text = "Have some Potion of Harmony" } },
+		reward = { title = 5095, item = 23949 },
+		score = 10
+	},
+	[501249] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Ferocious Lumberjack",
+		content = {
+			summary = "Kill 10 players",
+			details = "Kill 10 players\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill 10 players", count = 10 } },
+		reward = { item = 23949, title = 5096 },
+		score = 10
+	},
+	[501250] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Bloody Forester",
+		content = {
+			summary = "Kill 25 players",
+			details = "Kill 25 players\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill 25 players", count = 25 } },
+		reward = { item = 12187, title = 5097 },
+		score = 10
+	},
+	[501251] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Fatal arborist",
+		content = {
+			summary = "Kill 50 players",
+			details = "Kill 50 players\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Kill 50 players", count = 50 } },
+		reward = { item = 12818, title = 5098 },
+		score = 10
+	},
+	[501252] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Coffemania",
+		content = {
+			summary = "Have some coffee",
+			details = "Have some coffee\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Have some coffee", count = 5 } },
+		reward = {},
+		score = 10
+	},
+	[501253] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 4,
+		minor = 0,
+		title = "Refreshment",
+		content = {
+			summary = "Have some Potion of Harmony",
+			details = "Have some Potion of Harmony\nEvent 'Deforestation' [06.04.22 - 13.04.22]."
+		},
+		resource = { [1] = { text = "Have some juice", count = 5 } },
+		reward = {},
+		score = 10
 	}
 }
 

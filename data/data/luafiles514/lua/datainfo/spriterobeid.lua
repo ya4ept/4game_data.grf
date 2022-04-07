@@ -117,5 +117,6 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_School_Bag_PU = 119,
 	ROBE_C_Wing_Of_Eutaxy = 120,
 	ROBE_C_Spoon_Fork_Set = 121,
-	ROBE_C_Vietnam_flag_hood = 122
+	ROBE_C_Vietnam_flag_hood = 122,
+	ROBE_C_Lunatic_Bag = 123
 }

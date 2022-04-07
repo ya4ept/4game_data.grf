@@ -10996,3 +10996,16 @@
 6465#금화#
 
 18567#늘어난코#
+
+19364#엔지니어캡#
+31816#C_Rabbit_Winged_Robe#
+400183#토끼귀마개#
+400225#C_Fluffy_Rabbit_Cape#
+420067#C_Hopping_Twin_Pigtail#
+480158#C_Lunatic_Bag#
+23475#태국향수CAST#
+100005#G_Small_Mana_Potion#
+101403#Costama_Egg81#
+
+23949#번호상자04#
+12818#화려한상자#

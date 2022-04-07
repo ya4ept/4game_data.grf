@@ -2081,6 +2081,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_Thanos_Helm2_LT = 2090,
 	ACCESSORY_C_Rose_Crispinette = 2091,
 	ACCESSORY_C_Cherry_Ribbon = 2112,
+	ACCESSORY_C_Hopping_Twin_Pigtail = 2124,
 	ACCESSORY_Demons_Familiar = 2127,
 	ACCESSORY_C_Feather_Stola = 2130,
 	ACCESSORY_C_Fishbone_Hair = 2139,
@@ -2089,5 +2090,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Fishbowl_Parfait_Hat = 2145,
 	ACCESSORY_C_Inner_Color_Long = 2155,
 	ACCESSORY_C_WL_Hair_BU = 2164,
-	ACCESSORY_C_domovoi = 2172
+	ACCESSORY_C_domovoi = 2172,
+	ACCESSORY_C_Fluffy_Rabbit_Cape = 2205
 }

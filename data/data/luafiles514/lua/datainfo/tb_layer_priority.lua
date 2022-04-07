@@ -87,7 +87,8 @@ TB_Layer_Priority = {
 		[ACCESSORY_IDs.ACCESSORY_C_Miracle_Plant] = { Default = 480, isIgnoreRiding = true, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_Twin_CB] = { Default = 150, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_American_S_hair] = { Default = 450, isIgnoreRiding = true, Direction = {} },
-		[ACCESSORY_IDs.ACCESSORY_C_Cherry_Ribbon] = { Default = 450, Direction = { [4] = 321 } }
+		[ACCESSORY_IDs.ACCESSORY_C_Cherry_Ribbon] = { Default = 450, Direction = { [4] = 321 } },
+		[ACCESSORY_IDs.ACCESSORY_C_Hopping_Twin_Pigtail] = { Default = 143, Direction = {} }
 	},
 	IsIgnoredRidingState = function(acc_id)
 	local Items_List = TB_Layer_Priority.Items_List
