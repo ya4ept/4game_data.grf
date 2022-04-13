@@ -11597,7 +11597,7 @@ The effect of the Spiritual Protection doesn't last so long. I'll help Imelda di
 #
 
 7376#Old Man and Cast-Iron Caldron-1#SG_FEEL#QUE_NOIMAGE#
-They say there is a small tribe called Baryo Mahiwaga outside of the Port Malaya city. Received a request to get Cast-Iron Caldrons from the monster called Bakonawa and distribute to those who want it.#
+They say there is a small tribe called Baryo Mahiwaga outside of the Port Malaya city. Received a request to deliver 5 Cast-Iron Cauldrons to Kiko of the Baryo Mahiwaga tribe to aid in the fight against the monster called Bakonawa.#
 Deliver a Cast-Iron Caldron to Kiko in Mumbaki#
 
 7377#Old Man and Cast-Iron Caldron-2#SG_FEEL#QUE_NOIMAGE#
@@ -11740,28 +11740,28 @@ Capre Budidai said the Bongisungisu won't go away from one scare and asks to con
 
 //----------�ʸ��� ���ö���¡ ���ڳ��� ��������Ʈ
 1174#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
-Bring back the Geffen Tablet to the granddaughter of the Old Man Bright in Legends.#
+Bring back the Slate Piece to the granddaughter of the Old Legend Teller.#
 Talk to the 'Old Man's Granddaughter' at the north port of Malaya.#
 
 1175#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
-Deliver the Geffen Tablet to the Old Man Bright in Legends.#
-Talk to the 'Old Man Bright in Legends' in Malaya.#
+Deliver the Slate Piece to the Old Legend Teller.#
+Talk to the 'Old Legend Teller' in Malaya.#
 
 1176#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
-Meet the Malaya Settler at the northwest of the forest and track down the Wandering Merchant.#
-Talk to the 'Malaya Settler', northwest from the forest.#
+Meet the Malaya Immigrant at the northwest of the forest and track down the Wandering Merchant.#
+Talk to the 'Malaya Immigrant', northwest from the forest.#
 
 1177#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
-Meet the Malaya Settler in the Baryo Mahiwaga village and track down the Wandering Merchant.#
-Talk to the 'Malaya Settler' at the Baryo Mahiwaga village.#
+Meet the Malaya Immigrant in the Baryo Mahiwaga village and track down the Wandering Merchant.#
+Talk to the 'Malaya Immigrant' at the Baryo Mahiwaga village.#
 
 1178#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
 Investigate the records engraved on the Baryo Mahiwaga village rock.#
 Investigate the rock in the Baryo Mahiwaga village.#
 
 1179#Rumor, Time and Legend#SG_FEEL#QUE_NOIMAGE#
-The truth of the legend and the identity of the old woman's son are revealed. Return to Malaya to report back to the 'Old Man Bright in Legends'.#
-Talk to the 'Old Man Bright in Legends' in Malay.#
+The truth of the legend and the identity of the old woman's son are revealed. Return to Malaya to report back to the 'Old Legend Teller'.#
+Talk to the 'Old Legend Teller' in Malay.#
 
 1180#Get Rid of Bakonawa#SG_FEEL#QUE_NOIMAGE#
 Find 2 Lost Belongings from the Tiyanuk roaming in the Baryo Mahiwaga field and deliver them to the Missing Person's Father.#
@@ -14323,16 +14323,16 @@ Mayor Jun did not listen to my sincere stories, but instead stated that he would
 Working for Eclage.#
 
 7418#For Eclage 1#SG_FEEL#QUE_NOIMAGE#
-Obtain ingredients to decorate Yai for the Eclage guard who is too busy. Horns of Hillslion, Mystic Horns, Horse's Hooves, 5 of each, would be sufficient.#
-5 Horns of Hillslion, 5 Mystic Horns, 5 Horse's Hooves.#
+Obtain ingredients to decorate Yai for the Eclage guard who is too busy. Horns of Hilsrion, Mystic Horns, Horseshoe, 5 of each, would be sufficient.#
+5 Horns of Hilsrion, 5 Mystic Horns, 5 Horseshoe.#
 
 7419#For Eclage 2#SG_FEEL#QUE_NOIMAGE#
 Decided to deliver mails from Splendide Contact Officer as a favor for Roy the messenger who was having trouble at the edge of Bifrost due to communications getting cut off.# 
 Splendide Contact Officer and Mailbox.#
 
 7420#For Eclage 3#SG_FEEL#QUE_NOIMAGE#
-For Leo who loves sweets, get him Splendide-made Pinguicula's Pickled Fruits and Luciola's Honey Jam. Pickled fruits and honey jam can be obtained using coins at the advanced base.# 
-3 Pinguicula's Pickled Fruits, 3 Luciola's Honey Jam.#
+For Leo who loves sweets, get him Splendide-made Pinguicula's Fruit Jam and Luciola's Honey Jam. Pickled fruits and honey jam can be obtained using coins at the advanced base.# 
+3 Pinguicula's Fruit Jam, 3 Luciola's Honey Jam.#
 
 7421#That's enough#SG_FEEL#QUE_NOIMAGE#
 While working on various jobs, Kardui's page reached me. Must go and meet Kardui. His office will be on the top floor when following the spiral road.# 
@@ -14740,7 +14740,7 @@ It seems that a suspicious prisoner is in jail. Wouldn't be nice to hear about h
 A suspicious prisoner.#
 
 12281#An unwanted favor#SG_FEEL#QUE_NOIMAGE#
-Clever asks for 1 ^000099Grape Extract Herb Tea^000000. It is a big favor coming from a prisoner, but try to obtain it when possible.# 
+Clever asks for 1 ^000099Grape Juice Herbal Tea^000000. It is a big favor coming from a prisoner, but try to obtain it when possible.# 
 An unwanted favor.#
 
 12282#Gossip king Clever#SG_FEEL#QUE_NOIMAGE#
@@ -14760,7 +14760,7 @@ If the cat is stopped from fighting, it may be possible to gain useful informati
 A way to calm down a cat.#
 
 12286#Information traded for some canned foods#SG_FEEL#QUE_NOIMAGE#
-It is told that ^0000991 Dark Debris, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them��# 
+It is told that ^0000991 Fragment of Darkness, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them.# 
 Information traded for some canned foods.#
 
 12287#A weird experience#SG_FEEL#QUE_NOIMAGE#
@@ -14970,7 +14970,7 @@ Wuhuru shared all of his story, but that cannot be shared in its entirely to Wuh
 Report to Wuhari.#
 
 14141#Ingredients for research#SG_FEEL#QUE_NOIMAGE#
-Wuhari asked for ingredients that he could use to research on his own. Provide Wuhari with his necessary ingredients. (1 Wing piece, 1 sturdy hair, 1 Bradium, 1 rune of darkness, 1 rune of blood).# 
+Wuhari asked for ingredients that he could use to research on his own. Provide Wuhari with his necessary ingredients. (1 Piece Of Lapine Wing, 1 Firm Hair, 1 Karvodailnirol, 1 Refined Bradium, 1 Rune of the Darkness, 1 Bloody Rune).# 
 Obtain the items!#
 
 //����Ʈ�޾�
@@ -22713,52 +22713,52 @@ Talk to Jack#
 You have met Premium-Neko.#
 Talk to Premium-Neko#
 
-17600#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17600#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 Each stage of the trial is given 15 minutes. Hurry up to get the full reward!#
 Trial timer#
-17601#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17601#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17602#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17602#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17603#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17603#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17604#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17604#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17605#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17605#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17606#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17606#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17607#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17607#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17608#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17608#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17609#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17609#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17610#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17610#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17611#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17611#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17612#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17612#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17613#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17613#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17614#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17614#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17615#Modi's Trial#SG_FEEL#QUE_NOIMAGE#
+17615#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
 17621#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#

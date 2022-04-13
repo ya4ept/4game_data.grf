@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-aaa8f1b19a987c6a8f333e0aa36204a1 *data.grf
+4046e5d68590ee627affa428e043036a *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -39,7 +39,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 995d4c7cf610c30042afc2d8922fc0f5 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 5de76ae92bc5f506f699d9d5f71a4a12 *Frost\frostinfo.txt
-89285c18487c9ca374f1ab0c09cb540c *Frost\frostInit.log
+f8a53cb933afcbf363c491a637bbc2ea *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 83fa02c71279e6b1869de8a1a604c951 *Frost\frostUpdater.exe
 9d79179ac8471bbeb56e25b5720166f2 *Frost\frost_32.sys
@@ -47,7 +47,7 @@ cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 076d8a97864b432368addec9b2066445 *Frost\gameShieldDll.dll
 b343993a03c4e20184acec45ed081e97 *Frost\launcher.dll
-60f867473bdc21fa18415b5414852abf *Frost\launcherUpdater.log
+6ee1182ac663f5efa4fdff04cc241391 *Frost\launcherUpdater.log
 15c1e94cfc4ba15099f32d17a8403e74 *Frost\ro.exe
 d7e940aeab012e5ab011159286c18d3d *Frost\.inn.meta.dir\.inn.cache.txt
 d7e940aeab012e5ab011159286c18d3d *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -55,10 +55,10 @@ d7e940aeab012e5ab011159286c18d3d *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
 21438917633b0e661b212bdf04ab9b8a *Frost\.inn.meta.dir\.inn.installed.control.txt
 44bd7bee53ad464c6680adccb177d8d3 *Frost\.inn.meta.dir\.inn.version.3.1.0.52.control.txt
 edc9264ac3c9be8d65b9ae99d4ae63e0 *gameManager\gameManager.exe
-23862dec87159e7d0dbd4c662558d515 *gameManager\log.log
-50e2534b36edd05a76fc7869d12a0241 *System\achievement_list.lub
-3ed8ab507565f946474afac3c12fab0f *System\checkattendance.lub
-6b16209423d657bee4b364c3192ebc55 *System\iteminfo.lub
+aa82d8d53d362613b85c0dcff39971a8 *gameManager\log.log
+1c911c410f3af8481aa23df01586991c *System\achievement_list.lub
+27399bbefa77d81f7ba27db7c57a9331 *System\checkattendance.lub
+62e1d92e3eaaeade8c772c7ce672af15 *System\iteminfo.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 baf22940e496bd515ca7504518b40f76 *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
