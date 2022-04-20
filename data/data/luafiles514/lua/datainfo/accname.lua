@@ -2187,5 +2187,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_B_Thin_Eyes_B_TW] = "_C_B_Thin_Eyes_B_TW",
 	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_GC] = "_Viva_Adul_Hat_GC",
 	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_SO] = "_Viva_Adul_Hat_SO",
-	[ACCESSORY_IDs.ACCESSORY_Belka_Strelka] = "_Belka_Strelka"
+	[ACCESSORY_IDs.ACCESSORY_Belka_Strelka] = "_Belka_Strelka",
+	[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = "_C_Fluffy_Rabbit_Cape",
+	[ACCESSORY_IDs.ACCESSORY_C_Macaron_Bunny_Head] = "_C_Macaron_Bunny_Head"
 }
