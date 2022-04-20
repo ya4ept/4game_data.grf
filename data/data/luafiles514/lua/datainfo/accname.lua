@@ -2086,5 +2086,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_WL_Hair_BU] = "_C_WL_Hair_BU",
 	[ACCESSORY_IDs.ACCESSORY_C_domovoi] = "_C_domovoi",
 	[ACCESSORY_IDs.ACCESSORY_C_Hopping_Twin_Pigtail] = "_C_Hopping_Twin_Pigtail",
-	[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = "_C_Fluffy_Rabbit_Cape"
+	[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = "_C_Fluffy_Rabbit_Cape",
+	[ACCESSORY_IDs.ACCESSORY_C_Shadow_Devil] = "_C_Shadow_Devil"
 }

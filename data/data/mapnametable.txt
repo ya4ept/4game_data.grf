@@ -961,3 +961,7 @@ dew_dun01.rsw#Volcanic Island of Krakatoa#
 epay_fild07.rsw#Payon Forest of the Past#
 epay_dun00.rsw#Unknown area#
 eprt_fild02.rsw#Prontera Fields (Course) #
+
+elhz_fild01.rsw#Corrupted Lands (150-160)#
+era_fild05.rsw#Corrupted Lands (160-170)#
+eprt_maze03.rsw#Corrupted Labyrinth#

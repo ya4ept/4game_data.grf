@@ -2080,6 +2080,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_Thanos_Helm_2 = 2089,
 	ACCESSORY_Thanos_Helm2_LT = 2090,
 	ACCESSORY_C_Rose_Crispinette = 2091,
+	ACCESSORY_C_Shadow_Devil = 2096,
 	ACCESSORY_C_Cherry_Ribbon = 2112,
 	ACCESSORY_C_Hopping_Twin_Pigtail = 2124,
 	ACCESSORY_Demons_Familiar = 2127,
