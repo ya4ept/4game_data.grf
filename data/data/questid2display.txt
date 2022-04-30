@@ -20023,15 +20023,15 @@ Took back the box from eggring. Vigilante Aglio wants me to deliver this to the 
 Talk to Tool shop kitten#
 
 7717#Merchant's Kindness#SG_FEEL#QUE_NOIMAGE#
-Toolshop owner gave me some useful items, asks me to find ^4d4dffHaru the Healer^000000. Healer lives in ^4d4dffthe house full of flowerpot, east from the toolshop^000000.#
+Toolshop owner gave me some useful items, asks me to find ^4d4dffHaru the Healer^000000. Healer lives in ^4d4dffthe house full of flowerpots, east from the toolshop^000000.#
 Talk to Haru the Healer#
 
 7718#I'm used to this#SG_FEEL#QUE_NOIMAGE#
-Move to the meadow near the village, work on ^4d4dffRed Grass^000000 and come back with ^4d4dff1 Red Herb^000000. It's needed for the medicine, so let's get moving.#
+Move to the meadow near the village, work on ^4d4dffRed Plant^000000 and come back with ^4d4dff1 Red Herb^000000. It's needed for the medicine, so let's get moving.#
 1 Red Herb#
 
 7719#Time to Digest#SG_FEEL#QUE_NOIMAGE#
-To help the cat in front of Lasagna village lets do some labor. Work on ^4d4dffRed Grass and collect 2 Red Herbs^000000. Piece of cake!#
+To help the cat in front of Lasagna village lets do some labor. Work on ^4d4dffRed Plant and collect 2 Red Herbs^000000. Piece of cake!#
 2 Red Herb#
 
 7720#Service Manual#SG_FEEL#QUE_NOIMAGE#
@@ -20084,7 +20084,7 @@ Get some information from the Basilisk prisoner.#
 Talk with Basilisk prisoner#
 
 11440#Vigilante Corp#SG_FEEL#QUE_NOIMAGE#
-Go to eastern edge of the [Raviol Forest], near the cave, and collect 5 Hard Thorn Vines. Then return to the Chief.#
+Go to eastern edge of the [Ravioli Forest], near the cave, and collect 5 Hard Thorn Vines. Then return to the Chief.#
 Collect 5 Hard Thorn Vines#
 
 11441#Vigilante Corp#SG_FEEL#QUE_NOIMAGE#
@@ -20202,8 +20202,8 @@ Took care of Basilisk, Tartufi is now calmed down. Report back to First officer 
 Report to First Officer Stello#
 
 14555#Whole new world of taste#SG_FEEL#QUE_NOIMAGE#
-I'm trying to research the new continent's food ingredients. Would you get me 4 Fruits of Mastera? And I also do need 1 Cat shape hard biscuit.#
-4 Mastera's Fruit and 1 Cat shape Hard Biscuit#
+I'm trying to research the new continent's food ingredients. Would you get me 4 Fruits of Mastela? And I also do need 1 Cat shape hard biscuit.#
+4 Mastela's Fruit and 1 Cat shape Hard Biscuit#
 
 14556#There also is a scary thing for me#SG_FEEL#QUE_NOIMAGE#
 Those appear at night and creep me out so much. They said new hero could help me out. Please meet Shamanyang and listen to the solution of my problem. Shamanyang lives at the entry way of the village.#
@@ -20214,28 +20214,28 @@ Tell Boatswain the story I just told you.#
 To Boatswain#
 
 14558#Dirty Creatures#SG_FEEL#QUE_NOIMAGE#
-I would never hang out with Basilisk. So get me 20 Basils and 5 Basilrocks. Ofcourse there will be a treat.#
+I would never hang out with Basilisk. So get me 20 Basils and 5 Basilac Clam. Ofcourse there will be a treat.#
 Basil and  Basilrock#
 
 14559#Charm Effect Duration#SG_FEEL#QUE_NOIMAGE#
-Charm effect will go away at 4 O'clock#
-Initialize at 4 O'clock#
+Charm effect will go away soon#
+Wait for the timer expire#
 
 14560#New Ingredient#SG_FEEL#QUE_NOIMAGE#
-As more contact with new continent people happening, we discovered that their charms are also effective. Today, we need 5 Basilrocks and 1 Holy water. Get them and report to Boatswain.#
+As more contact with new continent people happening, we discovered that their charms are also effective. Today, we need 5 Basilac Clam and 1 Holy water. Get them and report to Boatswain.#
 Basilrock and Holi Water#
 
 14561#Dirty and Filty#SG_FEEL#QUE_NOIMAGE#
-Basilrock is so dirty and filty. 20 Basilrocks would do for today. Get them and report to Boatswain at once.#
+Basilrock is so dirty and filty. 20 Basilac Clam would do for today. Get them and report to Boatswain at once.#
 Basilrock#
 
 14562#The basic are the best#SG_FEEL#QUE_NOIMAGE#
-Stick to the basic is the most effective way. Collect Basil 20 ea and Basil lock 5 ea. As soon as you get them, go to Boatswain right away.#
+Stick to the basic is the most effective way. Collect Basil 20 ea and Basilac Clam 5 ea. As soon as you get them, go to Boatswain right away.#
 Basil and Basilrock#
 
 14563#Free time#SG_FEEL#QUE_NOIMAGE#
 Today's work is not finished. We can't research without our work is done. Come back after dawn time.#
-Reset at 4 am#
+Wait for the timer expire#
 
 14564#I love buns, too#SG_FEEL#QUE_NOIMAGE#
 It is said there is bun in the new continent. There is a similar food in Lasagna, so I would like to compare them. Can you bring me 20 of them?#
@@ -20287,7 +20287,7 @@ To Kalu#
 
 14576#Meal Box Delivery Time#SG_FEEL#QUE_NOIMAGE#
 Delivery time is not now. Wait for after dawn and come back.#
-Initialize at 04 O'clock#
+Wait for the timer expire.#
 
 14577#Meal Box Delivery#SG_FEEL#QUE_NOIMAGE#
 Help me with Meal Box Delivery to Vigilante Pana inside the cave!#
@@ -20345,7 +20345,7 @@ Trance Spore#
 
 14592#Resting Time#SG_FEEL#QUE_NOIMAGE#
 Get some rest for hard work tomorrow.#
-Initialized at 4 O'clock#
+Wait for the timer expire#
 
 
 
@@ -22887,4 +22887,40 @@ Vending machine broke down. During downtime, chances of getting a reward are dec
 #
 12277#Wanted posters#SG_FEEL#QUE_NOIMAGE#
 Find 30 wanted posters and bring them to Valkyrie. You can get them from ^990099Impostor Valkyries^000000.#
+#
+17652#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Hunt 50 Thief Rabbits.#
+#
+17653#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Run 3 laps.#
+#
+17654#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Collect 10 Eggshells.#
+#
+17655#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Reach the 2nd round in competition.#
+#
+17656#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+You can't take easter hunting quest.#
+Wait until 5AM#
+17657#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+You can't take easter running quest.#
+Wait until 5AM#
+17658#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+You can't take easter collecting quest.#
+Wait until 5AM#
+17659#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+You can't take easter game quest.#
+Wait until 5AM#
+17660#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Hunt 50 Thief Rabbits.#
+#
+17661#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Run 3 laps.#
+#
+17662#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Collect 10 Eggshells.#
+#
+17663#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
+Collect 10 Eggshells in 3 minutes.#
 #

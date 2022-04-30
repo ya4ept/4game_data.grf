@@ -3187,10 +3187,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_XENO_SLASHER] = {
 		"MH_XENO_SLASHER",
 		SkillName = "Xeno Slasher",
-		MaxLv = 5,
-		SpAmount = { 90, 100, 110, 120, 130 },
+		MaxLv = 10,
+		SpAmount = { 85, 90, 95, 100, 105, 110, 115, 120, 125, 130 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 }
 	},
 	[SKID.MH_STEINWAND] = {
 		"MH_STEINWAND",
@@ -3203,10 +3203,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_LAVA_SLIDE] = {
 		"MH_LAVA_SLIDE",
 		SkillName = "Lava Slide",
-		MaxLv = 5,
-		SpAmount = { 30, 35, 40, 45, 50 },
+		MaxLv = 10,
+		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 }
 	},
 	[SKID.AC_SHOWER] = {
 		"AC_SHOWER",
@@ -4593,10 +4593,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_NEEDLE_OF_PARALYZE] = {
 		"MH_NEEDLE_OF_PARALYZE",
 		SkillName = "Needle Of Paralyze",
-		MaxLv = 5,
-		SpAmount = { 48, 60, 72, 84, 96 },
+		MaxLv = 10,
+		SpAmount = { 42, 48, 54, 60, 66, 72, 78, 84, 90, 96 },
 		bSeperateLv = true,
-		AttackRange = { 5, 5, 5, 5, 5 }
+		AttackRange = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 }
 	},
 	[SKID.MH_STYLE_CHANGE] = {
 		"MH_STYLE_CHANGE",
@@ -4608,7 +4608,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MH_ANGRIFFS_MODUS] = {
 		"MH_ANGRIFFS_MODUS",
-		SkillName = "Angriffs_Modus",
+		SkillName = "Angriffs Modus",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -6131,18 +6131,18 @@ SKILL_INFO_LIST = {
 	[SKID.MH_PAIN_KILLER] = {
 		"MH_PAIN_KILLER",
 		SkillName = "Pain Killer",
-		MaxLv = 5,
-		SpAmount = { 48, 52, 56, 60, 64 },
+		MaxLv = 10,
+		SpAmount = { 48, 52, 56, 60, 64, 68, 72, 76, 80, 84 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 }
 	},
 	[SKID.MH_SILVERVEIN_RUSH] = {
 		"MH_SILVERVEIN_RUSH",
 		SkillName = "Silvervein Rush",
-		MaxLv = 5,
-		SpAmount = { 10, 15, 20, 25, 30 },
+		MaxLv = 10,
+		SpAmount = { 17, 19, 21, 23, 25, 27, 29, 31, 33, 35 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
 	[SKID.MH_CBC] = {
 		"MH_CBC",
@@ -6755,10 +6755,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_PYROCLASTIC] = {
 		"MH_PYROCLASTIC",
 		SkillName = "Pyroclastic",
-		MaxLv = 5,
-		SpAmount = { 20, 28, 36, 44, 52 },
+		MaxLv = 10,
+		SpAmount = { 20, 28, 36, 44, 52, 56, 60, 64, 66, 70 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
 	[SKID.MH_GRANITIC_ARMOR] = {
 		"MH_GRANITIC_ARMOR",
@@ -6817,10 +6817,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_HEILIGE_STANGE] = {
 		"MH_HEILIGE_STANGE",
 		SkillName = "Heilige Stange",
-		MaxLv = 5,
-		SpAmount = { 60, 68, 76, 84, 100 },
+		MaxLv = 10,
+		SpAmount = { 48, 54, 60, 66, 72, 78, 84, 90, 96, 102 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9 }
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 }
 	},
 	[SKID.MH_GOLDENE_FERSE] = {
 		"MH_GOLDENE_FERSE",
@@ -6887,10 +6887,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_ERASER_CUTTER] = {
 		"MH_ERASER_CUTTER",
 		SkillName = "Eraser Cutter",
-		MaxLv = 5,
-		SpAmount = { 25, 30, 35, 40, 45 },
+		MaxLv = 10,
+		SpAmount = { 25, 30, 35, 40, 45, 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 }
 	},
 	[SKID.MH_OVERED_BOOST] = {
 		"MH_OVERED_BOOST",
@@ -7399,10 +7399,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_MIDNIGHT_FRENZY] = {
 		"MH_MIDNIGHT_FRENZY",
 		SkillName = "Midnight Frenzy",
-		MaxLv = 5,
-		SpAmount = { 8, 16, 24, 32, 40 },
+		MaxLv = 10,
+		SpAmount = { 18, 21, 24, 27, 30, 33, 36, 39, 42, 45 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
 	[SKID.MH_EQC] = {
 		"MH_EQC",
@@ -10653,7 +10653,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ECLAGE_RECALL] = {
 		"ECLAGE_RECALL",
-		SkillName = "???? ??",
+		SkillName = "Return to Eclage",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -11379,7 +11379,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_SVG_SPIRIT] = {
 		"SU_SVG_SPIRIT",
-		SkillName = "Sprit Of Savage",
+		SkillName = "Spirit Of Savage",
 		MaxLv = 5,
 		SpAmount = { 60, 60, 60, 60, 60 },
 		bSeperateLv = true,

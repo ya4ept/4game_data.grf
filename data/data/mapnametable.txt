@@ -965,3 +965,7 @@ eprt_fild02.rsw#Prontera Fields (Course) #
 elhz_fild01.rsw#Corrupted Lands (150-160)#
 era_fild05.rsw#Corrupted Lands (160-170)#
 eprt_maze03.rsw#Corrupted Labyrinth#
+
+ehu_fild03.rsw#Easter Valley#
+evhu_fild03.rsw#Easter Valley#
+ehu_fild05.rsw#Easter Lake#
