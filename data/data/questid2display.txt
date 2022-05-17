@@ -11151,21 +11151,21 @@ Viorel will help you finally mutate your Homunculus, this is an important decisi
 
 
 //2012 Valentine Day Event
-5101#You have chosen Angel's Side.#SG_FEEL#QUE_NOIMAGE#
-Talk to the Angel from the Angel's Side.#
-The Angel is in front of the Inn located at the 11 O'clock direction in Alberta.#
+5101#Treasure hunt.#SG_FEEL#QUE_NOIMAGE#
+Rob wandering treasurehunters of their shovels and dig.#
+If you can't find the treasure you can reset the quest.#
 
-5102#You have chosen Devil's Side.#SG_FEEL#QUE_NOIMAGE#
-Talk to the Devil from the Devil's Side.#
-The Devil is in front of the Merchant Guild located at the 7 O'clock direction in Alberta.#
+5102#You have found the treasure.#SG_FEEL#QUE_NOIMAGE#
+You must wait 15 minutes for next treasure hunt.#
+#
 
 5103#[Angel] Please Wait!!#SG_FEEL#QUE_NOIMAGE#
 1 hour has not passed since you finished the Angel's Side mission.#
 You can start the mission after 1 hour.#
 
-5104#[Angel's Side] Expand!!#SG_FEEL#QUE_NOIMAGE#
-If you defeat the Devil's Messenger while wearing the symbol, you can acquire Hate Much. It would be a great help in expanding our side if you bring those to me.#
-Collect 20 Hate Crate and bring them#
+5104#Treasure not found#SG_FEEL#QUE_NOIMAGE#
+You weren't able to find the treasure, so you must wait 5 minutes before next attempt#
+#
 
 5105#[Angel's Side] Sabotage!!#SG_FEEL#QUE_NOIMAGE#
 Devil's Side dispatched Messengers of Devil. Go stop them!! #

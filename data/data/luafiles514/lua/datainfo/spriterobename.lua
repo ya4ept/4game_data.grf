@@ -104,6 +104,7 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
 	[SPRITE_ROBE_IDs.ROBE_C_Kings_Twin_Sword] = "C_Kings_Twin_Sword",
 	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing",
+	[SPRITE_ROBE_IDs.ROBE_C_Adventure_Cat_Bag] = "C_Adventure_Cat_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_Giant_Shark] = "C_Giant_Shark",
 	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream",
 	[SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key] = "C_Niflheim_Key",

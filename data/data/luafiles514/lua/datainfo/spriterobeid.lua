@@ -104,6 +104,7 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Poring_Basket = 103,
 	ROBE_C_Kings_Twin_Sword = 104,
 	ROBE_C_Flower_Wing = 106,
+	ROBE_C_Adventure_Cat_Bag = 107,
 	ROBE_C_Giant_Shark = 109,
 	ROBE_C_Niflheim_Key = 110,
 	ROBE_Striking_Mikoshi = 111,
