@@ -2194,5 +2194,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Viva_Adul_Hat_SO = 2203,
 	ACCESSORY_C_Fluffy_Rabbit_Cape = 2205,
 	ACCESSORY_C_Macaron_Bunny_Head = 2223,
+	ACCESSORY_C_Wanderer_Curl = 2224,
 	ACCESSORY_Belka_Strelka = 2246
 }

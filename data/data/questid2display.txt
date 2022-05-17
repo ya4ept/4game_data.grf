@@ -10790,21 +10790,21 @@ Pinkamenia in Moscovia has asked you to get a Costume Cake Hat from the Baker Ex
 Вернитесь к ^005DFFВиорелю^000000 и покажите ^006400Странного эмбриона^000000. Если верить словам ^005DFFДжейны,^000000 ^005DFFВиорель^000000 сделает из ^006400Странного эмбриона^000000 нового ^0000FFГомункула ^000000.#
 Вместе с ^005DFFВиорелем^000000 помогите ^006400мутации Гомункула^000000.#
 
-5101#Вы приняли сторону ангелов.#SG_FEEL#QUE_IMAGE#
-Поговорите с Ангелом в лагере.#
-Ангел находится перед гостиницей Альберты.#
+5101#Охота за сокровищами.#SG_FEEL#QUE_IMAGE#
+Выбивайте лопаты из мобов и копайте.#
+Если не получается найти сокровище, вы можете получить новое задание.#
 
-5102#Вы приняли сторону демонов.#SG_FEEL#QUE_IMAGE#
-Поговорите с Демоном.#
-Его можно найти рядом с Гильдией Торговцев в Альберте#
+5102#Вы недавно нашли сокровище.#SG_FEEL#QUE_IMAGE#
+Подождите 15 минут прежде чем снова начать охоту за сокровищами.#
+#
 
 5103#Ожидайте!#SG_FEEL#QUE_IMAGE#
 Вы участвовали в поиске менее пятнадцати минут назад.#
 В течении пятнадцати минут вы не будете получать награду за поиск багов.#
 
-5104#[Ангелы] Расширение влияния.#SG_FEEL#QUE_IMAGE#
-Если, надев эмблему, вы уничтожите Посланника тьмы, вы можете получить Заряды ненависти. Это поможет ангелам расширить границы своего влияния.#
-Соберите 20 Зарядов ненависти#
+5104#Вы недавно отказались от поиска сокровищ.#SG_FEEL#QUE_IMAGE#
+Подождите 5 минут прежде чем снова начать охоту за сокровищами.#
+#
 
 5105#[Ангелы] Диверсия!#SG_FEEL#QUE_IMAGE#
 Демоны отправили Посланников тьмы. Вы должны остановить их.  #
@@ -18742,29 +18742,29 @@ Kill to collect 5 Burning Heartss and 10 Slick Paper in order to make the card.#
 Help Deviling talk to Angeling!#
 #
 
-9335#Search for shards of Gigantes#SG_FEEL#QUE_NOIMAGE#
-Message from ^8B4513Professor Bernhard ^000000: I ask that you enter the ^0000FF fissure of time^000000 and bring back shards of Gigantes.#
-Obtained shard from Ancient Gigantes. #
+9335#В поисках частиц Гигантесов#SG_FEEL#QUE_NOIMAGE#
+Сообщение от ^8B4513Профессора Бернхарда^000000: прошу вас зайти в ^0000FFчервоточину ^000000 и принести мне частицы Гигантесов.#
+Добудьте частицы Гигантеса. #
 
-9336#Go back to Professor Bernhard#SG_FEEL#QUE_NOIMAGE#
-Message from ^8B4513 Professor Bernhard^000000: I don’t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
-Reunited after 7 days.#
+9336#Вернуться к Профессору Бернхарду#SG_FEEL#QUE_NOIMAGE#
+Сообщение от ^8B4513Профессора Бернхарда^000000: У меня не хватает частиц для создания мощного оружия. Приходи, когда накопится достаточно энергии для открытия портала.#
+Прийти через 7 дней.#
 
-9337#Wrapping up the Adventure#SG_FEEL#QUE_NOIMAGE#
-Talk to ^8B4513Fenrir^000000 and go back to time fissure Professor Bernhard.. #
-Reunite with Professor Bernhard.#
+9337#Подведение итогов приключения#SG_FEEL#QUE_NOIMAGE#
+Поговорите с ^8B4513Фенриром^000000 и возвращайтесь к Профессору Бернхарду через портал. #
+Поговорить с Профессором Бернхардом.#
 
-15050#Memorial Dungeon: Airship Assault#SG_FEEL#QUE_NOIMAGE#
-Entry to dungeon is prohibited after 23 hours of entry. Entry is possible after the deadline written below.#
-Reentry within 23 hours is not permitted#
+15050#Подземелье: Атака на дирижабль#SG_FEEL#QUE_NOIMAGE#
+Вход в подземелье запрещен в течение 23 часов.#
+Подождать 23 часа#
 
-15051#Memorial Dungeon: Airship Assault#SG_FEEL#QUE_NOIMAGE#
-Reentry is possible for 5 minutes after entering dungeon. Entry is possible starting from the deadline written below.#
-Reentry possible within 5 minutes after entry#
+15051#Подземелье: Атака на дирижабль#SG_FEEL#QUE_NOIMAGE#
+Войти в подземелье заново можно в течение 5 минут после первого входа.#
+Вы можете перезайти в подземелье#
 
-15052#Memorial Dungeon: Airship Assault#SG_FEEL#QUE_NOIMAGE#
-Dungeon has been cleared within 5 minutes of entry so entry to dungeon is prohibited for 23 hours.#
-Reentry within 23 hours is not permitted#
+15052#Подземелье: Атака на дирижабль#SG_FEEL#QUE_NOIMAGE#
+Подземелье было зачищено в течение 5 минут после входа. Вход запрещен на 23 часа.#
+Подождать 23 часа#
 
 62890#Bounty Board Cursed Box#SG_FEEL#QUE_NOIMAGE#
 Hunt 150 of the monster below and return to the Bounty Board at Aldebaran#
