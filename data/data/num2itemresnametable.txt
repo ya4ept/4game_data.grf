@@ -11217,3 +11217,9 @@
 400197#리본#
 19612#헬름#
 101534#포링스크롤#
+
+6375#dragenergy_red#
+6369#dragenergy_blue#
+6373#dragenergy_green#
+6372#dragenergy_gold#
+6370#dragenergy_purple#

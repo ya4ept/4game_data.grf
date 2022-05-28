@@ -3767,5 +3767,11 @@ JobNameTable = {
 	[jobtbl.JT_EVT_KING_PORING] = "KING_PORING",
 	[jobtbl.JT_G_PORING_] = "Poring_",
 	[jobtbl.JT_INGRID] = "INGRID",
-	[jobtbl.JT_EVT_SPRING_RABBIT] = "SPRING_RABBIT"
+	[jobtbl.JT_EVT_SPRING_RABBIT] = "SPRING_RABBIT",
+	[jobtbl.JT_PAD_RUBYLIT_EVENT] = "rubylit",
+	[jobtbl.JT_PAD_SAPPHILIT_EVENT] = "sapphilit",
+	[jobtbl.JT_PAD_EMELIT_EVENT] = "emelit",
+	[jobtbl.JT_PAD_TOPALIT_EVENT] = "topalit",
+	[jobtbl.JT_PAD_AMELIT_EVENT] = "amelit",
+	[jobtbl.JT_PAD_MYTHLIT_EVENT] = "mythlit"
 }
