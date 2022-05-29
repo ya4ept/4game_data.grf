@@ -620,3 +620,16 @@
 4668#Silky#
 4669#Gust#
 4670#Blaze#
+
+27328#Corrupt Life#
+27326#Destructive#
+27027#Flaming#
+27327#Grim Reaper Ankou#
+27324#Brinaranea#
+27322#Dominator's#
+27321#Demon God's#
+27325#Muspelheim#
+27106#Musician's#
+27109#Jitterbug#
+27107#Dancing#
+27108#Singing#

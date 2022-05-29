@@ -1,3 +1,31 @@
+25.05.2022
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Game updates:
+— The Decisive battle update became available: new items, dungeons and one big Dimensional Gap to the unknown are waiting for you.
+
+Events:
+— The “Colorful runaways” event has begun. It's time to find them all;
+— The Refinement Rates are currently boosted, it is time to hit the forge!
+
+Shop:
+— The Feathered Tricorn, Wolf King Helm, Highlander's and Rideword hats arrived to launcher with special Refinement Sets.
+
+https://eu.4gameforum.com/threads/687382/
+Finished activities:
+— The Ullr's Trial ended;
+— The experience for Eden Quests set back to standard;
+— The Ifrit's Treasure and its sets were removed from the shop and the launcher.
+— The Shadow packs were also removed from the Launcher.
+
+Imp
+We will need to perform a short maintenance from 16:40 CEST to adjust server time. It will take around an hour. We will let you know once we are back.
+
+Imp
+The Server is back online.  We have boosted the exp by 15% for the next 24 hours.
+
+==========
 18.05.2022
 Community Manager
 The maintenance is over, the server is online. Changelog:
