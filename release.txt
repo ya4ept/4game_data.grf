@@ -1,3 +1,31 @@
+01.06.2022 11:42
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— You Reap What You Sow is here to bring otherworldly fruitful harvests until June 8th;
+— The Poring Invasion is back as this battle is not over yet!. Event available until 8th of June.
+
+Shop:
+— The Rainbow treasure is here both individually and in packs to bring out the monstrous cuteness in you. Check our Launcher and the Shop;
+— The Bravery Bag & the Golden Sets are back! They will be purchasable on the launcher until 8th of June.
+
+Fixes:
+— The Flames of Ifrit animation is back;
+— The Treasure Hunt Shovel can be sold to vendor NPC;
+— Richard, the Card Extractor's dialog localization's been fixed;
+— Carnium description's been fixed: it stated that the item cannot break when it actually can.
+
+https://eu.4gameforum.com/threads/687475/
+
+Finished activities:
+— The Legacy coin exchange option was disabled;
+— The "Colorful runaways" event has come to an end.;
+— The Refinement Rates set back to standard;
+— The Refinement Sets were removed from the Launcher.
+— The Professional Shadow sets were also been removed from the launcher.
+
+==========
 25.05.2022
 Imp
 The maintenance is over, the server is online. Changelog:

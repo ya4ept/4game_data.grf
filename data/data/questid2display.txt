@@ -11151,25 +11151,25 @@ Viorel will help you finally mutate your Homunculus, this is an important decisi
 
 
 //2012 Valentine Day Event
-5101#Treasure hunt.#SG_FEEL#QUE_NOIMAGE#
-Rob wandering treasurehunters of their shovels and dig.#
-If you can't find the treasure you can reset the quest.#
-
-5102#You have found the treasure.#SG_FEEL#QUE_NOIMAGE#
-You must wait 15 minutes for next treasure hunt.#
+5101#Fertilize flower in 30 minutes.#SG_FEEL#QUE_NOIMAGE#
+You have 30 minutes to collect 20 fertilizers and use them on the flower.#
 #
 
-5103#[Angel] Please Wait!!#SG_FEEL#QUE_NOIMAGE#
-1 hour has not passed since you finished the Angel's Side mission.#
-You can start the mission after 1 hour.#
-
-5104#Treasure not found#SG_FEEL#QUE_NOIMAGE#
-You weren't able to find the treasure, so you must wait 5 minutes before next attempt#
+5102#Fertilize flower in 60 minutes.#SG_FEEL#QUE_NOIMAGE#
+You have 60 minutes to collect 45 fertilizers and use them on the flower.#
 #
 
-5105#[Angel's Side] Sabotage!!#SG_FEEL#QUE_NOIMAGE#
-Devil's Side dispatched Messengers of Devil. Go stop them!! #
-Stop 7 Messenger of Devil!!#
+5103#Fertilize flower in 90 minutes.#SG_FEEL#QUE_NOIMAGE#
+You have 90 minutes to collect 75 fertilizers and use them on the flower.#
+#
+
+5104#You have grown a flower recently#SG_FEEL#QUE_NOIMAGE#
+You can get another flower in an hour.#
+#
+
+5105#Growing frowers#SG_FEEL#QUE_NOIMAGE#
+You have received a flower. Take good care of it to receive reward.#
+#
 
 5106#[Devil] Wait!!#SG_FEEL#QUE_NOIMAGE#
 1 hour has not passed since you finished the Devil's Side mission.#
@@ -18764,7 +18764,7 @@ No new orders for rope have been received. Come back later.#
 Waiting Time: 3 hours#
 
 5259#Brick Making Mission#SG_FEEL#QUE_NOIMAGE#
-1 Brick is made up of 1 Sand Grain and 1 Fine Sand. Feed them to Mimic to create a Brick.#
+1 Brick is made up of 1 Grit and 1 Fine Sand. Feed them to Mimic to create a Brick.#
 Supply 10 Bricks.#
 
 5260#[Pending] Brick Making Mission#SG_FEEL#QUE_NOIMAGE#
