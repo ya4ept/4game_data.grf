@@ -170,7 +170,8 @@ HatEFID = {
 	HAT_EF_GC_DARKCROW = 169,
 	HAT_EF_DIABOLUS_RING = 170,
 	HAT_EF_Magiccircle_Blue_TW = 171,
-	HAT_EF_C_Disapear_Time_TW_2 = 172
+	HAT_EF_C_Disapear_Time_TW_2 = 172,
+	HAT_EF_C_Melody_Wing = 173
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -822,6 +823,13 @@ hatEffectTable = {
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Melody_Wing] = {
+		resourceFileName = "efst_C_Melody_Wing\\notetama.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	}
 }
 effectHatItemTable = {
@@ -867,7 +875,8 @@ effectHatItemTable = {
 	480097,
 	400149,
 	480131,
-	31957
+	31957,
+	480168
 }
 
 -- Function #0
