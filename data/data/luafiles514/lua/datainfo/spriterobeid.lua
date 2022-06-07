@@ -120,5 +120,16 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_School_Bag_PU = 119,
 	ROBE_C_Wing_Of_Eutaxy = 120,
 	ROBE_C_Spoon_Fork_Set = 121,
-	ROBE_C_Melody_Wing = 126
+	ROBE_C_Vietnam_flag_hood = 122,
+	ROBE_C_Lunatic_Bag = 123,
+	ROBE_C_Heart_Stick_Choco = 124,
+	ROBE_C_Diabolic_Rock_Guitar = 125,
+	ROBE_C_Melody_Wing = 126,
+	ROBE_C_Blue_Rose_Garden = 127,
+	ROBE_C_Clutch_Bouquet = 128,
+	ROBE_C_Pitaya_G_Bag = 129,
+	ROBE_C_Wedding_Ribbon = 130,
+	ROBE_Valkyrie_Curse_blight = 131,
+	ROBE_C_2022RTC_V_Coat4 = 132,
+	ROBE_C_Big_B_Rabbit = 133
 }

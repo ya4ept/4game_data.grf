@@ -119,8 +119,19 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
 	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy",
+	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set",
+	[SPRITE_ROBE_IDs.ROBE_C_Vietnam_flag_hood] = "C_Vietnam_flag_hood",
+	[SPRITE_ROBE_IDs.ROBE_C_Lunatic_Bag] = "C_Lunatic_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Heart_Stick_Choco] = "C_Heart_Stick_Choco",
+	[SPRITE_ROBE_IDs.ROBE_C_Diabolic_Rock_Guitar] = "C_Diabolic_Rock_Guitar",
 	[SPRITE_ROBE_IDs.ROBE_C_Melody_Wing] = "C_Melody_Wing",
-	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set"
+	[SPRITE_ROBE_IDs.ROBE_C_Blue_Rose_Garden] = "C_Blue_Rose_Garden",
+	[SPRITE_ROBE_IDs.ROBE_C_Clutch_Bouquet] = "C_Clutch_Bouquet",
+	[SPRITE_ROBE_IDs.ROBE_C_Pitaya_G_Bag] = "C_Pitaya_G_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon] = "C_Wedding_Ribbon",
+	[SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight] = "Valkyrie_Curse_blight",
+	[SPRITE_ROBE_IDs.ROBE_C_2022RTC_V_Coat4] = "C_2022RTC_V_Coat4",
+	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -243,8 +254,19 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
 	[SPRITE_ROBE_IDs.ROBE_C_Wing_Of_Eutaxy] = "C_Wing_Of_Eutaxy",
+	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set",
+	[SPRITE_ROBE_IDs.ROBE_C_Vietnam_flag_hood] = "C_Vietnam_flag_hood",
+	[SPRITE_ROBE_IDs.ROBE_C_Lunatic_Bag] = "C_Lunatic_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Heart_Stick_Choco] = "C_Heart_Stick_Choco",
+	[SPRITE_ROBE_IDs.ROBE_C_Diabolic_Rock_Guitar] = "C_Diabolic_Rock_Guitar",
 	[SPRITE_ROBE_IDs.ROBE_C_Melody_Wing] = "C_Melody_Wing",
-	[SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set] = "C_Spoon_Fork_Set"
+	[SPRITE_ROBE_IDs.ROBE_C_Blue_Rose_Garden] = "C_Blue_Rose_Garden",
+	[SPRITE_ROBE_IDs.ROBE_C_Clutch_Bouquet] = "C_Clutch_Bouquet",
+	[SPRITE_ROBE_IDs.ROBE_C_Pitaya_G_Bag] = "C_Pitaya_G_Bag",
+	[SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon] = "C_Wedding_Ribbon",
+	[SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight] = "Valkyrie_Curse_blight",
+	[SPRITE_ROBE_IDs.ROBE_C_2022RTC_V_Coat4] = "C_2022RTC_V_Coat4",
+	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -285,5 +307,15 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_School_Bag_BU,
 	SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival,
 	SPRITE_ROBE_IDs.ROBE_C_Filir_Bag,
-	SPRITE_ROBE_IDs.ROBE_C_Melody_Wing
+	SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set,
+	SPRITE_ROBE_IDs.ROBE_C_G_DaeHyon_Sword_TW,
+	SPRITE_ROBE_IDs.ROBE_C_Lunatic_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Heart_Stick_Choco,
+	SPRITE_ROBE_IDs.ROBE_C_Clutch_Bouquet,
+	SPRITE_ROBE_IDs.ROBE_C_Blue_Rose_Garden,
+	SPRITE_ROBE_IDs.ROBE_C_Diabolic_Rock_Guitar,
+	SPRITE_ROBE_IDs.ROBE_C_Pitaya_G_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon,
+	SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight,
+	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit
 }
