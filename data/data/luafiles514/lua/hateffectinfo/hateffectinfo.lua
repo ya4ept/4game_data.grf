@@ -169,7 +169,10 @@ HatEFID = {
 	HAT_EF_SUBJECT_AURA_WHITE_ALPHA = 168,
 	HAT_EF_GC_DARKCROW = 169,
 	HAT_EF_DIABOLUS_RING = 170,
-	HAT_EF_Magiccircle_Blue_TW = 171
+	HAT_EF_Magiccircle_Blue_TW = 171,
+	HAT_EF_C_Disapear_Time_TW_2 = 172,
+	HAT_EF_C_Melody_Wing = 173,
+	HAT_EF_C_Spot_Light = 174
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -806,6 +809,29 @@ hatEffectTable = {
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Disapear_Time_TW_2] = {
+		resourceFileName = "efst_C_Disapear_Time_TW\\cdhs.str",
+		hatEffectPos = -13,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Melody_Wing] = {
+		resourceFileName = "C_Melody_Wing\\notetama.str",
+		hatEffectPos = -8,
+		hatEffectPosX = 1,
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Spot_Light] = {
+		resourceFileName = "C_Spot_Light\\Spotlight.str",
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	}
 }
 effectHatItemTable = {
@@ -848,7 +874,10 @@ effectHatItemTable = {
 	20547,
 	20548,
 	20990,
-	480097
+	480097,
+	400149,
+	480131,
+	31957
 }
 
 -- Function #0

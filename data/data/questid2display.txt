@@ -11171,9 +11171,9 @@ You can get another flower in an hour.#
 You have received a flower. Take good care of it to receive reward.#
 #
 
-5106#[Devil] Wait!!#SG_FEEL#QUE_NOIMAGE#
-1 hour has not passed since you finished the Devil's Side mission.#
-You can start the mission after 1 hour.#
+5106#Fishing!#SG_FEEL#QUE_NOIMAGE#
+You have 1 hour to catch as many fishes as you can.#
+#
 
 5107#[Devil's Side] Expand!!#SG_FEEL#QUE_NOIMAGE#
 Angels are expanding their side. We have to do something about it. Wear your Symbols and Defeat Angel Messengers! You will get Love Much. Bring those to me!#
