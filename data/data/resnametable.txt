@@ -2526,3 +2526,7 @@ era_fild05.gnd#era_fild05.gnd#
 era_fild05.gat#era_fild05.gat#
 era_fild05.rsw#era_fild05.rsw#
 유저인터페이스\map\era_fild05.bmp#유저인터페이스\map\era_fild05.bmp#
+
+2@clean.gnd#jawaii_in.gnd#
+2@clean.gat#jawaii_in.gat#
+2@clean.rsw#jawaii_in.rsw#
