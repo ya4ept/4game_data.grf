@@ -11175,9 +11175,9 @@ You have received a flower. Take good care of it to receive reward.#
 You have 1 hour to catch as many fishes as you can.#
 #
 
-5107#[Devil's Side] Expand!!#SG_FEEL#QUE_NOIMAGE#
-Angels are expanding their side. We have to do something about it. Wear your Symbols and Defeat Angel Messengers! You will get Love Much. Bring those to me!#
-Collect 20 Love Lumps and bring them#
+5107#Bar work#SG_FEEL#QUE_NOIMAGE#
+Look for boxes of supplies and bring them back to the bar#
+#
 
 5108#[Devil's Side] Sabotage!!#SG_FEEL#QUE_NOIMAGE#
 Angel's Side has dispatched Angel Messengers. Go stop them!!#

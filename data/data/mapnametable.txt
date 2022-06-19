@@ -969,3 +969,5 @@ eprt_maze03.rsw#Corrupted Labyrinth#
 ehu_fild03.rsw#Easter Valley#
 evhu_fild03.rsw#Easter Valley#
 ehu_fild05.rsw#Easter Lake#
+
+ejawaii_in#Bar#

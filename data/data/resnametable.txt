@@ -1247,7 +1247,6 @@ pvp_n_4-1.gnd#prt_maze02.gnd#
 pvp_n_5-1.gnd#prt_maze02.gnd#
 pvp_n_6-1.gnd#prt_maze02.gnd#
 pvp_n_7-1.gnd#prt_maze02.gnd#
-pvp_n_8-1.gnd#guild_vs5.gnd#
 pvp_n_1-2.gnd#job_hunter.gnd#
 pvp_n_2-2.gnd#job_hunter.gnd#
 pvp_n_3-2.gnd#job_hunter.gnd#
@@ -1255,7 +1254,6 @@ pvp_n_4-2.gnd#job_hunter.gnd#
 pvp_n_5-2.gnd#job_hunter.gnd#
 pvp_n_6-2.gnd#job_hunter.gnd#
 pvp_n_7-2.gnd#job_hunter.gnd#
-pvp_n_8-2.gnd#job_knight.gnd#
 pvp_n_1-3.gnd#job_wizard.gnd#
 pvp_n_2-3.gnd#job_wizard.gnd#
 pvp_n_3-3.gnd#job_wizard.gnd#
@@ -1263,7 +1261,6 @@ pvp_n_4-3.gnd#job_wizard.gnd#
 pvp_n_5-3.gnd#job_wizard.gnd#
 pvp_n_6-3.gnd#job_wizard.gnd#
 pvp_n_7-3.gnd#job_wizard.gnd#
-pvp_n_8-3.gnd#job_wizard.gnd#
 pvp_n_1-4.gnd#job_priest.gnd#
 pvp_n_2-4.gnd#job_priest.gnd#
 pvp_n_3-4.gnd#job_priest.gnd#
@@ -2501,3 +2498,7 @@ pvp_n_8-5.gnd#abyss_03.gnd#
 pvp_n_8-5.gat#abyss_03.gat#
 pvp_n_8-5.rsw#abyss_03.rsw#
 유저인터페이스\map\pvp_n_8-5.bmp#유저인터페이스\map\abyss_03.bmp#
+
+2@clean.gnd#jawaii_in.gnd#
+2@clean.gat#jawaii_in.gat#
+2@clean.rsw#jawaii_in.rsw#

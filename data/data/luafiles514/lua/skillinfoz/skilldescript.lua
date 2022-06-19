@@ -13455,7 +13455,8 @@ SKILL_DESCRIPT = {
 	[SKID.SU_GROOMING] = {
 		"[Grooming]",
 		"Max Level: 5",
-		"^777777Skill Requirement: [Power of Sea] Lv 1^000000",
+		"^777777Skill Requirement: base level - 100,",
+		"[Power of Sea] Lv 1^000000",
 		"Class: ^777777Seafoods (Support)^000000",
 		"Target: ^777777Self^000000",
 		"Description: ^777777Licking to self-heal.^000000",
@@ -13498,7 +13499,8 @@ SKILL_DESCRIPT = {
 	[SKID.SU_CHATTERING] = {
 		"[Chattering]",
 		"Max Level: 5",
-		"^777777Skill Requirement: [Power of Land] Lv 1^000000",
+		"^777777Skill Requirement: base level - 100,",
+		"[Power of Land] Lv 1^000000",
 		"Class: ^777777Vegetable (Support)^000000",
 		"Target: ^777777Self^000000",
 		"Description: ^777777Awakening hunt instinct.^000000",
@@ -13541,7 +13543,8 @@ SKILL_DESCRIPT = {
 	[SKID.SU_HISS] = {
 		"[Hiss]",
 		"Max Level: 5",
-		"^777777Skill Requirement: [Power of Life] Lv 1^000000",
+		"^777777Skill Requirement: base level - 100,",
+		"[Power of Life] Lv 1^000000",
 		"Class: ^777777Animal (Support)^000000",
 		"Target: ^777777All party member^000000",
 		"Description: ^777777Be on an alert.^000000",
