@@ -1,3 +1,32 @@
+22.06.2022 10:57
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— We are boosting x2 the Experience of all Eden Quests until 29th of July;
+— New Daily Rewards have just become available. Log in every day to snatch the Oni Horns.
+
+Shop:
+— The Battle manual packs arrived in launcher to extend the experience gain even more;
+— The Fallen Angel Wings Sets are available in the Launcher. Do not miss them!
+
+Fixes:
+— Empty Bottles now cannot be purchased from NPC;
+— Frilldora's Fiery Nape, Colorful Key, Colorful Brooch and Gold Coin Basket now can be sold to NPC;
+— Localization fixes.
+
+Other:
+— All Leveling Race winners decided the equipment, that should be refined. We fire up the forge. Day of refinement and rewards is planned for the 29th of June.
+Please make sure, that the chosen items will be equipped on your character during the next maintenance.
+
+https://eu.4gameforum.com/threads/687643/
+
+Finished activities:
+— The "Shaken, not stirred" event has come to an end;
+— The Summerbloom Treasure and its sets were removed from the shop and the launcher;
+— The Token of Ziegfried Pack was also removed from the shop and the launcher.
+
+==========
 17.06.2022
 Imp
 We will need to perform a short extra maintenance at 11:00 CEST.  We will let you know once we are back.
