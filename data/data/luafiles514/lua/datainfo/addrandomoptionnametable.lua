@@ -166,7 +166,7 @@ NameTable_VAR = {
 	[EnumVAR.RANGE_ATTACK_DAMAGE_USER[1]] = "Защита от дальних физ. атак +%d%%.",
 	[EnumVAR.HEAL_VALUE[1]] = "Эффективность исцеляющих умений +%d%%.",
 	[EnumVAR.HEAL_MODIFY_PERCENT[1]] = "Эффективность получ. исцел. эффектов +%d%%.",
-	[EnumVAR.DEC_SPELL_CAST_TIME[1]] = "Время признесения заклинаний -%d%%",
+	[EnumVAR.DEC_SPELL_CAST_TIME[1]] = "Время произнесения заклинаний -%d%%",
 	[EnumVAR.DEC_SPELL_DELAY_TIME[1]] = "Задержка после использования умений -%d%%.",
 	[EnumVAR.DEC_SP_CONSUMPTION[1]] = "Затрата SP при использовании умений -%d%%.",
 	[EnumVAR.WEAPON_ATTR_NOTHING[1]] = "Элемент оружия: Нейтральный",
@@ -179,5 +179,6 @@ NameTable_VAR = {
 	[EnumVAR.WEAPON_ATTR_DARKNESS[1]] = "Элемент оружия: Тьма",
 	[EnumVAR.WEAPON_ATTR_TELEKINESIS[1]] = "Элемент оружия: Призрак",
 	[EnumVAR.WEAPON_ATTR_UNDEAD[1]] = "Элемент оружия: Нежить",
+	[EnumVAR.WEAPON_INDESTRUCTIBLE[1]] = "Нельзя уничтожить в бою",
 	[EnumVAR.EnumVAR_LAST[1]] = "END"
 }

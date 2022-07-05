@@ -2195,5 +2195,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Fluffy_Rabbit_Cape = 2205,
 	ACCESSORY_C_Macaron_Bunny_Head = 2223,
 	ACCESSORY_C_Wanderer_Curl = 2224,
-	ACCESSORY_Belka_Strelka = 2246
+	ACCESSORY_Belka_Strelka = 2246,
+	ACCESSORY_C_Dreaming_Rose_Long = 2247,
+	ACCESSORY_C_Many_Flowers_Prayer = 2248
 }
