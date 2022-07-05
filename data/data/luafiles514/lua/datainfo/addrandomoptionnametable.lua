@@ -179,5 +179,6 @@ NameTable_VAR = {
 	[EnumVAR.WEAPON_ATTR_DARKNESS[1]] = "Property: Shadow",
 	[EnumVAR.WEAPON_ATTR_TELEKINESIS[1]] = "Property: Ghost",
 	[EnumVAR.WEAPON_ATTR_UNDEAD[1]] = "Property: Undead",
+	[EnumVAR.WEAPON_INDESTRUCTIBLE[1]] = "Weapon cannot be destroyed",
 	[EnumVAR.EnumVAR_LAST[1]] = "END"
 }

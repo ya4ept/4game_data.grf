@@ -1,3 +1,26 @@
+29.06.2022
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Colorful runaways" event returned to Midgard. It's time to find them all.
+
+Shop:
+— The Gothic Knight's Treasure is here both individually and in packs to bring out the monstrous cuteness in you. Check our Launcher and the Shop.
+— The Ancient weapon becomes available in the game. Check for the Ancient Hero Sign in Gothic Knight's Treasure.
+— Dovmihr now helps the adventurers to exchange Sixtus Armor.
+
+Fixes:
+
+— Rebellions now make ammunition boxes of their bullets with the help of Bullet Merchant Kenny (alberta 118 157) and (izlude_in 74 103);
+— Localization fixes.
+
+Other:
+— The Leveling race refinement rewards have been delivered to all the winners. The Auras will be delivered during the next maintenance.
+
+https://eu.4gameforum.com/threads/687706/
+
+================
 22.06.2022 10:57
 Imp
 The maintenance is over, the server is online. Changelog:

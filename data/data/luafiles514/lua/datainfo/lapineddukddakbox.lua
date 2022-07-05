@@ -34,6 +34,13 @@ end,
 	end
 	return 0
 end,
+	get_max_need_refine = function(in_box_id)
+	local box = tblLapineUpgradeBox.get_lapine_box(in_box_id)
+	if nil ~= box and nil ~= box.NeedRefineMax then
+		return box.NeedRefineMax
+	end
+	return 20
+end,
 	get_need_source_string = function(in_box_id)
 	local box = tblLapineDdukddakBox.get_lapine_box(in_box_id)
 	if nil ~= box then
