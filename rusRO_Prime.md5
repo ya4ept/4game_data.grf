@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-ad619e8e87062ed518ff4640507d7fa8 *data.grf
+2dc5ccadf60fff731f87dc274343764a *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -60,7 +60,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 821de4b6d21f9719c6d3e22ca5b4a789 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 96a699e6dda28a4d756e101f826618df *Frost\frostinfo.txt
-d453969f3d2adc4ebd4c62e9d471482e *Frost\frostInit.log
+7bf341b3187f3fdc5580045c4bc39b87 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 5a30dec1169275d3d3c2a21894613ad2 *Frost\frostUpdater.exe
 bbe76607cc1d8142fb40ca53cfa8afdf *Frost\frost_32.sys
@@ -68,15 +68,14 @@ bbe76607cc1d8142fb40ca53cfa8afdf *Frost\frost_32.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 3627883f2aaee7cb1c1e202b42cff80a *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-1526f42ccf2bc75d6b743b3abb6af4bd *Frost\launcherUpdater.log
+aa22ab42933f907d627426b122a50ce2 *Frost\launcherUpdater.log
 a8e672f33685db1107a0d3073042ce84 *Frost\ro.exe
 544dc4bd06f97d1e7ef30dcd3591c36d *Frost\.inn.meta.dir\.inn.cache.txt
 544dc4bd06f97d1e7ef30dcd3591c36d *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
 6fdfca3fbbc1beeecd39b48983e3e57e *Frost\.inn.meta.dir\.inn.files.3.1.0.55.control.txt
 11b0bd6a431ed88c235383b42dbe01d4 *Frost\.inn.meta.dir\.inn.installed.control.txt
 a08c527f7bd2060c9f107a1365b00af2 *Frost\.inn.meta.dir\.inn.version.3.1.0.55.control.txt
-edc9264ac3c9be8d65b9ae99d4ae63e0 *gameManager\gameManager.exe
-2ae6e0a387150bf640bc8c5a674103f7 *gameManager\log.log
+d0d5a689d02f59d1344e4f57e5614cd0 *gameManager\gameManager.exe
 9214611198936cba7fc993cfa8a0a0f5 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 ff36b7be57f8eb899a2308d0b7423f5c *System\CheckAttendance.lub
