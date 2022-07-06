@@ -3753,5 +3753,11 @@ JobNameTable = {
 	[jobtbl.JT_PAD_TOPALIT_EVENT] = "topalit",
 	[jobtbl.JT_PAD_AMELIT_EVENT] = "amelit",
 	[jobtbl.JT_PAD_MYTHLIT_EVENT] = "mythlit",
-	[jobtbl.JT_E_GOLD_PORING] = "GOLDPORING"
+	[jobtbl.JT_E_GOLD_PORING] = "GOLDPORING",
+	[jobtbl.JT_E_EMPEL_1] = "s_empel_1",
+	[jobtbl.JT_E_EMPEL_1B] = "s_empel_1",
+	[jobtbl.JT_E_GIBBET] = "gibbet",
+	[jobtbl.JT_E_LOLI_RURI] = "loli_ruri",
+	[jobtbl.JT_E_DULLAHAN] = "dullahan",
+	[jobtbl.JT_E_BLOODY_MURDERER] = "bloody_murderer"
 }

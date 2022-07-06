@@ -633,3 +633,21 @@
 27109#Jitterbug#
 27107#Dancing#
 27108#Singing#
+
+27249#Archi#
+27250#Anemos#
+27251#Geffen Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odorico#
+27261#Juu#
+27262#Dwigh#
+27263#Kanavian#
+27264#Evil Shadow#
+27265#Evil Fanatic#

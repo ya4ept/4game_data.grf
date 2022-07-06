@@ -1443,7 +1443,7 @@ The old scholar Defaria requested for some materials to unseal the scroll.#
 30 of each Holy Water, Rune of Darkness, Bloody Rune#
 
 7025#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
-You need to get all the required materials. Defaria said, 'I��ll be waiting for your return.'#
+You need to get all the required materials. Defaria said, 'I'll be waiting for your return.'#
 Conversation with Defaria#
 
 7026#Pursuing Rayan Moore#SG_FEEL#QUE_NOIMAGE#
@@ -1513,19 +1513,19 @@ Defaria#
 //----- EP 13
 //---- ķ���� ������
 7042#Part-time Job - Tatacho's feed#SG_FEEL#QUE_NOIMAGE#
-Please bring me 50 Fresh Fish. They��re feed for Tatachoes. I��m fresh out, and I��ll need to restock very soon. You can find them from Tatachoes in the fields.#
+Please bring me 50 Fresh Fish. They're feed for Tatachoes. I'm fresh out, and I'll need to restock very soon. You can find them from Tatachoes in the fields.#
 50 Fresh Fish#
 
 7043#Part-time Job - Cornus's feed#SG_FEEL#QUE_NOIMAGE#
-I��ve just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
+I've just run out of feed for Cornuses. Can you please bring me 30 Great Leaves and 30 Brown Roots? You can find them from Pinguiculas in the fields.#
 30 Great Leaf & 30 Brown Root#
 
 7044#Part-time Job - Hillslion's feed1#SG_FEEL#QUE_NOIMAGE#
-I��ve just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I��ve been trying to feed them various things.. This time�� I��d like to try Monster��s Feed. Can you please bring me 20 Monster��s Feeds and 30 Pet Foods?#
-20 Monster��s Feeds and 30 Pet Foods#
+I've just run out of feed for Hillslions. Scholars think these guys are members of the cat family. I've been trying to feed them various things.. This time' I'd like to try Monster's Feed. Can you please bring me 20 Monster's Feeds and 30 Pet Foods?#
+20 Monster's Feeds and 30 Pet Foods#
 
 7045#Part-time Job - Hillslion's feed2#SG_FEEL#QUE_NOIMAGE#
-This is perfect because I was going to try some new feed for Hillslions. I tried Monster��s Feed, but I don��t know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
+This is perfect because I was going to try some new feed for Hillslions. I tried Monster's Feed, but I don't know if they liked it or not. Can you please bring me 50 Meats and 30 Pet Foods?#
 50 Meats and 30 Pet Foods#
 
 7046#Part-time Job - warm rugs#SG_FEEL#QUE_NOIMAGE#
@@ -3811,8 +3811,8 @@ Find Torpy's mother out of the village.#
 Finding Torpy's mother#
 
 12045#Soothing a crying child 2#SG_FEEL#QUE_NOIMAGE#
-Deliver the mother's message to Torpy. [I'll be back��]#
-I'll be back��#
+Deliver the mother's message to Torpy. [I'll be back]#
+I'll be back#
 
 12046#Soothing a crying child 3#SG_FEEL#QUE_NOIMAGE#
 Find Torpy's father who caused all the trouble. He must be hiding somewhere in the village.#
@@ -6992,7 +6992,7 @@ I received the ring of Karakass, which was available for sometime.#
 
 9024#An errand boy from Einbroch#SG_FEEL#QUE_NOIMAGE#
 Help ^0000FFan errand boy^000000 who come to find ^8B4513Prontera^000000.#
-Collect ^006400100 Jellopies^000000 and go back to ^0000FFthe errand boy^000000���� ���ư���.#
+Collect ^006400100 Jellopies^000000 and go back to ^0000FFthe errand boy^000000.#
 
 //-- �ν�Ʈ��
 11135#Looking for Maestro Song#SG_FEEL#QUE_NOIMAGE#
@@ -13722,63 +13722,63 @@ Raccoon Hooray Team Captain is depressed for failing to make the Cookie house. Y
 Speak to Raccoon Hooray Captain#
 
 1281#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.2. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1282#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.5. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1283#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.12. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1284#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.20. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1285#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.25. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1286#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.1. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1287#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.15. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1288#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.7. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1289#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.17. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1290#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.24. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1291#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.3. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1292#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.10. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1293#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.11. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1294#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.19. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1295#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
-Finding Raccoon Hooray Team family! You've invited Raccoon Hooray��s No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
+Finding Raccoon Hooray Team family! You've invited Raccoon Hooray's No.23. You should invite a total of 5 Raccoon Hooray Team members and report to Raccoon Hooray Captain in Prontera#
 find Raccoon Hooray family.#
 
 1296#Merry Christmas, Raccoon Hooray Team!#SG_FEEL#QUE_NOIMAGE#
@@ -14245,7 +14245,7 @@ Talk with Professor Worm on the 4th floor of Bifrost Tower.#
 
 //--ep14.2 
 4254#Fairy with a stomache#SG_FEEL#QUE_NOIMAGE#
-Even a fairy gets a stomache�� Help the fairy get some material.# 
+Even a fairy gets a stomache Help the fairy get some material.# 
 10 Green Herbs#
 
 4255#Revenge!#SG_FEEL#QUE_NOIMAGE#
@@ -14820,7 +14820,7 @@ Show Home Tree's leaf and encourage Etran. Although Robert's refusal to receive 
 Revisiting Etran.#
 
 12301#Two remaining friends#SG_FEEL#QUE_NOIMAGE#
-Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them��) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible.# 
+Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible.# 
 Two remaining friends.# 
 
 //-- ep14.2 
@@ -14922,7 +14922,7 @@ Wuhari is searching for ways to recover Wuhuru's body. However, he doesn't know 
 Talk with people in the town.#
  
 14126#Searching for Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
-Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things��# 
+Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things.# 
 Search for Ms. Goatie.#
 
 14127#Searching for Ms. Goatie's husband#SG_FEEL#QUE_NOIMAGE#
@@ -17087,7 +17087,7 @@ On the second floor of Luina guild dungeon, fight off 40 Killer Mantises and 50 
 Monsters eliminated from the second floor of guild dungeon#
 
 7530# Luina Challenge 3#SG_FEEL#QUE_NOIMAGE#
-Fight off Gioia and Elvira in Hero��s Tear in Corridor of the Abyss in Luina.#
+Fight off Gioia and Elvira in Hero's Tear in Corridor of the Abyss in Luina.#
 Battle in Corridor of the Abyss#
 
 7531# Britoniah Challenge 1#SG_FEEL#QUE_NOIMAGE#
@@ -17099,7 +17099,7 @@ On the second floor of Britoniah guild dungeon, fight off 20 Abysmal Dark Frames
 Monsters eliminated from the second floor of guild dungeon#
 
 7533# Britoniah Challenge 3#SG_FEEL#QUE_NOIMAGE#
-Fight off Kades and Rudo, the guardians of the dead, in the Dead Man��s Hill in Corridor of the Abyss in Britoniah.#
+Fight off Kades and Rudo, the guardians of the dead, in the Dead Man's Hill in Corridor of the Abyss in Britoniah.#
 Battle in Corridor of the Abyss#
 
 7534# Greenwood Lake Challenge 1#SG_FEEL#QUE_NOIMAGE#
@@ -17638,7 +17638,7 @@ You have discovered the owner of the old ring.#
 #
 
 12327#The memory of old photo album#SG_FEEL#QUE_NOIMAGE#
-The merchant will be happy if he receives the photo album. Let��s find other photo albums that he may have lost and bring them to him.#
+The merchant will be happy if he receives the photo album. Let's find other photo albums that he may have lost and bring them to him.#
 #
 
 12328#Dol-Seoi's Sorrow#SG_FEEL#QUE_NOIMAGE#
@@ -18535,7 +18535,7 @@ Register for the ^8B4513Magic Competition^000000#
 
 9286#Stop Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
 Stop^0000FF Geffen Gangsters ^000000who is bullying^8B4513A student^000000#
-Let��s save ^8B4513 A student^000000#
+Let's save ^8B4513 A student^000000#
 
 9287#defeating Geffen Gangsters#SG_FEEL#QUE_NOIMAGE#
 You've defeated the ^8B4513Geffen Gangsters^000000 but there might be another encounter soon.#
@@ -18550,18 +18550,18 @@ A salary of a resident was returned from the ^8B4513Geffen Shoplifter^000000 I t
 Register for the ^8B4513Magic Competition^000000#
 
 9290#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let��s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain..#
 #
 
-9291# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let��s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+9291#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
 #
 
-9292# participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
-Let��s participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
+9292#Participate in Magic competitions#SG_FEEL#QUE_NOIMAGE#
+Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.#
 #
 
-9293# Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
+9293#Register in Magic Competition#SG_FEEL#QUE_NOIMAGE#
 Destroy 1 ^0000FFDesert Wolf^000000 to participatein^8B4513Magic Competition^000000.#
 Hunt ^8B4513Desert Wolf^000000#
 
@@ -19133,7 +19133,7 @@ Message from ^8B4513Professor Bernhard ^000000: I ask that you enter the ^0000FF
 Obtained shard from Ancient Gigantes. #
 
 9336#Go back to Professor Bernhard#SG_FEEL#QUE_NOIMAGE#
-Message from ^8B4513 Professor Bernhard^000000: I don��t have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
+Message from ^8B4513 Professor Bernhard^000000: I don't have enough shards to create powerful weapons, come back when there is enough energy to open the dimensional door.#
 Reunited after 7 days.#
 
 9337#Wrapping up the Adventure#SG_FEEL#QUE_NOIMAGE#
@@ -19959,7 +19959,7 @@ A  small, white object quickly passed the entrance not so long ago. They are not
 Talk to nervous Jakk#
 
 11488#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
-Jakk said that Jakk's kitty went to the place called ��there'. Let's inform Jakk, who is trying to find the kitty.#
+Jakk said that Jakk's kitty went to the place called 'there'. Let's inform Jakk, who is trying to find the kitty.#
 Talk to Jakk#
 
 11489#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
@@ -19979,7 +19979,7 @@ If you go near the harbor, you can find many cats who want to take fish from you
 Investigation on Alberta harbor#
 
 11493#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
-You found a white cat, but it doesn't look like Jakk��s kitty. The pile of sand behind is suspicious. Let's investigate.#
+You found a white cat, but it doesn't look like Jakk's kitty. The pile of sand behind is suspicious. Let's investigate.#
 Investigation on the pile_of_sand#
 
 11494#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
@@ -20557,7 +20557,7 @@ Meet Ballery in front of Prontera Church#
 
 1319#Memory of Sprig of Holly#SG_FEEL#QUE_NOIMAGE#
 Ballery gave Sprig of Holly to thank the help, that can become a beautiful item by weaving. Find Brechen to ask for weaving the sprig, she can be found at Izlude square 7 O'clock way.#
-Izlude���� Brechen#
+Izlude Brechen#
 
 1320#Making Christmas Wreath#SG_FEEL#QUE_NOIMAGE#
 Brechen said collect 10 Sprig of Holly to make Christmas Wreath.#
@@ -20673,7 +20673,7 @@ To save Maria, you need Living Water and Dead Water. Babayaga would know what to
 Bring Living Water and Dead Water#
 
 8179#Living Water and Dead Water#SG_FEEL#QUE_NOIMAGE#
-'Living Water'... I heard about it before. I need ^0000ff1 Holy Water^000000 and ^0000ff2 The Leaf That Constitutes The World^000000 to make the living water. And for the dead water.. I need ^0000ff1 Cursed Water^000000�� ^0000ff10 Leaflet Of Hinal^000000.#
+'Living Water'... I heard about it before. I need ^0000ff1 Holy Water^000000 and ^0000ff2 The Leaf That Constitutes The World^000000 to make the living water. And for the dead water.. I need ^0000ff1 Cursed Water^000000 and ^0000ff10 Leaflet Of Hinal^000000.#
 Bring the materials to Babayaga#
 
 8180#Living Water and Dead Water#SG_FEEL#QUE_NOIMAGE#
@@ -22924,3 +22924,12 @@ Collect 10 Eggshells.#
 17663#Easter Funny Bunny#SG_FEEL#QUE_NOIMAGE#
 Collect 10 Eggshells in 3 minutes.#
 #
+12421#The world is saved...again#SG_FEEL#QUE_NOIMAGE#
+You have successfully defended Guardian Stones in other world recently. Take a rest.#
+Wait for 1 hour.#
+12422#An Unusual Offer#SG_FEEL#QUE_NOIMAGE#
+You're on siege of the other world for the first time. Protect Guardian Stones from monsters.#
+Protect Guardian Stones#
+12423#Siege of the other world#SG_FEEL#QUE_NOIMAGE#
+Protect Guardian Stones from monsters.#
+Protect Guardian Stones#

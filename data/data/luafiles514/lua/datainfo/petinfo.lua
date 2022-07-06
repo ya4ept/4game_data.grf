@@ -88,7 +88,8 @@ PetNameTable = {
 	[jobtbl.JT_HODREMLIN] = "hodremlin",
 	[jobtbl.JT_METALLER] = "metaller",
 	[jobtbl.JT_ANCIENT_MUMMY] = "ancient_mummy",
-	[jobtbl.JT_XM_TEDDY_BEAR] = "xm_teddy_bear"
+	[jobtbl.JT_XM_TEDDY_BEAR] = "xm_teddy_bear",
+	[jobtbl.JT_PHREEONI] = "phreeoni"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "Жк_№ЩЖчёЮЖ®.bmp",
@@ -182,7 +183,8 @@ PetIllustNameTable = {
 	[jobtbl.JT_HODREMLIN] = "pet_hodremlin.bmp",
 	[jobtbl.JT_METALLER] = "pet_metaller.bmp",
 	[jobtbl.JT_ANCIENT_MUMMY] = "pet_ancient_mummy.bmp",
-	[jobtbl.JT_XM_TEDDY_BEAR] = "pet_xm_teddy_bear.bmp"
+	[jobtbl.JT_XM_TEDDY_BEAR] = "pet_xm_teddy_bear.bmp",
+	[jobtbl.JT_PHREEONI] = "pet_phreeoni.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -277,7 +279,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_HODREMLIN] = "pet_hodremlin.bmp",
 	[jobtbl.JT_METALLER] = "pet_metaller.bmp",
 	[jobtbl.JT_ANCIENT_MUMMY] = "pet_ancient_mummy.bmp",
-	[jobtbl.JT_XM_TEDDY_BEAR] = "pet_xm_teddy_bear.bmp"
+	[jobtbl.JT_XM_TEDDY_BEAR] = "pet_xm_teddy_bear.bmp",
+	[jobtbl.JT_PHREEONI] = "pet_phreeoni.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -489,7 +492,7 @@ PetStringTable = {
 	[jobtbl.JT_HYEGUN] = "Hyegun",
 	[jobtbl.JT_CAT_O_NINE_TAIL] = "Cat o' Nine Tails",
 	[jobtbl.JT_NINE_TAIL] = "Nine Tail",
-	[jobtbl.JT_DR_LUNATIC] = "Lunatic",
+	[jobtbl.JT_DR_LUNATIC] = "Leaf Lunatic",
 	[jobtbl.JT_DELETER_2] = "Earth Deleter",
 	[jobtbl.JT_DIABOLIC2] = "Diabolic",
 	[jobtbl.JT_TEDDY_BEAR] = "Teddy Bear",
@@ -502,7 +505,8 @@ PetStringTable = {
 	[jobtbl.JT_HODREMLIN] = "Hodremlin",
 	[jobtbl.JT_METALLER] = "Metaller",
 	[jobtbl.JT_ANCIENT_MUMMY] = "Ancient Mummy",
-	[jobtbl.JT_XM_TEDDY_BEAR] = "Abandoned Teddy Bear"
+	[jobtbl.JT_XM_TEDDY_BEAR] = "Abandoned Teddy Bear",
+	[jobtbl.JT_PHREEONI] = "Phreeoni"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -597,6 +601,7 @@ PetEggItemID_PetJobID = {
 	[9106] = jobtbl.JT_METALLER,
 	[9107] = jobtbl.JT_ANCIENT_MUMMY,
 	[9108] = jobtbl.JT_XM_TEDDY_BEAR,
+	[9111] = jobtbl.JT_PHREEONI,
 	[9113] = jobtbl.JT_SKELION
 }
 PetFoodTable = {
@@ -693,5 +698,6 @@ PetFoodTable = {
 	[jobtbl.JT_HODREMLIN] = 537,
 	[jobtbl.JT_METALLER] = 537,
 	[jobtbl.JT_ANCIENT_MUMMY] = 537,
-	[jobtbl.JT_XM_TEDDY_BEAR] = 537
+	[jobtbl.JT_XM_TEDDY_BEAR] = 537,
+	[jobtbl.JT_PHREEONI] = 619
 }
