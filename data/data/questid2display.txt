@@ -19858,741 +19858,741 @@ Visit Miss Fortuna after 4 AM#
 Turtle#
 Carapace#
 
-5402#The Royal Richard#SG_FEEL#QUE_NOIMAGE#
-You have made an appointment to meet Po, the head of the Richard family. Go to see Po, the head of the Richard family.#
+5402#Высокопоставленный Рихард#SG_FEEL#QUE_NOIMAGE#
+Вам назначили встречу с По, главой семейства Рихардов. Встретиться с По, главой семейства Рихардов.#
 #
 
-5403#The Royal Richard#SG_FEEL#QUE_NOIMAGE#
-For some reason he has asked you to proceed with the training program of the Richard family. You will be rewarded for it. Why don't you try?#
+5403#Высокопоставленный Рихард#SG_FEEL#QUE_NOIMAGE#
+По какой-то причине он попросил вас продолжить тренировки с семейством Рихардов. За это вас наградят. Почему бы не попробовать?#
 #
 
-5404#[Repeat]Warrior Discipline-Human#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 human monsters as part of the Warrior Discipline program of the Richard family.#
+5404#[Повторяемое]Воинская дисциплина - человек#SG_FEEL#QUE_NOIMAGE#
+Победить 50 человекоподобных монстров по программе воинской дисциплины семьи Рихардов.#
 #
 
-5405#[Repeat]Warrior Discipline-Animal#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 animal monsters as part of the Warrior Discipline program of the Richard family.#
+5405#[Повторяемое]Воинская дисциплина - зверь#SG_FEEL#QUE_NOIMAGE#
+Победить 50 звероподобных монстров по программе воинской дисциплины семьи Рихардов.#
 #
 
-5406#[Repeat]Warrior Discipline-Insect#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 insect monsters as part of the Warrior Discipline program of the Richard family.#
+5406#[Повторяемое]Воинская дисциплина - насекомое#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-насекомых по программе воинской дисциплины семьи Рихардов.#
 #
 
-5407#[Repeat]Warrior Discipline-Fish#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 fish monsters as part of the Warrior Discipline program of the Richard family.#
+5407#[Повторяемое]Воинская дисциплина - рыба#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-рыб по программе воинской дисциплины семьи Рихардов.#
 #
 
-5408#[Repeat]Warrior Discipline-Plant#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 plant monsters as part of the Warrior Discipline program of the Richard family.#
+5408#[Повторяемое]Воинская дисциплина - растение#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-растений по программе воинской дисциплины семьи Рихардов.#
 #
 
-5409#[Repeat]Warrior Discipline-Devil#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 demon monsters as part of the Warrior Discipline program of the Richard family.#
+5409#[Повторяемое]Воинская дисциплина - дьявол#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-демонов по программе воинской дисциплины семьи Рихардов.#
 #
 
-5410#[Repeat]Warrior Discipline-Angel#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 angel monsters as part of the Warrior Discipline program of the Richard family.#
+5410#[Повторяемое]Воинская дисциплина - ангел#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-ангелов по программе воинской дисциплины семьи Рихардов.#
 #
 
-5411#[Repeat]Warrior Discipline-Immortal#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 undead monsters as part of the Warrior Discipline program of the Richard family.#
+5411#[Повторяемое]Воинская дисциплина - бессмертный#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-нежити по программе воинской дисциплины семьи Рихардов.#
 #
 
-5412#[Repeat]Warrior Discipline-Intangible#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 nothing monsters as part of the Warrior Discipline program of the Richard family.#
+5412#[Повторяемое]Воинская дисциплина - неосязаемый#SG_FEEL#QUE_NOIMAGE#
+Победить 50 нематериальных монстров по программе воинской дисциплины семьи Рихардов.#
 #
 
-5413#[Repeat]Warrior Discipline-Dragon#SG_FEEL#QUE_NOIMAGE#
-Hunt the 50 dragon monsters as part of the Warrior Discipline program of the Richard family.#
+5413#[Повторяемое]Воинская дисциплина - дракон#SG_FEEL#QUE_NOIMAGE#
+Победить 50 монстров-драконов по программе воинской дисциплины семьи Рихардов.#
 #
 
-5414#[Stand by]Warrior Discipline#SG_FEEL#QUE_NOIMAGE#
-You can participate in the training of the Richard family again in tomorrow morning.#
-Reset Time 4:00 am#
+5414#[В ожидании]Воинская дисциплина#SG_FEEL#QUE_NOIMAGE#
+Вы сможете снова поучаствовать в тренировке семьи Рихардов завтра утром.#
+Время сброса 4:00 am#
 
-5415#Restricted Sector#SG_FEEL#QUE_NOIMAGE#
-You decided to hear about the Restricted Area from Royal Crusader Ellond Lawrence.#
+5415#Запретный сектор#SG_FEEL#QUE_NOIMAGE#
+Вы решили разузнать у королевского крестоносца Эллонда Лоренса о запретной зоне.#
 #
 
-5416#Restricted Sector A#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector A. Report the current situation to Ellond Lawrence.#
+5416#Запретный сектор А#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор А. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5417#Restricted Sector B#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector B. Report the current situation to Ellond Lawrence.#
+5417#Запретный сектор B#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор B. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5418#Restricted Sector C#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector C. Report the current situation to Ellond Lawrence.#
+5418#Запретный сектор C#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор C. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5419#Restricted Sector D#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector D. Report the current situation to Ellond Lawrence.#
+5419#Запретный сектор D#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор D. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5420#Restricted Sector E#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector E. Report the current situation to Ellond Lawrence.#
+5420#Запретный сектор E#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор E. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5421#Restricted Sector F#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector F. Report the current situation to Ellond Lawrence.#
+5421#Запретный сектор F#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор F. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5422#Restricted Sector G#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector G. Report the current situation to Ellond Lawrence.#
+5422#Запретный сектор G#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор G. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5423#Restricted Sector H#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring Sector H. Report the current situation to Ellond Lawrence.#
+5423#Запретный сектор H#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор H. Отчитайтесь Эллонду Лоренсу о ситуации.#
 #
 
-5424#[Complete]Restricted Sector#SG_FEEL#QUE_NOIMAGE#
-You have finished exploring the Restricted Sector.#
+5424#[Завершено] Запретный сектор#SG_FEEL#QUE_NOIMAGE#
+Вы изучили запретный сектор.#
 #
 
-5425#To My Beloved Fellow#SG_FEEL#QUE_NOIMAGE#
-What if you hear a familiar voice in a dark prison? It may scare you a little, but you would feel somewhat nostalgic. Let's find the source of the voice.#
+5425#Дорогому другу#SG_FEEL#QUE_NOIMAGE#
+Что если вы услышите в мрачной темнице знакомый голос? Это жутковато, но в то же время навевает ностальгию. Нужно найти источник голоса.#
 #
 
-5426#[Stand by]To My Beloved Fellow#SG_FEEL#QUE_NOIMAGE#
-You have sent the news of the old friend. Why don't you allow him some time to be lost in old memories?#
-Reset Time 4:00 am#
+5426#[В ожидании] Дорогому другу#SG_FEEL#QUE_NOIMAGE#
+Вы отправили новости о старом друге. Почему бы не позволить ему еще немного повспоминать былое?#
+Время сброса 4:00 am#
 
-5427#[Repeat]To My Beloved Fellow#SG_FEEL#QUE_NOIMAGE#
-Regular exchange of letters is good for the mental health of the prisoners. Get the letter from the friend somewhere in the underground prison.#
+5427#[Повторяемое] Дорогому другу#SG_FEEL#QUE_NOIMAGE#
+Регулярный обмен письмами полезен для душевного здоровья заключенных. Найдите письмо от друга где-то в глубинах подземной тюрьмы.#
 #
 
-5428#Lowly Standards#SG_FEEL#QUE_NOIMAGE#
-The prisoner who seems to collect pretty eyes has asked you to bring 20 red eyes of the monster boasting batwings. Is it a self-esteem issue?#
+5428#Низкие стандарты#SG_FEEL#QUE_NOIMAGE#
+Заключенный, который, кажется, собирает коллекцию красивых глаз, попросил вас принести ему 20 красных глаз хвастливых летучих мышей. У него проблемы с самооценкой?#
 #
 
-5429#[Stand by]Lowly Standards#SG_FEEL#QUE_NOIMAGE#
-The prisoner is infatuated with the red eyes. Why don't you bring more later to calm down the prisoner again?#
-Reset Time 4:00 am#
+5429#[В ожидании] Низкие стандарты#SG_FEEL#QUE_NOIMAGE#
+Заключенный без ума от красных глаз. Может, принести ему их еще чуть попозже, чтобы успокоился?#
+Время сброса 4:00 am#
 
-5430#[Repeat]Lowly Standards#SG_FEEL#QUE_NOIMAGE#
-The prisoner asked you to go get some more. Let's bring 20 red eyes to calm down the prisoner.#
+5430#[Повторяемое] Низкие стандарты#SG_FEEL#QUE_NOIMAGE#
+Заключенный попросил вас принести еще глаза. Принесите ему 20 красных глаз, чтобы он успокоился.#
 #
 
-5431#Clean Life#SG_FEEL#QUE_NOIMAGE#
-You need to clean the dirty underground prison. Clean with your heart full of joy.#
+5431#Жизнь в чистоте#SG_FEEL#QUE_NOIMAGE#
+Вам нужно привести в порядок грязную подземную тюрьму. Приступайте к уборке с легким сердцем.#
 #
 
-5432#Cleaning is complete.#SG_FEEL#QUE_NOIMAGE#
-You have finished cleaning the underground prison. Why don't you go back for a check?#
+5432#Уборка завершена.#SG_FEEL#QUE_NOIMAGE#
+Вы закончили уборку в подземной тюрьме. Почему бы не вернуться на досмотр?#
 #
 
-5433#[Stand by]Clean Life#SG_FEEL#QUE_NOIMAGE#
-Do you know? It is the time to wait for the fun of making a mess after the joy of cleaning.#
-Reset Time 4:00 am#
+5433#[В ожидании] Жизнь в чистоте#SG_FEEL#QUE_NOIMAGE#
+Вы знаете? Нужно дождаться, пока после наслаждения уборкой можно будет устроить веселый беспорядок.#
+Время сброса 4:00 am#
 
-5434#[Repeat]Clean Life#SG_FEEL#QUE_NOIMAGE#
-It is the time to feel the joy of cleaning. Let's clean the underground prison with your heart full of joy.#
+5434#[Повторяемое] Жизнь в чистоте#SG_FEEL#QUE_NOIMAGE#
+Пора насладиться уборкой. Приступайте к уборке подземной тюрьмы с легким сердцем.#
 #
 
-5435#[Repeat]Cleaning is complete.#SG_FEEL#QUE_NOIMAGE#
-You have finished cleaning the underground prison. Why don't you go back for a check?#
+5435#[Повторяемое] Уборка завершена.#SG_FEEL#QUE_NOIMAGE#
+Вы закончили уборку в подземной тюрьме. Почему бы не вернуться на досмотр?#
 #
 
-5436#Finding Lights#SG_FEEL#QUE_NOIMAGE#
-This prisoner seems to hate darkness. Let's bring a bright light from the huge torch in this prison.#
+5436#На поиски света#SG_FEEL#QUE_NOIMAGE#
+Кажется, этот заключенный не выносит темноты. Нужно принести ему искру от огромного тюремного факела.#
 #
 
-5437#[Stand by]Finding Lights#SG_FEEL#QUE_NOIMAGE#
-He seems to be satisfied with the bright light. Let's bring him once more when the light is about to subside.#
-Reset Time 4:00 am#
+5437#[В ожидании] На поиски света#SG_FEEL#QUE_NOIMAGE#
+Кажется, ему нравится яркий свет. Когда свет угаснет, нужно будет принести ему новую искру.#
+Время сброса 4:00 am#
 
-5438#[Repeat]Finding Lights#SG_FEEL#QUE_NOIMAGE#
-Let's bring a bright light again from the huge torch in this prison.#
+5438#[Повторяемое] На поиски света#SG_FEEL#QUE_NOIMAGE#
+Нужно снова принести искру от огромного тюремного факела.#
 #
 
-5439#Refreshing Prison Life#SG_FEEL#QUE_NOIMAGE#
-The prisoner seems uncomfortable in the humid prison. Bring 20 Dehumidifier for the pleasant jail life of the prisoner.#
+5439#Освежающая тюремная жизнь#SG_FEEL#QUE_NOIMAGE#
+Кажется, этому заключенному неуютно в сырой темнице. Принесите 20 осушителей, чтобы облегчить ему жизнь в тюрьме.#
 #
 
-5440#[Stand by]Refreshing Prison Life#SG_FEEL#QUE_NOIMAGE#
-Since the prison is a humid place, the Dehumidifiers would run out sooner or later. Bring more when they run out.#
-Reset Time 4:00 am#
+5440#[В ожидании] Освежающая тюремная жизнь#SG_FEEL#QUE_NOIMAGE#
+В тюрьме очень сыро, так что осушители рано или поздно закончатся. Когда это случится, нужно будет принести еще.#
+Время сброса 4:00 am#
 
-5441#[Repeat]Refreshing Prison Life#SG_FEEL#QUE_NOIMAGE#
-As expected, the Dehumidifiers didn't last long. Bring 20 Dehumidifiers again.#
+5441#[Повторяемое] Освежающая тюремная жизнь#SG_FEEL#QUE_NOIMAGE#
+Как и ожидалось, осушители долго не продержались. Принесите еще 20 осушителей.#
 #
 
-5442#Suppressing Darkness#SG_FEEL#QUE_NOIMAGE#
-A flower not only brighten up the darkness but also brings peace to a mind. Bring a flower.#
+5442#Подавляя тьму#SG_FEEL#QUE_NOIMAGE#
+Цветок не только скрасит жизнь во тьме, но и подарит спокойствие разуму. Принесите цветок.#
 #
 
-5443#[Stand by]Suppressing Darkness#SG_FEEL#QUE_NOIMAGE#
-The darkness has been calmed down, but it may become unruly again. When the time comes, I may have to bring another flower.#
-Reset Time 4:00 am#
+5443#[В ожидании] Подавляя тьму#SG_FEEL#QUE_NOIMAGE#
+Тьма притихла, но может снова выйти из-под контроля. Когда придет время, нужно будет принести еще один цветок.#
+Время сброса 4:00 am#
 
-5444#[Repeat]Suppressing Darkness#SG_FEEL#QUE_NOIMAGE#
-Darkness is raging again. Bring a flower. Which flower should I bring this time?#
+5444#[Повторяемое] Подавляя тьму#SG_FEEL#QUE_NOIMAGE#
+Тьма снова разбушевалась. Принесите цветок. Какой же цветок принести на этот раз?#
 #
 
-5445#Bothersome Little Thing#SG_FEEL#QUE_NOIMAGE#
-Little bump on the horn... I can't understand since don't have a horn, but I guess it is supposed to be a bothersome thing. Let's bring 20 pieces of Sandpaper by hunting the Taffies.#
+5445#Раздражающая мелочь#SG_FEEL#QUE_NOIMAGE#
+Небольшая шишка на роге... У меня, конечно, нет рогов, но могу представить, насколько это раздражает. Нужно принести 20 кусков наждачной бумаги, которые можно получить при охоте на Таффи.#
 #
 
-5446#[Stand by]Bothersome Little Thing#SG_FEEL#QUE_NOIMAGE#
-This prisoner who really seems to think of me as a concierge of this prison hotel may call me regularly.#
-Reset Time 4:00 am#
+5446#[В ожидании] Раздражающая мелочь#SG_FEEL#QUE_NOIMAGE#
+Заключенный, которому кажется, что я консьерж этого тюремного отеля, может решить подзывать меня почаще.#
+Время сброса 4:00 am#
 
-5447#[Repeat]Bothersome Little Thing#SG_FEEL#QUE_NOIMAGE#
-Why does he need more pieces of Sandpaper? Since he asks, hunt Taffies and bring 20 pieces of Sandpaper.#
+5447#[Повторяемое] Раздражающая мелочь#SG_FEEL#QUE_NOIMAGE#
+Зачем ему еще наждачная бумага? Но раз он просит, придется поохотиться на Таффи и принести еще 20 кусков наждачки.#
 #
 
-5448#Request from Chief Guard#SG_FEEL#QUE_NOIMAGE#
-Prontera Chief Guard Spiegel asked you to help the villagers in distress in the places marked on the map.#
+5448#Просьба от начальника стражи#SG_FEEL#QUE_NOIMAGE#
+Шпигель, начальник стражи Пронтеры, попросил вас помочь нуждающимся деревенским жителям. Он отметил на карте, где они живут.#
 #
 
-5449#Request from Chief Guard#SG_FEEL#QUE_NOIMAGE#
-Prontera Chief Guard Spiegel asked you to help the villagers in distress in the places marked on the map.#
+5449#Просьба от начальника стражи#SG_FEEL#QUE_NOIMAGE#
+Шпигель, начальник стражи Пронтеры, попросил вас помочь нуждающимся деревенским жителям. Он отметил на карте, где они живут.#
 #
 
-5450#Request from Chief Guard#SG_FEEL#QUE_NOIMAGE#
-Prontera Chief Guard Spiegel asked you to help the villagers in distress in the places marked on the map.#
+5450#Просьба от начальника стражи#SG_FEEL#QUE_NOIMAGE#
+Шпигель, начальник стражи Пронтеры, попросил вас помочь нуждающимся деревенским жителям. Он отметил на карте, где они живут.#
 #
 
-5451#Request from Chief Guard#SG_FEEL#QUE_NOIMAGE#
-Prontera Chief Guard Spiegel asked you to help the villagers in distress in the places marked on the map.#
+5451#Просьба от начальника стражи#SG_FEEL#QUE_NOIMAGE#
+Шпигель, начальник стражи Пронтеры, попросил вас помочь нуждающимся деревенским жителям. Он отметил на карте, где они живут.#
 #
 
-5452#[Stand by]Request from Chief Guard#SG_FEEL#QUE_NOIMAGE#
-You helped the villager of Prontera. For a while, you need to walk around the town working on defeating the undead.#
+5452#[В ожидании] Просьба от начальника стражи#SG_FEEL#QUE_NOIMAGE#
+Вы помогли деревенским жителям Пронтеры. Теперь прогуляйтесь по городу и разберитесь с нежитью#
 #
 
-5453#Ungrateful(1)#SG_FEEL#QUE_NOIMAGE#
-You met a village lad trembling from fear. First of all, take the village lad to the village office which is the nearest shelter.#
+5453#Неблагодарный(1)#SG_FEEL#QUE_NOIMAGE#
+Вам повстречался деревенский паренек, трясущийся от страха. Первым делом отведите его в деревенский муниципалитет, там находится ближайшее убежище.#
 #
 
-5454#Ungrateful(2)#SG_FEEL#QUE_NOIMAGE#
-When you took the village lad to the nearby shelter, he asked you to find a Tool Bag which he lost near the Smelter.#
+5454#Неблагодарный(2)#SG_FEEL#QUE_NOIMAGE#
+Когда вы отвели деревенского паренька в ближайшее убежище, он попросил вас найти его сумку с инструментами, которую он потерял неподалеку от плавильного завода.#
 #
 
-5455#Ungrateful(3)#SG_FEEL#QUE_NOIMAGE#
-You found the lost Tool Bag of the village lad in front of the Prontera Smelter.#
+5455#Неблагодарный(3)#SG_FEEL#QUE_NOIMAGE#
+Вы нашли потерянную сумку с инструментами перед плавильным заводом Пронтеры.#
 #
 
-5456#Ungrateful(4)#SG_FEEL#QUE_NOIMAGE#
-You delivered the Tool Bag of the village lad safely. You don't feel so good about it, but let's move on since you have done a good thing.#
+5456#Неблагодарный(4)#SG_FEEL#QUE_NOIMAGE#
+Вы вернули деревенскому пареньку его сумку с инструментами в целости. Вы не в лучшем расположении духа, но хотя бы сделали доброе дело, так что не думайте об этом.#
 #
 
-5457#Find My Sister(1)#SG_FEEL#QUE_NOIMAGE#
-Take the girl who was crying after losing her sister to the cathedral which is the nearest shelter.#
+5457#Найдите мою сестру(1)#SG_FEEL#QUE_NOIMAGE#
+Отведите плачущую девочку, которая потеряла сестру, к собору, где находится ближайшее убежище.#
 #
 
-5458#Find My Sister(2)#SG_FEEL#QUE_NOIMAGE#
-Take the girl to her sister in the Knight's building which is another shelter.#
+5458#Найдите мою сестру(2)#SG_FEEL#QUE_NOIMAGE#
+Отведите девочку к ее сестре, в казарму рыцарей, где находится другое убежище.#
 #
 
-5459#Find My Sister(3)#SG_FEEL#QUE_NOIMAGE#
-You helped the girl who was crying after being separated from her sister meet her sister.#
+5459#Найдите мою сестру(3)#SG_FEEL#QUE_NOIMAGE#
+Вы помогли плачущей девочке воссоединиться с сестрой.#
 #
 
-5460#Blatant Bluff(1)#SG_FEEL#QUE_NOIMAGE#
-Take the solder to the Knight's building which is the nearest shelter.#
+5460#Наглая ложь(1)#SG_FEEL#QUE_NOIMAGE#
+Отведите солдата в казарму рыцарей, где назодится ближайшее убежище.#
 #
 
-5461#Blatant Bluff(2)#SG_FEEL#QUE_NOIMAGE#
-He could have stayed in the Knight's building, but he insisted to go to another place to back up. Let's take him to the village office as he wishes.#
+5461#Наглая ложь(2)#SG_FEEL#QUE_NOIMAGE#
+Он мог бы остаться в казарме рыцарей, но настоял на том, чтобы пойти в другое место. Отведем его в деревенский муниципалитет, как он просит.#
 #
 
-5462#Blatant Bluff(3)#SG_FEEL#QUE_NOIMAGE#
-Why is this bluffer solder from Geffen in Prontera? Let's regard it as meaningful to have helped him.#
+5462#Наглая ложь(3)#SG_FEEL#QUE_NOIMAGE#
+Почему этот врун-солдат из Геффена в Пронтере? Будем считать, что помогли ему не зря.#
 #
 
-5463#Mad Love for Wife(1)#SG_FEEL#QUE_NOIMAGE#
-You promised to find the wife of Eryus. Let's take Eryus to the safe cathedral.#
+5463#Безумно влюбленный в жену(1)#SG_FEEL#QUE_NOIMAGE#
+Вы пообещали найти жену Эриуса. Нужно отвести Эриуса в безопасный собор.#
 #
 
-5464#Mad Love for Wife(2)#SG_FEEL#QUE_NOIMAGE#
-Eryus told you that he had lost his wife near the Prontera employment agency. Let's go find her near the employment agency.#
+5464#Безумно влюбленный в жену(2)#SG_FEEL#QUE_NOIMAGE#
+Эриус сказал, что потерял свою жену неподалеку от биржи труда Пронтеры. Отправляемся к бирже труда на поиски его жены.#
 #
 
-5465#Mad Love for Wife(3)#SG_FEEL#QUE_NOIMAGE#
-You met Ellie. the wife of Eryus. Since she is a fragile woman, let's take her to the safe cathedral fast.#
+5465#Безумно влюбленный в жену(3)#SG_FEEL#QUE_NOIMAGE#
+Вы встретили Элли, жену Эриуса. Она слабая женщина, так что нужно поскорее отвести ее в безопасное место, в собор.#
 #
 
-5466#Mad Love for WifeQuest(4)#SG_FEEL#QUE_NOIMAGE#
-Ellie's illness seems to have worsened as she loosen up a little. Go to the place where you have met Ellie and look for her lost medicine.#
+5466#Безумно влюбленный в жену(4)#SG_FEEL#QUE_NOIMAGE#
+Элли слишком расслабилась, и ее болезнь усугубилась. Отправляйтесь туда, где вы ее встретили, и поищите потерянное ею лекарство.#
 #
 
-5467#Mad Love for WifeQuest(5)#SG_FEEL#QUE_NOIMAGE#
-You found the medicine. Take it to Ellie before her illness takes a serious turn.#
+5467#Безумно влюбленный в жену(5)#SG_FEEL#QUE_NOIMAGE#
+Вы нашли лекарство. Отнесите его Элли, пока ее состояние не ухудшилось еще сильнее.#
 #
 
-5468#Mad Love for Wife(6)#SG_FEEL#QUE_NOIMAGE#
-You have helped the couple, Ellie and Eryus, who seem to be deeply in love. You are happy to see the true lovebirds in a long while.#
+5468#Безумно влюбленный в жену(6)#SG_FEEL#QUE_NOIMAGE#
+Вы помогли влюбленной паре, Элли и Эриусу. Вам так радостно впервые за долгое время увидеть искренне влюбленных воркующих голубков.#
 #
 
-7681#Invitation to Royal Banquet#SG_FEEL#QUE_NOIMAGE#
-A banquet is held at the Prontera Palace to honor the sacrifice made by those who went on with the expedition mission in Ash-Bakum to eliminate atrocious Morocc and praise their dedication. All of you are invited to this banquet.#
-Visit Prontera Palace#
+7681#Приглашения на королевский банкет#SG_FEEL#QUE_NOIMAGE#
+Во дворце Пронтеры проходит банкет в память о жертвах тех, кто отправился на экспедицию в Аш-Бакум, чтобы сразиться со свирепым Морокком. Вы все приглашены на этот вечер.#
+Оправиться во дворец Пронтеры#
 
-7682#Socializing Starts from an Eye Contact#SG_FEEL#QUE_NOIMAGE#
-Visit the seven royal families to exchange greetings. There are the Heine, Nerius and Walther families in the West Villa, and there are the Richard, Wigner, Roegenburg and Geoborg families in the East Villa.#
-Visit each family#
+7682#Общение начинается со взгляда#SG_FEEL#QUE_NOIMAGE#
+Навестите семь королевских династий, чтобы выразить им свое почтение. На западной вилле можно найти семейства Гейне, Нериус и Вальтер, а на восточной вилле - семейства Рихард, Вигнер, Ройгенбург и Геобург.#
+Навестите каждое из семейств.#
 
-7683#Visit the Heines#SG_FEEL#QUE_NOIMAGE#
-You visited the Heines to exchange greetings.#
+7683#Навестить семью Гейне#SG_FEEL#QUE_NOIMAGE#
+Вы встретились с династией Гейне и выразили им свое почтение.#
 #
 
-7684#Visit the Nerius#SG_FEEL#QUE_NOIMAGE#
-You visited the Nerius to exchange greetings.#
+7684#Навестить семью Нериус#SG_FEEL#QUE_NOIMAGE#
+Вы встретились с династией Нериус и выразили им свое почтение.#
 #
 
-7685#What Is the Next Thing on the Schedule ?#SG_FEEL#QUE_NOIMAGE#
-You have completed everything on the schedule. Ask Chamberlain Bell in your room about the next thing on the schedule.#
-Talk with Belle#
+7685#Что дальше по списку?#SG_FEEL#QUE_NOIMAGE#
+Вы сделали все, что запланировали. Спросите камергера Белла, что следует делать дальше.#
+Поговорить с Белль#
 
-7686#Nyhill and Skia#SG_FEEL#QUE_NOIMAGE#
-You witnessed the conversation between Nyhill and Skia in the hallway.#
+7686#Нигил и Ския#SG_FEEL#QUE_NOIMAGE#
+В коридоре вы услышали беседу Нигила и Скии.#
 #
 
-7687#Participating in the Banquet#SG_FEEL#QUE_NOIMAGE#
-Belle asked you to participate in the banquet since you had some time to spare. You were told that Spica the lady of the Nerius family wanted to meet you.#
-Talk with Spica#
+7687#Участие в банкете#SG_FEEL#QUE_NOIMAGE#
+Белль попровила вас поучаствовать в банкете, раз у вас появилось свободное время. Вам передали, что с вами желает увидеться Спика, леди из семейства Нериус.#
+Поговорить со Спикой#
 
-7688#Suspicious Movement#SG_FEEL#QUE_NOIMAGE#
-While moving to take part in the banquet, you heard about the conversation between the strangers in the guest room.#
+7688#Подозрительное движение#SG_FEEL#QUE_NOIMAGE#
+Перемещаясь по дворцу во время банкета, вы услышали разговор между незнакомцами в гостевой комнате.#
 #
 
-7689#Find Nyhill#SG_FEEL#QUE_NOIMAGE#
-Skia felt that Nyhill wasn't walking straight. Skia asked you to follow Nyhill who left the banquet early.#
-Follow Nyhill#
+7689#Найти Нигила#SG_FEEL#QUE_NOIMAGE#
+Ские показалось, что Нигил ходит с трудом. Она попросила вас последовать за Нигилом, который ушел с банкета пораньше.#
+Идти за Нигилом#
 
-7690#Where Is Nyhill?#SG_FEEL#QUE_NOIMAGE#
-When you were looking for Nyhill, you eavesdropped on a suspicious conversation. Where is Nyhill?#
-Talk with Nyhill#
+7690#Где же Нигил?#SG_FEEL#QUE_NOIMAGE#
+Во время поисков Нигила вам удалось подслушать подозрительный разговор. Где же Нигил?#
+Поговорить с Нигилом#
 
-7691#Waiting for the Ritual#SG_FEEL#QUE_NOIMAGE#
-Go back to the room to talk to Belle. A magician was supposed to come for the ritual...#
-Talk with Belle#
+7691#В ожидании ритуала#SG_FEEL#QUE_NOIMAGE#
+Вернуться в комнату и поговорить с Белль. На риутал должен был прийти волшебник...#
+Поговорить с Белль#
 
-7692#Attend the Ritual#SG_FEEL#QUE_NOIMAGE#
-Participate in the ritual following the lead of the magician.#
-Attend the Ritual#
+7692#Поприсутствовать на риутале#SG_FEEL#QUE_NOIMAGE#
+Поучаствовать в ритуале под руководством волшебника.#
+Прийти на ритуал#
 
-7693#Surprise Attack#SG_FEEL#QUE_NOIMAGE#
-A surprise attack was casted during the ritual!#
+7693#Внезапное нападение#SG_FEEL#QUE_NOIMAGE#
+Во время ритуала произошло внезапное нападение!#
 #
 
-7694#I'd Like to See that Too#SG_FEEL#QUE_NOIMAGE#
-After everyone leaves, let's take a look at the royal document which Kronecker was looking at#
-Talk with the Librarian#
+7694#Тоже хочу увидеть#SG_FEEL#QUE_NOIMAGE#
+Когда все уйдут, давайте взглянем на королевскую бумагу, которую изучал Кронекер#
+Поговорить с библиотекарем#
 
-7695#Escape from the Past Memories of the Royal Family#SG_FEEL#QUE_NOIMAGE#
-You need to get out of the place through the emergency exit instead of the gate which doesn't work. The knight guarding in front of the door may guide you.#
-Talk with the Guardian Knight#
+7695#Выбраться из воспоминаний королевской семьи#SG_FEEL#QUE_NOIMAGE#
+Главный вход не работает, поэтому вам придется выбираться через запасной выход. Вас проведет страж, стоящий возле двери.#
+Поговорить со стражем#
 
-7696#What's Next?#SG_FEEL#QUE_NOIMAGE#
-I don't know what to do now. Let's ask Belle.#
-Talk with Belle#
+7696#Что дальше?#SG_FEEL#QUE_NOIMAGE#
+Я не знаю, что делать дальше. Нужно спросить Белль.#
+Поговорить с Белль#
 
-7697#Invitation from the Nerius#SG_FEEL#QUE_NOIMAGE#
-You have been invited to the Nerius family. Let's go visit the Nerius.#
-Visit the Nerius#
+7697#Приглашение от семьи Нериус#SG_FEEL#QUE_NOIMAGE#
+Вас пригласили к семье Нериус. Нужно найти Нериусов.#
+Навестить семейство Нериус.#
 
-7698#Heine Now#SG_FEEL#QUE_NOIMAGE#
-While talking to the Nerius, the request to visit the Heines has arrived.#
-Visit the Heines#
+7698#Гейне сейчас#SG_FEEL#QUE_NOIMAGE#
+Во время беседы с Нериусами вы получили просьбу навестить семейство Гейне.#
+Навестить семейство Гейне.#
 
-7699#To the Past#SG_FEEL#QUE_NOIMAGE#
-You have been asked to visit the Past Memories of the Royal Family with Nillem by connecting the gaps in the dimension. Where is Nillem?#
-Talk with Nillem#
+7699#В прошлое#SG_FEEL#QUE_NOIMAGE#
+Вам попросили заглянуть в воспоминания о прошлом королевской семьи вместе с Ниллемом, соединив разломы в пространстве. Где же Ниллем?#
+Поговорить с Ниллемом#
 
-7700#Once More!#SG_FEEL#QUE_NOIMAGE#
-Move once more through the gap in the dimension which Nillem has twisted by force. What happened in the Room of Consciousness in the past?#
-To the Room of Consciousness#
+7700#Еще раз!#SG_FEEL#QUE_NOIMAGE#
+Снова пройдите через разлом в пространстве, искаженный Ниллемом. Что случилось с Залом Осознания в прошлом?#
+В Зал Осознания#
 
-7701#Lost Imir Heart#SG_FEEL#QUE_NOIMAGE#
-Check what had happened to the actual Imir Heart in the Room of Consciousness.#
+7701#Потерянное сердце Имира#SG_FEEL#QUE_NOIMAGE#
+Узнать, что случилось с настоящим сердцем Имира в Зале Осознания.#
 #
 
-7702#Prontera at the Time#SG_FEEL#QUE_NOIMAGE#
-Prontera has been attacked by the Undead before, and it is taking place right now. You have decided to go out there after a persistent persuasion by Nillem.#
-To the Outside#
+7702#Пронтера сейчас#SG_FEEL#QUE_NOIMAGE#
+На Пронтеру уже нападала нежить, и теперь это произошло снова. После убедительной речи Ниллема вы решили отправиться туда.#
+Наружу#
 
-7703#Who Knows the Truth#SG_FEEL#QUE_NOIMAGE#
-It is the time to go back to the present time, unseal the document and find out about the truth. Everything lies in the Past Memories of the Royal Family.#
-Talk with Kronecker#
+7703#Кто знает правду#SG_FEEL#QUE_NOIMAGE#
+Пора вернуться в настоящее время, снять печать с документа и выяснить правду. Все дело в воспоминаниях королевской семьи.#
+Поговорить с Кронекером#
 
-7704#Unchangeable Past#SG_FEEL#QUE_NOIMAGE#
-I couldn't save the Imir Heart infringed by Valkyrie today either.#
+7704#Неизменное прошлое#SG_FEEL#QUE_NOIMAGE#
+Сегодня мне снова не удалось спасти сердце Имира, поврежденное Валькирией.#
 #
 
-7705#Hope You Cannot Let Go#SG_FEEL#QUE_NOIMAGE#
-You are not sure whether it would work or not, but you are asked to challenge again in the Room of Consciousness. Defeat Bijou and defend the piece of Imir Heart.#
-Room of Consciousness in the Past#
+7705#Надежда умирает последней#SG_FEEL#QUE_NOIMAGE#
+Вы не уверены, получится ли, но вас попровили снова пройти испытание в Зале Осознания. Победите Бижу и защитите осколок сердца Имира.#
+Зал Осознания в прошлом#
 
-7706#Nillem Is Not Almighty#SG_FEEL#QUE_NOIMAGE#
-Multiple connection is a difficult thing even for Nillem. I think there is a certain limit to connect to the Room of Consciousness. Let's wait for Nillem's recovery.#
-Reset at 4 o'clock#
+7706#Ниллем не всемогущ#SG_FEEL#QUE_NOIMAGE#
+Такое множество связей не под силу даже Ниллему. Вероятно, у Зала Осознания есть определенный предел связей. Нужно дождаться, пока Ниллем отдохнет.#
+Сброс в 4 часа#
 
-9418#Attack Sky Fortress Invading Prontera#SG_FEEL#QUE_NOIMAGE#
-You need to attack the Sky Fortress attacking Prontera and defeat the boss.#
-Attack Sky Fortress#
+9418#Напасть на небесный замок, который вторгся в Пронтеру#SG_FEEL#QUE_NOIMAGE#
+Вам нужно напасть на небесный замок, что вторгся в Пронтеру, и одержать победу над боссом.#
+Напасть на небесный замок#
 
-9419#Attack Sky Fortress Invading Prontera#SG_FEEL#QUE_NOIMAGE#
-^8B4513Scientist Doyeon^000000‘s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic.#
-Visit Doyeon in 3 days.#
+9419#Напасть на небесный замок, который вторгся в Пронтеру#SG_FEEL#QUE_NOIMAGE#
+Сообщение от ^8B4513ученой Дойон^000000: Мне нужно больше магических сил, чтобы открыть телепорт в небесный замок. Принесите мне -пропуск в подземелье-, или мне понадобится 3 дня, чтобы накопить магическую силу.#
+Прийти к Дойон через 3 дня.#
 
-9427#Clearing the Sky Fortress for the Same Time#SG_FEEL#QUE_NOIMAGE#
-Clearing the Sky Fortress for the Same Time#
-Clearing the Sky Fortress for the Same Time#
+9427#Зачистка небесного замка в то же время#SG_FEEL#QUE_NOIMAGE#
+Зачистка небесного замка в то же время#
+Зачистка небесного замка в то же время#
 
-11400#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-Talk to Queen Catherine D. Geoborg the head of the Geoborg family.#
-Talk with the Queen#
+11400#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Поговорите с Королевой Катериной Д. Геобург - главой династии Геобург.#
+Погворить с Королевой#
 
-11401#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-The queen seems to be too busy to talk with me. Let's talk to Bodyguard Jerad instead.#
-Talk with Jerad#
+11401#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Кажется, королева занята. Поговорите с Телохранителем Джерадом.#
+Поговорить с Джерадом#
 
-11402#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-Go to the Banquet Hall to meet the sister of the queen, Scarlet Jaha.#
-Talk with Scarlet#
+11402#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Направляйтесь в банкетный зал и встретьтесь с сестрой королевы, Скарлет Яха.#
+Поговорить со Скарлет.#
 
-11403#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-While talking to Scarlet Jaha about the Geoborgs, Lidion Geoborg interrupted the conversation.#
-Talk with Lidion#
+11403#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Лидион вмешался в ваш разговор со Скарлет Яха. Поговорите с ним.#
+Поговорить с Лидионом.#
 
-11404#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-Lidion is screaming in anger. It seems impossible to proceed with the conversation. Let's talk to Scarlet again.#
-Talk with Scarlet#
+11404#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Лидион кричит в гневе. Кажется, продолжать разговор нет смысла. Поговорите еще раз со Скарлет.#
+Поговорить со Скарлет#
 
-11405#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-Let's go find Prince Ernst of the Geoborg family. He is supposed to be in the Banquet Hall.#
-Investigation in the Banquet Hall (0/7)#
+11405#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Нужно найти принца Эрнеста. Он должен быть в банкетном зале.#
+Исследование банкетного зала (0/7)#
 
-11406#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst.#
-Investigation in the Banquet Hall (1/7)#
+11406#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Ищите Принца Эрнеста#
+Исследование банкетного зала (1/7)#
 
-11407#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst.#
-Investigation in the Banquet Hall (2/7)#
+11407#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Ищите Принца Эрнеста#
+Исследование банкетного зала (2/7)#
 
-11408#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst.#
-Investigation in the Banquet Hall (3/7)#
+11408#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Ищите Принца Эрнеста#
+Исследование банкетного зала (3/7)#
 
-11409#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst.#
-Investigation in the Banquet Hall (4/7)#
+11409#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Ищите Принца Эрнеста#
+Исследование банкетного зала (4/7)#
 
-11410#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst.#
-Investigation in the Banquet Hall (5/7)#
+11410#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Ищите Принца Эрнеста#
+Исследование банкетного зала (5/7)#
 
-11411#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst.#
-Investigation in the Banquet Hall (6/7)#
+11411#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Ищите Принца Эрнеста#
+Исследование банкетного зала (6/7)#
 
-11412#The Geoborgs#SG_FEEL#QUE_NOIMAGE#
-You have heard the rumors about the Geoborgs. Prince Ernst must have left the Banquet Hall. Let's go back to Scarlet.#
-To Scarlet#
+11412#Династия Геобург#SG_FEEL#QUE_NOIMAGE#
+Вы невольно услышали сплетни о династии Геобург. Должно быть принц эрнест ушел. Вернитесь к Скарлет.#
+К Скарлет#
 
-11394#Call of the Royal Head Chef#SG_FEEL#QUE_NOIMAGE#
-The Royal Head Chef in the kitchen seems to look for you.#
-Talk with the Royal Head Chef #
+11394#Вызов от королевского шеф-повара#SG_FEEL#QUE_NOIMAGE#
+Кажется, вас ищет королевский шеф-повар на кухне.#
+Поговорить с королевским шеф-поваром #
 
-11395#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-You are asked to bring the sauce to be used in the dish. Go see the sauce master nearby.#
-Talk with the Sauce Master#
+11395#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Вас попросили принести соус для блюда. Отправиться к мастеру по соусам.#
+Поговорить с мастером по соусам.#
 
-11396#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Make the sauce with the master.#
-Make the Sauce#
+11396#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Приготовить соус вместе с мастером по соусам.#
+Приготовить соус#
 
-11397#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Bring the sauce to the Head Chef#
-Talk with the Head Chef#
+11397#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Принести соус шеф-повару#
+Поговорить с шеф-поваром.#
 
-11398#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Fill in the empty spot and make the food for the miraculously luxurious and superlatively fabulous banquet.#
-Move to the Empty Spot#
+11398#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Занять свободное место и приготовить еду для восхитительно роскошного и изумительно потрясающего банкета.#
+Занять свободное место#
 
-11399#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Move the grilled griffin with crispy crust and juicy meat covered in the special sauce to the dining room.#
-Deliver to the Dining Room#
+11399#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Отнести в столовую грифона на гриле с хрустящей корочкой и сочным мясом под особым соусом.#
+Отнести блюдо в столовую#
 
-11413#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Talk to Tamarin working in the dining toom.#
-Talk with Tamarin#
+11413#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Поговорить с Тамарином в столовой.#
+Поговорить с Тамарином#
 
-11414#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Go see Dyu in the Banquet Hall.#
-Talk with Dyu#
+11414#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Найти Дайю в столовой.#
+Поговорить с Дайю#
 
-11415#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Dyu doesn't seem to know. Talk to Magi next to him.#
-Talk with Magi#
+11415#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Кажется, Дайю не в курсе. Поговорить со стоящим рядом Маги.#
+Поговорить с Маги#
 
-11416#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Talk to Mark working upstairs in the Banquet Hall.#
-Talk with Mark#
+11416#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Поговорить с Марком, который работает на втором этаже столовой.#
+Поговорить с Марком#
 
-11417#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Talk to Alice.#
-Talk with Alice#
+11417#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Поговорить с Элис.#
+Поговорить с Элис#
 
-11418#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Go back to Tamarin.#
-Talk with Tamarin#
+11418#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Вернуться к Тамарину.#
+Поговорить с Тамарином#
 
-11419#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Retrieve 15 dishes in the Dining Hall and bring them to the Dishwasher in the kitchen.#
-Talk with the Dishwasher#
+11419#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Забрать из столовой 15 тарелок и отнести их мойщице посуды на кухню.#
+Поговорить с мойщицей посуды.#
 
-11420#Why Should I Prepare for the Banquets?#SG_FEEL#QUE_NOIMAGE#
-Go back to the Head Chef.#
-Talk with the Head Chef#
+11420#Зачем мне помогать с подготовкой к банкету?#SG_FEEL#QUE_NOIMAGE#
+Вернуться к шеф-повару.#
+Поговорить с шеф-поваром.#
 
-11421#Banquet: Unexpected Sauce#SG_FEEL#QUE_NOIMAGE#
-Make the sauce with the master.#
-Make the Sauce#
+11421#Банкет: Неожиданный соус#SG_FEEL#QUE_NOIMAGE#
+Приготовить соус вместе с мастером по соусам.#
+Приготовить соус#
 
-11422#Complete Today's Sauce#SG_FEEL#QUE_NOIMAGE#
-You have completed making the sauce for today. Come back again tomorrow.#
+11422#Приготовить сегодняшний соус#SG_FEEL#QUE_NOIMAGE#
+Вы уже приготовили соус сегодня. Возвращайтесь завтра.#
 #
 
-11423#Banquet: Griffin Barbecue#SG_FEEL#QUE_NOIMAGE#
-Make the grilled griffin following the commands of the Head Chef.#
-Make Grilled Griffin#
+11423#Банкет: шашлык из грифона#SG_FEEL#QUE_NOIMAGE#
+Приготовить грифона на гриле по инструкции шеф-повара.#
+Приготовить грифона на гриле#
 
-11424#Banquet: Griffin Barbecue#SG_FEEL#QUE_NOIMAGE#
-Move the grilled griffin with crispy crust and juicy meat covered in the special sauce to the dining room.#
-Deliver to the Dining Room#
+11424#Банкет: шашлык из грифона#SG_FEEL#QUE_NOIMAGE#
+Отнести в столовую грифона на гриле с хрустящей корочкой и сочным мясом под особым соусом.#
+Отнести блюдо в столовую#
 
-11425#Complete Today's Grilled Griffin#SG_FEEL#QUE_NOIMAGE#
-You have completed making the grilled griffin for today. Come back again tomorrow.#
+11425#Приготовить сегодняшнего грифона на гриле#SG_FEEL#QUE_NOIMAGE#
+Вы уже приготовили грифона на гриле сегодня. Возвращайтесь завтра.#
 #
 
-11426#Banquet: Washing 15 Dishes#SG_FEEL#QUE_NOIMAGE#
-Retrieve 15 dishes in the Dining Hall and bring them to the Dishwasher in the kitchen.#
-Collect Dishes#
+11426#Банкет: вымыть 15 тарелок#SG_FEEL#QUE_NOIMAGE#
+Забрать из столовой 15 тарелок и отнести их мойщице посуды на кухню.#
+Собрать тарелки#
 
-11427#Complete Today's Dish Collecting#SG_FEEL#QUE_NOIMAGE#
-You have completed collecting the dishes for today. Come back again tomorrow.#
+11427#Собрать сегодняшние грязные тарелки#SG_FEEL#QUE_NOIMAGE#
+Вы уже собрали грязные тарелки сегодня. Возвращайтесь завтра.#
 #
 
-11428#Ingredient for the Sauce#SG_FEEL#QUE_NOIMAGE#
-Fresh Flavor#
+11428#Игредиенты для соуса#SG_FEEL#QUE_NOIMAGE#
+Освежающий вкус#
 #
 
-11429#Ingredient for the Sauce#SG_FEEL#QUE_NOIMAGE#
-Gelatinous Texture#
+11429#Игредиенты для соуса#SG_FEEL#QUE_NOIMAGE#
+Вязкая текстура#
 #
 
-11430#Ingredient for the Sauce#SG_FEEL#QUE_NOIMAGE#
-Gorgeous Light#
+11430#Игредиенты для соуса#SG_FEEL#QUE_NOIMAGE#
+Потрясающее сияние#
 #
 
-11431#Ingredient for the Sauce#SG_FEEL#QUE_NOIMAGE#
-Tender Taste#
+11431#Игредиенты для соуса#SG_FEEL#QUE_NOIMAGE#
+Нежный вкус#
 #
 
-12369#Secret Business Relation#SG_FEEL#QUE_NOIMAGE#
-Build a secret business relation#
-Complete the conversation with the suspicious prisoner#
+12369#Тайные деловые отношения#SG_FEEL#QUE_NOIMAGE#
+Наладить тайные деловые отношения#
+Поговорить с подозрительным заключенным#
 
-14469#Look around the Walther Family#SG_FEEL#QUE_NOIMAGE#
-The Wigner family seems rather quiet. Look around and meet Isenhonor who seemed upset.#
-Look around#
+14469#Разузнать о семействе Вальтеров#SG_FEEL#QUE_NOIMAGE#
+Семейство Вальтеров ведет себя на удивление тихо. Осмотреться и найти расстроенного Айзенхонора.#
+Осмотреться#
 
-14470#In Search of the Guardian Knight#SG_FEEL#QUE_NOIMAGE#
-My Guardian Knight may know nothing. If you have to meet him, you can go to our manor in the south of Alberta.#
-To Alberta#
+14470#В поисках стражника#SG_FEEL#QUE_NOIMAGE#
+Едва ли мой стражник что-то знает. Но если нужно, вы можете найти его в нашем особняке на юге Альберты.#
+В Альберту#
 
-14471#To the Royal Prison#SG_FEEL#QUE_NOIMAGE#
-There must be a thief named Big Foot trapped in the prison of Prontera Palace. You may hear something from him. Please tell Isenhonor that I would be waiting for his order as always.#
-To the Royal Prison#
+14471#В королевскую тюрьму#SG_FEEL#QUE_NOIMAGE#
+В тюрьме дворца Пронтеры должен находиться вор по прозвищу Снежный человек. Возможно, он что-то знает. Пожалуйста, передайте Айзенхонору, что я буду ждать его приказа, как и всегда.#
+В королевскую тюрьму#
 
-14472#Gourmet Bigfoot#SG_FEEL#QUE_NOIMAGE#
-I want to have 3 Spicy Fried Bao and 1 Green Salad. You need to bring them to me to hear my story.#
-Bring the food#
+14472#Гурман Снежный человек#SG_FEEL#QUE_NOIMAGE#
+Принесите мне 3 острых жареных бао и 1 зеленый салат. Только тогда я расскажу вам свою историю.#
+Принести еду#
 
-14473#To Veins#SG_FEEL#QUE_NOIMAGE#
-He was in Veins. He really was in Veins!#
-To Veins#
+14473#В Веинс#SG_FEEL#QUE_NOIMAGE#
+Он был в Веинсе. Он правда был в Веинсе!#
+В Веинс#
 
-14474#Report to Isenhonor#SG_FEEL#QUE_NOIMAGE#
-You have received the letter sent by Isenarm from his Guardian Knight. Let's go back to Isenhonor now.#
-Report to Isenhonor#
+14474#Отчет для Айзенхонора#SG_FEEL#QUE_NOIMAGE#
+Вы получили письмо Айзенарма от его стражника. Теперь пора вернуться к Айзенхонору.#
+Отчитаться Айзенхонору#
 
-14475#To Jurgen#SG_FEEL#QUE_NOIMAGE#
-Speak more to Jurgen the candidate for the throne.#
-To Jurgen#
+14475#К Юргену#SG_FEEL#QUE_NOIMAGE#
+Поговорить с Юргеном, претендентом на трон.#
+К Юргену#
 
-14476#To Levuiere and His Wife#SG_FEEL#QUE_NOIMAGE#
-Why don't you go have a cup of tea with my parents if you have time? They really enjoy haring the stories from the adventures.#
-To Levuiere and His Wife#
+14476#К Лувьеру и его жене#SG_FEEL#QUE_NOIMAGE#
+Если у вас есть время, может, выпьете чашечку чая с нашими родителями? Они так любят слушать рассказы о приключениях.#
+К Лувьеру и его жене#
 
-14477#What Is Going on?#SG_FEEL#QUE_NOIMAGE#
-Katrin, has anything happened to my baby? I wouldn't be able to live if anything has happened to her.#
-To Katrin#
+14477#Что происходит?#SG_FEEL#QUE_NOIMAGE#
+Катрин, с моей малышкой ничего не случилось? Если с ней что-то произойдет, я не смогу жить.#
+К Катрин#
 
-14478#Searching for the Clue#SG_FEEL#QUE_NOIMAGE#
-A maid was here to clean the room. Let's go ask her about the whereabouts of the box.#
-To the Royal Kitchen#
+14478#В поисках улик#SG_FEEL#QUE_NOIMAGE#
+В комнате прибралась горничная. Нужно спросить, где теперь коробка.#
+На королевскую кухню#
 
-14479#Clean-up out of Apology#SG_FEEL#QUE_NOIMAGE#
-Who else was there? I don't know... I may remember if this place becomes clean again. Would you clean it for me? Oh, thank you. You first need to wipe the mold on the wall, remove the grease and clean the floor.#
-Let's start cleaning#
+14479#Уборка в качестве извинения#SG_FEEL#QUE_NOIMAGE#
+Кто еще там был? Не знаю... Возможно, я вспомню, когда здесь снова станет чисто. Приберетесь за меня? О, спасибо. Сначала нужно стереть плесень со стен, смыть жир и помыть пол.#
+Приступим к уборке#
 
-14480#Conquer the Grease#SG_FEEL#QUE_NOIMAGE#
-You need the mixture of orange and alcohol to clean the grease. Bring 1 Orange and 1 Alcohol.#
-Get the materials for the clean-up#
+14480#Борьба против жира#SG_FEEL#QUE_NOIMAGE#
+Для въевшегося жира вам понадобится смесь апельсина и спирта. Принести 1 апельсин и 1 спирт.#
+Добыть материалы для уборки#
 
-14481#Conquer the Mold#SG_FEEL#QUE_NOIMAGE#
-You cannot get rid of the mold without the power of its own kind and the power of god. Bring 1 Mold Powder and 1 Holy Water!#
-Get the materials for the clean-up#
+14481#Борьба против плесени#SG_FEEL#QUE_NOIMAGE#
+Побороть плесень получится только благодаря ее собственной мощи и божественной силы. Принесите 1 плесневый порошок и 1 святую воду!#
+Добыть материалы для уборки#
 
-14482#Conquer the Dirt of Devil#SG_FEEL#QUE_NOIMAGE#
-In order to remove the target, you need 1 Lemon and 1 Powdery Sand! Go get them now! Go!#
-Get the materials for the clean-up#
+14482#Борьба с дьявольской грязью#SG_FEEL#QUE_NOIMAGE#
+Чтобы избавиться от грязи, вам понадобится 1 лимон и 1 мелкозернистый песок! Принесите их скорее! Вперед!#
+Добыть материалы для уборки#
 
-14483#Report the Completion of the Clean-up#SG_FEEL#QUE_NOIMAGE#
-The cleaning is completed. Go to see the maid to report and hear her story.#
-To the Maid#
+14483#Сообщить о завершении уборки#SG_FEEL#QUE_NOIMAGE#
+Уборка закончена. Отчитаться горничной об уборке и выслушать ее рассказ.#
+К горничной#
 
-14484#There Was a Furniture Delivery Man#SG_FEEL#QUE_NOIMAGE#
-There was a man delivering the furniture all day. That's why I had to stay there all day to clean the room. He must be near the village office. There are many stores in the area.#
-Find the Delivery Man#
+14484#Все из-за доставщика мебели#SG_FEEL#QUE_NOIMAGE#
+Доставщик весь день выгружал мебель. Поэтому мне пришлось ждать весь день, чтобы провести уборку. Он должен быть где-то около деревенского муниципалитета. Здесь можно услышать много историй.#
+Найти доставщика мебели#
 
-14485#I Am Upset#SG_FEEL#QUE_NOIMAGE#
-Oh, I have been good all my life, and this is what I get? Oh, I have no power to live on... However, 3 Ox Head Slices may cheer me up.#
-Soul Food#
+14485#Мне грустно#SG_FEEL#QUE_NOIMAGE#
+О, и это все, что я получаю за свою добропорядочную жизнь? Ох, совсем нет сил жить дальше... Однако 3 ломтика бычьей головы могут улучшить мое настроение.#
+Еда для души#
 
-14486#I Heard the Story#SG_FEEL#QUE_NOIMAGE#
-You have heard the story. Let's go back to the palace to report to Jurgen.#
-To Jurgen#
+14486#Мы выслушали историю#SG_FEEL#QUE_NOIMAGE#
+Вы выслушали историю. Пора вернуться во дворец и отчитаться Юргену.#
+К Юргену#
 
-14487#Please Find the Token of Memory#SG_FEEL#QUE_NOIMAGE#
-In order to cheer up my sister, we may have to bring the things your sister has cherished. Let's bring 10 Sea Stones and 1 Witherless Rose. You can get the Sea Stones when you hunt the Medusa.#
-Find the Token of Memory#
+14487#Пожалуйста, найдите памятные вещи#SG_FEEL#QUE_NOIMAGE#
+Чтобы улучшить настроение моей сестры, можно принести ей вещи, которыми дорожила ваша сестра. Давайте принесем ей 10 морских камней и 1 неувядающую розу. Морской камень можно получить при убийстве Медузы.#
+Найти памятные вещи#
 
-14488#Please Deliver My Love#SG_FEEL#QUE_NOIMAGE#
-Please let her know of my love for her. Please help me.#
-To the Maid#
+14488#Прошу вас поведать о моей любви#SG_FEEL#QUE_NOIMAGE#
+Пожалуйста, расскажите ей, как я ее люблю. Прошу, помогите.#
+К горничной#
 
-14489#I Have to Turn It Down#SG_FEEL#QUE_NOIMAGE#
-I have never expected this, and I feel pressured. Moreover, I have a reason that I cannot see someone now. Please deliver my words to him without hurting his feelings.#
-To Jurgen#
+14489#Вынуждена отказать#SG_FEEL#QUE_NOIMAGE#
+Я этого не ожидала и чувствую себя под давлением. Кроме того, у меня есть причина, по которой я сейчас не могу с ни с кем встречаться. Пожалуйста, передайте ему мои слова, но так, чтобы не ранить его чувства.#
+К Юргену#
 
-14490#My Love Once More#SG_FEEL#QUE_NOIMAGE#
-I want to show her my heart as wide as the sea and my undying passion. Please deliver my love for her with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose.#
-Gift for the Maid#
+14490#По-прежнему люблю#SG_FEEL#QUE_NOIMAGE#
+Я хочу дать ей понять, что моя душа широка, словно море, а моя страсть к ней негасима. Прошу, передайте ей мою любовь вместе с подарком: 15 морскими камнями, которые можно получить при убийстве Медузы, и 1 неувядающей розой.#
+Подарок для горничной#
 
-14491#I Have to Turn It Down Again#SG_FEEL#QUE_NOIMAGE#
-I am sorry... But I am actually... Please tell Prince Wigner about it without hurting his feelings.#
-To Jurgen#
+14489#И снова вынуждена отказать#SG_FEEL#QUE_NOIMAGE#
+Простите... На самом деле я... Пожалуйста, расскажите об этом принцу Вигнеру так, чтобы не ранить его чувства.#
+К Юргену#
 
-14492#There Is a Silver Lining#SG_FEEL#QUE_NOIMAGE#
-Would you come back again later? Just enough time for her so that she doesn't feel pressured without forgetting me. After some time, I'd like to deliver my hear to her again!#
-Please come back again.#
+14492#Нет худа без добра#SG_FEEL#QUE_NOIMAGE#
+Вы вернетесь позже? Через некоторое время, чтобы она не думала, что я на нее давлю, но и не успела меня забыть. Пройдет время, и я снова заявлю ей о своих чувствах!#
+Пожалуйста, приходите снова.#
 
-14493#Today I Feel#SG_FEEL#QUE_NOIMAGE#
-What should I do? I like Mary even more today. Please deliver my love for her with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose.#
-Gift for the Maid#
+14493#Сегодня мои чувства...#SG_FEEL#QUE_NOIMAGE#
+Что мне делать? Сегодня Мэри нравится мне еще сильнее. Прошу, передайте ей мою любовь вместе с подарком: 15 морскими камнями, которые можно получить при убийстве Медузы, и 1 неувядающей розой.#
+Подарок для горничной#
 
-14494#I Have to Turn It Down Again#SG_FEEL#QUE_NOIMAGE#
-Please, I really appreciate his feelings. However, I cannot accept it. Please tell him without hurting his feelings.#
-To Jurgen#
+14494#И снова вынуждена отказать#SG_FEEL#QUE_NOIMAGE#
+Прошу вас, я очень ценю его чувства. Но не могу их принять. Пожалуйста, скажите ему об этом так, чтобы не ранить его чувства.#
+К Юргену#
 
-14495#To Wolf#SG_FEEL#QUE_NOIMAGE#
-Let's hear the story about the family from Wolf Roegenburg.#
-To Wolf#
+14495#К Вольфу#SG_FEEL#QUE_NOIMAGE#
+Давайте узнаем семейную историю от Вольфа Ройгенбурга.#
+К Вольфу#
 
-14496#To Isaac#SG_FEEL#QUE_NOIMAGE#
-If you meet Isaac of the Wigner family, please hand him the thing I asked you for. The Wigner residence is at the end of the hallway.#
-To Isaac#
+14496#К Айзеку#SG_FEEL#QUE_NOIMAGE#
+Если встретите Айзека Вигнера, пожалуйста, передайте ему вещь, о которой я вас просил. Покои Вигнеров находятся в конце коридора.#
+К Айзеку#
 
-14497#Delivery for Wolf#SG_FEEL#QUE_NOIMAGE#
-Please deliver the box to Wolf. You have to be careful with it. It is dangerous.#
-Delivery for Wolf#
+14497#Доставка для Вольфа#SG_FEEL#QUE_NOIMAGE#
+Прошу вас, передайте эту коробку Вольфу. Будьте с ней очень осторожны. Она опасна.#
+Доставка для Вольфа#
 
-14498#Which Rumor#SG_FEEL#QUE_NOIMAGE#
-If there is a bad rumor about our family going around in Prontera, I cannot just wait and see. I need to know what the rumor is about to deal with it. Please collect the rumors for me. You may hear them from young children.#
-Collect the Rumors#
+14498#Злые языки#SG_FEEL#QUE_NOIMAGE#
+Я не могу просто сидеть на месте, если по Пронтере гуляют мерзкие слухи о нашей семье. Но чтобы разобраться со сплетнями, нужно сначала узнать, о чем они. Пожалуйста, соберите за меня эти слухи. Их можно услышать от маленьких детей.#
+Собрать слухи#
 
-14499#Prove Yourself#SG_FEEL#QUE_NOIMAGE#
-Prove that you are eligible to hear the story. Hun 33 Majoruros! And bring the history book of Rune Midgarts from the library! Oh, I also need 12 Soft Silk Cloth!#
-Prove Yourself#
+14499#Прояви себя#SG_FEEL#QUE_NOIMAGE#
+Докажите, что достойны услышать мой рассказ. Победите 33 Маджоруроса! И принесите из библиотеки книгу по истории Рун-Мидгарда! А еще мне нужна мягкая шелковая ткань, 12 штук!#
+Прояви себя#
 
-14500#Complete checking out the book#SG_FEEL#QUE_NOIMAGE#
-You have checked out the history book of Rune Midgarts.#
-Complete checking out the book#
+14500#Закончить изучение книги#SG_FEEL#QUE_NOIMAGE#
+Вы изучили книгу по истории Рун-Мидгарда.#
+Закончить изучение книги#
 
-14501#Report to Wolf#SG_FEEL#QUE_NOIMAGE#
-Since you have heard the rumor, let's go to see Wolf and tell him the whole story.#
-Report to Wolf#
+14501#Отчитаться Вольфу#SG_FEEL#QUE_NOIMAGE#
+Вы разузнали о сплетнях, и теперь можно пойти к Вольфу и рассказать ему всю историю целиком.#
+Отчитаться Вольфу#
 
-14502#To Isaac#SG_FEEL#QUE_NOIMAGE#
-Please hand this document to Isaac. I have a lot of things to do from now. I am defending on you then.#
-To Isaac#
+14502#К Айзеку#SG_FEEL#QUE_NOIMAGE#
+Пожалуйста, передайте этот документ Айзеку. Меня ждет много дел. Я на вас рассчитываю.#
+К Айзеку#
 
-14503#Report to Wolf#SG_FEEL#QUE_NOIMAGE#
-Please tell Wolf that I respect his decision and trust him as always.#
-To Wolf#
+14503#Отчитаться Вольфу#SG_FEEL#QUE_NOIMAGE#
+Прошу, передайте Вольфу, что я уважаю его решение и доверяю ему, как и всегда.#
+К Вольфу#
 
-14504#In Search of Helmut#SG_FEEL#QUE_NOIMAGE#
-Would you persuade Helmut and bring him to me? He would be at the Schwaltzvalt Border Garrison.#
-In Search of Helmut#
+14504#В поисках Гельмута#SG_FEEL#QUE_NOIMAGE#
+Вы сможете убедить Гельмута и привести его ко мне? Он должен быть в гарнизоне на границе Шварцвальда.#
+В поисках Гельмута#
 
-14505#I Won't go Back#SG_FEEL#QUE_NOIMAGE#
-I belong here. Please tell my grandfather that.#
-To Maximilian#
+14505#Я не вернусь#SG_FEEL#QUE_NOIMAGE#
+Мое место здесь. Прошу, передайте это моему дедушке.#
+К Максимилиану#
 
-14506#Things Turned out This Way#SG_FEEL#QUE_NOIMAGE#
-Please tell Myer who left the home that the things have turned out this way at home. He may run away if one of the family members go there.#
-To Myer#
+14506#Как все вышло#SG_FEEL#QUE_NOIMAGE#
+Расскажите уехавшему Майеру о том, что произошло дома. Если кто-то из его семьи туда приедет, он может сбежать.#
+К Майеру#
 
-14507#To Maximilian#SG_FEEL#QUE_NOIMAGE#
-It turned out well. Everything is all right now. Please tell him that I'll go visit him when the banquet is over.#
-To Maximilian#
+14507#К Максимилиану#SG_FEEL#QUE_NOIMAGE#
+Все вышло как нельзя лучше. Теперь все в порядке. Прошу, передайте ему, что я навещу его по окончании банкета.#
+К Максимилиану#
 
-14508#Jewel and Cloth#SG_FEEL#QUE_NOIMAGE#
-Please bring 3 Pearls and 50 strands of soft hair.#
-Jewel and Cloth#
+14508#Драгоценности и ткань#SG_FEEL#QUE_NOIMAGE#
+Пожалуйста, принесите 3 жемчужины и 50 прядей мягких волос.#
+Драгоценности и ткань#
 
-14509#Still Making It#SG_FEEL#QUE_NOIMAGE#
-I am still in the progress of making it with what you have brought me. I'll decide what to make after finishing the work. Would come back after the daybreak?#
-Please wait.#
+14509#В процессе изготовления#SG_FEEL#QUE_NOIMAGE#
+Я пока еще работаю над тем, что вы мне принесли. Когда закончу, решу, что в итоге сделать. Возвращайтесь после рассвета, хорошо?#
+Пожалуйста, подождите.#
 
-14510#Pink Petal-like Dress#SG_FEEL#QUE_NOIMAGE#
-I will make a dress as beautiful as a pink petal! Would you bring 15 Soft Silky Cloth, 30 Red Herbs and 10 White Herbs to dye the cloth?#
-Pink Petal#
+14510#Розовое платье, подобное лепестку#SG_FEEL#QUE_NOIMAGE#
+Я сделаю платье, прекрасное, словно розовый лепесток! Принесете мне 15 мягкой шелковой ткани, 30 красных трав и 10 белых трав для окрашивания материи?#
+Розовый лепесток#
 
-14511#Beautiful Flower Decoration#SG_FEEL#QUE_NOIMAGE#
-I'll decorate it with humble but beautiful flowers. Please get me 5 pretty flowers, 5 pure flowers and 5 mysterious flowers#.
-Flowers in the Garden#
+14511#Дивные цветочные украшения#SG_FEEL#QUE_NOIMAGE#
+Я украшу его скромными, но прекрасными цветами. Пожалуйста, принесите мне 5 прелестных цветов, 5 чистых цветов и 5 загадочных цветов.#
+Садовые цветы#
 
-14512#Dress of the Night Sky#SG_FEEL#QUE_NOIMAGE#
-I'll make a dress as dark as the night sky! I need cloth darker than the night sky. Would you bring 20 pieces of black cloth? Please.#
-Black Night Sky#
+14512#Платье ночного неба#SG_FEEL#QUE_NOIMAGE#
+Я создам платье темное, словно ночное небо! Мне нужна ткань темнее ночных небес. Добудете для меня 20 отрезов черной ткани? Пожалуйста.#
+Черное ночное небо#
 
-14513#Shawl of the Blazing Sun#SG_FEEL#QUE_NOIMAGE#
-I want to make a shawl which resembles the blazing sun in the sky. I think I need 20 hot hairs to make it.#
-Shawl of the Sun#
+14513#Шаль пылающего солнца#SG_FEEL#QUE_NOIMAGE#
+Я хочу сделать шаль, напоминающую о пылающем в небе солнце. Для этого мне понадобится 20 жгучих волосков.#
+Солнечная шаль#
 
-14514#Step of the Fairy#SG_FEEL#QUE_NOIMAGE#
-I'll make a dress as airy and elegant as the step of a fairy. A gorgeous one! I need 5 splendid fairy wings. It would be enough to make an elegant dress.#
-Step of the Fairy#
+14514#Шажок феи#SG_FEEL#QUE_NOIMAGE#
+Я создам платье воздушное и элегантное, подобное шажку феи. Просто потрясающее! Мне понадобятся 5 чудесных крылышек фей. В самый раз для элегантного платья.#
+Шажок феи#
 
-14515#Sparkling Star#SG_FEEL#QUE_NOIMAGE#
-I want to sprinkle the dress with sparkling stats! Please get me 5 star dusts to decorate the dress with.#
-Sparkling Star#
+14515#Звездное сияние#SG_FEEL#QUE_NOIMAGE#
+Хочу украсить платье сияющими звездами! Пожалуйста, принесите мне 5 звездной пыли, которой я смогу посыпать платье.#
+Звездное сияние#
 
-14516#Suspicious Shadow#SG_FEEL#QUE_NOIMAGE#
-I heard the conversation between a suspicious person and Ian.#
-Suspicious Shadow#
+14516#Подозрительная тень#SG_FEEL#QUE_NOIMAGE#
+Я слышал, как Иэн разговаривал с кем-то подозрительным.#
+Подозрительная тень#
 
-14517#Midnight Snack Delivery#SG_FEEL#QUE_NOIMAGE#
-You delivered the midnight snack#
-Midnight Snack Delivery#
+14517#Доставка ночного перекуса#SG_FEEL#QUE_NOIMAGE#
+Вы доставили ночной перекус#
+Доставка ночного перекуса#
 
 62899#Find Happy Egg#SG_FEEL#QUE_NOIMAGE#
 Happy Egg Festival began. Come back to member of Egg festival after break 10 of happy eggs.#
@@ -25053,49 +25053,49 @@ Resets at 4 am#
 На 1 этап дается 15 минут. Нужно спешить, чтобы забрать все награды!#
 Таймер испытаний#
 17601#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17602#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17603#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17604#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17605#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17606#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17607#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17608#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17609#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17610#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17611#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17612#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17613#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17614#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17615#Испытание Тюра#SG_FEEL#QUE_NOIMAGE#
-Убейте необходимое количество мобов за отведенное время.#
+Убейте необходимое количество монстров за отведенное время.#
 #
 17621#Воспоминания уходящего года#SG_FEEL#QUE_NOIMAGE#
 Санта просит отнести подарок старому мудрецу.#

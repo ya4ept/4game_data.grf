@@ -21,10 +21,10 @@ mapNPCInfoTable = {
 		{ name = "Разное", X = 290, Y = 221, TYPE = 0 }
 	},
 	izlude = {
-		{ name = "Кафра", X = 134, Y = 88, TYPE = 6 },
-		{ name = "Гид", X = 121, Y = 87, TYPE = 4 },
-		{ name = "Оружие", X = 110, Y = 150, TYPE = 1 },
-		{ name = "Экипировка", X = 100, Y = 160, TYPE = 2 }
+		{ name = "Кафра", X = 128, Y = 148, TYPE = 6 },
+		{ name = "Гид", X = 133, Y = 113, TYPE = 4 },
+		{ name = "Оружие", X = 110, Y = 175, TYPE = 1 },
+		{ name = "Экипировка", X = 116, Y = 181, TYPE = 2 }
 	},
 	geffen = {
 		{ name = "Кафра", X = 120, Y = 62, TYPE = 6 },

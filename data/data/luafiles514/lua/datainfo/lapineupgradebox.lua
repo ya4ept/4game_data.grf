@@ -654,6 +654,69 @@ tblLapineUpgradeBox = {
 				{ "S_Wizard_Shoes", 24264 }
 			},
 			NeedSource_String = "Теневая экипировка"
+		},
+		Gemstone_Of_Time = {
+			ItemID = 9550,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Overwhelm_Luk_Armor", 15346 },
+				{ "Overwhelm_Agi_Armor", 15353 },
+				{ "Overwhelm_Str_Armor", 15278 },
+				{ "Overwhelm_Int_Armor", 15279 },
+				{ "Overwhelm_Vit_Armor", 15347 },
+				{ "Overwhelm_Dex_Armor", 15354 }
+			},
+			NeedSource_String = "Броня Шестиона"
+		},
+		Shadow_Random_Mix = {
+			ItemID = 23720,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "S_Physical_Earring", 24018 },
+				{ "S_Physical_Weapon", 24019 },
+				{ "S_Physical_Pendant", 24020 },
+				{ "S_Magical_Earring", 24021 },
+				{ "S_Magical_Weapon", 24022 },
+				{ "S_Magical_Pendant", 24023 },
+				{ "S_Breezy_Armor", 24024 },
+				{ "S_Champion_Shoes", 24025 },
+				{ "S_Hard_Armor", 24028 },
+				{ "S_Ancient_Armor", 24029 },
+				{ "S_Critical_Armor", 24030 },
+				{ "S_Kingbird_Weapon", 24031 },
+				{ "S_Cri_Hit_Weapon", 24032 },
+				{ "S_Healing_Weapon", 24033 },
+				{ "S_Rapid_Pendant", 24047 },
+				{ "S_Hard_Earring", 24049 },
+				{ "S_Wise_Earring", 24050 },
+				{ "S_Brutal_Shield", 24054 },
+				{ "S_Dragoon_Shield", 24057 },
+				{ "S_Requiem_Shield", 24060 },
+				{ "S_Clamorous_Shoes", 24065 },
+				{ "S_Divine_Shoes", 24070 },
+				{ "S_Dragoon_Shoes", 24071 },
+				{ "S_Spiritual_Weapon", 24078 },
+				{ "S_Spiritual_Earring", 24079 },
+				{ "S_Spiritual_Pendent", 24080 },
+				{ "S_Malicious_Armor", 24081 },
+				{ "S_Malicious_Shoes", 24082 },
+				{ "S_Malicious_Shield", 24083 },
+				{ "S_Stability_Shield", 24090 },
+				{ "S_Insomniac_Armor", 24093 },
+				{ "S_Insomniac_Shoes", 24094 },
+				{ "S_Peerless_Armor", 24095 },
+				{ "S_Peerless_Shoes", 24096 },
+				{ "S_Spell_Flow_Shoes", 24111 },
+				{ "S_Spell_Flow_Armor", 24112 },
+				{ "S_Spell_Flow_Shield", 24113 }
+			},
+			NeedSource_String = "Теневая экипировка"
 		}
 	},
 	results = {
@@ -670,7 +733,9 @@ tblLapineUpgradeBox = {
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
 			RandomOptionCode = "",
 			FailureItems = {}
-		}
+		},
+		Gemstone_Of_Time = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "GOT", FailureItems = {} },
+		Shadow_Random_Mix = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "SRM", FailureItems = {} }
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do
