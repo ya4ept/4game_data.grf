@@ -22927,9 +22927,79 @@ Collect 10 Eggshells in 3 minutes.#
 12421#The world is saved...again#SG_FEEL#QUE_NOIMAGE#
 You have successfully defended Guardian Stones in other world recently. Take a rest.#
 Wait for 1 hour.#
+
 12422#An Unusual Offer#SG_FEEL#QUE_NOIMAGE#
 You're on siege of the other world for the first time. Protect Guardian Stones from monsters.#
 Protect Guardian Stones#
+
 12423#Siege of the other world#SG_FEEL#QUE_NOIMAGE#
 Protect Guardian Stones from monsters.#
 Protect Guardian Stones#
+
+62838#First round - Archi#SG_FEEL#QUE_NOIMAGE#
+Defeat Archi #
+#
+
+62839#Second round - Dio Anemos#SG_FEEL#QUE_NOIMAGE#
+Defeat Dio Anemos #
+#
+
+62840#Third round -	Geffen Thug#SG_FEEL#QUE_NOIMAGE#
+Defeat Geffen Thug  #
+#
+
+62841#Third round - Geffen Thug#SG_FEEL#QUE_NOIMAGE#
+Defeat 	Geffen Thug #
+#
+
+62842#Third round - Geffen Thief#SG_FEEL#QUE_NOIMAGE#
+Defeat Geffen Thief #
+#
+
+62843#Fourth round - Pa Monk#SG_FEEL#QUE_NOIMAGE#
+Defeat Pa Monk #
+#
+
+62844#Fifth round - Ordre#SG_FEEL#QUE_NOIMAGE#
+Defeat Ordre #
+#
+
+62845#Sixth round - Blut Hase#SG_FEEL#QUE_NOIMAGE#
+Defeat Blut Hase #
+#
+
+62846#Seventh round - Kuro Akuma#SG_FEEL#QUE_NOIMAGE#
+Defeat Kuro Akuma#
+#
+
+62847#Eighth round - Hyper Death#SG_FEEL#QUE_NOIMAGE#
+Defeat Hyper Death#
+#
+
+62848#Ninth round - Rechenier#SG_FEEL#QUE_NOIMAGE#
+Defeat Rechenier#
+#
+
+62849#Tenth round - Odorico#SG_FEEL#QUE_NOIMAGE#
+Defeat Odorico#
+#
+
+62850#Eleventh round - Ju #SG_FEEL#QUE_NOIMAGE#
+Defeat Ju#
+#
+
+62851#Twelfth round - Dwigh#SG_FEEL#QUE_NOIMAGE#
+Defeat Dwigh #
+#
+
+62852#Twelfth round - Fay Kanavian#SG_FEEL#QUE_NOIMAGE#
+Defeat Fay Kanavian #
+#
+
+62852#Final round - Fenrir #SG_FEEL#QUE_NOIMAGE#
+Defeat Fenrir #
+#
+
+62853#Final round - Fenrir #SG_FEEL#QUE_NOIMAGE#
+Defeat Fenrir #
+#

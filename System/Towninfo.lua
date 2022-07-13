@@ -13,10 +13,10 @@ mapNPCInfoTable = {
 		{ name = "Miscellaneous", X = 290, Y = 221, TYPE = 0 }
 	},
 	izlude = {
-		{ name = "Convenience", X = 134, Y = 88, TYPE = 6 },
-		{ name = "Guide", X = 121, Y = 87, TYPE = 4 },
-		{ name = "Weapons", X = 110, Y = 150, TYPE = 1 },
-		{ name = "Armors", X = 100, Y = 160, TYPE = 2 }
+		{ name = "Convenience", X = 128, Y = 148, TYPE = 6 },
+		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
+		{ name = "Weapons", X = 110, Y = 175, TYPE = 1 },
+		{ name = "Armors", X = 116, Y = 181, TYPE = 2 }
 	},
 	geffen = {
 		{ name = "Convenience", X = 120, Y = 62, TYPE = 6 },

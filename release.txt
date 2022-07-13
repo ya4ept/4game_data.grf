@@ -1,3 +1,27 @@
+13.07.2022 11:26
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Tyr's Trial" event returned to Midgard: https://eu.4gameforum.com/threads/687787/
+— The Eden Group quests minimum level requirements will be lowered until July 20: https://eu.4gameforum.com/threads/687790/
+
+Shop:
+— The Trendsetter's Treasure is here both individually and in packs to bring out the power of elements and two unique items for enchantment. Check our Launcher and the Shop: https://eu.4gameforum.com/threads/687781/
+— The Professional Shadow sets have just arrived to the launcher and will stay until 20.07: https://eu.4gameforum.com/threads/687778/
+
+Fixes:
+— Now, once per 3 rounds, the Tournament Healer appears on Geffen Magic Tournament arena to heal you up;
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/687793/
+Finished activities:
+— The Poring Invasion event came to an end;
+— The gates to the most terrible place of Midgard - Bossnia were closed;
+— Bossnia Ticket and Bossnia Ticket Box were removed from the shop and launcher;
+— The Win-Win Machine was turned off.
+
+================
 06.07.2022 12:37
 Imp
 The maintenance is over, the server is online. Changelog:
