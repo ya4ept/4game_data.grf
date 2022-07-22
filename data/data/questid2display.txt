@@ -52,7 +52,7 @@ Get the delivery package from the storehouse, and then give it to the Kafra Empl
 Deliver package and message to the Kafra Girl on Byalan island.#
 
 1013#Job Change to Thief#SG_FEEL#QUE_NOIMAGE#
-Steal Mushrooms from Shibu's farm. Gather 2 kinds of Mushrooms: ^0000FFOrange Net Mushroom^000000 for 3 points and ^0000FFOrange Gooey Mushroom^000000 for 1 point. You need a total of 25 points to pass the test. Head toward the Eastern Field of the Pyramids.# 
+Steal Mushrooms from Shibu's farm. Gather 2 kinds of Mushrooms: ^0000FFOrange Net Mushroom^000000 for 3 points and ^0000FFOrange Gooey Mushroom^000000 for 1 point. You need a total of 25 points to pass the test. Head toward the Eastern Field of the Pyramids.#
 Gather Orange Net Mushroom and Orange Gooey Mushroom#
 
 1014#Job Change to Swordman#SG_FEEL#QUE_NOIMAGE#
@@ -451,7 +451,7 @@ Talk with Rekenber officers#
 Sueii Slierre, a secretary in Rekenber, says that Wolfchev has retired and the case is closed.#
 Confirm that Wolfchev has retired.#
 
-//==================== �丣ȭ���� ���� ======================== 
+//==================== �丣ȭ���� ���� ========================
 2114#Thor Volcano base camp#SG_FEEL#QUE_NOIMAGE#
 High Priest Zhed wants you to sneak into the camp at Thor Volcano for the sake of protecting international peace and sneak into the room of High Priest Vildt.#
 #
@@ -619,7 +619,7 @@ You received 5 Spirit of Alfheim. Bring them to the Exhausted Laphine soldiers a
 You have completed helping Grenouille for today. Come back after the timer has expired to take on another quest.#
 #
 
-//==================== A mage in the ice dungeon ======================== 
+//==================== A mage in the ice dungeon ========================
 
 2109#A Mage in the Ice Dungeon#SG_FEEL#QUE_NOIMAGE#
 Thank you so much! Please, take care of this necklace and ask Maheo to restore its luster. Then, it'll be a fitting tribute to our loving goddess Freya.#
@@ -654,14 +654,14 @@ Bring special flower for Ayealo.#
 3002#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 The first step to becoming a Bard - Bard Ayealo asks to find a talking snowman in Lutie. Receive a present from him and bring it to Bard Ayealo.#
 Bring a present to Ayealo#
-  
+
 3003#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Following a Song - Bard Ayealo asks me to sing along with him. If I can repeat the lyrics correctly, I could be a Bard...#
 #
 
 3004#Job Change to Bard#SG_FEEL#QUE_NOIMAGE#
 Final Test - Bard Ayealo asks to collect 60 Trunks for the last test. If I bring them I will become a bard and get a souvenir from him.#
-Bring either 60 Trunks, 60 Barren Trunks, 60 Solid Trunks or 60 Fine-grained Trunks.# 
+Bring either 60 Trunks, 60 Barren Trunks, 60 Solid Trunks or 60 Fine-grained Trunks.#
 
 
 3006#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
@@ -682,15 +682,15 @@ I can see your potential as a crusader. Meet with ^0000FFMurnak Myjol^000000. He
 
 3010#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
 Endurance - To be a crusader, endurance and patience are most important. You just need to walk down the hallway until you reach the end. But do not kill a single monster, even if they attack you.#
-  # 
-  
+  #
+
 3011#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
 Meet Gabriel Valentine in Prontera Sanctuary. She will give you the next test... Get going now.#
   #
 
 3012#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
 You need to have enough knowledge to qualify for the job. Sorry, but I feel you have to study more. Come back when you're ready.#
-  #  
+  #
 
 3013#Job Change to Crusader#SG_FEEL#QUE_NOIMAGE#
 Very good. Go take the next test at once. Go to Prontera Castle and meet Briten Pyrodd. I will tell him to prepare the next test.#
@@ -755,7 +755,7 @@ I'll teach you the way of the monk -- the mental attitude required and our dogma
 3026#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 Great! Perfect! You have passed my test. But still you need to take another test. Please go to Sir Boohae next. Good luck!#
 Visit Boohae#
-  
+
 3027#Job Change to Monk#SG_FEEL#QUE_NOIMAGE#
 Hmm....gathering mushrooms. So you want to test your tolerance huh? Go prepare and come back later when you're ready.#
 Gather Mushrooms in the abbey.#
@@ -771,7 +771,7 @@ Meet Tomoon#
 3031#Job Change to Monk - Spiritual Training#SG_FEEL#QUE_NOIMAGE#
 The last test is a spiritual training! Attack and slash all enemies that stand in your way! Now! Make a fist! Stand up! It's time!#
   #
-  
+
 3032#Job Change to Monk - Become a Monk#SG_FEEL#QUE_NOIMAGE#
 Well done! Now... I will give you a secret potion. If you drink it, you will have enough physical strength to be able to change into a monk! Go back to sensei Moohae!#
   #
@@ -781,7 +781,7 @@ Well done! Now... I will give you a secret potion. If you drink it, you will hav
 3040#The Curse of Baphomet#SG_FEEL#QUE_NOIMAGE#
 You cannot enter because the Curse of Baphomet still remains. The curse of Baphomet disappears 12 hours after you have entered.#
  #
- 
+
 3041#The Curse of Baphomet#SG_FEEL#QUE_NOIMAGE#
 Your SP has not yet recovered from activating another seal. You can't activate another seal until 5 minutes have passed.#
  #
@@ -986,7 +986,7 @@ Muff in Comodo seeks for a help finding his bond of debt he lost in the Papuchic
 3101#Consolidating Heavy Debt - Strange Heap of Earth#SG_FEEL#QUE_NOIMAGE#
 You discovered some strange heap of earth! Let's have a look.#
   #
-  
+
 3102#Consolidating Heavy Debt - Bond of Debt Found, but...#SG_FEEL#QUE_NOIMAGE#
 The bond of debt is found, however, it is wet and tattered. It seems like completely ruined. Bring it to Muff anyway.#
   #
@@ -998,7 +998,7 @@ Inventor Dorian in Izlude might be able to restore the bond of debt by using his
 3104#Consolidating Heavy Debt - Repair Materials of Magic Dryer#SG_FEEL#QUE_NOIMAGE#
 Dorian says you must help him fix the dryer if you want to use it.#
   20 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones#
-  
+
 3105#Consolidating Heavy Debt - Repairing Magic Dryer#SG_FEEL#QUE_NOIMAGE#
 Dorian tells you how to fix the dryer and lets you fix it yourself. It seems difficult...#
   #
@@ -1022,35 +1022,35 @@ The bond of debt is now completely restored. Bring it to Muff.#
 3110#Stolen Diamond - Tracking the Diamond#SG_FEEL#QUE_NOIMAGE#
 Find the stolen diamond. First, you must find Jhonnita in Alberta, Kimeunbang in Payon, and Leblo in Geffen. They might know whereabouts.#
   #
-  
+
 3111#Stolen Diamond - Leblo's Favor#SG_FEEL#QUE_NOIMAGE#
 Let's make a deal. I'll give you the information if you get some medicine from the doctor, Wola, in Payon.#
   #
-    
+
 3112#Stolen Diamond - Wola the Doctor#SG_FEEL#QUE_NOIMAGE#
 You should help me fix this pot. I can't make any medicine without this pot.#
   20 Fine Sands, 10 Brigans, 10 Soft Leaf, 5 Empty Bottles#
-  
+
 3113#Stolen Diamond - Wola the Doctor#SG_FEEL#QUE_NOIMAGE#
 Finally the pot is fixed. Now, what did you say you needed?#
   #
-  
+
 3114#Stolen Diamond - Wola the Doctor#SG_FEEL#QUE_NOIMAGE#
 Leblo... Oh, that man in Geffen? I already prepared it. I'll have it delivered to him shortly.#
   #
-  
+
 3115#Stolen Diamond - Leblo's Information#SG_FEEL#QUE_NOIMAGE#
 It would probably be the Z Gang that stole the diamond. Get some information on Z Gang at the Rogue Guild.#
   #
-  
+
 3116#Stolen Diamond - Information from Rogue Investigator#SG_FEEL#QUE_NOIMAGE#
 Bribe him with some money and you hear that the Z Gang's old hideout is a large warehouse over in Comodo. Go check it out!#
   #
-  
+
 3117#Stolen Diamond - Odd Switches#SG_FEEL#QUE_NOIMAGE#
 While searching the warehouse in Comodo, you found some odd switches. Let's examine some more.#
   #
-  
+
 3118#Stolen Diamond - Diamond Found!#SG_FEEL#QUE_NOIMAGE#
 You have found Ibrahim's Diamond of Destruction by activating those weird machine in the warehouse. Hurry and bring this back to Ibrahim.#
   #
@@ -1751,7 +1751,7 @@ Make a promise to devote yourself to God.#
 
 8015#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
 You have completed all 3 missions as you made the oath of Priesthood. Go back to the Bishop Paul.#
-Applying for Job Change to Priest#	
+Applying for Job Change to Priest#
 
 
 8016#Job Change to Priest#SG_FEEL#QUE_NOIMAGE#
@@ -2253,11 +2253,11 @@ Find the treatment to cure the mother of lord.#
 8133#Song of the fox#SG_FEEL#QUE_NOIMAGE#
 Priest, priest~ A fox is following me! If he doesn't leave when I scream and shout! The North Shrine Priest should help me out~ Ralralrah Ralralrah Ralralrahralralrah~~#
  #
- 
+
 8134#Boy at the Northern Shrine#SG_FEEL#QUE_NOIMAGE#
 A stronger spirit will expel the fox from a human. Come on, yell out and show me your spirit!#
  #
- 
+
 8135#Fox Expelled#SG_FEEL#QUE_NOIMAGE#
 ^FF6060Yelp! Yelp! Yelp! Human! To expel me from this body like this! Curse you! Darn you!! I will curse the Ishida family, and You better watch out, human!^000000#
 ������ ������ ���� ���ֿ��� ���ư���#
@@ -2793,7 +2793,7 @@ Speak to Sir Gray#
 
 // 6th test
 9012#Glory of a Knight!#SG_FEEL#QUE_NOIMAGE#
-'Sir Gray' tells you to change your job by seeing the captain, since you've talked to every other member. It is finally the time to become a Knight!# 
+'Sir Gray' tells you to change your job by seeing the captain, since you've talked to every other member. It is finally the time to become a Knight!#
 Speak to Captain Herman#
 
 //=======================����======================================
@@ -3455,15 +3455,15 @@ Go upstairs and get the '^ff0000Residence Transfer Application^000000'.#
 
 11052#Herb Medicine - Being a Doctor's Assistance#SG_FEEL#QUE_NOIMAGE#
 When you go up stairs, another officer will give you the document you want.#
-Go upstairs and get the '^ff0000Summer SAT Class Application^000000'.# 
+Go upstairs and get the '^ff0000Summer SAT Class Application^000000'.#
 
 11053#Herb Medicine - Being a Doctor's Assistance#SG_FEEL#QUE_NOIMAGE#
 When you go up stairs, another officer will give you the document you want.#
-Go upstairs and get the '^ff0000Sandy Dust Phenomenon Report^000000'.# 
+Go upstairs and get the '^ff0000Sandy Dust Phenomenon Report^000000'.#
 
 11054#Herb Medicine - Being a Doctor's Assistance#SG_FEEL#QUE_NOIMAGE#
 When you go up stairs, another officer will give you the document you want.#
-Go upstairs and get the '^ff0000Communication Proposal^000000'.# 
+Go upstairs and get the '^ff0000Communication Proposal^000000'.#
 
 11055#Herb Medicine - Being a Doctor's Assistance#SG_FEEL#QUE_NOIMAGE#
 A few days ago, someone asked me for the same document, so I was able to find it again pretty easily. I hope it's useful to you.#
@@ -3550,7 +3550,7 @@ Go back to Instructor Lugen.#
 11087#Repairing the Tent#SG_FEEL#QUE_NOIMAGE#
 You have agreed to help Diego fix his tent by getting materials that he can use as a post and rope to tie it with.#
 20 Ordinary Branch & 20 Strong Vine#
- 
+
 11088#Repairing the Tent#SG_FEEL#QUE_NOIMAGE#
 Diego is holding the makeshift pole of his tent, struggling to keep it straight. You should assist him with branch and vine.#
 #
@@ -3668,7 +3668,7 @@ Find Garins in Einbroch.#
 You have failed your mission for Kazien because you revealed too much information. Kazien may give you another chance if you try...#
 Kazien#
 
-12010#Lyozien#SG_FEEL#QUE_NOIMAGE#									
+12010#Lyozien#SG_FEEL#QUE_NOIMAGE#
 Find a man named Lyozien in the Airship for international flights. As before, keep it discrete and don't tell anyone else about the job.#
 Lyozien#
 
@@ -6162,7 +6162,7 @@ Wait 15 minutes and find Estillda.#
 
 7105#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
 Estillda got away but she's still around here somewhere. Make sure that you're alone and try to catch her again in 5 minutes.#
-# 
+#
 
 7106#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
 You found Estillda. After calming her down you told her how to get to Daora's pub. Go back to the Pub and talk to Daora.#
@@ -7267,11 +7267,11 @@ Kill 50 Argiopes#
 // Play alone box Display
 
 1100#Solo in the Sphinx Dungeon!#SG_FEEL#QUE_NOIMAGE#
-Train in the Sphinx Dungeon by hunting 20 Zerom.# 
+Train in the Sphinx Dungeon by hunting 20 Zerom.#
 #
 
 1101#Soloing Sphinx Dungeon!#SG_FEEL#QUE_NOIMAGE#
-Train in the Sphinx Dungeon by hunting 20 Requiem.# 
+Train in the Sphinx Dungeon by hunting 20 Requiem.#
 #
 
 1102#Soloing Clock Tower!#SG_FEEL#QUE_NOIMAGE#
@@ -12895,7 +12895,7 @@ Gather 30 Bad cans in Starry Coral Area and go back to Gobonge.#
 #
 
 1152#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
-Helping bad cats mission completed.# 
+Helping bad cats mission completed.#
 After 1 day, you can help them again.#
 
 1153#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
@@ -14183,15 +14183,15 @@ Kill 20 Byorgue Mercenary#
 //----------EP14.2 Find Professor Worm's Memory
 
 1214#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Find Professor Worm's portrait by investigating the bookshelves on the 4th floor of Bifrost Tower.# 
+Find Professor Worm's portrait by investigating the bookshelves on the 4th floor of Bifrost Tower.#
 Investigate the bookshelves on the 4th floor of Bifrost Tower.#
 
 1215#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Professor Worm's portrait was found. Take it to Professor Worm.# 
+Professor Worm's portrait was found. Take it to Professor Worm.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower.#
 
 1216#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Obtain Petal from the land of blooming flowers, collect 20 Star Shape Mushroom, and talk with Professor Worm.# 
+Obtain Petal from the land of blooming flowers, collect 20 Star Shape Mushroom, and talk with Professor Worm.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower.#
 
 1217#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
@@ -14199,39 +14199,39 @@ Investigate Professor Worm's records on walls of Bifrost Tower.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower after investigating records on 5 walls.#
 
 1218#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Read the first record.# 
+Read the first record.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower after investigating records on 5 walls.#
 
 1219#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Read the second record.# 
+Read the second record.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower after investigating records on 5 walls.#
 
 1220#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Read the third record.# 
+Read the third record.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower after investigating records on 5 walls.#
 
 1221#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Read the fourth record.# 
+Read the fourth record.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower after investigating records on 5 walls.#
 
 1222#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Read the fifth record.# 
+Read the fifth record.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower after investigating records on 5 walls.#
 
 1223#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Find Diary Frog No. 3 on the 3rd floor of Bifrost Tower.# 
+Find Diary Frog No. 3 on the 3rd floor of Bifrost Tower.#
 Talk with Diary Frog No. 3 on the 3rd floor of Bifrost Tower.#
 
 1224#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Find Diary Frog No. 6 on the 1st floor of Bifrost Tower.# 
+Find Diary Frog No. 6 on the 1st floor of Bifrost Tower.#
 Talk with Diary Frog No. 6 on the 1st floor of Bifrost Tower.#
 
 1225#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Eliminate 15 Lichterns(blue) on the 1st floor of Bifrost Tower.# 
+Eliminate 15 Lichterns(blue) on the 1st floor of Bifrost Tower.#
 Talk with Diary Frog No. 6 on the 1st floor of Bifrost Tower.#
 
 1226#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Find Diary Frog No. 30 near Bifrost Tower.# 
+Find Diary Frog No. 30 near Bifrost Tower.#
 Talk with Diary Frog No. 30 near Biforst Tower.#
 
 1227#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
@@ -14239,13 +14239,13 @@ Obtain Petal from the land of blooming flowers, collect 10 Star Shape Mushroom.#
 talk with Diary Frog No. 3 near Bifrost Tower.#
 
 1228#Getting back Professor Worm's memory#SG_FEEL#QUE_NOIMAGE#
-Final report to Professor Worm.# 
+Final report to Professor Worm.#
 Talk with Professor Worm on the 4th floor of Bifrost Tower.#
 
 
-//--ep14.2 
+//--ep14.2
 4254#Fairy with a stomache#SG_FEEL#QUE_NOIMAGE#
-Even a fairy gets a stomache Help the fairy get some material.# 
+Even a fairy gets a stomache Help the fairy get some material.#
 10 Green Herbs#
 
 4255#Revenge!#SG_FEEL#QUE_NOIMAGE#
@@ -14253,7 +14253,7 @@ A thief in Eclage? Would taking revenge make things better?#
 Hunt 20 Menblatt#
 
 4256#An accomplice?#SG_FEEL#QUE_NOIMAGE#
-Inadvertently became an accomplice. Refill the items that got lost.# 
+Inadvertently became an accomplice. Refill the items that got lost.#
 A bunch of acorns, Worn-out bookshelf, mold powder, 10 of each.#
 
 4257#Conspiracy#SG_FEEL#QUE_NOIMAGE#
@@ -14269,45 +14269,45 @@ Meet with Bourbon.#
 #
 
 4260#Bee#SG_FEEL#QUE_NOIMAGE#
-Something is weird about him. Report to Cecilia first.# 
+Something is weird about him. Report to Cecilia first.#
 Cecilia.#
 
 4261#Counterattack (1)#SG_FEEL#QUE_NOIMAGE#
-Eirinn on counterattack.# 
+Eirinn on counterattack.#
 Green Herb, Stem.#
 
 4262#Counterattack (2)#SG_FEEL#QUE_NOIMAGE#
-Will these work for a counterattack? Plant some grass near the bookshelf.# 
+Will these work for a counterattack? Plant some grass near the bookshelf.#
 Bookshelf in the plaza.#
 
 4263#Counteroffensive (1)#SG_FEEL#QUE_NOIMAGE#
-Bourbon on fire for a counteroffensive.# 
+Bourbon on fire for a counteroffensive.#
 2 Rat's Tails.#
 
 4264#Counteroffensive (2)#SG_FEEL#QUE_NOIMAGE#
-Will these work for a counteroffensive? Let rats lose next to Dominic.# 
+Will these work for a counteroffensive? Let rats lose next to Dominic.#
 Dominic.#
 
 4265#Bookshelf use#SG_FEEL#QUE_NOIMAGE#
 Obtained permission to read books in the bookshelf.#
 #
- 
-// ep14.2 Eclage Part 1 
+
+// ep14.2 Eclage Part 1
 
 7411#The traveler, Fome's story#SG_FEEL#QUE_NOIMAGE#
-Listened to the story regarding the Laphines and Eclage.# 
+Listened to the story regarding the Laphines and Eclage.#
 #
 
 7412#The traveler, Litrip's story#SG_FEEL#QUE_NOIMAGE#
-Listened to the story regarding Bifrost Tower.# 
+Listened to the story regarding Bifrost Tower.#
 #
 
 7413#The traveler, Chiba's story#SG_FEEL#QUE_NOIMAGE#
-Listened to the Laphines' organization and roles.# 
+Listened to the Laphines' organization and roles.#
 #
 
 7414#Eclage guard's message#SG_FEEL#QUE_NOIMAGE#
-Someone from Eclage wanted to meet. Ask for directions from the guard near the east exit of the Eclage plaza.# 
+Someone from Eclage wanted to meet. Ask for directions from the guard near the east exit of the Eclage plaza.#
 Talking with the guard at the east exit of Eclage.#
 
 7415#Laphine's Chief of Staff#SG_FEEL#QUE_NOIMAGE#
@@ -14315,11 +14315,11 @@ Planned to meet someone based on the instructions from the Eclage guard. If lost
 Talking with the chief of staff.#
 
 7416#Waiting to meet#SG_FEEL#QUE_NOIMAGE#
-After talking with the chief of staff, requested to meet with King of Laphines Mayor Jun. Once the wait is over, let's ask the Eclage guard again for more directions.# 
+After talking with the chief of staff, requested to meet with King of Laphines Mayor Jun. Once the wait is over, let's ask the Eclage guard again for more directions.#
 Asking for directions after waiting.#
 
 7417#Kardui's request#SG_FEEL#QUE_NOIMAGE#
-Mayor Jun did not listen to my sincere stories, but instead stated that he would listen to more of it if I were to contribute to Eclage more significantly. Let's take care of the Laphines in Eclage that need help.# 
+Mayor Jun did not listen to my sincere stories, but instead stated that he would listen to more of it if I were to contribute to Eclage more significantly. Let's take care of the Laphines in Eclage that need help.#
 Working for Eclage.#
 
 7418#For Eclage 1#SG_FEEL#QUE_NOIMAGE#
@@ -14327,15 +14327,15 @@ Obtain ingredients to decorate Yai for the Eclage guard who is too busy. Horns o
 5 Horns of Hilsrion, 5 Mystic Horns, 5 Horseshoe.#
 
 7419#For Eclage 2#SG_FEEL#QUE_NOIMAGE#
-Decided to deliver mails from Splendide Contact Officer as a favor for Roy the messenger who was having trouble at the edge of Bifrost due to communications getting cut off.# 
+Decided to deliver mails from Splendide Contact Officer as a favor for Roy the messenger who was having trouble at the edge of Bifrost due to communications getting cut off.#
 Splendide Contact Officer and Mailbox.#
 
 7420#For Eclage 3#SG_FEEL#QUE_NOIMAGE#
-For Leo who loves sweets, get him Splendide-made Pinguicula's Fruit Jam and Luciola's Honey Jam. Pickled fruits and honey jam can be obtained using coins at the advanced base.# 
+For Leo who loves sweets, get him Splendide-made Pinguicula's Fruit Jam and Luciola's Honey Jam. Pickled fruits and honey jam can be obtained using coins at the advanced base.#
 3 Pinguicula's Fruit Jam, 3 Luciola's Honey Jam.#
 
 7421#That's enough#SG_FEEL#QUE_NOIMAGE#
-While working on various jobs, Kardui's page reached me. Must go and meet Kardui. His office will be on the top floor when following the spiral road.# 
+While working on various jobs, Kardui's page reached me. Must go and meet Kardui. His office will be on the top floor when following the spiral road.#
 Talking with Kardui.#
 
 7422#Kardui's gift#SG_FEEL#QUE_NOIMAGE#
@@ -14343,136 +14343,136 @@ Kardui stated that he prepared a gift that can be picked up from Chief of Staff 
 Receiving the gift through Shenime.#
 
 7423#A rumor about the King 1#SG_FEEL#QUE_NOIMAGE#
-During the conversation with Leo, unsettling things about Kardui were told. He didn't seem to get into the details but it was very concerning. # 
+During the conversation with Leo, unsettling things about Kardui were told. He didn't seem to get into the details but it was very concerning. #
 #
 
 7424#A rumor about the King 2#SG_FEEL#QUE_NOIMAGE#
-Fome shared something unexpected. It was that Laphines have been subtly disliking Kardui. This was similar to what Leo seemed to keep to himself before.# 
+Fome shared something unexpected. It was that Laphines have been subtly disliking Kardui. This was similar to what Leo seemed to keep to himself before.#
 #
 
 7425#A rumor about the King 3#SG_FEEL#QUE_NOIMAGE#
-Connection between Cenes's despotism and Kardui was made through talking with the Laphines. It is not too serious, but it is certain that the current king Kardui is being considered in a way similar to how Cenes was.# 
-#
- 
-7426#A rumor about the King 4#SG_FEEL#QUE_NOIMAGE#
-Most recently, Kardui seemed to have become Mayor Jun in the midst of the calamity facing the entire Laphine race. They don't seem to completely disagree with his policies, but they don't seem to agree with them either.# 
+Connection between Cenes's despotism and Kardui was made through talking with the Laphines. It is not too serious, but it is certain that the current king Kardui is being considered in a way similar to how Cenes was.#
 #
 
-7427#At times like this, face it straight on!#SG_FEEL#QUE_NOIMAGE# 
-The truth behind Laphine's anxiety and fear toward Kardui could no longer be elucidated. Shouldn't this at least be communicated to the individual of interest? It might be possible to hear about the reason behind it all..# 
+7426#A rumor about the King 4#SG_FEEL#QUE_NOIMAGE#
+Most recently, Kardui seemed to have become Mayor Jun in the midst of the calamity facing the entire Laphine race. They don't seem to completely disagree with his policies, but they don't seem to agree with them either.#
+#
+
+7427#At times like this, face it straight on!#SG_FEEL#QUE_NOIMAGE#
+The truth behind Laphine's anxiety and fear toward Kardui could no longer be elucidated. Shouldn't this at least be communicated to the individual of interest? It might be possible to hear about the reason behind it all..#
 Talk with Kardui.#
 
 7428#Yai of the wild#SG_FEEL#QUE_NOIMAGE#
-Obtain items for the Yai for the Eclage guard Minuel who stands post every day and night.# 
+Obtain items for the Yai for the Eclage guard Minuel who stands post every day and night.#
 10 Horns of Hillslion, 10 Mystic Horns, 10 Horse Hooves.#
 
 7429#Wild recent trend!#SG_FEEL#QUE_NOIMAGE#
-The items collected by Minuel seemed to have created a sensation among the Yai decorations. Let's obtain the times regularly to keep the trend going.# 
+The items collected by Minuel seemed to have created a sensation among the Yai decorations. Let's obtain the times regularly to keep the trend going.#
 Check with Minuel after some time.#
 
 7430#Deliveryman that runs through space#SG_FEEL#QUE_NOIMAGE#
-Delivered mails from Splendide in place of Roy who is still having trouble at the edge of Bifrost.# 
+Delivered mails from Splendide in place of Roy who is still having trouble at the edge of Bifrost.#
 Splendide Contact Office, Mailbox.#
 
 7431#A mailman never rests!#SG_FEEL#QUE_NOIMAGE#
-Mails require regular deliveries. Let's check again later.# 
+Mails require regular deliveries. Let's check again later.#
 Check with Roy after some time.#
 
 7432#The troublemakers in the land of blooming flowers#SG_FEEL#QUE_NOIMAGE#
-Let's show who's boss to Menblatt and Petals that annoy travelers. It's reported as patrolling, but it's actually elimination.# 
+Let's show who's boss to Menblatt and Petals that annoy travelers. It's reported as patrolling, but it's actually elimination.#
 Eliminating Menblatt and Petals. #
 
 7433#Need constant guidance#SG_FEEL#QUE_NOIMAGE#
-Leo once again asks to patrol and subjugate the Menblatt and Petals. Let's check with him later.# 
+Leo once again asks to patrol and subjugate the Menblatt and Petals. Let's check with him later.#
 Check with Leo after some time.#
 
-//--Twins and Scholar of Magics 
+//--Twins and Scholar of Magics
 
 7434#Kardui's big brother#SG_FEEL#QUE_NOIMAGE#
-Kardui sends a letter to his big brother. Kardui's brother lives on the top flower of Biforst Tower. Let's deliver it to him.# 
+Kardui sends a letter to his big brother. Kardui's brother lives on the top flower of Biforst Tower. Let's deliver it to him.#
 Deliver the letter.#
-  
+
 7435#Time for reading the letter#SG_FEEL#QUE_NOIMAGE#
-Hisie asked for some time to read the letter. It only takes a couple of minutes, so let's wait a bit.# 
+Hisie asked for some time to read the letter. It only takes a couple of minutes, so let's wait a bit.#
 Wait until he is done reading the letter.#
 
 7436# Avant the Scholar of Magics#SG_FEEL#QUE_NOIMAGE#
-In Kardui's letter, there was not only an introduction but also a request to look for his father, Avant the Scholar of Magics. Help Hisie to find out more about the scholar from within Eclage.# 
+In Kardui's letter, there was not only an introduction but also a request to look for his father, Avant the Scholar of Magics. Help Hisie to find out more about the scholar from within Eclage.#
 #
 
 7437#Shenime's favor#SG_FEEL#QUE_NOIMAGE#
-Could not obtain Avant's info but instead got a strange request from Shenime. Asked to gather experimental ingredients for the scholar of magics he sponsors. They are 10 Dust Balls, 10 Leaf Bookmarks.# 
+Could not obtain Avant's info but instead got a strange request from Shenime. Asked to gather experimental ingredients for the scholar of magics he sponsors. They are 10 Dust Balls, 10 Leaf Bookmarks.#
 10 Dust Balls, 10 Leaf Bookmarks.#
 
 7438#Secret sponsorship#SG_FEEL#QUE_NOIMAGE#
-Shenime did not share even a bit about the scholar of magics he sponsors, and asks to forget about even finding out about it. Is there anyone that knows?# 
+Shenime did not share even a bit about the scholar of magics he sponsors, and asks to forget about even finding out about it. Is there anyone that knows?#
 Search for information.#
 
 7439#The scholar of magics sponsored by Shenime#SG_FEEL#QUE_NOIMAGE#
-Hisie stated that if you track down Shenime, the location of the scholar might be identified as well. Find out Shenime's duties.# 
+Hisie stated that if you track down Shenime, the location of the scholar might be identified as well. Find out Shenime's duties.#
 Search for information.#
 
 7440#Minuel's witness#SG_FEEL#QUE_NOIMAGE#
-Eclage guard Minuel stated that Shenime often travels east, in the opposite direction from his Yai. Discuss with Hisie.# 
+Eclage guard Minuel stated that Shenime often travels east, in the opposite direction from his Yai. Discuss with Hisie.#
 Talk with Hisie.#
 
 7441#Mail is here!#SG_FEEL#QUE_NOIMAGE#
 Planned to visit the scholar of magic's Yai as if Shenime is sending a mail. Hisie will confirm whether that person is Avant. Hisie will provide the information at the crossroads in front of Eclage.#
 10 Dustballs, 10 Leaf Bookmarks#
- 
+
 7442#The identity of the scholar of magics#SG_FEEL#QUE_NOIMAGE#
-The scholar of magics found through the strategy was indeed Avant. Must tell this to Kardui.# 
+The scholar of magics found through the strategy was indeed Avant. Must tell this to Kardui.#
 Talk with Kardui.#
 
-7443#Interfere with the research!#SG_FEEL#QUE_NOIMAGE# 
-A small revenge. Kardui and Hisie want to know what Avant is researching and want to interfere it. Could this be a small revenge of the brothers?# 
+7443#Interfere with the research!#SG_FEEL#QUE_NOIMAGE#
+A small revenge. Kardui and Hisie want to know what Avant is researching and want to interfere it. Could this be a small revenge of the brothers?#
 Interfereing Avant's research.#
 
 7444#What Avant was researching#SG_FEEL#QUE_NOIMAGE#
-Avant was researching on the methods to extract the Orb's magic power. Since this is dangerous information, the research materials should immediately be returned to Kardui.# 
+Avant was researching on the methods to extract the Orb's magic power. Since this is dangerous information, the research materials should immediately be returned to Kardui.#
 Deliver the research materials to Kardui.#
 
-//--Orb 
+//--Orb
 
 7445#Avant's back#SG_FEEL#QUE_NOIMAGE#
-Researched the force behind Avant's research on the Orb. The most likely culpril is Avant's sponsor, the chief of staff. Approach the chief of staff to reveal the truth.# 
+Researched the force behind Avant's research on the Orb. The most likely culpril is Avant's sponsor, the chief of staff. Approach the chief of staff to reveal the truth.#
 Talk with the chief of staff.#
 
 7446#Unfruitful conversation#SG_FEEL#QUE_NOIMAGE#
-Talked with Shenime the chief of staff, but nothing was gained. He states that he might also have been tricked by Avant. The chief of staff was actually upset that Kardui only increased the defenses surrounding the Orb.# 
+Talked with Shenime the chief of staff, but nothing was gained. He states that he might also have been tricked by Avant. The chief of staff was actually upset that Kardui only increased the defenses surrounding the Orb.#
 Report to Kardui.#
 
 7447#Dilemma surrounding the Orb#SG_FEEL#QUE_NOIMAGE#
-Only confirmed the distrust toward Kardui's instead of revealing more about Avant's research. The chief of staff hoped that Kardui's judgment has not weakened, and asked that he would demonstrate it.# 
+Only confirmed the distrust toward Kardui's instead of revealing more about Avant's research. The chief of staff hoped that Kardui's judgment has not weakened, and asked that he would demonstrate it.#
 Report to Kardui.#
 
 7448#Something's not right#SG_FEEL#QUE_NOIMAGE#
-After discussing with Kardui and Hisie, it is decided that the chief of staff is indeed the most suspicious. What is the reason behind his resistance toward Kardui's actions toward the Orb?# 
+After discussing with Kardui and Hisie, it is decided that the chief of staff is indeed the most suspicious. What is the reason behind his resistance toward Kardui's actions toward the Orb?#
 Surveillance of the chief of staff.#
 
 7449#Temptation toward the Orb#SG_FEEL#QUE_NOIMAGE#
-The chief of staff asked to go to the Orb's lighting room to discuss it. I decided to let Kardui know about this after telling him to give me some time to think about it.# 
+The chief of staff asked to go to the Orb's lighting room to discuss it. I decided to let Kardui know about this after telling him to give me some time to think about it.#
 Report to Kardui.#
 
 7450#Orb's lighting room#SG_FEEL#QUE_NOIMAGE#
-Not sure why the chief of staff kept trying to lure me into the Orb's lighting room, but decided to go there even just to figure out why. Let's go along with what he wants for now.# 
+Not sure why the chief of staff kept trying to lure me into the Orb's lighting room, but decided to go there even just to figure out why. Let's go along with what he wants for now.#
 Hold hands with the chief of staff.#
 
 7451#Betrayal#SG_FEEL#QUE_NOIMAGE#
-Everything is so confusing. The monster battled in the lighting room was not a subordinate of the King of Demons. They controlled me without my knowledge. Shenime the chief of staff betrayed all!# 
+Everything is so confusing. The monster battled in the lighting room was not a subordinate of the King of Demons. They controlled me without my knowledge. Shenime the chief of staff betrayed all!#
 Report to Kardui.#
 
 7452#Find the chief of staff!#SG_FEEL#QUE_NOIMAGE#
-Shenime the chief of staff, who was responsible for all these occurrences, has hidden his whereabouts. According to Hisie's sources, residual magic force was faintly felt in Bifrost.# 
+Shenime the chief of staff, who was responsible for all these occurrences, has hidden his whereabouts. According to Hisie's sources, residual magic force was faintly felt in Bifrost.#
 Survey Northern Bifrost.#
 
 7453#The last of the chief of staff#SG_FEEL#QUE_NOIMAGE#
-The road from the north to the south in Bifrost. It used to be an open path but is currently blocked by a huge rift in the south. On the way to the rift, the chief of staff's corpse was found.# 
-Report to Kardui.# 
- 
-//Korea : 14.2  
+The road from the north to the south in Bifrost. It used to be an open path but is currently blocked by a huge rift in the south. On the way to the rift, the chief of staff's corpse was found.#
+Report to Kardui.#
+
+//Korea : 14.2
 9225#Mystery Robbery Incident 1#SG_FEEL#QUE_NOIMAGE#
-Woke up from unconsciousness in someone's house. Talk to people who seemed to have helped me.# 
+Woke up from unconsciousness in someone's house. Talk to people who seemed to have helped me.#
 #
 
 9226#Mystery Robbery Incident 2#SG_FEEL#QUE_NOIMAGE#
@@ -14618,201 +14618,201 @@ Confirm ^0000FFCruyan^000000's statements. Go to the land of the blooming flower
 Speak to Balumin near the Eclage entrance when you're done hunting#
 
 9260#<Survey investigation notes>#SG_FEEL#QUE_NOIMAGE#
-Concentration Potion from ^0000FFCruyan^000000 cannot be obtained from a monster. The alibi was not confirmed. ^0000FFBalumin^000000 has no witnesses but part of his alibi was confirmed. ^0000FFWandering Merchant^000000 was drunk, gave Concentration Potions as dud rewards from his gambling frauds.# 
+Concentration Potion from ^0000FFCruyan^000000 cannot be obtained from a monster. The alibi was not confirmed. ^0000FFBalumin^000000 has no witnesses but part of his alibi was confirmed. ^0000FFWandering Merchant^000000 was drunk, gave Concentration Potions as dud rewards from his gambling frauds.#
 #
 
-//ep14.2 
+//ep14.2
 11310#Eclage's Entrance#SG_FEEL#QUE_NOIMAGE#
-After filling out your name, occupation, and level, submit the documents to the Immigration Officer.# 
+After filling out your name, occupation, and level, submit the documents to the Immigration Officer.#
 Wait a minute.#
 
 11311#Eclage's Entrance#SG_FEEL#QUE_NOIMAGE#
-Talk to the security guard to enter the city.# 
+Talk to the security guard to enter the city.#
 Talk with the security guard.#
 
 11312#Goliath#SG_FEEL#QUE_NOIMAGE#
-Talk to the fairy carpenter again to gain information about the bridge.# 
+Talk to the fairy carpenter again to gain information about the bridge.#
 Info on the bridge.#
 
 11313#Goliath#SG_FEEL#QUE_NOIMAGE#
-Obtain the bridge from Golie near the Tower outside of the city.# 
+Obtain the bridge from Golie near the Tower outside of the city.#
 Go to Golie.#
 
 11314#Goliath#SG_FEEL#QUE_NOIMAGE#
-Go back to Fon with the bridge.# 
+Go back to Fon with the bridge.#
 Go back to Carpenter Fon.#
 
 11315#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Tell Fon's friend Glaces near Eclage's entrance that Fon can't make it today.# 
+Tell Fon's friend Glaces near Eclage's entrance that Fon can't make it today.#
 Talk with Glaces.#
 
 11316#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Find Yube somewhere in the town.# 
+Find Yube somewhere in the town.#
 Find Yube.#
 
 11317#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Go back to Glaces and ask about Moreng's age.# 
+Go back to Glaces and ask about Moreng's age.#
 Talk with Glaces.#
 
 11318#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Go back to Murah in the plaza and ask about Moreng's age.# 
+Go back to Murah in the plaza and ask about Moreng's age.#
 Talk with Murah.#
 
 11319#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Go find Shul in the east end of the town and ask about Moreng's age.# 
+Go find Shul in the east end of the town and ask about Moreng's age.#
 Talk with Shul.#
 
 11320#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Go find Tato in the west end of the town and ask about Moreng's age.# 
+Go find Tato in the west end of the town and ask about Moreng's age.#
 Talk with Tato.#
 
 11321#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Using information gathered from Yube, Glaces, Murah, Shul, and Tato, calculate Moreng's age and let Yube know.# 
-Talk with Yube.# 
+Using information gathered from Yube, Glaces, Murah, Shul, and Tato, calculate Moreng's age and let Yube know.#
+Talk with Yube.#
 
 11322#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Bring as much balls of dusts as Moreng's age to make candles while Yube is making candle wicks.# 
+Bring as much balls of dusts as Moreng's age to make candles while Yube is making candle wicks.#
 Obtain dust balls.#
 
 11323#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Deliver birthday candles to Glaces.# 
+Deliver birthday candles to Glaces.#
 Deliver birthday candles.#
 
 11324#And time keeps on flowing#SG_FEEL#QUE_NOIMAGE#
-Ask Moreng whose birthday is coming up about what he wants.# 
+Ask Moreng whose birthday is coming up about what he wants.#
 Talk with Moreng.#
 
 11325#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-To make a new Yai, Moreng said he wants the egg of a legendary bird as known in myths. Listen to the legend.# 
+To make a new Yai, Moreng said he wants the egg of a legendary bird as known in myths. Listen to the legend.#
 Talk with Moreng.#
 
 11326#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-Ask the old man in the plaza about the legendary bird.# 
+Ask the old man in the plaza about the legendary bird.#
 Talk with the old man.#
 
 11327#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-Ask the traveler who is related to the feather outside of the town.# 
+Ask the traveler who is related to the feather outside of the town.#
 Talk with the traveler.#
 
 11328#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-The traveler's stories were made up. Find the merchant in the plaza who sold the feather to the traveler.# 
+The traveler's stories were made up. Find the merchant in the plaza who sold the feather to the traveler.#
 Talk with the merchant.#
 
 11329#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-Information regarding the enormous feather was obtained. Go back to Moreng.# 
+Information regarding the enormous feather was obtained. Go back to Moreng.#
 Talk with Moreng.#
 
 11330#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-Information regarding what Moreng wanted was obtained. Go back to Glaces.# 
+Information regarding what Moreng wanted was obtained. Go back to Glaces.#
 Talk with Glaces.#
 
 11331#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-Glaces is going to visit Moreng. She suggests talking with Yube.# 
+Glaces is going to visit Moreng. She suggests talking with Yube.#
 Talk with Yube.#
 
 11332#The chicken or the egg#SG_FEEL#QUE_NOIMAGE#
-Need to package the seed to be sent to Splendide in a seed box. Be careful since it is a difficult process.# 
+Need to package the seed to be sent to Splendide in a seed box. Be careful since it is a difficult process.#
 Talk with Yube.#
 
 11333#Red seed and green seed#SG_FEEL#QUE_NOIMAGE#
-Seed was packaged safely into the seed container. Give it to the delivery man waiting in the plaza.# 
+Seed was packaged safely into the seed container. Give it to the delivery man waiting in the plaza.#
 Register the delivery.#
 
 11334#Red seed and green seed#SG_FEEL#QUE_NOIMAGE#
-The seed box was given to the delivery man. Go back to Yube's house.# 
+The seed box was given to the delivery man. Go back to Yube's house.#
 Talk with Yube.#
 
 11335#Dreaming boy#SG_FEEL#QUE_NOIMAGE#
-Oliver the Dreaming Boy asks for acorns. Obtain acorns.# 
+Oliver the Dreaming Boy asks for acorns. Obtain acorns.#
 1 Bunch of acorns.#
 
 11336#Dreaming boy#SG_FEEL#QUE_NOIMAGE#
-With Oliver the Dreaming Boy disappearing so suddenly, had to run out of the house, but go back into the house.# 
-Go back into the house.# 
+With Oliver the Dreaming Boy disappearing so suddenly, had to run out of the house, but go back into the house.#
+Go back into the house.#
 
 11337#Dreaming boy#SG_FEEL#QUE_NOIMAGE#
-Oliver the Dreaming Boy was nowhere to be found. What happened? Talk with Du's group.# 
-Talk with Du's group.#  
- 
-//-- ep14.2 
+Oliver the Dreaming Boy was nowhere to be found. What happened? Talk with Du's group.#
+Talk with Du's group.#
+
+//-- ep14.2
 12280#A suspicious prisoner#SG_FEEL#QUE_NOIMAGE#
-It seems that a suspicious prisoner is in jail. Wouldn't be nice to hear about his story for once?# 
+It seems that a suspicious prisoner is in jail. Wouldn't be nice to hear about his story for once?#
 A suspicious prisoner.#
 
 12281#An unwanted favor#SG_FEEL#QUE_NOIMAGE#
-Clever asks for 1 ^000099Grape Juice Herbal Tea^000000. It is a big favor coming from a prisoner, but try to obtain it when possible.# 
+Clever asks for 1 ^000099Grape Juice Herbal Tea^000000. It is a big favor coming from a prisoner, but try to obtain it when possible.#
 An unwanted favor.#
 
 12282#Gossip king Clever#SG_FEEL#QUE_NOIMAGE#
-Clever knows lots of gossip stories. Since his knowledge may be helpful for future adventures, let's listen to them. There may be very useful information.# 
+Clever knows lots of gossip stories. Since his knowledge may be helpful for future adventures, let's listen to them. There may be very useful information.#
 Gossip king Clever.#
 
 12283#The rift researcher#SG_FEEL#QUE_NOIMAGE#
-There is a young Dona named ^000099Hielle^000000 who is known to carry out research related to rift fragments. Look for the researcher.# 
+There is a young Dona named ^000099Hielle^000000 who is known to carry out research related to rift fragments. Look for the researcher.#
 The rift researcher.#
 
 12284#A cat merchant's source of information#SG_FEEL#QUE_NOIMAGE#
-Among cat merchants, there is a cat that is supposed to know a lot about Midgard research on rifts. Look for ^000099Midgard Post^000000 known for its activity.# 
+Among cat merchants, there is a cat that is supposed to know a lot about Midgard research on rifts. Look for ^000099Midgard Post^000000 known for its activity.#
 A cat merchant's source of information.#
 
 12285#A way to calm down a cat#SG_FEEL#QUE_NOIMAGE#
-If the cat is stopped from fighting, it may be possible to gain useful information. How can it be calmed down? Did they say that they could not get their monthly salary of ^000099Malangdo Canned Specialties^000000?# 
+If the cat is stopped from fighting, it may be possible to gain useful information. How can it be calmed down? Did they say that they could not get their monthly salary of ^000099Malangdo Canned Specialties^000000?#
 A way to calm down a cat.#
 
 12286#Information traded for some canned foods#SG_FEEL#QUE_NOIMAGE#
-It is told that ^0000991 Fragment of Darkness, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them.# 
+It is told that ^0000991 Fragment of Darkness, 2 of each red/yellow/blue gemstones^000000 are needed for activating the rift fragment. It seems that Hiel is having a hard time obtaining them.#
 Information traded for some canned foods.#
 
 12287#A weird experience#SG_FEEL#QUE_NOIMAGE#
-Experiment with Hiel whether sufficient reaction occurs with the rift fragment.# 
+Experiment with Hiel whether sufficient reaction occurs with the rift fragment.#
 A weird experience.#
 
 12288#A successful experience#SG_FEEL#QUE_NOIMAGE#
-With Hiel's current arrangement, it doesn't seem like it will react properly. Try touching the experimental setup to activate it.# 
+With Hiel's current arrangement, it doesn't seem like it will react properly. Try touching the experimental setup to activate it.#
 A successful experience.#
 
 12289#Another visitation#SG_FEEL#QUE_NOIMAGE#
-The identities found through the rift reaction must be actual figures from history. Ask Clever the historian about them.# 
+The identities found through the rift reaction must be actual figures from history. Ask Clever the historian about them.#
 Another visitation.#
 
 12290#Clever's historical documents#SG_FEEL#QUE_NOIMAGE#
-There are individuals that seem to be Laphines according to Clever's historical documents. Listen to his stories.# 
+There are individuals that seem to be Laphines according to Clever's historical documents. Listen to his stories.#
 Clever's historical documents.#
 
 12291#Hidden historical documents (?)#SG_FEEL#QUE_NOIMAGE#
-According to Clever's drawn diagram, the document doesn't seem too hidden. Rather, it seems well presented on the shelves. Look for places where books are organized in Eclage.# 
+According to Clever's drawn diagram, the document doesn't seem too hidden. Rather, it seems well presented on the shelves. Look for places where books are organized in Eclage.#
 Hidden historical documents (?).#
 
 12292#The unknown ones#SG_FEEL#QUE_NOIMAGE#
-Individuals responsible for constructing the Home Tree and restoring the land of Bifrost are not the Elder's Assembly, but two unknown Dona's. Ask Clever about two Donas named Etran and Robert.# 
+Individuals responsible for constructing the Home Tree and restoring the land of Bifrost are not the Elder's Assembly, but two unknown Dona's. Ask Clever about two Donas named Etran and Robert.#
 The unknown ones.#
 
 12293#Figures in history#SG_FEEL#QUE_NOIMAGE#
-Clever asked to directly talk with the historical figures of the past through the rift device. Not sure if it is possible, but go visit Hiel.# 
+Clever asked to directly talk with the historical figures of the past through the rift device. Not sure if it is possible, but go visit Hiel.#
 Figures in history.#
 
 12294#Tour of Eclage#SG_FEEL#QUE_NOIMAGE#
-Take Robert who appeared in the past around the many places of Eclage. Wouldn't he be touched if he were to see the current state of Home Tree?# 
+Take Robert who appeared in the past around the many places of Eclage. Wouldn't he be touched if he were to see the current state of Home Tree?#
 Tour of Eclage.#
 
 12295#Error#SG_FEEL#QUE_NOIMAGE#
-Robert suddenly vanished. Go back to Hiel to figure out if something went wrong with the rift device.# 
+Robert suddenly vanished. Go back to Hiel to figure out if something went wrong with the rift device.#
 Error.#
 
 12296#Fun times with the reactor#SG_FEEL#QUE_NOIMAGE#
-Use Hiel's rift reactor to explore various areas of Eclage. There may be a place where Etran appears.# 
+Use Hiel's rift reactor to explore various areas of Eclage. There may be a place where Etran appears.#
 Fun times with the reactor.#
 
 12297#Encountering Etran#SG_FEEL#QUE_NOIMAGE#
-The location where Etran can be reached was found. It would be a good chance to confirm whether he was responsible for restoring the land.# 
+The location where Etran can be reached was found. It would be a good chance to confirm whether he was responsible for restoring the land.#
 Encountering Etran.#
 
 12298#Two wishes#SG_FEEL#QUE_NOIMAGE#
-Deliver Etran's necklace to Robert. Obtain Home Tree's golden leaf. Two favors were asked. Ask Hiel about the method to obtain a Home Tree leaf.# 
+Deliver Etran's necklace to Robert. Obtain Home Tree's golden leaf. Two favors were asked. Ask Hiel about the method to obtain a Home Tree leaf.#
 Two wishes.#
 
 12299#Revisiting Robert#SG_FEEL#QUE_NOIMAGE#
-It is prohibited to injure Home Tree by obtaining a leaf. However, if the creator himself provides one, it may be okay. However, wasn't Robert just abandoned in front of Home Tree last time?# 
+It is prohibited to injure Home Tree by obtaining a leaf. However, if the creator himself provides one, it may be okay. However, wasn't Robert just abandoned in front of Home Tree last time?#
 Revisiting Robert.#
 
 12300#Revisitng Etran#SG_FEEL#QUE_NOIMAGE#
@@ -14820,44 +14820,44 @@ Show Home Tree's leaf and encourage Etran. Although Robert's refusal to receive 
 Revisiting Etran.#
 
 12301#Two remaining friends#SG_FEEL#QUE_NOIMAGE#
-Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible.# 
-Two remaining friends.# 
+Robert and Etran will carry out their destinies until the end. Until the land of the past (although present for them) becomes the abundant land of the present. Talk to Hiel and Clever who made the encounters possible.#
+Two remaining friends.#
 
-//-- ep14.2 
+//-- ep14.2
 13050#The Laphine that loves the land#SG_FEEL#QUE_NOIMAGE#
-Let the Laphines who love the land of the blooming flowers their tasks at hand. Tell all four Laphines.# 
+Let the Laphines who love the land of the blooming flowers their tasks at hand. Tell all four Laphines.#
 Announce the beginning.#
 
 13051#The singing Laphine#SG_FEEL#QUE_NOIMAGE#
-Tell the singing Laphine that the project will be started.# 
+Tell the singing Laphine that the project will be started.#
 Find the singing Laphine.#
- 
+
 13052#The watering Laphine#SG_FEEL#QUE_NOIMAGE#
-Tell the watering Laphine that the project will be started.# 
+Tell the watering Laphine that the project will be started.#
 Find the watering Laphine.#
 
 13053#The dancing Laphine#SG_FEEL#QUE_NOIMAGE#
-Tell the dancing Laphine that the project will be started.# 
+Tell the dancing Laphine that the project will be started.#
 Find the dancing Laphine.#
- 
+
 13054#The smiling Laphine#SG_FEEL#QUE_NOIMAGE#
-Tell the smiling Laphine that the project will be started.# 
+Tell the smiling Laphine that the project will be started.#
 Find the smiling Laphine.#
 
 13055#See if all the adventurers are safe#SG_FEEL#QUE_NOIMAGE#
-They say that there are three adventurers.# 
+They say that there are three adventurers.#
 Check the safety of the adventurers.#
 
 13056#Reporter Rossi#SG_FEEL#QUE_NOIMAGE#
-Check if Monthly Brogan's reporter Rossi is safe.# 
+Check if Monthly Brogan's reporter Rossi is safe.#
 Checking Rossi's safety.#
 
 13057#Adventurer Euncheong#SG_FEEL#QUE_NOIMAGE#
-Check if Euncheong the King of Adventurer of the Future is safe.# 
+Check if Euncheong the King of Adventurer of the Future is safe.#
 Checking Euncheong's safety.#
 
 13058#Troublemaker New Oz#SG_FEEL#QUE_NOIMAGE#
-Check if New Oz is safe.# 
+Check if New Oz is safe.#
 Checking New Oz's safety.#
 
 13059#End of project#SG_FEEL#QUE_NOIMAGE#
@@ -14867,9 +14867,9 @@ Today's project is over! Let's come back later when we have time.#
 13060#Safety confirmation complete!#SG_FEEL#QUE_NOIMAGE#
 Everyone seems safe. Would they be safe tomorrow as well?#
 #
-  
+
 13061#Food support#SG_FEEL#QUE_NOIMAGE#
-Bring 10 meats and 10 bunches of acorns for starving New Oz.# 
+Bring 10 meats and 10 bunches of acorns for starving New Oz.#
 Obtain food!#
 
 13062#Food support - complete#SG_FEEL#QUE_NOIMAGE#
@@ -14877,7 +14877,7 @@ He wouldn't starve to death for at least awhile, right?#
 #
 
 13063#Dusting off#SG_FEEL#QUE_NOIMAGE#
-Eliminate balls of dusts to help New Oz leave the tower. Are these dust balls really keeping him from leaving?# 
+Eliminate balls of dusts to help New Oz leave the tower. Are these dust balls really keeping him from leaving?#
 Eliminate 20 Cherene.#
 
 13064#Dusting off - complete#SG_FEEL#QUE_NOIMAGE#
@@ -14885,92 +14885,92 @@ New Oz should be able to leave by himself from this point. Although there is sti
 #
 
 13065#Collecting a souvenir#SG_FEEL#QUE_NOIMAGE#
-For New Oz's friends. Look for souvenirs that they can use to remember their friendship.# 
+For New Oz's friends. Look for souvenirs that they can use to remember their friendship.#
 Obtain 20 Leaf Bookmarks.#
 
 13066#This is enough for souvenirs#SG_FEEL#QUE_NOIMAGE#
-All we can do now is to pray that the trouble maker can escape safely.# 
+All we can do now is to pray that the trouble maker can escape safely.#
 #
 
-//-ep14.2 
+//-ep14.2
 14118#Wuhari's concern#SG_FEEL#QUE_NOIMAGE#
-Wuhari is worried about his brother in prison. Find a way into the prison and deliver Wuhari's heartfelt letter to his brother in jail.# 
+Wuhari is worried about his brother in prison. Find a way into the prison and deliver Wuhari's heartfelt letter to his brother in jail.#
 #
 
 14119#Test of patience#SG_FEEL#QUE_NOIMAGE#
-The prisoner does not respond when talked to. He seems to test my patience.# 
+The prisoner does not respond when talked to. He seems to test my patience.#
 Talking with the prisoner.#
 
 14120#Test of patience 2#SG_FEEL#QUE_NOIMAGE#
-The prisoner still does not respond even after being talked to multiple times. Let's try again.# 
+The prisoner still does not respond even after being talked to multiple times. Let's try again.#
 Talking with the prisoner.#
 
 14121#Test of patience 3#SG_FEEL#QUE_NOIMAGE#
-The guy seems to keep his mouth shut no matter what. I wonder if there are any other ways.# 
+The guy seems to keep his mouth shut no matter what. I wonder if there are any other ways.#
 Talking with the prisoner.#
 
 14122#Time for two#SG_FEEL#QUE_NOIMAGE#
-Wuhari's letter was delivered to Wuhuru. He asked for some time to read the letter. Don't bother him when he's reading the letter.# 
+Wuhari's letter was delivered to Wuhuru. He asked for some time to read the letter. Don't bother him when he's reading the letter.#
 Give him time to read the letter.#
 
 14123#Wuhuru's favor#SG_FEEL#QUE_NOIMAGE#
-After reading his brother's letter, Wuhuru began to share his story extensively and asked to send his brother his regards. Go back to Wuhari and give him his brother's regards.# 
+After reading his brother's letter, Wuhuru began to share his story extensively and asked to send his brother his regards. Go back to Wuhari and give him his brother's regards.#
 Sending Wuhari regards.#
 
 14125#Surveying the area#SG_FEEL#QUE_NOIMAGE#
-Wuhari is searching for ways to recover Wuhuru's body. However, he doesn't know how. Wouldn't people in the nearby areas know something? Survey the areas nearby.# 
+Wuhari is searching for ways to recover Wuhuru's body. However, he doesn't know how. Wouldn't people in the nearby areas know something? Survey the areas nearby.#
 Talk with people in the town.#
- 
+
 14126#Searching for Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
-Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things.# 
+Mr. Masione said he does not know much at all. But refers to Ms. Goatie who is a lot sharper with these things.#
 Search for Ms. Goatie.#
 
 14127#Searching for Ms. Goatie's husband#SG_FEEL#QUE_NOIMAGE#
-Ms. Goatie talked about how Wuhuru was very happy while shaking a piece of paper in the air. When asked about the paper, she said that her husband may know more about it.# 
+Ms. Goatie talked about how Wuhuru was very happy while shaking a piece of paper in the air. When asked about the paper, she said that her husband may know more about it.#
 Search for Ms. Goatie's husband.#
 
 14128#Obtaining the research report#SG_FEEL#QUE_NOIMAGE#
-Mr. Svery who was always close with Wuhuru knew something more. Inside the letter that Wuhuru left before being taken to prison was the research report. Take it to Wuhari.# 
+Mr. Svery who was always close with Wuhuru knew something more. Inside the letter that Wuhuru left before being taken to prison was the research report. Take it to Wuhari.#
 Delivering the report.#
 
 14131#Analysis time#SG_FEEL#QUE_NOIMAGE#
-Wuhari received the report, but stated that it will take some time to analyze the report. Try talking to him a bit later. Don't bother someone when he is studying.# 
+Wuhari received the report, but stated that it will take some time to analyze the report. Try talking to him a bit later. Don't bother someone when he is studying.#
 Time for analysis.#
 
 14133#Another favor#SG_FEEL#QUE_NOIMAGE#
-Wuhari analyzed the research report, but he was still unsure about how to recover his brother's body. Try finding and asking the Laphine who originally requested Wuhuru's participation in research.# 
+Wuhari analyzed the research report, but he was still unsure about how to recover his brother's body. Try finding and asking the Laphine who originally requested Wuhuru's participation in research.#
 Obtaining the evidence.#
- 
+
 14134#Sharp Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
-Although Mr. Svery was visited for more insight, he said that he has no idea about the high-level Laphine. However, he suggested seeing his wife who's sharp with these things.# 
+Although Mr. Svery was visited for more insight, he said that he has no idea about the high-level Laphine. However, he suggested seeing his wife who's sharp with these things.#
 To Ms. Goatie.#
 
 14135#Searching for Mr. Pompe#SG_FEEL#QUE_NOIMAGE#
-When asked about the high-level Laphine's whereabouts, Ms. Goatie did not know much. However, a neighbor in town, Mr. Pompe, shared that he saw a Laphine in the field who later disappeared. Let's ask Mr. Pompe in more detail.# 
+When asked about the high-level Laphine's whereabouts, Ms. Goatie did not know much. However, a neighbor in town, Mr. Pompe, shared that he saw a Laphine in the field who later disappeared. Let's ask Mr. Pompe in more detail.#
 Hearing the story from Mr. Pompe.#
 
 14136#A terrible scene in the field#SG_FEEL#QUE_NOIMAGE#
-Mr. Pompe is afraid of going out to the field. He talked about how a big corpse has been lying there ever since one high-level Laphine suffered a terrible death. Investigate the field.# 
+Mr. Pompe is afraid of going out to the field. He talked about how a big corpse has been lying there ever since one high-level Laphine suffered a terrible death. Investigate the field.#
 Field investigation.#
 
 14137#An interesting proposition#SG_FEEL#QUE_NOIMAGE#
-One Laphine girl made an interesting proposition. It seemed that the Laphine who gave Wuhuru the research report is the same person as her lost father. Let's look for him together.# 
+One Laphine girl made an interesting proposition. It seemed that the Laphine who gave Wuhuru the research report is the same person as her lost father. Let's look for him together.#
 Field investigation.#
 
 14138#The big corpse#SG_FEEL#QUE_NOIMAGE#
-There was a big corpse that seemed to have been there a while. He was the Laphine that everyone has been looking for. We have to let the girl know this bad news.# 
+There was a big corpse that seemed to have been there a while. He was the Laphine that everyone has been looking for. We have to let the girl know this bad news.#
 Report to Giranni.#
 
 14139#To Wuhuru#SG_FEEL#QUE_NOIMAGE#
-The girl confirmed that the corpse was her father's. I have to go back to Wuhari empty-handed since the Laphine of interest has died. Before that, let's go to Wuhuru to tell him about the Laphine he had worked with.# 
+The girl confirmed that the corpse was her father's. I have to go back to Wuhari empty-handed since the Laphine of interest has died. Before that, let's go to Wuhuru to tell him about the Laphine he had worked with.#
 To Wuhuru.#
 
 14140#To Wuhari#SG_FEEL#QUE_NOIMAGE#
-Wuhuru shared all of his story, but that cannot be shared in its entirely to Wuhari. Go to Wuhari to at least tell him that the Laphine has died.# 
+Wuhuru shared all of his story, but that cannot be shared in its entirely to Wuhari. Go to Wuhari to at least tell him that the Laphine has died.#
 Report to Wuhari.#
 
 14141#Ingredients for research#SG_FEEL#QUE_NOIMAGE#
-Wuhari asked for ingredients that he could use to research on his own. Provide Wuhari with his necessary ingredients. (1 Piece Of Lapine Wing, 1 Firm Hair, 1 Karvodailnirol, 1 Refined Bradium, 1 Rune of the Darkness, 1 Bloody Rune).# 
+Wuhari asked for ingredients that he could use to research on his own. Provide Wuhari with his necessary ingredients. (1 Piece Of Lapine Wing, 1 Firm Hair, 1 Karvodailnirol, 1 Refined Bradium, 1 Rune of the Darkness, 1 Bloody Rune).#
 Obtain the items!#
 
 //����Ʈ�޾�
@@ -17032,7 +17032,7 @@ Destroying Emperiums repeatedly staggers commercial development. Give it some ti
 
 //-- Guild Quest Valkyrie Realm, Britoniah, Luina, Greenwood Lake
 
-7517# Occupy Valkyrie Realm#SG_FEEL#QUE_NOIMAGE# 
+7517# Occupy Valkyrie Realm#SG_FEEL#QUE_NOIMAGE#
 Occupation of a fortress in Valkyrie Realm has been reported. Next report can be made after 1 hour.#
 1-hour Standby#
 
@@ -17070,7 +17070,7 @@ Occupation of a fortress in Kafragaten has been reported. Next report can be mad
 On the first floor of Valkyrie Realm guild dungeon, fight off 50 Caterpillars and Creamy Fears respectively.#
 Monsters eliminated from the first floor of guild dungeon#
 
-7526# Valkyrie Realm Challenge 2#SG_FEEL#QUE_NOIMAGE# 
+7526# Valkyrie Realm Challenge 2#SG_FEEL#QUE_NOIMAGE#
 On the second floor of Valkyrie Realm guild dungeon, fight off 3 types of Abysmal Kobold (30 of each type).#
 Monsters eliminated from the second floor of guild dungeon#
 
@@ -17132,7 +17132,7 @@ Monsters eliminated from guild dungeon 2#
 
 7541# Gloria Challenge 1#SG_FEEL#QUE_NOIMAGE#
 Fight off 30 Knights, Assassins, and Blacksmiths respectively in Gloria guild dungeon.#
-Monsters eliminated from guild dungeon 1# 
+Monsters eliminated from guild dungeon 1#
 7542# Gloria Challenge 2#SG_FEEL#QUE_NOIMAGE#
 Fight off 30 Wizards, Priests, and Hunters respectively in Gloria guild dungeon.#
 Monsters eliminated from guild dungeon 2#
@@ -17218,11 +17218,11 @@ Monsters eliminated from guild dungeon 1#
 Fight off 30 Sages, Monks, and Bards respectively in Kafragaten guild dungeon.#
 Monsters eliminated from guild dungeon 2#
 
-7563#Standby for Kafragaten Challenge 1#SG_FEEL#QUE_NOIMAGE# 
+7563#Standby for Kafragaten Challenge 1#SG_FEEL#QUE_NOIMAGE#
 You have completed Kafragaten Challenge 1 already. To challenge again, come back after 1 day.#
 Take a day off.#
 
-7564# Standby for Kafragaten Challenge 2#SG_FEEL#QUE_NOIMAGE# 
+7564# Standby for Kafragaten Challenge 2#SG_FEEL#QUE_NOIMAGE#
 You have completed Kafragaten Challenge 2 already. To challenge again, come back after 1 day.#
 Take a day off.#
 
@@ -20767,7 +20767,7 @@ Kill 150 ^FF0000Zombie Prisoners^000000, then you can get rewards from ^FF0000Me
 Defeated ^FF0000Zombie Prisoners^000000. Now, ^8B4513Glast Heim Prison^000000 is in a peace.#
 
 //----- 2010 ���������??------------
-// IARA 
+// IARA
 9052#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : ^404040Visit Mercenary Scout^000000#
 Find ^FF0000Mercenary Scout^000000 in the ^8B4513Ice Cave^000000!!#
@@ -22926,7 +22926,7 @@ Collect 10 Eggshells in 3 minutes.#
 #
 12421#The world is saved...again#SG_FEEL#QUE_NOIMAGE#
 You have successfully defended Guardian Stones in other world recently. Take a rest.#
-Wait for 1 hour.#
+Wait for 5 minutes.#
 
 12422#An Unusual Offer#SG_FEEL#QUE_NOIMAGE#
 You're on siege of the other world for the first time. Protect Guardian Stones from monsters.#

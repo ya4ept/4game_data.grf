@@ -1,3 +1,32 @@
+20.07.2022
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The darkness slowly corrupts dimensions unless you win in "Saving their world" event;
+— New gates are open to the Land of Heroes 2.0. There you will meet Amon Ra and his high-level minions;
+— The Refinement Rates are currently boosted, it is time to hit the forge!
+
+Shop:
+— The Seraphing Shield, Amistr Hat, Feathered Tricorn and General's Helmet are back to launcher with special Refinement Sets.
+
+Fixes:
+— NPC Tournament Guide is now permanently located on the Geffen Magic Tournament arena;
+— Characters are no longer thrown out of the treasury after using the [Summon Guild] skill;
+— Doram, Kagerou, Oboro and Rebellion now can enter the 6th floor of the Thanatos Tower;
+— Artisan Teneko (que_ng 75 20) now asks 500 000 zeny for his enchantment removal services;
+— Fixed navigation to some NPC in Izlude city;
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/687865/
+
+Finished activities:
+— The "Tyr's Trial" event came to an end;
+— The Eden Group quests minimum level requirements are back to standard values;
+— The Trendsetter's Treasure and its sets were removed from the shop and launcher;
+— The Professional Shadow sets were also removed from the launcher.
+
+================
 13.07.2022 11:26
 Imp
 The maintenance is over, the server is online. Changelog:
