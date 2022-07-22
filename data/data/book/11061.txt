@@ -1,123 +1,117 @@
-п»ї%f5f5dc
-^000088Prontera palace commissary exchange item -consumable item^000000
+%faf0e6
+^000088Список предметов обменника замка Пронтеры - расходуемые предметы^000000
 
-^ff0000[City Map]^000000
-Guiding map inside the city. 
-Using it activates Agility Boost Lv. 1. 
-Caution! No effect will become activated if used while casting. 
-Caution! It basically consumes 15 HP, so if your HP falls short of 15, no effect will become activated even if you use it, but your City Map will still be removed.
-Weight : 1
+^ff0000[Карта города]^000000
+Карта, на которой нарисованы все закоулочки Пронтеры. 
+Увеличивает скорость передвижения персонажа. 
+Вес : 1
 
-^ff0000[Holy_Water]^000000
-Decreases damage inflicted in the Room of Consciousness and the Prontera Invasion Dungeon by 10% for 3 minutes.
-Removes Poison, Curse, and Silence and recovers 1,000 HP.
-Weight : 1.5
+^ff0000[Сияющая святая вода]^000000
+Физ. урон -10% на 3 мин. от монстров в Зале Осознания и во время Нападения на Пронтеру.
+Снимает эффекты [Проклятие], [Яд] и [Молчание] и Восстанавливает 1000 HP.
+Вес : 1.5
 
-^ff0000[Prison Key]^000000
-Several old and dirty keys are hung.
-Can transport to the underground dungeon of the Prontera Castle.
-Weight : 1
+^ff0000[Ключи от тюремных камер]^000000
+Связка старых ключей, с помощью которой можно переместиться в подземелье Пронтеры.
+Вес : 1
 
-^ff0000[Prontera_Badge]^000000
-A badge where the coordinates for Prontera are saved.
-Using it transports you to Prontera.
-Weight : 1
+^ff0000[Знак Пронтеры]^000000
+На обратной стороне значка указаны координаты Пронтеры, поэтому, если его активировать, он сразу же переместит своего владельца в Пронтеру.
+Вес : 1
 
 
-^000088Prontera palace commissary exchange item -armor item^000000
+^000088Список предметов обменника замка Пронтеры - экипировка^000000
 
-^ff0000[City Map]^000000
-Guiding map inside the city.
-Boosts agility. Available for Lv. 3. 
-Line : Accessory 
-Defense : 0
-Weight : 10 
-Required lvl : 40 
-Equip : All jobs
-Slot : 1
+^ff0000[Карта города]^000000
+Карта, на которой нарисованы все закоулочки Пронтеры.
+Можно использовать умение [Повышение ловкости] (ур. 3). 
+Класс : Аксессуар 
+Физ. Защита : 0
+Вес : 10 
+Требуемый уровень : 40 
+Квалификация : Все профессии
+Слоты : 1
 
-^ff0000[Holy_Water]^000000
-Decreases damage inflicted in the Room of Consciousness and the Prontera Invasion Dungeon by 20%. 
-Recovers HP by 100 and SP by 5 every 10 seconds. 
-Line: Accessory Defense: 0 
-Weight : 15 
-Required lvl : 100 
-Equip : All jobs
-Slot : 1
+^ff0000[Сияющая святая вода]^000000
+Физ. урон от монстров в Зале Осознания и во время Нападения на Пронтеру -20%.
+Восстанавливает 100 HP и 5 SP каждые 10 сек.
+Класс : Аксессуар
+Физ. Защита : 0 
+Вес : 15
+Требуемый уровень : 100
+Квалификация : Все профессии
+Слоты : 1
 
-^ff0000[Royal Guard_Shield]^000000
-Knight Guard's Shield 
-Available to use 'Shield Spell' Lv. 1 
-Activates 'Assumptio' Lv. 3 on you with a certain probability if melee physical damage is inflicted. 
-Increases the activation rate of 'Assumptio' Lv. 3 depending on the refine level. 
-DEF +10 and MDEF +1 per refinement 
-Line: Shield 
-Defense : 30 
-Weight : 300 
-Required lvl : 100 
-Equip : All jobs 
-Slot : 1
+^ff0000[Щит тамплиера]^000000
+Щит с гербом Пронтеры
+Можно использовать умение [Магия щита] (ур. 1)
+Шанс автоматически использовать на себя умение [Ассумпцио] (ур. 3) при получении физ. урона.
+[За каждый уровень заточки]
+Физ. защита +10
+Маг. защита +1
+Шанс использовать на себя умение [Ассумпцио] (ур. 3) при получении физ. урона увеличивается
+Класс: Щит 
+Физ. защита : 30 
+Вес : 300 
+Требуемый уровень : 100 
+Квалификация : Все профессии
+Слоты : 1
 
-^ff0000[Prontera_Badge]^000000
-'Return to Prontera' skill is available to use. 
-Becomes unavailable for 15 minutes after used. 
-Line : Accessory 
-Defense : 0 
-Weight : 10 
-Required lvl : 40 
-Equip : All jobs
+^ff0000[Знак Пронтеры]^000000
+Позволяет использовать умение [Возвращение в Пронтеру] (ур. 2.)
+Время перезарядки: 15 мин
+Класс : Аксессуар
+Физ. Защита : 0 
+Вес : 10 
+Требуемый уровень : 40 
+Квалификация : Все профессии
 
-^ff0000Flattery_Robe^000000
-Attire for those who would use whatever means necessary to bring their desires to pass. 
-Available to use Endure Lv. 1.
-MATK + 50 
-MATK+50 if the equipper's level is 120 and up. 
-MATK+50 if the equipper's level is 140 and up.
+^ff0000Мантия лести^000000
+Маг. атака +50
+Можно использовать [Стойкость] (ур. 1)
+Маг. атака +50 если базовый уровень 120 и выше
+Маг. атака +50 если базовый уровень 140 и выше
 
-If equipped with the Old Lord's Cloak, 
-MSP + 10%. Boosts MSP by +1% for Armor Refine Level 1. 
-FLEE + 10. Boosts FLEE by + 1 for Armor Refine Level 1. 
-If equipped with the Survival Cloak, 
-MHP + 10%. Boosts MHP by + 1 for Armor Refine Level 1. 
-MATK + 2%. Boosts MATK by + 1 for Armor Refine Level 1. 
-Line : Armor 
-Defense : 0 
-Weight : 10 
-Required lvl : 100 
-Equip : All jobs
-Slot : 1
+Если надет с Плащом старого:
+Макс. SP +10%
+Уворот +10
+[За каждый уровень заточки брони]
+Макс. SP +1%
+Уворот +1
+Если надет с Оживляющим плащом:
+Макс. HP +10%
+Маг. атака +2%
+[За каждый уровень заточки брони]
+Макс. HP +1%
+Маг. атака +1
+Класс : Броня
+Физ. Защита : 0 
+Вес : 10 
+Требуемый уровень : 100 
+Квалификация : Все профессии
+Слоты : 1
 
-^ff0000Invective_Robe^000000
-Attire for those who can inflict critical damage straight to the soul by talking. 
-Available to use Focus Enhance Lv. 1. 
-Nullifies additional 4% of the physical defense from the human/demon/undead enemy by Armor Refine Lv. 1. 
-If equipped with Morianee's Cloak, 
-Nullifies the physical defense from the human/demon/undead enemy by 15%. 
-LUK + 3. Boosts LUK by + 1 for Armor Refine Level 1. 
-CRI + 10. Boosts CRI by + 1 for Armor Refine Level 1. 
-If equipped with Valkyrie's Cloak, 
-Nullifies the physical defense from the human/demon/undead enemy by 15%. 
-MHP + 10%. Boosts MHP by + 1 for Armor Refine Level 1. 
-ATK + 2%. Boosts ATK by + 1 for Armor Refine Level 1. 
-Line : Armor 
-Defense : 0 
-Weight : 10 
-Required lvl : 100 
-Equip : All jobs
-Slot : 1
-
-^ff0000Costume_Time_DГ©cor^000000
-It feels as if I'm locked inside the cascading time. 
-Line : Costume 
-Defense : 0 
-Position : Middle 
-Weight : 0 
-Required lvl : 1 
-Equip : All jobs
-
-^ff0000[Black Hand of Destiny]^000000
-It feels as if destiny is grabbing the back of my head to carry me around. 
-Line : Costume Defense: 0 
-Position : Top weight : 0 
-Required lvl : 1 
-Equip : All jobs
+^ff0000Одежда агрессора^000000
+Можно использовать умение [Концентрация] (ур. 1)
+[За каждый уровень заточки]
+Игнорирует 4% физ. защиты рас Человекоподобные, Люди, Демоны и Нежить.
+Если надет с Накидкой Морригана:
+Удача +3
+Шанс крит. удара +10
+Игнорирует 15% физ. защиты рас Человекоподобные, Люди, Демоны и Нежить
+[За каждый уровень заточки брони]
+Удача +1
+Шанс крит. удара +1
+Если надет с Накидкой Валькирии:
+Nullifies the physical Физ. Защита from the human/demon/undead enemy by 15%. 
+Макс. HP +10%
+Физ. атака +2%
+[За каждый уровень заточки брони]
+Макс. HP +1%
+Физ. атака +1%
+Класс : Броня
+Физ. Защита : 0 
+Вес : 10 
+Требуемый уровень : 100 
+Квалификация : Все профессии
+Слоты : 1
