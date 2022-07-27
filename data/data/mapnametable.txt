@@ -993,13 +993,13 @@ lasa_dun_q.rsw#Ущелье дракона#
 1@sthc.rsw#Secret Room Air Portress#
 1@sthd.rsw#Top Floor Air Portress#
 
-prt_cas.rsw#Prontera Center Palace#
-prt_cas_q.rsw#Prontera Royal Villa#
-prt_prison.rsw#Prontera Underground Prison#
-prt_lib.rsw#Royal Memory#
-prt_lib_q.rsw#Old Memoir of Royal Family#
-prt_q.rsw#Prontera Invasion#
-prt_pri00.rsw#Prontera Prison#
+prt_cas.rsw#Замок Пронтеры#
+prt_cas_q.rsw#Королевский особняк Пронтеры#
+prt_prison.rsw#Подземная тюрьма Пронтеры#
+prt_lib.rsw#Королевская библиотека#
+prt_lib_q.rsw#Старое крыло библиотеки#
+prt_q.rsw#Осаждённая Пронтера#
+prt_pri00.rsw#Тюрьма Пронтеры#
 
 
 har_in01.rsw#Rock Ridge#
