@@ -1,3 +1,22 @@
+27.07.2022 11:29
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Gold Rush" event is back to Midgard. This time the rumors advise visiting Geffen;
+— New Daily Rewards have just become available. Log in every day to snatch the Pinwheel Headband.
+
+Shop:
+— The Imperial Treasure is here both individually and in packs to bring the fancy oriental outfits and two items for Ancient weapon enchantment. Check our Launcher and the Shop.
+
+Fixes:
+— The Dog Cap and Thanatos Katar set bonus becomes available;
+— Outdated quests, related to Satan Morroc resurrection, are no longer available;
+— The Morroc city has been restored.
+
+https://eu.4gameforum.com/threads/687913/
+
+==========
 20.07.2022
 Imp
 The maintenance is over, the server is online. Changelog:

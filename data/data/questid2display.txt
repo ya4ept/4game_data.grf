@@ -23003,3 +23003,16 @@ Defeat Fenrir #
 62853#Final round - Fenrir #SG_FEEL#QUE_NOIMAGE#
 Defeat Fenrir #
 #
+
+17670#Treasure hunt.#SG_FEEL#QUE_NOIMAGE#
+Rob wandering treasurehunters of their shovels and dig.#
+If you can't find the treasure you can reset the quest.#
+17671#You have found the treasure.#SG_FEEL#QUE_NOIMAGE#
+You must wait 15 minutes for next treasure hunt.#
+#
+17672#[Angel] Please Wait!!#SG_FEEL#QUE_NOIMAGE#
+1 hour has not passed since you finished the Angel's Side mission.#
+You can start the mission after 1 hour.#
+17673#Treasure not found#SG_FEEL#QUE_NOIMAGE#
+You weren't able to find the treasure, so you must wait 5 minutes before next attempt#
+#
