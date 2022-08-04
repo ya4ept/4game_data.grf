@@ -23016,3 +23016,19 @@ You can start the mission after 1 hour.#
 17673#Treasure not found#SG_FEEL#QUE_NOIMAGE#
 You weren't able to find the treasure, so you must wait 5 minutes before next attempt#
 #
+
+17675#Fertilizer collection#SG_FEEL#QUE_NOIMAGE#
+Collect 25 pieces of fertilizer.#
+Collect 25 pieces of fertilizer#
+17676#Fertilizer collection#SG_FEEL#QUE_NOIMAGE#
+Collect 50 pieces of fertilizer.#
+Collect 50 pieces of fertilizer#
+17677#Fertilizer collection#SG_FEEL#QUE_NOIMAGE#
+Collect 75 pieces of fertilizer.#
+Collect 75 pieces of fertilizer#
+17678#Matilda's request - resting#SG_FEEL#QUE_NOIMAGE#
+Matilda has given you a flower recently. Wait a little.#
+Wait#
+17679#Matilda's request#SG_FEEL#QUE_NOIMAGE#
+Matilda gave you a flower and asked to take care of it. It must be fertilized.#
+Take care of the flower#
