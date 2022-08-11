@@ -1,3 +1,23 @@
+10.08.2022
+Imp
+The maintenance is over, the server is online. Changelog:
+Events:
+— The Midgardian style fishing event is here to bring everyone delicious meals and a bit of competition until August 17th: https://eu.4gameforum.com/threads/688000/
+— We are Boosting the Experience of all Eden Quests on +50% until 17th of August: https://eu.4gameforum.com/threads/688012/
+Shop:
+— The Mermaid Treasure is here both individually and in packs to bring the summer outfits, Chronocloaks and n item for their enchantment. Check our Launcher and the Shop: https://eu.4gameforum.com/threads/688018/
+— The Change name card is now available on the Launcher: https://eu.4gameforum.com/threads/688003/
+Fixes:
+— The Amon Ra MVP in Land of Heroes, from now on, has minions on his side;
+— The Rusty Dragon's Wand refine level effect works according to the item's description;
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/688024/
+Finished activities:
+— The "Matilda needs help” event came to an end;
+— The Win-Win Machine was turned off.
+
+================
 03.08.2022 11:25
 Imp
 The maintenance is over, the server is online. Changelog:

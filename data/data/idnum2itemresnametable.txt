@@ -11230,3 +11230,14 @@
 100206#오래된마법서#
 100271#상인영수증#
 100272#상인영수증#
+
+400258#C_Wanderer_Curl#
+9551#화려한열쇠#
+100100#진주보물상자#
+101748#수자리스크롤#
+20963#Temporal_Manteau#
+20964#Temporal_Manteau#
+20965#Temporal_Manteau#
+20966#Temporal_Manteau#
+20967#Temporal_Manteau#
+20968#Temporal_Manteau#
