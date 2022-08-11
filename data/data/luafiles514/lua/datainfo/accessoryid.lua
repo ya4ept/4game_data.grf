@@ -2198,5 +2198,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Belka_Strelka = 2246,
 	ACCESSORY_C_Dreaming_Rose_Long = 2247,
 	ACCESSORY_C_Many_Flowers_Prayer = 2248,
+	ACCESSORY_C_Alpha_Long_Pony = 2253,
 	ACCESSORY_C_Happening_Clover = 2262
 }

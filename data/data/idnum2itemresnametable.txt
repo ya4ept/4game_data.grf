@@ -11324,3 +11324,19 @@
 100272#상인영수증#
 
 20075#리틀페더햇#
+
+5909#발키리의서클릿#
+20513#EXE_Backpack#
+20963#Temporal_Manteau#
+20964#Temporal_Manteau#
+20965#Temporal_Manteau#
+20966#Temporal_Manteau#
+20967#Temporal_Manteau#
+20968#Temporal_Manteau#
+31834#C_Halloween_Cat_Long#
+410081#C_Released_Ground#
+410121#Guardian_Helm#
+420140#C_Alpha_Long_Pony#
+9551#화려한열쇠#
+100100#진주보물상자#
+101751#염속성알#

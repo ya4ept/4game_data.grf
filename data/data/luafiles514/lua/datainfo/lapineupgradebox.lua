@@ -1146,6 +1146,22 @@ tblLapineUpgradeBox = {
 				{ "S_DoramMagical_Shoes", 24411 }
 			},
 			NeedSource_String = "Теневая классовая экипировка"
+		},
+		Time_Unseal_Key = {
+			ItemID = 9551,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Temporal_M_Str", 20963 },
+				{ "Temporal_M_Agi", 20964 },
+				{ "Temporal_M_Vit", 20965 },
+				{ "Temporal_M_Int", 20966 },
+				{ "Temporal_M_Dex", 20967 },
+				{ "Temporal_M_Luk", 20968 }
+			},
+			NeedSource_String = "Хроноплащ"
 		}
 	},
 	results = {
@@ -1178,7 +1194,8 @@ tblLapineUpgradeBox = {
 			FailureItems = {}
 		},
 		Class_Sha_R_M_Melee = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "CME", FailureItems = {} },
-		Class_Sha_R_M_Magic = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "CMA", FailureItems = {} }
+		Class_Sha_R_M_Magic = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "CMA", FailureItems = {} },
+		Time_Unseal_Key = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "TOK", FailureItems = {} }
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do
