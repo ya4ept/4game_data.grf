@@ -757,6 +757,15 @@ hatEffectTable = {
 	},
 	[HatEFID.HAT_EF_BLACK_THUNDER] = { hatEffectID = 2346 },
 	[HatEFID.HAT_EF_BLACK_THUNDER_DARK] = { hatEffectID = 2347 },
+	[HatEFID.HAT_EF_C_Released_Ground] = {
+		resourceFileName = "efst_C_Released_Ground\\ki.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
 	[HatEFID.HAT_EF_C_Samba_Carnival] = {
 		resourceFileName = "efst_C_Samba_Carnival\\twinklestar.str",
 		hatEffectPos = -5,

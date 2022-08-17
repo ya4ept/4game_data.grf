@@ -21246,25 +21246,25 @@ Come back later for another buff#
 You can reset 5 of your stat points once a week. Please come back next week if you'd like to reset your stats again.#
 Come back next week if you'd like another stat reset#
 
-14683#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-You can see the device of great crystal shape if you look around where you arrive. Close in with it so that you could use the device.#
-Mysterious Device#
+14683#Таинственное устройство#SG_FEEL#QUE_NOIMAGE#
+Осмотревшись, вы замечаете странное устройство, похожее на огромный кристалл. Чтобы взаимодействовать с ним, подойдите ближе.#
+Таинственное устройство#
 
-14684#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
+14684#Таинственное устройство#SG_FEEL#QUE_NOIMAGE#
+Аварийный протокол... Запуск... Выполнение... Начало процедуры... РТ-17... Оператору... До... Пере... Загрузки... 1 час...#
+Перезагрузка#
 
-14685#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
+14685#Таинственное устройство#SG_FEEL#QUE_NOIMAGE#
+Аварийный протокол... Запуск... Выполнение... Начало процедуры... РТ-17... Оператору... До... Пере... Загрузки... 1 час...#
+Перезагрузка#
 
-14686#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
+14686#Таинственное устройство#SG_FEEL#QUE_NOIMAGE#
+Аварийный протокол... Запуск... Выполнение... Начало процедуры... РТ-17... Оператору... До... Пере... Загрузки... 1 час...#
+Перезагрузка#
 
-14687#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
+14687#Таинственное устройство#SG_FEEL#QUE_NOIMAGE#
+Аварийный протокол... Запуск... Выполнение... Начало процедуры... РТ-17... Оператору... До... Пере... Загрузки... 1 час...#
+Перезагрузка#
 
 62949#A Nightmare on Prontera Street#SG_FEEL#QUE_NOIMAGE#
 You have been sent into a dream state Maybe someone can help you..#
@@ -25257,6 +25257,14 @@ Resets at 4 am#
 17673#Вы недавно отказались от поиска сокровищ.#SG_FEEL#QUE_IMAGE#
 Подождите 5 минут прежде чем снова начать охоту за сокровищами.#
 #
+
+12412#Режим новичка#SG_FEEL#QUE_NOIMAGE#
+Войдите в Гластхейм для новичков#
+Войдите в Гластхейм для новичков#
+
+12413#Режим новичка - ожидание#SG_FEEL#QUE_NOIMAGE#
+Вы сможете вновь посетить Гластхейм в режиме новичка в четверг.#
+Дождаться четверга 04:00#
 
 17675#Сбор удобрений#SG_FEEL#QUE_NOIMAGE#
 Соберите 25 удобрений для цветка.#

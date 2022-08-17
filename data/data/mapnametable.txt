@@ -915,10 +915,10 @@ te_aldecas5.rsw#Curly Sue#
 teg_dun02.rsw#Subterranean Guild Dungeon#
 
 //°нјєёЮёрё®ѕуґшАь
-gl_cas02_.rsw#2nd Hall#
-gl_chyard_.rsw#Churchyard#
-2@gl_k.rsw#1st floor of Old Glast Heim Chivalry#
-1@gl_k.rsw#2nd floor of Old Glast Heim Chivalry#
+gl_cas02_.rsw#Гластхейм - 2-й уровень#
+gl_chyard_.rsw#Кладбище Гластхейма#
+2@gl_k.rsw#Старый Гластхейм - 1-й уровень#
+1@gl_k.rsw#Старый Гластхейм - 2-й уровень#
 
 //Hero's trail
 1@face.rsw#Гнездо масочного червя#
@@ -938,8 +938,8 @@ dali02.rsw#Разрыв в пространстве#
 1@def01.rsw#Wave Dungeon - forest#
 
 //ЅГ°иЕѕіЄАМЖ®ёЮѕоґшАь
-c_tower2_.rsw#Clock Town of twisted time 2nd floor#
-c_tower3_.rsw#Clock Town of twisted time 3rd floor#
+c_tower2_.rsw#Часовая башня Альдебарана - 2 уровень#
+c_tower3_.rsw#Часовая башня Альдебарана - 3 уровень#
 
 //EP.14.3
 moro_vol.rsw#Огненная долина#
@@ -1011,7 +1011,11 @@ rockrdg1.rsw#Kiwawa Desert#
 rockrdg2.rsw#Kiwawa Desert#
 
 //  2013-12-18
-lhz_dun_n.rsw#The Bed of Honor#
+lhz_dun_n.rsw#Гробница Почета#
+lhz_d_n2.rsw#Гробница Почета#
+
+1@gl_k2.rsw#Старый Гластхейм - 2-й уровень#
+2@gl_k2.rsw#Старый Гластхейм - 1-й уровень#
 
 // 16.2 (ГЯД« ДБЕЩГч ѕшАЅ)
 1@slw.rsw#Werner_Laboratory central_room#
