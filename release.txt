@@ -1,3 +1,26 @@
+17.08.2022
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Colorful runaways" event returned to Midgard. It's time to find them all: https://eu.4gameforum.com/threads/688081/
+
+Shop:
+— The Professional Shadow sets have just arrived to the launcher and will stay until 24.08: https://eu.4gameforum.com/threads/687778/
+— Revisit Past Treasures with the Fortune, Fate & Destiny sets. Available on the Launcher until August 24th: https://eu.4gameforum.com/threads/688084/
+
+Fixes:
+— Fixed visuals of some costume items.
+
+Finished activities:
+— The Midgardian style fishing event came to an end;
+— The Experience of all Eden Quests returned to standard values;
+— The Mermaid Treasure were removed from the shop and launcher;
+— The Change name were also removed from the launcher.
+
+https://eu.4gameforum.com/threads/688087/
+
+==========
 10.08.2022
 Imp
 The maintenance is over, the server is online. Changelog:
