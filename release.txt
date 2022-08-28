@@ -1,3 +1,25 @@
+24.08.2022
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Baldur's Trial" event is coming to Midgard. Prove yourself to the mighty god.
+
+Shop:
+— The Angeling's Treasure is here both individually and in packs to bring the wings of all types and shapes.
+— The Transmutator Packs are now available on the Launcher, offering a possibility for rearranging your stats. Offer available until August 31st.
+
+Fixes:
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/688165/
+
+Finished activities:
+— The "Colorful runaways" event has come to an end;
+— The Professional Shadow sets were removed from the launcher;
+— The Fortune, Fate & Destiny sets were also removed from the launcher.
+
+==========
 17.08.2022
 Imp
 The maintenance is over, the server is online. Changelog:

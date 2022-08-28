@@ -651,3 +651,7 @@
 27263#Kanavian#
 27264#Evil Shadow#
 27265#Evil Fanatic#
+
+27165#Avian#
+27163#Abranchia#
+27167#Glacial#

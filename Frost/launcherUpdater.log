@@ -1,6 +1,6 @@
 CmdLine = -frostGameNameType ropeu_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.7:80
-selected httpIp 109.105.133.7
+checking connection to 109.105.133.5:80
+selected httpIp 109.105.133.5
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
@@ -39,12 +39,9 @@ eu|185.47.157.149|10001-10016,17453|185.47.156.143|10001-10016,17453|100
 eu|185.47.157.150|10001-10016,17453|185.47.156.144|10001-10016,17453|100
 create_mcr_info() failed no mcr info
 frbl not found in shared memory
-download_url_to_file(files/gameshield_32/38.50.0.34/gameShieldDll.dll) -> I:\Love\4game\euRO_Prime\Frost\gameShieldDll.dll in 2 seconds, err = 0(OK/200), sysErr = 0
-download_file(files/gameshield_32/38.50.0.34/gameShieldDll.dll) -> I:\Love\4game\euRO_Prime\Frost\gameShieldDll.dll encountered currupted md5(ff8621075c1e3814642deb239e356af0)
-download_url_to_file(files/driver_32/10.50.0.11/frost_32.sys) -> I:\Love\4game\euRO_Prime\Frost\frost_32.sys in 2 seconds, err = 0(OK/200), sysErr = 0
-download_file(files/driver_32/10.50.0.11/frost_32.sys) -> I:\Love\4game\euRO_Prime\Frost\frost_32.sys encountered currupted md5(0471123a81c6d503fcd81a5a7642a1f1)
-download_url_to_file(files/driver_64/10.50.1.11/frost_64.sys) -> I:\Love\4game\euRO_Prime\Frost\frost_64.sys in 2 seconds, err = 0(OK/200), sysErr = 0
-download_file(files/driver_64/10.50.1.11/frost_64.sys) -> I:\Love\4game\euRO_Prime\Frost\frost_64.sys encountered currupted md5(e5353a45f26563243e276dcc4c57b8d3)
+skipping download (files/gameshield_32/38.50.0.34/gameShieldDll.dll) -> I:\Love\4game\euRO_Prime\Frost\gameShieldDll.dll as encountered equal md5s[ff8621075c1e3814642deb239e356af0]
+skipping download (files/driver_32/10.50.0.11/frost_32.sys) -> I:\Love\4game\euRO_Prime\Frost\frost_32.sys as encountered equal md5s[0471123a81c6d503fcd81a5a7642a1f1]
+skipping download (files/driver_64/10.50.1.11/frost_64.sys) -> I:\Love\4game\euRO_Prime\Frost\frost_64.sys as encountered equal md5s[e5353a45f26563243e276dcc4c57b8d3]
 skipping download (files/collector_32/1.3.9.67/frostcollector.dll) -> I:\Love\4game\euRO_Prime\Frost\frostcollector.dll as encountered equal md5s[bc14ab6c17f3d721af5dc0249928f0a7]
 skipping download (files/updater_32/1.2.0.27/frostUpdater.dll) -> I:\Love\4game\euRO_Prime\Frost\frostUpdater.dll as encountered equal md5s[cc76b17dad21813bb735dc46e8879173]
 skipping download (files/launcher_32/10.3.1.78/launcher.exe) -> I:\Love\4game\euRO_Prime\Frost\launcher.exe as encountered equal md5s[bd51f30dea1a839f094ed68ccff86ad5]

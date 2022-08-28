@@ -11241,3 +11241,10 @@
 20966#Temporal_Manteau#
 20967#Temporal_Manteau#
 20968#Temporal_Manteau#
+
+20289#C수호자검은날개#
+20510#검의날개#
+31313#C_FallenAngelWingEar#
+31737#Wings_Of_Lucifer#
+20493#날개헤드폰#
+101763#황금포링스크롤#

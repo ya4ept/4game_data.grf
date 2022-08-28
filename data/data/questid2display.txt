@@ -22713,52 +22713,52 @@ Talk to Jack#
 You have met Premium-Neko.#
 Talk to Premium-Neko#
 
-17600#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17600#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 Each stage of the trial is given 15 minutes. Hurry up to get the full reward!#
 Trial timer#
-17601#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17601#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17602#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17602#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17603#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17603#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17604#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17604#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17605#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17605#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17606#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17606#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17607#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17607#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17608#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17608#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17609#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17609#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17610#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17610#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17611#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17611#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17612#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17612#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17613#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17613#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17614#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17614#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17615#Tyr's Trial#SG_FEEL#QUE_NOIMAGE#
+17615#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
 17621#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
