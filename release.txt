@@ -1,3 +1,29 @@
+31.08.2022 11:31
+Baphomet
+The maintenance is over, the server is online. Changelog:
+
+Game updates:
+— The «Banquet for Heroes» became available.
+
+Events:
+— The "Shaken, not stirred" event has begun. It's time to make some fresh drinks.
+— New Daily Rewards have just become available. Log in every day to snatch the Bindle Hat.
+
+Shop:
+— Rideword Hat Set available in launcher untill 7th of August;
+— Buy today a Ticket to Giftland in the Launcher. An intense ride that for the next 7 days will grant you 3 times the value of your money.
+
+https://eu.4gameforum.com/threads/690352/
+
+Fixes:
+— Doram buffs display correctly from now on.
+
+Finished activities:
+— The "Baldur's Trial" event event has come to an end;
+— The Angeling's Treasure were removed from the shop and launcher;
+— Transmutator Packs were also removed from the launcher.
+
+==========
 24.08.2022
 Imp
 The maintenance is over, the server is online. Changelog:
