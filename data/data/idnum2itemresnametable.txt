@@ -11345,3 +11345,7 @@
 400157#C_Astrologer_T_Hat#
 420152#C_Cons_Of_Light_Dark#
 101764#pro선물상자#
+
+20460#가시나무헤어밴드#
+31852#WitchManteau#
+101813#용광환발스크롤#

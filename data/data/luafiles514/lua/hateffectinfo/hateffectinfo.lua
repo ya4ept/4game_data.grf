@@ -352,7 +352,7 @@ hatEffectTable = {
 		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_FSTONE] = {
-		resourceFileName = "efst_fstone\\stoneofint.str",
+		resourceFileName = "efst_fstone\\fstone.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
