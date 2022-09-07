@@ -1,3 +1,24 @@
+07.09.2022 11:45
+Baphomet
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The Poring Invasion is back as this battle is not over yet!. Event available until 14th of September.
+
+Shop:
+— The Time Traveler's Treasure is here both individually and in packs.
+— The Fallen Angel Wings Sets are available in the Launcher. Do not miss them!
+
+Fixes:
+— Fixed a bug where incorrect bosses were summoned on the territory of the Lands of heroes.
+
+https://eu.4gameforum.com/threads/690406/
+
+Finished activities:
+— The "Shaken, not stirred" event has come to an end;
+— The Rideword Hat Sets were removed from the launcher;
+
+================
 31.08.2022 11:31
 Baphomet
 The maintenance is over, the server is online. Changelog:

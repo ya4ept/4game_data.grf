@@ -2190,5 +2190,10 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Belka_Strelka] = "_Belka_Strelka",
 	[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = "_C_Fluffy_Rabbit_Cape",
 	[ACCESSORY_IDs.ACCESSORY_C_Macaron_Bunny_Head] = "_C_Macaron_Bunny_Head",
-	[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = "_C_Wanderer_Curl"
+	[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = "_C_Wanderer_Curl",
+	[ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = "_C_Dreaming_Rose_Long",
+	[ACCESSORY_IDs.ACCESSORY_C_Many_Flowers_Prayer] = "_C_Many_Flowers_Prayer",
+	[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = "_C_Alpha_Long_Pony",
+	[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = "_C_Happening_Clover",
+	[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Light_Dark] = "_C_Cons_Of_Light_Dark"
 }

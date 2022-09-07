@@ -750,7 +750,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_BLACK_THUNDER] = { hatEffectID = 2346 },
 	[HatEFID.HAT_EF_BLACK_THUNDER_DARK] = { hatEffectID = 2347 },
 	[HatEFID.HAT_EF_C_Released_Ground] = {
-		resourceFileName = "C_Released_Ground\\ki.str",
+		resourceFileName = "efst_C_Released_Ground\\ki.str",
 		hatEffectPos = -11,
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,
