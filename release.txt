@@ -1,3 +1,25 @@
+15.09.2022 10:51
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Gold Rush" event is back to Midgard. This time the rumors advise visiting Morroc: https://eu.4gameforum.com/threads/690499/
+— The Refinement Rates are currently boosted, it is time to hit the forge: https://eu.4gameforum.com/threads/690502/
+
+Shop:
+— The Feathered Tricorn, Dog Cap and Sixtus Armor Boxes are back to the launcher with special Refinement Sets: https://eu.4gameforum.com/threads/690505/
+
+Fixes:
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/690511/
+
+Finished activities:
+— The Poring Invasion event came to an end;
+— The Time Traveler's Treasure were removed from the shop and launcher;
+— The Fallen Angel Wings Sets and weekend offer of Enchant supplies were also removed from the launcher.
+
+================
 07.09.2022 11:45
 Baphomet
 The maintenance is over, the server is online. Changelog:
