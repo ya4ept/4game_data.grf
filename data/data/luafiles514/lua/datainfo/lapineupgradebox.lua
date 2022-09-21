@@ -1162,6 +1162,52 @@ tblLapineUpgradeBox = {
 				{ "Temporal_M_Luk", 20968 }
 			},
 			NeedSource_String = "Chronocloak"
+		},
+		Temporal_Refine_Cube = {
+			ItemID = 100268,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Overwhelm_Str_Armor", 15278 },
+				{ "Overwhelm_Int_Armor", 15279 },
+				{ "Overwhelm_Luk_Armor", 15346 },
+				{ "Overwhelm_Vit_Armor", 15347 },
+				{ "Overwhelm_Agi_Armor", 15353 },
+				{ "Overwhelm_Dex_Armor", 15354 },
+				{ "Temporal_M_Str", 20963 },
+				{ "Temporal_M_Agi", 20964 },
+				{ "Temporal_M_Vit", 20965 },
+				{ "Temporal_M_Int", 20966 },
+				{ "Temporal_M_Dex", 20967 },
+				{ "Temporal_M_Luk", 20968 },
+				{ "Temporal_Str_Boots", 22000 },
+				{ "Temporal_Int_Boots", 22001 },
+				{ "Temporal_Agi_Boots", 22002 },
+				{ "Temporal_Vit_Boots", 22003 },
+				{ "Temporal_Dex_Boots", 22004 },
+				{ "Temporal_Luk_Boots", 22005 },
+				{ "Temporal_Str_Boots_", 22006 },
+				{ "Temporal_Vit_Boots_", 22007 },
+				{ "Temporal_Dex_Boots_", 22008 },
+				{ "Temporal_Int_Boots_", 22009 },
+				{ "Temporal_Agi_Boots_", 22010 },
+				{ "Temporal_Luk_Boots_", 22011 },
+				{ "Modify_Str_Boots", 22107 },
+				{ "Modify_Int_Boots", 22108 },
+				{ "Modify_Agi_Boots", 22109 },
+				{ "Modify_Vit_Boots", 22110 },
+				{ "Modify_Dex_Boots", 22111 },
+				{ "Modify_Luk_Boots", 22112 },
+				{ "Modify_Str_Boots_", 22113 },
+				{ "Modify_Int_Boots_", 22114 },
+				{ "Modify_Agi_Boots_", 22115 },
+				{ "Modify_Vit_Boots_", 22116 },
+				{ "Modify_Dex_Boots_", 22117 },
+				{ "Modify_Luk_Boots_", 22118 }
+			},
+			NeedSource_String = "Armor of Sixtus or Chronocloak"
 		}
 	},
 	results = {
@@ -1195,7 +1241,13 @@ tblLapineUpgradeBox = {
 		},
 		Class_Sha_R_M_Melee = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "CME", FailureItems = {} },
 		Class_Sha_R_M_Magic = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "CMA", FailureItems = {} },
-		Time_Unseal_Key = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "TOK", FailureItems = {} }
+		Time_Unseal_Key = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "TOK", FailureItems = {} },
+		Temporal_Refine_Cube = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		}
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do

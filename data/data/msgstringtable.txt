@@ -1831,7 +1831,7 @@ There is no qualified advertisement, therefore searching has failed#
 You don't have any issued payment information#
 Screenshot#
 [Trade_%s]#
-New insurance certificate has been comsumed automatically due to death#
+New insurance certificate has been consumed automatically due to death#
  chat#
 unable to use due to overlapping using#
 there is a limited use#
@@ -3327,6 +3327,11 @@ Overweight is more than 50 %%. HP and SP will not regenerate.#
 #
 #
 #
+Travel#
+Ticket#
+#
+#
+Not Enough Tickets#
 #
 #
 #
@@ -3346,12 +3351,7 @@ Overweight is more than 50 %%. HP and SP will not regenerate.#
 #
 #
 #
-#
-#
-#
-#
-#
-#
+You're already here#
 #
 #
 #
@@ -3558,13 +3558,13 @@ Failed to feed homun. You are not possible to feed right now.#
 #
 #
 #
+Expand the Inventory#
+Expand the Inventory?#
 #
 #
-#
-#
-#
-#
-#
+Not enough Inventory Expanders#
+The inventory has been expanded to the maximum#
+Inventory has been expanded#
 #
 #
 #

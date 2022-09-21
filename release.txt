@@ -1,3 +1,38 @@
+21.09.2022 13:24
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— Sweet girl Matilda in Prontera needs help growing flowers. Join the "Matilda needs help” event to get useful consumables: https://eu.4gameforum.com/threads/690541/
+
+Shop:
+— The Poringswind's Treasure is here both individually and in packs: https://eu.4gameforum.com/threads/690547/
+— The Booster Packs arrived in launcher to bring comfort during leveling. All packs come with discounts: https://eu.4gameforum.com/threads/690544/
+
+Fixes:
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/690550/
+Finished activities:
+— The "Gold Rush" event came to an end;
+— The Refinement Rates are back to standard values;
+— The Refinement Sets were removed from the launcher.
+
+18:31
+Imp
+We will need to perform a short maintenance at 17:35 CEST.  We will let you know once we are back.
+Thank you for understanding.
+
+19:12
+Imp
+The server is open.
+
+Changes:
+— Fixed a bug, when Magic Card Album could be obtained as a trophy;
+— Ancient Hero Boots now can be equipped by 1 level; 
+— Dried Yggdrasil Berries' wight is back to 1. 
+
+================
 15.09.2022 10:51
 Imp
 The maintenance is over, the server is online. Changelog:
