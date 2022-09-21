@@ -1018,11 +1018,11 @@ lhz_d_n2.rsw#Гробница Почета#
 2@gl_k2.rsw#Старый Гластхейм - 1-й уровень#
 
 // 16.2 (ГЯД« ДБЕЩГч ѕшАЅ)
-1@slw.rsw#Werner_Laboratory central_room#
-1@swat.rsw#Heart_Hunter War_Base#
-que_swat.rsw#Heart_Hunter War_Base#
-slabw01.rsw#Werner Laboratory#
-rebel_in.rsw#Clana Nemieri#
+1@slw.rsw#Центральная комната лаборатории Вернера#
+1@swat.rsw#Военная база охотников за сердцем#
+que_swat.rsw#Военная база охотников за сердцем#
+slabw01.rsw#Лаборатория Вернера#
+rebel_in.rsw#Зал мятежников#
 
 // Illusion - Payon (Moonlight)
 pay_d03_i.rsw#Nightmare_of_the_Moonlight_Flower#

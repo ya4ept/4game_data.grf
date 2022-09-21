@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-e5ed1431ae476b5b5b5c60827a388e23 *data.grf
+75e103f1575d75c617944fd50b8d8875 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -38,7 +38,7 @@ e7d91d008fe76423962b91c43c88e4eb *msvcr90.dll
 0e37fbfa79d349d672456923ec5fbbe3 *msvcr100.dll
 4ba25d2cbe1587a841dcfb8c8c4a6ea6 *msvcr110.dll
 ce293eb01ab91d8f1e05cd264ad0a6dd *pcmac.dll
-dd52df23449e94b23ce4a7e9b423e531 *Ragexe.exe
+510a551fef67da19d4b771238e347d09 *Ragexe.exe
 41f0cbc97c97d19f614a8bd32bece11d *Setup.exe
 f1d3ff8443297732862df21dc4e57262 *spatch.inf
 ca1d9ff913809b579c4110e74e548a6b *tipOfTheDay_e.txt
@@ -60,7 +60,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 ecadc1c4b47de0a813bcf17d280d0923 *Frost\frostinfo.txt
-fc39872e8780cffb121a2d6688609348 *Frost\frostInit.log
+cd0da94ba9b245becf8b96f64e3d0aac *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 17fb375e2bf4631c0bfe72ff854a5886 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -68,7 +68,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 ff8621075c1e3814642deb239e356af0 *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-1e774294559be2e0b59477cbc82d3cd2 *Frost\launcherUpdater.log
+c0d27e30b4bc9f651dca24aa91a5a914 *Frost\launcherUpdater.log
 a8e672f33685db1107a0d3073042ce84 *Frost\ro.exe
 133f3f94102745196bac963e6f0515b9 *Frost\.inn.meta.dir\.inn.cache.txt
 133f3f94102745196bac963e6f0515b9 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -79,13 +79,14 @@ dad758c50a9671dcb5e65d5efebd0ab9 *Frost\.inn.meta.dir\.inn.installed.control.txt
 9214611198936cba7fc993cfa8a0a0f5 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 b51e4149894b96c4fdc2c345dea2fc92 *System\CheckAttendance.lub
-007ebd2591896698067a1e8bc769520d *System\iteminfo.lub
+311105c50e742326717d67a6663404c0 *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 d00c1c39530e3f5fa6c9ffcea2daee95 *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\MsgString.lub
 c171ba082bc4ba94c221c7d66f569dc7 *System\optioninfo.lub
 d38adcd2cd43bd2d68a8c9f300aeb202 *System\PetEvolutionCln.lub
+b5a6a22a2a56b291aa81bb010bb480f0 *System\PrivateAirplane_true.lub
 bc85265c28a0cf9a8a87586794eb75d8 *System\Ragexe.exe
 aa9ef99ed4a96df38ae29160a5796c94 *System\Towninfo.lub
 5bda7f8e85ba8215fe991dbd0727ddc9 *System\BGM\165.mp3
