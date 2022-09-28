@@ -984,3 +984,8 @@ prt_lib_q.rsw#Old Memoir of Royal Family#
 prt_pri00.rsw#Prontera Prison#
 prt_prison.rsw#Prontera Underground Prison#
 prt_q.rsw#Invaded Prontera#
+
+lhz_dun_n.rsw#Tomb of honor#
+lhz_d_n2.rsw#The Space of Thoughts#
+2@gl_k2.rsw#1st floor of Novice Glast Heim Chivalry#
+1@gl_k2.rsw#2nd floor of Novice Glast Heim Chivalry#

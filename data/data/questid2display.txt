@@ -22713,52 +22713,52 @@ Talk to Jack#
 You have met Premium-Neko.#
 Talk to Premium-Neko#
 
-17600#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17600#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 Each stage of the trial is given 15 minutes. Hurry up to get the full reward!#
 Trial timer#
-17601#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17601#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17602#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17602#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17603#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17603#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17604#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17604#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17605#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17605#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17606#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17606#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17607#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17607#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17608#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17608#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17609#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17609#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17610#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17610#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17611#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17611#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17612#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17612#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17613#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17613#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17614#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17614#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
-17615#Baldur's Trial#SG_FEEL#QUE_NOIMAGE#
+17615#Magni's Trial#SG_FEEL#QUE_NOIMAGE#
 To complete the trial, you need to kill the monsters in the specified time.#
 #
 17621#Prontera's Nostalgia#SG_FEEL#QUE_NOIMAGE#
@@ -23769,3 +23769,31 @@ Visit Doyeon in 3 days.#
 9427#Clearing the Sky Fortress for the Same Time#SG_FEEL#QUE_NOIMAGE#
 Clearing the Sky Fortress for the Same Time#
 Clearing the Sky Fortress for the Same Time#
+
+14683#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+You can see the device of great crystal shape if you look around where you arrive. Close in with it so that you could use the device.#
+Mysterious Device#
+
+14684#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+14685#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+14686#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+14687#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+12412#Novice Mode#SG_FEEL#QUE_NOIMAGE#
+Enter Novice Glast Heim#
+Enter Novice Glast Heim#
+
+12413#Novice mode - waiting#SG_FEEL#QUE_NOIMAGE#
+You can enter Novice Glast Heim on Thursday.#
+Wait till Thursday 04:00#

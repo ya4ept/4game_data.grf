@@ -2502,3 +2502,13 @@ pvp_n_8-5.rsw#abyss_03.rsw#
 2@clean.gnd#jawaii_in.gnd#
 2@clean.gat#jawaii_in.gat#
 2@clean.rsw#jawaii_in.rsw#
+
+1@gl_k2.gnd#1@gl_k2.gnd#
+1@gl_k2.gat#1@gl_k2.gat#
+1@gl_k2.rsw#1@gl_k2.rsw#
+유저인터페이스\map\1@gl_k2.bmp#유저인터페이스\map\1@gl_k2.bmp#
+
+2@gl_k2.gnd#2@gl_k2.gnd#
+2@gl_k2.gat#2@gl_k2.gat#
+2@gl_k2.rsw#2@gl_k2.rsw#
+유저인터페이스\map\2@gl_k2.bmp#유저인터페이스\map\2@gl_k2.bmp#
