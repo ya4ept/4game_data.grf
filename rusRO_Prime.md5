@@ -2,7 +2,7 @@ d41d8cd98f00b204e9800998ecf8427e *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-b4683ea8115f3576c13c4e189ef69d59 *data.grf
+fb0fc6ed72bbbc9b0ceffa929b8836c3 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -60,7 +60,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 ecadc1c4b47de0a813bcf17d280d0923 *Frost\frostinfo.txt
-802dd08735b839d2952640de2d1ce7be *Frost\frostInit.log
+cd0da94ba9b245becf8b96f64e3d0aac *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 17fb375e2bf4631c0bfe72ff854a5886 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -68,7 +68,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 ff8621075c1e3814642deb239e356af0 *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-d2f47c20b1a7fb4b1f87e7239b422549 *Frost\launcherUpdater.log
+d9b7fbfbcb42cf4fa157946a8ed4391e *Frost\launcherUpdater.log
 a8e672f33685db1107a0d3073042ce84 *Frost\ro.exe
 133f3f94102745196bac963e6f0515b9 *Frost\.inn.meta.dir\.inn.cache.txt
 133f3f94102745196bac963e6f0515b9 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -76,10 +76,11 @@ ec5dc29d6704567f93d79f9c27d08d72 *Frost\.inn.meta.dir\.inn.files.3.1.0.56.contro
 dad758c50a9671dcb5e65d5efebd0ab9 *Frost\.inn.meta.dir\.inn.installed.control.txt
 8836e78a861c7ef6a92856bf276f9660 *Frost\.inn.meta.dir\.inn.version.3.1.0.56.control.txt
 4c23a85035ade612f5d5b330e06289f2 *gameManager\gameManager.exe
+d578f140e52253d3d9ed5faf110f47f7 *gameManager\log.log
 9214611198936cba7fc993cfa8a0a0f5 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
-b51e4149894b96c4fdc2c345dea2fc92 *System\CheckAttendance.lub
-17e736ca217a728ba10abea58e3e7c80 *System\iteminfo.lub
+abc5db0fa7fb83ba1f3758f5ad8b0061 *System\CheckAttendance.lub
+bb978d68c5ffc29c6111bdf9122453ba *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 d00c1c39530e3f5fa6c9ffcea2daee95 *System\monster_size_effect_new.lub
