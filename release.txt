@@ -1,3 +1,26 @@
+05.10.2022 10:58
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Colorful runaways" event is back to Midgard. Help Bob catch the paints.
+— New Daily Rewards have just become available. Log in every day to snatch the Festive Beret.
+
+Shop:
+— The Harenival Treasure is here both individually and in packs. Check our Launcher and the Shop;
+— The Professional Shadow sets are back to Launcher, this time having more refinement metals in, and stay until 12.10.
+
+Fixes:
+— Some event items left after "Gold Rush" and "Midgardian style Fishing" now can be sold to the merchants.
+
+https://eu.4gameforum.com/threads/690712/
+
+Finished activities:
+— The Midgardian style fishing event came to an end;
+— The Experience rewards of all Eden Quests were returned to the standard values;
+— The Win-Win Machine was turned off.
+
+================
 28.09.2022 11:53
 Imp
 The maintenance is over, the server is online. Changelog:
