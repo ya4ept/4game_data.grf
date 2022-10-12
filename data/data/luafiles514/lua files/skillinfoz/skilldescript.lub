@@ -925,6 +925,7 @@ SKILL_DESCRIPT = {
 		"Skill Form: ^777777Supportive^000000",
 		"Target: ^777777Dead Player^000000",
 		"Description: ^777777Revive a dead character.^000000",
+		"Each cast requires 1 ^990099Blue Gemstone^777777.^000000",
 		"[Lv 1]: ^777777Recover 10% of Max HP^000000",
 		"[Lv 2]: ^777777Recover 30% of Max HP^000000",
 		"[Lv 3]: ^777777Recover 50% of Max HP^000000",

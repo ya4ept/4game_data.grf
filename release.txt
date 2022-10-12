@@ -1,3 +1,25 @@
+12.10.2022 16:47
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Magni's Trial" event is coming to Midgard. Prove yourself to the mighty god: https://eu.4gameforum.com/threads/690778/
+
+Shop:
+— The Bravery bag & Rideword hat are back to the launcher in the new sets: https://eu.4gameforum.com/threads/690772/
+— Revisit Past Treasures with the Fortune, Fate & Destiny sets. Available on the Launcher until October 19: https://eu.4gameforum.com/threads/690775/
+
+Fixes:
+— Localization fixes.
+
+Finished activities:
+— The "Colorful runaways" event came to an end;
+— The Harenival Treasure was removed from the shop and launcher;
+— The Professional Shadow sets were also removed from the launcher.
+
+We have boosted the EXP by 20% for the next 24 hours.
+
+================
 05.10.2022 10:58
 Imp
 The maintenance is over, the server is online. Changelog:

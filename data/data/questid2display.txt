@@ -23769,31 +23769,3 @@ Visit Doyeon in 3 days.#
 9427#Clearing the Sky Fortress for the Same Time#SG_FEEL#QUE_NOIMAGE#
 Clearing the Sky Fortress for the Same Time#
 Clearing the Sky Fortress for the Same Time#
-
-14683#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-You can see the device of great crystal shape if you look around where you arrive. Close in with it so that you could use the device.#
-Mysterious Device#
-
-14684#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
-
-14685#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
-
-14686#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
-
-14687#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
-Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
-The Cool Down#
-
-12412#Novice Mode#SG_FEEL#QUE_NOIMAGE#
-Enter Novice Glast Heim#
-Enter Novice Glast Heim#
-
-12413#Novice mode - waiting#SG_FEEL#QUE_NOIMAGE#
-You can enter Novice Glast Heim on Thursday.#
-Wait till Thursday 04:00#
