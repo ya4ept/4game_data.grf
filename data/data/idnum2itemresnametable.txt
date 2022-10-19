@@ -11407,3 +11407,8 @@
 400163#C_Whale_Cap#
 480126#C_Giant_Shark#
 101857#푸른해양스크롤#
+20560#C_160LV_Royal_G_Blue#
+
+31460#Blessing_Sky_Lantern#
+31720#VesperHeadGear#
+101886#아울듀크알#
