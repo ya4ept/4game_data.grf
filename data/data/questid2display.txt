@@ -23769,3 +23769,588 @@ Visit Doyeon in 3 days.#
 9427#Clearing the Sky Fortress for the Same Time#SG_FEEL#QUE_NOIMAGE#
 Clearing the Sky Fortress for the Same Time#
 Clearing the Sky Fortress for the Same Time#
+
+14683#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+You can see the device of great crystal shape if you look around where you arrive. Close in with it so that you could use the device.#
+Mysterious Device#
+
+14684#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+14685#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+14686#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+14687#Mysterious Device#SG_FEEL#QUE_NOIMAGE#
+Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour...#
+The Cool Down#
+
+12412#Novice Mode#SG_FEEL#QUE_NOIMAGE#
+Enter Novice Glast Heim#
+Enter Novice Glast Heim#
+
+12413#Novice mode - waiting#SG_FEEL#QUE_NOIMAGE#
+You can enter Novice Glast Heim on Thursday.#
+Wait till Thursday 04:00#
+
+5727#Sudden Responsibility#SG_FEEL#QUE_NOIMAGE#
+A man named Vero suddenly appeared and suggested that you take this case with him. Departure is scheduled after 4:00 am the next day, so it's worth coming when the time is up.#
+#
+
+5728#Headache#SG_FEEL#QUE_NOIMAGE#
+It seems that Vero for the first time in a long period began to think, now he has a headache. Get some rest and start again.#
+#
+
+5729#To Einbech#SG_FEEL#QUE_NOIMAGE#
+You need to bring ^C33120an item full of fire element energy^000000 to the last car of Einbech's freight train.#
+#
+
+5730#Item For Device Destruction#SG_FEEL#QUE_NOIMAGE#
+It seems that an item full of water element energy is needed to destroy the device. One won't be enough, maybe bring three?#
+#
+
+5731#To Clana Nemieri#SG_FEEL#QUE_NOIMAGE#
+Einbech device is destroyed. First you need to return to Clana Nemieri.#
+#
+
+5732#To Lighthalzen#SG_FEEL#QUE_NOIMAGE#
+The agent got the information. The Lighthalzen Mansion is surrounded by water on all sides, so it is worth preparing 1 Mystic Frozen and 3 Rough Winds.#
+#
+
+5731#To Clana Nemieri#SG_FEEL#QUE_NOIMAGE#
+Lighthalzen device is destroyed. First you need to return to Clana Nemieri.#
+#
+
+5734#Key Materials Are Always a Problem.#SG_FEEL#QUE_NOIMAGE#
+It is difficult to refuse such an unceremonious request. To repair, you only need 1 Star Crumb, you should get it.#
+#
+
+5735#To Juno#SG_FEEL#QUE_NOIMAGE#
+The installation coordinates of the device have been confirmed. Bring 4 Great Natures to Vero at 206 224 in Juno.#
+#
+
+5736#To Einbroch#SG_FEEL#QUE_NOIMAGE#
+It seems that Vero is in a hurry, as if someone is chasing him. Prepare 3 Flame Hearts and go to the place where the Einbroch Air Generator is located.#
+#
+
+5737#To Clana Nemieri#SG_FEEL#QUE_NOIMAGE#
+Once the device was destroyed, Vero suddenly disappeared. Shouldn't you go back to Clana Nemieri for a start?#
+#
+
+//-- ep16.2 
+
+7731#Secret Movement#SG_FEEL#QUE_NOIMAGE#
+A decision is made to find a chamberlain named Bruno in Lighthalzen. First you need to join Crux at Lighthalzen Airport.#
+Talk to Crux#
+
+7732#Search For a Suspect#SG_FEEL#QUE_NOIMAGE#
+In order to search for Bruno, it was decided to search the northern and northeastern part of Lighthalzen.#
+Find Bruno#
+
+7733#It's a Chase!#SG_FEEL#QUE_NOIMAGE#
+I managed to find out the place to which Bruno is heading. Report this to Skia, who will be waiting outside Lighthalzen's department store, then go to the slums and look for Bruno!#
+Search in the slums#
+
+7734#Detention#SG_FEEL#QUE_NOIMAGE#
+Bruno's arrest was a success. We need to return to Prontera and discuss the next case.#
+Talk to Nihil#
+
+7735#Secret Movement 2#SG_FEEL#QUE_NOIMAGE#
+This situation requires information cooperation with the Schwaltzvalt Republic. You undertook to accompany Spica, who went to secret negotiations. We need to meet at the Juno airport.#
+Talk to Crux#
+
+7736#The Thin Line Between Tourism and Secret Negotiations#SG_FEEL#QUE_NOIMAGE#
+It is said that Spica, who had made the decision to attend the Juno meeting, moved to the Lighthalzen Hotel for safety reasons. Head to Lighthalzen Hotel to meet Spica, who is posing as a tourist.#
+Talk to Spica#
+
+7737#Together With the Rebels#SG_FEEL#QUE_NOIMAGE#
+You decided to convince the rebels, together with the agent who was preparing to attract their attention. Meet with Negotiator Reiji at Einbroch Station and succeed in negotiating with the rebels.#
+Rebels#
+
+7738#For the Next Operation#SG_FEEL#QUE_NOIMAGE#
+You enlisted the support of the rebels and began to carry out the plan. Go to the Einbroch Hotel and listen to the next assignment.#
+Talk to Nihil#
+
+7739#Finding the Blessing Star!#SG_FEEL#QUE_NOIMAGE#
+The place of operation is the northern fields of Einbroch. Coordinates: 280,332. Succeed in the rebel operation and recover the Blessing Star.#
+Return of the Blessing Star#
+
+7740#Returned Star#SG_FEEL#QUE_NOIMAGE#
+Blessing Star has been returned. Return to the companions who are waiting for the results at the Einbroch Hotel.#
+Talk to Nihil#
+
+7741#Retrieval#SG_FEEL#QUE_NOIMAGE#
+Blessing Star has been returned. You have decided to return to Prontera Kingdom to close the case.#
+Talk to Skia#
+
+7742#Elimination of the Remaining Bandits#SG_FEEL#QUE_NOIMAGE#
+It is said that a mighty Chimera appears in the central part of Werner Laboratory, the like of which has not been seen for a long time. Luke has tasked you with killing a Chimera named Cutie.#
+Kill Cutie#
+
+7743#Elimination of the Remaining Bandits - waiting#SG_FEEL#QUE_NOIMAGE#
+The reason is unknown, but the monstrous Chimera keeps appearing. You have to deal with it daily.#
+Reset at 4 o'clock#
+
+7744#Hiding Laboratory Assistant#SG_FEEL#QUE_NOIMAGE#
+The lab assistants who couldn't escape hide inside Werner Laboratory. Philopontess has instructed you to find the hiding employees.#
+Find 3 lab assistants#
+
+7745#Hiding Laboratory Assistant - waiting#SG_FEEL#QUE_NOIMAGE#
+Looks like the lab search will continue. Come and help again when the time is right.#
+Reset at 4 o'clock#
+
+7746#Pair of Old Rings#SG_FEEL#QUE_NOIMAGE#
+You handed over Seyren's things.#
+#
+
+7747#Medallion#SG_FEEL#QUE_NOIMAGE#
+You handed over Kathryne Keyron's things.#
+#
+
+7748#Wooden Rosary#SG_FEEL#QUE_NOIMAGE#
+You handed over Margaretha Sorin's things.#
+#
+
+7749#Ornate Archery Fingertip#SG_FEEL#QUE_NOIMAGE#
+You handed over Howard Alt-Eisen's things.#
+#
+
+7750#Ornate Assassin's Dagger#SG_FEEL#QUE_NOIMAGE#
+You handed over Guile Marovitz's things.#
+#
+
+7751#Compact Needle Box#SG_FEEL#QUE_NOIMAGE#
+You handed over Cecil Damon’s things.#
+#
+
+7752#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7753#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7753#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7755#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7755#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7757#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7758#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7759#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+You have found the hidden laboratory assistants.#
+#
+
+7760#Well Hidden#SG_FEEL#QUE_NOIMAGE#
+It seems that the hiding laboratory assistant has been found. Report to Tess, she's waiting at the operation site.#
+Talk to Tess#
+
+7761#Chimera's Final Rest#SG_FEEL#QUE_NOIMAGE#
+The squad finds it difficult to deal with the victims of the experiments that run amok in the lab. Kill ^4d4dff10^000000 ^4d4dffMaterial Chimeras and Human Chimeras^000000 each.#
+Kill Chimeras#
+
+7762#Chimera's Final Rest - waiting#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest, when the timeout expires, it can be accepted and completed again. The task can be obtained from Yuslan from the Heart Hunter military base.#
+Reset at 4 o'clock#
+
+// 16.2
+11454#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+It was not possible to convince the head of the rebels, Rupert. First, meet other people.#
+Meet other people.#
+
+11455#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+You have entered Dien's room. Try to talk to Dien.#
+Talk to Dien#
+
+11456#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+You explained the situation, Dien asked for some time to think. Talk to Dien again after a while.#
+Talk to Dien#
+
+11457#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+You have obtained Dien's consent. Meet with one of the dignitaries, Special Force commander Erst.#
+Talk to Erst#
+
+11458#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+You have obtained Erst consent as well. Talk to Rupert again.#
+Talk to Rupert#
+
+11459#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+Rupert read the letter Dien sent, but cannot believe its content, so he handed the letter over to Lasis. Learn the content from Lasis.#
+Talk to Lasis#
+
+11460#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+You checked the information, but everything was in order. Talk to Rupert again.#
+Talk to Rupert#
+
+11461#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+During your conversation with Rupert, Dien appeared. You need to talk to Dien.#
+Talk to Dien#
+
+11462#Unpleasant Aftertaste#SG_FEEL#QUE_NOIMAGE#
+A quarrel broke out between Rupert and Dien, who suddenly appeared. Listen to Rupert's story.#
+Talk to Rupert#
+
+11463#Getting Ready For a Party?#SG_FEEL#QUE_NOIMAGE#
+You heard something suspicious at Dien's door, but don't act like you know. You promised to help with the assignment, so enter the room and talk to Dien.#
+Talk to Dien#
+
+11464#Getting Ready For a Party?#SG_FEEL#QUE_NOIMAGE#
+You need to talk to Lasis about the case. You need to talk to Lasis#
+Talk to Lasis#
+
+11465#High Class Tea for Dien#SG_FEEL#QUE_NOIMAGE#
+Rebellion senior Dien instructed you to go to the back streets in the northeast of the northern fields of Einbroch and ask Julian to let you in, then you need to defeat the Heart Hunter Ebel and get 1 High Class Tea.#
+Dien's order#
+
+11466#High Class Tea for Dien#SG_FEEL#QUE_NOIMAGE#
+You have completed Dien's order. Come again tomorrow.#
+Come again tomorrow!#
+
+11467#Old Letter for Ridsh#SG_FEEL#QUE_NOIMAGE#
+Rebellion senior Ridsh instructed you to go to the back streets in the northeast of the northern fields of Einbroch and ask Julian to let you in, then you need to destroy strong Heart Hunters and get 1 Old Letter.#
+Ridsh’s order#
+
+11468#Old Letter for Ridsh#SG_FEEL#QUE_NOIMAGE#
+You have completed Ridsh's order. Come again tomorrow.#
+Come again tomorrow!#
+
+11469#Very Shining Ring for Cotnes#SG_FEEL#QUE_NOIMAGE#
+Rebellion senior Cotnes has instructed you to go to the back alleys in the northeast of the northern fields of Einbroch and ask Julian to let you in, then you need to destroy 5 Heart Hunter Guards and get 1 Very Shining Ring.#
+Cotnes’ order#
+
+11470#Very Shining Ring for Cotnes#SG_FEEL#QUE_NOIMAGE#
+You have completed Cotnes’ order. Come again tomorrow.#
+Come again tomorrow!#
+
+//-- ep16.2
+12374#Heart Hunter Base Capture#SG_FEEL#QUE_NOIMAGE#
+Capture the Heart Hunter Base and use it as a base for Rebellion.#
+Base capture#
+
+12375#Base under maintenance#SG_FEEL#QUE_NOIMAGE#
+The base is currently under maintenance. The entrance is temporarily blocked so that no one interferes with the activities of the sappers#
+Base maintenance information#
+
+12376#First Trade#SG_FEEL#QUE_NOIMAGE#
+You have started your first trade with the Item Enchanter Specialist.#
+First trade#
+
+
+// EP. 16.2
+
+14595#To Einbech station#SG_FEEL#QUE_NOIMAGE#
+We need to go to the Einbech station, so follow my footsteps. If you miss the trail, we'll meet you at the Einbech station.#
+To Einbech station#
+
+14596#Follow the Footsteps#SG_FEEL#QUE_NOIMAGE#
+The road gets harder here. The trail is visible, you need to find it and follow it. The trail is also marked on the map. If you miss the trail, go down.#
+Down following the footsteps#
+
+14597#Back street of Einbech#SG_FEEL#QUE_NOIMAGE#
+You need to go to a remote location in the southeast of Einbech. Examine the trail and follow it. The trail is also marked on the map.#
+To a distant place#
+
+14598#The invisible entrance#SG_FEEL#QUE_NOIMAGE#
+Reiji seems to have business here. You better go.#
+Through an invisible door#
+
+14599#Reward in the form of a cup#SG_FEEL#QUE_NOIMAGE#
+Since you're here, you should have a cup of tea. If you talk to Nemi or Ellie, you will be let inside.#
+Inside#
+
+14600#Gentleman on the second floor#SG_FEEL#QUE_NOIMAGE#
+First of all, you need to find the gentleman on the second floor, Rupert, and talk to him. It may not be easy to convince him, if you can't do it - go to the lady. .#
+First, go to the gentleman on the second floor#
+
+14601#Lady on the second floor#SG_FEEL#QUE_NOIMAGE#
+Go to the lady on the second floor and talk to her. You need to show better manners. Do you know that?#
+To the lady on the second floor#
+
+14602#Verit on the second floor#SG_FEEL#QUE_NOIMAGE#
+Go to Elena on the second floor and talk to her. Wherever you go, if you look like a mighty adventurer, you will always be welcome. Maybe...#
+To Elena on the second floor#
+
+14603#Pipe repair material#SG_FEEL#QUE_NOIMAGE#
+To repair a pipe, you need Steel (5) and Old Steel Plate (15). It would be nice to get 10 Scrap Heaters as well.#
+Repair material#
+
+14604#Poor Man's Fuel#SG_FEEL#QUE_NOIMAGE#
+You need Burnt Tree (10) and Coal (3). You need to grab 10 Scrap Heaters, or even more. H-how cold! Hurry up and come back before we freeze to death here!#
+Gather the poor man's fuel#
+
+14605#Sparkling Gizmo#SG_FEEL#QUE_NOIMAGE#
+Bring 10 pieces of Crystal and 10 pieces of Black Crystal. If you deal with Obsidians and Minerals, you can get a lot of sparkling gizmos. So why not destroy 5 Obsidians and Minerals each?#
+Collect Crystal pieces#
+
+14606#Pipe repair material#SG_FEEL#QUE_NOIMAGE#
+To repair a pipe, you need Steel (5) and Old Steel Plate (15). It would be nice to get 10 Scrap Heaters as well.#
+Repair material#
+
+14607#Poor Man's Fuel#SG_FEEL#QUE_NOIMAGE#
+You need Burnt Tree (10) and Coal (3). You need to grab 10 Scrap Heaters, or even more. H-how cold! Hurry up and come back before we freeze to death here!#
+Gather the poor man's fuel#
+
+14608#Sparkling Gizmo#SG_FEEL#QUE_NOIMAGE#
+Bring 10 pieces of Crystal and 10 pieces of Black Crystal. If you deal with Obsidians and Minerals, you can get a lot of sparkling gizmos. So why not destroy 5 Obsidians and Minerals each?#
+Collect Crystal pieces#
+
+14609#Rest-Hour#SG_FEEL#QUE_NOIMAGE#
+Now the help of an adventurers is not required, just rest.#
+Reset time: 4 hours#
+
+14610#Return the Weapons#SG_FEEL#QUE_NOIMAGE#
+If you go down under Einbech, you can stumble upon suspicious heaps of earth. If you dig them up, fragments of firearms will appear, bring them to me. Get three of these. Be careful when touching piles of earth. Something bad might happen.#
+Return weapons#
+
+14611#Return the Weapons#SG_FEEL#QUE_NOIMAGE#
+If you go down under Einbech, you can stumble upon suspicious heaps of earth. If you dig them up, fragments of firearms will appear, bring them to me. Get three of these. Be careful when touching piles of earth. Something bad might happen.#
+Return weapons#
+
+14612#Time for a Fix#SG_FEEL#QUE_NOIMAGE#
+What you brought is being repaired. Please come back after dawn.#
+Reset time: 4 hours#
+
+14613#Erst on the Second Floor#SG_FEEL#QUE_NOIMAGE#
+Go to Erst on the second floor and talk to him. If you convince him, then everything will be easier.#
+To Erst on the second floor#
+
+14614#Persuading Important People#SG_FEEL#QUE_NOIMAGE#
+Go to the influential people on the second floor, convince them, then return. You can’t sneak onto another road, you need to come to me! Good luck adventurer!#
+Convince the influencers, then report back#
+
+14615#Between Negotiation and Fraud#SG_FEEL#QUE_NOIMAGE#
+They say that there is a person ready for cooperation on our side. Meet the rebel fighter in the corridor towards the shop.#
+To the rebel fighter#
+
+//EP 16.2 Clana Nemieri
+
+63109#If You Love War, Speak the Language of Battle#SG_FEEL#QUE_NOIMAGE#
+This is a rematch with Elena Bolkova, who has been waiting for it for a long time. Talk to Elena Bolkova and enter the waiting room.#
+Defeat Elena Bolkova#
+
+63110#Battle at its Best#SG_FEEL#QUE_NOIMAGE#
+It seems that Elena Bolkova sees no point in defeating an enemy who has already lost strength in battle. Have a good rest, come back after dawn.#
+Reset at 4 o'clock#
+
+63111#Enter the Arena#SG_FEEL#QUE_NOIMAGE#
+Get ready and enter the arena with the help of Ivan Ivanov.#
+Enter the arena#
+
+63112#Troubled Twins#SG_FEEL#QUE_NOIMAGE#
+Elena Bolkova is worried about the problems of the silver-haired twins she has taken into care. Go to the twins instead of Elena and listen to them.#
+Go to the Lebedev twins#
+
+63113#Proof: The Cook's Story#SG_FEEL#QUE_NOIMAGE#
+Find out what rebel chef Milo River has to say about the Lebedev twins.#
+Go to Milo River#
+
+63114#Proof: The Sniper's Story#SG_FEEL#QUE_NOIMAGE#
+Hear what Rebellion sniper Mason Bender has to say about the Lebedev twins.#
+Go to Mason Bender#
+
+63115#The Cause of Defeat is a Frivolous Attempt#SG_FEEL#QUE_NOIMAGE#
+The speech was too awkward, it felt like you were completely rejected. Ask Elena Bolkova for help.#
+Return to Elena Bolkova#
+
+63116#Expert’s Wisdom#SG_FEEL#QUE_NOIMAGE#
+Go to Ericsson Adler, a rebel member introduced to you by Elena Bolkova, and get advice related to the twins.#
+Go to Ericsson Adler#
+
+63117#Sincere Confession of the Twins#SG_FEEL#QUE_NOIMAGE#
+You listened to the reason why the Lebedev twins had to become a source of headache for everyone. Return to Elena Bolkova and tell her what you heard#
+Return to Elena Bolkova#
+
+63118#The Punishment#SG_FEEL#QUE_NOIMAGE#
+Elena Bolkova asked you to bring the twins to her. Bring to Elena two children who have lost their energy.#
+Go to the Lebedev twins.#
+
+63119#Elena Bolkova's Decision#SG_FEEL#QUE_NOIMAGE#
+Are the children satisfied with the decision of Elena Bolkova? There is no doubt that you will suffer more from these children in the future.#
+#
+
+63120#Babysitter's Daily Trouble#SG_FEEL#QUE_NOIMAGE#
+Do not forget the request of Elena Bolkova, after dawn, find the twins and talk to them.#
+Reset at 4 o'clock#
+
+63121#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
+Take the book '^0000CDVertigo from a Thousand Years of Upheaval^000000’ from the librarian at the Prontera Library. This is the most talked about book by the author, who has been blown by the river wind for a thousand years.#
+Visit the Prontera Library#
+
+63122#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
+Take the book '^0000CDRebels, a History of Freedom^000000’ from the librarian at the Prontera Library. A history of freedom and willfulness of the middle-aged rebels, which has passed through the ages!#
+Visit the Prontera Library#
+
+63123#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
+Take the book '^0000CDSkyline of Muspelheim^000000’ from the librarian at the Prontera Library. A touching non-fiction essay that perfectly illustrates Muspelheim's ecosystem.#
+Visit the Prontera Library#
+
+63124#Service: Delivery of Loaned Books#SG_FEEL#QUE_NOIMAGE#
+The books were safely taken from the library. Do not lose them and carefully bring the books to the Lebedev twins. Then the books must be returned.#
+Return to the twins#
+
+63125#Service: Exploration in the Mine#SG_FEEL#QUE_NOIMAGE#
+Preliminary exploration of the Lebedev twins mine. Your goal: Kill 30 ^0000CDPitmans^000000 and bring ^0000CD1 Gun Powder^000000 to the twins.#
+30 Pitmans, 1 Gun Powder#
+
+63125#Service: Exploration in the Mine#SG_FEEL#QUE_NOIMAGE#
+Preliminary exploration of the Lebedev twins mine. Your goal: Kill ^0000CD20 Venomous and 20 Noxious^000000. Bring ^0000CD1 Explosive Powder^000000 to the twins.#
+20 Venomous, 20 Noxious, 1 Explosive Powder#
+
+63127#Service: Cookie Delivery#SG_FEEL#QUE_NOIMAGE#
+The Lebedev twins want to give the rebels some biscuits they had cooked somehow. Bring Milo River a hot cookie.#
+Deliver cookie to Milo River.#
+
+63128#Service: Cookie Delivery#SG_FEEL#QUE_NOIMAGE#
+The Lebedev twins want to give the rebels some biscuits they had cooked somehow. Bring Mason Bender a hot cookie.#
+Deliver cookie to Mason Bender#
+
+63129#Service: Cookie Delivery#SG_FEEL#QUE_NOIMAGE#
+The Lebedev twins want to give the rebels some biscuits they had cooked somehow. Bring Rachel Smith a hot cookie.#
+Deliver cookie to Rachel Smith#
+
+63130#Service: Cookie Delivery#SG_FEEL#QUE_NOIMAGE#
+The Lebedev twins want to give the rebels some biscuits they had cooked somehow. Bring Ericsson Adler a hot cookie.#
+Deliver cookie to Ericsson Adler#
+
+63131#Service: Cookie Delivery#SG_FEEL#QUE_NOIMAGE#
+The Lebedev twins want to give the rebels some biscuits they had cooked somehow. Bring Elena Bolkova a hot cookie.#
+Deliver cookie to Elena Bolkova#
+
+63132#Treats for a Seniors#SG_FEEL#QUE_NOIMAGE#
+Milo River wants to treat the elders to a sweet dessert. To help him, bring something from the list: ^0000CDGrape Juice Herbal Tea, Autumn Red Tea, Honey Herbal Tea, Chocolate Mousse Cake, Fruit Mix^000000.#
+Bring the dish to Milo River#
+
+63133#Eat Sweets and Listen to a Story#SG_FEEL#QUE_NOIMAGE#
+Ericsson Adler has given you a fragrant biscuit that you can eat with the twins. Bring the cookies and listen carefully to the story to soothe the twins' feelings.#
+Go to the Lebedev twins.#
+
+63134#One Sweet Cookie a Day#SG_FEEL#QUE_NOIMAGE#
+Once a day, it is time for tea drinking at the elders. Come back after dawn.#
+Reset at 4 o'clock#
+
+63135#Delivery: Explosive Revolver#SG_FEEL#QUE_NOIMAGE#
+The revolver often breaks and already looks like a time bomb, you need to quickly deliver it to the Einbroch blacksmiths guild.#
+Consult the Einbroch blacksmiths' guild.#
+
+63136#Expert’s Opinion#SG_FEEL#QUE_NOIMAGE#
+Give Rachel Smith the result you found out about at the blacksmith's guild.#
+Visit Rachel Smith#
+
+63137#Supply of Materials Once a Day#SG_FEEL#QUE_NOIMAGE#
+The brought materials can be stored together for some time. After dawn, ask if there is anything you need to help.#
+Reset at 4 o'clock#
+
+63138#Delivery of Oridecon#SG_FEEL#QUE_NOIMAGE#
+You need to prepare ^0000CD2 pieces of Oridecon^000000 at the request of Rachel Smith.#
+Get 2 pieces of Oridecon#
+
+63139#Supply of Elunium#SG_FEEL#QUE_NOIMAGE#
+You need to prepare ^0000CD2 pieces of Elunium^000000 at the request of Rachel Smith.#
+Get 2 pieces of Elunium#
+
+63139#Supply of Iron#SG_FEEL#QUE_NOIMAGE#
+You need to prepare ^0000CD5 pieces of Iron^000000 at the request of Rachel Smith.#
+Get 5 pieces of Iron#
+
+63141#Investigation: Cat Capture Plan#SG_FEEL#QUE_NOIMAGE#
+Rebellion cat Charity does not show up even though lunch time has passed. Go around the ^0000CDempty benches of Einbech^000000, lure the cat with anchovy biscuits and bring it back.#
+Bring Charity from Einbech#
+
+63142#Slow Charity#SG_FEEL#QUE_NOIMAGE#
+Charity slowly made its way to the base. Now you can relax, come back after dawn.#
+Reset at 4 o'clock#
+
+63143#Investigation: Someone's Gluttony#SG_FEEL#QUE_NOIMAGE#
+Milo River seems to really want to pet Charity. He does not wish harm to the cat, so use the old method, go around the ^0000CDempty benches of Einbech^000000 and lure the cat with anchovy cookies.#
+Bring Charity from Einbech#
+
+63144#Return Charity#SG_FEEL#QUE_NOIMAGE#
+Charity was found! While Charity is busy eating anchovy cookies, grab it and take it to Milo River.#
+Return to Milo#
+
+63145#Memory of a Veteran#SG_FEEL#QUE_NOIMAGE#
+Ericsson Adler has asked you to buy flowers from a child who sells under a small sign in the south of the Einbroch Observatory. Travel to Einbroch to complete the request.#
+Lay flowers under a sign neath the tree in Einbroch#
+
+63146#Bouquet Materials#SG_FEEL#QUE_NOIMAGE#
+A child selling flowers in Einbroch reported that the materials for the bouquets were running out and asked you to bring the materials. Bring ^0000CD3 sheets of Slick Paper^000000 and return.#
+Obtain 3 sheets of Slick Paper#
+
+63147#Quiet Recalling#SG_FEEL#QUE_NOIMAGE#
+You received a bouquet from a child who sells flowers. Put it in front of a ^0000CDsmall sign under a tree^000000.#
+Put the bouquet under the tree#
+
+63148#Traces of History#SG_FEEL#QUE_NOIMAGE#
+You may have heard the long story. Assignment completed, return to Ericsson Adler with a report.#
+Return to Ericsson Adler#
+
+63149#A Silent Dawn#SG_FEEL#QUE_NOIMAGE#
+Even the dead need silence. Come back after dawn.#
+Reset at 4 o'clock#
+
+63150#Time to Remembrance#SG_FEEL#QUE_NOIMAGE#
+Ericsson Adler has asked you to buy flowers from a child who sells under a small sign in the south of the Einbroch Observatory. Again. Travel to Einbroch to complete the request.#
+Lay flowers under a sign neath the tree in Einbroch#
+
+63151#Bouquet Materials#SG_FEEL#QUE_NOIMAGE#
+A child selling flowers in Einbroch reported that the materials for the bouquets were running out and asked you to bring the materials. Bring ^0000CD3 sheets of Slick Paper^000000 and return#
+Obtain 3 sheets of Slick Paper#
+
+63152#Quiet Recalling#SG_FEEL#QUE_NOIMAGE#
+You received a bouquet from a child who sells flowers. Put it in front of a ^0000CDsmall sign under a tree^000000. May the girl who died at a young age rest in peace.#
+Put the bouquet under the tree#
+
+63153#An Old Story#SG_FEEL#QUE_NOIMAGE#
+You have completed the task. Return to Erickson Adler with a report.#
+Return to Ericsson Adler#
+
+63154#Advertising Strategy#SG_FEEL#QUE_NOIMAGE#
+Mason Bender has asked you to hand out to the people of Einbech gun shop flyers that he wrote with all his talent.#
+Leaflet distribution in Einbech#
+
+63155#Advertisement: Would You Like to Live in a Clean Settlement?#SG_FEEL#QUE_NOIMAGE#
+You handed a useless leaflet written in beautiful cursive to a ^0000CDtired man^000000.#
+Give a leaflet to a tired man#
+
+63156#Advertisement: Tell Everyone!#SG_FEEL#QUE_NOIMAGE#
+You forcefully give a useless leaflet printed on expensive paper to the ^0000CDexhausted gentleman^000000.#
+Give the leaflet to the exhausted gentleman#
+
+63157#Advertisement: Multifunctional Flyer#SG_FEEL#QUE_NOIMAGE#
+You gave a useless leaflet printed in colored ink as a fan to a ^0000CDnodding grandmother^000000.#
+Give the leaflet to the nodding grandmother#
+
+63158#Advertising Effect Comes Slowly#SG_FEEL#QUE_NOIMAGE#
+Mason Bender is looking forward to the influx of customers thanks to the effect of advertising. Come after dawn to find out the result.#
+Reset at 4 o'clock#
+
+63159#Advertising Strategy#SG_FEEL#QUE_NOIMAGE#
+Mason Bender does not give up, he plans to distribute leaflets again. Wouldn't it be better to save on the cost of printing flyers?#
+Leaflet distribution in Einbech#
+
+63160#If You Love War, Speak the Language of Battle#SG_FEEL#QUE_NOIMAGE#
+Elena looks at you with interest. Talk to Elena and enter the Standby Room.#
+Defeat Elena Bolkova#
+
+63161#Defeat Elena Bolkova#SG_FEEL#QUE_NOIMAGE#
+Fight Elena one on one.#
+#
