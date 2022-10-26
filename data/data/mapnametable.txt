@@ -1002,13 +1002,13 @@ prt_q.rsw#Осаждённая Пронтера#
 prt_pri00.rsw#Тюрьма Пронтеры#
 
 
-har_in01.rsw#Rock Ridge#
-harboro1.rsw#Rock Ridge#
-harboro2.rsw#Culvert#
-rockmi1.rsw#Rock Ridge Mine#
-rockmi2.rsw#Rock Ridge Mine#
-rockrdg1.rsw#Kiwawa Desert#
-rockrdg2.rsw#Kiwawa Desert#
+har_in01.rsw#Рок-Ридж#
+harboro1.rsw#Рок-Ридж#
+harboro2.rsw#Водостоки Рок-Риджа#
+rockmi1.rsw#Шахта Рок-Риджа#
+rockmi2.rsw#Шахта Рок-Риджа#
+rockrdg1.rsw#Пустыня Кивава#
+rockrdg2.rsw#Пустыня Кивава#
 
 //  2013-12-18
 lhz_dun_n.rsw#Гробница Почета#
@@ -1041,7 +1041,7 @@ pvp_n_8-3.rsw#Арена: Пещера #
 eprt_fild02.rsw#Окрестности Пронтеры: Бега #
 egef_swn1.rsw#Ферма Хёрде (Красная команда)#
 egef_swn2.rsw#Ферма Хёрде (Синяя команда)#
-lasa_sea#Наводнённый остров#
+lasa_sea.rsw#Наводнённый остров#
 egef_swn2.rsw#Ферма Хёрде (Синяя команда)#
 
 era_fild05.rsw#Искажённые земли (160-170)#

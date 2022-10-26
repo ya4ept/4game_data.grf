@@ -9,7 +9,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_PRONTERA,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_PRT_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_PRT_SEWB1 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_PRT_SEWB2 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_PRT_SEWB3 },
@@ -22,7 +22,6 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_GEFEN,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GEF_FILD05 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GEF_DUN00 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GEF_DUN01, colorR = 255, colorG = 0, colorB = 0 },
@@ -123,7 +122,6 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_RUTIE,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD, colorR = 255, colorG = 0, colorB = 0 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_XMAS_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_XMAS_DUN02, colorR = 255, colorG = 0, colorB = 0 }
 		}
@@ -159,6 +157,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_EINBEH,
 		list = {
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_EIN_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_EIN_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_EIN_DUN02, colorR = 255, colorG = 0, colorB = 0 }
 		}
@@ -166,7 +165,6 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_LHZ,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_LHZ_FILD02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_LHZ_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_LHZ_DUN02, colorR = 255, colorG = 0, colorB = 0 },
@@ -196,7 +194,6 @@ map_list = {
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_CHURCH },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_CHYARD, colorR = 255, colorG = 0, colorB = 0 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_DUN01 },
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_DUN02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_IN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_KNT01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_KNT02 },
@@ -205,14 +202,13 @@ map_list = {
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_SEW01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_SEW02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_SEW03 },
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_SEW04 },
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_STEP }
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_GL_SEW04 }
 		}
 	},
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_HUEGEL,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_HU_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_ODIN_TEM01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_ODIN_TEM02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_ODIN_TEM03, colorR = 255, colorG = 0, colorB = 0 },
@@ -242,7 +238,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_VEINS,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD, colorR = 255, colorG = 0, colorB = 0 },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_VE_FILD, colorR = 255, colorG = 0, colorB = 0 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_NAMELESS_N },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_ABBEY01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_ABBEY02, colorR = 255, colorG = 0, colorB = 0 },
@@ -275,7 +271,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_AMACH,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_AMA_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_AMA_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_AMA_DUN02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_AMA_DUN03, colorR = 255, colorG = 0, colorB = 0 }
@@ -284,7 +280,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_GONRUN,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_GON_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GON_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GON_DUN02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_GON_DUN03, colorR = 255, colorG = 0, colorB = 0 }
@@ -293,7 +289,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_LOU,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_LOU_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_LOU_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_LOU_DUN02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_LOU_DUN03, colorR = 255, colorG = 0, colorB = 0 }
@@ -302,7 +298,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_AYOTAYA,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_AYO_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_AYO_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_AYO_DUN02, colorR = 255, colorG = 0, colorB = 0 }
 		}
@@ -310,7 +306,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_BRASIL,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_BRA_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_BRA_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_BRA_DUN02, colorR = 255, colorG = 0, colorB = 0 }
 		}
@@ -318,7 +314,7 @@ map_list = {
 	{
 		name = MsgStrID.MSI_MAP_LIST_NAME_MOSK,
 		list = {
-			{ name = MsgStrID.MSI_MAP_LIST_NAME_FILD },
+			{ name = MsgStrID.MSI_MAP_LIST_NAME_MOSK_FILD },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_MOSK_DUN01 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_MOSK_DUN02 },
 			{ name = MsgStrID.MSI_MAP_LIST_NAME_MOSK_DUN03, colorR = 255, colorG = 0, colorB = 0 }

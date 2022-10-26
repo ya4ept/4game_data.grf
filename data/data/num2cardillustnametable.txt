@@ -827,3 +827,15 @@
 27107#연주하는페르카드#
 27108#노래하는페르카드#
 27109#지터벅카드#
+
+27170#Cowraiders1_Card#
+27171#Cowraiders2_Card#
+27172#Cowraiders3_Card#
+27173#E_Cowraiders1_Card#
+27174#E_Cowraiders2_Card#
+27175#E_Cowraiders3_Card#
+27176#Rr_Cramp_Card#
+27177#Rr_Arclouse_Card#
+27178#Gaster_Card#
+27179#Coyote_Card#
+27180#Mechaspider_Card#
