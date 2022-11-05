@@ -651,7 +651,43 @@ tblLapineUpgradeBox = {
 				{ "S_Windy_Shield", 24203 },
 				{ "S_Wise_Earring", 24050 },
 				{ "S_Wizard_Armor", 24277 },
-				{ "S_Wizard_Shoes", 24264 }
+				{ "S_Wizard_Shoes", 24264 },
+				{ "S_Aimed_Earing", 24457 },
+				{ "S_Aimed_Pendant", 24456 },
+				{ "S_Aimed_Weapon", 24455 },
+				{ "S_Arms_Earing", 24475 },
+				{ "S_Arms_Pendant", 24474 },
+				{ "S_Arms_Weapon", 24473 },
+				{ "S_Arrowvulcan_Earing", 24505 },
+				{ "S_Arrowvulcan_Pendant", 24504 },
+				{ "S_Arrowvulcan_Weapon", 24503 },
+				{ "S_Cannon_Cart_Earing", 24565 },
+				{ "S_Cannon_Cart_Pendant", 24564 },
+				{ "S_Cannon_Cart_Weapon", 24563 },
+				{ "S_F_Breath_Earing", 24451 },
+				{ "S_F_Breath_Pendant", 24450 },
+				{ "S_F_Breath_Weapon", 24449 },
+				{ "S_Genesis_Earing", 24583 },
+				{ "S_Genesis_Pendant", 24582 },
+				{ "S_Genesis_Weapon", 24581 },
+				{ "S_Katar_Earing", 24541 },
+				{ "S_Katar_Pendant", 24540 },
+				{ "S_Katar_Weapon", 24539 },
+				{ "S_Magnus_Earing", 24499 },
+				{ "S_Magnus_Pendant", 24498 },
+				{ "S_Magnus_Weapon", 24497 },
+				{ "S_Shadowspell_Earing", 24529 },
+				{ "S_Shadowspell_Pendant", 24528 },
+				{ "S_Shadowspell_Weapon", 24527 },
+				{ "S_Strain_Earing", 24517 },
+				{ "S_Strain_Pendant", 24516 },
+				{ "S_Strain_Weapon", 24515 },
+				{ "S_Tigercannon_Earing", 24487 },
+				{ "S_Tigercannon_Pendant", 24486 },
+				{ "S_TigerCannon_Weapon", 24485 },
+				{ "S_Varetyr_Earing", 24559 },
+				{ "S_Varetyr_Pendant", 24558 },
+				{ "S_Varetyr_Weapon", 24557 }
 			},
 			NeedSource_String = "Теневая экипировка"
 		},
@@ -1208,6 +1244,28 @@ tblLapineUpgradeBox = {
 				{ "Modify_Luk_Boots_", 22118 }
 			},
 			NeedSource_String = "Броня Шестиона или Хроноплащ"
+		},
+		Cursed_Blood = {
+			ItemID = 23546,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Bloody_Knight_Shield_", 28945 }
+			},
+			NeedSource_String = "Щит Кровавого рыцаря"
+		},
+		Gold_Statue = {
+			ItemID = 23547,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Bloody_Knight_Shield__", 28946 }
+			},
+			NeedSource_String = "Щит Солнечного рыцаря"
 		}
 	},
 	results = {
@@ -1247,7 +1305,9 @@ tblLapineUpgradeBox = {
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
 			RandomOptionCode = "",
 			FailureItems = {}
-		}
+		},
+		Cursed_Blood = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "BKS", FailureItems = {} },
+		Gold_Statue = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "SKS", FailureItems = {} }
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do

@@ -299,7 +299,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_Striking_Mikoshi,
 	SPRITE_ROBE_IDs.ROBE_C_Beer_Server,
 	SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream,
-	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key,
 	SPRITE_ROBE_IDs.ROBE_C_Giant_Shark,
 	SPRITE_ROBE_IDs.ROBE_C_Hooked_Straw_Hat,
 	SPRITE_ROBE_IDs.ROBE_C_Scepter,
@@ -317,5 +316,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Pitaya_G_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon,
 	SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight,
-	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit
+	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit,
+	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key
 }

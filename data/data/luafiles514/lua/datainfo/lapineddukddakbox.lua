@@ -1,15 +1,54 @@
 tblLapineDdukddakBox = {
 	sources = {
-		IDTest_Special = {
-			ItemID = 100000,
-			NeedCount = 3,
-			NeedRefineMin = 0,
+		StatusShadow_Mix = {
+			ItemID = 23247,
+			NeedCount = 5,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
-				{ "Jellopy", 1, 909 },
-				{ "Fluff", 1, 914 },
-				{ "Shell", 1, 935 }
+				{ "S_Lucky_Weapon", 1, 24034 },
+				{ "S_Power_Earring", 1, 24035 },
+				{ "S_Int_Pendant", 1, 24036 },
+				{ "S_Dexterous_Armor", 1, 24037 },
+				{ "S_Vital_Shoes", 1, 24038 },
+				{ "S_Athletic_Shield", 1, 24039 },
+				{ "S_Lucky_Armor", 1, 24040 },
+				{ "S_Power_Pendant", 1, 24041 },
+				{ "S_Int_Earring", 1, 24042 },
+				{ "S_Dexterous_Weapon", 1, 24043 },
+				{ "S_Vital_Shield", 1, 24044 },
+				{ "S_Athletic_Shoes", 1, 24045 }
 			},
-			NeedSource_String = "Jellopy,Fluff,Shell"
+			NeedSource_String = "+7 Status Shadow"
+		},
+		Silver_Statue = {
+			ItemID = 23545,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "Bloody_Knight_Shield", 1, 28942 }
+			},
+			NeedSource_String = "Р©РёС‚ Р›СѓРЅРЅРѕРіРѕ СЂС‹С†Р°СЂСЏ"
+		}
+	},
+	results = {
+		StatusShadow_Mix = {
+			RefineProbability = {},
+			RandomOptionCode = "G0",
+			ResultItems = {
+				{ "S_AllMighty_Pendant", 1, 1 },
+				{ "S_AllMighty_Earring", 1, 1 }
+			}
+		},
+		Silver_Statue = {
+			RefineProbability = {},
+			RandomOptionCode = "BKS",
+			ResultItems = {
+				{ "Bloody_Knight_Shield", 1, 900 },
+				{ "Bloody_Knight_Shield_", 1, 99 },
+				{ "Bloody_Knight_Shield__", 1, 1 }
+			}
 		}
 	},
 	get_lapine_box = function(in_box_id)
