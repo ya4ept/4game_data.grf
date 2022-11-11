@@ -4174,51 +4174,49 @@ StateIconList[EFST_IDs.EFST_LHZ_DUN_N1] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Bed of Honor", COLOR_TITLE_BUFF },
+		{ "Гробница Почета", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase in damage to some monsters of Bed of Honor." },
-		{ "List : Swordman, Thief class Bed of Honor monsters." },
-		{ "Receive less damage from some monsters of Bed of Honor." },
-		{ "List : Acolyte, Merchant class Bed of Honor monsters." },
-		{ "Exclude MVP Monsters." }
+		{ "Увеличен наносимый урон по монстрам" },
+		{ "Гробницы Почета классов Мечник и Вор." },
+		{ "Уменьшен получаемый урон от монстров" },
+		{ "Гробницы Почета классов Послушник и Торговец." },
+		{ "Не работает на MVP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Bed of Honor", COLOR_TITLE_BUFF },
+		{ "Гробница Почета", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase in damage to some monsters of Bed of Honor." },
-		{ "List : Acolyte, Merchant class Bed of Honor monsters." },
-		{ "Receive less damage from some monsters of Bed of Honor." },
-		{ "List : Mage, Archer class Bed of Honor monsters." },
-		{ "Exclude MVP Monsters." }
+		{ "Увеличен наносимый урон по монстрам" },
+		{ "Гробницы Почета классов Послушник и Торговец." },
+		{ "Уменьшен получаемый урон от монстров" },
+		{ "Гробницы Почета классов Маг и Лучник." },
+		{ "Не работает на MVP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N3] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Bed of Honor", COLOR_TITLE_BUFF },
+		{ "Гробница Почета", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase in damage to some monsters of Bed of Honor." },
-		{ "List : Mage, Archer class Bed of Honor monsters." },
-		{ "Receive less damage from some monsters of Bed of Honor." },
-		{ "List : Swordman, Thief class Bed of Honor monsters." },
-		{ "Exclude MVP Monsters." }
+		{ "Увеличен наносимый урон по монстрам" },
+		{ "Гробницы Почета классов Маг и Лучник." },
+		{ "Уменьшен получаемый урон от монстров" },
+		{ "Гробницы Почета классов Мечник и Вор." },
+		{ "Не работает на MVP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LHZ_DUN_N4] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Bed of Honor", COLOR_TITLE_BUFF },
+		{ "Гробница Почета", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase in damage to some monsters of Bed of Honor." },
-		{ "List : Bed of Honor MVP Monsters." },
-		{ "Receive less damage from some monsters of Bed of Honor." },
-		{ "List : Bed of Honor MVP Monsters." }
+		{ "Увеличен наносимый урон по MVP." },
+		{ "Уменьшен получаемый урон от MVP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGNETICFIELD] = {

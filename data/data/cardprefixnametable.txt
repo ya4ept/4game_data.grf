@@ -529,7 +529,7 @@
 4579#Morning Star#
 4580#of Devilish#
 4581#Toilet#
-4582#Stamina#
+4582#Выдержки#
 4583#of Poison Grass#
 4584#Vampiric#
 4585#Cursed#
