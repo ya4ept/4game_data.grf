@@ -2512,3 +2512,15 @@ pvp_n_8-5.rsw#abyss_03.rsw#
 2@gl_k2.gat#2@gl_k2.gat#
 2@gl_k2.rsw#2@gl_k2.rsw#
 유저인터페이스\map\2@gl_k2.bmp#유저인터페이스\map\2@gl_k2.bmp#
+
+1@evt01.gnd#niflheim.gnd#
+1@evt01.gat#niflheim.gat#
+1@evt01.rsw#niflheim.rsw#
+
+2@evt01.gnd#nif_in.gnd#
+2@evt01.gat#nif_in.gat#
+2@evt01.rsw#nif_in.rsw#
+
+3@evt01.gnd#moc_pryd05.gnd#
+3@evt01.gat#moc_pryd05.gat#
+3@evt01.rsw#moc_pryd05.rsw#

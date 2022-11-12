@@ -24354,3 +24354,43 @@ Defeat Elena Bolkova#
 63161#Defeat Elena Bolkova#SG_FEEL#QUE_NOIMAGE#
 Fight Elena one on one.#
 #
+
+17680#Welcome to 'Scaryland'#SG_FEEL#QUE_NOIMAGE#
+Forreder asks to bring him 30 Spooky Coins.#
+Get 30 Spooky Coins#
+17681#Welcome to 'Scaryland'#SG_FEEL#QUE_NOIMAGE#
+Forreder wants you to scare young ladies, turning into one of the monsters, and collect 10 Particles of Soul.#
+Collect 10 Particles of Soul#
+17682#Welcome to 'Scaryland'#SG_FEEL#QUE_NOIMAGE#
+Bring ecnhanted water from the Dark Labirynth.#
+Bring enchanted water to Forreder#
+17683#Welcome to 'Scaryland'#SG_FEEL#QUE_NOIMAGE#
+The last component - Mimic Essence. 7 crystals will be enough.#
+Bring 7 Mimic Essence to Forreder#
+17684#Welcome to 'Scaryland'#SG_FEEL#QUE_NOIMAGE#
+Ferreder is a liar! We must get out of Labyrinth and punish him.#
+Get out of Labyrinth#
+17685#Welcome to 'Scaryland'#SG_FEEL#QUE_NOIMAGE#
+Forreder must be scared.It's Matter Converter time.#
+Win Forreder at Stapo-Paper-Ogretooth game 3 times in a row#
+17686#Hunting Jakks#SG_FEEL#QUE_NOIMAGE#
+Storreder asks you to hunt 50 Jakks.#
+Hunt 50 Handsome Jakks#
+17687#Hunting Jakks (resting)#SG_FEEL#QUE_NOIMAGE#
+You already hunted today. Get a rest.#
+Reset at 4 o'clock#
+17688#Stapo-Paper-Ogretooth#SG_FEEL#QUE_NOIMAGE#
+Win Forreder at Stapo-Paper-Ogretooth game 3 times in a row (one more time).#
+Win Forreder 3 times in a row#
+17689#Stapo-Paper-Ogretooth (resting)#SG_FEEL#QUE_NOIMAGE#
+You already won Forreder today.#
+Reset at 4 o'clock#
+17690#You got nothing to scare of#SG_FEEL#QUE_NOIMAGE#
+Help 10 unconscious ladies.#
+Help 10 unconscious ladies#
+17691#You got nothing to scare of (resting)#SG_FEEL#QUE_NOIMAGE#
+You already helped ladies today.#
+Reset at 4 o'clock#
+17692#Panic room#SG_FEEL#QUE_NOIMAGE#
+Storreder asks you to find enchanted water, scare 10 ghosts in labyrinth, find an exit and collect 7 Mimic Essences for a good reward.#
+Pass Storreder's Trial in 30 minutes#

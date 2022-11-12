@@ -1208,6 +1208,28 @@ tblLapineUpgradeBox = {
 				{ "Modify_Luk_Boots_", 22118 }
 			},
 			NeedSource_String = "Armor of Sixtus or Chronocloak"
+		},
+		Cursed_Blood = {
+			ItemID = 23546,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Bloody Knight's Shield", 28945 }
+			},
+			NeedSource_String = "Bloody Knight's Shield"
+		},
+		Gold_Statue = {
+			ItemID = 23547,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Bloody_Knight_Shield__", 28946 }
+			},
+			NeedSource_String = "Sun Knight's Shield"
 		}
 	},
 	results = {
@@ -1247,7 +1269,9 @@ tblLapineUpgradeBox = {
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
 			RandomOptionCode = "",
 			FailureItems = {}
-		}
+		},
+		Cursed_Blood = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "BKS", FailureItems = {} },
+		Gold_Statue = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "SKS", FailureItems = {} }
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do
