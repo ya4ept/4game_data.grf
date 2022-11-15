@@ -19458,13 +19458,13 @@ Investigation on the pile_of_sand#
 In the sand, you found bones that seem to come from a small animal. You also found a red necklace with a bell. Let's go back to Jakk.#
 Talk to Jakk in Niflheim#
 
-12330#Skull-faced Girl#SG_FEEL#QUE_NOIMAGE#
-Heard of a story from a girl with strange appearance.#
-Skull-faced Girl#
+12330#Череполицая девушка#SG_FEEL#QUE_NOIMAGE#
+Странно выглядящая девушка рассказала вам свою историю.#
+Поговорить с Кэтрин#
 
-12331#Trail of Toy Factory#SG_FEEL#QUE_NOIMAGE#
-There is a trail of entering the toy factory. Unable to re-enter for 23 hours.#
-Trail of Toy Factory#
+12331#Фабрика игрушек (отдых)#SG_FEEL#QUE_NOIMAGE#
+Вы не сможете зайти на фабрику игрушек снова в течение 16 часов.#
+Невозможно зайти на фабрику игрушек.#
 
 7711#Начало#SG_FEEL#QUE_NOIMAGE#
 Привет! Я выдающийся дорама из Пасты! Я взбирался на гору Равиоли, добрался до порта Лазанья. А теперь я собираюсь покорить весь Мидгард!#

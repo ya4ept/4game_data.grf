@@ -11440,3 +11440,10 @@
 28946#Knight_Shield#
 28945#Bloody_Knight_Shield#
 28942#Cursed_Knight_Shield#
+
+32237#Celine_Brooch#
+400166#에길헬름#
+410160#Magic_Celestial_Globe#
+410182#C_Traveller_Oil_Lantern#
+480203#Magic_Circle_TW#
+101997#천사의알#

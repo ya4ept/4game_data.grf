@@ -2200,5 +2200,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Many_Flowers_Prayer = 2248,
 	ACCESSORY_C_Alpha_Long_Pony = 2253,
 	ACCESSORY_C_Happening_Clover = 2262,
-	ACCESSORY_C_Cons_Of_Light_Dark = 2273
+	ACCESSORY_C_Magic_Celestial_Globe = 2265,
+	ACCESSORY_C_Cons_Of_Light_Dark = 2273,
+	ACCESSORY_C_Traveller_Oil_Lantern = 2280
 }
