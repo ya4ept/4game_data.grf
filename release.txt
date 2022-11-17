@@ -1,3 +1,27 @@
+16.11.2022 11:08
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Matilda needs help” is back to the game. Event available until 23d of November;
+— We are Boosting the Experience of all Eden Quests on +50% for the next week.
+
+Shop:
+— The Autumn Spirits Treasure is here both individually and in packs;
+— The Battle manual packs arrived in launcher to extend the experience gain even more.
+
+Other:
+— Some rare items now have the highlight effects. (see visuals inside the forum thread)
+
+https://eu.4gameforum.com/threads/691165/
+
+Finished activities:
+— The "Gold Rush" event come to an end;
+— The Refinement Rates set back to standard values;
+— The Amistr Hat, Dog Cap and Sixtus Armor Boxes were removed from the launcher;
+— The Chronosets were also removed from the laucnher.
+
+==========
 09.11.2022
 Imp
 The maintenance is over, the server is online. Changelog:
