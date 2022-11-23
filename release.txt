@@ -1,3 +1,29 @@
+23.11.2022 11:11
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Game updates:
+— The «Rock Ridge» update has been released.
+
+Events:
+— The darkness slowly corrupts dimensions unless you win in "Saving their world" event;
+
+Shop:
+— The Win-Win Machine is here! Each spin will definitely grant you the win;
+— Black Friday has arrived in the Kafra Shop. Items are up to 60% off and the offers are valid until the 30th of November.
+
+Other:
+— Guyak Candy's weight has been changed to 1;
+— The monster list of the Bloody and Dead Branches has been updated.
+
+https://eu.4gameforum.com/threads/691222/
+Finished activities:
+— The "Matilda needs help” event came to an end;
+— The Experience of all Eden Quests were set to default values;
+— The Autumn Spirits Treasure was removed from the launcher and Kafra shop;
+— The Battle manual packs were also removed from the launcher.
+
+================
 16.11.2022 11:08
 Imp
 The maintenance is over, the server is online. Changelog:

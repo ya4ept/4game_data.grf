@@ -989,3 +989,13 @@ lhz_dun_n.rsw#Tomb of honor#
 lhz_d_n2.rsw#The Space of Thoughts#
 2@gl_k2.rsw#1st floor of Novice Glast Heim Chivalry#
 1@gl_k2.rsw#2nd floor of Novice Glast Heim Chivalry#
+
+har_in01.rsw#Inside Rock Ridge#
+harboro1.rsw#Rock Ridge, Untamed Wilderness#
+rockmi1.rsw#Rock Ridge Mine#
+rockmi2.rsw#Rock Ridge Mine#
+rockmi3.rsw#Rock Ridge Mine#
+rockrdg1.rsw#Kiwawa Desert#
+rockrdg2.rsw#Kiwawa Desert#
+rockrdg1_q.rsw#Kiwawa Desert#
+rockrdg2_q.rsw#Kiwawa Desert#
