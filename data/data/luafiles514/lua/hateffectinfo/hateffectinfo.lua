@@ -172,7 +172,8 @@ HatEFID = {
 	HAT_EF_Magiccircle_Blue_TW = 171,
 	HAT_EF_C_Disapear_Time_TW_2 = 172,
 	HAT_EF_C_Melody_Wing = 173,
-	HAT_EF_C_Spot_Light = 174
+	HAT_EF_C_Spot_Light = 174,
+	HAT_EF_C_Astra_Blessing = 175
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -836,6 +837,15 @@ hatEffectTable = {
 		resourceFileName = "C_Spot_Light\\Spotlight.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Astra_Blessing] = {
+		resourceFileName = "efst_C_Astra_Blessing\\astra.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
