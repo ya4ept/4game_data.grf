@@ -11338,3 +11338,12 @@
 31460#Blessing_Sky_Lantern#
 31720#VesperHeadGear#
 101998#아울듀크알#
+
+400166#에길헬름#
+410160#Magic_Celestial_Globe#
+410182#C_Traveller_Oil_Lantern#
+480203#Magic_Circle_TW#
+20481#이프리트가면#
+23050#과라나사탕#
+102036#pro선물상자#
+

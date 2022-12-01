@@ -2195,5 +2195,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Many_Flowers_Prayer] = "_C_Many_Flowers_Prayer",
 	[ACCESSORY_IDs.ACCESSORY_C_Alpha_Long_Pony] = "_C_Alpha_Long_Pony",
 	[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = "_C_Happening_Clover",
-	[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Light_Dark] = "_C_Cons_Of_Light_Dark"
+	[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Light_Dark] = "_C_Cons_Of_Light_Dark",
+	[ACCESSORY_IDs.ACCESSORY_C_Traveller_Oil_Lantern] = "_C_Traveller_Oil_Lantern",
+	[ACCESSORY_IDs.ACCESSORY_C_Magic_Celestial_Globe] = "_C_Magic_Celestial_Globe"
 }

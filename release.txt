@@ -1,3 +1,25 @@
+30.11.2022 11:03
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The Midgardian style fishing event is here to bring everyone delicious meals and a bit of competition until December 7th;
+
+Shop:
+— The Old Masters' Treasure is here both individually and in packs. Check our Launcher and the Shop;
+— The Professional Shadow sets are back to Launcher, including refinement metals, they stay until 07.12.
+
+Fixes:
+— Weapon Dealer (prt_in 171 140) returned to Prontera.
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/691276/
+Finished activities:
+— The "Saving their world" event came to an end;
+— The Win-Win Machine and Black Friday discounts were turned off.
+— The Bloody and Travel Merchant Sets were removed from the launcher.
+
+================
 23.11.2022 11:11
 Imp
 The maintenance is over, the server is online. Changelog:
