@@ -11347,3 +11347,9 @@
 23050#과라나사탕#
 102036#pro선물상자#
 
+28242#Calf_Anaconda#
+28243#Calf_Python#
+13146#Calf_Deathadder#
+28241#Calf_Diamondback#
+28240#Calf_Kingcobra#
+32013#Metal_Stick#
