@@ -11455,3 +11455,9 @@
 480205#C_Astra_Blessing#
 102037#Costama_Egg85#
 31136#크로크카스캐트#
+
+20581#C_Soldier_Backpack#
+31497#Flowery_Vision_TH#
+102100#암속성알#
+
+20077#날개안경#
