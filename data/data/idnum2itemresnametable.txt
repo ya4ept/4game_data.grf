@@ -11353,3 +11353,13 @@
 28241#Calf_Diamondback#
 28240#Calf_Kingcobra#
 32013#Metal_Stick#
+
+20274#크리스마스흰곰모자#
+20546#Backside_Ribbon_Bell#
+20593#C_Ice_Wing#
+31923#C_Baby_Polar_Bear#
+480096#C_Put_On_Coat#
+480097#C_Snow_Powder#
+102090#찰랑스크롤#
+
+20077#날개안경#

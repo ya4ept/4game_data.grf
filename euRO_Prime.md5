@@ -2,7 +2,7 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-35b1b70018120e0e4d08568f9cfe7a72 *data.grf
+c0eee7f2c8c6d6053ad898830b8343db *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -41,7 +41,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 a61061ecc6feed6e46a348111346b549 *Frost\frostinfo.txt
-582fd54f24adf9159dc242d5ad986708 *Frost\frostInit.log
+ec13a21548b489458ccdf7596b3c649f *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 17fb375e2bf4631c0bfe72ff854a5886 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -49,7 +49,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 ff8621075c1e3814642deb239e356af0 *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-cf95d0a8a3234af5e2d19036f001e3a4 *Frost\launcherUpdater.log
+c9f8f101be0d39cf7e13a2fd915e24df *Frost\launcherUpdater.log
 bd51f30dea1a839f094ed68ccff86ad5 *Frost\ro.exe
 91401a4dea5735c4cd417879c5d6b1bc *Frost\.inn.meta.dir\.inn.cache.txt
 91401a4dea5735c4cd417879c5d6b1bc *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -57,10 +57,9 @@ ec5dc29d6704567f93d79f9c27d08d72 *Frost\.inn.meta.dir\.inn.files.3.1.0.56.contro
 dad758c50a9671dcb5e65d5efebd0ab9 *Frost\.inn.meta.dir\.inn.installed.control.txt
 8836e78a861c7ef6a92856bf276f9660 *Frost\.inn.meta.dir\.inn.version.3.1.0.56.control.txt
 d4b853bba75ec9a7d3c7e7598844090a *gameManager\gameManager.exe
-e2a317451122174da956b6630a185a69 *gameManager\log.log
 9329be6eb40af56cc93f2e2ba64e587c *System\achievement_list.lub
-ebd89acf6a4e4bc6e031c556ebeb5d83 *System\checkattendance.lub
-a376936da2580c4039ab561a1ccff836 *System\iteminfo.lub
+625abc7ac420ec4b3f17a0c646e886fb *System\checkattendance.lub
+1c53660ed67bb8ee685f96ee695eadb5 *System\iteminfo.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 7dc30793464a804f7123a860221cd6cb *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub

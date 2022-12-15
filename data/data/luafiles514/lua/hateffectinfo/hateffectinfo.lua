@@ -85,7 +85,7 @@ HatEFID = {
 	HAT_EF_SUBJECT_AURA_RED = 84,
 	HAT_EF_C_Shining_Angel_Wing = 85,
 	HAT_EF_Magic_Star_TW = 86,
-	HAT_Digital_Space = 87,
+	HAT_EF_Digital_Space = 87,
 	HAT_EF_Sleipnir = 88,
 	HAT_EF_C_Maple_Which_Falls_Rd = 89,
 	HAT_EF_MagiccircleRainbow = 90,
@@ -172,7 +172,8 @@ HatEFID = {
 	HAT_EF_Magiccircle_Blue_TW = 171,
 	HAT_EF_C_Disapear_Time_TW_2 = 172,
 	HAT_EF_C_Melody_Wing = 173,
-	HAT_EF_C_Spot_Light = 174
+	HAT_EF_C_Spot_Light = 174,
+	HAT_EF_C_Astra_Blessing = 175
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -186,7 +187,6 @@ hatEffectTable = {
 		resourceFileName = "efst_mermaid_loging\\bubblebubble.str",
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
-		effectsizeAdjustment = 0,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
@@ -255,7 +255,8 @@ hatEffectTable = {
 		hatEffectPos = -7,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
-		isAdjustSizeWhenShrinkState = true
+		isAdjustSizeWhenShrinkState = true,
+		isAttachedHead = true
 	},
 	[HatEFID.HAT_EF_BOTTOM_FORTUNEKISS] = { hatEffectID = 293 },
 	[HatEFID.HAT_EF_PINKBODY] = { hatEffectID = 396 },
@@ -352,7 +353,7 @@ hatEffectTable = {
 		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_FSTONE] = {
-		resourceFileName = "efst_fstone\\stoneofint.str",
+		resourceFileName = "efst_fstone\\fstone.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
@@ -429,7 +430,7 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_Digital_Space] = { hatEffectID = 1240 },
+	[HatEFID.HAT_EF_Digital_Space] = { hatEffectID = 1240 },
 	[HatEFID.HAT_EF_Sleipnir] = { hatEffectID = 1241 },
 	[HatEFID.HAT_EF_C_Maple_Which_Falls_Rd] = {
 		resourceFileName = "efst_C_Maple_Which_Falls_Rd\\C_Maple_Which_Falls_Rd.str",
@@ -709,6 +710,14 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
+	[HatEFID.HAT_EF_C_Kyel_hyre_Ulti_TW] = {
+		resourceFileName = "EFST_Kyel_hyre_Ulti_TW\\tentaKaiser.str",
+		hatEffectPos = -16,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
 	[HatEFID.HAT_EF_C_Master] = {
 		resourceFileName = "efst_C_Master\\13123123.str",
 		hatEffectPos = -7,
@@ -768,7 +777,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_POISON_MASTER] = { hatEffectID = 2310 },
 	[HatEFID.HAT_EF_C_Swirling_Flame] = {
 		resourceFileName = "C_Swirling_Flame\\vortexf2.str",
-		hatEffectPos = -11,
+		hatEffectPos = -10,
 		hatEffectPosX = 0,
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
@@ -819,9 +828,8 @@ hatEffectTable = {
 	},
 	[HatEFID.HAT_EF_C_Melody_Wing] = {
 		resourceFileName = "C_Melody_Wing\\notetama.str",
-		hatEffectPos = -8,
-		hatEffectPosX = 1,
-		isRenderBeforeCharacter = true,
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
@@ -829,6 +837,15 @@ hatEffectTable = {
 		resourceFileName = "C_Spot_Light\\Spotlight.str",
 		hatEffectPos = -6,
 		hatEffectPosX = 0,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Astra_Blessing] = {
+		resourceFileName = "efst_C_Astra_Blessing\\astra.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
@@ -877,7 +894,8 @@ effectHatItemTable = {
 	480097,
 	400149,
 	480131,
-	31957
+	31957,
+	480168
 }
 
 -- Function #0

@@ -1,3 +1,27 @@
+14.12.2022 11:25
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— Loki's Trial has begun. Prove yourself worthy until December 21st.
+— New Daily Rewards have just become available. Log in every day to snatch the Winged Sunglasses.
+
+Shop:
+— The Blizzard Treasure is here both individually and in packs. Check our Launcher and the Shop;
+— The Refinement sets arrived to the launcher just for one week to provide you with all you need to get a perfect refinement.
+
+Other:
+— Fixed the Master Archer enchantment. Now it gives Long-range physical damage (before: Long-range bow damage);
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/691384/
+
+Finished activities:
+— The "Colorful runaways" event came to an end;
+— The Fortune, Fate & Destiny sets were removed from the Launcher
+— The Enchantment sets were also be removed from the Launcher.
+
+================
 07.12.2022 11:30
 Imp
 The maintenance is over, the server is online. Changelog:

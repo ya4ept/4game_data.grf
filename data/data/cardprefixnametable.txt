@@ -669,3 +669,5 @@
 27178#Zero Guard#
 
 4685#Adoramus#
+27147#Intensive#
+27148#Default#
