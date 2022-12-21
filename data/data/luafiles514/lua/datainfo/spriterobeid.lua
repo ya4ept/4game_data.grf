@@ -131,5 +131,6 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Wedding_Ribbon = 130,
 	ROBE_Valkyrie_Curse_blight = 131,
 	ROBE_C_2022RTC_V_Coat4 = 132,
-	ROBE_C_Big_B_Rabbit = 133
+	ROBE_C_Big_B_Rabbit = 133,
+	ROBE_C_Back_Ribbon_Bell_BU = 135
 }

@@ -2188,7 +2188,9 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_GC] = "_Viva_Adul_Hat_GC",
 	[ACCESSORY_IDs.ACCESSORY_Viva_Adul_Hat_SO] = "_Viva_Adul_Hat_SO",
 	[ACCESSORY_IDs.ACCESSORY_Belka_Strelka] = "_Belka_Strelka",
+	[ACCESSORY_IDs.ACCESSORY_Crushed_Snow_Man] = "_Crushed_Snow_Man",
 	[ACCESSORY_IDs.ACCESSORY_C_Fluffy_Rabbit_Cape] = "_C_Fluffy_Rabbit_Cape",
+	[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_SV] = "_C_SR_Hair_SV",
 	[ACCESSORY_IDs.ACCESSORY_C_Macaron_Bunny_Head] = "_C_Macaron_Bunny_Head",
 	[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = "_C_Wanderer_Curl",
 	[ACCESSORY_IDs.ACCESSORY_C_Dreaming_Rose_Long] = "_C_Dreaming_Rose_Long",
@@ -2197,5 +2199,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Happening_Clover] = "_C_Happening_Clover",
 	[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Light_Dark] = "_C_Cons_Of_Light_Dark",
 	[ACCESSORY_IDs.ACCESSORY_C_Traveller_Oil_Lantern] = "_C_Traveller_Oil_Lantern",
-	[ACCESSORY_IDs.ACCESSORY_C_Magic_Celestial_Globe] = "_C_Magic_Celestial_Globe"
+	[ACCESSORY_IDs.ACCESSORY_C_Magic_Celestial_Globe] = "_C_Magic_Celestial_Globe",
+	[ACCESSORY_IDs.ACCESSORY_Tiger_Glass] = "_Tiger_Glass"
 }

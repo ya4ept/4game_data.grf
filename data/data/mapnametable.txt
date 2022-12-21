@@ -1025,10 +1025,13 @@ slabw01.rsw#Лаборатория Вернера#
 rebel_in.rsw#Зал мятежников#
 
 // Illusion - Payon (Moonlight)
-pay_d03_i.rsw#Nightmare_of_the_Moonlight_Flower#
+pay_d03_i.rsw#Иллюзион Луны#
 
 // Illusion - Geffen (vampire)
-gef_d01_i.rsw#250 Page#
+gef_d01_i.rsw#Иллюзион Вампиров#
+
+// Illusion - Geffen (Frozen)
+ice_d03_i.rsw#Иллюзион Льда#
 
 1@jtb.rsw#The Shadowed Dream#
 

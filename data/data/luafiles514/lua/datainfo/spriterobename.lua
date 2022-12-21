@@ -131,7 +131,8 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon] = "C_Wedding_Ribbon",
 	[SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight] = "Valkyrie_Curse_blight",
 	[SPRITE_ROBE_IDs.ROBE_C_2022RTC_V_Coat4] = "C_2022RTC_V_Coat4",
-	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit"
+	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit",
+	[SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU] = "C_Back_Ribbon_Bell_BU"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -266,7 +267,8 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon] = "C_Wedding_Ribbon",
 	[SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight] = "Valkyrie_Curse_blight",
 	[SPRITE_ROBE_IDs.ROBE_C_2022RTC_V_Coat4] = "C_2022RTC_V_Coat4",
-	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit"
+	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit",
+	[SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU] = "C_Back_Ribbon_Bell_BU"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -317,5 +319,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon,
 	SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight,
 	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit,
-	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key
+	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key,
+	SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU
 }
