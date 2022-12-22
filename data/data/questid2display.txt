@@ -19993,10 +19993,8 @@ Heard of a story from a girl with strange appearance.#
 Skull-faced Girl#
 
 12331#Trail of Toy Factory#SG_FEEL#QUE_NOIMAGE#
-There is a trail of entering the toy factory. Unable to re-enter for 23 hours.#
+There is a trail of entering the toy factory. Unable to re-enter for 16 hours.#
 Trail of Toy Factory#
-
-
 
 7711#Beginning#SG_FEEL#QUE_NOIMAGE#
 Yo Ho! I am a fabulous Doram from Pa~sta! I've climbed Laviol mountain, came to Lasagna port. And I'm going to take over the new continent Midgard!#
@@ -24827,3 +24825,83 @@ Hunt coyotes.#
 62927#Discovered Suspicious Sand Pile#SG_FEEL#QUE_NOIMAGE#
 #
 #
+
+17693#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Looks like Santa is gone. We need to find him. Interrogate the suppliers of Sugar, Cocoa Beans and Jam, collect clues and return to the Elf.#
+Looks like Santa is gone. We need to find him. #
+
+17694#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa is kidnapped by the evil Antonio. Go to Lutie and find out how to save him.#
+Santa is kidnapped by the evil Antonio.#
+
+17695#Candy Case#SG_FEEL#QUE_NOIMAGE#
+You have to help Antonio in his evil deeds. Go to the forest and bring Evil Tree Branches.#
+You have to help Antonio in his evil deeds.#
+
+17696#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Antonio is annoyed by the smiles of the Elves. Find 10 Elves and upset them.#
+You have to help Antonio in his evil deeds.#
+
+17697#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Antonio wants to stop the Elves from decorating the Christmas tree. Steal 10 Christmas Tree Balls from the Elves and bring them to Antonio.#
+You have to help Antonio in his evil deeds.#
+
+17698#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Antonio wants to play Grab the Gift. Beat him at least 1 time.#
+Antonio wants to play Grab the Gift.#
+
+17699#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa is free, but he does not have time to prepare sweets for the Holiday. Pick up Cocoa Beans, Sugar and Jam from suppliers in Prontera and prepare 10 Christmas Candy Boxes in the kitchen.#
+Prepare 10 Christmas Candy Boxes in the kitchen.#
+
+17700#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 20 boxes for Santa.#
+This time you need to prepare 20 boxes for Santa.#
+
+17701#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 40 boxes for Santa.#
+This time you need to prepare 40 boxes for Santa.#
+
+17702#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 60 boxes for Santa.#
+This time you need to prepare 60 boxes for Santa.#
+
+17703#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 80 boxes for Santa.#
+This time you need to prepare 80 boxes for Santa.#
+
+17704#Candy Case#SG_FEEL#QUE_NOIMAGE#
+Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 100 boxes for Santa.#
+This time you need to prepare 100 boxes for Santa.#
+
+17705#Your Apology Accepted#SG_FEEL#QUE_NOIMAGE#
+Once a day, Santa asks to return the stolen Christmas Tree Balls to the Elves and apologize. Give the balls to the Elves.#
+Give the balls to the Elves.#
+
+17706#Branches for Toys#SG_FEEL#QUE_NOIMAGE#
+Once a day, Santa asks to collect branches from the forest to make toys out of them. Bring at least 10 Evil Tree Branches.#
+Collect branches from the forest.#
+
+17707#Grab the Gift Again#SG_FEEL#QUE_NOIMAGE#
+Santa offers to go back to Antonio and play his game. Win a Grab the Gift game with Antonio.#
+Win a Grab the Gift game with Antonio.#
+
+17708#Shell Game#SG_FEEL#QUE_NOIMAGE#
+Jam supplier offers to guess where the real gift is.#
+Win a Grab the Gift game at least once.#
+
+17709#Grab the Gift Again (Pending)#SG_FEEL#QUE_NOIMAGE#
+You have already played with Antonio.#
+Wait until tomorrow#
+
+17710#Shell Game (Pending)#SG_FEEL#QUE_NOIMAGE#
+Today you already guessed where the gift is.#
+Wait until tomorrow#
+
+17711#No Gifts from Antonio.#SG_FEEL#QUE_NOIMAGE#
+You have already played with Antonio. Wait a bit.#
+Wait 3 hours#
+
+17712#No More Bets#SG_FEEL#QUE_NOIMAGE#
+You have already played Grab the Gift.#
+Wait 3 hours#

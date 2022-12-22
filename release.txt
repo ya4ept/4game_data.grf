@@ -1,3 +1,33 @@
+21.12.2022 15:01
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Game updates:
+— The «Triple Trouble» update has been released.
+
+Events:
+— The Candy Business event has begun. You have three weeks to save the holiday, cook the most delicious sweets and refine the Santa's Helper Hat;
+— The gates to the most terrible place of Midgard - Bossnia have opened and Bossnia tickets arrived to the launcher;
+
+Shop:
+— The Seventh Heaven's Treasure is here both individually and in packs;
+— Kafra Shop started the Christmas sale week. Items are up to 30% off and the offers are valid until the 28th of December.
+— The Chronosets are back to launcher and stay until Wednesday, December 28
+
+Other:
+— CD in Mouth have gotten the set bonus effect with Old Parasol;
+— Silk Heart's malfunction has been fixed;
+— Localization fixes.
+
+https://eu.4gameforum.com/threads/691459/
+
+Finished activities:
+
+— The Loki's Trial event came to an end;
+— The Blizzard Treasure was removed from the launcher and Kafra shop;
+— The Refinement sets were also removed from the launcher.
+
+================
 14.12.2022 11:25
 Imp
 The maintenance is over, the server is online. Changelog:
