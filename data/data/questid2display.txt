@@ -24851,28 +24851,28 @@ Antonio wants to play Grab the Gift. Beat him at least 1 time.#
 Antonio wants to play Grab the Gift.#
 
 17699#Candy Case#SG_FEEL#QUE_NOIMAGE#
-Santa is free, but he does not have time to prepare sweets for the Holiday. Pick up Cocoa Beans, Sugar and Jam from suppliers in Prontera and prepare 10 Christmas Candy Boxes in the kitchen.#
-Prepare 10 Christmas Candy Boxes in the kitchen.#
+Santa is free, but he does not have time to prepare sweets for the Holiday. Pick up Cocoa Beans, Sugar and Jam from suppliers in Prontera and get 10 Christmas Candy Boxes near the christmas tree in Lutie.#
+Bring 10 Christmas Candy Boxes to Santa.#
 
 17700#Candy Case#SG_FEEL#QUE_NOIMAGE#
-Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 20 boxes for Santa.#
-This time you need to prepare 20 boxes for Santa.#
+Santa needs more candy. Collect the ingredients and go to the christmas tree in Lutie and dance around. This time you need to bring 20 boxes for Santa.#
+This time you need to bring 20 boxes for Santa.#
 
 17701#Candy Case#SG_FEEL#QUE_NOIMAGE#
-Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 40 boxes for Santa.#
-This time you need to prepare 40 boxes for Santa.#
+Santa needs more candy. Collect the ingredients and go to the christmas tree in Lutie and dance around. This time you need to bring 40 boxes for Santa.#
+This time you need to bring 40 boxes for Santa.#
 
 17702#Candy Case#SG_FEEL#QUE_NOIMAGE#
-Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 60 boxes for Santa.#
-This time you need to prepare 60 boxes for Santa.#
+Santa needs more candy. Collect the ingredients and go to the christmas tree in Lutie and dance around. This time you need to bringe 60 boxes for Santa.#
+This time you need to bring 60 boxes for Santa.#
 
 17703#Candy Case#SG_FEEL#QUE_NOIMAGE#
-Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 80 boxes for Santa.#
-This time you need to prepare 80 boxes for Santa.#
+Santa needs more candy. Collect the ingredients and go to the christmas tree in Lutie and dance around. This time you need to bring 80 boxes for Santa.#
+This time you need to bring 80 boxes for Santa.#
 
 17704#Candy Case#SG_FEEL#QUE_NOIMAGE#
-Santa needs more candy. Collect the ingredients and go to the kitchen. This time you need to prepare 100 boxes for Santa.#
-This time you need to prepare 100 boxes for Santa.#
+Santa needs more candy. Collect the ingredients and go to the christmas tree in Lutie and dance around. This time you need to bring 100 boxes for Santa.#
+This time you need to bring 100 boxes for Santa.#
 
 17705#Your Apology Accepted#SG_FEEL#QUE_NOIMAGE#
 Once a day, Santa asks to return the stolen Christmas Tree Balls to the Elves and apologize. Give the balls to the Elves.#
