@@ -320,5 +320,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight,
 	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit,
 	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key,
-	SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU
+	SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU,
+	SPRITE_ROBE_IDs.ROBE_C_20th_Anniversary_Wing
 }

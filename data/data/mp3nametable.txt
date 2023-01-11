@@ -1141,9 +1141,3 @@ ro19_ygas.rsw#bgm\\96.mp3#
 ro19_air_rq.rsw#bgm\\96.mp3#
 ro19_air_2.rsw#bgm\\96.mp3#
 ro19_air_3.rsw#bgm\\96.mp3#
-
-ejawaii_in.rsw#bgm\\28.mp3#
-
-pay_d03_i.rsw#bgm\\47.mp3#
-gef_d01_i.rsw#bgm\\51.mp3#
-ice_d03_i.rsw#bgm\\96.mp3#
