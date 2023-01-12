@@ -11380,3 +11380,7 @@
 25659#충분히발효한밀가루#
 
 20565#C_160LV_Archb_White#
+
+20581#C_Soldier_Backpack#
+31497#Flowery_Vision_TH#
+102136#암속성알#
