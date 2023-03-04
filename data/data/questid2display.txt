@@ -24905,3 +24905,209 @@ Wait 3 hours#
 17712#No More Bets#SG_FEEL#QUE_NOIMAGE#
 You have already played Grab the Gift.#
 Wait 3 hours#
+
+12415#A Contract with the Illusion Enchanter#SG_FEEL#QUE_NOIMAGE#
+Contract signed#
+Contract signed#
+
+14652#Detailed History 01#SG_FEEL#QUE_NOIMAGE#
+Do you think you could help us? I think it's going to be a long story, so I'll take a sip of water for now.#
+Talk to Priest Grimm#
+
+14653#Detailed History 02#SG_FEEL#QUE_NOIMAGE#
+Read this note.#
+Talk to Priest Grimm#
+
+14654#Detailed History 03#SG_FEEL#QUE_NOIMAGE#
+Come to me when you've finished reading.#
+Talk to Priest Grimm#
+
+14655#Preparation Completed#SG_FEEL#QUE_NOIMAGE#
+Please tell me when you're ready.#
+Talk to Priest Grimm#
+
+14656#A Search for Priest Grimm's Companions#SG_FEEL#QUE_NOIMAGE#
+Using the information from this note, find Gem and her companions and make sure they are in order. I hope for your help#
+Find Gem.#
+
+14657#A Wizard Named Jojo#SG_FEEL#QUE_NOIMAGE#
+The missing wizard's name is Jojo. He's just an aspiring wizard, so it won't be hard to find him.#
+Find the wizard#
+
+14658#A Priest Named Jubilee#SG_FEEL#QUE_NOIMAGE#
+The missing priest's name is Jubilee.
+He is a simple priest, so it will not be difficult to find him.#
+Find a priest.#
+
+14659#A Long and Confusing Thought#SG_FEEL#QUE_NOIMAGE#
+Bomi seems to be on to something. I'll try to talk to her later.#
+Talk to Bomi#
+
+14660#Fake Blood Materials#SG_FEEL#QUE_NOIMAGE#
+We need materials to make a fake blood. It's the sticky blood of Mats Drainliars and the juice of Black Mushrooms. You need 10 servings of each ingredient.#
+Collect Sticky Blood and Mushroom Juice#
+
+14661#A Wizard Named Jojo 02#SG_FEEL#QUE_NOIMAGE#
+We are not alone here. You should hurry if you're looking for a team.#
+Find the wizard#
+
+14662#Something is wrong?#SG_FEEL#QUE_NOIMAGE#
+Everyone stop! Smells weird...#
+Talk to King#
+
+14663#A Bloody Battle#SG_FEEL#QUE_NOIMAGE#
+Smells like blood! There was a battle nearby! Blood!#
+Head to the battlefield#
+
+14664#Deep Misunderstanding#SG_FEEL#QUE_NOIMAGE#
+Many thoughts went through Bomi's mind when she saw the fallen Dracula. Give her time to get her thoughts in order.#
+Talk to Bomi#
+
+14665#An End of the Battle?#SG_FEEL#QUE_NOIMAGE#
+I need some time. Adventurer, meet your team.#
+For Jem#
+
+14666#Role of the Overseer#SG_FEEL#QUE_NOIMAGE#
+We're watching them to make sure they're all right. Return to Priest Grimm and report back.#
+For Priest Grimm#
+
+14667#Time to Bury the Dead#SG_FEEL#QUE_NOIMAGE#
+They must rest in peace. Please bury the dead. Take care of 10 undead of each of 3 types.#
+Bury those who are deprived of rest#
+
+14668#A Good Rest#SG_FEEL#QUE_NOIMAGE#
+You did a great job. You also need rest. Come again at dawn. - Gem#
+Reset time: 4 hours#
+
+14669#Sweet Dreams#SG_FEEL#QUE_NOIMAGE#
+Perhaps the Nightmare's mane is what causes nightmares? I want to study it. I need about 20 Mane Hairs. Kill 10 Illusion Nightmares in the name of science.#
+20 Mane Hairs#
+
+14670#Dream Time#SG_FEEL#QUE_NOIMAGE#
+Adventurer, why don't you take a breath? Come again at dawn. - Antoine#
+Reset time: 4 hours#
+
+14671#Fake Blood#SG_FEEL#QUE_NOIMAGE#
+We need materials to make a fake blood. It's the sticky blood of Mats Drainliars and the juice of Black Mushrooms. You need 10 servings of each ingredient. You need to kill 5 Mat Drainliars and 5 Illusion Black Mushrooms.#
+Collect Sticky Blood and Mushroom Juice#
+
+14674#Meal Time#SG_FEEL#QUE_NOIMAGE#
+I'm still not hungry. But I'm sure I'll be hungry at dawn. Then come visit me. - Bomi#
+Reset time: 4 hours#
+
+14675#A Matter of Mood#SG_FEEL#QUE_NOIMAGE#
+Matter of Mood
+Noisy Mats Drainliars haunt me. Kill them, 10 creatures will be enough. Oh, and another friend of mine needs bat skins. Somewhere around 20 pieces.#
+Mat Drainliar, Bat Skin#
+
+14676#Rest For All#SG_FEEL#QUE_NOIMAGE#
+You killed Mats Drainliars, so it's much quieter. Although after some time they will return. Then come here again. - King#
+Reset time: 4 hours#
+
+14677#Results of Diligent Study#SG_FEEL#QUE_NOIMAGE#
+If Illusion Nightmare Slime is mixed with Illusion Black Mushroom Spores, it will form a luminous goo. It shines so brightly that you can sit next to it and read a book. I need 10 of each ingredient.#
+Glowing Spores, Illusion Nightmare Slime#
+
+14678#Study Time#SG_FEEL#QUE_NOIMAGE#
+Come when the glow of the goo fades. Until then, I'll work hard. - Jojo#
+Reset time: 4 hours#
+
+14679#Curiosity is an Instinct#SG_FEEL#QUE_NOIMAGE#
+I need 10 Dry Yggdrasil Leaves and 10 Suspicious Magic Circles. Also exterminate 5 undead for Priest Grimm.#
+Dry Yggdrasil Leaves, Suspicious Magic Circles#
+
+14680#Research Time#SG_FEEL#QUE_NOIMAGE#
+I don't have time to talk, I need to start my research urgently. Give me some time to focus. - Mojo#
+Reset time: 4 hours#
+
+15110#Ice and Fire#SG_FEEL#QUE_NOIMAGE#
+You need to collect dry branches in order to free Jace and Brid from the ice trap using fire.#
+Collect 10 dry branches#
+
+15111#Destroy the Furious Frost Titans#SG_FEEL#QUE_NOIMAGE#
+Accept Brid's absurd offer and kill 10 Angry Ice Titans.#
+Kill 10 Angry Ice Titans#
+
+15112#Question & Answer#SG_FEEL#QUE_NOIMAGE#
+Breaking the ice! Free Jace from the ice trap.#
+Break the ice Jace is stuck in#
+
+15113#Question & Answer#SG_FEEL#QUE_NOIMAGE#
+Breaking the ice! Free Brid from the ice trap.#
+Break the ice Brid is stuck in.#
+
+15114#Weird Lizard#SG_FEEL#QUE_NOIMAGE#
+Kill the weird lizard that has encased two of your friends in ice. Kill Ktullanux in the cave.#
+Defeat the Awakened Ktullanux#
+
+15115#Brid and Jace#SG_FEEL#QUE_NOIMAGE#
+You can get this quest again after 4 am#
+Reset time: 4 hours#
+
+15116#Clear Ice Illusion#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+15117#A Battle with Angry Gazeti#SG_FEEL#QUE_NOIMAGE#
+Accept Brid's absurd offer and destroy 10 Angry Gazeti.#
+Kill 10 Angry Gazeti#
+
+15118#A Battle with Angry Snowmen#SG_FEEL#QUE_NOIMAGE#
+Accept Brid's absurd offer and kill 10 Angry Snowmen.#
+Kill 10 Angry Snowmen#
+
+15119#A Battle With Solid Icicles#SG_FEEL#QUE_NOIMAGE#
+Accept Brid's absurd offer and kill 10 Solid Icicles.#
+Kill 10 Solid Icicles#
+
+7776#A Suspicious Sign#SG_FEEL#QUE_NOIMAGE#
+The elders of Payon worry about the medium Muyeon missing in the middle of the ceremony. Meet the young scientist at the entrance to Payon Cave and ask him about Muyeon.#
+Talk to a young scientist#
+
+7777#What happened?#SG_FEEL#QUE_NOIMAGE#
+Muyeon went to Payon. The young scientist wants to ask her what happened.#
+Talk to Muyeon#
+
+7778#Muyeon’s Visions#SG_FEEL#QUE_NOIMAGE#
+Muyeon is excited by what she saw during the purification ritual. She said I'd rather see it with my own eyes...#
+Talk to Muyeon#
+
+7779#Spooky Ritual#SG_FEEL#QUE_NOIMAGE#
+Muyeon says she could help me through the purification ritual. We need to talk to her as soon as possible.#
+Talk to Muyeon#
+
+7780#A Nightmare in the Ruined Village#SG_FEEL#QUE_NOIMAGE#
+I passed out during the purification ritual... Now I'm in the Ruined Village inside a cave. Is this shimmering portal in front of me connected to the nightmare Muyeon told me about?#
+Examine the Shimmering Portal#
+
+7781#A Nightmare in the Ruined Village#SG_FEEL#QUE_NOIMAGE#
+I passed out during the purification ritual... Now I'm in the Ruined Village inside a cave. Is this shimmering portal in front of me connected to the nightmare Muyeon told me about?#
+Talk to Chunghae on the other side of the portal.#
+
+7782#Stop the Great Wizard!#SG_FEEL#QUE_NOIMAGE#
+Scholar Chunghae in the Moonlight Nightmare Dungeon believes that the ^4d4dffWizard of Truth^000000 is to blame and asks to deal with him.#
+Kill the Wizard of Truth#
+
+7783#Stop the Great Wizard! (Pending)#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest. After the timeout expires, you can take it again from Scholar Chunghae in Moonlight Nightmare.#
+Reset at 4 o'clock#
+
+7784#Dispelling Illusions#SG_FEEL#QUE_NOIMAGE#
+Soldier Junghee asks you to kill ^4d4dffAngry Nine Tails^000000.#
+Kill Angry Nine Tails#
+
+7785#Dispelling Illusions (Pending)#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest. After the timeout expires, you can take it again from Soldier Junghee in Moonlight Nightmare.#
+Reset at 4 o'clock#
+
+7786#Remember my Ancestors!#SG_FEEL#QUE_NOIMAGE#
+Soldier Junghee asks you to kill ^4d4dffAngry Soldiers^000000.#
+Kill Angry Soldiers.#
+
+7787#Remember my Ancestors! (Pending)#SG_FEEL#QUE_NOIMAGE#
+This is a daily quest. After the timeout expires, you can take it again from Soldier Junghee in Moonlight Nightmare.#
+Reset at 4 o'clock#
+
+7788#For Muyeon#SG_FEEL#QUE_NOIMAGE#
+Give the results of Chunghae's investigation to ^4d4dffMuyeon^000000 in ^4d4dffPayon^000000.#
+Talk to Muyeon.#
