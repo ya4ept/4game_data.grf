@@ -4,7 +4,7 @@ e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 860dc46b918867a3f5a2492314d8ae3e *CheckAttendance.lub
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-48a4ee07a2edc4ef6446cdcb21c4a90d *data.grf
+0d028b32c3d5485f97374d618fb96e18 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -72,7 +72,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 ff8621075c1e3814642deb239e356af0 *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-44615ffb99f5975dcb279da9ba7cd8ef *Frost\launcherUpdater.log
+6d65301c18c3446b27599ad46a83e4e0 *Frost\launcherUpdater.log
 a8e672f33685db1107a0d3073042ce84 *Frost\ro.exe
 133f3f94102745196bac963e6f0515b9 *Frost\.inn.meta.dir\.inn.cache.txt
 133f3f94102745196bac963e6f0515b9 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -83,7 +83,7 @@ e224026094f8c602bdfe2d75331d5303 *gameManager\gameManager.exe
 b82936a316d4ecec820229c88cf46baa *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 1979497478ce30d935229280715cde50 *System\CheckAttendance.lub
-a0e2079c1ac3da1cb29c4cc50d5e3035 *System\iteminfo.lub
+8fc80a458297cdbe3db10ad754d818cf *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 d00c1c39530e3f5fa6c9ffcea2daee95 *System\monster_size_effect_new.lub
