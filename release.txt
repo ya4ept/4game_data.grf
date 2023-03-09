@@ -1,25 +1,111 @@
+07.03.2023 12:16
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— Loki's Trial has begun. Prove yourself worthy until March 15th.
+
+Shop:
+— The Weekend Packs arrived to the Launcher just for one week to provide you with all you need to get a perfect gear;
+— The Springbloom Treasure is here both individually and in packs. Check our Launcher and the Shop.
+
+Other:
+— The daily quest Unreliable Fake Blood has been fixed. Now players can finish quest, collect rewards and summon MVP Dracula correctly;
+— The spawn of Wizard of Truth has been fixed. The mob will spawn only after 12 Crazed Adventurers would be killed.
+
+Finished activities:
+— The "Shaken, not stirred!" event has come to an end;
+— The Refinement Sets with Bandeau of Lovers, Valkyrie Circlet and Red Fox Ears left the Launcher;
+— The Shadow Packs with Shadow Master Equipment also left the Launcher.
+
+Information about weekly update: https://eu.4gameforum.com/threads/691921/
+
+================
 01.03.2023 14:28
 Imp
-The server is open! 
-The "The kingdom of Illusions. Darkness." update has been released. The patchnotes will be updated soon, stay tuned!
+The maintenance is over, the server is online. Changelog:
+
+Game updates:
+— The "The kingdom of Illusions. Darkness." update has been released. Read the fresh patchnotes here.
+
+UPD: We know about the problem with the NPC "Great Merchant" (gef_dun01 139, 228) and fix it soon.
+
+Events:
+— The "Shaken, not stirred" event has begun. It's time to make some fresh drinks;
+
+Shop:
+— The Refinement Sets with Bandeau of Lovers, Valkyrie Circlet and Red Fox Ears arrived to the Launcher;
+— Special Token of Ziegfried is now available into the Launcher and Kafra shop for box or individual price;
+— The Shadow Packs with Shadow Master Equipment are now available into the Launcher.
+
+Finished activities:
+— The "Colorful runaways" event has come to an end;
+— The Valentine's Treasure left the launcher;
+— The Refinement sets with Thanatos' Dolor Hat and General's Helmet with Rideword Hat also left the launcher.
+
 Information about weekly update:  https://eu.4gameforum.com/threads/691897/
 
 ================
 21.02.2023 11:12
 Imp
-The server is open!
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The "Colorful runaways" event is back to Midgard. Help Bob catch the paints.
+— From February 22 (18:00 GMT+3) to February 27 (18:00 GMT+3), Eden Group quests will grant x1.75 XP.
+
+Shop:
+— No need a special date to speak about love. Welcome the Valentine's Treasure individual or in bundled packs with gifts in 4game Launcher;
+— The Refinement sets with Thanatos' Dolor Hat and General's Helmet are back to the Launcher;
+
+Finished activities:
+— The Midgardian style fishing event has come to an end;
+— The Professional Shadow sets left the Launcher;
+— The Refinement Sets with Rideword Hat also left the Launcher.
+
 Information about weekly update: https://eu.4gameforum.com/threads/691864/
 
 ================
 15.02.2023 11:32
 Imp
-The server is open!
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The Midgardian style fishing event is here to bring everyone delicious meals and a bit of competition until February 21st;
+
+Shop:
+— The Professional Shadow sets are back to Launcher, including refinement metals, they stay until February 21st;
+— The Refinement Sets with Rideword Hat are also back to the Launcher until February 21st.
+
+Finished activities:
+— The boost for Eden Quests were removed;
+— The "Saving their world" event has come to an end;
+— The Win-Win Machine was turned off;
+— The Bloody Sets, Battle manual packs, Refinement Sets with Bravery Bag, Golden Angel Wings and Golden Angel Hairband left the Launcher.
+
 Information about weekly update: https://eu.4gameforum.com/threads/691834/
 
 ================
 08.02.2023 11:22
 Imp
-The server is open!
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— We are Boosting the Experience of all Eden Quests on +50% until February 15;
+— The darkness slowly corrupts dimensions unless you win in "Saving their world" event;
+
+Shop:
+— The Win-Win Machine is here! Each spin will definitely grant you the win!
+— The Bloody Sets arrived to the Launcher and stay there until February 15;
+— The Battle manual packs arrived in launcher to extend the experience gain even more;
+— The Refinement Sets with Bravery Bag, Golden Angel Wings and Golden Angel Hairband are back to the Launcher until the 15th February;
+
+
+Finished activities:
+— The "Matilda needs help” event has come to an end;
+— The Enchantment sets were removed from the launcher;
+— The Transmutator Packs also were removed from the Launcher.
+
 Information about weekly update: https://eu.4gameforum.com/threads/691783/
 
 ================
