@@ -1,3 +1,26 @@
+15.03.2023 11:09
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— Hurry up, the Poring Invasion has begun near Prontera!
+— We are Boosting the Experience of all Eden Quests on +50% until March 22nd.
+— The Refinement Rates are currently boosted, it is time to hit the forge!
+
+Shop:
+— HD packs with HD Elunium and HD Oridecon has arrived to the Launcher and will stay here for 1 week;
+— Refinement Sets and Shadow Warlock Packs are now available in the Launcher until March 22nd;
+
+Other:
+— Fixed localization strings while using Hand Sanitizer and Liquid Soap.
+
+Finished activities:
+— The Loki's Trial event will come to an end;
+— The Weekend Packs, the Springbloom Treasure (both individually and in packs) left the Launcher.
+
+Information about weekly update: https://eu.4gameforum.com/threads/691948/
+
+================
 07.03.2023 12:16
 Imp
 The maintenance is over, the server is online. Changelog:
