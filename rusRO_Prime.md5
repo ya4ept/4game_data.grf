@@ -58,7 +58,6 @@ d85b0ca97ecb6394abd13175302faf40 *AI\Util.lua
 2a4f133b7e90dde01f18079861981780 *AI\USER_AI\AI_M.lua
 5ca2546fb27308bcc70f2c05fc331295 *AI\USER_AI\Const.lua
 d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
-9f463433e6c9b73a5dcf3194ae205fbd *data\achievement_list.lub
 1a69e5527fe89864667ce0d340185f01 *Frost\back.bmp
 6d342202659cfea4ab59a3ebaa928b55 *Frost\frost.ico
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
@@ -83,7 +82,7 @@ e224026094f8c602bdfe2d75331d5303 *gameManager\gameManager.exe
 b82936a316d4ecec820229c88cf46baa *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 1979497478ce30d935229280715cde50 *System\CheckAttendance.lub
-8fc80a458297cdbe3db10ad754d818cf *System\iteminfo.lub
+b1a0080e3ee0cda58e25b578a4acbef9 *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 d00c1c39530e3f5fa6c9ffcea2daee95 *System\monster_size_effect_new.lub
