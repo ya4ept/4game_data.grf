@@ -11397,3 +11397,10 @@
 400272#C_Many_Flowers_Prayer#
 420133#C_Dreaming_Rose_Long#
 102265#국화스크롤#
+
+31885#Cons_Of_Earth#
+
+20110#똬리튼뱀모자1#
+20151#포이즌스포아모자#
+20569#C_160LV_Genetic_YGreen#
+102275#토자리스크롤#
