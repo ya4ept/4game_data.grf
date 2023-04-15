@@ -12,7 +12,17 @@
 		<version>1</version>
 		<registrationweb>https://eu.4game.com/</registrationweb>
 		<aid>
-		<admin>100001</admin><admin>100678</admin><admin>100004</admin><admin>100002</admin><admin>100013</admin><admin>100866</admin><admin>100785</admin><admin>100888</admin><admin>103722</admin><admin>105313</admin><admin>131394</admin><admin>143437</admin>
+		<admin>103722</admin>
+		<admin>105313</admin>
+		<admin>131394</admin>
+		<admin>143437</admin>
+		<admin>165184</admin>
+		<admin>165185</admin>
+		<admin>167579</admin>
+		<admin>165187</admin>
+		<admin>165186</admin>
+		<admin>166617</admin>
+		<admin>165763</admin>
 		</aid>
 	</connection>
 </clientinfo>
