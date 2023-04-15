@@ -7,4 +7,54 @@ frostFinalize:
 frostSetUserName:
 frostSetUserNameW:
 setUserName()  
+FrostInt - 2.1
+init(./Frost/gameShieldDll.dll)
+instance of shieldSecurityDll created
+LoadLibraryA(./Frost/gameShieldDll.dll) ok 
+frostInitialize:
+frostFinalize:
+frostSetUserName:
+frostSetUserNameW:
+setUserName()  
+finish() 
+FrostInt - 2.1
+init(./Frost/gameShieldDll.dll)
+instance of shieldSecurityDll created
+LoadLibraryA(./Frost/gameShieldDll.dll) ok 
+frostInitialize:
+frostFinalize:
+frostSetUserName:
+frostSetUserNameW:
+setUserName()  
+finish() 
+FrostInt - 2.1
+init(./Frost/gameShieldDll.dll)
+instance of shieldSecurityDll created
+LoadLibraryA(./Frost/gameShieldDll.dll) ok 
+frostInitialize:
+frostFinalize:
+frostSetUserName:
+frostSetUserNameW:
+setUserName()  
+finish() 
+FrostInt - 2.1
+init(./Frost/gameShieldDll.dll)
+instance of shieldSecurityDll created
+LoadLibraryA(./Frost/gameShieldDll.dll) ok 
+frostInitialize:
+frostFinalize:
+frostSetUserName:
+frostSetUserNameW:
+setUserName()  
+finish() 
+FrostInt - 2.1
+init(./Frost/gameShieldDll.dll)
+instance of shieldSecurityDll created
+LoadLibraryA(./Frost/gameShieldDll.dll) ok 
+frostInitialize:
+frostFinalize:
+frostSetUserName:
+frostSetUserNameW:
+setUserName()  
+finish() 
 finish() 
