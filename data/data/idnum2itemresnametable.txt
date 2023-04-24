@@ -11498,3 +11498,5 @@
 20569#C_160LV_Genetic_YGreen#
 20613#Wing_Of_Spider#
 102315#토자리스크롤#
+
+20561#C_160LV_Warlock_Violet#
