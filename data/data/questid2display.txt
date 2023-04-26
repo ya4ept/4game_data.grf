@@ -1681,7 +1681,7 @@ Bring the Laphine craftsman 15 Crystallized Teardrops and 15 Fluorescent Liquid.
 You did great finding the Crystallized Teardrops and Fluorescent Liquid. They have enough supply for today.#
 #
 
-// �̰��??
+// �̰��??
 //--------------------��������--------------------------------
 8000#Quitting Job Change#SG_FEEL#QUE_NOIMAGE#
 Give up changing your job to Assassin and go back to town. #
@@ -1819,7 +1819,7 @@ The superintendant refused to approve the increase in the Factory Repair budget.
 Zelmeto still wants to make the repairs so he has asked you to bring back ^FF000020 Flexible Tube^000000, ^FF000010 Rusty Screw^000000, and ^FF000010 Used Iron Plate^000000 so they can make the needed repairs.#
 #
 
-// ����Ÿ���� : �����??����Ʈ
+// ����Ÿ���� : �����??����Ʈ
 
 8032#Tarlock's Favor#SG_FEEL#QUE_NOIMAGE#
 Tarlock says that he wouldn't mind telling you how the Airship works if you do him a favor of delivering a letter to his brother Ferlock.#
@@ -2139,7 +2139,7 @@ I warned Bekento that he might cause trouble for you, but it seems that you've c
 Go back to Zhed.#
 
 
-// ���� : ��ô���� ���� ���??����Ʈ (rachel_ryu.sc)
+// ���� : ��ô���� ���� ���??����Ʈ (rachel_ryu.sc)
 
 8106#Mr. Shendar's daughter#SG_FEEL#QUE_NOIMAGE#
 Mr. Shendar says that his daughter has been going out with someone. She went to some town for that boy and he hasn't heard from her since. Find someone who may know what may have happened to her.#
@@ -2467,7 +2467,7 @@ G-go away. Talk to Canell, my sister...!..ZzzzzZzZZZzzzZZ..#
 Now, a true Dancer should be able to figure out the secret to winking on her own. But since I'm such a kind woman, I will deign to explain it to you. Ho-ho~#
  #
 
-// ep13 : �ﱹ ���� �������??���� (ep13_1_rhea.sc)
+// ep13 : �ﱹ ���� �������??���� (ep13_1_rhea.sc)
 
 8196#The Tripartite Union's Feud#SG_FEEL#QUE_NOIMAGE#
 Those researchers complain a lot these days. They're terribly stressed out and I think somebody should really listen to their problems. Especially those dealing with document files argue with each other many times. You might wanna start by talking to them.#
@@ -2718,7 +2718,7 @@ Return after 1 hour.#
 The Chivalry Captain 'Hermann' says you need to get approvals by other Knights in order to become a Knight. #
 Talk to other members of Chivalry.#
 
-//-----------------�����??----------------------
+//-----------------�����??----------------------
 
 // 1st test - 1
 9001#Loyalty of a Knight#SG_FEEL#QUE_NOIMAGE#
@@ -2817,7 +2817,7 @@ Collect 5 Crystal Blue, 5 Green Live, 5 Red Blood, 5 Wind of Verdure.#
 You've passed the first test. Katrine says that now you should go to the man in the corner.#
 Talk to the Dismal Wizard.#
 
-//---------------------------���??( ��ħ�� ���� )--------------------------------
+//---------------------------���??( ��ħ�� ���� )--------------------------------
 
 9016#Job Change to Wizard#SG_FEEL#QUE_NOIMAGE#
 The second step of the Job Change test is to give correct answers to the questions given by Laurel.#
@@ -3007,7 +3007,7 @@ Go to Meto and check if your interference was effective.#
 Reforming successful! Go and report to Weigon.#
 #
 
-//---------------------------���??���� �ΰ�--------------------------------
+//---------------------------���??���� �ΰ�--------------------------------
 10034#Search the knife#SG_FEEL#QUE_NOIMAGE#
 Go down to the field to find Yun Kyo Ham's knife.#
 #
@@ -3016,7 +3016,7 @@ Go down to the field to find Yun Kyo Ham's knife.#
 You found the knife. Return to Yun Kyo Ham.#
 #
 
-//---------------------------���� �ͻ��??��--------------------------------
+//---------------------------���� �ͻ��??��--------------------------------
 10036#Candies for Magumagu#SG_FEEL#QUE_NOIMAGE#
 Bring 10 Candies to Magumagu.#
 #
@@ -3106,7 +3106,7 @@ You'll be able to learn the Utan language if you bring the following materials: 
 Collect the required materials.#
 
 // --------------EP13------------------------------------------
-//---------------------------�̰��??����--------------------------------
+//---------------------------�̰��??����--------------------------------
 10057#Onward to the Other World#SG_FEEL#QUE_NOIMAGE#
 Go to the promotional staff in Aldebaran.#
 #
@@ -3240,7 +3240,7 @@ Your story seems quite influential to him.#
 You experienced of things to tell him, just tell all of things you felt from the experience.#
 
 // �ۼ���
-// ----------�������?? ��ü����, ������, ���ݴ³���
+// ----------�������?? ��ü����, ������, ���ݴ³���
 11000#Inspection of Odin Shrine#SG_FEEL#QUE_NOIMAGE#
 Anyway, if you'd like to help us, please take a look around the shrine and see if you'd want to work for us. Please talk to the Boatman to travel to the shrine, okay?#
 Talk to Alex again after investigating the Shrine.#
@@ -3627,7 +3627,7 @@ I need something to fix the tent with, if you can get^0000FF 30 Horn of Hillslio
 
 
 // ���Ͽ�
-//---------------ģ��, �������??-----------------------
+//---------------ģ��, �������??-----------------------
 12000#An old friend#SG_FEEL#QUE_NOIMAGE#
 Find Maku's old friend and talk with him.#
 #
@@ -8642,7 +8642,7 @@ Message from ^0000FFBorobudur Temple Manager^000000: ^404040Dewata Island and Ja
 Go back to the ^0000FFTribal Chief Paiko^000000 and receive the reward.#
 
 //---------13.3 �߰� �� ����-------
-//--ep13_3_invite , ep13_3_secret ���Ǽҵ� 13.3 ������ ��û, ����ӹ�??
+//--ep13_3_invite , ep13_3_secret ���Ǽҵ� 13.3 ������ ��û, ����ӹ�??
 7182#Sapha's Visit#SG_FEEL#QUE_NOIMAGE#
 There are rumors that a Sapha from Manuk has come to visit the camp. Aello trusts me so he appointed me to speak to him. The delegate is in the room at the right on the second floor.#
 Meet the Sapha delegate upstairs.#
@@ -10471,7 +10471,7 @@ You have finished a job for the Knights of the Neighborhood Boss. Wait for the t
 #
 
 // ���Ǽҵ� 14.1
-// �����??�����??���� ������
+// �����??�����??���� ������
 5016#Bring me Research Tools#SG_FEEL#QUE_NOIMAGE#
 The Raffle Researchers are saying that they were being attached by an unidentified life and so their research was stolen from them.#
 Go and retrieve the research from the unidentified life and give it back to the researchers.#
@@ -11444,7 +11444,7 @@ Observe Beho and Bianca and make sure that your plan for the one-eyed loverboy w
 #
 
 
-//- ��Ʈ �����??
+//- ��Ʈ �����??
 2271#Secret in the Woods#SG_FEEL#QUE_NOIMAGE#
 Guard from Port Malaya said villagers are all talking about a treasure.#
 Talk to the gathered Port Malaya villagers.#
@@ -11491,7 +11491,7 @@ Get Rid of Buwaya#
 
 // ---------- Port Malaya Update ------------
 
-//------------��Ʈ �����??������
+//------------��Ʈ �����??������
 7350#Cautious Village#SG_FEEL#QUE_NOIMAGE#
 First time in Port Malaya. Feeling a bit confused but better go see Phong in Mumbaki in the village as told. I'm sure he'll help me out.#
 Talk to Phong in Mumbaki#
@@ -11820,7 +11820,7 @@ Set up the trap. Report back to the Chief.#
 Talk to the 'Chief' in Malaya.#
 
 
-//-- ��Ʈ�����??
+//-- ��Ʈ�����??
 12278#Towards Bakonawa Lake...#SG_FEEL#QUE_NOIMAGE#
 Entered the lake to stop Bakonawa. Don't think I need to go back into the lake within the week.#
 #
@@ -11830,7 +11830,7 @@ A huge fight will break out if Bakonawa is left as is. He must be eliminated.#
 #
 
 
-// �ʸ��� ���ö���¡ : ������ ���� 2�� ��Ʈ�����??
+// �ʸ��� ���ö���¡ : ������ ���� 2�� ��Ʈ�����??
 9222#Get Rid of Bangungot from Hospital 2F'#SG_FEEL#QUE_NOIMAGE#
 Track and kill ^0000FFBangungot^000000 and then return to the nurse.#
 #
@@ -11844,7 +11844,7 @@ Investigate the ^0000FFHospital 2F^000000 overflowing with dark energy.#
 #
 
 
-//-- ��Ʈ �����??
+//-- ��Ʈ �����??
 11284#Nurse at Port Malaya#SG_FEEL#QUE_NOIMAGE#
 Looks dirty but 'Rotten Bandages' were soaked in special juice and have special powers. It only takes 2 of these bandages to cover both feet.#
 Deliver 2 Rotten Bandages and talk again.#
@@ -11949,7 +11949,7 @@ Feel like Las was playing you. Talk to the nurse in front of the hospital.#
 You've not only interrupted my job but you also brought her to the room making you responsible. Don't think of running away.#
 Get rid of Bangungot and return.#
 
-//-- ��Ʈ �����??
+//-- ��Ʈ �����??
 4229#Devil in the Cave#SG_FEEL#QUE_NOIMAGE#
 People say the monster is not appearing at the moment. Should come back tomorrow.#
 Buwaya in hiding#
@@ -13052,7 +13052,7 @@ When you finish your job, Please report to Cat gamers Director.#
 Go Malangdo..#
 Malangdo#
 
-//-- ������ �߿� �����??
+//-- ������ �߿� �����??
 7242#Play with the baby cat#SG_FEEL#QUE_NOIMAGE#
 The request from Rato, an expert cat sailor in Malangdo. He worries about the baby cats so asked you find them and play with them. Go to find those baby cats. They are Rosy the white one, Roku the black one, and gold one Charo.#
 #
@@ -13614,7 +13614,7 @@ Let's get back with 30 delicious jelly.#
 You can't receive any request from Biscuit during one day.#
 #
 
-//--���Ϲ����??���� ����Ʈ(����14.1���߰�_����������)
+//--���Ϲ����??���� ����Ʈ(����14.1���߰�_����������)
 12254#Now it's cleaning#SG_FEEL#QUE_NOIMAGE#
 Now it's cleaning time. Please concentrate one spot before the time finishes#
 Clean the culvert within 1 hour#
@@ -20702,7 +20702,7 @@ Church Donation Quest#
 I have completed learning Odin's skill for today. Need to wait till 20 hours pass.#
 Come back 20 hours later.#
 
-//------20090826 ���ݸ��??����Ʈ-----------
+//------20090826 ���ݸ��??����Ʈ-----------
 9034#No Fears!!#SG_FEEL#QUE_NOIMAGE#
 I am a fearless warrior! Let's try again tomorrow!#
 Come back 20 hours later.#
@@ -20751,7 +20751,7 @@ Refine ^0000FFGloria's^000000 ^006400Ordinary Armor^000000 up to ^0000FF+5 level
 9045#Gloria's Study: Present#SG_FEEL#QUE_NOIMAGE#
 I have completed helping Gloria for today.Need to wait till 20 hours have passed.#
 Come back 20 hours later.#
-//---- �ʸ��� ���??�̺�Ʈ 1�� --------
+//---- �ʸ��� ���??�̺�Ʈ 1�� --------
 9049#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : ^404040Visit Mercenary Scout^000000#
 Find ^FF0000Mercenary Scout^000000 in the ^8B4513Glast Heim Prison^000000!!#
@@ -20764,7 +20764,7 @@ Kill 150 ^FF0000Zombie Prisoners^000000, then you can get rewards from ^FF0000Me
 ^0000FFElite Mercenary^000000, ^0000FFMercenary Scout^000000 : ^404040Well done! You did a good job^000000#
 Defeated ^FF0000Zombie Prisoners^000000. Now, ^8B4513Glast Heim Prison^000000 is in a peace.#
 
-//----- 2010 ���������??------------
+//----- 2010 ���������??------------
 // IARA
 9052#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : ^404040Visit Mercenary Scout^000000#
@@ -20778,7 +20778,7 @@ Kill 150 ^FF0000Ice Titan^000000, then you can get rewards from ^FF0000Mercenary
 ^0000FFElite Mercenary^000000, ^0000FFMercenary Scout^000000 : ^404040Well done! You did a good job^000000#
 Defeated ^FF0000Ice Titan^000000. Now, ^8B4513Ice Cave^000000 is in a peace.#
 
-// 2010 �ʸ��� ��������- ����佺Ƽ��??
+// 2010 �ʸ��� ��������- ����佺Ƽ��??
 9055#Midgard Crowd Control event#SG_FEEL#QUE_NOIMAGE#
 ^0000FFElite Mercenary^000000 : ^404040Visit Mercenary Scout^000000#
 Find ^FF0000Mercenary Scout^000000 in the ^8B4513Sphinx^000000!!#
@@ -20995,12 +20995,12 @@ Kill 100 ^FF0000Gullinbursti^000000 from ^8B4513dungeon^000000!!#
 Message from ^0000FFValkyrie Yuna D^000000: ^404040defeat 100 Zombie Master^000000#
 Kill 100 ^FF0000Zombie Master^000000 from ^8B4513dungeon^000000!!#
 
-// ------- �ʸ��� : ���??����Ʈ - 5�� -
+// ------- �ʸ��� : ���??����Ʈ - 5�� -
 
-9166#Stat Reset : Present Condition#SG_FEEL#QUE_NOIMAGE#
-You can get a Stat Reset Service if you have [Shard of Odin].#
-Come back ^FF000020 hours^000000 later.#
-//-----------�ʸ��� 2010 ���� ħ�� ���??�̺�Ʈ
+9166#Stat Reset#SG_FEEL#QUE_NOIMAGE#
+You have got a Stat Reset Service using Reset Stones. Wait 20 hours if you want to re-use the service or clear the task in the quest log.#
+#
+//-----------�ʸ��� 2010 ���� ħ�� ���??�̺�Ʈ
 
 9200#1st Adventure#SG_FEEL#QUE_NOIMAGE#
 Talk to Rina.#
@@ -23761,7 +23761,7 @@ You need to attack the Sky Fortress attacking Prontera and defeat the boss.#
 Attack Sky Fortress#
 
 9419#Attack Sky Fortress Invading Prontera#SG_FEEL#QUE_NOIMAGE#
-^8B4513Scientist Doyeon^000000‘s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic.#
+^8B4513Scientist Doyeon^000000?�s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic.#
 Visit Doyeon in 3 days.#
 
 9427#Clearing the Sky Fortress for the Same Time#SG_FEEL#QUE_NOIMAGE#
@@ -23923,7 +23923,7 @@ You handed over Guile Marovitz's things.#
 #
 
 7751#Compact Needle Box#SG_FEEL#QUE_NOIMAGE#
-You handed over Cecil Damon’s things.#
+You handed over Cecil Damon?�s things.#
 #
 
 7752#Well Hidden#SG_FEEL#QUE_NOIMAGE#
@@ -24025,7 +24025,7 @@ Come again tomorrow!#
 
 11467#Old Letter for Ridsh#SG_FEEL#QUE_NOIMAGE#
 Rebellion senior Ridsh instructed you to go to the back streets in the northeast of the northern fields of Einbroch and ask Julian to let you in, then you need to destroy strong Heart Hunters and get 1 Old Letter.#
-Ridsh’s order#
+Ridsh?�s order#
 
 11468#Old Letter for Ridsh#SG_FEEL#QUE_NOIMAGE#
 You have completed Ridsh's order. Come again tomorrow.#
@@ -24033,10 +24033,10 @@ Come again tomorrow!#
 
 11469#Very Shining Ring for Cotnes#SG_FEEL#QUE_NOIMAGE#
 Rebellion senior Cotnes has instructed you to go to the back alleys in the northeast of the northern fields of Einbroch and ask Julian to let you in, then you need to destroy 5 Heart Hunter Guards and get 1 Very Shining Ring.#
-Cotnes’ order#
+Cotnes??order#
 
 11470#Very Shining Ring for Cotnes#SG_FEEL#QUE_NOIMAGE#
-You have completed Cotnes’ order. Come again tomorrow.#
+You have completed Cotnes??order. Come again tomorrow.#
 Come again tomorrow!#
 
 //-- ep16.2
@@ -24132,7 +24132,7 @@ Go to Erst on the second floor and talk to him. If you convince him, then everyt
 To Erst on the second floor#
 
 14614#Persuading Important People#SG_FEEL#QUE_NOIMAGE#
-Go to the influential people on the second floor, convince them, then return. You can’t sneak onto another road, you need to come to me! Good luck adventurer!#
+Go to the influential people on the second floor, convince them, then return. You can?�t sneak onto another road, you need to come to me! Good luck adventurer!#
 Convince the influencers, then report back#
 
 14615#Between Negotiation and Fraud#SG_FEEL#QUE_NOIMAGE#
@@ -24169,7 +24169,7 @@ Go to Mason Bender#
 The speech was too awkward, it felt like you were completely rejected. Ask Elena Bolkova for help.#
 Return to Elena Bolkova#
 
-63116#Expert’s Wisdom#SG_FEEL#QUE_NOIMAGE#
+63116#Expert?�s Wisdom#SG_FEEL#QUE_NOIMAGE#
 Go to Ericsson Adler, a rebel member introduced to you by Elena Bolkova, and get advice related to the twins.#
 Go to Ericsson Adler#
 
@@ -24190,15 +24190,15 @@ Do not forget the request of Elena Bolkova, after dawn, find the twins and talk 
 Reset at 4 o'clock#
 
 63121#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
-Take the book '^0000CDVertigo from a Thousand Years of Upheaval^000000’ from the librarian at the Prontera Library. This is the most talked about book by the author, who has been blown by the river wind for a thousand years.#
+Take the book '^0000CDVertigo from a Thousand Years of Upheaval^000000??from the librarian at the Prontera Library. This is the most talked about book by the author, who has been blown by the river wind for a thousand years.#
 Visit the Prontera Library#
 
 63122#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
-Take the book '^0000CDRebels, a History of Freedom^000000’ from the librarian at the Prontera Library. A history of freedom and willfulness of the middle-aged rebels, which has passed through the ages!#
+Take the book '^0000CDRebels, a History of Freedom^000000??from the librarian at the Prontera Library. A history of freedom and willfulness of the middle-aged rebels, which has passed through the ages!#
 Visit the Prontera Library#
 
 63123#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
-Take the book '^0000CDSkyline of Muspelheim^000000’ from the librarian at the Prontera Library. A touching non-fiction essay that perfectly illustrates Muspelheim's ecosystem.#
+Take the book '^0000CDSkyline of Muspelheim^000000??from the librarian at the Prontera Library. A touching non-fiction essay that perfectly illustrates Muspelheim's ecosystem.#
 Visit the Prontera Library#
 
 63124#Service: Delivery of Loaned Books#SG_FEEL#QUE_NOIMAGE#
@@ -24249,7 +24249,7 @@ Reset at 4 o'clock#
 The revolver often breaks and already looks like a time bomb, you need to quickly deliver it to the Einbroch blacksmiths guild.#
 Consult the Einbroch blacksmiths' guild.#
 
-63136#Expert’s Opinion#SG_FEEL#QUE_NOIMAGE#
+63136#Expert?�s Opinion#SG_FEEL#QUE_NOIMAGE#
 Give Rachel Smith the result you found out about at the blacksmith's guild.#
 Visit Rachel Smith#
 
@@ -25068,7 +25068,7 @@ Talk to a young scientist#
 Muyeon went to Payon. The young scientist wants to ask her what happened.#
 Talk to Muyeon#
 
-7778#Muyeon’s Visions#SG_FEEL#QUE_NOIMAGE#
+7778#Muyeon?�s Visions#SG_FEEL#QUE_NOIMAGE#
 Muyeon is excited by what she saw during the purification ritual. She said I'd rather see it with my own eyes...#
 Talk to Muyeon#
 
