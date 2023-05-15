@@ -2,11 +2,11 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-6f400aee51e93313c4dcebb9fac07d70 *data.grf
+84a758cfc1288fb9ca8ad1a7abdaa44f *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
-1896507ef945ddd54fefeb465ca0e9e4 *iteminfo.lub
+f1622c886294b45ddab58c2a2bcf6358 *iteminfo.lub
 c100b5d1fc6f4f4c7db3dc1bf5d8b7dd *licence.txt
 19d292b0d8d417c90440b41aefd8a38e *mfc110.dll
 e9503911178352a473eeba6ab0768ff7 *mfc140.dll
@@ -41,7 +41,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 a61061ecc6feed6e46a348111346b549 *Frost\frostinfo.txt
-d0c008e53ce1800af1f306ef1189f924 *Frost\frostInit.log
+141f2cda4b442655bd9207d8f227fbae *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 17fb375e2bf4631c0bfe72ff854a5886 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -49,7 +49,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 ff8621075c1e3814642deb239e356af0 *Frost\gameShieldDll.dll
 d0282c2c0b139ef4d4cd087369faa922 *Frost\launcher.dll
-57a579d23ab71f85ea4eb10395cf38ea *Frost\launcherUpdater.log
+f9efc357654a595009217a268d3b69c0 *Frost\launcherUpdater.log
 bd51f30dea1a839f094ed68ccff86ad5 *Frost\ro.exe
 91401a4dea5735c4cd417879c5d6b1bc *Frost\.inn.meta.dir\.inn.cache.txt
 91401a4dea5735c4cd417879c5d6b1bc *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -59,7 +59,7 @@ dad758c50a9671dcb5e65d5efebd0ab9 *Frost\.inn.meta.dir\.inn.installed.control.txt
 e224026094f8c602bdfe2d75331d5303 *gameManager\gameManager.exe
 9329be6eb40af56cc93f2e2ba64e587c *System\achievement_list.lub
 625abc7ac420ec4b3f17a0c646e886fb *System\checkattendance.lub
-c575cf12fb01efee8eef1a83f045c511 *System\iteminfo.lub
+d277399c6a1d9c27ab2e6c857f382add *System\iteminfo.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 7dc30793464a804f7123a860221cd6cb *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
