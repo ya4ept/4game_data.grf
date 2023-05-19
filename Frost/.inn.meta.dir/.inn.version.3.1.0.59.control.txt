@@ -1,0 +1,21 @@
+distribution {1}
+    version=3.1.0.59
+    type=full
+    env=
+    files=./
+    control-hash=c8cb546aa7154bee4b521a6dbb3a43063555a9ff
+    deleted-control-hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+    command-hash=
+    adapter-hash=
+    compressed-size=225185
+    size=415824
+    compressed-size-total=225185
+    size-total=415824
+    compressed-stages=
+
+delta {0}
+patcher {1}
+    version=1.1.4.0
+    date-created=2023-03-28T07:22:14+04:00
+    running-time-sec=0
+
