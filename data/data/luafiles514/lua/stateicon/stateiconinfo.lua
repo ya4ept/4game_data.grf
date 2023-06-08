@@ -234,6 +234,16 @@ StateIconList[EFST_IDs.EFST_SYMPHONY_LOVE] = {
 		{ "Магическая защита повышена." }
 	}
 }
+StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Блокировка оружием", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "С некоторым шансом блокирует" },
+		{ "атаки противника." }
+	}
+}
 StateIconList[EFST_IDs.EFST_BANDING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,

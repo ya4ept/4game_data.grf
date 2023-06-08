@@ -1,5 +1,18 @@
 tblLapineUpgradeBox = {
 	targets = {
+		Magma_Essence = {
+			ItemID = 23815,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 2,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Lava_Leather_Armor", 15378 },
+				{ "Lava_Leather_Suits", 15379 },
+				{ "Lava_Leather_Robe", 15380 }
+			},
+			NeedSource_String = "Лавовая броня"
+		},
 		EP17_1_SPC05 = {
 			ItemID = 23776,
 			NeedRefineMin = 0,
@@ -24,7 +37,7 @@ tblLapineUpgradeBox = {
 				{ "Ultio_Spes_OS", 16089 },
 				{ "ElectricFox_OS", 26164 }
 			},
-			NeedSource_String = "OS Weapon"
+			NeedSource_String = "Оружие ОС"
 		},
 		EP17_1_SPC06 = {
 			ItemID = 23777,
@@ -50,7 +63,7 @@ tblLapineUpgradeBox = {
 				{ "Ultio_Spes_OS", 16089 },
 				{ "ElectricFox_OS", 26164 }
 			},
-			NeedSource_String = "OS Weapon"
+			NeedSource_String = "Оружие ОС"
 		},
 		EP17_1_SPC07 = {
 			ItemID = 23778,
@@ -76,7 +89,7 @@ tblLapineUpgradeBox = {
 				{ "Ultio_Spes_OS", 16089 },
 				{ "ElectricFox_OS", 26164 }
 			},
-			NeedSource_String = "OS Weapon"
+			NeedSource_String = "Оружие ОС"
 		},
 		EP17_1_SPC08 = {
 			ItemID = 23779,
@@ -102,7 +115,7 @@ tblLapineUpgradeBox = {
 				{ "Ultio_Spes_OS", 16089 },
 				{ "ElectricFox_OS", 26164 }
 			},
-			NeedSource_String = "OS Weapon"
+			NeedSource_String = "Оружие ОС"
 		},
 		EP17_1_SPC09 = {
 			ItemID = 23780,
@@ -128,7 +141,7 @@ tblLapineUpgradeBox = {
 				{ "Ultio_Spes_OS", 16089 },
 				{ "ElectricFox_OS", 26164 }
 			},
-			NeedSource_String = "OS Weapon"
+			NeedSource_String = "Оружие ОС"
 		},
 		EP17_1_SPC10 = {
 			ItemID = 23781,
@@ -154,7 +167,7 @@ tblLapineUpgradeBox = {
 				{ "Ultio_Spes_OS", 16089 },
 				{ "ElectricFox_OS", 26164 }
 			},
-			NeedSource_String = "OS Weapon"
+			NeedSource_String = "Оружие ОС"
 		},
 		Ancient_Hero_Bravery = {
 			ItemID = 100023,
@@ -963,7 +976,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 0,
 			NeedRefineMax = 8,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = false,
+			NotSocketEnchantItem = true,
 			TargetItems = {
 				{ "Royal_Bow_K", 18164 },
 				{ "Narcis_Bow", 18170 },
@@ -1009,7 +1022,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 0,
 			NeedRefineMax = 8,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = false,
+			NotSocketEnchantItem = true,
 			TargetItems = {
 				{ "Ancient_Hero_Boots", 22171 }
 			},
@@ -1020,7 +1033,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = false,
+			NotSocketEnchantItem = true,
 			TargetItems = {
 				{ "S_Knight_Shoes", 24256 },
 				{ "S_Crusader_Shoes", 24257 },
@@ -1104,7 +1117,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = false,
+			NotSocketEnchantItem = true,
 			TargetItems = {
 				{ "S_Knight_Shoes", 24256 },
 				{ "S_Crusader_Shoes", 24257 },
@@ -1269,6 +1282,7 @@ tblLapineUpgradeBox = {
 		}
 	},
 	results = {
+		Magma_Essence = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "LAV2", FailureItems = {} },
 		EP17_1_SPC05 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "17WA", FailureItems = {} },
 		EP17_1_SPC06 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "17WB", FailureItems = {} },
 		EP17_1_SPC07 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "17WC", FailureItems = {} },
