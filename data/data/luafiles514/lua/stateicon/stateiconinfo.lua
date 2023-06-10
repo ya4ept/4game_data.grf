@@ -876,8 +876,8 @@ StateIconList[EFST_IDs.EFST_KAAHI] = {
 	descript = {
 		{ "Kaahi", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Recover HP by consuming SP when receiving attacks" },
-		{ "excluding skill attacksSP" }
+		{ "Recovers HP by consuming SP when receiving" },
+		{ "regular attacks (excluding skills)" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ECHOSONG] = {
@@ -1200,7 +1200,7 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 		{ "Giant Cross", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increase STR" },
-		{ "When mili attacking" },
+		{ "When melee attacking" },
 		{ "have chance to give gigantic damage" },
 		{ "have chance to destroy the caster's weapon" }
 	}
@@ -1397,7 +1397,7 @@ StateIconList[EFST_IDs.EFST_DODGE_ON] = {
 		{ "Have chance to block long ranged" },
 		{ "physical attacks or magical attacks" },
 		{ "When caster is in Spurt" },
-		{ "also can block mili-attacks" }
+		{ "also can block melee-attacks" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TARGET_BLOOD] = {
@@ -1454,7 +1454,7 @@ StateIconList[EFST_IDs.EFST_ENCHANTBLADE] = {
 	descript = {
 		{ "Enchant Blade", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Add MATK to mili physical ATK" }
+		{ "Add MATK to melee physical ATK" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ADRENALINE] = {
@@ -1958,7 +1958,7 @@ StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
 		{ "Stonehard Skin", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Create defense barrier after consuming certain amount of HP" },
-		{ "When other player mili physical attacks to the caster" },
+		{ "When other player melee physical attacks to the caster" },
 		{ "have chance to destroy the enemy's weapon" },
 		{ "have chance to decrease ATK of the monster" }
 	}
@@ -2111,7 +2111,7 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 		{ "Shield Reflect", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Reflect certain amount of damage to the enemy" },
-		{ "which the caster got from the mili-physical attack" }
+		{ "which the caster got from the melee-physical attack" }
 	}
 }
 StateIconList[EFST_IDs.EFST_RIDING] = {
