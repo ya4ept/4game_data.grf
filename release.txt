@@ -1,3 +1,52 @@
+06.07.2023 11:29
+Ragnarok Online Prime EU
+The server is open!
+
+Changes:
+— The Bossnia event has been fixed: Respawn now occurs in the top right corner, the number of monsters in the player spawn area has been reduced, and the usage of the "Token of Ziegfried" item has been blocked.
+— The Thanatos Tower map (thana_boss) has been fixed: Teleportation and all aggression removal skills now work on this map.
+
+Events:
+—Daily rewards are now available in the game.
+
+Shop:
+— The Ancient Heroes' Treasure arrived in launcher.
+— The range of equipment in the Kafra Shop has been updated
+
+Information about weekly update: https://eu.4gameforum.com/threads/692449/
+
+================
+28.06.2023 10:59
+Ragnarok Online Prime EU
+The server is open!
+
+Changes:
+— Guard Coin can now be placed in Storage and sold to NPCs.
+— Fixed transferability of Stanley's Shadow Footgear Box and Stanley's Shadow Shield Box items.
+— The gear section of the in-game store has been updated.
+Several irrelevant items have been removed and a number of new items have been added. Some items have been repriced.
+
+— MVP maps changes in the Bossnia Event:
+    - Teleportation is now disabled on MVP maps.
+    - Some aggression removal skills are now disabled on MVP maps.
+
+Events:
+— The gates to the most terrible place of Midgard - Bossnia have opened and Bossnia tickets arrived to the Kafra Shop;
+
+Shop:
+— The Bossnia ticket packs arrived in launcher.
+— The range of equipment in the Kafra Shop has been updated.
+
+Finished activities:
+— The "Boosted Refinement Rates" event has come to an end;
+— The HD Refinement Sets & Hat Packs left the Launcher;
+— The Win-Win Machine left the Launcher;
+— The "Poring Invasion" event event has come to an end;
+— The "Festival of Treasures" has come to an end;
+
+Information about weekly update: https://eu.4gameforum.com/threads/692395/
+
+================
 21.06.2022 12:28
 Ragnarok Online Prime EU
 The server is open!
