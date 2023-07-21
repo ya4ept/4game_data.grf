@@ -1,3 +1,46 @@
+20.07.2023 11:29
+Ragnarok Online Prime EU
+The server is open!
+
+Changes:
+— Fixed a bug in the item "Cancer crown". The required level has been corrected from 70 to 1 level.
+— The Kafra Shop has been updated:
+        -    Transmutators have been added to the shop (in the "Other" section).
+        -    Enhanced Merchant Envelope (3d) has appeared in the Rental section, many irrelevant items have been removed from the Rental section.
+        -    The price of Inf. Giant Fly Wing Box (1 hour) has been slightly reduced.
+
+Events:
+— The "Gold Rush" event has begun.
+— The "+30% ALL Experience Boost" event has begun.
+
+Shop:
+— The Battle manual packs arrived in launcher.
+
+Finished activities:
+— The "Midgardian style Fishing in Geffen" event has come to an end;
+— The Shadow Packs & ChronoSets left the Launcher;
+
+Information about weekly update: https://eu.4gameforum.com/threads/692491/
+
+================
+12.07.2023 10:59
+Ragnarok Online Prime EU
+The server is open!
+
+Events:
+— The "Midgardian style Fishing in Geffen" event has begun.
+
+Shop:
+— The Shadow Packs and Chrono Sets arrived in launcher.
+
+Finished activities:
+— The Bossnia event has come to an end;
+— The Ancient Heroes' Treasure left the Launcher;
+— The Bossnia ticket packs left the Launcher;
+
+Information about weekly update: https://eu.4gameforum.com/threads/692473/
+
+================
 06.07.2023 11:29
 Ragnarok Online Prime EU
 The server is open!
