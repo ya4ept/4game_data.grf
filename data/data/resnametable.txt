@@ -1,3 +1,20 @@
+//201805 17.1 Ãß°¡¸Ê
+1@cor.gnd#1@cor.gnd#
+1@cor.gat#1@cor.gat#
+1@cor.rsw#1@cor.rsw#
+
+1@os_a.gnd#1@os_a.gnd#
+1@os_a.gat#1@os_a.gat#
+1@os_a.rsw#1@os_a.rsw#
+
+1@os_b.gnd#1@os_b.gnd#
+1@os_b.gat#1@os_b.gat#
+1@os_b.rsw#1@os_b.rsw#
+
+1@rgsr.gnd#1@rgsr.gnd#
+1@rgsr.gat#1@rgsr.gat#
+1@rgsr.rsw#1@rgsr.rsw#
+
 //EP.15 
 1@mcd.gnd#1@mcd.gnd#
 1@mcd.gat#1@mcd.gat#

@@ -710,6 +710,14 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
+	[HatEFID.HAT_EF_C_Kyel_hyre_Ulti_TW] = {
+		resourceFileName = "EFST_Kyel_hyre_Ulti_TW\\tentaKaiser.str",
+		hatEffectPos = -16,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
 	[HatEFID.HAT_EF_C_Master] = {
 		resourceFileName = "efst_C_Master\\13123123.str",
 		hatEffectPos = -7,
@@ -819,7 +827,7 @@ hatEffectTable = {
 		isAdjustSizeWhenShrinkState = true
 	},
 	[HatEFID.HAT_EF_C_Melody_Wing] = {
-		resourceFileName = "C_Melody_Wing\\notetama.str",
+		resourceFileName = "efst_C_Melody_Wing\\notetama.str",
 		hatEffectPos = 0,
 		hatEffectPosX = 0,
 		isAdjustPositionWhenShrinkState = true,

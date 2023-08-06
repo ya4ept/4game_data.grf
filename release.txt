@@ -1,3 +1,64 @@
+04.08.2023 20:03
+Ragnarok Online Prime EU
+The maintenance is over, the server is online.
+
+================
+04.08.2023 14:06
+Ragnarok Online Prime EU
+The maintenance is over, the server is online.
+
+Changes:
+— The "Colourful Runaways" event has been disabled.
+
+================
+03.08.2023 11:59
+Ragnarok Online Prime EU
+The server is open!
+
+Changes:
+— The list of items available for exchange for Lucky Coins at the Dovmihr NPC has been updated. The chance of receiving any item from the Legendary Reward List is now the same.
+— A shadow set of two dances has been added for exchange at Dovmihr NPC.
+— Teleportation and the use of items that move around the location are now allowed on the mag_dun03.gat and gl_cas01_.gat maps.
+— Magma Essence now works properly
+— Sprite errors for some players have been fixed.
+— Unexpected Apple drop event has ended.
+
+Events:
+— The "Colorful runaways" event has begun.
+— The "Daily rewards" event has begun.
+
+Shop:
+— The Shadow Packs arrived in launcher.
+— The Hot Summer Treasure and Hot Summer Treasure Sets arrived in launcher.
+
+
+Finished activities:
+— The HD Refinement Sets & Hat Packs left the Launcher;
+— The "Boosted Refinement Rates" event has come to an end;
+— The "Gold Rush" event has come to an end;
+
+Information about weekly update: https://eu.4gameforum.com/threads/692596/
+
+================
+25.07.2023 14:29
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Changes:
+— The "Illusions 17.1" update has been installed. The update is described in detail in our patch note: https://eu.4game.com/patchnotes/roprime/435/
+
+Events:
+— The "Boosted Refinement Rates" event has begun.
+Shop:
+— The "HD Refinement Sets & Hat Packs" arrived in launcher.
+
+Finished activities:
+— The Battle manual packs left the Launcher;
+— The "+30% ALL Experience Boost" event has come to an end;
+
+More: https://eu.4gameforum.com/threads/692548/
+
+================
 20.07.2023 11:29
 Ragnarok Online Prime EU
 The server is open!

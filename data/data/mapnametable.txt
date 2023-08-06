@@ -1,4 +1,4 @@
-//-- ГЦБѕ°»ЅЕ їААь 11:13 2013-04-23 є»ј­№ц
+//-- ?Ц??°»?? ???? 11:13 2013-04-23 ?»?­?��?
 
 
 // Izlude tutorial map
@@ -435,8 +435,9 @@ job_cru.rsw#Crusader Realm#
 job_monk.rsw#Saint Capitolina Abbey#
 monk_test.rsw#Saint Capitolina Abbey#
 in_rogue.rsw#Inside the Rogue Guild#
-mag_dun02.rsw#Nogg Road#
-mag_dun01.rsw#Nogg Road#
+mag_dun02.rsw#Nogg Road F2#
+mag_dun01.rsw#Nogg Road F1#
+mag_dun03.rsw#Nogg Road F3#
 yuno_fild04.rsw#El Mes Plateau#
 yuno_fild03.rsw#El Mes Plateau#
 yuno_fild02.rsw#Kiel Hyre's Cottage#
@@ -859,7 +860,7 @@ morocc_mem.rsw#Memory of Morroc#
 payon_mem.rsw#Memory of Payon#
 moc_paraup.rsw#Inside of Paradise Group Building in Morroc 2nd floor#
 
-//°шјєАь TE є№»зёК 
+//°????? TE ??�»зё�?
 te_prt_gld.rsw#Gloria#
 te_prtcas01.rsw#Gaebolg#
 te_prtcas02.rsw#Richard#
@@ -875,7 +876,7 @@ te_aldecas4.rsw#Roxie#
 te_aldecas5.rsw#Curly Sue#
 teg_dun02.rsw#Subterranean Guild Dungeon#
 
-//°нјєёЮёрё®ѕуґшАь
+//°н???Ю???®??????
 gl_cas02_.rsw#2nd Hall#
 gl_chyard_.rsw#Churchyard#
 2@gl_k.rsw#1st floor of Old Glast Heim Chivalry#
@@ -886,7 +887,7 @@ gl_chyard_.rsw#Churchyard#
 1@sara.rsw#Sara's Memory#
 dali.rsw#Dimensional Gap#
 
-//їµїхАЗИзАы
+//?µ?????з??
 dali02.rsw#Dimensional Gap#
 1@tnm1.rsw#Masin Tower Top floor#
 1@tnm2.rsw#Masin Tower Top floor#
@@ -898,7 +899,7 @@ dali02.rsw#Dimensional Gap#
 
 1@def01.rsw#Wave Dungeon - forest#
 
-//ЅГ°иЕѕіЄАМЖ®ёЮѕоґшАь
+//??°и???????®?Ю?о????
 c_tower2_.rsw#Clock Town of twisted time 2nd floor#
 c_tower3_.rsw#Clock Town of twisted time 3rd floor#
 
@@ -912,12 +913,12 @@ moro_cav.rsw#Flame cave#
 1@eom.rsw#Masin war#
 1@jtb.rsw#Jitterbug of Nightmare#
 
-// їµїхАЗ ИзАы3
+// ?µ???? ?з??3
 1@glast.rsw#Old Glastheim#
 1@air1.rsw#Aircraft#
 1@air2.rsw#Aircraft#
 
-// ep15.1 ЖЗЕёЅєё¶°нё®Д«
+// ep15.1 ???????¶°н?®?«
 ver_eju.rsw#Yuperos Eastern Ruin#
 ver_tunn.rsw#Verus Outter tunnel#
 verus04.rsw#Verus Findspot#
@@ -925,7 +926,7 @@ verus03.rsw#Verus Center Square#
 
 1@mcd.rsw#Charlston Factory#
 
-// ep15.2 ЖЗЕёЅєё¶°нё®Д«
+// ep15.2 ???????¶°н?®?«
 verus01.rsw#Lab-OPTATIO#
 verus02.rsw#R&D-WISH#
 un_bk_q.rsw#Under Bunker#
@@ -999,3 +1000,16 @@ rockrdg1.rsw#Kiwawa Desert#
 rockrdg2.rsw#Kiwawa Desert#
 rockrdg1_q.rsw#Kiwawa Desert#
 rockrdg2_q.rsw#Kiwawa Desert#
+
+//17.1
+1@cor.rsw#Cor Memorial#
+1@os_a.rsw#OS Capture Operation#
+1@os_b.rsw#Sealed OS#
+1@rgsr.rsw#Regenschirm#
+rgsr_in.rsw#Rekenber Lab#
+pub_cat.rsw#Cat on a Bullet#
+sp_cor.rsw#Cor Special Zone#
+sp_os.rsw#?S Special Zone#
+sp_rudus.rsw#Rudus Lab, 1st floor#
+sp_rudus2.rsw#Rudus Lab, 2nd floor#
+sp_rudus3.rsw#Rudus Lab, 3rd floor#

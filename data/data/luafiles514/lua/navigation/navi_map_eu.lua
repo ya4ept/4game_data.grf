@@ -567,5 +567,12 @@ Navi_Map = {
 	{ "yuno_in03", "Inside Juno", 5003, 260, 216 },
 	{ "yuno_in04", "Republic Library", 5003, 200, 140 },
 	{ "yuno_pre", "Schwaltzvalt Government Buildings", 5003, 140, 140 },
+	{ "pub_cat", "Cat on a Bullet", 5001, 200, 160 },
+	{ "rgsr_in", "Rekenber Lab", 5003, 260, 260 },
+	{ "sp_cor", "Cor Special Zone", 5001, 300, 320 },
+	{ "sp_os", "OS Special Zone", 5001, 400, 400 },
+	{ "sp_rudus", "Rudus Lab, 1st floor", 5001, 400, 400 },
+	{ "sp_rudus2", "Rudus Lab, 2st floor", 5001, 400, 400 },
+	{ "sp_rudus3", "Rudus Lab, 3st floor", 5001, 400, 400 },
 	{ "NULL", "", 0, 0, 0 }
 }

@@ -2,7 +2,7 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-9fa244fd4b562566ab6c3a0b0ca41c53 *data.grf
+6244e93a8aae13027b6673a7d2a94ea2 *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -22,7 +22,7 @@ cb8e791faf8a711f9863f759f37fd316 *msvcp140_1.dll
 4ba25d2cbe1587a841dcfb8c8c4a6ea6 *msvcr110.dll
 0c55fc6899d6dccaac345f13be45bf11 *patch_data.gpf
 ce293eb01ab91d8f1e05cd264ad0a6dd *pcmac.dll
-f7255fe44d8049089f171aa2ed14c21b *Ragexe.exe
+7f6a3987e0ca2e3204a754abebd87655 *Ragexe.exe
 bb80ec150f7acfae877ed997b06aee3f *Setup.exe
 9d6b6cc0d78293648f587db00074680b *vccorlib140.dll
 1b171f9a428c44acf85f89989007c328 *vcruntime140.dll
@@ -40,7 +40,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 64b44734d6bb1f894f90ada681beef41 *Frost\frostinfo.txt
-428cf951faaabcc30ba35dc919af9439 *Frost\frostInit.log
+e39edeb14ba9dff4bc42d0be531653f9 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -48,7 +48,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 5ec1d55ad730241e2b1e18c1a11c85b2 *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-9ef12258a3928127ad43d57378a11255 *Frost\launcherUpdater.log
+0a9231c30964f7a8512119404a7e64c5 *Frost\launcherUpdater.log
 d70d111fb475c21a025004df937d7b5e *Frost\ro.exe
 3ee8a93f4b4317f5bd25f5596ac47405 *Frost\.inn.meta.dir\.inn.cache.txt
 3ee8a93f4b4317f5bd25f5596ac47405 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -57,14 +57,16 @@ d16986263e4d8be2a9e3e2fd7948649e *Frost\.inn.meta.dir\.inn.files.3.1.0.59.contro
 cd408c154b0a60025215fd212e7ffc3b *Frost\.inn.meta.dir\.inn.version.3.1.0.59.control.txt
 e224026094f8c602bdfe2d75331d5303 *gameManager\gameManager.exe
 9329be6eb40af56cc93f2e2ba64e587c *System\achievement_list.lub
-49e7a0d72f93dbaae3ef9b6f1870211e *System\checkattendance.lub
-677886ea3a69ccfb154062dbd7ae36c0 *System\iteminfo.lub
+d8e92c9968515efd73c87686ecd6b308 *System\checkattendance.lub
+bc222a3f779f3e8f44fa613c3ffc02b8 *System\iteminfo.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 7dc30793464a804f7123a860221cd6cb *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
+9d369f860b1d5292ae2e50c0b94e68d8 *System\OngoingQuestInfoList.txt
 c171ba082bc4ba94c221c7d66f569dc7 *System\optioninfo.lub
 7f88b9528f825088757ddf894ec33224 *System\petevolutioncln.lub
 b5a6a22a2a56b291aa81bb010bb480f0 *System\PrivateAirplane_true.lub
+f2f3931f18087303c4a97c500e02464d *System\tipbox.lub
 e22ae6abb4f205336aa56832af0f0714 *System\towninfo.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub
 01b292af47edea89613314d96aca54e8 *System\LuaFiles514\OptionInfo.lub
