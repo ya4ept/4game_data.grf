@@ -1,3 +1,22 @@
+09.08.2023 11:59
+Ragnarok Online Prime EU
+The server is open!
+
+Changes:
+— New cards glow (when they fall to the ground) have been fixed.
+— Weight of Bloody Branches has been reduced from 20 to 1.
+
+Shop:
+— The Profession item packs with consumables arrived in launcher.
+— The Ticket to Giftland arrived in launcher.
+
+Finished activities:
+— The Shadow Packs left the Launcher
+— The Hot Summer Treasure left the Launcher
+
+Information about weekly update: https://eu.4gameforum.com/threads/692617/
+
+=================
 04.08.2023 20:03
 Ragnarok Online Prime EU
 The maintenance is over, the server is online.
