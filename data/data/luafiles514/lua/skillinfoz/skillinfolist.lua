@@ -3011,7 +3011,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDEBLEEDING] = {
 		"NPC_WIDEBLEEDING",
-		SkillName = "Bloody Party",
+		SkillName = "Кровотечение",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
