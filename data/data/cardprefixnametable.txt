@@ -620,6 +620,32 @@
 4668#Silky#
 4669#Gust#
 4670#Blaze#
+//--- Nightmare Biolab
+4671#of Sorcerer#
+4672#of Sura#
+4673#of Maestro#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Geneticist#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage#
+4694#Feint#
+4695#Rainstorm#
+4696#Reverberation#
 
 27328#Corrupt Life#
 27326#Destructive#
@@ -658,16 +684,83 @@
 
 27170#Dust#
 27171#Nightfall#
-27172#Sharp Sword
-27173#Dusty
-27174#Sunset
-27175#Small Hunter
-27179#Wild Fang
-27177#Marsh
-27176#Dirty
-27180#Power Break
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27179#Wild Fang#
+27177#Marsh#
+27176#Dirty#
+27180#Power Break#
 27178#Zero Guard#
 
 4685#Adoramus#
 27147#Intensive#
 27148#Default#
+
+//--- Brasilis
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect collective#
+27124#Hunting#
+27125#Aqua Benedict#
+27126#Python#
+
+//--- Illusion of Moonlight
+27081#Moonlight#
+27082#Fox Tail#
+27083#Growth#
+27084#Macabre#
+27085#Delicate#
+27086#Sagittarius#
+27088#Instigating#
+
+//--- Illusion of Vampire
+27101#Sorcery#
+27102#Fire Immune#
+27103#Vigor#
+27104#Compassion#
+
+//--- Illusion of Frozen
+27110#Fast-footed#
+27111#Crisp#
+27112#Hardy#
+27113#Frozen#
+
+//--- Nogg Road F3
+27346#Orb of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#Orb of Flame Barrier#
+27350#Orb of Dragon Spirit#
+27351#Orb of Dragon Heart#
+27352#Slumber#
+27353#Orb of Demonic Barrier#
+
+//--- Glast Heim Abyss
+27354#Orb of Deprave#
+27355#Deapraved#
+27356#Orb of Frozen Guard#
+27357#Orb of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#Orb of Queen Spider#
+27363#Doomed#
+
+//--- 17.1
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#of Holy Power#
+27310#of Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27319#Poison Break#

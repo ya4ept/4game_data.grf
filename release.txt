@@ -1,3 +1,28 @@
+23.08.2023 11:29
+Ragnarok Online Prime EU
+The server is open!
+
+Shop:
+— The Shadow Packs arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+
+Finished activities:
+— The Battle manual packs left the Launcher;
+— The Lucky Treasures Sets left the Launcher;
+— The Ticket to Giftland left the Launcher.
+
+Changes:
+— Added a golden aura.
+— Fixed card prefixes.
+— Corrected map names: Glast Heim Abyss and OS Special Zone.
+— Fixed localization issues for some items
+— Updated Legendary Dovmihr's prize list.
+— Fixed prison uniform slot issue.
+
+Information about weekly update: https://eu.4gameforum.com/threads/692668/
+
+
+================
 16.08.2023 11:59
 Ragnarok Online Prime EU
 The server is open!

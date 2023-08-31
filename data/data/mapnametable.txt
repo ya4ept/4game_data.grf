@@ -1009,7 +1009,8 @@ rockrdg2_q.rsw#Kiwawa Desert#
 rgsr_in.rsw#Rekenber Lab#
 pub_cat.rsw#Cat on a Bullet#
 sp_cor.rsw#Cor Special Zone#
-sp_os.rsw#?S Special Zone#
+sp_os.rsw#OS Special Zone#
 sp_rudus.rsw#Rudus Lab, 1st floor#
 sp_rudus2.rsw#Rudus Lab, 2nd floor#
 sp_rudus3.rsw#Rudus Lab, 3rd floor#
+gl_cas01_.rsw#Glast Heim Abyss#
