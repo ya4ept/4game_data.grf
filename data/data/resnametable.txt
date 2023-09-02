@@ -4458,3 +4458,14 @@ bossnia_04.gnd#gef_dun03.gnd#
 bossnia_04.gat#gef_dun03.gat#
 bossnia_04.rsw#gef_dun03.rsw#
 유저인터페이스\map\bossnia_04.bmp#유저인터페이스\map\gef_dun03.bmp#
+
+//옛글래스트헤임 메모리얼 맵복사
+1@gl_kh.gnd#1@gl_k.gnd#
+1@gl_kh.gat#1@gl_k.gat#
+1@gl_kh.rsw#1@gl_k.rsw#
+유저인터페이스\map\1@gl_kh.bmp#유저인터페이스\map\1@gl_k.bmp#
+
+2@gl_kh.gnd#2@gl_k.gnd#
+2@gl_kh.gat#2@gl_k.gat#
+2@gl_kh.rsw#2@gl_k.rsw#
+유저인터페이스\map\2@gl_kh.bmp#유저인터페이스\map\2@gl_k.bmp#
