@@ -1441,8 +1441,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 9 },
 		_NeedSkillList = {
-			{ SKID.GS_GLITTERING, 5 },
-			{ SKID.GS_TRACKING, 10 }
+			{ SKID.GS_GLITTERING, 5 }
 		}
 	},
 	[SKID.RK_REFRESH] = {
@@ -1461,7 +1460,6 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1 },
 		_NeedSkillList = {
-			{ SKID.GS_GATLINGFEVER, 10 },
 			{ SKID.GS_GLITTERING, 4 }
 		}
 	},
@@ -1481,8 +1479,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1 },
 		_NeedSkillList = {
-			{ SKID.GS_GLITTERING, 4 },
-			{ SKID.GS_DISARM, 5 }
+			{ SKID.GS_GLITTERING, 4 }
 		}
 	},
 	[SKID.GC_VENOMIMPRESS] = {
@@ -1504,8 +1501,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1 },
 		_NeedSkillList = {
-			{ SKID.GS_GLITTERING, 2 },
-			{ SKID.GS_SNAKEEYE, 10 }
+			{ SKID.GS_GLITTERING, 2 }
 		}
 	},
 	[SKID.GC_CREATENEWPOISON] = {
@@ -9743,10 +9739,10 @@ SKILL_INFO_LIST = {
 	[SKID.AB_RENOVATIO] = {
 		"AB_RENOVATIO",
 		SkillName = "Renovatio",
-		MaxLv = 4,
-		SpAmount = { 240, 280, 320, 360 },
+		MaxLv = 1,
+		SpAmount = { 70 },
 		bSeperateLv = false,
-		AttackRange = { 11, 11, 11, 11 },
+		AttackRange = { 11 },
 		_NeedSkillList = {
 			{ SKID.AB_CHEAL, 3 }
 		}

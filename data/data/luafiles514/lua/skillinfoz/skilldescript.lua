@@ -6652,7 +6652,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_BULLSEYE] = {
 		"[Bull's Eye]",
 		"Max Level: 1",
-		"^777777Skill Requirement: Tracking 10, Coin Flip 5^000000",
+		"^777777Skill Requirement: Coin Flip 5^000000",
 		"Skill Form: ^777777Offensive^000000",
 		"Description: ^777777Consumes 1 coin to inflict 500%",
 		"damage to Demihuman and Brute monsters.",
@@ -6662,8 +6662,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_MADNESSCANCEL] = {
 		"[Last Stand]",
 		"Max Level: 1",
-		"^777777Skill Requirement: Gatling Fever 10,",
-		"Coin Flip 4^000000",
+		"^777777Skill Requirement: Coin Flip 4^000000",
 		"Skill Form:^777777Supportive^000000",
 		"Description: ^777777Consume 1 coin to activate Last",
 		"Stand status in which the caster is immobilized,",
@@ -6674,7 +6673,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_ADJUSTMENT] = {
 		"[Gunslinger's Panic]",
 		"Max Level: 1",
-		"^777777Skill Requirement: Disarm 5, Coin Flip 4^000000",
+		"^777777Skill Requirement: Coin Flip 4^000000",
 		"Skill Form: ^777777Supportive^000000",
 		"Description: ^777777Consumes 2 coins to activate the",
 		"Gunslinger's Panic status in which the caster has",
@@ -6686,7 +6685,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_INCREASING] = {
 		"[Increase Accuracy]",
 		"Max Level: 1",
-		"^777777Skill Requirement: Snake Eye 10, Coin Flip 2^000000",
+		"^777777Skill Requirement: Coin Flip 2^000000",
 		"Skill Form:^777777Supportive^000000",
 		"Description: ^777777Consume 4 coins to add +20",
 		"Accuracy, +4 DEX, and +4 AGI for a 1 minute",

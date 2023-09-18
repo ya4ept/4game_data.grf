@@ -1,3 +1,47 @@
+13.09.2023 10:59
+Ragnarok Online Prime EU
+The server is open!
+
+The maintenance is over, the server is online. Changelog:
+
+Changes:
+— KVM mode change
+Players of 175+ levels can now participate.
+— Correction of item descriptions:
+Spoiler— Fixed descriptions of the skill tree
+— Fixed Renovatio skill description
+
+List of offers and events that have been extended until 20.09:
+— The Blue Sea Treasure
+— The Refinement Sets
+— The Luckybox Sets
+— The "Boosted Refinement Rates" event
+— The "Poring Invasion: Geffen" event
+
+Information about weekly update: https://eu.4gameforum.com/threads/692752/
+
+================
+11.09.2023 19:49
+Ragnarok Online Prime Team
+Dear Players, 
+
+We understand your concerns about the lack of news from us. 
+At the moment, we are still working to protect the servers from DDOS attacks.
+
+As soon as the situation stabilises, we will announce it in a separate announcement.
+
+================
+08.09.2023 16:19
+[CM] PoringMan
+Dear players!
+
+We are currently experiencing problems with the accessibility of game worlds.
+
+The problems are caused by a large scale DDOS attack on our entire 4Game infrastructure. We are doing our best to minimise the impact of the attack.
+
+Thank you for understanding. We will soon announce compensation for the inconvenience caused.
+
+================
 06.09.2023 11:29
 Ragnarok Online Prime EU
 The server is open!
