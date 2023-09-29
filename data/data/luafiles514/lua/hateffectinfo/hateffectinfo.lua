@@ -91,7 +91,7 @@ HatEFID = {
 	HAT_EF_MagiccircleRainbow = 90,
 	HAT_EF_SnowFlake_Tiara = 91,
 	HAT_EF_Midgarts_Glory = 92,
-	HAT_EF_LEVEL99_TIGER = 93,
+	HAT_EF_99LV_Sura_Orange = 93,
 	HAT_EF_LEVEL160_TIGER = 94,
 	HAT_EF_FluffyWing = 95,
 	HAT_EF_C_Ghost_Effect = 96,
@@ -464,7 +464,7 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_EF_LEVEL99_TIGER] = { hatEffectID = 1291 },
+	[HatEFID.HAT_EF_99LV_Sura_Orange] = { hatEffectID = 1170 },
 	[HatEFID.HAT_EF_LEVEL160_TIGER] = { hatEffectID = 1292 },
 	[HatEFID.HAT_EF_FluffyWing] = {
 		resourceFileName = "efst_FluffyWing\\ypen.str",
