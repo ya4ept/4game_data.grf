@@ -1154,3 +1154,9 @@ sp_os.rsw#bgm\\174.mp3#
 sp_rudus.rsw#bgm\\176.mp3#
 sp_rudus2.rsw#bgm\\176.mp3#
 sp_rudus3.rsw#bgm\\176.mp3#
+
+1@gl_kh.rsw#bgm\\44.mp3#
+2@gl_kh.rsw#bgm\\44.mp3#
+ein_d02_i.rsw#bgm\\88.mp3#
+tur_d03_i.rsw#bgm\\65.mp3#
+tur_d04_i.rsw#bgm\\65.mp3#

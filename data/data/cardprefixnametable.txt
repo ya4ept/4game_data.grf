@@ -764,3 +764,11 @@
 27316#Anti Poison#
 27317#Natural Piercing#
 27319#Poison Break#
+4608#Rightful#
+4609#Rightful#
+27114#Uncrushable#
+27115#Oracular#
+27116#Double-striking#
+27117#Baneful#
+27118#Impaling#
+27119#Turtle's#

@@ -5780,11 +5780,11 @@ A merchant who comes from a foreign country feels pain because of a drink that i
 Find a merchant selling drink around Oasis#
 
 2130#For Arunafeltz #SG_FEEL#QUE_NOIMAGE#
-You got a well known drink and decided to go back to a merchant met at first.#
+You got a well known drink and decided to go back to the merchant you've met at first.#
 Conversation with foreign merchant.#
 
 2131#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-You got a Zhed's telegram from a foreign merchant.#
+You got Zhed's telegram from a foreign merchant.#
 Conversation with a Zhed pontiff of Rahel.#
 
 2132#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
@@ -5800,11 +5800,11 @@ You got a letter for Niren from Zhed.#
 Delivery a Zhed's letter to Niren#
 
 2135#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-Niren demands to meet a pope and dig an information about a newly-appointed official carefully.#
+Niren demands to meet the pope and dig out information about a newly-appointed official carefully.#
 Conversation with a pope#
 
 2136#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-The pope who have not seen over the long haul was afflicted at newly-appointed officials caring the pope can't see their family for a long time.#
+The pope who you haven't seen in a long time talked about the newly appointed officials caring for her and about missing her family which she hasn't seen for a long time.#
 Go back to Niren.#
 
 2137#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
@@ -5820,7 +5820,7 @@ You got a document that includes a fake paper of vacation from Ismael.#
 Go back to Niren#
 
 2140#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-Niren said all ready is completed and you come to a sky garden where the pope is in with Zhed.#
+Niren said to come to the sky garden when everything is ready, where the pope will be waiting with Zhe.#
 After talking with Zhed, move to a sky garden#
 
 2141#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
@@ -5828,7 +5828,7 @@ The pope shows an aspect as a mature pope of a religious nation by riding of a m
 Conversation with Niren#
 
 2142#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-Niren promises reflect on his silence caring the pope with Zhed.#
+Niren promises to reflect on her mistakes and to care for the pope with Zhed.#
 Conversation with Zhed#
 
 
@@ -21353,362 +21353,6 @@ Stay for a day#
 Thank you for making a clean finish. Pleaes lead me tomorrow again.#
 Stay for a day#
 
-//----Sign Quest Part 1 Crumbs of Sobbing Starlight----
-17000#Metz Brayde's Notice#SG_FEEL#QUE_IMAGE#
-You read a notice from Metz Brayde. He is looking for adventurers ready to go on a very important quest.#
-Find Metz Brayde#
-
-17001#First Test#SG_FEEL#QUE_IMAGE#
-You find out that you have to go through a series of tests from Metz's friends. The first of them is Arian from Morroc. You should go there and see him.#
-Talk to Arian in Morroc#
-
-17002#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
-Arian has asked you to bring him ^FF0000100 Fluffs^000000.#
-Collect necessary items#
-
-17003#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
-Arian has asked you to bring him ^FF000050 Poison Spores^000000.#
-Collect necessary items#
-
-17004#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
-Arian has asked you to bring him ^FF000030 Scorpion Tails^000000.#
-Collect necessary items#
-
-17005#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
-Arian has asked you to bring him ^FF000020 Rotten Bandages^000000.#
-Collect necessary items#
-
-17006#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
-Arian has asked you to bring him ^FF000015 Little Evil Horns^000000.#
-Collect necessary items#
-
-17007#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
-Arian has asked you to bring him ^FF000010 Coral Reefs^000000.#
-Collect necessary items#
-
-17008#Quiz Time!#SG_FEEL#QUE_IMAGE#
-Talk to Ganaan to progress to the next part of the test.#
-Talk to Ganaan#
-
-17009#Quiz Time!#SG_FEEL#QUE_IMAGE#
-Go back to Arian, and he will let you know the results of the quiz.#
-Talk to Arian#
-
-17010#Daewoon's Test#SG_FEEL#QUE_IMAGE#
-Now you're supposed to go see Daewoon in Payon for your next test. Don't forget to show him the Crumb of Sobbing Starlight!#
-Talk to Daewoon in Payon#
-
-17011#Sir Jore's Test#SG_FEEL#QUE_IMAGE#
-Your next examiner is Sir Jore, also known as the Ghost of Al De Baran. Find him and take his test.#
-Talk to Sir Jore in Al De Baran#
-
-17012#Sir Jore's Materials#SG_FEEL#QUE_IMAGE#
-Sir Jore needs a new research sample to replace his ruined one. Bring him ^FF000010 Empty Test Tubes, 10 Green Herbs, and 2 Yggdrasil Leaves^000000.#
-Get materials for Sir Jore#
-
-17013#Stone of Sage#SG_FEEL#QUE_IMAGE#
-Sir Jore is very interested in the Stone of Sage. He asks you to find a family of great Alchemists. According to him, they are living somewhere in a big forest.#
-Find the Alchemists#
-
-17014#Stone of Sage#SG_FEEL#QUE_IMAGE#
-You've found the Alchemists - Gordon and Fleur. They've told you all they know about the Stone of Sage. It's time to go back to Sir Jore.#
-Talk to Sir Jore#
-
-17015#Lady Jesqurienne#SG_FEEL#QUE_IMAGE#
-Sir Jore gives you the Crumb of Sobbing Starlight and tells you to visit Lady Jesqurienne in Geffen. She travels often so she's probably at the inn.#
-Talk to Lady Jesquerinne in Geffen#
-
-17016#Jesquerinne's Quiz Challenge#SG_FEEL#QUE_IMAGE#
-You've found Lady Jesquerinne in a drunken stupor. She has challenged you to a quiz that will be administered by Professor Aaron.#
-Talk to Professor Aaron#
-
-17017#Failed Quiz Challenge#SG_FEEL#QUE_IMAGE#
-You've failed to beat Lady Jesquerinne in the Quiz Challenge. It's not over! Don't give up just yet.#
-Take the test again#
-
-17018#Quiz Challenge Triumph#SG_FEEL#QUE_IMAGE#
-You have defeated Lady Jesquerinne in the Quiz Challenge. Talk to her again and gloat about your superior intellect.#
-Talk to Lady Jesquerinne#
-
-17019#Searching for Dearles#SG_FEEL#QUE_IMAGE#
-Now you must find a man named ^3131CEDearles^000000. It can be hard since he wanders from place to place, but it might help to know that he loves gambling...#
-Find Dearles#
-
-17020#Dearles's Test#SG_FEEL#QUE_IMAGE#
-You have paid 30,000 zeny to take Dearles's test. He tells you to come back tomorrow.#
-Talk to Dearles when the time comes#
-
-17021#Test of Appreciation#SG_FEEL#QUE_IMAGE#
-Dearles doesn't give you an exact list of items to get for him. Instead he asks you to bring him something that will make a good present.#
-Collect some pretty things#
-
-17022#Dearles's Second Test#SG_FEEL#QUE_IMAGE#
-Dearles says that you're ready for the next part of the test, and sends you to Lamadin.#
-Talk to Lamadin#
-
-17023#Rhythm Test Passed#SG_FEEL#QUE_IMAGE#
-You have passed the second part of Dearles's test. Go back to him and let him know.#
-Talk to Dearles#
-
-17024#Finding Bakerlan#SG_FEEL#QUE_IMAGE#
-You're done with Dearles's part of the exam. Take his Crumb of Sobbing Starlight and find someone named Bakerlan in Alberta.#
-Talk to Bakerlan in Alberta#
-
-17025#Bakerlan's Delivery#SG_FEEL#QUE_IMAGE#
-Bakerlan has asked you to make a delivery of something expensive. Speak to his steward for more information.#
-Talk to Mahatra#
-
-17026#Mahatra's Delivery#SG_FEEL#QUE_IMAGE#
-Mahatra has given you a stone that has your name written on it. Deliver it to a Knight named Leibech.#
-Talk to Leibech#
-
-17027#Leibech's Receipt#SG_FEEL#QUE_IMAGE#
-Leibech is grateful that you've brought his delivery to him. He has given you a receipt, take it to Bakerlan.#
-Talk to Bakerlan#
-
-17028#Finding Seylin#SG_FEEL#QUE_IMAGE#
-Mahatra says that Bakerlan hasn't left him any instructions. He asks you to speak with Maid Seylin. She seems worried about something...#
-Find Seylin#
-
-17029#Vigorgra Medicine#SG_FEEL#QUE_IMAGE#
-Seylin has asked you to find a new medicine called Vigorgra. You may be able to learn about it in the Alchemist Guild in Al De Baran.#
-Go to the Alchemist Guild in Al De Baran#
-
-17030#Vigorgra Ingredients#SG_FEEL#QUE_IMAGE#
-Melkaba agrees to make Vigorgra for you if you bring him the following ingredients: ^FF00001 Ment, 20 jars of Honey, 10 Royal Jellies, 30 Bear's Footskins, 1 Hinalle Leaflet, and 1 Empty Bottle^000000.#
-Find ingredients for Vigorgra#
-
-17031#Vigorgra Ready#SG_FEEL#QUE_IMAGE#
-Melkaba has made some Vigorgra for you. Take it back to Seylin.#
-Talk to Seylin#
-
-17032#Seylin's Request#SG_FEEL#QUE_IMAGE#
-Seylin has asked you to take Vigorgra to her brother Maruin along with a letter she wrote. Maruin serves in the Prontera Castle.#
-Talk to Maruin#
-
-17033#Back to Seylin#SG_FEEL#QUE_IMAGE#
-You've delivered Vigorgra and Seylin's letter to Maruin. You should probably go back to Seylin and let her know that her brother thanks her for the gift.#
-Talk with Seylin#
-
-17034#Back to Mahatra#SG_FEEL#QUE_IMAGE#
-Go back to Mahatra and let him know that you have completed Seylin's task.#
-Talk to Mahatra#
-
-17035#Report to Bakerlan#SG_FEEL#QUE_IMAGE#
-Report to Bakerlan that you have completed the tasks that Mahatra and Seylin have asked you to do.#
-Talk to Bakerlan#
-
-17036#Last Crumb#SG_FEEL#QUE_IMAGE#
-Bakerlan says that you have finally completed the qualification tests. Go back to Metz in Prontera with all Crumbs of Sobbing Starlight.#
-Talk to Metz in Prontera#
-
-//----Sign Quest Part 2 Crumbs of Sobbing Starlight----
-17037#In Search of Engel Howard#SG_FEEL#QUE_IMAGE#
-Talk to Brenda Howard's daughter. She may have something for her father, Engel Howard.#
-Talk to Lianna Howard#
-
-17038#Lianna's Letter#SG_FEEL#QUE_IMAGE#
-Find Engel Howard and give him Lianna's letter.#
-Find Engel Howard#
-
-17039#Restoring the Starlight#SG_FEEL#QUE_IMAGE#
-Engel is going to need some tools in order to combine the Crumbs of Sobbing Starlight. Bring him ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and 1 good anvil^000000.#
-Get the tools for Engel#
-
-17040#Letter to Engel's Family#SG_FEEL#QUE_IMAGE#
-While Engel is working on the Sobbing Starlight, he has asked you to deliver a letter to his family.#
-Take the letter to the Engel's family#
-
-17041#Talk to Lianna#SG_FEEL#QUE_IMAGE#
-Talk to Lianna. Apparently she's been waiting to tell you something.#
-Talk to Lianna#
-
-17042#Waiting for the Sobbing Starlight#SG_FEEL#QUE_IMAGE#
-You've received some candies from Lianna as a gift. It's time to check with Engel if he has made any progress in combining the Crumbs of Sobbing Starlight.#
-Talk to Engel Howard#
-
-17043#Sobbing Starlight Restored#SG_FEEL#QUE_IMAGE#
-Engel has managed to restore the Sobbing Starlight. You should take it back to Metz and see if he knows what you can do with it.#
-Talk to Metz in Prontera#
-
-17044#Restoring the Starlight#SG_FEEL#QUE_IMAGE#
-Engel has failed to restore the Sobbing Starlight. He needs more tools for his next try. Bring him ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and a better quality anvil (Golden or Emperium one)^000000.#
-Get the tools for Engel#
-
-17045#Starlight Message#SG_FEEL#QUE_IMAGE#
-According to Metz, an encrypted message is hidden in the depths of the Sobbing Starlight, but it can only be read with the help of a Wizard. Visit the top floor of the Geffen Tower and find someone who can help you.#
-Go to the Geffen Tower#
-
-17046#Man in Umbala#SG_FEEL#QUE_IMAGE#
-Dota from the Geffen Tower tells you that the man you're looking for has gone somewhere near Comodo to study a local tribe there.#
-Investigate Umbala#
-
-17047#Into the Tree#SG_FEEL#QUE_IMAGE#
-Laotan from Umbala tells you that there is a foreigner in the village, but he has gone inside a big tree, and nobody has seen him since.#
-Find the foreigner#
-
-17048#Ancient Papers#SG_FEEL#QUE_IMAGE#
-Cyon will keep his promise to read the message inside of the Sobbing Starlight, but for that he needs ^FF000010 Worn Out Pages^000000.#
-Collect the items for Cyon#
-
-17049#Message in Ancient Language#SG_FEEL#QUE_IMAGE#
-Cyon has given you the Message in Ancient Language from the Sobbing Starlight. You should return to Prontera and show it to Metz.#
-Talk to Metz in Prontera#
-
-//----Sign Quest Part 3 The Ancient Document------
-17050#Fastidious Old Man#SG_FEEL#QUE_IMAGE#
-The document is written in a language that Metz can't read. You should find a man named Frank Franklin who lives on the Sunken Ship in Alberta.#
-Talk to Frank Franklin in Alberta#
-
-17051#Blurry Vision#SG_FEEL#QUE_IMAGE#
-You've found Frank but he is complaining about blurry vision and headaches. Bring him something that will help.#
-Get glasses for Frank Franklin#
-
-17052#Translating the Message#SG_FEEL#QUE_IMAGE#
-Frank says that he's the only person in the world who can translate the message. Give him some time.#
-Talk to Frank Franklin#
-
-17053#Translated Message#SG_FEEL#QUE_IMAGE#
-Frank has successfully translated the message. The document seems to contain the coordinates of some place and a list of materials that need to be collected...#
-Get 4 Resins, 12 Stone Hearts, and 365 Coral Reefs#
-
-17054#Where the Cursed Live#SG_FEEL#QUE_IMAGE#
-Valkyrie Sandra has sent you to the Town of the Cursed to prove your courage.#
-Go to Niflheim#
-
-//----Sign Quest Part 4----
-17055#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
-You have decided to help out poor souls trapped in Niflheim. But you need to earn their trust first.#
-Find those who need help#
-
-17056#Curse Lifted#SG_FEEL#QUE_IMAGE#
-You have successfully lifted the curse from Ashe Bruce, and he gives you a Witch's Spellbook. Find others who need help.#
-Find those who need help#
-
-17057#Meeting the Witch#SG_FEEL#QUE_IMAGE#
-Alakina Ann is lost, and it seems that only the witch of Niflheim can help her. Perhaps you should take the Witch's Spellbook with you.#
-Find the witch#
-
-17058#Witch#SG_FEEL#QUE_IMAGE#
-You have found the witch and told her about Alakina Ann. Kirkana gives you a Crow Wing to send the girl back home.#
-Talk to Alakina Ann#
-
-17059#Crow Wing#SG_FEEL#QUE_IMAGE#
-You give the Crow Wing to Alakina Ann but it doesn't work... You'd better ask Kirkana about that.#
-Talk to Kirkana#
-
-17060#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
-Kirkana tells you the sad news: Alakina Ann is actually dead, but she doesn't understand this, because she is very young. Alas, there is nothing you can do to help her, so go back to Serin.#
-Talk to Serin#
-
-17061#Bard in Niflheim#SG_FEEL#QUE_IMAGE#
-Serin tells you to find the Bard in Niflheim. He might have some useful information.#
-Find the Bard in Niflheim#
-
-17062#Gen of Niflheim#SG_FEEL#QUE_IMAGE#
-Crayu says that you need to talk to someone named ^FF0000Gen^000000.#
-Find Gen in Niflheim#
-
-17063#Witch's Aid#SG_FEEL#QUE_IMAGE#
-Gen has advised you to seek help from the witch. He also tells you to be wary of Serin.#
-Talk to Serin#
-
-17064#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
-Serin says that you should talk to some of the dead in Niflheim and see if you can be of any help to them.#
-Find those who need help#
-
-17065#Queen's Symbol#SG_FEEL#QUE_IMAGE#
-You must earn the queen's favor in order to get the Symbol of the Nine Realms. Try to find out from the locals where the soul of the queen's mother, Angrboda, is imprisoned.#
-Search for Angrboda's soul#
-
-17066#Asking the Valkyrie#SG_FEEL#QUE_IMAGE#
-Serin suggests that you ask someone from Asgard about the whereabouts of Angrboda.#
-Talk to Valkyrie#
-
-17067#Another Option#SG_FEEL#QUE_IMAGE#
-The Valkyrie couldn't provide any answers for you. Perhaps someone in Niflheim can help you with your search for Angrboda's soul.#
-Interrogate the inhabitants of Niflheim#
-
-17068#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
-Laichin has told you how to find 4 Angrboda's soul shards. But what does he mean by 'far' and 'close'...? You'd better ask him for clarification.#
-Talk to Laichin#
-
-17069#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
-For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 1 o'clock, far 5 o'clock, far 7 o'clock, and close 6 o'clock.#
-Find Angrboda's Soul Shard in the Glastheim dungeon#
-
-17070#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
-For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 4 o'clock, far 10 o'clock, close 6 o'clock, and very close 11 o'clock.#
-Find Angrboda's Soul Shard in the Glastheim dungeon#
-
-17071#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
-For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 5 o'clock, close 11 o'clock, close 6 o'clock, and very close 11 o'clock.#
-Find Angrboda's Soul Shard in the Glastheim dungeon#
-
-17072#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
-For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 4 o'clock, far 5 o'clock, far 10 o'clock, and close 11 o'clock.#
-Find Angrboda's Soul Shard in the Glastheim dungeon#
-
-17073#Angrboda's Soul#SG_FEEL#QUE_IMAGE#
-You have retrieved all of Angrboda's Soul Shards. You hear a voice speaking directly to you: 'I am entrusting my soul to you. Please take it to my daughter, Lady Hel...'#
-Talk to Lady Hel#
-
-17074#Symbol of the Nine Realms#SG_FEEL#QUE_IMAGE#
-Lady Hel has rewarded you with the Symbol of the Nine Realms. Decide to whom you should tell about it first of all.#
-Decide who to talk to#
-
-17075#Serin's Ambitions#SG_FEEL#QUE_IMAGE#
-Kirkana has told you that Serin plans to make a deal with the Dark Lord in order to return to the world of the living. You must give her the Witch's Tonic so that she forgets her twisted plans.#
-Get Witch's Tonic from Kirkana#
-
-17076#Witch's Tonic#SG_FEEL#QUE_IMAGE#
-Kirkana has given you the Witch's Tonic, and you've been sent to Serin's location. There you can erase her memories.#
-Talk to Serin#
-
-17077#Serin's Release#SG_FEEL#QUE_IMAGE#
-You have successfully given the Witch's Tonic to Serin, and she will no longer try to summon the Dark Lord. You should tell Kirkana about your success.#
-Talk to Kirkana#
-
-17078#Visit to Lady Hel#SG_FEEL#QUE_IMAGE#
-Kirkana says that Lady Hel wants to see you for some reason.#
-Talk to Lady Hel#
-
-17079#The Sign#SG_FEEL#QUE_IMAGE#
-You have been rewarded with the Sign. It will show everyone that you are a great warrior who is deemed worthy by the Gods themselves. Decide who you should tell about it to, first of all.#
-Brag about your achievements#
-
-17080#Dark Lord's Return#SG_FEEL#QUE_IMAGE#
-You have failed to stop Serin from summoning the Dark Lord. Tell Kirkana about that.#
-Talk to Kirkana#
-
-17081#Serin's Ambitions#SG_FEEL#QUE_IMAGE#
-Serin has told you that Kirkana is trying to summon the Dark Lord to destroy Rune Midgard. You must find a way to stop her.#
-Stop Kirkana#
-
-17082#Dark Lord's Return#SG_FEEL#QUE_IMAGE#
-Your mission has failed. You should probably tell Metz about it.#
-Talk to Metz in Prontera#
-
-17083#Serin's Realization#SG_FEEL#QUE_IMAGE#
-You have interfered with Serin's ambitious plans. You should tell Kirkana everything that happened.#
-Talk to Kirkana#
-
-17084#The Sign#SG_FEEL#QUE_IMAGE#
-Metz says that the Sign can be used to enter Valhalla. But first you should see Engel Howard. He is the only person in Rune Midgard that knows how to handle it.#
-Talk to Engel Howard#
-
-17085#The Sign#SG_FEEL#QUE_IMAGE#
-Engel Howard has completed working with the Sign. You should probably tell Metz about it.#
-Talk to Metz in Prontera#
-
-17086#The Sign#SG_FEEL#QUE_IMAGE#
-Wait for Metz to finish examining the Sign. It should take only a couple of hours.#
-Talk to Metz when the time comes#
-
-17087#The Sign#SG_FEEL#QUE_IMAGE#
-Wait for Engel to complete his work with the Sign.#
-Talk to Engel when the time comes#
-
 // Oktoberfest 2019
 17100#The Pub Crawl#SG_FEEL#QUE_IMAGE#
 To become a sommelier you should try beer from:                                                  - Beer Sommelier in Prontera (125,125)                                                  - Alementalist in Geffen's tavern (136, 136)                                                  - Pepper Hag in Morroc (169,109)                                                  - Quadrupelstiltskin in Al De Baran (135,123)                                                  ^000077The quest is available October 2nd to 9th.^000000#
@@ -24265,7 +23909,7 @@ Get 2 pieces of Oridecon#
 You need to prepare ^0000CD2 pieces of Elunium^000000 at the request of Rachel Smith.#
 Get 2 pieces of Elunium#
 
-63140#Supply of Iron#SG_FEEL#QUE_NOIMAGE#
+63139#Supply of Iron#SG_FEEL#QUE_NOIMAGE#
 You need to prepare ^0000CD5 pieces of Iron^000000 at the request of Rachel Smith.#
 Get 5 pieces of Iron#
 
@@ -25646,3 +25290,184 @@ Updated at 4:00#
 8561#Broken gizmos#SG_FEEL#QUE_NOIMAGE#
 Lily Blanc wants you to kill and examine 10 Durable Explosives and 10 Durable Blazers.#
 Kill Durable Explosives, Durable Blazers#
+11556#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+It seems Steven went to the 1st floor of the Einbech Mine. Go to the 1st floor of the Einbech Mine and look for Steven's traces.#
+To the 1st floor of the Einbech Mine #
+
+11557#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+You hear a scream coming from afar. Find out what happened.#
+Go to the head of the line#
+
+11558#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+For some reason, a teddy bear standing ahead gave place to you. Go inside.#
+Go to the dungeon#
+
+11559#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+Teddy bears that captured Steven have scattered away.#
+Talk to Steven#
+
+11560#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+Steven worries about San's health and asks you to hand over money for treatment. Return to San in Einbroch.#
+Go to Einbroch#
+
+11561#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+San said that he would go to the mine by himself as he was worrying about Steven. Go to the mine with San.#
+Go to the mine#
+
+11562#Missing Steven#SG_FEEL#QUE_NOIMAGE#
+Steven said that he heard strange noises from the north. Go to the north and find out what is going on.#
+Head north#
+
+11563#Nazarian conspirancy#SG_FEEL#QUE_NOIMAGE#
+You were detected while eavesdropping the conversation of the Nazarians. Kill 10 Red Teddy Bears, 10 Yellow Teddy Bears and 10 Green Teddy Bears. Then talk to Steven at the entrance.#
+Eliminate the Nazarians and go to the entrance#
+
+11564#Nazarian conspirancy#SG_FEEL#QUE_NOIMAGE#
+You were detected while eavesdropping the conversation of the Nazarians. Kill 10 Blue Teddy Bears and 10 White Teddy Bears. Then talk to Steven at the entrance.#
+Eliminate the Nazarians and go to the entrance#
+
+11565#Run!!!!#SG_FEEL#QUE_NOIMAGE#
+It is difficult for the puppeteers to get out of here as they are not used to battles. Help them by getting rid of Hardworking Pitmans, Soul Fragments and Haunted Obsidians.#
+10 Hardworking Pitmans, 10 Soul Fragments and 10 Haunted Obsidians#
+
+11566#Run!!!! (Pending)#SG_FEEL#QUE_NOIMAGE#
+Daily quest completed. Wait for some time to obtain the quest again.#
+#
+
+11567#The thing that should not exist#SG_FEEL#QUE_NOIMAGE#
+^ff0000Kill 10 Red Teddy Bears, 10 Yellow Teddy Bears and 10 Green Teddy Bears.^000000 Then go down. And grant rest to the thing that should not exist...#
+Eliminate 10 Teddy Bears of each color#
+
+11568#The thing that should not exist#SG_FEEL#QUE_NOIMAGE#
+^ff0000Kill 10 Blue Teddy Bears and 10 White Teddy Bears^000000. Then go down. And grant rest to the thing that should not exist...#
+Eliminate 10 Teddy Bears of each color#
+
+11569#The thing that should not exist (Pending)#SG_FEEL#QUE_NOIMAGE#
+Daily quest completed. Wait for some time to obtain the quest again.#
+#
+
+11570#Light from darkness#SG_FEEL#QUE_NOIMAGE#
+Have you already met this monster? It's incredible! ^ff0000Shiny Teddy Bear^000000! So huge! I managed to get to the entrance, but this creature won't let me out! I've been here for several days...#
+Kill Shiny Teddy Bear#
+
+11571#Light from darkness (Pending)#SG_FEEL#QUE_NOIMAGE#
+Daily quest completed. Wait for some time to obtain the quest again.#
+#
+
+11572#Illusion Survivor's Staff#SG_FEEL#QUE_NOIMAGE#
+Illusion Survivor's Staff is being created. The 1st stage of the work is completed. Take remaining materials and go to the teddy bear who wants an Illusion Stone.#
+The 1st stage of creation#
+
+12334#Temporal Trace#SG_FEEL#QUE_NOIMAGE#
+Time travel to Old Glast Heim (high level) is blocked for 70 hours.#
+Temporal fluctuation.#
+
+12335#Space Distortion#SG_FEEL#QUE_NOIMAGE#
+The Glast Heim (high level) space-time continuum is distorted by Hugin. No one knows what is happening in the castle now. #
+Space Distortion#
+
+
+12336#Eliminating Corrupted Soul#SG_FEEL#QUE_NOIMAGE#
+Eliminate Corrupted Soul (high level) on the 1st floor of the Ancient fortress.#
+Corrupted Soul#
+
+12337#Eliminating Amdarais#SG_FEEL#QUE_NOIMAGE#
+Eliminate Amdarais (high level) on the 2nd floor of the Ancient fortress.#
+Amdarais#
+
+12338#Time traveler#SG_FEEL#QUE_NOIMAGE#
+Some time travels to the Ancient fortress (high level) are completed.#
+Time travel to the Ancient fortress#
+
+12339#Time master#SG_FEEL#QUE_NOIMAGE#
+All time travels to the Ancient fortress (high level) are completed.#
+Time travel to the Ancient fortress#
+
+//----- Gloomy Turtle Palace - An Jee Hyon
+26096#On Turtle Island#SG_FEEL#QUE_NOIMAGE#
+Talking to Aylvar, you have arrived to an unfamiliar place. Talk to a little girl standing nearby.#
+Talk to Little Girl#
+
+26097#Stranger from Turtle Island 1#SG_FEEL#QUE_NOIMAGE#
+Little Girl has told you a lot of useful things. Find professor Leiphen's traces in Lonely Village.#
+Search Lonely Village#
+
+26098#Stranger from Turtle Island 2#SG_FEEL#QUE_NOIMAGE#
+Little Girl has told you a lot of useful things. Find professor Leiphen's traces in Lonely Village.#
+Search Lonely Village#
+
+26099#Stranger from Turtle Island 3#SG_FEEL#QUE_NOIMAGE#
+Little Girl has told you a lot of useful things. Find professor Leiphen's traces in Gloomy Turtle Palace.#
+Search Gloomy Turtle Palace#
+
+26100#Stranger from Turtle Island 4#SG_FEEL#QUE_NOIMAGE#
+There is another place the little girl told you about. Find professor Leiphen's traces in Gloomy Turtle Palace.#
+Search Gloomy Turtle Palace#
+
+26101#Food delivery 1#SG_FEEL#QUE_NOIMAGE#
+Kill 10 Ominous Permeters, 10 Ominous Soliders, 10 Ominous Freezers and 10 Ominous Heaters. Collect 10 pieces of rotten meat and give them to Leiphen.#
+Give 10 pieces of rotten meat#
+
+26102#Food delivery 2#SG_FEEL#QUE_NOIMAGE#
+Kill 10 Ominous Permeters, 10 Ominous Soliders, 10 Ominous Freezers and 10 Ominous Heaters. Collect 10 pieces of rotten meat and give them to Leiphen.#
+Give meat to Leiphen#
+
+26103#Secrets of others#SG_FEEL#QUE_NOIMAGE#
+Leiphen has asked you to talk to locals. It seems some exhausted woman can be found in the central part of Gloomy Turtle Palace...#
+Talk to Exhausted Woman#
+
+26104#Long forgotten story#SG_FEEL#QUE_NOIMAGE#
+Find the little girl in the center of Lonely Village.#
+Talk to Little Girl#
+
+26105#Rest and promise#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. The quest can be accepted through Little Girl in Lonely Village.#
+Reset at 4 o'clock#
+
+26106#Unforgettable memories 1#SG_FEEL#QUE_NOIMAGE#
+Find professor Leiphen and go to Gloomy Turtle Palace to save the girl's memories.#
+Talk to Leiphen in Gloomy Turtle Palace#
+
+26107#Unforgettable memories 2#SG_FEEL#QUE_NOIMAGE#
+Return to the little girl in Lonely Village with Leiphen.#
+Talk to Little Girl#
+
+26108#Unforgettable memories (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. The quest can be accepted through Little Girl in Lonely Village.#
+Reset at 4 o'clock#
+
+26109#Vain hopes#SG_FEEL#QUE_NOIMAGE#
+Kill 10 Ominous Assaulters and bring 5 Old Metal Pieces to the warrior.#
+Give 5 Old Metal Pieces#
+
+26110#Vain hopes (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. The quest can be accepted through the Warrior in Lonely Village.#
+Reset at 4 o'clock#
+
+26111#Unappeasable hunger 1#SG_FEEL#QUE_NOIMAGE#
+Kill 10 Ominous Permeters, 10 Ominous Soliders, 10 Ominous Freezers and 10 Ominous Heaters. Collect 10 pieces of rotten meat and give them to Exhausted Woman.#
+Give 10 pieces of rotten meat#
+
+26112#Unappeasable hunger 2#SG_FEEL#QUE_NOIMAGE#
+Kill 10 Ominous Permeters, 10 Ominous Soliders, 10 Ominous Freezers and 10 Ominous Heaters. Collect 10 pieces of rotten meat and give them to Exhausted Woman.#
+Bring meat to Exhausted Woman#
+
+26113#Unappeasable hunger (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. The quest can be accepted through Exhausted Woman in Gloomy Turtle Palace.#
+Reset at 4 o'clock#
+
+26114#Conversation with Aylvar#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+26115#Conversation with Little Girl#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+26116#One more conversation#SG_FEEL#QUE_NOIMAGE#
+Talk to the little girl in Lonely Village again.#
+Talk to Little Girl again#
+
+26117#And one more conversation#SG_FEEL#QUE_NOIMAGE#
+Talk to the little girl in Lonely Village again.#
+Talk to Little Girl again#

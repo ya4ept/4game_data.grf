@@ -2381,6 +2381,15 @@ StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
 		{ "Unable to recover SP Status" }
 	}
 }
+StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 3,
+	descript = {
+		{ "м‚° мћђм™Ђ мЈЅмќЂ мћђмќ кІЅкі„м—ђ мћ€мЉµл‹€л‹¤!", COLOR_TITLE_DEBUFF },
+		{ "м •м‹ л Ґмќґ 50% к°ђм†Њн•©л‹€л‹¤." },
+		{ "%s", COLOR_TIME }
+	}
+}
 StateIconList[EFST_IDs.EFST_GENSOU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
