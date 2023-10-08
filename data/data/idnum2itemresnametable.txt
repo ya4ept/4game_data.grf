@@ -11624,3 +11624,11 @@
 24422#C_99LV_Sura_Orange#
 420194#응원용호루라기#
 19241#매지컬부스터#
+
+20596#C_BlackBear_Back_TW#
+31732#BearBalloon#
+31799#C_Pretty_Bear_WH#
+440010#C_Bear_Head#
+102623#Costama_Egg80#
+19136#청이의영혼#
+
