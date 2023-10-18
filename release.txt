@@ -1,3 +1,31 @@
+11.10.2023 11:30
+Ragnarok Online Prime EU
+The server is open!
+
+Events and Shop:
+— The Card Removal Sets and Consumable Packs arrived in launcher.
+— The Gear Packs arrived in launcher.
+— The Panda God Treasure offer has been extended.
+— The Luckybox Sets offer has been extended.
+
+Finished activities:
+— The Chronosets & Fallen Angel Wings Sets left the launcher.
+
+Changes:
+— Bloody Branch
+    No longer possible to use on locations:
+Spoiler: List— "Greed" ability:
+    No longer possible to use on locations:
+Abyss Lake Underground Cave (pvp_n_n_8-5.gat)
+
+    Now works on locations:
+    Mine Dungeon (ein_dun01)
+    Glast Heim (glast_01)
+    Nasarian Empire (ein_d02_i)
+
+Information about weekly update: https://eu.4gameforum.com/threads/692914/
+
+================
 05.10.2023 12:34
 Ragnarok Online Prime Team
 The server is open!
