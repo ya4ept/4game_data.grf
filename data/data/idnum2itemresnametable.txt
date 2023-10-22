@@ -11758,4 +11758,8 @@
 440010#C_Bear_Head#
 102623#Costama_Egg80#
 19136#청이의영혼#
+2597#진홍의판초#
+20550#C_99LV_Warlock_Violet#
+410097#Pope_Ribbon_R#
+100270#쉐도우큐브#
 
