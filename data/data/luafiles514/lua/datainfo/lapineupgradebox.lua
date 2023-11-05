@@ -1,5 +1,29 @@
 tblLapineUpgradeBox = {
 	targets = {
+		Old_Refine_Cube = {
+			ItemID = 100270,
+			NeedRefineMin = 0,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Old_Rune_Circlet", 18971 },
+				{ "Old_Mitra", 18972 },
+				{ "Old_Driver_Band_R", 18973 },
+				{ "Old_Driver_Band_Y", 18974 },
+				{ "Old_Shadow_Handicraft", 18975 },
+				{ "Old_Minstrel_Song_Hat", 18976 },
+				{ "Old_Midas_Whisper", 18977 },
+				{ "Old_Magic_Stone_Hat", 18978 },
+				{ "Old_Blazing_Soul", 18979 },
+				{ "Old_Wind_Whisper", 18980 },
+				{ "Old_Dying_Swan", 18981 },
+				{ "Old_Circlet_Of_Bone", 18982 },
+				{ "Old_Protect_Of_Crown", 18983 },
+				{ "Old_Camo_RabbitHood", 18984 }
+			},
+			NeedSource_String = "Fallen Warrior's Headgear"
+		},
 		Magma_Essence = {
 			ItemID = 23815,
 			NeedRefineMin = 0,
@@ -1282,6 +1306,12 @@ tblLapineUpgradeBox = {
 		}
 	},
 	results = {
+		Old_Refine_Cube = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
 		Magma_Essence = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "LAV2", FailureItems = {} },
 		EP17_1_SPC05 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "17WA", FailureItems = {} },
 		EP17_1_SPC06 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "17WB", FailureItems = {} },
