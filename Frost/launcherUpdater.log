@@ -1,11 +1,11 @@
 CmdLine = -frostGameNameType ropeu_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.6:80
-selected httpIp 109.105.133.6
+checking connection to 109.105.133.7:80
+selected httpIp 109.105.133.7
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
 get_32bit_client_setting end
-download_url_to_file(version/ropeu_live/32/frostinfo.txt) -> I:\Love\4game\euRO_Prime\Frost\\frostinfo.txt in 1 seconds, err = 0(OK/200), sysErr = 0
+download_url_to_file(version/ropeu_live/32/frostinfo.txt) -> I:\Love\4game\euRO_Prime\Frost\\frostinfo.txt in 0 seconds, err = 0(OK/200), sysErr = 0
 balance	100|0
 option	5
 redir eu|185.47.157.147|10001-10016,17453|185.47.156.141|10001-10016,17453|100
