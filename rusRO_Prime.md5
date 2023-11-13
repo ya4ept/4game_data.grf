@@ -2,7 +2,7 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-5e8a60b63b93cb78af21f343f5910ba4 *data.grf
+f89f9015f2625cf955220715af4f7c3a *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -55,12 +55,13 @@ d85b0ca97ecb6394abd13175302faf40 *AI\Util.lua
 2a4f133b7e90dde01f18079861981780 *AI\USER_AI\AI_M.lua
 5ca2546fb27308bcc70f2c05fc331295 *AI\USER_AI\Const.lua
 d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
+9f463433e6c9b73a5dcf3194ae205fbd *data\achievement_list.lub
 1a69e5527fe89864667ce0d340185f01 *Frost\back.bmp
 6d342202659cfea4ab59a3ebaa928b55 *Frost\frost.ico
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 8f31854ceee8db31f54dbce23417cf4f *Frost\frostinfo.txt
-0b6778ef18a3a1e90fca07e805a3fad1 *Frost\frostInit.log
+1f0e60ef433b6fbc41e3a5ac776000fc *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -69,7 +70,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 5ec1d55ad730241e2b1e18c1a11c85b2 *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-05d67260b19baf270b909a3e30ec49e5 *Frost\launcherUpdater.log
+c94b5d8cec88cd6b4f51e9c55ae66bfa *Frost\launcherUpdater.log
 d70d111fb475c21a025004df937d7b5e *Frost\ro.exe
 12471f71659cac6ee2dc0821676fec0f *Frost\.inn.meta.dir\.inn.cache.txt
 12471f71659cac6ee2dc0821676fec0f *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -77,11 +78,10 @@ d16986263e4d8be2a9e3e2fd7948649e *Frost\.inn.meta.dir\.inn.files.3.1.0.59.contro
 394854a8b01d8253df28420665aff8c3 *Frost\.inn.meta.dir\.inn.installed.control.txt
 cd408c154b0a60025215fd212e7ffc3b *Frost\.inn.meta.dir\.inn.version.3.1.0.59.control.txt
 e224026094f8c602bdfe2d75331d5303 *gameManager\gameManager.exe
-ec5c5db8e18c0352186831e606f4acc7 *gameManager\log.log
 b82936a316d4ecec820229c88cf46baa *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 699151d1859a118f6bfbfe3cccd4b70b *System\CheckAttendance.lub
-2289441a5e282a0233354f423a60c59d *System\iteminfo.lub
+efd80ebbb91a7c5952e90fdd906076c7 *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 9a9250d4476f8088e64049574d8a119f *System\monster_size_effect.lua
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
