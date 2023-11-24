@@ -11643,3 +11643,8 @@
 56750#C_School_Bag_RD#
 56749#프리티토끼후드#
 56756#햇빛의상자#
+
+20525#C_Bloody_Wing#
+450179#Bloody_Dress#
+470033#엘레멘탈부츠#
+102687#Spell_Of_Time#
