@@ -11777,3 +11777,6 @@
 450179#Bloody_Dress#
 470033#¿¤·¹¸àÅ»ºÎÃ÷#
 102687#Spell_Of_Time#
+15417#Armor_of_Purple_Thread#
+19274#OpenAir_Headset#
+400002#½Â¸®ÀÇ±ÍÀå½Ä#
