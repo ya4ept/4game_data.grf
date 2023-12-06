@@ -11648,3 +11648,8 @@
 450179#Bloody_Dress#
 470033#엘레멘탈부츠#
 102687#Spell_Of_Time#
+15417#Armor_of_Purple_Thread#
+19274#OpenAir_Headset#
+400002#승리의귀장식#
+
+23107#아미스트르상자#
