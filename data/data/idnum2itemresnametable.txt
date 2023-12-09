@@ -11780,3 +11780,12 @@
 15417#Armor_of_Purple_Thread#
 19274#OpenAir_Headset#
 400002#승리의귀장식#
+
+23107#아미스트르상자#
+5966#카르듀이의귀#
+400343#C_Fox_Bamboo_Hat#
+410194#여우모자#
+420192#C_Friendly_White_Fox#
+480362#C_Ninetail_Tail_WH#
+100742#번호상자04#
+102751#태양알#

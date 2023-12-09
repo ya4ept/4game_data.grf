@@ -2205,5 +2205,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Magic_Celestial_Globe = 2265,
 	ACCESSORY_C_Cons_Of_Light_Dark = 2273,
 	ACCESSORY_C_Traveller_Oil_Lantern = 2280,
-	ACCESSORY_Tiger_Glass = 2325
+	ACCESSORY_C_Fox_Bamboo_Hat = 2294,
+	ACCESSORY_Tiger_Glass = 2325,
+	ACCESSORY_C_Friendly_White_Fox = 2335
 }

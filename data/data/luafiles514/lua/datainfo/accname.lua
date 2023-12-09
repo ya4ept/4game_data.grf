@@ -2200,5 +2200,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Light_Dark] = "_C_Cons_Of_Light_Dark",
 	[ACCESSORY_IDs.ACCESSORY_C_Traveller_Oil_Lantern] = "_C_Traveller_Oil_Lantern",
 	[ACCESSORY_IDs.ACCESSORY_C_Magic_Celestial_Globe] = "_C_Magic_Celestial_Globe",
-	[ACCESSORY_IDs.ACCESSORY_Tiger_Glass] = "_Tiger_Glass"
+	[ACCESSORY_IDs.ACCESSORY_Tiger_Glass] = "_Tiger_Glass",
+	[ACCESSORY_IDs.ACCESSORY_C_Friendly_White_Fox] = "_C_Friendly_White_Fox",
+	[ACCESSORY_IDs.ACCESSORY_C_Fox_Bamboo_Hat] = "_C_Fox_Bamboo_Hat"
 }
