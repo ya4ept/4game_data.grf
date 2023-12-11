@@ -2196,6 +2196,8 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Macaron_Bunny_Head = 2223,
 	ACCESSORY_C_Wanderer_Curl = 2224,
 	ACCESSORY_Belka_Strelka = 2246,
+	ACCESSORY_C_Fox_Bamboo_Hat = 2294,
+	ACCESSORY_C_Friendly_White_Fox = 2335,
 	ACCESSORY_C_Win_185_Green_Aura = 2399,
 	ACCESSORY_C_Win_185_Violet_Aura = 2400
 }

@@ -2192,5 +2192,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Macaron_Bunny_Head] = "_C_Macaron_Bunny_Head",
 	[ACCESSORY_IDs.ACCESSORY_C_Wanderer_Curl] = "_C_Wanderer_Curl",
 	[ACCESSORY_IDs.ACCESSORY_C_Win_185_Green_Aura] = "_C_Win_185_Green_Aura",
-	[ACCESSORY_IDs.ACCESSORY_C_Win_185_Violet_Aura] = "_C_Win_185_Violet_Aura"
+	[ACCESSORY_IDs.ACCESSORY_C_Win_185_Violet_Aura] = "_C_Win_185_Violet_Aura",
+	[ACCESSORY_IDs.ACCESSORY_C_Friendly_White_Fox] = "_C_Friendly_White_Fox",
+	[ACCESSORY_IDs.ACCESSORY_C_Fox_Bamboo_Hat] = "_C_Fox_Bamboo_Hat"
 }
