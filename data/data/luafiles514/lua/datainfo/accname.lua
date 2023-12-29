@@ -2194,5 +2194,11 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Win_185_Green_Aura] = "_C_Win_185_Green_Aura",
 	[ACCESSORY_IDs.ACCESSORY_C_Win_185_Violet_Aura] = "_C_Win_185_Violet_Aura",
 	[ACCESSORY_IDs.ACCESSORY_C_Friendly_White_Fox] = "_C_Friendly_White_Fox",
-	[ACCESSORY_IDs.ACCESSORY_C_Fox_Bamboo_Hat] = "_C_Fox_Bamboo_Hat"
+	[ACCESSORY_IDs.ACCESSORY_C_Fox_Bamboo_Hat] = "_C_Fox_Bamboo_Hat",
+	[ACCESSORY_IDs.ACCESSORY_NY_2024_Hat1] = "_NY_2024_Hat1",
+	[ACCESSORY_IDs.ACCESSORY_NY_2024_Hat2] = "_NY_2024_Hat2",
+	[ACCESSORY_IDs.ACCESSORY_NY_2024_Hat3] = "_NY_2024_Hat3",
+	[ACCESSORY_IDs.ACCESSORY_NY_2024_Hat4] = "_NY_2024_Hat4",
+	[ACCESSORY_IDs.ACCESSORY_NY_2024_Hat5] = "_NY_2024_Hat5",
+	[ACCESSORY_IDs.ACCESSORY_NY_2024_Hat6] = "_NY_2024_Hat6"
 }

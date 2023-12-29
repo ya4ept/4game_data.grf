@@ -141,7 +141,23 @@ title_tbl = {
 	[5095] = "Coffee harmony",
 	[5096] = "Ferocious Lumberjack",
 	[5097] = "Bloody Forester",
-	[5098] = "Fatal arborist"
+	[5098] = "Fatal arborist",
+	[5099] = "Ominous woodcutter",
+	[5100] = "Bees' defender",
+	[5101] = "Ghostbuster",
+	[5102] = "Saviour of the universe",
+	[5103] = "Fire punch",
+	[5104] = "Myth Buster",
+	[5105] = "Elemental Lord",
+	[5106] = "Snow Avalanche",
+	[5107] = "Vacation King",
+	[5108] = "Cold Killer",
+	[5109] = "Cold-blooded Fighter",
+	[5110] = "Cold-blooded Gladiator",
+	[5111] = "Cold-blooded Emperor",
+	[5112] = "Tomato Lover",
+	[5113] = "Salad Lover",
+	[5114] = "Shredder"
 }
 
 -- Function #0
