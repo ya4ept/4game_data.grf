@@ -2092,7 +2092,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Seems friendly here...",
+		title = "Seems friendly here..",
 		content = { summary = "Kill Celine Kimmi.", details = "Clear the dungeon." },
 		resource = { [1] = { text = "Defeat Celine Kimmi 10 times", count = 25 } },
 		reward = {},
@@ -2103,7 +2103,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Welcome...",
+		title = "Welcome..",
 		content = { summary = "Kill Celine Kimmi.", details = "Clear the dungeon." },
 		resource = { [1] = { text = "Defeat Celine Kimmi 50 times", count = 50 } },
 		reward = {},
@@ -3886,7 +3886,7 @@ achievement_tbl = {
 		title = "Grim Chatterbox",
 		content = {
 			summary = "Open the chat window while dead",
-			details = "Even death can't stop you from talking... Open the chat window while dead. The shortcut is ALT + C (default)."
+			details = "Even death can't stop you from talking.. Open the chat window while dead. The shortcut is ALT + C (default)."
 		},
 		resource = { [1] = { text = "Open Chat Window while dead" } },
 		reward = {},
@@ -3911,7 +3911,7 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Friend... My friend...",
+		title = "Friend.. My friend..",
 		content = {
 			summary = "Add 1 friend to your Friend List",
 			details = "Look for a friend to join your adventure. Add 1 friend to your Friend List."
@@ -3953,7 +3953,7 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "Are you married...?",
+		title = "Are you married..?",
 		content = {
 			summary = "Marry someone",
 			details = "In this tough and lonely world, only love lets you protect each other. Marry someone to seal your love."
@@ -4186,7 +4186,7 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "Man's greed knows no bounds...",
+		title = "Man's greed knows no bounds..",
 		content = {
 			summary = "And experiences refining failure",
 			details = "Man's greed knows no bounds and makes same mistakes. But Man also grows by learning from mistakes. Experience a refining failure."
@@ -9127,308 +9127,308 @@ achievement_tbl = {
 		score = 10
 	},
 	[501261] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Slow death",
 		content = {
 			summary = "Kill Ominous Freezer 100 times",
-			details = "Kill Ominous Freezer 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Ominous Freezer 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Ominous Freezer", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501262] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Turtle soup",
 		content = {
 			summary = "Kill Ominous Freezer 500 times",
-			details = "Kill Ominous Freezer 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Ominous Freezer 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Ominous Freezer", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501263] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Shredder",
 		content = {
 			summary = "Kill Ominous Freezer 5000 times",
-			details = "Kill Ominous Freezer 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Ominous Freezer 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Ominous Freezer", count = 5000 } },
 		reward = { item = 56767, title = 5114 },
 		score = 10
 	},
 	[501264] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Sauna firewood",
 		content = {
 			summary = "Kill Decorated Evil Tree 100 times",
-			details = "Kill Decorated Evil Tree 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Decorated Evil Tree 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Decorated Evil Tree", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501265] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Firewood for a whole year!",
 		content = {
 			summary = "Kill Decorated Evil Tree 500 times",
-			details = "Kill Decorated Evil Tree 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Decorated Evil Tree 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Decorated Evil Tree", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501266] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Ominous woodcutter",
 		content = {
 			summary = "Kill Decorated Evil Tree 5000 times",
-			details = "Kill Decorated Evil Tree 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Decorated Evil Tree 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Decorated Evil Tree", count = 5000 } },
 		reward = { item = 56767, title = 5099 },
 		score = 10
 	},
 	[501267] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Bear hunting",
 		content = {
 			summary = "Kill White Teddy Bear 100 times",
-			details = "Kill White Teddy Bear 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill White Teddy Bear 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill White Teddy Bear", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501268] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Massive poaching",
 		content = {
 			summary = "Kill White Teddy Bear 500 times",
-			details = "Kill White Teddy Bear 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill White Teddy Bear 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill White Teddy Bear", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501269] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Bees' defender",
 		content = {
 			summary = "Kill White Teddy Bear 5000 times",
-			details = "Kill White Teddy Bear 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill White Teddy Bear 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill White Teddy Bear", count = 5000 } },
 		reward = { item = 56767, title = 5100 },
 		score = 10
 	},
 	[501270] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "The Phantom Menace",
 		content = {
 			summary = "Kill Ice Ghost 100 times",
-			details = "Kill Ice Ghost 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Ice Ghost 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Ice Ghost", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501271] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "The world doesn't need a hero",
 		content = {
 			summary = "Kill Ice Ghost 500 times",
-			details = "Kill Ice Ghost 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Ice Ghost 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Ice Ghost", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501272] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Ghostbuster",
 		content = {
 			summary = "Kill Ice Ghost 5000 times",
-			details = "Kill Ice Ghost 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Ice Ghost 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Ice Ghost", count = 5000 } },
 		reward = { item = 56767, title = 5101 },
 		score = 10
 	},
 	[501273] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Defender of the Wall",
 		content = {
 			summary = "Kill Angry Ice Titan 100 times",
-			details = "Kill Angry Ice Titan 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Ice Titan 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Ice Titan", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501274] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Melt Titanium",
 		content = {
 			summary = "Kill Angry Ice Titan 500 times",
-			details = "Kill Angry Ice Titan 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Ice Titan 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Ice Titan", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501275] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Saviour of the universe",
 		content = {
 			summary = "Kill Angry Ice Titan 5000 times",
-			details = "Kill Angry Ice Titan 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Ice Titan 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Ice Titan", count = 5000 } },
 		reward = { item = 56767, title = 5102 },
 		score = 10
 	},
 	[501276] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Ice Pick",
 		content = {
 			summary = "Kill Angry Gazeti 100 times",
-			details = "Kill Angry Gazeti 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Gazeti 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Gazeti", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501277] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Disgruntled Sculptor",
 		content = {
 			summary = "Kill Angry Gazeti 500 times",
-			details = "Kill Angry Gazeti 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Gazeti 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Gazeti", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501278] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Fire punch",
 		content = {
 			summary = "Kill Angry Gazeti 5000 times",
-			details = "Kill Angry Gazeti 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Gazeti 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Gazeti", count = 5000 } },
 		reward = { item = 56767, title = 5103 },
 		score = 10
 	},
 	[501279] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "They exist!",
 		content = {
 			summary = "Kill Angry Snowier 100 times",
-			details = "Kill Angry Snowier 100 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Snowier 100 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Snowier", count = 100 } },
 		reward = { item = 56766 },
 		score = 10
 	},
 	[501280] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Penguin saviour",
 		content = {
 			summary = "Kill Angry Snowier 500 times",
-			details = "Kill Angry Snowier 500 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Snowier 500 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Snowier", count = 500 } },
 		reward = { item = 56767 },
 		score = 10
 	},
 	[501281] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Myth Buster",
 		content = {
 			summary = "Kill Angry Snowier 5000 times",
-			details = "Kill Angry Snowier 5000 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill Angry Snowier 5000 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill Angry Snowier", count = 5000 } },
 		reward = { item = 56767, title = 5104 },
 		score = 10
 	},
 	[501282] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Snow Avalanche",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 100 times", count = 1 },
@@ -9443,84 +9443,84 @@ achievement_tbl = {
 		score = 10
 	},
 	[501285] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold-blooded Fighter",
 		content = {
 			summary = "Kill player 10 times",
-			details = "Kill other players in PVP.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill other players in PVP.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill players in PVP", count = 10 } },
 		reward = { item = 56766, title = 5109 },
 		score = 10
 	},
 	[501286] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold-blooded Gladiator",
 		content = {
 			summary = "Kill player 25 times",
-			details = "Kill other players in PVP.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill other players in PVP.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill players in PVP", count = 25 } },
 		reward = { item = 56766, title = 5110 },
 		score = 10
 	},
 	[501287] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold-blooded Emperor",
 		content = {
 			summary = "Kill player 50 times",
-			details = "Kill other players in PVP.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Kill other players in PVP.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Kill players in PVP", count = 50 } },
 		reward = { item = 56767, title = 5111 },
 		score = 10
 	},
 	[501259] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "ADVENTURE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Tomato Dehydrator",
 		content = {
 			summary = "Consume Tomato Juice",
-			details = "Consume Tomato Juice 5 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Consume Tomato Juice 5 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Consume Tomato Juice 5 times", count = 5 } },
 		reward = { title = 5112 },
 		score = 10
 	},
 	[501260] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "ADVENTURE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "A man who enjoys eating",
 		content = {
 			summary = "Consume Strange Salad",
-			details = "Consume Strange Salad 5 times.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Consume Strange Salad 5 times.\nThe event 'Snow Defence' has ended."
 		},
 		resource = { [1] = { text = "Consume Strange Salad 5 times", count = 5 } },
 		reward = { title = 5113 },
 		score = 10
 	},
 	[501284] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold Vendetta",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 5000 times", count = 1 },
@@ -9535,14 +9535,14 @@ achievement_tbl = {
 		score = 10
 	},
 	[501254] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Who's got my hat?",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 2 times", count = 2 },
@@ -9557,14 +9557,14 @@ achievement_tbl = {
 		score = 10
 	},
 	[501255] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold Death 2",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 30 times", count = 30 },
@@ -9579,14 +9579,14 @@ achievement_tbl = {
 		score = 10
 	},
 	[501256] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold Death 2",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 200 times", count = 200 },
@@ -9601,14 +9601,14 @@ achievement_tbl = {
 		score = 10
 	},
 	[501257] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold Death 3",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 1000 times", count = 1000 },
@@ -9623,14 +9623,14 @@ achievement_tbl = {
 		score = 10
 	},
 	[501258] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "BATTLE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "Cold Death 4",
 		content = {
 			summary = "Take part in the hunt.",
-			details = "Take part in the hunt.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Take part in the hunt.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Kill Ominous Freezer 2500 times.", count = 2500 },
@@ -9645,14 +9645,14 @@ achievement_tbl = {
 		score = 10
 	},
 	[501283] = {
-		UI_Type = 1,
+		UI_Type = 0,
 		group = "ADVENTURE",
-		major = 4,
+		major = 11,
 		minor = 0,
 		title = "The holiday was a hit!",
 		content = {
 			summary = "Try  holiday dishes.",
-			details = "Try  holiday dishes.\nThe event 'Snow Defence' [21.12.2023 - 11.01.2024]."
+			details = "Try  holiday dishes.\nThe event 'Snow Defence' has ended."
 		},
 		resource = {
 			[1] = { text = "Consume Tomato Juice 5 times", count = 1 },

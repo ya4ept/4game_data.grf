@@ -1,3 +1,44 @@
+11.01.2024 11:30
+Ragnarok Online Prime EU
+The server is open!
+
+Information about weekly update: https://eu.4gameforum.com/threads/693538/
+
+Events and Shop:
+— The Card Removal Sets and Consumable Packs arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The WIN-WIN Machine With The Equipment arrived in launcher.
+— The "+30% ALL Experience Boost" event has begun.
+
+Finished activities:
+— The WIN-WIN Machine - The Spirit of Summer left the launcher.
+— The Luckybox Sets left the launcher.
+— The Christmas Carol Treasure left the launcher.
+— The "New Year Quiz from Santa" event has come to an end.
+— The "Snow Defense" event has come to an end.
+
+Changes:
+— Fixed a bug with the "Kardui Ears" item's MATK bonus.
+— Reduced the chance of spawning the following MVPs from the Bloody Branch:
+  * Durable Muspellskoll
+  * Warped Dark Lord
+  * Warped Brinaranea
+  * R48-85-Bestia
+
+================
+03.01.2024 11:30
+Ragnarok Online Prime EU
+The server is open!
+
+Events and Shop:
+— The WIN-WIN Machine - The Spirit of Summer arrived in launcher.
+
+Finished activities:
+— The Shadow Packs left the launcher.
+
+Information about weekly update: https://eu.4gameforum.com/threads/693520/
+
+================
 27.12.2023 11:45
 Ragnarok Online Prime EU
 The server is open!
