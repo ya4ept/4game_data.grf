@@ -1,3 +1,25 @@
+17.01.2024 11:31
+Ragnarok Online Prime Team
+The server is open!
+
+Events and Shop:
+— The HD Refinement Sets arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+— The "Matilda needs help" event has begun.
+
+Finished activities:
+— The Card Removal Sets and Consumable Packs left the launcher.
+— The Battle manual packs left the launcher.
+— The Ticket to Giftland left the launcher.
+— The "+30% ALL Experience Boost" event has come to an end.
+
+Changes:
+— Effects of New Year's hats disabled
+— Fixed the set bonus for Celine's Dress and Celine's Ribbon items when total refine rate is +23 or higher.
+
+Information about weekly update: https://eu.4gameforum.com/threads/693559/
+
+================
 11.01.2024 11:30
 Ragnarok Online Prime EU
 The server is open!
