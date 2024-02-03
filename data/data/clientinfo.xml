@@ -2,31 +2,30 @@
 
 <clientinfo>
 
-	<servicetype>russia</servicetype>
-	<servertype>primary</servertype>
-	<passwordencrypt></passwordencrypt>
-	<hideaccountlist></hideaccountlist>
+<servicetype>russia</servicetype>
+<servertype>primary</servertype>
+<passwordencrypt></passwordencrypt>
+<hideaccountlist></hideaccountlist>
 
-	<connection>
-		<display>Prime</display>
-		<desc>None</desc>
-		<address>109.105.141.16</address>
-		<port>6800</port>
-		<version>1</version>
-		<registrationweb>https://ru.4game.com/</registrationweb>
-		<aid>
-		<admin>100003</admin>
-		<admin>101745</admin>
-		<admin>202832</admin>
-		<admin>193526</admin>
-		<admin>203426</admin>
-		<admin>179247</admin>
-		<admin>203480</admin>
-		<admin>204255</admin>
-		<admin>182821</admin>
-		<admin>206594</admin>
-		<admin>209808</admin>		
-		</aid>
-	</connection>
+<connection>
+<display>Prime</display>
+<desc>None</desc>
+<address>109.105.141.16</address>
+<port>6800</port>
+<version>1</version>
+<registrationweb>https://ru.4game.com/</registrationweb>
+<aid>
+<admin>100003</admin>
+<admin>101745</admin>
+<admin>202832</admin>
+<admin>203426</admin>
+<admin>179247</admin>
+<admin>203480</admin>
+<admin>204255</admin>
+<admin>182821</admin>
+<admin>206594</admin>
+<admin>209808</admin>
+</aid>
+</connection>
 
 </clientinfo>
