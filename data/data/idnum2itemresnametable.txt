@@ -11680,3 +11680,4 @@
 410080#퇴마의글래스#
 420191#C_Snow_Rabbit_Wig#
 102802#Xmas_Scroll#
+20579#Wings_Of_Raphael#

@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="euc-kr" ?>
 <clientinfo>
-	<servicetype>eu</servicetype>
-	<servertype>primary</servertype>
-	<passwordencrypt></passwordencrypt>
-	<readfolder></readfolder>
-	<connection>
-		<display>Europe Server</display>
-		<desc>None</desc>
-		<address>185.47.157.145</address>
-		<port>6800</port>
-		<version>1</version>
-		<registrationweb>https://eu.4game.com/</registrationweb>
-		<aid>
-		<admin>103722</admin>
-		<admin>105313</admin>
-		<admin>131394</admin>
-		<admin>143437</admin>
-		<admin>165184</admin>
-		<admin>165185</admin>
-		<admin>167579</admin>
-		<admin>165187</admin>
-		<admin>165186</admin>
-		<admin>166739</admin>
-		<admin>165763</admin>
-		<admin>169006</admin>		
-		</aid>
-	</connection>
+<servicetype>eu</servicetype>
+<servertype>primary</servertype>
+<passwordencrypt></passwordencrypt>
+<readfolder></readfolder>
+<connection>
+<display>Europe Server</display>
+<desc>None</desc>
+<address>185.47.157.145</address>
+<port>6800</port>
+<version>1</version>
+<registrationweb>https://eu.4game.com/</registrationweb>
+<aid>
+<admin>103722</admin>
+<admin>105313</admin>
+<admin>131394</admin>
+<admin>143437</admin>
+<admin>165184</admin>
+<admin>167579</admin>
+<admin>165187</admin>
+<admin>165186</admin>
+<admin>166739</admin>
+<admin>165763</admin>
+<admin>169006</admin>
+</aid>
+</connection>
 </clientinfo>
