@@ -11810,3 +11810,8 @@
 420191#C_Snow_Rabbit_Wig#
 102802#Xmas_Scroll#
 20579#Wings_Of_Raphael#
+
+20619#C_Phaya_Ploeng_Suriyan#
+102898#그린스크롤#
+56747#C_Win_185_Green_Aura#
+56748#C_Win_185_Violet_Aura#
