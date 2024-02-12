@@ -103,18 +103,17 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Kyel_hyre_Ulti_TW] = "C_Kyel_hyre_Ulti_TW",
 	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
 	[SPRITE_ROBE_IDs.ROBE_C_Kings_Twin_Sword] = "C_Kings_Twin_Sword",
-	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_BU] = "C_School_Bag_BU",
 	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing",
 	[SPRITE_ROBE_IDs.ROBE_C_Adventure_Cat_Bag] = "C_Adventure_Cat_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_Elec_Guitar_Of_Phen] = "C_Elec_Guitar_Of_Phen",
 	[SPRITE_ROBE_IDs.ROBE_C_Giant_Shark] = "C_Giant_Shark",
+	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream",
 	[SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key] = "C_Niflheim_Key",
 	[SPRITE_ROBE_IDs.ROBE_Striking_Mikoshi] = "Striking_Mikoshi",
 	[SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival] = "C_Samba_Carnival",
 	[SPRITE_ROBE_IDs.ROBE_C_Nydhog_Rumor] = "C_Nydhog_Rumor",
 	[SPRITE_ROBE_IDs.ROBE_C_G_DaeHyon_Sword_TW] = "C_G_DaeHyon_Sword_TW",
 	[SPRITE_ROBE_IDs.ROBE_C_Hooked_Straw_Hat] = "C_Hooked_Straw_Hat",
-	[SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream] = "C_Triple_Ice_Cream",
 	[SPRITE_ROBE_IDs.ROBE_C_Beer_Server] = "C_Beer_Server",
 	[SPRITE_ROBE_IDs.ROBE_C_Filir_Bag] = "C_Filir_Bag",
 	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_PU] = "C_School_Bag_PU",
@@ -131,8 +130,7 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon] = "C_Wedding_Ribbon",
 	[SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight] = "Valkyrie_Curse_blight",
 	[SPRITE_ROBE_IDs.ROBE_C_2022RTC_V_Coat4] = "C_2022RTC_V_Coat4",
-	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit",
-	[SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU] = "C_Back_Ribbon_Bell_BU"
+	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -239,10 +237,7 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Kyel_hyre_Ulti_TW] = "C_Kyel_hyre_Ulti_TW",
 	[SPRITE_ROBE_IDs.ROBE_C_Poring_Basket] = "C_Poring_Basket",
 	[SPRITE_ROBE_IDs.ROBE_C_Kings_Twin_Sword] = "C_Kings_Twin_Sword",
-	[SPRITE_ROBE_IDs.ROBE_C_School_Bag_BU] = "C_School_Bag_BU",
 	[SPRITE_ROBE_IDs.ROBE_C_Flower_Wing] = "C_Flower_Wing",
-	[SPRITE_ROBE_IDs.ROBE_C_Adventure_Cat_Bag] = "C_Adventure_Cat_Bag",
-	[SPRITE_ROBE_IDs.ROBE_C_Elec_Guitar_Of_Phen] = "C_Elec_Guitar_Of_Phen",
 	[SPRITE_ROBE_IDs.ROBE_C_Giant_Shark] = "C_Giant_Shark",
 	[SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key] = "C_Niflheim_Key",
 	[SPRITE_ROBE_IDs.ROBE_Striking_Mikoshi] = "Striking_Mikoshi",
@@ -267,8 +262,7 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon] = "C_Wedding_Ribbon",
 	[SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight] = "Valkyrie_Curse_blight",
 	[SPRITE_ROBE_IDs.ROBE_C_2022RTC_V_Coat4] = "C_2022RTC_V_Coat4",
-	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit",
-	[SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU] = "C_Back_Ribbon_Bell_BU"
+	[SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit] = "C_Big_B_Rabbit"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -295,12 +289,9 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_Calabash,
 	SPRITE_ROBE_IDs.ROBE_C_Blessed_Veil,
 	SPRITE_ROBE_IDs.ROBE_C_Giant_White_Rabbit,
-	SPRITE_ROBE_IDs.ROBE_C_Kings_Twin_Sword,
 	SPRITE_ROBE_IDs.ROBE_C_Poring_Basket,
-	SPRITE_ROBE_IDs.ROBE_C_Adventure_Cat_Bag,
-	SPRITE_ROBE_IDs.ROBE_Striking_Mikoshi,
-	SPRITE_ROBE_IDs.ROBE_C_Beer_Server,
 	SPRITE_ROBE_IDs.ROBE_C_Triple_Ice_Cream,
+	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key,
 	SPRITE_ROBE_IDs.ROBE_C_Giant_Shark,
 	SPRITE_ROBE_IDs.ROBE_C_Hooked_Straw_Hat,
 	SPRITE_ROBE_IDs.ROBE_C_Scepter,
@@ -309,7 +300,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Samba_Carnival,
 	SPRITE_ROBE_IDs.ROBE_C_Filir_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Spoon_Fork_Set,
-	SPRITE_ROBE_IDs.ROBE_C_G_DaeHyon_Sword_TW,
 	SPRITE_ROBE_IDs.ROBE_C_Lunatic_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Heart_Stick_Choco,
 	SPRITE_ROBE_IDs.ROBE_C_Clutch_Bouquet,
@@ -318,8 +308,5 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Pitaya_G_Bag,
 	SPRITE_ROBE_IDs.ROBE_C_Wedding_Ribbon,
 	SPRITE_ROBE_IDs.ROBE_Valkyrie_Curse_blight,
-	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit,
-	SPRITE_ROBE_IDs.ROBE_C_Niflheim_Key,
-	SPRITE_ROBE_IDs.ROBE_C_Back_Ribbon_Bell_BU,
-	SPRITE_ROBE_IDs.ROBE_C_20th_Anniversary_Wing
+	SPRITE_ROBE_IDs.ROBE_C_Big_B_Rabbit
 }
