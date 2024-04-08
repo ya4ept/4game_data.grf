@@ -3011,7 +3011,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_WIDEBLEEDING] = {
 		"NPC_WIDEBLEEDING",
-		SkillName = "Кровотечение",
+		SkillName = "Bloody Party",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -5382,7 +5382,7 @@ SKILL_INFO_LIST = {
 		"AB_ADORAMUS",
 		SkillName = "Кара",
 		MaxLv = 10,
-		SpAmount = { 20, 24, 28, 32, 36, 40, 44, 48, 52, 56 },
+		SpAmount = { 32, 40, 48, 56, 64, 72, 80, 88, 96, 104 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -9979,7 +9979,7 @@ SKILL_INFO_LIST = {
 		"AB_ANCILLA",
 		SkillName = "Анцилла",
 		MaxLv = 1,
-		SpAmount = { 30 },
+		SpAmount = { 10 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
 		_NeedSkillList = {
@@ -10500,10 +10500,10 @@ SKILL_INFO_LIST = {
 	[SKID.KO_JYUMONJIKIRI] = {
 		"KO_JYUMONJIKIRI",
 		SkillName = "Кровавая казнь",
-		MaxLv = 5,
-		SpAmount = { 10, 12, 14, 16, 18 },
+		MaxLv = 10,
+		SpAmount = { 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 },
 		bSeperateLv = true,
-		AttackRange = { 3, 4, 5, 6, 7 },
+		AttackRange = { 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 		_NeedSkillList = {
 			{ SKID.KO_YAMIKUMO, 1 }
 		}
@@ -10555,10 +10555,10 @@ SKILL_INFO_LIST = {
 	[SKID.KO_HUUMARANKA] = {
 		"KO_HUUMARANKA",
 		SkillName = "Вихрь лепестков",
-		MaxLv = 5,
-		SpAmount = { 24, 28, 32, 36, 40 },
+		MaxLv = 10,
+		SpAmount = { 22, 24, 26, 28, 30, 32, 34, 36, 38, 40 },
 		bSeperateLv = true,
-		AttackRange = { 9, 10, 11, 12, 13 },
+		AttackRange = { 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 },
 		_NeedSkillList = {
 			{ SKID.NJ_HUUMA, 5 }
 		}
@@ -10999,10 +10999,10 @@ SKILL_INFO_LIST = {
 	[SKID.RL_D_TAIL] = {
 		"RL_D_TAIL",
 		SkillName = "Хвост дракона",
-		MaxLv = 5,
-		SpAmount = { 60, 70, 80, 90, 100 },
+		MaxLv = 10,
+		SpAmount = { 55, 60, 65, 70, 75, 80, 85, 90, 95, 100 },
 		bSeperateLv = true,
-		AttackRange = { 0, 0, 0, 0, 0 },
+		AttackRange = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
 			{ SKID.RL_H_MINE, 3 },
 			{ SKID.RL_C_MARKER, 1 }
@@ -11011,10 +11011,10 @@ SKILL_INFO_LIST = {
 	[SKID.RL_R_TRIP] = {
 		"RL_R_TRIP",
 		SkillName = "Круговой обстрел",
-		MaxLv = 5,
-		SpAmount = { 40, 45, 50, 55, 60 },
+		MaxLv = 10,
+		SpAmount = { 43, 46, 49, 52, 55, 58, 61, 64, 67, 70 },
 		bSeperateLv = true,
-		AttackRange = { 0, 0, 0, 0, 0 },
+		AttackRange = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
 			{ SKID.RL_FIRE_RAIN, 1 }
 		}
@@ -11055,10 +11055,10 @@ SKILL_INFO_LIST = {
 	[SKID.RL_BANISHING_BUSTER] = {
 		"RL_BANISHING_BUSTER",
 		SkillName = "Пугающий выстрел",
-		MaxLv = 5,
-		SpAmount = { 55, 60, 65, 70, 75 },
+		MaxLv = 10,
+		SpAmount = { 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9 },
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
 			{ SKID.RL_S_STORM, 1 }
 		}
@@ -11134,10 +11134,10 @@ SKILL_INFO_LIST = {
 	[SKID.RL_FIREDANCE] = {
 		"RL_FIREDANCE",
 		SkillName = "Танец огня",
-		MaxLv = 5,
-		SpAmount = { 12, 14, 16, 18, 20 },
+		MaxLv = 10,
+		SpAmount = { 13, 16, 19, 22, 25, 28, 31, 34, 37, 40 },
 		bSeperateLv = true,
-		AttackRange = { 0, 0, 0, 0, 0 },
+		AttackRange = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		_NeedSkillList = {
 			{ SKID.GS_DESPERADO, 1 }
 		}
@@ -11200,10 +11200,10 @@ SKILL_INFO_LIST = {
 	[SKID.RL_HAMMER_OF_GOD] = {
 		"RL_HAMMER_OF_GOD",
 		SkillName = "Молот бога",
-		MaxLv = 5,
-		SpAmount = { 35, 40, 45, 50, 55 },
+		MaxLv = 10,
+		SpAmount = { 37, 39, 41, 43, 45, 47, 49, 51, 53, 55 },
 		bSeperateLv = true,
-		AttackRange = { 7, 8, 9, 10, 11 },
+		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
 			{ SKID.RL_AM_BLAST, 3 }
 		}
@@ -12094,6 +12094,438 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 }
 	},
+	[SKID.SJ_LIGHTOFMOON] = {
+		"SJ_LIGHTOFMOON",
+		SkillName = "Лунный свет",
+		MaxLv = 5,
+		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_FULLMOONKICK, 3 }
+		}
+	},
+	[SKID.SJ_LUNARSTANCE] = {
+		"SJ_LUNARSTANCE",
+		SkillName = "Стойка луны",
+		MaxLv = 3,
+		SpAmount = { 10, 10, 10 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_DOCUMENT, 1 }
+		}
+	},
+	[SKID.SJ_FULLMOONKICK] = {
+		"SJ_FULLMOONKICK",
+		SkillName = "Удар полной луны",
+		MaxLv = 10,
+		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_NEWMOONKICK, 7 }
+		}
+	},
+	[SKID.SJ_NEWMOONKICK] = {
+		"SJ_NEWMOONKICK",
+		SkillName = "Удар молодой луны",
+		MaxLv = 7,
+		SpAmount = { 20, 25, 30, 35, 40, 45, 50 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_LUNARSTANCE, 1 }
+		}
+	},
+	[SKID.SJ_LIGHTOFSTAR] = {
+		"SJ_LIGHTOFSTAR",
+		SkillName = "Звездный свет",
+		MaxLv = 5,
+		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_FALLINGSTAR, 3 }
+		}
+	},
+	[SKID.SJ_STARSTANCE] = {
+		"SJ_STARSTANCE",
+		SkillName = "Стойка звезд",
+		MaxLv = 3,
+		SpAmount = { 10, 10, 10 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_DOCUMENT, 1 }
+		}
+	},
+	[SKID.SJ_FLASHKICK] = {
+		"SJ_FLASHKICK",
+		SkillName = "Сверкающий удар",
+		MaxLv = 7,
+		SpAmount = { 45, 40, 35, 30, 25, 20, 15 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_STARSTANCE, 1 }
+		}
+	},
+	[SKID.SJ_STAREMPEROR] = {
+		"SJ_STAREMPEROR",
+		SkillName = "Сошествие императора",
+		MaxLv = 5,
+		SpAmount = { 70, 75, 80, 85, 90 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_NOVAEXPLOSING, 5 },
+			{ SKID.SJ_UNIVERSESTANCE, 3 }
+		}
+	},
+	[SKID.SJ_NOVAEXPLOSING] = {
+		"SJ_NOVAEXPLOSING",
+		SkillName = "Вспышка сверхновой",
+		MaxLv = 5,
+		SpAmount = { 60, 65, 70, 75, 80 },
+		bSeperateLv = true,
+		AttackRange = { 3, 3, 3, 3, 3 },
+		_NeedSkillList = {
+			{ SKID.SJ_UNIVERSESTANCE, 1 }
+		}
+	},
+	[SKID.SJ_UNIVERSESTANCE] = {
+		"SJ_UNIVERSESTANCE",
+		SkillName = "Космическая стойка",
+		MaxLv = 3,
+		SpAmount = { 10, 10, 10 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_SUNSTANCE, 3 },
+			{ SKID.SJ_LUNARSTANCE, 3 },
+			{ SKID.SJ_STARSTANCE, 3 }
+		}
+	},
+	[SKID.SJ_FALLINGSTAR] = {
+		"SJ_FALLINGSTAR",
+		SkillName = "Падающая звезда",
+		MaxLv = 10,
+		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_FLASHKICK, 7 }
+		}
+	},
+	[SKID.SJ_GRAVITYCONTROL] = {
+		"SJ_GRAVITYCONTROL",
+		SkillName = "Контроль гравитации",
+		MaxLv = 1,
+		SpAmount = { 80 },
+		bSeperateLv = true,
+		AttackRange = { 9 },
+		_NeedSkillList = {
+			{ SKID.SJ_UNIVERSESTANCE, 1 }
+		}
+	},
+	[SKID.SJ_BOOKOFDIMENSION] = {
+		"SJ_BOOKOFDIMENSION",
+		SkillName = "Сила измерений",
+		MaxLv = 5,
+		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_STAREMPEROR, 3 },
+			{ SKID.SJ_DOCUMENT, 3 }
+		}
+	},
+	[SKID.SJ_BOOKOFCREATINGSTAR] = {
+		"SJ_BOOKOFCREATINGSTAR",
+		SkillName = "Первозданная сила",
+		MaxLv = 5,
+		SpAmount = { 50, 55, 60, 65, 70 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.SJ_STAREMPEROR, 3 },
+			{ SKID.SJ_DOCUMENT, 3 }
+		}
+	},
+	[SKID.SJ_DOCUMENT] = {
+		"SJ_DOCUMENT",
+		SkillName = "Летопись космоса",
+		MaxLv = 3,
+		SpAmount = { 60, 60, 60 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SG_FEEL, 3 },
+			{ SKID.SG_HATE, 3 }
+		}
+	},
+	[SKID.SJ_PURIFY] = {
+		"SJ_PURIFY",
+		SkillName = "Космическое очищение",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 },
+		_NeedSkillList = {
+			{ SKID.SG_DEVIL, 10 }
+		}
+	},
+	[SKID.SJ_LIGHTOFSUN] = {
+		"SJ_LIGHTOFSUN",
+		SkillName = "Солнечный свет",
+		MaxLv = 5,
+		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_SOLARBURST, 3 }
+		}
+	},
+	[SKID.SJ_SUNSTANCE] = {
+		"SJ_SUNSTANCE",
+		SkillName = "Стойка солнца",
+		MaxLv = 3,
+		SpAmount = { 10, 10, 10 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_DOCUMENT, 1 }
+		}
+	},
+	[SKID.SJ_SOLARBURST] = {
+		"SJ_SOLARBURST",
+		SkillName = "Солнечный взрыв",
+		MaxLv = 10,
+		SpAmount = { 34, 37, 40, 43, 46, 49, 52, 55, 58, 61 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_PROMINENCEKICK, 7 }
+		}
+	},
+	[SKID.SJ_PROMINENCEKICK] = {
+		"SJ_PROMINENCEKICK",
+		SkillName = "Пылающий удар",
+		MaxLv = 7,
+		SpAmount = { 20, 20, 20, 20, 20, 20, 20 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SJ_SUNSTANCE, 1 }
+		}
+	},
+	[SKID.SP_SOULGOLEM] = {
+		"SP_SOULGOLEM",
+		SkillName = "Душа голема",
+		MaxLv = 5,
+		SpAmount = { 250, 200, 150, 100, 50 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULREVOLVE, 2 }
+		}
+	},
+	[SKID.SP_SOULSHADOW] = {
+		"SP_SOULSHADOW",
+		SkillName = "Теневая душа",
+		MaxLv = 5,
+		SpAmount = { 250, 200, 150, 100, 50 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULUNITY, 5 }
+		}
+	},
+	[SKID.SP_SOULFALCON] = {
+		"SP_SOULFALCON",
+		SkillName = "Душа сокола",
+		MaxLv = 5,
+		SpAmount = { 250, 200, 150, 100, 50 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULREVOLVE, 2 }
+		}
+	},
+	[SKID.SP_SOULFAIRY] = {
+		"SP_SOULFAIRY",
+		SkillName = "Душа феи",
+		MaxLv = 5,
+		SpAmount = { 250, 200, 150, 100, 50 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULUNITY, 5 }
+		}
+	},
+	[SKID.SP_CURSEEXPLOSION] = {
+		"SP_CURSEEXPLOSION",
+		SkillName = "Проклятый взрыв",
+		MaxLv = 10,
+		SpAmount = { 50, 55, 60, 65, 70, 75, 80, 85, 90, 95 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULCURSE, 3 }
+		}
+	},
+	[SKID.SP_SOULCURSE] = {
+		"SP_SOULCURSE",
+		SkillName = "Проклятие злых душ",
+		MaxLv = 5,
+		SpAmount = { 70, 70, 70, 70, 70 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULREAPER, 3 }
+		}
+	},
+	[SKID.SP_SPA] = {
+		"SP_SPA",
+		SkillName = "Эспа",
+		MaxLv = 10,
+		SpAmount = { 52, 56, 60, 64, 68, 72, 76, 80, 84, 88 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SHA, 1 }
+		}
+	},
+	[SKID.SP_SHA] = {
+		"SP_SHA",
+		SkillName = "Эсха",
+		MaxLv = 5,
+		SpAmount = { 18, 20, 22, 24, 26 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULREAPER, 3 }
+		}
+	},
+	[SKID.SP_SWHOO] = {
+		"SP_SWHOO",
+		SkillName = "Эсу",
+		MaxLv = 10,
+		SpAmount = { 66, 70, 74, 78, 82, 86, 90, 94, 98, 102 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SPA, 3 }
+		}
+	},
+	[SKID.SP_SOULUNITY] = {
+		"SP_SOULUNITY",
+		SkillName = "Единение душ",
+		MaxLv = 7,
+		SpAmount = { 44, 46, 48, 50, 52, 54, 56 },
+		bSeperateLv = true,
+		AttackRange = { 11, 11, 11, 11, 11, 11, 11 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULENERGY, 3 }
+		}
+	},
+	[SKID.SP_SOULDIVISION] = {
+		"SP_SOULDIVISION",
+		SkillName = "Отделение души",
+		MaxLv = 5,
+		SpAmount = { 36, 40, 44, 48, 52 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SPA, 5 },
+			{ SKID.SP_SHA, 5 }
+		}
+	},
+	[SKID.SP_SOULREAPER] = {
+		"SP_SOULREAPER",
+		SkillName = "Урожай душ",
+		MaxLv = 5,
+		SpAmount = { 42, 44, 46, 48, 50 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULCOLLECT, 1 }
+		}
+	},
+	[SKID.SP_SOULCOLLECT] = {
+		"SP_SOULCOLLECT",
+		SkillName = "Коллекционирование душ",
+		MaxLv = 5,
+		SpAmount = { 100, 100, 100, 100, 100 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.SP_SOULREVOLVE] = {
+		"SP_SOULREVOLVE",
+		SkillName = "Циркуляция душ",
+		MaxLv = 3,
+		SpAmount = { 50, 100, 150 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULENERGY, 3 },
+			{ SKID.SP_KAUTE, 3 }
+		}
+	},
+	[SKID.SP_SOULEXPLOSION] = {
+		"SP_SOULEXPLOSION",
+		SkillName = "Взрыв души",
+		MaxLv = 5,
+		SpAmount = { 30, 60, 90, 120, 150 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULSHADOW, 1 },
+			{ SKID.SP_SOULFALCON, 1 },
+			{ SKID.SP_SOULFAIRY, 1 },
+			{ SKID.SP_SOULGOLEM, 1 },
+			{ SKID.SP_CURSEEXPLOSION, 2 }
+		}
+	},
+	[SKID.SP_KAUTE] = {
+		"SP_KAUTE",
+		SkillName = "Каут",
+		MaxLv = 5,
+		SpAmount = { 24, 30, 36, 42, 48 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULENERGY, 1 }
+		}
+	},
+	[SKID.SP_SOULENERGY] = {
+		"SP_SOULENERGY",
+		SkillName = "Исследование душ",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.SP_SOULCOLLECT, 1 }
+		}
+	},
+	[SKID.SJ_FALLINGSTAR_ATK2] = {
+		"SJ_FALLINGSTAR_ATK2",
+		SkillName = "Падающая звезда",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.SJ_FALLINGSTAR_ATK] = {
+		"SJ_FALLINGSTAR_ATK",
+		SkillName = "Падающая звезда",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
 	[SKID.CG_SPECIALSINGER] = {
 		"SKID_CG_SPECIALSINGER",
 		SkillName = "Опытный артист ",
@@ -12112,6 +12544,54 @@ SKILL_INFO_LIST = {
 				{ SKID.DC_UGLYDANCE, 3 },
 				{ SKID.DC_DANCINGLESSON, 10 }
 			}
+		}
+	},
+	[SKID.GD_CHARGESHOUT_FLAG] = {
+		"GD_CHARGESHOUT_FLAG",
+		SkillName = "Флаг совета гильдии",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.GD_CHARGESHOUT_BEATING] = {
+		"GD_CHARGESHOUT_BEATING",
+		SkillName = "Совет гильдии",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.GD_EMERGENCY_MOVE] = {
+		"GD_EMERGENCY_MOVE",
+		SkillName = "Ускорение гильдии",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.AB_VITUPERATUM] = {
+		"AB_VITUPERATUM",
+		SkillName = "Осуждение",
+		MaxLv = 5,
+		SpAmount = { 144, 120, 106, 92, 78 },
+		bSeperateLv = false,
+		AttackRange = { 3, 3, 3, 5, 5 },
+		_NeedSkillList = {
+			{ SKID.AB_EXPIATIO, 1 },
+			{ SKID.AB_EPICLESIS, 1 }
+		}
+	},
+	[SKID.AB_CONVENIO] = {
+		"AB_CONVENIO",
+		SkillName = "Сбор",
+		MaxLv = 1,
+		SpAmount = { 70 },
+		bSeperateLv = false,
+		AttackRange = { 1 },
+		_NeedSkillList = {
+			{ SKID.AB_ANCILLA, 1 },
+			{ SKID.AB_ORATIO, 5 }
 		}
 	}
 }

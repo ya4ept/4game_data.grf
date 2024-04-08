@@ -2589,18 +2589,44 @@ era_fild05.rsw#era_fild05.rsw#
 1@cor.gnd#1@cor.gnd#
 1@cor.gat#1@cor.gat#
 1@cor.rsw#1@cor.rsw#
+유저인터페이스\map\1@cor.bmp#유저인터페이스\map\1@cor.bmp#
 
 1@os_a.gnd#1@os_a.gnd#
 1@os_a.gat#1@os_a.gat#
 1@os_a.rsw#1@os_a.rsw#
+유저인터페이스\map\1@os_a.bmp#유저인터페이스\map\1@os_a.bmp#
 
 1@os_b.gnd#1@os_b.gnd#
 1@os_b.gat#1@os_b.gat#
 1@os_b.rsw#1@os_b.rsw#
+유저인터페이스\map\1@os_b.bmp#유저인터페이스\map\1@os_b.bmp#
 
 1@rgsr.gnd#1@rgsr.gnd#
 1@rgsr.gat#1@rgsr.gat#
 1@rgsr.rsw#1@rgsr.rsw#
+유저인터페이스\map\1@rgsr.bmp#유저인터페이스\map\1@rgsr.bmp#
+
+//초혼대법
+1@soul.gnd#1@soul.gnd#
+1@soul.gat#1@soul.gat#
+1@soul.rsw#1@soul.rsw#
+유저인터페이스\map\1@soul.bmp#유저인터페이스\map\1@soul.bmp#
+
+//2017 라자냐 국수축제
+1@drdo.gnd#1@drdo.gnd#
+1@drdo.gat#1@drdo.gat#
+1@drdo.rsw#1@drdo.rsw#
+유저인터페이스\map\1@drdo.bmp#유저인터페이스\map\1@drdo.bmp#
+
+//일루전 오브 구양궁 미니맵
+유저인터페이스\map\tur_d03_i.bmp#유저인터페이스\map\tur_dun03.bmp#
+유저인터페이스\map\tur_d04_i.bmp#유저인터페이스\map\tur_dun04.bmp#
+
+//2017 팝콘 페스타
+1@crd.gnd#1@crd.gnd#
+1@crd.gat#1@crd.gat#
+1@crd.rsw#1@crd.rsw#
+유저인터페이스\map\1@crd.bmp#유저인터페이스\map\1@crd.bmp#
 
 
 
@@ -2608,6 +2634,7 @@ era_fild05.rsw#era_fild05.rsw#
 1@begi.gnd#1@begi.gnd#
 1@begi.gat#1@begi.gat#
 1@begi.rsw#1@begi.rsw#
+유저인터페이스\map\1@begi.bmp#유저인터페이스\map\1@begi.bmp#
 
 //2017 FGT 복사맵
 1@tre.gnd#treasure01.gnd#
@@ -4459,13 +4486,30 @@ bossnia_04.gat#gef_dun03.gat#
 bossnia_04.rsw#gef_dun03.rsw#
 유저인터페이스\map\bossnia_04.bmp#유저인터페이스\map\gef_dun03.bmp#
 
-//옛글래스트헤임 메모리얼 맵복사
-1@gl_kh.gnd#1@gl_k.gnd#
-1@gl_kh.gat#1@gl_k.gat#
-1@gl_kh.rsw#1@gl_k.rsw#
-유저인터페이스\map\1@gl_kh.bmp#유저인터페이스\map\1@gl_k.bmp#
+//EDDA 생체연구소 - 원정의 여로
+1@gol1.gnd#1@gol1.gnd#
+1@gol1.gat#1@gol1.gat#
+1@gol1.rsw#1@gol1.rsw#
+유저인터페이스\map\1@gol1.bmp#유저인터페이스\map\1@gol1.bmp#
 
-2@gl_kh.gnd#2@gl_k.gnd#
-2@gl_kh.gat#2@gl_k.gat#
-2@gl_kh.rsw#2@gl_k.rsw#
-유저인터페이스\map\2@gl_kh.bmp#유저인터페이스\map\2@gl_k.bmp#
+1@gol2.gnd#1@gol2.gnd#
+1@gol2.gat#1@gol2.gat#
+1@gol2.rsw#1@gol2.rsw#
+유저인터페이스\map\1@gol2.bmp#유저인터페이스\map\1@gol2.bmp#
+
+//퍼즐앤 드래곤 콜라보레이션 메모리얼 던전 2 무한회랑
+1@infi.gnd#1@infi.gnd#
+1@infi.gat#1@infi.gat#
+1@infi.rsw#1@infi.rsw#
+
+//초혼대법
+1@soul.gnd#1@soul.gnd#
+1@soul.gat#1@soul.gat#
+1@soul.rsw#1@soul.rsw#
+유저인터페이스\map\1@soul.bmp#유저인터페이스\map\1@soul.bmp#
+
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.gnd#1@gl_prq.gnd#
+1@gl_prq.gat#1@gl_prq.gat#
+1@gl_prq.rsw#1@gl_prq.rsw#
+유저인터페이스\map\1@gl_prq.bmp#유저인터페이스\map\1@gl_prq.bmp#
