@@ -11205,7 +11205,8 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
-			{ SKID.RL_AM_BLAST, 3 }
+			{ SKID.RL_AM_BLAST, 3 },
+			{ SKID.RL_RICHS_COIN, 1 }
 		}
 	},
 	[SKID.RL_HEAT_BARREL] = {

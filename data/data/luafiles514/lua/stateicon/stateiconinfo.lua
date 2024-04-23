@@ -124,7 +124,7 @@ StateIconList[EFST_IDs.EFST_STORMKICK_ON] = {
 	descript = {
 		{ "Стойка Торнадо", COLOR_TITLE_BUFF },
 		{ "С определенной вероятностью при физ. атаке активирует" },
-		{ "эффект, позволяющий использовать умение Удар Торнадо." }
+		{ "эффект, позволяющий использовать умение [Удар Торнадо]." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAUPE] = {
@@ -302,7 +302,7 @@ StateIconList[EFST_IDs.EFST_NJ_UTSUSEMI] = {
 		{ "Защита цикады", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Можно увернуться от определенного количества атак." },
-		{ "При атаке на себя вы переместитесь на 7 клеток назад." }
+		{ "Когда вас атакуют, вы переместитесь на 7 клеток назад." }
 	}
 }
 StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {
@@ -490,7 +490,7 @@ StateIconList[EFST_IDs.EFST_PARRYING] = {
 	descript = {
 		{ "Парирование", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Есь шанс заблокировать атаку врага мечом." }
+		{ "Есть шанс заблокировать атаку врага мечом." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTWEAPON] = {
@@ -648,9 +648,7 @@ StateIconList[EFST_IDs.EFST_RENOVATIO] = {
 	descript = {
 		{ "Обновление", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Восстанавливает по 3% HP каждые 5 сек." },
-		{ "При использовании на монстрах-нежити наносит определенный урон," },
-		{ "зависящий от уровня персонажа." }
+		{ "Восстанавливает HP каждые 5 сек." }
 	}
 }
 StateIconList[EFST_IDs.EFST_HIDING] = {
@@ -712,7 +710,7 @@ StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
 	descript = {
 		{ "Стойка Урагана", COLOR_TITLE_BUFF },
 		{ "С определенной вероятностью при физ. атаке активирует" },
-		{ "эффект, позволяющий использовать умение Удар Урагана." }
+		{ "эффект, позволяющий использовать умение [Удар Урагана]." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTPOISON] = {
@@ -823,7 +821,7 @@ StateIconList[EFST_IDs.EFST_POISONREACT] = {
 		{ "%s", COLOR_TIME },
 		{ "Позволяет персонажу один раз контратаковать противника" },
 		{ "при получении повреждения ядом." },
-		{ "При получении урона от обычной атаки можно использовать умение Отравление." }
+		{ "При получении урона от обычной атаки можно использовать умение [Отравление]." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
@@ -964,8 +962,8 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 	descript = {
 		{ "Безумие", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "непрестанно теряет HP и SP." },
-		{ "Увеличивает силу атаки,уменьшает защиту и уклонение." }
+		{ "Непрестанно теряет HP и SP." },
+		{ "Увеличивает силу атаки, уменьшает защиту и уклонение." }
 	}
 }
 StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
@@ -1455,7 +1453,7 @@ StateIconList[EFST_IDs.EFST_MAGICMUSHROOM] = {
 		{ "Волшебный гриб", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Эмоция радости." },
-		{ "Каждые 4 секунды наделяет персонаж умением наугад" },
+		{ "Каждые 4 секунды наделяет персонажа умением наугад" },
 		{ "и потребляет 3% HP." }
 	}
 }
@@ -1525,7 +1523,7 @@ StateIconList[EFST_IDs.EFST_FOOD_STR_CASH] = {
 StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
 	descript = {
 		{ "Исчезновение", COLOR_TITLE_BUFF },
-		{ "Может скрыть персонаж от демонов и насекомых." },
+		{ "Может скрыть персонажа от демонов и насекомых." },
 		{ "Состояние сохраняется до 3-х раз несения урона." }
 	}
 }
@@ -1562,7 +1560,7 @@ StateIconList[EFST_IDs.EFST_CLOAKING] = {
 	descript = {
 		{ "Скрыться", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Скрывает персонаж от взоров других людей." }
+		{ "Скрывает персонажа от взоров других людей." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PARTYFLEE] = {
@@ -1600,7 +1598,7 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 		{ "Бесконечный Напев", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Позволяет защитить умения / заклинания всех объектов," },
-		{ "Пнаходящихся в радиусе действия умения, от прерывания." }
+		{ "находящихся в радиусе действия умения, от прерывания." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
@@ -1782,7 +1780,7 @@ StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
 		{ "Заклинание Тени", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Позволяет использовать умения,." },
-		{ "выученные при помощи Плагиата или Воспроизведения" }
+		{ "выученные при помощи [Плагиата] или [Воспроизведения]" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHAPESHIFT] = {
@@ -2065,7 +2063,7 @@ StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
 		{ "Стойка Метеора", COLOR_TITLE_BUFF },
 		{ "С определенной вероятностью при физ. атаке активирует" },
-		{ "эффект, позволяющий использовать умение Удар Метеора." }
+		{ "эффект, позволяющий использовать умение [Удар Метеора]." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
@@ -2323,7 +2321,7 @@ StateIconList[EFST_IDs.EFST_LIGHT_OF_REGENE] = {
 	descript = {
 		{ "Свет Регена", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "В случае смерти персонажа, воскрешает его." }
+		{ "Воскрешает персонажа в случае его смерти." }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERED_BOOST] = {
@@ -2529,7 +2527,7 @@ StateIconList[EFST_IDs.EFST_IGNORANCE] = {
 	descript = {
 		{ "Лик Невежества", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Объект, попавший под действие эффекта теряет определенное количество SP." },
+		{ "Объект, попавший под действие эффекта, теряет определенное количество SP." },
 		{ "Нельзя использовать магию и умения." }
 	}
 }
@@ -2621,7 +2619,7 @@ StateIconList[EFST_IDs.EFST_MVPCARD_ORCLORD] = {
 	descript = {
 		{ "Свиток главного Орка", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Возвращает 30% физического урона, тому, кто его нанес." }
+		{ "Возвращает 30% физического урона тому, кто его нанес." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_CASH] = {
@@ -3252,7 +3250,7 @@ StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
 	posTimeLimitStr = 4,
 	descript = {
 		{ "Чашка Бозы", COLOR_TITLE_BUFF },
-		{ "Живучесть уеличена." },
+		{ "Живучесть увеличена." },
 		{ "Сопротивление огню повышено." },
 		{ "%s", COLOR_TIME }
 	}
@@ -3659,7 +3657,7 @@ StateIconList[EFST_IDs.EFST_ARCLOUSEDASH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Акраус Даш", COLOR_TITLE_BUFF },
+		{ "Юркий арклоуз", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Скорость передвижения увеличена." },
 		{ "Ловкость увеличена." }
@@ -3856,11 +3854,11 @@ StateIconList[EFST_IDs.EFST_CATNIPPOWDER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "CN Powdering", COLOR_TITLE_DEBUFF },
+		{ "Порошок котовника", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Reduce ATK, MATK" },
-		{ "Decrease Movement Speed" },
-		{ "Increase HP, SP recovery" }
+		{ "Снижает физ. и маг. атаку" },
+		{ "Снижает скорость передвижения" },
+		{ "Повышает восстановление HP и SP" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CHEERUP] = {
@@ -3897,7 +3895,7 @@ StateIconList[EFST_IDs.EFST_DONTFORGETME] = {
 		{ "Не забывай меня", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
 		{ "Скорость передвижения и скорость атаки уменьшены." },
-		{ "Эффекты, увеличивающие скорость преедвижения и скорость атаки не действуют." }
+		{ "Эффекты, увеличивающие скорость передвижения и скорость атаки не действуют." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DORAM_BUF_01] = {
@@ -4428,7 +4426,7 @@ StateIconList[EFST_IDs.EFST_SPRITEMABLE] = {
 	haveTimeLimit = 0,
 	posTimeLimitStr = 0,
 	descript = {
-		{ "Sprite Mable", COLOR_SYSTEMF }
+		{ "Сферы духов", COLOR_SYSTEMF }
 	}
 }
 StateIconList[EFST_IDs.EFST_STASIS] = {
@@ -4461,7 +4459,7 @@ StateIconList[EFST_IDs.EFST_SV_ROOTTWIST] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "SV Root Twist", COLOR_TITLE_DEBUFF },
+		{ "Корни сциндапсуса", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
 		{ "Обездвиживание." },
 		{ "100 ед. урона от Яда в секунду." }
@@ -4471,7 +4469,7 @@ StateIconList[EFST_IDs.EFST_TUNAPARTY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Тенцовая вечеринка", COLOR_TITLE_BUFF },
+		{ "Рыбный пир", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Защищает от пределенного количества урона." }
 	}
@@ -4771,7 +4769,7 @@ StateIconList[EFST_IDs.EFST_HOLY_OIL] = {
 	descript = {
 		{ "Крещение святым маслом", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличен получаемый физический урон вдальнем бою." }
+		{ "Увеличен получаемый физический урон в дальнем бою." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FIRST_BRAND] = {
@@ -5137,7 +5135,7 @@ StateIconList[EFST_IDs.EFST_CHARGINGPIERCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Зарядка пирса", COLOR_TITLE_BUFF },
+		{ "Charging pierce", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -5213,8 +5211,8 @@ StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 	descript = {
 		{ "Сосредоточенность ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличение ATK, ACC " },
-		{ "Уменьшение DEF " }
+		{ "Увеличение силы атаки и точности " },
+		{ "Уменьшение защиты " }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {
@@ -5330,8 +5328,8 @@ StateIconList[EFST_IDs.EFST_ANCILLA] = {
 		{ "Анцилла", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Входящее лечение увеличено на 15%." },
-		{ "Скорость восстановления SP увеличена на 30%." },
-		{ "Не дает умению [Кара] никакой стихии" }
+		{ "Скорость восстановления " },
+		{ "SP увеличена на 30%." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
@@ -5494,7 +5492,7 @@ StateIconList[EFST_IDs.EFST_SOULFAIRY] = {
 	descript = {
 		{ "Душа феи", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Маг. атака увеличен" },
+		{ "Маг. атака увеличена" },
 		{ "Вариативное время применения умений уменьшено" }
 	}
 }
@@ -5532,7 +5530,7 @@ StateIconList[EFST_IDs.EFST_FALLINGSTAR] = {
 		{ "%s", COLOR_TIME },
 		{ "При атаке есть вероятность" },
 		{ "срабатывания умения [Падающая звезда]" },
-		{ "по цели отмеченной Звездной меткой" }
+		{ "по цели, отмеченной Звездной меткой" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DIMENSION] = {
@@ -5541,7 +5539,7 @@ StateIconList[EFST_IDs.EFST_DIMENSION] = {
 	descript = {
 		{ "Сила измерений", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Специальный эффект активруетс при использовании" },
+		{ "Специальный эффект активируется при использовании" },
 		{ "умений [Сверхновая] или [Сошествие императора]" }
 	}
 }
@@ -5551,7 +5549,7 @@ StateIconList[EFST_IDs.EFST_SOULLINK] = {
 	descript = {
 		{ "Получение душ", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Статус получения душ выданный" },
+		{ "Статус получения, душ выданный" },
 		{ "Жнецом душ" }
 	}
 }
@@ -5577,9 +5575,9 @@ StateIconList[EFST_IDs.EFST_HELPANGEL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "??? ??", COLOR_TITLE_BUFF },
+		{ "Ангел, на помощь!", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "?? HP 1000 ??" },
-		{ "?? SP 350 ??" }
+		{ "Каждую секунду восстанавливает" },
+		{ "HP 1000 и SP 350" }
 	}
 }
