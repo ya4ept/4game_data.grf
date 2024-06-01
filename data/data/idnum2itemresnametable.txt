@@ -12245,3 +12245,9 @@
 590011#Up_Meteor_Striker#
 590012#Up_Saint_Hall#
 31315#C_Stall_Of_Angel#
+400496#C_Horo_Ears_WH#
+420306#C_Kotatsu#
+460023#Shield_Of_Phoenix#
+480052#C_Sakura_Fes_TW#
+480237#C_Katana_TenguMaster#
+103150#º¢²É½ºÅ©·Ñ#
