@@ -1348,6 +1348,7 @@ tbl = {
 	[20662] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
 	[20663] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_REDLIGHTBODY } },
 	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE },
+	[20351] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BOTTOM_BLOODYLUST } },
 	[20645] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20646] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20650] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },

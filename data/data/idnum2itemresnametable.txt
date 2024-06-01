@@ -11762,3 +11762,9 @@
 580009#Up_Barb_Wire_K#
 590011#Up_Meteor_Striker#
 590012#Up_Saint_Hall#
+
+400496#C_Horo_Ears_WH#
+420306#C_Kotatsu#
+460023#Shield_Of_Phoenix#
+480237#C_Katana_TenguMaster#
+103150#º¢²É½ºÅ©·Ñ#
