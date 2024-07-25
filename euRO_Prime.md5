@@ -2,7 +2,7 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-21bdcf7aca39296def3283fd79d76ad5 *data.grf
+1346c554a60e7654e37bd1b7c54e74f6 *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -39,7 +39,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 64b44734d6bb1f894f90ada681beef41 *Frost\frostinfo.txt
-1c657b3153dd0df2ba461ce3392b487c *Frost\frostInit.log
+e204a6f722e6c90ea3b70e33206cf1c2 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -47,7 +47,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 5ec1d55ad730241e2b1e18c1a11c85b2 *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-2c0d5ed067cefeacafdcd90ea04f08f5 *Frost\launcherUpdater.log
+afe695e8e9889c5cdcba911156b1b8d8 *Frost\launcherUpdater.log
 d70d111fb475c21a025004df937d7b5e *Frost\ro.exe
 3ee8a93f4b4317f5bd25f5596ac47405 *Frost\.inn.meta.dir\.inn.cache.txt
 3ee8a93f4b4317f5bd25f5596ac47405 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -57,7 +57,7 @@ cd408c154b0a60025215fd212e7ffc3b *Frost\.inn.meta.dir\.inn.version.3.1.0.59.cont
 5ce599ab923a003ab0034646c6ea653e *gameManager\gameManager.exe
 ced57b341655c3794885962a4b3e9cbd *System\achievement_list.lub
 024f67d28131b79257f3680865b3820f *System\checkattendance.lub
-591b38bdb752856016d907456d35de6e *System\iteminfo.lub
+21ab6e9f6c0f0966411bbdde3dcb7139 *System\iteminfo.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 39359f0dd57799668419cace033dd75f *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
