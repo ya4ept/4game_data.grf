@@ -651,17 +651,6 @@ StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
 		{ "according to remaining SP" }
 	}
 }
-StateIconList[EFST_IDs.EFST_RENOVATIO] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Renovatio", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Recover certain amount of HP in every 5 sec" },
-		{ "Give certain damage to Undead monsters" },
-		{ "according to the level of caster" }
-	}
-}
 StateIconList[EFST_IDs.EFST_HIDING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -2379,15 +2368,6 @@ StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
 		{ "Guillotine Fist", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
 		{ "Unable to recover SP Status" }
-	}
-}
-StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 3,
-	descript = {
-		{ "м‚° мћђм™Ђ мЈЅмќЂ мћђмќ кІЅкі„м—ђ мћ€мЉµл‹€л‹¤!", COLOR_TITLE_DEBUFF },
-		{ "м •м‹ л Ґмќґ 50% к°ђм†Њн•©л‹€л‹¤." },
-		{ "%s", COLOR_TIME }
 	}
 }
 StateIconList[EFST_IDs.EFST_GENSOU] = {
@@ -4388,5 +4368,225 @@ StateIconList[EFST_IDs.EFST_NYANGGRASS] = {
 	descript = {
 		{ "Nyang Grass", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
+	}
+}
+StateIconList[EFST_IDs.EFST_RENOVATIO] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Renovatio", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Healing every 5 sec." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ANCILLA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Ancilla", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Healing increases by 15%." },
+		{ "Recovery Rate " },
+		{ "SP increases by 30%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Lauda Agnus", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Max. HP increased" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LAUDARAMUS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Lauda Ramus", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Critical Damage increased." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SUNSTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Solar Stance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Damage increased" },
+		{ "Solar skills can be used" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LUNARSTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Lunar Stance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Max. HP increased" },
+		{ "Lunar skills can be used" }
+	}
+}
+StateIconList[EFST_IDs.EFST_STARSTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Stellar Stance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "ASPD increased" },
+		{ "Stellar skills can be used" }
+	}
+}
+StateIconList[EFST_IDs.EFST_UNIVERSESTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Cosmic Stance", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "All stats increased" },
+		{ "Cosmic skills can be used" },
+		{ "Stellar skills can be used" },
+		{ "Lunar skills can be used" },
+		{ "Solar skills can be used" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHTOFSUN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Sunlight", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Solar Explosion damage increased" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHTOFMOON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Moonlight", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Full Moon Kick damage increased" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHTOFSTAR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Starlight", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Falling Star damage increased" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FLASHKICK] = {
+	descript = {
+		{ "Star Mark", COLOR_TITLE_DEBUFF }
+	}
+}
+StateIconList[EFST_IDs.EFST_NEWMOON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "New Moon", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Lets you move without alerting enemies" },
+		{ "New Moon Kick is available" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CREATINGSTAR] = {
+	descript = {
+		{ "Primeval Power", COLOR_TITLE_DEBUFF },
+		{ "Movement Speed reduced" }
+	}
+}
+StateIconList[EFST_IDs.EFST_GRAVITYCONTROL] = {
+	descript = {
+		{ "Gravity Control", COLOR_TITLE_DEBUFF },
+		{ "Makes attack and movement impossible" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULCOLLECT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Soul Collecting", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Regularly collects Soul Energy" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULREAPER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Soul Harvest", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "A chance to get " },
+		{ "Soul Energy when attacks" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULUNITY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Soul Bind", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Healing every 3 sec." },
+		{ "A character can be the target of Kaute" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULGOLEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Golem Soul", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "DEF increased" },
+		{ "MDEF increased" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULDIVISION] = {
+	descript = {
+		{ "Soul Separation", COLOR_TITLE_DEBUFF },
+		{ "Variable Cast Time increased" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FALLINGSTAR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Falling Star", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "When attacking," },
+		{ "there is a chance that Falling Star skill will trigger" },
+		{ "on a target marked with a Star Mark." }
+	}
+}
+StateIconList[EFST_IDs.EFST_DIMENSION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Dimensional Power", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "A special effect is activated when using" },
+		{ "Nova Explosion or Emperor's Descent skills" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULCURSE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Curse Attack", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Resistance to Shadow property attacks has been reduced" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELPANGEL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Angel's Protection", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Restores" },
+		{ "1000 HP, 350 SP every second" }
 	}
 }

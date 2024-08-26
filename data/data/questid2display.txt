@@ -5780,11 +5780,11 @@ A merchant who comes from a foreign country feels pain because of a drink that i
 Find a merchant selling drink around Oasis#
 
 2130#For Arunafeltz #SG_FEEL#QUE_NOIMAGE#
-You got a well known drink and decided to go back to the merchant you've met at first.#
+You got a well known drink and decided to go back to a merchant met at first.#
 Conversation with foreign merchant.#
 
 2131#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-You got Zhed's telegram from a foreign merchant.#
+You got a Zhed's telegram from a foreign merchant.#
 Conversation with a Zhed pontiff of Rahel.#
 
 2132#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
@@ -5800,11 +5800,11 @@ You got a letter for Niren from Zhed.#
 Delivery a Zhed's letter to Niren#
 
 2135#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-Niren demands to meet the pope and dig out information about a newly-appointed official carefully.#
+Niren demands to meet a pope and dig an information about a newly-appointed official carefully.#
 Conversation with a pope#
 
 2136#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-The pope who you haven't seen in a long time talked about the newly appointed officials caring for her and about missing her family which she hasn't seen for a long time.#
+The pope who have not seen over the long haul was afflicted at newly-appointed officials caring the pope can't see their family for a long time.#
 Go back to Niren.#
 
 2137#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
@@ -5820,7 +5820,7 @@ You got a document that includes a fake paper of vacation from Ismael.#
 Go back to Niren#
 
 2140#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-Niren said to come to the sky garden when everything is ready, where the pope will be waiting with Zhe.#
+Niren said all ready is completed and you come to a sky garden where the pope is in with Zhed.#
 After talking with Zhed, move to a sky garden#
 
 2141#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
@@ -5828,7 +5828,7 @@ The pope shows an aspect as a mature pope of a religious nation by riding of a m
 Conversation with Niren#
 
 2142#For Arunafeltz#SG_FEEL#QUE_NOIMAGE#
-Niren promises to reflect on her mistakes and to care for the pope with Zhed.#
+Niren promises reflect on his silence caring the pope with Zhed.#
 Conversation with Zhed#
 
 
@@ -21353,6 +21353,362 @@ Stay for a day#
 Thank you for making a clean finish. Pleaes lead me tomorrow again.#
 Stay for a day#
 
+//----Sign Quest Part 1 Crumbs of Sobbing Starlight----
+17000#Metz Brayde's Notice#SG_FEEL#QUE_IMAGE#
+You read a notice from Metz Brayde. He is looking for adventurers ready to go on a very important quest.#
+Find Metz Brayde#
+
+17001#First Test#SG_FEEL#QUE_IMAGE#
+You find out that you have to go through a series of tests from Metz's friends. The first of them is Arian from Morroc. You should go there and see him.#
+Talk to Arian in Morroc#
+
+17002#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF0000100 Fluffs^000000.#
+Collect necessary items#
+
+17003#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000050 Poison Spores^000000.#
+Collect necessary items#
+
+17004#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000030 Scorpion Tails^000000.#
+Collect necessary items#
+
+17005#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000020 Rotten Bandages^000000.#
+Collect necessary items#
+
+17006#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000015 Little Evil Horns^000000.#
+Collect necessary items#
+
+17007#Fetching Items for Arian#SG_FEEL#QUE_IMAGE#
+Arian has asked you to bring him ^FF000010 Coral Reefs^000000.#
+Collect necessary items#
+
+17008#Quiz Time!#SG_FEEL#QUE_IMAGE#
+Talk to Ganaan to progress to the next part of the test.#
+Talk to Ganaan#
+
+17009#Quiz Time!#SG_FEEL#QUE_IMAGE#
+Go back to Arian, and he will let you know the results of the quiz.#
+Talk to Arian#
+
+17010#Daewoon's Test#SG_FEEL#QUE_IMAGE#
+Now you're supposed to go see Daewoon in Payon for your next test. Don't forget to show him the Crumb of Sobbing Starlight!#
+Talk to Daewoon in Payon#
+
+17011#Sir Jore's Test#SG_FEEL#QUE_IMAGE#
+Your next examiner is Sir Jore, also known as the Ghost of Al De Baran. Find him and take his test.#
+Talk to Sir Jore in Al De Baran#
+
+17012#Sir Jore's Materials#SG_FEEL#QUE_IMAGE#
+Sir Jore needs a new research sample to replace his ruined one. Bring him ^FF000010 Empty Test Tubes, 10 Green Herbs, and 2 Yggdrasil Leaves^000000.#
+Get materials for Sir Jore#
+
+17013#Stone of Sage#SG_FEEL#QUE_IMAGE#
+Sir Jore is very interested in the Stone of Sage. He asks you to find a family of great Alchemists. According to him, they are living somewhere in a big forest.#
+Find the Alchemists#
+
+17014#Stone of Sage#SG_FEEL#QUE_IMAGE#
+You've found the Alchemists - Gordon and Fleur. They've told you all they know about the Stone of Sage. It's time to go back to Sir Jore.#
+Talk to Sir Jore#
+
+17015#Lady Jesqurienne#SG_FEEL#QUE_IMAGE#
+Sir Jore gives you the Crumb of Sobbing Starlight and tells you to visit Lady Jesqurienne in Geffen. She travels often so she's probably at the inn.#
+Talk to Lady Jesquerinne in Geffen#
+
+17016#Jesquerinne's Quiz Challenge#SG_FEEL#QUE_IMAGE#
+You've found Lady Jesquerinne in a drunken stupor. She has challenged you to a quiz that will be administered by Professor Aaron.#
+Talk to Professor Aaron#
+
+17017#Failed Quiz Challenge#SG_FEEL#QUE_IMAGE#
+You've failed to beat Lady Jesquerinne in the Quiz Challenge. It's not over! Don't give up just yet.#
+Take the test again#
+
+17018#Quiz Challenge Triumph#SG_FEEL#QUE_IMAGE#
+You have defeated Lady Jesquerinne in the Quiz Challenge. Talk to her again and gloat about your superior intellect.#
+Talk to Lady Jesquerinne#
+
+17019#Searching for Dearles#SG_FEEL#QUE_IMAGE#
+Now you must find a man named ^3131CEDearles^000000. It can be hard since he wanders from place to place, but it might help to know that he loves gambling...#
+Find Dearles#
+
+17020#Dearles's Test#SG_FEEL#QUE_IMAGE#
+You have paid 30,000 zeny to take Dearles's test. He tells you to come back tomorrow.#
+Talk to Dearles when the time comes#
+
+17021#Test of Appreciation#SG_FEEL#QUE_IMAGE#
+Dearles doesn't give you an exact list of items to get for him. Instead he asks you to bring him something that will make a good present.#
+Collect some pretty things#
+
+17022#Dearles's Second Test#SG_FEEL#QUE_IMAGE#
+Dearles says that you're ready for the next part of the test, and sends you to Lamadin.#
+Talk to Lamadin#
+
+17023#Rhythm Test Passed#SG_FEEL#QUE_IMAGE#
+You have passed the second part of Dearles's test. Go back to him and let him know.#
+Talk to Dearles#
+
+17024#Finding Bakerlan#SG_FEEL#QUE_IMAGE#
+You're done with Dearles's part of the exam. Take his Crumb of Sobbing Starlight and find someone named Bakerlan in Alberta.#
+Talk to Bakerlan in Alberta#
+
+17025#Bakerlan's Delivery#SG_FEEL#QUE_IMAGE#
+Bakerlan has asked you to make a delivery of something expensive. Speak to his steward for more information.#
+Talk to Mahatra#
+
+17026#Mahatra's Delivery#SG_FEEL#QUE_IMAGE#
+Mahatra has given you a stone that has your name written on it. Deliver it to a Knight named Leibech.#
+Talk to Leibech#
+
+17027#Leibech's Receipt#SG_FEEL#QUE_IMAGE#
+Leibech is grateful that you've brought his delivery to him. He has given you a receipt, take it to Bakerlan.#
+Talk to Bakerlan#
+
+17028#Finding Seylin#SG_FEEL#QUE_IMAGE#
+Mahatra says that Bakerlan hasn't left him any instructions. He asks you to speak with Maid Seylin. She seems worried about something...#
+Find Seylin#
+
+17029#Vigorgra Medicine#SG_FEEL#QUE_IMAGE#
+Seylin has asked you to find a new medicine called Vigorgra. You may be able to learn about it in the Alchemist Guild in Al De Baran.#
+Go to the Alchemist Guild in Al De Baran#
+
+17030#Vigorgra Ingredients#SG_FEEL#QUE_IMAGE#
+Melkaba agrees to make Vigorgra for you if you bring him the following ingredients: ^FF00001 Ment, 20 jars of Honey, 10 Royal Jellies, 30 Bear's Footskins, 1 Hinalle Leaflet, and 1 Empty Bottle^000000.#
+Find ingredients for Vigorgra#
+
+17031#Vigorgra Ready#SG_FEEL#QUE_IMAGE#
+Melkaba has made some Vigorgra for you. Take it back to Seylin.#
+Talk to Seylin#
+
+17032#Seylin's Request#SG_FEEL#QUE_IMAGE#
+Seylin has asked you to take Vigorgra to her brother Maruin along with a letter she wrote. Maruin serves in the Prontera Castle.#
+Talk to Maruin#
+
+17033#Back to Seylin#SG_FEEL#QUE_IMAGE#
+You've delivered Vigorgra and Seylin's letter to Maruin. You should probably go back to Seylin and let her know that her brother thanks her for the gift.#
+Talk with Seylin#
+
+17034#Back to Mahatra#SG_FEEL#QUE_IMAGE#
+Go back to Mahatra and let him know that you have completed Seylin's task.#
+Talk to Mahatra#
+
+17035#Report to Bakerlan#SG_FEEL#QUE_IMAGE#
+Report to Bakerlan that you have completed the tasks that Mahatra and Seylin have asked you to do.#
+Talk to Bakerlan#
+
+17036#Last Crumb#SG_FEEL#QUE_IMAGE#
+Bakerlan says that you have finally completed the qualification tests. Go back to Metz in Prontera with all Crumbs of Sobbing Starlight.#
+Talk to Metz in Prontera#
+
+//----Sign Quest Part 2 Crumbs of Sobbing Starlight----
+17037#In Search of Engel Howard#SG_FEEL#QUE_IMAGE#
+Talk to Brenda Howard's daughter. She may have something for her father, Engel Howard.#
+Talk to Lianna Howard#
+
+17038#Lianna's Letter#SG_FEEL#QUE_IMAGE#
+Find Engel Howard and give him Lianna's letter.#
+Find Engel Howard#
+
+17039#Restoring the Starlight#SG_FEEL#QUE_IMAGE#
+Engel is going to need some tools in order to combine the Crumbs of Sobbing Starlight. Bring him ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and 1 good anvil^000000.#
+Get the tools for Engel#
+
+17040#Letter to Engel's Family#SG_FEEL#QUE_IMAGE#
+While Engel is working on the Sobbing Starlight, he has asked you to deliver a letter to his family.#
+Take the letter to the Engel's family#
+
+17041#Talk to Lianna#SG_FEEL#QUE_IMAGE#
+Talk to Lianna. Apparently she's been waiting to tell you something.#
+Talk to Lianna#
+
+17042#Waiting for the Sobbing Starlight#SG_FEEL#QUE_IMAGE#
+You've received some candies from Lianna as a gift. It's time to check with Engel if he has made any progress in combining the Crumbs of Sobbing Starlight.#
+Talk to Engel Howard#
+
+17043#Sobbing Starlight Restored#SG_FEEL#QUE_IMAGE#
+Engel has managed to restore the Sobbing Starlight. You should take it back to Metz and see if he knows what you can do with it.#
+Talk to Metz in Prontera#
+
+17044#Restoring the Starlight#SG_FEEL#QUE_IMAGE#
+Engel has failed to restore the Sobbing Starlight. He needs more tools for his next try. Bring him ^FF00005 Mini Furnaces, 2 Oridecon Hammers, and a better quality anvil (Golden or Emperium one)^000000.#
+Get the tools for Engel#
+
+17045#Starlight Message#SG_FEEL#QUE_IMAGE#
+According to Metz, an encrypted message is hidden in the depths of the Sobbing Starlight, but it can only be read with the help of a Wizard. Visit the top floor of the Geffen Tower and find someone who can help you.#
+Go to the Geffen Tower#
+
+17046#Man in Umbala#SG_FEEL#QUE_IMAGE#
+Dota from the Geffen Tower tells you that the man you're looking for has gone somewhere near Comodo to study a local tribe there.#
+Investigate Umbala#
+
+17047#Into the Tree#SG_FEEL#QUE_IMAGE#
+Laotan from Umbala tells you that there is a foreigner in the village, but he has gone inside a big tree, and nobody has seen him since.#
+Find the foreigner#
+
+17048#Ancient Papers#SG_FEEL#QUE_IMAGE#
+Cyon will keep his promise to read the message inside of the Sobbing Starlight, but for that he needs ^FF000010 Worn Out Pages^000000.#
+Collect the items for Cyon#
+
+17049#Message in Ancient Language#SG_FEEL#QUE_IMAGE#
+Cyon has given you the Message in Ancient Language from the Sobbing Starlight. You should return to Prontera and show it to Metz.#
+Talk to Metz in Prontera#
+
+//----Sign Quest Part 3 The Ancient Document------
+17050#Fastidious Old Man#SG_FEEL#QUE_IMAGE#
+The document is written in a language that Metz can't read. You should find a man named Frank Franklin who lives on the Sunken Ship in Alberta.#
+Talk to Frank Franklin in Alberta#
+
+17051#Blurry Vision#SG_FEEL#QUE_IMAGE#
+You've found Frank but he is complaining about blurry vision and headaches. Bring him something that will help.#
+Get glasses for Frank Franklin#
+
+17052#Translating the Message#SG_FEEL#QUE_IMAGE#
+Frank says that he's the only person in the world who can translate the message. Give him some time.#
+Talk to Frank Franklin#
+
+17053#Translated Message#SG_FEEL#QUE_IMAGE#
+Frank has successfully translated the message. The document seems to contain the coordinates of some place and a list of materials that need to be collected...#
+Get 4 Resins, 12 Stone Hearts, and 365 Coral Reefs#
+
+17054#Where the Cursed Live#SG_FEEL#QUE_IMAGE#
+Valkyrie Sandra has sent you to the Town of the Cursed to prove your courage.#
+Go to Niflheim#
+
+//----Sign Quest Part 4----
+17055#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
+You have decided to help out poor souls trapped in Niflheim. But you need to earn their trust first.#
+Find those who need help#
+
+17056#Curse Lifted#SG_FEEL#QUE_IMAGE#
+You have successfully lifted the curse from Ashe Bruce, and he gives you a Witch's Spellbook. Find others who need help.#
+Find those who need help#
+
+17057#Meeting the Witch#SG_FEEL#QUE_IMAGE#
+Alakina Ann is lost, and it seems that only the witch of Niflheim can help her. Perhaps you should take the Witch's Spellbook with you.#
+Find the witch#
+
+17058#Witch#SG_FEEL#QUE_IMAGE#
+You have found the witch and told her about Alakina Ann. Kirkana gives you a Crow Wing to send the girl back home.#
+Talk to Alakina Ann#
+
+17059#Crow Wing#SG_FEEL#QUE_IMAGE#
+You give the Crow Wing to Alakina Ann but it doesn't work... You'd better ask Kirkana about that.#
+Talk to Kirkana#
+
+17060#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
+Kirkana tells you the sad news: Alakina Ann is actually dead, but she doesn't understand this, because she is very young. Alas, there is nothing you can do to help her, so go back to Serin.#
+Talk to Serin#
+
+17061#Bard in Niflheim#SG_FEEL#QUE_IMAGE#
+Serin tells you to find the Bard in Niflheim. He might have some useful information.#
+Find the Bard in Niflheim#
+
+17062#Gen of Niflheim#SG_FEEL#QUE_IMAGE#
+Crayu says that you need to talk to someone named ^FF0000Gen^000000.#
+Find Gen in Niflheim#
+
+17063#Witch's Aid#SG_FEEL#QUE_IMAGE#
+Gen has advised you to seek help from the witch. He also tells you to be wary of Serin.#
+Talk to Serin#
+
+17064#Misfortunate of Niflheim#SG_FEEL#QUE_IMAGE#
+Serin says that you should talk to some of the dead in Niflheim and see if you can be of any help to them.#
+Find those who need help#
+
+17065#Queen's Symbol#SG_FEEL#QUE_IMAGE#
+You must earn the queen's favor in order to get the Symbol of the Nine Realms. Try to find out from the locals where the soul of the queen's mother, Angrboda, is imprisoned.#
+Search for Angrboda's soul#
+
+17066#Asking the Valkyrie#SG_FEEL#QUE_IMAGE#
+Serin suggests that you ask someone from Asgard about the whereabouts of Angrboda.#
+Talk to Valkyrie#
+
+17067#Another Option#SG_FEEL#QUE_IMAGE#
+The Valkyrie couldn't provide any answers for you. Perhaps someone in Niflheim can help you with your search for Angrboda's soul.#
+Interrogate the inhabitants of Niflheim#
+
+17068#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+Laichin has told you how to find 4 Angrboda's soul shards. But what does he mean by 'far' and 'close'...? You'd better ask him for clarification.#
+Talk to Laichin#
+
+17069#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 1 o'clock, far 5 o'clock, far 7 o'clock, and close 6 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17070#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 4 o'clock, far 10 o'clock, close 6 o'clock, and very close 11 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17071#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 5 o'clock, close 11 o'clock, close 6 o'clock, and very close 11 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17072#Searching for Soul Shards#SG_FEEL#QUE_IMAGE#
+For 'far', look near the border of the map; for 'close' - between the edge and the center; for 'very close' - near the center. Check out far 4 o'clock, far 5 o'clock, far 10 o'clock, and close 11 o'clock.#
+Find Angrboda's Soul Shard in the Glastheim dungeon#
+
+17073#Angrboda's Soul#SG_FEEL#QUE_IMAGE#
+You have retrieved all of Angrboda's Soul Shards. You hear a voice speaking directly to you: 'I am entrusting my soul to you. Please take it to my daughter, Lady Hel...'#
+Talk to Lady Hel#
+
+17074#Symbol of the Nine Realms#SG_FEEL#QUE_IMAGE#
+Lady Hel has rewarded you with the Symbol of the Nine Realms. Decide to whom you should tell about it first of all.#
+Decide who to talk to#
+
+17075#Serin's Ambitions#SG_FEEL#QUE_IMAGE#
+Kirkana has told you that Serin plans to make a deal with the Dark Lord in order to return to the world of the living. You must give her the Witch's Tonic so that she forgets her twisted plans.#
+Get Witch's Tonic from Kirkana#
+
+17076#Witch's Tonic#SG_FEEL#QUE_IMAGE#
+Kirkana has given you the Witch's Tonic, and you've been sent to Serin's location. There you can erase her memories.#
+Talk to Serin#
+
+17077#Serin's Release#SG_FEEL#QUE_IMAGE#
+You have successfully given the Witch's Tonic to Serin, and she will no longer try to summon the Dark Lord. You should tell Kirkana about your success.#
+Talk to Kirkana#
+
+17078#Visit to Lady Hel#SG_FEEL#QUE_IMAGE#
+Kirkana says that Lady Hel wants to see you for some reason.#
+Talk to Lady Hel#
+
+17079#The Sign#SG_FEEL#QUE_IMAGE#
+You have been rewarded with the Sign. It will show everyone that you are a great warrior who is deemed worthy by the Gods themselves. Decide who you should tell about it to, first of all.#
+Brag about your achievements#
+
+17080#Dark Lord's Return#SG_FEEL#QUE_IMAGE#
+You have failed to stop Serin from summoning the Dark Lord. Tell Kirkana about that.#
+Talk to Kirkana#
+
+17081#Serin's Ambitions#SG_FEEL#QUE_IMAGE#
+Serin has told you that Kirkana is trying to summon the Dark Lord to destroy Rune Midgard. You must find a way to stop her.#
+Stop Kirkana#
+
+17082#Dark Lord's Return#SG_FEEL#QUE_IMAGE#
+Your mission has failed. You should probably tell Metz about it.#
+Talk to Metz in Prontera#
+
+17083#Serin's Realization#SG_FEEL#QUE_IMAGE#
+You have interfered with Serin's ambitious plans. You should tell Kirkana everything that happened.#
+Talk to Kirkana#
+
+17084#The Sign#SG_FEEL#QUE_IMAGE#
+Metz says that the Sign can be used to enter Valhalla. But first you should see Engel Howard. He is the only person in Rune Midgard that knows how to handle it.#
+Talk to Engel Howard#
+
+17085#The Sign#SG_FEEL#QUE_IMAGE#
+Engel Howard has completed working with the Sign. You should probably tell Metz about it.#
+Talk to Metz in Prontera#
+
+17086#The Sign#SG_FEEL#QUE_IMAGE#
+Wait for Metz to finish examining the Sign. It should take only a couple of hours.#
+Talk to Metz when the time comes#
+
+17087#The Sign#SG_FEEL#QUE_IMAGE#
+Wait for Engel to complete his work with the Sign.#
+Talk to Engel when the time comes#
+
 // Oktoberfest 2019
 17100#The Pub Crawl#SG_FEEL#QUE_IMAGE#
 To become a sommelier you should try beer from:                                                  - Beer Sommelier in Prontera (125,125)                                                  - Alementalist in Geffen's tavern (136, 136)                                                  - Pepper Hag in Morroc (169,109)                                                  - Quadrupelstiltskin in Al De Baran (135,123)                                                  ^000077The quest is available October 2nd to 9th.^000000#
@@ -23567,7 +23923,7 @@ You handed over Guile Marovitz's things.#
 #
 
 7751#Compact Needle Box#SG_FEEL#QUE_NOIMAGE#
-You handed over Cecil Damon?™s things.#
+You handed over Cecil Damon's things.#
 #
 
 7752#Well Hidden#SG_FEEL#QUE_NOIMAGE#
@@ -23669,7 +24025,7 @@ Come again tomorrow!#
 
 11467#Old Letter for Ridsh#SG_FEEL#QUE_NOIMAGE#
 Rebellion senior Ridsh instructed you to go to the back streets in the northeast of the northern fields of Einbroch and ask Julian to let you in, then you need to destroy strong Heart Hunters and get 1 Old Letter.#
-Ridsh?™s order#
+Ridsh's order#
 
 11468#Old Letter for Ridsh#SG_FEEL#QUE_NOIMAGE#
 You have completed Ridsh's order. Come again tomorrow.#
@@ -23776,7 +24132,7 @@ Go to Erst on the second floor and talk to him. If you convince him, then everyt
 To Erst on the second floor#
 
 14614#Persuading Important People#SG_FEEL#QUE_NOIMAGE#
-Go to the influential people on the second floor, convince them, then return. You can?™t sneak onto another road, you need to come to me! Good luck adventurer!#
+Go to the influential people on the second floor, convince them, then return. You can't sneak onto another road, you need to come to me! Good luck adventurer!#
 Convince the influencers, then report back#
 
 14615#Between Negotiation and Fraud#SG_FEEL#QUE_NOIMAGE#
@@ -23813,7 +24169,7 @@ Go to Mason Bender#
 The speech was too awkward, it felt like you were completely rejected. Ask Elena Bolkova for help.#
 Return to Elena Bolkova#
 
-63116#Expert?™s Wisdom#SG_FEEL#QUE_NOIMAGE#
+63116#Expert's Wisdom#SG_FEEL#QUE_NOIMAGE#
 Go to Ericsson Adler, a rebel member introduced to you by Elena Bolkova, and get advice related to the twins.#
 Go to Ericsson Adler#
 
@@ -23834,15 +24190,15 @@ Do not forget the request of Elena Bolkova, after dawn, find the twins and talk 
 Reset at 4 o'clock#
 
 63121#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
-Take the book '^0000CDVertigo from a Thousand Years of Upheaval^000000??from the librarian at the Prontera Library. This is the most talked about book by the author, who has been blown by the river wind for a thousand years.#
+Take the book '^0000CDVertigo from a Thousand Years of Upheaval^000000from the librarian at the Prontera Library. This is the most talked about book by the author, who has been blown by the river wind for a thousand years.#
 Visit the Prontera Library#
 
 63122#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
-Take the book '^0000CDRebels, a History of Freedom^000000??from the librarian at the Prontera Library. A history of freedom and willfulness of the middle-aged rebels, which has passed through the ages!#
+Take the book '^0000CDRebels, a History of Freedom^000000from the librarian at the Prontera Library. A history of freedom and willfulness of the middle-aged rebels, which has passed through the ages!#
 Visit the Prontera Library#
 
 63123#Service: Book Lending#SG_FEEL#QUE_NOIMAGE#
-Take the book '^0000CDSkyline of Muspelheim^000000??from the librarian at the Prontera Library. A touching non-fiction essay that perfectly illustrates Muspelheim's ecosystem.#
+Take the book '^0000CDSkyline of Muspelheim^000000from the librarian at the Prontera Library. A touching non-fiction essay that perfectly illustrates Muspelheim's ecosystem.#
 Visit the Prontera Library#
 
 63124#Service: Delivery of Loaned Books#SG_FEEL#QUE_NOIMAGE#
@@ -23893,7 +24249,7 @@ Reset at 4 o'clock#
 The revolver often breaks and already looks like a time bomb, you need to quickly deliver it to the Einbroch blacksmiths guild.#
 Consult the Einbroch blacksmiths' guild.#
 
-63136#Expert?™s Opinion#SG_FEEL#QUE_NOIMAGE#
+63136#Expert's Opinion#SG_FEEL#QUE_NOIMAGE#
 Give Rachel Smith the result you found out about at the blacksmith's guild.#
 Visit Rachel Smith#
 
@@ -23909,7 +24265,7 @@ Get 2 pieces of Oridecon#
 You need to prepare ^0000CD2 pieces of Elunium^000000 at the request of Rachel Smith.#
 Get 2 pieces of Elunium#
 
-63139#Supply of Iron#SG_FEEL#QUE_NOIMAGE#
+63140#Supply of Iron#SG_FEEL#QUE_NOIMAGE#
 You need to prepare ^0000CD5 pieces of Iron^000000 at the request of Rachel Smith.#
 Get 5 pieces of Iron#
 
@@ -24712,7 +25068,7 @@ Talk to a young scientist#
 Muyeon went to Payon. The young scientist wants to ask her what happened.#
 Talk to Muyeon#
 
-7778#Muyeon?™s Visions#SG_FEEL#QUE_NOIMAGE#
+7778#Muyeon's Visions#SG_FEEL#QUE_NOIMAGE#
 Muyeon is excited by what she saw during the purification ritual. She said I'd rather see it with my own eyes...#
 Talk to Muyeon#
 
@@ -25286,6 +25642,405 @@ Kill Durable Explosives, Durable Blazers#
 8560#Broken gizmos (Pending)#SG_FEEL#QUE_NOIMAGE#
 It's a daily quest. When the timeout expires, you can take it from Lily Blanc again.#
 Updated at 4:00#
+
+8561#Broken gizmos#SG_FEEL#QUE_NOIMAGE#
+Lily Blanc wants you to kill and examine 10 Durable Explosives and 10 Durable Blazers.#
+Kill Durable Explosives, Durable Blazers#
+
+12364#Ruins of the Pharus Lighthouse#SG_FEEL#QUE_NOIMAGE#
+The researcher told what happened at the Pharus lighthouse.#
+Ruins of the Pharus Lighthouse#
+
+12365#In the Dark of the Dungeon#SG_FEEL#QUE_NOIMAGE#
+The journey to the Infinity Space under the Pharus lighthouse did not pass without a trace.#
+In the Dark of the Dungeon#
+
+
+12366#Kill monsters on the 10th floor#SG_FEEL#QUE_NOIMAGE#
+You have received an additional task in the Memorial dungeon.#
+Kill monsters on the 10th floor#
+
+
+12367#Kill monsters on the 30th floor#SG_FEEL#QUE_NOIMAGE#
+You have received an additional task in the Memorial dungeon.#
+Kill monsters on the 30th floor#
+
+11573#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+You learned how to get to the Murmuring Forest from Nalson. Find a path in the northern part of the Mjolnir mountain range and reach the Murmuring Forest.#
+Go to the Murmuring Forest#
+
+11574#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+You can find and read guide for the beginners in the tea house. You should go to the tea house.#
+Go to the tea house#
+
+11575#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Rancis followed Cho Xeung outside. Go outside and talk to Cho Xeung.#
+Leave the tea house#
+
+11576#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Cho Xeung asked Rancis to tell about the Murmuring Forest and left in a hurry. Talk to Rancis and learn more about the Murmuring Forest.#
+Talk to Rancis#
+
+11577#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Follow Rancis and explore the Murmuring Forest.#
+Talk to Rancis#
+
+11578#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+It seems Rancis has some new information. Follow Rancis.#
+Talk to Inkha#
+
+11579#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Inkha promised to help you with training and asked to kill 10 Minerals. Kill 10 Minerals on the 2nd floor of the Einbech Mine and come back.#
+Kill 10 Minerals#
+
+11580#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+After making sure you had killed the Minerals Inkha advised you to find Ilgwan.#
+Talk to Ilgwan#
+
+11581#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Ilgwan said she didn't know much about training, but she would appreciate if you hunt some Nine Tails. Kill 50 Nine Tails on the 3rd floor of Payon Cave and return to Cho Xeung.#
+Kill 50 Nine Tails#
+
+11582#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Cho Xeung was mad at Inkha and asked you to bring him to Ilgwan's room.#
+Talk to Inkha#
+
+11583#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Inkha grumbled and asked you to go to Ilgwan together.#
+Go to Ilgwan's room#
+
+11584#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Ilgwan told you Master Cho Xi was at the foot of the mountain. Go down the mountain and meet Master Cho Xi.#
+Talk to Cho Xi#
+
+11585#New Job: Star Emperor#SG_FEEL#QUE_NOIMAGE#
+Cho Xi bestowed the title of Master on Ilgwan, Inkha and Cho Xeung. He told you to go back to the Murmuring Forest and choose your mentor.#
+Talk to Ilgwan, Cho Xeung or Inkha#
+
+12470#Andrea's revenge I#SG_FEEL#QUE_NOIMAGE#
+Andrea was mortally wounded with a scythe in the hands of a small knee-high creature. Now he wants to grant peace in death to this creature, the same he got himself. ^ff0000Don't let the cuteness of this creature deceive you. It is far more wicked than demons.^000000 We will have to find out what this creature actually is.#
+Kill Chaos Baphomet Jr.#
+
+
+12471#Andrea's revenge II#SG_FEEL#QUE_NOIMAGE#
+Andrea tried to heal his mortal wound with his spiritual power, but he failed as his spirit was suppressed by the chaos creature. Now he wants to get rid of these evil creatures.#
+Kill Chaos Ghostring#
+
+
+12472#Annes's revenge I#SG_FEEL#QUE_NOIMAGE#
+This sinister insect sruck a mortal blow to Annes who was on the verge of death. She believes that all flying insects in the world should be killed.#
+Kill Chaos Hunter Fly#
+
+
+12473#Annes's revenge II#SG_FEEL#QUE_NOIMAGE#
+She got lost and was attacked by fierce predators. They wounded her badly. Unfortunately, it happened at the very moment when she was about to bite a sandwich that had been made early that morning for the special research.#
+Kill Chaos Killer Mantis#
+
+
+12474#Silvano's revenge I#SG_FEEL#QUE_NOIMAGE#
+Silvano clearly remembers who attacked and nearly killed him. The villain attacked Annes looked like a monster in his memory, but he was different somehow though.#
+Kill Chaos Mantis#
+
+
+12475#Silvano's revenge II#SG_FEEL#QUE_NOIMAGE#
+Silvano was close to death, he didn't manage to cast recovery spell and tried to use a potion. But all potions in his bag were already swallowed by this nasty creature.#
+Kill Chaos Poporing#
+
+
+12476#Cecilia's revenge I#SG_FEEL#QUE_NOIMAGE#
+^0000ffBeware of this snake. It's much more ferocious than it seems. It will attack you as soon as you look away.^000000 When Cecilia had a sit to rest, this monster bit her. She couldn't move because of the paralyzed poison spread around the body.#
+Kill Chaos Sidewinder#
+
+
+12477#Cecilia's revenge II#SG_FEEL#QUE_NOIMAGE#
+Paralyzed she got a terrible wound from that prickle monster.^0000ffJust imagine how it feels when the wound from cut begins to fester, but you can't even move your hand. If only I had been paralyzed, I could have survived. It's all because of that damn snake monster!^000000#
+Kill Chaos Stem Worm#
+
+
+12478#Purification of consciousness#SG_FEEL#QUE_NOIMAGE#
+The task is to banish one of the incarnations of four priests wondering around the labyrinth. These incarnations are produced from concentrated hatred and resentment in the process of soul purification regardless of souls wish.^ff0000This task can be completed only once in a week.^000000#
+Deal with Andrea#
+
+
+12479#Purification of consciousness#SG_FEEL#QUE_NOIMAGE#
+The task is to banish one of the incarnations of four priests wondering around the labyrinth. These incarnations are produced from concentrated hatred and resentment in the process of soul purification regardless of souls wish.^ff0000This task can be completed only once in a week.^000000#
+Deal with Annes#
+
+
+12480#Purification of consciousness#SG_FEEL#QUE_NOIMAGE#
+The task is to banish one of the incarnations of four priests wondering around the labyrinth. These incarnations are produced from concentrated hatred and resentment in the process of soul purification regardless of souls wish.^ff0000This task can be completed only once in a week.^000000#
+Deal with Silvano#
+
+
+12481#Purification of consciousness#SG_FEEL#QUE_NOIMAGE#
+The task is to banish one of the incarnations of four priests wondering around the labyrinth. These incarnations are produced from concentrated hatred and resentment in the process of soul purification regardless of souls wish.^ff0000This task can be completed only once in a week.^000000#
+Deal with Cecilia#
+
+
+12482#Disappearance of an ally#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>Esmeralda<INFO>prontera.gat,213,321,0,101,0</INFO></NAVI> near Prontera Cathedral. Irena asked to inform the head of the guild Esmeralda about current situation amongst the followers of Priest Guild.#
+A message of Priest Guild#
+
+
+12483#Subsequent confirmation#SG_FEEL#QUE_NOIMAGE#
+You talked to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth and informed her about the head of Priest Guild. You wanted to know what happens next. Follow Esmeralda at Prontera Cathedral.#
+Talk to Esmeralda#
+
+
+12484#In search of an acolyte#SG_FEEL#QUE_NOIMAGE#
+We need to find traces of Andrea who entered into Distorted Labyrinth. ^0000ffInformation for comparative analysis of physical characteristics. When detecting search objects, make a comparison.^000000#
+Find Andrea#
+
+
+12485#In search of an acolyte#SG_FEEL#QUE_NOIMAGE#
+We need to find traces of Annes who entered into Distorted Labyrinth. ^0000ffInformation for comparative analysis of physical characteristics. When detecting search objects, make a comparison.^000000#
+Find Annes#
+
+
+12486#In search of an acolyte#SG_FEEL#QUE_NOIMAGE#
+We need to find traces of Silvano who entered into Distorted Labyrinth. ^0000ffInformation for comparative analysis of physical characteristics. When detecting search objects, make a comparison.^000000#
+Find Silvano#
+
+
+12487#In search of an acolyte#SG_FEEL#QUE_NOIMAGE#
+We need to find traces of Cecilia who entered into Distorted Labyrinth. ^0000ffInformation for comparative analysis of physical characteristics. When detecting search objects, make a comparison.^000000#
+Find Cecilia#
+
+
+12488#Check results#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth. You found all traces of four priests acolytes. Go to Esmeralda and give her what you found.#
+Find Esmeralda#
+
+
+12489#Temporary guild member#SG_FEEL#QUE_NOIMAGE#
+Talk to acolyte souls in the labyrinth near the place where you talked to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> Talk to acolytes became spirits, act like a temporary guild member.#
+Taking the quest#
+
+
+12490#Accept the today quest#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>Priest Guild members<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> inside the labyrinth. You took all daily quests available to temporary Prontera Priest Guild members. You can take these quests again after ^ff00004 p.m. each day^000000. You can't take equal quests.#
+Reset at 4 a.m. next day#
+
+
+12491#Accept the quest of this week#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>Priest Guild members<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> inside the labyrinth. You took all weekly quests available to temporary Prontera Prist Guild member. You can take these quests again after ^ff00004 a.m. each Saturday^000000. You can't take equal quests.#
+Reset at 4 a.m. each Saturday#
+
+
+12492#Esmeralda#SG_FEEL#QUE_NOIMAGE#
+Talk to Esmeralda to know more#
+Complete conversation#
+
+12442#Soul Reaper's Path 1#SG_FEEL#QUE_NOIMAGE#
+Find out what happened to Banjac, who was surrounded by inn workers.#
+Soul Reaper's Path#
+
+
+12443#Soul Reaper's Path 2#SG_FEEL#QUE_NOIMAGE#
+Visit Banjac again as soon as you can. It seems he was taken to <NAVI>[an inn]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> in Payon.#
+Soul Reaper's Path#
+
+
+12444#Soul Reaper's Path 3#SG_FEEL#QUE_NOIMAGE#
+Find out where the thief who stole Banjac's bundle is. Its accomplices were probably hiding somewhere near the inn.#
+Soul Reaper's Path#
+
+
+12445#Soul Reaper's Path 4#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>[Banjac]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> about the thief who stole his bundle.#
+Soul Reaper's Path#
+
+
+12446#Soul Reaper's Path 5#SG_FEEL#QUE_NOIMAGE#
+Together with Banjac, question the innkeeper to find out the identity of the thief.#
+Soul Reaper's Path#
+
+
+12447#Soul Reaper's Path 6#SG_FEEL#QUE_NOIMAGE#
+Meet <NAVI>[Banjac]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> in northern Payon.#
+Soul Reaper's Path#
+
+
+12448#Soul Reaper's Path 7#SG_FEEL#QUE_NOIMAGE#
+Bring <NAVI>[Mewlin]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI> 44 <ITEM>[Nine Tails]<INFO>1022</INFO></ITEM>, needed for the ritual.#
+Soul Reaper's Path#
+
+
+12449#Soul Reaper's Path 8#SG_FEEL#QUE_NOIMAGE#
+Meet <NAVI>Banjac<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> and learn about what was revealed to him during the Soul Return Ritual.#
+Soul Reaper's Path#
+
+
+12450#Soul Reaper's Path 9#SG_FEEL#QUE_NOIMAGE#
+Save Banjac's sister, who, after the Soul Return Ritual, finds herself in the spiritual world.#
+Soul Reaper's Path#
+
+
+12451#Soul Reaper's Path, final chapter#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>Banjac<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> and make a decision regarding the Soul Reaper's path.#
+Soul Reaper's Path#
+
+5847#Story for Luanda#SG_FEEL#QUE_NOIMAGE#
+Tell <NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI> about your recent adventures.#
+#
+
+5848#Proof of the Bigstone tribe destruction#SG_FEEL#QUE_NOIMAGE#
+The Bigstone tribe is attacking the villagers. Bring 3 <ITEM>[proofs]<INFO>25638</INFO></ITEM> of their destruction. You may exchange them for a reward once a day.#
+#
+
+5849#[Pending] Proof of the Bigstone tribe destruction#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI> will gladly reward you tomorrow as well, if you bring her the proof of Bigstone tribe destruction.#
+#
+
+5850#Proof of the Wootan tribe destruction#SG_FEEL#QUE_NOIMAGE#
+The Wootan tribe is attacking the villagers. Bring 3 <ITEM>[proofs]<INFO>25633</INFO></ITEM> of their destruction. You may exchange them for a reward once a day.#
+#
+
+5851#[Pending] Proof of the Wootan tribe destruction#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI> will gladly reward you tomorrow as well, if you bring her the proof of Wootan tribe destruction.#
+#
+
+5852#Destruction of the Bigstone tribe#SG_FEEL#QUE_NOIMAGE#
+The villagers are planning to take the fight to the Bigstone tribe. Kill 5 <NAVI>[Ancient Tri Joints]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, 5 <NAVI>[Ancient Stalactic Golems]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI> and 5 <NAVI>[Ancient Megaliths]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>, then report back to <NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI>.#
+#
+
+5853#[Pending] Destruction of the Bigstone tribe#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI> hopes that you will be able to continue fighting the Bigstone tribe tomorrow.#
+#
+
+5854#Destruction of the Wootan tribe#SG_FEEL#QUE_NOIMAGE#
+The villagers are planning to take the fight to the Bigstone tribe. Kill 5 <NAVI>[Ancient Stone Shooters]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, 5 <NAVI>[Ancient Wootan Shooters]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI> and 5 <NAVI>[Ancient Wootan Fighters]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>, then report to <NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI>.#
+#
+
+5855#[Pending] Destruction of the Wootan tribe#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Defense Officer Luanda]<INFO>com_d02_i,241,255,0,000,0</INFO></NAVI> hopes that you will be able to continue fighting the Wootan tribe tomorrow.#
+#
+
+16388#First step on the way#SG_FEEL#QUE_NOIMAGE#
+You have decided to take part in decoding the virtual record.#
+Agree to participate in decoding#
+
+
+16389#First step on the way (Denial)#SG_FEEL#QUE_NOIMAGE#
+You refused to take part in decoding the virtual record.#
+Refuse to participate in decoding#
+
+
+16390#Path of Expedition (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time.#
+Resets at 04:00 a.m.#
+
+
+16391#???#SG_FEEL#QUE_NOIMAGE#
+?????#
+???#
+
+
+16392#Path of Expedition (Reward)#SG_FEEL#QUE_NOIMAGE#
+You received a reward for participating in decoding the virtual record.#
+Take the reward#
+
+
+16393#Path of Expedition - Swordsman lab#SG_FEEL#QUE_NOIMAGE#
+You visited the swordsman lab.#
+Visit the swordsman lab#
+
+
+16394#Path of Expedition - Acolyte lab#SG_FEEL#QUE_NOIMAGE#
+You visited the acolyte lab.#
+Visit the acolyte lab#
+
+
+16395#Path of Expedition - Thief lab#SG_FEEL#QUE_NOIMAGE#
+You visited the thief lab.#
+Visit the thief lab#
+
+
+16396#Path of Expedition - Mage lab#SG_FEEL#QUE_NOIMAGE#
+You visited the mage lab.#
+Visit the mage lab#
+
+
+16397#Path of Expedition - Merchant lab#SG_FEEL#QUE_NOIMAGE#
+You visited the merchant lab.#
+Visit the merchant lab#
+
+
+16398#Path of Expedition - Archer lab#SG_FEEL#QUE_NOIMAGE#
+You visited the archer lab.#
+Visit the archer lab#
+
+
+16399#Path of Exploration#SG_FEEL#QUE_NOIMAGE#
+You have decided to take part in decoding in exploration mode.#
+Complete exploration mode#
+
+
+16400#Path of Battle#SG_FEEL#QUE_NOIMAGE#
+You have decided to take part in decoding in battle mode.#
+Complete battle mode#
+
+// Last update 2015 11 11 (11:15 2015-11-10, main server
+//-- number 1 is not allowed to be deleted
+1#Menace#SG_FEEL#QUE_NOIMAGE#
+Turtle#
+Shell#
+
+// Crescent moon that appeared during the day
+
+14585#Sleep Study#SG_FEEL#QUE_NOIMAGE#
+We need to learn why the Pope spends increasingly more time sleeping every day. Please, go into her dreams and find the root of the problem.#
+Journey through Dreams#
+
+14586#Time to Sleep#SG_FEEL#QUE_NOIMAGE#
+The Pope is still up. Come back after dawn.#
+Resets at 4:00 a.m.#
+
+14587#Sleep Study#SG_FEEL#QUE_NOIMAGE#
+We need to learn why the Pope spends increasingly more time sleeping every day. Please, go into her dreams and find the root of the problem.#
+Journey through Dreams#
+
+14593#Sending Mail#SG_FEEL#QUE_NOIMAGE#
+Sending Mail#
+#
+
+14594#Preparing to Walk the Path of Dreams#SG_FEEL#QUE_NOIMAGE#
+Please come back when you are ready to walk the path of dreams.#
+To Nirien#
+
+12457#The Moment of Fall#SG_FEEL#QUE_NOIMAGE#
+Follow Oscar to the past and witness the fall of once impenetrable Glast Heim castle.#
+The Moment of Fall#
+
+
+12458#Memories of the Orb#SG_FEEL#QUE_NOIMAGE#
+King Schmitz made the ultimate sacrifice, but the history of his great deed has been corrupted.#
+Memories of the Orb#
+
+
+
+12459#King's Peace of Mind#SG_FEEL#QUE_NOIMAGE#
+To save thousands of lives, king Schmitz gave his own to the Orb. But in the moment of sacrifice the Orb took his thoughts and gave them form, leaving us with nothing but shameful historical records. Your goal is to help his mind find peace.#
+Eliminating King's Thoughts#
+
+
+
+12460#The Moment of Fall#SG_FEEL#QUE_NOIMAGE#
+It's always hard to see death and decay. Until the reprecussions die down, you cannot enter ^ff0000Glast Heim Purification^000000.#
+Resets at 04:00 a.m.#
+
+
+
+12461#Devastating Aftermath of Death#SG_FEEL#QUE_NOIMAGE#
+The aftermath comes after the fall. The ^ff0000Glastheim Purification (Hard)^000000 menu is not available while the aftereffects remain.#
+Resets in 3 days at 04:00 a.m.#
+
+
+
+12462#King's Peace of Mind#SG_FEEL#QUE_NOIMAGE#
+To save thousands of lives, king Schmitz gave his own to the Sphere. But in the moment of sacrifice the Orb took his thoughts and gave them form, leaving us with nothing but shameful historical records. Your goal is to help his mind find peace.#
+Eliminating King's Thoughts (Hard)#
+
 
 8561#Broken gizmos#SG_FEEL#QUE_NOIMAGE#
 Lily Blanc wants you to kill and examine 10 Durable Explosives and 10 Durable Blazers.#

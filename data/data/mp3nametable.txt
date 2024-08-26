@@ -1155,8 +1155,29 @@ sp_rudus.rsw#bgm\\176.mp3#
 sp_rudus2.rsw#bgm\\176.mp3#
 sp_rudus3.rsw#bgm\\176.mp3#
 
-1@gl_kh.rsw#bgm\\44.mp3#
-2@gl_kh.rsw#bgm\\44.mp3#
-ein_d02_i.rsw#bgm\\88.mp3#
+// 교황 메모리얼 낮에나온 반달
+1@pop1.rsw#bgm\\95.mp3#
+1@pop2.rsw#bgm\\94.mp3#
+1@pop3.rsw#bgm\\138.mp3#
+// EDDA 생체연구소 - 원정의 여로
+1@gol1.rsw#bgm\\124.mp3#
+1@gol2.rsw#bgm\\124.mp3#
+// 일루전 오브 루안다
+com_d02_i.rsw#bgm\\41.mp3#
+// 성제 전직
+star_frst.rsw#bgm\\14.mp3#
+star_in.rsw#bgm\\14.mp3#
+
+// 소울리퍼 전직
+1@soul.rsw#bgm\\40.mp3#
+// EDDA 글래스트 헤임의 몰락
+1@gl_prq.rsw#bgm\\48.mp3#
+//MD 무한, 클랜
+1@infi.rsw#bgm\\95.mp3#
+// 일루전 거북섬 (구양궁)
 tur_d03_i.rsw#bgm\\65.mp3#
 tur_d04_i.rsw#bgm\\65.mp3#
+// 일루전 테디베어 나사리안 제국
+ein_d02_i.rsw#bgm\\88.mp3#
+
+prt_mz03_i.rsw#bgm\\16.mp3#

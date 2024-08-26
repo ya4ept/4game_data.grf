@@ -1014,6 +1014,19 @@ sp_rudus.rsw#Rudus Lab, 1st floor#
 sp_rudus2.rsw#Rudus Lab, 2nd floor#
 sp_rudus3.rsw#Rudus Lab, 3rd floor#
 gl_cas01_.rsw#Glast Heim Abyss#
-ein_d02_i.rsw#Nasarian Empire#
-tur_d03_i.rsw#Lonesome Good Turtles Village#
-tur_d04_i.rsw#Gloomy Turtle Palace#
+
+com_d02_i.rsw#Luanda Northern Cave#
+1@gol1.rsw#Bio Test Chamber#
+1@gol2.rsw#Morgue#
+1@pop1.rsw#Pope's Office#
+1@pop2.rsw#Road Home#
+1@pop3.rsw#Sky Garden#
+1@infi.rsw#Infinity Space#
+1@gl_prq.rsw#Fall of Glast Heim#
+star_frst.rsw#Murmuring Forest#
+star_in.rsw#Deep of Murmuring Forest#
+1@soul.rsw#Path of Souls#
+
+
+//bloody 
+1@bloody.rsw#Bloody Place#

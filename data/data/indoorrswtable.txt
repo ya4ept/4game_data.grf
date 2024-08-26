@@ -1,67 +1,10 @@
-//201805 17.1 추가맵
-pub_cat.rsw#
-rgsr_in.rsw#
-
-//왕실 사냥대회
-prt_evt_in.rsw#
-
-
-//IA 콜라보레이션
-d_mond01.rsw#
-
-//2016 rockridge 
-har_in01.rsw#
-
-
-//201606 추석이벤트
-nakhyang.rsw#
-
-//201502 16.2
-rebel_in.rsw#
-
-
-//도람족관련 복사맵 요청 2015.05.26(말랑도 내부복사)
-
-conch_in.rsw#
-lasa_in01.rsw#
-
-
-//Ep.16.1 prt_cas
-
-prt_cas.rsw#
-prt_cas_q.rsw#
-1@sthc.rsw#
-prt_pri00.rsw#
-
-//EP.15.2베루스  2013.12.11
-
-un_bunker.rsw#
-un_bk_q.rsw#
-un_myst.rsw#
-
-//파라마켓 전용 맵
-
-paramk.rsw#
-
-//북미요청 복사맵 
-
-prt_cas_evt.rsw#
-prt_in_evt.rsw#
-prt_ch_evt.rsw#
-lhz_cu_evt.rsw#
-air_evt.rsw#
-new_1-2_evt.rsw#
-
-
 //사크라이 12.08.27
 
 1@gef_in.rsw#
 
-
 //사크라이 12.3.6
 
 iz_ng01.rsw#
-
 
 //사크라이 11.11.07
 ecl_in01.rsw#
@@ -96,7 +39,7 @@ dew_in01.rsw#
 dic_in01.rsw#
 bra_in01.rsw#
 s_atelier.rsw#
-moc_para01.rsw#
+
 job3_guil01.rsw#
 job3_guil02.rsw#
 man_in01.rsw#
@@ -106,6 +49,12 @@ mid_campin.rsw#
 que_dan02.rsw#
 bat_room.rsw#
 mosk_in.rsw#
+
+//201502 16.2
+rebel_in.rsw#
+
+//------------------------------------------2007년 4월 30일 이전의 데이터----------------------------------------------------------
+y_airport.rsw#
 que_ba.rsw#
 itemmall.rsw#
 
@@ -183,3 +132,36 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
+
+//본섭 EP.15.2 베루스  2013.12.23
+
+un_bunker.rsw#
+un_bk_q.rsw#
+un_myst.rsw#
+
+conch_in.rsw#
+lasa_in01.rsw#
+
+//Ep.16.1 prt_cas
+
+prt_cas.rsw#
+prt_cas_q.rsw#
+1@sthc.rsw#
+prt_pri00.rsw#
+//201804_성제전직용
+star_in.rsw#
+
+
+//왕실 사냥대회
+prt_evt_in.rsw#
+
+
+//IA 콜라보레이션
+d_mond01.rsw#
+
+//2016 rockridge 
+har_in01.rsw#
+
+
+//201606 추석이벤트
+nakhyang.rsw#

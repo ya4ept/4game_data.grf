@@ -1,3 +1,103 @@
+22.08.2024 14:02
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+Changes:
+— Fixed Dungenon creation
+
+================
+22.08.2024 11:52
+Ragnarok Online Prime EU
+
+The maintenance is over, the server is online. Changelog:
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The Shadow Master Packs arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+— The "Midgardian style Fishing in Geffen" event has begun.
+
+
+Finished activities:
+— The Eternal Summer Treasure left the launcher and Kafra shop.
+— The Lucky Treasures Sets left the launcher.
+— The Profession item packs left the launcher.
+— The Transmutator Packs left the launcher.
+— The "Poring Invasion: Geffen" event has come to an end.
+
+Changes:
+— Bloody Branches: Banned on most maps and dungeons
+— Bloody muffler minimum req lvl was fixed
+
+More: https://eu.4gameforum.com/threads/694835/
+
+================
+15.08.2024 15:04
+Ragnarok Online Prime EU
+
+The maintenance is over, the server is online. Changelog:
+Update:
+— The "Infinity [17.1.5]" update has been installed. The update is described in detail in our patch note.
+
+Events and Shop:
+— The Eternal Summer Treasure arrived in launcher.
+— The Infinity Update Gift arrived in launcher.
+— The Lucky Treasures Sets arrived in launcher.
+— The Profession item packs arrived in launcher.
+— The Transmutator Packs arrived in launcher.
+
+Finished activities:
+— The Dovmihr's Memories WIN-WIN Machine left the launcher.
+— The Special Chrono Sets left the launcher.
+— The Limited Offer: Special offers for Sorcerer left the launcher.
+— The Experience boost to Infinity event has come to an end.
+
+Changes:
+— Daily login rewards has been added.
+
+More: https://eu.4gameforum.com/threads/694819/
+
+================
+07.08.2024 12:13
+Ragnarok Online Prime EU
+
+The maintenance is over, the server is online. Changelog:
+Events and Shop:
+— The Dovmihr's Memories WIN-WIN Machine arrived in launcher.
+— The Bossnia Crown Box arrived in launcher and Kafra Shop.
+— The Special Chrono Sets arrived in launcher.
+— The Special offers for Sorcerer arrived in launcher.
+— The "Poring Invasion: Geffen" event has begun.
+— The "Royal Bossnia" event has begun.
+
+Finished activities:
+— The Special Packs for Genetic left the launcher.
+— The Battle manual packs left the launcher.
+— The "Colorful runaways" event has come to an end.
+
+Changes:
+— Experience rates increased by 80% (Experience boost to Infinity event)
+
+More: https://eu.4gameforum.com/threads/694754/
+
+================
+31.07.2024 11:20
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Special Packs for Genetic arrived in launcher.
+— The Battle manual packs arrived in launcher.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Shadow Packs left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+
+Changes:
+— Experience rates increased by 70% (Experience boost to Infinity event)
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/694715/
+
+================
 24.07.2024 12:52
 Ragnarok Online Prime EU
 
