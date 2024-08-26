@@ -1,5 +1,25 @@
 tblLapineDdukddakBox = {
 	sources = {
+		Cursed_Blood = {
+			ItemID = 23546,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "Bloody_Knight_Shield_", 1, 28945 }
+			},
+			NeedSource_String = "Щит Кровавого рыцаря"
+		},
+		Gold_Statue = {
+			ItemID = 23547,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "Bloody_Knight_Shield__", 1, 28946 }
+			},
+			NeedSource_String = "Щит Солнечного рыцаря"
+		},
 		StatusShadow_Mix = {
 			ItemID = 23247,
 			NeedCount = 5,
@@ -373,6 +393,20 @@ tblLapineDdukddakBox = {
 		}
 	},
 	results = {
+		Cursed_Blood = {
+			RefineProbability = {},
+			RandomOptionCode = "BKS",
+			ResultItems = {
+				{ "Bloody_Knight_Shield_", 1, 1 }
+			}
+		},
+		Gold_Statue = {
+			RefineProbability = {},
+			RandomOptionCode = "SKS",
+			ResultItems = {
+				{ "Bloody_Knight_Shield__", 1, 1 }
+			}
+		},
 		StatusShadow_Mix = {
 			RefineProbability = {},
 			RandomOptionCode = "G0",

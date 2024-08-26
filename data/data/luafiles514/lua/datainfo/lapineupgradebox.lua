@@ -1,95 +1,5 @@
 tblLapineUpgradeBox = {
 	targets = {
-		Great_Hero_Bravery = {
-			ItemID = 100412,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Up_Oriental_Sword", 600009 },
-				{ "Up_Dragonic_Slayer", 21058 },
-				{ "Up_Shiver_Katar_K", 610008 },
-				{ "Up_Blade_Katar", 610009 },
-				{ "Up_Sword_Of_Bluefire", 500013 },
-				{ "Up_Slate_Sword", 500014 },
-				{ "Up_Narcis_Bow", 700013 },
-				{ "Up_Trumpet_Shell_K", 570009 },
-				{ "Up_Barb_Wire_K", 580009 },
-				{ "Up_Avenger", 620004 },
-				{ "Up_Magic_Sword", 510019 },
-				{ "Up_Fatalist", 510020 },
-				{ "Up_Meteor_Striker", 590011 },
-				{ "Up_Royal_Bow_K", 700018 },
-				{ "Up_Scalet_Dragon_L_Bow", 700019 },
-				{ "Up_Shadow_Staff_K", 550012 },
-				{ "Up_Freezing_Rod", 550013 },
-				{ "Up_Iron_Nail_K", 560008 },
-				{ "Up_Ray_Knuckle", 560009 },
-				{ "Up_Undine_Spear_K", 530006 },
-				{ "Up_Light_Blade", 500017 },
-				{ "Up_Iron_Staff", 640011 },
-				{ "Up_Blue_Crystal_Staff", 640012 },
-				{ "Up_Demon_Hunting_Bible", 540011 },
-				{ "Up_Saint_Hall", 590012 },
-				{ "Up_MeawFoxtail", 550014 },
-				{ "Up_Fog_Dew_Sword", 510022 },
-				{ "Up_Humma_Clear", 650004 },
-				{ "Up_Master_Soul_Rifle", 810001 },
-				{ "Up_Golden_L_Launcher", 840001 },
-				{ "Up_The_Black_Gatling", 830002 },
-				{ "Up_Demon_S_Shot", 820001 },
-				{ "Up_Crimson_Rose", 800002 },
-				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
-			},
-			NeedSource_String = "Дивное оружие"
-		},
-		Great_Hero_Wisdom = {
-			ItemID = 100413,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Up_Oriental_Sword", 600009 },
-				{ "Up_Dragonic_Slayer", 21058 },
-				{ "Up_Shiver_Katar_K", 610008 },
-				{ "Up_Blade_Katar", 610009 },
-				{ "Up_Sword_Of_Bluefire", 500013 },
-				{ "Up_Slate_Sword", 500014 },
-				{ "Up_Narcis_Bow", 700013 },
-				{ "Up_Trumpet_Shell_K", 570009 },
-				{ "Up_Barb_Wire_K", 580009 },
-				{ "Up_Avenger", 620004 },
-				{ "Up_Magic_Sword", 510019 },
-				{ "Up_Fatalist", 510020 },
-				{ "Up_Meteor_Striker", 590011 },
-				{ "Up_Royal_Bow_K", 700018 },
-				{ "Up_Scalet_Dragon_L_Bow", 700019 },
-				{ "Up_Shadow_Staff_K", 550012 },
-				{ "Up_Freezing_Rod", 550013 },
-				{ "Up_Iron_Nail_K", 560008 },
-				{ "Up_Ray_Knuckle", 560009 },
-				{ "Up_Undine_Spear_K", 530006 },
-				{ "Up_Light_Blade", 500017 },
-				{ "Up_Iron_Staff", 640011 },
-				{ "Up_Blue_Crystal_Staff", 640012 },
-				{ "Up_Demon_Hunting_Bible", 540011 },
-				{ "Up_Saint_Hall", 590012 },
-				{ "Up_MeawFoxtail", 550014 },
-				{ "Up_Fog_Dew_Sword", 510022 },
-				{ "Up_Humma_Clear", 650004 },
-				{ "Up_Master_Soul_Rifle", 810001 },
-				{ "Up_Golden_L_Launcher", 840001 },
-				{ "Up_The_Black_Gatling", 830002 },
-				{ "Up_Demon_S_Shot", 820001 },
-				{ "Up_Crimson_Rose", 800002 },
-				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
-			},
-			NeedSource_String = "Дивное оружие"
-		},
 		Old_Refine_Cube = {
 			ItemID = 100270,
 			NeedRefineMin = 0,
@@ -1371,33 +1281,9 @@ tblLapineUpgradeBox = {
 				{ "Modify_Luk_Boots_", 22118 }
 			},
 			NeedSource_String = "Броня Шестиона или Хроноплащ"
-		},
-		Cursed_Blood = {
-			ItemID = 23546,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Bloody_Knight_Shield_", 28945 }
-			},
-			NeedSource_String = "Щит Кровавого рыцаря"
-		},
-		Gold_Statue = {
-			ItemID = 23547,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Bloody_Knight_Shield__", 28946 }
-			},
-			NeedSource_String = "Щит Солнечного рыцаря"
 		}
 	},
 	results = {
-		Great_Hero_Bravery = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "GHB", FailureItems = {} },
-		Great_Hero_Wisdom = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "GHW", FailureItems = {} },
 		Old_Refine_Cube = {
 			SuccessRate = 10000,
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
@@ -1441,9 +1327,7 @@ tblLapineUpgradeBox = {
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
 			RandomOptionCode = "",
 			FailureItems = {}
-		},
-		Cursed_Blood = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "BKS", FailureItems = {} },
-		Gold_Statue = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "SKS", FailureItems = {} }
+		}
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do

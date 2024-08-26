@@ -2629,7 +2629,6 @@ era_fild05.rsw#era_fild05.rsw#
 유저인터페이스\map\1@crd.bmp#유저인터페이스\map\1@crd.bmp#
 
 
-
 //2017 초보자 던전
 1@begi.gnd#1@begi.gnd#
 1@begi.gat#1@begi.gat#
@@ -4485,6 +4484,11 @@ bossnia_04.gnd#gef_dun03.gnd#
 bossnia_04.gat#gef_dun03.gat#
 bossnia_04.rsw#gef_dun03.rsw#
 유저인터페이스\map\bossnia_04.bmp#유저인터페이스\map\gef_dun03.bmp#
+
+1@bloody.gnd#gef_dun03.gnd#
+1@bloody.gat#gef_dun03.gat#
+1@bloody.rsw#gef_dun03.rsw#
+유저인터페이스\map\1@bloody.bmp#유저인터페이스\map\gef_dun03.bmp#
 
 //EDDA 생체연구소 - 원정의 여로
 1@gol1.gnd#1@gol1.gnd#
