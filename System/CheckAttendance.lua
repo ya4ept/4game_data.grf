@@ -1,4 +1,4 @@
-Config = { StartDate = 20230831, EndDate = 20230922 }
+Config = { StartDate = 20240903, EndDate = 20240925 }
 Reward = {
 	{ 1, 23047, 1 },
 	{ 2, 12516, 5 },
@@ -19,21 +19,24 @@ Reward = {
 	{ 17, 22979, 1 },
 	{ 18, 12412, 2 },
 	{ 19, 12411, 2 },
-	{ 20, 19997, 1 }
+	{ 20, 23330, 1 }
 }
 
 -- Function #0
 main = function()
 	result, msg = InsertCheckAttendanceConfig(Config.EvendOnOff, Config.StartDate, Config.EndDate)
-	if not result == true then
+	if  not result == true then
 		return false, msg
-	end
-	for k, rewardtbl in pairs(Reward) do
-		result, msg = InsertCheckAttendanceReward(rewardtbl[1], rewardtbl[2], rewardtbl[3])
-		if not result == true then
-			return false, msg
+	else
+		for k, rewardtbl in pairs(Reward) do
+			result, msg = InsertCheckAttendanceReward(rewardtbl[1], rewardtbl[2], rewardtbl[3])
+			if  not result == true then
+				return false, msg
+			else
+				continue
+			end
 		end
+		return true, "success"
+		k = Config.EndDate
 	end
-	return true, "success"
-	k = Config.EndDate
 end

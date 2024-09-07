@@ -1,38 +1,15 @@
---================================================================
--- filename : StylingShopInfo.lua
--- author   : gosa
--- created  : October, 22, 2015
--- descript : 스타일링 샵의 헤어, 옷 변경에 따른 재료 정보들 정의
--- last update : 2015/12/03
---================================================================
--- 클라이언트 파일 StylingShopInfo.lub와 순서가 동일해야합니다! 누락이 있으면 안 됩니다.
-
---항목
-StyleType =
-{
-  HEAD_PALETTE	= 0,
-  HEAD_STYLE	= 1,
-  BODY_PALETTE	= 2,
-  TOP_ACCESSORY = 3,
-  MID_ACCESSORY = 4,
-  BOTTOM_ACCESSORY = 5,
-  DORAM_HEAD_STYLE = 6,   -- 도람 머리
-  SECOND_COSTUME = 7,   -- 세컨드코스튬
-  DORAM_BODY_PALETTE = 8, -- 도람 옷염색
-};
-
--- 재료타입
-Material =
-{
-  ZENY = 0,
-  ITEM = 1
-};
-
---===============================================================
---위에 있는 항목은 추가하시려면 프로그램팀에 문의하셔야 합니다.
---===============================================================
-
--- { 항목, ShopID(중복불가), 스타일번호, 재료타입, 아이템번호(제니라면 수량) }
+StyleType = {
+	HEAD_PALETTE = 0,
+	HEAD_STYLE = 1,
+	BODY_PALETTE = 2,
+	TOP_ACCESSORY = 3,
+	MID_ACCESSORY = 4,
+	BOTTOM_ACCESSORY = 5,
+	DORAM_HEAD_STYLE = 6,
+	SECOND_COSTUME = 7,
+	DORAM_BODY_PALETTE = 8
+}
+Material = { ZENY = 0, ITEM = 1 }
 tbl = {
 	{ StyleType.HEAD_PALETTE, 1, 1, Material.ZENY, 100000 },
 	{ StyleType.HEAD_PALETTE, 2, 2, Material.ZENY, 100000 },
@@ -42,7 +19,6 @@ tbl = {
 	{ StyleType.HEAD_PALETTE, 6, 6, Material.ZENY, 100000 },
 	{ StyleType.HEAD_PALETTE, 7, 7, Material.ZENY, 100000 },
 	{ StyleType.HEAD_PALETTE, 8, 8, Material.ZENY, 100000 },
-
 	{ StyleType.HEAD_STYLE, 1, 1, Material.ZENY, 100000 },
 	{ StyleType.HEAD_STYLE, 2, 2, Material.ZENY, 100000 },
 	{ StyleType.HEAD_STYLE, 3, 3, Material.ZENY, 100000 },
@@ -74,15 +50,12 @@ tbl = {
 	{ StyleType.HEAD_STYLE, 29, 29, Material.ITEM, 6707 },
 	{ StyleType.HEAD_STYLE, 30, 30, Material.ITEM, 25736 },
 	{ StyleType.HEAD_STYLE, 31, 31, Material.ITEM, 25736 },
-
 	{ StyleType.BODY_PALETTE, 1, 0, Material.ITEM, 6047 },
 	{ StyleType.BODY_PALETTE, 2, 2, Material.ITEM, 6046 },
 	{ StyleType.BODY_PALETTE, 3, 3, Material.ITEM, 6046 },
-
 	{ StyleType.TOP_ACCESSORY, 1, 2220, Material.ZENY, 1000 },
 	{ StyleType.TOP_ACCESSORY, 2, 2208, Material.ZENY, 800 },
 	{ StyleType.TOP_ACCESSORY, 3, 2211, Material.ZENY, 400 },
-
 	{ StyleType.MID_ACCESSORY, 1, 2239, Material.ZENY, 10000 },
 	{ StyleType.MID_ACCESSORY, 2, 2201, Material.ZENY, 5000 },
 	{ StyleType.MID_ACCESSORY, 3, 2242, Material.ZENY, 24000 },
@@ -90,36 +63,25 @@ tbl = {
 	{ StyleType.MID_ACCESSORY, 5, 2205, Material.ZENY, 3500 },
 	{ StyleType.MID_ACCESSORY, 6, 2203, Material.ZENY, 4000 },
 	{ StyleType.MID_ACCESSORY, 7, 2212, Material.ZENY, 1000 },
-
-	{StyleType.BOTTOM_ACCESSORY, 1, 2241, Material.ZENY, 5000 },
-
-	-- {StyleType.SECOND_COSTUME, 1, 0, Material.ITEM, 6959 },
-	-- {StyleType.SECOND_COSTUME, 2, 1, Material.ITEM, 6959 },
-
-
-	-- 도람
+	{ StyleType.BOTTOM_ACCESSORY, 1, 2241, Material.ZENY, 5000 },
 	{ StyleType.DORAM_HEAD_STYLE, 1, 1, Material.ZENY, 100000 },
 	{ StyleType.DORAM_HEAD_STYLE, 2, 2, Material.ZENY, 100000 },
 	{ StyleType.DORAM_HEAD_STYLE, 3, 3, Material.ZENY, 100000 },
 	{ StyleType.DORAM_HEAD_STYLE, 4, 4, Material.ZENY, 100000 },
 	{ StyleType.DORAM_HEAD_STYLE, 5, 5, Material.ZENY, 100000 },
 	{ StyleType.DORAM_HEAD_STYLE, 6, 6, Material.ZENY, 100000 },
-	
 	{ StyleType.DORAM_BODY_PALETTE, 1, 0, Material.ITEM, 6047 },
 	{ StyleType.DORAM_BODY_PALETTE, 2, 2, Material.ITEM, 6046 },
-	{ StyleType.DORAM_BODY_PALETTE, 3, 3, Material.ITEM, 6046 },
-};
-  
-  
-function main()
-	
-	for i, msg in pairs( tbl ) do
-		result, msg = InsertStylingShopLGU( msg[1], msg[2], msg[3], msg[4], msg[5] );
-		if ( not result )then return false, msg; end
+	{ StyleType.DORAM_BODY_PALETTE, 3, 3, Material.ITEM, 6046 }
+}
+
+-- Function #0
+main = function()
+	for i, msg in pairs(tbl) do
+		result, msg = InsertStylingShopLGU(msg[1], msg[2], msg[3], msg[4], msg[5])
+		if not result == true then
+			return false, msg
+		end
 	end
-	
-	return true,"success";
+	return true, "success"
 end
-
-
-
