@@ -8251,11 +8251,11 @@ SKILL_DESCRIPT = {
 		"[LV 3] ^777777MATK 420%^000000",
 		"[LV 4] ^777777MATK 460%^000000",
 		"[LV 5] ^777777MATK 500%^000000",
-		"[РЈСЂ. 6] ^777777MATK 540%^000000",
-		"[РЈСЂ. 7] ^777777MATK 580%^000000",
-		"[РЈСЂ. 8] ^777777MATK 620%^000000",
-		"[РЈСЂ. 9] ^777777MATK 660%^000000",
-		"[РЈСЂ. 10] ^777777MATK 700%^000000"
+		"[РЈ?. 6] ^777777MATK 540%^000000",
+		"[РЈ?. 7] ^777777MATK 580%^000000",
+		"[РЈ?. 8] ^777777MATK 620%^000000",
+		"[РЈ?. 9] ^777777MATK 660%^000000",
+		"[РЈ?. 10] ^777777MATK 700%^000000"
 	},
 	[SKID.AB_ANCILLA] = {
 		"[Ancilla]",
@@ -13776,7 +13776,7 @@ SKILL_DESCRIPT = {
 		"Skill Form: ^777777Support / Toggle^000000",
 		"Description: ^777777Stance.^000000",
 		"^777777Lets you control the energy of the cosmos.^000000",
-		"^777777All skills, including the cosmic ones, can be used\r\nwhile the effect is active.\r\nAlso increases all your stats.^000000",
+		"^777777All skills except the Sunlight, Moonlight and\r\nStarlight skills can be used.\r\nAlso increases all your stats.^000000",
 		"[LV 1] ^777777All stats +3^000000",
 		"[LV 2] ^777777All stats +4^000000",
 		"[LV 3] ^777777All stats +5^000000"

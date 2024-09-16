@@ -362,6 +362,7 @@ tblLapineUpgradeBox = {
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
+				{ "S_Star_Emperor_Armor", 24412 },
 				{ "S_Star_Emperor_Shoes", 24413 },
 				{ "S_Soul_Reaper_Armor", 24414 },
 				{ "S_Soul_Reaper_Shoes", 24415 },
@@ -1303,28 +1304,6 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Armor of Sixtus or Chronocloak"
 		},
-		Cursed_Blood = {
-			ItemID = 23546,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Bloody_Knight_Shield_", 28945 }
-			},
-			NeedSource_String = "Bloody Knight's Shield"
-		},
-		Gold_Statue = {
-			ItemID = 23547,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Bloody_Knight_Shield__", 28946 }
-			},
-			NeedSource_String = "Sun Knight's Shield"
-		},
 		Great_Hero_Bravery = {
 			ItemID = 100412,
 			NeedRefineMin = 0,
@@ -1461,8 +1440,6 @@ tblLapineUpgradeBox = {
 			RandomOptionCode = "",
 			FailureItems = {}
 		},
-		Cursed_Blood = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "BKS", FailureItems = {} },
-		Gold_Statue = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "SKS", FailureItems = {} },
 		Great_Hero_Bravery = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "GHB", FailureItems = {} },
 		Great_Hero_Wisdom = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "GHW", FailureItems = {} }
 	},
