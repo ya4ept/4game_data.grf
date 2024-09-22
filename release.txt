@@ -1,3 +1,27 @@
+18.09.2024 11:01
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Dragon God Treasure arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Transmutator Packs arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The "X Marks the Spot" event has begun.
+
+Finished activities:
+— The Chronosets & Fallen Angel Wings Sets left the launcher.
+— The Profession item packs left the launcher.
+— The Special Packs for Genetic left the launcher.
+— The "Gold Rush (Geffen)" event has come to an end.
+
+Changes:
+— NPC Inhelda now trades All-Sun Book and Spirit Pendulum items.
+— Fixed the work of the NPC Illusion Stone Collector when receiving the Illusion Survivor's Staff item
+
+https://eu.4gameforum.com/threads/694873/
+
+================
 11.09.2024 11:02
 Ragnarok Online Prime EU
 

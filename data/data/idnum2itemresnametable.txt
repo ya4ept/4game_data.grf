@@ -5687,7 +5687,7 @@
 19101#카프라이용권box#
 19102#신비한염색약box#
 19103#퀴즈참가권box#
-19104#카프라이용권box#
+19104#황룡의하늘날개#
 19105#카프라이용권box#
 19106#written_oath_of_marriagebox#
 19107#축오리box#
@@ -12157,3 +12157,5 @@
 31631#Drooping_Schmidt#
 31632#Drooping_Oscar#
 31633#Drooping_Heinrich#
+
+103530#군용지수#

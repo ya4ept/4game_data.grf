@@ -28311,7 +28311,7 @@ Jobs: ^777777All^000000
 A hat that happens
 to match the Super
 Novice costume...
-Absolutely perfectly.
+Absolutely perfect.
 All Stats +1.
 Class : ^777777Headgear^000000
 Defense: ^7777778^000000
@@ -28399,7 +28399,7 @@ Jobs: ^777777All^000000
 A hat that happens
 to match the Super
 Novice costume...
-Absolutely perfectly.
+Absolutely perfect.
 All Stats +1.
 Class : ^777777Headgear^000000
 Defense: ^7777778^000000
