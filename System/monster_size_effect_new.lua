@@ -1365,8 +1365,17 @@ tbl = {
 	[20652] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20653] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20661] = { MonsterSize = 0.8, MonsterEff = { EFFECT.EF_GREEN99_6 } },
+	[20426] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_TORCH_PURPLE } },
+	[20386] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_SPHEREWIND2 } },
+	[20387] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_SPHEREWIND2 } },
+	[20389] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_REDBODY } },
+	[20391] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_REDBODY } },
+	[20392] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_REFLECTBODY } },
+	[20393] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_REFLECTBODY } },
+	[20394] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_REFLECTBODY } },
 	[20662] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
 	[20663] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_REDLIGHTBODY } },
+	[20351] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BOTTOM_BLOODYLUST } },
 	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE }
 }
 

@@ -452,6 +452,7 @@ tblLapineUpgradeBox = {
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
+				{ "S_Star_Emperor_Armor", 24412 },
 				{ "S_Star_Emperor_Shoes", 24413 },
 				{ "S_Soul_Reaper_Armor", 24414 },
 				{ "S_Soul_Reaper_Shoes", 24415 },
