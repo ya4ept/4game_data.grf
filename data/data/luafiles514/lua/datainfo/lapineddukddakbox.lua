@@ -8,7 +8,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Bloody_Knight_Shield_", 1, 28945 }
 			},
-			NeedSource_String = "  "
+			NeedSource_String = "Bloody Knight's Shield"
 		},
 		Gold_Statue = {
 			ItemID = 23547,
@@ -18,7 +18,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Bloody_Knight_Shield__", 1, 28946 }
 			},
-			NeedSource_String = "  "
+			NeedSource_String = "Sun Knight's Shield"
 		},
 		StatusShadow_Mix = {
 			ItemID = 23247,
@@ -49,7 +49,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Bloody_Knight_Shield", 1, 28942 }
 			},
-			NeedSource_String = "Moon Knight's Shield"
+			NeedSource_String = "АъБЦ№ЮАє_±в»зАЗ_№жЖР"
 		},
 		Remodel_Hero_Boots = {
 			ItemID = 100273,

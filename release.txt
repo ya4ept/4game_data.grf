@@ -1,3 +1,29 @@
+02.10.2024 11:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog: 
+
+Events and Shop:
+— The Refine Hats Sets arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The "Shaken, not stirred (Morroc)" event has begun.
+— The "Boosted Refinement Rates" event has begun.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Shadow Packs left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+— The Special Packs for Sura left the launcher.
+— The "X Marks the Spot" event has come to an end.
+
+Changes:
+— Fixed the functioning of the Celestial Blood and Golden Angel items
+
+Known issues:
+— For some cubes (Refine Cubes, Mod. Cubes), the localisation may display incorrect characters instead of the required items.
+
+https://eu.4gameforum.com/threads/694916/
+
+================
 18.09.2024 11:01
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:

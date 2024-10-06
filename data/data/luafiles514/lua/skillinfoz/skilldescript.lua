@@ -135,22 +135,6 @@ SKILL_DESCRIPT = {
 		"[LV 9] ^7777779 attacks / Consumes 69 SP^000000",
 		"[LV 10] ^77777710 attacks / Consumes 74 SP^000000"
 	},
-	[SKID.HT_LANDMINE] = {
-		"Land Mine",
-		"Max LV: 5",
-		"Type: ^993300Active^000000",
-		"Skill Form: ^777777Installation^000000",
-		"Target: ^7777771 cell on ground^000000",
-		"Description: ^777777Sets a trap that explodes when an enemy steps on the 3x3 cells area in the place of installation inflicting special Earth property damage.",
-		"Requires 1 Trap. Damage increases depending on the skill level, the character's Base Level, DEX and INT.",
-		"If the trap is not triggered, it gets uninstalled and returned to the inventory after the skill duration expires.^000000",
-		"^ffffff_^000000",
-		"[LV 1] ^777777Duration 200 sec.^000000",
-		"[LV 2] ^777777Duration 160 sec.^000000",
-		"[LV 3] ^777777Duration 120 sec.^000000",
-		"[LV 4] ^777777Duration 80 sec.^000000",
-		"[LV 5] ^777777Duration 40 sec.^000000"
-	},
 	[SKID.LK_AURABLADE] = {
 		"Aura Blade",
 		"Max LV: 5",
@@ -1164,11 +1148,9 @@ SKILL_DESCRIPT = {
 		"Max Level: 5",
 		"Skill Form: ^777777Blessing^000000",
 		"Target: ^777777Self^000000",
-		"Range: ^7777779 cells",
-		"around the caster^000000",
+		"Range: ^7777779 cells around the caster^000000",
 		"Description: ^777777Bless a caster and every Party",
-		"Member increasing the weapon and magic damage for",
-		"120 seconds.^000000",
+		"Member increasing the weapon and magic\r\ndamage for 120 seconds.^000000",
 		"[Lv 1]: ^77777759sp, Atk/Matk +5^000000",
 		"[Lv 2]: ^77777762sp, Atk/Matk +10^000000",
 		"[Lv 3]: ^77777765sp, Atk/Matk +15^000000",
@@ -1464,7 +1446,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Summon meteors towards a",
 		"targeted area (13x13) to inflict area damage upon",
 		"enemies. Meteors deal 125% fire magic damage",
-		"and have a chance to inflict Stun effect on enemies.^000000",
+		"and have a chance to inflict Stun effect on\r\nenemies.^000000",
 		"[Lv. 1] ^77777720 SP, 1 Hit, 2 Meteors, 3% Stun Chance^000000",
 		"[Lv. 2] ^77777724 SP, 1 Hit, 3 Meteors, 6% Stun Chance^000000",
 		"[Lv. 3] ^77777730 SP, 2 Hits, 3 Meteors, 9% Stun Chance^000000",
@@ -1474,7 +1456,7 @@ SKILL_DESCRIPT = {
 		"[Lv. 7] ^77777750 SP, 4 Hits, 5 Meteors, 21% Stun Chance^000000",
 		"[Lv. 8] ^77777754 SP, 4 Hits, 6 Meteors, 24% Stun Chance^000000",
 		"[Lv. 9] ^77777760 SP, 5 Hits, 6 Meteors, 27% Stun Chance^000000",
-		"[Lv. 10] ^77777764 SP, 5 Hits, 7 Meteors, 30% Stun Chance^000000"
+		"[Lv. 10] ^77777764 SP, 5 Hits, 7 Meteors, 30% Stun\r\nChance^000000"
 	},
 	[SKID.WZ_JUPITEL] = {
 		"[Jupitel Thunder]",
@@ -1589,7 +1571,7 @@ SKILL_DESCRIPT = {
 		"Target: ^777777Ground^000000",
 		"Description: ^777777Summon a blizzard on a targeted",
 		"spot to damage enemies within the area (11x11).",
-		"Also has a chance of inflicting the Frozen status to enemies.",
+		"Also has a chance of inflicting the Frozen status\r\nto enemies.",
 		"Consumes 78 SP regardless of the skill level.^000000",
 		"[Lv. 1] ^777777120% Atk, 60% Chance to Freeze^000000",
 		"[Lv. 2] ^777777170% Atk, 55% Chance to Freeze^000000",
@@ -1611,8 +1593,8 @@ SKILL_DESCRIPT = {
 		"Property: ^00bb00Earth^000000",
 		"Target: ^777777Enemy^000000 ",
 		"Description: ^777777Command the ground beneath",
-		"a targeted enemy to rise into spikes. Spikes deal 200%",
-		"earth magic damage^000000",
+		"a targeted enemy to rise into spikes. Spikes",
+		"deal 200% earth magic damage.^000000",
 		"[Lv. 1] ^77777712 SP, 1 Hit^000000",
 		"[Lv. 2] ^77777714 SP, 2 Hits^000000",
 		"[Lv. 3] ^77777716 SP, 3 Hits^000000",
@@ -1627,8 +1609,7 @@ SKILL_DESCRIPT = {
 		"Property: ^00BB00Earth^000000",
 		"Target: ^777777Ground^000000",
 		"Description: ^777777Command the ground in a targeted",
-		"area to rise into spikes in order to deal 125% earth damage",
-		"to enemies within its range.^000000",
+		"area to rise into spikes in order to deal 125%\r\nearth damage to enemies within its range.^000000",
 		"[Lv. 1] ^77777728 SP, 1 Hit^000000",
 		"[Lv. 2] ^77777732 SP, 2 Hits^000000",
 		"[Lv. 3] ^77777736 SP, 3 Hits^000000",
@@ -2582,8 +2563,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Usable only while in the ^00BB00Hiding^777777",
 		"status. Cancels Hiding once used. Has a",
 		"chance of stunning and blinding targets",
-		"within the skill's range. Targets start getting 30% increased damage",
-		"for 10 sec, after they are hit by [Sightless Mind], bosses ??15%.",
+		"within the skill's range. Targets start getting 30%\r\nincreased damage for 10 sec, after they are hit by\r\n[Sightless Mind], bosses 15%.",
 		"Consumes 15 SP regardless of the skill level.^000000",
 		"[Lv 1]: ^77777713% Stun/Blind Chance, 200% Atk^000000",
 		"[Lv 2]: ^77777716% Stun/Blind Chance, 350% Atk^000000",
@@ -3045,7 +3025,17 @@ SKILL_DESCRIPT = {
 		"Max Level: 10",
 		"Skill Form: ^000099Passive^000000",
 		"Description: ^777777Increase Max HP and resistance",
-		"against the Holy property.^000000"
+		"against the Holy property.^000000",
+		"^000000[Lv 1] ^999999MaxHP + 200, Resistance to Holy\r\nproperty: + 5%",
+		"^000000[Lv 2] ^999999MaxHP + 400, Resistance to Holy\r\nproperty: +10%",
+		"^000000[Lv 3] ^999999MaxHP + 600, Resistance to Holy\r\nproperty: +15%",
+		"^000000[Lv 4] ^999999MaxHP + 800, Resistance to Holy\r\nproperty: +20%",
+		"^000000[Lv 5] ^999999MaxHP +1000, Resistance to Holy\r\nproperty: +25%",
+		"^000000[Lv 6] ^999999MaxHP +1200, Resistance to Holy\r\nproperty: +30%",
+		"^000000[Lv 7] ^999999MaxHP +1400, Resistance to Holy\r\nproperty: +35%",
+		"^000000[Lv 8] ^999999MaxHP +1600, Resistance to Holy\r\nproperty: +40%",
+		"^000000[Lv 9] ^999999MaxHP +1800, Resistance to Holy\r\nproperty: +45%",
+		"^000000[Lv10] ^999999MaxHP +2000, Resistance to Holy\r\nproperty: +50%"
 	},
 	[SKID.CR_AUTOGUARD] = {
 		"[Guard]",
@@ -4503,7 +4493,7 @@ SKILL_DESCRIPT = {
 	[SKID.HW_MAGICCRASHER] = {
 		"[Stave Crasher]",
 		"Max Level: 1",
-		"^777777Skill Requirement: Improved SP Recovery 1^000000",
+		"^777777Skill Requirement: Increase SP Recovery 1^000000",
 		"Skill Form: ^777777Active^000000",
 		"Description: ^777777Inflict Neutral property damage",
 		"that is equal to the Magic Attack Power (Matk)",
@@ -4961,8 +4951,7 @@ SKILL_DESCRIPT = {
 		"Max Level: 1",
 		"^777777Skill Requirement: Fury 5^000000",
 		"Skill Form: ^777777Supportive^000000",
-		"Description: ^777777Summon 5 Spirit Spheres at one time.",
-		"2,5 sec. cast time.^000000"
+		"^000000Description: ^999999Summon 5 Spirit Spheres at one\r\ntime.\n2,5 sec. cast time."
 	},
 	[SKID.PF_MINDBREAKER] = {
 		"[Mind Breaker]",
@@ -8251,11 +8240,11 @@ SKILL_DESCRIPT = {
 		"[LV 3] ^777777MATK 420%^000000",
 		"[LV 4] ^777777MATK 460%^000000",
 		"[LV 5] ^777777MATK 500%^000000",
-		"[РЈ?. 6] ^777777MATK 540%^000000",
-		"[РЈ?. 7] ^777777MATK 580%^000000",
-		"[РЈ?. 8] ^777777MATK 620%^000000",
-		"[РЈ?. 9] ^777777MATK 660%^000000",
-		"[РЈ?. 10] ^777777MATK 700%^000000"
+		"[LV 6] ^777777MATK 540%^000000",
+		"[LV 7] ^777777MATK 580%^000000",
+		"[LV 8] ^777777MATK 620%^000000",
+		"[LV 9] ^777777MATK 660%^000000",
+		"[LV 10] ^777777MATK 700%^000000"
 	},
 	[SKID.AB_ANCILLA] = {
 		"[Ancilla]",
@@ -11916,6 +11905,22 @@ SKILL_DESCRIPT = {
 		"[Lv.4]: ^7777779 cells, 120 Sec^000000",
 		"[Lv.5]: ^77777710 cells, 60 Sec^000000"
 	},
+	[SKID.HT_LANDMINE] = {
+		"[Land Mine]",
+		"Max LV: 5",
+		"Type: ^993300Active^000000",
+		"Skill Form: ^777777Installation^000000",
+		"Target: ^7777771 cell on ground^000000",
+		"Description: ^777777Sets a trap that explodes when an\r\nenemy steps on the 3x3 cells area in the place of installation inflicting special Earth property\r\ndamage.",
+		"Requires 1 Trap. Damage increases depending on the skill level, the character's Base Level, DEX and INT.",
+		"If the trap is not triggered, it gets uninstalled and\r\nreturned to the inventory after the skill duration\r\nexpires.^000000",
+		"^ffffff_^000000",
+		"[LV 1] ^777777Duration 200 sec.^000000",
+		"[LV 2] ^777777Duration 160 sec.^000000",
+		"[LV 3] ^777777Duration 120 sec.^000000",
+		"[LV 4] ^777777Duration 80 sec.^000000",
+		"[LV 5] ^777777Duration 40 sec.^000000"
+	},
 	[SKID.MA_LANDMINE] = {
 		"[Land Mine]",
 		"Max Level: 5",
@@ -14240,7 +14245,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777You feel angel's power which is\r\nready to protect a fallen newbie.^000000",
 		"^777777It recovers party members' and your HP and SP\r\nwithin 15x15 range.^777777",
 		"^ffffff_^000000",
-		"Recovers 1000 HP and 350 SP, duration: 20 sec., cooldown: 300 sec."
+		"Recovers 1000 HP and 350 SP, duration: 20 sec.,\r\ncooldown: 300 sec."
 	},
 	[SKID.NV_TRANSCENDENCE] = {
 		"[Transcendence]",
