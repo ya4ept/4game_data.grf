@@ -1443,9 +1443,17 @@ SKILL_INFO_LIST = {
 			{ SKID.GS_GLITTERING, 5 }
 		}
 	},
+	[SKID.RK_LUXANIMA] = {
+		"RK_LUXANIMA",
+		SkillName = "Люкс Анима",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
 	[SKID.RK_REFRESH] = {
 		"RK_REFRESH",
-		SkillName = "Refresh",
+		SkillName = "Обновить",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -5239,7 +5247,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_CRUSHSTRIKE] = {
 		"RK_CRUSHSTRIKE",
-		SkillName = "Crushing Strike",
+		SkillName = "Сокрушительный удар",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -5255,7 +5263,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_VITALITYACTIVATION] = {
 		"RK_VITALITYACTIVATION",
-		SkillName = "Vitality",
+		SkillName = "Жизненная сила",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -5263,7 +5271,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_FIGHTINGSPIRIT] = {
 		"RK_FIGHTINGSPIRIT",
-		SkillName = "Determination",
+		SkillName = "Решительность",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -5732,6 +5740,33 @@ SKILL_INFO_LIST = {
 		SpAmount = { 3 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
+	},
+	[SKID.NV_BREAKTHROUGH] = {
+		"NV_BREAKTHROUGH",
+		SkillName = "Прорыв",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {}
+	},
+	[SKID.NV_HELPANGEL] = {
+		"NV_HELPANGEL",
+		SkillName = "Ангел, на помощь!",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 },
+		_NeedSkillList = {}
+	},
+	[SKID.NV_TRANSCENDENCE] = {
+		"NV_TRANSCENDENCE",
+		SkillName = "Трансцендентность",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {}
 	},
 	[SKID.NC_MAGNETICFIELD] = {
 		"NC_MAGNETICFIELD",
@@ -10114,7 +10149,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_ABUNDANCE] = {
 		"RK_ABUNDANCE",
-		SkillName = "Abundance",
+		SkillName = "Изобилие",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10158,7 +10193,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_STONEHARDSKIN] = {
 		"RK_STONEHARDSKIN",
-		SkillName = "Skin of Stone",
+		SkillName = "Каменная кожа",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10199,7 +10234,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_MILLENNIUMSHIELD] = {
 		"RK_MILLENNIUMSHIELD",
-		SkillName = "Millenium Shield",
+		SkillName = "Щит Тысячелетия",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
