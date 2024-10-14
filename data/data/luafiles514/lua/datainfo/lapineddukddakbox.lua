@@ -49,7 +49,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Bloody_Knight_Shield", 1, 28942 }
 			},
-			NeedSource_String = "АъБЦ№ЮАє_±в»зАЗ_№жЖР"
+			NeedSource_String = "Moon Knight's Shield"
 		},
 		Remodel_Hero_Boots = {
 			ItemID = 100273,
@@ -59,7 +59,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Ancient_Hero_Boots", 1, 22171 }
 			},
-			NeedSource_String = "°нґл їµїхАЗ єОГч"
+			NeedSource_String = "Ancient Hero Boots"
 		},
 		Oriental_Sword_Cube = {
 			ItemID = 100274,
@@ -69,7 +69,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Oriental_Sword", 1, 21038 }
 			},
-			NeedSource_String = "µї№жАЗ єё°Л"
+			NeedSource_String = "Runic Katana"
 		},
 		Dragonic_Slayer_Cube = {
 			ItemID = 100275,
@@ -79,7 +79,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Dragonic_Slayer", 1, 600004 }
 			},
-			NeedSource_String = "µе·Ў°нґР ЅЅ·№АМѕо"
+			NeedSource_String = "Dragon Slayer"
 		},
 		Shiver_Katar_K_Cube = {
 			ItemID = 100276,
@@ -89,7 +89,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Shiver_Katar_K", 1, 28039 }
 			},
-			NeedSource_String = "АьАІАЗ Д«ЕёёЈ"
+			NeedSource_String = "Hand of Death"
 		},
 		Blade_Katar_Cube = {
 			ItemID = 100277,
@@ -99,7 +99,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Blade_Katar", 1, 610003 }
 			},
-			NeedSource_String = "єн·№АМµе Д«ЕёёЈ"
+			NeedSource_String = "Steel Flower"
 		},
 		Sword_Of_Bluefire_Cube = {
 			ItemID = 100327,
@@ -109,7 +109,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Sword_Of_Bluefire", 1, 13485 }
 			},
-			NeedSource_String = "И«·ГАЗ °Л"
+			NeedSource_String = "Sword of Blue Fire"
 		},
 		Slate_Sword_Cube = {
 			ItemID = 100328,
@@ -119,7 +119,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Slate_Sword", 1, 500004 }
 			},
-			NeedSource_String = "ЅЅ·№АМЖ® јТµе"
+			NeedSource_String = "Slate Sword"
 		},
 		Narcis_Bow_Cube = {
 			ItemID = 100329,
@@ -129,7 +129,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Narcis_Bow", 1, 18170 }
 			},
-			NeedSource_String = "іЄёЈЅГЅє єёїм"
+			NeedSource_String = "Bow of Narcissus"
 		},
 		Trumpet_Shell_K_Cube = {
 			ItemID = 100330,
@@ -139,7 +139,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Trumpet_Shell_K", 1, 570002 }
 			},
-			NeedSource_String = "јТ¶у°нµХ іЄЖИ"
+			NeedSource_String = "Tide Conch"
 		},
 		Barb_Wire_K_Cube = {
 			ItemID = 100331,
@@ -149,7 +149,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Barb_Wire_K", 1, 580002 }
 			},
-			NeedSource_String = "°ЎЅГГ¶»з Г¤Вп"
+			NeedSource_String = "Thorn Whip"
 		},
 		Avenger_Cube = {
 			ItemID = 100360,
@@ -159,7 +159,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Avenger", 1, 28130 }
 			},
-			NeedSource_String = "є№јцАЪ"
+			NeedSource_String = "Avenger"
 		},
 		Meteor_Striker_Cube = {
 			ItemID = 100361,
@@ -169,7 +169,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Meteor_Striker", 1, 590002 }
 			},
-			NeedSource_String = "ёЮЕЧїА ЅєЖ®¶уАМДї"
+			NeedSource_String = "Big Badaboom"
 		},
 		Magic_Sword_Cube = {
 			ItemID = 100362,
@@ -179,7 +179,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Magic_Sword", 1, 28744 }
 			},
-			NeedSource_String = "ё¶µµ°Л"
+			NeedSource_String = "Winged Sword"
 		},
 		Fatalist_Cube = {
 			ItemID = 100363,
@@ -189,7 +189,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Fatalist", 1, 510006 }
 			},
-			NeedSource_String = "ЖдАМЕ»ё®ЅєЖ®"
+			NeedSource_String = "Fatebringer"
 		},
 		Royal_Bow_K_Cube = {
 			ItemID = 100376,
@@ -199,7 +199,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Royal_Bow_K", 1, 18164 }
 			},
-			NeedSource_String = "їХ°ЎАЗ И°"
+			NeedSource_String = "Empyrean"
 		},
 		Scalet_Dragon_L_Cube = {
 			ItemID = 100377,
@@ -209,7 +209,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Scalet_Dragon_L_Bow", 1, 700003 }
 			},
-			NeedSource_String = "ЅєД®·ї µе·Ў°п ·№ґхєёїм"
+			NeedSource_String = "Scarlet Dragon's Bow"
 		},
 		Shadow_Staff_K_Cube = {
 			ItemID = 100378,
@@ -219,7 +219,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Shadow_Staff_K", 1, 26118 }
 			},
-			NeedSource_String = "Ѕ¦µµїм ЅєЕВЗБ"
+			NeedSource_String = "Shadow Eater"
 		},
 		Freezing_Rod_Cube = {
 			ItemID = 100379,
@@ -229,7 +229,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Freezing_Rod", 1, 550007 }
 			},
-			NeedSource_String = "іГ±вАЗ БцЖОАМ"
+			NeedSource_String = "Ice Guardian"
 		},
 		Iron_Nail_K_Cube = {
 			ItemID = 100388,
@@ -239,7 +239,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Iron_Nail_K", 1, 1847 }
 			},
-			NeedSource_String = "ѕЖАМѕр іЧАП"
+			NeedSource_String = "Iron Claw"
 		},
 		Ray_Knuckle_Cube = {
 			ItemID = 100390,
@@ -249,7 +249,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Ray_Knuckle", 1, 560002 }
 			},
-			NeedSource_String = "·№АМ іКЕ¬"
+			NeedSource_String = "Claws of the Bifrost"
 		},
 		Undine_Spear_K_Cube = {
 			ItemID = 100393,
@@ -259,7 +259,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Undine_Spear_K", 1, 32018 }
 			},
-			NeedSource_String = "ѕЖДнѕЖЖЅ ЅєЗЗѕо"
+			NeedSource_String = "Trident of Undine"
 		},
 		Light_Blade_Cube = {
 			ItemID = 100394,
@@ -269,7 +269,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Light_Blade", 1, 500003 }
 			},
-			NeedSource_String = "¶уАМЖ® єн·№АМµе"
+			NeedSource_String = "Blade of Light"
 		},
 		Iron_Staff_Cube = {
 			ItemID = 100395,
@@ -279,7 +279,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Iron_Staff", 1, 2048 }
 			},
-			NeedSource_String = "ѕЖАМѕр ЅєЕВЗБ"
+			NeedSource_String = "Rusty Dragon's Wand"
 		},
 		Blue_Crystal_Staff_Cube = {
 			ItemID = 100396,
@@ -289,7 +289,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Blue_Crystal_Staff", 1, 640004 }
 			},
-			NeedSource_String = "єн·з Е©ё®ЅєЕ» ЅєЕВЗБ"
+			NeedSource_String = "Wand of the Purple Orb"
 		},
 		Demon_Hunt_Bible_Cube = {
 			ItemID = 100397,
@@ -299,7 +299,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Demon_Hunting_Bible_K", 1, 28630 }
 			},
-			NeedSource_String = "Ерё¶АЗ јєј­"
+			NeedSource_String = "All-Holy Book"
 		},
 		Saint_Hall_Cube = {
 			ItemID = 100398,
@@ -309,7 +309,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Saint_Hall", 1, 590003 }
 			},
-			NeedSource_String = "јјАОЖ® И¦"
+			NeedSource_String = "Mace of the Righteous"
 		},
 		MeawFoxtail_Cube = {
 			ItemID = 100399,
@@ -319,7 +319,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "MeawFoxtail", 1, 26155 }
 			},
-			NeedSource_String = "іЙіЙ °­ѕЖБцЗ®"
+			NeedSource_String = "Meowmeow Foxtail"
 		},
 		Fog_Dew_Sword_Cube = {
 			ItemID = 100400,
@@ -329,7 +329,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Fog_Dew_Sword", 1, 28764 }
 			},
-			NeedSource_String = "Е°ё®ілГчАЇ"
+			NeedSource_String = "Morning Dew Sword"
 		},
 		Humma_Clear_Cube = {
 			ItemID = 100401,
@@ -339,7 +339,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Humma_Clear", 1, 13345 }
 			},
-			NeedSource_String = "Зіё¶јцё®°Л Г»ён"
+			NeedSource_String = "Four Mirrors"
 		},
 		Crimson_Rose_Cube = {
 			ItemID = 100404,
@@ -349,7 +349,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Crimson_Rose", 1, 32302 }
 			},
-			NeedSource_String = "Е©ёІЅј ·ОБо"
+			NeedSource_String = "Crimson Rose"
 		},
 		Master_Soul_Rifle_Cube = {
 			ItemID = 100405,
@@ -359,7 +359,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Master_Soul_Rifle", 1, 28255 }
 			},
-			NeedSource_String = "ё¶ЅєЕН јТїп ¶уАМЗГ"
+			NeedSource_String = "Master of Souls"
 		},
 		Golden_L_Launcher_Cube = {
 			ItemID = 100406,
@@ -369,7 +369,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Golden_L_Launcher", 1, 28257 }
 			},
-			NeedSource_String = "°сµз ·Оµе ·±Гі"
+			NeedSource_String = "Big Game Trophy"
 		},
 		The_Black_Gatling_Cube = {
 			ItemID = 100407,
@@ -379,7 +379,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "The_Black_Gatling", 1, 28258 }
 			},
-			NeedSource_String = "ґх єн·ў"
+			NeedSource_String = "Guttling Gun"
 		},
 		Demon_S_Shot_Cube = {
 			ItemID = 100408,
@@ -389,7 +389,7 @@ tblLapineDdukddakBox = {
 			SourceItems = {
 				{ "Demon_S_Shot", 1, 28256 }
 			},
-			NeedSource_String = "µҐёу ЅЅ·№АМѕо ј¦"
+			NeedSource_String = "Demon's Shot"
 		}
 	},
 	results = {
