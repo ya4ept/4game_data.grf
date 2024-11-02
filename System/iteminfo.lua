@@ -192910,18 +192910,15 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Дё",
 		unidentifiedDescriptionName = {
-			"A hat made to resemble a little dead deviling which has charming side-spreaded eyes.",
-			"Class: ^777777Headgear^000000 Defense: ^7777770^000000",
-			"Location: ^777777Upper ^000000Weight: ^7777770^000000",
-			"Required LV: ^7777771^000000",
-			"Job: ^777777all jobs^000000"
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Costume Deviling Hat",
 		identifiedResourceName = "µҐєфёµёрАЪ",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"A hat made to resemble a little dead deviling which has charming side-spreaded eyes.",
-			"Class: ^777777Headgear^000000 Defense: ^7777770^000000",
-			"Location: ^777777Upper ^000000Weight: ^7777770^000000",
+			"Class: ^777777Costume^000000\r\nDefense: ^7777770^000000",
+			"Location: ^777777Upper ^000000\r\nWeight: ^7777770^000000",
 			"Required LV: ^7777771^000000",
 			"Job: ^777777All^000000"
 		},
@@ -235175,10 +235172,11 @@ tbl = {
 		identifiedDisplayName = "Costume Diabolic Lapel",
 		identifiedResourceName = "Diabolic_Lapel",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"A lapel said to have be worn by Satan Morroc.",
 			"Class: ^808080Costume^000000",
 			"Position: ^808080Lower^000000",
-			"Weight: ^8080801^000000",
+			"Weight: ^8080800^000000",
 			"Requires Level: ^8080801^000000",
 			"Usable By: ^808080All Jobs^000000"
 		},

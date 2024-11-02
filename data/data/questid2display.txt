@@ -25783,8 +25783,8 @@ A message of Priest Guild#
 
 
 12483#Subsequent confirmation#SG_FEEL#QUE_NOIMAGE#
-You talked to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth and informed her about the head of Priest Guild. You wanted to know what happens next. Follow Esmeralda at Prontera Cathedral.#
-Talk to Esmeralda#
+You talked to Esmeralda at Prontera Cathedral and informed her about the head of Priest Guild. You wanted to know what happens next. Follow Esmeralda at Prontera Cathedral.#
+Talk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.#
 
 
 12484#In search of an acolyte#SG_FEEL#QUE_NOIMAGE#
