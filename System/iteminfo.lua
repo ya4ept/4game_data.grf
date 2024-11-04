@@ -175182,15 +175182,16 @@ tbl = {
 		costume = true
 	},
 	[19727] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Deviling Hat",
+		identifiedDisplayName = "Шляпа Дьяволёнка (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"A hat made to resemble a little dead deviling which has charming side-spreaded eyes.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Шляпа, выполненная в виде маленького дьяволенка с очаровательными широко расставленными глазами.",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
@@ -217518,18 +217519,19 @@ tbl = {
 		costume = true
 	},
 	[31381] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Diabolic Lapel",
+		identifiedDisplayName = "Дьявольская манишка (Декор)",
 		identifiedResourceName = "Diabolic_Lapel",
 		identifiedDescriptionName = {
-			"A lapel said to have be worn by Satan Morroc.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Накладной воротник, некогда\r\nпринадлежавший Моррокскому Дьяволу.",
 			"Класс: ^777777Декор^000000",
-			"Расположение: ^777777Lower^000000",
-			"Вес: ^7777771^000000",
+			"Расположение: ^777777Рот^000000",
+			"Вес: ^7777770^000000",
 			"Требуемый уровень: ^7777771^000000",
 			"Квалификация: ^777777Все профессии^000000"
 		},
