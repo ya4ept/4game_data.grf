@@ -1,3 +1,28 @@
+07.11.2024 10:50
+Ragnarok Online Prime EU
+
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Shadow Packs arrived in launcher.
+— The Creation Treasure arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The Special Packs for Sorcerer arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The "Daily rewards" event has begun.
+
+Finished activities:
+— The Shadow Packs left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+— The Special Packs for Sura left the launcher.
+
+Changes:
+— An issue with the "Ancient Horns" and "Bloodsucker" items has been fixed. They can now be worn at level 1.
+— Fixed the work of the "Stone of Hero's Valor" item. It can now be placed in Kafra Storage
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/694985/
+
+================
 31.10.2024 11:00
 Ragnarok Online Prime EU
 
