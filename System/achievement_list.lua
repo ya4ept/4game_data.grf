@@ -3018,21 +3018,18 @@ achievement_tbl = {
 		score = 50
 	},
 	[129021] = {
-		UI_Type = 0,
-		group = "GOAL_LEVEL",
-		major = 1,
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
 		minor = 0,
-		title = "Жизненные цели ",
+		title = "Гластхейм - режим испытания",
 		content = {
-			summary = "Раскройте свой потенциал.",
-			details = "Получите Базовый 99 и Профессиональный 70 уровни."
+			summary = "Пройдите Гластхейм - режим испытания",
+			details = "Пройдите подземелье Мемориал до конца"
 		},
-		resource = {
-			[1] = { text = "Профессиональный уровень: 70 ", shortcut = 200004 },
-			[2] = { text = "Базовый уровень: 99 ", shortcut = 200000 }
-		},
-		reward = { item = 616 },
-		score = 50
+		resource = { [1] = { text = "Успешных прохождений:", count = 100 } },
+		reward = { title = 1045 },
+		score = 10
 	},
 	[200005] = {
 		UI_Type = 0,

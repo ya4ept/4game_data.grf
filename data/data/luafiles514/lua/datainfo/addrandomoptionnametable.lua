@@ -34,6 +34,7 @@ NameTable_VAR = {
 	[EnumVAR.ATTR_TOLERACE_TELEKINESIS[1]] = "Защита от элем. Призрак +%d%%.",
 	[EnumVAR.ATTR_TOLERACE_UNDEAD[1]] = "Защита от элем. Нежить +%d%%.",
 	[EnumVAR.ATTR_TOLERACE_ALL[1]] = "Защита от всех элементов +%d%%.",
+	[EnumVAR.ATTR_TOLERACE_ALLBUTNOTHING[1]] = "Защита от всех элементальных атак +%d%%.",
 	[EnumVAR.DAMAGE_PROPERTY_NOTHING_USER[1]] = "Физ. защита от монстров элем. Нейтральный +%d%%.",
 	[EnumVAR.DAMAGE_PROPERTY_NOTHING_TARGET[1]] = "Физ. урон по монстрам элем. Нейтральный +%d%%.",
 	[EnumVAR.DAMAGE_PROPERTY_WATER_USER[1]] = "Физ. защита от монстров элем. Вода +%d%%.",

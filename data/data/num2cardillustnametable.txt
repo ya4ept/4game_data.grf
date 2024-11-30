@@ -932,3 +932,12 @@
 27288#노동형핏맨카드#
 27289#영혼의파편카드#
 27290#사념이깃든옵시디언카드#
+//고성 도전모드
+27381#C_Himel_Card#
+27382#C_CorruptionRoot_Card#
+27383#C_Amdarais_Card#
+27384#C_White_Knight_Card#
+27385#C_Khaliz_Knight_Card#
+27386#C_Raydric_Card#
+27387#C_Raydric_Archer_Card#
+27388#C_Cursed_Butler#

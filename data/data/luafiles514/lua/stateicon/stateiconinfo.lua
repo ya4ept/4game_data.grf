@@ -41,10 +41,10 @@ StateIconList[EFST_IDs.EFST_BEYOND_OF_WARCRY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Боевой клич", COLOR_TITLE_BUFF },
+		{ "[Боевой клич]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Сила физической атаки повышена." },
-		{ "Сила магической атаки уменьшена." }
+		{ "Уменьшает макс. НР." },
+		{ "Уменьшает Силу." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWORDREJECT] = {
@@ -195,23 +195,19 @@ StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Элегия", COLOR_TITLE_BUFF },
+		{ "[Элегия]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Повышен урон умений" },
-		{ "[Взмах копьем], [Спираль], [Отталкивание щитом]," },
-		{ "[Щит-бумеранг], [Цепь щитов], [Давление щитом]." },
-		{ "Уклонение и скорость атаки понижены." }
+		{ "Увеличивает фиксированное время применения всех умений и затрату SP." },
+		{ "Уменьшает уворот и скорость атаки." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SIRCLEOFNATURE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Круг жизни", COLOR_TITLE_BUFF },
+		{ "[Круг жизни]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{
-			"Каждую секунду тратится некоторое количество SP, при этом HP восстанавливаются."
-		}
+		{ "Увеличивает базовое восстановление НР." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEADLYINFECT] = {
@@ -846,9 +842,9 @@ StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Песнь Вдохновения", COLOR_TITLE_BUFF },
+		{ "[Песнь вдохновения]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Восстанавливает по 10 SP каждые 5 сек." }
+		{ "Увеличивает объем базового восстановления SP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAAHI] = {
@@ -962,8 +958,9 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 	descript = {
 		{ "Безумие", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Непрестанно теряет HP и SP." },
-		{ "Увеличивает силу атаки, уменьшает защиту и уклонение." }
+		{ "Поглощает HP и SP каждые 3 сек." },
+		{ "Уменьшает точность и уворот." },
+		{ "Использовать предметы невозможно." }
 	}
 }
 StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
@@ -1105,10 +1102,13 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Прикосновение Энергии", COLOR_TITLE_BUFF },
+		{ "[Прикосновение энергии]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Позволяет с некоторой вероятностью получить энергетическую сферу" },
-		{ "после нанесения или получения урона." }
+		{ "При физ. атаке в ближнем бою или при получении урона" },
+		{ "создает энергетическую сферу." },
+		{
+			"Увеличивает урон от умений [Финальный удар], [Цепное разрушение], [Удар Тигра]."
+		}
 	}
 }
 StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
@@ -1393,10 +1393,10 @@ StateIconList[EFST_IDs.EFST_MELODYOFSINK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Мелодия Забвения", COLOR_TITLE_BUFF },
+		{ "[Мелодия забвения]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает силу магической атаки." },
-		{ "Снижает силу физической атаки." }
+		{ "Расходует SP." },
+		{ "Уменьшает интеллект." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRUCIS] = {
@@ -1595,10 +1595,9 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Бесконечный Напев", COLOR_TITLE_BUFF },
+		{ "[Бесконечный напев]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Позволяет защитить умения / заклинания всех объектов," },
-		{ "находящихся в радиусе действия умения, от прерывания." }
+		{ "Увеличивает маг. урон элементами." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
@@ -1622,11 +1621,12 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Прикосновение Стойкости", COLOR_TITLE_BUFF },
+		{ "[Прикосновение стойкости]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Повышает Выносливость и Max. HP." },
-		{ "Повышает физическую защиту." },
-		{ "ускоряет восстанавление HP." }
+		{ "Увеличивает макс. HP и физ. защиту." },
+		{ "Увеличивает базовую скорость восстановления НР." },
+		{ "Восстанавливает НР во время движения и атаки." },
+		{ "Увеличивает урон от умений [Когти тигра], [Врата ада]." }
 	}
 }
 StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
@@ -1649,9 +1649,10 @@ StateIconList[EFST_IDs.EFST_RUSH_WINDMILL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Борьба с Ветряными Мельницами", COLOR_TITLE_BUFF },
+		{ "[Борьба с ветряными мельницами]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает силу атаки." }
+		{ "Увеличивает силу атаки." },
+		{ "Увеличивает скорость передвижения." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PYREXIA] = {
@@ -1667,20 +1668,30 @@ StateIconList[EFST_IDs.EFST_DANCE_WITH_WUG] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Танец с Волками", COLOR_TITLE_BUFF },
+		{ "[Танец с волками]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Повышает скорость атаки" },
-		{ "Уменьшает время произнесения заклинаний." }
+		{ "Уменьшает фиксированное время применения всех умений." },
+		{ "Увеличивает урон на дальней дистанции." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWING] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Крещендо", COLOR_TITLE_BUFF },
+		{ "[Крещендо]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает скорость движения." },
-		{ "Повышает скорость атаки." }
+		{ "Увеличивает скорость передвижения." },
+		{ "Увеличивает скорость атаки." },
+		{ "Уменьшает фиксированное время применения всех умений." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Гимн разрушения]", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Весь урон увеличивается вдвое." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
@@ -1705,10 +1716,10 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Прикосновение Силы", COLOR_TITLE_BUFF },
+		{ "[Прикосновение силы]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Decrease VIT, MDEF" },
-		{ "Увеличивает силу и скорость атаки." }
+		{ "Увеличивает силу и скорость атаки." },
+		{ "Увеличивает урон от умений [Буйство энергии], [Летящий кулак]." }
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {

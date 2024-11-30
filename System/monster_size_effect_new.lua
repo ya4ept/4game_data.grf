@@ -1022,6 +1022,7 @@ EFFECT["EF_MIRESULT_MAKE_FAIL"] = 1018
 EFFECT["EF_ALL_RAY_OF_PROTECTION"] = 1019
 EFFECT["EF_VENOMFOG"] = 1020
 EFFECT["EF_DUSTSTORM"] = 1021
+EFFECT["EF_AMDARAIS_EFFECT"] = 1419
 tbl = {
 	[2603] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_LEVEL150_SUB } },
 	[2604] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_GREEN99_5 } },
@@ -1376,7 +1377,12 @@ tbl = {
 	[20662] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
 	[20663] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_REDLIGHTBODY } },
 	[20351] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BOTTOM_BLOODYLUST } },
-	[3634] = { MonsterSize = 2.5, MonsterEff = EFFECT.EF_NONE }
+	[3634] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_NONE } },
+	[20573] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_AMDARAIS_EFFECT } },
+	[20580] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[20813] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_AMDARAIS_EFFECT } },
+	[20846] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BOTTOM_EVILLAND } },
+	[20847] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_MAP_MAGICZONE } }
 }
 
 -- Function #0

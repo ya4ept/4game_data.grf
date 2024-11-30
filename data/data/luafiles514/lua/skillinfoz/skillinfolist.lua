@@ -4178,7 +4178,7 @@ SKILL_INFO_LIST = {
 		"SR_SKYNETBLOW",
 		SkillName = "Небесный вихрь",
 		MaxLv = 5,
-		SpAmount = { 8, 9, 10, 11, 12 },
+		SpAmount = { 12, 14, 16, 18, 20 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -4211,12 +4211,12 @@ SKILL_INFO_LIST = {
 		"SR_GATEOFHELL",
 		SkillName = "Врата ада",
 		MaxLv = 10,
-		SpAmount = { 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 },
+		SpAmount = { 100, 100, 100, 100, 100, 100, 100, 100, 100, 100 },
 		bSeperateLv = true,
-		AttackRange = { 1, 2, 3, 3, 4, 4, 5, 5, 6, 7 },
+		AttackRange = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.SR_TIGERCANNON, 5 },
-			{ SKID.SR_RAISINGDRAGON, 5 }
+			{ SKID.SR_RAMPAGEBLASTER, 1 }
 		}
 	},
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
@@ -4227,7 +4227,9 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
-			{ SKID.SR_GENTLETOUCH_CURE, 4 }
+			{ SKID.SR_GENTLETOUCH_QUIET, 1 },
+			{ SKID.SR_GENTLETOUCH_CURE, 1 },
+			{ SKID.SR_GENTLETOUCH_ENERGYGAIN, 3 }
 		}
 	},
 	[SKID.WA_SYMPHONY_OF_LOVER] = {
@@ -5915,12 +5917,11 @@ SKILL_INFO_LIST = {
 		"SR_EARTHSHAKER",
 		SkillName = "Дрожь земли",
 		MaxLv = 5,
-		SpAmount = { 20, 25, 30, 35, 40 },
+		SpAmount = { 36, 40, 44, 48, 52 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.SR_DRAGONCOMBO, 1 },
-			{ SKID.SR_CURSEDCIRCLE, 1 }
+			{ SKID.SR_DRAGONCOMBO, 3 }
 		}
 	},
 	[SKID.SM_AUTOBERSERK] = {
@@ -5940,8 +5941,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 7, 7, 8, 8, 9, 9, 10, 10, 11, 11 },
 		_NeedSkillList = {
-			{ SKID.SR_LIGHTNINGWALK, 3 },
-			{ SKID.SR_RAMPAGEBLASTER, 3 }
+			{ SKID.SR_LIGHTNINGWALK, 1 }
 		}
 	},
 	[SKID.SR_ASSIMILATEPOWER] = {
@@ -5963,9 +5963,7 @@ SKILL_INFO_LIST = {
 		SpAmount = { 20, 25, 30, 35, 40 },
 		bSeperateLv = true,
 		AttackRange = { 2, 2, 2, 2, 2 },
-		_NeedSkillList = {
-			{ SKID.SR_POWERVELOCITY, 1 }
-		}
+		_NeedSkillList = {}
 	},
 	[SKID.AC_MAKINGARROW] = {
 		"AC_MAKINGARROW",
@@ -7240,7 +7238,7 @@ SKILL_INFO_LIST = {
 		"SR_RIDEINLIGHTNING",
 		SkillName = "Ментальная молния",
 		MaxLv = 5,
-		SpAmount = { 40, 50, 60, 70, 80 },
+		SpAmount = { 22, 24, 26, 28, 30 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -7263,7 +7261,7 @@ SKILL_INFO_LIST = {
 		"SR_TIGERCANNON",
 		SkillName = "Когти тигра",
 		MaxLv = 10,
-		SpAmount = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 },
+		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -7379,7 +7377,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.SR_SKYNETBLOW, 1 }
+			{ SKID.SR_WINDMILL, 1 }
 		}
 	},
 	[SKID.GN_CARTBOOST] = {
@@ -7675,8 +7673,8 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.SR_RAMPAGEBLASTER, 3 },
-			{ SKID.SR_GENTLETOUCH_ENERGYGAIN, 3 }
+			{ SKID.MO_CALLSPIRITS, 5 },
+			{ SKID.SR_POWERVELOCITY, 1 }
 		}
 	},
 	[SKID.SR_POWERVELOCITY] = {
@@ -7933,7 +7931,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.SR_GENTLETOUCH_QUIET, 3 }
+			{ SKID.SR_GENTLETOUCH_CURE, 1 }
 		}
 	},
 	[SKID.MO_DODGE] = {
@@ -8549,7 +8547,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.SR_DRAGONCOMBO, 1 }
+			{ SKID.SR_DRAGONCOMBO, 3 }
 		}
 	},
 	[SKID.SA_CLASSCHANGE] = {
@@ -8587,7 +8585,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
-			{ SKID.SR_POWERVELOCITY, 1 }
+			{ SKID.SR_GENTLETOUCH_QUIET, 1 }
 		}
 	},
 	[SKID.SA_REVERSEORCISH] = {
@@ -8822,7 +8820,9 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
-			{ SKID.SR_GENTLETOUCH_CHANGE, 5 }
+			{ SKID.SR_GENTLETOUCH_QUIET, 1 },
+			{ SKID.SR_GENTLETOUCH_CURE, 1 },
+			{ SKID.SR_GENTLETOUCH_ENERGYGAIN, 3 }
 		}
 	},
 	[SKID.BD_LULLABY] = {
@@ -8918,8 +8918,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.MO_BLADESTOP, 2 },
-			{ SKID.SR_GENTLETOUCH_QUIET, 2 }
+			{ SKID.MO_BLADESTOP, 2 }
 		}
 	},
 	[SKID.BD_RINGNIBELUNGEN] = {
@@ -8964,7 +8963,7 @@ SKILL_INFO_LIST = {
 		"SR_RAMPAGEBLASTER",
 		SkillName = "Буйство энергии",
 		MaxLv = 5,
-		SpAmount = { 150, 150, 150, 150, 150 },
+		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -10943,7 +10942,7 @@ SKILL_INFO_LIST = {
 			{ SKID.SR_DRAGONCOMBO, 3 },
 			{ SKID.SR_FALLENEMPIRE, 3 },
 			{ SKID.SR_SKYNETBLOW, 1 },
-			{ SKID.SR_TIGERCANNON, 1 }
+			{ SKID.SR_TIGERCANNON, 5 }
 		}
 	},
 	[SKID.SC_ESCAPE] = {

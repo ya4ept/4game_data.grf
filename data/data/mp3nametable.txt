@@ -1179,3 +1179,6 @@ tur_d03_i.rsw#bgm\\65.mp3#
 tur_d04_i.rsw#bgm\\65.mp3#
 // 일루전 테디베어 나사리안 제국
 ein_d02_i.rsw#bgm\\88.mp3#
+// 글래스트 헤임 도전모드
+1@gl_he.rsw#bgm\\166.mp3#
+
