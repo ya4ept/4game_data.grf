@@ -1,6 +1,10 @@
 FrostInt - 2.1
 init(./Frost/gameShieldDll.dll)
 instance of shieldSecurityDll created
-LoadLibraryA(./Frost/gameShieldDll.dll) failed, err 1114
+LoadLibraryA(./Frost/gameShieldDll.dll) ok 
+frostInitialize:
+frostFinalize:
+frostSetUserName:
+frostSetUserNameW:
 setUserName()  
 finish() 

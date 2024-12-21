@@ -147337,51 +147337,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[15249] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Antonio's Coat",
-		identifiedResourceName = "Antonio_Coat",
-		identifiedDescriptionName = {
-			"A replica of the coat Antonio is wearing. Once worn, you feel like you could become the NEW Antonio.\n",
-			"Класс: ^777777Броня^000000",
-			"Защита: ^77777750^000000",
-			"Элемент: ^777777Нейтральный^000000",
-			"Вес: ^77777740^000000",
-			"Требуемый уровень: ^777777100^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Reduces the variable casting time of skills by 10%.",
-			"If upgrade level is +7 or higher,",
-			"Маг. защита + 5",
-			"Perfect Dodge + 1",
-			"This item is indestructible in battle.",
-			"If upgrade level is +8 or higher,",
-			"Additional Маг. защита + 10",
-			"Additional Perfect Dodge + 1",
-			"Reduces damage taken from Demi-Human race enemies by 7%.",
-			"If upgrade level is +9 or higher,",
-			"Additional Маг. защита + 15",
-			"Additional Perfect Dodge + 1",
-			"Reduces damage taken from ^0000FFCritical Slash^000000 by 100%.",
-			"^800080Set Bonus^000000",
-			"^008080Antonio Card^000000",
-			"^008080Antonio's Coat^000000",
-			"Def + 250",
-			"Reduces damage taken from Neutral, Water, Earth, Fire, Wind, Poison, Holy, Shadow, Ghost and Undead property attacks by 5%.",
-			"Enables ^0000FFLevel 1 Teleport^000000.",
-			"Disables the following effects of ^008080Antonio Card^000000: Adds a 50% chance of casting ^0000FFLevel 1 Teleport^000000 on the user when receiving a physical attack.",
-			"If upgrade level is +7 or higher,",
-			"Immune to ^800000Frozen^000000.",
-			"If upgrade level is +9 or higher,",
-			"Prevents the user from being knocked back."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[15283] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
@@ -174696,15 +174651,23 @@ tbl = {
 		costume = true
 	},
 	[19685] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Шапка",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Santa Poring Hat",
+		identifiedDisplayName = "Новогодняя шапка Санта-поринга",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"A cute hat made from a hopping Poring wearing a Santa's Hat.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"^ff0000Предмет анимирован.^000000",
+			"Симпатичная шапочка в виде прыгающего рождественского поринга.",
+			"",
+			"[Эффекты предмета будут активны до 21.01.2025]",
+			"+30% к опыту при убийстве монстров",
+			"+30% к шансу выпадения предметов",
+			"Физическая и магическая атака +5 за каждые 5 базовых уровней персонажа",
+			"",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
@@ -174712,7 +174675,7 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 0,
-		ClassNum = 961,
+		ClassNum = 2406,
 		costume = true
 	},
 	[19686] = {
@@ -181344,14 +181307,17 @@ tbl = {
 		costume = true
 	},
 	[20227] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Шапка",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
+			"^ff0000Привязано к учетной записи.^000000",
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Husky Hat",
+		identifiedDisplayName = "Шапка Хаски (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
+			"^ff0000Привязано к учетной записи.^000000",
+			"Уютная шапка, выполненная в виде милого хаски, которая мгновенно привлекает внимание и создает атмосферу веселья.",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
@@ -181467,26 +181433,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1311,
-		costume = true
-	},
-	[20235] = {
-		unidentifiedDisplayName = "Costume Headgear",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Costume Frozen Lands Rose",
-		identifiedResourceName = "????????",
-		identifiedDescriptionName = {
-			"A rose said to blossom only in a frozen land. It never melts down.",
-			"Класс: ^777777Декор^000000",
-			"Расположение: ^777777Lower^000000",
-			"Вес: ^7777770^000000",
-			"Требуемый уровень: ^7777771^000000",
-			"Квалификация: ^777777Все профессии^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1025,
 		costume = true
 	},
 	[20236] = {
@@ -181620,10 +181566,12 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Mint Chocolate Bonnet",
+		identifiedDisplayName = "Мятный шоколадный боннет (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"A mint chocolate bonnet - delicious, cool, and crisp.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Шляпа для настоящих любителей шоколада. Вкусная. Сладкая. Хрустящая.",
+			"",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
@@ -188351,7 +188299,7 @@ tbl = {
 			"^6A5ACD[Если уровень заточки +9 и выше]^000000",
 			"Физ. и маг. атака +30.",
 			"^6A5ACD[Если уровень заточки +11 и выше]^000000",
-			"Во время физ. атаки есть шанс увеличить ^FFC501Священный^000000 и ^777777Нетйральный^000000 маг. урон на 20% на 10 сек.",
+			"Во время физ. атаки есть шанс увеличить ^FFC501Священный^000000 и ^777777Нейтральный^000000 маг. урон на 20% на 10 сек.",
 			"^777777—————————————^000000",
 			"^800080Бонус комплекта^000000",
 			"<ITEM>Елочные крылья<INFO>20955</INFO></ITEM>",
@@ -188360,7 +188308,7 @@ tbl = {
 			"Маг. атака +30.",
 			"Урон умения [Двойной свет] +40%",
 			"[Если уровень заточки Благородного креста +10 и выше]",
-			"Урон умения [Двойной свет] +20%",
+			"Урон умения [Двойной свет] +20% дополнительно.",
 			"^777777—————————————^000000",
 			"^800080Бонус комплекта^000000",
 			"<ITEM>Елочные крылья<INFO>20955</INFO></ITEM>",
@@ -188369,7 +188317,7 @@ tbl = {
 			"Физ. атака +30.",
 			"Урон умения [Летящий кулак] +40%",
 			"[Если уровень заточки Благородного креста +10 и выше]",
-			"Урон умения [Летящий кулак] +20%",
+			"Урон умения [Летящий кулак] +20% дополнительно.",
 			"^777777—————————————^000000",
 			"^800080Бонус комплекта^000000",
 			"<ITEM>Елочные крылья<INFO>20955</INFO></ITEM>",
@@ -204941,15 +204889,17 @@ tbl = {
 		costume = false
 	},
 	[25425] = {
-		unidentifiedDisplayName = "Magical Snow Flower",
+		unidentifiedDisplayName = "Волшебная снежинка",
 		unidentifiedResourceName = "????",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Magical Snow Flower",
+		identifiedDisplayName = "Волшебная снежинка",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
-			"^777777An ice crystal that is found among monsters with cold energy. It is very useful for making snowman due to its white, cold and binding properties.^000000",
+			"^ff0000Привязано к персонажу.^000000",
+			"Кристалл льда, который создает Санта-Клаус магическим образом. Обладает волшебными свойствами.",
+			"",
 			"Вес: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -215326,26 +215276,6 @@ tbl = {
 		ClassNum = 43,
 		costume = true
 	},
-	[31172] = {
-		unidentifiedDisplayName = "Costume Headgear",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Costume Los Pollos Locos",
-		identifiedResourceName = "Roast_Memory",
-		identifiedDescriptionName = {
-			"^777777A strange looking rooster hat. Let's all celebrate the year of Rooster by wearing this hat!^000000",
-			"Класс: Costume",
-			"Расположение: Upper, Middle, Lower",
-			"Вес: ^7777770^000000",
-			"Требуемый уровень: 1",
-			"Required Jobs: All Jobs"
-		},
-		slotCount = 0,
-		ClassNum = 1576,
-		costume = false
-	},
 	[31176] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
@@ -217933,28 +217863,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1707,
-		costume = true
-	},
-	[31440] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Капюшон белого медведя",
-		identifiedResourceName = "C_Snow_Bear_Hood",
-		identifiedDescriptionName = {
-			"Пушистый белый капюшон, отороченный голубым мехом.",
-			"Он не даст вам замерзнуть в эти зимние праздники.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Декор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^7777770^000000  Вес: ^7777770^000000",
-			"Требуемый уровень: ^7777771^000000",
-			"Квалификация: ^777777Все профессии^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1708,
 		costume = true
 	},
 	[31441] = {
@@ -261470,6 +261378,278 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1,
+		costume = false
+	},
+	[410091] = {
+		unidentifiedDisplayName = "Ленточка",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Нейромодулятор Кор",
+		identifiedResourceName = "Cor_Core_Headset",
+		identifiedDescriptionName = {
+			"^ff0000Предмет анимирован.^000000",
+			"Прибор для усиления нейронной активности, созданный из ядра Кор.",
+			"Вариативное время применения всех умений -8%, время перезарядки всех умений -8%.",
+			"[При экипировке вместе с лицевым компакт-диском]",
+			"Маг. урон всеми элементами +7%.",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777775^000000",
+			"Расположение: ^777777Глаза ^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777150^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[20973] = {
+		unidentifiedDisplayName = "Накидка",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Плащ спиритолога",
+		identifiedResourceName = "Spiritual_Cloth",
+		identifiedDescriptionName = {
+			"Сплетенный силой духов Редкий Клаус. Хорошо защищает от духовного нападения.",
+			"",
+			"Макс. HP +3%, макс. SP +3%.",
+			"Урон от человекоподобных монстров -5%.",
+			"Урон от персонажей игроков -5%.",
+			"При заточке на +9 и выше макс. HP и макс. SP +2% дополнительно, перезарядка всех умений -5%.",
+			"При заточке на +11 и выше макс. HP и макс. SP +5% дополнительно, перезарядка всех умений дополнительно -10%.",
+			"[При экипировке вместе с картой эклипса]",
+			"Урон, получаемый от атак элементом Святость -75%.",
+			"Урон, получаемый от атак элементом Святость +5% за каждый уровень умения [Вера].",
+			"[При экипировке вместе с картой орка-зомби]",
+			"Урон, получаемый от атак элементом Нежить -45%.",
+			"[При экипировке вместе с картой марионетки]",
+			"Урон, получаемый от атак элементом Призрак -45%.",
+			"[При экипировке вместе с картой тумана]",
+			"Урон, получаемый от атак элементом Яд -45%.",
+			"Класс: ^777777Накидка^000000",
+			"Защита: ^77777712^000000",
+			"Вес: ^77777790^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15249] = {
+		unidentifiedDisplayName = "Броня",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Костюм Антонио",
+		identifiedResourceName = "Antonio_Coat",
+		identifiedDescriptionName = {
+			"Копия костюма, принадлежавшего злодею Антонио. В этой одежде вы будете выглядеть как его подручный.",
+			"Вариативное время применения всех умений -10%.",
+			"[При заточке на +7 и выше]",
+			"Нельзя сломать.",
+			"Маг. защита +5, идеальный уворот +1.",
+			"[При заточке на +8 и выше]",
+			"Защита от атак человекоподобной расы +7%.",
+			"Маг. защита +10, идеальный уворот +1 дополнительно.",
+			"[При заточке на +9 и выше]",
+			"Защита от ^0000FF[Рассечения]^000000 +100%.",
+			"Маг. защита +15, идеальный уворот +1 дополнительно.",
+			"[При экипировке вместе с картой Антонио]",
+			"Автозаклинание [Телепортация] (ур. 1) не активируется.",
+			"Можно использовать умение [Телепортация] (ур. 1).",
+			"Физ. защита +250.",
+			"Сопротивление атакам всеми элементами +5%.",
+			"[При заточке костюма Антонио на +7 и выше] ",
+			"Иммунитет к заморозке.",
+			"[При заточке костюма Антонио на +9 и выше]",
+			"Иммунитет к отталкиванию.",
+			"Класс: ^777777Броня^000000",
+			"Защита: ^77777750^000000",
+			"Вес: ^77777740^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[19498] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Цитрусовые заколки",
+		identifiedResourceName = "CitrusRibbon",
+		identifiedDescriptionName = {
+			"Две заколки, украшенные бантиками апельсинового цвета.",
+			"Именно такие носила героиня 'Цитрусового вечера', самого популярного в Рун-Мидгарде любовного романа.",
+			"Физ. урон по монстрам-боссам +7%.",
+			"Шанс идеальной атаки +20%.",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777775^000000",
+			"Расположение: ^777777Глаза ^000000",
+			"Вес: ^77777750^000000",
+			"Требуемый уровень: ^77777790^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19148] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Рождественский шарик",
+		identifiedResourceName = "C3????",
+		identifiedDescriptionName = {
+			"Говорят, рождественские поринги приносят удачу!",
+			"Если один из них будет парить над вашей головой, вам обязательно повезет!",
+			"Опыт от монстров +5%.",
+			"Шанс выпадения предметов +5%.",
+			"Эффект восстановления при использовании конфеты +200%.",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Нижнее^000000",
+			"Вес: ^7777771^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31172] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Маска безумной курицы (Декор)",
+		identifiedResourceName = "Roast_Memory",
+		identifiedDescriptionName = {
+			"^ff0000Предмет анимирован.^000000",
+			"Странная маска в виде куриной головы с глядящими в разные стороны глазами.",
+			"Ходят слухи, что такие маски носят последователи таинственного Куриного Бога.",
+			"Класс: ^777777 Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Голова, Глаза, Рот^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[31440] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Полярный капюшон (Декор)",
+		identifiedResourceName = "C_Snow_Bear_Hood",
+		identifiedDescriptionName = {
+			"Пушистый белый капюшон, украшенный декоративными медвежьими ушками.",
+			"Выглядит очень уютно!",
+			"Класс: ^777777 Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[20235] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Морозная роза (Декор)",
+		identifiedResourceName = "????????",
+		identifiedDescriptionName = {
+			"Роза из ледяного края, населенного инеистыми великанами. Говорят, она расцветет, если поставить ее стебель в сугроб.",
+			"Класс: ^777777 Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Рот^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[103902] = {
+		unidentifiedDisplayName = "Дар святого поринга",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Дар святого поринга",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Самый благочестивый из всех порингов сошел с небес, чтобы поздравить вас!",
+			"Счастливого Рождества! С Новым годом!",
+			"",
+			"^4A94F7»^000000 <ITEM>Нейромодулятор Кор<INFO>410091</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Монета удачи<INFO>56745</INFO></ITEM> ^777777x1600^000000",
+			"^4A94F7»^000000 <ITEM>Плащ спиритолога<INFO>20973</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Купон заточки оружия +8<INFO>6229</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Купон заточки брони +8<INFO>6233</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ящик нейтрализатора<INFO>12911</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Костюм Антонио<INFO>15249</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Цитрусовые заколки<INFO>19498</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Рождественский шарик<INFO>19148</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Маска безумной курицы<INFO>31172</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>(Декор)<INFO>31172</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Благословение кузнеца<INFO>6635</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Очищенный брадиум<INFO>6226</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Очищенный карниум<INFO>6225</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Кристалл забвения<INFO>6320</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Елочные крылья<INFO>20955</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Полярный капюшон<INFO>31440</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>(Декор)<INFO>31440</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Морозная роза (Декор)<INFO>20235</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Монета удачи<INFO>56745</INFO></ITEM> ^777777x50^000000",
+			"^4A94F7»^000000 <ITEM>Ящик с беск. гиг.<INFO>23330</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>крылом (1 ч.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Весеннее зелье маны<INFO>100005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дар черных звезд<INFO>103032</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дар голубого моря<INFO>102574</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дар духов Рождества<INFO>102802</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Военный справочник<INFO>12411</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Фруктовая жвачка<INFO>12412</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Обогащенный элуниум<INFO>7619</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Обогащенный оридекон<INFO>7620</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Окровавленная ветка<INFO>12103</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Помадки парагона<INFO>22819</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Бисквиты ловкости<INFO>23225</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты сноровки<INFO>23221</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты интеллекта<INFO>23226</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты удачи<INFO>23222</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты силы<INFO>23223</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты живучести<INFO>23224</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Свиток Ассумпцио группы<INFO>14590</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Свиток благословения<INFO>14588</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>группы<INFO>14588</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Свиток увеличения<INFO>14589</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>ловкости группы<INFO>14589</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Особая визитка Кафры<INFO>23177</INFO></ITEM> ^777777x6^000000",
+			"^4A94F7»^000000 <ITEM>Пудинг Гуйяк<INFO>12710</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Зелье разума<INFO>100317</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Особое благословение<INFO>23047</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Тора<INFO>23047</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Целебная вода<INFO>12578</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Великолепная сырая рыба<INFO>14524</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7»^000000 <ITEM>Вкусный шиш-кебаб<INFO>12335</INFO></ITEM> ^777777x11^000000",
+			"^4A94F7»^000000 <ITEM>Семя Ходдмимира<INFO>12405</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Большой хинкали<INFO>14522</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Конфета древнего<INFO>12709</INFO></ITEM> ^777777x21^000000",
+			"^4A94F7»^000000 <ITEM>обещания<INFO>12709</INFO></ITEM> ^777777x21^000000",
+			"^4A94F7»^000000 <ITEM>Сушеные ягоды Иггдрасиля<INFO>12293</INFO></ITEM> ^777777x60^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
 		costume = false
 	}
 }
