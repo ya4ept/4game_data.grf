@@ -2750,3 +2750,9 @@ prt_castle_evt.rsw#prt_castle.rsw#
 1@bloody.rsw#gef_dun03.rsw#
 유저인터페이스\map\1@bloody.bmp#유저인터페이스\map\gef_dun03.bmp#
 
+
+//20190227 글래스트헤임 도전모드
+1@gl_he.gnd#1@gl_he.gnd#
+1@gl_he.gat#1@gl_he.gat#
+1@gl_he.rsw#1@gl_he.rsw#
+유저인터페이스\map\1@gl_he.bmp#유저인터페이스\map\1@gl_he.bmp#

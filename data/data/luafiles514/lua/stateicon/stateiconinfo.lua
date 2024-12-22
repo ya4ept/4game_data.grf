@@ -42,10 +42,10 @@ StateIconList[EFST_IDs.EFST_BEYOND_OF_WARCRY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Beyond Cry", COLOR_TITLE_BUFF },
+		{ "Warcry from Beyond", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase physical ATK" },
-		{ "Decrease MATK" }
+		{ "Reduces Max. HP." },
+		{ "Reduces STR." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWORDREJECT] = {
@@ -208,17 +208,17 @@ StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
 	descript = {
 		{ "Gloomy Shyness", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase damage of certain skills" },
-		{ "Decrease Flee and ASPD" }
+		{ "Increases SP Cost and Fixed Cast Time for all skills." },
+		{ "Reduces FLEE and ASPD." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SIRCLEOFNATURE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Circling Nature", COLOR_TITLE_BUFF },
+		{ "Circle of Nature", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Use certain amount of SP every second and recover HP" }
+		{ "Increases Base HP Recovery Rate." }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEADLYINFECT] = {
@@ -856,7 +856,7 @@ StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
 	descript = {
 		{ "Song Of Mana", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Recovery certain amount of SP in every 5 sec" }
+		{ "Increases Base SP Recovery." }
 	}
 }
 StateIconList[EFST_IDs.EFST_KAAHI] = {
@@ -967,11 +967,11 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Madness", COLOR_TITLE_DEBUFF },
+		{ "Insanity", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
-		{ "Lose HP, SP in every 3 sec" },
-		{ "Increase ATK, Decrease DEF and Flee" },
-		{ "Cannot use skill and item" }
+		{ "Absorbs HP and SP every 3 sec." },
+		{ "Reduces HIT and Flee." },
+		{ "Items can't be used." }
 	}
 }
 StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
@@ -1112,10 +1112,11 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Gentle Touch - Energy Gain", COLOR_TITLE_BUFF },
+		{ "Gentle Touch-Energy Gain", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "When melee attacking or being attacked" },
-		{ "Create 1 Spirit Sphere" }
+		{ "When using a physical melee attack or taking damage" },
+		{ "creates a Spirit Sphere." },
+		{ "Increases the damage of Raging Thrust, Chain Crush Combo, and Glacier Fist." }
 	}
 }
 StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
@@ -1406,8 +1407,8 @@ StateIconList[EFST_IDs.EFST_MELODYOFSINK] = {
 	descript = {
 		{ "Sinking Melody", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase MATK" },
-		{ "Decrease physical ATK" }
+		{ "Consumes SP." },
+		{ "Reduces INT." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CRUCIS] = {
@@ -1611,8 +1612,7 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 	descript = {
 		{ "Infinite Humming", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Skill and magic casting is never get disconnected" },
-		{ "Increase SP consumption when using skills" }
+		{ "Increases magic property damage." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
@@ -1636,12 +1636,12 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Gentle Touch - Alive", COLOR_TITLE_BUFF },
+		{ "Gentle Touch-Revitalize", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase VIT, MHP" },
-		{ "Increase physical DEF" },
-		{ "Increase HP auto recovery speed" },
-		{ "Recovery HP while moving and attacking" }
+		{ "Increases Max. HP and DEF." },
+		{ "Increases Base HP Recovery Rate." },
+		{ "Restores HP when moving or attacking." },
+		{ "Increases the damage from Tiger Cannon and Gates of Hell." }
 	}
 }
 StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
@@ -1664,9 +1664,10 @@ StateIconList[EFST_IDs.EFST_RUSH_WINDMILL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Rush To Windmill", COLOR_TITLE_BUFF },
+		{ "Windmill Rush", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase ATK" }
+		{ "Increases attack power." },
+		{ "Increases Movement Speed." }
 	}
 }
 StateIconList[EFST_IDs.EFST_PYREXIA] = {
@@ -1682,10 +1683,10 @@ StateIconList[EFST_IDs.EFST_DANCE_WITH_WUG] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Dance With Wug", COLOR_TITLE_BUFF },
+		{ "Dances with Wargs", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase ASPD" },
-		{ "Decrease fixed casting time" }
+		{ "Reduces Fixed Cast Time of all skills." },
+		{ "Increases long-ranged damage." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SWING] = {
@@ -1694,8 +1695,18 @@ StateIconList[EFST_IDs.EFST_SWING] = {
 	descript = {
 		{ "Swing Dance", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase Movement Speed" },
-		{ "Increase ASPD" }
+		{ "Increases Movement Speed." },
+		{ "Increases ASPD." },
+		{ "Reduces Fixed Cast Time of all skills." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Song of Destruction", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "All damage is doubled." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
@@ -1720,10 +1731,10 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Gentle Touch - Opposite", COLOR_TITLE_BUFF },
+		{ "Gentle Touch-Convert", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Decrease VIT, MDEF" },
-		{ "Increase ATK, ASPD" }
+		{ "Increases STR and ASPD." },
+		{ "Increases the damage from Rampage Blast and Knuckle Arrow." }
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {

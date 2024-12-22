@@ -907,3 +907,12 @@
 27336#혼돈의사이드와인더카드#
 27343#혼돈의복사카드#
 27337#혼돈의헌터플라이카드#
+//고성 도전모드
+27381#C_Himel_Card#
+27382#C_CorruptionRoot_Card#
+27383#C_Amdarais_Card#
+27384#C_White_Knight_Card#
+27385#C_Khaliz_Knight_Card#
+27386#C_Raydric_Card#
+27387#C_Raydric_Archer_Card#
+27388#C_Cursed_Butler#

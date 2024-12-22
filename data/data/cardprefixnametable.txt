@@ -796,3 +796,41 @@
 27341#of Water Shell#
 27342#Metal Ground#
 27343#Holy Spell#
+//에피소드14.3 모로크카드
+27325#Muspelheim#
+27326#Destructive#
+27327#God of Death#
+27321#God of Demons#
+27328#Corrupt Life#
+27322#Sovereign#
+27323#Tyrant#
+27324#Brinaranea#
+
+
+//고성 도전모드
+27381#Fallen Angel#
+27382#Terror#
+27383#Pacification#
+27384#Mage Order#
+27385#Mage Order#
+27386#Exorcist#
+27387#Godslayer#
+27388#Healer#
+29672##
+29673##
+29674##
+29675##
+29676##
+29677##
+29678##
+29679##
+29680##
+29681##
+29682##
+29683##
+29684##
+29685##
+29686##
+29687##
+29688##
+29689##

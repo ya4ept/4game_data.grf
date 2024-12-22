@@ -1030,3 +1030,6 @@ star_in.rsw#Deep of Murmuring Forest#
 
 //bloody 
 1@bloody.rsw#Bloody Place#
+
+// 글래스트 헤임 도전모드
+1@gl_he.rsw#Warped Dimension#

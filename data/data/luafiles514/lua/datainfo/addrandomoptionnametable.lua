@@ -34,6 +34,7 @@ NameTable_VAR = {
 	[EnumVAR.ATTR_TOLERACE_TELEKINESIS[1]] = "Ghost Property Resistance +%d%%.",
 	[EnumVAR.ATTR_TOLERACE_UNDEAD[1]] = "Undead Property Resistance +%d%%.",
 	[EnumVAR.ATTR_TOLERACE_ALL[1]] = "All Property Resistance +%d%%.",
+	[EnumVAR.ATTR_TOLERACE_ALLBUTNOTHING[1]] = "All Property (excl. Neutral) Resistance +%d%%.",
 	[EnumVAR.DAMAGE_PROPERTY_NOTHING_USER[1]] = "Neutral Enemies Resistance +%d%%.",
 	[EnumVAR.DAMAGE_PROPERTY_NOTHING_TARGET[1]] = "Damage to Neutral Enemies +%d%%.",
 	[EnumVAR.DAMAGE_PROPERTY_WATER_USER[1]] = "Water Enemy Resistance +%d%%.",

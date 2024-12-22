@@ -9660,6 +9660,20 @@ achievement_tbl = {
 		},
 		reward = { item = 56763, title = 5107 },
 		score = 10
+	},
+	[229021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Glast Heim - Challenge Mode",
+		content = {
+			summary = "Complete Glast Heim - Challenge Mode",
+			details = "Reach the end of the Memorial Dungeon"
+		},
+		resource = { [1] = { text = "Successful completions:", count = 100 } },
+		reward = { title = 1045 },
+		score = 10
 	}
 }
 
