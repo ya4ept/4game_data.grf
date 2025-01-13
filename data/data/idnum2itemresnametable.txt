@@ -12519,3 +12519,4 @@
 20973#Spiritual_Cloth#
 410091#Cor_Core_Headset#
 103902#황금포링스크롤#
+480081#Glotoneria#

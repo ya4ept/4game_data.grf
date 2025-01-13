@@ -256405,7 +256405,6 @@ tbl = {
 		costume = false
 	},
 	[450018] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256433,10 +256432,10 @@ tbl = {
 			"Квалификация: ^777777Рунмейстер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450019] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256464,10 +256463,10 @@ tbl = {
 			"Квалификация: ^777777Рунмейстер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450020] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256495,10 +256494,10 @@ tbl = {
 			"Квалификация: ^777777Тамплиер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450021] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256526,10 +256525,10 @@ tbl = {
 			"Квалификация: ^777777Тамплиер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450022] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256557,10 +256556,10 @@ tbl = {
 			"Квалификация: ^777777Рейнджер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450023] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256588,10 +256587,10 @@ tbl = {
 			"Квалификация: ^777777Рейнджер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450024] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256619,10 +256618,10 @@ tbl = {
 			"Квалификация: ^777777Маэстро и производные, Муза и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450025] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256650,10 +256649,10 @@ tbl = {
 			"Квалификация: ^777777Маэстро и производные, Муза и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450026] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256681,10 +256680,10 @@ tbl = {
 			"Квалификация: ^777777Архиепископ и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450027] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256712,10 +256711,10 @@ tbl = {
 			"Квалификация: ^777777Архиепископ и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450028] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256743,10 +256742,10 @@ tbl = {
 			"Квалификация: ^777777Механик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450029] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256774,10 +256773,10 @@ tbl = {
 			"Квалификация: ^777777Механик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450030] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256805,10 +256804,10 @@ tbl = {
 			"Квалификация: ^777777Генетик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450031] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256836,10 +256835,10 @@ tbl = {
 			"Квалификация: ^777777Генетик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450032] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256867,10 +256866,10 @@ tbl = {
 			"Квалификация: ^777777Каратель и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450033] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256898,10 +256897,10 @@ tbl = {
 			"Квалификация: ^777777Каратель и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450034] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256929,10 +256928,10 @@ tbl = {
 			"Классификация: ^777777Преследователь и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450035] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256960,10 +256959,10 @@ tbl = {
 			"Классификация: ^777777Преследователь и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450036] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -256991,10 +256990,10 @@ tbl = {
 			"Квалификация: ^777777Призыватель (дорама)^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450037] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257022,10 +257021,10 @@ tbl = {
 			"Квалификация: ^777777Призыватель (дорама)^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450038] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257053,10 +257052,10 @@ tbl = {
 			"Квалификация: ^777777Стрелок и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450039] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257084,10 +257083,10 @@ tbl = {
 			"Квалификация: ^777777Стрелок и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450040] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257115,10 +257114,10 @@ tbl = {
 			"Квалификация: ^777777Чародей и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450041] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257146,10 +257145,10 @@ tbl = {
 			"Квалификация: ^777777Чародей и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450042] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257177,10 +257176,10 @@ tbl = {
 			"Квалификация: ^777777Элементалист и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450043] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257208,10 +257207,10 @@ tbl = {
 			"Квалификация: ^777777Элементалист и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450044] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257239,10 +257238,10 @@ tbl = {
 			"Квалификация: ^777777Звездный император^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450045] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257270,10 +257269,10 @@ tbl = {
 			"Квалификация: ^777777Звездный император^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450046] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257301,10 +257300,10 @@ tbl = {
 			"Квалификация: ^777777Кагеро, Оборо^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450047] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257332,10 +257331,10 @@ tbl = {
 			"Квалификация: ^777777Кагеро, Оборо^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450048] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257363,10 +257362,10 @@ tbl = {
 			"Квалификация: ^777777Жнец душ^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450049] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257394,10 +257393,10 @@ tbl = {
 			"Квалификация: ^777777Жнец душ^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450050] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257425,10 +257424,10 @@ tbl = {
 			"Квалификация: ^777777Отшельник и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450051] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257456,10 +257455,10 @@ tbl = {
 			"Квалификация: ^777777Отшельник и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450052] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257487,10 +257486,10 @@ tbl = {
 			"Квалификация: ^777777Рунмейстер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450053] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257518,10 +257517,10 @@ tbl = {
 			"Квалификация: ^777777Рунмейстер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450054] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257549,10 +257548,10 @@ tbl = {
 			"Квалификация: ^777777Тамплиер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450055] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257580,10 +257579,10 @@ tbl = {
 			"Квалификация: ^777777Тамплиер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450056] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257611,10 +257610,10 @@ tbl = {
 			"Квалификация: ^777777Рейнджер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450057] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257642,10 +257641,10 @@ tbl = {
 			"Квалификация: ^777777Рейнджер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450058] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257673,10 +257672,10 @@ tbl = {
 			"Квалификация: ^777777Маэстро и производные, Муза и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450059] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257704,10 +257703,10 @@ tbl = {
 			"Квалификация: ^777777Маэстро и производные, Муза и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450060] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257735,10 +257734,10 @@ tbl = {
 			"Квалификация: ^777777Архиепископ и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450061] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257766,10 +257765,10 @@ tbl = {
 			"Квалификация: ^777777Архиепископ и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450062] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257797,10 +257796,10 @@ tbl = {
 			"Квалификация: ^777777Отшельник и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450063] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257828,10 +257827,10 @@ tbl = {
 			"Квалификация: ^777777Отшельник и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450064] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257859,10 +257858,10 @@ tbl = {
 			"Квалификация: ^777777Механик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450065] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257890,10 +257889,10 @@ tbl = {
 			"Квалификация: ^777777Механик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450066] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257921,10 +257920,10 @@ tbl = {
 			"Квалификация: ^777777Генетик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450067] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257952,10 +257951,10 @@ tbl = {
 			"Квалификация: ^777777Генетик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450068] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -257983,10 +257982,10 @@ tbl = {
 			"Квалификация: ^777777Каратель и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450069] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258014,10 +258013,10 @@ tbl = {
 			"Квалификация: ^777777Каратель и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450070] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258045,10 +258044,10 @@ tbl = {
 			"Классификация: ^777777Преследователь и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450071] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258076,10 +258075,10 @@ tbl = {
 			"Классификация: ^777777Преследователь и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450072] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258107,10 +258106,10 @@ tbl = {
 			"Квалификация: ^777777Призыватель (дорама)^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450073] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258138,10 +258137,10 @@ tbl = {
 			"Квалификация: ^777777Призыватель (дорама)^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450074] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258169,10 +258168,10 @@ tbl = {
 			"Квалификация: ^777777Стрелок и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450075] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258200,10 +258199,10 @@ tbl = {
 			"Квалификация: ^777777Стрелок и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450076] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258231,10 +258230,10 @@ tbl = {
 			"Квалификация: ^777777Чародей и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450077] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258262,10 +258261,10 @@ tbl = {
 			"Квалификация: ^777777Чародей и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450078] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258293,10 +258292,10 @@ tbl = {
 			"Квалификация: ^777777Элементалист и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450079] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258324,10 +258323,10 @@ tbl = {
 			"Квалификация: ^777777Элементалист и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450080] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258355,10 +258354,10 @@ tbl = {
 			"Квалификация: ^777777Звездный император^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450081] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258386,10 +258385,10 @@ tbl = {
 			"Квалификация: ^777777Звездный император^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450082] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258417,10 +258416,10 @@ tbl = {
 			"Квалификация: ^777777Кагеро, Оборо^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450083] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258448,10 +258447,10 @@ tbl = {
 			"Квалификация: ^777777Кагеро, Оборо^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450084] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258479,10 +258478,10 @@ tbl = {
 			"Квалификация: ^777777Жнец душ^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450085] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258510,10 +258509,10 @@ tbl = {
 			"Квалификация: ^777777Жнец душ^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450086] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258541,10 +258540,10 @@ tbl = {
 			"Квалификация: ^777777Рунмейстер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450087] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258572,10 +258571,10 @@ tbl = {
 			"Квалификация: ^777777Рунмейстер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450088] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258603,10 +258602,10 @@ tbl = {
 			"Квалификация: ^777777Тамплиер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450089] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258634,10 +258633,10 @@ tbl = {
 			"Квалификация: ^777777Тамплиер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450090] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258665,10 +258664,10 @@ tbl = {
 			"Квалификация: ^777777Рейнджер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450091] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258696,10 +258695,10 @@ tbl = {
 			"Квалификация: ^777777Рейнджер и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450092] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258727,10 +258726,10 @@ tbl = {
 			"Квалификация: ^777777Маэстро и производные, Муза и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450093] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258758,10 +258757,10 @@ tbl = {
 			"Квалификация: ^777777Маэстро и производные, Муза и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450094] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258789,10 +258788,10 @@ tbl = {
 			"Квалификация: ^777777Архиепископ и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450095] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258820,10 +258819,10 @@ tbl = {
 			"Квалификация: ^777777Архиепископ и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450096] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258851,10 +258850,10 @@ tbl = {
 			"Квалификация: ^777777Отшельник и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450097] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258882,10 +258881,10 @@ tbl = {
 			"Квалификация: ^777777Отшельник и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450098] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258913,10 +258912,10 @@ tbl = {
 			"Квалификация: ^777777Механик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450099] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258944,10 +258943,10 @@ tbl = {
 			"Квалификация: ^777777Механик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450100] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -258975,10 +258974,10 @@ tbl = {
 			"Квалификация: ^777777Генетик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450101] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259006,10 +259005,10 @@ tbl = {
 			"Квалификация: ^777777Генетик и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450102] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259037,10 +259036,10 @@ tbl = {
 			"Квалификация: ^777777Каратель и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450103] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259068,10 +259067,10 @@ tbl = {
 			"Квалификация: ^777777Каратель и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450104] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259099,10 +259098,10 @@ tbl = {
 			"Классификация: ^777777Преследователь и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450105] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259130,10 +259129,10 @@ tbl = {
 			"Классификация: ^777777Преследователь и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450106] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259161,10 +259160,10 @@ tbl = {
 			"Квалификация: ^777777Призыватель (дорама)^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450107] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259192,10 +259191,10 @@ tbl = {
 			"Квалификация: ^777777Призыватель (дорама)^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450108] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259223,10 +259222,10 @@ tbl = {
 			"Квалификация: ^777777Стрелок и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450109] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259254,10 +259253,10 @@ tbl = {
 			"Квалификация: ^777777Стрелок и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450110] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259285,10 +259284,10 @@ tbl = {
 			"Квалификация: ^777777Чародей и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450111] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259316,10 +259315,10 @@ tbl = {
 			"Квалификация: ^777777Чародей и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450112] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259347,10 +259346,10 @@ tbl = {
 			"Квалификация: ^777777Элементалист и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450113] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259378,10 +259377,10 @@ tbl = {
 			"Квалификация: ^777777Элементалист и производные^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450114] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259409,10 +259408,10 @@ tbl = {
 			"Квалификация: ^777777Звездный император^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450115] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259440,10 +259439,10 @@ tbl = {
 			"Квалификация: ^777777Звездный император^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450116] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259471,10 +259470,10 @@ tbl = {
 			"Квалификация: ^777777Кагеро, Оборо^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450117] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259502,10 +259501,10 @@ tbl = {
 			"Квалификация: ^777777Кагеро, Оборо^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450118] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259533,10 +259532,10 @@ tbl = {
 			"Квалификация: ^777777Жнец душ^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450119] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259564,10 +259563,10 @@ tbl = {
 			"Квалификация: ^777777Жнец душ^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450121] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259595,10 +259594,10 @@ tbl = {
 			"Квалификация: ^777777Суперновичок^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450122] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259627,10 +259626,10 @@ tbl = {
 			"Квалификация: ^777777Суперновичок^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450123] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259658,10 +259657,10 @@ tbl = {
 			"Квалификация: ^777777Суперновичок^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450124] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259690,10 +259689,10 @@ tbl = {
 			"Квалификация: ^777777Суперновичок^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450125] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259721,10 +259720,10 @@ tbl = {
 			"Квалификация: ^777777Суперновичок^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[450126] = {
-		costume,
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259753,10 +259752,10 @@ tbl = {
 			"Квалификация: ^777777Суперновичок^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[470016] = {
-		costume,
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259778,10 +259777,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[470017] = {
-		costume,
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259803,10 +259802,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[470018] = {
-		costume,
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259828,10 +259827,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[470019] = {
-		costume,
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259853,10 +259852,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[470020] = {
-		costume,
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259878,10 +259877,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[470021] = {
-		costume,
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259903,10 +259902,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[480012] = {
-		costume,
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259928,7 +259927,8 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[480014] = {
 		unidentifiedDisplayName = "Накидка",
@@ -259956,7 +259956,6 @@ tbl = {
 		costume = false
 	},
 	[480016] = {
-		costume,
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -259978,10 +259977,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[480017] = {
-		costume,
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260003,10 +260002,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[480018] = {
-		costume,
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260028,10 +260027,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[480019] = {
-		costume,
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260053,10 +260052,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[490014] = {
-		costume,
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260077,10 +260076,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[490015] = {
-		costume,
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260101,10 +260100,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[490017] = {
-		costume,
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260125,10 +260124,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[490018] = {
-		costume,
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260149,10 +260148,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[490019] = {
-		costume,
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260173,10 +260172,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[490020] = {
-		costume,
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
 		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
@@ -260197,10 +260196,10 @@ tbl = {
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100128] = {
-		costume,
 		unidentifiedDisplayName = "Билет пажа на заточку",
 		unidentifiedResourceName = "Чек на покупку",
 		unidentifiedDescriptionName = {
@@ -260228,10 +260227,10 @@ tbl = {
 			"Требуемый уровень: ^777777100^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100129] = {
-		costume,
 		unidentifiedDisplayName = "Баронский билет на заточку",
 		unidentifiedResourceName = "Чек на покупку",
 		unidentifiedDescriptionName = {
@@ -260258,10 +260257,10 @@ tbl = {
 			"Требуемый уровень: ^777777125^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100130] = {
-		costume,
 		unidentifiedDisplayName = "Королевский билет на заточку",
 		unidentifiedResourceName = "Чек на покупку",
 		unidentifiedDescriptionName = {
@@ -260288,10 +260287,10 @@ tbl = {
 			"Требуемый уровень: ^777777150^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100131] = {
-		costume,
 		unidentifiedDisplayName = "Баронский допуск на физ. улучшение (плащ)",
 		unidentifiedResourceName = "Ein_Ddbox",
 		unidentifiedDescriptionName = {
@@ -260318,10 +260317,10 @@ tbl = {
 			"Требуемый уровень: ^777777125^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100132] = {
-		costume,
 		unidentifiedDisplayName = "Баронский допуск на маг. улучшение (плащ)",
 		unidentifiedResourceName = "Ein_Ddbox2",
 		unidentifiedDescriptionName = {
@@ -260348,10 +260347,10 @@ tbl = {
 			"Требуемый уровень: ^777777125^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100133] = {
-		costume,
 		unidentifiedDisplayName = "Королевский допуск на физ. улучшение (плащ)",
 		unidentifiedResourceName = "Ein_Ddbox",
 		unidentifiedDescriptionName = {
@@ -260378,10 +260377,10 @@ tbl = {
 			"Требуемый уровень: ^777777150^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100134] = {
-		costume,
 		unidentifiedDisplayName = "Королевский допуск на маг. улучшение (плащ)",
 		unidentifiedResourceName = "Ein_Ddbox2",
 		unidentifiedDescriptionName = {
@@ -260408,10 +260407,10 @@ tbl = {
 			"Требуемый уровень: ^777777150^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100135] = {
-		costume,
 		unidentifiedDisplayName = "Баронский допуск на физ. улучшение (доспехи)",
 		unidentifiedResourceName = "Ein_Ddbox",
 		unidentifiedDescriptionName = {
@@ -260436,10 +260435,10 @@ tbl = {
 			"Требуемый уровень: ^777777125^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100136] = {
-		costume,
 		unidentifiedDisplayName = "Баронский допуск на маг. улучшение (доспехи)",
 		unidentifiedResourceName = "Ein_Ddbox2",
 		unidentifiedDescriptionName = {
@@ -260464,10 +260463,10 @@ tbl = {
 			"Требуемый уровень: ^777777125^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100137] = {
-		costume,
 		unidentifiedDisplayName = "Королевский допуск на физ. улучшение (доспехи)",
 		unidentifiedResourceName = "Ein_Ddbox",
 		unidentifiedDescriptionName = {
@@ -260492,7 +260491,8 @@ tbl = {
 			"Требуемый уровень: ^777777150^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0
+		ClassNum = 0,
+		costume = false
 	},
 	[100138] = {
 		unidentifiedDisplayName = "Королевский допуск на маг. улучшение (доспехи)",
@@ -260832,12 +260832,6 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Боевая магическая сфера, созданная для защиты своего владельца.\n",
-			"Класс: ^808080Шлем^000000",
-			"Расположение: ^808080Рот^000000",
-			"Защита: ^8080800^000000",
-			"Вес: ^77777730^000000",
-			"Требуемый уровень: ^80808050^000000",
-			"Квалификация: ^808080Все профессии^000000",
 			"Физ. атака +2%",
 			"Маг. атака +2%",
 			"Вариативное время применения всех умений -3%",
@@ -260853,7 +260847,7 @@ tbl = {
 			"Урон от умений ^0000FF[Цепная молния]^000000 и ^0000FF[Оползень]^000000 +15%.",
 			"Урон от умений ^0000FF[Землетрясение]^000000 и ^0000FF[Гром Юпитера]^000000 +70%.",
 			"[Если базовый уровень 100 и выше]",
-			"Вариативное время применения всех умений -9% дополнительно.",
+			"Вариативное время применения всех умений -9%.",
 			"Урон от умений ^0000FF[Цепная молния]^000000 и ^0000FF[Оползень]^000000 +35%.",
 			"Урон от умений ^0000FF[Землетрясение]^000000 и ^0000FF[Гром Юпитера]^000000 +130%.",
 			" ",
@@ -260861,27 +260855,27 @@ tbl = {
 			"^008080Венец жизни [1]^000000",
 			"^008080Сфера жизни^000000",
 			"Живучесть +4",
-			"Защита от человекоподобных монстров +4%",
+			"Защита от человекоподобной расы +4%",
 			"Вариативное время применения всех умений -6%",
 			"Урон от маг. атак элементами Земля и Ветер +20%.",
 			"[Если уровень заточки ^008080венца жизни [1]^000000 +7 или выше]",
 			"Живучесть +4 дополнительно",
-			"Защита от человекоподобных монстров +4% дополнительно",
+			"Защита от человекоподобной расы +4% дополнительно",
 			"Вариативное время применения всех умений -6% дополнительно.",
 			"[Если уровень заточки ^008080венца жизни [1]^000000 +9 или выше]",
 			"Живучесть +4 дополнительно",
-			"Защита от человекоподобных монстров +4% дополнительно",
+			"Защита от человекоподобной расы +4% дополнительно",
 			"Вариативное время применения всех умений -6% дополнительно.",
 			" ",
 			"^800080Бонус комплекта^000000",
 			"^008080Оживляющий плащ^000000",
 			"^008080Сфера жизни^000000",
-			"Защита от человекоподобных монстров +1%",
+			"Защита от человекоподобной расы +1%",
 			"Фиксированное время применения всех умений -50%.",
-			"[Если уровень заточки ^008080оживляющего плаща [1]^000000 +5 или выше]",
-			"Защита от человекоподобных монстров +2% дополнительно",
-			"[Если уровень заточки ^008080оживляющего плаща [1]^000000 +7 или выше]",
-			"Защита от человекоподобных монстров +2% дополнительно",
+			"[Если уровень заточки ^008080оживляющего плаща^000000 +7 или выше]",
+			"Защита от человекоподобной расы +2% дополнительно",
+			"[Если уровень заточки ^008080оживляющего плаща^000000 +9 или выше]",
+			"Защита от человекоподобной расы +2% дополнительно",
 			" ",
 			"^800080Бонус комплекта^000000",
 			"^008080Оживляющий плащ^000000",
@@ -260896,7 +260890,13 @@ tbl = {
 			"^008080Ботинки жизни^000000",
 			"Живучесть +5",
 			"Интеллект +5",
-			"Защита от человекоподобных монстров +3%"
+			"Защита от человекоподобной расы +3%",
+			"Класс: ^808080Шлем^000000",
+			"Расположение: ^808080Рот^000000",
+			"Защита: ^8080800^000000",
+			"Вес: ^77777730^000000",
+			"Требуемый уровень: ^80808050^000000",
+			"Квалификация: ^808080Все профессии^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1488,
@@ -260912,12 +260912,6 @@ tbl = {
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
 			"Ритуальный головной убор древнего монашеского ордена. Говорят, он защищает своего владельца от вредоносной магии.\n",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777750^000000",
-			"Требуемый уровень: ^77777750^000000",
-			"Квалификация: ^777777Все профессии^000000",
 			"Интеллект +3",
 			"Маг. атака +4%",
 			"Если базовый уровень персонажа 99 или ниже, дополнительно Интеллект +1 за каждые 2 уровня заточки предмета.",
@@ -260928,22 +260922,22 @@ tbl = {
 			"^008080Посох жизни^000000",
 			"Маг. атака +10 за каждый уровень заточки ^008080посоха жизни^000000.",
 			"[Если уровень заточки ^008080посоха жизни^000000 +10 или выше]",
-			"С некоторым шансом накладывает положительный эффект на 5 сек. при маг. атаке, вариативное время применения всех умений -50%.",
+			"С некоторым шансом накладывает положительный эффект на 5 сек. при маг. атаке: вариативное время применения всех умений -50%.",
 			" ",
 			"^800080Бонус комплекта^000000",
 			"^008080Венец жизни [1]^000000",
 			"^008080Сфера жизни^000000",
 			"Живучесть +4",
-			"Защита от человекоподобных монстров +4%",
+			"Защита от человекоподобной расы +4%",
 			"Вариативное время применения всех умений -6%",
 			"Урон от маг. атак элементами Земля и Ветер +20%.",
 			"[Если уровень заточки ^008080венца жизни [1]^000000 +7 или выше]",
 			"Живучесть +4 дополнительно",
-			"Защита от человекоподобных монстров +4% дополнительно",
+			"Защита от человекоподобной расы +4% дополнительно",
 			"Вариативное время применения всех умений -6% дополнительно.",
 			"[Если уровень заточки ^008080венца жизни [1]^000000 +9 или выше]",
 			"Живучесть +4 дополнительно",
-			"Защита от человекоподобных монстров +4% дополнительно",
+			"Защита от человекоподобной расы +4% дополнительно",
 			"Вариативное время применения всех умений -6% дополнительно.",
 			" ",
 			"^800080Бонус комплекта^000000",
@@ -260953,7 +260947,13 @@ tbl = {
 			"[Если уровень заточки ^008080венца жизни [1]^000000 +7 или выше]",
 			"Урон от маг. атак элементами Земля и Ветер +10%.",
 			"[Если уровень заточки ^008080венца жизни [1]^000000 +9 или выше]",
-			"Урон от маг. атак элементами Земля и Ветер +10% дополнительно."
+			"Урон от маг. атак элементами Земля и Ветер +10% дополнительно.",
+			"Класс: ^777777Головной убор^000000",
+			"Расположение: ^777777Голова^000000",
+			"Защита: ^77777710^000000",
+			"Вес: ^77777750^000000",
+			"Требуемый уровень: ^77777750^000000",
+			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
 		ClassNum = 1220,
@@ -260969,16 +260969,11 @@ tbl = {
 		identifiedResourceName = "Shoes_Of_Servival",
 		identifiedDescriptionName = {
 			"Зачарованная обувь, созданная для защиты своего владельца.\n",
-			"Класс: ^808080Ботинки^000000",
-			"Защита: ^80808015 шт.^000000",
-			"Вес: ^80808050^000000",
-			"Требуемый уровень: ^808080100^000000",
-			"Квалификация: ^808080Все профессии^000000",
 			"Макс. HP +3%",
 			"Макс. SP +3%",
 			"Маг. атака +2%",
 			"Маг. защита +15",
-			"Защита от человекоподобных монстров +5%",
+			"Защита от человекоподобной расы +5%",
 			"Урон от маг. атак элементами Земля и Ветер +2%.",
 			"[Если уровень заточки +7 или выше]",
 			"Дополнительно макс. HP +7%",
@@ -260994,10 +260989,10 @@ tbl = {
 			"^800080Бонус комплекта^000000",
 			"^008080Посох жизни^000000",
 			"^008080Ботинки жизни^000000",
-			"Защита от человекоподобных монстров +10%",
+			"Защита от человекоподобной расы +10%",
 			"Маг. защита обычных монстров и монстров-боссов -40% при маг. атаке.",
 			"[Если уровень заточки ^008080посоха жизни^000000 +10 или выше]",
-			"Маг. урон по человекоподобным монстрам +20%.",
+			"Маг. урон по человекоподобной расе +20%.",
 			"Урон от маг. атак Нейтральным элементом +50%.",
 			"Перезарядка умения ^0000FF[Оползень]^000000 -2,4 сек.",
 			"Перезарядка умения ^0000FF[Цепная молния]^000000 -1 сек.",
@@ -261026,7 +261021,12 @@ tbl = {
 			"^008080Ботинки жизни^000000",
 			"Живучесть +5",
 			"Интеллект +5",
-			"Защита от человекоподобных монстров +3%"
+			"Защита от человекоподобной расы +3%",
+			"Класс: ^808080Ботинки^000000",
+			"Защита: ^80808015 шт.^000000",
+			"Вес: ^80808050^000000",
+			"Требуемый уровень: ^808080100^000000",
+			"Квалификация: ^808080Все профессии^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -261042,11 +261042,6 @@ tbl = {
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
 			"Накидка, повышающая возможность выжить в любой ситуации.\n",
-			"Класс: ^808080Накидка^000000",
-			"Защита: ^80808010^000000",
-			"Вес: ^80808055^000000",
-			"Требуемый уровень: ^8080805^000000",
-			"Квалификация: ^808080Маг и производные, Медиум^000000",
 			"Живучесть +10",
 			"Маг. защита +5",
 			" ",
@@ -261055,18 +261050,18 @@ tbl = {
 			"^008080Посох жизни^000000",
 			"Макс. HP +300",
 			"Маг. атака -5%",
-			"Маг. атака +1% за каждый уровень заточки ^008080посоха жизни^000000.",
-			"Защита от атак Нейтральным элементом +3% за каждый уровень заточки ^008080оживляющего плаща [1]^000000.",
+			"Маг. атака +1% за каждый уровень заточки ^008080посоха жизни^000000 (до заточки +10 включительно).",
+			"Защита от атак Нейтральным элементом +3% за каждый уровень заточки ^008080оживляющего плаща [1]^000000 (до заточки +10 включительно).",
 			" ",
 			"^800080Бонус комплекта^000000",
 			"^008080Оживляющий плащ [1]^000000",
 			"^008080Сфера жизни^000000",
-			"Защита от человекоподобных монстров +1%",
+			"Защита от человекоподобных рас +1%",
 			"Фиксированное время применения всех умений -50%.",
 			"[Если уровень заточки ^008080оживляющего плаща [1]^000000 +7 или выше]",
-			"Защита от человекоподобных монстров +2% дополнительно",
+			"Защита от человекоподобных рас +2% дополнительно",
 			"[Если уровень заточки ^008080оживляющего плаща [1]^000000 +9 или выше]",
-			"Защита от человекоподобных монстров +2% дополнительно",
+			"Защита от человекоподобных рас +2% дополнительно",
 			" ",
 			"^800080Бонус комплекта^000000",
 			"^008080Оживляющий плащ [1]^000000",
@@ -261090,7 +261085,12 @@ tbl = {
 			"[Если уровень заточки ^008080оживляющего плаща [1]^000000 +7 или выше]",
 			"Защита от атак элементами Земля и Ветер +15%",
 			"[Если уровень заточки ^008080оживляющего плаща [1]^000000 +9 или выше]",
-			"Защита от атак элементами Земля и Ветер +15% дополнительно"
+			"Защита от атак элементами Земля и Ветер +15% дополнительно",
+			"Класс: ^808080Накидка^000000",
+			"Защита: ^80808010^000000",
+			"Вес: ^80808055^000000",
+			"Требуемый уровень: ^8080805^000000",
+			"Квалификация: ^808080Маг и производные, Медиум^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -261649,6 +261649,36 @@ tbl = {
 			"Вес: ^7777771^000000"
 		},
 		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[480081] = {
+		unidentifiedDisplayName = "Капюшон",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Плащ пожирателя",
+		identifiedResourceName = "Glotoneria",
+		identifiedDescriptionName = {
+			"Прежде это была обычная накидка, однако со временем магия иллюзий превратила ее в зловещего вида плащ, будто бы сотканный из мрака.",
+			"Макс. HP +3%.",
+			"Защита от атак персонажей игроков +5%.",
+			"",
+			"При заточке на +7 и выше макс. HP +5%, Ловкость +10, Сноровка +10.",
+			"При заточке на +9 и выше макс. HP +7%, Ловкость +10, Сноровка +10.",
+			"",
+			"Физ. урон по маленьким, средним и большим монстрам +1% за каждый уровень [Заклинания тени], идеальный удар +2%.",
+			"Если уровень [Тройного выстрела] 10 или больше, защита от элементов Ветер и Земля +30%.",
+			"Если уровень [Призрачного двойника] 10 или больше, восстанавливает 100 HP и 10 SP при убийстве монстра физ. атакой. Восстанавливает 2 SP за каждую успешную атаку.",
+			"Урон от [Тройного выстрела] +25%, урон от [Призрачного двойника] +15% за каждый уровень [Символа искажения].",
+			"Класс: ^777777Накидка^000000",
+			"Защита: ^77777712^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	}
