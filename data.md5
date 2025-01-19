@@ -1153,7 +1153,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 4d2bcc744b4c9563e387f7f8c390a71c *data\idnum2itemdisplaynametable.txt
-b5b54ee0b94525f9fb4f61c79c2fff2d *data\idnum2itemresnametable.txt
+dd514cfc7c5ad3790db7f6452777b60d *data\idnum2itemresnametable.txt
 bc27e5ded6660d19a1f75a9826cebb2c *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1199,7 +1199,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 7a88866bcfc40464f04cb72c17b639f9 *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-ca54f5130f89b947ba0ed7bee71e58c6 *data\itemslotcounttable.txt
+ee8ba9a9de9d0584eecf9d55ba177ec9 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1905,7 +1905,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 c9c18668b1995207e54ecebc77112bfd *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 7e2720e60ec9f7d5c257d02b954deb68 *data\num2itemdisplaynametable.txt
-4f8ae26d4404c2d423615db0aaba8302 *data\num2itemresnametable.txt
+62e474b2cc1914e3243dae516ee0135b *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -3115,7 +3115,7 @@ fac504a9cf0dfb68acc078f36facd1ea *data\luafiles514\lua files\datainfo\npcidentit
 205c1aa9b8941f34bc75f05c8a9b7661 *data\luafiles514\lua files\datainfo\npcidentity.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
 108465fac3eb114f145eba289132bf3c *data\luafiles514\lua files\datainfo\npclocationradius_f.lub
-5ef3def06f8850be3f54be0285e26cb9 *data\luafiles514\lua files\datainfo\pcjobnamegender.lub
+1db911b037469cbc772d2cbc097c6d6f *data\luafiles514\lua files\datainfo\pcjobnamegender.lub
 9eaa9083a41c04605d748dceae103451 *data\luafiles514\lua files\datainfo\pcjobnamegender_f.lub
 59e7dd55a968be3e7230e9194ad82781 *data\luafiles514\lua files\datainfo\petinfo.lub
 9c4ba4dcd9718c7892caa6ebe910fe85 *data\luafiles514\lua files\datainfo\shadowtable.lub
