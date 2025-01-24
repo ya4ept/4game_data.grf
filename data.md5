@@ -611,7 +611,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-fa460285e65b8161f5e1df63f9bffbc0 *data\buyingstoreitemlist.txt
+531ae9632bcb552f927665c43f607b61 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 800e9185043692d73a839abc971320b3 *data\cardpostfixnametable.txt
 2739e9717aa60e3637f35421a2958aa2 *data\cardprefixnametable.txt
@@ -856,7 +856,7 @@ c04ec330a4ad27fd6dc6665c65f6340c *data\eprt_maze03.rsw
 d496870d755cc55acc2337a6cb8c8696 *data\era_fild05.gat
 1c1f912d1054345d711a3c500af2dd92 *data\era_fild05.gnd
 eeec87b4dc2cb19abd41e5885881550d *data\era_fild05.rsw
-a9d46bb72c4c3e4763894940731a7733 *data\etcinfo.txt
+cc4e8061110096a9e533096fe38d2431 *data\etcinfo.txt
 3fc59aec5500ec664b3abef6a429b01d *data\etur_dun01.gat
 612f64392e518baf3402a365dcc64a25 *data\etur_dun01.gnd
 ad36ce683c808beef0047653ece382dd *data\etur_dun01.rsw
@@ -3327,7 +3327,7 @@ f04760b40fb70c3ad5de02a12b3a690c *data\luafiles514\lua files\skillinfoz\skillinf
 36c2f40067e38c862c8f0cb8bb1cfdcd *data\luafiles514\lua files\skillinfoz\skilltreeview.lub
 3f57dfad065edc205b1c178771a361a7 *data\luafiles514\lua files\skillinoz\skilldescript.lub
 fe71df509570f23f75ee3fadb694f9b6 *data\luafiles514\lua files\skillinoz\skillid.lub
-bb78c66292130ed43ad465a0deef1e45 *data\luafiles514\lua files\skillinoz\skillinfolist.lub
+ad7d3b810236fcd885d0b71c74643376 *data\luafiles514\lua files\skillinoz\skillinfolist.lub
 628ae4f769aa7d8b1887ff36ca58da96 *data\luafiles514\lua files\spreditinfo\2dlayerdir_f.lub
 8900cd382d0d98d39cdf43751d9ae5d2 *data\luafiles514\lua files\spreditinfo\biglayerdir_female.lub
 704cd0e068bde84fa6e014381eaaba29 *data\luafiles514\lua files\spreditinfo\biglayerdir_male.lub
@@ -75307,6 +75307,8 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\giant_protection.act
 3bd3ab3198d896a20191d4bf40388b19 *data\sprite\아이템\glittering_cat_choker.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\gloom_under_egg.act
 abb29adfdeea0e1a297833f3e993b8f4 *data\sprite\아이템\gloom_under_egg.spr
+fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\glotoneria.act
+5ce113aaf762f45a5667866fc404236f *data\sprite\아이템\glotoneria.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\glove_of_smith.act
 9b0a3ef82a0833dd84b2370133540460 *data\sprite\아이템\glove_of_smith.spr
 8f04d9a40e4dd3b95d994f7b36970b4e *data\sprite\아이템\gm_sandman.act
@@ -75874,6 +75876,8 @@ ee0cd04d8d5e6e02eecdcef20d1f7f62 *data\sprite\아이템\iro플래그모자.spr
 287bae0f50801e7b5a3c8fd3a25244ba *data\sprite\아이템\itm_tomahawk.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\jack_the_knife.act
 5632946513a5998513b823f3175ba0e2 *data\sprite\아이템\jack_the_knife.spr
+fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\jasper_ring.act
+acde18b551189532eff8a5aa797db7b0 *data\sprite\아이템\jasper_ring.spr
 b0e81cc1a05cec5a14a585be983a6b6c *data\sprite\아이템\jewel_of_time_ore.act
 17744049e60aca8abff4841f1627b693 *data\sprite\아이템\jewel_of_time_ore.spr
 0d42b562f866f8a399de0e6dfacb70d3 *data\sprite\아이템\jioia.act
@@ -79160,6 +79164,8 @@ fb2c4101b6b1ffc5f1f762d3f1e81850 *data\sprite\아이템\금우궁왕관.spr
 0e2030a08c6f0facdc2776cc80c2bec7 *data\sprite\아이템\금원보포링의모자.spr
 35fa492a72d65acafa3cd95148515a1b *data\sprite\아이템\금전주머니.act
 6df9bed41ea92d7d5a86606ca360391a *data\sprite\아이템\금전주머니.spr
+bc572eadd9060258e342b49894f83472 *data\sprite\아이템\금제의사슬.act
+75dfa583e4cc2e25b76927828cc19bc4 *data\sprite\아이템\금제의사슬.spr
 f336407d1eb1e274a752c8b3efb1dec2 *data\sprite\아이템\금주의두루마리.act
 ad5d6e7bb98f6279c946d7868ca0ab8b *data\sprite\아이템\금주의두루마리.spr
 bf1236f44bb7cd9a71ad6dcb71df4125 *data\sprite\아이템\금화.act
@@ -84172,8 +84178,8 @@ ac337a2e9ea2fb235fd29e1b1078ef1f *data\sprite\아이템\입에무는벚꽃가지.act
 cab481038aa3bab513fac44fa57a6adf *data\sprite\아이템\입에무는벚꽃가지.spr
 d5d231bf8f3dc791eefc0a6363c3dae2 *data\sprite\아이템\입에무는부채.act
 731c2fc440148509b353ad1b47c07baf *data\sprite\아이템\입에무는부채.spr
-fb2877dbc8356efb6b26bc1a894aa330 *data\sprite\아이템\입에무는식물줄기.act
-b9e48405708d8d053f2e21c70f86fd79 *data\sprite\아이템\입에무는식물줄기.spr
+e1d4da8c27a15d5ea8bd1379eb656c7e *data\sprite\아이템\입에무는식물줄기.act
+602f30029a88707cd8b9fe2d253445cb *data\sprite\아이템\입에무는식물줄기.spr
 aef374e06de209cd76e86f46c1c83aa3 *data\sprite\아이템\입에무는연필.act
 1196c7dfdb826490787c397db4061b13 *data\sprite\아이템\입에무는연필.spr
 2419866be3cb700134e60fd4407957c0 *data\sprite\아이템\입에무는오렌지.act
@@ -88694,6 +88700,8 @@ a5a9bf76143d545a7c43a014e406d997 *data\sprite\악세사리\남\남_금빛음색.spr
 5d31ca7ca4aa4d18e93b09281ce581c6 *data\sprite\악세사리\남\남_금우궁왕관.spr
 e740c0724b0a0b828f342dc01ef7fd71 *data\sprite\악세사리\남\남_금원보포링의모자.act
 4aec741d8a6a915b35cd9429795a744f *data\sprite\악세사리\남\남_금원보포링의모자.spr
+46a84a82f0a9c89d48efccce78a17efe *data\sprite\악세사리\남\남_금제의사슬.act
+1735b30adf162974725ef0aa44c41177 *data\sprite\악세사리\남\남_금제의사슬.spr
 137b5ddde05959eac89f6f9cb1be4974 *data\sprite\악세사리\남\남_금주의두루마리.act
 caeea3c3e985255060b4aa1e930fa612 *data\sprite\악세사리\남\남_금주의두루마리.spr
 ecd28614653542c53fdcf38826bee18a *data\sprite\악세사리\남\남_국경일모자.act
@@ -90009,8 +90017,8 @@ ffeb930907e6ab47b0aba507205d3792 *data\sprite\악세사리\남\남_입에무는막대사탕.sp
 217b2388b9d5b3247d90add67c154421 *data\sprite\악세사리\남\남_입에무는벚꽃가지.spr
 15a04aa51a553685920c3b070b4913c4 *data\sprite\악세사리\남\남_입에무는부채.act
 62fece83f4b030c114a46b5b7f68d06d *data\sprite\악세사리\남\남_입에무는부채.spr
-f6ffc6a0ce863661d3a34539ff5c1f9d *data\sprite\악세사리\남\남_입에무는식물줄기.act
-395a6ea369df574656d3792707b52f7d *data\sprite\악세사리\남\남_입에무는식물줄기.spr
+440bc7f4eb8411ff96499ed619a52eb6 *data\sprite\악세사리\남\남_입에무는식물줄기.act
+818c20788ddd8c38a73c34dd133cc846 *data\sprite\악세사리\남\남_입에무는식물줄기.spr
 a2011fdefc61b520259385b81debcd1a *data\sprite\악세사리\남\남_입에무는연필.act
 9999dd1d9008b68876b3047ebb24849d *data\sprite\악세사리\남\남_입에무는연필.spr
 988c1a7ff104725892e78cc3d4211ed5 *data\sprite\악세사리\남\남_입에무는오렌지.act
@@ -92235,6 +92243,8 @@ d9e438b73b3426a9ad34a000dec9226d *data\sprite\악세사리\여\여_금우궁왕관.act
 b8a8a7b582d891592dca607999c675bf *data\sprite\악세사리\여\여_금우궁왕관.spr
 c12f354d627164ce6283b960bc4097af *data\sprite\악세사리\여\여_금원보포링의모자.act
 ada953d60c82767a37801e0d0988497a *data\sprite\악세사리\여\여_금원보포링의모자.spr
+20b2ade5bfbae860b22c9a68b128e727 *data\sprite\악세사리\여\여_금제의사슬.act
+1735b30adf162974725ef0aa44c41177 *data\sprite\악세사리\여\여_금제의사슬.spr
 565e08b4913f8b49303b126c7ddd5f54 *data\sprite\악세사리\여\여_금주의두루마리.act
 7f5087b9a9ecfac014d89b861a606cd4 *data\sprite\악세사리\여\여_금주의두루마리.spr
 11f9f8aa844ae89b191844556b1a5811 *data\sprite\악세사리\여\여_국경일모자.act
@@ -93551,8 +93561,8 @@ a14c45cc0cca9e841b763456040f40cd *data\sprite\악세사리\여\여_입에무는벚꽃가지.ac
 217b2388b9d5b3247d90add67c154421 *data\sprite\악세사리\여\여_입에무는벚꽃가지.spr
 eab94702024eab4d16384aca4ed54520 *data\sprite\악세사리\여\여_입에무는부채.act
 62fece83f4b030c114a46b5b7f68d06d *data\sprite\악세사리\여\여_입에무는부채.spr
-e52902e53661258318a14e91f8c4b5f4 *data\sprite\악세사리\여\여_입에무는식물줄기.act
-395a6ea369df574656d3792707b52f7d *data\sprite\악세사리\여\여_입에무는식물줄기.spr
+3ced1a6c1b5f34be89b468e10cfc730c *data\sprite\악세사리\여\여_입에무는식물줄기.act
+818c20788ddd8c38a73c34dd133cc846 *data\sprite\악세사리\여\여_입에무는식물줄기.spr
 b7a5d37fb46333918279e820cfc29163 *data\sprite\악세사리\여\여_입에무는연필.act
 9999dd1d9008b68876b3047ebb24849d *data\sprite\악세사리\여\여_입에무는연필.spr
 4038b0fa9491b22f585360da846ca35f *data\sprite\악세사리\여\여_입에무는오렌지.act
@@ -116439,6 +116449,7 @@ fd58e9b3949ca434e34a248e75b87182 *data\texture\유저인터페이스\collection\giantca
 ea905471ffa7b8f5acf2a00450943445 *data\texture\유저인터페이스\collection\gift_of_panagia.bmp
 c9cca6d87e5400794b431bbbb6deb203 *data\texture\유저인터페이스\collection\glittering_cat_choker.bmp
 00074400e9bd92248fde71a696f7adad *data\texture\유저인터페이스\collection\gloom_under_egg.bmp
+5767c675a2ff2521e4e37e5c6a2eb49e *data\texture\유저인터페이스\collection\glotoneria.bmp
 104ab8099f3f35292f69f75bf229cd6c *data\texture\유저인터페이스\collection\glove_of_smith.bmp
 b46f403873494c1a08a3268d13b018b1 *data\texture\유저인터페이스\collection\goibne_armor_il.bmp
 ce476a37df9a6263483fcd6bfc26893e *data\texture\유저인터페이스\collection\goibne_boots_il.bmp
@@ -116633,6 +116644,7 @@ e3a64a1aa178d1e853bcd95e1d31ffed *data\texture\유저인터페이스\collection\iron_dr
 b304b2c170c8ecfc0f70e5ec1d03a46c *data\texture\유저인터페이스\collection\iro플래그모자.bmp
 99951def62a55fc8e5233f6d5c07585e *data\texture\유저인터페이스\collection\iro플래그모자box.bmp
 605b700e78d99597c779764edd586c43 *data\texture\유저인터페이스\collection\jack_the_knife.bmp
+98ae38e5fa0fb7363a70f490f5c32b04 *data\texture\유저인터페이스\collection\jasper_ring.bmp
 40dfda6de62213c78d54a5bc6b46507e *data\texture\유저인터페이스\collection\jewel_of_time_ore.bmp
 c909e66cb57f03e98e3cba64a30e71ab *data\texture\유저인터페이스\collection\jioia.bmp
 4f3f98fc895a64b948c8deb02485080b *data\texture\유저인터페이스\collection\jirant_mirror.bmp
@@ -117554,6 +117566,7 @@ e0378dc67cd1f38d640b8b28b8af28bf *data\texture\유저인터페이스\collection\금빛털.
 bcdf9628eab798b4556edf86f7e34f3c *data\texture\유저인터페이스\collection\금운모.bmp
 174a84e40434e85815754c7d356b9016 *data\texture\유저인터페이스\collection\금원보포링의모자.bmp
 33029a8b35675f3a18fe0c13e6522cac *data\texture\유저인터페이스\collection\금전주머니.bmp
+d0371f321c8f71a7b4dce51e09736099 *data\texture\유저인터페이스\collection\금제의사슬.bmp
 0c9938beba3f847b23cb22441babc621 *data\texture\유저인터페이스\collection\금주의두루마리.bmp
 02a7dfece78578a591b66eddc908f26b *data\texture\유저인터페이스\collection\금화.bmp
 af9edc6073979df684e38d14ba85ad5f *data\texture\유저인터페이스\collection\금환약.bmp
@@ -120123,7 +120136,7 @@ e755b6d93bbbb40188f856bacd6835c2 *data\texture\유저인터페이스\collection\입에무�
 3bdf8dc46b1a78e7a12c8258d091766e *data\texture\유저인터페이스\collection\입에무는막대사탕.bmp
 f1e7fd83df14cda8c29d3d13334623dd *data\texture\유저인터페이스\collection\입에무는벚꽃가지.bmp
 4b00569d1cdc02460b5df45c6434593e *data\texture\유저인터페이스\collection\입에무는부채.bmp
-fb73c0e6f567ed651719a411629e3060 *data\texture\유저인터페이스\collection\입에무는식물줄기.bmp
+4b42fa939de29a777aab12c157adba22 *data\texture\유저인터페이스\collection\입에무는식물줄기.bmp
 b4d2c8f0532bc76728a79c288d57c891 *data\texture\유저인터페이스\collection\입에무는연필.bmp
 303cccce05fa71d060927164106764ed *data\texture\유저인터페이스\collection\입에무는오렌지.bmp
 245cd412b9d59fd21d2231b50c0a1995 *data\texture\유저인터페이스\collection\입에무는설탕과일.bmp
@@ -124064,6 +124077,7 @@ f6e5ab0bda456c336eca93fb496b8e05 *data\texture\유저인터페이스\item\giantcatbag.b
 7a4eb5fd652febba9b7de071b057b475 *data\texture\유저인터페이스\item\glittering_cat_choker.bmp
 915a9652cf0529d6ec99e9e82c771cc0 *data\texture\유저인터페이스\item\gloom_under_egg.bmp
 f30621ed6afb35fbb4b7dd36cd2d337c *data\texture\유저인터페이스\item\gloria.bmp
+18fef1ae40233fa65b31c59ed309b368 *data\texture\유저인터페이스\item\glotoneria.bmp
 866c36ebcc75bcb8270d9ac46074f90e *data\texture\유저인터페이스\item\glove_of_smith.bmp
 57c106f7a7a5648786b1c1e59e4af1d9 *data\texture\유저인터페이스\item\gm_item_atkmax.bmp
 57c106f7a7a5648786b1c1e59e4af1d9 *data\texture\유저인터페이스\item\gm_item_atkmin.bmp
@@ -124356,6 +124370,7 @@ c57b933e9a6d9f0ac76f7312453e32cd *data\texture\유저인터페이스\item\iro플래그모자
 6efbf418909c6d197f92831ad7f460ff *data\texture\유저인터페이스\item\iro플래그모자box.bmp
 1704e040b963f3ee481eee7dce954bc5 *data\texture\유저인터페이스\item\itm_tomahawk.bmp
 66d60c3bb2ede965c549206c71e877e5 *data\texture\유저인터페이스\item\jack_the_knife.bmp
+07fb3b6156c3e01be368473dc48b0c66 *data\texture\유저인터페이스\item\jasper_ring.bmp
 efd7ab8f9f04ec7684a9d6fae11e9a59 *data\texture\유저인터페이스\item\jewel_of_time_ore.bmp
 3d1cbc9d05619cb15d364dac5a0be3ff *data\texture\유저인터페이스\item\jioia.bmp
 d423c584c1ab6fb68bedc87965c3413f *data\texture\유저인터페이스\item\jirant_mirror.bmp
@@ -126058,6 +126073,7 @@ c44913a1a0c5fc9078796ddf1b8c02f4 *data\texture\유저인터페이스\item\금목걸이_.bmp
 5ff5c0e94df03f323976f99116e055b9 *data\texture\유저인터페이스\item\금운모.bmp
 69dded5c23356e6f3be2a693f889b50b *data\texture\유저인터페이스\item\금원보포링의모자.bmp
 e1ee8d68adee89b90c937c12ea287866 *data\texture\유저인터페이스\item\금전주머니.bmp
+0023a8abd681460a45f21a1e09b6beb2 *data\texture\유저인터페이스\item\금제의사슬.bmp
 afa9eb7e5f4d5cac09df88cd4e63981a *data\texture\유저인터페이스\item\금주의두루마리.bmp
 41c67b3c63e7c245746bdc1965606f04 *data\texture\유저인터페이스\item\금화.bmp
 6ade40f043e7b556042f68f5c38942dc *data\texture\유저인터페이스\item\금환약.bmp
@@ -128619,7 +128635,7 @@ b23ee0455ededbf34af8ea1c0443ba85 *data\texture\유저인터페이스\item\입에무는빨간�
 2053084b762d7bd43cc2a654436fc771 *data\texture\유저인터페이스\item\입에무는막대사탕.bmp
 58dd7abfba1d7f0966669cf86e4282bd *data\texture\유저인터페이스\item\입에무는벚꽃가지.bmp
 462fb471cc02508974b192b430bf8683 *data\texture\유저인터페이스\item\입에무는부채.bmp
-4ca25ef87283ce12bd5cd5e90641aa4d *data\texture\유저인터페이스\item\입에무는식물줄기.bmp
+6b470cddfebd55bcf4ecb4eef8ca24d2 *data\texture\유저인터페이스\item\입에무는식물줄기.bmp
 ab5f5045d45ea08f8d032aa998a60abe *data\texture\유저인터페이스\item\입에무는연필.bmp
 ce0a1944635aad40f88e861b258ad321 *data\texture\유저인터페이스\item\입에무는오렌지.bmp
 07437e2e9893075f84fad6bd482c010f *data\texture\유저인터페이스\item\입에무는설탕과일.bmp
