@@ -16351,5 +16351,29 @@ SKILL_DESCRIPT = {
 		"received healing +12%",
 		"[LV 5] MATK +100, max HP 2000, Max SP 200,",
 		"received healing +15%"
+	},
+	[SKID.GD_CHARGESHOUT_FLAG] = {
+		"[Thrust Flag]",
+		"Type: ^000099Active^000000",
+		"Description: ^777777This skill is only enabled during",
+		"WoE. Only the guildmaster can use it and set up",
+		"the flag that guildmembers can gather",
+		"immediately^000000"
+	},
+	[SKID.GD_CHARGESHOUT_BEATING] = {
+		"[Ringing Thrust]",
+		"Type: ^000099Active^000000",
+		"Description: ^777777This skill is only enabled during",
+		"WoE. Can be used by any guildmember to move",
+		"immediately to the location where the ",
+		"bombardment flags are installed^000000"
+	},
+	[SKID.GD_EMERGENCY_MOVE] = {
+		"[Emergency Movement]",
+		"Type: ^000099Active^000000",
+		"Description: ^777777This skill is only enabled during",
+		"WoE. Only the guildmaster can use it which",
+		"greatly increases the guild's movement speed",
+		"around the guildmaster.^000000"
 	}
 }

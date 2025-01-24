@@ -17234,7 +17234,7 @@ First encounter.#
 
 
 12317#Trace of Time Travel#SG_FEEL#QUE_NOIMAGE#
-Time travel to Old Glast Heim has been prohibited for 23hours.#
+Time travel to Old Glast Heim has been prohibited for 16 hours.#
 Dimension distorted.#
 
 
@@ -19629,7 +19629,7 @@ Rest if tired#
 
 // EP15_2 Memory record
 5341#Limits of Journeys#SG_FEEL#QUE_NOIMAGE#
-Start a journey using a Memory Record. This journey is possible up to 22 hours.#
+Started a journey using a Memory Record. You have 22 hours to complete this journey.#
 Time limit 22 hours#
 
 5342#Help Her#SG_FEEL#QUE_NOIMAGE#
@@ -25115,7 +25115,7 @@ Talk to Muyeon.#
 //Episode 17.1 A New Area of Operations
 
 7850#Cat on a Bullet#SG_FEEL#QUE_NOIMAGE#
-The member of the Rebellion I met in Einbech said that his group is using an Einbroch store as a base to cover its area of operations that's gotten bigger as of late. I should find the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> in Einbroch.#
+The member of the Rebellion I met in Einbech said that his group is using an Einbroch store as a base to cover its area of operations that's gotten bigger as of late. I should find the <NAVI>[Cat on a<INFO>einbroch,302,329,0,101,0</INFO></NAVI> <NAVI> Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> in Einbroch.#
 Talk to Tes at the Cat#
 
 7851#New Area of Operations#SG_FEEL#QUE_NOIMAGE#
@@ -25159,7 +25159,7 @@ Report to Tes#
 Talk to Tes in the Secret Room#
 
 7861#The Corporation in Crisis#SG_FEEL#QUE_NOIMAGE#
-I've decided to join forces with Est and others to reclaim the Regenschirm Laboratory from those traitors. I should go to Lighthalzen and meet the <NAVI>[Republic Guard]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> waiting for me there.#
+I've decided to join forces with Est and others to reclaim the Regenschirm Laboratory from those traitors. I should go to Lighthalzen and meet the <NAVI>[Republic<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI><NAVI> Guard]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> waiting for me there.#
 Talk to Republic Guard#
 
 7862#Regenschirm Reclamation#SG_FEEL#QUE_NOIMAGE#
@@ -25175,7 +25175,7 @@ While Tes analyzes the data, I've decided to help Rage. I should look for him in
 Talk to Rage#
 
 7865#Second Operation#SG_FEEL#QUE_NOIMAGE#
-A new operation will take place in the closed mine in the northwestern Einbroch field. I should meet with the <NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> waiting there and join the operation.#
+A new operation will take place in the closed mine in the northwestern Einbroch field. I should meet with the <NAVI>[Rebellion<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI><NAVI> Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> waiting there and join the operation.#
 Talk to Rebellion Member#
 
 7866#To the Cat on a Bullet#SG_FEEL#QUE_NOIMAGE#
@@ -25215,11 +25215,11 @@ Enter#
 
 
 11601#Old Memories#SG_FEEL#QUE_NOIMAGE#
-A path to the next area has been opened. I should report back to the Cat on a Bullet, and pick up the thing that Dien wants from his room.#
-To the Cat on a Bullet#
+A path to the next area has been opened. I should report back to Clana Nemieri and pick up the thing that Dien wants from her room.#
+To Clana Nemieri#
 
 11602#Old Memories#SG_FEEL#QUE_NOIMAGE#
-Pick up what Dien wants from his room.#
+Pick up what Dien wants from her room.#
 Dien's Charm#
 
 11603#Old Memories#SG_FEEL#QUE_NOIMAGE#
@@ -25384,7 +25384,7 @@ Where do newcomers go when they come here for the first time? Let's go to the <N
 Enter the Headquarters#
 
 27008#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
-Everyone, let's move to the <NAVI>[Meeting Room]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> on the second floor, where Patsy begun his life at Rekenber.#
+Everyone, let's move to the <NAVI>[Meeting<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI><NAVI> Room]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> on the second floor, where Patsy begun his life at Rekenber.#
 To Floor 2#
 
 27009#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
@@ -25392,7 +25392,7 @@ Why did the Lab only take physically healthy people? I'm curious. There must be 
 Annex Lab#
 
 27010#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
-Patrick Kaufman? Who's that? I'm sorry, but I really don't know. Maybe <NAVI>[someone else]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> in the back over there knows.#
+Patrick Kaufman? Who's that? I'm sorry, but I really don't know. Maybe <NAVI>[someone<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI><NAVI> else]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> in the back over there knows.#
 To the back#
 
 27011#Investigate Rekenber#SG_FEEL#QUE_NOIMAGE#
@@ -25434,7 +25434,7 @@ Join the search#
 
 // Ep. 17.1 Patsy's Career Map 2
 27020#Relaunch Investigation#SG_FEEL#QUE_NOIMAGE#
-Please keep investigating Patrick Kaufman's whereabouts. The <NAVI>[people who used to work]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> here might be able to tell you something.#
+Please keep investigating Patrick Kaufman's whereabouts. The <NAVI>[people who<INFO>sp_cor,133,144,0,101,0</INFO></NAVI><NAVI> used to work]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> here might be able to tell you something.#
 To workers#
 
 27021#Searching for Patsy#SG_FEEL#QUE_NOIMAGE#
