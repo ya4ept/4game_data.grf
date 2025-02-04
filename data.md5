@@ -611,10 +611,10 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-531ae9632bcb552f927665c43f607b61 *data\buyingstoreitemlist.txt
+7975e4af4aa921319f712bf91df93a85 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 800e9185043692d73a839abc971320b3 *data\cardpostfixnametable.txt
-2739e9717aa60e3637f35421a2958aa2 *data\cardprefixnametable.txt
+0356589e01f416389e5a5ac7ac6c21d6 *data\cardprefixnametable.txt
 57886ddffe8057e50bd53ef5dbdf4be3 *data\cave.gat
 fb12f350fc192bbd52247c7eab62ed21 *data\cave.gnd
 ab0d98ad296174c495843ffb39e60a2c *data\cave.rsw
@@ -1189,8 +1189,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 3104c3c140ae41201d546f857b32a249 *data\ice_dun04.gnd
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
-9ed894b4a5933dbdb185ed60c4a5ea8c *data\idnum2itemdisplaynametable.txt
-d098263bd8b2ec6a20cb698b85f4023e *data\idnum2itemresnametable.txt
+e5feacf2974756c8bbdd17390c336cdf *data\idnum2itemdisplaynametable.txt
+d03477bd561c8cb9cb32ade1b962ffaa *data\idnum2itemresnametable.txt
 d6e7c5ac6f066199a8339bdeb6ed947d *data\idnum2itemresnametable_new.txt
 02d943ecfdefc25c1454d945e5ad5975 *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1237,7 +1237,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-585c382e3a95f3e76fee2dfad574fbd7 *data\itemslotcounttable.txt
+d775c0ac04f6ae44a9f3babfe4703c8b *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1946,8 +1946,8 @@ f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 67311ad706da4ead886a0ec143bf2179 *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
-64d51206c45c5154d3ca7145c1691c1e *data\num2itemdisplaynametable.txt
-09afc3f5f3a92cde480447674fffbe9d *data\num2itemresnametable.txt
+67495ac72ba3f97091bb4e56b26e5a70 *data\num2itemdisplaynametable.txt
+11defdc1eebaa864b8177bc67ccb74a4 *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -88418,7 +88418,7 @@ ff371577b9d291de19e6f18f3e5795cb *data\sprite\악세사리\남\남_tipsy.act
 fc4102e20c6a0c103938bfa8afba35e5 *data\sprite\악세사리\남\남_tipsy.spr
 9cbf14fb0d46767808c650d2adde38dc *data\sprite\악세사리\남\남_ufo포링모자.act
 63adbeef81212296f2354fc93ead90b0 *data\sprite\악세사리\남\남_ufo포링모자.spr
-4394fd18fe19497e09a529c9606a2a3c *data\sprite\악세사리\남\남_vassalage_necklace.act
+27e54a5251019f42231f64179a9e636f *data\sprite\악세사리\남\남_vassalage_necklace.act
 cd3fa7c561a924b6e53df13def0019cf *data\sprite\악세사리\남\남_vassalage_necklace.spr
 79456c50e762ea126922e3cd34099454 *data\sprite\악세사리\남\남_vesperheadgear.act
 886dd682ec4d159130dcec9f7575f7bd *data\sprite\악세사리\남\남_vesperheadgear.spr
@@ -91957,7 +91957,7 @@ bf1c2289a7c2dd6b7238e64f2519410a *data\sprite\악세사리\여\여_tiger_glass.spr
 fc4102e20c6a0c103938bfa8afba35e5 *data\sprite\악세사리\여\여_tipsy.spr
 02230773d38897626d04aec1793c6542 *data\sprite\악세사리\여\여_ufo포링모자.act
 402972828e811da4009449d40b02dee1 *data\sprite\악세사리\여\여_ufo포링모자.spr
-ae12267ce1c62ad9d122dc0986b53473 *data\sprite\악세사리\여\여_vassalage_necklace.act
+a76fde79a2a6b5bb3a33fa4ad121cebf *data\sprite\악세사리\여\여_vassalage_necklace.act
 cd3fa7c561a924b6e53df13def0019cf *data\sprite\악세사리\여\여_vassalage_necklace.spr
 fb33c63055e83bce9e7936d062f959ef *data\sprite\악세사리\여\여_vesperheadgear.act
 886dd682ec4d159130dcec9f7575f7bd *data\sprite\악세사리\여\여_vesperheadgear.spr
@@ -126882,7 +126882,7 @@ e40b1b46947a53a8e1188aa86ef27b7b *data\texture\유저인터페이스\item\매지션의나이�
 db10aee98cea1ba2489364f59cd098f1 *data\texture\유저인터페이스\item\매지컬부스터.bmp
 c945d0b3e97a3b32b1e8ef0c8f691eb8 *data\texture\유저인터페이스\item\매지컬페더.bmp
 1a90a1f1e27606b0745bc1bdf2ad4261 *data\texture\유저인터페이스\item\매직데코이인형.bmp
-68fe19db481243a2730063ae8d6efcd7 *data\texture\유저인터페이스\item\매직아이즈.bmp
+9732134f298d5b8cd3ac2934d70a51b5 *data\texture\유저인터페이스\item\매직아이즈.bmp
 ab3b24c6cc8e6de099f2d1795e9c660c *data\texture\유저인터페이스\item\매직아이즈box.bmp
 d60c4ae9d6c354e7c4ba09257e894580 *data\texture\유저인터페이스\item\매직코트.bmp
 754af03790b175bc346a539b15bf21a9 *data\texture\유저인터페이스\item\매달린인형.bmp

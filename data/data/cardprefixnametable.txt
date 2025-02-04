@@ -510,7 +510,7 @@
 4560#of Bragi#
 4561#of Magic Protection#
 4562#of Penetrating#
-4563#of Acid#
+4563#Кислоты#
 4564#of Gentleman#
 4565#of Grand Cross#
 4566#of Lucky#
@@ -525,7 +525,7 @@
 4575#Short Cut#
 4576#Educe#
 4577#Psychic#
-4578#Fear#
+4578#Страха#
 4579#Morning Star#
 4580#of Devilish#
 4581#Toilet#
@@ -533,22 +533,22 @@
 4583#of Poison Grass#
 4584#Vampiric#
 4585#Cursed#
-4586#of Wind#
+4586#Ветра#
 4587#Slasher#
-4588#of Power#
+4588#Силы#
 4589#of Richness#
 4590#of Helplessness#
 4591#of Bloody#
 4592#of Stone Curse#
 4593#of Shooter#
 4594#of Death Blow#
-4595#of Acid#
+4595#Кислоты#
 4596#of Intellectual#
-4597#of Water#
+4597#Воды#
 4598#of Telekinesis#
-4599#of Fire#
-4600#of Ground#
-4601#of Explosion#
+4599#Огня#
+4600#Земли#
+4601#Взрывов#
 4602#Безумия#
 4603#Злых духов#
 4604#Призраков#
