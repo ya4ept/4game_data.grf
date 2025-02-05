@@ -587,7 +587,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-d5aac8a16ce27a2dd7cc05bbc09f6725 *data\buyingstoreitemlist.txt
+635b720e162dadf5020ad64d356b1c10 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 3a658d642ab2f99dc563fdc5d76123ad *data\cardpostfixnametable.txt
 8e78ef515ac0b8039bbdd580d3b5234e *data\cardprefixnametable.txt
@@ -1152,8 +1152,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 3104c3c140ae41201d546f857b32a249 *data\ice_dun04.gnd
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
-4d2bcc744b4c9563e387f7f8c390a71c *data\idnum2itemdisplaynametable.txt
-dd514cfc7c5ad3790db7f6452777b60d *data\idnum2itemresnametable.txt
+bd44071074891d9e5afdccf8d471a09f *data\idnum2itemdisplaynametable.txt
+d67897f0944a61bc1ac1cadd0a707b88 *data\idnum2itemresnametable.txt
 bc27e5ded6660d19a1f75a9826cebb2c *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1197,9 +1197,9 @@ b062cab06f5aacec1357564a738fe2ac *data\in_sphinx3.gnd
 406ef46af14ec2f43e81f9ab5208d0b0 *data\in_sphinx5.gat
 de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
-7a88866bcfc40464f04cb72c17b639f9 *data\itemmoveinfov5.txt
+1c3de00e1808646d13ddc94aae2d2acc *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-ee8ba9a9de9d0584eecf9d55ba177ec9 *data\itemslotcounttable.txt
+2d667e6d9e1568fa00014022e825127d *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1904,8 +1904,8 @@ f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 c9c18668b1995207e54ecebc77112bfd *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
-7e2720e60ec9f7d5c257d02b954deb68 *data\num2itemdisplaynametable.txt
-62e474b2cc1914e3243dae516ee0135b *data\num2itemresnametable.txt
+0f1a7feab19a544c9eba6feee7f40a52 *data\num2itemdisplaynametable.txt
+8b6a2ba16e816c6fe56fe2c9c5b9b1ec *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -82326,6 +82326,8 @@ fb2c4101b6b1ffc5f1f762d3f1e81850 *data\sprite\아이템\금우궁왕관.spr
 0e2030a08c6f0facdc2776cc80c2bec7 *data\sprite\아이템\금원보포링의모자.spr
 35fa492a72d65acafa3cd95148515a1b *data\sprite\아이템\금전주머니.act
 6df9bed41ea92d7d5a86606ca360391a *data\sprite\아이템\금전주머니.spr
+bc572eadd9060258e342b49894f83472 *data\sprite\아이템\금제의사슬.act
+75dfa583e4cc2e25b76927828cc19bc4 *data\sprite\아이템\금제의사슬.spr
 f336407d1eb1e274a752c8b3efb1dec2 *data\sprite\아이템\금주의두루마리.act
 ad5d6e7bb98f6279c946d7868ca0ab8b *data\sprite\아이템\금주의두루마리.spr
 bf1236f44bb7cd9a71ad6dcb71df4125 *data\sprite\아이템\금화.act
@@ -91596,7 +91598,7 @@ ff371577b9d291de19e6f18f3e5795cb *data\sprite\악세사리\남\남_tipsy.act
 fc4102e20c6a0c103938bfa8afba35e5 *data\sprite\악세사리\남\남_tipsy.spr
 9cbf14fb0d46767808c650d2adde38dc *data\sprite\악세사리\남\남_ufo포링모자.act
 63adbeef81212296f2354fc93ead90b0 *data\sprite\악세사리\남\남_ufo포링모자.spr
-4394fd18fe19497e09a529c9606a2a3c *data\sprite\악세사리\남\남_vassalage_necklace.act
+27e54a5251019f42231f64179a9e636f *data\sprite\악세사리\남\남_vassalage_necklace.act
 cd3fa7c561a924b6e53df13def0019cf *data\sprite\악세사리\남\남_vassalage_necklace.spr
 79456c50e762ea126922e3cd34099454 *data\sprite\악세사리\남\남_vesperheadgear.act
 886dd682ec4d159130dcec9f7575f7bd *data\sprite\악세사리\남\남_vesperheadgear.spr
@@ -91880,6 +91882,8 @@ a5a9bf76143d545a7c43a014e406d997 *data\sprite\악세사리\남\남_금빛음색.spr
 5d31ca7ca4aa4d18e93b09281ce581c6 *data\sprite\악세사리\남\남_금우궁왕관.spr
 e740c0724b0a0b828f342dc01ef7fd71 *data\sprite\악세사리\남\남_금원보포링의모자.act
 4aec741d8a6a915b35cd9429795a744f *data\sprite\악세사리\남\남_금원보포링의모자.spr
+46a84a82f0a9c89d48efccce78a17efe *data\sprite\악세사리\남\남_금제의사슬.act
+1735b30adf162974725ef0aa44c41177 *data\sprite\악세사리\남\남_금제의사슬.spr
 137b5ddde05959eac89f6f9cb1be4974 *data\sprite\악세사리\남\남_금주의두루마리.act
 caeea3c3e985255060b4aa1e930fa612 *data\sprite\악세사리\남\남_금주의두루마리.spr
 ecd28614653542c53fdcf38826bee18a *data\sprite\악세사리\남\남_국경일모자.act
@@ -95153,7 +95157,7 @@ bf1c2289a7c2dd6b7238e64f2519410a *data\sprite\악세사리\여\여_tiger_glass.spr
 fc4102e20c6a0c103938bfa8afba35e5 *data\sprite\악세사리\여\여_tipsy.spr
 02230773d38897626d04aec1793c6542 *data\sprite\악세사리\여\여_ufo포링모자.act
 402972828e811da4009449d40b02dee1 *data\sprite\악세사리\여\여_ufo포링모자.spr
-ae12267ce1c62ad9d122dc0986b53473 *data\sprite\악세사리\여\여_vassalage_necklace.act
+a76fde79a2a6b5bb3a33fa4ad121cebf *data\sprite\악세사리\여\여_vassalage_necklace.act
 cd3fa7c561a924b6e53df13def0019cf *data\sprite\악세사리\여\여_vassalage_necklace.spr
 fb33c63055e83bce9e7936d062f959ef *data\sprite\악세사리\여\여_vesperheadgear.act
 886dd682ec4d159130dcec9f7575f7bd *data\sprite\악세사리\여\여_vesperheadgear.spr
@@ -95441,6 +95445,8 @@ d9e438b73b3426a9ad34a000dec9226d *data\sprite\악세사리\여\여_금우궁왕관.act
 b8a8a7b582d891592dca607999c675bf *data\sprite\악세사리\여\여_금우궁왕관.spr
 c12f354d627164ce6283b960bc4097af *data\sprite\악세사리\여\여_금원보포링의모자.act
 ada953d60c82767a37801e0d0988497a *data\sprite\악세사리\여\여_금원보포링의모자.spr
+20b2ade5bfbae860b22c9a68b128e727 *data\sprite\악세사리\여\여_금제의사슬.act
+1735b30adf162974725ef0aa44c41177 *data\sprite\악세사리\여\여_금제의사슬.spr
 565e08b4913f8b49303b126c7ddd5f54 *data\sprite\악세사리\여\여_금주의두루마리.act
 7f5087b9a9ecfac014d89b861a606cd4 *data\sprite\악세사리\여\여_금주의두루마리.spr
 11f9f8aa844ae89b191844556b1a5811 *data\sprite\악세사리\여\여_국경일모자.act
@@ -104634,7 +104640,7 @@ d7312b2286702227f59766adcbcac6f6 *data\texture\kung_ta_02.bmp
 6844140655574446a70d5139296050c3 *data\texture\maparrow_head.bmp
 66f9e6310f794f93c5de9aea81a9eabf *data\texture\mo-castle-hr-1.bmp
 39563d5c2bc2a705d6de1430fdbc6908 *data\texture\mo-castle-hr2.bmp
-37e482e07fb77db5644110726f3c7280 *data\texture\num2itemresnametable.txt
+7bb56cc23a6898333622ffd2098c5829 *data\texture\num2itemresnametable.txt
 1c8fd176e72fe63b626e274a88bc30b9 *data\texture\p-de-00 copy.bmp
 d802c2661a44cf345992078d6277faeb *data\texture\p-de-01.bmp
 3aff56fc844223172b474df96affef43 *data\texture\pe_beung2_01.bmp
@@ -120070,6 +120076,7 @@ e2d9dc95d9d3d760392180048ba82506 *data\texture\유저인터페이스\collection\up_undi
 7897876590e1d1a176d0a3667c2609a0 *data\texture\유저인터페이스\collection\valentinesset.bmp
 367a17de0bb5ca86a187b6b45ac80fe3 *data\texture\유저인터페이스\collection\valkyrie_drop.bmp
 ccfa5d98ac30d057b58d19f560874753 *data\texture\유저인터페이스\collection\vampire's_servant.bmp
+87970a9c61f1a1afbb609478d8dc32f6 *data\texture\유저인터페이스\collection\vassalage_necklace.bmp
 486f0880cfe7aab4a775138c4e0c1bc7 *data\texture\유저인터페이스\collection\vend_arbeit1_1lv.bmp
 4c3c61c1dc0a130efc6f1ba51f1d0cc2 *data\texture\유저인터페이스\collection\vend_arbeit1_2lv.bmp
 3bd7bd5ca3bfecc3176e6ac8da80ff71 *data\texture\유저인터페이스\collection\vend_arbeit1_3lv.bmp
@@ -120571,6 +120578,7 @@ e0378dc67cd1f38d640b8b28b8af28bf *data\texture\유저인터페이스\collection\금빛털.
 bcdf9628eab798b4556edf86f7e34f3c *data\texture\유저인터페이스\collection\금운모.bmp
 174a84e40434e85815754c7d356b9016 *data\texture\유저인터페이스\collection\금원보포링의모자.bmp
 33029a8b35675f3a18fe0c13e6522cac *data\texture\유저인터페이스\collection\금전주머니.bmp
+d0371f321c8f71a7b4dce51e09736099 *data\texture\유저인터페이스\collection\금제의사슬.bmp
 0c9938beba3f847b23cb22441babc621 *data\texture\유저인터페이스\collection\금주의두루마리.bmp
 02a7dfece78578a591b66eddc908f26b *data\texture\유저인터페이스\collection\금화.bmp
 af9edc6073979df684e38d14ba85ad5f *data\texture\유저인터페이스\collection\금환약.bmp
@@ -128410,6 +128418,7 @@ f54312dfe24a353d55b121079017c4c5 *data\texture\유저인터페이스\item\valengroove.b
 f8d00b5701ae8762307320c95f3c4d23 *data\texture\유저인터페이스\item\valentinesset.bmp
 840c13247cfe935114a5e7d3bbe9f491 *data\texture\유저인터페이스\item\valkyrie_drop.bmp
 7746a6df29801988929ee63580783a88 *data\texture\유저인터페이스\item\vampire's_servant.bmp
+0e7f048e3f0da1a4fb317a08a521f642 *data\texture\유저인터페이스\item\vassalage_necklace.bmp
 1ebb50fd9d4b0f5024eb33b56b1efe82 *data\texture\유저인터페이스\item\vend_arbeit1_1lv.bmp
 27ab71cbd04cb59ae3623c8c6cd9f1d4 *data\texture\유저인터페이스\item\vend_arbeit1_2lv.bmp
 c0eedfe189353cf30d4301032cfe9655 *data\texture\유저인터페이스\item\vend_arbeit1_3lv.bmp
@@ -129012,6 +129021,7 @@ c44913a1a0c5fc9078796ddf1b8c02f4 *data\texture\유저인터페이스\item\금목걸이_.bmp
 5ff5c0e94df03f323976f99116e055b9 *data\texture\유저인터페이스\item\금운모.bmp
 69dded5c23356e6f3be2a693f889b50b *data\texture\유저인터페이스\item\금원보포링의모자.bmp
 e1ee8d68adee89b90c937c12ea287866 *data\texture\유저인터페이스\item\금전주머니.bmp
+0023a8abd681460a45f21a1e09b6beb2 *data\texture\유저인터페이스\item\금제의사슬.bmp
 afa9eb7e5f4d5cac09df88cd4e63981a *data\texture\유저인터페이스\item\금주의두루마리.bmp
 41c67b3c63e7c245746bdc1965606f04 *data\texture\유저인터페이스\item\금화.bmp
 6ade40f043e7b556042f68f5c38942dc *data\texture\유저인터페이스\item\금환약.bmp
@@ -129816,7 +129826,7 @@ e40b1b46947a53a8e1188aa86ef27b7b *data\texture\유저인터페이스\item\매지션의나이�
 db10aee98cea1ba2489364f59cd098f1 *data\texture\유저인터페이스\item\매지컬부스터.bmp
 c945d0b3e97a3b32b1e8ef0c8f691eb8 *data\texture\유저인터페이스\item\매지컬페더.bmp
 1a90a1f1e27606b0745bc1bdf2ad4261 *data\texture\유저인터페이스\item\매직데코이인형.bmp
-68fe19db481243a2730063ae8d6efcd7 *data\texture\유저인터페이스\item\매직아이즈.bmp
+9732134f298d5b8cd3ac2934d70a51b5 *data\texture\유저인터페이스\item\매직아이즈.bmp
 ab3b24c6cc8e6de099f2d1795e9c660c *data\texture\유저인터페이스\item\매직아이즈box.bmp
 d60c4ae9d6c354e7c4ba09257e894580 *data\texture\유저인터페이스\item\매직코트.bmp
 754af03790b175bc346a539b15bf21a9 *data\texture\유저인터페이스\item\매달린인형.bmp

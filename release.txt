@@ -1,3 +1,38 @@
+29.01.2025 11:21
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. 
+
+Events and Shop:
+— The Dracolich Treasure arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+— The "Colorful runaways" event has begun.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Shadow Packs left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+— The Special Packs for Sura left the launcher.
+— The "Shaken, not stirred" event has come to an end.
+
+Changes:
+Fixed a bug where the bonus from Lichtern Green Card, Lichtern Red Card, Lichtern Yellow Card, and Lichtern Blue Card remained even after unequipping them.
+Fixed an issue with Revived Gutling Gun, where SP consumption was incorrect.
+Added new teleport options to Kafra and Zonda NPCs:
+Kafra: Glastheim Churchyard, Abyss Lake F2, Cursed Monastery F1
+Zonda: Magmarings, Thanatos Tower F5, Holy Ground F2
+Updated Thanatos Tower: All level 99+ characters can now enter F7 (if they have the Black Key).
+Fixed an issue in Old Glastheim that caused monsters to spawn in unreachable areas.
+Updated F97 of Endless Tower with the correct monster set.
+Novice Platinum Skills Quests:
+Added an NPC required for quest progression.
+NPC Nursing Officer can be found at /navi prt_cas 178/78.
+
+Changelog: https://eu.4gameforum.com/threads/695106/
+
+================
 22.01.2025 18:49
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. 

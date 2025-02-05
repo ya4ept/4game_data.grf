@@ -2433,7 +2433,7 @@
 18646	1	0	0	0	1	1	1	0	//Cow_Hat
 18647	1	0	0	1	1	1	1	0	//Star_Eyepatch
 18648	1	0	0	0	1	1	1	0	//Tongue_Charm
-18652	1	0	0	0	1	1	1	0	//Vanargand_Helm
+18652	1	0	0	0	1	1	1	0	//Vanargandr_Helm
 18656	1	0	0	0	1	1	1	0	//Wit_Pumpkin_Hat
 18657	1	0	0	0	1	1	1	0	//Pegasus_Wing_Ears
 18659	1	0	0	0	1	1	1	0	//Boitata_Hat

@@ -5858,7 +5858,7 @@
 22564#Ides_Of_March_Lucky_Box#
 12488#Valkyrie_Mercenary_Scroll#
 22565#April_Groove_Pack#
-18652#Vanargand_Helm#
+18652#Vanargandr_Helm#
 18759#Wood_Goblin's_Nose#
 18737#Fortier_Masque#
 
