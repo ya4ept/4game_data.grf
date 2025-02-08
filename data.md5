@@ -587,7 +587,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-635b720e162dadf5020ad64d356b1c10 *data\buyingstoreitemlist.txt
+88d24752036af445a8cccce7838d6905 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 3a658d642ab2f99dc563fdc5d76123ad *data\cardpostfixnametable.txt
 8e78ef515ac0b8039bbdd580d3b5234e *data\cardprefixnametable.txt
@@ -1905,7 +1905,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 c9c18668b1995207e54ecebc77112bfd *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 0f1a7feab19a544c9eba6feee7f40a52 *data\num2itemdisplaynametable.txt
-8b6a2ba16e816c6fe56fe2c9c5b9b1ec *data\num2itemresnametable.txt
+cde5bf90ba15288ec4affd3379fff6ba *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
