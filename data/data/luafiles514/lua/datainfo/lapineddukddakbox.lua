@@ -1,5 +1,45 @@
 tblLapineDdukddakBox = {
 	sources = {
+		OneSkyOneSun_Cube = {
+			ItemID = 100402,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "OneSkyOneSun", 1, 28631 }
+			},
+			NeedSource_String = "Книга солнца"
+		},
+		SoulWeight_Cube = {
+			ItemID = 100403,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "SoulWeight", 1, 26154 }
+			},
+			NeedSource_String = "Маятник души"
+		},
+		Freedom_Stick_Cube = {
+			ItemID = 101482,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "Freedom_Stick", 1, 550080 }
+			},
+			NeedSource_String = "Трость свободы"
+		},
+		Blessed_Knife_Cube = {
+			ItemID = 101483,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{ "Blessed_Knife", 1, 510070 }
+			},
+			NeedSource_String = "Небесный кинжал"
+		},
 		Cursed_Blood = {
 			ItemID = 23546,
 			NeedCount = 1,
@@ -656,6 +696,34 @@ tblLapineDdukddakBox = {
 			RandomOptionCode = "G0",
 			ResultItems = {
 				{ "Up_Demon_S_Shot", 1, 1 }
+			}
+		},
+		OneSkyOneSun_Cube = {
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "G0",
+			ResultItems = {
+				{ "Up_OneSkyOneSun", 1, 1 }
+			}
+		},
+		SoulWeight_Cube = {
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "G0",
+			ResultItems = {
+				{ "Up_SoulWeight", 1, 1 }
+			}
+		},
+		Freedom_Stick_Cube = {
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "G0",
+			ResultItems = {
+				{ "Up_Freedom_Stick", 1, 1 }
+			}
+		},
+		Blessed_Knife_Cube = {
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "G0",
+			ResultItems = {
+				{ "Up_Blessed_Knife", 1, 1 }
 			}
 		}
 	},
