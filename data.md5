@@ -611,7 +611,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-937c0bf5f5a928aad97409cf8daaea48 *data\buyingstoreitemlist.txt
+b6d086f32c91aa39ef3fa96a4e6e59e2 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 800e9185043692d73a839abc971320b3 *data\cardpostfixnametable.txt
 0356589e01f416389e5a5ac7ac6c21d6 *data\cardprefixnametable.txt
@@ -1190,7 +1190,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 e5feacf2974756c8bbdd17390c336cdf *data\idnum2itemdisplaynametable.txt
-350204252a0f7a48b5bd78a4990720ac *data\idnum2itemresnametable.txt
+8630acb0366e57827152df26517bb7b4 *data\idnum2itemresnametable.txt
 d6e7c5ac6f066199a8339bdeb6ed947d *data\idnum2itemresnametable_new.txt
 02d943ecfdefc25c1454d945e5ad5975 *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1237,7 +1237,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-9586f6b24ec992d2123a0e3bf50188e9 *data\itemslotcounttable.txt
+ad829dd33caa06d4b0bf215476dfb234 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1897,7 +1897,7 @@ e3676e840f0da862046fe5b7a0c6f6f1 *data\mosk_in.rsw
 8a05c1f50a43a848ef2ba39e0b063543 *data\mosk_ship.gnd
 1b3861389813ad1c43b7f8f434de6470 *data\mosk_ship.rsw
 4c17a8fe5dc071724c5ce67555ed10cd *data\mp3nametable.txt
-a192f44557ffb972b0a9d177a7c27c2b *data\msgstringtable.txt
+43aa1c977d24e14608a4795130208458 *data\msgstringtable.txt
 02cfde0c5612b9fcf5533887d4d9b76b *data\msgstringtable_.txt
 af0c9341ba1497dee9312108b99fbf4b *data\nakhyang.gat
 3f4990913c70ad02a110c20af1858835 *data\nakhyang.gnd
@@ -1944,10 +1944,10 @@ f0e88e8334064fefefb3c96f5012e29e *data\nif_fild01.gat
 78b539469b2363dae6a85252c535a031 *data\nif_in.gat
 f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
-67311ad706da4ead886a0ec143bf2179 *data\num2cardillustnametable.txt
+0b2c6ecb6f3ddb79ddf3a3d32944e982 *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 67495ac72ba3f97091bb4e56b26e5a70 *data\num2itemdisplaynametable.txt
-5044b141475a3709a3b7f783e82d67c2 *data\num2itemresnametable.txt
+631d6f76e032d398a6bcb36ca18f3c0b *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -74038,6 +74038,8 @@ b185de082b3be7a128906590b1b6e74b *data\sprite\아이템\apple_of_archer_il.spr
 6950076e915ecf046a0b153cca595ec2 *data\sprite\아이템\aprillucky.spr
 9a5f29c75e6ad1cc24b8c380cd7ca50f *data\sprite\아이템\aprilluckyset.act
 07fecba4affaa7ef7ac75d8dc0f337f5 *data\sprite\아이템\aprilluckyset.spr
+0fae8167fa66822c25d87fc130af7d3c *data\sprite\아이템\arabian_manteau.act
+997d920d97b25100d79840eb8b0444a3 *data\sprite\아이템\arabian_manteau.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\argen_blanco.act
 debe00767cb4ebd96bb3774862ead95d *data\sprite\아이템\argen_blanco.spr
 130948f9c07fc9f0454da89f0eca55f9 *data\sprite\아이템\armor_of_purple_thread.act
@@ -85439,6 +85441,8 @@ c0aaa19a833e5457439f470503439c23 *data\sprite\아이템\타이즈.act
 665454d90ae6898baf69769baaafd682 *data\sprite\아이템\타천사의방패.spr
 fcce4569bbd90e1a94df1871180bd31e *data\sprite\아이템\타키우스눈가리개.act
 00efc7516e9963775b248a41a2b23601 *data\sprite\아이템\타키우스눈가리개.spr
+b5393d57b51d86e9e942ca65f8bd4146 *data\sprite\아이템\타테나시의갑옷.act
+52cd9e0b08ef4473fde4a50503d39b6c *data\sprite\아이템\타테나시의갑옷.spr
 77f1b70a4efdf32222eaa4783a2e2755 *data\sprite\아이템\타니아가씨인형.act
 414c11b5621ee9d341c2e91b4fdb0c02 *data\sprite\아이템\타니아가씨인형.spr
 76eaa000a95f6d175be082cd85f549cd *data\sprite\아이템\타다만장작.act
@@ -101974,6 +101978,7 @@ a900aaef059eca9bce9267a9d92ff407 *data\texture\camp\jt_campwod004.bmp
 bd6262b3ee5c73a23ecc786fd44db568 *data\texture\camp\pr_cannon02.bmp
 26092e6232ec7912081c74a99334f887 *data\texture\camp\thumbs.db
 906332d21b0325905f621a49d46a09d5 *data\texture\collection\g방어구교환티켓.bmp
+260869184fa8246aef4ff331f345c754 *data\texture\collection\타테나시의갑옷.bmp
 a845d1781cd26f4afb6d925b689232b9 *data\texture\comodo\comodo_s_01.bmp
 99ee168695bda21579346f36a0d11b73 *data\texture\comodo\comodo_s_03.bmp
 0171a4b3c98bcaad6c4df50c35668167 *data\texture\crazy_i\cir_s_01.bmp
@@ -102490,7 +102495,8 @@ fc510b72b12c7730a744ca0efec5dc3c *data\texture\effect\128-4.bmp
 736590cad396a560dd1082aa705fe5d5 *data\texture\effect\128-5.bmp
 62905cfe60e412104bfe6d127b3b252c *data\texture\effect\128-6.bmp
 132eb2911b52e522c177d551faa0c32e *data\texture\effect\13 copy.bmp
-65bd686d2e768f13bcbf1a29796cd691 *data\texture\effect\14 copy.bmp
+6029bf2ae66e1ffe6002b4478e90a2cd *data\texture\effect\14 copy.bmp
+65bd686d2e768f13bcbf1a29796cd691 *data\texture\effect\14copy~1.bmp
 15ffcbf770c929f5eef3761a0f2542aa *data\texture\effect\15 coipy.bmp
 477c0155055732791a61c7c1adb2b7c8 *data\texture\effect\15 copy.bmp
 59b1b9bed82b4d149ede705eb48aee21 *data\texture\effect\16 copyq.bmp
@@ -106463,6 +106469,7 @@ ca835c8cf84c606adb42e0d627e10e17 *data\texture\ilusion\temp.bmp
 5dc067645ba28831531cbc14ed4b8acc *data\texture\item\thumbs.db
 92bb6c4c3d2469a0d71e1ab9935164b4 *data\texture\item\신랑결혼반지.bmp
 62c48ed89a7f09799ac878151485c9bf *data\texture\item\신부결혼반지.bmp
+798402c5cb343d50ab9fd1e1cc7c425b *data\texture\item\타테나시의갑옷.bmp
 9ce636986a181b32c2c4f143a19ff8ce *data\texture\izlude\iz_paint_01.bmp
 04fa274aa449f6c3a577ad156cb75c8e *data\texture\izlude\iz_rookie001.bmp
 54715fea658730c030b413e04b6e1d75 *data\texture\izlude\iz_rookie002.bmp
@@ -116012,6 +116019,7 @@ b77b10e1060cd64fe4e14faef74a2fc1 *data\texture\유저인터페이스\collection\angel_m
 a6fe663d7bb20d45de00e551880ce27f *data\texture\유저인터페이스\collection\aprilgroove.bmp
 4ba4af541f29c39a5c2a84a1b35b04bb *data\texture\유저인터페이스\collection\aprillucky.bmp
 3d39ff4c819d7e1305ee6c4d5279b1dc *data\texture\유저인터페이스\collection\aprilluckyset.bmp
+108d208deb6de7b64efec30edeaf4eab *data\texture\유저인터페이스\collection\arabian_manteau.bmp
 3067660845420d8df0b3f3b6214800c2 *data\texture\유저인터페이스\collection\argen_blanco.bmp
 34313ed6d3f8b3cb530ef6498deedc51 *data\texture\유저인터페이스\collection\armor_of_purple_thread.bmp
 ed0969d2c662abf1462ad52b0070a8b9 *data\texture\유저인터페이스\collection\armor_of_rosary.bmp
@@ -120840,6 +120848,7 @@ c552159d3659bae18e33dee843cc224f *data\texture\유저인터페이스\collection\타이즈.
 02de337ed970bb10cf4a7485f61c322f *data\texture\유저인터페이스\collection\타천사의축복.bmp
 cef26628e04e7227da58cfe56f359c18 *data\texture\유저인터페이스\collection\타천사의방패.bmp
 dcaddf9bb9e4eb5c3cf334316720737f *data\texture\유저인터페이스\collection\타키우스눈가리개.bmp
+260869184fa8246aef4ff331f345c754 *data\texture\유저인터페이스\collection\타테나시의갑옷.bmp
 ade415e670c9a4b86999fe1516632c11 *data\texture\유저인터페이스\collection\타니아가씨인형.bmp
 ba76aa17741488bf74c776e99b03f5f0 *data\texture\유저인터페이스\collection\타다만장작.bmp
 9827fab29d038faab93c57956a8a4a79 *data\texture\유저인터페이스\collection\타버린기계장치.bmp
@@ -123490,6 +123499,7 @@ f4456a08d592c46fa89a898c3c2ce2ec *data\texture\유저인터페이스\item\apple_of_arch
 08da4968854391f2b9456a2ee019d506 *data\texture\유저인터페이스\item\aprilgroove.bmp
 27aa24766d6403f739bc56a02eb9b9cd *data\texture\유저인터페이스\item\aprillucky.bmp
 4525105db876b69501a262d3a1206781 *data\texture\유저인터페이스\item\aprilluckyset.bmp
+cdd6e62a9829066d6d338b81ce736715 *data\texture\유저인터페이스\item\arabian_manteau.bmp
 1ebdeb03354d24b956fae30a92ea0886 *data\texture\유저인터페이스\item\argen_blanco.bmp
 fa946a0bc0e484d380022cb89a705eeb *data\texture\유저인터페이스\item\armor_of_purple_thread.bmp
 8f15eab8db8520e3b6a3d410ac32270a *data\texture\유저인터페이스\item\armor_of_rosary.bmp
@@ -129340,6 +129350,7 @@ c3915a174c957f4d4f68ffd9d60a6369 *data\texture\유저인터페이스\item\타천사의분실�
 718d17c9603b344da3b5465ae06cda95 *data\texture\유저인터페이스\item\타천사의축복.bmp
 81a7e3dc7305b47e755c71c71eaee98f *data\texture\유저인터페이스\item\타천사의방패.bmp
 459a5ea3105ef28b10ebce1857346f10 *data\texture\유저인터페이스\item\타키우스눈가리개.bmp
+798402c5cb343d50ab9fd1e1cc7c425b *data\texture\유저인터페이스\item\타테나시의갑옷.bmp
 47b784793f58d59331c64055fcf8c70c *data\texture\유저인터페이스\item\타니아가씨인형.bmp
 86e2fcce10c27d4c5c3ae65f78e09d86 *data\texture\유저인터페이스\item\타다만장작.bmp
 9c7b300808768a1f15cf3d700803a539 *data\texture\유저인터페이스\item\타버린기계장치.bmp
