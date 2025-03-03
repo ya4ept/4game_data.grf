@@ -1022,6 +1022,7 @@ EFFECT["EF_MIRESULT_MAKE_FAIL"] = 1018
 EFFECT["EF_ALL_RAY_OF_PROTECTION"] = 1019
 EFFECT["EF_VENOMFOG"] = 1020
 EFFECT["EF_DUSTSTORM"] = 1021
+EFFECT["EF_WHITEBODY"] = 1065
 EFFECT["EF_AMDARAIS_EFFECT"] = 1419
 tbl = {
 	[2603] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_LEVEL150_SUB } },
@@ -1342,6 +1343,16 @@ tbl = {
 	[3505] = { MonsterSize = 1.5, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[3129] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_BOTTOM_SUITON } },
 	[3132] = { MonsterSize = 2, MonsterEff = { EFFECT.EF_BOTTOM_SUITON } },
+	[3421] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[3422] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[3423] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[3424] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[3425] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
+	[3426] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_WHITEBODY } },
+	[3427] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_WHITEBODY } },
+	[3428] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_WHITEBODY } },
+	[3429] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_WHITEBODY } },
+	[3430] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_WHITEBODY } },
 	[3636] = { MonsterSize = 0.7, MonsterEff = { EFFECT.EF_BOTTOM_BARRIER } },
 	[3969] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_NONE } },
 	[3970] = { MonsterSize = 2.5, MonsterEff = { EFFECT.EF_HASTEUP } },

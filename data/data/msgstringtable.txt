@@ -1855,7 +1855,7 @@ Other#
 Price#
 Amount#
 Total#
-#
+Free Cache: %s C#
 Balance: %s EUR#
 Unable to summon monsters in this area.#
 Total free cash exceeded.#
@@ -2484,8 +2484,8 @@ https://eu.4game.com/roprime/#
 Welcome to Ragnarok Online Prime!\n#
 We wish you the best in exploring the new world.\n#
                             Have fun!\n#
-	#
-	#
+The only path to Bifrost is now the Labyrinth Forest. No one has ever passed safely through that place whose origin is unknown. #
+The labyrinth forest, a chaotic hell that swallowed up countless adventurers, was expanding deeper and more confused, like the mind of an unknown woman wandering within it.#
 Only numbers can be input.#
 You cannot withdraw while the Trade and Shop windows are open.#
 Shortcut#
@@ -2974,7 +2974,7 @@ Refine Failed!#
 Back#
 Succeed#
 Returned#
-#
+With Mr. #
 Change homunculus' name to ^0000ff^0000ff %s^000000^000000 . Do you want to proceed?#
 Call message is opened. (Call function ON)#
 Call message is blocked. (Call function OFF)#
@@ -3192,15 +3192,15 @@ Loading the mailbox.\n^c92114Delete^000000unnecessary emails!!#
 NOW LOADING..#
 Title#
 Sender#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+It cannot be run simultaneously with the Ragnarok client. Exit setup#
+Add-on settings#
+This account does not exist.#
+Passwords do not match.#
+Failed to pass IP authentication#
+No identification number, supplement your registration information#
+Account block#
+System error#
+unknown error found.#
 Navi Icon Setting#
 Navi Info UI#
 Open Navi Info#
@@ -3212,7 +3212,7 @@ Result[%d]#
 Icon Setting for guide#
 Allow zeny for guide#
 Navigation Undock#
-#
+This account is not activated.#
 Selected location will be shared on chatting.#
 If you select 4. Service, it will guide considering Zeny&Airship.#
 5. [<-] Button : Guide Mode <-> Search Mode or,#
@@ -3223,244 +3223,244 @@ EXP: '%lld' #
 Transaction : #
 If you sell an item, you get zeny after the transaction.#
 If you buy an item, you pay zeny after the transaction.#
-#
+Open a chat room#
 This player cannot accept the invitation to the party.#
 Job EXP: '%lld' #
 Got Job EXP %lld#
-#
+Street stalls cannot be opened in the current location (high street).#
  sec. before unlocking the possibility to change the equipment.#
 Pl.:#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+SNS transmission failure (%d)#
+SNS server connection failure#
+You can use it after logging in to SNS.#
+There is no address that can be accessed.#
+It cannot be used because the mini party windows are overlapping.#
+my sales stall#
+BOX#
+tip box#
+The tweet was successful.#
 Try Again#
 [Try Again] is unavailable. Please choose refine ingredient again.#
 Refinement Ores are not enough. [Try Again] is unavailable.#
 Zeny is not enough. [Try Again] is unavailable.#
 Blacksmith's Blessing is not enough. [Try Again] is unavailable.#
 Your item is destroyed.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+All statuses have been reduced.#
+All status reduction effects have been canceled.#
+OTP password is 8 digits long.#
+Integrated account#
+Ragnarok#
+Service is under maintenance.#
+Please enter your search term#
+MOTP#
+Certification number#
+Run GNJOY MOTP downloaded on your phone and enter the authentication number.#
 Are you sure you want to leave the group?#
-#
-#
-#
-#
-#
-#
-#
+ - 18 years or older#
+ - Paid server#
+ - Free server#
+geniality#
+commonly#
+confusion#
+saturation#
 Map#
-#
-#
-#
-#
+Only inventory items can be stored and shipped from the World Warehouse.#
+Pet eggs cannot be stored in the World Warehouse.#
+Crafted items cannot be stored in the World Warehouse.#
+This item cannot be shipped from %s.#
 Dungeon Destroyed#
 [%s] got [+%d %s] successfully!#
 [%s] failed to refine [+%d %s].#
 There are still online players in your group.#
-#
-#
-#
-#
-#
+rise#
+fall#
+basic#
+A tampered file has been found. Please run the game again.#
+%s is an item whose movement is restricted in this map.#
 Self \nFeeding#
 Homunculus cannot eat food when Rodex window is open.#
 Homunculus ate food. Left: '%s' %d ea.#
 Homunculus' Self Feeding On#
-#
+Enable Homunculus self-feeding Off#
 Homunculus get \n10% of EXP from player.#
 Probability : %d%%#
 Homun cannot attack this target. Please set target again with Alt + Right click.#
 There is no attack target for Homun. Please set target with Alt + Right click.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+sale list#
+Purchase list#
+new#
+popularity#
+limitation#
+rental equipment#
+permanent equipment#
+buff#
+recovery#
+etc#
+special price#
+Charge#
+Buy#
+http://member.gnjoy.com/user/pay/chargelist.asp#
+Item Search#
+Free Cash#
+Use free cache#
+Possessed Cash#
+Quantity update#
+Seongje (female)#
+Soul Reaper (Female)#
+Seongje (Male)#
+Soul Reaper (Male)#
 Overweight is more than 50 %%. HP and SP will not regenerate.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+The number of items that can be purchased at one time is 8.#
+http://gift.zhaouc.com/#
+UNKNOWN ERROR:%d#
+NOT USER#
+THIS ACCOUNT ID IS BLOCKED#
+COUNTRY REJECT (OR NOT AVALIABLE USER )#
+NOT MATCH PASSWORD#
+NOT EMAIL CERT#
+PAYPAL BLOCK#
+COUNTRY REJECT#
+PAYPAL BLOCK#
+WEB BLOCK#
+AGE LIMIT USER#
+PASSWORD HAS NOT BEEN CHANGED FOR MORE THAN 90DAYS#
+INPUT DATA ERROR#
+ERROR DATABASE#
+ERROR SYSTEM#
 Travel#
 Ticket#
-#
-#
+This is not a map you can start from.#
+This is an unmovable map.#
 Not Enough Tickets#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Please enter it on one line without line breaks.#
+Names containing bad words cannot be registered.#
+You will be taken to the official website to sign up as a member.#
+TokenAgency server connection failure#
+Billing information#
+Reserve for deletion#
+Cancel reservation#
+Start the game#
+delete#
+Character List#
+notification#
+generation#
+Hair Style#
+Hair Color#
+Duplicate check#
+%d hours %d minutes %d seconds#
+MOTP input timed out. Please log in again from the beginning.#
+Go back#
+Item cannot be used.#
 You're already here#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+When you die, you cannot move.#
+Character Creation#
+Adventurer Brokerage Registration#
+Register at an adventurer agency#
+Recruitment halted.#
+memo#
+quest#
+field#
+dungeon#
+M.D.#
+paradise#
+etc#
+search#
+reset#
+Party membership application#
+purpose#
+¡Ø You may be punished if you use it for purposes that violate the operating rules, such as profanity or current transactions.#
+Register#
+Contains words that cannot be used.#
+Join the party#
+1:1 conversation#
+stop recruiting#
+Edit#
+entire#
+[%s] applied to join the party.#
+log in#
+account#
+end#
+application#
+connection#
 Confirm#
-#
-#
-#
+GNJOY MOTP downloaded to your mobile phone#
+Please run it and enter the authentication number.#
+You will be moved to random coordinates on the map where the NPC is located.#
 Taekwon#
-#
-#
-#
-#
-#
-#
+ Deny all chat and whispers to#
+ Request to reject all chat and whispers failed#
+ Request to reject all chat and whispers failed (number of people exceeded)#
+ Full chat and whisper available to#
+ Request to enable full chat and whisper failed#
+ Request to enable full chat and whisper failed (number of people exceeded)#
 The ignore list is empty.#
 Characters added to the ignore list:#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+in progress#
+suggestion#
+On hold#
+QUEST#
+detail#
+monster#
+compensation#
+EXP#
+JEXP#
+item#
+Proceed/Hold#
+move to bottom#
+Displayed in the simple quest window#
+input time#
+Save ID#
+password#
+id#
+join the membership#
+party hall#
+You are not at the level to join the party.#
+Registration at the adventurer agency failed.#
+Registered at Adventurer Brokerage.#
+Enter search details#
+tanker#
+%.1f%% (+ %sserver %.1f%%)#
+/ex (character name) or /block (character name): Block all chat and whispers for that character.#
+/in (character name) or /off (character name): Allow full chat and whispering for the character.#
+/ex or /block: List of characters to block all chat and whispers#
+/exall or /Block All: Block all chat and whispers for everyone.#
+/inall or /off all: Allow full chat and whisper to everyone#
+Deny all chat and whispers to everyone#
+Failed to request everyone to reject all chat and whispers#
+Full chat and whisper available to everyone#
+Request to enable full chat and whisper to everyone failed#
+opening#
+Would you like to return to the login screen?#
 Strength and physical attack increased.#
 Blessing.#
 Defense and HP increased.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Gel Star#
+Account buff#
+Flat rate service#
+Connection is currently delayed. You can connect sequentially, so please reconnect later.#
+There is currently a connection delay, so please reconnect later.#
+Names containing bad words cannot be searched.#
+The party master is unable to receive requests.#
+Party not found.#
+dealer#
+http://ro.gnjoy.com#
+¡ã#
+¡å#
+We are already friends#
+Can't find the other person#
+Another character is already requesting you as a friend.#
+Horn bead display ON#
+Horn bead display OFF#
+In-game access to this account is restricted due to incorrect secondary password input. \n Access restrictions will be lifted after %02d hours and %02d minutes. To lift access restrictions, please go to Homepage -> Change Personal Information -> Secondary Password and authenticate yourself.#
+You entered the wrong security password more than 3 times. To ensure account security, in-game access will be restricted for 24 hours.\n To lift access restrictions, please go to Homepage -> Change Personal Information -> Secondary Password and authenticate yourself.#
 Admin#
 %d Daily Reward#
-#
+An error occurred while retrieving account settings data. (To retry, you must restart.)#
 Concert skill can only be used in conjunction with Bard and its derivatives.#
-#
-#
-#
-#
+Party recruitment has been stopped.#
+Guild tipping experience can be up to %d%%.#
+The guild level is maxed out, so you can no longer donate experience points.#
+For account security, non-MOTP users can only log in to the website.\nPlease try to log in to the website.#
 Attack power increased. #
 Attack power decreased. #
 %s Daily Reward#
@@ -3473,65 +3473,65 @@ Days#
 You failed to check. Please try again.#
 Daily Reward#
 There is no event period now.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+The guild giveaway experience has reached max, so you can no longer accumulate guild experience.#
+Your personal kickback experience has reached max, so you can no longer accumulate guild experience.#
+message#
+Failed to send message to Twitter.#
+You must enter at least 4 English characters and 2 Korean characters.#
+This is an area where monster taming is not possible.#
+Retrieving rankings...#
+This skill can only be used when you are the party leader.#
+The partner's SP is insufficient or the skill cannot be used.#
 Notice about Forced Removal of Part time vending#
 Hello, Adventurer.\r\nWe closed your part time vending because there is a policy violation matter.\r\n If you need futher information, please send us 1:1 message.\r\nThanks.#
 Guild tax cannot be set above 50%. #
-#
-#
-#
-#
-#
-#
+The party is registered at the adventurer agency, and the party leader cannot be changed.#
+You cannot register your party at the adventurer agency.#
+acceptance#
+refusal#
+healer#
+The character cannot be found.#
 Forced Removal#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+The party leader for that party cannot be found.#
+Your job level is low and you cannot join the party.#
+The requester is currently in a region where party membership is not possible.#
+The number of party members has been exceeded.#
+The party leader of %s party has approved your party membership.#
+The party leader of %s party refused to join the party.#
+%s is already joining the party.#
+%s has been accepted to join the party.#
+%s has been rejected from joining the party.#
+%s' application has been rejected because we are unable to receive party requests.#
+Adventurer Agency List#
+Request to join party#
+If you are not the party leader, you cannot register your party at the adventurer agency.#
+Party recruitment cannot be stopped.#
+assistance#
+Zoom Out#
+%s: Zoom Out can be turned on or off. On Off#
+Turn on the Zoom Out function (On)#
+Disable the Zoom Out function (Off)#
+/zoom#
+adventurer agency#
+If you are the party leader, you cannot request to join.#
+The maximum level you can join a party must be higher than the minimum level setting.#
+You can no longer choose a job.#
+We do not accept requests for registration from the user during the game. (Valid until client termination)#
+Please open it again later.#
+This function cannot be used for %d minutes before the siege begins.#
+/viewclear#
+Building semi-transparency ON#
+Building semi-transparency OFF#
+Building transparency#
+Reverting to egg failed. Please close the Rodex creation window.#
+Emblem Frame#
+Draws the emblem border#
+Emblem border is not drawn#
 You have to equip the weapon.#
-#
+I'm running out of energy spheres.#
 Learn the quest skill. #
-#
-#
+/frame#
+This skill can be used within the time limit after activating weapon blocking.#
 Timeout exceeded #
 EXP: %.1f%% (basic: 100.0%%, %s: %.1f%%)#
 DROP: %.1f%% (basic: 100.0%%, %s: %.1f%%)#
@@ -3550,41 +3550,41 @@ Return#
 Search#
 Failed to feed cupet. You are not possible to feed right now.#
 Failed to feed homun. You are not possible to feed right now.#
-#
-#
-#
-#
-#
-#
-#
-#
+money#
+%s %d#
+Exchange failed.#
+The exchange went well.#
+There is a shortage of goods needed for exchange.#
+This item has already been sold and is out of stock.#
+dying#
+PvP#
 Expand the Inventory#
 Expand the Inventory?#
-#
-#
+Failed to expand the maximum number of item types.#
+To expand the maximum number of items you can possess, please quit other tasks.#
 Not enough Inventory Expanders#
 The inventory has been expanded to the maximum#
 Inventory has been expanded#
-#
-#
-#
-#
-#
-#
+You cannot have more than %d of the same item.#
+Purchase is not possible due to exceeding the possession limit.#
+You can only buy one item at a time.#
+Holy Emperor#
+Soul Reaper#
+The settings will be saved on the server upon normal shutdown.#
 Catching a monster #
 Message#
 Subject#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Damage notation expansion#
+Map name notation#
+System message: The current dew point view function is in %s status. (/view stall)#
+vertical sync#
+data#
+http://rodata.zhaouc.com/renwu.html#
+title#
+frame limit#
+If the number exceeds %d, further installation is not possible.#
 Destination#
-#
+Please try again later.#
 Delete#
 Delete#
 Delete All#
@@ -3593,79 +3593,79 @@ Receive#
 Receive All#
 Would you like to receive the attached items in the selected messages?#
 Do you want to receive all mail in the mailbox?#
-#
-#
-#
-#
-#
-#
-#
-#
+Skill Bar 2#
+Skill bar replacement#
+¡ç#
+¡è#
+¡æ#
+¡é#
+¢Ç#
+¡ç#
 Storage access granted.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+There are no spells saved in the reading spellbook.#
+Items used during transfer cannot be re-exchanged.#
+I purchased a free movement ticket.#
+While using the free movement ticket, related items are not consumed.#
+apply#
+stop#
+Right of free movement#
+Used for %d hours, %s %d#
+Free pass in use#
+Characteristic Status#
+Power parameters\n^cc0000Physical attack power, attribute physical attack power^ffffff increased#
+Stamina parameter\n^cc0000Physical resistance^ffffff increases#
+Wisdom Parameter\n^cc0000Magic Resistance^ffffff Increase#
+Spell parameters\n^cc0000magic attack power, attribute magic attack power^ffffff increased#
+Concentration parameters\n^cc0000Accuracy rate, evasion rate, attribute physical/magical attack power^ffffff increase#
+Creative parameters\n^cc0000Attribute heal recovery amount, critical damage rate^ffffff increased#
+Characteristic physical attack power#
+Characteristic magic attack power#
+physical resistance#
+magic resistance#
+Characteristic heal recovery amount#
+Critical Damage Ratio#
+Points used to level up characteristic parameters#
 Job lev.#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+AP#
+Go to the territory#
+Check commerce/defense#
+Do you want to move to the management territory \%s\"? \nEvery time you move, %d zeny is consumed.\n(%d zeny is consumed during siege time.)"#
+\nManagement Territory \%s\"\n\t\nDefense: %d / %d\nCommercial: %d / %d"#
+This function cannot be used in a siege territory.#
+This is a character who has not acquired basic functional skills.#
+The IP you are connected to cannot be used in Ragnarok Zero.\nPlease contact customer service or the website.#
+Mount/dismount#
+import#
+Retrieve item information registered at the previous stall.#
+Login is being restricted due to server issues.#
+message#
+Only ages 18 and above can play.#
+We do not recommend playing the game for more than 3 hours.#
+I don't have enough AP.#
+It cannot be combined because the refinement level is high.#
+The refinement level is higher than the required level for combination.#
+A card is inserted or enchanted.#
 ?#
 z#
 Total:%s zeny#
-#
-#
-#
-#
-#
-#
-#
+Account limited sales registration window#
+Item DB name#
+Item DB number#
+number of sales#
+Sales start time#
+Sale end time#
+Account limited#
 : %d? %d? %d? %d?#
-#
+Available for purchase per account#
 %d? ??#
 >> ItemName : %s : %d / : %d?:%d?:%d?:%d? ~ %d?:%d?:%d?:%d?#
 Sold#
 [%s].#
 ~ %d? %d? %d? %d?#
-#
-#
-#
-#
+No more products can be added#
+Equipped items cannot be exchanged. Please uninstall and try again.#
+You cannot move to the character selection window while using the guild warehouse.#
+It cannot be used because it contains an item tag.#
 Monster#
 Shapeless#
 Undead#
@@ -3680,261 +3680,564 @@ Dragon#
 Balance: %s %c#
 Do you really want to purchase this item? %s Euros will be deducted from your total 4Game balance.#
 Do you really want to purchase this item? %s Euros and %s Free Points will be deducted from your total 4Game balance.#
-#
-#
-#
-#
-#
+The call was rejected.#
+The purchase limit cannot exceed the amount you possess.#
+Failed to open the stall. Please close the purchase stall opening.#
+The list of sale stall items has been saved.#
+The list of purchase stall items has been saved.#
 VTC#
-#
-#
+Equipment cannot be worn while bartering.#
+Item you wish to exchange#
 %d#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+You can own up to %d of the same item.#
+Up to %d of the same item can be exchanged at a time.#
+The rodex can be \%s\"opened on the server."#
+[Notice] Do you want to delete all emails in your mailbox? \n(Only emails from the \%s\"server will be deleted.)"#
+[Notice] Would you like to receive all attached items in your mailbox? \n(You can only receive mail items from the relevant \%s\"server.)"#
+The email can only be deleted from the \%s\"server."#
+The email is \%s\"Items can only be received from the server."#
+This email is \%s\"readable only on the server."#
+Total: %d z#
 Message#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+While a purchase store is open, you cannot purchase items from a personal store.#
+The grade enhancement has been successful.#
+Grade enhancement failed.#
+The rating value has been lowered.#
+The equipment has been destroyed.#
+Your equipment is protected.#
+No material has been selected.#
+We're running out of ingredients.#
+There is not enough money on hand.#
+There is not enough space for the item.#
+Your equipment is protected.#
+Equipment may be destroyed.#
+If you fail to enhance your grade, your grade will be lowered.#
+Rodex cannot be used while upgrading. Rodex was forced to quit.#
+Rodex cannot be used while upgrading.#
+You cannot use the bank while upgrading your rating. The bank was forced to close.#
+You cannot use the bank while upgrading your rating.#
+[%s] succeeded in upgrading the grade and acquired the [%s grade %s] item.#
+[%s] failed to enhance the grade of the item [%s grade %s].#
+This is equipment that cannot be upgraded.#
+Change Material#
+Sort alphabetically#
+¡ØProduce %d~%d [%s]#
+%d%%#
+Item tags can only tag items you own.#
+Attack power and attribute attack power have been increased.#
+The Strong Faith effect has been canceled.#
+HP and physical resistance have been increased.#
+The Strong Faith effect has been canceled.#
+Attack speed and guided attack probability have been increased.#
+Faithful Faith effect has been canceled.#
+POW, CRT and CON have been increased.#
+The Benedictum effect has been canceled.#
+SPL, WIS and CRT have been increased.#
+Religio effect has been disabled.#
+Attribute attack power and attribute magic attack power have been increased.#
+Competentia effect has been canceled.#
+Critical damage rate has been increased.#
+Presence Arches effect has been disabled.#
+Physical resistance ignoring effect has been granted.#
+Argutus Tellum effect has been canceled.#
+Magic resistance ignore effect has been granted.#
+Argutus Vita effect has been canceled.#
+Num: %d/%d Weight: %d/%d#
+Servant weapon effect has been canceled.#
+The charging pierce effect has been canceled.#
+Bigor effect has been canceled.#
+Attack power increased, defense power decreased.#
+Attack stance effect has been canceled.#
+Defense has increased and attack power has decreased.#
+Guard stance effect has been canceled.#
+A barrier has been granted.#
+Guardian Shield effect has been canceled.#
+Damage received from the devotion effect has been reduced.#
+The rebound shield effect has been canceled.#
+Holy attribute magic damage and dark/immortal attribute resistance have been increased. #
+Holy Shield effect has been canceled.#
+An immediate resurrection effect has been granted.#
+The Ultimate Sacrifice effect has been unlocked.#
+The effectiveness of certain skills has changed.#
+Climax effect has been disabled.#
+The effectiveness of certain skills has changed.#
+Shadow Exceed effect has been canceled.#
+Physical resistance ignoring effect has been granted.#
+Potent Venum effect has been canceled.#
+With each attack, there is a certain probability that the damage the target receives increases.#
+Enchanting Shadow effect has been canceled.#
+Subjugation Count On#
+Subjugation Count Off#
+Target's AP is maxed out#
+ ^ff0000You can withdraw your subscription within 7 days after purchasing this item. However, if 7 days have passed or the item has been opened, it is excluded from cancellation of subscription. Also, free cash used for purchase will not be returned when cancellation of subscription is made. For some (event) items, they may be deleted at the end of the event, and please check the deletion period stated in the item description.^000000 Do you really want to purchase the item? When making a purchase, %d cash will be deducted.#
+ ^ff0000You can withdraw your subscription within 7 days after purchasing this item. However, if 7 days have passed or the item has been opened, it is excluded from cancellation of subscription. Also, free cash used for purchase will not be returned when cancellation of subscription is made. For some (event) items, they may be deleted at the end of the event, and please check the deletion period stated in the item description.^000000 Do you really want to purchase the item? When making a purchase, regular %d cash and free %d cash will be deducted.#
+Requires %d servant weapons.#
+https://member.gnjoy.com.tw/billing.aspx#
+Sort in reverse order#
+Enter search details#
+search#
+It becomes a research report.#
+The research report status is cleared.#
+Manufacturing was successful.#
+Manufacturing failed.#
+Shadow equipment is protected from destruction and disarming.#
+Full shadow protection is released.#
+Damage to plant-type and intangible monsters increases.#
+The powder effect of the hell tree disappears.#
+The attack device has been activated.#
+The attack device has been disarmed.#
+Physical defense and physical resistance have been increased.#
+The defenses have been disarmed.#
+search#
+The ensemble can be used alone.#
+Kvasir's wisdom disappears.#
+The effect of Mystic Symphony is granted.#
+The effect of Mystic Symphony disappears.#
+Magic resistance has been reduced.#
+The effect of Gephenia Nocturne has been canceled.#
+Physical resistance has been reduced.#
+Minewalker Rhapsody status has been lifted.#
+Physical resistance has increased.#
+Musical interlude is off.#
+Attribute magic attack power and movement speed increase.#
+The sunset serenade effect has been disabled.#
+Attribute physical attack power and movement speed increase.#
+ Frontera¡¯s March effect has been canceled.#
+The fury of the wind flows into the caster.#
+Calamity Guile status has been lifted.#
+Weaknesses and features are revealed by the wind.#
+The wind sign effect disappears.#
+E#
+DROP: %.1f%% ( basic 100.0%% %s %.1f%%)#
+DEATH: %.1f%% ( basic 100.0%% %s %.1f%%)#
+Attribute magic attack power has been increased.#
+Spell enchantment effect has been canceled.#
+From the Abyss effect has been disabled.#
+Attribute physical attack power, attribute magic attack power, and accuracy have been increased.#
+The Abyss Slayer effect has been canceled.#
+Character creation may be limited.#
+The world is saturated. Please use another world.#
+Unblock chat (unblock reception)#
+Block chat (unsubscribe)#
+This level of refinement cannot be upgraded.#
+The equipment is indestructible.#
+No auxiliary materials are applied. \nDo you want to continue strengthening?#
+The client file has been tampered with.#
+message#
+The total number of items to sell exceeds the amount of Zeny you can have. \nPlease modify the quantity and price.#
+Reputation status#
+%u / 1000 P#
+entire#
+NOW LOADING..#
+Auxiliary material selection is reset.#
+#
+common#
+confirmed#
+growth#
+reset#
+It weighs more than 70%. Please reduce the weight and try again.#
+Enchantment granted#
+Enchantment granted#
+growth#
+reset#
+Rodex cannot be used while enchanted. Rodex was forced to quit.#
+Rodex cannot be used while enchanted.#
+Banking is not possible while enchanted. The bank was forced to close.#
+Banking is not possible while enchanted.#
+Would you like to perform the enchantment?#
+produce#
+There are not enough ingredients for the combination.#
+Equipped card items and enchantments will be lost.#
+Equipped card items may be lost.#
+The given enchantment may be lost.#
+Hide user on screen ON#
+Hide users on screen OFF#
+Check details#
+Please check the details.#
+There are no items that can be combined.#
+Enchantment success!#
+Enchantment failed!#
+Enchantment information not found#
+The enchantment conditions are not met.#
+Failed to set reception status for random users.#
+Random users have been set to opt out.#
+It is set to receive all users.#
+%s is blocking reception.#
+RODEX has been returned.#
+RODEX return failed.#
+The sender of this RODEX is not a friend or guild member. Please be careful.#
+RODEX received from all users#
+The duration of the same effect exceeds the limit and cannot be used.#
+If successful, the refinement level is reset to 0!#
+Cards, random options, and enchantments will be maintained.#
+In case of failure, the refinement level is maintained.#
+reset#
+Old version#
+Base Lv. %d#
+Job Lv. %d#
+Lv.%d %s#
+Quest list#
+Cash shop#
+Shortcut key information#
+Adventurer's Brokerage#
+UI theme#
+Existing UI#
+New UI#
+UI skin#
+- Additional Options -#
+intangible#
+immortal type#
+animal type#
+plant type#
+insect type#
+Fish type#
+devil type#
+humanoid#
+angel type#
+Balaur#
+radish#
+number#
+ji#
+fury#
+wind#
+poison#
+castle#
+cancer#
+salt#
+immortality#
+small#
+medium size#
+formation#
+DEF#
+Youth have limited access.#
+0Zeny (dye removal)#
+select all#
+Simple Quest UI#
+FREE!#
+rental period#
+You can enter a rental period of up to 14 days.#
+No trading#
+View Easy Quests#
+Simple quest hidden#
+Add to simple quest window#
+Delete from simple quest window#
+Quest Help#
+1. Combo box + search word input box: Quest sorting, search function#
+- ALL: View all received quests#
+- Quest types: NORMAL/ MAIN/ EPISODE/ DAILY/ LOCAL/ JOB/ GUIDE/ EVENT Quests are categorized and sorted.#
+- You can search for what you want in more detail from the quest list sorted by combo box.#
+2. Navigation UI#
+- Open navigation UI:#
+Menu icon ¡æ Navigation icon (shortcut key: N)#
+- Click on text hyperlink or NPC (monster) image: #
+Navigation route display & footprints (arrow) on the field floor to the target point#
+3. When running navigation, the route will be displayed in the chat window.#
+4. You can use [Space Movement Service] by talking to a Capra employee.#
+5. Simple Quest UI:#
+A function that simply displays the quest UI on the game screen#
+When right-clicking on each quest title, the quest information UI is called or the quest is deleted from the list.#
+There is a function.#
 Show #
+Your payment information session has expired. Please rerun the client#
+An error occurred. Please try again#
+Change size (%s)#
+function lock#
+feature off#
+input active#
+input inactive#
+Destination settings#
+Receiving group settings#
+setting#
+Separate pop-up window#
+return to tab#
+Add tab#
+Delete tab#
+Press Enter to start chatting#
+Unequip#
+Please try again later.#
+It can be used in the Cheonjimanseong area.#
+Requires Soul Accumulation effect.#
+I'm running out of amulets.#
+You must be equipped with a Gatling gun or shotgun type firearm.#
+You must be equipped with a rifle or revolver type firearm.#
+You must be equipped with a grenade launcher or rifle-type firearm.#
+You must be equipped with a Gatling gun or revolver type firearm.#
+You must be equipped with a shotgun or grenade launcher type firearm.#
+There is no shield equipped.#
+Banks cannot be used during multi-bartering. The bank was forced to close.#
+Banks cannot be used during multi-bartering.#
+The target's shadow has no room to move.#
+You must be in communion with at least one type of spirit being.#
+Items cannot be used while asleep or petrified.#
+Items cannot be used in Burrow state.#
+The package item cannot be used.#
+Package item setting failure!!#
+^ff0000 Available for %d days and %d hours ^000000#
+You have selected %s. Are your choices correct?#
+Quantity required per time: %d#
+Imperial Guard#
+Abyss Chaser#
+windhawk#
+Emblem registration failed.#
+Server registration failed.#
+File registration failed.#
+Mini party window arrangement#
+It is distributed evenly.\nThe item cannot be acquired because the weight or type of party member exceeds it.#
+[%s] received '+%d %s' from [%s].#
+Please open your mailbox again.#
+Your current job cannot summon Homunculus S. A change to a higher level job is required.#
+There are no equipment items that can equip the card.#
+Damage display#
+Damage display#
+¢Ø#
+¡è#
+¢Ö#
+Default#
+The object being tracked already exists.#
+Start tracking the target.#
+No one is being tracked.#
+End tracking.#
+Tracking ends when time expires.#
+Target not found.#
+^0054FF[Ability value correction] % d.%d %%^000000#
+You can no longer call NPCs.#
+If an error occurs %d times, it will be permanently blocked according to the operating policy.#
+It cannot be summoned by your current job. A change to a higher level job is required.#
+Strip and coating skills cannot be used on magic gear riders.#
+map#
+quiz#
+Enter the map you want to send checkers to in the text range below.#
+In the text range below, enter the quiz that will be displayed on the checker.#
+The map file name is incorrect.#
+The number combination is incorrect.#
+Please fill it out and press enter to save it.#
+Checkers were sent to %d blacklisted users.#
+Blacklist Checker cooldown.#
+There is a problem with Map values.#
+I'm having trouble with my quiz or number of correct answers.#
+There is a problem with the Quiz values.#
+There is a problem with the number of maps.#
+Remaining time %02d : %02d : %02d#
+Detection mode has been activated. Enter the numbers displayed on the left side of the screen using the keypad.#
+A penalty is given when the remaining time expires or if you answer incorrectly %d times.#
+Enter security code#
+With Mr. %s#
+>> ItemName: %s / Quantity: %d / Sales period: %d month:%d day:%d hour:%d minute ~ %d year:%d month:%d day:%d hour:%d minute#
+~ %d minutes, %d hours, %d day, %d month, %d year#
+In the party window, attack skills cannot be used on the same party member.#
+Please retry after completing progress or being invited.#
+Show reward experience max message#
+Equipment Abilities#
+Displays changes in ability when equipping/dismounting equipment#
+Show alliance chat messages#
+sent to allies#
+^FF2931Used dandelion fruit items\nare not included in the cancellation of subscription\n, and re-exchange for dandelion fruit is also not possible.#
+Can be smelted#
+Cannot be smelted#
+Enchant possible#
+Cannot be enchanted#
+Grade can be strengthened#
+Grade cannot be strengthened#
+Would you like to uninstall it?#
+The information in the selected item is incorrect.#
+Rune Tablet: %s Set#
+Rune Fragment of %s#
+Enhancement Probability#
+In case of failure, the success probability increases by %.2f%%.#
+This is the maximum reinforcement level.#
+This function cannot be checked when disabled.#
+Rune information does not exist.#
+%d set effect#
+rune tablet system#
+There are no items equipped.#
+Please cancel the installed rune set.#
+adventure guide#
+Rodex cannot be used while using the rune system.#
+Banking is not available while using the rune system.#
+Rodex cannot be used while using the rune system. Rodex was forced to quit.#
+Banking cannot be used while using the rune system. Banking was forced to stop.#
+I have a request to join a guild. You can confirm your request after closing all movement-related windows.#
+There is a request for alliance registration. You can confirm your request after closing all movement-related windows.#
+There is a request to register a friend. You can confirm your request after closing all movement-related windows.#
+I have a request to join the party. You can confirm your request after closing all movement-related windows.#
+I have a 1:1 transaction request. You can confirm your request after closing all movement-related windows.#
+warning#
+The possession limit exceeds 70%, or there is not enough free space in the inventory by more than 8 spaces.#
+quest board#
+Quest Information#
+Report a user#
+If you have exceeded the number of daily reports, you will no longer be able to report.#
+%s was reported.#
+The target is being reported by another player.#
+The subject is under report protection.#
+Subjects can no longer report beyond the cumulative number of daily reports.#
+You have been reported by another player.#
+%d decomposition#
+This is an unknown error. Please try again.#
+There are no items to disassemble.#
+There is not enough inventory space. Please clear some inventory space and try again.#
+The character weight is too heavy. Please try lowering the weight.#
+The maximum quantity of items is more than 30000.#
+UI is not activated.#
+There is no disassembly information.#
+There are not enough items to dismantle.#
+Emotion purchase information has been reset.#
+Already equipped with a rune set.#
+The composition of the rune tablet is not complete.#
+There is not enough required item.#
+There is a rune set equipped. Please try after removing the rune set.#
+There are no rune sets equipped.#
+Invalid rune tablet data. Please try later.#
+It cannot be enhanced any further. This is the maximum enhancement level.#
+Invalid rune tablet data. Please try later.#
+Invalid rune tablet data. Please try later.#
+Loading rune tablet data. Please try later.#
+Invalid rune tablet data. Please try later.#
+UI is not activated.#
+This is an area where reporting is not possible.#
+Graphics API#
+^FF2931Used %s items\nare not included in subscription cancellation\nand cannot be re-exchanged to %s.#
+D#
+C#
+B#
+A#
+View Costumes#
+0 Use Lv 1 (Sp : 2%)#
+0 Use Lv 1 (Sp: 2)#
+0 Use Lv 1 (Sp: 2%, Ap: 3)#
+0 Use Lv 1 (Sp: 2, Ap: 3)#
+0 1 Use Lv 2 (Sp : 3%)#
+0 1 Use Lv 2 (Sp: 3)#
+0 1 Use Lv 2 (Sp: 3%, Ap: 4)#
+0 1 Use Lv 2 (Sp: 3, Ap: 4)#
+QUEST: #
+See only my footprints#
+No search results found.#
+check the odds#
+warning#
+You have not applied the Blacksmith's Blessing yet. Would you like to continue strengthening?#
+Will not be viewed again while refining the equipment.#
+Odds Revealed#
+Component search#
+probability#
+ (hour)#
+https://roz.gnjoy.com/news/probability/View.asp?seq=209&curpage=1#
+https://ro.gnjoy.com/news/probability/View.asp?category=4&seq=1941553&curpage=1#
+A new character slot has been created.#
+The item failed to be used due to an unknown error.#
+Character slots can no longer be expanded.#
+https://roz.gnjoy.com/news/probability/list.asp#
+Go to the probability disclosure webpage.#
+This job cannot use the item.#
+You cannot use the item if you are part of a party or guild.#
+The item cannot be used while married.#
+Gender change cannot be performed while transformed.#
+Would you like to change your character's gender?#
+Gender change begins#
+Use of the item has been cancelled.#
+The character's gender has been changed.#
+You do not have permission to use the command.#
+This is a map where macro checkers cannot be created.#
+You cannot create macro checkers yet.#
+A macro checker has been created on the map.#
+default settings#
+Effect settings#
+Control settings#
+Graphics Settings#
+emblem border#
+On#
+off#
+show#
+Hide#
+Unsubscribe from random users#
+Received by all users#
+default priority#
+high#
+Increases Ragnarok process priority to speed up the game.#
+commonly#
+Set the Ragnarok process priority to the default setting of Normal.#
+lowness#
+By lowering the Ragnarok process priority, it becomes easier to run with other programs.#
+Aura display#
+Aura expression#
+original#
+mini aura#
+Damage notation#
+notation expansion#
+Default view#
+When moving to a region#
+Show map name#
+Don't see map name#
+fog effect#
+footprint effect#
+See all#
+mouse snap#
+monster target#
+skill target#
+Pick up items#
+No Ctrl#
+When attacking a monster continuously, do not press Ctrl.#
+No Shift#
+When attacking a monster with a recovery skill, do not press Shift.#
+When zoomed out, the screen appears slightly wider#
+In windowed mode, the mouse cursor does not go out of the window.#
+screen mode#
+full screen mode#
+Windowed screen mode#
+Trinier Filtering#
+The command usage region is incorrect.#
+An interface error occurred. Please try again later.#
+An interface error occurred. Transmission was interrupted.#
+SDK login information authentication failed, please try again later.#
+Confirm character deletion#
+In-game access to this account is restricted due to incorrect secondary password input. \n Access restrictions will be lifted at 2:02/1:02/0:04 and 3:02:4:02. To lift access restrictions, please go to Homepage -> Change Personal Information -> Secondary Password and authenticate yourself.#
+You must be equipped with a shotgun, gatling gun, or grenade launcher type firearm.#
+>> Where to use the tag is not specified.#
+Navigation >: No support for searching internal environment maps#
+error code - 0x80%d#
+Please take a screenshot of the error code and contact GM.#
+You have left the route. Please go back.#
+Please collect in advance.#
+Collection rewards have been completed.#
+There are no collection rewards.#
+Collection reward failed.#
+Rune Set Collection Reward#
+Item Warehouse Password#
+Cash Store Password#
+Click to use password#
+dye removal#
+Gender change items cannot be used while riding.#
+Consumable items cannot be used in their current state.#
+Doesn't match previous information#
+There is not enough inventory space.#
+Inventory is heavy.#
+The maximum quantity of items has been exceeded.#
+The UI is not open.#
+The information is not in the table.#
+>> ItemName: 0 / Quantity: 1 / Sales period: February: 3rd: 4:00:5 minutes ~ 6 years: July: 8th: 9:00:10#
+Sale period: 02:03 on January 1st#
+~ January 2, 03:04#
+Available in seconds.#
+P#
+Login Notification#
+Other settings#
+Fog On#
+Fog Off#
+Guild Emblem On#
+Guild Emblem Off#
+optimal route#
+Automatically changes to simple UI#
+Simple navigation#
+Show/hide amenities#
+extended minimap#
+Options (ESC)#
+Select Quest#
+UI interaction sound effects#
+UI interaction sound effect On#
+UI interaction sound effect Off#
+The sound effect is Off. Please turn it Off and try.#
+/uisound: UI interaction sound effect On Off#
+Rune Fragment of %s#
+The Memorial Dungeon will be destroyed after %d seconds. Please move out of the dungeon#
+Instant indoor movement is not supported.#
+*Web mall purchased products cannot be received from this server.#

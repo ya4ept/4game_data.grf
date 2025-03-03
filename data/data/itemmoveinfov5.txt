@@ -2756,7 +2756,7 @@
 6567	1	1	0	1	0	1	1	1	//Choco_Drink_Recipe
 17348	1	1	0	1	1	1	1	1	//S_Athena_Shield_Box
 1671	0	0	0	0	0	1	1	0	//Staff_Of_Evil_Slayer
-6671	1	1	0	1	0	0	0	1	//Geffen_Magic_Coin
+6671	1	1	0	1	0	1	1	1	//Geffen_Magic_Coin
 6672	1	1	0	1	0	1	1	1	//Gray_Shard
 7641	1	1	1	1	1	1	1	1	//Cure_Box
 13094	0	0	0	0	0	1	1	0	//Dagger_Of_Evil_Slayer
