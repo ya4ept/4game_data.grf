@@ -1,3 +1,28 @@
+05.03.2025 10:40
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Shadow Packs arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The Special Packs for Rune Knight arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+— The "Midgardian style Fishing in Payon" event has begun.
+
+Finished activities:
+— The Battle manual packs left the launcher.
+— The Shadow Packs left the launcher.
+
+Changes:
+— Fixed the functionality of the item Revived All-Sun Book [2].
+— Fixed the functionality of the skill "Meow Meow" at level 5.
+— Fixed the sprite display issue for the following cards: Weakened Fenrir Card, Les Card, Mavka Card, Colorful Teddy Bear Card.
+— Fixed the functionality of the item Old Morroc Shawl. It now restores 100% HP and SP upon resurrection in battle (at +8 refinement level).
+— Fixed the localization of quests [17.1].
+— Fixed a bug where the monster White Lady in Endless Tower did not have the "MVP" status.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695202/
+
+================
 26.02.2025 11:02
 Ragnarok Online Prime EU
 

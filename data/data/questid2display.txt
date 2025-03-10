@@ -26226,3 +26226,25 @@ Talk to Little Girl again#
 26117#And one more conversation#SG_FEEL#QUE_NOIMAGE#
 Talk to the little girl in Lonely Village again.#
 Talk to Little Girl again#
+
+
+12493#Challenge Consequences#SG_FEEL#QUE_NOIMAGE#
+Hard work saps your strength. You must wait 3 days to complete Glast Heim in challenge mode again.#
+Resets in 3 days at 04:00 a.m.#
+
+
+12494#Lecture Given#SG_FEEL#QUE_NOIMAGE#
+Oscar explained to you the details of distorted time and space.#
+You can't listen again.#
+
+12495#Dangerous Challenge#SG_FEEL#QUE_NOIMAGE#
+You're the only one who can stop the contaminated dimension from swallowing this world.#
+Cleansing the Contaminated Dimension#
+
+12501#Defeat Amdarais Illusion#SG_FEEL#QUE_NOIMAGE#
+Glast Heim Challenge#
+#
+
+12502#Defeat Himmelmez#SG_FEEL#QUE_NOIMAGE#
+Glast Heim Challenge#
+#
