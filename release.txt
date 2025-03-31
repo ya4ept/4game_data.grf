@@ -1,3 +1,32 @@
+12.03.2025 10:54
+Ragnarok Online Prime EU
+ 
+ Events and Shop:
+— The Refine Hats Sets arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+
+Finished activities:
+— The Shadow Packs left the launcher.
+— The Special Packs for Royal Guard left the launcher.
+— The Special Packs for Rune Knight left the launcher.
+— The Six Kingdoms Treasure left the launcher.
+— The Luckybox Sets left the launcher.
+— The Bossnia Crown Box left the launcher.
+— The "Increased Drop Chance +30%" event has come to an end.
+— The "Royal Bossnia" event has come to an end.
+
+Changes:
+Fixed several visual issues on certain jobs when using item Bravery Bag.
+Mount sprite for Gunslinger job now replaced with a motorcycle.
+Fixed Survivor's Shoes set bonus not working on players.
+Fixed Ceremonial Sword item sprite not showing while attacking.
+Fixed the description of the item Mad Bunny.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695214/
+
+
+================
 05.03.2025 10:40
 Ragnarok Online Prime EU
 

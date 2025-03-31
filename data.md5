@@ -587,7 +587,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-605758a935b48e02b2e58c03e92cab08 *data\buyingstoreitemlist.txt
+ced1922baed057cb81a4b040b4ddb809 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 3a658d642ab2f99dc563fdc5d76123ad *data\cardpostfixnametable.txt
 8e78ef515ac0b8039bbdd580d3b5234e *data\cardprefixnametable.txt
@@ -1902,7 +1902,7 @@ f0e88e8334064fefefb3c96f5012e29e *data\nif_fild01.gat
 78b539469b2363dae6a85252c535a031 *data\nif_in.gat
 f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
-c3e1bb99dbca24c8c1454cea866aa61f *data\num2cardillustnametable.txt
+c26c7eb2840e96720eaa26248039dc7f *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 0f1a7feab19a544c9eba6feee7f40a52 *data\num2itemdisplaynametable.txt
 224f34045799cbed0376097255883f5e *data\num2itemresnametable.txt
@@ -3243,14 +3243,14 @@ e6b4cadd01d1d4814557b7455765f9ac *data\luafiles514\lua files\ridingspreditinfo\r
 d2891bc29cd5610efebc515d2d6bebcd *data\luafiles514\lua files\skilleffectinfo\skilleffectinfo_f.lub
 a311359d28d2a235065ed65b19a79037 *data\luafiles514\lua files\skillinfoz\jobinheritlist.lub
 e2bd45e989a2052dbc98a33e8a083f6f *data\luafiles514\lua files\skillinfoz\skilldescript.lua
-c4c2ef1856bfce183afdb59d5c92b4e9 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
+8edd9a76e8e5988d8a2f466aae5287e2 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
 fc705aa87b944ea221283f0c6530ddae *data\luafiles514\lua files\skillinfoz\skillid.lua
 0e6011f5bcf70ed2480afc5e1899b32f *data\luafiles514\lua files\skillinfoz\skillid.lub
 9222c96fe3fdf35d5eec41d73f5ab558 *data\luafiles514\lua files\skillinfoz\skillinfolist.lua
 e120879d4b0f5d9ee1329325790b5d3f *data\luafiles514\lua files\skillinfoz\skillinfolist.lub
 4bdb0b56c07f903ec69c4d89524f5d56 *data\luafiles514\lua files\skillinfoz\skillinfo_f.lub
 36c2f40067e38c862c8f0cb8bb1cfdcd *data\luafiles514\lua files\skillinfoz\skilltreeview.lub
-628ae4f769aa7d8b1887ff36ca58da96 *data\luafiles514\lua files\spreditinfo\2dlayerdir_f.lub
+d2e1474765842fb72b1043f67fa8f309 *data\luafiles514\lua files\spreditinfo\2dlayerdir_f.lub
 8900cd382d0d98d39cdf43751d9ae5d2 *data\luafiles514\lua files\spreditinfo\biglayerdir_female.lub
 704cd0e068bde84fa6e014381eaaba29 *data\luafiles514\lua files\spreditinfo\biglayerdir_male.lub
 4f51ec15fa238e8554123d10fc21d51c *data\luafiles514\lua files\spreditinfo\smalllayerdir_female.lub
@@ -10862,6 +10862,14 @@ fcd4da924a91238aadf44dc4076d8be1 *data\palette\몸\oboro_여_0.pal
 a720c7c67204ad84484efe5aba7cf780 *data\palette\몸\oboro_여_1.pal
 ef0aed2e6e1fdd19b4c623f09365a719 *data\palette\몸\oboro_여_2.pal
 a36f9566c4909987cdeb9f76e96244e5 *data\palette\몸\oboro_여_3.pal
+01d15c67939080dade9956cd3a1618fa *data\palette\몸\peco_rebellion_남_0.pal
+01d15c67939080dade9956cd3a1618fa *data\palette\몸\peco_rebellion_남_1.pal
+c92ef7cb68a4c48187fb97c65bbb33c1 *data\palette\몸\peco_rebellion_남_2.pal
+a1ecbb9309475139dd6df13d660b5324 *data\palette\몸\peco_rebellion_남_3.pal
+01d15c67939080dade9956cd3a1618fa *data\palette\몸\peco_rebellion_여_0.pal
+01d15c67939080dade9956cd3a1618fa *data\palette\몸\peco_rebellion_여_1.pal
+c92ef7cb68a4c48187fb97c65bbb33c1 *data\palette\몸\peco_rebellion_여_2.pal
+a1ecbb9309475139dd6df13d660b5324 *data\palette\몸\peco_rebellion_여_3.pal
 a27932b001b5855f3db06d8ed08b532e *data\palette\몸\summoner_남_0.pal
 a12607b323c1b5a826dc51c26643ad6b *data\palette\몸\summoner_남_1.pal
 1a364721828ef1ff4f462ca05794eb78 *data\palette\몸\summoner_남_2.pal
@@ -11386,6 +11394,16 @@ f82dcd3a8e163a4fe801b1cad6139c36 *data\palette\몸\태권소년_여_0.pal
 06076bec188bfd8e0c2992c1eb02cd64 *data\palette\몸\태권소년_여_1.pal
 903b0b4cb2326a51e78232573b446e5d *data\palette\몸\태권소년_여_2.pal
 dced0386f9cdcc300b7e89d3396e4bae *data\palette\몸\태권소년_여_3.pal
+425e18b2aeb91e1259770efd55a12f52 *data\palette\몸\페코건너_남_0.pal
+425e18b2aeb91e1259770efd55a12f52 *data\palette\몸\페코건너_남_1.pal
+2c73c99b3fb165f40dd38de22f495aee *data\palette\몸\페코건너_남_2.pal
+c0991eeb55d4106b91446d11577c22f3 *data\palette\몸\페코건너_남_3.pal
+22955fd5301dd2c1b132fdff431dd45c *data\palette\몸\페코건너_남_4.pal
+425e18b2aeb91e1259770efd55a12f52 *data\palette\몸\페코건너_여_0.pal
+425e18b2aeb91e1259770efd55a12f52 *data\palette\몸\페코건너_여_1.pal
+2c73c99b3fb165f40dd38de22f495aee *data\palette\몸\페코건너_여_2.pal
+c0991eeb55d4106b91446d11577c22f3 *data\palette\몸\페코건너_여_3.pal
+22955fd5301dd2c1b132fdff431dd45c *data\palette\몸\페코건너_여_4.pal
 042232726e423b03806596a4242d5452 *data\palette\몸\페코로나_남_0.pal
 15e1f7a4c5a7d1b7477aa21d4988b1f6 *data\palette\몸\페코로나_남_1.pal
 d73ce0b560c7bb394e1e20d62effb07f *data\palette\몸\페코로나_남_2.pal
@@ -66327,7 +66345,7 @@ a1d41db65d14816af2cb41f245596f1c *data\sprite\로브\모험가배낭\남\frog_kagerou_남
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\남\frog_kagerou_남.spr
 b4911cc61e98e1e7fc1d6f51d43492c0 *data\sprite\로브\모험가배낭\남\kagerou_남.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\남\kagerou_남.spr
-4d29f1ab8a76883877b1142879c3a30e *data\sprite\로브\모험가배낭\남\peco_rebellion_남.act
+d9378e2bb21016456fc643a9e30d577e *data\sprite\로브\모험가배낭\남\peco_rebellion_남.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\남\peco_rebellion_남.spr
 e1b731d9faa0246819b9ff7aa5079282 *data\sprite\로브\모험가배낭\남\rebellion_남.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\남\rebellion_남.spr
@@ -66533,8 +66551,8 @@ ec80e1a60e6f06cf17a10670ad9194c7 *data\sprite\로브\모험가배낭\남\타조헌터_남.act
 c566c8232cead06e0379d5854093cf31 *data\sprite\로브\모험가배낭\남\태권소년_남.spr
 1ed8c0c12c3a4cc568ded66a62c277e6 *data\sprite\로브\모험가배낭\남\태권소년포링_남.act
 f514ab5c8a34c8effc2c2a9c536d9277 *data\sprite\로브\모험가배낭\남\태권소년포링_남.spr
-1819ff8256797d8938157c34274f9d82 *data\sprite\로브\모험가배낭\남\페코건너_남.act
-f514ab5c8a34c8effc2c2a9c536d9277 *data\sprite\로브\모험가배낭\남\페코건너_남.spr
+09c0ac761090d94b66b000fcf8f0b0a9 *data\sprite\로브\모험가배낭\남\페코건너_남.act
+a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\남\페코건너_남.spr
 4e13bca4b582cca4ade9d4b360361339 *data\sprite\로브\모험가배낭\남\페코검사_남.act
 f514ab5c8a34c8effc2c2a9c536d9277 *data\sprite\로브\모험가배낭\남\페코검사_남.spr
 f01919aa087366d8833d5e392eacbd08 *data\sprite\로브\모험가배낭\남\페코페코_기사_남.act
@@ -66579,7 +66597,7 @@ cc1606c27265023ba87650bdd2c28a23 *data\sprite\로브\모험가배낭\남\민스트럴_남.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\여\frog_oboro_여.spr
 03184424468cd2645d3264477a87f246 *data\sprite\로브\모험가배낭\여\oboro_여.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\여\oboro_여.spr
-3a1edf021c3ea1c405979065f96cecde *data\sprite\로브\모험가배낭\여\peco_rebellion_여.act
+d0d851bec9b64f866bd9bfa922f00693 *data\sprite\로브\모험가배낭\여\peco_rebellion_여.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\여\peco_rebellion_여.spr
 8e0e23363045ddd64b2162d5bd1e56a4 *data\sprite\로브\모험가배낭\여\rebellion_여.act
 a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\여\rebellion_여.spr
@@ -66781,8 +66799,8 @@ f514ab5c8a34c8effc2c2a9c536d9277 *data\sprite\로브\모험가배낭\여\태권소년_여.spr
 1d7149a44022f17a574d90d0aa714e02 *data\sprite\로브\모험가배낭\여\태권소년포링_여.spr
 325bf78082eb6ae031c6e628df0ddb8f *data\sprite\로브\모험가배낭\여\태권소년포링_여가방.act
 1d7149a44022f17a574d90d0aa714e02 *data\sprite\로브\모험가배낭\여\태권소년포링_여가방.spr
-b50a882078fa04effff18c766f9cba52 *data\sprite\로브\모험가배낭\여\페코건너_여.act
-f514ab5c8a34c8effc2c2a9c536d9277 *data\sprite\로브\모험가배낭\여\페코건너_여.spr
+f8948e6ca52fcc0336eea6aa6f4ab54f *data\sprite\로브\모험가배낭\여\페코건너_여.act
+a10ff3de852a8136e58c1886c6cb5174 *data\sprite\로브\모험가배낭\여\페코건너_여.spr
 b50a882078fa04effff18c766f9cba52 *data\sprite\로브\모험가배낭\여\페코검사_여.act
 f514ab5c8a34c8effc2c2a9c536d9277 *data\sprite\로브\모험가배낭\여\페코검사_여.spr
 3c7307dd9290b51332237bd59676b2da *data\sprite\로브\모험가배낭\여\페코페코_기사_여.act
@@ -100549,8 +100567,8 @@ a3923a029e28f653b474620f35712e9a *data\sprite\인간족\몸통\남\kagerou_남.act
 6989fb98aa7c50c4a17d3b65d66918c0 *data\sprite\인간족\몸통\남\kagerou_남.spr
 1090528a4f3bd95e95ff825ccf83c25a *data\sprite\인간족\몸통\남\oboro_남.act
 b2e165bfe60e6d3f048caa6433181d96 *data\sprite\인간족\몸통\남\oboro_남.spr
-3f244076e8caad199c98142df327a890 *data\sprite\인간족\몸통\남\peco_rebellion_남.act
-67af63d6407c05255d0aff162433fca5 *data\sprite\인간족\몸통\남\peco_rebellion_남.spr
+0fa3536cae81f23e09adfb2b55ca1af7 *data\sprite\인간족\몸통\남\peco_rebellion_남.act
+f9834834abfa9610a7005ea974731331 *data\sprite\인간족\몸통\남\peco_rebellion_남.spr
 c6af53ca1ba7c9f3627578f0b12433b0 *data\sprite\인간족\몸통\남\rebellion_남.act
 13eba2c1c2b760dc72add2a8c84ae378 *data\sprite\인간족\몸통\남\rebellion_남.spr
 44508821d52ffe33ceaceac9a95f38d1 *data\sprite\인간족\몸통\남\rebellion_남_기관총.act
@@ -100679,20 +100697,20 @@ bf8909b83d6656c6df45d9c75adbb790 *data\sprite\인간족\몸통\남\슈퍼노비스포링_남.a
 9fa3ebad635f4ad0536521e4be08eb00 *data\sprite\인간족\몸통\남\노비스포링_남.spr
 9128e9287701e1cebc6d64d019f91d35 *data\sprite\인간족\몸통\남\여름_남.act
 25d8e5707b68fa4324b87b1409d14ba6 *data\sprite\인간족\몸통\남\여름_남.spr
-c5ca2c2f64cf6d7d80a09e22fc7b56a4 *data\sprite\인간족\몸통\남\여우마법사_남.act
-b8e102091f0584b6389c7bf6a57c763e *data\sprite\인간족\몸통\남\여우마법사_남.spr
-5676a24369e991ca5f59de1a84b9c7bd *data\sprite\인간족\몸통\남\여우워록_남.act
-0145a0e390a6f3fdac7f3342f4279975 *data\sprite\인간족\몸통\남\여우워록_남.spr
-0b0a77786c06a732c705167eb4ed54cd *data\sprite\인간족\몸통\남\여우세이지_남.act
-0f0355deb62898206f054379dd410d66 *data\sprite\인간족\몸통\남\여우세이지_남.spr
-073fc29501d32de61850d830bdfe58f2 *data\sprite\인간족\몸통\남\여우소서러_남.act
-00f5af1b14374087d4026612c1a419e9 *data\sprite\인간족\몸통\남\여우소서러_남.spr
-96135860c28349104c38576226667904 *data\sprite\인간족\몸통\남\여우위저드_남.act
-cc5aa7a7cb1d42047226601873b5fb0f *data\sprite\인간족\몸통\남\여우위저드_남.spr
-3154cbe9ab7255a6903c01f739aacd03 *data\sprite\인간족\몸통\남\여우프로페서_남.act
-99e7520ccdc22f6fa06a3b7c7d7dbe62 *data\sprite\인간족\몸통\남\여우프로페서_남.spr
-6dc3b82642de63926037a989174a227e *data\sprite\인간족\몸통\남\여우하이위저드_남.act
-2eae43bc9bfcdf6e90d10709f75a9af3 *data\sprite\인간족\몸통\남\여우하이위저드_남.spr
+a2dc81b8d015468878d313ee675f3a6c *data\sprite\인간족\몸통\남\여우마법사_남.act
+40d95bacf73a0f934bbb7ada5918fedc *data\sprite\인간족\몸통\남\여우마법사_남.spr
+ad680b62b5c1116f945d0fb7f42c16a7 *data\sprite\인간족\몸통\남\여우워록_남.act
+eb082659ea76496a756bd186b5dc4eca *data\sprite\인간족\몸통\남\여우워록_남.spr
+e9a2b0dcdfa1ffb5aea85a10f0311377 *data\sprite\인간족\몸통\남\여우세이지_남.act
+a7c240b5d65b39927bc05cf13429b700 *data\sprite\인간족\몸통\남\여우세이지_남.spr
+b05fb671506e9d350befa5e90d49528c *data\sprite\인간족\몸통\남\여우소서러_남.act
+9a9fa92b580aea7a0dc8cc1916ac3c5c *data\sprite\인간족\몸통\남\여우소서러_남.spr
+c03852946983d72f93580501bbafd0db *data\sprite\인간족\몸통\남\여우위저드_남.act
+3bf1d2af44cf81fec0c62509695b5462 *data\sprite\인간족\몸통\남\여우위저드_남.spr
+fdc085d3fdac4fa5ade65c9b3df6c392 *data\sprite\인간족\몸통\남\여우프로페서_남.act
+e6860731311cc9e84b8888a82c62e8e7 *data\sprite\인간족\몸통\남\여우프로페서_남.spr
+139ca0c6b83a1a38ac6236a1c45cc5b7 *data\sprite\인간족\몸통\남\여우하이위저드_남.act
+d97d0e9a6e0473eb50f06f799d5b8686 *data\sprite\인간족\몸통\남\여우하이위저드_남.spr
 4497e6a51375c055f506cc935eb43403 *data\sprite\인간족\몸통\남\연금술사_h_남.act
 31e1ff005c5633f681d011d0305dbb4d *data\sprite\인간족\몸통\남\연금술사_h_남.spr
 4497e6a51375c055f506cc935eb43403 *data\sprite\인간족\몸통\남\연금술사_남.act
@@ -100749,19 +100767,19 @@ a75c7a283896802893b71f9d0330df5c *data\sprite\인간족\몸통\남\창용병.act
 83ed32c66bf08120ba47d937b4be7fa4 *data\sprite\인간족\몸통\남\창용병.spr
 686696ab3caa96a0ccb5950b364512a9 *data\sprite\인간족\몸통\남\초보자_남.act
 ea0577a3d2eeaf6ef302df2fddc2f939 *data\sprite\인간족\몸통\남\초보자_남.spr
-84457d82196c804af70af083d0d7e080 *data\sprite\인간족\몸통\남\켈베로스길로틴크로스_남.act
+e1bc80641bdce91986569f5708d61d23 *data\sprite\인간족\몸통\남\켈베로스길로틴크로스_남.act
 d291f81d7280f3e47c1b25f8352f4363 *data\sprite\인간족\몸통\남\켈베로스길로틴크로스_남.spr
-2ed02420e2caf3a40e78f0106446bb0c *data\sprite\인간족\몸통\남\켈베로스도둑_남.act
+b0c7b9e78884a1b2b9d0b6d57091f44d *data\sprite\인간족\몸통\남\켈베로스도둑_남.act
 dba29426ca0df743ceb1703c6875f8ac *data\sprite\인간족\몸통\남\켈베로스도둑_남.spr
-48860dd9026132769e12431d054a2ce2 *data\sprite\인간족\몸통\남\켈베로스로그_남.act
+ca28e5598db2c356fad36f6934ffa6a2 *data\sprite\인간족\몸통\남\켈베로스로그_남.act
 1d6f9df231f5a8a1aaaca35ff73e447f *data\sprite\인간족\몸통\남\켈베로스로그_남.spr
-cfe4b612862e725bdfc757588397e1d1 *data\sprite\인간족\몸통\남\켈베로스쉐도우체이서_남.act
+64e77bcf3a81d89e1a5e35996c316532 *data\sprite\인간족\몸통\남\켈베로스쉐도우체이서_남.act
 c04ccbcb4c53349445e9a4baf410878f *data\sprite\인간족\몸통\남\켈베로스쉐도우체이서_남.spr
-ee597f8b69903fd4614ef3ef2cbb2e46 *data\sprite\인간족\몸통\남\켈베로스스토커_남.act
+58b5454e787e3441b22d0de84de9c637 *data\sprite\인간족\몸통\남\켈베로스스토커_남.act
 621e441c9681f243b4565d934fb2bbd1 *data\sprite\인간족\몸통\남\켈베로스스토커_남.spr
-a39e953e7e3211964ab12a12e8415f91 *data\sprite\인간족\몸통\남\켈베로스어쎄신_남.act
+1b2ee51c8fcb1d0cfc4f8799429c62f2 *data\sprite\인간족\몸통\남\켈베로스어쎄신_남.act
 9b233258e25f768cdde190d7e589a2f1 *data\sprite\인간족\몸통\남\켈베로스어쎄신_남.spr
-d07b749cd6b4b3aa4ed12b90ba8b2826 *data\sprite\인간족\몸통\남\켈베로스어쎄신크로스_남.act
+ce14f4fd5b647d50f593c48be6662ab0 *data\sprite\인간족\몸통\남\켈베로스어쎄신크로스_남.act
 3a9abcadeb1415ae26f25951a8420d36 *data\sprite\인간족\몸통\남\켈베로스어쎄신크로스_남.spr
 a778344019f05883ed0e07273d34c005 *data\sprite\인간족\몸통\남\크루세이더_h_남.act
 e0fd0af0e8f5bd9c0e7221e7ef32a267 *data\sprite\인간족\몸통\남\크루세이더_h_남.spr
@@ -100793,8 +100811,8 @@ c0808e730ad5115adfcefdd090a4721d *data\sprite\인간족\몸통\남\태권소년포링_남.act
 93e2a1dd8e51db67dd48870419b2218c *data\sprite\인간족\몸통\남\태권소년포링_남.spr
 c4c33e67ed0f311fd92c367feb99dbee *data\sprite\인간족\몸통\남\턱시도_남.act
 cd8ea37a3a1cb978997eb383bf29648f *data\sprite\인간족\몸통\남\턱시도_남.spr
-2e3d43556edd81022042d30b78e59958 *data\sprite\인간족\몸통\남\페코건너_남.act
-22ac37134544e2cd48199a45839a4104 *data\sprite\인간족\몸통\남\페코건너_남.spr
+df6c1703cb07b0854d8458337509a632 *data\sprite\인간족\몸통\남\페코건너_남.act
+aef5dc37c5037786fff8348b8525ba7f *data\sprite\인간족\몸통\남\페코건너_남.spr
 6a4acd1abd2fda7b0130b4d4f43c13d7 *data\sprite\인간족\몸통\남\페코검사_남.act
 c1b3158fe359ee4e28b9efc735accca3 *data\sprite\인간족\몸통\남\페코검사_남.spr
 621595dde3bb5af91ff014ba2013bc0e *data\sprite\인간족\몸통\남\페코페코_기사_h_남.act
@@ -100851,8 +100869,8 @@ dfac7e81b4a0dd1b160ca5b5dfb771b0 *data\sprite\인간족\몸통\여\frog_oboro_여.act
 1d3ca6078d35e099451a62675a1eefab *data\sprite\인간족\몸통\여\frog_oboro_여.spr
 1090528a4f3bd95e95ff825ccf83c25a *data\sprite\인간족\몸통\여\oboro_여.act
 b2e165bfe60e6d3f048caa6433181d96 *data\sprite\인간족\몸통\여\oboro_여.spr
-a102ae09de5f97545f6d5f3369d4c371 *data\sprite\인간족\몸통\여\peco_rebellion_여.act
-6f9a9e52ecf577846f9e7ade154ad3dc *data\sprite\인간족\몸통\여\peco_rebellion_여.spr
+f7d7687701dcd021302b04c7aadc40ef *data\sprite\인간족\몸통\여\peco_rebellion_여.act
+721fbf421e257913d825bc13a50f74a3 *data\sprite\인간족\몸통\여\peco_rebellion_여.spr
 ce1bd6eeeaf5a1d573dc03355fd43091 *data\sprite\인간족\몸통\여\rebellion_여.act
 76e0686b8ae7b275b5f9da2a7d372f7d *data\sprite\인간족\몸통\여\rebellion_여.spr
 3dca6d818186a517f3559a322d12260c *data\sprite\인간족\몸통\여\rebellion_여_기관총.act
@@ -100982,20 +101000,20 @@ b294db960683194ef1dc4063b3b6273f *data\sprite\인간족\몸통\여\여름_여.act
 8754812164089bb6ab409e680de47f4e *data\sprite\인간족\몸통\여\여름_여.spr
 2df01d8c4c0e3271279fd5b3aa6ae719 *data\sprite\인간족\몸통\여\여우마법사_남.act
 b8e102091f0584b6389c7bf6a57c763e *data\sprite\인간족\몸통\여\여우마법사_남.spr
-5debde675bb9b373444f2bca9bb6d0d8 *data\sprite\인간족\몸통\여\여우마법사_여.act
-a2b12775de82c2aec503f761d9fd5f77 *data\sprite\인간족\몸통\여\여우마법사_여.spr
-aab2a3877cd19eafa8ba922e816cd8a9 *data\sprite\인간족\몸통\여\여우워록_여.act
-260068f06bfc91513be517533c4c051f *data\sprite\인간족\몸통\여\여우워록_여.spr
-0105e1fe67e51603757509a876026f60 *data\sprite\인간족\몸통\여\여우세이지_여.act
-c1a0093b37f74fe85aa4aca590b5431c *data\sprite\인간족\몸통\여\여우세이지_여.spr
-e0fc6f840145ddc59f7a8e6643f82030 *data\sprite\인간족\몸통\여\여우소서러_여.act
-cd6bb979a619201a69d8b2d3f119a23a *data\sprite\인간족\몸통\여\여우소서러_여.spr
-29971e95d7061ef4121c5146359f4cc9 *data\sprite\인간족\몸통\여\여우위저드_여.act
-6f73c642d26ce14821638239bbb5b9fd *data\sprite\인간족\몸통\여\여우위저드_여.spr
-5c388556aa753e87c649e47d354c10fd *data\sprite\인간족\몸통\여\여우프로페서_여.act
-0855bf634d9eed1c8649e8431a4e4411 *data\sprite\인간족\몸통\여\여우프로페서_여.spr
-ddd9f389eb9287b72fa8ae42e55af0f6 *data\sprite\인간족\몸통\여\여우하이위저드_여.act
-159282840ccd2e40aa893213bebe9240 *data\sprite\인간족\몸통\여\여우하이위저드_여.spr
+539382dd62bc6e2f744cced14ae2e1b5 *data\sprite\인간족\몸통\여\여우마법사_여.act
+dd80419caad85307031dc722e5e419c0 *data\sprite\인간족\몸통\여\여우마법사_여.spr
+531d279c66c1833b2a6af0d24eaf4036 *data\sprite\인간족\몸통\여\여우워록_여.act
+4b28337e7f8d1d07d69eabccf5c7f6e0 *data\sprite\인간족\몸통\여\여우워록_여.spr
+73ee16e7646bdb711a1ffb9642ce4b82 *data\sprite\인간족\몸통\여\여우세이지_여.act
+70a788b683621a2d276b4db75c6783c2 *data\sprite\인간족\몸통\여\여우세이지_여.spr
+041c544859bf449565639ff8c457dd5e *data\sprite\인간족\몸통\여\여우소서러_여.act
+f4e7b80c948c802b38f554b0f6c24cc1 *data\sprite\인간족\몸통\여\여우소서러_여.spr
+49261a5fe9cc218d2c9781a7b7e454c1 *data\sprite\인간족\몸통\여\여우위저드_여.act
+49ed8db8ca25bdb0bc58e0ff06572390 *data\sprite\인간족\몸통\여\여우위저드_여.spr
+4223701ee8f1ccf0343f6fd7105221e0 *data\sprite\인간족\몸통\여\여우프로페서_여.act
+9d07eaa1d63211e85ad246c8630e95f0 *data\sprite\인간족\몸통\여\여우프로페서_여.spr
+9341328a3df92b229f84e258bab7f01f *data\sprite\인간족\몸통\여\여우하이위저드_여.act
+5507330aa0a26ed540a6694dee0b4ea1 *data\sprite\인간족\몸통\여\여우하이위저드_여.spr
 7f0ff391eafbe6e02e04881c8e3e5dca *data\sprite\인간족\몸통\여\연금술사_h_여.act
 b8e542e71540c98cfc56f4b3897b7224 *data\sprite\인간족\몸통\여\연금술사_h_여.spr
 7f0ff391eafbe6e02e04881c8e3e5dca *data\sprite\인간족\몸통\여\연금술사_여.act
@@ -101056,19 +101074,19 @@ b76c48b479d4f81c9edd0dc273127bce *data\sprite\인간족\몸통\여\집시_여.spr
 25f830150b4ec5c4b37ed630a17a6238 *data\sprite\인간족\몸통\여\챔피온알파카_여.spr
 0068df9010d0f20b82b87b1caa8ad2b4 *data\sprite\인간족\몸통\여\초보자_여.act
 5da8ad782e675c3b6a3a775628160d3b *data\sprite\인간족\몸통\여\초보자_여.spr
-784f804c6a99a01396223f9a4fd2b45d *data\sprite\인간족\몸통\여\켈베로스길로틴크로스_여.act
+a0a8fc30b74e644d2e08dc12ed9d6b0b *data\sprite\인간족\몸통\여\켈베로스길로틴크로스_여.act
 041dffa2959b4e771cfae193ebf27e15 *data\sprite\인간족\몸통\여\켈베로스길로틴크로스_여.spr
-0035e0d78154076f147dfbab8179f160 *data\sprite\인간족\몸통\여\켈베로스도둑_여.act
+524063e34e1084a0758ecd39312ce56b *data\sprite\인간족\몸통\여\켈베로스도둑_여.act
 aa7aa7c8dc9f8a3f48141747fc171791 *data\sprite\인간족\몸통\여\켈베로스도둑_여.spr
-fee10c0ff16fcd34020bb471ccdb65be *data\sprite\인간족\몸통\여\켈베로스로그_여.act
+7e10eb0effe0215ef61a267f5e0d675c *data\sprite\인간족\몸통\여\켈베로스로그_여.act
 586e369ed12aa941f6116602fc10534d *data\sprite\인간족\몸통\여\켈베로스로그_여.spr
-3c21a86ae267a3e0d6c1810e8770a5a9 *data\sprite\인간족\몸통\여\켈베로스쉐도우체이서_여.act
+03bb0d62481251a1605e5cc219008fb7 *data\sprite\인간족\몸통\여\켈베로스쉐도우체이서_여.act
 497a4511cdf8bc55042d1f3ed6f2e90f *data\sprite\인간족\몸통\여\켈베로스쉐도우체이서_여.spr
-5e17d52c114aae83746e93c30f4554c5 *data\sprite\인간족\몸통\여\켈베로스스토커_여.act
+e38c8277e422d08834c6cb59c823328a *data\sprite\인간족\몸통\여\켈베로스스토커_여.act
 19a728e45cef1d08d5495e332234575b *data\sprite\인간족\몸통\여\켈베로스스토커_여.spr
-b06b0e140e971fad99cbedb870fe15a4 *data\sprite\인간족\몸통\여\켈베로스어쎄신_여.act
+6a542b4b35ef24e54ded6c1dcb0f6b4e *data\sprite\인간족\몸통\여\켈베로스어쎄신_여.act
 10aec077ace3d435a7a86ce419726707 *data\sprite\인간족\몸통\여\켈베로스어쎄신_여.spr
-0c74c6e31ea11705c0ace13a96609fcb *data\sprite\인간족\몸통\여\켈베로스어쎄신크로스_여.act
+8431bc0ddf5574905762d324ff972554 *data\sprite\인간족\몸통\여\켈베로스어쎄신크로스_여.act
 6e175178461923b829a4bb99237ce24d *data\sprite\인간족\몸통\여\켈베로스어쎄신크로스_여.spr
 1647d3a30bcbc915edb91924e786bac8 *data\sprite\인간족\몸통\여\크루세이더_h_여.act
 e57c3614f7299c24697aa072e8d4b84d *data\sprite\인간족\몸통\여\크루세이더_h_여.spr
@@ -101100,8 +101118,8 @@ aede5e859c62a68e4a15e15d1eec17b1 *data\sprite\인간족\몸통\여\태권소녀포링_여.spr
 cef3191aa5b538d586075cb952dd1f26 *data\sprite\인간족\몸통\여\태권소년_여.spr
 dbe712868cd11c71014ff35bec5c234d *data\sprite\인간족\몸통\여\태권소년포링_여.act
 aede5e859c62a68e4a15e15d1eec17b1 *data\sprite\인간족\몸통\여\태권소년포링_여.spr
-a749c69f57d9b879d63e985e15983b15 *data\sprite\인간족\몸통\여\페코건너_여.act
-ac344a507156a8b949545cc531e5be0b *data\sprite\인간족\몸통\여\페코건너_여.spr
+d2d809a024cb74c5c6f7fddde7923229 *data\sprite\인간족\몸통\여\페코건너_여.act
+f5e8e340251b94e2177fe1efb3984880 *data\sprite\인간족\몸통\여\페코건너_여.spr
 97d365d20180dc85c2085a4c17c80dec *data\sprite\인간족\몸통\여\페코검사_여.act
 aaa57ee9d9d164dc8195d6d84d277719 *data\sprite\인간족\몸통\여\페코검사_여.spr
 b4fff571e54b29db10057798ae42ebc3 *data\sprite\인간족\몸통\여\페코페코_기사_h_여.act

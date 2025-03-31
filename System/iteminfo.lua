@@ -29743,16 +29743,18 @@ tbl = {
 		identifiedDescriptionName = {
 			"A rag doll that Piamette uses to defend herself and attack enemies.",
 			"It looks so creepy!",
+			"^777777-------------^000000",
 			"DEX +1",
 			"MDEF +6",
 			"Damage from all elemental attacks -5%",
 			"^6A5ACDSet Bonus^000000",
 			"^3CB371Piamette's Ribbon^000000",
-			"[If refined to +6 or higher]",
-			"Every refine level from +6 and higer reduces damage taken from all elementals attack by 2%.",
+			"[If refined to +7 or higher]",
+			"Every refine level from +7 and higher reduces damage taken from all elemental attacks by 2%.",
 			"When magically attacking, a certain chance to transform into Piamette for 10 sec.",
 			"While transformed, consumes 30HP each second but adds MATK +5 for every 3 refine upgrade[Piamette's Ribbon].",
-			"Chance to transform increases as refine[Piamette's Ribbon] goes higher.",
+			"Chance to transform increases as refine of [Piamette's Ribbon] increases.",
+			"^777777-------------^000000",
 			"Class: ^777777Shield^000000",
 			"Defense: ^77777740^000000",
 			"Weight: ^77777710^000000",
@@ -143791,7 +143793,7 @@ tbl = {
 			"Jobs: ^777777Novice, Swordsmen, Merchant and Thieve^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
+		ClassNum = 2,
 		costume = false
 	},
 	[13441] = {
@@ -240748,9 +240750,10 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
-		identifiedDisplayName = "Bunny Queen Wreath",
+		identifiedDisplayName = "Costume Bunny Queen Wreath",
 		identifiedResourceName = "C_LittleGarden",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"This flower wreath is enchanted!",
 			"If you wear it, bunny ears will grow on your head!",
 			"^777777-------------^000000",
