@@ -652,7 +652,11 @@ tblLapineUpgradeBox = {
 				{ "Up_Demon_S_Shot", 820001 },
 				{ "Up_Crimson_Rose", 800002 },
 				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
+				{ "Up_SoulWeight", 550015 },
+				{ "Blessed_Knife", 510070 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Freedom_Stick", 550080 },
+				{ "Up_Freedom_Stick", 550081 }
 			},
 			NeedSource_String = "Ancient Weapon"
 		},
@@ -733,7 +737,11 @@ tblLapineUpgradeBox = {
 				{ "Up_Demon_S_Shot", 820001 },
 				{ "Up_Crimson_Rose", 800002 },
 				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
+				{ "Up_SoulWeight", 550015 },
+				{ "Blessed_Knife", 510070 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Freedom_Stick", 550080 },
+				{ "Up_Freedom_Stick", 550081 }
 			},
 			NeedSource_String = "Ancient Weapon"
 		},
@@ -1727,7 +1735,9 @@ tblLapineUpgradeBox = {
 				{ "Up_Demon_S_Shot", 820001 },
 				{ "Up_Crimson_Rose", 800002 },
 				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
+				{ "Up_SoulWeight", 550015 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Up_Freedom_Stick", 550081 }
 			},
 			NeedSource_String = "Revived Weapon"
 		},
@@ -1772,7 +1782,9 @@ tblLapineUpgradeBox = {
 				{ "Up_Demon_S_Shot", 820001 },
 				{ "Up_Crimson_Rose", 800002 },
 				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
+				{ "Up_SoulWeight", 550015 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Up_Freedom_Stick", 550081 }
 			},
 			NeedSource_String = "Revived Weapon"
 		}

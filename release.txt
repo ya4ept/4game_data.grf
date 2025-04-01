@@ -1,3 +1,49 @@
+26.03.2025 11:00
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Battle manual packs arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Eremes' Treasure arrived in launcher.
+— The "+30% ALL Experience Boost" event has begun.
+
+Finished activities:
+— The Profession item packs left the launcher.
+— The Special Packs for Summoner left the launcher.
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+
+Changes:
+Fixed an issue where newer (Revived) Hero weapons could not be enchanted.
+Updated enchant item descriptions to correctly reflect weapon names and include newer weapons.
+Fixed Magma Essence being consumed before the enchant process was completed.
+Corrected the description of Odin's Power.
+Fixed an incorrect description on Temporal Circlet (Oboro), which previously displayed the description for Temporal Circlet (Rebellion).
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695245/
+
+================
+19.03.2025 11:01
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Profession item packs arrived in launcher.
+— The Special Packs for Summoner arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "Gold Rush (Payon)" event has begun.
+
+Finished activities:
+— The Refine Hats Sets left the launcher.
+— The HD refine sets left the launcher.
+— The "Boosted Refinement Rates" event has come to an end.
+— The "Midgardian style Fishing in Payon" event has come to an end.
+
+Changes:
+— The issue with the item "Arabian Manteau [1]" has been fixed, where damage was not reduced when the item was unequipped.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695232/
+
+================
 12.03.2025 10:54
 Ragnarok Online Prime EU
  

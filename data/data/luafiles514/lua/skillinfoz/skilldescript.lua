@@ -7775,8 +7775,12 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.ALL_ODINS_POWER] = {
 		"Odin's Power",
-		"Description: ^777777+70 ATK and MATK for 60 seconds,",
-		"-20 DEF and MDEF at the same time. ^000000"
+		"Max Level: ^7777772^000000",
+		"Skill Form: ^777777Active / Buff^000000",
+		"Description: ^777777Temporarily increases ATK/MATK\r\nand decreases DEF/MDEF.^000000",
+		"Duration: ^77777760 seconds.^000000",
+		"[Lv 1]: ^777777ATK, MATK +70 / DEF, MDEF -20^000000",
+		"[Lv 2]: ^777777ATK, MATK +100 / DEF, MDEF -40^000000"
 	},
 	[SKID.KN_CHARGEATK] = {
 		"Charge Attack",
