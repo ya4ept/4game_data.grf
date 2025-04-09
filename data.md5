@@ -611,7 +611,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-f9a899e731f982b5e84a4511e17b7abe *data\buyingstoreitemlist.txt
+30e9055a13d2354c34a38a895ea7efcf *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 800e9185043692d73a839abc971320b3 *data\cardpostfixnametable.txt
 0356589e01f416389e5a5ac7ac6c21d6 *data\cardprefixnametable.txt
@@ -1190,7 +1190,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 e5feacf2974756c8bbdd17390c336cdf *data\idnum2itemdisplaynametable.txt
-8630acb0366e57827152df26517bb7b4 *data\idnum2itemresnametable.txt
+42afbfa8e319fae95f0c002ea82ba1c0 *data\idnum2itemresnametable.txt
 d6e7c5ac6f066199a8339bdeb6ed947d *data\idnum2itemresnametable_new.txt
 02d943ecfdefc25c1454d945e5ad5975 *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1237,7 +1237,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-ad829dd33caa06d4b0bf215476dfb234 *data\itemslotcounttable.txt
+6145f8232da46d4042bf15c4d3c92384 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1947,7 +1947,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 0b2c6ecb6f3ddb79ddf3a3d32944e982 *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 67495ac72ba3f97091bb4e56b26e5a70 *data\num2itemdisplaynametable.txt
-631d6f76e032d398a6bcb36ca18f3c0b *data\num2itemresnametable.txt
+fe5bc8913b5aecdcc5b6aea3d85414b7 *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -3155,9 +3155,9 @@ f8a0cc47e88f9fad4a20d20ad4ff9c09 *data\luafiles514\lua files\admin\pcidentity.lu
 042d59932c59b95e6de4f40dd8cfa6e8 *data\luafiles514\lua files\chatwndinfo\chatwndinfo.lub
 f7277fc4b80548253274e957e5dc6deb *data\luafiles514\lua files\chatwndinfo\chatwndinfo_f.lub
 e900e7fc4aa6b83b6ac86dd9dc271059 *data\luafiles514\lua files\datainfo\accessoryid.lua
-27ed0a6b5f028d3c332387cdf3efde12 *data\luafiles514\lua files\datainfo\accessoryid.lub
+84dab1697ccf8ff7e4806b362d88eee8 *data\luafiles514\lua files\datainfo\accessoryid.lub
 eeeb79f02b54e0d69493a01cba5ec5b8 *data\luafiles514\lua files\datainfo\accname.lua
-a02e0320cc3c27c4c6200defed3a0a06 *data\luafiles514\lua files\datainfo\accname.lub
+653e4be51b1c7f49af44345f4e90d78b *data\luafiles514\lua files\datainfo\accname.lub
 983d8b86d6734032a0531d722726468c *data\luafiles514\lua files\datainfo\accname_f.lub
 df882da75c6b6825eb66f75f38d80a86 *data\luafiles514\lua files\datainfo\addrandomoptionnametable.lub
 32da69b483098ab7a17ce5a55e1f1cb9 *data\luafiles514\lua files\datainfo\addrandomoption_f.lub
@@ -3172,7 +3172,7 @@ a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovem
 9587dda67ebe63976dd61a039769a6e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lua
 3bf53e2960e24c6ae425ccd287092420 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 83db199fc175bdf26a4a5dd52ee2a153 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-9150c2af3cc8ee0826e45e3e50af7f84 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+1f65acaf558b5869b15ed0b37bc80668 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 6aba4fd2c5a17ffcfa3fef2af51ccc02 *data\luafiles514\lua files\datainfo\npcidentity.lua
 deacf8dd1c4d250e4f24b24260353cf7 *data\luafiles514\lua files\datainfo\npcidentity.lub
 bb137187f5b4160a029bfbfd77a346e6 *data\luafiles514\lua files\datainfo\npcidentitysvr.lua
@@ -3320,7 +3320,7 @@ fadde415c7b832273a78b9fb67485452 *data\luafiles514\lua files\service_ru\external
 594b2f22a835fd42e5d4026a6f119007 *data\luafiles514\lua files\skilleffectinfo\skilleffectinfolist.lub
 d2891bc29cd5610efebc515d2d6bebcd *data\luafiles514\lua files\skilleffectinfo\skilleffectinfo_f.lub
 be4d52bbb96959ee9e2ec011e385bf41 *data\luafiles514\lua files\skillinfoz\jobinheritlist.lub
-d78b87ed04e71fd1aba80ed63d5ef6a1 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
+d066fe5b3636637fc39c39bbd33fc46d *data\luafiles514\lua files\skillinfoz\skilldescript.lub
 2509291e8f573b71c2fd1e98f441fe10 *data\luafiles514\lua files\skillinfoz\skillid.lub
 f04760b40fb70c3ad5de02a12b3a690c *data\luafiles514\lua files\skillinfoz\skillinfolist.lub
 4bdb0b56c07f903ec69c4d89524f5d56 *data\luafiles514\lua files\skillinfoz\skillinfo_f.lub
@@ -74238,6 +74238,8 @@ e762d7bdc3df2b2f2a6856ea986dfa92 *data\sprite\아이템\book_of_magic.spr
 b7fc84c19d8cb5c7e92fc22e4f074e07 *data\sprite\아이템\book_of_soyga.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\book_of_the_apo_il.act
 46321cd4d429bdd298731f1bb265350b *data\sprite\아이템\book_of_the_apo_il.spr
+db4fab6f0951fc54ebf8b402e3821213 *data\sprite\아이템\booster_shoes.act
+3545052936671ac04b3299ca95374b20 *data\sprite\아이템\booster_shoes.spr
 b5993ad035b64545aa1e631aa2e5850a *data\sprite\아이템\boost_lance_os.act
 ba0b795389520ca1360ac542f500f7c2 *data\sprite\아이템\boost_lance_os.spr
 b3259d44918bc69fc40b6624cf06486a *data\sprite\아이템\boots_il.act
@@ -76847,6 +76849,8 @@ db4fab6f0951fc54ebf8b402e3821213 *data\sprite\아이템\old_moc_shawl.act
 c43b3818d502287a47e0af5743c2de11 *data\sprite\아이템\old_moc_shawl.spr
 f3995fc6ee44095a0f058ceb929e90f8 *data\sprite\아이템\openair_headset.act
 2ff568ebf74b9e1a79f1c4fcca22f8f1 *data\sprite\아이템\openair_headset.spr
+8dd472d6923a3918233b92b71e296b1a *data\sprite\아이템\owl_baron_mantle.act
+e68eebfed8a91dabecb1d0049dab18ea *data\sprite\아이템\owl_baron_mantle.spr
 fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\paracelsus_glove.act
 3c8e1b203e3941357602e88b9923b3c1 *data\sprite\아이템\paracelsus_glove.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\parfait.act
@@ -88233,6 +88237,8 @@ d30d2c73b0da5b0ba7fc7e880010ce2a *data\sprite\악세사리\남\남_c은색느낌표.act
 0aff013b5dad73536ea28984b065c84e *data\sprite\악세사리\남\남_c은색느낌표.spr
 e5367d396f6aacebef23f9cd070fcd70 *data\sprite\악세사리\남\남_c은색물음표.act
 7243b417ef42b2700738d65af998d1ec *data\sprite\악세사리\남\남_c은색물음표.spr
+37cffacddf50264d836ca8607ff3f843 *data\sprite\악세사리\남\남_c이프리트의숨결.act
+98e9a2c43875d77c00dc4346283fafae *data\sprite\악세사리\남\남_c이프리트의숨결.spr
 0c1d57d7fe189d12fd2f0081d69ff61c *data\sprite\악세사리\남\남_c전투의흔적.act
 f9f5f9b71c47c1ab067a4170be0b10c9 *data\sprite\악세사리\남\남_c전투의흔적.spr
 24d4c0e5d80a1d9e4a1814433a406d4d *data\sprite\악세사리\남\남_c천사의베일.act
@@ -90120,8 +90126,8 @@ ef84f7c0cec33e4108500ce10c5f341d *data\sprite\악세사리\남\남_이사벨라블루귀모자.
 d749bffdfd96a52b531528893a6428fe *data\sprite\악세사리\남\남_이프리트가면.spr
 be4c224301614dd0956b3d3a710c5d0c *data\sprite\악세사리\남\남_이프리트의귀.act
 887f489885d47ae9d726617e82edd7c9 *data\sprite\악세사리\남\남_이프리트의귀.spr
-2b53647936cc934025b6e802464ae611 *data\sprite\악세사리\남\남_이프리트의숨결.act
-51f714d45d58a78ce5901fccb38ef032 *data\sprite\악세사리\남\남_이프리트의숨결.spr
+37cffacddf50264d836ca8607ff3f843 *data\sprite\악세사리\남\남_이프리트의숨결.act
+98e9a2c43875d77c00dc4346283fafae *data\sprite\악세사리\남\남_이프리트의숨결.spr
 5b3f0b2de20ce5cda405e31bcee2c8c4 *data\sprite\악세사리\남\남_이프리트의눈.act
 8c9438554837601917baf40c9e3bd540 *data\sprite\악세사리\남\남_이프리트의눈.spr
 140f4ffc9db5107c4dc6e242389562a6 *data\sprite\악세사리\남\남_익명요청.act
@@ -91170,6 +91176,8 @@ cf1ef7ad5d654fbe28950625fa3a8f2e *data\sprite\악세사리\남\여_여친구함모자.act
 41fdf9912679edb2f2c663c262315cae *data\sprite\악세사리\남\여_여친구함모자.spr
 6a0d7e760b7ddcf6ddbca159dd07101e *data\sprite\악세사리\남\여_카르듀이의귀.act
 9643a1387768826d652a4108b8ab882b *data\sprite\악세사리\남\여_카르듀이의귀.spr
+99dacbc1ab516d82a6c27b4dc4f2305d *data\sprite\악세사리\남\이프리트의숨결.act
+4555be38edef90912783557dc59f2089 *data\sprite\악세사리\남\이프리트의숨결.spr
 77b5a3e53305524948170a38498385fd *data\sprite\악세사리\남_doram\남_c_alchemist_square_bag.act
 f5b1cd60247dd162eb42e61f979fb7a4 *data\sprite\악세사리\남_doram\남_c_alchemist_square_bag.spr
 7ac833689e482af5dc669ad715ffda26 *data\sprite\악세사리\남_doram\남_c_baby_panda.act
@@ -91774,6 +91782,8 @@ bc1e28ddf1947e8579cd0c5dcb28ce68 *data\sprite\악세사리\여\여_c은색느낌표.act
 0aff013b5dad73536ea28984b065c84e *data\sprite\악세사리\여\여_c은색느낌표.spr
 66b62098e47cfbc7583939e0e7f34186 *data\sprite\악세사리\여\여_c은색물음표.act
 7243b417ef42b2700738d65af998d1ec *data\sprite\악세사리\여\여_c은색물음표.spr
+5ec8fba9907ae4e85f4d0a345fcadd29 *data\sprite\악세사리\여\여_c이프리트의숨결.act
+98e9a2c43875d77c00dc4346283fafae *data\sprite\악세사리\여\여_c이프리트의숨결.spr
 d642adb4e6c715ffcb053f8e625eb1cc *data\sprite\악세사리\여\여_c전투의흔적.act
 f9f5f9b71c47c1ab067a4170be0b10c9 *data\sprite\악세사리\여\여_c전투의흔적.spr
 95cdf095de4099200e112705c6de8730 *data\sprite\악세사리\여\여_c천사의베일.act
@@ -93666,8 +93676,8 @@ fdf1626e61910f0566963e30b8b78e75 *data\sprite\악세사리\여\여_이프리트가면.act
 59c2a3fe6787e9305fbb698e55db5728 *data\sprite\악세사리\여\여_이프리트가면.spr
 20d93d24e540035f95d835ea02fcfd2f *data\sprite\악세사리\여\여_이프리트의귀.act
 887f489885d47ae9d726617e82edd7c9 *data\sprite\악세사리\여\여_이프리트의귀.spr
-44767cb492b1eccd871ad8abd9a51f00 *data\sprite\악세사리\여\여_이프리트의숨결.act
-51f714d45d58a78ce5901fccb38ef032 *data\sprite\악세사리\여\여_이프리트의숨결.spr
+5ec8fba9907ae4e85f4d0a345fcadd29 *data\sprite\악세사리\여\여_이프리트의숨결.act
+98e9a2c43875d77c00dc4346283fafae *data\sprite\악세사리\여\여_이프리트의숨결.spr
 103a4afe1b226b81e91c0c9743504424 *data\sprite\악세사리\여\여_이프리트의눈.act
 8c9438554837601917baf40c9e3bd540 *data\sprite\악세사리\여\여_이프리트의눈.spr
 906b7dfb950d48718c1f32c0809a0a00 *data\sprite\악세사리\여\여_익명요청.act
@@ -95163,6 +95173,22 @@ fbe70183147b3715221ba9ac35a81f8b *data\sprite\이팩트\sv_stemspear\sv_stemspear.a
 39c5f9763a2e9c7243f3fb72bf0e3a5c *data\sprite\이팩트\sv_stemspear\sv_stemspear.spr
 05250d29c8fd20170f106e4a12f0a63d *data\sprite\이팩트\valkyrie_wing\valkyrie_wing.act
 d1be31d132edcaaec00a4bbaea376a29 *data\sprite\이팩트\valkyrie_wing\valkyrie_wing.spr
+90ebfcdc4c1c27ab7660aa07e9b9253e *data\sprite\인간족\biolo\biolo_남_매드바니.act
+892f426a9caa1b49caa1a32ab9a68959 *data\sprite\인간족\biolo\biolo_남_매드바니.spr
+d5223327ea77f1ac8905dbe13dd40ae2 *data\sprite\인간족\biolo\biolo_여_매드바니.act
+569043f85baddda3093c7aa5aaf1213e *data\sprite\인간족\biolo\biolo_여_매드바니.spr
+89e1441cdb5364469e2d00ec654bb26e *data\sprite\인간족\imperial_guard\imperial_guard_남_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\imperial_guard\imperial_guard_남_매드바니.spr
+f82ce4ff20bf17ddf9eb205fe9cb5863 *data\sprite\인간족\imperial_guard\imperial_guard_여_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\imperial_guard\imperial_guard_여_매드바니.spr
+89e1441cdb5364469e2d00ec654bb26e *data\sprite\인간족\imperial_guard_chicken\imperial_guard_chicken_남_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\imperial_guard_chicken\imperial_guard_chicken_남_매드바니.spr
+f82ce4ff20bf17ddf9eb205fe9cb5863 *data\sprite\인간족\imperial_guard_chicken\imperial_guard_chicken_여_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\imperial_guard_chicken\imperial_guard_chicken_여_매드바니.spr
+6c56a20d9307ff11c55f592663fcaf7a *data\sprite\인간족\inquisitor\inquisitor_남_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\inquisitor\inquisitor_남_매드바니.spr
+c06a0d48b04711f8f6d21c4459942d71 *data\sprite\인간족\inquisitor\inquisitor_여_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\inquisitor\inquisitor_여_매드바니.spr
 dcb2bd044d70f41f3a100a9ef22e7059 *data\sprite\인간족\kagerou\kagerou_남_13049.act
 2b3f6c9919484852a9d0bc654421e9c3 *data\sprite\인간족\kagerou\kagerou_남_13049.spr
 98b909fbbe7e93f8187c4ba51f778dc6 *data\sprite\인간족\kagerou\kagerou_남_수리검.act
@@ -96945,6 +96971,10 @@ c95d85ee5d186cb78df34849ce38e76f *data\sprite\인간족\로그\로그_여_활.spr
 a570d11a4537bc17ada908d18f40f060 *data\sprite\인간족\로그\로그_여_단검_검광.spr
 130d0b43e3c727f8a301032b00ea1dc5 *data\sprite\인간족\로그\로그_여_버클러.act
 1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\로그\로그_여_버클러.spr
+89e1441cdb5364469e2d00ec654bb26e *data\sprite\인간족\로얄가드\로얄가드_남_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\로얄가드\로얄가드_남_매드바니.spr
+f82ce4ff20bf17ddf9eb205fe9cb5863 *data\sprite\인간족\로얄가드\로얄가드_여_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\로얄가드\로얄가드_여_매드바니.spr
 2c39c2f7104ea77d86a4dc1c8811dfb6 *data\sprite\인간족\레인져늑대\레인져늑대_남_검광.act
 8c7b4f529e623461fdf402e8da6c51d7 *data\sprite\인간족\레인져늑대\레인져늑대_남_검광.spr
 c889c8f79d1e9a13059b7c95c31d227d *data\sprite\인간족\레인져늑대\레인져늑대_여_검광.act
@@ -98640,6 +98670,10 @@ e35bb03d573d9bab1e87289aa921e077 *data\sprite\인간족\어세신\어세신_여_단검_단검.
 fb7c082386cc4dfe9968684c306160b1 *data\sprite\인간족\어세신\어세신_여_단검_단검.spr
 f190bcdb2011ae4ae733abbe61d9c553 *data\sprite\인간족\어세신\어세신_여_단검_단검_검광.act
 7f65be1994ff4d365df358b5ce9f7467 *data\sprite\인간족\어세신\어세신_여_단검_단검_검광.spr
+6c56a20d9307ff11c55f592663fcaf7a *data\sprite\인간족\슈라\슈라_남_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\슈라\슈라_남_매드바니.spr
+c06a0d48b04711f8f6d21c4459942d71 *data\sprite\인간족\슈라\슈라_여_매드바니.act
+1ff48882ce79ad839de0b12e0758e6be *data\sprite\인간족\슈라\슈라_여_매드바니.spr
 2c18ef76d2bad5e2271ca404af5624b0 *data\sprite\인간족\슈퍼노비스\슈퍼노비스_남_1207.act
 4d1d982fa4b91167c73202408b5f21e6 *data\sprite\인간족\슈퍼노비스\슈퍼노비스_남_1207.spr
 2c18ef76d2bad5e2271ca404af5624b0 *data\sprite\인간족\슈퍼노비스\슈퍼노비스_남_1208.act
@@ -99293,6 +99327,10 @@ f3a3c5dff72bd7703d5a60dff2160fa8 *data\sprite\인간족\위저드\위저드_여_1615.spr
 68ea045060f980ae90be8fdc4ce396bc *data\sprite\인간족\위저드\위저드_여_단검.spr
 837a3ce34325d0d5896967efb6d1de6b *data\sprite\인간족\위저드\위저드_여_단검_검광.act
 03786782d2c35b4e97c2fb3b7511aecc *data\sprite\인간족\위저드\위저드_여_단검_검광.spr
+90ebfcdc4c1c27ab7660aa07e9b9253e *data\sprite\인간족\제네릭\제네릭_남_매드바니.act
+892f426a9caa1b49caa1a32ab9a68959 *data\sprite\인간족\제네릭\제네릭_남_매드바니.spr
+d5223327ea77f1ac8905dbe13dd40ae2 *data\sprite\인간족\제네릭\제네릭_여_매드바니.act
+569043f85baddda3093c7aa5aaf1213e *data\sprite\인간족\제네릭\제네릭_여_매드바니.spr
 5235112d54557922a7be43658c55978d *data\sprite\인간족\제철공\제철공_남_1119.act
 5ee7bacddd13e7499470d3e5b9d56ce0 *data\sprite\인간족\제철공\제철공_남_1119.spr
 5235112d54557922a7be43658c55978d *data\sprite\인간족\제철공\제철공_남_1120.act
@@ -100647,6 +100685,10 @@ fe2c262aad50f9a89e954645319b6662 *data\sprite\인간족\바드\바드_남_단검.act
 6313f6bdaf16b8267e4f8384f34fbcfb *data\sprite\인간족\바드\바드_남_단검.spr
 38d94bd4442b8170dd5510283548684c *data\sprite\인간족\바드\바드_남_단검_검광.act
 4ebf6b62582a9314b6354116a3fd2809 *data\sprite\인간족\바드\바드_남_단검_검광.spr
+fe74ba76c12c866369a6766283d8fb1b *data\sprite\방패\imperial_guard\imperial_guard_남_매드바니.act
+7e141763c0893b620c27f0659aec9d14 *data\sprite\방패\imperial_guard\imperial_guard_남_매드바니.spr
+6bcb11348e32021dbd2f67ed3de50962 *data\sprite\방패\imperial_guard\imperial_guard_여_매드바니.act
+7e141763c0893b620c27f0659aec9d14 *data\sprite\방패\imperial_guard\imperial_guard_여_매드바니.spr
 3bf1803fdfa7e9e112952ba2a94b9cf9 *data\sprite\방패\kagerou\kagerou_남_2189_방패.act
 7e141763c0893b620c27f0659aec9d14 *data\sprite\방패\kagerou\kagerou_남_2189_방패.spr
 3bf1803fdfa7e9e112952ba2a94b9cf9 *data\sprite\방패\kagerou\kagerou_남_28901_방패.act
@@ -116085,6 +116127,7 @@ c9d4164c93df0d40b436da6277bbdda5 *data\texture\유저인터페이스\collection\bluecat
 8168741f503a94fac9bd51a408a80c9c *data\texture\유저인터페이스\collection\book_of_magic.bmp
 68efc80604eb183f8ef797698c7b751a *data\texture\유저인터페이스\collection\book_of_soyga.bmp
 1113733ccdb4cbf8b2458ce9bae906d4 *data\texture\유저인터페이스\collection\book_of_the_apo_il.bmp
+e1479208191d98cbfb66a0cfb364389a *data\texture\유저인터페이스\collection\booster_shoes.bmp
 dbb2bd595b144fe30b7fbacbb2e07b78 *data\texture\유저인터페이스\collection\boost_lance_os.bmp
 e5502a82e8e9412ff9de80b44446afd7 *data\texture\유저인터페이스\collection\boots_il.bmp
 f4149b2c4d96ce163c20768f7826ea02 *data\texture\유저인터페이스\collection\bottle_grenade.bmp
@@ -116950,6 +116993,7 @@ fae5ea0175b85fdbf1d12508676091d9 *data\texture\유저인터페이스\collection\ny_2024
 93619373af3b1578fcc263e67fdd0c8e *data\texture\유저인터페이스\collection\old_detachmentsring.bmp
 83463d052fee68bad9c469a450236f9c *data\texture\유저인터페이스\collection\old_moc_shawl.bmp
 87a5b9891680cf13fbd55e41acd1ad2a *data\texture\유저인터페이스\collection\openair_headset.bmp
+df55bf5dd2f3217bd1709f9e9b2a57a2 *data\texture\유저인터페이스\collection\owl_baron_mantle.bmp
 6b4c50eb9f5096ace25be20f39e2bc67 *data\texture\유저인터페이스\collection\paracelsus_glove.bmp
 3ed08be0102db851d00f51dca17439bd *data\texture\유저인터페이스\collection\parfait.bmp
 92f531c6520fb281d6abfabe5c5ee804 *data\texture\유저인터페이스\collection\pawsnclaws.bmp
@@ -123609,6 +123653,7 @@ d4ac94775444eb5030bda584190292fc *data\texture\유저인터페이스\item\bloody_ruby.b
 8a7f9cdc2aecc00f3d6274a0c4e428b5 *data\texture\유저인터페이스\item\book_of_magic.bmp
 28bfb427eee6bf988e50ecf89c813194 *data\texture\유저인터페이스\item\book_of_soyga.bmp
 492ccb8648941bfa2f8547ee83ada084 *data\texture\유저인터페이스\item\book_of_the_apo_il.bmp
+7ca65516837ed08a79692371e7585fda *data\texture\유저인터페이스\item\booster_shoes.bmp
 3d69d1ccb93cdb167847d5d399f6d0d2 *data\texture\유저인터페이스\item\boost_lance_os.bmp
 019fb229ca7676eb14acb8fae142a6a0 *data\texture\유저인터페이스\item\boots_il.bmp
 cf90e3389b5ec51f8d8e861277a9a2f3 *data\texture\유저인터페이스\item\bottle_grenade.bmp
@@ -124937,6 +124982,7 @@ f22a469ca744a33e85577b12b4cce9b9 *data\texture\유저인터페이스\item\ob_zangetsu.b
 d13428e71d755f5e551eaae0831be743 *data\texture\유저인터페이스\item\old_detachmentsring.bmp
 8377be9e8e4d31982a7f848b23d84988 *data\texture\유저인터페이스\item\old_moc_shawl.bmp
 311b4eabc723b9c63c9c11ce18450f18 *data\texture\유저인터페이스\item\openair_headset.bmp
+ade780804a824f0ad6b25db0e3a80299 *data\texture\유저인터페이스\item\owl_baron_mantle.bmp
 e4921565d31f798f1ae67f09e9ca8d18 *data\texture\유저인터페이스\item\paracelsus_glove.bmp
 41ac0236f120c67d86f845f4dd793362 *data\texture\유저인터페이스\item\parfait.bmp
 06686d2b684305c034be3c3542e3d441 *data\texture\유저인터페이스\item\pawsnclaws.bmp

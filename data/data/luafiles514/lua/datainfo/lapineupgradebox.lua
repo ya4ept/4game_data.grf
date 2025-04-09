@@ -3,7 +3,7 @@ tblLapineUpgradeBox = {
 		Noblesse_Rifine_Ticket = {
 			ItemID = 100128,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -53,7 +53,7 @@ tblLapineUpgradeBox = {
 		Imperial_Rifine_Ticket = {
 			ItemID = 100129,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -103,7 +103,7 @@ tblLapineUpgradeBox = {
 		Grace_Rifine_Ticket = {
 			ItemID = 100130,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -153,7 +153,7 @@ tblLapineUpgradeBox = {
 		Imperial_Convert1 = {
 			ItemID = 100131,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -165,7 +165,7 @@ tblLapineUpgradeBox = {
 		Imperial_Convert2 = {
 			ItemID = 100132,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -177,7 +177,7 @@ tblLapineUpgradeBox = {
 		Imperial_Convert3 = {
 			ItemID = 100135,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -223,7 +223,7 @@ tblLapineUpgradeBox = {
 		Imperial_Convert4 = {
 			ItemID = 100136,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -269,7 +269,7 @@ tblLapineUpgradeBox = {
 		Grace_Convert1 = {
 			ItemID = 100133,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -281,7 +281,7 @@ tblLapineUpgradeBox = {
 		Grace_Convert2 = {
 			ItemID = 100134,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -293,7 +293,7 @@ tblLapineUpgradeBox = {
 		Grace_Convert3 = {
 			ItemID = 100137,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -339,7 +339,7 @@ tblLapineUpgradeBox = {
 		Grace_Convert4 = {
 			ItemID = 100138,
 			NeedRefineMin = 0,
-			NeedRefineMax = 20,
+			NeedRefineMax = 9,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -381,96 +381,6 @@ tblLapineUpgradeBox = {
 				{ "Grace_Snovice_Robe", 450126 }
 			},
 			NeedSource_String = "Королевское снаряжение"
-		},
-		Great_Hero_Bravery = {
-			ItemID = 100412,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Up_Oriental_Sword", 600009 },
-				{ "Up_Dragonic_Slayer", 21058 },
-				{ "Up_Shiver_Katar_K", 610008 },
-				{ "Up_Blade_Katar", 610009 },
-				{ "Up_Sword_Of_Bluefire", 500013 },
-				{ "Up_Slate_Sword", 500014 },
-				{ "Up_Narcis_Bow", 700013 },
-				{ "Up_Trumpet_Shell_K", 570009 },
-				{ "Up_Barb_Wire_K", 580009 },
-				{ "Up_Avenger", 620004 },
-				{ "Up_Magic_Sword", 510019 },
-				{ "Up_Fatalist", 510020 },
-				{ "Up_Meteor_Striker", 590011 },
-				{ "Up_Royal_Bow_K", 700018 },
-				{ "Up_Scalet_Dragon_L_Bow", 700019 },
-				{ "Up_Shadow_Staff_K", 550012 },
-				{ "Up_Freezing_Rod", 550013 },
-				{ "Up_Iron_Nail_K", 560008 },
-				{ "Up_Ray_Knuckle", 560009 },
-				{ "Up_Undine_Spear_K", 530006 },
-				{ "Up_Light_Blade", 500017 },
-				{ "Up_Iron_Staff", 640011 },
-				{ "Up_Blue_Crystal_Staff", 640012 },
-				{ "Up_Demon_Hunting_Bible", 540011 },
-				{ "Up_Saint_Hall", 590012 },
-				{ "Up_MeawFoxtail", 550014 },
-				{ "Up_Fog_Dew_Sword", 510022 },
-				{ "Up_Humma_Clear", 650004 },
-				{ "Up_Master_Soul_Rifle", 810001 },
-				{ "Up_Golden_L_Launcher", 840001 },
-				{ "Up_The_Black_Gatling", 830002 },
-				{ "Up_Demon_S_Shot", 820001 },
-				{ "Up_Crimson_Rose", 800002 },
-				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
-			},
-			NeedSource_String = "Дивное оружие"
-		},
-		Great_Hero_Wisdom = {
-			ItemID = 100413,
-			NeedRefineMin = 0,
-			NeedRefineMax = 20,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{ "Up_Oriental_Sword", 600009 },
-				{ "Up_Dragonic_Slayer", 21058 },
-				{ "Up_Shiver_Katar_K", 610008 },
-				{ "Up_Blade_Katar", 610009 },
-				{ "Up_Sword_Of_Bluefire", 500013 },
-				{ "Up_Slate_Sword", 500014 },
-				{ "Up_Narcis_Bow", 700013 },
-				{ "Up_Trumpet_Shell_K", 570009 },
-				{ "Up_Barb_Wire_K", 580009 },
-				{ "Up_Avenger", 620004 },
-				{ "Up_Magic_Sword", 510019 },
-				{ "Up_Fatalist", 510020 },
-				{ "Up_Meteor_Striker", 590011 },
-				{ "Up_Royal_Bow_K", 700018 },
-				{ "Up_Scalet_Dragon_L_Bow", 700019 },
-				{ "Up_Shadow_Staff_K", 550012 },
-				{ "Up_Freezing_Rod", 550013 },
-				{ "Up_Iron_Nail_K", 560008 },
-				{ "Up_Ray_Knuckle", 560009 },
-				{ "Up_Undine_Spear_K", 530006 },
-				{ "Up_Light_Blade", 500017 },
-				{ "Up_Iron_Staff", 640011 },
-				{ "Up_Blue_Crystal_Staff", 640012 },
-				{ "Up_Demon_Hunting_Bible", 540011 },
-				{ "Up_Saint_Hall", 590012 },
-				{ "Up_MeawFoxtail", 550014 },
-				{ "Up_Fog_Dew_Sword", 510022 },
-				{ "Up_Humma_Clear", 650004 },
-				{ "Up_Master_Soul_Rifle", 810001 },
-				{ "Up_Golden_L_Launcher", 840001 },
-				{ "Up_The_Black_Gatling", 830002 },
-				{ "Up_Demon_S_Shot", 820001 },
-				{ "Up_Crimson_Rose", 800002 },
-				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
-			},
-			NeedSource_String = "Дивное оружие"
 		},
 		Old_Refine_Cube = {
 			ItemID = 100270,
@@ -742,7 +652,11 @@ tblLapineUpgradeBox = {
 				{ "Up_Demon_S_Shot", 820001 },
 				{ "Up_Crimson_Rose", 800002 },
 				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
+				{ "Up_SoulWeight", 550015 },
+				{ "Blessed_Knife", 510070 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Freedom_Stick", 550080 },
+				{ "Up_Freedom_Stick", 550081 }
 			},
 			NeedSource_String = "Древнее оружие"
 		},
@@ -823,7 +737,11 @@ tblLapineUpgradeBox = {
 				{ "Up_Demon_S_Shot", 820001 },
 				{ "Up_Crimson_Rose", 800002 },
 				{ "Up_OneSkyOneSun", 540010 },
-				{ "Up_SoulWeight", 550015 }
+				{ "Up_SoulWeight", 550015 },
+				{ "Blessed_Knife", 510070 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Freedom_Stick", 550080 },
+				{ "Up_Freedom_Stick", 550081 }
 			},
 			NeedSource_String = "Древнее оружие"
 		},
@@ -1775,6 +1693,100 @@ tblLapineUpgradeBox = {
 				{ "Modify_Luk_Boots_", 22118 }
 			},
 			NeedSource_String = "Броня Шестиона или Хроноплащ"
+		},
+		Great_Hero_Bravery = {
+			ItemID = 100412,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Up_Oriental_Sword", 600009 },
+				{ "Up_Dragonic_Slayer", 21058 },
+				{ "Up_Shiver_Katar_K", 610008 },
+				{ "Up_Blade_Katar", 610009 },
+				{ "Up_Sword_Of_Bluefire", 500013 },
+				{ "Up_Slate_Sword", 500014 },
+				{ "Up_Narcis_Bow", 700013 },
+				{ "Up_Trumpet_Shell_K", 570009 },
+				{ "Up_Barb_Wire_K", 580009 },
+				{ "Up_Avenger", 620004 },
+				{ "Up_Magic_Sword", 510019 },
+				{ "Up_Fatalist", 510020 },
+				{ "Up_Meteor_Striker", 590011 },
+				{ "Up_Royal_Bow_K", 700018 },
+				{ "Up_Scalet_Dragon_L_Bow", 700019 },
+				{ "Up_Shadow_Staff_K", 550012 },
+				{ "Up_Freezing_Rod", 550013 },
+				{ "Up_Iron_Nail_K", 560008 },
+				{ "Up_Ray_Knuckle", 560009 },
+				{ "Up_Undine_Spear_K", 530006 },
+				{ "Up_Light_Blade", 500017 },
+				{ "Up_Iron_Staff", 640011 },
+				{ "Up_Blue_Crystal_Staff", 640012 },
+				{ "Up_Demon_Hunting_Bible", 540011 },
+				{ "Up_Saint_Hall", 590012 },
+				{ "Up_MeawFoxtail", 550014 },
+				{ "Up_Fog_Dew_Sword", 510022 },
+				{ "Up_Humma_Clear", 650004 },
+				{ "Up_Master_Soul_Rifle", 810001 },
+				{ "Up_Golden_L_Launcher", 840001 },
+				{ "Up_The_Black_Gatling", 830002 },
+				{ "Up_Demon_S_Shot", 820001 },
+				{ "Up_Crimson_Rose", 800002 },
+				{ "Up_OneSkyOneSun", 540010 },
+				{ "Up_SoulWeight", 550015 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Up_Freedom_Stick", 550081 }
+			},
+			NeedSource_String = "Дивное оружие"
+		},
+		Great_Hero_Wisdom = {
+			ItemID = 100413,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{ "Up_Oriental_Sword", 600009 },
+				{ "Up_Dragonic_Slayer", 21058 },
+				{ "Up_Shiver_Katar_K", 610008 },
+				{ "Up_Blade_Katar", 610009 },
+				{ "Up_Sword_Of_Bluefire", 500013 },
+				{ "Up_Slate_Sword", 500014 },
+				{ "Up_Narcis_Bow", 700013 },
+				{ "Up_Trumpet_Shell_K", 570009 },
+				{ "Up_Barb_Wire_K", 580009 },
+				{ "Up_Avenger", 620004 },
+				{ "Up_Magic_Sword", 510019 },
+				{ "Up_Fatalist", 510020 },
+				{ "Up_Meteor_Striker", 590011 },
+				{ "Up_Royal_Bow_K", 700018 },
+				{ "Up_Scalet_Dragon_L_Bow", 700019 },
+				{ "Up_Shadow_Staff_K", 550012 },
+				{ "Up_Freezing_Rod", 550013 },
+				{ "Up_Iron_Nail_K", 560008 },
+				{ "Up_Ray_Knuckle", 560009 },
+				{ "Up_Undine_Spear_K", 530006 },
+				{ "Up_Light_Blade", 500017 },
+				{ "Up_Iron_Staff", 640011 },
+				{ "Up_Blue_Crystal_Staff", 640012 },
+				{ "Up_Demon_Hunting_Bible", 540011 },
+				{ "Up_Saint_Hall", 590012 },
+				{ "Up_MeawFoxtail", 550014 },
+				{ "Up_Fog_Dew_Sword", 510022 },
+				{ "Up_Humma_Clear", 650004 },
+				{ "Up_Master_Soul_Rifle", 810001 },
+				{ "Up_Golden_L_Launcher", 840001 },
+				{ "Up_The_Black_Gatling", 830002 },
+				{ "Up_Demon_S_Shot", 820001 },
+				{ "Up_Crimson_Rose", 800002 },
+				{ "Up_OneSkyOneSun", 540010 },
+				{ "Up_SoulWeight", 550015 },
+				{ "Up_Blessed_Knife", 510071 },
+				{ "Up_Freedom_Stick", 550081 }
+			},
+			NeedSource_String = "Дивное оружие"
 		}
 	},
 	results = {
