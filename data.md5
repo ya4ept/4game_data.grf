@@ -611,7 +611,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-30e9055a13d2354c34a38a895ea7efcf *data\buyingstoreitemlist.txt
+f52e19c7eb5a766d0c8d6369e2f1d798 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 800e9185043692d73a839abc971320b3 *data\cardpostfixnametable.txt
 0356589e01f416389e5a5ac7ac6c21d6 *data\cardprefixnametable.txt
@@ -3172,7 +3172,7 @@ a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovem
 9587dda67ebe63976dd61a039769a6e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lua
 3bf53e2960e24c6ae425ccd287092420 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 83db199fc175bdf26a4a5dd52ee2a153 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-1f65acaf558b5869b15ed0b37bc80668 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+58f1a6e06ddf96f7be35e2d97c14256b *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 6aba4fd2c5a17ffcfa3fef2af51ccc02 *data\luafiles514\lua files\datainfo\npcidentity.lua
 deacf8dd1c4d250e4f24b24260353cf7 *data\luafiles514\lua files\datainfo\npcidentity.lub
 bb137187f5b4160a029bfbfd77a346e6 *data\luafiles514\lua files\datainfo\npcidentitysvr.lua

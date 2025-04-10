@@ -64193,7 +64193,7 @@ tbl = {
 		costume = false
 	},
 	[5105] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -67926,7 +67926,7 @@ tbl = {
 		costume = false
 	},
 	[5267] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -70621,7 +70621,7 @@ tbl = {
 		costume = false
 	},
 	[5390] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -71777,7 +71777,7 @@ tbl = {
 		costume = false
 	},
 	[5451] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -160554,7 +160554,7 @@ tbl = {
 		costume = false
 	},
 	[18518] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -164716,7 +164716,7 @@ tbl = {
 		costume = true
 	},
 	[18741] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -171234,7 +171234,7 @@ tbl = {
 		costume = true
 	},
 	[19289] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -171315,7 +171315,7 @@ tbl = {
 		costume = true
 	},
 	[19293] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172186,7 +172186,7 @@ tbl = {
 		costume = false
 	},
 	[19502] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172630,7 +172630,7 @@ tbl = {
 		costume = true
 	},
 	[19525] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172713,7 +172713,7 @@ tbl = {
 		costume = true
 	},
 	[19529] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172754,7 +172754,7 @@ tbl = {
 		costume = false
 	},
 	[19533] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172856,7 +172856,7 @@ tbl = {
 		costume = true
 	},
 	[19538] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172921,7 +172921,7 @@ tbl = {
 		costume = true
 	},
 	[19541] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172962,7 +172962,7 @@ tbl = {
 		costume = true
 	},
 	[19544] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -172982,7 +172982,7 @@ tbl = {
 		costume = true
 	},
 	[19545] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173024,7 +173024,7 @@ tbl = {
 		costume = true
 	},
 	[19547] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173044,7 +173044,7 @@ tbl = {
 		costume = true
 	},
 	[19548] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173130,7 +173130,7 @@ tbl = {
 		costume = true
 	},
 	[19552] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173192,7 +173192,7 @@ tbl = {
 		costume = true
 	},
 	[19555] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173232,7 +173232,7 @@ tbl = {
 		costume = true
 	},
 	[19573] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173273,7 +173273,7 @@ tbl = {
 		costume = true
 	},
 	[19577] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173293,7 +173293,7 @@ tbl = {
 		costume = true
 	},
 	[19580] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173335,7 +173335,7 @@ tbl = {
 		costume = true
 	},
 	[19582] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173355,7 +173355,7 @@ tbl = {
 		costume = true
 	},
 	[19583] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173500,7 +173500,7 @@ tbl = {
 		costume = true
 	},
 	[19600] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173521,7 +173521,7 @@ tbl = {
 		costume = true
 	},
 	[19601] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173608,7 +173608,7 @@ tbl = {
 		costume = true
 	},
 	[19607] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173628,7 +173628,7 @@ tbl = {
 		costume = true
 	},
 	[19608] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173669,7 +173669,7 @@ tbl = {
 		costume = true
 	},
 	[19616] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173689,7 +173689,7 @@ tbl = {
 		costume = true
 	},
 	[19617] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173709,7 +173709,7 @@ tbl = {
 		costume = true
 	},
 	[19619] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173749,7 +173749,7 @@ tbl = {
 		costume = false
 	},
 	[19623] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173769,7 +173769,7 @@ tbl = {
 		costume = true
 	},
 	[19624] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173789,7 +173789,7 @@ tbl = {
 		costume = true
 	},
 	[19625] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173809,7 +173809,7 @@ tbl = {
 		costume = true
 	},
 	[19627] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173830,7 +173830,7 @@ tbl = {
 		costume = true
 	},
 	[19629] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173851,7 +173851,7 @@ tbl = {
 		costume = true
 	},
 	[19630] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173901,7 +173901,7 @@ tbl = {
 		costume = false
 	},
 	[19636] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173943,7 +173943,7 @@ tbl = {
 		costume = true
 	},
 	[19649] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -173963,7 +173963,7 @@ tbl = {
 		costume = true
 	},
 	[19650] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174106,7 +174106,7 @@ tbl = {
 		costume = false
 	},
 	[19659] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174126,7 +174126,7 @@ tbl = {
 		costume = true
 	},
 	[19660] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174229,7 +174229,7 @@ tbl = {
 		costume = false
 	},
 	[19669] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174369,7 +174369,7 @@ tbl = {
 		costume = false
 	},
 	[19677] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174431,7 +174431,7 @@ tbl = {
 		costume = true
 	},
 	[19680] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174451,7 +174451,7 @@ tbl = {
 		costume = true
 	},
 	[19681] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174514,7 +174514,7 @@ tbl = {
 		costume = false
 	},
 	[19684] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174578,7 +174578,7 @@ tbl = {
 		costume = false
 	},
 	[19687] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174598,7 +174598,7 @@ tbl = {
 		costume = true
 	},
 	[19688] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174639,7 +174639,7 @@ tbl = {
 		costume = true
 	},
 	[19690] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174700,7 +174700,7 @@ tbl = {
 		costume = true
 	},
 	[19693] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174720,7 +174720,7 @@ tbl = {
 		costume = true
 	},
 	[19694] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174740,7 +174740,7 @@ tbl = {
 		costume = true
 	},
 	[19695] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174852,7 +174852,7 @@ tbl = {
 		costume = true
 	},
 	[19701] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174913,7 +174913,7 @@ tbl = {
 		costume = true
 	},
 	[19709] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174933,7 +174933,7 @@ tbl = {
 		costume = true
 	},
 	[19710] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174976,7 +174976,7 @@ tbl = {
 		costume = true
 	},
 	[19713] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -174996,7 +174996,7 @@ tbl = {
 		costume = true
 	},
 	[19714] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175016,7 +175016,7 @@ tbl = {
 		costume = true
 	},
 	[19715] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175036,7 +175036,7 @@ tbl = {
 		costume = true
 	},
 	[19716] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175056,7 +175056,7 @@ tbl = {
 		costume = true
 	},
 	[19717] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175076,7 +175076,7 @@ tbl = {
 		costume = true
 	},
 	[19718] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175150,7 +175150,7 @@ tbl = {
 		costume = true
 	},
 	[19722] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175192,7 +175192,7 @@ tbl = {
 		costume = true
 	},
 	[19724] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175232,7 +175232,7 @@ tbl = {
 		costume = false
 	},
 	[19726] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175313,7 +175313,7 @@ tbl = {
 		costume = true
 	},
 	[19739] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175377,7 +175377,7 @@ tbl = {
 		costume = true
 	},
 	[19744] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175397,7 +175397,7 @@ tbl = {
 		costume = true
 	},
 	[19745] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175459,7 +175459,7 @@ tbl = {
 		costume = true
 	},
 	[19748] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175591,7 +175591,7 @@ tbl = {
 		costume = true
 	},
 	[19754] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175611,7 +175611,7 @@ tbl = {
 		costume = true
 	},
 	[19755] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175631,7 +175631,7 @@ tbl = {
 		costume = true
 	},
 	[19756] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175651,7 +175651,7 @@ tbl = {
 		costume = true
 	},
 	[19757] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175714,7 +175714,7 @@ tbl = {
 		costume = true
 	},
 	[19760] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175734,7 +175734,7 @@ tbl = {
 		costume = true
 	},
 	[19761] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175753,7 +175753,7 @@ tbl = {
 		costume = true
 	},
 	[19762] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175772,7 +175772,7 @@ tbl = {
 		costume = true
 	},
 	[19767] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175814,7 +175814,7 @@ tbl = {
 		costume = true
 	},
 	[19769] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175853,7 +175853,7 @@ tbl = {
 		costume = false
 	},
 	[19771] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175873,7 +175873,7 @@ tbl = {
 		costume = true
 	},
 	[19772] = {
-		unidentifiedDisplayName = "Головной убор",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175893,15 +175893,16 @@ tbl = {
 		costume = true
 	},
 	[19773] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Angeling Hairpin",
+		identifiedDisplayName = "Заколка Ангелинг (Декор)",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
-			"A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Милая заколка в форме Ангелинг. Надеваешь ее и чувствуешь себя как перышко.",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
@@ -175913,7 +175914,7 @@ tbl = {
 		costume = true
 	},
 	[19774] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175932,7 +175933,7 @@ tbl = {
 		costume = true
 	},
 	[19775] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -175952,7 +175953,7 @@ tbl = {
 		costume = true
 	},
 	[19776] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176013,7 +176014,7 @@ tbl = {
 		costume = true
 	},
 	[19783] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176033,7 +176034,7 @@ tbl = {
 		costume = true
 	},
 	[19785] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176096,7 +176097,7 @@ tbl = {
 		costume = false
 	},
 	[19789] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176116,7 +176117,7 @@ tbl = {
 		costume = true
 	},
 	[19790] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176136,7 +176137,7 @@ tbl = {
 		costume = true
 	},
 	[19793] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176175,7 +176176,7 @@ tbl = {
 		costume = false
 	},
 	[19800] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176195,7 +176196,7 @@ tbl = {
 		costume = true
 	},
 	[19801] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176260,7 +176261,7 @@ tbl = {
 		costume = true
 	},
 	[19804] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176303,7 +176304,7 @@ tbl = {
 		costume = true
 	},
 	[19806] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176366,7 +176367,7 @@ tbl = {
 		costume = true
 	},
 	[19809] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176492,7 +176493,7 @@ tbl = {
 		costume = true
 	},
 	[19815] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176578,7 +176579,7 @@ tbl = {
 		costume = false
 	},
 	[19819] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176598,7 +176599,7 @@ tbl = {
 		costume = true
 	},
 	[19821] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176618,7 +176619,7 @@ tbl = {
 		costume = true
 	},
 	[19822] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176742,7 +176743,7 @@ tbl = {
 		costume = true
 	},
 	[19828] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176762,7 +176763,7 @@ tbl = {
 		costume = true
 	},
 	[19829] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176782,7 +176783,7 @@ tbl = {
 		costume = true
 	},
 	[19830] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176802,7 +176803,7 @@ tbl = {
 		costume = true
 	},
 	[19831] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176842,7 +176843,7 @@ tbl = {
 		costume = true
 	},
 	[19833] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176862,7 +176863,7 @@ tbl = {
 		costume = true
 	},
 	[19834] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176882,7 +176883,7 @@ tbl = {
 		costume = true
 	},
 	[19835] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176902,7 +176903,7 @@ tbl = {
 		costume = true
 	},
 	[19836] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176922,7 +176923,7 @@ tbl = {
 		costume = true
 	},
 	[19837] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176962,7 +176963,7 @@ tbl = {
 		costume = true
 	},
 	[19839] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -176982,7 +176983,7 @@ tbl = {
 		costume = true
 	},
 	[19841] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177108,7 +177109,7 @@ tbl = {
 		costume = true
 	},
 	[19873] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177127,7 +177128,7 @@ tbl = {
 		costume = true
 	},
 	[19874] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177185,7 +177186,7 @@ tbl = {
 		costume = false
 	},
 	[19878] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177205,7 +177206,7 @@ tbl = {
 		costume = true
 	},
 	[19879] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177225,7 +177226,7 @@ tbl = {
 		costume = true
 	},
 	[19880] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177245,7 +177246,7 @@ tbl = {
 		costume = true
 	},
 	[19881] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177265,7 +177266,7 @@ tbl = {
 		costume = true
 	},
 	[19882] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177305,7 +177306,7 @@ tbl = {
 		costume = false
 	},
 	[19884] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177325,7 +177326,7 @@ tbl = {
 		costume = true
 	},
 	[19886] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177369,7 +177370,7 @@ tbl = {
 		costume = false
 	},
 	[19893] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177390,7 +177391,7 @@ tbl = {
 		costume = true
 	},
 	[19894] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177430,7 +177431,7 @@ tbl = {
 		costume = false
 	},
 	[19896] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177748,7 +177749,7 @@ tbl = {
 		costume = true
 	},
 	[19918] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177770,7 +177771,7 @@ tbl = {
 		costume = true
 	},
 	[19919] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177835,7 +177836,7 @@ tbl = {
 		costume = false
 	},
 	[19923] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177855,7 +177856,7 @@ tbl = {
 		costume = true
 	},
 	[19924] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177896,7 +177897,7 @@ tbl = {
 		costume = false
 	},
 	[19926] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -177958,7 +177959,7 @@ tbl = {
 		costume = true
 	},
 	[19929] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178042,7 +178043,7 @@ tbl = {
 		costume = true
 	},
 	[19939] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178589,7 +178590,7 @@ tbl = {
 		costume = true
 	},
 	[19977] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178609,7 +178610,7 @@ tbl = {
 		costume = true
 	},
 	[19978] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178629,7 +178630,7 @@ tbl = {
 		costume = true
 	},
 	[19979] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178649,7 +178650,7 @@ tbl = {
 		costume = true
 	},
 	[19980] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178689,7 +178690,7 @@ tbl = {
 		costume = true
 	},
 	[19984] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178731,7 +178732,7 @@ tbl = {
 		costume = true
 	},
 	[19986] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178751,7 +178752,7 @@ tbl = {
 		costume = true
 	},
 	[19987] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178836,7 +178837,7 @@ tbl = {
 		costume = true
 	},
 	[19991] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178879,7 +178880,7 @@ tbl = {
 		costume = true
 	},
 	[19994] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178921,7 +178922,7 @@ tbl = {
 		costume = true
 	},
 	[19997] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -178964,7 +178965,7 @@ tbl = {
 		costume = true
 	},
 	[20005] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179004,7 +179005,7 @@ tbl = {
 		costume = true
 	},
 	[20007] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179086,7 +179087,7 @@ tbl = {
 		costume = false
 	},
 	[20012] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179105,7 +179106,7 @@ tbl = {
 		costume = true
 	},
 	[20014] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179125,7 +179126,7 @@ tbl = {
 		costume = true
 	},
 	[20015] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179165,7 +179166,7 @@ tbl = {
 		costume = false
 	},
 	[20018] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179425,7 +179426,7 @@ tbl = {
 		costume = true
 	},
 	[20037] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179445,7 +179446,7 @@ tbl = {
 		costume = true
 	},
 	[20039] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179506,7 +179507,7 @@ tbl = {
 		costume = true
 	},
 	[20042] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179526,7 +179527,7 @@ tbl = {
 		costume = false
 	},
 	[20043] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179546,7 +179547,7 @@ tbl = {
 		costume = false
 	},
 	[20044] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179607,7 +179608,7 @@ tbl = {
 		costume = false
 	},
 	[20047] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179627,7 +179628,7 @@ tbl = {
 		costume = false
 	},
 	[20048] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179829,7 +179830,7 @@ tbl = {
 		costume = false
 	},
 	[20094] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179849,7 +179850,7 @@ tbl = {
 		costume = true
 	},
 	[20095] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179869,7 +179870,7 @@ tbl = {
 		costume = true
 	},
 	[20096] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179889,7 +179890,7 @@ tbl = {
 		costume = true
 	},
 	[20097] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179931,7 +179932,7 @@ tbl = {
 		costume = true
 	},
 	[20100] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -179950,7 +179951,7 @@ tbl = {
 		costume = true
 	},
 	[20106] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -180331,7 +180332,7 @@ tbl = {
 		costume = true
 	},
 	[20152] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -180396,7 +180397,7 @@ tbl = {
 		costume = true
 	},
 	[20155] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -180416,7 +180417,7 @@ tbl = {
 		costume = true
 	},
 	[20156] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -180458,7 +180459,7 @@ tbl = {
 		costume = true
 	},
 	[20160] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -180617,7 +180618,7 @@ tbl = {
 		costume = false
 	},
 	[20171] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -180998,7 +180999,7 @@ tbl = {
 		costume = true
 	},
 	[20207] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181059,7 +181060,7 @@ tbl = {
 		costume = true
 	},
 	[20217] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181272,7 +181273,7 @@ tbl = {
 		costume = true
 	},
 	[20236] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181292,7 +181293,7 @@ tbl = {
 		costume = true
 	},
 	[20238] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181355,7 +181356,7 @@ tbl = {
 		costume = true
 	},
 	[20241] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181397,7 +181398,7 @@ tbl = {
 		costume = true
 	},
 	[20243] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181638,7 +181639,7 @@ tbl = {
 		costume = true
 	},
 	[20279] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181658,7 +181659,7 @@ tbl = {
 		costume = true
 	},
 	[20280] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181678,7 +181679,7 @@ tbl = {
 		costume = true
 	},
 	[20281] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181698,7 +181699,7 @@ tbl = {
 		costume = true
 	},
 	[20282] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181761,7 +181762,7 @@ tbl = {
 		costume = true
 	},
 	[20285] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181782,7 +181783,7 @@ tbl = {
 		costume = true
 	},
 	[20286] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181843,7 +181844,7 @@ tbl = {
 		costume = false
 	},
 	[20293] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181863,7 +181864,7 @@ tbl = {
 		costume = true
 	},
 	[20294] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -181986,7 +181987,7 @@ tbl = {
 		costume = true
 	},
 	[20300] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182050,7 +182051,7 @@ tbl = {
 		costume = true
 	},
 	[20306] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182136,7 +182137,7 @@ tbl = {
 		costume = true
 	},
 	[20314] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182290,7 +182291,7 @@ tbl = {
 		costume = true
 	},
 	[20329] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182379,7 +182380,7 @@ tbl = {
 		costume = true
 	},
 	[20340] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182399,7 +182400,7 @@ tbl = {
 		costume = true
 	},
 	[20341] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182419,7 +182420,7 @@ tbl = {
 		costume = true
 	},
 	[20342] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182483,7 +182484,7 @@ tbl = {
 		costume = true
 	},
 	[20350] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182503,7 +182504,7 @@ tbl = {
 		costume = true
 	},
 	[20351] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182523,7 +182524,7 @@ tbl = {
 		costume = true
 	},
 	[20352] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182543,7 +182544,7 @@ tbl = {
 		costume = true
 	},
 	[20353] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182563,7 +182564,7 @@ tbl = {
 		costume = true
 	},
 	[20354] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182583,7 +182584,7 @@ tbl = {
 		costume = true
 	},
 	[20355] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182603,7 +182604,7 @@ tbl = {
 		costume = true
 	},
 	[20356] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182623,7 +182624,7 @@ tbl = {
 		costume = true
 	},
 	[20357] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182643,7 +182644,7 @@ tbl = {
 		costume = true
 	},
 	[20358] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182663,7 +182664,7 @@ tbl = {
 		costume = true
 	},
 	[20359] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182683,7 +182684,7 @@ tbl = {
 		costume = true
 	},
 	[20360] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182703,7 +182704,7 @@ tbl = {
 		costume = true
 	},
 	[20361] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182723,7 +182724,7 @@ tbl = {
 		costume = true
 	},
 	[20362] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182743,7 +182744,7 @@ tbl = {
 		costume = true
 	},
 	[20363] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182763,7 +182764,7 @@ tbl = {
 		costume = true
 	},
 	[20364] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182783,7 +182784,7 @@ tbl = {
 		costume = true
 	},
 	[20365] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182803,7 +182804,7 @@ tbl = {
 		costume = true
 	},
 	[20366] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182823,7 +182824,7 @@ tbl = {
 		costume = true
 	},
 	[20367] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182843,7 +182844,7 @@ tbl = {
 		costume = true
 	},
 	[20368] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182863,7 +182864,7 @@ tbl = {
 		costume = true
 	},
 	[20369] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182883,7 +182884,7 @@ tbl = {
 		costume = true
 	},
 	[20370] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182924,7 +182925,7 @@ tbl = {
 		costume = true
 	},
 	[20377] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -182943,7 +182944,7 @@ tbl = {
 		costume = true
 	},
 	[20378] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -183421,7 +183422,7 @@ tbl = {
 		costume = true
 	},
 	[20434] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -183635,7 +183636,7 @@ tbl = {
 		costume = true
 	},
 	[20456] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -183919,7 +183920,7 @@ tbl = {
 		costume = true
 	},
 	[20491] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -183961,7 +183962,7 @@ tbl = {
 		costume = true
 	},
 	[20495] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -184022,7 +184023,7 @@ tbl = {
 		costume = true
 	},
 	[20498] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -188642,7 +188643,7 @@ tbl = {
 		costume = false
 	},
 	[21202] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213479,7 +213480,7 @@ tbl = {
 		EffectID = 1189
 	},
 	[31027] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213520,7 +213521,7 @@ tbl = {
 		costume = true
 	},
 	[31029] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213540,7 +213541,7 @@ tbl = {
 		costume = true
 	},
 	[31030] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213658,7 +213659,7 @@ tbl = {
 		costume = true
 	},
 	[31041] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213700,7 +213701,7 @@ tbl = {
 		costume = true
 	},
 	[31043] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213746,7 +213747,7 @@ tbl = {
 		costume = true
 	},
 	[31045] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213787,7 +213788,7 @@ tbl = {
 		costume = true
 	},
 	[31047] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213807,7 +213808,7 @@ tbl = {
 		costume = true
 	},
 	[31048] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213872,7 +213873,7 @@ tbl = {
 		costume = true
 	},
 	[31053] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213892,7 +213893,7 @@ tbl = {
 		costume = false
 	},
 	[31054] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213978,7 +213979,7 @@ tbl = {
 		costume = true
 	},
 	[31063] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -213998,7 +213999,7 @@ tbl = {
 		costume = true
 	},
 	[31064] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214018,7 +214019,7 @@ tbl = {
 		costume = true
 	},
 	[31065] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214038,7 +214039,7 @@ tbl = {
 		costume = true
 	},
 	[31066] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214058,7 +214059,7 @@ tbl = {
 		costume = true
 	},
 	[31067] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214078,7 +214079,7 @@ tbl = {
 		costume = true
 	},
 	[31068] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214098,7 +214099,7 @@ tbl = {
 		costume = true
 	},
 	[31069] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214118,7 +214119,7 @@ tbl = {
 		costume = true
 	},
 	[31070] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214138,7 +214139,7 @@ tbl = {
 		costume = true
 	},
 	[31087] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214179,7 +214180,7 @@ tbl = {
 		costume = true
 	},
 	[31089] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214199,7 +214200,7 @@ tbl = {
 		costume = false
 	},
 	[31090] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214243,7 +214244,7 @@ tbl = {
 		costume = true
 	},
 	[31092] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214263,7 +214264,7 @@ tbl = {
 		costume = true
 	},
 	[31117] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214304,7 +214305,7 @@ tbl = {
 		costume = true
 	},
 	[31119] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214555,7 +214556,7 @@ tbl = {
 		costume = false
 	},
 	[31155] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214660,7 +214661,7 @@ tbl = {
 		costume = true
 	},
 	[31162] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214680,7 +214681,7 @@ tbl = {
 		costume = true
 	},
 	[31163] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214848,7 +214849,7 @@ tbl = {
 		costume = true
 	},
 	[31177] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214912,7 +214913,7 @@ tbl = {
 		costume = true
 	},
 	[31180] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214952,7 +214953,7 @@ tbl = {
 		costume = true
 	},
 	[31182] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214972,7 +214973,7 @@ tbl = {
 		costume = true
 	},
 	[31183] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -214992,7 +214993,7 @@ tbl = {
 		costume = true
 	},
 	[31184] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215012,7 +215013,7 @@ tbl = {
 		costume = true
 	},
 	[31185] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215053,7 +215054,7 @@ tbl = {
 		costume = true
 	},
 	[31187] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215073,7 +215074,7 @@ tbl = {
 		costume = true
 	},
 	[31188] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215157,7 +215158,7 @@ tbl = {
 		costume = true
 	},
 	[31197] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215197,7 +215198,7 @@ tbl = {
 		costume = false
 	},
 	[31199] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215217,7 +215218,7 @@ tbl = {
 		costume = false
 	},
 	[31200] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215259,7 +215260,7 @@ tbl = {
 		costume = true
 	},
 	[31202] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215324,7 +215325,7 @@ tbl = {
 		costume = true
 	},
 	[31207] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215344,7 +215345,7 @@ tbl = {
 		costume = false
 	},
 	[31208] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215364,7 +215365,7 @@ tbl = {
 		costume = false
 	},
 	[31209] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215384,7 +215385,7 @@ tbl = {
 		costume = false
 	},
 	[31210] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215404,7 +215405,7 @@ tbl = {
 		costume = false
 	},
 	[31211] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215424,7 +215425,7 @@ tbl = {
 		costume = false
 	},
 	[31212] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215444,7 +215445,7 @@ tbl = {
 		costume = false
 	},
 	[31213] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215464,7 +215465,7 @@ tbl = {
 		costume = false
 	},
 	[31214] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215484,7 +215485,7 @@ tbl = {
 		costume = false
 	},
 	[31215] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215504,7 +215505,7 @@ tbl = {
 		costume = false
 	},
 	[31216] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215524,7 +215525,7 @@ tbl = {
 		costume = false
 	},
 	[31217] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215544,7 +215545,7 @@ tbl = {
 		costume = false
 	},
 	[31218] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215564,7 +215565,7 @@ tbl = {
 		costume = true
 	},
 	[31219] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215584,7 +215585,7 @@ tbl = {
 		costume = true
 	},
 	[31220] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215604,7 +215605,7 @@ tbl = {
 		costume = true
 	},
 	[31221] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215624,7 +215625,7 @@ tbl = {
 		costume = true
 	},
 	[31222] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215644,7 +215645,7 @@ tbl = {
 		costume = true
 	},
 	[31223] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215664,7 +215665,7 @@ tbl = {
 		costume = true
 	},
 	[31224] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215684,7 +215685,7 @@ tbl = {
 		costume = true
 	},
 	[31225] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215872,7 +215873,7 @@ tbl = {
 		costume = true
 	},
 	[31234] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215914,7 +215915,7 @@ tbl = {
 		costume = true
 	},
 	[31246] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215934,7 +215935,7 @@ tbl = {
 		costume = false
 	},
 	[31247] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -215954,7 +215955,7 @@ tbl = {
 		costume = false
 	},
 	[31248] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216082,7 +216083,7 @@ tbl = {
 		costume = false
 	},
 	[31258] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216123,7 +216124,7 @@ tbl = {
 		costume = true
 	},
 	[31295] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216143,7 +216144,7 @@ tbl = {
 		costume = true
 	},
 	[31296] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216163,7 +216164,7 @@ tbl = {
 		costume = true
 	},
 	[31298] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216247,7 +216248,7 @@ tbl = {
 		costume = true
 	},
 	[31302] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216494,7 +216495,7 @@ tbl = {
 		costume = true
 	},
 	[31327] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216514,7 +216515,7 @@ tbl = {
 		costume = true
 	},
 	[31328] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216533,7 +216534,7 @@ tbl = {
 		costume = true
 	},
 	[31329] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216553,7 +216554,7 @@ tbl = {
 		costume = true
 	},
 	[31330] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216572,7 +216573,7 @@ tbl = {
 		costume = true
 	},
 	[31331] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216592,7 +216593,7 @@ tbl = {
 		costume = true
 	},
 	[31332] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216634,7 +216635,7 @@ tbl = {
 		costume = true
 	},
 	[31372] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216652,7 +216653,7 @@ tbl = {
 		costume = true
 	},
 	[31377] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216693,7 +216694,7 @@ tbl = {
 		costume = true
 	},
 	[31379] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216778,7 +216779,7 @@ tbl = {
 		costume = true
 	},
 	[31383] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216798,7 +216799,7 @@ tbl = {
 		costume = true
 	},
 	[31384] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216948,7 +216949,7 @@ tbl = {
 		costume = true
 	},
 	[31392] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216968,7 +216969,7 @@ tbl = {
 		costume = true
 	},
 	[31393] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -216988,7 +216989,7 @@ tbl = {
 		costume = true
 	},
 	[31394] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217054,7 +217055,7 @@ tbl = {
 		costume = true
 	},
 	[31397] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217074,7 +217075,7 @@ tbl = {
 		costume = true
 	},
 	[31398] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217161,7 +217162,7 @@ tbl = {
 		costume = true
 	},
 	[31408] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217289,7 +217290,7 @@ tbl = {
 		costume = true
 	},
 	[31434] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217331,7 +217332,7 @@ tbl = {
 		costume = true
 	},
 	[31436] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217480,7 +217481,7 @@ tbl = {
 		costume = true
 	},
 	[31447] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217500,7 +217501,7 @@ tbl = {
 		costume = true
 	},
 	[31448] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217542,7 +217543,7 @@ tbl = {
 		costume = true
 	},
 	[31450] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217562,7 +217563,7 @@ tbl = {
 		costume = true
 	},
 	[31451] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217647,7 +217648,7 @@ tbl = {
 		costume = true
 	},
 	[31455] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217714,7 +217715,7 @@ tbl = {
 		costume = true
 	},
 	[31461] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217776,7 +217777,7 @@ tbl = {
 		costume = true
 	},
 	[31470] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217796,7 +217797,7 @@ tbl = {
 		costume = true
 	},
 	[31471] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217837,7 +217838,7 @@ tbl = {
 		costume = true
 	},
 	[31473] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217857,7 +217858,7 @@ tbl = {
 		costume = true
 	},
 	[31474] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217898,7 +217899,7 @@ tbl = {
 		costume = true
 	},
 	[31476] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -217986,7 +217987,7 @@ tbl = {
 		costume = true
 	},
 	[31482] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218028,7 +218029,7 @@ tbl = {
 		costume = true
 	},
 	[31486] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218046,7 +218047,7 @@ tbl = {
 		costume = true
 	},
 	[31487] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218151,7 +218152,7 @@ tbl = {
 		costume = true
 	},
 	[31492] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218258,7 +218259,7 @@ tbl = {
 		costume = true
 	},
 	[31505] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218276,7 +218277,7 @@ tbl = {
 		costume = true
 	},
 	[31506] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218294,7 +218295,7 @@ tbl = {
 		costume = true
 	},
 	[31507] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218312,7 +218313,7 @@ tbl = {
 		costume = true
 	},
 	[31508] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218354,7 +218355,7 @@ tbl = {
 		costume = true
 	},
 	[31510] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218373,7 +218374,7 @@ tbl = {
 		costume = true
 	},
 	[31511] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218392,7 +218393,7 @@ tbl = {
 		costume = true
 	},
 	[31512] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218502,7 +218503,7 @@ tbl = {
 		costume = true
 	},
 	[31526] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218650,7 +218651,7 @@ tbl = {
 		costume = true
 	},
 	[31540] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218670,7 +218671,7 @@ tbl = {
 		costume = true
 	},
 	[31541] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218713,7 +218714,7 @@ tbl = {
 		costume = true
 	},
 	[31543] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218733,7 +218734,7 @@ tbl = {
 		costume = true
 	},
 	[31544] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218752,7 +218753,7 @@ tbl = {
 		costume = true
 	},
 	[31546] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218794,7 +218795,7 @@ tbl = {
 		costume = true
 	},
 	[31559] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218878,7 +218879,7 @@ tbl = {
 		costume = true
 	},
 	[31563] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -218965,7 +218966,7 @@ tbl = {
 		costume = true
 	},
 	[31567] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219048,7 +219049,7 @@ tbl = {
 		costume = true
 	},
 	[31571] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219242,7 +219243,7 @@ tbl = {
 		costume = true
 	},
 	[31594] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219348,7 +219349,7 @@ tbl = {
 		costume = true
 	},
 	[31599] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219388,7 +219389,7 @@ tbl = {
 		costume = true
 	},
 	[31601] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219452,7 +219453,7 @@ tbl = {
 		costume = true
 	},
 	[31609] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219472,7 +219473,7 @@ tbl = {
 		costume = true
 	},
 	[31610] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219794,7 +219795,7 @@ tbl = {
 		costume = true
 	},
 	[31637] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219833,7 +219834,7 @@ tbl = {
 		costume = true
 	},
 	[31639] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219852,7 +219853,7 @@ tbl = {
 		costume = true
 	},
 	[31640] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219908,7 +219909,7 @@ tbl = {
 		costume = true
 	},
 	[31643] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219946,7 +219947,7 @@ tbl = {
 		costume = false
 	},
 	[31645] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219965,7 +219966,7 @@ tbl = {
 		costume = true
 	},
 	[31646] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -219984,7 +219985,7 @@ tbl = {
 		costume = true
 	},
 	[31647] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220003,7 +220004,7 @@ tbl = {
 		costume = true
 	},
 	[31648] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220022,7 +220023,7 @@ tbl = {
 		costume = true
 	},
 	[31649] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220041,7 +220042,7 @@ tbl = {
 		costume = true
 	},
 	[31650] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220060,7 +220061,7 @@ tbl = {
 		costume = true
 	},
 	[31651] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220079,7 +220080,7 @@ tbl = {
 		costume = true
 	},
 	[31652] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220098,7 +220099,7 @@ tbl = {
 		costume = true
 	},
 	[31653] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220117,7 +220118,7 @@ tbl = {
 		costume = true
 	},
 	[31654] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220136,7 +220137,7 @@ tbl = {
 		costume = true
 	},
 	[31655] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220155,7 +220156,7 @@ tbl = {
 		costume = true
 	},
 	[31656] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220174,7 +220175,7 @@ tbl = {
 		costume = true
 	},
 	[31657] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220193,7 +220194,7 @@ tbl = {
 		costume = true
 	},
 	[31658] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220212,7 +220213,7 @@ tbl = {
 		costume = true
 	},
 	[31659] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220231,7 +220232,7 @@ tbl = {
 		costume = true
 	},
 	[31660] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220311,7 +220312,7 @@ tbl = {
 		costume = false
 	},
 	[31669] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220440,7 +220441,7 @@ tbl = {
 		costume = true
 	},
 	[31682] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220501,7 +220502,7 @@ tbl = {
 		costume = true
 	},
 	[31685] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220606,7 +220607,7 @@ tbl = {
 		costume = true
 	},
 	[31696] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220710,7 +220711,7 @@ tbl = {
 		costume = true
 	},
 	[31711] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220728,7 +220729,7 @@ tbl = {
 		costume = true
 	},
 	[31713] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220746,7 +220747,7 @@ tbl = {
 		costume = true
 	},
 	[31714] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -220808,7 +220809,7 @@ tbl = {
 		costume = true
 	},
 	[31717] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221029,7 +221030,7 @@ tbl = {
 		costume = true
 	},
 	[31785] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221131,7 +221132,7 @@ tbl = {
 		costume = false
 	},
 	[31793] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221151,7 +221152,7 @@ tbl = {
 		costume = true
 	},
 	[31794] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221216,7 +221217,7 @@ tbl = {
 		costume = true
 	},
 	[31797] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221281,7 +221282,7 @@ tbl = {
 		costume = true
 	},
 	[31800] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221299,7 +221300,7 @@ tbl = {
 		costume = true
 	},
 	[31801] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221317,7 +221318,7 @@ tbl = {
 		costume = true
 	},
 	[31802] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221535,7 +221536,7 @@ tbl = {
 		costume = true
 	},
 	[31842] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221553,7 +221554,7 @@ tbl = {
 		costume = true
 	},
 	[31843] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221570,7 +221571,7 @@ tbl = {
 		costume = true
 	},
 	[31844] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221587,7 +221588,7 @@ tbl = {
 		costume = true
 	},
 	[31845] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221778,7 +221779,7 @@ tbl = {
 		costume = true
 	},
 	[31899] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221890,7 +221891,7 @@ tbl = {
 		costume = true
 	},
 	[31912] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221908,7 +221909,7 @@ tbl = {
 		costume = true
 	},
 	[31913] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221925,7 +221926,7 @@ tbl = {
 		costume = true
 	},
 	[31914] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
@@ -221943,7 +221944,7 @@ tbl = {
 		costume = true
 	},
 	[31915] = {
-		unidentifiedDisplayName = "Costume Headgear",
+		unidentifiedDisplayName = "Головной убор (Декор)",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
