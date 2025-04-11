@@ -1,3 +1,68 @@
+16.04.2025 11:20
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Chronosets & FAW Sets arrived in launcher.
+— The Special Packs for Rune Knight arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The Updated Dovmihr's WIN-WIN Machine arrived in launcher.
+
+Finished activities:
+— The EggFall - Creation Treasure packs left the launcher.
+— The Transmutator Packs left the launcher.
+— The Special Packs for Sorcerer left the launcher.
+— The Special Packs for Shadow Chaser left the launcher.
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+
+Changes:
+— Dovmihr's Reward List (for 1600 and 700 coins) have been updated.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695286/
+
+================
+09.04.2025 10:40
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Transmutator Packs arrived in launcher.
+— The Special Packs for Sorcerer arrived in launcher.
+— The Special Packs for Shadow Chaser arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "X Marks the Spot" event has begun.
+
+Finished activities:
+— The Lucky Treasures Sets left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+— The Special Packs for Sura left the launcher.
+— The "+30% ALL Experience Boost" event has come to an end.
+— The "Gold Rush (Payon)" event has come to an end.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695265/
+
+================
+02.04.2025 10:35
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Lucky Treasures Sets arrived in launcher.
+— The Special Packs for Arch Bishop arrived in launcher.
+— The Special Packs for Sura arrived in launcher.
+— The "+30% ALL Experience Boost" event has been extended until April 4th
+
+Finished activities:
+— The Eremes' Treasure left the launcher.
+— The Battle manual packs left the launcher.
+— The Shadow Packs left the launcher.
+— The Luckybox Sets left the launcher.
+
+
+Changes:
+— Fixed an issue where the Ancient Weapons Scroll did not refine the "Blessed Knife" and "Freedom Stick"
+— Fixed localization mistakes in the descriptions of Ancient Stalactic Golem and Jitterbug Cards.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695253/
+
+================
 26.03.2025 11:00
 Ragnarok Online Prime EU
 

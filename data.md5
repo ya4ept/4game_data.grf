@@ -587,7 +587,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-3a71b040a9d26cefd0e7d38e48be4563 *data\buyingstoreitemlist.txt
+bce10d895fc17c28574f1cc484a526e2 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 3a658d642ab2f99dc563fdc5d76123ad *data\cardpostfixnametable.txt
 8e78ef515ac0b8039bbdd580d3b5234e *data\cardprefixnametable.txt
@@ -1152,8 +1152,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 3104c3c140ae41201d546f857b32a249 *data\ice_dun04.gnd
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
-bd44071074891d9e5afdccf8d471a09f *data\idnum2itemdisplaynametable.txt
-91b90cc6cef8fd0a3e613730b902d397 *data\idnum2itemresnametable.txt
+fa91dd239a6f66a821aa41023b409b72 *data\idnum2itemdisplaynametable.txt
+ef1ae9eb1d8fb562c999bfbfc4e3ea94 *data\idnum2itemresnametable.txt
 bc27e5ded6660d19a1f75a9826cebb2c *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1199,7 +1199,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 aab90375f9728e42e7bd613c41ace22a *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-bcf7c2a22e3398d635dbccba9db3f13e *data\itemslotcounttable.txt
+6f6f57df567ce17e837aa28f78f44337 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1904,8 +1904,8 @@ f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 c26c7eb2840e96720eaa26248039dc7f *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
-0f1a7feab19a544c9eba6feee7f40a52 *data\num2itemdisplaynametable.txt
-2744d07631e11e1efe66d1d4bf79f3f1 *data\num2itemresnametable.txt
+b384222737294eaa6927b88f5708d8e1 *data\num2itemdisplaynametable.txt
+5188efc2f1863769508cc5510c13582e *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -3110,7 +3110,7 @@ ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovem
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
 40452fb584dca04693aa693b44fa35e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 fb56ab5870906135b5b845f009907d95 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-9f70342c0d7a2ca0055c6cd4657f2294 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+4f5cc3673ff33a96468d6a55466c5c12 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 fac504a9cf0dfb68acc078f36facd1ea *data\luafiles514\lua files\datainfo\npcidentity.lua
 205c1aa9b8941f34bc75f05c8a9b7661 *data\luafiles514\lua files\datainfo\npcidentity.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
@@ -79057,8 +79057,8 @@ cfbadb93c13b7843724e8dd688da26e4 *data\sprite\아이템\imperial_aim_suit.spr
 f13eb63db8604c1298983354261ca380 *data\sprite\아이템\imperial_attack_manteau.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\imperial_attack_ring.act
 111db50048aeda8bb5990924291aed46 *data\sprite\아이템\imperial_attack_ring.spr
-51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\imperial_boots.act
-54415462a3d2a1a87a8e9855b810566c *data\sprite\아이템\imperial_boots.spr
+3bb022be79185ea0466c23b69fb73c98 *data\sprite\아이템\imperial_boots.act
+5f790c53c08543e563307e93864d719c *data\sprite\아이템\imperial_boots.spr
 0b4704e5b51b4b7b89f1982067d0d259 *data\sprite\아이템\imperial_breath_armor.act
 7d23f4a4ea2e41b870301f5e00f2174b *data\sprite\아이템\imperial_breath_armor.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\imperial_carrot_robe.act
@@ -81103,6 +81103,8 @@ c1baeaf0fa4e1bfe0a55fc53ee05fb4e *data\sprite\아이템\tf_throwstone.spr
 03396619c2ffdbafa4145688b5e734d4 *data\sprite\아이템\tf_throwstone_on.spr
 b042055789fecb23ee643f57ef55c2ff *data\sprite\아이템\thanatos_sword.act
 6c1988d92e920757e8cb755fdb938c0c *data\sprite\아이템\thanatos_sword.spr
+64912beeeac6dacd99e9fa51aee962f1 *data\sprite\아이템\themis_helm.act
+dd51c2d79f882c641e801308f867f45b *data\sprite\아이템\themis_helm.spr
 95994136bd203a88e9a312192116a664 *data\sprite\아이템\thumbs.db
 d264849851ec04642b3a668b74f1a5b1 *data\sprite\아이템\tiger_glass.act
 84f99656499ed27210d925848334ad0d *data\sprite\아이템\tiger_glass.spr
@@ -91737,6 +91739,8 @@ e4de57a9e741cdd5330fe5a32b9c47a8 *data\sprite\악세사리\남\남_stripe_hat.act
 a5e5669e5226b3af51388ffffa0b1ca7 *data\sprite\악세사리\남\남_stripe_hat.spr
 31da11f549da87870f8634ce647fc0b5 *data\sprite\악세사리\남\남_s_circlet_of_time.act
 329e29936fca777265e81bb9dfbbfd7c *data\sprite\악세사리\남\남_s_circlet_of_time.spr
+f627be6886874e47aab18e56b6bd43e6 *data\sprite\악세사리\남\남_themis_helm.act
+db3ce9e69ffcb66aeae81e7455651517 *data\sprite\악세사리\남\남_themis_helm.spr
 55c6421e8fa5e0022404b686c1cd9d51 *data\sprite\악세사리\남\남_tiger_glass.act
 bf1c2289a7c2dd6b7238e64f2519410a *data\sprite\악세사리\남\남_tiger_glass.spr
 ff371577b9d291de19e6f18f3e5795cb *data\sprite\악세사리\남\남_tipsy.act
@@ -95302,6 +95306,8 @@ e4796aca3c98c47a45675235013bdf9b *data\sprite\악세사리\여\여_stripe_hat.act
 a5e5669e5226b3af51388ffffa0b1ca7 *data\sprite\악세사리\여\여_stripe_hat.spr
 a772d68ad34b9945c29e15aaff0f4e92 *data\sprite\악세사리\여\여_s_circlet_of_time.act
 329e29936fca777265e81bb9dfbbfd7c *data\sprite\악세사리\여\여_s_circlet_of_time.spr
+6c737f9c81e1b7c785292ee5e16d9612 *data\sprite\악세사리\여\여_themis_helm.act
+db3ce9e69ffcb66aeae81e7455651517 *data\sprite\악세사리\여\여_themis_helm.spr
 044f17da799541bf3fb813daded9dc0f *data\sprite\악세사리\여\여_tiger_glass.act
 bf1c2289a7c2dd6b7238e64f2519410a *data\sprite\악세사리\여\여_tiger_glass.spr
 460e22c04acf49ebe2596f204cfbd274 *data\sprite\악세사리\여\여_tipsy.act
@@ -119794,7 +119800,7 @@ a00c3483a601f8839bbc18988f9121de *data\texture\유저인터페이스\collection\imperia
 8a4ead13054f6fe705cb2dfe12aa01ab *data\texture\유저인터페이스\collection\imperial_attack_boots.bmp
 9c40262761d131de36e8e51c56545fc8 *data\texture\유저인터페이스\collection\imperial_attack_manteau.bmp
 d1c37a5361da3e7b8057747653fc517e *data\texture\유저인터페이스\collection\imperial_attack_ring.bmp
-043b03cf0a2310d4637da0477b62d408 *data\texture\유저인터페이스\collection\imperial_boots.bmp
+14cf08cb5f4a2697e679a84463421cf1 *data\texture\유저인터페이스\collection\imperial_boots.bmp
 fa48631d6cbd1eabf036a65ab3aa6556 *data\texture\유저인터페이스\collection\imperial_breath_armor.bmp
 2d886e465bc3a15e9bfb917548b8297b *data\texture\유저인터페이스\collection\imperial_carrot_robe.bmp
 c8619c3ace5a25c05fe803f2a5312fab *data\texture\유저인터페이스\collection\imperial_convert1.bmp
@@ -120201,6 +120207,7 @@ db6e9a293d9e2129a8f3f8dbab93cd47 *data\texture\유저인터페이스\collection\tcg카드
 e5dedf9f65dafc01be6de6bd2b54de22 *data\texture\유저인터페이스\collection\temporal_ring.bmp
 70d6cb9e4fc74176d7ebb96061d65f18 *data\texture\유저인터페이스\collection\tengushoes.bmp
 8f1997ab236f6bcea90f70635d97b38f *data\texture\유저인터페이스\collection\thanatos_sword.bmp
+60619e650b54cdd49ccf569afbc6024d *data\texture\유저인터페이스\collection\themis_helm.bmp
 00527d0b423f68f5080393a6a3fade23 *data\texture\유저인터페이스\collection\thumbs.db
 ae2f9d64bec1796b1d1b23a903a77c01 *data\texture\유저인터페이스\collection\time_jewely_agi.bmp
 71159f7b3afe749dc482d67026319cf9 *data\texture\유저인터페이스\collection\time_jewely_dex.bmp
@@ -127458,7 +127465,7 @@ e6288687c06917d9ce54aa6116bddfa0 *data\texture\유저인터페이스\item\imperial_aim_
 ab0a056a2b6290a0c07700d52396517d *data\texture\유저인터페이스\item\imperial_attack_boots.bmp
 1db7e9e5a605d6cdaa7d4dadbc9a1abf *data\texture\유저인터페이스\item\imperial_attack_manteau.bmp
 f0b3560c6a4f0001b33e54b0e3748512 *data\texture\유저인터페이스\item\imperial_attack_ring.bmp
-57629560b24c23ddf96f5342a7d81fea *data\texture\유저인터페이스\item\imperial_boots.bmp
+69c41507d7c7888f3723694221d71d7a *data\texture\유저인터페이스\item\imperial_boots.bmp
 da74b775e6856980300d3dcd28a32246 *data\texture\유저인터페이스\item\imperial_breath_armor.bmp
 e6598d7e399e5eb00afa8c9e851af137 *data\texture\유저인터페이스\item\imperial_carrot_robe.bmp
 1284dce548387febfcbd35f1a25da3a5 *data\texture\유저인터페이스\item\imperial_convert1.bmp
@@ -128528,6 +128535,7 @@ b07dbe4b6734d68ce1b404b935fd8d3f *data\texture\유저인터페이스\item\tf_sprinklesa
 0bea732d781ddbb3b615b7716a88c457 *data\texture\유저인터페이스\item\tf_throwstone.bmp
 d0c74285f578fce24c70697592ca5ac5 *data\texture\유저인터페이스\item\tf_throwstone_on.bmp
 ebbe96626913deaa5e47914ed5cebe2d *data\texture\유저인터페이스\item\thanatos_sword.bmp
+7e530143a181e070575425e3d611750c *data\texture\유저인터페이스\item\themis_helm.bmp
 fce1a7350c5531eafeb9a664fb5d8d26 *data\texture\유저인터페이스\item\throwing.bmp
 fce1a7350c5531eafeb9a664fb5d8d26 *data\texture\유저인터페이스\item\thrusting.bmp
 c7c501a6d29a00ac8e43747bf38e91e4 *data\texture\유저인터페이스\item\thumbs.db

@@ -1449,7 +1449,9 @@ tblLapineUpgradeBox = {
 				{ "Ray_Knuckle", 560002 },
 				{ "Saint_Hall", 590003 },
 				{ "Blue_Crystal_Staff", 640004 },
-				{ "Freezing_Rod", 550007 }
+				{ "Freezing_Rod", 550007 },
+				{ "Blessed_Knife", 510070 },
+				{ "Freedom_Stick", 550080 }
 			},
 			NeedSource_String = "Ancient Weapon"
 		},
