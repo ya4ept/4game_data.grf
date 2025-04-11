@@ -194464,18 +194464,16 @@ tbl = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Дё",
 		unidentifiedDescriptionName = {
-			"A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.",
-			"Class: ^777777Costume^000000",
-			"Location: ^777777Upper ^000000Weight: ^7777770^000000",
-			"Required LV: ^7777771^000000",
-			"Jobs: ^777777All^000000"
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Costume Angeling Hairpin",
 		identifiedResourceName = "їЈБ©ёµЗЙ",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"A cute hairpin shaped like an angeling. When wearing this, you feel like a feather.",
 			"Class: ^777777Costume^000000",
-			"Location: ^777777Upper ^000000Weight: ^7777770^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^7777770^000000",
 			"Required LV: ^7777771^000000",
 			"Jobs: ^777777All^000000"
 		},
@@ -225119,11 +225117,11 @@ tbl = {
 		identifiedDisplayName = "Jitterbug Card",
 		identifiedResourceName = "АМё§ѕшґВД«µе",
 		identifiedDescriptionName = {
-			"Resistance to ^777777Neutral^000000 property damage +10%.",
+			"Physical and magical damage taken from ^777777Neutral^000000 Monsters reduced by 10%.",
 			"Max HP +500.",
 			"^777777-------------^000000",
 			"[When using with Playing Pere and Singing Pere Cards]",
-			"Has a chance to transform into[Jitterbug] for 6 sec. when attacks.",
+			"Has a chance to transform into [Jitterbug] for 6 sec. when using physical or magical attacks.",
 			"[During transform]",
 			"Restores 2000 HP.",
 			"Physical and magical damage to ^777777Neutral^000000 property monsters +200%.",
@@ -267322,8 +267320,8 @@ tbl = {
 		unidentifiedDisplayName = "Ancient Stalactic Golem Card",
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
-			"For 30 Vitality points, Max HP +150 and increases attack speed (reduces delay after attack by 1%).",
-			"For 120 Vitality points, delay after skills -3%.",
+			"For every 10 base VIT, Max HP + 150 and increase ASPD by 1% (reduces delay after attack by 1%).",
+			"If base VIT is 120 or higher, reduce after cast delay by 3%.",
 			"^ffffff_^000000",
 			"Type: ^777777Card^000000",
 			"Class: ^777777Garment^000000",
@@ -267332,8 +267330,8 @@ tbl = {
 		identifiedDisplayName = "Ancient Stalactic Golem Card",
 		identifiedResourceName = "Ancient_Sta_Golem_Card",
 		identifiedDescriptionName = {
-			"For 30 Vitality points, Max HP +150 and increases attack speed (reduces delay after attack by 1%).",
-			"For 120 Vitality points, delay after skills -3%.",
+			"For every 10 base VIT, Max HP + 150 and increase ASPD by 1% (reduces delay after attack by 1%).",
+			"If base VIT is 120 or higher, reduce after cast delay by 3%.",
 			"^ffffff_^000000",
 			"Type: ^777777Card^000000",
 			"Class: ^777777Garment^000000",
