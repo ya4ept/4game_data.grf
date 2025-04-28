@@ -2593,5 +2593,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Bar_Death_Circlet = 2604,
 	ACCESSORY_Bar_Plain_Circlet = 2605,
 	ACCESSORY_C_Alecsander = 2606,
-	ACCESSORY_C_Cassandra = 2607
+	ACCESSORY_C_Cassandra = 2607,
+	ACCESSORY_E_Hode_Head = 2608
 }

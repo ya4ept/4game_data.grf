@@ -2,7 +2,7 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-123e32424fa1b1ebaeca695ea9400916 *data.grf
+2a85f4e298fa4fa97176a2cb11ac0c36 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -60,7 +60,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 4b91769d28573ba2c3caa68254489ee5 *Frost\frostinfo.txt
-01aecc17160b7a75f3626fb097ac3818 *Frost\frostInit.log
+ab3a27ee4e594bf7f076113fa07ab04e *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -69,7 +69,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 5ec1d55ad730241e2b1e18c1a11c85b2 *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-2a1d339c6ffc0a9646e6b37285a91624 *Frost\launcherUpdater.log
+589a5da76b55f4f6aa281e2655582e6b *Frost\launcherUpdater.log
 d70d111fb475c21a025004df937d7b5e *Frost\ro.exe
 12471f71659cac6ee2dc0821676fec0f *Frost\.inn.meta.dir\.inn.cache.txt
 12471f71659cac6ee2dc0821676fec0f *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -83,17 +83,17 @@ cd408c154b0a60025215fd212e7ffc3b *Frost\.inn.meta.dir\.inn.version.3.1.0.59.cont
 de73c3687af2c3fcc9b545973a53ba18 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 fb06efaa23663467bb2ebddad6498214 *System\CheckAttendance.lub
-f22a7fbaceb960adefbeee9e19934a3a *System\iteminfo.lub
+faedff4a5e03fcda56537d4354faec4c *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 9a9250d4476f8088e64049574d8a119f *System\monster_size_effect.lua
 4b834885ea00a089ad63c2def2c5700f *System\monster_size_effect.lub
-e635c0ea23f44c805f62214e17ecfaad *System\monster_size_effect_new.lub
+dbd79fd9692be333b0bfa6f3134958a8 *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\MsgString.lub
 a7b3adcbd42f0e69f778d6417a42dcc1 *System\OngoingQuestInfoList.lub
 c8a69b8bc60579fcb8347f1c0e51323f *System\OngoingQuestInfoList.txt
 c171ba082bc4ba94c221c7d66f569dc7 *System\optioninfo.lub
 d38adcd2cd43bd2d68a8c9f300aeb202 *System\PetEvolutionCln.lub
-b5a6a22a2a56b291aa81bb010bb480f0 *System\PrivateAirplane_true.lub
+2954b58c451cba340a84c528e3516195 *System\PrivateAirplane_true.lub
 359dddfa6644c372d68ae1bda3ff526d *System\Ragexe.exe
 07ef71d8bc8aee364ea9b36a4098d408 *System\skilldescript.lub
 a258446c6acae2db2a04db8d1a080081 *System\tipbox.lub

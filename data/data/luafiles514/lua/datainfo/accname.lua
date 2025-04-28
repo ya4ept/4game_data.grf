@@ -2588,5 +2588,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Bar_Death_Circlet] = "_Bar_Death_Circlet",
 	[ACCESSORY_IDs.ACCESSORY_Bar_Plain_Circlet] = "_Bar_Plain_Circlet",
 	[ACCESSORY_IDs.ACCESSORY_C_Alecsander] = "_C_Alecsander",
-	[ACCESSORY_IDs.ACCESSORY_C_Cassandra] = "_C_Cassandra"
+	[ACCESSORY_IDs.ACCESSORY_C_Cassandra] = "_C_Cassandra",
+	[ACCESSORY_IDs.ACCESSORY_E_Hode_Head] = "_hodehead"
 }
