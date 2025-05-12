@@ -5,7 +5,7 @@ d039cec8285cfa6d4c40e22404f047c6 *20241213_1
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-bd3ff00bb9e7c77ff5a3e7467c5460fe *data.grf
+59ef47ad247bceb14bb2db5f30ea5afb *data.grf
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
 c4879696d310905fb320bea0ea66f74b *granny2.dll
 1aa06c81a0621e277e755b965b5e4b5f *ijl15.dll
@@ -42,7 +42,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 64b44734d6bb1f894f90ada681beef41 *Frost\frostinfo.txt
-c5abfb40068192efa67192527661e757 *Frost\frostInit.log
+cca725c4abac23494d14e9375653e6f4 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -50,7 +50,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 88a0b084f0ab1d99bde7bb050dae48dd *Frost\frost_redirip_info.txt
 5ec1d55ad730241e2b1e18c1a11c85b2 *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-a88545f498c103b71c88b75ecf249d5e *Frost\launcherUpdater.log
+4a49cad69b62c0001728a5f62002faf3 *Frost\launcherUpdater.log
 d70d111fb475c21a025004df937d7b5e *Frost\ro.exe
 3ee8a93f4b4317f5bd25f5596ac47405 *Frost\.inn.meta.dir\.inn.cache.txt
 3ee8a93f4b4317f5bd25f5596ac47405 *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -62,7 +62,7 @@ cd408c154b0a60025215fd212e7ffc3b *Frost\.inn.meta.dir\.inn.version.3.1.0.59.cont
 beb89191071310b46ca44c6f41a1180b *gameManager\gameManager.exe
 c4099cdfe1263f3d6ccaad1dc030185b *System\achievement_list.lub
 78d1560b1b34336aa90efe3091d0820d *System\checkattendance.lub
-aee5f7c8891f2531f38aec78f8f5cfc2 *System\iteminfo.lub
+cf78b72d07818a2039f706e934c4c68f *System\iteminfo.lub
 dbeee41da38ef8c8d4d58581d8f9a29d *System\monster_size_effect.lub
 e635c0ea23f44c805f62214e17ecfaad *System\monster_size_effect_new.lub
 f8f0f8d561710c59801faaa855c317c1 *System\msgstring.lub
@@ -70,7 +70,7 @@ d9703bf2eee171900eb0ff3133187894 *System\OngoingQuestInfoList.lub
 9d369f860b1d5292ae2e50c0b94e68d8 *System\OngoingQuestInfoList.txt
 c171ba082bc4ba94c221c7d66f569dc7 *System\optioninfo.lub
 7f88b9528f825088757ddf894ec33224 *System\petevolutioncln.lub
-b5a6a22a2a56b291aa81bb010bb480f0 *System\PrivateAirplane_true.lub
+0bd958f70875c63ac35c821ca26decf9 *System\PrivateAirplane_true.lub
 f2f3931f18087303c4a97c500e02464d *System\tipbox.lub
 e22ae6abb4f205336aa56832af0f0714 *System\towninfo.lub
 ad2d18e57d08ceee2032fc5bd2409020 *System\LuaFiles514\MsgString.lub

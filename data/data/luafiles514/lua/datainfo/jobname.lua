@@ -3973,5 +3973,11 @@ JobNameTable = {
 	[jobtbl.JT_MD_C_RAY_ARCHER_G] = "c_raydric_archer",
 	[jobtbl.JT_MD_HIDDEN_GROUND01] = "invisible",
 	[jobtbl.JT_MD_HIDDEN_GROUND02] = "invisible",
-	[jobtbl.JT_GUILD_SKILL_FLAG] = "guild_skill_flag"
+	[jobtbl.JT_GUILD_SKILL_FLAG] = "guild_skill_flag",
+	[jobtbl.JT_E_HODE] = "E_HODE",
+	[jobtbl.JT_SE_HODE] = "SE_HODE",
+	[jobtbl.JT_KE_HODE] = "KE_HODE",
+	[jobtbl.JT_GE_HODE] = "GE_HODE",
+	[jobtbl.JT_NE_HODE] = "NE_HODE",
+	[jobtbl.JT_4_M_SOULHODE] = "4_m_soulhode"
 }

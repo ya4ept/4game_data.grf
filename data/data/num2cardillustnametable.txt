@@ -933,3 +933,5 @@
 27386#C_Raydric_Card#
 27387#C_Raydric_Archer_Card#
 27388#C_Cursed_Butler#
+
+56770#E_호드카드#
