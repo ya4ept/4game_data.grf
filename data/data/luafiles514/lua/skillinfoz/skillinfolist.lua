@@ -5294,9 +5294,9 @@ SKILL_INFO_LIST = {
 		"GC_CROSSIMPACT",
 		SkillName = "Сверхсветовой удар",
 		MaxLv = 5,
-		SpAmount = { 25, 25, 25, 25, 25 },
+		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = false,
-		AttackRange = { 3, 3, 3, 3, 3 },
+		AttackRange = { 7, 7, 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.AS_SONICBLOW, 10 }
 		}
@@ -12628,5 +12628,312 @@ SKILL_INFO_LIST = {
 			{ SKID.AB_ANCILLA, 1 },
 			{ SKID.AB_ORATIO, 5 }
 		}
+	},
+	[SKID.NPC_GROUNDDRIVE] = {
+		"NPC_GROUNDDRIVE",
+		SkillName = "Земной драйв",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 5, y = 5 },
+			[3] = { x = 5, y = 5 },
+			[4] = { x = 5, y = 5 },
+			[5] = { x = 5, y = 5 }
+		}
+	},
+	[SKID.NPC_RAINOFMETEOR] = {
+		"NPC_RAINOFMETEOR",
+		SkillName = "Царство метеора",
+		MaxLv = 10,
+		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
+		SkillScale = {
+			[1] = { x = 3, y = 3 },
+			[2] = { x = 3, y = 3 },
+			[3] = { x = 5, y = 5 },
+			[4] = { x = 5, y = 5 },
+			[5] = { x = 7, y = 7 },
+			[6] = { x = 7, y = 7 },
+			[7] = { x = 9, y = 9 },
+			[8] = { x = 9, y = 9 },
+			[9] = { x = 11, y = 11 },
+			[10] = { x = 11, y = 11 }
+		}
+	},
+	[SKID.NPC_WIDEBLEEDING2] = {
+		"NPC_WIDEBLEEDING2",
+		SkillName = "Смешение демонических масс",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDESILENCE2] = {
+		"NPC_WIDESILENCE2",
+		SkillName = "Демоническая массивность",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDESTUN2] = {
+		"NPC_WIDESTUN2",
+		SkillName = "Демонический Массон",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDESTONE2] = {
+		"NPC_WIDESTONE2",
+		SkillName = "Демонический массон",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDESLEEP2] = {
+		"NPC_WIDESLEEP2",
+		SkillName = "Демонический сон",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDECURSE2] = {
+		"NPC_WIDECURSE2",
+		SkillName = "Демоническое проклятие",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDECONFUSE2] = {
+		"NPC_WIDECONFUSE2",
+		SkillName = "Слияние демонической массы",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_WIDEFREEZE2] = {
+		"NPC_WIDEFREEZE2",
+		SkillName = "Демоническая заморозка",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 5, y = 5 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 17, y = 17 },
+			[4] = { x = 23, y = 23 },
+			[5] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_EVILLAND2] = {
+		"NPC_EVILLAND2",
+		SkillName = "Демонический Эвиленд",
+		MaxLv = 10,
+		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 },
+		SkillScale = {
+			[1] = { x = 11, y = 11 },
+			[2] = { x = 11, y = 11 },
+			[3] = { x = 11, y = 11 },
+			[4] = { x = 11, y = 11 },
+			[5] = { x = 11, y = 11 },
+			[6] = { x = 13, y = 13 },
+			[7] = { x = 15, y = 15 },
+			[8] = { x = 19, y = 19 },
+			[9] = { x = 23, y = 23 },
+			[10] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_HELLJUDGEMENT2] = {
+		"NPC_HELLJUDGEMENT2",
+		SkillName = "Демонический адский суд",
+		MaxLv = 10,
+		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		SkillScale = {
+			[1] = { x = 29, y = 29 },
+			[2] = { x = 29, y = 29 },
+			[3] = { x = 29, y = 29 },
+			[4] = { x = 29, y = 29 },
+			[5] = { x = 29, y = 29 },
+			[6] = { x = 29, y = 29 },
+			[7] = { x = 29, y = 29 },
+			[8] = { x = 29, y = 29 },
+			[9] = { x = 29, y = 29 },
+			[10] = { x = 29, y = 29 }
+		}
+	},
+	[SKID.NPC_ALL_STAT_DOWN] = {
+		"NPC_ALL_STAT_DOWN",
+		SkillName = "ALL_STAT_DOWN",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 9, 9, 9, 9, 9 }
+	},
+	[SKID.NPC_GRADUAL_GRAVITY] = {
+		"NPC_GRADUAL_GRAVITY",
+		SkillName = "Повышенная гравитация",
+		MaxLv = 3,
+		SpAmount = { 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 9, 9, 9 }
+	},
+	[SKID.NPC_DAMAGE_HEAL] = {
+		"NPC_DAMAGE_HEAL",
+		SkillName = "Восстановление",
+		MaxLv = 3,
+		SpAmount = { 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1 }
+	},
+	[SKID.NPC_IMMUNE_PROPERTY] = {
+		"NPC_IMMUNE_PROPERTY",
+		SkillName = "Иммунный элементаль",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 5, 10, 15, 20, 25 }
+	},
+	[SKID.NPC_MOVE_COORDINATE] = {
+		"NPC_MOVE_COORDINATE",
+		SkillName = "Изменить местоположение",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 14 }
+	},
+	[SKID.NPC_WIDELEASH] = {
+		"NPC_WIDELEASH",
+		SkillName = "Смертельная хваткаAOE",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 5, 10, 15, 20, 25 }
+	},
+	[SKID.NPC_LEASH] = {
+		"NPC_LEASH",
+		SkillName = "Смертельная хватка",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 5, 10, 15, 20, 25 }
+	},
+	[SKID.NPC_DEFENDER] = {
+		"NPC_DEFENDER",
+		SkillName = "Защитник",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.NPC_ARROWSTORM] = {
+		"NPC_ARROWSTORM",
+		SkillName = "Стрела Шторма",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 9, 9, 9, 9, 9 }
+	},
+	[SKID.NPC_HALLUCINATIONWALK] = {
+		"NPC_HALLUCINATIONWALK",
+		SkillName = "Прогулка с галлюцинациями",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.NPC_ELECTRICWALK] = {
+		"NPC_ELECTRICWALK",
+		SkillName = "Электрический ход",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.NPC_FIREWALK] = {
+		"NPC_FIREWALK",
+		SkillName = "Огненная прогулка",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.NPC_MILLENNIUMSHIELD] = {
+		"NPC_MILLENNIUMSHIELD",
+		SkillName = "Щит тысячелетия",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+	[SKID.NPC_MAXPAIN] = {
+		"NPC_MAXPAIN",
+		SkillName = "MAXPAIN",
+		MaxLv = 10,
+		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	}
 }

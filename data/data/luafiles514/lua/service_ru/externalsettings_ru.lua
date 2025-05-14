@@ -1,19 +1,20 @@
 MaxLevelTable = {
 	BaseLevel = 99,
-	BaseLevel3rd = 185,
-	BaseLevelExtend2 = 185,
-	BaseLevelUpperJob = 185,
-	BaseLevelHomun = 185,
-	BaseLevelDoram = 185,
+	BaseLevel3rd = 200,
+	BaseLevelExtend2 = 200,
+	BaseLevelUpperJob = 200,
+	BaseLevelHomun = 200,
+	BaseLevelDoram = 200,
 	JobLevelNovice = 10,
 	JobLevelSuperNovice = 99,
 	JobLevelBase = 50,
 	JobLevel2nd = 70,
-	JobLevel3rd = 65,
-	JobLevelExtend2 = 50,
-	JobLevelUpperJob = 65,
-	JobLevelDoram = 55
+	JobLevel3rd = 70,
+	JobLevelExtend2 = 70,
+	JobLevelUpperJob = 70,
+	JobLevelDoram = 60
 }
+AssistAddr = "109.105.141.17:2052"
 MakeableRace = { Doram = true }
 LEVELAURA = {}
 LEVELAURA["EF_NONE"] = -1

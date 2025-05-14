@@ -305,9 +305,11 @@ StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Отравленное оружие", COLOR_TITLE_BUFF },
+		{ "[Нанесение токсичного яда]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Можно отравить врага при атаке." }
+		{ "Увеличивает ближний физ. урон" },
+		{ "Накладывает эффект в зависимости от типа яда" },
+		{ "При атаке отравляет цель нанесенным ядом" }
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_DEATHPENALTY] = {
@@ -466,10 +468,10 @@ StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Сжатие", COLOR_TITLE_BUFF },
+		{ "[Сжатие]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "В случае отражения атаки умением [Автозащита]" },
-		{ "отталкивает противника назад." }
+		{ "При срабатывании умения [Автозащита]" },
+		{ "оглушает с определенным шансом" }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
@@ -938,10 +940,10 @@ StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Боевой дух", COLOR_TITLE_BUFF },
+		{ "Рунный камень Эйваз: Решительность", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает силу атаки." },
-		{ "Повышает скорость атаки персонажа." }
+		{ "Увеличивает физ. атаку." },
+		{ "Увеличивает скорость атаки." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
@@ -1179,9 +1181,13 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Гигантский рост", COLOR_TITLE_BUFF },
+		{ "Рунный камень Турисаз: Гигантский рост", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличивает силу персонажа." }
+		{ "Увеличивает Силу." },
+		{
+			"При выполнении обычной физ. атаки в ближнем бою с высокой вероятность наносит большой урон."
+		},
+		{ "Увеличивает ближний физ. урон." }
 	}
 }
 StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
@@ -1352,7 +1358,7 @@ StateIconList[EFST_IDs.EFST_REFRESH] = {
 	descript = {
 		{ "Обновление", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Отменяет все положительные и отрицательные эффекты." },
+		{ "Отменяет все отрицательные эффекты." },
 		{ "Предупреждает наложение новых эффектов." },
 		{ "Восстанавливает 25% HP." }
 	}
@@ -1928,11 +1934,23 @@ StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Выносливость", COLOR_TITLE_BUFF },
+		{ "Рунный камень Иса: Жизненная сила", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Эфективность получаемого лечения и" },
-		{ "восстановление HP зельями + 50%." },
-		{ "Восстановление SP зельями - 50%." }
+		{ "Усиливает эффекты восстановления HP." },
+		{ "Уменьшает получаемый отраженный физ. урон в ближнем бою." }
+	}
+}
+StateIconList[EFST_IDs.EFST_LUXANIMA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Рунный камень Лукс: Люкс Анима", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "При выполнении обычной физ. атаки в ближнем бою есть вероятность" },
+		{ "активации умения [Штормовой порыв] (ур. 1)." },
+		{ "Повышает физ. урон по врагам любого размера." },
+		{ "Увеличивает крит. урон." },
+		{ "Повышает физ. урон в ближнем и дальнем бою." }
 	}
 }
 StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
@@ -3159,11 +3177,12 @@ StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
 }
 StateIconList[EFST_IDs.EFST_DARKCROW] = {
 	haveTimeLimit = 1,
-	posTimeLimitStr = 3,
+	posTimeLimitStr = 2,
 	descript = {
-		{ "Темный коготь", COLOR_TITLE_DEBUFF },
-		{ "Увеличен урон, получаемый от ближних физ. атак." },
-		{ "%s", COLOR_TIME }
+		{ "[Темный коготь]", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает физ. урон в ближнем бою" },
+		{ "Ослабляет некоторые эффекты отражения урона" }
 	}
 }
 StateIconList[EFST_IDs.EFST_JITTER_BUFF1] = {
@@ -5220,10 +5239,10 @@ StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Сосредоточенность ", COLOR_TITLE_BUFF },
+		{ "[Сосредоточенность]", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Увеличение силы атаки и точности " },
-		{ "Уменьшение защиты " }
+		{ "Увеличивает физ. атаку и точность." },
+		{ "Уменьшает физ. защиту." }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {
@@ -5568,9 +5587,9 @@ StateIconList[EFST_IDs.EFST_AURABLADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Аура клинка", COLOR_TITLE_BUFF },
+		{ "Клинок ауры", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Физ. атака увеличена" }
+		{ "Увеличивает физ. атаку." }
 	}
 }
 StateIconList[EFST_IDs.EFST_SOULCURSE] = {
@@ -5590,5 +5609,51 @@ StateIconList[EFST_IDs.EFST_HELPANGEL] = {
 		{ "%s", COLOR_TIME },
 		{ "Каждую секунду восстанавливает" },
 		{ "HP 1000 и SP 350" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Бомбочка для ванны A", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Наносимый монстрам в подземелье Купальня Медитари" },
+		{ "Физ./маг. урон +5%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Бомбочка для ванны B", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Наносимый монстрам в подземелье Купальня Медитари" },
+		{ "Физ./маг. урон +10%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Бомбочка для ванны C", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Наносимый монстрам в подземелье Купальня Медитари" },
+		{ "Физ./маг. урон +15%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Ароматическое масло", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Получаемый от монстров в подземелье Купальня Медитари" },
+		{ "Физ./маг. урон -10%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
+	descript = {
+		{ "Настройка огневых точек", COLOR_TITLE_DEBUFF },
+		{ "Появление огневой точки раз в определенное количество времени" }
 	}
 }

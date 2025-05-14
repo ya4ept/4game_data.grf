@@ -18,6 +18,12 @@ ReadEmitterInfoz = function(tablename)
 			SetEmitterInfo(k, MSG_SET_SRCMODE, v.srcmode[1])
 			SetEmitterInfo(k, MSG_SET_DESTMODE, v.destmode[1])
 			SetEmitterInfo(k, MSG_SET_ZENABLE, v.zenable[1])
+			if nil ~= v.billboard_off then
+				SetEmitterInfo(k, MSG_SET_BILLBOARD_OFF, v.billboard_off[1])
+			end
+			if nil ~= v.rotate_angle then
+				SetEmitterInfo(k, MSG_SET_ROTATE_ANGLE, v.rotate_angle[1], v.rotate_angle[2], v.rotate_angle[3])
+			end
 			SetEmitterInfo(k, MSG_SET_INIT)
 		end
 	end
@@ -92,6 +98,12 @@ ReadAnimatedEmitterInfoz = function(tablename)
 			SetAnimatedEmitterInfo(k, MSG_SET_SRCMODE, v.srcmode[1])
 			SetAnimatedEmitterInfo(k, MSG_SET_DESTMODE, v.destmode[1])
 			SetAnimatedEmitterInfo(k, MSG_SET_ZENABLE, v.zenable[1])
+			if nil ~= v.billboard_off then
+				SetEmitterInfo(k, MSG_SET_BILLBOARD_OFF, v.billboard_off[1])
+			end
+			if nil ~= v.rotate_angle then
+				SetEmitterInfo(k, MSG_SET_ROTATE_ANGLE, v.rotate_angle[1], v.rotate_angle[2], v.rotate_angle[3])
+			end
 			SetAnimatedEmitterInfo(k, MSG_SET_INIT)
 		end
 	end
@@ -158,6 +170,23 @@ ReadEffectInfoz = function(tablename)
 			SetOtherEffectInfo(v.Type[1], v.ID[1], MSG_SET_HEIGHT19, v.Height19[1])
 			SetOtherEffectInfo(v.Type[1], v.ID[1], MSG_SET_HEIGHT20, v.Height20[1])
 			SetOtherEffectInfo(v.Type[1], v.ID[1], MSG_SET_INIT)
+		end
+	end
+end
+
+-- Function #6
+ReadEZ2STRInfoz = function(tablename)
+	local t = _G[tablename]
+	if t ~= nil then
+		for k, v in pairs(t) do
+			SetEZ2STRInfo(k, MSG_SET_STR_FILENAME, v.str)
+			SetEZ2STRInfo(k, MSG_SET_RENDER_FLAG, v.rednerflag)
+			if v.scaleratio ~= nil then
+				SetEZ2STRInfo(k, MSG_SET_SCALE_RATIO, v.scaleratio)
+			end
+			if v.alpharatio ~= nil then
+				SetEZ2STRInfo(k, MSG_SET_ALPHA_RATIO, v.alpharatio)
+			end
 		end
 	end
 end
