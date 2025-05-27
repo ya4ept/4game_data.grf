@@ -1,3 +1,54 @@
+21.05.2025 11:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Gift arrived in launcher.
+— The Chronosets & FAW Sets arrived in launcher.
+— The Lucky Treasures Sets arrived in launcher.
+— The WIN-WIN Machine: The Era of Great Chances arrived in launcher.
+— The "Poring Invasion: Payon" event has begun.
+
+Finished activities:
+— The Refine Hats Sets left the launcher.
+— The HD refine sets left the launcher.
+— The "Boosted Refinement Rates" event has come to an end.
+— The "Colorful runaways" event has come to an end.
+
+Changes:
+Fixed the functionality of the NPC at /navi prt_in 285/167 — Doram costume dyeing now works correctly.
+Fixed an issue where the Dragonslayer Sword did not deal bonus damage to certain monsters.
+Significantly reduced the number of Hode spawns in occupied territories after server restarts.
+
+More: https://eu.4gameforum.com/threads/695350/
+
+================
+20.05.2025 12:45
+Ragnarok Online Prime EU
+The maintenance is over, the server is online.
+
+================
+14.05.2025 10:40
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Refine Hats Sets arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+
+Finished activities:
+— The Luckybox Sets left the launcher.
+— The Devil's Pranks Treasure left the launcher and Kafra shop.
+— The Special Packs for Maestro and Wanderer left the launcher.
+— The Special Packs for Ranger left the launcher.
+
+Changes:
+— The stats for the item "Battle Surcoat" have now been set to the values given in the description.
+
+More: https://eu.4gameforum.com/threads/695337/
+
+================
 07.05.2025 11:00
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:

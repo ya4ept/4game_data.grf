@@ -12061,3 +12061,6 @@
 420163#C_Protect_Cloth_B#
 104613#Abyss_Scroll_TW#
 12228#Vend_Arbeit1_2Lv#
+400044#Phantom_Of_Masquerade#
+400059#ÃµÇæ±Ãº¸°ü#
+460004#Illusion_Shield_A#
