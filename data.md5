@@ -611,7 +611,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-6530399ce6a256a3bcdf1c4266cfd2c3 *data\buyingstoreitemlist.txt
+5fc31b58ec08e2fbeae225a02037d6a2 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 d15056fe8aa2a00bf998484974148c1d *data\cardpostfixnametable.txt
 e319bd5ed6b78f7763f75d219f2e2321 *data\cardprefixnametable.txt
@@ -104047,8 +104047,7 @@ fc510b72b12c7730a744ca0efec5dc3c *data\texture\effect\128-4.bmp
 736590cad396a560dd1082aa705fe5d5 *data\texture\effect\128-5.bmp
 62905cfe60e412104bfe6d127b3b252c *data\texture\effect\128-6.bmp
 132eb2911b52e522c177d551faa0c32e *data\texture\effect\13 copy.bmp
-6029bf2ae66e1ffe6002b4478e90a2cd *data\texture\effect\14 copy.bmp
-65bd686d2e768f13bcbf1a29796cd691 *data\texture\effect\14copy~1.bmp
+65bd686d2e768f13bcbf1a29796cd691 *data\texture\effect\14 copy.bmp
 15ffcbf770c929f5eef3761a0f2542aa *data\texture\effect\15 coipy.bmp
 477c0155055732791a61c7c1adb2b7c8 *data\texture\effect\15 copy.bmp
 59b1b9bed82b4d149ede705eb48aee21 *data\texture\effect\16 copyq.bmp
