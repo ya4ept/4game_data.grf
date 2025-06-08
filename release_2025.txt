@@ -1,0 +1,497 @@
+29.05.2025 13:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Special Packs for Rune Knight arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The Profession item packs arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+
+Finished activities:
+— The WIN-WIN Machine: The Era of Great Chances left the launcher.
+— The Chronosets & FAW Sets left the launcher.
+— The Lucky Treasures Sets left the launcher.
+
+Changes:
+— Updated the Dovmihr`s Reward List (1600 Coin list).
+— The following items have been buffed and returned to their original stats:
+  • Fenrir Chain
+  • Blacksmith's Gloves
+
+More: https://eu.4gameforum.com/threads/695365/
+
+================
+21.05.2025 11:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Gift arrived in launcher.
+— The Chronosets & FAW Sets arrived in launcher.
+— The Lucky Treasures Sets arrived in launcher.
+— The WIN-WIN Machine: The Era of Great Chances arrived in launcher.
+— The "Poring Invasion: Payon" event has begun.
+
+Finished activities:
+— The Refine Hats Sets left the launcher.
+— The HD refine sets left the launcher.
+— The "Boosted Refinement Rates" event has come to an end.
+— The "Colorful runaways" event has come to an end.
+
+Changes:
+Fixed the functionality of the NPC at /navi prt_in 285/167 — Doram costume dyeing now works correctly.
+Fixed an issue where the Dragonslayer Sword did not deal bonus damage to certain monsters.
+Significantly reduced the number of Hode spawns in occupied territories after server restarts.
+
+More: https://eu.4gameforum.com/threads/695350/
+
+================
+20.05.2025 12:45
+Ragnarok Online Prime EU
+The maintenance is over, the server is online.
+
+================
+14.05.2025 10:40
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Refine Hats Sets arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+
+Finished activities:
+— The Luckybox Sets left the launcher.
+— The Devil's Pranks Treasure left the launcher and Kafra shop.
+— The Special Packs for Maestro and Wanderer left the launcher.
+— The Special Packs for Ranger left the launcher.
+
+Changes:
+— The stats for the item "Battle Surcoat" have now been set to the values given in the description.
+
+More: https://eu.4gameforum.com/threads/695337/
+
+================
+07.05.2025 11:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Luckybox Sets arrived in launcher.
+— The Devil's Pranks Treasure arrived in launcher and Kafra shop.
+— The Special Packs for Maestro and Wanderer arrived in launcher.
+— The Special Packs for Ranger arrived in launcher.
+— The "Colorful runaways" event has begun.
+
+Finished activities:
+— The Shadow Packs (Professional sets) left the launcher.
+— The Shadow Packs (Master sets) left the launcher.
+— The EggFall - Eremes' Treasure packs left the launcher.
+— The "Shaken, not stirred (Prontera)" event has come to an end.
+
+Changes:
+— Time gap between Hodes attacks increased.
+
+More: https://eu.4gameforum.com/threads/695326/
+
+================
+30.04.2025 10:41
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Shadow Packs (Professional sets) arrived in launcher.
+— The Shadow Packs (Master sets) arrived in launcher.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Special Packs for Genetic left the launcher.
+— The Special Packs for Summoner left the launcher.
+— The Profession item packs left the launcher.
+— The Battle manual packs left the launcher.
+— The EggFall - Eternal Summer Treasure packs left the launcher.
+
+Changes:
+— Hodes are now more disciplined and no longer skip attacks on maps that were previously targeted.
+
+https://eu.4gameforum.com/threads/695316/
+
+================
+24.04.2025 11:45
+Ragnarok Online Prime EU
+The maintenance is over, the server is online.
+— The "Hode Intervention (Part 1)" event has begun! Hodes are attacking Rune-Midgard — defend the cities from the invasion!
+
+Events and Shop:
+— The event "Hode Intervention (Part 1)" has begun! The Hodes are attacking Rune-Midgarts! Defend the cities from the invasion!
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Special Packs for Genetic arrived in launcher.
+— The Special Packs for Summoner arrived in launcher.
+— The Profession item packs arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The "Shaken, not stirred (Prontera)" event has begun.
+
+Finished activities:
+— The Chronosets & FAW Sets left the launcher.
+— The Special Packs for Rune Knight left the launcher.
+— The Special Packs for Royal Guard left the launcher.
+— The Updated Dovmihr's WIN-WIN Machine left the launcher.
+— The "X Marks the Spot" event has come to an end.
+
+Changes:
+— Increased drop chance for Super Rare category items in Dovmihr's Legendary WIN-WIN Machine
+— Dovmihr's Reward List (for 1600 and 700 coins) have been updated.
+
+More: https://eu.4gameforum.com/threads/695306/
+
+================
+16.04.2025 11:20
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Chronosets & FAW Sets arrived in launcher.
+— The Special Packs for Rune Knight arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The Updated Dovmihr's WIN-WIN Machine arrived in launcher.
+
+Finished activities:
+— The EggFall - Creation Treasure packs left the launcher.
+— The Transmutator Packs left the launcher.
+— The Special Packs for Sorcerer left the launcher.
+— The Special Packs for Shadow Chaser left the launcher.
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+
+Changes:
+— Dovmihr's Reward List (for 1600 and 700 coins) have been updated.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695286/
+
+================
+09.04.2025 10:40
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Transmutator Packs arrived in launcher.
+— The Special Packs for Sorcerer arrived in launcher.
+— The Special Packs for Shadow Chaser arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "X Marks the Spot" event has begun.
+
+Finished activities:
+— The Lucky Treasures Sets left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+— The Special Packs for Sura left the launcher.
+— The "+30% ALL Experience Boost" event has come to an end.
+— The "Gold Rush (Payon)" event has come to an end.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695265/
+
+================
+02.04.2025 10:35
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Lucky Treasures Sets arrived in launcher.
+— The Special Packs for Arch Bishop arrived in launcher.
+— The Special Packs for Sura arrived in launcher.
+— The "+30% ALL Experience Boost" event has been extended until April 4th
+
+Finished activities:
+— The Eremes' Treasure left the launcher.
+— The Battle manual packs left the launcher.
+— The Shadow Packs left the launcher.
+— The Luckybox Sets left the launcher.
+
+
+Changes:
+— Fixed an issue where the Ancient Weapons Scroll did not refine the "Blessed Knife" and "Freedom Stick"
+— Fixed localization mistakes in the descriptions of Ancient Stalactic Golem and Jitterbug Cards.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695253/
+
+================
+26.03.2025 11:00
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Battle manual packs arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Eremes' Treasure arrived in launcher.
+— The "+30% ALL Experience Boost" event has begun.
+
+Finished activities:
+— The Profession item packs left the launcher.
+— The Special Packs for Summoner left the launcher.
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+
+Changes:
+Fixed an issue where newer (Revived) Hero weapons could not be enchanted.
+Updated enchant item descriptions to correctly reflect weapon names and include newer weapons.
+Fixed Magma Essence being consumed before the enchant process was completed.
+Corrected the description of Odin's Power.
+Fixed an incorrect description on Temporal Circlet (Oboro), which previously displayed the description for Temporal Circlet (Rebellion).
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695245/
+
+================
+19.03.2025 11:01
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Profession item packs arrived in launcher.
+— The Special Packs for Summoner arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "Gold Rush (Payon)" event has begun.
+
+Finished activities:
+— The Refine Hats Sets left the launcher.
+— The HD refine sets left the launcher.
+— The "Boosted Refinement Rates" event has come to an end.
+— The "Midgardian style Fishing in Payon" event has come to an end.
+
+Changes:
+— The issue with the item "Arabian Manteau [1]" has been fixed, where damage was not reduced when the item was unequipped.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695232/
+
+================
+12.03.2025 10:54
+Ragnarok Online Prime EU
+ 
+ Events and Shop:
+— The Refine Hats Sets arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+
+Finished activities:
+— The Shadow Packs left the launcher.
+— The Special Packs for Royal Guard left the launcher.
+— The Special Packs for Rune Knight left the launcher.
+— The Six Kingdoms Treasure left the launcher.
+— The Luckybox Sets left the launcher.
+— The Bossnia Crown Box left the launcher.
+— The "Increased Drop Chance +30%" event has come to an end.
+— The "Royal Bossnia" event has come to an end.
+
+Changes:
+Fixed several visual issues on certain jobs when using item Bravery Bag.
+Mount sprite for Gunslinger job now replaced with a motorcycle.
+Fixed Survivor's Shoes set bonus not working on players.
+Fixed Ceremonial Sword item sprite not showing while attacking.
+Fixed the description of the item Mad Bunny.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695214/
+
+
+================
+05.03.2025 10:40
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Shadow Packs arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The Special Packs for Rune Knight arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+— The "Midgardian style Fishing in Payon" event has begun.
+
+Finished activities:
+— The Battle manual packs left the launcher.
+— The Shadow Packs left the launcher.
+
+Changes:
+— Fixed the functionality of the item Revived All-Sun Book [2].
+— Fixed the functionality of the skill "Meow Meow" at level 5.
+— Fixed the sprite display issue for the following cards: Weakened Fenrir Card, Les Card, Mavka Card, Colorful Teddy Bear Card.
+— Fixed the functionality of the item Old Morroc Shawl. It now restores 100% HP and SP upon resurrection in battle (at +8 refinement level).
+— Fixed the localization of quests [17.1].
+— Fixed a bug where the monster White Lady in Endless Tower did not have the "MVP" status.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695202/
+
+================
+26.02.2025 11:02
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Six Kingdoms Treasure arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Bossnia Crown Box arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The "Royal Bossnia" event has begun.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Transmutator Packs left the launcher.
+— The Special Packs for Maestro and Wanderer left the launcher.
+— The Special Packs for Genetic left the launcher.
+— The "Poring Invasion: Prontera" event has come to an end.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695189/
+
+================
+19.02.2025 11:30
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Transmutator Packs arrived in launcher.
+— The Special Packs for Maestro and Wanderer arrived in launcher.
+— The Special Packs for Genetic arrived in launcher.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Chronosets & FAW Sets left the launcher.
+— The Profession item packs left the launcher.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695146/
+
+================
+12.02.2025 11:50
+Ragnarok Online Prime EU
+
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Chronosets & FAW Sets arrived in launcher.
+— The Profession item packs arrived in launcher.
+— The "Poring Invasion: Prontera" event has begun.
+
+Finished activities:
+— The Special Packs for Maestro left the launcher.
+— The Special Packs for Ranger left the launcher.
+— The Lucky Treasures Sets left the launcher.
+— The "Eden +50% Experience Boost" event has come to an end.
+— The "Colorful runaways" event has come to an end.
+
+Changes:
+Fixed the functionality of Ancient Candy and Fenrir Power Scroll.
+Fixed an issue in Old Glastheim (Challenge Mode) where level 2 didn't start after 5 completions.
+Added missing effects to boss monsters inside Infinity Space.
+Monsters inside Advanced Old Glast Heim will now use their skills.
+New MVP card drop announcement.
+The Fall of Glastheim vending NPCs will now display the correct item names.
+Fixed a issue in EDDA Arunafeltz that prevented the mini-boss from spawning in easy mode.
+Fixed several visual isues in EDDA Arunafeltz.
+Fixed a issue in WoE2 that prevented the indestructible barricade from disappearing after both Guardian Stones were destroyed.
+
+The maintenance is over, the server is online. Changelog: https://eu.4gameforum.com/threads/695124/
+
+================
+05.02.2025 10:40
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. 
+
+Events and Shop:
+— The Special Packs for Maestro arrived in launcher.
+— The Special Packs for Ranger arrived in launcher.
+— The Lucky Treasures Sets arrived in launcher.
+— The "Eden +50% Experience Boost" event has begun.
+
+Finished activities:
+— The Luckybox Sets left the launcher.
+— The Dracolich Treasure left the launcher.
+— The Battle manual packs left the launcher.
+— The Shadow Packs left the launcher.
+— The "Increased Drop Chance +30%" event has come to an end.
+
+Changes:
+—Item name changed: Vassalage Necklace → Bondage Necklace.
+
+Changelog: https://eu.4gameforum.com/threads/695116/
+
+================
+29.01.2025 11:21
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. 
+
+Events and Shop:
+— The Dracolich Treasure arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+— The "Colorful runaways" event has begun.
+
+Finished activities:
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Shadow Packs left the launcher.
+— The Special Packs for Arch Bishop left the launcher.
+— The Special Packs for Sura left the launcher.
+— The "Shaken, not stirred" event has come to an end.
+
+Changes:
+Fixed a bug where the bonus from Lichtern Green Card, Lichtern Red Card, Lichtern Yellow Card, and Lichtern Blue Card remained even after unequipping them.
+Fixed an issue with Revived Gutling Gun, where SP consumption was incorrect.
+Added new teleport options to Kafra and Zonda NPCs:
+Kafra: Glastheim Churchyard, Abyss Lake F2, Cursed Monastery F1
+Zonda: Magmarings, Thanatos Tower F5, Holy Ground F2
+Updated Thanatos Tower: All level 99+ characters can now enter F7 (if they have the Black Key).
+Fixed an issue in Old Glastheim that caused monsters to spawn in unreachable areas.
+Updated F97 of Endless Tower with the correct monster set.
+Novice Platinum Skills Quests:
+Added an NPC required for quest progression.
+NPC Nursing Officer can be found at /navi prt_cas 178/78.
+
+Changelog: https://eu.4gameforum.com/threads/695106/
+
+================
+22.01.2025 18:49
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. 
+
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Special Packs for Arch Bishop arrived in launcher.
+— The Special Packs for Sura arrived in launcher.
+
+Finished activities:
+— The HD refine sets left the launcher.
+— The Refine Hats Sets left the launcher.
+— The "Boosted Refinement Rates" event has come to an end.
+
+Changes:
+— Fixed localization for NPCs in the "16.1 Banquet for Heroes, Crimson Weapons" update.
+— Fixed the description of the item Ancient Hero Boots [1].
+— Added new items to NPC Inhelda: Blessed Knife and Freedom Stick [2].
+— Fixed the description of the item Freedom Stick [2].
+— Fixed the description of the item Gunther's Shadow Ring
+— Fixed the description of the item Celine's Brooch
+— Fixed the description of the item Old Doll (added "Character bound" note)
+— Fixed the description of the item Costume Noble Mask
+— Fixed the description of the quests: Limits of Journey, Trace of Time Travel, To Phantasmagorica, Joining Phantasmagorica
+— Added skill descriptions for Emergency Movement, Thrust Flag, and Ringing Thrust.
+
+Changelog: https://eu.4gameforum.com/threads/695092/
+
+================
+15.01.2025 10:45
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. 
+
+— The HD refine sets arrived in launcher.
+— The Refine Hats Sets arrived in launcher.
+— The "Shaken, not stirred" event has begun.
+— The "Boosted Refinement Rates" event has begun.
+
+
+Finished activities:
+— The Special Packs for Genetic left the launcher.
+— The Special Packs for Sorcerer left the launcher.
+— The Lucky Treasures Sets left the launcher.
+— The Santa's gift left the launcher.
+— The "+30% ALL Experience Boost" event has come to an end.
+
+Changelog: https://eu.4gameforum.com/threads/695083/
+
+================
+10.01.2025 10:35
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. 
+
+Events and Shop:
+— The "+30% ALL Experience Boost" event has begun.
+
+Changelog: https://eu.4gameforum.com/threads/695078/

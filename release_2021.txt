@@ -1,0 +1,711 @@
+29.12.2021 11:42
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Win-Win Machine is here! Each spin will definitely grant you the win!
+
+Other:
+— Server's work was optimized to fix the lag issues. Please share your feedback on this.
+
+Finished activities:
+— The Holly Jolly Treasure and its packs were removed from the launcher;
+— Christmas Special Sets left the launcher;
+— Christmas Gift Set was removed from the launcher.
+https://eu.4gameforum.com/threads/686056/
+
+==========
+24.12.2021
+CM_Godfather
+The maintenance is finally over. Here are the changes:
+
+- The Christmas event issue has been fixed. Now it is possible to talk to Santa after walking around and to pass the poring quest.
+- The description of the Snowflake has been updated. The item is character bound.
+- The description of the Amistr Hat has been updated.
+- A 15% EXP bonus has been activated for the next 24h.
+
+================
+22.12.2021 13:28
+CM_Godfather
+The Maintenance is over and the last major update of the year is up, the Holiday Season is here, changes are the following:
+
+Game updates:
+— Brasilis, Endless Tower and Godlikes 2.0 just hit the server. This Holiday Season promises a lot of challenging playtime!
+
+Event:
+— Our Holiday Special Event, Prontera's Nostalgia is here. Relive some of the adventures you have been through this year, and get and exp boosting hat!
+— A new set of Daily Rewards is here, now with a Mini-Christmas Tree as a final reward!
+
+Shop:
+— The Holly Jolly Treasure is here both individually and in packs to get you the best Christmas you can get. Check our Launcher and the Shop.
+— And that is not all! The New Year's GiftMania is here, to get the most amazing gifts to nicest of kids in Rune-Midgard. You can get entries by opening Holly Jolly Treasures.
+— The Shop is on sale! For this Christmas we bring you up to 30% discount in several items.
+— Christmas Special Sets are already available on the launcher to quench your thirst for power!
+
+More:
+— Christmas has arrived in Rune-Midgard, the cities are fully decorated and even porings are in the holiday mood.
+— Santa is here and he has a Christmas Gift Set entirely for free for you on the launcher!
+
+
+Finished Activities:
+— The Bravery Bag and its special Refinement Sets were removed from the launcher.
+— The Refinement Rates were Set Back to standard.
+
+https://eu.4gameforum.com/threads/685975/
+
+15:31
+CM_Godfather
+The Event NPCs need correcting, and for that we will need to run a short maintenance, starting at 14:00 CET.
+Thanks for understanding! 
+
+15:40
+CM_Godfather
+The maintenance will be on 14:00, not 15:00
+
+16:17
+CM_Godfather
+The extra maintenance is over. The Exp rate will be boosted by 10% for the next 24h.
+
+19:41
+Imp
+We'll need to perform one more short maintenance at 17:45 CET today
+As soon as server opens, it will be announced
+Thank you for understanding.
+
+20:08
+Imp
+The maintenance is over!
+— Now you can restock the lost gifts if you speak to Santa in Lutie (xmas_in 100 96) at any stage of the event quests' progress.
+
+15.12.2021
+Baphomet
+PRIME
+The maintenance is over, the server is online. Changelog:
+
+Update:
+— Malangdo dungeons are open for exploration. Be cautious, dangerous creatures are lurking there.
+
+Shop:
+— The Bravery Bag is back to launcher with special Refinement Sets.
+
+Event:
+— The Refinement Rates are currently boosted, it is time to hit the forge!
+
+https://eu.4gameforum.com/threads/685876/
+
+Finished activities:
+— Magni's Trial was finished;
+— The Woodland Treasure and it's Sets left Kafra shop and launcher;
+
+================
+08.12.2021 12:10
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Woodland Treasure is here both individually and in packs to get you out the in the woods. Check our Launcher and the Shop.
+
+Event:
+— Magni, the son of Thor has a Challenge for you. Magni's Trial will be available until 15th of December.
+
+New:
+— Vexler, the Silvervine Merchant is now in Prontera, trading Kafra shop goods for Silvervines.
+
+Finished activities:
+— The Snow Hunt is over.
+— The Win-Win Machine was turned off.
+
+https://eu.4gameforum.com/threads/685813/
+
+================
+02.12.2021 12:30
+Imp
+The Maintenance is over and the update is up, changes are the following:
+
+Game updates:
+— Travel far lands to discover new opportunities, get into a good fight with evil or be the last man standing amid the great labyrinth,
+because Sealed Shrine, Malangdo island and Nidhoggur's Nest are now available!
+
+Event:
+— The Snow Hunt is here. Grind through the achievements and get warming rewards and titles;
+— New mysterious enchanter emerged in one of the Malangdo's cabins. (mal_in01.gat 21, 22)
+They say, that if you have a pair of Fallen Angel Wings, Dark Luhir is the right person to be sought out.
+
+Shop:
+— The Win-Win Machine is set and ready. This time it contains all HD refinement materials, shadow equipment,
+best pet friend ever, Fallen Angel Wings and much more;
+— Kafra Shop got two new headgear items: Amistr Cap and Spiked Mask.
+
+Finished Activities:
+— Loki's Trial is finished;
+— Black Friday offers are no longer valid;
+— The Arcadia's Treasure and it's Sets left Kafra shop and launcher;
+— Card Removal Sets were removed from the launcher.
+https://eu.4gameforum.com/threads/685771/
+
+16:35
+Imp
+@everyone We will have a short maintenance starting at 15:00 CET.
+As soon as the server opens, it will be announced.
+
+17:27
+Imp
+The short maintenance is over!
+— Fallen Angel Wings bonuses were updated at forum and in-game. Now they have correct properties. 
+Those, who feel that they were affected by this change, please contact the Support Service; 
+— Dark Machine TX100 stopped suggesting Silvervines exchange option.
+
+A 15% EXP boost has been applied for a day.
+
+================
+24.11.2021 13:17
+Imp
+The maintenance is over, the server is online. Changelog:
+
+Event:
+— Richard has Arrived in Prontera and is ready to perform Card Extractions.
+— Loki's Trial has begun. Prove yourself worthy until December 1st.
+
+Shop:
+— Black Friday has arrived in the Kafra Shop. Products are up to 60% off and the offers are valid until the 1st of December.
+— The Arcadia's Treasure and it's magnificent Sets are already available on the launcher.
+— The Brand New Card Removal Sets are already for sale on the launcher, featuring lubricants that will help you on card extractions.
+
+https://eu.4gameforum.com/threads/685705/
+
+Finished activities:
+— Enriched Elunium & Oridecon Sets were removed from the launcher. Their price was also set back to standard in the in-game shop.
+— The effects of the Biohazard Mask have been deactivated.
+
+================
+17.11.2021 12:02
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+New:
+— Silvervines Have just arrived in Ragnarok Online Prime.
+— There are New Perks to having Premium, check now the new Premium Buffs.
+
+Shop:
+— New Silvervine Boxes are now available in the Kafra Shop.
+— Enriched Elunium & Oridecon Sets are back on the launcher. They are also 10% off in the in-game shop.
+
+Event:
+— A new set of Daily Login Rewards starts today, with the Puppy Hat as a final prize!
+
+Finished activities:
+— The Leveling Sets, Rideword Hat, Gift Set and Old Farm Treasure were all removed from Launcher.
+— The Fighting the virus event is over.
+— The Great Alchemist is no longer performing Stat Resets.
+— The Fire Hunt came to an end.
+
+https://eu.4gameforum.com/threads/685609/
+
+================
+11.11.2021 12:35
+CM_Godfather
+The Maintenance is over and the update is up, changes are the following:
+
+Game updates:
+— The Earth has been Shattered. There is much new content, so much to do. 3rd Classes, The Destruction of Morroc & New World are now available.
+
+Event:
+— The Community acclaimed event Fighting the virus has been extended for one more week.
+— Reset your Stats with the Great Alchemist for limited time
+— The Fire Hunt is here, rewarding the bravest fire masters.
+— A new Leveling Race is on! who will be the first of each class to reach 175/60?
+
+Shop:
+— The Brand New Leveling Sets are now available on the Launcher to help reach the highest levels faster.
+— The Rideword Hat is back with an exclusive set, don't miss out!
+— The Old Farm Treasure and its sets are already available on the launcher.
+— There is a Gift Set available on the launcher, snatch it to help you out on your journey.
+
+https://eu.4gameforum.com/threads/685507/
+
+CM_Godfather — 14:40
+Attention everyone!!!
+We need to run a short extra maintenance on the server to fix some small issues. 
+The works will start at 13:00 CET and should not take longer than 30 minutes.
+
+================
+03.11.2021 11:18
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Event:
+— Don't let the virus spread. Fight the Virus in this fan-favorite event.
+— The Refinement Rates are currently boosted, it is time to hit the forge!
+
+Shop:
+— The Win-Win Machine is here with items you have never seen before, including the offline vending ticket.
+— The Bravery Bag is back with special Refinement Sets, already available on the launcher.
+
+More:
+— Check how to set up your Offline Shop with the new Enhanced Merchant Envelope
+
+Finished activities:
+— The hunt for Jack & Scarie will came to an end as Hunting Jack was deactivated.
+— The Hollow Eye Treasure and its sets were removed from the Launcher.
+— The mighty Dovmihr's Sets were removed from the Launcher
+
+https://eu.4gameforum.com/threads/685369/
+
+==========
+31.10.2021
+Imp
+The maintenance is over!
+Now in-game clock has been adjusted to CET.
+
+==========
+27.10.2021
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Hollow Eye Treasure is here both individually and in packs to get you started on dark rituals. Check our Launcher and the Shop.
+— Dovmihr's Sets are now available on the launcher for those who want to have the might of the Gods on their side.
+— New Costumes are now available on the in-game shop.
+
+Event:
+— Dive deep into the spookiest season of the year with Finding Jack, our Halloween special event.
+— A dark world Skellion Race begins today, do not waste any time! 
+
+Finished activities:
+— The Poring Hunt is over.
+— Shadow Equipment were removed from the in-game shop.
+— The Change Name Card was removed from the launcher.
+
+https://eu.4gameforum.com/threads/685294/
+
+================
+20.10.2021 13:38
+CM_Godfather
+The Maintenance is over and the update is up, changes are the following:
+
+Game updates:
+— Another Massive Update arrives is the server today. The Nameless Island, Battlegrounds and WoE 2.0 are now a part of Ragnarok Online Prime.
+
+Event:
+— Keep your blade sharp as it is time to go out Poring Hunting. Event available until October 27th.
+
+Shop:
+— New Shadow Equipment are now being sold in the in-game shop for limited time. Grab yours before October 27th.
+— Invisible Costumes are another new addition to the in-game shop for those who prefer a minimalistic look.
+— The name "LiLN00b123" no longer represents who you are as player? Then hurry to grab a Change Name Card, as will only be available until October 27th.
+— Guild Master Change Coupons are now available for the GMs that are considering retiring from their leader positions. Don't forget to read the rules and limitations thoroughly.
+
+https://eu.4gameforum.com/threads/685147/
+Finished Activities:
+— The Mrs. Mew's Treasure was removed from the launcher and from the in-game shop.
+
+================
+13.10.2021 10:57
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Mrs. Mew's Treasure is here both individually and in packs to bring warm cuddles. Check our Launcher and the Shop.
+
+Event:
+— A new set of Daily Rewards has just been added to the game! Log in every day to claim you super special Jakk's Hat
+
+Finished activities:
+— The treasure hunt is over and X Marks the Spot was turned off.
+— The Fortune, Fate & Destiny sets were removed from the launcher.
+— The Rideword Hat Set was also removed from the launcher.
+
+https://eu.4gameforum.com/threads/685081/
+
+================
+06.10.2021 13:00
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— Put your eyepatch on, it is time to hunt treasures with The X Marks the Spot.
+
+Shop:
+— Revisit Past Treasures with the Fortune, Fate & Destiny sets. Available on the Launcher until October 13th
+— You can now buy on the launcher a special Rideword Hat Set. Available only until October 13th.
+
+
+Finished activities:
+— The Evil Thanatos Treasure was removed from the launcher and the Shop.
+— The Gift Pack was removed from that launcher.
+
+https://eu.4gameforum.com/threads/684964/
+
+14:41
+CM_Godfather
+Attention! 
+We will need to perform a short extra maintenance
+We will start it at 14:45 CEST and should last no longer than 30 minutes.
+Thanks for understanding.
+
+15:34
+CM_Godfather
+The server is open.
+Thank you for your patience 
+
+==========
+29.09.2021
+Imp
+The Maintenance is over and the update is up, changes are the following:
+Game updates:
+— Today the game've got Odin's Shrine, Thor's Volcano, Thanatos Tower & Cooking update. To know more about it, check the patch notes.
+
+Shop:
+— The Evil Thanatos Treasure arrived to the launcher and Kafra Shop individually and in packs.
+
+Gift:
+— To celebrate this update, we added a Gift Pack to the launcher. Don't miss it.
+
+Other changes:
+— NPC Mergician now packs five Transmutators of the same type in one exchangeable box.
+
+https://eu.4gameforum.com/threads/684841/
+
+Finished Activities:
+— The Win-Win Machine is turned off.
+
+================
+22.09.2021 13:12
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Win-Win Machine is here! You have until September 29th to take spins that will definitely grant you the win!
+Events:
+— A New Arena is now available. Face the dangers of the Ominous Treasury every Thursday.
+Finished activities:
+— The Technocracy Treasure and its sets were removed from the launcher.
+
+https://eu.4gameforum.com/threads/684712/
+
+================
+15.09.2021 11:23
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Technocracy Treasure is here both individually and in packs to Take you a new digital world. Check our Launcher and the Shop.
+
+Finished activities:
+— The Light & Fire Festival was a huge success but it finally came to an end.
+— The Refinement Sets were removed from the Launcher.
+— The Baptismal Cross were also removed so do not waste any time to grab yours.
+
+https://eu.4gameforum.com/threads/684652/
+
+================
+09.09.2021 11:17
+CM_Godfather
+Good morning!
+We have found a tiny issue we have to fix ASAP to avoid that it snowballs into a bigger issue. A brief maintenance maintenance will be performed on the server stating at 11:00 CEST.
+We will let you know once it is all done.
+
+13:04
+Baphomet
+The maintenance is over, the server is up.
+— Fixed work of Dragan's Shadow Gloves;
+— Changed description of Braised short ribs: SP consumption reduces by 3% instead of 5%.
+For the next 24 hours, the server will have 15% EXP Bonus active.
+Have a good game, everyone!
+
+================ 
+08.09.2021 13:35
+CM_Godfather
+The Maintenance is over and the update is up, changes are the following:
+Game updates:
+— Today we bring Rachel, Ice Cave, Veins & Godlike 1 to Ragnarok Online Prime. There is one special twist however, the first Godlike made in the server will not require the completion of the quest to be crafted.
+
+Event:
+— The festival Light & Fire is here. A week long of much fun & many activities.
+— A new Set of Daily Rewards has just started, with a Horse king as a final reward.
+
+Shop:
+— New Refinement Sets are here offering huge packs of materials. They are also 10% off in the in-game shop individually.
+
+Gift:
+— To celebrate this great update, we added a Gift to the launcher, make sure to grab your Baptismal Cross before 15th of September.
+
+Finished Activities:
+— The Sweet Treasure and its sets were removed from the launcher.
+
+https://eu.4gameforum.com/threads/684553/
+
+================
+01.09.2021 11:24
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Sweet Treasure is here both individually and in packs to Take through a wide range of sweet tastes. Check our Launcher and the Shop.
+
+Other:
+— Got useless Biscuits in your inventory? That is no longer a problem. Go to Biscuit Exchange and trade you spare biscuits for a tradable box.
+— WoE rules have been updated. Check the updated list of disallowed skills.
+
+
+https://eu.4gameforum.com/threads/684391/
+Finished activities:
+— The Refinement Sets were removed from the launcher.
+— The Rideword Hat was removed from the shop.
+
+================
+25.08.2021 13:04
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+https://eu.4gameforum.com/threads/684286/
+
+Events:
+— A new permanent event is here to stay. The Arena Chest Starts today!
+
+Shop:
+— We just brought you freshly baked new Refinement Sets. Check them out now as they will be available only until 01/09!
+— The In-Game Shop has been updated with new items, don't forget to browse through them!
+
+Other Changes:
+— Special Stat Biscuits are dead. My new best friend is Stackable regular Stat Biscuits! Check your Rodex Inbox, as your previous Special Stat Biscuits were deleted from you inventory and regular Stat Biscuits were sent to replace them!
+
+Finished activities:
+— The old Refinement Sets were removed from the launcher.
+— The Warlock Treasure and its sets were removed from the launcher.
+— The Refinement Rates were set back to standard
+— The Purple Biretta was removed from the launcher.
+
+==========
+18.08.2021
+CM_Godfather
+The Maintenance is over and the update is up, changes are the following:
+
+https://eu.4gameforum.com/threads/684046/
+
+Game updates:
+— Another Prime Update is here, this time bringing Hugel, Abyss Lake, Taekwon Kid, Star Gladiator & Soul Linker. Make sure to check the patch notes.
+
+Shop:
+— You asked and we heard. The Bravery Bag is now featured in our new Refinement Sets this week.
+— The Warlock Treasure is here both individually and in packs. Check our Launcher and the Shop.
+
+Event:
+— The Refinement Rates have been boosted. Improve now your gear!
+
+Gift:
+— To celebrate this great update, we added a Gift to the launcher, make sure to grab your Purple Biretta before 25th of August.
+
+Finished Activities:
+— The Hunting Season has come to an end.
+— The Hunting Packs were removed from the launcher.
+
+==========
+11.08.2021
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The Hunting Season is here. Grind through the achievements and get hunting rewards and titles.
+
+Shop:
+— Brand new Hunting Packs are now available in the launcher. Do not waste any time for they will be available only until 18th of August.
+— The In-Game Shop has been updated with new items, don't forget to browse through them!
+
+Finished activities:
+— The Atlantis Treasure was removed from the launcher and the Shop.
+
+https://eu.4gameforum.com/threads/683950/
+
+================
+04.08.2021 11:36
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Atlantis Treasure is here both individually and in packs to Bestow you with power from the gods. Check our Launcher and the Shop.
+
+Finished activities:
+— The Sea Hunt is over. Congratulations to all Sea Legends.
+— The Refinement Sets were removed from the launcher.
+— The Refinement Rates were set back to standard.
+
+https://eu.4gameforum.com/threads/683839/
+
+==========
+30.07.2021
+Baphomet
+Hello, everyone!
+We weill have a short maintenance on Prime server starting at 20:30 CEST.
+We will announce when works are done.
+
+Baphomet
+The maintenance is over, the server is up. 
+For the next 24 hours, the server will have 30% EXP Bonus active. Have a good game, everyone!
+
+================
+28.07.2021 12:04
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Events:
+— The Sea Hunt is here. Grind through the achievements and get sea rewards and titles.
+— The Refinement Rates are boosted! It is time to hit the forge!
+— New Attendance Rewards were added to the game with a new costume as a last day reward.
+
+Shop:
+— Brand new Refinement Sets are now available in the launcher. Do not waste any time for they will be available only until 4th of August.
+— The In-Game Shop has been updated with new items, don't forget to browse through them!
+
+Finished activities:
+— The Clockwork Treasure was be removed from the shop and from Launcher;
+— WoE packs are no longer available;
+— The Holiday Horns were removed from the launcher.
+
+https://eu.4gameforum.com/threads/683698/
+
+CM_Godfather — 17:13
+We will have a short maintenance on Prime starting at 16:30 CEST.
+When works are don we will announce it.
+
+CM_Godfather — 17:55
+The server is open :man_running: :person_running: :woman_running: 
+The Swift Shellfish has been added to cmd_fild07
+
+================
+21.07.2021 13:54
+CM_Godfather
+The Maintenance is over and the update is up, changes are the following:
+
+Game updates:
+— Prime's first update is here bringing Einbroch, Einbech, Ninjas, Gunslingers & Woe. Make sure to check the patch notes.
+
+Shop:
+— The Clockwork Treasure is here both individually and in packs. Check our Launcher and the Shop.
+— WoE packs are now available on the Launcher to help you make a difference for your guild.
+— The Cash shop was updated and now features amazing new items.
+
+Gift:
+— To celebrate one month of Prime, we added a Gift to the launcher, make sure to grab your Holiday Horns before 28th of July.
+
+Finished Activities:
+— The Refinement Sets were removed from the launcher.
+
+https://eu.4gameforum.com/threads/683629/
+Note: All castles now owned by a GM guild and no one will have access to it before tonight's WoE.
+
+==========
+15.07.2021
+CM_Godfather
+Hi all. We are having a short maintenance. 
+We will announce it when it is over.
+
+CM_Godfather
+There you go. The maintenance is over.
+We did some work to prevent future crashes of zone servers.
+
+We hope you have a great time!
+
+================
+14.07.2021 11:45
+CM_Godfather
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— Refinement Sets are here and will be available until July 21st.
+— New Items were added to the shop. Make sure to check our Shop Update.
+
+Finished activities:
+— The Saintly Treasure and its sets are longer be available in 4game launcher and Kafra shop.
+
+Fixes and Other Changes:
+— NPCs now sell Pet Food for Nine Tails.
+— An issue with the spawn of Mobs in the Robot Factory.
+
+Extra:
+— Wanna know your chances of refinement? CHECK NOW our Refinement Rates.
+
+https://eu.4gameforum.com/threads/683482/
+
+================
+07.07.2021 12:03
+CM_Godfather
+Guys, we are going to need a bit more time than initially planned. We hope that one more hour should be enough to prepare everything and get the server up and running better than ever!
+
+CM_Godfather 12:51
+The maintenance is over, the server is online. Changelog:
+
+Shop:
+— The Saintly Treasure is here both individually and in packs to Bestow you with power from the gods. Check our Launcher and the Shop.
+
+Finished activities:
+—The XP Packs were removed from the launcher.
+
+Fixes and changes:
+— Some localization errors were corrected.
+— If you experienced connection issues while doing the Assassin Quest, you now can try to do it again.
+
+https://eu.4gameforum.com/threads/683308/
+
+================
+01.07.2021 11:39
+Imp
+The maintenance is over, the server is online. Changelog:
+
+https://eu.4gameforum.com/threads/683188/
+
+Shop:
+— The Kafra shop range is updated. New useful decorative equipment is now available. Check it;
+— The XP Packs have been added to 4game launcher: useful consumables at a discounted price are available until 07.07
+
+Finished activities:
+— The Summertime Treasure and its sets are removed from the launcher and Kafra shop;
+— The Emperium Box is no longer be available in Kafra shop.
+
+Fixes:
+— Poring Hotpot can be stored now;
+— added the possibility to restart the Assassin job change quest after the disconnect;
+— added missing skill descriptions for some skills;
+— corrected monster spawn during the Wizard job change quest;
+— Izlude minimap navigation is fixed.
+
+================
+25.06.2021 14:05
+Imp
+We need to close for a short maintenance to fix a few little but important things. 
+The maintenance will start at 13.15 CEST and take around 30 minutes.
+As soon as the server opens, it will be announced.
+
+14:55
+Imp:
+The maintenance on Prime is over!
+
+— Rebirth fees requirements have been fixed;
+— Fixed the work of Poring Hotpot. If you have already used it, please, contact our Support team with details;
+— Baked Mushrooms weight less now;
+— Minor localization fixes have been made.
+
+================
+24.06.2021 15:16
+Imp
+We need a bit more time for the last preparations to make sure that everything is properly set and ready.
+The opening delays for approximately 15 minutes from the current moment.
+
+16:11
+Imp
+Great news, friends — Ragnarok Online Prime has just opened to everyone!
+For more info on what's waiting for you, go here: https://eu.4gameforum.com/threads/683038/
+Welcome to the game!
+
+================
+09.06.2021 12:32
+CM_Godfather
+We just uploaded one extra client patch after the maintenance one. This one fixes the inventory window and the possibility to resize it.
+
+==========
+03.06.2021
+CM_Godfather
+It is finally here, the time has come for the Closed Beta Test of Ragnarok Online Prime!
+The server is now open for all players that purchased pre-order packs to test out all the new features of Prime and help us understand what necessary adjustments must be made before the official opening of the game.
+
+Want to participate too? You still have time to buy our pre-order packs to play our CBT and get a bunch of items including exclusive costumes! Check https://eu.4game.com/roprime/preorders/
