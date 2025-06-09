@@ -38697,7 +38697,6 @@ tbl = {
 		identifiedDisplayName = "Bravery Bag",
 		identifiedResourceName = "Иь»ц",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A backpack befitting of any hero.",
 			"^777777-------------^000000",
 			"Enables the use of level 1[Greed]",
@@ -45301,33 +45300,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[2881] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "ёµ",
-		unidentifiedDescriptionName = {
-			"a necklace for implmenting best of royal palace food.",
-			"DEX + 2, MATK + 20.",
-			"when used with Orleans globe, can have MATK + 20, with Orleans uniform , can have stat casting 15% decrese, when with Orleans server, can have MATK + 2 increse for shield 1",
-			"Class: ^777777Accessory^000000 Def: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level : ^7777770^000000",
-			"Jobs: ^777777All^000000"
-		},
-		identifiedDisplayName = "Orleans Necklace",
-		identifiedResourceName = "іЧЕ¬ё®Ѕє",
-		identifiedDescriptionName = {
-			"a necklace for implmenting best of royal palace food.",
-			"DEX + 2, MATK + 20.",
-			"when used with Orleans globe, can have MATK + 20, with Orleans uniform , can have stat casting 15% decrese, when with Orleans server, can have MATK + 2 increse for shield 1",
-			"Class: ^777777Accessory^000000 Def: ^7777770^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^7777770^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[2883] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "ёµ",
@@ -47058,10 +47030,7 @@ tbl = {
 		identifiedResourceName = "ёІґТАЗАе°©",
 		identifiedDescriptionName = {
 			"Gloves made from the skin of the boar Saehrimnir, whose flesh is replenished no matter how much is stripped away.",
-			"Class: ^808080Accessory^000000",
-			"Weight: ^80808010^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
+			"^777777-------------^000000",
 			"Increases the experience given from all monsters by 5%.",
 			"Increases damage taken from all monsters by 5%.",
 			"^800080Set Bonus^000000",
@@ -47122,7 +47091,12 @@ tbl = {
 			"^008080Saehrimnir Gloves[1]^000000",
 			"^008080Am Mut Card^000000",
 			"Increases the experience given from Demi-Human race monsters by 5%.",
-			"Increases damage taken from Demi-Human race enemies by 10%."
+			"Increases damage taken from Demi-Human race enemies by 10%.",
+			"^777777-------------^000000",
+			"Class: ^808080Accessory^000000",
+			"Weight: ^80808010^000000",
+			"Requires Level: ^80808030^000000",
+			"Usable By: ^808080All Jobs^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -72841,7 +72815,6 @@ tbl = {
 		identifiedDisplayName = "Rideword Hat",
 		identifiedResourceName = "¶уАМµеїцµе",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A hat designed to mimic the look of a terrible magic book which attacks people.",
 			"^777777-------------^000000",
 			"When physically attacking, there is a chance to recover 8% of your damage as HP.",
@@ -74753,7 +74726,6 @@ tbl = {
 		identifiedDisplayName = "Peco Peco Hairband",
 		identifiedResourceName = "ЖдДЪЖдДЪёУё®¶м",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A hairband with Peco Peco wings that makes you as fast as a Peco Peco.",
 			"Increases Movement Speed +100%",
 			"ASPD +10%",
@@ -75146,7 +75118,6 @@ tbl = {
 		identifiedDisplayName = "Pirate Dagger",
 		identifiedResourceName = "ЗШАыАЗґл°Е",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A small silver dagger that is held between your teeth to allow free use of your hands.",
 			"Atk +5",
 			"Class: ^777777Headgear^000000",
@@ -75296,7 +75267,6 @@ tbl = {
 		identifiedDisplayName = "Observer",
 		identifiedResourceName = "їЙАъ№ц",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An unknown technical device. If you wear it, you will look like a robot.",
 			"Enables Lv.1 Sense.",
 			"Class: ^777777Headgear^000000",
@@ -76071,13 +76041,9 @@ tbl = {
 		identifiedDisplayName = "Peco Peco Wing Ears",
 		identifiedResourceName = "ЖдДЪЖдДЪіЇ°і±Н",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An accessory made from Peco Peco feathers. Don't worry, no Peco Peco was harmed.",
 			"Agi +1",
 			"Mdef +2",
-			"[If used with Darkness Helm]",
-			"Agi +1",
-			"FLEE + 3",
 			"Class: ^777777Headgear^000000",
 			"Location: ^777777Middle^000000",
 			"Defense: ^7777772^000000",
@@ -76099,11 +76065,18 @@ tbl = {
 		identifiedDisplayName = "Ship Captain Hat",
 		identifiedResourceName = "ј±АеёрАЪ",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A hat that is usually worn by strange antlered captains of the airships that cross Rune Midgard.",
+			"^777777-------------^000000",
 			"Dex +1",
 			"Max HP +100",
 			"Ranged damage +7%",
+			" ",
+			"[Set Bonus]",
+			"<ITEM>Ship Captain Hat<INFO>5359</INFO></ITEM>",
+			"<ITEM>Clown Nose<INFO>2262</INFO></ITEM>",
+			"Max HP + 100.",
+			"Long-range physical damage +7%.",
+			"^777777-------------^000000",
 			"Class: ^777777Headgear^000000",
 			"Location: ^777777Upper^000000",
 			"Defense: ^7777777^000000",
@@ -76746,7 +76719,6 @@ tbl = {
 		identifiedDisplayName = "Angel Mask",
 		identifiedResourceName = "Гµ»зАЗАЇ·Й",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Gorgeous golden mask that belonged to a powerful ancient goddess.",
 			"HIT +15",
 			"STR +2",
@@ -76977,13 +76949,11 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "±Ы·ЎЅє",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Dark-framed Glasses",
 		identifiedResourceName = "°ЛАє»ФЕЧѕИ°ж",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Glasses in dark-colored frame. Very fashionable.",
 			"Int +1",
 			"Mdef +2",
@@ -77029,7 +76999,6 @@ tbl = {
 		identifiedDisplayName = "Fish in Mouth",
 		identifiedResourceName = "АФїЎ№®№°°н±в",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A fishers' talisman shaped like... well, fish. It is said to bring good luck.",
 			"A chance of obtaining Fresh Fish when killing monsters",
 			"Fresh Fish restores 25% more HP.",
@@ -78027,13 +77996,11 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "ґлёш№ЪИщЅєД«ЗБ",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Spiked Mask",
 		identifiedResourceName = "ґлёш№ЪИщЅєД«ЗБ",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A scary-looking mask decorated with thorns.",
 			"^777777-------------^000000",
 			"ATK +30.",
@@ -78059,7 +78026,6 @@ tbl = {
 		identifiedDisplayName = "Rainbow Scarf",
 		identifiedResourceName = "№«Бц°іЅєД«ЗБ",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A scarf painted with all colors of the rainbow.",
 			"Int +1",
 			"Mdef +2",
@@ -78199,13 +78165,11 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Eye of Darkness",
 		identifiedResourceName = "ґЩЕ©ґПЅєѕЖАМБо",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A headdress with an eye painted on it. It looks very creepy.",
 			"Dex +1",
 			"Immune to Blind",
@@ -80182,13 +80146,11 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Crown of Deceit",
 		identifiedResourceName = "»з±вАЗїХ°ь",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A beautiful crown imbued with dark magic.",
 			"INT +4",
 			"MDEF +10",
@@ -80638,7 +80600,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"A magnificent crown created to pay tribute to the 5th sign of the zodiac, Leo the Lion.",
 			"Attached to the crown is a Peridot gemstone, the birthstone for those born under this sign.",
-			"Can be obtained via Arena Coins during 6th PvP season.",
 			"Str +2",
 			"Increase Resistance to Fire Property by 5%.",
 			"[If refine level is +7 or higher]",
@@ -80716,13 +80677,11 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "±Ы·ЎЅє",
 		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Sigrun's Wings",
 		identifiedResourceName = "»зАМ±Ч·йАЗіЇ°і",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Valkyrie Sigrun's Wings.",
 			"[When used by Swordsman, Merchant, Thief, Taekwon and Star Gladiator]",
 			"ASPD +1",
@@ -81988,27 +81947,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 349,
-		costume = false
-	},
-	[5641] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "±Ы·ЎЅє",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Robo Eye",
-		identifiedResourceName = "·ОєёѕЖАМ",
-		identifiedDescriptionName = {
-			"A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.",
-			"ATK, MATK + 2%, Dex + 1",
-			"Class: ^777777Headgear^000000  Defense: ^7777771^000000",
-			"Location: ^777777Middle^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^77777710^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
 		costume = false
 	},
 	[5642] = {
@@ -161826,29 +161764,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[15165] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Pure White Marching Hat",
-		identifiedResourceName = "PureWhite_Marching_Hat",
-		identifiedDescriptionName = {
-			"Class: ^808080Headgear^000000",
-			"Position: ^808080Upper^000000",
-			"Defense: ^8080800^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808060^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Str + 2",
-			"When performing a physical attack, adds a chance of endowing the users weapon with Ghost property for 60 seconds.",
-			"Adds an additional chance to endow the weapon per upgrade level of ^008080Pure White Marching Hat^000000."
-		},
-		slotCount = 1,
-		ClassNum = 1470,
-		costume = false
-	},
 	[15166] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "ё¶ЅєЕ©",
@@ -177669,7 +177584,6 @@ tbl = {
 		identifiedDisplayName = "Umbala Spirit Bone",
 		identifiedResourceName = "їт№Я¶уАЗИҐ",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A ritual decoration used by the people of the Umbala tribe.",
 			"They say that the ancestors spirits settle in such bones and then speak with their descendants. This is so creepy.",
 			"Max HP +1%",
@@ -178294,7 +178208,6 @@ tbl = {
 		identifiedDisplayName = "Skull Cap",
 		identifiedResourceName = "ЅєДГДё",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A driver's cap with a menacing skull on the band.",
 			"MATK +2%",
 			"[If refined to +5 or higher]",
@@ -184248,7 +184161,6 @@ tbl = {
 		identifiedDisplayName = "Small Poring Band",
 		identifiedResourceName = "ЅєёфЖчёµёУё®¶м",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Three small porings right on your head. Too cute to be true!",
 			"Exp +3% when killing monsters.",
 			"[For every 3 refine levels]",
@@ -185299,7 +185211,6 @@ tbl = {
 		identifiedDisplayName = "UFO Poring Hat",
 		identifiedResourceName = "ufoЖчёµёрАЪ",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Take me to your (guild) leader! This hovering sombrero will make you feel like you're visiting strange new worlds!",
 			"MDEF +5, CRIT +5%, FLEE +5, HIT +5, Perfect Flee +5",
 			"[If refined to 7 or higher]",
@@ -188412,41 +188323,6 @@ tbl = {
 		ClassNum = 1552,
 		costume = false
 	},
-	[19171] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Magician Knit Hat",
-		identifiedResourceName = "єн·ўЅєїюЕНёрАЪ",
-		identifiedDescriptionName = {
-			"A knit hat worn by a great magician. It contains fibers that has an absolute effect on the undead.\n",
-			"Class: ^808080Headgear^000000",
-			"Position: ^808080Upper^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^80808050^000000",
-			"Requires Level: ^80808010^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 10",
-			"Increases physical and magical damage on Undead race targets by 5%.",
-			"Reduces damage taken from Undead race enemies by 2%.",
-			"Restores 5 SP to the user when a monster is killed by a physical or magical attack.",
-			"If upgrade level is +7 or higher,",
-			"Additional Mdef + 5",
-			"Increases physical and magical damage on Undead race targets by an additional 10%.",
-			"Reduces damage taken from Undead race enemies by an additional 3%.",
-			"Restores an additional 10 SP to the user when a monster is killed by a physical or magical attack.",
-			"If upgrade level is +9 or higher,",
-			"Additional Mdef + 5",
-			"Increases physical and magical damage on Undead race targets by an additional 10%.",
-			"Reduces damage taken from Undead race enemies by an additional 5%.",
-			"Restores an additional 10 SP to the user when a monster is killed by a physical or magical attack."
-		},
-		slotCount = 1,
-		ClassNum = 854,
-		costume = false
-	},
 	[19208] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "±ј¶уёёbox",
@@ -188456,7 +188332,6 @@ tbl = {
 		identifiedDisplayName = "Snake Head Hat",
 		identifiedResourceName = "±ј¶уёёbox",
 		identifiedDescriptionName = {
-			"^ff0000Account bound^000000",
 			"This cute snake will keep you company as you wander around on your adventures.",
 			"Enables Double Attack 5",
 			"^000088Animated^000000",
@@ -188582,7 +188457,6 @@ tbl = {
 		identifiedDisplayName = "Golden Angel Hairband",
 		identifiedResourceName = "ѕЖ№цБц»з¶ы2013",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A hairband adorned with what appears to be the wings of a shining angel.",
 			"^777777-------------^000000",
 			"MDEF +5",
@@ -188772,18 +188646,22 @@ tbl = {
 		identifiedDisplayName = "Diabolic Halo",
 		identifiedResourceName = "Spell_Circuit",
 		identifiedDescriptionName = {
+			"^ff0000Animated^000000",
 			"Ha, you say that only angels have halos?",
 			"And who was Lucifer before his Fall, in your opinion?",
 			"^777777-------------^000000",
-			"^ff0000Animated^000000",
 			"^264696[For each 2 refine lv]^000000",
 			"MATK +15.",
+			" ",
 			"^3caa3c[If refine lv +7 or higher]^000000",
 			"Variable casting time -10%.",
+			" ",
 			"^6A5ACD[If refine lv is 9 or higher]^000000",
 			"Property magic damage Neutral and Dark +10%.",
+			" ",
 			"^6A5ACD[If refine lv is 11 or higher]^000000",
 			"Property magic damage Water, Wind, Fire and Earth +10%.",
+			" ",
 			"^6A5ACD[For each refine lv above 10]^000000",
 			"Fixed casting time -0.1 second (up to 15).",
 			"^777777-------------^000000",
@@ -191690,7 +191568,7 @@ tbl = {
 			"Location: ^777777Upper^000000",
 			"Defense: ^7777770^000000",
 			"Weight: ^7777770^000000",
-			"Required Level: ^77777720^000000",
+			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
 		},
 		slotCount = 0,
@@ -205930,7 +205808,6 @@ tbl = {
 		identifiedDisplayName = "Golden Angel Wing",
 		identifiedResourceName = "ѕЖ№цБц»з¶ыіЇ°і2012",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A pair of wings of a shining angel.",
 			"^777777-------------^000000",
 			"MDEF +10",
@@ -206269,9 +206146,9 @@ tbl = {
 			"If refine rate is 11 or higher, reduces delay after skill by 4%.",
 			"When equipped with Magic Neuromodulator, reduces variable casting time by 30%.",
 			"When equipped with Crimson Booster, increases long ranged physical damage by 14%.",
-			"When equipped with Sigrun's Wing or Sigrun's Wing[1], increases critical damage by 14%.",
+			"When equipped with Sigrun's Wings or Sigrun's Wings[1], increases critical damage by 14%.",
 			"When equipped with Dark Blinder or Dark Blinder[1], reduces delay after skill by 6%.",
-			"Note: Sigrun's Wing [1], Dark Blinder [1], Magical Booster and Crimson Booster are not implemented but the set bonuses with these items will start working when they are added",
+			"Note: Sigrun's Wings [1], Dark Blinder [1], Magical Booster and Crimson Booster are not implemented but the set bonuses with these items will start working when they are added",
 			"Class : ^777777Garment^000000",
 			"Defense : ^7777770^000000",
 			"Weight : ^77777710^000000",
@@ -207558,29 +207435,6 @@ tbl = {
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777160^000000",
 			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22042] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Talaria Shoes",
-		identifiedResourceName = "Е»¶уё®ѕЖЅЕ№Я",
-		identifiedDescriptionName = {
-			"^808080The legendary shoes Hermes gave to Perseus when he went to fight Medusa.^000000",
-			"Class: Shoes",
-			"Defense: 15",
-			"Weight: 30",
-			"Required Level: 50",
-			"Required Jobs: All Jobs",
-			"Agi + 2",
-			"Mdef + 5",
-			"Aspd + 1"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -209092,41 +208946,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22138] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Devil Worshipper Shoes",
-		identifiedResourceName = "Demonist_Shoes",
-		identifiedDescriptionName = {
-			"^808080Shoes made by a worshipper of Baphomet with magical powers.^000000",
-			"Class: Shoes",
-			"Defense: 15",
-			"Weight: 50",
-			"Required Level: 100",
-			"Required Jobs: All Jobs",
-			"Mdef + 15",
-			"Max HP + 3%",
-			"Max SP + 3%",
-			"Matk + 2%",
-			"Increases the damage of Neutral and Fire property magical attacks on targets by 2%.",
-			"If upgrade level is +5 or higher,",
-			"Additional Max HP + 7%",
-			"Additional Max SP + 7%",
-			"Additional Matk + 3%",
-			"Increases the damage of Neutral and Fire property magical attacks on targets by an additional 3%.",
-			"If upgrade level is +7 or higher,",
-			"Additional Max HP + 10%",
-			"Additional Max SP + 10%",
-			"Additional Matk + 5%",
-			"Increases the damage of Neutral and Fire property magical attacks on targets by an additional 5%."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[22141] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "»чµй",
@@ -209759,29 +209578,6 @@ tbl = {
 			"^ff0000Account Bound.^000000",
 			"^ff0000Cannot be traded.^000000\nA potion which increases the moving speed of a character for a set duration.\n^ffffff_^000000\nWeight : ^77777710^000000\n",
 			"Weight: ^8080800^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22546] = {
-		unidentifiedDisplayName = "Hode Speed Potion",
-		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Hode Speed Potion",
-		identifiedResourceName = "??????",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Possibly one of the reasons for Hodes' aggressiveness. Requires further study.",
-			"^777777-------------^000000",
-			"Potion that increases character movement speed. Effect disappears when changing locations.",
-			"Duration: 50 sec.",
-			" ",
-			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -215005,30 +214801,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 43,
-		costume = false
-	},
-	[23733] = {
-		unidentifiedDisplayName = "Hode Essence",
-		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Hode Essence",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Hode Essence, how did you manage to get this?",
-			"^777777-------------^000000",
-			"^0000ffPhysical/Magic Damage +20",
-			"Accuracy +30",
-			"Flee +30",
-			"Duration: 5 min.^000000",
-			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
 		costume = false
 	},
 	[23734] = {
@@ -229001,6 +228773,7 @@ tbl = {
 		identifiedResourceName = "±вё°АЗ»Ф",
 		identifiedDescriptionName = {
 			"The horn of the legendary beast.",
+			"^777777-------------^000000",
 			"Agi + 2",
 			"Aspd + 2%",
 			"Enables ^0000FFLevel 6 Increase Agility^000000.",
@@ -229020,6 +228793,7 @@ tbl = {
 			"^008080Kirin Horn[1]^000000",
 			"Aspd + 1",
 			"Reduces damage taken from Demi-Human, Brute, Fish, Demon, and Undead race enemies by 1%.",
+			"^777777-------------^000000",
 			"Class: ^808080Accessory^000000",
 			"Weight: ^80808050^000000",
 			"Requires Level: ^80808050^000000",
@@ -229105,32 +228879,38 @@ tbl = {
 			"MATK +5%.",
 			"^777777-------------^000000",
 			"^800080[Darklord Force Set]^000000",
-			"^008080Darklord Essence Force 1 / 2 / 3^000000",
+			"<ITEM>Darklord Force<INFO>4908</INFO></ITEM>",
+			"<ITEM>Essence 1<INFO>4908</INFO></ITEM> / <ITEM>2<INFO>4909</INFO></ITEM> / <ITEM>3<INFO>4910</INFO></ITEM>",
 			"<ITEM>Demon God's Ring<INFO>28505</INFO></ITEM>",
 			"ATK +5%.",
 			"^777777-------------^000000",
 			"^800080[Darklord Intelligence Set]^000000",
-			"^008080Darklord Essence Intelligence 1 / 2 / 3^000000",
+			"<ITEM>Darklord Intelligence<INFO>4911</INFO></ITEM>",
+			"<ITEM>Essence 1<INFO>4911</INFO></ITEM> / <ITEM>2<INFO>4912</INFO></ITEM> / <ITEM>3<INFO>4913</INFO></ITEM>",
 			"<ITEM>Demon God's Ring<INFO>28505</INFO></ITEM>",
 			"MATK +5%.",
 			"^777777-------------^000000",
 			"^800080[Darklord Speed Set]^000000",
-			"^008080Darklord Essence Speed 1 / 2 / 3^000000",
+			"<ITEM>Darklord Speed<INFO>4914</INFO></ITEM>",
+			"<ITEM>Essence 1<INFO>4914</INFO></ITEM> / <ITEM>2<INFO>4915</INFO></ITEM> / <ITEM>3<INFO>4916</INFO></ITEM>",
 			"<ITEM>Demon God's Ring<INFO>28505</INFO></ITEM>",
 			"ASPD +5%.",
 			"^777777-------------^000000",
 			"^800080[Darklord Vitality Set]^000000",
-			"^008080Darklord Essence Vitality 1 / 2 / 3^000000",
+			"<ITEM>Darklord Vitality<INFO>4917</INFO></ITEM>",
+			"<ITEM>Essence 1<INFO>4917</INFO></ITEM> / <ITEM>2<INFO>4918</INFO></ITEM> / <ITEM>3<INFO>4919</INFO></ITEM>",
 			"<ITEM>Demon God's Ring<INFO>28505</INFO></ITEM>",
 			"Max HP +5%.",
 			"^777777-------------^000000",
 			"^800080[Darklord Concentration Set]^000000",
-			"^008080Darklord Essence Concentration 1 / 2 / 3^000000",
+			"<ITEM>Darklord Concentration<INFO>4920</INFO></ITEM>",
+			"<ITEM>Essence 1<INFO>4920</INFO></ITEM> / <ITEM>2<INFO>4921</INFO></ITEM> / <ITEM>3<INFO>4922</INFO></ITEM>",
 			"<ITEM>Demon God's Ring<INFO>28505</INFO></ITEM>",
 			"Variable casting time -5%.",
 			"^777777-------------^000000",
 			"^800080[Darklord Luck Set]^000000",
-			"^008080Darklord Essence Luck 1 / 2 / 3^000000",
+			"<ITEM>Darklord Luck<INFO>4923</INFO></ITEM>",
+			"<ITEM>Essence 1<INFO>4923</INFO></ITEM> / <ITEM>2<INFO>4924</INFO></ITEM> / <ITEM>3<INFO>4925</INFO></ITEM>",
 			"<ITEM>Demon God's Ring<INFO>28505</INFO></ITEM>",
 			"Critical damage +5%.",
 			"^777777-------------^000000",
@@ -230549,7 +230329,7 @@ tbl = {
 		identifiedDisplayName = "Mad Bunny Shield",
 		identifiedResourceName = "ёЕµе№ЩґП",
 		identifiedDescriptionName = {
-			"^808080A well crafted shield\nwhich most kinds of^FFFFFF   ^000000\", \n \t\"Attack cannot penetrate.\nClass : ^777777Shield^000000\nDefense : ^77777760^000000\nWeight : ^777777130^000000\nJobs: ^777777Swordman Class^000000\n^000000",
+			"^808080A well crafted shield\nwhich most kinds of^FFFFFF   ^000000\", \n   \"Attack cannot penetrate.\nClass : ^777777Shield^000000\nDefense : ^77777760^000000\nWeight : ^777777130^000000\nJobs: ^777777Swordman Class^000000\n^000000",
 			"Attack: 0",
 			"Weight: 0",
 			"Weapon Level: 0"
@@ -238981,26 +238761,6 @@ tbl = {
 		ClassNum = 848,
 		costume = true
 	},
-	[31696] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Shark Hat",
-		identifiedResourceName = "»уѕоёрАЪ",
-		identifiedDescriptionName = {
-			"Sharks are amazingly gentle creatures if you stay away from their food supply.",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000",
-			"Requires Level: ^8080801^000000",
-			"Usable By: ^808080All Jobs^000000"
-		},
-		slotCount = 0,
-		ClassNum = 503,
-		costume = true
-	},
 	[31697] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Дё",
@@ -239375,25 +239135,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1768,
-		costume = true
-	},
-	[31785] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Monster Fish Gills",
-		identifiedResourceName = "±«ѕоАЗѕЖ°Ў№М",
-		identifiedDescriptionName = {
-			"Gills of a black and red monster fish.",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Middle^000000",
-			"Weight: ^8080800^000000",
-			"Usable By: ^808080All Jobs^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1218,
 		costume = true
 	},
 	[31786] = {
@@ -240524,62 +240265,6 @@ tbl = {
 			"Aspd + 5%",
 			"Reduces damage taken from Demi-Human race enemies by 3%.",
 			"Reduces damage taken from Fire, Water, Wind and Earth property attacks by 5%."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[32222] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "ёµ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Brooch of Hero",
-		identifiedResourceName = "Brooch_Of_Hero",
-		identifiedDescriptionName = {
-			"A brooch given to those who defeated Satan Morroc.",
-			"Class: ^808080Accessory^000000",
-			"Weight: ^80808040^000000",
-			"Requires Level: ^808080100^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Atk + 5%",
-			"Matk + 5%",
-			" ",
-			"^F4AD42Rune Knight Bonus^000000 & ^F4AD42Royal Guard Bonus^000000",
-			"Max HP + 10%",
-			"Increases physical damage on all race targets by 5%.",
-			" ",
-			"^F4AD42Archbishop Bonus^000000 & ^F4AD42Sura Bonus^000000",
-			"Aspd + 10%",
-			"Increases physical damage on all race targets by 5%.",
-			" ",
-			"^F4AD42Mechanic Bonus^000000 & ^F4AD42Geneticist Bonus^000000",
-			"Reduces the SP cost of skills by 10%.",
-			"Increases physical damage on all race targets by 5%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Brooch of Hero[1]^000000",
-			"^008080Hero Judgement Shawl[1]^000000",
-			"Disables the following effect of ^008080Hero Judgement Shawl[1]^000000, chance of casting ^0000FFLevel 10 Kyrie Eleison^000000.",
-			"Increases the damage of ^0000FFJudex^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFAdoramus^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFSky Blow^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFDragon Combo^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFEarth Shaker ^000000 by 5% per upgrade level of the armor.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Brooch of Hero[1]^000000",
-			"^008080Hero Trade Mail[1]^000000",
-			"All Stats + 2 per upgrade level of the armor.",
-			"Adds an additional chance of inflicting ^800000Stun^000000, ^800000Silence^000000, ^800000Curse^000000, and ^800000Poison^000000 per upgrade level of the armor on the target when performing a physical attack.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Brooch of Hero[1]^000000",
-			"^008080Hero Plate[1]^000000",
-			"Disables the following effects of ^008080Hero Plate[1]^000000, chance of casting ^0000FFLevel 10 Heal^000000 and ^0000FFLevel 10 Storm Gust^000000.",
-			"Increases the damage of ^0000FFStorm Blast^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFVanishing Point^000000 by 5% per upgrade level of the armor."
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -244345,27 +244030,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 97,
-		costume = true
-	},
-	[480107] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
-		identifiedDisplayName = "Costume Hunter's Twin Swords",
-		identifiedResourceName = "C_Kings_Twin_Sword",
-		identifiedDescriptionName = {
-			"The golden one is for those who burn in the daylight.",
-			"The silver one is for those who hunt on a moonlit night.",
-			"^777777-------------^000000",
-			"Class: ^777777Equipment^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Garment^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 104,
 		costume = true
 	},
 	[480108] = {
@@ -259819,7 +259483,6 @@ tbl = {
 		identifiedDisplayName = "Shell Fragment",
 		identifiedResourceName = "±ъБшµоІ®Бъ",
 		identifiedDescriptionName = {
-			"^ff0000Account bound^000000",
 			"A piece of a turtle shell from the Turtle Island. A tree leaf has been clumsily carved into it. Looks very amateurish.",
 			"Weight: ^7777770^000000"
 		},
@@ -278303,7 +277966,7 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
-		identifiedDisplayName = "Spiritual Cloth\t",
+		identifiedDisplayName = "Spiritual Cloth  ",
 		identifiedResourceName = "Spiritual_Cloth",
 		identifiedDescriptionName = {
 			"Woven with the power of spirits Rare Claus. Good at protecting yourself from a spiritual attack.",
@@ -281268,6 +280931,53 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[22546] = {
+		unidentifiedDisplayName = "Hode Speed Potion",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Hode Speed Potion",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Possibly one of the reasons for Hodes' aggressiveness. Requires further study.",
+			"^777777-------------^000000",
+			"Potion that increases character movement speed. Effect disappears when changing locations.",
+			"Duration: 50 sec.",
+			" ",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23733] = {
+		unidentifiedDisplayName = "Hode Essence",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Hode Essence",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Hode Essence, how did you manage to get this?",
+			"^777777-------------^000000",
+			"^0000ffPhysical/Magic Damage +20",
+			"Accuracy +30",
+			"Flee +30",
+			"Duration: 5 min.^000000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[12228] = {
 		unidentifiedDisplayName = "Enhanced Merchant Envelope (1 d.)",
 		unidentifiedResourceName = "Vend_Arbeit1_2Lv",
@@ -281496,6 +281206,468 @@ tbl = {
 			"Jobs: ^777777All^000000"
 		},
 		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480107] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Hunter's Twin Swords",
+		identifiedResourceName = "C_Kings_Twin_Sword",
+		identifiedDescriptionName = {
+			"The golden one is for those who burn in the daylight.",
+			"The silver one is for those who hunt on a moonlit night.",
+			"^777777-------------^000000",
+			"Class: ^777777Equipment^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = true
+	},
+	[19171] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "Дё",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Magician Knit Hat",
+		identifiedResourceName = "єн·ўЅєїюЕНёрАЪ",
+		identifiedDescriptionName = {
+			"A knit hat worn by a great magician. It contains fibers that has an absolute effect on the undead.",
+			"^777777-------------^000000",
+			"Mdef + 10",
+			"Increases physical and magical damage on Undead race targets by 5%.",
+			"Reduces damage taken from Undead race enemies by 2%.",
+			"Restores 5 SP to the user when a monster is killed by a physical or magical attack.",
+			"If upgrade level is +7 or higher,",
+			"Additional Mdef + 5",
+			"Increases physical and magical damage on Undead race targets by an additional 10%.",
+			"Reduces damage taken from Undead race enemies by an additional 3%.",
+			"Restores an additional 10 SP to the user when a monster is killed by a physical or magical attack.",
+			"If upgrade level is +9 or higher,",
+			"Additional Mdef + 5",
+			"Increases physical and magical damage on Undead race targets by an additional 10%.",
+			"Reduces damage taken from Undead race enemies by an additional 5%.",
+			"Restores an additional 10 SP to the user when a monster is killed by a physical or magical attack.",
+			"^777777-------------^000000",
+			"Class: ^808080Headgear^000000",
+			"Location: ^808080Upper^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^80808050^000000",
+			"Requires Level: ^80808010^000000",
+			"Usable By: ^808080All Jobs^000000"
+		},
+		slotCount = 1,
+		ClassNum = 854,
+		costume = false
+	},
+	[15165] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "Дё",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Pure White Marching Hat",
+		identifiedResourceName = "PureWhite_Marching_Hat",
+		identifiedDescriptionName = {
+			"Str + 2",
+			"When performing a physical attack, adds a chance of endowing the users weapon with Ghost property for 60 seconds.",
+			"Adds an additional chance to endow the weapon per upgrade level of ^008080Pure White Marching Hat^000000.",
+			"^777777-------------^000000",
+			"Class: ^808080Headgear^000000",
+			"Location: ^808080Upper^000000",
+			"Defense: ^8080800^000000",
+			"Weight: ^77777730^000000",
+			"Requires Level: ^80808060^000000",
+			"Usable By: ^808080All Jobs^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1470,
+		costume = false
+	},
+	[22042] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Talaria Shoes",
+		identifiedResourceName = "Е»¶уё®ѕЖЅЕ№Я",
+		identifiedDescriptionName = {
+			"The legendary shoes Hermes gave to Perseus when he went to fight Medusa.",
+			"^777777-------------^000000",
+			"Agi + 2",
+			"Mdef + 5",
+			"Aspd + 1",
+			"^777777-------------^000000",
+			"Class: ^777777Shoes^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^77777750^000000",
+			"Required Jobs: ^777777All Jobs^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[5641] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Robo Eye",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.",
+			"ATK, MATK + 2%, Dex + 1",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Middle^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[2881] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Orleans's Necklace",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A necklace for implementing best of royal palace food.",
+			"Dex + 2",
+			"Matk + 20",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Orleans's Glove[1]^000000",
+			"^008080Orleans's Necklace[1]^000000",
+			"Matk + 20",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Orleans's Gown[1]^000000",
+			"^008080Orleans's Necklace[1]^000000",
+			"Reduces the variable casting time of skills by 15%.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Orleans's Server[1]^000000",
+			"^008080Orleans's Necklace[1]^000000",
+			"Matk + 2 per upgrade level of ^008080Orleans's Server[1]^000000.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level : ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[19314] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Royal Mantle",
+		identifiedResourceName = "Royal_Mantle",
+		identifiedDescriptionName = {
+			"Resistance to attacks by all properties +5%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^77777710^000000",
+			"Required Level: ^77777790^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1697,
+		costume = false
+	},
+	[19466] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Small Ocean",
+		identifiedResourceName = "C_Small_Ocean",
+		identifiedDescriptionName = {
+			"A hairpin in the shape of a starfish lying on a coral branch. This decoration appears to be made of frozen water.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1883,
+		costume = true
+	},
+	[20991] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Wings of Eden",
+		identifiedResourceName = "Fairy_Of_Eden",
+		identifiedDescriptionName = {
+			"An ornament resembling the wings of the fairies who inhabit the Garden of Eden.",
+			"^777777-------------^000000",
+			"Resistance against Boss monsters and normal monsters +5%.",
+			"Damage inflicted by player characters -5%.",
+			" ",
+			"^264696[For each refine level]^000000",
+			"ASPD +1%.",
+			"MATK damage +2%.",
+			" ",
+			"^264696[If refine rate is +9 or higher]^000000",
+			"All stats +10.",
+			"Grants immunity to Knock Back.",
+			" ",
+			"^264696[If refine rate is +11 or higher]^000000",
+			"Allows to use ^0000FFEnergy Coat^000000 (LV 1).",
+			"If ^0000FFEnergy Coat^000000 (LV 1) is learned, DEF +300, MDEF +15 additionally.",
+			"^777777?????????????^000000",
+			"^264696[If equipped with Wizard of Veritas Card]^000000",
+			"INT +40.",
+			"Detects hidden monsters.",
+			"^264696[When used by Mage Jobs]^000000",
+			"^0000FF[Sight Blaster]^000000 damage +1500%.",
+			"^777777-------------^000000",
+			"Class: ^777777Garment^000000",
+			"Defence: ^77777740^000000",
+			"Weight: ^77777740^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 95,
+		costume = false
+	},
+	[22138] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Demonist Shoes",
+		identifiedResourceName = "Demonist_Shoes",
+		identifiedDescriptionName = {
+			"A pair of magically imbued boots created by a Baphomet cultist.",
+			"",
+			"Max HP +3%, Max SP +3%, MATK +2%.",
+			"^FF4000Fire^000000 and ^777777Neutral^000000 property magic damage +2%.",
+			" ",
+			"^264696[If refined to +5 or higher]^000000",
+			"Max HP/SP +7%, MATK +3%, ^FF4000Fire^000000 and ^777777Neutral^000000 property magical damage +3%. ",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"Max HP/SP +10%, MATK +5%, ^FF4000Fire^000000 and ^777777Neutral^000000 property magical damage +5%. ",
+			"^777777-------------^000000",
+			"^264696[Set Bonus]^000000",
+			"<ITEM>Devil Worshipper Shoes<INFO>22138</INFO></ITEM>",
+			"<ITEM>Seraphim Robe<INFO>20815</INFO></ITEM>",
+			" ",
+			"Fixed Cast Time -50%.",
+			"Increase resistance to the Shadow property by 30%.",
+			"Increase resistance to the Holy property by 30%, and additionally +2% for each skill level of ^0000FF[Faith]^000000.",
+			"Resistance against Demi-human enemies +10%.",
+			" ",
+			"^264696[If Seraphim Robe refined to +7 or higher]^000000",
+			"^FF4000Fire^000000, ^21024BShadow^000000 and ^777777Neutral^000000 properties magical damage +10%.",
+			" ",
+			"^264696[If Seraphim Robe refined to +9 or higher]^000000",
+			"^FF4000Fire^000000, ^21024BShadow^000000 and ^777777Neutral^000000 properties magical damage +10% additionally.",
+			"^777777-------------^000000",
+			"^264696[Set Bonus]^000000",
+			"<ITEM>Devil Worshipper Shoes<INFO>22138</INFO></ITEM>",
+			"<ITEM>Seraphim Robe<INFO>20815</INFO></ITEM>",
+			"<ITEM>Dead Tree Staff<INFO>1643</INFO></ITEM>",
+			" ",
+			"Resistance against Demi-human enemies +10%.",
+			"^FF4000Fire^000000 property magical damage +4% for each skill level of ^0000FF[Fire Pillar]^000000.",
+			"^777777Neutral^000000 property magical damage +6% for each skill level of ^0000FF[Gravitational Field]^000000.",
+			" ",
+			"^264696[If Dead Tree Staff refined to +7 or higher]^000000",
+			"Magical damage to Human and Demihuman +20%.",
+			"^0000FF[Hell Inferno]^000000 damage +100%.",
+			" ",
+			"^264696[If Dead Tree Staff refined to +9 or higher]^000000",
+			"Magical damage to Human and Demihuman +20% additionally.",
+			"^0000FF[Hell Inferno]^000000 damage +100% additionally.",
+			"^777777-------------^000000",
+			"Class: ^777777Footwear^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31696] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Shark Hat",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"This is a very scary headdress! The monsters that live in the water will swim away from you, trembling in terror.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 503,
+		costume = true
+	},
+	[31785] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Fin Ears",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"An decoration that resembles the fins of a huge fish.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Middle ^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1218,
+		costume = true
+	},
+	[32222] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Brooch of Hero",
+		identifiedResourceName = "Brooch_Of_Hero",
+		identifiedDescriptionName = {
+			"A brooch given to those who defeated Satan Morroc.",
+			"^777777-------------^000000",
+			"Physical damage inflicted on all class enemies +5%.",
+			"MATK +5%",
+			" ",
+			"^264696[When used by Swordsman 3rd Class Jobs]^000000",
+			"Max HP +10%.",
+			"Physical damage inflicted on all race enemies +5%.",
+			" ",
+			"^264696[When used by Acolyte 3rd Class Jobs]^000000",
+			"Physical/magic damage inflicted on all race enemies +5%, ASPD +10% additionally.",
+			" ",
+			"^264696[When used by Merchant 3rd Class Jobs]^000000",
+			"Physical damage inflicted on all race enemies +5%.",
+			"When using skill, SP consumption -10%.",
+			" ",
+			"^264696[When equipped with Hero Judgement Shawl]^000000",
+			"Auto-spells [Lex Aeterna] and [Kyrie Eleison] will not work.",
+			"For each Hero Judgement Shawl refine level Dragon Combo, Sky Blow, Earth Shaker, Judex and Adoramus skills damage +5%.",
+			" ",
+			"^264696[If equipped with Hero Trade Mail]^000000",
+			"Additionally gives a chance to cast Stun, Poison, Curse and Silence on enemies.",
+			"^264696[For each Hero Trade Mail refine level]^000000",
+			"All stats +3 for each item refine level, increases the chance of Stun, Poison, Silence and Curse additionally.",
+			" ",
+			"^264696[When equipped with Hero Plate]^000000",
+			"Auto-spells [Storm Gust] and [Heal] will not work.",
+			"^264696[For every Hero Plate refine level]^000000",
+			"Vanishing Point and Storm Blast damage +5% additionaly.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777740^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[104707] = {
+		unidentifiedDisplayName = "Sky Fairy Treasure",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"This chest flew to you on silver wings, folded them and began to wait... when will you open it?"
+		},
+		identifiedDisplayName = "Sky Fairy Treasure",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"This chest flew to you on silver wings, folded them and began to wait... when will you open it?",
+			"^777777-------------^000000",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x3200^000000",
+			"^4A94F7-^000000 <ITEM>Wings of Eden<INFO>20991</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guarantee Weapon 8Up<INFO>6229</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Armor +8 Refine Ticket<INFO>6233</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Neuralizer Box<INFO>12911</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blacksmith Blessing<INFO>6635</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Reset Stone<INFO>6320</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Carnium<INFO>6225</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Bradium<INFO>6226</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Royal Mantle<INFO>19314</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Brooch of Hero<INFO>32222</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Fin Ears<INFO>31785</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Shark Hat<INFO>31696</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Small Ocean<INFO>19466</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x100^000000",
+			"^4A94F7-^000000 <ITEM>Demonist Shoes<INFO>22138</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Inf. Giant Fly Wing Box<INFO>23330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>(1 h.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Spring Mana Potion<INFO>100005</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Dracolich Treasure<INFO>103972</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Battle Manual<INFO>12411</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Bubble Gum<INFO>12412</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Superhuman Sweets<INFO>22819</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Elunium<INFO>7619</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Oridecon<INFO>7620</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>AGI Biscuit Stick<INFO>23225</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>DEX Biscuit Stick<INFO>23221</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>INT Biscuit Stick<INFO>23226</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>LUK Biscuit Stick<INFO>23222</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>STR Biscuit Stick<INFO>23223</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>VIT Biscuit Stick<INFO>23224</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Bloody Branch<INFO>12103</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Party Assumptio 5<INFO>14590</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Scroll<INFO>14590</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Blessing 10<INFO>14588</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Scroll<INFO>14588</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Increase Agi 10<INFO>14589</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Scroll<INFO>14589</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Archmage Potion<INFO>23898</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Special Blessing of Tyr<INFO>23047</INFO></ITEM> ^777777x10^000000",
+			"^4A94F7-^000000 <ITEM>Special Kafra Card<INFO>23177</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Pudding<INFO>12710</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Mind Potion<INFO>100317</INFO></ITEM> ^777777x3^000000",
+			"^4A94F7-^000000 <ITEM>Water of Life<INFO>12578</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7-^000000 <ITEM>Superb Fish Slice<INFO>14524</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Dried Yggdrasil Berries<INFO>12293</INFO></ITEM> ^777777x70^000000",
+			"^4A94F7-^000000 <ITEM>Yummy Skewered Grill<INFO>12335</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Candy<INFO>12709</INFO></ITEM> ^777777x35^000000",
+			"^4A94F7-^000000 <ITEM>Hoddmimis Seed<INFO>12405</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Big Bun<INFO>14522</INFO></ITEM> ^777777x20^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	}

@@ -1,6 +1,6 @@
 CmdLine = -frostGameNameType ropeu_live -frostLauncher ro.exe -frostGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.6:80
-selected httpIp 109.105.133.6
+checking connection to 109.105.133.7:80
+selected httpIp 109.105.133.7
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting

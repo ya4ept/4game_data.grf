@@ -12064,3 +12064,9 @@
 400044#Phantom_Of_Masquerade#
 400059#ÃµÇæ±Ãº¸°ü#
 460004#Illusion_Shield_A#
+
+19314#Royal_Mantle#
+19466#C_Small_Ocean#
+20991#Fairy_Of_Eden#
+420068#Lord_of_Royals#
+104707#ÁöÇý½ºÅ©·Ñ#
