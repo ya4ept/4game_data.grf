@@ -35400,7 +35400,6 @@ tbl = {
 		identifiedDisplayName = "Рюкзак храбреца",
 		identifiedResourceName = "??",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Маленький рюкзак, в который можно положить самые необходимые предметы. С ним везде чувствуешь себя спокойно.",
 			"^777777—————————————^000000",
 			"^000088Позволяет использовать умение [Корысть] (ур. 1)^000000",
@@ -41445,42 +41444,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[2881] = {
-		unidentifiedDisplayName = "Аксессуар",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Orleans's Necklace",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"A necklace for implementing best of royal palace food.",
-			"Класс: ^777777Аксессуар^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^77777710^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Сноровка + 2",
-			"Matk + 20",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Orleans's Glove[1]^000000",
-			"^008080Orleans's Necklace[1]^000000",
-			"Matk + 20",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Orleans's Gown[1]^000000",
-			"^008080Orleans's Necklace[1]^000000",
-			"Reduces the variable casting time of skills by 15%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Orleans's Server[1]^000000",
-			"^008080Orleans's Necklace[1]^000000",
-			"Matk + 2 per upgrade level of ^008080Orleans's Server[1]^000000."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[2883] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "?",
@@ -43250,10 +43213,6 @@ tbl = {
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
 			"Перчатки из кожи кабана Сехримнира. Сколько бы мяса и кожи с него ни срезали, он всегда оживает в своем изначальном виде.",
-			"Класс: ^808080Аксессуар^000000",
-			"Вес: ^80808010^000000",
-			"Требуемый уровень: ^80808030^000000",
-			"Квалификация: ^808080Все профессии^000000",
 			"Опыт при убийстве всех монстров +5%",
 			"Защита от всех монстров -5%",
 			"^800080Бонус комплекта^000000",
@@ -43314,7 +43273,12 @@ tbl = {
 			"^008080Перчатки Сехримнира [1]^000000",
 			"^008080Карта Аммута^000000",
 			"Опыт при убийстве человекоподобных монстров +5%",
-			"Защита от человекоподобных монстров -10%"
+			"Защита от человекоподобных монстров -10%",
+			"^777777—————————————^000000",
+			"Класс: ^808080Аксессуар^000000",
+			"Вес: ^80808010^000000",
+			"Требуемый уровень: ^80808030^000000",
+			"Квалификация: ^808080Все профессии^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -50654,7 +50618,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Большая вероятность отравить врага и себя при получении физических повреждений",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50737,7 +50701,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Атака +25",
 			"Защита -5",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50756,7 +50720,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Живучесть +1 за каждые 18 очков, вложенных в Сноровку",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50776,7 +50740,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Атака -25",
 			"Защита +3",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50795,7 +50759,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Урон от Нежити -30%",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Щит^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50884,7 +50848,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Вероятность получить Медузу в сыре при убийстве монстра-насекомого",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Аксессуар^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50924,7 +50888,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Сила +1 за каждые 18 очков, вложенных в Интеллект",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50943,7 +50907,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Вероятность получить Суп из моллюсков при убийстве монстра-рыбы",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Аксессуар^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -50991,7 +50955,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Шанс использовать умение [Туман] (ур. 1) при получении физ. урона",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Аксессуар^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51032,7 +50996,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Уворот +10",
 			"При заточке накидки меньше, чем на +5: Уворот +10 Идеальный уворот +1",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Накидка^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51052,7 +51016,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Восстанавливает 50 HP и 10 SP каждые 10 сек",
 			"Макс.HP/Макс.SP +10%",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Обувь^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51072,7 +51036,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"HP +800 Снижает количество HP при увеличении уровня заточки брони",
 			"Увеличение скорости восстановления HP на 10%",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51115,7 +51079,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Вероятность получить Сочный стейк при убийстве монстра-животного",
 			"^777777—————————————^000000",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Аксессуар^000000",
 			"Вес: ^7777771^000000",
 			"^777777—————————————^000000",
@@ -51202,7 +51166,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Позволяет использовать умение Скрыться 3-го уровня",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Накидка^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51221,7 +51185,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Шанс критического удара по расам Человекоподобные и Люди +10.",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Оружие^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51261,7 +51225,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Скорость атаки -5%, Точность +30",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Оружие^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51280,7 +51244,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Вероятность использовать умение [Ассумпцио] (5 ур.) при получении физических или магических повреждений",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -51407,7 +51371,7 @@ tbl = {
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Удача +1 за каждые 18 очков, вложенных в Ловкость",
-			"Класс: ^777777Карта^000000      ",
+			"Класс: ^777777Карта^000000    ",
 			"Квалификация: ^777777Броня^000000",
 			"Вес: ^7777771^000000"
 		},
@@ -66027,7 +65991,6 @@ tbl = {
 		identifiedDisplayName = "Злое Слово",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Шляпа в виде огромной книги умений, которая атакует людей.",
 			"Шанс восстановить HP в размере 8% от нанесенного врагу физ. урона",
 			"Шанс восстановить SP в размере 4% от нанесенного врагу физ. урона",
@@ -67815,7 +67778,6 @@ tbl = {
 		identifiedDisplayName = "Ободок пекопеко",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Дает ощущение, что к телу прикрепили крылья пекопеко, и позволяет перемещаться с соответствующей скоростью.",
 			"^0000ffСкорость передвижения +100%",
 			"Скорость атаки +10%",
@@ -68241,10 +68203,13 @@ tbl = {
 		identifiedDisplayName = "Пиратский кинжал",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Маленький кинжал, который можно зажать в зубах.",
 			"Во время боя вы всегда сможете воспользоваться им как дополнительным оружием.",
 			"Физ. атака +5.",
+			"^264696[При экипировке с Шляпой пирата]^000000",
+			"Урон по монстрам Шиноби и Штурмовик +15%",
+			"Урон от монстров Шиноби и Штурмовик -10%",
+			"^777777—————————————^000000",
 			"Класс: ^777777Головной убор^000000",
 			"Расположение: ^777777Рот^000000",
 			"Защита: ^7777770^000000  Вес: ^77777710^000000",
@@ -68433,7 +68398,6 @@ tbl = {
 		identifiedDisplayName = "Сканер",
 		identifiedResourceName = "???",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Устройство, с помощью которого можно получать дополнительную информацию из внешнего мира. С ним вы будете похожи на робота.",
 			"Можно использовать умение [Сканирование]^000000",
 			"Класс: ^777777Головной убор^000000",
@@ -69349,7 +69313,6 @@ tbl = {
 		identifiedDisplayName = "Крылья пекопеко",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Ушки в виде крылышек пекопеко. При их производстве ни одного пекопеко не пострадало.",
 			"Ловкость +1",
 			"Класс: ^777777Головной убор^000000",
@@ -69371,7 +69334,6 @@ tbl = {
 		identifiedDisplayName = "Шляпа капитана",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Треуголка, украшенная белыми рогами.",
 			"Сноровка +1",
 			"Макс. HP +100",
@@ -70057,7 +70019,6 @@ tbl = {
 		identifiedDisplayName = "Призрак ангела",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Золотая маска, которую, по легенде, носила какая-то древняя и очень могущественная богиня.",
 			"^0000ffТочность +15",
 			"Сила +2^000000",
@@ -70310,7 +70271,6 @@ tbl = {
 		identifiedDisplayName = "Очки в темной оправе",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Очки в темной пластмассовой оправе. Сейчас такие носят все модники.",
 			"Интеллект +1",
 			"Класс: ^777777Головной убор^000000",
@@ -70354,7 +70314,6 @@ tbl = {
 		identifiedDisplayName = "Рыбка во рту",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Талисман рыбаков в форме рыбы. Способствует хорошему улову.",
 			"^0000ffШанс получить свежую рыбу при убийстве монстров.",
 			"Эффективность восстановления HP при использовании свежей рыбы +25%^000000",
@@ -71360,7 +71319,6 @@ tbl = {
 		identifiedDisplayName = "Платок с шипами",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Пугающий платок с шипами. Навевает мысли о чужих страданиях.",
 			"Физ. атака +30",
 			"Макс. HP -2%",
@@ -71385,7 +71343,6 @@ tbl = {
 		identifiedDisplayName = "Радужный платок",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Платок, переливающийся всеми цветами радуги.",
 			"^0000ffИнтеллект +1",
 			"Маг. защита +2",
@@ -71562,7 +71519,6 @@ tbl = {
 		identifiedDisplayName = "Око тьмы",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Повязка с изображенным на ней глазом. Создает ощущение, будто вы глядите собеседнику прямо в душу.",
 			"Сноровка +1",
 			"Защита от слепоты.",
@@ -73425,7 +73381,6 @@ tbl = {
 		identifiedDisplayName = "Корона смелости",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Магическая корона, от которой исходит темная энергия.",
 			"^777777—————————————^000000",
 			"Интеллект +4",
@@ -73921,7 +73876,6 @@ tbl = {
 		identifiedDisplayName = "Крылья Сигрун",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Символ возрождения, ранее принадлежавший легендарной валькирии Сигрун.",
 			"^777777—————————————^000000",
 			"^000088[При использовании Мечником, Торговцем,\nВором и их производными, Таэквондистом или Гладиатором]^000000",
@@ -75118,28 +75072,6 @@ tbl = {
 		ClassNum = 349,
 		costume = false
 	},
-	[5641] = {
-		unidentifiedDisplayName = "Glasses",
-		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Robo Eye",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"A weird item that spreads a Силаange-shaped beam around the eyes. It seems to have been made in outer space.",
-			"ATK, MATK + 2%, Сноровка + 1",
-			"^ff0000this item is account bound^000000",
-			"Класс: ^777777Головной убор^000000  Защита: ^7777771^000000",
-			"Расположение: ^777777Middle^000000",
-			"Вес: ^77777720^000000",
-			"Требуемый уровень: ^77777710^000000",
-			"Квалификация: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[5642] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "??????",
@@ -75311,7 +75243,7 @@ tbl = {
 			"Класс: ^777777Головной убор^000000",
 			"Защита: ^7777771^000000",
 			"Расположение: ^777777Lower^000000",
-			"Вес: ^7777770^000000^FFFFFF         ^000000 Jobs: ^777777All Except Novice^000000"
+			"Вес: ^7777770^000000^FFFFFF       ^000000 Jobs: ^777777All Except Novice^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -100432,7 +100364,7 @@ tbl = {
 		identifiedDisplayName = "Огромный бриллиант",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"Алмаз, содержащий в себе подозрительную силу. Отличная огранка может говорить о бесценности этого камня.        ",
+			"Алмаз, содержащий в себе подозрительную силу. Отличная огранка может говорить о бесценности этого камня.      ",
 			"^777777—————————————^000000",
 			"Вес: ^7777770^000000"
 		},
@@ -139319,7 +139251,7 @@ tbl = {
 			"^ff0000Привязано к учетной записи.^000000",
 			"A potent medicine that",
 			"stimulates concentration. Temporarily increases",
-			"Attack Speed.^FFFFFF      ^000000 Applicable Jobs: ^777777All^000000",
+			"Attack Speed.^FFFFFF    ^000000 Applicable Jobs: ^777777All^000000",
 			"Вес: ^77777710^000000"
 		},
 		slotCount = 0,
@@ -145179,29 +145111,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 0,
-		costume = false
-	},
-	[15165] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Pure White Marching Hat",
-		identifiedResourceName = "PureWhite_Marching_Hat",
-		identifiedDescriptionName = {
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^7777770^000000",
-			"Вес: ^77777730^000000",
-			"Требуемый уровень: ^77777760^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Сила + 2",
-			"When performing a physical attack, adds a chance of endowing the users weapon with Ghost property for 60 seconds.",
-			"Adds an additional chance to endow the weapon per upgrade level of ^008080Pure White Marching Hat^000000."
-		},
-		slotCount = 1,
-		ClassNum = 1470,
 		costume = false
 	},
 	[15166] = {
@@ -158506,7 +158415,6 @@ tbl = {
 		identifiedDisplayName = "Дух Умбалы",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Аксессуары, используемые жителями Умбалы. Можно почувствовать дух жителей, выживших и окрепших в суровых условиях природы.",
 			"^0000ffМакс.HP + 1%",
 			"Увеличивает эффект восстановления от мяса на 25%.",
@@ -159131,7 +159039,6 @@ tbl = {
 		identifiedDisplayName = "Фуражка с черепом",
 		identifiedResourceName = "???",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Водительская фуражка со зловещим украшением в виде черепа.",
 			"Маг. атака +2%",
 			"^264696[При заточке на +5 и выше]^000000",
@@ -164669,7 +164576,6 @@ tbl = {
 		identifiedDisplayName = "Банда мини-порингов",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Троица мини-порингов прямо у вас над головой. Головокружительная милота!",
 			"Опыт при убийстве монстров +3%",
 			"^264696[За каждые 3 уровня заточки]^000000",
@@ -165684,7 +165590,6 @@ tbl = {
 		identifiedDisplayName = "НЛО-поринг",
 		identifiedResourceName = "ufo????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"С такой стильной шляпкой в виде летающей тарелки не стыдно путешествовать по странным неизведанным мирам.",
 			"Шанс крит. удара +5%",
 			"Идеальный уворот +5",
@@ -168651,41 +168556,6 @@ tbl = {
 		ClassNum = 1552,
 		costume = false
 	},
-	[19171] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Magician Knit Hat",
-		identifiedResourceName = "???????",
-		identifiedDescriptionName = {
-			"A knit hat worn by a great magician. It contains fibers that has an absolute effect on the undead.\n",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777750^000000",
-			"Требуемый уровень: ^77777710^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Маг. защита + 10",
-			"Increases physical and magical damage on Undead race targets by 5%.",
-			"Reduces damage taken from Undead race enemies by 2%.",
-			"Restores 5 SP to the user when a monster is killed by a physical or magical attack.",
-			"If upgrade level is +7 or higher,",
-			"Additional Маг. защита + 5",
-			"Increases physical and magical damage on Undead race targets by an additional 10%.",
-			"Reduces damage taken from Undead race enemies by an additional 3%.",
-			"Restores an additional 10 SP to the user when a monster is killed by a physical or magical attack.",
-			"If upgrade level is +9 or higher,",
-			"Additional Маг. защита + 5",
-			"Increases physical and magical damage on Undead race targets by an additional 10%.",
-			"Reduces damage taken from Undead race enemies by an additional 5%.",
-			"Restores an additional 10 SP to the user when a monster is killed by a physical or magical attack."
-		},
-		slotCount = 1,
-		ClassNum = 854,
-		costume = false
-	},
 	[19208] = {
 		unidentifiedDisplayName = "Зеленая змейка",
 		unidentifiedResourceName = "Snake_Head_TH",
@@ -168695,7 +168565,6 @@ tbl = {
 		identifiedDisplayName = "Зеленая змейка",
 		identifiedResourceName = "Snake_Head_TH",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Маленькая зеленая змейка, которая может жить у вас на голове.",
 			"^ff0000Предмет анимирован.^000000",
 			"^0000ffМожно использовать умение [Двойная атака] (ур. 5)^000000",
@@ -168859,7 +168728,6 @@ tbl = {
 		identifiedDisplayName = "Ободок золотого ангела",
 		identifiedResourceName = "?????2013",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Ободок, украшенный парой маленьких крыльев, которые все время бьют воздух, будто пытаясь взлететь.",
 			"Не надевайте его на маленьких детей и домашних животных, если не хотите, чтобы их унесло в небо!",
 			"^777777—————————————^000000",
@@ -169092,28 +168960,29 @@ tbl = {
 		identifiedDisplayName = "Демонический нимб",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
+			"^ff0000Предмет анимирован.^000000",
 			"Ха, говорите, нимбы бывают только у ангелов?",
 			"А кем был Люцифер до своего падения? То-то же!",
 			"^777777—————————————^000000",
 			"^264696[За каждые 2 уровня заточки]^000000",
 			"Маг. атака +20",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[При заточке +7 и выше]^000000",
 			"Переменное время чтения умений -10%",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[При заточке +9 и выше]^000000",
 			"Маг. урон элементом ^777777Нейтральный^000000 и ^21024BТьма^000000 +10%",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[При заточке +11 и выше]^000000",
 			"Маг. урон элементами ^004DFFВода^000000, ^0095FFВетер^000000, ^640000Земля^000000 и ^FF4000Огонь^000000 +10%",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[При заточке от +11 до +15 включительно]^000000",
 			"Фикс. время чтения умений -0,1 сек. за каждый уровень заточки.",
 			"^777777—————————————^000000",
 			"^800080[Комплект Хроноса]^000000",
 			"^4A94F7»^000000 <ITEM>Демонический нимб<INFO>19249</INFO></ITEM>",
 			"^4A94F7»^000000 <ITEM>Хронос<INFO>2004</INFO></ITEM>",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[За каждые 2 уровня заточки Хроноса]^000000",
 			"Урон умения [Адское пламя] +10%",
 			"^777777—————————————^000000",
@@ -169121,16 +168990,21 @@ tbl = {
 			"^4A94F7»^000000 <ITEM>Демонический нимб<INFO>19249</INFO></ITEM>",
 			"^4A94F7»^000000 <ITEM>Кинжал Полумесяца<INFO>13078</INFO></ITEM>",
 			"^4A94F7»^000000 <ITEM>Королевский Кинжал<INFO>13076</INFO></ITEM>",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[За каждый уровень суммарной заточки кинжалов]^000000",
 			"Уменьшается переменное время чтения умений на 1%",
-			"^777777—————————————^000000",
+			" ",
 			"^264696[За каждые 2 уровня суммарной заточки кинжалов]^000000",
 			"Урон умения [Пылающие лепестки] +5%",
 			"Урон умения [Копье льда] +5%",
 			"Урон умения [Лезвие ветра] +5%",
 			"^777777—————————————^000000",
-			"^ff0000Предмет анимирован.^000000",
+			"^800080[Комплект c Волшебной палочкой]^000000",
+			"^4A94F7»^000000 <ITEM>Демонический нимб<INFO>19249</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Волшебная палочка<INFO>1654</INFO></ITEM>",
+			" ",
+			"Увеличивает урон умения ^0000FF[Ударная волна]^000000 на 5% за каждые 2 уровня заточки оружия.",
+			"^777777—————————————^000000",
 			"Класс: ^777777Головной убор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Защита: ^7777770^000000  Вес: ^77777710^000000",
@@ -171837,7 +171711,7 @@ tbl = {
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
-			"Требуемый уровень: ^77777720^000000",
+			"Требуемый уровень: ^7777771^000000",
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 0,
@@ -185591,7 +185465,6 @@ tbl = {
 		identifiedDisplayName = "Крылья золотого ангела",
 		identifiedResourceName = "???????2012",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Их перья источают чистый свет. Спасут от стрел и защитят от бед. Укроют от чар тьмы, обид и зла два золотистых ангельских крыла.",
 			"^777777—————————————^000000",
 			"^000088Маг. защита +10",
@@ -187437,29 +187310,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22042] = {
-		unidentifiedDisplayName = "Обувь",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Talaria Shoes",
-		identifiedResourceName = "??????",
-		identifiedDescriptionName = {
-			"^777777The legendary shoes Hermes gave to Perseus when he went to fight Medusa.^000000",
-			"Класс: Shoes",
-			"Защита: 15",
-			"Вес: 30",
-			"Требуемый уровень: 50",
-			"Required Jobs: All Jobs",
-			"Agi + 2",
-			"Маг. защита + 5",
-			"Aspd + 1"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[22043] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "??",
@@ -188992,41 +188842,6 @@ tbl = {
 			"Additional Макс. SP + 10%",
 			"Increases the damage of ^0000FFMeteor Assault^000000 by an additional 1% for every base level.",
 			"Increases the damage of ^0000FFMeteor Assault^000000 by an additional 30% per level of ^0000FFPoison React^000000 known."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22138] = {
-		unidentifiedDisplayName = "Обувь",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Devil Worshipper Shoes",
-		identifiedResourceName = "Demonist_Shoes",
-		identifiedDescriptionName = {
-			"^777777Shoes made by a worshipper of Baphomet with magical powers.^000000",
-			"Класс: Shoes",
-			"Защита: 15",
-			"Вес: 50",
-			"Требуемый уровень: 100",
-			"Required Jobs: All Jobs",
-			"Маг. защита + 15",
-			"Макс. HP + 3%",
-			"Макс. SP + 3%",
-			"Matk + 2%",
-			"Increases the damage of Neutral and Fire property magical attacks on targets by 2%.",
-			"If upgrade level is +5 or higher,",
-			"Additional Макс. HP + 7%",
-			"Additional Макс. SP + 7%",
-			"Additional Matk + 3%",
-			"Increases the damage of Neutral and Fire property magical attacks on targets by an additional 3%.",
-			"If upgrade level is +7 or higher,",
-			"Additional Макс. HP + 10%",
-			"Additional Макс. SP + 10%",
-			"Additional Matk + 5%",
-			"Increases the damage of Neutral and Fire property magical attacks on targets by an additional 5%."
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -218128,26 +217943,6 @@ tbl = {
 		ClassNum = 848,
 		costume = true
 	},
-	[31696] = {
-		unidentifiedDisplayName = "Головной убор (Декор)",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Costume Shark Hat",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"Sharks are amazingly gentle creatures if you stay away from their food supply.",
-			"Класс: ^777777Декор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Вес: ^7777770^000000",
-			"Требуемый уровень: ^7777771^000000",
-			"Квалификация: ^777777Все профессии^000000"
-		},
-		slotCount = 0,
-		ClassNum = 503,
-		costume = true
-	},
 	[31697] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
@@ -218549,25 +218344,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1768,
-		costume = true
-	},
-	[31785] = {
-		unidentifiedDisplayName = "Головной убор (Декор)",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Costume Monster Fish Gills",
-		identifiedResourceName = "??????",
-		identifiedDescriptionName = {
-			"Gills of a black and red monster fish.",
-			"Класс: ^777777Декор^000000",
-			"Расположение: ^777777Middle^000000",
-			"Вес: ^7777770^000000",
-			"Квалификация: ^777777Все профессии^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1218,
 		costume = true
 	},
 	[31786] = {
@@ -220089,62 +219865,6 @@ tbl = {
 			"Aspd + 5%",
 			"Reduces damage taken from Demi-Human race enemies by 3%.",
 			"Reduces damage taken from Fire, Water, Wind and Earth property attacks by 5%."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[32222] = {
-		unidentifiedDisplayName = "Аксессуар",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Brooch of Hero",
-		identifiedResourceName = "Brooch_Of_Hero",
-		identifiedDescriptionName = {
-			"A brooch given to those who defeated Satan Morroc.",
-			"Класс: ^777777Аксессуар^000000",
-			"Вес: ^77777740^000000",
-			"Требуемый уровень: ^777777100^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Atk + 5%",
-			"Matk + 5%",
-			" ",
-			"^F4AD42Rune Knight Bonus^000000 & ^F4AD42Royal Guard Bonus^000000",
-			"Макс. HP + 10%",
-			"Increases physical damage on all race targets by 5%.",
-			" ",
-			"^F4AD42Archbishop Bonus^000000 & ^F4AD42Sura Bonus^000000",
-			"Aspd + 10%",
-			"Increases physical damage on all race targets by 5%.",
-			" ",
-			"^F4AD42Mechanic Bonus^000000 & ^F4AD42Geneticist Bonus^000000",
-			"Reduces the SP cost of skills by 10%.",
-			"Increases physical damage on all race targets by 5%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Brooch of Hero[1]^000000",
-			"^008080Hero Judgement Shawl[1]^000000",
-			"Disables the following effect of ^008080Hero Judgement Shawl[1]^000000, chance of casting ^0000FFLevel 10 Kyrie Eleison^000000.",
-			"Increases the damage of ^0000FFJuСноровка^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFAdoramus^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFSky Blow^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFDragon Combo^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFEarth Shaker ^000000 by 5% per upgrade level of the armor.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Brooch of Hero[1]^000000",
-			"^008080Hero Trade Mail[1]^000000",
-			"All Stats + 2 per upgrade level of the armor.",
-			"Adds an additional chance of inflicting ^800000Stun^000000, ^800000Silence^000000, ^800000Curse^000000, and ^800000Poison^000000 per upgrade level of the armor on the target when performing a physical attack.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Brooch of Hero[1]^000000",
-			"^008080Hero Plate[1]^000000",
-			"Disables the following effects of ^008080Hero Plate[1]^000000, chance of casting ^0000FFLevel 10 Heal^000000 and ^0000FFLevel 10 Storm Gust^000000.",
-			"Increases the damage of ^0000FFStorm Blast^000000 by 5% per upgrade level of the armor.",
-			"Increases the damage of ^0000FFVanishing Point^000000 by 5% per upgrade level of the armor."
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -240094,7 +239814,6 @@ tbl = {
 		identifiedDisplayName = "Обломок черепашьего панциря",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к персонажу.^000000",
 			"Обломок панциря черепахи с Черепашьего острова. На нем неумело вырезан древесный лист. Это явно не работа мастера.",
 			"^ffffff_^000000",
 			"Вес: ^7777770^000000"
@@ -274366,6 +274085,457 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 104,
 		costume = true
+	},
+	[19171] = {
+		unidentifiedDisplayName = "Головной убор",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Зимняя шапка",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"Вязаная шапочка, некогда принадлежавшая великому волшебнику. По помпону на ней время от времени пробегают разноцветные искры.",
+			"^777777—————————————^000000",
+			"Маг. защита +10.",
+			"Урон от физических и магических атак по монстрам-нежити +5%.",
+			"Защита от монстров-нежити +2%.",
+			"При убийстве врагов физ. или маг. атакой восстанавливает 5 SP.",
+			" ",
+			"[Если уровень заточки +7 или выше]",
+			"Маг. защита +5 дополнительно.",
+			"Урон от физических и магических атак по монстрам-нежити +10% дополнительно.",
+			"Защита от монстров-нежити +3% дополнительно.",
+			"При убийстве врагов физ. или маг. атакой восстанавливает 10 SP дополнительно.",
+			" ",
+			"[Если уровень заточки +9 или выше]",
+			"Маг. защита +5 дополнительно.",
+			"Урон от физических и магических атак по монстрам-нежити +10% дополнительно.",
+			"Защита от монстров-нежити +5% дополнительно.",
+			"При убийстве врагов физ. или маг. атакой восстанавливает 10 SP дополнительно.",
+			"^777777—————————————^000000",
+			"Класс: ^808080Шлем^000000",
+			"Расположение: ^808080Голова^000000",
+			"Защита: ^80808010^000000",
+			"Вес: ^80808050^000000",
+			"Требуемый уровень: ^80808010^000000",
+			"Квалификация: ^808080Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 854,
+		costume = false
+	},
+	[15165] = {
+		unidentifiedDisplayName = "Головной убор",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Белая парадная шляпа",
+		identifiedResourceName = "PureWhite_Marching_Hat",
+		identifiedDescriptionName = {
+			"Сила +2",
+			"При проведении физ. атаки с некоторым шансом заряжает оружие элементом Призрак на 60 сек.",
+			"Добавляет дополнительные шансы на зарядку оружие за каждый уровень заточки ^008080белой парадной шляпы^000000.",
+			"^777777—————————————^000000",
+			"Класс: ^808080Шлем^000000",
+			"Расположение: ^808080Голова^000000",
+			"Защита: ^8080800^000000",
+			"Вес: ^77777730^000000",
+			"Требуемый уровень: ^80808010^000000",
+			"Квалификация: ^808080Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1470,
+		costume = false
+	},
+	[22042] = {
+		unidentifiedDisplayName = "Ботинки",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Таларии",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Легендарные крылатые сандалии, созданные Гефестом для Гермеса.",
+			"^777777—————————————^000000",
+			"Ловкость +2",
+			"Маг. защита +5",
+			"Скорость атаки +1",
+			"^777777—————————————^000000",
+			"Класс: ^777777Ботинки^000000",
+			"Защита: ^77777715^000000",
+			"Вес: ^77777730^000000",
+			"Требуемый уровень: ^77777750^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[5641] = {
+		unidentifiedDisplayName = "Очки",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Робо-глаза",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Странный визор, испускающий свет. Похоже, его сделали не на нашей планете...",
+			"^777777—————————————^000000",
+			"Физ/маг. атака +2%, сноровка +1",
+			"^777777—————————————^000000",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777771^000000",
+			"Расположение: ^777777Глаза^000000",
+			"Вес: ^77777720^000000",
+			"Требуемый уровень: ^77777710^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[2881] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Медальон Орлинза",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Медальон, принадлежавший лучшему повару королевства.",
+			"^777777—————————————^000000",
+			"Сноровка +2",
+			"Маг. атака +20",
+			" ",
+			"^800080Бонус комплекта^000000",
+			"^008080Перчатка Орлинза [1]^000000",
+			"^008080Медальон Орлинза [1]^000000",
+			"Маг. атака +20",
+			" ",
+			"^800080Бонус комплекта^000000",
+			"^008080Костюм Орлинза [1]^000000",
+			"^008080Медальон Орлинза [1]^000000",
+			"Вариативное время применения всех умений -15%",
+			" ",
+			"^800080Бонус комплекта^000000",
+			"^008080Поднос Орлинза [1]^000000",
+			"^008080Медальон Орлинза [1]^000000",
+			"Маг. атака +2 за каждый уровень заточки ^008080подноса Орлинза^000000.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777710^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[19314] = {
+		unidentifiedDisplayName = "Мантия",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Роскошная мантия",
+		identifiedResourceName = "Royal_Mantle",
+		identifiedDescriptionName = {
+			"Защита от атак всеми элементами +5%",
+			"^777777—————————————^000000",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Рот^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777790^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1697,
+		costume = false
+	},
+	[19466] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Морская искра (Декор)",
+		identifiedResourceName = "C_Small_Ocean",
+		identifiedDescriptionName = {
+			"Заколка в форме морской звезды, лежащей на коралловой ветви. Это украшение кажется созданным из застывшей воды.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^^777777Голова^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1883,
+		costume = true
+	},
+	[20991] = {
+		unidentifiedDisplayName = "Накидка",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Крылья феи Эдема",
+		identifiedResourceName = "Fairy_Of_Eden",
+		identifiedDescriptionName = {
+			"Декоративный элемент одежды, созданный по подобию крыльев фей, обитающих в садах Эдема.",
+			"^777777—————————————^000000",
+			"Урон от обычных монстров -5%.",
+			"Урон от монстров-боссов -5%.",
+			"Урон от персонажей игроков -5%.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Скорость атаки +1%.",
+			"Урон от маг. атак +2%.",
+			" ",
+			"^264696[При заточке +9 и выше]^000000",
+			"Все характеристики +10 дополнительно.",
+			"Иммунитет к отбрасыванию.",
+			" ",
+			"^264696[При заточке +11 и выше]^000000",
+			"Доступна ^0000FF[Энергетическая защита]^000000 (ур. 1).",
+			"Если изучена ^0000FF[Энергетическая защита]^000000 (ур. 1), физ. защита +300, маг. защита +15 дополнительно.",
+			"^777777—————————————^000000",
+			"^264696[При экипировке с картой Волшебника Истины]^000000",
+			"Интеллект +40.",
+			"Обнаружение спрятавшихся врагов.",
+			"^264696[При использовании Магом и производными]^000000",
+			"Урон от умения ^0000FF[Пылающий взор]^000000 +1500%",
+			"^777777—————————————^000000",
+			"Класс: ^777777Накидка^000000",
+			"Защита: ^77777740^000000",
+			"Вес: ^77777740^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 95,
+		costume = false
+	},
+	[22138] = {
+		unidentifiedDisplayName = "Обувь",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сапоги демониста",
+		identifiedResourceName = "Demonist_Shoes",
+		identifiedDescriptionName = {
+			"Пара наделенных магической силой сапог, созданная культистом Бафомета.",
+			"^777777—————————————^000000",
+			"Макс. HP +3%, макс. SP +3%, маг. атака +2%",
+			"Маг. урон от элементов ^FF4000Огонь^000000 и ^777777Нейтральный^000000 +2%",
+			" ",
+			"^264696[При экипировке с чарами ускользающей магии]^000000",
+			"Маг. урон, получаемый от элементов ^FF4000Огонь^000000, ^21024BТьма^000000 и ^777777Нейтральный^000000 -100%",
+			" ",
+			"^264696[При заточке на +5 и выше]^000000",
+			"Макс. HP/SP +7%, маг. атака +3%, маг. урон элементами ^FF4000Огонь^000000 и ^777777Нейтральный^000000 +3% ",
+			" ",
+			"^264696[При заточке на +7 и выше]^000000",
+			"Макс. HP/SP +10%, маг. атака +5%, маг. урон элементами ^FF4000Огонь^000000 и ^777777Нейтральный^000000 +5% ",
+			" ",
+			"^777777—————————————^000000",
+			"^264696[Бонус комплекта]^000000",
+			"<ITEM>Сапоги демониста<INFO>22138</INFO></ITEM>",
+			"<ITEM>Мантия серафима<INFO>20815</INFO></ITEM>",
+			" ",
+			"Фиксированное время применения всех умений -50%.",
+			"Защита от тьмы +30%.",
+			"Защита от святости +30%, дополнительно +2% за каждый уровень ^0000FF[Веры]^000000.",
+			"Получаемый урон от человекоподобных монстров и игроков -10%.",
+			" ",
+			"^264696[При заточке Мантии серафима на +7 и выше]^000000",
+			"Маг. урон элементами ^FF4000Огонь^000000, ^21024BТьма^000000 и ^777777Нейтральный^000000 +10%.",
+			" ",
+			"^264696[При заточке Мантии серафима на +9 и выше]^000000",
+			"Маг. урон элементами ^FF4000Огонь^000000, ^21024BТьма^000000 и ^777777Нейтральный^000000 +10% дополнительно.",
+			"^777777—————————————^000000",
+			"^264696[Бонус комплекта]^000000",
+			"<ITEM>Сапоги демониста<INFO>22138</INFO></ITEM>",
+			"<ITEM>Мантия серафима<INFO>20815</INFO></ITEM>",
+			"<ITEM>Деревянный посох<INFO>1643</INFO></ITEM>",
+			" ",
+			"Получаемый урон от человекоподобных монстров и игроков -10%.",
+			"Маг. урон элементом ^FF4000Огонь^000000 +4% за каждый уровень умения ^0000FF[Огненный столб]^000000.",
+			"Маг. урон элементом ^777777Нейтральный^000000 +6% за каждый уровень умения ^0000FF[Гравитация]^000000.",
+			" ",
+			"^264696[При заточке Деревянного посоха на +7 и выше]^000000",
+			"Маг. урон по расам Человекоподобные и Люди +20%.",
+			"Урон умения ^0000FF[Адское пламя]^000000 +100%.",
+			" ",
+			"^264696[При заточке Деревянного посоха на +9 и выше]^000000",
+			"Маг. урон по расам Человекоподобные и Люди +20% дополнительно.",
+			"Урон умения ^0000FF[Адское пламя]^000000 +100% дополнительно.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Обувь^000000",
+			"Защита: ^77777715^000000",
+			"Вес: ^77777750^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31696] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Шапка акулы (Декор)",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Очень страшный головной убор! Монстры, обитающие в воде, разбегутся при виде вас, трепеща от ужаса.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 503,
+		costume = true
+	},
+	[31785] = {
+		unidentifiedDisplayName = "Шлем",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Уши-плавники (Декор)",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Украшение, похожее на плавники огромной рыбы.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Глаза ^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1218,
+		costume = true
+	},
+	[32222] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Брошь героя",
+		identifiedResourceName = "Brooch_Of_Hero",
+		identifiedDescriptionName = {
+			"Брошь, подаренная тем, кто победил Мороккского Дьявола.",
+			"^777777—————————————^000000",
+			"Физ. урон по монстрам всех типов +5%.",
+			"Маг. атака +5%",
+			" ",
+			"^264696[При использовании Рунмейстером или Тамплиером]^000000",
+			"Макс. HP + 10%.",
+			"Урон по монстрам всех рас при физ. атаке +5%",
+			" ",
+			"^264696[При использовании Архиепископом или Отшельником]^000000",
+			"Дополнительно физ. и маг. урон по монстрам всех рас при атаке +5%, скорость атаки +10%",
+			" ",
+			"^264696[При использовании Генетиком или Механиком]^000000",
+			"Урон по монстрам всех рас при физ. атаке +5%",
+			"При использовании умения расход SP -10%",
+			" ",
+			"^264696[При экипировке с робой героя]^000000",
+			"Автозаклинания ^0000FF[Лекс Этерна]^000000 и ^0000FF[Кирие Элейсон]^000000 не действуют.",
+			"За каждый уровень заточки робы героя урон от умений ^0000FF[Удар дракона]^000000, ^0000FF[Небесный вихрь]^000000, ^0000FF[Дрожь земли]^000000, ^0000FF[Правосудие]^000000 и ^0000FF[Кара]^000000 +5%",
+			" ",
+			"^264696[При экипировке с кольчугой героя]^000000",
+			"Дает шанс наложить на врагов ^0000FF[Оглушение]^000000, ^0000FF[Отравление]^000000, ^0000FF[Молчание]^000000 и ^0000FF[Проклятие]^000000.",
+			" ",
+			"^264696[За каждый уровень заточки кольчуги героя]^000000",
+			"Все характеристики +2 за каждый уровень заточки, повышает шансы на ^0000FF[Оглушение]^000000, ^0000FF[Отравление]^000000, ^0000FF[Молчание]^000000 и ^0000FF[Проклятие]^000000 дополнительно.",
+			" ",
+			"^264696[При экипировке с броней героя]^000000",
+			"Автозаклинания ^0000FF[Ледяной шторм]^000000 и ^0000FF[Лечение]^000000 не действуют.",
+			"За каждый уровень заточки брони героя дополнительный урон от умений ^0000FF[Пронзить копьем]^000000 и ^0000FF[Штормовой порыв]^000000 +5%",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777740^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[104707] = {
+		unidentifiedDisplayName = "Дар небесной феи",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Этот ларец сам прилетел к вам на серебряных крыльях, сложил их и стал ждать - когда же вы его откроете?"
+		},
+		identifiedDisplayName = "Дар небесной феи",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Этот ларец сам прилетел к вам на серебряных крыльях, сложил их и стал ждать - когда же вы его откроете?",
+			"^777777—————————————^000000",
+			"^4A94F7»^000000 <ITEM>Монета удачи<INFO>56745</INFO></ITEM> ^777777x1600^000000",
+			"^4A94F7»^000000 <ITEM>Крылья феи Эдема<INFO>20991</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Купон заточки оружия +8<INFO>6229</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Купон заточки брони +8<INFO>6233</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ящик нейтрализатора<INFO>12911</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Благословение кузнеца<INFO>6635</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Очищенный брадиум<INFO>6226</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Очищенный карниум<INFO>6225</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Кристалл забвения<INFO>6320</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Роскошная мантия<INFO>19314</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Брошь героя<INFO>32222</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Уши-плавники (Декор)<INFO>31785</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Шапка акулы (Декор)<INFO>31696</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Морская искра (Декор)<INFO>19466</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Монета удачи<INFO>56745</INFO></ITEM> ^777777x50^000000",
+			"^4A94F7»^000000 <ITEM>Сапоги демониста<INFO>22138</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ящик с беск. гиг.<INFO>23330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>крылом (1 ч.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Весеннее зелье маны<INFO>100005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дар костяного дракона<INFO>103972</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Военный справочник<INFO>12411</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Фруктовая жвачка<INFO>12412</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Окровавленная ветка<INFO>12103</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Обогащенный элуниум<INFO>7619</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Обогащенный оридекон<INFO>7620</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Помадки парагона<INFO>22819</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Бисквиты ловкости<INFO>23225</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты сноровки<INFO>23221</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты интеллекта<INFO>23226</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты удачи<INFO>23222</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты силы<INFO>23223</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты живучести<INFO>23224</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Свиток Ассумпцио группы<INFO>14590</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Свиток благословения<INFO>14588</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>группы<INFO>14588</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Свиток увеличения<INFO>14589</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>ловкости группы<INFO>14589</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Особая визитка Кафры<INFO>23177</INFO></ITEM> ^777777x6^000000",
+			"^4A94F7»^000000 <ITEM>Пудинг Гуйяк<INFO>12710</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Зелье разума<INFO>100317</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Особое благословение<INFO>23047</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Тора<INFO>23047</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Целебная вода<INFO>12578</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Великолепная сырая рыба<INFO>14524</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7»^000000 <ITEM>Вкусный шиш-кебаб<INFO>12335</INFO></ITEM> ^777777x11^000000",
+			"^4A94F7»^000000 <ITEM>Семя Ходдмимира<INFO>12405</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Большой хинкали<INFO>14522</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Конфета древнего<INFO>12709</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>обещания<INFO>12709</INFO></ITEM> ^777777x21^000000",
+			"^4A94F7»^000000 <ITEM>Сушеные ягоды<INFO>12293</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Иггдрасиля<INFO>12293</INFO></ITEM> ^777777x60^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	}
 }
 

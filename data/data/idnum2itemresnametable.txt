@@ -12562,3 +12562,9 @@
 23085#쿠나이소환서_독#
 400059#천헐궁보관#
 460004#Illusion_Shield_A#
+
+19314#Royal_Mantle#
+19466#C_Small_Ocean#
+20991#Fairy_Of_Eden#
+420068#Lord_of_Royals#
+104707#지혜스크롤#
