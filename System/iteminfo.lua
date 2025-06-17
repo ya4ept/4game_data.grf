@@ -238889,24 +238889,6 @@ tbl = {
 		ClassNum = 134,
 		costume = true
 	},
-	[31714] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Indian Headband",
-		identifiedResourceName = "АОµрѕИёУё®¶м",
-		identifiedDescriptionName = {
-			"A decorative band with a wave pattern and feather.",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000"
-		},
-		slotCount = 0,
-		ClassNum = 155,
-		costume = true
-	},
 	[31715] = {
 		unidentifiedDisplayName = "Orange Rabbit",
 		unidentifiedResourceName = "C_Orange_Rabbit",
@@ -281425,8 +281407,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"An ornament resembling the wings of the fairies who inhabit the Garden of Eden.",
 			"^777777-------------^000000",
-			"Resistance against Boss monsters and normal monsters +5%.",
-			"Damage inflicted by player characters -5%.",
+			"Resistance against Boss monsters, normal monsters and player characters +5%.",
 			" ",
 			"^264696[For each refine level]^000000",
 			"ASPD +1%.",
@@ -281439,12 +281420,12 @@ tbl = {
 			"^264696[If refine rate is +11 or higher]^000000",
 			"Allows to use ^0000FFEnergy Coat^000000 (LV 1).",
 			"If ^0000FFEnergy Coat^000000 (LV 1) is learned, DEF +300, MDEF +15 additionally.",
-			"^777777?????????????^000000",
+			"^777777-------------^000000",
 			"^264696[If equipped with Wizard of Veritas Card]^000000",
 			"INT +40.",
 			"Detects hidden monsters.",
-			"^264696[When used by Mage Jobs]^000000",
-			"^0000FF[Sight Blaster]^000000 damage +1500%.",
+			"^264696[When used by Wizard Jobs]^000000",
+			"^0000FF[Sightrasher]^000000 damage +1500%.",
 			"^777777-------------^000000",
 			"Class: ^777777Garment^000000",
 			"Defence: ^77777740^000000",
@@ -281573,11 +281554,11 @@ tbl = {
 			"Physical damage inflicted on all race enemies +5%.",
 			" ",
 			"^264696[When used by Acolyte 3rd Class Jobs]^000000",
-			"Physical/magic damage inflicted on all race enemies +5%, ASPD +10% additionally.",
+			"Physical/magic damage inflicted on all race enemies +5%, ASPD +10%.",
 			" ",
 			"^264696[When used by Merchant 3rd Class Jobs]^000000",
 			"Physical damage inflicted on all race enemies +5%.",
-			"When using skill, SP consumption -10%.",
+			"SP consumption -10%.",
 			" ",
 			"^264696[When equipped with Hero Judgement Shawl]^000000",
 			"Auto-spells [Lex Aeterna] and [Kyrie Eleison] will not work.",
@@ -281586,7 +281567,7 @@ tbl = {
 			"^264696[If equipped with Hero Trade Mail]^000000",
 			"Additionally gives a chance to cast Stun, Poison, Curse and Silence on enemies.",
 			"^264696[For each Hero Trade Mail refine level]^000000",
-			"All stats +3 for each item refine level, increases the chance of Stun, Poison, Silence and Curse additionally.",
+			"All stats +2 for each item refine level, increases the chance of Stun, Poison, Silence and Curse additionally.",
 			" ",
 			"^264696[When equipped with Hero Plate]^000000",
 			"Auto-spells [Storm Gust] and [Heal] will not work.",
@@ -281670,6 +281651,28 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
+	},
+	[31714] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "Дё",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Costume Indian Headband",
+		identifiedResourceName = "АОµрѕИёУё®¶м",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"A decorative band with a wave pattern and feather.",
+			"^777777-------------^000000",
+			"Class: ^808080Costume^000000",
+			"Position: ^808080Upper^000000",
+			"Weight: ^8080800^000000",
+			"Requires Level: ^8080801^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 155,
+		costume = true
 	}
 }
 
