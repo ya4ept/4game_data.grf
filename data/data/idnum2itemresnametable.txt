@@ -12148,7 +12148,6 @@
 450180#Cute_Frog_Raincoat#
 490079#SoulExpansionRing#
 490149#Glittering_Cat_Choker#
-
 19268#이프리트의숨결#
 19437#LittleGarden#
 22195#Booster_shoes#
@@ -12562,9 +12561,11 @@
 23085#쿠나이소환서_독#
 400059#천헐궁보관#
 460004#Illusion_Shield_A#
-
 19314#Royal_Mantle#
 19466#C_Small_Ocean#
 20991#Fairy_Of_Eden#
 420068#Lord_of_Royals#
 104707#지혜스크롤#
+400054#C_Large_Sorcerer_Crown#
+480492#C_Alice_Broom#
+520003#Scythe_Of_Ice_Flame#
