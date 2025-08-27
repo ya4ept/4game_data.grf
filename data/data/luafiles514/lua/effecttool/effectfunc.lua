@@ -161,3 +161,20 @@ ReadEffectInfoz = function(tablename)
 		end
 	end
 end
+
+-- Function #6
+ReadEZ2STRInfoz = function(tablename)
+	local t = _G[tablename]
+	if t ~= nil then
+		for k, v in pairs(t) do
+			SetEZ2STRInfo(k, MSG_SET_STR_FILENAME, v.str)
+			SetEZ2STRInfo(k, MSG_SET_RENDER_FLAG, v.rednerflag)
+			if v.scaleratio ~= nil then
+				SetEZ2STRInfo(k, MSG_SET_SCALE_RATIO, v.scaleratio)
+			end
+			if v.alpharatio ~= nil then
+				SetEZ2STRInfo(k, MSG_SET_ALPHA_RATIO, v.alpharatio)
+			end
+		end
+	end
+end

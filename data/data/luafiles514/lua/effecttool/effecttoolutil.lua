@@ -42,6 +42,8 @@ MSG_SET_HEIGHT19 = 40
 MSG_SET_HEIGHT20 = 41
 MSG_SET_SIZE2 = 42
 MSG_SET_ZENABLE = 43
+dofile("./LuaFiles514/Lua Files/EffectTool/effectmsgid.lua")
+dofile("./LuaFiles514/Lua Files/EffectTool/effectfunc.lua")
 
 -- Function #0
 IsOpenedEmitterInfoFiles = function(InfoTableName)
@@ -141,5 +143,30 @@ ReadEffectInfoz = function(InfoTableName)
 			SetOtherEffectInfo(v.Type[1], v.ID[1], MSG_SET_HEIGHT20, v.Height20[1])
 			SetOtherEffectInfo(v.Type[1], v.ID[1], MSG_SET_INIT)
 		end
+	end
+end
+
+-- Function #6
+GetValue = function(valueName)
+	return _G[valueName]
+end
+
+-- Function #7
+CreateEffect_ver_1_0 = function(tableName, effectTypeId)
+	local t = _G[tableName]
+	for i = 0, table.getn(t), 1 do
+		if effectTypeId == -1 then
+			CreateEffect(t[i].Type[1], t[i].pos[1], t[i].pos[2], t[i].pos[3])
+		else
+			CreateEffect(effectTypeId, t[i].pos[1], t[i].pos[2], t[i].pos[3])
+		end
+	end
+end
+
+-- Function #8
+CreateEffect_ver_2_0 = function(tableName, effectTypeId)
+	local t = _G[tableName]
+	for i = 0, table.getn(t), 1 do
+		CreateEffect(effectTypeId, t[i].pos[1], t[i].pos[2], t[i].pos[3])
 	end
 end

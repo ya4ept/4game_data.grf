@@ -25783,8 +25783,8 @@ A message of Priest Guild#
 
 
 12483#Subsequent confirmation#SG_FEEL#QUE_NOIMAGE#
-You talked to Esmeralda at Prontera Cathedral and informed her about the head of Priest Guild. You wanted to know what happens next. Follow Esmeralda at Prontera Cathedral.#
-Talk to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth.#
+You talked to <NAVI>Esmeralda<INFO>prt_maze01.gat,100,27,0,101,0</INFO></NAVI> in the labyrinth and informed her about the head of Priest Guild. You wanted to know what happens next. Follow Esmeralda at Prontera Cathedral.#
+Talk to Esmeralda#
 
 
 12484#In search of an acolyte#SG_FEEL#QUE_NOIMAGE#
@@ -26248,3 +26248,763 @@ Glast Heim Challenge#
 12502#Defeat Himmelmez#SG_FEEL#QUE_NOIMAGE#
 Glast Heim Challenge#
 #
+
+3407#Missing Fishing Rod#SG_FEEL#QUE_NOIMAGE#
+Take Sirud's fishing rod to <NAVI>[Sea Explorer Zerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>.#
+Talk to Zerimon#
+
+3408#Supply of Abyssal Essence#SG_FEEL#QUE_NOIMAGE#
+Bring the Abyssal Essence that Kane gave you to <NAVI>[Sea Explorer Zerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>.#
+Give Abyssal Essence#
+
+3409#Whirlpool to the Sea Depths#SG_FEEL#QUE_NOIMAGE#
+Return with Zerimon to <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> and create a whirlpool that will allow you to fall into the depths of the sea.#
+Talk to Zerimon in Izlude#
+
+3410#Sirud Dreams of the Sea#SG_FEEL#QUE_NOIMAGE#
+Sirud asks to take him with you when you go to sea.#
+Go to sea with Sirud#
+
+3411#Elimination of Abyssal Creatures#SG_FEEL#QUE_NOIMAGE#
+Kill 10 each of ^4d4dffAbyssal Sropho^000000, ^4d4dffAbyssal Deviace^000000 and ^4d4dffAbyssal Marse^000000.#
+Kill abyssal creatures of 3 different types#
+
+3412#Collecting Abyssal Essence#SG_FEEL#QUE_NOIMAGE#
+Collect 10 ^4d4dffAbyssal Essences^000000 and bring them to <NAVI>[Zerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>.#
+Bring 10 Abyssal Essences#
+
+3413#[Daily] Collecting Abyssal Essence#SG_FEEL#QUE_NOIMAGE#
+Collect 10 ^4d4dffAbyssal Essences^000000 and bring them to <NAVI>[Zerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>.#
+Bring 10 Abyssal Essences#
+
+3414#Collecting Abyssal Essence (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Zerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+3415#[Daily] Elimination of Strong Abyssal Creatures#SG_FEEL#QUE_NOIMAGE#
+Kill 10 creatures of each type: ^4d4dffAbyssal Sropho^000000, ^4d4dffAbyssal Deviace^000000 and ^4d4dffAbyssal Marse^000000.#
+Kill abyssal creatures of 3 different types#
+
+3416#Elimination of Strong Abyssal Creatures (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Zerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+3417#[Daily] Elimination of Common Abyssal Creatures#SG_FEEL#QUE_NOIMAGE#
+Kill 10 each of  ^4d4dffAbyssal Swordfish^000000, ^4d4dffAbyssal Phen^000000 and ^4d4dffAbyssal King Dramoh^000000.#
+Kill abyssal creatures of 3 different types#
+
+3418#Elimination of Common Abyssal Creatures (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+3419#[Daily] Elimination of Common Abyssal Fishmen#SG_FEEL#QUE_NOIMAGE#
+Kill 15 each of ^4d4dffAbyssal Sedora^000000 and ^4d4dffAbyssal Strouf^000000.#
+Kill abyssal fishmen of 2 different types#
+
+3420#Elimination of Common Abyssal Fishmen (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+3389#Removal of Bionic Jammer Chips#SG_FEEL#QUE_NOIMAGE#
+You have successfully removed the Chips and established communication with Eorpa.#
+Try to talk to her again once the system reboots.#
+
+3390#Magic Power Plant 2 Manager Eorpa#SG_FEEL#QUE_NOIMAGE#
+Take Potato Chips from ^4d4dffMagic-poisoned Sanares^000000 and come back!#
+Collect Potato Chips (10 pcs.)#
+
+3391#Chips Scattered by Illusion Agents (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+3392#Chips Scattered by Illusion Agents#SG_FEEL#QUE_NOIMAGE#
+Take Potato Chips from ^4d4dffMagic-poisoned Sanares^000000 and come back!#
+Collect Potato Chips (10 pcs.)#
+
+5892#Cleaner Omega#SG_FEEL#QUE_NOIMAGE#
+Cleaner Omega#
+Finish talking to Cleaner Omega#
+
+5893#Cleaning Station Waste Removal I#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties. ^0000FFKill^000000 44 <NAVI>[Sewage<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI> <NAVI>Venenums]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.  You will receive a reward after completing all of the following quests: 'Cleaning Station Waste Removal I', 'Cleaning Station Waste Removal II', 'Cleaning Station Waste Removal III'.#
+Kill Sewage Venenum (44 pcs.)#
+
+5894#Cleaning Station Waste Removal II#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties. ^0000FFKill^000000 44 <NAVI>[Sewage<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI> <NAVI>Cramps]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.  You will receive a reward after completing all of the following quests: 'Cleaning Station Waste Removal I', 'Cleaning Station Waste Removal II', 'Cleaning Station Waste Removal III'.#
+Kill Sewage Cramps (44 pcs.)#
+
+5895#Cleaning Station Waste Removal III#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties. ^0000FFKill^000000 44 <NAVI>[Sewage<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI> <NAVI>Waterfalls]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.  You will receive a reward after completing all of the following quests: 'Cleaning Station Waste Removal I', 'Cleaning Station Waste Removal II', 'Cleaning Station Waste Removal III'.#
+Kill Sewage Waterfalls (44 pcs.)#
+
+5896#Cleaning Station Waste Removal (Pending)#SG_FEEL#QUE_NOIMAGE#
+Please wait a moment. Talk to <NAVI>[Cleaner<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> <NAVI>Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> to start the Cleaning Station Waste Removal quest again.#
+Resets at 04:00 a.m.#
+
+5897#Magic Power Plant 1 Cleanup I#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties. ^0000FFKill^000000 44 <NAVI>[Elite<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI> <NAVI>Bellares]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.  You will receive a reward after completing all of the following quests: 'Magic Power Plant 1 Cleanup I', 'Magic Power Plant 1 Cleanup II', 'Magic Power Plant 1 Cleanup III'.#
+Kill Elite Bellares (44 pcs.)#
+
+5898#Magic Power Plant 1 Cleanup II#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties. ^0000FFKill^000000 44 <NAVI>[Magic-poisoned<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI> <NAVI>Dolors]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>. You will receive a reward after completing all of the following quests: 'Magic Power Plant 1 Cleanup I', 'Magic Power Plant 1 Cleanup II', 'Magic Power Plant 1 Cleanup III'.#
+Kill Magic-poisoned Dolors (44 pcs.)#
+
+5899#Magic Power Plant 1 Cleanup III#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties. ^0000FFDestroy^000000 44 instances of <NAVI>[Unleashed<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI> <NAVI>Magic]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.  You will receive a reward after completing all of the following quests: 'Magic Power Plant 1 Cleanup I', 'Magic Power Plant 1 Cleanup II', 'Magic Power Plant 1 Cleanup III'.#
+Destroy Unleashed Magic (44 pcs.)#
+
+5900#Magic Power Plant 1 Cleanup (Pending)#SG_FEEL#QUE_NOIMAGE#
+Please wait a moment. Talk to <NAVI>[Cleaner<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> <NAVI>Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> to start the Magic Power Plant 1 Cleanup quest again.#
+Resets at 04:00 a.m.#
+
+8586#Farm Briefing#SG_FEEL#QUE_NOIMAGE#
+You have to listen to a safety briefing before you can enter the farm. Talk to <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> to learn more.#
+Talk to Ruinan#
+
+8587#Daily Farm Chores (Pending)#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> is always ready to meet with you. Tomorrow you can complete the quest and receive the reward again.#
+Resets at 04:00 a.m.#
+
+8588#Collecting Tails#SG_FEEL#QUE_NOIMAGE#
+You need to collect Pitaya's tails while working on the farm and then give them to automaton Silk.#
+Take the tails to Silk at the end of the dungeon#
+
+8589#Pitaya Boss!#SG_FEEL#QUE_NOIMAGE#
+Silk has finished her report and asked you to take it to <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>.#
+Talk to Ruinan#
+
+8590#Elimination of Red Pitayas#SG_FEEL#QUE_NOIMAGE#
+Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Red Pitayas.#
+Kill Red Pitayas#
+
+8591#Elimination of Yellow Pitayas#SG_FEEL#QUE_NOIMAGE#
+Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Yellow Pitayas.#
+Kill Yellow Pitayas#
+
+8592#Elimination of Blue Pitayas#SG_FEEL#QUE_NOIMAGE#
+Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Blue Pitayas.#
+Kill Blue Pitayas#
+
+8593#Elimination of Purple Pitayas#SG_FEEL#QUE_NOIMAGE#
+Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Purple Pitayas.#
+Kill Purple Pitayas#
+
+8594#Elimination of Green Pitayas#SG_FEEL#QUE_NOIMAGE#
+Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Green Pitayas.#
+Kill Green Pitayas#
+
+8595#Elimination of Pitayas (Pending)#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> trusts that you will continue helping her in the future. Tomorrow you can complete the quest and receive the reward again.#
+Resets at 04:00 a.m.#
+
+11615#Failure in the Sewers#SG_FEEL#QUE_NOIMAGE#
+Whoever it was that fell into the water, he doesn't look fit to fight. Use an Yggdrasil Leaf to heal him.#
+Use an Yggdrasil Leaf (1 pc.)#
+
+11616#Failure in the Sewers#SG_FEEL#QUE_NOIMAGE#
+Dew was also sent here by the Rebels to explore the mansion. Join his party.#
+Find Maggie#
+
+11617#Failure in the Sewers#SG_FEEL#QUE_NOIMAGE#
+You found a door that leads upstairs. Go up together.#
+Find Alf#
+
+11618#Failure in the Sewers#SG_FEEL#QUE_NOIMAGE#
+Looks like you are finally outside. You need to talk to Lasis.#
+Talk to Lasis#
+
+11620#Failure in the Sewers#SG_FEEL#QUE_NOIMAGE#
+The door seems to be locked from the inside. Go outside and talk to your companions.#
+Talk to Tamarin#
+
+11621#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+Dew took off towards the fountain. Follow him.#
+Investigate the fountain#
+
+11622#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+Explore the library that everyone is talking about.#
+Find a way into the library#
+
+11623#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+You put out the fire and entered the library.#
+Talk to Librarian Beta#
+
+11624#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+To use the library, you need to register first. Talk to Mark.#
+Talk to Mark in the library#
+
+11625#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+To use the library, you need to register first. Talk to Maggie.#
+Talk to Maggie in the library#
+
+11626#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+To use the library, you need to register first. Talk to Alf.#
+Talk to Alf in the library#
+
+11627#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+To use the library, you need to register first. Talk to Tamarin.#
+Talk to Tamarin in the library#
+
+11628#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+To use the library, you need to register first. Talk to Oliver.#
+Talk to Oliver in the library#
+
+11629#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+You talked to Mark. After talking to the other party members, return to Librarian Beta.#
+Return to Librarian Beta#
+
+11630#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+You talked to Maggie. After talking to the other party members, return to Librarian Beta.#
+Return to Librarian Beta#
+
+11631#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+You talked to Alf. After talking to the other party members, return to Librarian Beta.#
+Return to Librarian Beta#
+
+11632#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+You talked to Tamarin. After talking to the other party members, return to Librarian Beta.#
+Return to Librarian Beta#
+
+11633#Silence in the Library!#SG_FEEL#QUE_NOIMAGE#
+You talked to Oliver. After talking to the other party members, return to Librarian Beta.#
+Return to Librarian Beta#
+
+11634#Hunting the Bookworms#SG_FEEL#QUE_NOIMAGE#
+Looks like the library has problems dealing with the Bookworms that keep damaging magic books. Kill the Bookworms and return to Librarian Beta.#
+Kill the Bookworms (20 pcs.)#
+
+11635#Hunting the Bookworms#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. After some time you can start it again by talking to <NAVI>[Librarian Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>.#
+Resets at 04:00 a.m.#
+
+11636#Book Arrangement#SG_FEEL#QUE_NOIMAGE#
+Spellbooks have escaped their bookshelves and are now running amok. Collect the Roaming Spellbooks and return to Librarian Beta.#
+Collect Roaming Spellbooks (20 pcs.)#
+
+11637#Book Arrangement#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. After some time you can start it again by talking to <NAVI>[Librarian Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>.#
+Resets at 04:00 a.m.#
+
+11638#Scrap Metal Collecting#SG_FEEL#QUE_NOIMAGE#
+If you collect the Guardian Parts, it will be possible to fix it. Collect the Guardian Parts and return to Lab 1.#
+Collect Guardian Parts (20 pcs.)#
+
+11639#Scrap Metal Collecting#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. After some time you can start it again by talking to <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>.#
+Resets at 04:00 a.m.#
+
+12496#Waiting for Permission to Enter Flower Garden#SG_FEEL#QUE_NOIMAGE#
+After some time you can enter the Memorial Dungeon by talking to <NAVI>[Gatekeeper]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>.#
+Wait for the permission to enter#
+
+12497#Permission to Enter Protected Area#SG_FEEL#QUE_NOIMAGE#
+You may enter the protected area.#
+Enter the protected area#
+
+12498#Waiting for Permission to Enter Protected Area#SG_FEEL#QUE_NOIMAGE#
+After some time you can enter the Memorial Dungeon by talking to <NAVI>[Gatekeeper]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>.#
+Time left: 1 d.#
+
+12499#Fire Cube - suppressing Kapha#SG_FEEL#QUE_NOIMAGE#
+Defeat Kapha, one of the Fire Cubes that secure the protected area of the mansion, and strip it of control privileges. Eventually they will be restored, but...#
+Buy some time#
+
+12500#Fire Cube - suppressing Lambda#SG_FEEL#QUE_NOIMAGE#
+Defeat Lambda, one of the Fire Cubes that secure the protected area of the mansion, and strip it of control privileges. Eventually they will be restored, but...#
+Buy some time#
+
+16427#Intoxication#SG_FEEL#QUE_NOIMAGE#
+Eliumina has been exposed to some dangerous substances. Go to <NAVI>[Varmundt's Mansion]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> and get some help.#
+Go to the mansion#
+
+16428#Making an Antidote#SG_FEEL#QUE_NOIMAGE#
+Automatons couldn't help Eliumina, but they provided some important information. Go to the <NAVI>[crossing]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to enter the Water Garden.#
+Go to the crossing#
+
+16429#Forest Papillia#SG_FEEL#QUE_NOIMAGE#
+Kill Forest Papillias to make the antidote and return to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>.#
+Kill Forest Papillias#
+
+16430#Antidote's Ready#SG_FEEL#QUE_NOIMAGE#
+Take the antidote that Sayhu told you to make to <NAVI>[Eliumina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>.#
+Talk to Eliumina#
+
+16431#Hunt for Forest Papillias#SG_FEEL#QUE_NOIMAGE#
+Kill Forest Papillias in the Water Garden and return to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>.#
+Kill Forest Papillias#
+
+16432#Hunt for Forest Papillias (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+16433#Hunt for Powerful Papillias#SG_FEEL#QUE_NOIMAGE#
+Kill Powerful Papillias in the Water Garden and return to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>.#
+Kill Powerful Papillias#
+
+16434#Hunt for Powerful Papillias (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+16435#Looking for the Gardener#SG_FEEL#QUE_NOIMAGE#
+Apparently, one of the Gardeners got lost in the Maze Garden. Find the lost automaton, see if it is okay and report back to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>.#
+#
+
+16436#Looking for the Gardener (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+16437#Water Garden#SG_FEEL#QUE_NOIMAGE#
+You have entered the Water Garden on Normal difficulty.#
+Water Garden (Normal)#
+
+16438#Water Garden (Hard)#SG_FEEL#QUE_NOIMAGE#
+You have entered the Water Garden on Hard difficulty.#
+Water Garden (Hard)#
+
+16439#Water Garden (Pending)#SG_FEEL#QUE_NOIMAGE#
+It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again.#
+Resets at 04:00 a.m.#
+
+16440#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+Talk to <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> and find out why the leaders are against Philopontess.#
+Talk to Dien#
+
+16441#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+Listen to the Stewards' stories, return to <NAVI>[tea house]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> and relay what you have learned.#
+Talk to a Steward#
+
+16442#Talk with a Steward#SG_FEEL#QUE_NOIMAGE#
+Listen to <NAVI>[Steward]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>.#
+Talk to a Steward#
+
+16443#Talk with a Steward#SG_FEEL#QUE_NOIMAGE#
+Listen to <NAVI>[Steward]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>.#
+Talk to a Steward#
+
+16444#Talk with a Steward#SG_FEEL#QUE_NOIMAGE#
+Listen to <NAVI>[Steward]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>.#
+Talk to a Steward#
+
+16445#Talk with a Steward#SG_FEEL#QUE_NOIMAGE#
+Listen to <NAVI>[Steward]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>.#
+Talk to a Steward#
+
+16446#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+The story that has once been forgotten continues. Talk to <NAVI>[Ridsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI> and listen to what she has to say.#
+Talk to Ridsh#
+
+16447#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+The story that the corporation tried to keep quiet is far from over. Talk to <NAVI>[Kaya Tos]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI> and listen to what he has to say.#
+Talk to Kaya#
+
+16448#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+After Kaya left, Rookie became talkative. Listen to what <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> has to say.#
+Talk to Rookie#
+
+16449#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+Kaya Tos went into the garden by himself. But is he really alone? Approach <NAVI>[Kaya Tos]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>.#
+Talk to Kaya#
+
+16450#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+Dien might have changed her mind. Listen to what <NAVI>[Dien]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI> has to say.#
+Talk to Dien#
+
+16451#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+Kaya is trying to move things forward as quickly as possible. Listen to what <NAVI>[Kaya]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI> has to say.#
+Talk to Kaya#
+
+16452#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> has arrived. Listen to what he has to say about the corporation's future.#
+Talk to Tatio#
+
+16453#Searching for Truth#SG_FEEL#QUE_NOIMAGE#
+According to <NAVI>[instructions]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>, move to the place where H. was talking to the stranger and examine it.#
+Go to the specified location#
+
+17333#Guest of the Mansion#SG_FEEL#QUE_NOIMAGE#
+It seems there was an error while transmitting the guest list over the Mansion's intranet. Find out from <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> what happened.#
+Talk to Steward Alpha#
+
+17334#Repeater Check: Dining Room#SG_FEEL#QUE_NOIMAGE#
+Go to the <NAVI>[dining room]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Report to the automaton about the broken repeater and ask to fix it.#
+Go to dining room#
+
+17335#Repeater Component#SG_FEEL#QUE_NOIMAGE#
+Deal with Broken Beta and bring Robot Communication Chip. I need to repair the repeater immediately. - <NAVI>[Sweet Tooth]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>#
+Find a spare part (1 pc.)#
+
+17336#Repeater Check: Pavilion#SG_FEEL#QUE_NOIMAGE#
+You can get to the <NAVI>[pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI> following this road. Don't touch the broken repeater. Better ask the nearest automatons for help.#
+Go to the pavilion#
+
+17337#Repeater Check: Central Garden#SG_FEEL#QUE_NOIMAGE#
+To get to the <NAVI>[central garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI> of the mansion go up this road and turn left.#
+Go to the central garden#
+
+17338#Repeaters Check Complete#SG_FEEL#QUE_NOIMAGE#
+You've checked the broken repeaters and told the automatons about them. Go back to <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>.#
+Return to Steward Alpha#
+
+17339#Spare Parts Delivery#SG_FEEL#QUE_NOIMAGE#
+You are asked to bring some spare parts.#
+Bring spare parts#
+
+17340#Spare Parts Delivery#SG_FEEL#QUE_NOIMAGE#
+Deal with Broken Betas and bring 10 repeater parts. This amount is usually enough for a day. - <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>#
+Bring spare parts (10 pcs.)#
+
+17341#No Signal (Pending)#SG_FEEL#QUE_NOIMAGE#
+If you don't mind I will ask for your help again tomorrow. Have some rest. - <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+17342#Weird Feeling#SG_FEEL#QUE_NOIMAGE#
+Can I ask for your help? Please destroy 5 broken cleaner robots. Have a good luck. - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>#
+Destroy broken cleaner robots (5 pcs.)#
+
+17343#I am scared...#SG_FEEL#QUE_NOIMAGE#
+Go down the <NAVI>[stairs]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> and check out what's going on in the basement.#
+Inspect the basement#
+
+17344#Missing Key#SG_FEEL#QUE_NOIMAGE#
+The door to the stairs is locked. You need to get the key from <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>.#
+Talk to Jacky#
+
+17345#Stairwell Key 1#SG_FEEL#QUE_NOIMAGE#
+Look under the <NAVI>[world that spins]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Something might be hidden there.#
+Find the Emergency Key#
+
+17346#Stairwell Key 2#SG_FEEL#QUE_NOIMAGE#
+The master said even breath gets frozen in this <NAVI>[place]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>.#
+Find the Emergency Key#
+
+17347#Stairwell Key 3#SG_FEEL#QUE_NOIMAGE#
+The air flow never stops there. But it requires lots of energy. <NAVI>[This place]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>... It can be anywhere.#
+Find the Emergency Key#
+
+17348#Keys Found#SG_FEEL#QUE_NOIMAGE#
+All the emergency keys are found, go to the <NAVI>[locked door]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> and open it.#
+Go to the stairwell door#
+
+17349#Door Open#SG_FEEL#QUE_NOIMAGE#
+The door to the basement is open. Go downstairs and check the place where <NAVI>[the sound comes from]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>.#
+Go down to the basement#
+
+17350#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[The place where the body can be found]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> is not far, go there first. Bring it here as soon as possible. This place is pretty scary.#
+Find the body#
+
+17351#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+The body is found, now go search for <NAVI>[arms]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>.#
+Find arms#
+
+17352#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+The arms are found, now go search for <NAVI>[legs]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>.#
+Find legs#
+
+17353#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+You've found suitable body, arms and legs, return to the <NAVI>[head]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>.#
+Find the head#
+
+17354#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+Assemble the body parts together.#
+Complete the assembling#
+
+17355#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+Assemble the body parts together.#
+Complete the assembling#
+
+17356#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+Assemble the body parts together.#
+Complete the assembling#
+
+17357#Head, body, arms, legs#SG_FEEL#QUE_NOIMAGE#
+Assemble the body parts together.#
+Complete the assembling#
+
+17358#Inspecting the Basement (Completed)#SG_FEEL#QUE_NOIMAGE#
+Proper defense is provided! Better go upstairs and tell another <NAVI>[automaton]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI> about this, right? Hurry.#
+Talk to Jacky#
+
+17359#Cleaning the Ground Warehouse#SG_FEEL#QUE_NOIMAGE#
+It seems you enjoy fighting. Then can you defeat 20 Heart Hunters on the ground floor? - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>#
+Kill Heart Hunters (20 pcs.)#
+
+17360#Cleaning the Ground Warehouse (Pending)#SG_FEEL#QUE_NOIMAGE#
+There are less intruders indeed. Now I can get down to my work. Thanks. Come back tomorrow if you want to help me again. - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+17361#Cleaning the Underground Warehouse#SG_FEEL#QUE_NOIMAGE#
+It seems you enjoy fighting. Then can you defeat 20 Broken Guard Betas on the underground floor? - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>#
+Kill Broken Guard Betas on the underground floor (20 pcs.)#
+
+17362#Cleaning the Underground Warehouse (Pending)#SG_FEEL#QUE_NOIMAGE#
+There are less intruders indeed. Now I can get down to my work. Thanks. Come back tomorrow if you want to help me again. - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+17363#To the Bathhouse#SG_FEEL#QUE_NOIMAGE#
+Go to the <NAVI>[bathhouse]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> and examine it.#
+Go to the bathhouse#
+
+17364#Turning off the Boiler#SG_FEEL#QUE_NOIMAGE#
+Go to the <NAVI>[boiler room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask to turn off the boiler. I'll follow you in a moment.#
+Go to the boiler room#
+
+17365#Is the Boiler Shut Down?#SG_FEEL#QUE_NOIMAGE#
+The boiler is off. Return to <NAVI>[Rookie]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI> and talk to him.#
+Return to Rookie#
+
+17366#Now, really?#SG_FEEL#QUE_NOIMAGE#
+They say if you misstep while cleaning, you can fall down the drain pipe. But the flow will take you to the lake instead of the Cleaning Station. Look around <NAVI>[this place]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> and come back.#
+Inspect the lake#
+
+17367#Preparing Counter Measures#SG_FEEL#QUE_NOIMAGE#
+We need to deal with this thing, whatever it is. Go to the <NAVI>[recreation<INFO>ba_bath,203,58,0,101,0</INFO></NAVI> <NAVI>room]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>.#
+Go to the recreation room#
+
+17368#Setting the Trap 1#SG_FEEL#QUE_NOIMAGE#
+Adventurer, place this item in the <NAVI>[corner]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI> of the bathhouse. Just put this thing to the floor and secure in place.#
+Go to the specified location#
+
+17369#Setting the Trap 2#SG_FEEL#QUE_NOIMAGE#
+The trap is set. You sense the cold emitting from it. Go to the <NAVI>[next<INFO>ba_bath,306,121,0,101,0</INFO></NAVI> <NAVI>place]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>.#
+Go to the next place#
+
+17370#Setting the Trap 3#SG_FEEL#QUE_NOIMAGE#
+The trap is set exactly where Rookie said. Go to the <NAVI>[next place]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>.#
+Go to the next place#
+
+17371#Setting the Trap 4#SG_FEEL#QUE_NOIMAGE#
+The trap is set and secured in the marked location. Go to the <NAVI>[next place]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>.#
+Go to the next place#
+
+17372#Setting the Trap (Completed)#SG_FEEL#QUE_NOIMAGE#
+Have you set all the traps? It's time to start. Head to the <NAVI>[operation site]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>.#
+Go to the operation site#
+
+17373#Time to Talk#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Stranger]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI> looking like Goni seems to be thinking what to say next. Talk to him again.#
+Talk to Goni#
+
+17374#What is the Reason?#SG_FEEL#QUE_NOIMAGE#
+Looks like Rookie decided to talk to the <NAVI>[Mermaid]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>.#
+Talk to the Mermaid#
+
+17375#Technician's Request#SG_FEEL#QUE_NOIMAGE#
+Eliminate 20 Broken Cleaners and bring 5 broken robot parts. - <NAVI>[Technician]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>#
+Listen to Technician's request#
+
+17376#Amidst the Refreshing Steam#SG_FEEL#QUE_NOIMAGE#
+Eliminate 20 Broken Cleaners and bring 5 broken robot parts. - <NAVI>[Technician]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>#
+Destroy broken automatons#
+
+17377#Amidst the Refreshing Steam (Pending)#SG_FEEL#QUE_NOIMAGE#
+Have some rest today! I'll be happy if you come back tomorrow. - <NAVI>[Technician]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+17378#Cleaner's Request#SG_FEEL#QUE_NOIMAGE#
+Please kill 15 Clean Marcs and 15 Clean Piranhas. Better start cleaning up. - <NAVI>[Cleaner]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>#
+Listen to Cleaner's request#
+
+17379#Cleaning the Bathhouse#SG_FEEL#QUE_NOIMAGE#
+Please kill 15 Clean Marcs and 15 Clean Piranhas. Better start cleaning up. - <NAVI>[Cleaner]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>#
+Kill fish (30 pcs.)#
+
+17380#Cleaning the Bathhouse (Pending)#SG_FEEL#QUE_NOIMAGE#
+You should come back tomorrow. There will be plenty of fish. - <NAVI>[Cleaner]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+17381#Joining the Party#SG_FEEL#QUE_NOIMAGE#
+The guests who arrived first are now in the <NAVI>[tea house]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Stop by and chat with them.#
+Go to the tea house#
+
+18000#Getting Ready#SG_FEEL#QUE_NOIMAGE#
+The Rebels managed to gain access to the sewer. Rookie asked you to talk to him when you are ready to enter the sewer pipe.#
+Talk to Rookie#
+
+18001#Secret Path to the Mansion#SG_FEEL#QUE_NOIMAGE#
+Rookie from Cor says you should go inside through the sewer. If you meet allies in the sewer, you'd better move forward together.#
+Talk to Dew#
+
+18002#Returning Broken Cores#SG_FEEL#QUE_NOIMAGE#
+Together with Rookie you've decided to collect the cores of automatons that were attacked by Heart Hunters. Collect the cores and meet with Rookie.#
+Collect Broken Cores (at least 5 pcs.)#
+
+18003#Broken Core 01#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18004#Broken Core 02#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18005#Broken Core 03#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18006#Broken Core 04#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18007#Broken Core 05#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18008#Broken Core 06#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18009#Broken Core 07#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18010#Broken Core 08#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18011#Broken Core 09#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18012#Broken Core 10#SG_FEEL#QUE_NOIMAGE#
+Inspect the core of a broken steward.#
+#
+
+18013#To the Appointed Place#SG_FEEL#QUE_NOIMAGE#
+You've collected some cores of broken stewards. You should meet Rookie in the appointed <NAVI>[place]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>.#
+Talk to Elena Volkova#
+
+18014#Surprise Catch#SG_FEEL#QUE_NOIMAGE#
+Thanks to Elena's smart moves Eisen Werner was captured. Elena took Eisen Werner to the <NAVI>[living quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI> where captured Eliumina is held. Join the interrogation of Eisen.#
+Talk to Rookie#
+
+18015#Tracker for Illusion Agents#SG_FEEL#QUE_NOIMAGE#
+Eliumina says she'll construct a tracker that can locate Illusion agents. Materials required to make the tracker are as follows: <ITEM>[Fluorescent Liquid]<INFO>7326</INFO></ITEM> 10 pcs., <ITEM>[Broken Sword]<INFO>7110</INFO></ITEM> 10 pcs.#
+Bring Fluorescent Liquid and Broken Sword to Eliumina#
+
+18016#Tactical Meeting#SG_FEEL#QUE_NOIMAGE#
+Examine Varmundt's Mansion together with Est and make a plan that will help you capture Heart Hunters and Illusion agents.#
+Talk to Est#
+
+18017#Pest Control Operation#SG_FEEL#QUE_NOIMAGE#
+Inspect the Twilight Garden and search for the Illusion agents. You should lose yourself in hunting.#
+Kill Sweety#
+
+18018#To the Airship Dock#SG_FEEL#QUE_NOIMAGE#
+Maybe you can get some information from captured Sweety. Go to the Airship Dock#
+Talk to Alpha#
+
+18019#Talk to Sweety#SG_FEEL#QUE_NOIMAGE#
+Almond who was repairing Sweety in the Airship Dock said that Sweety had woken up and you can talk to him.#
+Talk to Sweety#
+
+18020#Greetings#SG_FEEL#QUE_NOIMAGE#
+You need o talk to Nihil.#
+Talk to Nihil#
+
+18021#Arrived Guest#SG_FEEL#QUE_NOIMAGE#
+Crux has arrived from the royal palace of Prontera. He is ready to take you to the palace. Talk to Crux near the recreation room.#
+Talk to Crux#
+
+18022#Sparring with Sweety#SG_FEEL#QUE_NOIMAGE#
+If Sweety who is being repaired in the Airship Dock suddenly goes wild, help calm him down.#
+Fight Sweety#
+
+18023#Sparring with Sweety (Pending)#SG_FEEL#QUE_NOIMAGE#
+Sweety's body is pretty damaged and needs mending. After a while this quest can be obtained from <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>.#
+Resets at 04:00 a.m.#
+
+18024#Collecting Cores#SG_FEEL#QUE_NOIMAGE#
+After your fight with Sweety Almond from the Airship Dock asked you to search the garden and collect broken robot cores.#
+Collect Broken Cores (at least 10 pcs.)#
+
+18025#Collecting Cores (Pending)#SG_FEEL#QUE_NOIMAGE#
+After a while this quest can be obtained from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> from the Airship Dock.#
+Resets at 04:00 a.m.#
+
+7879#New Toxic Gas Research#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> told she studies Smokes and Toxins which appear on the 3rd dungeon floor of Einbech mine, and asked you to hunt them.#
+Smokes and Toxins Hunt#
+
+7880#New Toxic Gas Research - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the New Toxic Gas Research mission from <NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> outside of the Einbech mine again.#
+Resets at 04:00 a.m.#
+
+7881#Special Mineral Research 1#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> told she studies Green Minerals and Red Minerals which appear on the 3rd dungeon floor of Einbech mine, and asked you to hunt them.#
+Green and Red Minerals Hunt#
+
+7882#Special Mineral Research 1 - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Special Mineral Research 1 mission from <NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> outside of the Einbech mine again.#
+Resets at 04:00 a.m.#
+
+7883#Special Mineral Research 2#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> told she studies White Minerals and Purple Minerals which appear on the 3rd dungeon floor of Einbech mine, and asked you to hunt them.#
+White and Purple Minerals Hunt#
+
+7884#Special Mineral Research 2 - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Special Mineral Research 2 mission from <NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> outside of the Einbech mine again.#
+Resets at 04:00 a.m.#
+
+7885#Abyssman Research#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> told she studies Abyssmen which appear on the 3rd dungeon floor of Einbech mine, and asked you to hunt them.#
+Abyssman Hunt#
+
+7886#Abyssman Research - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Abyssman Research mission from <NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> outside of the Einbech mine again.#
+Resets at 04:00 a.m.#
+
+7887#Ore Insect Research#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> told she studies Ore Insects which appear on the 3rd dungeon floor of Einbech mine, and asked you to hunt them.#
+White Woodlouse and Gemstone Ant Hunt#
+
+7888#Ore Insect Research -Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Ore Insect Research mission from <NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> outside of the Einbech mine again.#
+Resets at 04:00 a.m.#
+
+7889#Angelgolt Research#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Folklore Expert Synamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> who does researches in the small tower of Odin's temple gave you a task to kill two types of angelgolts to help his researches.#
+Angelgolt Hunt#
+
+7890#Angelgolt Research - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Angelgolt Research mission from <NAVI>[Folklore Expert Synamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> in the tower of Odin's temple again.#
+Resets at 04:00 a.m.#
+
+7891#Valkyrie-like#SG_FEEL#QUE_NOIMAGE#
+<NAVI>[Folklore Expert Synamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> who does researches in the small tower of Odin's temple gave you a task to kill Holy Frus and Holy Skogul to help his researches.#
+Holy Frus and Skogul Hunt#
+
+7892#Valkyrie-like - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Valkyrie-like mission from <NAVI>[Folklore Expert Synamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> in the tower of Odin's temple again.#
+Resets at 04:00 a.m.#
+
+7893#Ferus of Unusual Color#SG_FEEL#QUE_NOIMAGE#
+In the Hugel square, <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> asked for your help with Purple Ferus research. It seems the Ferus' nature is somehow related to mutation of elements, the creatures can be found on the 4th level of the Abyss Dungeon.#
+Purple Ferus Hunt#
+
+7894#Ferus of Unusual Color - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Purple Ferus Research mission from <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel square again.#
+Resets at 04:00 a.m.#
+
+7895#New Mimic Research#SG_FEEL#QUE_NOIMAGE#
+In the Hugel square, <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> asked you to kill a new type of Mimics called Jeweled Mimics on the 4th level of the Abyss Dungeon, and collect some materials for her research.#
+Jeweled Mimic Hunt#
+
+7896#New Mimic Research - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the New Mimic Research mission from <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel square again.#
+Resets at 04:00 a.m.#
+
+7897#Acidus Element Research#SG_FEEL#QUE_NOIMAGE#
+In the Hugel square, <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> asked for your help with the Black Acidus and Silver Acidus research on the 4th level of the Abyss Dungeon.#
+Black and Silver Acidus Hunt#
+
+7898#Acidus Element Research - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Acidus Element Research mission from <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel square again.#
+Resets at 04:00 a.m.#
+
+7899#Against Nature#SG_FEEL#QUE_NOIMAGE#
+In the Hugel square, <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> asked you to kill Bone Ferus and Bone Acidus on the 4th level of the Abyss Dungeon.#
+Bone Ferus and Acidus Hunt#
+
+7900#Against Nature - Waiting#SG_FEEL#QUE_NOIMAGE#
+After a while you can get the Against Nature mission from <NAVI>[Folklore Expert Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel square again.#
+Resets at 04:00 a.m.#

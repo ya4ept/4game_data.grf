@@ -1,3 +1,177 @@
+20.08.2025 11:18
+[CM] Caprese
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Refine Hats Sets arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The Survivor Sets arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+— The "Midgardian style Fishing in Morroc" event has begun.
+
+Finished activities:
+— The Chronosets & FAW Sets left the launcher.
+— The Shadow Packs left the launcher.
+— The Special Packs for Mechanic left the launcher.
+— The Special Packs for Genetic left the launcher.
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The "Colorful runaways" event has come to an end.
+
+Changes:
+— Fixed a bug in the quest to get the ninja profession.
+— Fixed localization issues on some cards.
+— Fixed bugs which caused items God Eater Dragon Spear and Sapphire Wrist to work incorrectly.
+— The Daily Rewards got updated - By logging into the game every day and collecting rewards, you will be able to receive Mighty Beard at the end of the season.
+
+More: https://eu.4gameforum.com/threads/695559/ 
+
+
+================
+14.08.2025 11:06
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Chronosets & FAW Sets arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Special Packs for Mechanic arrived in launcher.
+— The Special Packs for Genetic arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+
+Changes:
+— Fixed a bug that caused crashes during attempting to modify automatic gear with modules.
+— Fixed minor localization issues.
+— Updated the Dovmihr`s Reward List.
+
+More: https://eu.4gameforum.com/threads/695543/
+
+================
+06.08.2025 14:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Update:
+— The "Legacy of the Wise One [17.2]" update has been installed.
+The update is described in detail in our patch note.
+
+Events and Shop:
+— A Leveling Race: 200/70 has started on the server — be the first to reach level 200 and get unique rewards!
+— The Special Packs for Sura arrived in launcher.
+— The Special Packs for Arch Bishop arrived in launcher.
+— The Lucky Treasures Sets arrived in launcher.
+— The Transmutator Packs arrived in launcher.
+— The "Colorful runaways" event has begun.
+
+More: https://eu.4gameforum.com/threads/695526/
+
+================
+30.07.2025 12:04
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Profession Item Packs arrived in launcger.
+— The Special Packs for Summoner arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Summer Rain Treasure arrived in launcher.
+
+More: https://eu.4gameforum.com/threads/695509/
+
+================
+23.07.2025 10:55
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Special Packs for Royal Guard arrived in launcher.
+— The Special Packs for Rune Knight arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+— The "Shaken, not stirred (Morroc)" event has begun.
+
+Changes:
+— Fixed a bug which caused an item Mountain Helmet to work incorrectly.
+
+More: https://eu.4gameforum.com/threads/695497/
+
+================
+16.07.2025 12:37
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Lucky Treasures Sets arrived in launcher.
+— The Special Packs for Shadow Chaser arrived in launcher.
+— The Special Packs for Mechanic arrived in launcher.
+
+Changes:
+— Stats for the items Giant's Protection, Magma Manteau and Mountain Helmet have been changed.
+— The Daily Rewards got updated - By logging into the game every day and collecting rewards, you will be able to receive Costume Palace Guard Cap at the end of the season.
+
+More: https://eu.4gameforum.com/threads/695479/
+
+================
+09.07.2025 11:15
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Chronosets & FAW Sets arrived in launcher.
+— The Special Packs for Ranger arrived in launcher.
+— The Special Packs for Maestro and Wanderer arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "X Marks the Spot" event has begun.
+
+Changes:
+— Fixed a bug which caused an item Battle Surcoat to work incorrectly.
+
+More: https://eu.4gameforum.com/threads/695465/
+
+================
+02.07.2025 11:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Shadow Packs arrived in launcher.
+— The Transmutator Packs arrived in launcher.
+— The Special Packs for Genetic arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Vagabond Wolf Treasure arrived in launcher.
+
+Changes:
+— Fixed a bug with the item Great Magician's Ceremonial Crown not working correctly with the item Kuroiro-OS and 2x Kuroiro-OS.
+
+More: https://eu.4gameforum.com/threads/695455/
+
+================
+25.06.2025 11:05
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The HD refine sets arrived in launcher.
+— The Refine Hats Sets arrived in launcher.
+— The The Packs with Blacksmith Blessing arrived in launcher.
+— The "Boosted Refinement Rates" event has begun.
+— The "Saving the Blacksmith's Blessing" event has begun.
+— The "Gold Rush (Prontera)" event has begin.
+
+Changes:
+— Fixed a bug in the quest for NPC Kiel Hyre, due to which there was an incorrect multiple appearance of monsters.
+— Fixed an item Illusion Shield [1] - now bonus "+5 Mdef every 3 upgrade levels" works correctly.
+— Fixed a sequence Break in Geffen Magic Tournament with Homunculus.
+— Fixed an incorrect description of items Skin of Typhon and Skin of Ladon.
+— A bug with item Great Magician's Ceremonial Crown not working correctly with item Kuroiro-OS and 2x Kuroiro-OS will be fixed on a next maintenance.
+
+More: https://eu.4gameforum.com/threads/695443/
+
+================
 18.06.2025 12:10
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:

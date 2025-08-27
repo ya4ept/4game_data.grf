@@ -157,7 +157,8 @@ title_tbl = {
 	[5111] = "Cold-blooded Emperor",
 	[5112] = "Tomato Lover",
 	[5113] = "Salad Lover",
-	[5114] = "Shredder"
+	[5114] = "Shredder",
+	[1046] = "King Maker"
 }
 
 -- Function #0

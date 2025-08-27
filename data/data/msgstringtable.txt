@@ -2574,7 +2574,7 @@ You didn't summon a pet.#
 The requested one is not the pet egg.#
 Not enough evolution materials#
 You are short of evolution materials.#
-The pet can be evolved under only Loyal status.#
+The pet can only be evolved when its status is Loyal.#
 Auto feeding#
 The pet has been fed. \'%s\' Remaining: %d#
 Auto feeding is activated.#

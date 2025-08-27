@@ -1033,3 +1033,27 @@ star_in.rsw#Deep of Murmuring Forest#
 
 // 글래스트 헤임 도전모드
 1@gl_he.rsw#Warped Dimension#
+
+iz_d04_i.rsw#Illusion of Underwater#
+iz_d05_i.rsw#Illusion of Underwater#
+
+ba_maison.rsw#Barmund Mansion Garden#
+ba_in01.rsw#Inside Barmund Mansion#
+ba_pw01.rsw#Magic Power Plant 1#
+ba_pw03.rsw#Magic Power Plant 2#
+ba_pw02.rsw#Sewage Treatment Plant#
+ba_bath.rsw#Large Meditatio Bath#
+ba_2whs01.rsw#Tartaros Storage Upper Floor#
+ba_2whs02.rsw#Tartaros Storage Lower Floor#
+ba_lost.rsw#Farm Lost Valley#
+ba_lib.rsw#Library Hall of Memories#
+ba_go.rsw#Palm Line Battlefield#
+ba_chess.rsw#Checkmate#
+1@lost.rsw#Farm Forgotten in Time#
+1@herbs.rsw#Hidden Flower Garden#
+1@ghg.rsw#Ortus Aqua#
+1@bamn.rsw#Garden at Dusk#
+1@bamq.rsw#Airship Depot#
+ein_dun03.rsw#Mine Dungeon#
+abyss_04.rsw#Abyss Lake Underground Cave #
+odin_past.rsw#kuil kuno odin#

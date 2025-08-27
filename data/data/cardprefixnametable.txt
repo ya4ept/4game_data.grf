@@ -834,3 +834,93 @@
 29687##
 29688##
 29689##
+300140#Enhanced Thunder#
+300141#Mermaid#
+300142#Under the Sea#
+300143#Of Anti-Insect#
+300144#Stabbing#
+300145#Of Abyss Witch#
+300146#Fatal Fish#
+300147#Sibed#
+300148#Deep Sea#
+300149#Of Fishkiller#
+300150#Of Sword Expert#
+300151#Nightmare of the Sea#
+300076#Of Royal Guard#
+300077#Of Mechanic#
+300078#Mad Dance#
+300079#Middle Dry#
+300080#Dry#
+300081#Of Magician#
+300082#Piercing#
+300083#Of Ninja#
+300084#Of Holy#
+300085#Of Taekwon#
+300086#Vanguard#
+300087#Of Shadow Cat#
+300088#Fallen Star#
+300089#Of Assault#
+300090#Of Land Power#
+300091#Of Gunman#
+300092#Of Merchant#
+300093#Of Acolyte#
+300094#Mad Lethal#
+300095#Of Keen#
+300096#Harmony#
+300097#Of Thief#
+300098#Vision#
+300099#Of Minor Guard#
+300100#Of Major Guard#
+300101#Of Rune Knight#
+300102#Of Generic#
+300103#Mermaid#
+300104#Of Sorcerer#
+300105#Of Warlock#
+300106#Fire Magical#
+300107#Fruits#
+300108#Of Shadow Chaser#
+300109#Of Guillotine Cross#
+300110#Of Kagerou#
+300111#Of Oboro#
+300112#Of Soul Reaper#
+300113#Of Talent#
+300114#Immortal Magical#
+300115#Of Archbishop#
+300116#Of Asura#
+300117#Of Ranger#
+300118#Of Star Master#
+300119#Of Rebellion#
+300120#Of the School of Fish#
+300121#Of Sleep#
+300122#Sacred#
+300123#Intangible#
+300124#Water Magical#
+300125#Of Summoner#
+//200?? ?? ?? ??
+300001#Toxic#
+300002#Panzer#
+300003#Feral#
+300004#Iron#
+300005#High#
+300006#Medium's#
+300007#Adamant#
+300008#Lighten#
+300009#Ghostspell#
+300010#Windspell#
+300011#Godspell#
+300012#Initiating#
+300013#Reginleif's#
+300014#Ingrid's#
+300015#Curative#
+300016#Priceless#
+300017#Treasured#
+300018#Damnable#
+300019#Dra¬ãonic#
+300020#Beastmaster's#
+300021#Heartless#
+310076##
+310077##
+310078##
+310079##
+310080##
+310081##

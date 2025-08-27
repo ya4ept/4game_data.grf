@@ -89,7 +89,9 @@ PetNameTable = {
 	[jobtbl.JT_METALLER] = "metaller",
 	[jobtbl.JT_ANCIENT_MUMMY] = "ancient_mummy",
 	[jobtbl.JT_XM_TEDDY_BEAR] = "xm_teddy_bear",
-	[jobtbl.JT_PHREEONI] = "phreeoni"
+	[jobtbl.JT_PHREEONI] = "phreeoni",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "Жк_№ЩЖчёЮЖ®.bmp",
@@ -184,7 +186,9 @@ PetIllustNameTable = {
 	[jobtbl.JT_METALLER] = "pet_metaller.bmp",
 	[jobtbl.JT_ANCIENT_MUMMY] = "pet_ancient_mummy.bmp",
 	[jobtbl.JT_XM_TEDDY_BEAR] = "pet_xm_teddy_bear.bmp",
-	[jobtbl.JT_PHREEONI] = "pet_phreeoni.bmp"
+	[jobtbl.JT_PHREEONI] = "pet_phreeoni.bmp",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b.bmp",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -280,7 +284,9 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_METALLER] = "pet_metaller.bmp",
 	[jobtbl.JT_ANCIENT_MUMMY] = "pet_ancient_mummy.bmp",
 	[jobtbl.JT_XM_TEDDY_BEAR] = "pet_xm_teddy_bear.bmp",
-	[jobtbl.JT_PHREEONI] = "pet_phreeoni.bmp"
+	[jobtbl.JT_PHREEONI] = "pet_phreeoni.bmp",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b.bmp",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -325,7 +331,9 @@ PetAccIDs = {
 	ACC_BAG_OF_TAIWAN = 10039,
 	ACC_SCATLETON = 10040,
 	ACC_SKELION = 10042,
-	ACC_LAST = 10043
+	ACC_LAST = 10045,
+	ACC_EP17_2_CHILD_ADMIN1 = 10043,
+	ACC_EP17_2_CHILD_ADMIN2 = 10044
 }
 PetAccActNameTable = {
 	[PetAccIDs.ACC_BAPHOMET] = "BAPHOMET_»БґЩ±ёёрАЪ.act",
@@ -368,7 +376,9 @@ PetAccActNameTable = {
 	[PetAccIDs.ACC_IMP] = "IMP_»ФєёИЈґл.act",
 	[PetAccIDs.ACC_BAG_OF_TAIWAN] = "MARIN_ґлёёГҐ°Ў№ж.act",
 	[PetAccIDs.ACC_SCATLETON] = "scatleton_»Ў°Ј№жїп.act",
-	[PetAccIDs.ACC_SKELION] = "ACC_SKELION.act"
+	[PetAccIDs.ACC_SKELION] = "ACC_SKELION.act",
+	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN1] = "acc_child_admin1.act",
+	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN2] = "acc_child_admin2.act"
 }
 PetAccActNameTable_Eng = {
 	[PetAccIDs.ACC_BAPHOMET] = "ACC_BAPHOMET.act",
@@ -410,7 +420,9 @@ PetAccActNameTable_Eng = {
 	[PetAccIDs.ACC_SUCCUBUS] = "ACC_SUCCUBUS.act",
 	[PetAccIDs.ACC_IMP] = "ACC_IMP.act",
 	[PetAccIDs.ACC_SCATLETON] = "ACC_SCATLETON.act",
-	[PetAccIDs.ACC_SKELION] = "ACC_SKELION.act"
+	[PetAccIDs.ACC_SKELION] = "ACC_SKELION.act",
+	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN1] = "acc_child_admin1.act",
+	[PetAccIDs.ACC_EP17_2_CHILD_ADMIN2] = "acc_child_admin2.act"
 }
 PetStringTable = {
 	[jobtbl.JT_PORING] = "Poring",
@@ -506,7 +518,9 @@ PetStringTable = {
 	[jobtbl.JT_METALLER] = "Metaller",
 	[jobtbl.JT_ANCIENT_MUMMY] = "Ancient Mummy",
 	[jobtbl.JT_XM_TEDDY_BEAR] = "Abandoned Teddy Bear",
-	[jobtbl.JT_PHREEONI] = "Phreeoni"
+	[jobtbl.JT_PHREEONI] = "Phreeoni",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "Child Admin Beta",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "Child Admin Alpha"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -602,7 +616,9 @@ PetEggItemID_PetJobID = {
 	[9107] = jobtbl.JT_ANCIENT_MUMMY,
 	[9108] = jobtbl.JT_XM_TEDDY_BEAR,
 	[9111] = jobtbl.JT_PHREEONI,
-	[9113] = jobtbl.JT_SKELION
+	[9113] = jobtbl.JT_SKELION,
+	[9123] = jobtbl.JT_EP17_2_CHILD_ADMIN1,
+	[9124] = jobtbl.JT_EP17_2_CHILD_ADMIN2
 }
 PetFoodTable = {
 	[jobtbl.JT_PORING] = 531,
@@ -699,5 +715,7 @@ PetFoodTable = {
 	[jobtbl.JT_METALLER] = 537,
 	[jobtbl.JT_ANCIENT_MUMMY] = 537,
 	[jobtbl.JT_XM_TEDDY_BEAR] = 537,
-	[jobtbl.JT_PHREEONI] = 619
+	[jobtbl.JT_PHREEONI] = 619,
+	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = 1000227,
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = 537
 }

@@ -2756,3 +2756,43 @@ prt_castle_evt.rsw#prt_castle.rsw#
 1@gl_he.gat#1@gl_he.gat#
 1@gl_he.rsw#1@gl_he.rsw#
 유저인터페이스\map\1@gl_he.bmp#유저인터페이스\map\1@gl_he.bmp#
+
+iz_d04_i.gnd#iz_d04_i.gnd#
+iz_d04_i.gat#iz_d04_i.gat#
+iz_d04_i.rsw#iz_d04_i.rsw#
+유저인터페이스\map\iz_d04_i.bmp#유저인터페이스\map\iz_d04_i.bmp#
+
+iz_d05_i.gnd#iz_d05_i.gnd#
+iz_d05_i.gat#iz_d05_i.gat#
+iz_d05_i.rsw#iz_d05_i.rsw#
+유저인터페이스\map\iz_d05_i.bmp#유저인터페이스\map\iz_d05_i.bmp#
+
+//EP 17.2 현자의 유산 - 어스름밤의 정원
+1@bamn.gnd#1@bamn.gnd#
+1@bamn.gat#1@bamn.gat#
+1@bamn.rsw#1@bamn.rsw#
+유저인터페이스\map\1@bamn.bmp#유저인터페이스\map\1@bamn.bmp#
+
+//EP 17.2 현자의 유산 - 숨겨진 화원
+1@herbs.gnd#1@herbs.gnd#
+1@herbs.gat#1@herbs.gat#
+1@herbs.rsw#1@herbs.rsw#
+유저인터페이스\map\1@herbs.bmp#유저인터페이스\map\1@herbs.bmp#
+
+//EP 17.2 현자의 유산 - 비공정 거치장
+1@bamq.gnd#1@bamq.gnd#
+1@bamq.gat#1@bamq.gat#
+1@bamq.rsw#1@bamq.rsw#
+유저인터페이스\map\1@bamq.bmp#유저인터페이스\map\1@bamq.bmp#
+
+//EP 17.2 현자의 유산 - 수상정원
+1@ghg.gnd#1@ghg.gnd#
+1@ghg.gat#1@ghg.gat#
+1@ghg.rsw#1@ghg.rsw#
+유저인터페이스\map\1@ghg.bmp#유저인터페이스\map\1@ghg.bmp#
+
+//EP 17.2 현자의 유산 - 시간에게 잊혀진 사육장
+1@lost.gnd#1@lost.gnd#
+1@lost.gat#1@lost.gat#
+1@lost.rsw#1@lost.rsw#
+유저인터페이스\map\1@lost.bmp#유저인터페이스\map\1@lost.bmp#

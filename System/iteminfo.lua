@@ -2851,7 +2851,7 @@ tbl = {
 			"An old, heartfelt",
 			"letter that has never",
 			"been delivered since",
-			"it has no recipient.",
+			"it has no recipent.",
 			"Munak is inexplicably",
 			"drawn to this item.",
 			"Class: ^777777Taming Item^000000",
@@ -2860,7 +2860,7 @@ tbl = {
 		identifiedDisplayName = "No Recipient",
 		identifiedResourceName = "јцГлАОєТён",
 		identifiedDescriptionName = {
-			"^808080An old, heartfelt letter that has never been delivered since it has no recipient. Munak is inexplicably drawn to this item.^000000",
+			"^808080An old, heartfelt letter that has never been delivered since it has no recipent. Munak is inexplicably drawn to this item.^000000",
 			"^777777-------------^000000",
 			"Type: Consumable",
 			"Class: Taming Item",
@@ -3335,14 +3335,14 @@ tbl = {
 		unidentifiedDisplayName = "Red Envelope",
 		unidentifiedResourceName = "јј№оµ·",
 		unidentifiedDescriptionName = {
-			"A red envelope. It seems to contain something that will make its recipient very happy.",
+			"A red envelope. It seems to contain something that will make its recipent very happy.",
 			"^777777-------------^000000",
 			"Weight: ^7777772^000000"
 		},
 		identifiedDisplayName = "Red Envelope",
 		identifiedResourceName = "јј№оµ·",
 		identifiedDescriptionName = {
-			"^080808It seems to contain something that will make its recipient very happy.^000000",
+			"^080808It seems to contain something that will make its recipent very happy.^000000",
 			"Gives 1000 to 10000 zeny when used.",
 			"^777777-------------^000000",
 			"Type: Consumable",
@@ -4301,57 +4301,6 @@ tbl = {
 			"^777777-------------^000000",
 			"Type: ^777777Miscellaneous^000000",
 			"Weight: ^777777100^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[715] = {
-		unidentifiedDisplayName = "Yellow Gemstone",
-		unidentifiedResourceName = "ї»·ОїмБЄЅєЕж",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Yellow Gemstone",
-		identifiedResourceName = "ї»·ОїмБЄЅєЕж",
-		identifiedDescriptionName = {
-			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
-			"^777777-------------^000000",
-			"Weight: ^7777773^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[716] = {
-		unidentifiedDisplayName = "Red Gemstone",
-		unidentifiedResourceName = "·№µеБЄЅєЕж",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Red Gemstone",
-		identifiedResourceName = "·№µеБЄЅєЕж",
-		identifiedDescriptionName = {
-			"An enchanted crystal that is required for casting certain magic spells. Once used, it becomes powerless and is destroyed.",
-			"^777777-------------^000000",
-			"Weight: ^7777773^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[717] = {
-		unidentifiedDisplayName = "Blue Gemstone",
-		unidentifiedResourceName = "єн·зБЄЅєЕж",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Blue Gemstone",
-		identifiedResourceName = "єн·зБЄЅєЕж",
-		identifiedDescriptionName = {
-			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
-			"^777777-------------^000000",
-			"Weight: ^7777773^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -8201,27 +8150,6 @@ tbl = {
 		identifiedResourceName = "ё»°н»Я",
 		identifiedDescriptionName = {
 			"A ring placed in a horse's pierced nose to help steer it in a certain direction.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1065] = {
-		unidentifiedDisplayName = "Trap",
-		unidentifiedResourceName = "Ж®·¦",
-		unidentifiedDescriptionName = {
-			"Necessary item for the",
-			"Trap related skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Trap",
-		identifiedResourceName = "Ж®·¦",
-		identifiedDescriptionName = {
-			"Necessary item for the",
-			"Trap related skills.",
 			"^777777-------------^000000",
 			"Weight: ^7777771^000000"
 		},
@@ -23256,411 +23184,6 @@ tbl = {
 		ClassNum = 11,
 		costume = false
 	},
-	[1750] = {
-		unidentifiedDisplayName = "Arrow",
-		unidentifiedResourceName = "И­»м",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Arrow",
-		identifiedResourceName = "И­»м",
-		identifiedDescriptionName = {
-			"^808080A common arrow.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 25",
-			"Property: Neutral",
-			"Weight: 0.1"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1751] = {
-		unidentifiedDisplayName = "Arrow",
-		unidentifiedResourceName = "АєИ­»м",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Silver Arrow",
-		identifiedResourceName = "АєИ­»м",
-		identifiedDescriptionName = {
-			"^808080An arrow tipped with a silver point enchanted with the power of holiness.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 30",
-			"Property: Holy",
-			"Weight: 0.2"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1752] = {
-		unidentifiedDisplayName = "Fire Arrow",
-		unidentifiedResourceName = "єТИ­»м",
-		unidentifiedDescriptionName = {
-			"A flaming arrow that inflicts Fire property damage.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Fire^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Fire Arrow",
-		identifiedResourceName = "єТИ­»м",
-		identifiedDescriptionName = {
-			"A flaming arrow that inflicts Fire property damage.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Fire^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1753] = {
-		unidentifiedDisplayName = "Steel Arrow",
-		unidentifiedResourceName = "°­Г¶И­»м",
-		unidentifiedDescriptionName = {
-			"An arrow made of hardened steel.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777740^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Steel Arrow",
-		identifiedResourceName = "°­Г¶И­»м",
-		identifiedDescriptionName = {
-			"An arrow made of hardened steel.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777740^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1754] = {
-		unidentifiedDisplayName = "Crystal Arrow",
-		unidentifiedResourceName = "јцБ¤И­»м",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Crystal Arrow",
-		identifiedResourceName = "јцБ¤И­»м",
-		identifiedDescriptionName = {
-			"An arrow made of blue crystal imbued with the Water power.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^004DFFWater^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770,2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1755] = {
-		unidentifiedDisplayName = "Wind Arrow",
-		unidentifiedResourceName = "№Щ¶чАЗИ­»м",
-		unidentifiedDescriptionName = {
-			"An arrow enchanted with the Wind power.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Wind^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Wind Arrow",
-		identifiedResourceName = "№Щ¶чАЗИ­»м",
-		identifiedDescriptionName = {
-			"An arrow enchanted with the Wind power.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Wind^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1756] = {
-		unidentifiedDisplayName = "Stone Arrow",
-		unidentifiedResourceName = "ѕПј®И­»м",
-		unidentifiedDescriptionName = {
-			"An arrow made of stone imbued with the Earth power.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Earth^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Stone Arrow",
-		identifiedResourceName = "ѕПј®И­»м",
-		identifiedDescriptionName = {
-			"An arrow made of stone imbued with the Earth power.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Earth^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1757] = {
-		unidentifiedDisplayName = "Immaterial Arrow",
-		unidentifiedResourceName = "№«ЗьАЗИ­»м",
-		unidentifiedDescriptionName = {
-			"A shining arrow",
-			"that doesn't have",
-			"a discernable shape.",
-			"Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^77777730^000000",
-			"Weight: ^7777770.1^000000",
-			"Property: ^777777Ghost^000000"
-		},
-		identifiedDisplayName = "Immaterial Arrow",
-		identifiedResourceName = "№«ЗьАЗИ­»м",
-		identifiedDescriptionName = {
-			"^808080A shining arrow that doesn't have a discernible shape.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 30",
-			"Property: Ghost",
-			"Weight: 0.1"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1758] = {
-		unidentifiedDisplayName = "Stun Arrow",
-		unidentifiedResourceName = "ЅєЕПѕЦ·Оїм",
-		unidentifiedDescriptionName = {
-			"A thick, heavy arrow.",
-			"Inflict the ^880000Stun^000000 status on targets by a low chance.",
-			"Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^7777771^000000",
-			"Weight: ^7777770.3^000000",
-			"Property: ^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Stun Arrow",
-		identifiedResourceName = "ЅєЕПѕЦ·Оїм",
-		identifiedDescriptionName = {
-			"^808080A thick, heavy arrow.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 1",
-			"Property: Neutral",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"Adds a 10% chance of inflicting ^800000Stun^000000 on the target when dealing ranged attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1759] = {
-		unidentifiedDisplayName = "Freezing Arrow",
-		unidentifiedResourceName = "ЗБё®ВЎѕЦ·Оїм",
-		unidentifiedDescriptionName = {
-			"An arrow enchanted",
-			"with the power of ice.",
-			"Inflict the ^880000Frozen^000000",
-			"status on targets",
-			"by a low chance.",
-			"Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^7777771^000000",
-			"Weight: ^7777770.3^000000",
-			"Property: ^777777Water^000000"
-		},
-		identifiedDisplayName = "Frozen Arrow",
-		identifiedResourceName = "ЗБё®ВЎѕЦ·Оїм",
-		identifiedDescriptionName = {
-			"^808080An arrow enchanted with the power of ice.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 1",
-			"Property: Water",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"Adds a 10% chance of inflicting ^800000Frozen^000000 on the target when dealing ranged attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1760] = {
-		unidentifiedDisplayName = "Flash Arrow",
-		unidentifiedResourceName = "ЅєЕПѕЦ·Оїм",
-		unidentifiedDescriptionName = {
-			"An arrow that explodes",
-			"with a flash of light upon impact. Inflicts the ^880000Blind^000000",
-			"status on targets by",
-			"a low chance.",
-			"Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^7777771^000000",
-			"Weight: ^7777770.3^000000",
-			"Property: ^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Flash Arrow",
-		identifiedResourceName = "ЅєЕПѕЦ·Оїм",
-		identifiedDescriptionName = {
-			"^808080An arrow that explodes with a flash of light upon impact.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 1",
-			"Property: Neutral",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"Adds a 10% chance of inflicting ^800000Blind^000000 on the target when dealing ranged attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1761] = {
-		unidentifiedDisplayName = "Curse Arrow",
-		unidentifiedResourceName = "ДїЅєѕЦ·Оїм",
-		unidentifiedDescriptionName = {
-			"An arrow enchanted",
-			"with curse magic.",
-			"Inflict the ^880000Curse^000000",
-			"status on targets",
-			"by a low chance.",
-			"Item Class: ^777777Arrow^000000  Attack Strength: ^7777771^000000",
-			"Weight: ^7777770.3^000000   Property: ^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Cursed Arrow",
-		identifiedResourceName = "ДїЅєѕЦ·Оїм",
-		identifiedDescriptionName = {
-			"^808080An arrow enchanted with curse magic.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 1",
-			"Property: Neutral",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"Adds a 10% chance of inflicting ^800000Curse^000000 on the target when dealing ranged attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1762] = {
-		unidentifiedDisplayName = "Rusty Arrow",
-		unidentifiedResourceName = "імЅјИ­»м",
-		unidentifiedDescriptionName = {
-			"An old, rusty arrow.",
-			"Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^77777730^000000",
-			"Weight: ^7777770.2^000000",
-			"Property: ^777777Poison^000000"
-		},
-		identifiedDisplayName = "Rusty Arrow",
-		identifiedResourceName = "імЅјИ­»м",
-		identifiedDescriptionName = {
-			"^808080An old, rusty arrow.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 30",
-			"Property: Poison",
-			"Weight: 0.2"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1763] = {
-		unidentifiedDisplayName = "Poison Arrow",
-		unidentifiedResourceName = "µ¶И­»м",
-		unidentifiedDescriptionName = {
-			"An arrow, its tip is covered with lethal poison.",
-			"A 20% chance of ^800000poisoning^000000 the target",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Poison^000000",
-			"Attack: ^7777771^000000",
-			"Weight: ^7777770.3^000000"
-		},
-		identifiedDisplayName = "Poison Arrow",
-		identifiedResourceName = "µ¶И­»м",
-		identifiedDescriptionName = {
-			"An arrow, its tip is covered with lethal poison.",
-			"A 20% chance of ^800000poisoning^000000 the target",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Poison^000000",
-			"Attack: ^7777771^000000",
-			"Weight: ^7777770.3^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1764] = {
-		unidentifiedDisplayName = "Sharp Arrow",
-		unidentifiedResourceName = "іЇД«·ОїоИ­»м",
-		unidentifiedDescriptionName = {
-			"An arrow topped with a serrated blade.",
-			"Critical +20",
-			"^264696[If used with Little Feather Hat]^000000",
-			"Critical damage +5%",
-			"^264696[If Little Feather Hat is +7 or higher]^000000",
-			"Critical damage +5%",
-			"Class: ^777777Arrow^000000",
-			"Attack: ^77777710^000000",
-			"Weight: ^7777770.3^000000"
-		},
-		identifiedDisplayName = "Sharp Arrow",
-		identifiedResourceName = "іЇД«·ОїоИ­»м",
-		identifiedDescriptionName = {
-			"An arrow topped with a serrated blade.",
-			"Critical +20",
-			"^264696[If used with Little Feather Hat]^000000",
-			"Critical damage +5%",
-			"^264696[If Little Feather Hat is +7 or higher]^000000",
-			"Critical damage +5%",
-			"Class: ^777777Arrow^000000",
-			"Attack: ^77777710^000000",
-			"Weight: ^7777770.3^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1765] = {
-		unidentifiedDisplayName = "Oridecon Arrow",
-		unidentifiedResourceName = "°­Г¶И­»м",
-		unidentifiedDescriptionName = {
-			"A very powerful arrow",
-			"made out of Oridecon.",
-			"Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^77777750^000000",
-			"Weight: ^7777770.3^000000",
-			"Property: ^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Oridecon Arrow",
-		identifiedResourceName = "°­Г¶И­»м",
-		identifiedDescriptionName = {
-			"^808080A very powerful arrow made out of Oridecon.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 50",
-			"Property: Neutral",
-			"Weight: 0.3"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[1766] = {
 		unidentifiedDisplayName = "Arrow of Counter Evil",
 		unidentifiedResourceName = "°­Г¶И­»м",
@@ -23683,102 +23206,6 @@ tbl = {
 			"Attack: 50",
 			"Property: Holy",
 			"Weight: 0.3"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1767] = {
-		unidentifiedDisplayName = "Shadow Arrow",
-		unidentifiedResourceName = "±ЧёІАЪАЗИ­»м",
-		unidentifiedDescriptionName = {
-			"An arrow imbued with the power of darkness.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Shadow^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Shadow Arrow",
-		identifiedResourceName = "±ЧёІАЪАЗИ­»м",
-		identifiedDescriptionName = {
-			"An arrow imbued with the power of darkness.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Shadow^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1768] = {
-		unidentifiedDisplayName = "Sleep Arrow",
-		unidentifiedResourceName = "ЅЅёіѕЦ·Оїм",
-		unidentifiedDescriptionName = {
-			"An arrow that will",
-			"put render targets",
-			"unconscious. Inflict",
-			"the ^880000Sleep^000000 status on",
-			"targets by a low chance. Item Class: ^777777Arrow^000000",
-			"Attack Strength: ^7777771^000000",
-			"Weight: ^7777770.3^000000",
-			"Property: ^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Sleep Arrow",
-		identifiedResourceName = "ЅЅёіѕЦ·Оїм",
-		identifiedDescriptionName = {
-			"^808080An arrow that can render targets unconscious.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 1",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"A 20% chance of inflicting ^800000Sleep^000000 on the target when dealing ranged attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1769] = {
-		unidentifiedDisplayName = "Mute Arrow",
-		unidentifiedResourceName = "»зАП·±ЅєѕЦ·Оїм",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Mute Arrow",
-		identifiedResourceName = "»зАП·±ЅєѕЦ·Оїм",
-		identifiedDescriptionName = {
-			"An arrow coated with a chemical that paralyzes the target's mouth.",
-			"^777777-------------^000000",
-			"Has a chance of inflicting [Silence] on the target.",
-			"^777777-------------^000000",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^7777771^000000",
-			"Weight: ^7777770.3^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1770] = {
-		unidentifiedDisplayName = "Iron Arrow",
-		unidentifiedResourceName = "И­»м",
-		unidentifiedDescriptionName = {
-			"Forged out of iron, this arrow will inflict more damage than a wooden one.",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.1^000000"
-		},
-		identifiedDisplayName = "Iron Arrow",
-		identifiedResourceName = "И­»м",
-		identifiedDescriptionName = {
-			"Forged out of iron, this arrow will inflict more damage than a wooden one.",
-			"Class: ^777777Arrow^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -23809,142 +23236,6 @@ tbl = {
 			"Weight: 0.5",
 			"^777777-------------^000000",
 			"Adds a chance of inflicting ^800000Poison^000000 on the target when dealing ranged attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1772] = {
-		unidentifiedDisplayName = "Holy Arrow",
-		unidentifiedResourceName = "°­Г¶И­»м",
-		unidentifiedDescriptionName = {
-			"A metal arrow blessed",
-			"with holy water. Inflicts^FFFFFF ^000000 5% more damage against",
-			"Demon race monsters.",
-			"Class: ^777777Arrow^000000  Attack Strength: ^77777750^000000",
-			"Weight: ^7777770.2^000000   Property: ^777777Holy^000000"
-		},
-		identifiedDisplayName = "Holy Arrow",
-		identifiedResourceName = "°­Г¶И­»м",
-		identifiedDescriptionName = {
-			"^808080A metal arrow blessed with holy water.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 50",
-			"Property: Holy",
-			"Weight: 0.2",
-			"^777777-------------^000000",
-			"Increases physical damage on Demon race targets by 5%."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1773] = {
-		unidentifiedDisplayName = "Elven Arrow",
-		unidentifiedResourceName = "ї¤ЗБАЗИ­»м",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Elven Arrow",
-		identifiedResourceName = "ї¤ЗБАЗИ­»м",
-		identifiedDescriptionName = {
-			"Arrows once used by the ancient elves guarding the forest.",
-			"^777777-------------^000000",
-			"^800080[Elven Set]^000000",
-			"<ITEM>Elven Bow<INFO>1746</INFO></ITEM>",
-			"<ITEM>Elven Arrow<INFO>1773</INFO></ITEM>",
-			"Long-range physical damage +50%.",
-			"^777777-------------^000000",
-			"Class: ^777777Arrow^000000",
-			"Attack: ^77777745^000000",
-			"Property: ^777777Neutral^000000",
-			"Weight: ^7777770.1^000000",
-			"Required Level: ^777777100^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1774] = {
-		unidentifiedDisplayName = "Hunting Arrow",
-		unidentifiedResourceName = "»зіЙїлИ­»м",
-		unidentifiedDescriptionName = {
-			"Strong and rough arrows ideal for hunting large animals.",
-			"[Set effect with Hunter Bow]",
-			"Ranged attack damage +50%",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777735^000000",
-			"Weight: ^7777770.1^000000"
-		},
-		identifiedDisplayName = "Hunting Arrow",
-		identifiedResourceName = "»зіЙїлИ­»м",
-		identifiedDescriptionName = {
-			"Strong and rough arrows ideal for hunting large animals.",
-			"[Set effect with Hunter Bow]",
-			"Ranged attack damage +50%",
-			"Class: ^777777Arrow^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777735^000000",
-			"Weight: ^7777770.1^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1775] = {
-		unidentifiedDisplayName = "Siege Arrow S",
-		unidentifiedResourceName = "°­Г¶И­»м",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Siege Arrow S",
-		identifiedResourceName = "°­Г¶И­»м",
-		identifiedDescriptionName = {
-			"^808080Porous mass produced arrows for War of Emperium.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 45",
-			"Property: Neutral",
-			"Weight: 0.1",
-			"Required Level: 130",
-			"^777777-------------^000000",
-			"^800080Set Bonus^000000",
-			"^008080Bellum Crossbow^000000",
-			"^008080WoE Arrow S^000000",
-			"^800080Set Stats during PVP, WOE^000000",
-			"Increases physical damage on Demi-Human race targets by 70%."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1776] = {
-		unidentifiedDisplayName = "Siege Arrow A",
-		unidentifiedResourceName = "И­»м",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Siege Arrow A",
-		identifiedResourceName = "И­»м",
-		identifiedDescriptionName = {
-			"^808080Mass produced arrows for War of Emperium.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Arrow",
-			"Attack: 30",
-			"Property: Neutral",
-			"Weight: 0.1",
-			"Required Level: 95",
-			"^777777-------------^000000",
-			"^800080Set Bonus^000000",
-			"^008080Bellum Crossbow^000000",
-			"^008080WoE Arrow A^000000",
-			"^800080Set Stats during PVP, WOE^000000",
-			"Increases physical damage on Demi-Human race targets by 40%."
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -85783,64 +85074,6 @@ tbl = {
 		ClassNum = 1346,
 		costume = false
 	},
-	[5967] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "ё¶ЅєЕ©",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Flying Galapago",
-		identifiedResourceName = "іЇАёґВ°Ґ¶уЖД°н",
-		identifiedDescriptionName = {
-			"Most Galapagos do not fly, but this one dreamt of flying so much that its dream came true. Fly, little Galapago, fly!",
-			"^FF0000This item cannot be upgraded.^000000",
-			"Class: ^808080Headgear^000000",
-			"Position: ^808080Lower^000000",
-			"Defense: ^8080800^000000",
-			"Weight: ^80808050^000000",
-			"Requires Level: ^808080110^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Agi + 1",
-			"Adds a chance of casting ^0000FFBlitz Beat^000000 on the target when performing a physical attack. The chance is increased per base Luk added up to a maximum base value of 120.",
-			"Level of this skill will be cast based on the known levels.",
-			"Increases the damage of ^0000FFBlitz Beat^000000 by 40% per level of ^0000FFSteel Crow^000000 known.",
-			"^800080Set Bonus^000000",
-			"^008080Flying Galapago^000000",
-			"^008080Galapago Card^000000",
-			"Increases the recovery rate of ^008080Apple Juice^000000 consumables by 1000%.",
-			"Increases the recovery rate of ^008080Banana Juice^000000 consumables by 1000%.",
-			"Increases the recovery rate of ^008080Carrot Juice^000000 consumables by 1000%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Flying Galapago^000000",
-			"^008080Gryphon Card^000000",
-			"Aspd + 3%",
-			"Aspd + 1",
-			"Atk - 5%",
-			"If compounded to an upgrade level of +10 or higher bow type weapon, additional Aspd + 1.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Flying Galapago^000000",
-			"^008080Condor Card^000000",
-			"Reduces damage taken from all property attacks by 10%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Flying Galapago^000000",
-			"^008080Cendrawasih Card^000000",
-			"Int + 1",
-			"Crit + 5",
-			"^F4AD42Archer Bonus^000000",
-			"Crit +15",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Flying Galapago^000000",
-			"^008080Falconer Claw^000000",
-			"Reduces the damage of ^0000FFBlitz Beat^000000 by 200%."
-		},
-		slotCount = 0,
-		ClassNum = 1358,
-		costume = false
-	},
 	[5968] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
@@ -88024,64 +87257,6 @@ tbl = {
 			"A heartbreaking tear for others. Sometimes a miracle happens by this tear. ",
 			"^777777-------------^000000",
 			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6145] = {
-		unidentifiedDisplayName = "Vulcan Bullet",
-		unidentifiedResourceName = "№ЯД­єнёґ",
-		unidentifiedDescriptionName = {
-			"A bullet which is used for skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Vulcan Bullet",
-		identifiedResourceName = "№ЯД­єнёґ",
-		identifiedDescriptionName = {
-			"A bullet which is used for skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6146] = {
-		unidentifiedDisplayName = "Magic Gear Fuel",
-		unidentifiedResourceName = "ё¶µµ±вѕої¬·б",
-		unidentifiedDescriptionName = {
-			"A fuel that is used for a large number of Magic Gear skills. Strong skills consumes more fuel.",
-			"^777777-------------^000000",
-			"Weight: ^7777773^000000"
-		},
-		identifiedDisplayName = "Magic Gear Fuel",
-		identifiedResourceName = "ё¶µµ±вѕої¬·б",
-		identifiedDescriptionName = {
-			"A fuel that is used for a large number of Magic Gear skills.",
-			"Strong skills consumes more fuel.",
-			"^777777-------------^000000",
-			"Weight: ^7777773^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6147] = {
-		unidentifiedDisplayName = "Liquid Condensed Bullet",
-		unidentifiedResourceName = "ѕЧГјіГ°ўЕє",
-		unidentifiedDescriptionName = {
-			"A bullet which effuses cold air.",
-			"^777777-------------^000000",
-			"Weight: ^7777770.3^000000"
-		},
-		identifiedDisplayName = "Liquid Condensed Bullet",
-		identifiedResourceName = "ѕЧГјіГ°ўЕє",
-		identifiedDescriptionName = {
-			"A bullet which effuses cold air.",
-			"^777777-------------^000000",
-			"Weight: ^7777770.3^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -92486,74 +91661,6 @@ tbl = {
 			"Ordinary flower that can be found anywhere.",
 			"^777777-------------^000000",
 			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6512] = {
-		unidentifiedDisplayName = "Charm Fire",
-		unidentifiedResourceName = "єТАЗєОАы",
-		unidentifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		identifiedDisplayName = "Charm Fire",
-		identifiedResourceName = "єТАЗєОАы",
-		identifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6513] = {
-		unidentifiedDisplayName = "Charm Ice",
-		unidentifiedResourceName = "ѕуАЅАЗєОАы",
-		unidentifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		identifiedDisplayName = "Charm Ice",
-		identifiedResourceName = "ѕуАЅАЗєОАы",
-		identifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6514] = {
-		unidentifiedDisplayName = "Charm Wind",
-		unidentifiedResourceName = "№Щ¶чАЗєОАы",
-		unidentifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		identifiedDisplayName = "Charm Wind",
-		identifiedResourceName = "№Щ¶чАЗєОАы",
-		identifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6515] = {
-		unidentifiedDisplayName = "Charm Earth",
-		unidentifiedResourceName = "¶ҐАЗєОАы",
-		unidentifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
-		},
-		identifiedDisplayName = "Charm Earth",
-		identifiedResourceName = "¶ҐАЗєОАы",
-		identifiedDescriptionName = {
-			"A charm ninjas carry to protect themselves from harm. Skilled ninjas can use this periapt to cast various spells.",
-			"Weight: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -108101,118 +107208,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[7521] = {
-		unidentifiedDisplayName = "Flame Stone",
-		unidentifiedResourceName = "ї­И­ј®",
-		unidentifiedDescriptionName = {
-			"A bead, imbued with",
-			"the Fire property,",
-			"that is used as a",
-			"catalyst by Ninjas",
-			"when performing",
-			"some of their skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Flame Stone",
-		identifiedResourceName = "ї­И­ј®",
-		identifiedDescriptionName = {
-			"A bead, imbued with",
-			"the Fire property,",
-			"that is used as a",
-			"catalyst by Ninjas",
-			"when performing",
-			"some of their skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7522] = {
-		unidentifiedDisplayName = "Ice Stone",
-		unidentifiedResourceName = "єщј¶ј®",
-		unidentifiedDescriptionName = {
-			"A bead, imbued with",
-			"the Water property,",
-			"that is used as a",
-			"catalyst by Ninjas",
-			"when performing",
-			"some of their skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Ice Stone",
-		identifiedResourceName = "єщј¶ј®",
-		identifiedDescriptionName = {
-			"A bead, imbued with",
-			"the Water property,",
-			"that is used as a",
-			"catalyst by Ninjas",
-			"when performing",
-			"some of their skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7523] = {
-		unidentifiedDisplayName = "Wind Stone",
-		unidentifiedResourceName = "Зі·Йј®",
-		unidentifiedDescriptionName = {
-			"A bead, imbued with",
-			"the Wind property,",
-			"that is used as a",
-			"catalyst by Ninjas",
-			"when performing",
-			"some of their skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Wind Stone",
-		identifiedResourceName = "Зі·Йј®",
-		identifiedDescriptionName = {
-			"A bead, imbued with",
-			"the Wind property,",
-			"that is used as a",
-			"catalyst by Ninjas",
-			"when performing",
-			"some of their skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7524] = {
-		unidentifiedDisplayName = "Shadow Orb",
-		unidentifiedResourceName = "ИЇ±ё",
-		unidentifiedDescriptionName = {
-			"An orb that is used",
-			"as a catalyst to enable^FFFFFF ^000000 a Ninja to realize his",
-			"latent abilities",
-			"and skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777772^000000"
-		},
-		identifiedDisplayName = "Shadow Orb",
-		identifiedResourceName = "ИЇ±ё",
-		identifiedDescriptionName = {
-			"An orb that is used",
-			"as a catalyst to enable^FFFFFF ^000000 a Ninja to realize his",
-			"latent abilities",
-			"and skills.",
-			"^777777-------------^000000",
-			"Weight: ^7777772^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[7525] = {
 		unidentifiedDisplayName = "Summer Ticket",
 		unidentifiedResourceName = "ДнЖщ",
@@ -110172,78 +109167,6 @@ tbl = {
 			"''I've kept talking to a doll because I cannot stand this will be the last doll craft when I started to make the millionth doll. Haha, I'm getting silly as I grow old. Do you understand how I feel, my friend?''",
 			"^777777-------------^000000",
 			"Weight: 0"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7663] = {
-		unidentifiedDisplayName = "Full Metal Jacket",
-		unidentifiedResourceName = "З®ёЮЕ»АрДП",
-		unidentifiedDescriptionName = {
-			"^808080Full metal jacket, known as FMJ. Penetration will be maximized to give high damage.^000000",
-			"^777777-------------^000000",
-			"Type: Miscellaneous",
-			"Weight: 0.2",
-			"^777777-------------^000000",
-			"When using ^0000FFMass Spiral^000000, this will be consumed."
-		},
-		identifiedDisplayName = "Full Metal Jacket",
-		identifiedResourceName = "З®ёЮЕ»АрДП",
-		identifiedDescriptionName = {
-			"^808080Full metal jacket, known as FMJ. Penetration will be maximized to give high damage.^000000",
-			"^777777-------------^000000",
-			"Weight: 0.2",
-			"^777777-------------^000000",
-			"When using ^0000FFMass Spiral^000000, this will be consumed."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7664] = {
-		unidentifiedDisplayName = "Grenade Launcher",
-		unidentifiedResourceName = "Ех»зЗьБц·Ъ",
-		unidentifiedDescriptionName = {
-			"^808080Athletic type of mine that can be used for grenade launcher.^000000",
-			"^777777-------------^000000",
-			"Type: Miscellaneous",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"When using ^0000FFHowling Mine^000000, this will be consumed."
-		},
-		identifiedDisplayName = "Grenade Launcher",
-		identifiedResourceName = "Ех»зЗьБц·Ъ",
-		identifiedDescriptionName = {
-			"^808080Athletic type of mine that can be used for grenade launcher.^000000",
-			"^777777-------------^000000",
-			"Weight: 0.3",
-			"^777777-------------^000000",
-			"When using ^0000FFHowling Mine^000000, this will be consumed."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7665] = {
-		unidentifiedDisplayName = "Dragon Tail Missile",
-		unidentifiedResourceName = "µе·Ў°пЕЧАП№М»зАП",
-		unidentifiedDescriptionName = {
-			"^808080Missile for grenade launcher that has the nickname 'Evil Tail'. Trace the target and give damage.^000000",
-			"^777777-------------^000000",
-			"Type: Miscellaneous",
-			"Weight: 10",
-			"^777777-------------^000000",
-			"When using ^0000FFDragon Tail^000000, this will be consumed."
-		},
-		identifiedDisplayName = "Dragon Tail Missile",
-		identifiedResourceName = "µе·Ў°пЕЧАП№М»зАП",
-		identifiedDescriptionName = {
-			"^808080Missile for grenade launcher that has the nickname 'Evil Tail'. Trace the target and give damage.^000000",
-			"^777777-------------^000000",
-			"Weight: 10",
-			"^777777-------------^000000",
-			"When using ^0000FFDragon Tail^000000, this will be consumed."
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -113424,25 +112347,6 @@ tbl = {
 			"Rune Knights use these to make Rune stones.",
 			"^777777-------------^000000",
 			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[7940] = {
-		unidentifiedDisplayName = "Special Alloy Trap",
-		unidentifiedResourceName = "Ж®·¦",
-		unidentifiedDescriptionName = {
-			"A trap that is reformed for hunters whose weights were a burden.",
-			"^777777-------------^000000",
-			"Weight: ^7777770.2^000000"
-		},
-		identifiedDisplayName = "Special Alloy Trap",
-		identifiedResourceName = "Ж®·¦",
-		identifiedDescriptionName = {
-			"A trap that is reformed for hunters whose weights were a burden.",
-			"^777777-------------^000000",
-			"Weight: ^7777770.2^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -120226,232 +119130,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[12004] = {
-		unidentifiedDisplayName = "Quiver",
-		unidentifiedResourceName = "И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 normal arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Quiver",
-		identifiedResourceName = "И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 normal arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12005] = {
-		unidentifiedDisplayName = "Iron Arrow Quiver",
-		unidentifiedResourceName = "Г¶И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 iron arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Iron Arrow Quiver",
-		identifiedResourceName = "Г¶И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 iron arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12006] = {
-		unidentifiedDisplayName = "Steel Arrow Quiver",
-		unidentifiedResourceName = "°­Г¶И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 steel arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Steel Arrow Quiver",
-		identifiedResourceName = "°­Г¶И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 steel arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12007] = {
-		unidentifiedDisplayName = "Oridecon Arrow Quiver",
-		unidentifiedResourceName = "їАё®И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 oridecon arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Oridecon Arrow Quiver",
-		identifiedResourceName = "їАё®И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 oridecon arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12008] = {
-		unidentifiedDisplayName = "Fire Arrow Quiver",
-		unidentifiedResourceName = "єТИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 fire arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Fire Arrow Quiver",
-		identifiedResourceName = "єТИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 fire arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12009] = {
-		unidentifiedDisplayName = "Silver Arrow Quiver",
-		unidentifiedResourceName = "АєИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 silver arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Silver Arrow Quiver",
-		identifiedResourceName = "АєИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 silver arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12010] = {
-		unidentifiedDisplayName = "Wind Arrow Quiver",
-		unidentifiedResourceName = "№Щ¶чИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 wind arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Wind Arrow Quiver",
-		identifiedResourceName = "№Щ¶чИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 wind arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12011] = {
-		unidentifiedDisplayName = "Stone Arrow Quiver",
-		unidentifiedResourceName = "ѕПј®И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 stone arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Stone Arrow Quiver",
-		identifiedResourceName = "ѕПј®И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 stone arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12012] = {
-		unidentifiedDisplayName = "Crystal Arrow Quiver",
-		unidentifiedResourceName = "јцБ¤И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 crystal arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Crystal Arrow Quiver",
-		identifiedResourceName = "јцБ¤И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 crystal arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12013] = {
-		unidentifiedDisplayName = "Shadow Arrow Quiver",
-		unidentifiedResourceName = "±ЧёІАЪИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Shadow Arrow Quiver",
-		identifiedResourceName = "±ЧёІАЪИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 shadow arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12014] = {
-		unidentifiedDisplayName = "Immaterial Arrow Quiver",
-		unidentifiedResourceName = "№«ЗьИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 immaterial arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Immaterial Arrow Quiver",
-		identifiedResourceName = "№«ЗьИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 immaterial arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12015] = {
-		unidentifiedDisplayName = "Rusty Arrow Quiver",
-		unidentifiedResourceName = "імЅјИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver which contains 500 rusty arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Rusty Arrow Quiver",
-		identifiedResourceName = "імЅјИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver which contains 500 rusty arrows within.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[12016] = {
 		unidentifiedDisplayName = "Speed Up Potion",
 		unidentifiedResourceName = "АМјУБх°ЎЖчјЗ",
@@ -123603,75 +122281,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[12149] = {
-		unidentifiedDisplayName = "Cartridge",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"A bullet cartridge",
-			"that contains 500",
-			"regular Bullets.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Cartridge",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"A bullet cartridge",
-			"that contains 500",
-			"regular Bullets.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12150] = {
-		unidentifiedDisplayName = "Blood Cartridge",
-		unidentifiedResourceName = "ЕєѕаЕл_єн·Їµе",
-		unidentifiedDescriptionName = {
-			"A bullet cartridge",
-			"that contains 500",
-			"Bloody Shells.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Blood Cartridge",
-		identifiedResourceName = "ЕєѕаЕл_єн·Їµе",
-		identifiedDescriptionName = {
-			"A bullet cartridge",
-			"that contains 500",
-			"Bloody Shells.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12151] = {
-		unidentifiedDisplayName = "Silver Cartridge",
-		unidentifiedResourceName = "ЕєѕаЕл_ЅЗ№ц",
-		unidentifiedDescriptionName = {
-			"A bullet cartridge",
-			"that contains 500",
-			"Silver Bullets.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Silver Cartridge",
-		identifiedResourceName = "ЕєѕаЕл_ЅЗ№ц",
-		identifiedDescriptionName = {
-			"A bullet cartridge",
-			"that contains 500",
-			"Silver Bullets.",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[12152] = {
 		unidentifiedDisplayName = "(null)",
 		unidentifiedResourceName = "ј±№°»уАЪ_4",
@@ -124377,27 +122986,6 @@ tbl = {
 			"^ff0000This item can only be put into storage.^000000",
 			"^777777-------------^000000",
 			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12183] = {
-		unidentifiedDisplayName = "Holy Arrow Quiver",
-		unidentifiedResourceName = "АєИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver that contains:",
-			"^4A94F7^000000 <ITEM>Holy Arrow<INFO>1772</INFO></ITEM> ^777777x500^000000",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
-		},
-		identifiedDisplayName = "Holy Arrow Quiver",
-		identifiedResourceName = "АєИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver that contains:",
-			"^4A94F7^000000 <ITEM>Holy Arrow<INFO>1772</INFO></ITEM> ^777777x500^000000",
-			"^777777-------------^000000",
-			"Weight: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -126867,25 +125455,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[12341] = {
-		unidentifiedDisplayName = "Special Alloy Trap Box",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"A box that is filled with one hundred reformed traps. ",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Special Alloy Trap Box",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"A box that is filled with one hundred reformed traps. ",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[12342] = {
 		unidentifiedDisplayName = "Manuk's Opportunity",
 		unidentifiedResourceName = "°Ё±вѕа",
@@ -127634,25 +126203,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[12383] = {
-		unidentifiedDisplayName = "Vulcan Bullet Magazine",
-		unidentifiedResourceName = "№ЯД­єнёґЕєГў",
-		unidentifiedDescriptionName = {
-			"A magazine with a thousand Vulcan Bullets. It's portable. ",
-			"^777777-------------^000000",
-			"Weight: ^77777750^000000"
-		},
-		identifiedDisplayName = "Vulcan Bullet Magazine",
-		identifiedResourceName = "№ЯД­єнёґЕєГў",
-		identifiedDescriptionName = {
-			"A magazine with a thousand Vulcan Bullets. It's portable. ",
-			"^777777-------------^000000",
-			"Weight: ^77777750^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[12384] = {
 		unidentifiedDisplayName = "Rainbow Ruby",
 		unidentifiedResourceName = "№«Бц°№єы·зєс",
@@ -127820,39 +126370,6 @@ tbl = {
 			"^777777-------------^000000",
 			"Weight: ^7777771^000000"
 		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12392] = {
-		unidentifiedDisplayName = "Repair A",
-		unidentifiedResourceName = "ё®ЖдѕоA",
-		unidentifiedDescriptionName = { "Restores a certain amount of HP to Magic Gear.", "Weight :: ^77777710^000000" },
-		identifiedDisplayName = "Repair A",
-		identifiedResourceName = "ё®ЖдѕоA",
-		identifiedDescriptionName = { "Restores a certain amount of HP to Magic Gear.", "Weight:: ^77777710^000000" },
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12393] = {
-		unidentifiedDisplayName = "Repair B",
-		unidentifiedResourceName = "ё®ЖдѕоB",
-		unidentifiedDescriptionName = { "Restores a proper amount of HP to Magic Gear.", "Weight :: ^77777714^000000" },
-		identifiedDisplayName = "Repair B",
-		identifiedResourceName = "ё®ЖдѕоB",
-		identifiedDescriptionName = { "Restores a proper amount of HP to Magic Gear.", "Weight:: ^77777714^000000" },
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12394] = {
-		unidentifiedDisplayName = "Repair C",
-		unidentifiedResourceName = "ё®ЖдѕоC",
-		unidentifiedDescriptionName = { "Restores HP to Magic Gear.", "Weight :: ^77777718^000000" },
-		identifiedDisplayName = "Repair C",
-		identifiedResourceName = "ё®ЖдѕоC",
-		identifiedDescriptionName = { "Restores HP to Magic Gear.", "Weight:: ^77777718^000000" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -130548,36 +129065,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[12575] = {
-		unidentifiedDisplayName = "Elf's Arrow Quiver",
-		unidentifiedResourceName = "ї¤ЗБАЗИ­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver containing 500 Arrows of Elf.",
-			"Weight: ^77777725^000000",
-			"Required Level: ^777777100^000000"
-		},
-		identifiedDisplayName = "Elf's Arrow Quiver",
-		identifiedResourceName = "ї¤ЗБАЗИ­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver containing 500 Arrows of Elf.",
-			"Weight: ^77777725^000000",
-			"Required Level: ^777777100^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12576] = {
-		unidentifiedDisplayName = "Hunting Arrow Quiver",
-		unidentifiedResourceName = "»зіЙїлИ­»мЕл",
-		unidentifiedDescriptionName = { "A quiver containing 500 Hunting Arrows.", "Weight: ^77777725^000000" },
-		identifiedDisplayName = "Hunting Arrow Quiver",
-		identifiedResourceName = "»зіЙїлИ­»мЕл",
-		identifiedDescriptionName = { "A quiver containing 500 Hunting Arrows.", "Weight: ^77777725^000000" },
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[12577] = {
 		unidentifiedDisplayName = "Fortune Egg VI",
 		unidentifiedResourceName = "Га±ё°ш",
@@ -131609,44 +130096,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[12677] = {
-		unidentifiedDisplayName = "WoE Arrow Quiver S",
-		unidentifiedResourceName = "И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver that contains 200 Siege Arrow S.",
-			"Required Level: ^777777130^000000.",
-			"Weight: ^77777710^00000000"
-		},
-		identifiedDisplayName = "WoE Arrow Quiver S",
-		identifiedResourceName = "И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver that contains 200 WoE Arrow S.",
-			"Required Level: ^777777130^000000.",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12678] = {
-		unidentifiedDisplayName = "WoE Arrow Quiver A",
-		unidentifiedResourceName = "И­»мЕл",
-		unidentifiedDescriptionName = {
-			"A quiver that contains 200 Siege Arrow A.",
-			"Required Level: ^77777795^000000",
-			"Weight: ^77777710^00000000"
-		},
-		identifiedDisplayName = "WoE Arrow Quiver A",
-		identifiedResourceName = "И­»мЕл",
-		identifiedDescriptionName = {
-			"A quiver that contains 200 WoE Arrow A.",
-			"Required Level: ^77777795^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[12679] = {
 		unidentifiedDisplayName = "WoE White Potion Box",
 		unidentifiedResourceName = "АА±ЮГіДЎ»уАЪ",
@@ -132330,198 +130779,6 @@ tbl = {
 			"MaxHP decreases by 15% for 15 seconds.",
 			"^777777-------------^000000",
 			"Weight: ^7777772^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12725] = {
-		unidentifiedDisplayName = "Nosiege Runestone",
-		unidentifiedResourceName = "·йЅєЕж_ілѕѕБо",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Nosiege Runestone",
-		identifiedResourceName = "·йЅєЕж_ілѕѕБо",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Casts[Refresh] for 60 sec:",
-			"Removing and prevents all abnormal states and debuffs.",
-			"Recover 25% HP.",
-			"Can be used while stunned, frozen or deep sleep.",
-			"Must wait 5 minutes to reuse. ",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12726] = {
-		unidentifiedDisplayName = "Rhydo Runestone",
-		unidentifiedResourceName = "·йЅєЕж_¶уАМµµ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Rhydo Runestone",
-		identifiedResourceName = "·йЅєЕж_¶уАМµµ",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Casts[Crushing Strike]:",
-			"Increased damage for next physical melee attack.",
-			"Has a chance to destroy weapon that uses the rune.",
-			"Must wait 1 minute to reuse.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12727] = {
-		unidentifiedDisplayName = "Verkana Runestone",
-		unidentifiedResourceName = "·йЅєЕж_єЈёЈД«іЄ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Verkana Runestone",
-		identifiedResourceName = "·йЅєЕж_єЈёЈД«іЄ",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Casts[Millennium Shield] for 3 min:",
-			"Randomly summoning 2-4 magic shields. ",
-			"This shield has the same DEF and MDEF as the person casting and has 1000 HP.",
-			"Each shield blocked one attack and disappears. Remaining damage does not transfer to the next available shield.",
-			"Must wait 1 minute to reuse.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12728] = {
-		unidentifiedDisplayName = "Isia Runestone",
-		unidentifiedResourceName = "·йЅєЕж_ѕЖАМ»ю",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Isia Runestone",
-		identifiedResourceName = "·йЅєЕж_ѕЖАМ»ю",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Cast[Vitality Activation] for 3 min:",
-			"HP recovery potion effect and skills +50%.",
-			"SP recovery potion effect and skills -50%.",
-			"Reduced SP recovery speed.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12729] = {
-		unidentifiedDisplayName = "Asir Runestone",
-		unidentifiedResourceName = "·йЅєЕж_їЎАМЅГёЈ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Asir Runestone",
-		identifiedResourceName = "·йЅєЕж_їЎАМЅГёЈ",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Cast party[Fighting Spirit]:",
-			"ATK +70.",
-			"ATK +7 for each party member. Party members receive half the bonus.",
-			"This effect is better when[Rune Mastery] level is higher. ",
-			"Increased ASPD.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12730] = {
-		unidentifiedDisplayName = "Urj Runestone",
-		unidentifiedResourceName = "·йЅєЕж_їмёЈБо",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Urj Runestone",
-		identifiedResourceName = "·йЅєЕж_їмёЈБо",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Recovering 60 SP each 10 seconds for 3 minutes.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12731] = {
-		unidentifiedDisplayName = "Turisus Runestone",
-		unidentifiedResourceName = "·йЅєЕж_Ж©ё®ј­Ѕє",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Turisus Runestone",
-		identifiedResourceName = "·йЅєЕж_Ж©ё®ј­Ѕє",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Cast[Giant Cross] lv. 1 for 3 minutes:",
-			"STR +30.",
-			"Physical melee damage +250% (125% on Guild Wars' maps and Arenas).",
-			"Has a chance to hit an enemy for 3 times the damage while melee attacking.",
-			"Has a low chance of destroying the target's weapon when dealing physical melee damage.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12732] = {
-		unidentifiedDisplayName = "Pertz Runestone",
-		unidentifiedResourceName = "·йЅєЕж_ЖдёЈѕІ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Pertz Runestone",
-		identifiedResourceName = "·йЅєЕж_ЖдёЈѕІ",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Cast[Storm Blast]:",
-			"Generates a 7x7 shockwave around yourself and damages all targets and causes knockback effect.",
-			"Damage increases per each base STR and skill level[Rune Mastery].",
-			"Skill cast delay: 1 sec.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[12733] = {
-		unidentifiedDisplayName = "Hagalas Runestone",
-		unidentifiedResourceName = "·йЅєЕж_ЗП°Ґ¶уБо",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Hagalas Runestone",
-		identifiedResourceName = "·йЅєЕж_ЗП°Ґ¶уБо",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Cast[Stonehard Skin] changing your skin into a solid shell for 3 minutes.",
-			"Has a chance of destroying weapons of attacking enemies.",
-			"Consumes 25% of your HP and this skin possesses the same amount of HP consumed.",
-			"It disappears when all the HP is consumed.",
-			"For monsters, it decreases 25% of Atk for 10 seconds at a fixed rate.",
-			"This skill cannot be used for a boss monster.",
-			"^777777-------------^000000",
-			"Weight: ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -140420,31 +138677,6 @@ tbl = {
 		ClassNum = 19,
 		costume = false
 	},
-	[13200] = {
-		unidentifiedDisplayName = "Bullet",
-		unidentifiedResourceName = "єнёґ",
-		unidentifiedDescriptionName = {
-			"A small metal bullet",
-			"that can be fired from^FFFFFF  ^000000 a gun to damage enemies.",
-			"Class: ^777777Bullet^000000",
-			"Attack Strength: ^77777710^000000",
-			"Weight: ^7777770.2^000000",
-			"Property:^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Bullet",
-		identifiedResourceName = "єнёґ",
-		identifiedDescriptionName = {
-			"A small metal bullet",
-			"that can be fired from^FFFFFF  ^000000 a gun to damage enemies.",
-			"Class: ^777777Bullet^000000",
-			"Attack: ^77777710^000000",
-			"Weight: ^7777770.2^000000",
-			"Property:^777777Neutral^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[13201] = {
 		unidentifiedDisplayName = "Silver Bullet",
 		unidentifiedResourceName = "ЅЗ№цєнёґ",
@@ -140829,238 +139061,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[13215] = {
-		unidentifiedDisplayName = "Armor-Piercing Bullet",
-		unidentifiedResourceName = "єнёґ",
-		unidentifiedDescriptionName = {
-			"^808080This shell can penetrate even the thickest armor.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Shell",
-			"Base Attack: 50",
-			"Property: Neutral",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		identifiedDisplayName = "Armor-Piercing Bullet",
-		identifiedResourceName = "єнёґ",
-		identifiedDescriptionName = {
-			"^808080This shell can penetrate even the thickest armor.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Shell",
-			"Base Attack: 50",
-			"Property: Neutral",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13216] = {
-		unidentifiedDisplayName = "Blazing Bullet",
-		unidentifiedResourceName = "єнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Fire.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Fire",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		identifiedDisplayName = "Blazing Bullet",
-		identifiedResourceName = "єнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Fire.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Fire",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13217] = {
-		unidentifiedDisplayName = "Freezing Bullet",
-		unidentifiedResourceName = "єнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Ice.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Water",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		identifiedDisplayName = "Freezing Bullet",
-		identifiedResourceName = "єнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Ice.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Water",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13218] = {
-		unidentifiedDisplayName = "Lightning Bullet",
-		unidentifiedResourceName = "єнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Lightning.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Wind",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		identifiedDisplayName = "Lightning Bullet",
-		identifiedResourceName = "єнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Lightning.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Wind",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13219] = {
-		unidentifiedDisplayName = "Magic Stone Bullet",
-		unidentifiedResourceName = "єнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Earth.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Earth",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		identifiedDisplayName = "Magic Stone Bullet",
-		identifiedResourceName = "єнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet that is endowed with the power of Earth.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Earth",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13220] = {
-		unidentifiedDisplayName = "Purifying Bullet",
-		unidentifiedResourceName = "ЅЗ№цєнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A silver bullet that is dipped in holy water.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Holy",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		identifiedDisplayName = "Purifying Bullet",
-		identifiedResourceName = "ЅЗ№цєнёґ",
-		identifiedDescriptionName = {
-			"^808080A silver bullet that is dipped in holy water.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 40",
-			"Property: Holy",
-			"Weight: 0.2",
-			"Required Level: 100"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13221] = {
-		unidentifiedDisplayName = "Silver Bullet",
-		unidentifiedResourceName = "ЅЗ№цєнёґ",
-		unidentifiedDescriptionName = {
-			"^808080Silver bullet that is holy spirit.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 15",
-			"Property: Holy",
-			"Weight: 0.2"
-		},
-		identifiedDisplayName = "Silver Bullet",
-		identifiedResourceName = "ЅЗ№цєнёґ",
-		identifiedDescriptionName = {
-			"^808080Silver bullet that is holy spirit.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 15",
-			"Property: Holy",
-			"Weight: 0.2"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13222] = {
-		unidentifiedDisplayName = "Bloody Shell",
-		unidentifiedResourceName = "єн·Їµрјї",
-		unidentifiedDescriptionName = {
-			"^808080A bloody red bullet that may cause the Bleed effect on an enemy by a low chance.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 30",
-			"Property: Neutral",
-			"Weight: 0.2",
-			"^777777-------------^000000",
-			"A X% chance of inflicting ^800000Bleed^000000 status on the target when dealing physical attacks."
-		},
-		identifiedDisplayName = "Bloody Shell",
-		identifiedResourceName = "єн·Їµрјї",
-		identifiedDescriptionName = {
-			"^808080A bloody red bullet that may cause the Bleed effect on an enemy by a low chance.^000000",
-			"^777777-------------^000000",
-			"Type: Ammunition",
-			"Class: Bullet",
-			"Base Attack: 30",
-			"Property: Neutral",
-			"Weight: 0.2",
-			"^777777-------------^000000",
-			"A X% chance of inflicting ^800000Bleed^000000 status on the target when dealing physical attacks."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[13223] = {
 		unidentifiedDisplayName = "Incendiary Grenade",
 		unidentifiedResourceName = "ЗГ·№ѕоЅєЗЗѕо",
@@ -141199,357 +139199,6 @@ tbl = {
 			"Base Attack: 50",
 			"Property: Water",
 			"Weight: 0.5"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13228] = {
-		unidentifiedDisplayName = "Flare Bullet",
-		unidentifiedResourceName = "ЗГ·№ѕоєнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet endowed with fire.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2"
-		},
-		identifiedDisplayName = "Flare Bullet",
-		identifiedResourceName = "ЗГ·№ѕоєнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet endowed with fire.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13229] = {
-		unidentifiedDisplayName = "Lightning Bullet",
-		unidentifiedResourceName = "¶уАМЖ®ґЧєнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet endowed with lightning.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2"
-		},
-		identifiedDisplayName = "Lightning Bullet",
-		identifiedResourceName = "¶уАМЖ®ґЧєнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet endowed with lightning.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13230] = {
-		unidentifiedDisplayName = "Ice Bullet",
-		unidentifiedResourceName = "ѕЖАМЅєєнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet endowed with ice.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2"
-		},
-		identifiedDisplayName = "Ice Bullet",
-		identifiedResourceName = "ѕЖАМЅєєнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet endowed with ice.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13231] = {
-		unidentifiedDisplayName = "Poison Bullet",
-		unidentifiedResourceName = "ЖчАМБрєнёґ",
-		unidentifiedDescriptionName = {
-			"A bullet coated with poison.",
-			"Class: ^808080Bullet^000000",
-			"Attack: ^77777720^000000",
-			"Property: ^808080Poison^000000",
-			"Weight: ^8080800.2^000000",
-			"Adds a 5% chance of inflicting ^800000Poison^000000 on the target when performing a physical attack."
-		},
-		identifiedDisplayName = "Poison Bullet",
-		identifiedResourceName = "ЖчАМБрєнёґ",
-		identifiedDescriptionName = {
-			"A bullet coated with poison.",
-			"Class: ^808080Bullet^000000",
-			"Attack: ^77777720^000000",
-			"Property: ^808080Poison^000000",
-			"Weight: ^8080800.2^000000",
-			"Adds a 5% chance of inflicting ^800000Poison^000000 on the target when performing a physical attack."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13232] = {
-		unidentifiedDisplayName = "Blinding Bullet",
-		unidentifiedResourceName = "єн¶уАОµеєнёґ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet shrouded in darkness.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2",
-			"Adds a 5% chance of inflicting ^800000Blind^000000 on the target when performing a physical attack."
-		},
-		identifiedDisplayName = "Blinding Bullet",
-		identifiedResourceName = "єн¶уАОµеєнёґ",
-		identifiedDescriptionName = {
-			"^808080A bullet shrouded in darkness.^000000",
-			"Class: Bullet",
-			"Attack: 20",
-			"Weight: 0.2",
-			"Adds a 5% chance of inflicting ^800000Blind^000000 on the target when performing a physical attack."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13250] = {
-		unidentifiedDisplayName = "Shuriken",
-		unidentifiedResourceName = "јцё®°Л",
-		unidentifiedDescriptionName = {
-			"A cross-shaped weapon small enough to conceal in your hand.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777710^000000",
-			"Weight: ^7777770.5^000000"
-		},
-		identifiedDisplayName = "Shuriken",
-		identifiedResourceName = "јцё®°Л",
-		identifiedDescriptionName = {
-			"A cross-shaped weapon small enough to conceal in your hand.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777710^000000",
-			"Weight: ^7777770.5^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13251] = {
-		unidentifiedDisplayName = "Nimbus Shuriken",
-		unidentifiedResourceName = "јцё®°Л_Елїо",
-		unidentifiedDescriptionName = {
-			"A shuriken that is rumored to show its true power during a rainstorm.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777720^000000"
-		},
-		identifiedDisplayName = "Nimbus Shuriken",
-		identifiedResourceName = "јцё®°Л_Елїо",
-		identifiedDescriptionName = {
-			"A shuriken that is rumored to show its true power during a rainstorm.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777720^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13252] = {
-		unidentifiedDisplayName = "Flash Shuriken",
-		unidentifiedResourceName = "јцё®°Л_єсИЇ",
-		unidentifiedDescriptionName = {
-			"A shuriken that can be thrown at the speed of light.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777745^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777740^000000"
-		},
-		identifiedDisplayName = "Flash Shuriken",
-		identifiedResourceName = "јцё®°Л_єсИЇ",
-		identifiedDescriptionName = {
-			"A shuriken that can be thrown at the speed of light.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777745^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777740^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13253] = {
-		unidentifiedDisplayName = "Sharp Leaf Shuriken",
-		unidentifiedResourceName = "јцё®°Л_ј±ї±",
-		unidentifiedDescriptionName = {
-			"A sharp shuriken that is surprisingly as thin as a leaf.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777770^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777760^000000"
-		},
-		identifiedDisplayName = "Sharp Leaf Shuriken",
-		identifiedResourceName = "јцё®°Л_ј±ї±",
-		identifiedDescriptionName = {
-			"A sharp shuriken that is surprisingly as thin as a leaf.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777770^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777760^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13254] = {
-		unidentifiedDisplayName = "Thorn Needle Shuriken",
-		unidentifiedResourceName = "јцё®°Л_Д§ј­",
-		unidentifiedDescriptionName = {
-			"A dreadful shuriken with thorn-like barbs that hook into its target, making it painful to pull out.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^777777100^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777780^000000"
-		},
-		identifiedDisplayName = "Thorn Needle Shuriken",
-		identifiedResourceName = "јцё®°Л_Д§ј­",
-		identifiedDescriptionName = {
-			"A dreadful shuriken with thorn-like barbs that hook into its target, making it painful to pull out.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^777777100^000000",
-			"Weight: ^7777770.5^000000",
-			"Required Level: ^77777780^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13255] = {
-		unidentifiedDisplayName = "Icicle Kunai",
-		unidentifiedResourceName = "ДніЄАМ_јц",
-		unidentifiedDescriptionName = {
-			"A kunai imbued with freezing cold.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Water^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		identifiedDisplayName = "Icicle Kunai",
-		identifiedResourceName = "ДніЄАМ_јц",
-		identifiedDescriptionName = {
-			"A kunai imbued with freezing cold.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Water^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13256] = {
-		unidentifiedDisplayName = "Black Earth Kunai",
-		unidentifiedResourceName = "ДніЄАМ_Ед",
-		unidentifiedDescriptionName = {
-			"An Earth property kunai that inflicts blunt trauma upon its targets.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Earth^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		identifiedDisplayName = "Black Earth Kunai",
-		identifiedResourceName = "ДніЄАМ_Ед",
-		identifiedDescriptionName = {
-			"An Earth property kunai that inflicts blunt trauma upon its targets.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Earth^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13257] = {
-		unidentifiedDisplayName = "High Wind Kunai",
-		unidentifiedResourceName = "ДніЄАМ_Зі",
-		unidentifiedDescriptionName = {
-			"A Wind property kunai that is especially sharp.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Wind^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		identifiedDisplayName = "High Wind Kunai",
-		identifiedResourceName = "ДніЄАМ_Зі",
-		identifiedDescriptionName = {
-			"A Wind property kunai that is especially sharp.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Wind^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13258] = {
-		unidentifiedDisplayName = "Heat Wave Kunai",
-		unidentifiedResourceName = "ДніЄАМ_И­",
-		unidentifiedDescriptionName = {
-			"An explosive kunai that deals Fire damage to its target.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Fire^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		identifiedDisplayName = "Heat Wave Kunai",
-		identifiedResourceName = "ДніЄАМ_И­",
-		identifiedDescriptionName = {
-			"An explosive kunai that deals Fire damage to its target.",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Fire^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13259] = {
-		unidentifiedDisplayName = "Fell Poison Kunai",
-		unidentifiedResourceName = "ДніЄАМ_µ¶",
-		unidentifiedDescriptionName = {
-			"A kunai coated with deadly poison.",
-			"Low chance to inflict Poison on a target after a long range physical attack",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Poison^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
-		},
-		identifiedDisplayName = "Fell Poison Kunai",
-		identifiedResourceName = "ДніЄАМ_µ¶",
-		identifiedDescriptionName = {
-			"A kunai coated with deadly poison.",
-			"Low chance to inflict Poison on a target after a long range physical attack",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Poison^000000",
-			"Attack: ^77777730^000000",
-			"Weight: ^7777772^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -142322,33 +139971,6 @@ tbl = {
 			"Class: ^777777Throwing weapon^000000",
 			"Attack: ^77777750^000000",
 			"Weight: ^7777772^000000 Type: ^777777NothingType^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[13294] = {
-		unidentifiedDisplayName = "Explosive Kunai",
-		unidentifiedResourceName = "Жш№ЯДніЄАМ",
-		unidentifiedDescriptionName = {
-			"A special kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777750^000000",
-			"Weight: ^7777773^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777Ninja^000000"
-		},
-		identifiedDisplayName = "Explosive Kunai",
-		identifiedResourceName = "Жш№ЯДніЄАМ",
-		identifiedDescriptionName = {
-			"A special kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!",
-			"Class: ^777777Throwing Weapon^000000",
-			"Property: ^777777Neutral^000000",
-			"Attack: ^77777750^000000",
-			"Weight: ^7777773^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777Ninja^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -157638,10 +155260,10 @@ tbl = {
 		costume = false
 	},
 	[14611] = {
-		unidentifiedDisplayName = "Medium Defence Potion",
+		unidentifiedDisplayName = "Medium Defense Potion",
 		unidentifiedResourceName = "N/A",
 		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "Medium Defence Potion",
+		identifiedDisplayName = "Medium Defense Potion",
 		identifiedResourceName = "N/A",
 		identifiedDescriptionName = {},
 		slotCount = 0,
@@ -157649,10 +155271,10 @@ tbl = {
 		costume = false
 	},
 	[14612] = {
-		unidentifiedDisplayName = "Medium Magic Defence Potion",
+		unidentifiedDisplayName = "Medium Magic Defense Potion",
 		unidentifiedResourceName = "N/A",
 		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "Medium Magic Defence Potion",
+		identifiedDisplayName = "Medium Magic Defense Potion",
 		identifiedResourceName = "N/A",
 		identifiedDescriptionName = {},
 		slotCount = 0,
@@ -161549,7 +159171,7 @@ tbl = {
 			"ATK +1%.",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777710^000000",
 			"Required level: ^777777100^000000",
 			"Jobs: ^777777All Jobs^000000"
@@ -163340,57 +160962,6 @@ tbl = {
 			"Jobs: ^777777Novice Jobs, Swordman Jobs, Merchant Jobs, Acolyte Jobs^000000"
 		},
 		slotCount = 1,
-		ClassNum = 8,
-		costume = false
-	},
-	[16051] = {
-		unidentifiedDisplayName = "Mace",
-		unidentifiedResourceName = "Е¬·ґ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Valkyrie Hammer",
-		identifiedResourceName = "№ЯЕ°ё®ЗШёУ",
-		identifiedDescriptionName = {
-			"^808080The royal hammer of a powerful warrior maiden. Though its power is mighty, it is easy to handle, even by those less experienced.^000000",
-			"Class: Mace",
-			"Attack: 50",
-			"Property: Neutral",
-			"Weight: 10",
-			"Weapon Level: 4",
-			"Required Level: 70",
-			"Required Jobs: Novice, Swordman Jobs, Merchant Jobs, Acolyte Jobs",
-			"Matk + 50",
-			"^F4AD42Novice Bonus^000000",
-			"Vit + 1 per upgrade level of the item.",
-			"Max HP + 500",
-			"Additional Max HP + 200 per upgrade level of the item.",
-			"Max SP + 400",
-			"Atk + 150",
-			"Additional Matk + 200",
-			"Hit + 10",
-			"Perfect Dodge + 1 per upgrade level of the item.",
-			"Aspd + 1% per upgrade level of the item.",
-			"Reduces the variable casting time of skills by 1% per 2 upgrade levels of the item.",
-			"Reduces the SP cost of skills by 5%.",
-			"^F4AD42Swordman Bonus^000000",
-			"Vit + 1 per upgrade level of the item.",
-			"Max HP + 500",
-			"Max SP + 100",
-			"^F4AD42Merchant Bonus^000000",
-			"Atk + 100",
-			"Hit + 10",
-			"Reduces the variable casting time of skills by 1% per 2 upgrade levels of the item.",
-			"^F4AD42Priest Bonus^000000",
-			"Atk + 50",
-			"Additional Matk + 100",
-			"Aspd + 1% per upgrade level of the item.",
-			"^F4AD42Monk Bonus^000000",
-			"Max SP + 200",
-			"Perfect Dodge + 1 per upgrade level of the item.",
-			"Reduces the SP cost of skills by 5%."
-		},
-		slotCount = 4,
 		ClassNum = 8,
 		costume = false
 	},
@@ -176872,119 +174443,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[18000] = {
-		unidentifiedDisplayName = "Cannon Ball",
-		unidentifiedResourceName = "Діінєј",
-		unidentifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon. ",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777100^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Cannon Ball",
-		identifiedResourceName = "Діінєј",
-		identifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon. ",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777100^000000",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[18001] = {
-		unidentifiedDisplayName = "Holy Cannon Ball",
-		unidentifiedResourceName = "И¦ё®Діінєј",
-		unidentifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777120^000000",
-			"Weight: ^7777771^000000",
-			"Property: ^777777Holy^000000"
-		},
-		identifiedDisplayName = "Holy Cannon Ball",
-		identifiedResourceName = "И¦ё®Діінєј",
-		identifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777120^000000",
-			"Weight: ^7777771^000000",
-			"Property: ^777777Holy^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[18002] = {
-		unidentifiedDisplayName = "Dark Cannon Ball",
-		unidentifiedResourceName = "ґЩЕ©Діінєј",
-		unidentifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777120^000000",
-			"Weight: ^7777771^000000",
-			"Property : ^777777Shadow^000000"
-		},
-		identifiedDisplayName = "Dark Cannon Ball",
-		identifiedResourceName = "ґЩЕ©Діінєј",
-		identifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777120^000000",
-			"Weight: ^7777771^000000",
-			"Property : ^777777Shadow^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[18003] = {
-		unidentifiedDisplayName = "Soul Cannon Ball",
-		unidentifiedResourceName = "јТїпДіінєј",
-		unidentifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777120^000000",
-			"Weight: ^7777771^000000",
-			"Property : ^777777Ghost^000000"
-		},
-		identifiedDisplayName = "Soul Cannon Ball",
-		identifiedResourceName = "јТїпДіінєј",
-		identifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777120^000000",
-			"Weight: ^7777771^000000",
-			"Property : ^777777Ghost^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[18004] = {
-		unidentifiedDisplayName = "Iron Cannon Ball",
-		unidentifiedResourceName = "ѕЖАМѕрДіінєј",
-		unidentifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777250^000000",
-			"Weight: ^7777771^000000",
-			"Property: ^777777Neutral^000000"
-		},
-		identifiedDisplayName = "Iron Cannon Ball",
-		identifiedResourceName = "ѕЖАМѕрДіінєј",
-		identifiedDescriptionName = {
-			"A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.",
-			"Class: ^777777Cannonball^000000",
-			"Attack Strength: ^777777250^000000",
-			"Weight: ^7777771^000000",
-			"Property: ^777777Neutral^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[18101] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "·зµе¶уАЗИ°",
@@ -181742,33 +179200,6 @@ tbl = {
 			"Class: ^777777Headgear^000000  Defense: ^7777773^000000",
 			"Location: ^777777Middle^000000",
 			"Weight: ^77777740^000000",
-			"Level Requirement: ^77777720^000000",
-			"Job: ^777777All Job except Novice^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[18712] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "АФїЎ№«ґВєОГ¤",
-		unidentifiedDescriptionName = {
-			"The useful tools for refreshing in the summer.",
-			"Cannot refine.",
-			"Series: ^777777Headgear^000000  Defense: ^7777770^000000",
-			"Location: ^777777Lower^000000",
-			"Weight: ^77777720^000000",
-			"Level Requirement: ^77777720^000000",
-			"Job: ^777777All Job except Novice^000000"
-		},
-		identifiedDisplayName = "Fan In Mouth",
-		identifiedResourceName = "АФїЎ№«ґВєОГ¤",
-		identifiedDescriptionName = {
-			"The useful tools for refreshing in the summer.",
-			"Cannot refine.",
-			"Class: ^777777Headgear^000000  Defense: ^7777770^000000",
-			"Location: ^777777Lower^000000",
-			"Weight: ^77777720^000000",
 			"Level Requirement: ^77777720^000000",
 			"Job: ^777777All Job except Novice^000000"
 		},
@@ -189235,43 +186666,6 @@ tbl = {
 		ClassNum = 1294,
 		costume = false
 	},
-	[19326] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Book Stack on Head",
-		identifiedResourceName = "№®АЪГҐёрАЪ",
-		identifiedDescriptionName = {
-			"A stack of ordinary-looking books. Don't try to read them like any other book, though, as their contents can be deciphered only after placing them upon your head.",
-			"^777777-------------^000000",
-			"^264696[If used with one of the ^008080specified cards^000000]^000000",
-			"Exp from specified monsters +5%",
-			"[If refine level is +6 or higher]",
-			"Additional Exp from specified monsters +5%",
-			"[If refine level is +8 or higher]",
-			"Additional Exp from specified monsters +5%",
-			"^777777Cards and races matching:^000000",
-			"^008080Evil Cloud Hermit Card^000000 - Plant",
-			"^008080Armeyer Dinze Card^000000 - Fish",
-			"^008080Stem Worm Card^000000 - Animal",
-			"^008080Raydric Archer Card^000000 - Demon",
-			"^008080Orc Archer Card^000000 - Demihuman",
-			"^008080Anopheles Card^000000 - Insect",
-			"^008080Wraith Card^000000 - Undead",
-			"^777777-------------^000000",
-			"Class: ^777777Headgear^000000",
-			"Location: ^777777Upper^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^777777100^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 423,
-		costume = false
-	},
 	[19327] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "ё¶ЅєЕ©",
@@ -189751,7 +187145,7 @@ tbl = {
 			" ",
 			"Class: ^777777Headgear^000000",
 			"Slot ^777777upper^000000",
-			"Defence: ^77777718^000000 Magic defence: ^77777715^000000",
+			"Defense: ^77777718^000000 Magic defence: ^77777715^000000",
 			"Weight: ^777777100^000000",
 			"Required LV: ^777777100^000000",
 			"Job: ^777777All^000000"
@@ -189820,7 +187214,7 @@ tbl = {
 		identifiedDisplayName = "Jejecap JP",
 		identifiedResourceName = "Б¦Б¦Дё",
 		identifiedDescriptionName = {
-			"Casting is not interrupted.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nSkill delay - 15%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\n[FULLPROTECTION]\nCasting time - 50%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\nDMG + 10%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nIf[Jejecap JP]'s\nIf refine level is 7 or higherЎўadditionally\n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\nDMG + 15%\nIf[Jejecap JP]'s\nIf refine level is 9 or higherЎўadditionally\n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\nDMG + 25%\nIf[Jejecap JP]'s\nIf refine level is 10 or higherЎўadditionally\nIgnore all races Def 100%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nIf[FIRE EXPANSION.] Lv5 is reached\nDMG to boss monster +50%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nIf[MANDRAGORA]Lv5 is reached\nskill delay - 25%,\n[CRAZYWEED]'s\ncool down time - 4.5sec\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nFor every level up of[CRAZYWEED]\nreduces skill delay by 6%\nClass: ^777777Helm^000000Defense: ^77777718^000000\nLocation: ^777777Upper ^000000Weight: ^777777100^000000\nRequired Level: ^777777100^000000\nUsable By: ^777777All Classes^000000\n",
+			"Casting is not interrupted.\n \nSkill delay - 15%\n \n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\n[FULLPROTECTION]\nCasting time - 50%\n \n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\nDMG + 10%\n \nIf[Jejecap JP]'s\nIf refine level is 7 or higherЎўadditionally\n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\nDMG + 15%\nIf[Jejecap JP]'s\nIf refine level is 9 or higherЎўadditionally\n[ACIDDEMONSTRATION]Ўў\n[CRAZYWEED]Ўў\nDMG + 25%\nIf[Jejecap JP]'s\nIf refine level is 10 or higherЎўadditionally\nIgnore all races Def 100%\n \nIf[FIRE EXPANSION.] Lv5 is reached\nDMG to boss monster +50%\n \nIf[MANDRAGORA]Lv5 is reached\nskill delay - 25%,\n[CRAZYWEED]'s\ncool down time - 4.5sec\n \nFor every level up of[CRAZYWEED]\nreduces skill delay by 6%\nClass: ^777777Helm^000000Defense: ^77777718^000000\nLocation: ^777777Upper ^000000Weight: ^777777100^000000\nRequired Level: ^777777100^000000\nUsable By: ^777777All Classes^000000\n",
 			"Attack: ^7777770^000000",
 			"Weight: ^8080800^000000",
 			"Weapon Level: ^8080800^000000"
@@ -190485,24 +187879,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 693,
 		costume = false
-	},
-	[19535] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "placeholder",
-		identifiedResourceName = "ЅЕј±ГКёрАЪ",
-		identifiedDescriptionName = {
-			"Though its face and its origin is a mystery, it still looks adorable perched atop your head.",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000"
-		},
-		slotCount = 0,
-		ClassNum = 730,
-		costume = true
 	},
 	[19536] = {
 		unidentifiedDisplayName = "Hat",
@@ -193465,7 +190841,7 @@ tbl = {
 			"Perfect Strike chance +30%.",
 			" ",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -193500,7 +190876,7 @@ tbl = {
 			"Grants immunity to Curses.",
 			" ",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -195738,26 +193114,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 804,
-		costume = true
-	},
-	[19886] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Purple Glasses",
-		identifiedResourceName = "°н±Юј±±Ы·ЎЅє",
-		identifiedDescriptionName = {
-			"High quality sunglasses that effectively block glare from the sun.",
-			"A face mask that is worn by those who have trouble sleeping.",
-			"Type: ^777777Costume^000000",
-			"Used for: ^777777Middle ^000000Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Required Class: ^777777Every Class^000000"
-		},
-		slotCount = 0,
-		ClassNum = 26,
 		costume = true
 	},
 	[19892] = {
@@ -198062,7 +195418,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.."
 		},
-		identifiedDisplayName = "Fern Wreath",
+		identifiedDisplayName = "Costume Fern Wreath",
 		identifiedResourceName = "»зёё№ЩАМѕЖ",
 		identifiedDescriptionName = {
 			"A lush wreath of golden polypody leaves.",
@@ -208890,7 +206246,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
-		identifiedDisplayName = "Illusion Shoes",
+		identifiedDisplayName = "Illusion Leg",
 		identifiedResourceName = "Shoes_IL",
 		identifiedDescriptionName = {
 			"A pair of shoes made of supple, high quality leather.",
@@ -209487,26 +206843,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22540] = {
-		unidentifiedDisplayName = "Lux Anima Runestone",
-		unidentifiedResourceName = "·йЅєЕж_·°Ѕє",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Lux Anima Runestone",
-		identifiedResourceName = "·йЅєЕж_·°Ѕє",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Transfers the most recent active rune buff to all party members within 7x7 area.",
-			"This can be re-used to transfer more rune buffs in the order that they were received by the Rune Knight.",
-			"Eligible Rune buffs:[Millennium Shield],[Refresh],[Giant Cross],[Stone Skin],[Vitality Activation],[Abundance].",
-			"Buff duration: 60 seconds",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[22542] = {
 		unidentifiedDisplayName = "Potion Concentration",
 		unidentifiedResourceName = "БэБЯЖчјЗ",
@@ -209968,7 +207304,7 @@ tbl = {
 			"- Max SP +3%.",
 			"- FLEE +33.",
 			"- ASPD +3.",
-			"- Defence +33.",
+			"- Defense +33.",
 			"- Magic Defense +33.",
 			"- CRIT +33.",
 			"- HIT +33.",
@@ -210708,60 +208044,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22737] = {
-		unidentifiedDisplayName = "Bloody Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"^808080Contains 500 bullets that have a chance to cause bleeding.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Bloody Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"^808080Contains 500 bullets that have a chance to cause bleeding.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22738] = {
-		unidentifiedDisplayName = "Silver Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_ЅЗ№ц",
-		unidentifiedDescriptionName = {
-			"^808080500 holy silver bullet is in it.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeded over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Silver Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_ЅЗ№ц",
-		identifiedDescriptionName = {
-			"^808080500 holy silver bullet is in it.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeded over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[22739] = {
 		unidentifiedDisplayName = "Sphere Pack Lightning",
 		unidentifiedResourceName = "ЅєЗЗѕоЖС_Зі",
@@ -210857,168 +208139,6 @@ tbl = {
 			"Type: Consumable",
 			"Class: Item Producer",
 			"Weight: 35"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22744] = {
-		unidentifiedDisplayName = "Ammo AP Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"^808080Contains 500 armor-piercing shells that penetrate even the thickest armor.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ammo AP Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"^808080Contains 500 armor-piercing shells that penetrate even the thickest armor.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22745] = {
-		unidentifiedDisplayName = "Ammo Blazing Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"^808080Contains 500 bullets that are endowed with the power of Fire.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ammo Blazing Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"^808080Contains 500 bullets that are endowed with the power of Fire.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22746] = {
-		unidentifiedDisplayName = "Ammo Freezing Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"^808080Contains 500 bullets that are endowed with the power of Ice.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ammo Freezing Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"^808080Contains 500 bullets that are endowed with the power of Ice.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22747] = {
-		unidentifiedDisplayName = "Ammo Lightning Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"^808080Contains 500 bullets that are endowed with the power of Lightning.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ammo Lightning Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"^808080Contains 500 bullets that are endowed with the power of Lightning.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22748] = {
-		unidentifiedDisplayName = "Ammo Magic Stone Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл",
-		unidentifiedDescriptionName = {
-			"^808080Contains 500 magic stone bullets that are endowed with the power of Earth.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ammo Magic Stone Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл",
-		identifiedDescriptionName = {
-			"^808080Contains 500 magic stone bullets that are endowed with the power of Earth.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22749] = {
-		unidentifiedDisplayName = "Ammo Purifying Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_ЅЗ№ц",
-		unidentifiedDescriptionName = {
-			"^808080Contains bullets that are dipped in holy water.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ammo Purifying Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_ЅЗ№ц",
-		identifiedDescriptionName = {
-			"^808080Contains bullets that are dipped in holy water.^000000",
-			"^777777-------------^000000",
-			"^FF0000If the ammunition in your inventory exceeds over 30,000, it can be lost.^000000",
-			"^777777-------------^000000",
-			"Type: Consumable",
-			"Class: Item Producer",
-			"Weight: 25"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -211438,14 +208558,14 @@ tbl = {
 		unidentifiedDisplayName = "Red Envelope",
 		unidentifiedResourceName = "јј№оµ·",
 		unidentifiedDescriptionName = {
-			"A red envelope. It seems to contain something that will make its recipient very happy.",
+			"A red envelope. It seems to contain something that will make its recipent very happy.",
 			"^777777-------------^000000",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Red Envelope",
 		identifiedResourceName = "јј№оµ·",
 		identifiedDescriptionName = {
-			"^080808It seems to contain something that will make its recipient very happy.^000000",
+			"^080808It seems to contain something that will make its recipent very happy.^000000",
 			"Gives 100 to 1000 zeny when used.",
 			"^777777-------------^000000",
 			"Type: Consumable",
@@ -211769,7 +208889,7 @@ tbl = {
 		unidentifiedResourceName = "ёр№ь»эј±№°»уАЪ",
 		unidentifiedDescriptionName = {
 			"^ff0000Account Bound.^000000",
-			"Paper box with smiley decoration, decorated with yellow ribbon.\nContains one of the following items.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nEvil_Marcher_Hat\nWondering_Wolf_Helm\nTare_Neko_Cru\nImp_Hat\nHoly_Marching_Hat_J\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nWeight : 20\n",
+			"Paper box with smiley decoration, decorated with yellow ribbon.\nContains one of the following items.\n  \nEvil_Marcher_Hat\nWondering_Wolf_Helm\nTare_Neko_Cru\nImp_Hat\nHoly_Marching_Hat_J\n  \nWeight : 20\n",
 			"Class: ^808080Item Giver^000000",
 			"Weight: ^8080800^000000"
 		},
@@ -211777,7 +208897,7 @@ tbl = {
 		identifiedResourceName = "ёр№ь»эј±№°»уАЪ",
 		identifiedDescriptionName = {
 			"^ff0000Account Bound.^000000",
-			"Paper box with smiley decoration, decorated with yellow ribbon.\nContains one of the following items.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nEvil_Marcher_Hat\nWondering_Wolf_Helm\nTare_Neko_Cru\nImp_Hat\nHoly_Marching_Hat_J\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nWeight : 20\n",
+			"Paper box with smiley decoration, decorated with yellow ribbon.\nContains one of the following items.\n  \nEvil_Marcher_Hat\nWondering_Wolf_Helm\nTare_Neko_Cru\nImp_Hat\nHoly_Marching_Hat_J\n  \nWeight : 20\n",
 			"Class: ^808080Item Giver^000000",
 			"Weight: ^8080800^000000"
 		},
@@ -211855,7 +208975,7 @@ tbl = {
 		unidentifiedResourceName = "єТ·®ЗР»эј±№°»уАЪ",
 		unidentifiedDescriptionName = {
 			"^ff0000Account Bound.^000000",
-			"Well packed red box with purple ribbon.\nContains one of the following items.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nHeart_Wing_Hairband\nTare_Neko_Cru\nGlory_FB_Hat\nDrooping_Morocc_Minion\nMask_Of_Ifrit\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nWeight : 20\n",
+			"Well packed red box with purple ribbon.\nContains one of the following items.\n  \nHeart_Wing_Hairband\nTare_Neko_Cru\nGlory_FB_Hat\nDrooping_Morocc_Minion\nMask_Of_Ifrit\n  \nWeight : 20\n",
 			"Class: ^808080Item Giver^000000",
 			"Weight: ^8080800^000000"
 		},
@@ -211863,7 +208983,7 @@ tbl = {
 		identifiedResourceName = "єТ·®ЗР»эј±№°»уАЪ",
 		identifiedDescriptionName = {
 			"^ff0000Account Bound.^000000",
-			"Well packed red box with purple ribbon.\nContains one of the following items.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nHeart_Wing_Hairband\nTare_Neko_Cru\nGlory_FB_Hat\nDrooping_Morocc_Minion\nMask_Of_Ifrit\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nWeight : 20\n",
+			"Well packed red box with purple ribbon.\nContains one of the following items.\n  \nHeart_Wing_Hairband\nTare_Neko_Cru\nGlory_FB_Hat\nDrooping_Morocc_Minion\nMask_Of_Ifrit\n  \nWeight : 20\n",
 			"Class: ^808080Item Giver^000000",
 			"Weight: ^8080800^000000"
 		},
@@ -211897,14 +209017,14 @@ tbl = {
 		unidentifiedDisplayName = "[Event] Transformation Pack",
 		unidentifiedResourceName = "БЦ№®ј­ґЩ№Я",
 		unidentifiedDescriptionName = {
-			"Includes one of the transform scrolls listed below.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nTrans_Scroll_Wghost\nTrans_Scroll_Sca\nTrans_Scroll_Wander\nTrans_Scroll_Gazeti\nTrans_Scroll_Karcher\nTrans_Scroll_Necro\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nWeight : ^77777710^000000\n",
+			"Includes one of the transform scrolls listed below.\n  \nTrans_Scroll_Wghost\nTrans_Scroll_Sca\nTrans_Scroll_Wander\nTrans_Scroll_Gazeti\nTrans_Scroll_Karcher\nTrans_Scroll_Necro\n  \nWeight : ^77777710^000000\n",
 			"Class: ^808080Item Giver^000000",
 			"Weight: ^8080800^000000"
 		},
 		identifiedDisplayName = "[Event] Transformation Pack",
 		identifiedResourceName = "БЦ№®ј­ґЩ№Я",
 		identifiedDescriptionName = {
-			"Includes one of the transform scrolls listed below.\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nTrans_Scroll_Wghost\nTrans_Scroll_Sca\nTrans_Scroll_Wander\nTrans_Scroll_Gazeti\nTrans_Scroll_Karcher\nTrans_Scroll_Necro\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ \nWeight : ^77777710^000000\n",
+			"Includes one of the transform scrolls listed below.\n  \nTrans_Scroll_Wghost\nTrans_Scroll_Sca\nTrans_Scroll_Wander\nTrans_Scroll_Gazeti\nTrans_Scroll_Karcher\nTrans_Scroll_Necro\n  \nWeight : ^77777710^000000\n",
 			"Class: ^808080Item Giver^000000",
 			"Weight: ^8080800^000000"
 		},
@@ -212335,101 +209455,6 @@ tbl = {
 			"^ff0000Character Bound.^000000",
 			"A bag once owned by Seyren Windsor. It is said to contains his companions belongings.",
 			"Weight: ^8080800^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[23123] = {
-		unidentifiedDisplayName = "Flare Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_ЗГ·№ѕо",
-		unidentifiedDescriptionName = {
-			"^808080A bullet case containing 500 flare bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Flare Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_ЗГ·№ѕо",
-		identifiedDescriptionName = {
-			"^808080A bullet case containing 500 flare bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[23124] = {
-		unidentifiedDisplayName = "Lightning Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_¶уАМЖ®ґЧ",
-		unidentifiedDescriptionName = {
-			"^808080A bullet case containing 500 lightning bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Lightning Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_¶уАМЖ®ґЧ",
-		identifiedDescriptionName = {
-			"^808080A bullet case containing 500 lightning bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[23125] = {
-		unidentifiedDisplayName = "Ice Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_ѕЖАМЅє",
-		unidentifiedDescriptionName = {
-			"^808080A bullet case containing 500 ice bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Ice Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_ѕЖАМЅє",
-		identifiedDescriptionName = {
-			"^808080A bullet case containing 500 ice bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[23126] = {
-		unidentifiedDisplayName = "Poison Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_ЖчАМБр",
-		unidentifiedDescriptionName = {
-			"^808080A bullet case containing 500 poison bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Poison Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_ЖчАМБр",
-		identifiedDescriptionName = {
-			"^808080A bullet case containing 500 poison bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[23127] = {
-		unidentifiedDisplayName = "Blinding Bullet Case",
-		unidentifiedResourceName = "ЕєѕаЕл_єн¶уАОµе",
-		unidentifiedDescriptionName = {
-			"^808080A bullet case containing 500 blinding bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
-		},
-		identifiedDisplayName = "Blinding Bullet Case",
-		identifiedResourceName = "ЕєѕаЕл_єн¶уАОµе",
-		identifiedDescriptionName = {
-			"^808080A bullet case containing 500 blinding bullets.^000000",
-			"Class: Item Giver",
-			"Weight: 25"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -221791,23 +218816,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[25187] = {
-		unidentifiedDisplayName = "Slug Bullet",
-		unidentifiedResourceName = "ЅЅ·Ї±ЧЕє_5",
-		unidentifiedDescriptionName = {
-			"^808080A bullet that is made for the Slug Shot skill. It can be used as a normal shot but does not give high damage. It's expensive and very heavy... just what is this thing made of?^000000",
-			"Weight: 120"
-		},
-		identifiedDisplayName = "Slug Bullet",
-		identifiedResourceName = "ЅЅ·Ї±ЧЕє_5",
-		identifiedDescriptionName = {
-			"^808080A bullet that is made for the Slug Shot skill. It can be used as a normal shot but does not give high damage. It's expensive and very heavy... just what is this thing made of?^000000",
-			"Weight: 120"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[25231] = {
 		unidentifiedDisplayName = "Suspicious Bottle",
 		unidentifiedResourceName = "јц»уЗСєґ",
@@ -222130,13 +219138,13 @@ tbl = {
 		unidentifiedDisplayName = "Bloody Love Letter",
 		unidentifiedResourceName = "ЗЗ№ЇАєГҐАе",
 		unidentifiedDescriptionName = {
-			"The names of its sender and recipient are smudged beyond recognition. \"You left in the dead of winter with a promise to come back in the next spring. Flowers have bloomed and withered, and you are still not here. Dear Moon, please send my regards to my beloved.\",",
+			"The names of its sender and recipent are smudged beyond recognition. \"You left in the dead of winter with a promise to come back in the next spring. Flowers have bloomed and withered, and you are still not here. Dear Moon, please send my regards to my beloved.\",",
 			"Weight: ^8080801^000000"
 		},
 		identifiedDisplayName = "Bloody Love Letter",
 		identifiedResourceName = "ЗЗ№ЇАєГҐАе",
 		identifiedDescriptionName = {
-			"The names of its sender and recipient are smudged beyond recognition. \"You left in the dead of winter with a promise to come back in the next spring. Flowers have bloomed and withered, and you are still not here. Dear Moon, please send my regards to my beloved.\",",
+			"The names of its sender and recipent are smudged beyond recognition. \"You left in the dead of winter with a promise to come back in the next spring. Flowers have bloomed and withered, and you are still not here. Dear Moon, please send my regards to my beloved.\",",
 			"Weight: ^8080801^000000"
 		},
 		slotCount = 0,
@@ -223375,14 +220383,14 @@ tbl = {
 			"Restores 1 SP to the user when a monster is killed by a physical attack per 2 upgrade levels of the item.",
 			"Adds a 10% chance of inflicting ^800000Chaos^000000 on the user when performing a short-ranged attack.",
 			"^800080Set Bonus^000000",
-			"^008080Illusion Shoes^000000",
+			"^008080Illusion Leg^000000",
 			"^008080Illusion Spectral Spear^000000",
 			"Aspd + 8%",
-			"If ^008080Illusion Shoes^000000 and ^008080Illusion Spectral Spear^000000 upgrade level is +7 or higher,",
+			"If ^008080Illusion Leg^000000 and ^008080Illusion Spectral Spear^000000 upgrade level is +7 or higher,",
 			"Increases the damage of ^0000FFBanishing Point^000000 by 20%.",
-			"If the combined upgrade levels of ^008080Illusion Shoes^000000 and ^008080Illusion Spectral Spear^000000 are +18 or higher,",
+			"If the combined upgrade levels of ^008080Illusion Leg^000000 and ^008080Illusion Spectral Spear^000000 are +18 or higher,",
 			"Increases long-ranged damage on targets by 10%.",
-			"If the combined upgrade levels of ^008080Illusion Shoes^000000 and ^008080Illusion Spectral Spear^000000 are +22 or higher,",
+			"If the combined upgrade levels of ^008080Illusion Leg^000000 and ^008080Illusion Spectral Spear^000000 are +22 or higher,",
 			"Increases the damage of ^0000FFBanishing Point^000000 by an additional 30%."
 		},
 		slotCount = 1,
@@ -227914,7 +224922,7 @@ tbl = {
 			"Int + 5",
 			"Dex + 5",
 			"Luk + 5",
-			"Reduces the variable casting time of ^0000FFAcid Bomb^000000 by 1% for every 4 base levels.",
+			"Fixed casting time of ^0000FFAcid Bomb^000000 -1% for every 4 base levels.",
 			"Increases the damage of ^0000FFSpore Explosion^000000 by 5% for every 20 base levels.",
 			"Additional Int + 1 per 2 levels of ^0000FFAid Condensed Potion^000000 known.",
 			"Additional Dex + 1 per 2 levels of ^0000FFAid Condensed Potion^000000 known.",
@@ -232630,10 +229638,12 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
-		identifiedDisplayName = "Mighty Beard",
+		identifiedDisplayName = "Costume Mighty Beard",
 		identifiedResourceName = "µеїцЗБјцї°",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"A heavy dwarven beard. It's so thick and warm, you don't even need a scarf.",
+			"^777777-------------^000000",
 			"Type: ^777777Costume^000000 ",
 			"Defense: ^7777770^000000",
 			"Location: ^777777Lower ^000000",
@@ -235587,26 +232597,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1073,
-		costume = true
-	},
-	[31434] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Stormy Cloud",
-		identifiedResourceName = "єс±ёё§",
-		identifiedDescriptionName = {
-			"A small stormy rain cloud that follows you everywhere.",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000",
-			"Requires Level: ^8080801^000000",
-			"Usable By: ^808080All Jobs^000000"
-		},
-		slotCount = 0,
-		ClassNum = 705,
 		costume = true
 	},
 	[31435] = {
@@ -239338,7 +236328,7 @@ tbl = {
 			"Embellished with silk ribbons.",
 			"No bears were harmed in the production of this accessory!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^000000Upper",
 			"^777777Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -239513,6 +236503,9 @@ tbl = {
 		identifiedDisplayName = "Costume Palace Guard Cap",
 		identifiedResourceName = "±ЩА§єґАЗёрАЪ",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"A costume of a hat commonly worn by the chosen palace guards.",
+			"^777777-------------^000000",
 			"Class: ^808080Costume^000000",
 			"Position: ^808080Upper^000000",
 			"Weight: ^8080800^000000"
@@ -240228,30 +237221,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[32206] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "ёµ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Prontera Militia Glove",
-		identifiedResourceName = "Prta_Mil_Glove",
-		identifiedDescriptionName = {
-			"Gloves provided from Prontera. Wearer becomes indomitable.",
-			"Class: ^808080Accessory^000000",
-			"Weight: ^80808010^000000",
-			"Requires Level: ^808080100^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Vit+ 5",
-			"Mdef + 5",
-			"Aspd + 5%",
-			"Reduces damage taken from Demi-Human race enemies by 3%.",
-			"Reduces damage taken from Fire, Water, Wind and Earth property attacks by 5%."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[32234] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = " ",
@@ -240261,7 +237230,7 @@ tbl = {
 		identifiedDisplayName = "Unrivaled Ring",
 		identifiedResourceName = "UnrivaledRing",
 		identifiedDescriptionName = {
-			"Physical?Magical attack DMG + 5%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nWhen Physical?Magical attack, \nDMG to wind?earth type monster increases by?+?10%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nDMG taken from wind?earth element attack reduced by 5%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\n[UnrivaledDagger],[UnrivaledGun],[UnrivaledStaff], \n[UnrivaledMace],[UnrivaledSpear], \n[UnrivaledBow] if equip together with\none of above\nPhysical?Magical attack, \nDMG to animal?plant type monster \nincreased by?+?20%\nDMG to wind?earth element monster \nincreased by?+?20%\nЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ\nIf equip with[Sky Ground]\nPhysical?Magical attack, \nto animal?plant type monster \ngive additional DMG of?15%\nto wind?earth type monster \ngive additional DMG of?15%\nClass : ^777777Accessory^000000 Defense : ^7777770^000000\nWeight : ^77777730^000000\nRequired Level : ^777777100^000000\nEquip To : ^777777All Classes^000000\n",
+			"Physical?Magical attack DMG + 5%\n \nWhen Physical?Magical attack, \nDMG to wind?earth type monster increases by?+?10%\n \nDMG taken from wind?earth element attack reduced by 5%\n \n[UnrivaledDagger],[UnrivaledGun],[UnrivaledStaff], \n[UnrivaledMace],[UnrivaledSpear], \n[UnrivaledBow] if equip together with\none of above\nPhysical?Magical attack, \nDMG to animal?plant type monster \nincreased by?+?20%\nDMG to wind?earth element monster \nincreased by?+?20%\n \nIf equip with[Sky Ground]\nPhysical?Magical attack, \nto animal?plant type monster \ngive additional DMG of?15%\nto wind?earth type monster \ngive additional DMG of?15%\nClass : ^777777Accessory^000000 Defense : ^7777770^000000\nWeight : ^77777730^000000\nRequired Level : ^777777100^000000\nEquip To : ^777777All Classes^000000\n",
 			"Attack: ^7777770^000000",
 			"Weight: ^8080800^000000",
 			"Weapon Level: ^8080800^000000"
@@ -251313,23 +248282,6 @@ tbl = {
 		ClassNum = 43,
 		costume = false
 	},
-	[25899] = {
-		unidentifiedDisplayName = "Particle of Innocent Soul",
-		unidentifiedResourceName = "E_Abyss1",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Particle of Innocent Soul",
-		identifiedResourceName = "E_Abyss1",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"This particle contains the deepest feelings and emotions of a person, each of us tries to hide from everyone as deep in soul as we can.",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 43,
-		costume = false
-	},
 	[7849] = {
 		unidentifiedDisplayName = "Mimic Essence",
 		unidentifiedResourceName = "Soul_Crystal",
@@ -253921,7 +250873,7 @@ tbl = {
 			"A headphones in the form of black wings. The epitome of diabolical elegance!",
 			"^777777-------------^000000",
 			"Class: ^777777 Equipment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Middle ^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -253943,7 +250895,7 @@ tbl = {
 			"This aura will surround you like a black cloak. No one will see a glimpse on your blade...",
 			"^ff0000Animated^000000",
 			"Class: ^777777Garment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
@@ -254005,7 +250957,7 @@ tbl = {
 			"resistance to all races except Angel enemies +3%.",
 			" ",
 			"Class: ^777777Armor^000000",
-			"Defence: ^77777750^000000",
+			"Defense: ^77777750^000000",
 			"Weight: ^777777100^000000",
 			"Required Level: ^77777730^000000",
 			"Jobs: ^777777All^000000"
@@ -254749,7 +251701,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Combat Armor Type A created with Illusion's technology.\nVarious modules can be used for additional abilities.\n",
 			"Class: ^808080Armor^000000",
-			"Defence: ^808080105^000000",
+			"Defense: ^808080105^000000",
 			"Weight: ^808080100^000000",
 			"Requires Level: ^808080130^000000",
 			"Usable By: ^808080All Jobs^000000",
@@ -254810,7 +251762,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Combat Engine Type A created with Illusion's technology.\nVarious modules can be used for additional abilities.",
 			"Class: ^808080Garment^000000",
-			"Defence: ^80808050^000000",
+			"Defense: ^80808050^000000",
 			"Weight: ^80808090^000000",
 			"Requires Level: ^808080130^000000",
 			"Usable By: ^808080All Jobs^000000",
@@ -254899,7 +251851,7 @@ tbl = {
 			"When equipped with Illusion Armor Type A, MaxSP + 5%.",
 			"When equipped with Illusion Armor Type B, Matk + 5%.",
 			"Class: ^808080Shoes^000000",
-			"Defence: ^80808020^000000",
+			"Defense: ^80808020^000000",
 			"Weight: ^80808050^000000",
 			"Requires Level: ^808080130^000000",
 			"Usable By: ^808080All Jobs^000000"
@@ -259501,9 +256453,9 @@ tbl = {
 			"If refined to +9, reduced the cooldown of Hundred Spears by 1 sec.",
 			"If refined to +13, additionally reduced the cooldown of Hundred Spears by 1 sec.",
 			"^ffffff_^000000",
-			"[If equipped with Illusion Shoes]",
+			"[If equipped with Illusion Leg]",
 			"Atk +40.",
-			"If Illusion Pole Axe and Illusion Shoes are refined to +7 or higher, increases the skill damage of Hundred Spears by 20%.",
+			"If Illusion Pole Axe and Illusion Leg are refined to +7 or higher, increases the skill damage of Hundred Spears by 20%.",
 			"If total refine value is +18 or higher, Atk +10%.",
 			"If total refine value is +22 or higher, additionally increases the skill damage of Hundred Spears by 20%.",
 			"^ffffff_^000000",
@@ -259597,7 +256549,7 @@ tbl = {
 			"If refine level is 7 or higher, increases the damage of Axe Tornado, Axe Boomerang and Cart Tornado by an additional 20%.",
 			"If refine level is 9 or higher, increases the damage of Axe Tornado, Axe Boomerang and Cart Tornado by another 20%.",
 			"^ffffff_^000000",
-			"If equipped with Illusion Shoes, ATK +40.",
+			"If equipped with Illusion Leg, ATK +40.",
 			"If refine levels of both is 7 or higher, increases the damage of Axe Boomerang by 15%..",
 			"If the sum of their refine levels is 18 or higher, ATK + 10%.",
 			"If the sum of their refine levels is 22 or higher, increases long ranged physical damage by 10%..",
@@ -260048,7 +257000,7 @@ tbl = {
 			"^ff0000Animated^000000",
 			"The energy that overwhelms you is bursting out!",
 			"Class: ^777777Garment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
@@ -260104,7 +257056,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A bag in the shape of a Himalayan black bear. It looks really cute!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -260126,7 +257078,7 @@ tbl = {
 			"^ff0000Animated^000000",
 			"A composition consisting of a balloon in the shape of a bear and two heart balloons. The kids will love it!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Lower^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -260148,7 +257100,7 @@ tbl = {
 			"A mask in the form of a bear's head.",
 			"It looks like it's part of a large life-size puppet.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Upper, Middle, Lower^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -260528,7 +257480,7 @@ tbl = {
 			"If refine rate of Celine's Dress is +11 or higher, Fire, Water, Wind, Earth and Neutral properties magic damage +10%.",
 			"If refine rate of Celine's Dress is +13, it becomes indestructible.",
 			"Class: ^777777Armor^000000",
-			"Defence: ^77777740^000000",
+			"Defense: ^77777740^000000",
 			"Weight: ^77777750^000000",
 			"Required Level: ^777777130^000000",
 			"Jobs: ^777777All^000000"
@@ -260582,7 +257534,7 @@ tbl = {
 			"^264696[If Elemental Sword refined to +10]^000000 all property magic damage +10%.",
 			"^777777-------------^000000",
 			"Class: ^777777Footwear^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777710^000000",
 			"Required Level: ^77777799^000000",
 			"Jobs: ^777777All^000000"
@@ -260694,7 +257646,7 @@ tbl = {
 			"ATK +30",
 			"Ranged damage +10%",
 			"Class: ^777777Armor^000000",
-			"Defence: ^77777760^000000",
+			"Defense: ^77777760^000000",
 			"Weight: ^77777780^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -260820,7 +257772,7 @@ tbl = {
 			"^ff0000Animated^000000",
 			"A stylish bamboo hat decorated with faux fox ears.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Upper^000000 Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
@@ -260838,7 +257790,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"An elegant mask in the shape of a fox muzzle. They say that in some eastern countries foxes are worshiped like gods.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Middle",
 			"^000000Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -260859,7 +257811,7 @@ tbl = {
 			"This fluffy white fox rests on your shoulders like some kind of collar.",
 			"And it doesn't want to go!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Lower^000000",
 			"Weight : ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -260878,7 +257830,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A decoration in the shape of white Nine Tail's tails, made of faux fur.",
 			"Class: ^777777 Equipment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -260901,7 +257853,7 @@ tbl = {
 			"When refined to +7 or higher, Reverberation damage +30%, SP consumption -18.",
 			"If refined to +10 or higher, Metallic Sound cooldown time -2 sec.",
 			"Class: ^777777 Equipment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Upper, Middle^000000",
 			"Weight: ^7777771^000000",
 			"Required Level: ^7777771^000000",
@@ -261289,7 +258241,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"An elegant white wig with decorative bunny ears.",
 			"Class: ^777777 Equipment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Lower ^000000",
 			"Weight : ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -261409,7 +258361,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Welcome to Phi Ta Khon, the Carnival of Spirits! Hurry up, put on your wings and join the procession!",
 			"Class: ^777777 Equipment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -261429,7 +258381,7 @@ tbl = {
 			"A unique musical instrument made from a stuffed fish.",
 			"Thanks to the specially shaped scales, this guitar sounds as bright and loud as possible.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -263991,7 +260943,7 @@ tbl = {
 			"For every 30 INT points, MATK + 5, Variable Cast Time -8%.",
 			"For every 30 Dexterity points, ranged physical damage +1%.",
 			"For every 30 Luck points, critical damage +3%.",
-			"Class: ^777777Headgear^000000 \nDefence: ^7777775^000000",
+			"Class: ^777777Headgear^000000 \nDefense: ^7777775^000000",
 			"Location: ^777777Lower^000000 \nWeight: ^77777710^000000",
 			"Required Level: ^777777170^000000",
 			"Jobs: ^777777All^000000"
@@ -265315,7 +262267,7 @@ tbl = {
 			"Max HP +5%, Max. SP +5%.",
 			"If the combined refine levels of King Schmitz's Uniform and King Schmitz's Garment are +22 or higher,",
 			"Cast Delay -15%.",
-			"Class: ^777777Armor^000000 \nDefence: ^777777150^000000",
+			"Class: ^777777Armor^000000 \nDefense: ^777777150^000000",
 			"Weight: ^77777790^000000",
 			"Required Level: ^777777130^000000",
 			"Jobs: ^777777All^000000"
@@ -265358,7 +262310,7 @@ tbl = {
 			"[If equipped with King Schmitz's Uniform and King Schmitz's Garment]",
 			"ATK +25, HIT +10.",
 			"Class: ^777777Accessory (Left)^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^777777150^000000",
 			"Jobs: ^777777All^000000"
@@ -265380,7 +262332,7 @@ tbl = {
 			"[If equipped with King Schmitz's Uniform and King Schmitz's Garment]",
 			"MATK +25, Variable Cast Time -8%.",
 			"Class: ^777777Accessory (Left)^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^777777150^000000",
 			"Jobs: ^777777All^000000"
@@ -265402,7 +262354,7 @@ tbl = {
 			"[If equipped with King Schmitz's Uniform and King Schmitz's Garment]",
 			"Critical Damage +3%, ATK +5%.",
 			"Class: ^777777Accessory (Left)^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^777777150^000000",
 			"Jobs: ^777777All^000000"
@@ -265424,7 +262376,7 @@ tbl = {
 			"[If equipped with King Schmitz's Uniform and King Schmitz's Garment]",
 			"Max HP +5%, Cast Delay -5%.",
 			"Class: ^777777Accessory (Left)^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^777777150^000000",
 			"Jobs: ^777777All^000000"
@@ -265446,7 +262398,7 @@ tbl = {
 			"[If equipped with King Schmitz's Uniform and King Schmitz's Garment]",
 			"Increases ASPD (reduces delay after attack by 3%), Critical Rate +7.",
 			"Class: ^777777Accessory (Left)^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^777777150^000000",
 			"Jobs: ^777777All^000000"
@@ -265468,7 +262420,7 @@ tbl = {
 			"[If equipped with King Schmitz's Uniform and King Schmitz's Garment]",
 			"Ranged physical damage +3%, ASPD +1.",
 			"Class: ^777777Accessory (Left)^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^777777150^000000",
 			"Jobs: ^777777All^000000"
@@ -265617,7 +262569,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that looks like tired King Schmitz.",
 			" ",
-			"Class: ^777777Costume^000000 \nDefence: ^7777770^000000",
+			"Class: ^777777Costume^000000 \nDefense: ^7777770^000000",
 			"Location: ^777777Upper^000000 \nWeight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
@@ -265635,7 +262587,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that looks like tired Oscar.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Upper^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -265654,7 +262606,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that looks like tired Heinrich.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Upper^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -265774,8 +262726,8 @@ tbl = {
 			"If refine rate is +9 or higher, Cast Delay -20%.",
 			"If refine rate is +11 or higher, Max HP +10%, Max SP +10%.",
 			"^ffffff_^000000",
-			"[If equipped with Illusion Shoes] \nRanged physical damage +3%.",
-			"If the refine rate of Illusion Tae Goo Lyeon and Illusion Shoes is +7 or higher, Variable Cast Time of all skills -10%.",
+			"[If equipped with Illusion Leg] \nRanged physical damage +3%.",
+			"If the refine rate of Illusion Tae Goo Lyeon and Illusion Leg is +7 or higher, Variable Cast Time of all skills -10%.",
 			"If total refine rate is +18, reduce fixed casting time by 0.5 second.",
 			"If total refine rate is +22, Dragon Breath and Dragon Water Breath damage +20%.",
 			"^ffffff_^000000",
@@ -266305,8 +263257,8 @@ tbl = {
 			"If refine rate is +9 or higher, Round Trip damage +15%.",
 			"If refine rate is +11 or higher, physical damage to Brute and Demon race monsters +30%.",
 			"^ffffff_^000000",
-			"[If equipped with Illusion Shoes] \nATK +10%.",
-			"If the refine rate of Illusion Shoes is +7 or higher, the Butcher's ranged physical damage +5%. ",
+			"[If equipped with Illusion Leg] \nATK +10%.",
+			"If the refine rate of Illusion Leg is +7 or higher, the Butcher's ranged physical damage +5%. ",
 			"If total refine rate is +18 or higher, Increase Fire Rain damage by 20%. Reduce Fire Rain cooldown by 2 seconds.",
 			"If total refine rate is +22 or higher,  When using Round Trip, there's a chance to gain ATK + 50 and increase for 10 sec. If the targets are Brute and Demon race monsters, the physical damage is increased by 50%.",
 			"^ffffff_^000000",
@@ -266418,7 +263370,7 @@ tbl = {
 			"If refine rate is +7, DEF +50.",
 			"If refine rate is +9, additionally DEF +100.",
 			"^ffffff_^000000",
-			"Class: ^777777Armor^000000 \nDefence: ^777777158^000000",
+			"Class: ^777777Armor^000000 \nDefense: ^777777158^000000",
 			"Weight: ^777777350^000000",
 			"Required Level: ^777777130^000000",
 			"Jobs: ^777777All jobs except Novice^000000"
@@ -266484,8 +263436,8 @@ tbl = {
 			"If refine rate is +9, increases Critical Damage by 15%.",
 			"If refine rate is +11, physical damage on Brute and Insect race monsters +30%.",
 			"^ffffff_^000000",
-			"If equipped with Illusion Shoes, ATK +10%.",
-			"If refine level of Hunter Bow and Illusion Shoes is +7 or higher, ASPD +2.",
+			"If equipped with Illusion Leg, ATK +10%.",
+			"If refine level of Hunter Bow and Illusion Leg is +7 or higher, ASPD +2.",
 			"If total refine value is +18 or higher, Critical Damage +10%.",
 			"If total refine value is +22 or higher, when performing a normal ranged physical attack, with a certain chance activates [Hunter's Sight] for 10 sec.",
 			"^32CD32[Hunter's Sight]^000000",
@@ -266897,7 +263849,7 @@ tbl = {
 		costume = false
 	},
 	[25642] = {
-		unidentifiedDisplayName = "Defenceless Insect",
+		unidentifiedDisplayName = "Defenseless Insect",
 		unidentifiedResourceName = "Weak_Worm",
 		unidentifiedDescriptionName = {
 			"They say this worm used to have a firm solid shell. ",
@@ -266905,7 +263857,7 @@ tbl = {
 			"^ffffff_^000000",
 			"Weight: ^7777771^000000"
 		},
-		identifiedDisplayName = "Defenceless Insect",
+		identifiedDisplayName = "Defenseless Insect",
 		identifiedResourceName = "Weak_Worm",
 		identifiedDescriptionName = {
 			"They say this worm used to have a firm solid shell. ",
@@ -267010,7 +263962,7 @@ tbl = {
 			"Increase healing rate from others by 5%.",
 			"Increase healing rate to others by 5%.",
 			"The sum of refinement of set also further increase percentage of both healing rate. (limited to 30).",
-			"Class: ^777777Armor^000000 \nDefence: ^77777730^000000",
+			"Class: ^777777Armor^000000 \nDefense: ^77777730^000000",
 			"Weight: ^77777750^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -267609,7 +264561,7 @@ tbl = {
 			"Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty.",
 			"There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell",
 			"Class: ^777777 Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Middle ^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -267697,7 +264649,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Two autonomous magic orbs with a combat program, always ready to protect their owner.",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Lower ^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -267717,7 +264669,7 @@ tbl = {
 			"This sword was forged for Sir Eglamore, the legendary Rune Knight. Sir Eglamore was the best dragon hunter. Until he fell to the claws and fangs of one of his victims.",
 			"The weapon's former power is restored making it as dangerous as many centuries ago.",
 			"It seems to be mystically connected to Great Hero's Boots.",
-			"Max HP and Max SP +3% for every 2 refine levels.",
+			"Max HP and Max SP +5% for every 2 refine levels.",
 			"Dragon Breath and Dragon Water Breath damage +5% for every 3 refine levels.",
 			"If refine rate is +7, cooldown of all skills -10%, Variable Cast Time of all skills -10%.",
 			"If refine rate is +9, ranged physical damage +10%.",
@@ -269446,7 +266398,7 @@ tbl = {
 			"A decoration that looks like fluffy white ears.",
 			"Wear it to look just like Kitsune, a legendary werefox!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Upper^000000 Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
@@ -269465,7 +266417,7 @@ tbl = {
 			"A cozy kotatsu table equipped with a warm futon and a charcoal brazier.",
 			"It will appear immediately when you decide to sit down. Relax in comfort!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Lower ^000000",
 			"Weight : ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -269508,7 +266460,7 @@ tbl = {
 			"Spring is the time of cherry blossoms and traditional festivals!",
 			"Wear this ribbon bow and join the crowd of celebrants!",
 			"Class: ^777777Costume^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -269528,7 +266480,7 @@ tbl = {
 			"These are two katanas forged by the Tengu blacksmith of Mount Takao.",
 			" ",
 			"Class: ^777777 Equipment^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Location: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
@@ -270047,7 +266999,7 @@ tbl = {
 		identifiedResourceName = "ј­№ЩАМ№ъїАєк",
 		identifiedDescriptionName = {
 			"Once upon a time, this pendant belonged to a legendary hero. It helps to reveal the owner's hidden talents.",
-			"Shadow property magic Critical Damage +5%.",
+			"Shadow property magic damage +5%.",
 			"Curse Explosion damage +3% for every 2 refine levels.",
 			"Class: ^777777Shadow equipment^000000",
 			"Location: ^777777Pendant^000000",
@@ -270580,7 +267532,7 @@ tbl = {
 			"HP +300 when a monster is killed by a physical short-ranged attack.",
 			"Rolling Cutter damage +1% for every 3 Base Levels.",
 			"Cross Ripper Slasher damage +1% for every 10 Base Levels.",
-			"Type: ^777777Equipment^000000\nDefence: ^7777770^000000",
+			"Type: ^777777Equipment^000000\nDefense: ^7777770^000000",
 			"Location: ^777777Accessory^000000\nWeight: ^77777710^000000",
 			"Required Level: ^777777130^000000",
 			"Jobs: ^777777All^000000"
@@ -270835,7 +267787,7 @@ tbl = {
 			"Enables Cloaking (LV 1)",
 			" ",
 			"Jobs: ^777777Garment^000000",
-			"Defence: ^77777715^000000",
+			"Defense: ^77777715^000000",
 			"Weight: ^77777760^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -270868,7 +267820,7 @@ tbl = {
 			"[If refined to +11 or higher]",
 			"Additionally restores +10 SP to the user when a monster is killed by a physical attack.",
 			" ",
-			"Jobs: ^777777Garment^000000\r\nDefence: ^77777715^000000",
+			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
 			"Weight: ^77777760^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -270898,7 +267850,7 @@ tbl = {
 			" ",
 			"If refined to +11 or higher, Critical Damage +5%\r\nadditionally.",
 			" ",
-			"Jobs: ^777777Garment^000000\r\nDefence: ^77777715^000000",
+			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
 			"Weight: ^77777760^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -270919,19 +267871,19 @@ tbl = {
 			"MDEF +10.",
 			"AGI +5, VIT +5.",
 			"Reduces damage taken from Demi-Human and Brute monsters by 5%.",
-			"Damage taken from Doram characters -5%.",
+			"Damage taken from Human and Doram characters -5%.",
 			"Protection from Wind and Earth property +5%.",
 			" ",
-			"[If refined to +9 or higher] ",
+			"^264696[If refined to +9 or higher]^000000 ",
 			"Restores 10 SP to the user when a monster is\r\nkilled by a physical attack.",
 			" ",
-			"[If refined to +10 or higher] ",
-			"For every 20 points of the total value of VIT and\r\nDEX, ATK +15, HIT +5. ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"For every 20 points of the total value of base VIT and AGI: ATK +15, HIT +5. ",
 			" ",
-			"[If refined to +11 or higher] ",
+			"^264696[If refined to +11 or higher]^000000 ",
 			"Additionally restores +10 SP to the user when a monster is killed by a physical attack.",
 			" ",
-			"Jobs: ^777777Garment^000000\r\nDefence: ^77777715^000000",
+			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
 			"Weight: ^77777760^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -270952,18 +267904,19 @@ tbl = {
 			"MDEF +10.",
 			"AGI +5, VIT +5.",
 			"Damage taken from Demi-Human and Fish\r\nmonsters -5%.",
+			"Damage taken from Human players -5%.",
 			"Protection from Neutral and Poison property +5%.",
 			" ",
-			"[If refined to +9 or higher]",
+			"^264696[If refined to +9 or higher]^000000",
 			"Restores 10 SP to the user when a monster is\r\nkilled by a magic attack.",
 			" ",
-			"[If refined to +10 or higher]",
-			"For every 20 points of the total value of VIT and\r\nDEX, MATK +15, DEF +20.",
+			"^264696[If refined to +10 or higher]^000000",
+			"For every 20 points of the total value of base VIT and AGI: MATK +15, DEF +20.",
 			" ",
-			"[If refined to +11 or higher]",
+			"^264696[If refined to +11 or higher]^000000",
 			"Additionally restores 10 SP to the user when a\r\nmonster is killed by a magic attack.",
 			" ",
-			"Jobs: ^777777Garment^000000\r\nDefence: ^77777715^000000",
+			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
 			"Weight: ^77777760^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -271080,7 +268033,7 @@ tbl = {
 			"Physical/Magic damage inflicted on Demon and Undead race monsters +15% additionally.",
 			" ",
 			"Jobs: ^777777Armor^000000",
-			"Defence: ^777777120^000000",
+			"Defense: ^777777120^000000",
 			"Weight: ^77777740^000000",
 			"Required Level: ^77777790^000000",
 			"Jobs: ^777777All^000000"
@@ -271534,7 +268487,7 @@ tbl = {
 			"Physical/magic damage inflicted on all property monsters +15% additionally.",
 			"-------------",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777738^000000",
+			"Defense: ^77777738^000000",
 			"Weight: ^77777740^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -277985,7 +274938,7 @@ tbl = {
 			"[If equipped with Myst Card]",
 			"Damage received from attacks with Poison property -45%.",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777712^000000",
+			"Defense: ^77777712^000000",
 			"Weight: ^77777790^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -278022,7 +274975,7 @@ tbl = {
 			"[If Antonio Coat refined to +9 or higher]",
 			"Grants immunity to Knock Back.",
 			"Class: ^777777Armor^000000",
-			"Defence: ^77777750^000000",
+			"Defense: ^77777750^000000",
 			"Weight: ^77777740^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -278236,7 +275189,7 @@ tbl = {
 			"AGI +10, DEX +10 additionally.",
 			"---------------",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777712^000000",
+			"Defense: ^77777712^000000",
 			"Weight: ^77777710^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -278548,7 +275501,7 @@ tbl = {
 			"[If equipped with Stone Arrow]",
 			"Earth property resistance +40%.",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777712^000000",
+			"Defense: ^77777712^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -278853,7 +275806,7 @@ tbl = {
 			"VIT +5, Max HP +5% for each item refine level (up to +10).",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^777777120^000000",
+			"Defense: ^777777120^000000",
 			"Weight: ^77777760^000000",
 			"Required Level: ^77777799^000000",
 			"Jobs: ^777777All^000000"
@@ -278888,7 +275841,7 @@ tbl = {
 			"MATK +60, MDEF +20, magic damage inflicted on all race enemies +5%.",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777Warlock Jobs, Sorcerer Jobs^000000"
@@ -278922,7 +275875,7 @@ tbl = {
 			"After a successful enemy MATK with a 50% chance casts Freezing, Stun or Stone Curse.",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777Rune Knight Jobs, Royal Guard Jobs^000000"
@@ -278958,7 +275911,7 @@ tbl = {
 			"Protection from ^FFC501Saint^000000 and ^FF4000Fire^000000 property +20%.",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777Guillotine Cross Jobs, Shadow Chaser Jobs^000000"
@@ -278990,7 +275943,7 @@ tbl = {
 			"Gives immunity to Freeze, increases protection against all types of enemies by 10% (including players).",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777Ranger Jobs, Maestro Jobs, Wanderer Jobs^000000"
@@ -279024,7 +275977,7 @@ tbl = {
 			"ATK +50, physical and magic damage inflicted on Boss Type Monsters +25%.",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777Arch Bishop Jobs, Sura Jobs^000000"
@@ -279058,7 +276011,7 @@ tbl = {
 			"Ignor normal enemy DEF +20% (including players).",
 			"^777777-------------^000000",
 			"Class: ^777777Armor^000000",
-			"Defence: ^7777770^000000",
+			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777Mechanic  Jobs, Geneticist Jobs^000000"
@@ -279203,7 +276156,7 @@ tbl = {
 			"^264696If equipped with Ifrit Card^000000, ^FF4000Fire^000000 property resistance +100%, Reduces damage taken from ^0000FFCritical Slash^000000 by 100%.",
 			"^777777-------------^000000",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777710^000000",
+			"Defense: ^77777710^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -279349,7 +276302,7 @@ tbl = {
 			"Flee +10 for every ^0000FF[Purring]^000000 LV.",
 			"^777777-------------^000000",
 			"Jobs: ^777777Armor^000000",
-			"Defence: ^77777750^000000",
+			"Defense: ^77777750^000000",
 			"Weight: ^77777750^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -279669,7 +276622,7 @@ tbl = {
 			"Physical and magic damage inflicted on small size monsters +25%.",
 			"^777777-------------^000000",
 			"Class: ^777777Garment^000000",
-			"Defence: ^7777775^000000",
+			"Defense: ^7777775^000000",
 			"Weight: ^77777710^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -280095,23 +277048,23 @@ tbl = {
 		identifiedResourceName = "Magma_Manteau",
 		identifiedDescriptionName = {
 			"^777777-------------^000000",
-			"Max HP +2%, Max SP +2%.",
 			"Physical damage taken from Boss enemies -5%.",
 			"Physical damage inflicted on enemies of any size +5%.",
 			" ",
 			"^264696[If FAW Magic Decoy LV is 5]^000000,",
-			"Perfect Hit +20%.",
+			"Perfect Hit +50%.",
+			" ",
 			"For every ^0000FF[Axe Boomerang]^000000 LV,",
-			"^0000FF[Power Swing, Axe Tornado]^000000 damage +10%.",
+			"^0000FF[Power Swing], [Axe Tornado]^000000 damage +20%.",
 			" ",
 			"^264696[If Lava Flow LV is 5]^000000,",
 			"^640000Earth^000000 and ^FF4000Fire^000000 property resistance +50%.",
 			" ",
-			"^264696[If refined to +8 or higher]^000000",
+			"^264696[If refined to +5 or higher]^000000",
 			"Max HP +3%, Max SP +3% additionally.",
 			"ASPD +5%.",
 			" ",
-			"^264696[If refined to +10 or higher]^000000",
+			"^264696[If refined to +7 or higher]^000000",
 			"Max HP +5%, Max SP +5% additionally.",
 			"ASPD +5% additionally.",
 			"^777777-------------^000000",
@@ -280136,7 +277089,7 @@ tbl = {
 			"^777777-------------^000000",
 			"Cooldown of all skills -10%.",
 			" ",
-			"^0000FF[Axe Swing and Power Swing]^000000 damage +30%.",
+			"^0000FF[Axe Tornado]^000000 and ^0000FF[Power Swing]^000000 damage +30%.",
 			"^264696[If FAW Silver Sniper LV is 5]^000000, Perfect Hit +50%.",
 			" ",
 			"^264696[If Axe Boomerang LV is 5]^000000, cooldown of ^0000FF[Axe Tornado]^000000 -0,5 sec.",
@@ -280144,9 +277097,9 @@ tbl = {
 			"^264696[If Lava Flow LV is 5]^000000, with a 3% chance when performing a physical attack, ^0000FF[Power Swing]^000000 damage +10% for every 10 VIT points for 15 sec.",
 			"Resistance against ^FF4000Fire^000000 and ^640000Earth^000000 properties +3% for every refine rate.",
 			" ",
-			"^264696[If refined to +7 or higher]^000000, ^0000FF[Axe Tornado and Power Swing]^000000 damage +20% additionally.",
+			"^264696[If refined to +7 or higher]^000000, ^0000FF[Axe Tornado]^000000 and ^0000FF[Power Swing]^000000 damage +50% additionally.",
 			" ",
-			"^264696[If refined to +9 or higher]^000000, ^0000FF[Axe Tornado and Power Swing]^000000 damage +30% additionally.",
+			"^264696[If refined to +9 or higher]^000000, ^0000FF[Axe Tornado]^000000 and ^0000FF[Power Swing]^000000 damage +50% additionally.",
 			"^777777-------------^000000",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777770^000000",
@@ -280169,36 +277122,34 @@ tbl = {
 			"An amulet that belonged to the giant who was the guardian of the Forgotten Temple. It contains a particle of his power.",
 			"^777777-------------^000000",
 			"Physical damage inflicted on enemies of any type +5%.",
+			"Physical damage inflicted on Boss Type Monsters +5% additionally.",
 			" ",
-			"^264696[If base STR is 120 or higher:]^000000",
+			"^264696[If base STR is 100 or higher:]^000000",
 			"ATK +50, Max HP +5%, Max SP +5%.",
 			" ",
 			"^264696[If equipped with ^008080Giant Axe^000000]^000000",
-			"Damage taken from Demi-Human race enemies -3%.",
+			"Damage taken from Demi-Human race enemies -8%.",
+			"Damage taken from Large size enemies -40%.",
+			"Crit +4 for every 10 base STR points.",
 			" ",
-			"^264696[If refined to +8 or higher]^000000",
-			"^0000FF[High Speed Cart Ram]^000000 damage and physical damage inflicted on Boss Type Monsters +5%.",
-			" ",
-			"^264696[If refined to +9 or higher]^000000",
-			"^0000FF[High Speed Cart Ram]^000000 damage and physical damage inflicted on Boss Type Monsters +10% additionally.",
+			"^264696[For each refine level of Giant Axe]^000000",
+			"^0000FF[High Speed Cart Ram]^000000 damage +3%.",
 			" ",
 			"^264696[If equipped with ^000000Giant Lance^000000]^000000",
-			"Damage taken from Demi-Human race enemies -3%.",
+			"Damage taken from Demi-Human race enemies -8%.",
+			"Damage taken from Large size enemies -40%.",
+			"Atk +4% for every 10 base STR points.",
 			" ",
-			"^264696[If Giant Lance is refined to +8 or higher]^000000",
-			"^0000FF[Clashing Spiral, Sonic Wave]^0000000 damage and physical damage inflicted on Boss Type Monsters +5%.",
-			" ",
-			"^264696[If Giant Lance is refined to +9 or higher]^000000",
-			"^0000FF[Clashing Spiral, Sonic Wave]^000000 damage and physical damage inflicted on Boss Type Monsters +10% additionally.",
+			"^264696[For each refine level of Giant Lance]^000000",
+			"^0000FF[Clashing Spiral], [Sonic Wave]^000000 damage +4%.",
 			" ",
 			"^264696[If equipped with Great Bow]^000000",
-			"Long-ranged physical damage +2% for every 10 base STR points.",
+			"Damage taken from Demi-Human race enemies -8%.",
+			"Damage taken from Large size enemies -40%.",
+			"Long-ranged physical damage +4% for every 10 base STR points.",
 			" ",
-			"^264696[If refined to +7 or higher]^000000",
-			"^264696[Arrow Storm, Aimed Bolt]^000000 damage and physical damage inflicted on Boss Type Monsters +5%.",
-			" ",
-			"^264696[If refined to +9 or higher]^000000",
-			"^264696[Arrow Storm, Aimed Bolt]^000000 damage and physical damage inflicted on Boss Type Monsters +10% additionally.",
+			"^264696[For each refine level of Great Bow]^000000",
+			"^264696[Arrow Storm], [Aimed Bolt]^000000 damage +5%.",
 			"^777777-------------^000000",
 			"Class: ^777777Accessory^000000",
 			"Defense: ^7777770^000000",
@@ -281036,7 +277987,7 @@ tbl = {
 			"Additional ATK +30",
 			"^777777-------------^000000",
 			"Jobs: ^777777Armor^000000",
-			"Defence: ^77777760^000000",
+			"Defense: ^77777760^000000",
 			"Weight: ^77777780^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -281071,7 +278022,7 @@ tbl = {
 			"Bypass an additional 20% of hard magic defense of all race targets when performing a magical attack.",
 			"^777777-------------^000000",
 			"Jobs: ^777777Armor^000000",
-			"Defence: ^77777760^000000",
+			"Defense: ^77777760^000000",
 			"Weight: ^77777780^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -281457,7 +278408,7 @@ tbl = {
 			"^0000FF[Sightrasher]^000000 damage +1500%.",
 			"^777777-------------^000000",
 			"Class: ^777777Garment^000000",
-			"Defence: ^77777740^000000",
+			"Defense: ^77777740^000000",
 			"Weight: ^77777740^000000",
 			"Required Level: ^777777100^000000",
 			"Jobs: ^777777All^000000"
@@ -281702,6 +278653,17126 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 155,
 		costume = true
+	},
+	[400054] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "Large_Sorcerer_Crown",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Great Magician's Ceremonial Crown",
+		identifiedResourceName = "C_Large_Sorcerer_Crown",
+		identifiedDescriptionName = {
+			"A ceremonial crown worn by a grand sorcerer with formal attire.",
+			"Modified to be compatible with OS weapons.",
+			"^777777-------------^000000",
+			"+20 MATK per 2 refine levels.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"Variable Cast Time -15%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"All property magic damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Magic damage against Small/Medium enemies +15% and Fixed Cast Time -0.2 sec.",
+			" ",
+			"^264696[If equipped with Cannon Rapier-OS]^000000",
+			"MATK +30",
+			"+4% ^0000FF[Hell Inferno]^000000 damage per 2 refine levels of the weapon.",
+			" ",
+			"^264696[If equipped with Lutie's Stick-OS]^000000",
+			"MATK +30",
+			"+5% ^0000FF[Comet]^000000 damage per 2 refine levels of the weapon.",
+			" ",
+			"^264696[If equipped with Kuroiro-OS]^000000",
+			"^004DFFWater^000000 / ^0095FFWind^000000 / ^FF4000Fire^000000 magic damage +5%.",
+			"^0000FF[Crimson Fire]^000000 / ^0000FF[Ice Pick]^000000 / ^0000FF[Wind Blade]^000000 damage +3% per 2 Refine levels of the weapon.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777130^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1811,
+		costume = false
+	},
+	[480492] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "C_Alice_Broom",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Alice Broom",
+		identifiedResourceName = "C_Alice_Broom",
+		identifiedDescriptionName = {
+			"The broom Alice always uses to sweep the floor is rumored to be one she sometimes flies on.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 183,
+		costume = true
+	},
+	[520003] = {
+		unidentifiedDisplayName = "Axe",
+		unidentifiedResourceName = "Scythe_Of_Ice_Flame",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Scythe of Ice Flame",
+		identifiedResourceName = "Scythe_Of_Ice_Flame",
+		identifiedDescriptionName = {
+			"The blue flame burns the eyes of those who dare to look at it.",
+			"^777777-------------^000000",
+			"STR + 3, INT + 5.",
+			"MATK + 290.",
+			"Increases Frozen, Burning resistance by 50%.",
+			" ",
+			"Increase damage of ^0000FFMammonite^000000 by 10% per 1 BaseLv. Drains 1% of damage as HP when performing a physical attack.",
+			"For every refine rate:",
+			"MaxHP + 2%, physical damage to normal, boss and guardian monsters +2%, perfect hit + 2%.",
+			" ",
+			"^264696[When refined to +7 or higher]^000000",
+			"Additional frozen and burning resistance +25%.",
+			"Drains additional 1% of damage as HP when performing a physical attack.",
+			" ",
+			"^264696[When refined to +9 or higher]^000000",
+			"Additional frozen and burning resistance +25%.",
+			"Drains additional 2% of damage as HP when performing a physical attack.",
+			" ",
+			"^264696[When refined to +10 or higher]^000000",
+			"Removes weapon's size penalty.",
+			"^777777-------------^000000",
+			"Class: ^777777One handed Axe^000000",
+			"Attack: ^777777360^000000",
+			"Weight: ^777777400^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777130^000000",
+			"Class: ^777777Transcendenct Merchant Type^000000"
+		},
+		slotCount = 1,
+		ClassNum = 6,
+		costume = false
+	},
+	[15209] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Drake's Coat",
+		identifiedResourceName = "Drake_Coat",
+		identifiedDescriptionName = {
+			"HP +500, SP +50.",
+			"Physical damage inflicted on all class enemies +3%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000, additionally:",
+			"SP +100, HP +1000",
+			"Physical damage inflicted on all class enemies +3%.",
+			" ",
+			"^264696[If refined to +12 or higher]^000000, additionally:",
+			"SP +150, HP +1500",
+			"Physical damage inflicted on all class enemies +4% additionally.",
+			"Remove weapon's size damage penalty.",
+			"---------------",
+			"Class: ^777777Armor^000000",
+			"Defense: ^77777760^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[19326] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "Cap",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Book Stack on Head",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Don't try to open the books, it's impossible. You can only find out what is written in them by placing the entire stack on your head.",
+			"---------------",
+			"^264696[When equipped with Evil Cloud Hermit Card]^000000, additional experience from killing Plant monsters +5%.",
+			"^264696[When equipped with Baroness of Retribution Card]^000000, additional experience from killing Angel monsters +5%.",
+			"^264696[When equipped with Stem Worm Card]^000000, additional experience from killing Animal monsters +5%.",
+			"^264696[When equipped with Raydric Archer Card]^000000, additional experience from killing Demon monsters +5%.",
+			"^264696[When equipped with Dragon Egg Card]^000000, additional experience from killing Dragon monsters +5%.",
+			"^264696[When equipped with Orc Archer Card]^000000, additional experience from killing Demi-Human monsters +5%.",
+			"^264696[When equipped with Anopheles Card]^000000, additional experience from killing Insect monsters +5%.",
+			"^264696[When equipped with Wraith Card]^000000, additional experience from killing Undead monsters +5%.",
+			"^264696[When equipped with Grove Card]^000000, additional experience from killing Formless monsters +5%.",
+			"^264696[When equipped with Armeyer Dinze Card]^000000 additional experience from killing Fish monsters +5%.",
+			" ",
+			"Additional Bonuses for any Card set:",
+			"^264696[If refined to +6 or higher]^000000, additional experience when killing the race specified in the set description +5%.",
+			"^264696[If refined to +8 or higher]^000000, additional experience when killing the race specified in the set description +5%.",
+			"---------------",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^777777100^000000",
+			"Required Level: ^77777790^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 423,
+		costume = false
+	},
+	[32206] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Prontera Militia Gloves",
+		identifiedResourceName = "Prta_Mil_Glove",
+		identifiedDescriptionName = {
+			"These gauntlets were created by artificers specifically for the elite military units of Prontera. It is said that whoever wears them fights with the might of a thousand men.",
+			"---------------",
+			"VIT +5",
+			"Damage taken from player characters -3%.",
+			" ",
+			"ASPD +5%.",
+			" ",
+			"Protection from ^FF4000Fire^000000, ^0095FFWind^000000, ^640000Earth^000000 and ^004DFFWater^000000 property +5%.",
+			"---------------",
+			"Class: ^777777 Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[420110] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Old Camouflage Scarf",
+		identifiedResourceName = "C_ScarfOfHero_TW",
+		identifiedDescriptionName = {
+			"A camouflage scarf covered in brown stains of dried blood.",
+			"---------------",
+			"Physical and magical damage inflicted on all size enemies +1% for every 10 Base Levels.",
+			"---------------",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^77777710^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1882,
+		costume = false
+	},
+	[480207] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Traveller's Bag",
+		identifiedResourceName = "C_Traveller_Bag",
+		identifiedDescriptionName = {
+			"A set of equipment for a lone traveler.",
+			"It includes weapons, a travel bag, supplies, medicine... Everything that will be useful on the road!",
+			"---------------",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 137,
+		costume = true
+	},
+	[480222] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Japanese Umbrella",
+		identifiedResourceName = "C_J_Umbrella",
+		identifiedDescriptionName = {
+			"A traditional Gifu umbrella made from oiled paper and bamboo. ",
+			"---------------",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 146,
+		costume = true
+	},
+	[480289] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Moonlight Bell",
+		identifiedResourceName = "C_Moonlight_Bell",
+		identifiedDescriptionName = {
+			"A war bell similar to the one Moonlight Flower carries.",
+			"---------------",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 165,
+		costume = true
+	},
+	[104833] = {
+		unidentifiedDisplayName = "Vagabond Wolf Treasure",
+		unidentifiedResourceName = "Costama_Egg113",
+		unidentifiedDescriptionName = {
+			"This box contains many useful things for travelers, whose hearts are captivated by the road."
+		},
+		identifiedDisplayName = "Vagabond Wolf Treasure",
+		identifiedResourceName = "Costama_Egg113",
+		identifiedDescriptionName = {
+			"This box contains many useful things for travelers, whose hearts are captivated by the road.",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x3200^000000",
+			"^4A94F7-^000000 <ITEM>Old Camouflage Scarf<INFO>420110</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guarantee Weapon 8Up<INFO>6229</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Armor +8 Refine Ticket<INFO>6233</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Neuralizer Box<INFO>12911</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blacksmith Blessing<INFO>6635</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Reset Stone<INFO>6320</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Carnium<INFO>6225</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Bradium<INFO>6226</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Prontera Militia<INFO>32206</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Glove<INFO>32206</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Drake's Coat<INFO>15209</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Book Stack on Head<INFO>19326</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Moonlight Bell<INFO>480289</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Japanese<INFO>480222</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Umbrella<INFO>480222</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Traveller's Bag<INFO>480207</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x100^000000",
+			"^4A94F7-^000000 <ITEM>Inf. Giant Fly Wing<INFO>23330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Box (1 h.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Spring Mana Potion<INFO>100005</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>St. Poring's Treasure<INFO>103902</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Battle Manual<INFO>12411</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Bubble Gum<INFO>12412</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Superhuman Sweets<INFO>22819</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Elunium<INFO>7619</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Oridecon<INFO>7620</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>AGI Biscuit Stick<INFO>23225</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>DEX Biscuit Stick<INFO>23221</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>INT Biscuit Stick<INFO>23226</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>LUK Biscuit Stick<INFO>23222</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>STR Biscuit Stick<INFO>23223</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>VIT Biscuit Stick<INFO>23224</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Bloody Branch<INFO>12103</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Party Assumptio <INFO>14590</INFO></ITEM> ",
+			"^4A94F7^000000 <ITEM>5 Scroll<INFO>14590</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Blessing<INFO>14588</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>10 Scroll<INFO>14588</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Increase<INFO>14589</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Agi 10 Scroll<INFO>14589</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Archmage Potion<INFO>23898</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Special Blessing<INFO>23047</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>of Tyr<INFO>23047</INFO></ITEM> ^777777x10^000000",
+			"^4A94F7-^000000 <ITEM>Special Kafra Card<INFO>23177</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Pudding<INFO>12710</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Mind Potion<INFO>100317</INFO></ITEM> ^777777x3^000000",
+			"^4A94F7-^000000 <ITEM>Water of Life<INFO>12578</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7-^000000 <ITEM>Superb Fish Slice<INFO>14524</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Dried Yggdrasil<INFO>12293</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Berries<INFO>12293</INFO></ITEM> ^777777x70^000000",
+			"^4A94F7-^000000 <ITEM>Yummy Skewered Grill<INFO>12335</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Candy<INFO>12709</INFO></ITEM> ^777777x35^000000",
+			"^4A94F7-^000000 <ITEM>Hoddmimis Seed<INFO>12405</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Big Bun<INFO>14522</INFO></ITEM> ^777777x20^000000",
+			"---------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[550021] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "Stick",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Deus Ex Machina",
+		identifiedResourceName = "Deus_Ex_Machina_JP",
+		identifiedDescriptionName = {
+			"A formidable stuff equipped with a mysterious mechanical device. Nobody knows how it works, but it is said to be capable of destroying entire civilizations.",
+			"--------------------",
+			"Protection from player characters +10%.",
+			" ",
+			"Enables ^0000FF[Blessing]^000000 (LV 1).",
+			" ",
+			"^264696[For every refine level]^000000, Max HP +2%, Max SP +2%, MATK damage +6%, cooldown of all skills -1%.",
+			" ",
+			"^264696[If refine rate is +5 or higher]^000000, protection from long-ranged physical damage +5%.",
+			" ",
+			"^264696[If refine rate is +7 or higher]^000000, enables ^0000FF[Blessing]^000000 of the same level as the refinement (up to a maximum level of 10)",
+			" ",
+			"^264696[If refine rate is +9 or higher]^000000, protection from long-ranged physical damage +5% additionally.",
+			" ",
+			"^264696[If refine rate is +10 or higher]^000000, Fixed Cast Time of all skills -70%.",
+			" ",
+			"MATK +180.",
+			"--------------------",
+			"Class: ^777777One-handed Staff^000000",
+			"Attack: ^777777280^000000",
+			"Weight: ^777777200^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777Mage and subclasses, Acolyte and subclasses, Soul Linker and subclasses^000000"
+		},
+		slotCount = 3,
+		ClassNum = 10,
+		costume = false
+	},
+	[100553] = {
+		unidentifiedDisplayName = "Sprout of World Tree Egg",
+		unidentifiedResourceName = "Tree_Of_Sprout_Box",
+		unidentifiedDescriptionName = {
+			"An egg containing a young leaf from the World Tree. It is said that the young leaves resonate with time equipment to draw forth power."
+		},
+		identifiedDisplayName = "Sprout of World Tree Egg",
+		identifiedResourceName = "Tree_Of_Sprout_Box",
+		identifiedDescriptionName = {
+			"An egg containing a young leaf from the World Tree. It is said that the young leaves resonate with time equipment to draw forth power.",
+			"^777777-------------^000000",
+			"Use it to get one random item from the list:",
+			"^4A94F7-^000000 <ITEM>Young Leaf of World<INFO>420018</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Tree (DEX)<INFO>420018</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Young Leaf of World<INFO>420017</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Tree (STR)<INFO>420017</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Young Leaf of World<INFO>420019</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Tree (AGI)<INFO>420019</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Young Leaf of World<INFO>420020</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Tree (LUK)<INFO>420020</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Young Leaf of World<INFO>420021</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Tree (VIT)<INFO>420021</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Young Leaf of World<INFO>420022</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Tree (INT)<INFO>420022</INFO></ITEM>",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[400078] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Aries Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A strange crown made from goat horns and bones, decorated with tufts of white fur and rubies.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Long-ranged physical damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Volar]^000000",
+			"Critical Damage +10%. For every refine level of weapon, ^0000FF[Ignition Break]^000000 damage +12%.",
+			" ",
+			"^264696[If equipped with Vernan]^000000",
+			"Cooldown of all skills -10%. For every refine level of weapon, ^0000FF[Psychic Wave]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Argen Blanco]^000000",
+			"^0000FF[Hundred Spears]^000000 cooldown -0.5 sec. For every refine level of weapon, ^0000FF[Hundred Spears]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Rune Knight and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 532,
+		costume = false
+	},
+	[400079] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Libra Diadem",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A peculiar looking golden diadem created for a participant of a magic experiment. Inlaid with sapphires.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20, MATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Physical damage +15%, ^FFC501Holy^000000 property magic damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical/magic damage inflicted on monsters of all sizes +10%, Fixed Cast Time of all skills -0.2 sec.",
+			" ",
+			"^264696[If equipped with Farthezan]^000000",
+			"Variable Cast Time of all skills -15%. For every refine level of weapon, ^0000FF[Gloria Domini]^000000 and ^0000FF[Genesis Ray]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Harve]^000000",
+			"Shield Press cooldown -1 sec. For every refine level of weapon, ^0000FF[Shield Press]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Fortrage]^000000",
+			"^0000FF[Cannon Spear]^000000 cooldown -0.5 sec. For every refine level of weapon, ^0000FF[Cannon Spear]^000000 damage +12%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Royal Guard and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 594,
+		costume = false
+	},
+	[400094] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Aquarius Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Decorated with jade and pink silk. Some say this crown amplifies the magic abilities of its wearer.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, magic damage +2%, SP Recovery Rate +6%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"All stats +3.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Magic damage +4%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"^FF43E0Ghost^000000, ^FF4000Fire^000000 and ^777777Neutral^000000 property magic damage +20%.",
+			" ",
+			"^264696[If equipped with Crimson Rose Stick]^000000",
+			"^0000FF[Crimson Rock]^000000 cooldown -1 sec. For every refine level of weapon, ^0000FF[Crimson Rock]^000000 damage +3%. ",
+			" ",
+			"^264696[If equipped with Staff of Miracle]^000000",
+			"^FF43E0Ghost^000000 property magic damage +3%. For every refine level of weapon, ^0000FF[Soul Expansion]^000000 damage +3%. ",
+			" ",
+			"^264696[If equipped with Gravitation Staff]^000000",
+			"^777777Neutral^000000 property magic damage +3%. For every refine level of weapon, ^0000FF[Gravitational Field]^000000 and ^0000FF[Comet]^000000 damage +3%. ",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Warlock and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 510,
+		costume = false
+	},
+	[400095] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Aquarius Diadem",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.   ",
+			"Inlaid with blue spinel.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, magic damage +2%, SP Recovery Rate +6%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"All stats +3.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Variable Cast Time of all skills -10%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"^004DFFWater^000000, ^640000Earth^000000 and ^777777Neutral^000000 property magic damage +20%.",
+			" ",
+			"^264696[If equipped with Boltigin]^000000",
+			"Magic damage +2%. For every refine level of weapon, ^0000FF[Fire Bolt]^000000, ^0000FF[Cold Bolt]^000000, ^0000FF[Lightning Bolt]^000000 damage +3%.",
+			" ",
+			"^264696[If equipped with Psychic Spear Rod]^000000",
+			"^777777Neutral^000000 and ^0095FFWind^000000 property magic damage +3%. For every refine level of weapon, ^0000FF[Varetyr Spear]^000000 damage +3%.",
+			" ",
+			"^264696[If equipped with Dust Grave]^000000",
+			"^004DFFWater^000000 and ^640000Earth^000000 property magic damage +3%. For every refine level of weapon, ^0000FF[Diamond Dust]^000000 damage +3%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Sorcerer and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 509,
+		costume = false
+	},
+	[400098] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Taurus Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Decorated with copper horns and a semi-precious stone.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Long-ranged physical damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Golden Wrench]^000000",
+			"Physical damage inflicted on monsters of any size +10%. For every refine level of weapon, ^0000FF[Power Swing]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Pilebunker]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Arm Cannon]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Maxi Spanner]^000000",
+			"Physical damage inflicted on monsters of any size +10%. For every refine level of weapon, ^0000FF[Axe Tornado]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Mechanic and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 536,
+		costume = false
+	},
+	[400099] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Taurus Diadem",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Inlaid with emeralds.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Long-ranged physical damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Coolant Injection]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Cart Cannon]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Gene Rod]^000000",
+			"Physical damage inflicted on monsters of any size +10%. For every refine level of weapon, ^0000FF[Crazy Vines]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Estal]^000000",
+			"Physical damage inflicted on monsters of any size +10%. For every refine level of weapon, ^0000FF[Spore Explosion]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Geneticist and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 535,
+		costume = false
+	},
+	[400116] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Virgo Diadem",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Decorated with a blue gemstone that emits mysterious light.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Long-ranged physical damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Sharp Star Bow]^000000",
+			"Critical Damage +20%. For every refine level of weapon, ^0000FF[Focused Arrow Strike]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Aiming Bow]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Aimed Bolt]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Falken Shooter]^000000",
+			"^0000FF[Arrow Storm]^000000 cooldown -1.8 sec. For every refine level of weapon, ^0000FF[Arrow Storm]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Ranger and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 574,
+		costume = false
+	},
+	[400117] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Libra Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Made of pure gold. Decorated with large star sapphires.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20, MATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%, Variable Cast Time of all skills -10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Long-ranged physical damage +15%, ^777777Neutral^000000 property magic damage +10%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"All properties magic damage +10%, physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Black Circle or Heart Whip]^000000",
+			"^777777Neutral^000000 property magic damage +10%. For every refine level of weapon, ^0000FF[Metallic Sound]^000000 damage +5%.",
+			" ",
+			"^264696[If equipped with Scarlet Ribbon or Antique Cello]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Severe Rainstorm]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Wind Gale]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Severe Rainstorm]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Maestro and subclasses, Wanderer and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 593,
+		costume = false
+	},
+	[400118] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Cancer Diadem",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Made of red gold. Decorated with a huge ruby.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20, MATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%, Variable Cast Time of all skills -10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Physical damage +15%, magic damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"All properties magic damage +10%, physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Adorar Staff]^000000",
+			"^FFC501Holy^000000 property magic damage +10%. For every refine level of weapon, ^0000FF[Adoramus]^000000 damage +5%.",
+			" ",
+			"^264696[If equipped with Ponitendtia]^000000",
+			"^FFC501Holy^000000 property magic damage +10%. For every refine level of weapon, ^0000FF[Judex]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Lucis Flail]^000000",
+			"Physical damage inflicted on monsters of any size +10%. For every refine level of weapon, ^0000FF[Holy Light]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Archbishop and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 560,
+		costume = false
+	},
+	[400119] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Lion Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"The elaborate gold design resembles a lion's mane, with a huge emerald in the middle completing a truly royal look.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +8 or higher]^000000",
+			"Max HP +10%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Combo Fists]^000000",
+			"Physical damage inflicted on enemies of any size +10%. For every refine level of weapon, ^0000FF[Chain Crush Combo]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Asura Bandage]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Knuckle Arrow]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Bright Mace]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Throw Spirit Sphere]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Sura and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 565,
+		costume = false
+	},
+	[400120] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Capricorn Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"Two weightless golden horns that are held in place with special brackets behind the ears. Gives its wearer a stubborn streak and an unparalleled ability to withstand cold alpine climates.",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20, MATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Physical damage +15%, magic damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical/ magic damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Jack The Knife]^000000",
+			"Cooldown of all skills -10%. For every refine level of weapon, ^0000FF[Fatal Menace]^000000 damage +10%.",
+			" ",
+			"^264696[If equipped with Platinum Dagger]^000000",
+			"All property magic damage +10%, additionally +5% for every refine level of weapon.",
+			" ",
+			"^264696[If equipped with Rapid Fire]^000000",
+			"Long-ranged physical damage +10%. For every refine level of weapon, ^0000FF[Triangle Shot]^000000 damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Shadow Chaser and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 621,
+		costume = false
+	},
+	[400121] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Biolab Gemini Crown",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A crown created for a participant of a magic experiment.  ",
+			"A solid gold peace adorned with sculptured faces on both sides. ",
+			"^777777-------------^000000",
+			"For every 2 refine levels, ATK +20.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000",
+			"ASPD +10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Long-ranged physical damage +15%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Physical damage inflicted on enemies of any size +10%.",
+			" ",
+			"^264696[If equipped with Repent Slasher and Judgement Slasher]^000000",
+			"Critical Damage +20%. For every 2 refine levels of weapon, long-range and melee physical damage +5%.",
+			" ",
+			"^264696[If equipped with Agudo Filo]^000000",
+			"^0000FF[Cross Impact]^000000 damage +20%. For every refine level of weapon, melee physical damage +5%.",
+			" ",
+			"^264696[If equipped with Ripper Cross]^000000",
+			"Long-ranged physical damage +20%. For every refine level of weapon, ^0000FF[Cross Ripper]^000000 Slasher damage +10%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Guillotine Cross and subclasses^000000"
+		},
+		slotCount = 1,
+		ClassNum = 551,
+		costume = false
+	},
+	[400172] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "Cap",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Atihan Hat",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Decorative headgear of the Ati tribe. Looks grand and majestic.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location:^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 303,
+		costume = true
+	},
+	[490243] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Ring of Silver Claw",
+		identifiedResourceName = "Ring_of_SilverClaw",
+		identifiedDescriptionName = {
+			"A silver ring made to resemble the claw of a bird of prey. Significantly improves the wearer's eyesight.",
+			"^777777-------------^000000",
+			"Critical Rate +50.",
+			"Resistance against player characters +3%.",
+			"Physical damage inflicted on enemies of all types +10%.",
+			" ",
+			"^264696[For every 5 Base Levels]^000000",
+			"Critical damage +1%.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[100437] = {
+		unidentifiedDisplayName = "Ancient Hero's Weapon Modification Cube",
+		unidentifiedResourceName = "RemodelCube",
+		unidentifiedDescriptionName = {
+			"A box that contain a Modification Cube for an Ancient Hero's Weapon.",
+			"^777777-------------^000000",
+			"^4A94F7-^000000 <ITEM>Thorn Whip Modification<INFO>100331</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100331</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Tide Conch Modification<INFO>100330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Bow of Narcissus Modif.<INFO>100329</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100329</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Slate Sword Modific.<INFO>100328</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100328</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Sword of Blue Fire Mod.<INFO>100327</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100327</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Fatebringer Modific.<INFO>100363</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100363</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Winged Sword Modific.<INFO>100362</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100362</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Big Badaboom Modific.<INFO>100361</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100361</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Avenger Modification<INFO>100360</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100360</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Ice Guardian Modific.<INFO>100379</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100379</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Shadow Eater Modific.<INFO>100378</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100378</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Scarlet Drag. Bow Mod.<INFO>100377</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100377</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Empyrean Modification<INFO>100376</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100376</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Mace of the Right. Mod.<INFO>100398</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100398</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>All-Holy Book Modific.<INFO>100397</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100397</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Wand of Purple Orb Mod.<INFO>100396</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100396</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Rusty Drag. Wand Mod.<INFO>100395</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100395</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blade of Light Modific.<INFO>100394</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100394</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Trident of Undine Mod.<INFO>100393</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100393</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Claws of the Bifr. Mod.<INFO>100390</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100390</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Iron Claw Modification<INFO>100388</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100388</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Runic Katana Modific.<INFO>100274</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100274</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Dragon Slayer Modific.<INFO>100275</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100275</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Hand of Death Modific.<INFO>100276</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100276</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Steel Flower Modific.<INFO>100277</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100277</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Meow Meow Foxtail Mod.<INFO>100399</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100399</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Morning Dew Sword Mod.<INFO>100400</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100400</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Four Mirrors Modific.<INFO>100401</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100401</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Crimson Rose Modific.<INFO>100404</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100404</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Master of Souls Modif.<INFO>100405</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100405</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Big Game Trophy Modif.<INFO>100406</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100406</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guttling Gun Modific.<INFO>100407</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100407</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Demon's Shot Modific.<INFO>100408</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100408</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>All-Sun Book Modif.<INFO>100402</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100402</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Spirit Pendulum Modif.<INFO>100403</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100403</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Freedom Stick Modific.<INFO>101482</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>101482</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blessed Knife Modific.<INFO>101483</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>101483</INFO></ITEM>"
+		},
+		identifiedDisplayName = "Ancient Hero's Weapon Modification Cube",
+		identifiedResourceName = "RemodelCube",
+		identifiedDescriptionName = {
+			"A box that contain a Modification Cube for an Ancient Hero's Weapon.",
+			"^777777-------------^000000",
+			"Contains one of the following 37 cubes:",
+			"^4A94F7-^000000 <ITEM>Thorn Whip Modification<INFO>100331</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100331</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Tide Conch Modification<INFO>100330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Bow of Narcissus Modif.<INFO>100329</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100329</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Slate Sword Modific.<INFO>100328</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100328</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Sword of Blue Fire Mod.<INFO>100327</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100327</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Fatebringer Modific.<INFO>100363</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100363</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Winged Sword Modific.<INFO>100362</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100362</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Big Badaboom Modific.<INFO>100361</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100361</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Avenger Modification<INFO>100360</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100360</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Ice Guardian Modific.<INFO>100379</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100379</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Shadow Eater Modific.<INFO>100378</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100378</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Scarlet Drag. Bow Mod.<INFO>100377</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100377</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Empyrean Modification<INFO>100376</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100376</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Mace of the Right. Mod.<INFO>100398</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100398</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>All-Holy Book Modific.<INFO>100397</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100397</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Wand of Purple Orb Mod.<INFO>100396</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100396</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Rusty Drag. Wand Mod.<INFO>100395</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100395</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blade of Light Modific.<INFO>100394</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100394</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Trident of Undine Mod.<INFO>100393</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100393</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Claws of the Bifr. Mod.<INFO>100390</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100390</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Iron Claw Modification<INFO>100388</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100388</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Runic Katana Modific.<INFO>100274</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100274</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Dragon Slayer Modific.<INFO>100275</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100275</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Hand of Death Modific.<INFO>100276</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100276</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Steel Flower Modific.<INFO>100277</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100277</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Meow Meow Foxtail Mod.<INFO>100399</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100399</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Morning Dew Sword Mod.<INFO>100400</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100400</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Four Mirrors Modific.<INFO>100401</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100401</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Crimson Rose Modific.<INFO>100404</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100404</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Master of Souls Modif.<INFO>100405</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100405</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Big Game Trophy Modif.<INFO>100406</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100406</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guttling Gun Modific.<INFO>100407</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100407</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Demon's Shot Modific.<INFO>100408</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100408</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>All-Sun Book Modif.<INFO>100402</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100402</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Spirit Pendulum Modif.<INFO>100403</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>100403</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Freedom Stick Modific.<INFO>101482</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>101482</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blessed Knife Modific.<INFO>101483</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Cube<INFO>101483</INFO></ITEM>",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100547] = {
+		unidentifiedDisplayName = "Biolab Helmet Box",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Contains a ritual crown created for a participant of a magic experiment.",
+			"^777777-------------^000000",
+			"You may receive one of the following 12 items:",
+			"^4A94F7-^000000 <ITEM>Biolab Aries Crown<INFO>400078</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Libra Diadem<INFO>400079</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Aquarius Crown<INFO>400094</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Aquarius Diadem<INFO>400095</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Taurus Crown<INFO>400098</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Taurus Diadem<INFO>400099</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Virgo Diadem<INFO>400116</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Libra Crown<INFO>400117</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Cancer Diadem<INFO>400118</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Lion Crown<INFO>400119</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Capricorn Crown<INFO>400120</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Gemini Crown<INFO>400121</INFO></ITEM>"
+		},
+		identifiedDisplayName = "Biolab Helmet Box",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Contains a ritual crown created for a participant of a magic experiment.",
+			"^777777-------------^000000",
+			"You may receive one of the following 12 items:",
+			"^4A94F7-^000000 <ITEM>Biolab Aries Crown<INFO>400078</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Libra Diadem<INFO>400079</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Aquarius Crown<INFO>400094</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Aquarius Diadem<INFO>400095</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Taurus Crown<INFO>400098</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Taurus Diadem<INFO>400099</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Virgo Diadem<INFO>400116</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Libra Crown<INFO>400117</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Cancer Diadem<INFO>400118</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Lion Crown<INFO>400119</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Capricorn Crown<INFO>400120</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Biolab Gemini Crown<INFO>400121</INFO></ITEM>",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[5967] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Flying Galapago",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"This Galapago has always dreamed of the sky.",
+			"Now he has a magic umbrella and the ability to fly around the world!",
+			"--------------------",
+			"AGI +1.",
+			"When dealing Physical Damage, there is a chance to activate an autospell: ^0000FF[Blitz Beat]^000000 (obtained level).",
+			" ",
+			"The chance is increased per skill level and per base LUK added up to a maximum base value of 120.",
+			" ",
+			"^264696[For each level of Steel Crow]^000000:",
+			"Damage from ^0000FF[Blitz Beat]^000000 +30%.",
+			" ",
+			"^264696[If equipped with Galapago Card]^000000",
+			"Increases the recovery rate of Apple, Banana, Carrot Juice consumables by 1000%.",
+			" ",
+			"^264696[If equipped with Gryphon Card]^000000",
+			"ASPD +3%, ASPD +1.",
+			"ATK +30.",
+			"^264696[If used with a bow that has a refine level of 10 or higher]^000000",
+			"ASPD +2 additionally.",
+			" ",
+			"^264696[If equipped with Condor Card]^000000",
+			"Resistance to attacks by all properties +20%.",
+			" ",
+			"^264696[If equipped with Cendrawasih Card]^000000",
+			"INT +5.",
+			"CRIT +5.",
+			"[Archer Jobs Bonus]",
+			"CRIT +15 additionally.",
+			"--------------------",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^77777750^000000",
+			"Required Level: ^777777110^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1358,
+		costume = false
+	},
+	[18712] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Fan In Mouth",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"The useful tools for refreshing in the summer.",
+			"--------------------",
+			"Cannot be refined.",
+			"FLEE +4. ",
+			"Can use the skill ^0000FF[First Wind - Kamaitachi]^000000 (LV 4)",
+			"Can use the skill ^0000FF[Increase Agility]^000000 (LV 4)",
+			"--------------------",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^77777720^000000",
+			"Required Level: ^77777720^000000",
+			"Jobs: ^777777All jobs except Novice^000000"
+		},
+		slotCount = 0,
+		ClassNum = 857,
+		costume = false
+	},
+	[19535] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "Cap",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Sinsuncho Hat",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Fruit from a plant that screams when uprooted from the ground.",
+			"--------------------",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 730,
+		costume = true
+	},
+	[19886] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Luxury Sunglasses",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"These glasses will make you look like a movie star!",
+			"--------------------",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Middle ^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 26,
+		costume = true
+	},
+	[31434] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Stormy Cloud",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A little thundercloud that will always follow you wherever you go.",
+			"--------------------",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 688,
+		costume = true
+	},
+	[470075] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "Sandals",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Peep Toe Sandals",
+		identifiedResourceName = "Peep_Toe_Sandals",
+		identifiedDescriptionName = {
+			"For every base levels after 50 ATK +1, MATK +1.",
+			"Additional experience from killing monsters +5%.",
+			"^264696[If refined to +9 or higher]^000000, additional experience from killing monsters +5%.",
+			"^264696[If refined to +11 or higher]^000000, additional experience from killing monsters +5%.",
+			"--------------------",
+			"Class: ^777777Footwear^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[104942] = {
+		unidentifiedDisplayName = "Summer Rain Treasure",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"From fertile earth that rainstorms showered this precious box in summer flowered."
+		},
+		identifiedDisplayName = "Summer Rain Treasure",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"From fertile earth that rainstorms showered this precious box in summer flowered.",
+			" ",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x3200^000000",
+			"^4A94F7-^000000 <ITEM>Peep Toe Sandals<INFO>470075</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guarantee Weapon 8Up<INFO>6229</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Armor +8 Refine<INFO>6233</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM> Ticket<INFO>6233</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Neuralizer Box<INFO>12911</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blacksmith Blessing<INFO>6635</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Reset Stone<INFO>6320</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Carnium<INFO>6225</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Bradium<INFO>6226</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Flying Galapago<INFO>5967</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Fan In Mouth<INFO>18712</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Fern Wreath<INFO>20045</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Purple <INFO>19886</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM> Glasses<INFO>19886</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Stormy Cloud<INFO>31434</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x100^000000",
+			"^4A94F7-^000000 <ITEM>Inf. Giant Fly Wing<INFO>23330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Box (1 h.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Spring Mana Potion<INFO>100005</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Eremes' Treasure<INFO>104385</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Battle Manual<INFO>12411</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Bubble Gum<INFO>12412</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Superhuman Sweets<INFO>22819</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Elunium<INFO>7619</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Oridecon<INFO>7620</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>AGI Biscuit Stick<INFO>23225</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>DEX Biscuit Stick<INFO>23221</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>INT Biscuit Stick<INFO>23226</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>LUK Biscuit Stick<INFO>23222</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>STR Biscuit Stick<INFO>23223</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>VIT Biscuit Stick<INFO>23224</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Bloody Branch<INFO>12103</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Party Assumptio <INFO>14590</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>5 Scroll<INFO>14590</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Blessing<INFO>14588</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>10 Scroll<INFO>14588</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Increase Agi<INFO>14589</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>10 Scroll<INFO>14589</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Archmage Potion<INFO>23898</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Special Blessing <INFO>23047</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>of Tyr<INFO>23047</INFO></ITEM> ^777777x10^000000",
+			"^4A94F7-^000000 <ITEM>Special Kafra Card<INFO>23177</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Pudding<INFO>12710</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Mind Potion<INFO>100317</INFO></ITEM> ^777777x3^000000",
+			"^4A94F7-^000000 <ITEM>Water of Life<INFO>12578</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7-^000000 <ITEM>Superb Fish Slice<INFO>14524</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Dried Yggdrasil<INFO>12293</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Berries<INFO>12293</INFO></ITEM> ^777777x70^000000",
+			"^4A94F7-^000000 <ITEM>Yummy Skewered Grill<INFO>12335</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Candy<INFO>12709</INFO></ITEM> ^777777x35^000000",
+			"^4A94F7-^000000 <ITEM>Hoddmimis Seed<INFO>12405</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Big Bun<INFO>14522</INFO></ITEM> ^777777x20^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22737] = {
+		unidentifiedDisplayName = "Blood Cartridge",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Bloody Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Blood Cartridge",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Bloody Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100425] = {
+		unidentifiedDisplayName = "Underwater refine box",
+		unidentifiedResourceName = "єё¶уЅ¦µµїмЕҐєк",
+		unidentifiedDescriptionName = {
+			"A mysterious box that imbued with Illusion energy.",
+			"------------------------",
+			"It can randomly refine ^000088Illusion of Underwater^000000 equipment to ^FF0000+7 ~ +10^000000.",
+			"------------------------",
+			"^FF0000The equipment must be refined to +4 or higher.^000000",
+			"------------------------",
+			"^FF0000[Applicable Items]^000000",
+			"^4D4DFFIllusion Death Guidance^000000",
+			"^4D4DFFIllusion Katar of Frozen Icicle^000000",
+			"^4D4DFFIllusion Brionac^000000",
+			"^4D4DFFIllusion Zephyrus^000000",
+			"^4D4DFFIllusion Electric Guitar^000000",
+			"^4D4DFFIllusion Electric Eel^000000",
+			"^4D4DFFIllusion Saint Robe^000000",
+			"^4D4DFFIllusion Saphien's Armor of Ocean^000000",
+			"^4D4DFFIllusion Chain Mail^000000",
+			"^4D4DFFIllusion Morrigane's Helm^000000",
+			"^4D4DFFIllusion Morrigane's Manteau^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Underwater refine box",
+		identifiedResourceName = "єё¶уЅ¦µµїмЕҐєк",
+		identifiedDescriptionName = {
+			"A mysterious box that imbued with Illusion energy.",
+			"------------------------",
+			"It can randomly refine ^000088Illusion of Underwater^000000 equipment to ^FF0000+7 ~ +10^000000.",
+			"------------------------",
+			"^FF0000The equipment must be refined to +4 or higher.^000000",
+			"------------------------",
+			"^FF0000[Applicable Items]^000000",
+			"^4D4DFFIllusion Death Guidance^000000",
+			"^4D4DFFIllusion Katar of Frozen Icicle^000000",
+			"^4D4DFFIllusion Brionac^000000",
+			"^4D4DFFIllusion Zephyrus^000000",
+			"^4D4DFFIllusion Electric Guitar^000000",
+			"^4D4DFFIllusion Electric Eel^000000",
+			"^4D4DFFIllusion Saint Robe^000000",
+			"^4D4DFFIllusion Saphien's Armor of Ocean^000000",
+			"^4D4DFFIllusion Chain Mail^000000",
+			"^4D4DFFIllusion Morrigane's Helm^000000",
+			"^4D4DFFIllusion Morrigane's Manteau^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100426] = {
+		unidentifiedDisplayName = "Special Underwater refine box",
+		unidentifiedResourceName = "Ѕ¦µµїмЕҐєк",
+		unidentifiedDescriptionName = {
+			"A mysterious box that imbued with Illusion energy.",
+			"------------------------",
+			"It can randomly refine ^000088Illusion of Underwater^000000 equipment to ^FF0000+9 ~ +12^000000.",
+			"------------------------",
+			"^FF0000The equipment must be refined to +4 or higher.^000000",
+			"------------------------",
+			"^FF0000[Applicable Items]^000000",
+			"^4D4DFFIllusion Death Guidance^000000",
+			"^4D4DFFIllusion Katar of Frozen Icicle^000000",
+			"^4D4DFFIllusion Brionac^000000",
+			"^4D4DFFIllusion Zephyrus^000000",
+			"^4D4DFFIllusion Electric Guitar^000000",
+			"^4D4DFFIllusion Electric Eel^000000",
+			"^4D4DFFIllusion Saint Robe^000000",
+			"^4D4DFFIllusion Saphien's Armor of Ocean^000000",
+			"^4D4DFFIllusion Chain Mail^000000",
+			"^4D4DFFIllusion Morrigane's Helm^000000",
+			"^4D4DFFIllusion Morrigane's Manteau^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Special Underwater refine box",
+		identifiedResourceName = "Ѕ¦µµїмЕҐєк",
+		identifiedDescriptionName = {
+			"A mysterious box that imbued with Illusion energy.",
+			"------------------------",
+			"It can randomly refine ^000088Illusion of Underwater^000000 equipment to ^FF0000+9 ~ +12^000000.",
+			"------------------------",
+			"^FF0000The equipment must be refined to +4 or higher.^000000",
+			"------------------------",
+			"^FF0000[Applicable Items]^000000",
+			"^4D4DFFIllusion Death Guidance^000000",
+			"^4D4DFFIllusion Katar of Frozen Icicle^000000",
+			"^4D4DFFIllusion Brionac^000000",
+			"^4D4DFFIllusion Zephyrus^000000",
+			"^4D4DFFIllusion Electric Guitar^000000",
+			"^4D4DFFIllusion Electric Eel^000000",
+			"^4D4DFFIllusion Saint Robe^000000",
+			"^4D4DFFIllusion Saphien's Armor of Ocean^000000",
+			"^4D4DFFIllusion Chain Mail^000000",
+			"^4D4DFFIllusion Morrigane's Helm^000000",
+			"^4D4DFFIllusion Morrigane's Manteau^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[56781] = {
+		unidentifiedDisplayName = "Aura",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "MrsGod",
+		identifiedResourceName = "C_Winner_Yellow_Purple_Aura",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Level 200 is not just a number. It is a symbol of absolute superiority.",
+			"Now your name is forever inscribed in the history of the server - as the first, as the greatest, as unsurpassed.",
+			"^ff0000Animated^000000",
+			"Class: ^777777Costume^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2609,
+		costume = true
+	},
+	[56782] = {
+		unidentifiedDisplayName = "Aura",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Black and red winner's aura",
+		identifiedResourceName = "C_Winner_Red_Black_Aura",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Level 200 - and no one else is even close! You are not just a leader, you are the standard of skill.",
+			"Keep it up! The server bows its head before your result.",
+			"^ff0000Animated^000000",
+			"Class: ^777777Costume^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2609,
+		costume = true
+	},
+	[19172] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Sitting Pope",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"A doll-hat in the form of the Pope of Arunafeltz.",
+			"It's somehow blasphemous, isn't it?",
+			"^777777-------------^000000",
+			"INT +10.",
+			"After Skill Delay -10%.",
+			" ",
+			"^264696[If refine rate is +7 or higher]^000000",
+			"After Skill Delay -10% additionally.",
+			" ",
+			"^264696[If refine rate is +9 or higher]^000000",
+			"After Skill Delay -10% additionally.",
+			" ",
+			"^264696[When equipped with Zealous Necklace]^000000",
+			"After Skill Delay -15% additionally.",
+			" ",
+			"^264696[When equipped with Kiel-D-01 Card]^000000",
+			"After Skill Delay +30%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777775^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777740^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1553,
+		costume = false
+	},
+	[20925] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Commander's Parade Manteau",
+		identifiedResourceName = "Commander_manteau_J",
+		identifiedDescriptionName = {
+			"A magnificent red manteau once worn by a commander.",
+			"^777777-------------^000000",
+			"Resistance against player characters +5%.",
+			"Max HP +3%, Max SP +3%, ATK +10, MATK +10, MDEF +30.",
+			" ",
+			"^264696[If refined to +5 or higher, additionally:]^000000",
+			"Max HP +7%, Max SP +7%, ATK +20, MATK +20.",
+			" ",
+			"^264696[If refined to +12 or higher, additionally:]^000000",
+			"Max HP +10%, Max SP +10%, ATK +30, MATK +30.",
+			" ",
+			"^264696[If equipped with Hero Nependess Shoes]^000000",
+			"Resistance against player characters +5%.",
+			"Casting Time -10%, AGI +10, INT +10.",
+			" ",
+			"^264696[If equipped with Hero Silverleather Boots]^000000",
+			"Resistance against player characters +5%.",
+			"Cast Delay -20%, DEX +10, STR +10.",
+			" ",
+			"^264696[If equipped with Hero Ungoliant Boots]^000000",
+			"Resistance against player characters +5%.",
+			"SP consumption -10%, LUK +10, VIT +10.",
+			"Effect of the Healing skills +20%.",
+			"^777777-------------^000000",
+			"Class: ^777777Garment^000000",
+			"Defense: ^77777720^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[16051] = {
+		unidentifiedDisplayName = "Club",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Valkyrie's Hammer",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"The royal hammer of a mighty Valkyrie. Despite its enormous power, it is easy to handle even for beginners.",
+			"^777777-------------^000000",
+			"MATK +50",
+			"^264696[When used by Priest and Novice Jobs]^000000",
+			"ATK +50, MATK +100.",
+			"ASPD +1% for every refine level of the item (up to +10).",
+			"  ",
+			"^264696[When used by Monk and Novice Jobs]^000000",
+			"Max SP +200, SP consumption -5%.",
+			"For each item refine level Perfect Dodge +1 (up to +10).",
+			"  ",
+			"^264696[When used by Merchant and Novice Jobs]^000000",
+			"ATK +100, HIT +10.",
+			"Reduces the Variable Cast Time by -1% for every 2 refine levels of the item (up to +10).",
+			"  ",
+			"^264696[When used by Swordman and Novice Jobs]^000000",
+			"Max HP +500, Max SP +100.",
+			"VIT +1 for every refine level (up to +10).",
+			"  ",
+			"^264696[When used by Novice Jobs]^000000",
+			"ATK +100, Max SP +100.",
+			"Max HP +200 for every refine level (up to +10).",
+			"^777777-------------^000000",
+			"Class: ^777777Club^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^77777710^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^777777Swordsman Jobs, Novice Jobs, Merchant Jobs, Acolyte Jobs."
+		},
+		slotCount = 4,
+		ClassNum = 8,
+		costume = false
+	},
+	[32007] = {
+		unidentifiedDisplayName = "Spear",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "God Eater Dragon Spear",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"A spear forged by fire and ice. Do not let this weapon control you.",
+			"^777777-------------^000000",
+			"STR +3, DEX +5",
+			"MATK +280.",
+			"Restores 1% of the damage dealt to the enemy as HP when performing a physical attack.",
+			"^0000FF[Dragon Breath]^000000 and ^0000FF[Dragon Water]^000000 Breath damage +50%.",
+			"  ",
+			"^264696[For every refine level]^000000",
+			"Physical damage inflicted on all class enemies +2%.",
+			"Cast Delay -1%, ASPD +2%.",
+			"  ",
+			"^264696[If refined to +7 or higher]^000000",
+			"Restores additional 2% of the damage dealt to the enemy as HP when performing a physical attack.",
+			"  ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Restores additional 3% of the damage dealt to the enemy as HP when performing a physical attack.",
+			"  ",
+			"^264696[If refine rate is +10 or higher]^000000",
+			"Fixed Cast Time of all skills -70%.",
+			"^777777-------------^000000",
+			"Class: ^777777One-handed spear^000000",
+			"Attack: ^777777360^000000",
+			"Weight: ^777777380^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777130^000000",
+			"Jobs: ^777777Rune Knight, Royal Guard^000000"
+		},
+		slotCount = 1,
+		ClassNum = 4,
+		costume = false
+	},
+	[400053] = {
+		unidentifiedDisplayName = "Upper Headgear",
+		unidentifiedResourceName = "Зпё§",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Morrigane's Helm",
+		identifiedResourceName = "Morrigane_Helm_IL",
+		identifiedDescriptionName = {
+			"A helmet named after the Goddess of War.",
+			"Her glorious aura is very evident.",
+			"------------------------",
+			"STR + 5, CRI + 5.",
+			"------------------------",
+			"When refined to +7 or higher, ATK + 50.",
+			"------------------------",
+			"When refined to +9 or higher, ASPD + 10%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Morrigane's Helm [1]^000000",
+			"^4D4DFFIllusion Morrigane's Manteau [1]^000000",
+			"^4D4DFFIllusion Morrigane's Belt [1]^000000",
+			"^4D4DFFIllusion Morrigane's Pendant [1]^000000",
+			"          ",
+			"STR +5, ATK + 10%, CRI + 5, MHP + 10%, MSP + 10%.",
+			"Increase physical damage against Small sized monsters by 20%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, Perfect Dodge + 10, ATK + 50.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, Critical Damage + 20%, increase physical damage against Medium size monsters by 20%.",
+			"------------------------",
+			"Type: ^777777Headgear^000000",
+			"Def: ^77777715^000000",
+			"Location: ^777777Upper ^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777130^000000",
+			"Class: ^777777All Jobs except Novice^000000"
+		},
+		slotCount = 1,
+		ClassNum = 257,
+		costume = false
+	},
+	[450144] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Saint Robe",
+		identifiedResourceName = "Saint_Robe_IL",
+		identifiedDescriptionName = {
+			"A ceremonial robe made of green cloth and blessed by God.",
+			"It is said to have excellent defensive power.",
+			"------------------------",
+			"MHP + 10%, MSP + 10%.",
+			"------------------------",
+			"MDEF + 10.",
+			"------------------------",
+			"When refined to +9 or higher, reduce damage taken from Fish race monsters by 15%.",
+			"------------------------",
+			"When refined to +11 or higher, ignore physical defense of Fish race monsters by 20%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Saint Robe [1]^000000",
+			"^4D4DFFIllusion Combo Battle Glove [2]^000000",
+			"          ",
+			"ATK + 30.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, ATK + 5%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Sky Blow damage by 20%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, reduce After Cast Delay by 10%.",
+			"------------------------",
+			"Type: ^777777Armor^000000",
+			"Def: ^77777760^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777120^000000",
+			"Class: ^777777Acolyte and Merchant Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450145] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "їмµзёЮАП",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Saphien's Armor of Ocean",
+		identifiedResourceName = "Water_Sprits_Armor_IL",
+		identifiedDescriptionName = {
+			"A protective armor enhanced with water element.",
+			"It's so cold that it might chill you down to the bone.",
+			"------------------------",
+			"^4D4DFFGrant the Armor with Water Property.^000000",
+			"------------------------",
+			"MHP + 10%.",
+			"------------------------",
+			"For every refine level, MHP + 125.",
+			"------------------------",
+			"When refined to +7 or higher, DEF + 50.",
+			"------------------------",
+			"When refined to +9 or higher, there's a chance to reduce damage taken from Water property attacks by 15% for 5 seconds when dealing physical damage.",
+			"------------------------",
+			"Type: ^777777Armor^000000",
+			"Def: ^77777750^000000",
+			"Weight: ^777777220^000000",
+			"Required Level: ^777777120^000000",
+			"Class: ^777777Swordman and Merchant Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450146] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "їмµзёЮАП",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Chain Mail",
+		identifiedResourceName = "Chain_Mail_IL",
+		identifiedDescriptionName = {
+			"A protective armor made of sturdy metals.",
+			"You can feel its heavy weight just by looking at it.",
+			"------------------------",
+			"MHP + 10%, MSP + 10%.",
+			"------------------------",
+			"For every refine level, ATK + 4.",
+			"------------------------",
+			"For every 3 refine level, increase physical damage against Fire and Water property monsters by 4%.",
+			"------------------------",
+			"When refined to +9 or higher, ATK + 10%.",
+			"------------------------",
+			"When refined to +11 or higher, ASPD + 10%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Chain Mail [1]^000000",
+			"^4D4DFFIllusion Katar of Frozen Icicle [2]^000000",
+			"          ",
+			"ATK + 5%.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, CRI + 5.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, Critical Damage + 15%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, increase physical damage against Fire property and Insect race monsters by 10%.",
+			"------------------------",
+			"Type: ^777777Armor^000000",
+			"Def: ^77777770^000000",
+			"Weight: ^777777330^000000",
+			"Required Level: ^777777120^000000",
+			"Class: ^777777Swordman, Merchant, and Thief Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480054] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Morrigane's Manteau",
+		identifiedResourceName = "Morrigane_Manyeau_IL",
+		identifiedDescriptionName = {
+			"A gray cloak decorated with crow feathers.",
+			"It is said to be imbued with the power of Morrigane.",
+			"------------------------",
+			"LUK + 5, FLEE + 20.",
+			"------------------------",
+			"When refined to +7 or higher, increase physical damage against Demon, Fish, Insect, and Demihuman race monsters by 5%.",
+			"------------------------",
+			"When refined to +9 or higher, increase physical damage against Demon, Fish, Insect, and Demihuman race monsters by additional 10%.",
+			"------------------------",
+			"Type: ^777777Garment^000000",
+			"Def: ^77777712^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777130^000000",
+			"Class: ^777777All Jobs except Novice^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490069] = {
+		unidentifiedDisplayName = "Accessory (Right)",
+		unidentifiedResourceName = "ёµ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Morrigane's Belt",
+		identifiedResourceName = "Morrigane_Belt_IL",
+		identifiedDescriptionName = {
+			"The belt that Cu Chulainn kept as a keepsake when his body was recovered after his death.",
+			"------------------------",
+			"STR + 3, MHP + 5%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Morrigane's Belt [1]^000000",
+			"^4D4DFFIllusion Morrigane's Pendant [1]^000000",
+			"          ",
+			"ASPD + 10%.",
+			"------------------------",
+			"Type: ^777777Accessory (Right)^000000",
+			"Def: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777130^000000",
+			"Class: ^777777All Jobs except Novice^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490070] = {
+		unidentifiedDisplayName = "Accessory (Left)",
+		unidentifiedResourceName = "ёµ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Morrigane's Pendant",
+		identifiedResourceName = "Morrigane_Pendant_IL",
+		identifiedDescriptionName = {
+			"A pendant Morrigane received from her loved one, Cu Chulainn.",
+			"------------------------",
+			"ATK + 20, CRI + 5.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Morrigane's Belt [1]^000000",
+			"^4D4DFFIllusion Morrigane's Pendant [1]^000000",
+			"          ",
+			"ATK + 10%.",
+			"------------------------",
+			"Type: ^777777Accessory (Left)^000000",
+			"Def: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777130^000000",
+			"Class: ^777777All Jobs except Novice^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[600011] = {
+		unidentifiedDisplayName = "Two-handed Sword",
+		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Death Guidance",
+		identifiedResourceName = "Death_Guidance_IL",
+		identifiedDescriptionName = {
+			"A cursed weapon that exists only to destroy all beings.",
+			"It is said that the curse also brings bad omens to its owner.",
+			"------------------------",
+			"For every refine level, ATK + 4.",
+			"------------------------",
+			"When refined to +7 or higher, increase Storm Blast damage by 20%.",
+			"------------------------",
+			"When refined to +9 or higher, there's a 3% chance to recover HP by equal amount of refine level times 50 per second, up to 4 times.",
+			"------------------------",
+			"When refined to +11 or higher, CRI + 15, Critical Damage + 15%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Death Guidance [2]^000000",
+			"^4D4DFFIllusion Chain Mail [1]^000000",
+			"          ",
+			"ATK + 30.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, CRI + 5.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Storm Blast damage by 20%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, increase physical damage against Water property and Fish race monsters by 15%.",
+			"------------------------",
+			"Type: ^777777Two-handed Sword^000000",
+			"Attack: ^777777240^000000",
+			"Weight: ^777777200^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777120^000000",
+			"Jobs: ^777777Swordman Class^000000"
+		},
+		slotCount = 2,
+		ClassNum = 3,
+		costume = false
+	},
+	[610012] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "БкёЈ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Katar of Frozen Icicle",
+		identifiedResourceName = "KatarOfCold_Icicle_IL",
+		identifiedDescriptionName = {
+			"A katar made of crystalized ice.",
+			"Its sharp point will chill enemies down to the bone.",
+			"------------------------",
+			"For every refine level, ATK + 5.",
+			"------------------------",
+			"When refined to +7 or higher, increase Cross Impact damage by 20%.",
+			"------------------------",
+			"When refined to +9 or higher, ASPD + 10%.",
+			"------------------------",
+			"When refined to +11 or higher, CRI + 15, increase physical damage against Fire property and Insect race monsters by 10%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Katar of Frozen Icicle [2]^000000",
+			"^4D4DFFIllusion Ring [1]^000000",
+			"          ",
+			"ATK + 5%.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of weapon is 9 or higher^000000, Critical Damage + 20%.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of weapon is 11 or higher^000000, gain CRI + 15 for 30 seconds when using Venom Impression.",
+			"------------------------",
+			"Type: ^777777Katar^000000",
+			"Attack: ^777777220^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777120^000000",
+			"Jobs: ^777777Assassin Class^000000"
+		},
+		slotCount = 2,
+		ClassNum = 16,
+		costume = false
+	},
+	[630006] = {
+		unidentifiedDisplayName = "Two-handed Spear",
+		unidentifiedResourceName = "·ЈЅє",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Brionac",
+		identifiedResourceName = "Brionac_IL",
+		identifiedDescriptionName = {
+			"A spear that radiates with the warm, glowing light of pure holiness.",
+			"------------------------",
+			"ATK + 10%.",
+			"------------------------",
+			"For every 2 refine level, increase Overbrand damage by 5%.",
+			"------------------------",
+			"When refined to +7 or higher, increase Overbrand damage by additional 20%.",
+			"------------------------",
+			"When refined to +9 or higher, increase physical damage against Medium and Large size enemies by 15%.",
+			"------------------------",
+			"When refined to +11 or higher, increase physical damage against Fish and Demon race monsters by 30%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Brionac [2]^000000",
+			"^4D4DFFIllusion Saphien's Armor of Ocean [1]^000000",
+			"          ",
+			"ATK + 5%.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, reduce After Cast Delay by 5%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Overbrand damage by 20%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000 there's a chance to gain ATK + 50 and increase physical damage against Fish and Demon race monsters by 50% for 10 seconds when using Overbrand.",
+			"------------------------",
+			"Type: ^777777Two-handed Spear^000000",
+			"Attack: ^777777210^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777120^000000",
+			"Jobs: ^777777Swordsman Class^000000"
+		},
+		slotCount = 2,
+		ClassNum = 5,
+		costume = false
+	},
+	[630007] = {
+		unidentifiedDisplayName = "Two-handed Spear",
+		unidentifiedResourceName = "·ЈЅє",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Zephyrus",
+		identifiedResourceName = "Zephyrus_IL",
+		identifiedDescriptionName = {
+			"A spear with a curved blade modeled after a lightning.",
+			"It can cut and stab at the same time.",
+			"------------------------",
+			"For every refine level, ATK + 4.",
+			"------------------------",
+			"For every 2 refine level, increase long ranged physical damage by 3%.",
+			"------------------------",
+			"When refined to +7 or higher, increase Clashing Spiral damage by 20%.",
+			"------------------------",
+			"When refined to +9 or higher, increase long ranged physical damage by additional 5%.",
+			"------------------------",
+			"When refined to +11 or higher, HIT + 10, increase physical damage against Medium and Large size monsters by 10%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Zephyrus [2]^000000",
+			"^4D4DFFIllusion Chain Mail [1]^000000",
+			"          ",
+			"ATK + 30.",
+			"------------------------",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, increase long ranged physical damage by 5%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Clashing Spiral damage by 20%.",
+			"------------------------",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, increase physical damage against Water property and Fish race monsters by 15%.",
+			"------------------------",
+			"Type: ^777777Two-handed Spear^000000",
+			"Attack: ^777777250^000000",
+			"Weight: ^777777330^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777120^000000",
+			"Jobs: ^777777Swordsman Class^000000"
+		},
+		slotCount = 2,
+		ClassNum = 57,
+		costume = false
+	},
+	[300140] = {
+		unidentifiedDisplayName = "Abysmal Sropho Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Increase Wind property magical damage by 3%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase Wind property magical damage by additional 2%.",
+			"------------------------",
+			"When the refine of compounded item is +11 or higher, increase Wind property magical damage by additional 5%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Sropho Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Increase Wind property magical damage by 3%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase Wind property magical damage by additional 2%.",
+			"------------------------",
+			"When the refine of compounded item is +11 or higher, increase Wind property magical damage by additional 5%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300141] = {
+		unidentifiedDisplayName = "Abysmal Obeaune Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"MATK + 30.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Obeaune Card^000000",
+			"^4D4DFFBoiling Piranha Card^000000",
+			"          ",
+			"Increase magical damage against Water property enemies by 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Obeaune Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"MATK + 30.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Obeaune Card^000000",
+			"^4D4DFFBoiling Piranha Card^000000",
+			"          ",
+			"Increase magical damage against Water property enemies by 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300142] = {
+		unidentifiedDisplayName = "Abysmal Deviace Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Increase physical damage against Water property and Fish race monsters by 5%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase physical damage against Water property enemies by additional 5%.",
+			"------------------------",
+			"When the refine of compounded item is +11 or higher, increase physical damage against Fish race monsters by 5%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Deviace Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Increase physical damage against Water property and Fish race monsters by 5%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase physical damage against Water property enemies by additional 5%.",
+			"------------------------",
+			"When the refine of compounded item is +11 or higher, increase physical damage against Fish race monsters by 5%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300143] = {
+		unidentifiedDisplayName = "Abysmal Marse Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Reduce physical and magical damage taken from Earth property enemies by 15%.",
+			"------------------------",
+			"Reduce damage taken from Insect race monsters by 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Shield^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Marse Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Reduce physical and magical damage taken from Earth property enemies by 15%.",
+			"------------------------",
+			"Reduce damage taken from Insect race monsters by 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Shield^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300144] = {
+		unidentifiedDisplayName = "Abysmal Merman Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"For every 15 base STR, ATK + 4.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Merman Card^000000",
+			"^4D4DFFAbysmal King Dramoh Card^000000",
+			"          ",
+			"Critical Damage + 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Merman Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"For every 15 base STR, ATK + 4.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Merman Card^000000",
+			"^4D4DFFAbysmal King Dramoh Card^000000",
+			"          ",
+			"Critical Damage + 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300145] = {
+		unidentifiedDisplayName = "Abysmal Witch Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Increase Fire and Shadow property magical damage by 100%.",
+			"------------------------",
+			"Increase damage taken from all property attacks by 30%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Witch Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Increase Fire and Shadow property magical damage by 100%.",
+			"------------------------",
+			"Increase damage taken from all property attacks by 30%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300146] = {
+		unidentifiedDisplayName = "Abysmal Sedora Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Increase critical rate against Fish race monsters by 30%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Sedora Card^000000",
+			"^4D4DFFSedora Card^000000",
+			"          ",
+			"Critical Damage + 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Sedora Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Increase critical rate against Fish race monsters by 30%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Sedora Card^000000",
+			"^4D4DFFSedora Card^000000",
+			"          ",
+			"Critical Damage + 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300147] = {
+		unidentifiedDisplayName = "Abysmal Swordfish Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Reduce damage taken from Water property attacks by 10%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase magical damage against Water property enemies by 10%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Swordfish Card^000000",
+			"^4D4DFFSwordfish Card^000000",
+			"          ",
+			"MATK + 3%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Swordfish Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Reduce damage taken from Water property attacks by 10%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase magical damage against Water property enemies by 10%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Swordfish Card^000000",
+			"^4D4DFFSwordfish Card^000000",
+			"          ",
+			"MATK + 3%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300148] = {
+		unidentifiedDisplayName = "Abysmal Strouf Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"MHP + 10%, MSP + 5%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase physical and magical damage against Water property enemies by 5%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Strouf Card^000000",
+			"^4D4DFFAbysmal Deviace Card^000000",
+			"          ",
+			"ATK + 30.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Strouf Card^000000",
+			"^4D4DFFAbysmal Sropho Card^000000",
+			"          ",
+			"MATK + 30.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Strouf Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"MHP + 10%, MSP + 5%.",
+			"------------------------",
+			"When the refine of compounded item is +9 or higher, increase physical and magical damage against Water property enemies by 5%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Strouf Card^000000",
+			"^4D4DFFAbysmal Deviace Card^000000",
+			"          ",
+			"ATK + 30.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Strouf Card^000000",
+			"^4D4DFFAbysmal Sropho Card^000000",
+			"          ",
+			"MATK + 30.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300149] = {
+		unidentifiedDisplayName = "Abysmal Phen Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Reduce damage taken from Neutral property attacks by 15%.",
+			"------------------------",
+			"For every refine level of Garment, increase Wind property magical damage by 3%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Phen Card^000000",
+			"^4D4DFFAbysmal Obeaune Card^000000",
+			"          ",
+			"Reduce damage taken from Neutral property attacks by additional 5%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Phen Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Reduce damage taken from Neutral property attacks by 15%.",
+			"------------------------",
+			"For every refine level of Garment, increase Wind property magical damage by 3%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal Phen Card^000000",
+			"^4D4DFFAbysmal Obeaune Card^000000",
+			"          ",
+			"Reduce damage taken from Neutral property attacks by additional 5%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300150] = {
+		unidentifiedDisplayName = "Abysmal King Dramoh Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"MHP - 5%.",
+			"------------------------",
+			"For every 3 refine level of compounded item, ATK + 1%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal King Dramoh Card^000000",
+			"^4D4DFFKing Dramoh Card^000000",
+			"          ",
+			"STR + 4, MHP + 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal King Dramoh Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"MHP - 5%.",
+			"------------------------",
+			"For every 3 refine level of compounded item, ATK + 1%.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFAbysmal King Dramoh Card^000000",
+			"^4D4DFFKing Dramoh Card^000000",
+			"          ",
+			"STR + 4, MHP + 15%.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300151] = {
+		unidentifiedDisplayName = "Abysmal Kraken Card",
+		unidentifiedResourceName = "АМё§ѕшґВД«µе",
+		unidentifiedDescriptionName = {
+			"Increase long ranged physical damage by 25%.",
+			"------------------------",
+			"Perfect Hit + 5.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Kraken Card",
+		identifiedResourceName = "АМё§ѕшґВД«µе",
+		identifiedDescriptionName = {
+			"Increase long ranged physical damage by 25%.",
+			"------------------------",
+			"Perfect Hit + 5.",
+			"------------------------",
+			"Class: ^777777Card^000000",
+			"Compound on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[7062] = {
+		unidentifiedDisplayName = "Abysmal King Dramoh Nipper",
+		unidentifiedResourceName = "°ЎАзґПЖЫ",
+		unidentifiedDescriptionName = { "King Dramoh's powerful nipper.", "It is so sharp and hard." },
+		identifiedDisplayName = "Abysmal King Dramoh Nipper",
+		identifiedResourceName = "°ЎАзґПЖЫ",
+		identifiedDescriptionName = {
+			"King Dramoh's powerful nipper.",
+			"It is so sharp and hard.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7324] = {
+		unidentifiedDisplayName = "Abysmal Kraken Tentacle",
+		unidentifiedResourceName = "Е©¶уДЛАЗґЩё®",
+		unidentifiedDescriptionName = {
+			"A piece of tentacle cut off from Abysmal Kraken.",
+			"It has excellent adhesion.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Abysmal Kraken Tentacle",
+		identifiedResourceName = "Е©¶уДЛАЗґЩё®",
+		identifiedDescriptionName = {
+			"A piece of tentacle cut off from Abysmal Kraken.",
+			"It has excellent adhesion.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25892] = {
+		unidentifiedDisplayName = "Abysmal Sea Shell",
+		unidentifiedResourceName = "Б¶°іІ®Бъ",
+		unidentifiedDescriptionName = {
+			"A sea shell obtained from the deep sea.",
+			"It is sturdier than it looks.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Sea Shell",
+		identifiedResourceName = "Б¶°іІ®Бъ",
+		identifiedDescriptionName = {
+			"A sea shell obtained from the deep sea.",
+			"It is sturdier than it looks.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25893] = {
+		unidentifiedDisplayName = "Abysmal Fish Tail",
+		unidentifiedResourceName = "»эј±АЗІїё®",
+		unidentifiedDescriptionName = {
+			"A tail left behind by deep-sea predators.",
+			"It looks like there isn't much meat left.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Fish Tail",
+		identifiedResourceName = "»эј±АЗІїё®",
+		identifiedDescriptionName = {
+			"A tail left behind by deep-sea predators.",
+			"It looks like there isn't much meat left.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25894] = {
+		unidentifiedDisplayName = "Rotten Abysmal Fish",
+		unidentifiedResourceName = "ЅвАє»эј±",
+		unidentifiedDescriptionName = {
+			"Deep sea fish that has decayed for a long time.",
+			"It smells so bad, I don't think I can eat it.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Rotten Abysmal Fish",
+		identifiedResourceName = "ЅвАє»эј±",
+		identifiedDescriptionName = {
+			"Deep sea fish that has decayed for a long time.",
+			"It smells so bad, I donЎЇt think I can eat it.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25895] = {
+		unidentifiedDisplayName = "Abysmal Starfish",
+		unidentifiedResourceName = "є°єТ°Ў»зё®",
+		unidentifiedDescriptionName = {
+			"Starfish found in the deep sea.",
+			"It has a brilliant blue light.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Starfish",
+		identifiedResourceName = "є°єТ°Ў»зё®",
+		identifiedDescriptionName = {
+			"Starfish found in the deep sea.",
+			"It has a brilliant blue light.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25896] = {
+		unidentifiedDisplayName = "Abysmal Crab",
+		unidentifiedResourceName = "ё»¶ыґл°Ф",
+		unidentifiedDescriptionName = {
+			"Snow crab found in the deep sea.",
+			"It looks rich in nutrients.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Crab",
+		identifiedResourceName = "ё»¶ыґл°Ф",
+		identifiedDescriptionName = {
+			"Snow crab found in the deep sea.",
+			"It looks rich in nutrients.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25897] = {
+		unidentifiedDisplayName = "Abysmal Witch's Crown",
+		unidentifiedResourceName = "Crown_Of_Witch",
+		unidentifiedDescriptionName = {
+			"Crown worn by the Witch of the Deep Sea.",
+			"It looks expensive for some reason.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abysmal Witch's Crown",
+		identifiedResourceName = "Crown_Of_Witch",
+		identifiedDescriptionName = {
+			"Crown worn by the Witch of the Deep Sea.",
+			"It looks expensive for some reason.",
+			"------------------------",
+			"^FF0000It can be used to craft the Illusion of Underwater equipment^000000",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25898] = {
+		unidentifiedDisplayName = "Sirud's Fishing Rod",
+		unidentifiedResourceName = "Siroods_Fish_Rod",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Sirud's Fishing Rod",
+		identifiedResourceName = "Siroods_Fish_Rod",
+		identifiedDescriptionName = {
+			"A fishing rod used by Sirud.",
+			"It remains intact and seems to have a subtle luster.",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25899] = {
+		unidentifiedDisplayName = "Abyssal Essence",
+		unidentifiedResourceName = "E_Abyss1",
+		unidentifiedDescriptionName = {
+			"A lump formed by the condensation of substances in the deep sea.",
+			"There seems to be a mysterious power inherent in it."
+		},
+		identifiedDisplayName = "Abyssal Essence",
+		identifiedResourceName = "E_Abyss1",
+		identifiedDescriptionName = {
+			"A lump formed by the condensation of substances in the deep sea.",
+			"There seems to be a mysterious power inherent in it.",
+			"------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[570008] = {
+		unidentifiedDisplayName = "Instrument",
+		unidentifiedResourceName = "№ЩАМїГё°",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Electric Guitar",
+		identifiedResourceName = "Electronic_Guitar_IL",
+		identifiedDescriptionName = {
+			"Although it looks like a guitar, it uses steel strings and is equipped with an amplifier that changes the vibrations into electrical energy.",
+			"------------------------",
+			"MATK + 180.",
+			"------------------------",
+			"For every 2 refine level, MATK + 6, increase long ranged physical damage by 3%.",
+			"------------------------",
+			"When refined to +7 or higher,",
+			"Increase Neutral property magical damage by 10%.",
+			"Reduce SP consumption of Severe Rainstorm by 10%.",
+			"------------------------",
+			"When refined to +9 or higher, increase Reverberation and Severe Rainstorm damage by 15%.",
+			"------------------------",
+			"When refined to +11 or higher,",
+			"Increase magical damage against Water property monsters by 10%.",
+			"Reduce Severe Rainstorm cooldown by 1 second.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Electric Guitar [2]^000000",
+			"^4D4DFFIllusion Muffler [1]^000000",
+			"          ",
+			"ATK + 30.",
+			"          ",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, increase long ranged physical damage by 5%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Severe Rainstorm damage by 20%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, reduce Severe Rainstorm cooldown by 1 second.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Electric Guitar [2]^000000",
+			"^4D4DFFIllusion Shoes [1]^000000",
+			"          ",
+			"MATK + 40.",
+			"          ",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, increase Neutral property magical damage by 5%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Reverberation damage by 20%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, reduce Fixed Casting Time of Reverberation by 0.5 seconds.",
+			"------------------------",
+			"Type: ^777777Instrument^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777120^000000",
+			"Jobs: ^777777Minstrel Class^000000"
+		},
+		slotCount = 2,
+		ClassNum = 13,
+		costume = false
+	},
+	[580008] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "·ОЗБ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Electric Eel",
+		identifiedResourceName = "Electric_Eel_IL",
+		identifiedDescriptionName = {
+			"A whip made from a creature that emits powerful electrical energy.",
+			"Its slippery texture is really unpleasant.",
+			"------------------------",
+			"MATK + 180.",
+			"------------------------",
+			"For every 2 refine level, MATK + 6, increase long ranged physical damage by 3%.",
+			"------------------------",
+			"When refined to +7 or higher,",
+			"Increase Neutral property magical damage by 10%.",
+			"Reduce SP consumption of Severe Rainstorm by 10%.",
+			"------------------------",
+			"When refined to +9 or higher, increase Reverberation and Severe Rainstorm damage by 15%.",
+			"------------------------",
+			"When refined to +11 or higher,",
+			"Increase magical damage against Water property monsters by 10%.",
+			"Reduce Severe Rainstorm cooldown by 1 second.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Electric Eel [2]^000000",
+			"^4D4DFFIllusion Muffler [1]^000000",
+			"          ",
+			"ATK + 30.",
+			"          ",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, increase long ranged physical damage by 5%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Severe Rainstorm damage by 20%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, reduce Severe Rainstorm cooldown by 1 second.",
+			"------------------------",
+			"^FF0000Set Bonus:^000000",
+			"^4D4DFFIllusion Electric Eel [2]^000000",
+			"^4D4DFFIllusion Shoes [1]^000000",
+			"          ",
+			"MATK + 40.",
+			"          ",
+			"When the ^4D4DFFrefine level of each item in the set is 7 or higher^000000, increase Neutral property magical damage by 5%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 18 or higher^000000, increase Reverberation damage by 20%.",
+			"          ",
+			"When the ^4D4DFFtotal refine level of set is 22 or higher^000000, reduce Fixed Casting Time of Reverberation by 0.5 seconds.",
+			"------------------------",
+			"Type: ^777777Whip^000000",
+			"Attack: ^777777170^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777120^000000",
+			"Jobs: ^777777Wanderer Class^000000"
+		},
+		slotCount = 2,
+		ClassNum = 14,
+		costume = false
+	},
+	[23082] = {
+		unidentifiedDisplayName = "Kunai Scroll of Icicle",
+		unidentifiedResourceName = "ДніЄАМјТИЇј­_јц",
+		unidentifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Icicle Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Kunai Scroll of Icicle",
+		identifiedResourceName = "ДніЄАМјТИЇј­_јц",
+		identifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Icicle Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23083] = {
+		unidentifiedDisplayName = "Kunai Scroll of Wind",
+		unidentifiedResourceName = "ДніЄАМјТИЇј­_Зі",
+		unidentifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 High Wind Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Kunai Scroll of Wind",
+		identifiedResourceName = "ДніЄАМјТИЇј­_Зі",
+		identifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 High Wind Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23084] = {
+		unidentifiedDisplayName = "Kunai Scroll of Earth",
+		unidentifiedResourceName = "ДніЄАМјТИЇј­_Ед",
+		unidentifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Black Earth Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Kunai Scroll of Earth",
+		identifiedResourceName = "ДніЄАМјТИЇј­_Ед",
+		identifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Black Earth Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23085] = {
+		unidentifiedDisplayName = "Kunai Scroll of Poison",
+		unidentifiedResourceName = "ДніЄАМјТИЇј­_µ¶",
+		unidentifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Fell Poison Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Kunai Scroll of Poison",
+		identifiedResourceName = "ДніЄАМјТИЇј­_µ¶",
+		identifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Fell Poison Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23081] = {
+		unidentifiedDisplayName = "Kunai Scroll of Heat Wave Kunai",
+		unidentifiedResourceName = "ДніЄАМјТИЇј­_И­",
+		unidentifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Heat Wave Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Kunai Scroll of Heat Wave Kunai",
+		identifiedResourceName = "ДніЄАМјТИЇј­_И­",
+		identifiedDescriptionName = {
+			"^FF0000If the number of scrolls in your inventory exceeds over 30 000, it can be lost.^000000",
+			"^777777-------------^000000",
+			"Creates 500 Heat Wave Kunai.",
+			"^777777-------------^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23280] = {
+		unidentifiedDisplayName = "Novice Fly Wings",
+		unidentifiedResourceName = "ЖДё®АЗіЇ°і",
+		unidentifiedDescriptionName = {
+			"Enchanted wings, detached from flying creatures for your convenience. ^000088Use to warp to a random location on the map.^000000",
+			"^777777-------------^000000",
+			"Max LVL: ^77777798^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Novice Fly Wings",
+		identifiedResourceName = "ЖДё®АЗіЇ°і",
+		identifiedDescriptionName = {
+			"Enchanted wings, detached from flying creatures for your convenience. ^000088Use to warp to a random location on the map.^000000",
+			"^777777-------------^000000",
+			"Max LVL: ^77777798^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23288] = {
+		unidentifiedDisplayName = "Zipped Fly Wings",
+		unidentifiedResourceName = "ЖДё®АЗіЇ°і",
+		unidentifiedDescriptionName = {
+			"Enchanted wings, detached from flying creatures for your convenience. ^000088Use to warp to a random location on the map.^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Zipped Fly Wings",
+		identifiedResourceName = "ЖДё®АЗіЇ°і",
+		identifiedDescriptionName = {
+			"Enchanted wings, detached from flying creatures for your convenience. ^000088Use to warp to a random location on the map.^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13200] = {
+		unidentifiedDisplayName = "Bullet",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"A small metal bullet.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777725^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Bullet",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"A small metal bullet.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777725^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13215] = {
+		unidentifiedDisplayName = "Armor-Piercing Bullet",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"This projectile can pierce even the thickest armor.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Armor-Piercing Bullet",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"This projectile can pierce even the thickest armor.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13216] = {
+		unidentifiedDisplayName = "Flare Bullet",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Fire property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Flare Bullet",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Fire property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13217] = {
+		unidentifiedDisplayName = "Ice Bullet",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Water property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Ice Bullet",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Water property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13218] = {
+		unidentifiedDisplayName = "Lightning Bullet",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Wind property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Lightning Bullet",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Wind property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13219] = {
+		unidentifiedDisplayName = "Magic Stone Bullet",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Earth property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Earth^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Magic Stone Bullet",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Earth property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Earth^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13220] = {
+		unidentifiedDisplayName = "Purifying Bullet",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"A small silver bullet imbued with the Holy property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Purifying Bullet",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A small silver bullet imbued with the Holy property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13221] = {
+		unidentifiedDisplayName = "Silver Bullet",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"A small silver bullet imbued with the Holy property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777715^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		identifiedDisplayName = "Silver Bullet",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A small silver bullet imbued with the Holy property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777715^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13222] = {
+		unidentifiedDisplayName = "Bloody Bullet",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"A blood-red bullet.",
+			"With a certain chance applies Bleeding when dealing Physical Damage.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Bloody Bullet",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A blood-red bullet.",
+			"With a certain chance applies Bleeding when dealing Physical Damage.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13228] = {
+		unidentifiedDisplayName = "Blazing Bullet",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Fire property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000"
+		},
+		identifiedDisplayName = "Blazing Bullet",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Fire property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13229] = {
+		unidentifiedDisplayName = "Wind Bullet",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Wind property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000"
+		},
+		identifiedDisplayName = "Wind Bullet",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Wind property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13230] = {
+		unidentifiedDisplayName = "Ice Bullet",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Water property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		identifiedDisplayName = "Ice Bullet",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Water property.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13231] = {
+		unidentifiedDisplayName = "Poison Bullet",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Poison property.",
+			"Poisons the enemy with a certain chance.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		identifiedDisplayName = "Poison Bullet",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Poison property.",
+			"Poisons the enemy with a certain chance.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13232] = {
+		unidentifiedDisplayName = "Blinding Bullet",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"A metal bullet imbued with the Shadow property.",
+			"Blinds the enemy with a certain chance when dealing long-range Physical Damage.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Shadow^000000"
+		},
+		identifiedDisplayName = "Blinding Bullet",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"A metal bullet imbued with the Shadow property.",
+			"Blinds the enemy with a certain chance when dealing long-range Physical Damage.",
+			"Class: ^777777Ammo^000000",
+			"Attack: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Shadow^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1750] = {
+		unidentifiedDisplayName = "Arrow",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"A regular arrow.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777725^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Arrow",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"A regular arrow.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777725^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1751] = {
+		unidentifiedDisplayName = "Silver Arrow",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An arrow with a silver arrowhead. Imbued with the Holy property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		identifiedDisplayName = "Silver Arrow",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"An arrow with a silver arrowhead. Imbued with the Holy property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1752] = {
+		unidentifiedDisplayName = "Fire Arrow",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An arrow with a flaming arrowhead. Imbued with the Fire property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000"
+		},
+		identifiedDisplayName = "Fire Arrow",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"An arrow with a flaming arrowhead. Imbued with the Fire property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1753] = {
+		unidentifiedDisplayName = "Steel Arrow",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"An arrow made of steel. More powerful than regular arrows.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Steel Arrow",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"An arrow made of steel. More powerful than regular arrows.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1754] = {
+		unidentifiedDisplayName = "Crystal Arrow",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"An arrow made of blue crystal. Imbued with the Water property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		identifiedDisplayName = "Crystal Arrow",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"An arrow made of blue crystal. Imbued with the Water property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1755] = {
+		unidentifiedDisplayName = "Wind Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Wind Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A magic arrow imbued with the Wind property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1756] = {
+		unidentifiedDisplayName = "Stone Arrow",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"An arrow with a stone arrowhead. Imbued with the Earth property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Earth^000000"
+		},
+		identifiedDisplayName = "Stone Arrow",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"An arrow with a stone arrowhead. Imbued with the Earth property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Earth^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1757] = {
+		unidentifiedDisplayName = "Immaterial Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"A glowing spectral arrow. It might look tricky to shoot, but in capable hands it can be a devastating weapon.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Ghost^000000"
+		},
+		identifiedDisplayName = "Immaterial Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A glowing spectral arrow. It might look tricky to shoot, but in capable hands it can be a devastating weapon.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Ghost^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1758] = {
+		unidentifiedDisplayName = "Stun Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"A very heavy arrow. Has a small chance of stunning the enemy.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Stun Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A very heavy arrow. Has a small chance of stunning the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1759] = {
+		unidentifiedDisplayName = "Frozen Arrow",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"An arrow made of ice. Has a small chance of freezing the enemy.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		identifiedDisplayName = "Frozen Arrow",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"An arrow made of ice. Has a small chance of freezing the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1760] = {
+		unidentifiedDisplayName = "Flash Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An arrow that releases a bright flash of light on contact with the target. Has a small chance of blinding the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Flash Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An arrow that releases a bright flash of light on contact with the target. Has a small chance of blinding the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1761] = {
+		unidentifiedDisplayName = "Cursed Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An arrow carrying a curse. Has a small chance of putting the curse on the enemy.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Cursed Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An arrow carrying a curse. Has a small chance of putting the curse on the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1762] = {
+		unidentifiedDisplayName = "Rusty Arrow",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"An old arrow covered in rust.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		identifiedDisplayName = "Rusty Arrow",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"An old arrow covered in rust.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1763] = {
+		unidentifiedDisplayName = "Poison Arrow",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"An arrow with a poisoned arrowhead. Has a small chance of poisoning the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		identifiedDisplayName = "Poison Arrow",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"An arrow with a poisoned arrowhead. Has a small chance of poisoning the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1764] = {
+		unidentifiedDisplayName = "Sharp Arrow",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"An arrow with a sharp serrated arrowhead. Increases Critical Rate. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777710^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Sharp Arrow",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"An arrow with a sharp serrated arrowhead. Increases Critical Rate. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777710^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1765] = {
+		unidentifiedDisplayName = "Oridecon Arrow",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"A very powerful arrow made of Oridecon.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Oridecon Arrow",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A very powerful arrow made of Oridecon.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1767] = {
+		unidentifiedDisplayName = "Shadow Arrow",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"An arrow imbued with the Shadow property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Shadow^000000"
+		},
+		identifiedDisplayName = "Shadow Arrow",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"An arrow imbued with the Shadow property.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Shadow^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1768] = {
+		unidentifiedDisplayName = "Sleep Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An arrow that puts the target to sleep. Has a small chance to cast Sleep on the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Sleep Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An arrow that puts the target to sleep. Has a small chance to cast Sleep on the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1769] = {
+		unidentifiedDisplayName = "Mute Arrow",
+		unidentifiedResourceName = "???????",
+		unidentifiedDescriptionName = {
+			"An arrow with an arrowhead that has been dipped into poison that makes the target unable to speak. Has a small chance of silencing the enemy.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Mute Arrow",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"An arrow with an arrowhead that has been dipped into poison that makes the target unable to speak. Has a small chance of silencing the enemy. ",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^7777771^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1770] = {
+		unidentifiedDisplayName = "Iron Arrow",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An arrow made of iron. Deals more damage than a regular arrow.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Iron Arrow",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"An arrow made of iron. Deals more damage than a regular arrow.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1772] = {
+		unidentifiedDisplayName = "Holy Arrow",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"A metal arrow sprayed with holy water.",
+			"Damage against Demon race monsters +5%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		identifiedDisplayName = "Holy Arrow",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A metal arrow sprayed with holy water.",
+			"Damage against Demon race monsters +5%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1773] = {
+		unidentifiedDisplayName = "Elven Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"One of the arrows used by the ancient elves while protecting their forest. When used with Elven Bow, long-ranged damage +50%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777745^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		identifiedDisplayName = "Elven Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"One of the arrows used by the ancient elves while protecting their forest. When used with Elven Bow, long-ranged damage +50%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777745^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1774] = {
+		unidentifiedDisplayName = "Hunting Arrow",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An arrow used in big-game hunting. When used with Hunter Bow, long-ranged damage +50%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777735^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Hunting Arrow",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An arrow used in big-game hunting. When used with Hunter Bow, long-ranged damage +50%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777735^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1775] = {
+		unidentifiedDisplayName = "Siege Arrow S",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"An arrow made specifically for use in sieges.",
+			"Properties available only in PvP / WoE zones.",
+			"When used with Bellum Crossbow, long-ranged damage +70%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777745^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^77777795^000000"
+		},
+		identifiedDisplayName = "Siege Arrow S",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"An arrow made specifically for use in sieges.",
+			"Properties available only in PvP / WoE zones.",
+			"When used with Bellum Crossbow, long-ranged damage +70%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777745^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^77777795^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1776] = {
+		unidentifiedDisplayName = "Siege Arrow A",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An arrow made specifically for use in sieges.",
+			"Properties available only in PvP / WoE zones.",
+			"When used with Bellum Crossbow, long-ranged damage +40%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^77777795^000000"
+		},
+		identifiedDisplayName = "Siege Arrow A",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"An arrow made specifically for use in sieges.",
+			"Properties available only in PvP / WoE zones.",
+			"When used with Bellum Crossbow, long-ranged damage +40%.",
+			"Class: ^777777Arrow^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Level Restriction: ^77777795^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18000] = {
+		unidentifiedDisplayName = "Cannon Ball",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777100^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Cannon Ball",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777100^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18001] = {
+		unidentifiedDisplayName = "Holy Cannon Ball",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		identifiedDisplayName = "Holy Cannon Ball",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Holy^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18002] = {
+		unidentifiedDisplayName = "Dark Cannon Ball",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Shadow^000000"
+		},
+		identifiedDisplayName = "Dark Cannon Ball",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Shadow^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18003] = {
+		unidentifiedDisplayName = "Soul Cannon Ball",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Ghost^000000"
+		},
+		identifiedDisplayName = "Soul Cannon Ball",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777120^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Ghost^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18004] = {
+		unidentifiedDisplayName = "Iron Cannon Ball",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777250^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Iron Cannon Ball",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Ammo for Madogear's Arm Cannon skill.",
+			"Class: ^777777Cannonball^000000",
+			"Attack: ^777777250^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[715] = {
+		unidentifiedDisplayName = "Yellow Gemstone",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Yellow Gemstone",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[716] = {
+		unidentifiedDisplayName = "Red Gemstone",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Red Gemstone",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[717] = {
+		unidentifiedDisplayName = "Blue Gemstone",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Blue Gemstone",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An enchanted crystal that is used in conjunction with certain magic spells. Once used, it becomes powerless and is destroyed.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1065] = {
+		unidentifiedDisplayName = "Trap",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An item required for Trap related skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.2^000000"
+		},
+		identifiedDisplayName = "Trap",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"An item required for Trap related skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.2^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6145] = {
+		unidentifiedDisplayName = "Vulcan Bullet",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Ammo for Mechanic's skills.", "^ffffff_^000000", "Weight: ^7777770.1^000000" },
+		identifiedDisplayName = "Vulcan Bullet",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Ammo for Mechanic's skills.", "^ffffff_^000000", "Weight: ^7777770.1^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6146] = {
+		unidentifiedDisplayName = "Magic Gear Fuel",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Fuel that is required to perform most Madogear skills. The stronger the skill, the more fuel it consumes.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Magic Gear Fuel",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Fuel that is required to perform most Madogear skills. The stronger the skill, the more fuel it consumes.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6147] = {
+		unidentifiedDisplayName = "Liquid Ice Bullet",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = { "A bolt of cold.", "^ffffff_^000000", "Weight: ^7777770.1^000000" },
+		identifiedDisplayName = "Liquid Ice Bullet",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = { "A bolt of cold.", "^ffffff_^000000", "Weight: ^7777770.1^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6512] = {
+		unidentifiedDisplayName = "Charm Fire",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Charm Fire",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6513] = {
+		unidentifiedDisplayName = "Charm Ice",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Charm Ice",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6514] = {
+		unidentifiedDisplayName = "Charm Wind",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Charm Wind",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6515] = {
+		unidentifiedDisplayName = "Charm Earth",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Charm Earth",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Charms protect Ninjas from attacks. Experienced Ninjas can use them to perform different skills.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7521] = {
+		unidentifiedDisplayName = "Flame Stone",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A stone imbued with the Fire property. Used by Ninjas to perform some of their skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Flame Stone",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A stone imbued with the Fire property. Used by Ninjas to perform some of their skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7522] = {
+		unidentifiedDisplayName = "Ice Stone",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A stone imbued with the Water property. Used by Ninjas to perform some of their skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Ice Stone",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A stone imbued with the Water property. Used by Ninjas to perform some of their skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7523] = {
+		unidentifiedDisplayName = "Wind Stone",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A stone imbued with the Wind property. Used by Ninjas to perform some of their skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Wind Stone",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A stone imbued with the Wind property. Used by Ninjas to perform some of their skills.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7524] = {
+		unidentifiedDisplayName = "Shadow Orb",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"A stone that allows Ninjas to perform their latent abilities.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Shadow Orb",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"A stone that allows Ninjas to perform their latent abilities.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7663] = {
+		unidentifiedDisplayName = "Full Metal Jacket",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"A bullet encased in a hard metal shell. ",
+			"Boasts a very high destructive potential. Only for Rebellion skills.",
+			"Consumed automatically when the Mass Spiral (Absolute Penetration) skill is activated.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Full Metal Jacket",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A bullet encased in a hard metal shell. ",
+			"Boasts a very high destructive potential. Only for Rebellion skills.",
+			"Consumed automatically when the Mass Spiral (Absolute Penetration) skill is activated.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7664] = {
+		unidentifiedDisplayName = "Artillery Grenade",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Ammo for grenade launchers. Only for Rebellion skills.",
+			"Consumed automatically when the Howling Mine (Destructive Cry) skill is activated.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Artillery Grenade",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Ammo for grenade launchers. Only for Rebellion skills.",
+			"Consumed automatically when the Howling Mine (Destructive Cry) skill is activated.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7665] = {
+		unidentifiedDisplayName = "Dragon Tail Missile",
+		unidentifiedResourceName = "????????",
+		unidentifiedDescriptionName = {
+			"A special type of grenade launcher ammunition nicknamed 'Dragon Tail'. ",
+			"Follows a predetermined target. Only for Rebellion skills.",
+			"Consumed automatically when the Dragon Tail skill is activated.",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Dragon Tail Missile",
+		identifiedResourceName = "????????",
+		identifiedDescriptionName = {
+			"A special type of grenade launcher ammunition nicknamed 'Dragon Tail'. ",
+			"Follows a predetermined target. Only for Rebellion skills.",
+			"Consumed automatically when the Dragon Tail skill is activated.",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[7940] = {
+		unidentifiedDisplayName = "Special Alloy Trap",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"A light and sturdy trap for hunters that like to travel unencumbered.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Special Alloy Trap",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"A light and sturdy trap for hunters that like to travel unencumbered.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25187] = {
+		unidentifiedDisplayName = "Slug Bullet",
+		unidentifiedResourceName = "????_5",
+		unidentifiedDescriptionName = {
+			"A heavy bullet with impressive destructive capabilities. ",
+			"The accuracy leaves a lot to be desired, though. Still, it's the best bullet for the Slug Shot (Fundamental Destruction) skill! Only for Rebellion skills.",
+			"Consumed automatically when the Slug Shot (Fundamental Destruction) skill is activated.",
+			"Weight: ^777777120^000000"
+		},
+		identifiedDisplayName = "Slug Bullet",
+		identifiedResourceName = "????_5",
+		identifiedDescriptionName = {
+			"A heavy bullet with impressive destructive capabilities. ",
+			"The accuracy leaves a lot to be desired, though. Still, it's the best bullet for the Slug Shot (Fundamental Destruction) skill! Only for Rebellion skills.",
+			"Consumed automatically when the Slug Shot (Fundamental Destruction) skill is activated.",
+			"Weight: ^777777120^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12004] = {
+		unidentifiedDisplayName = "Quiver",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "A quiver with 500 regular arrows.", "^ffffff_^000000", "Weight: ^77777725^000000" },
+		identifiedDisplayName = "Quiver",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 regular arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12005] = {
+		unidentifiedDisplayName = "Iron Arrow Quiver",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "A quiver with 500 Iron Arrows.", "^ffffff_^000000", "Weight: ^77777725^000000" },
+		identifiedDisplayName = "Iron Arrow Quiver",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Iron Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12006] = {
+		unidentifiedDisplayName = "Steel Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Steel Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Steel Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Steel Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12007] = {
+		unidentifiedDisplayName = "Oridecon Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Oridecon Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Oridecon Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Oridecon Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12008] = {
+		unidentifiedDisplayName = "Fire Arrow Quiver",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Fire Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Fire Arrow Quiver",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Fire Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12009] = {
+		unidentifiedDisplayName = "Silver Arrow Quiver",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Silver Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Silver Arrow Quiver",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Silver Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12010] = {
+		unidentifiedDisplayName = "Wind Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Wind Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Wind Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Wind Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12011] = {
+		unidentifiedDisplayName = "Stone Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Stone Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Stone Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Stone Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12012] = {
+		unidentifiedDisplayName = "Crystal Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Crystal Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Crystal Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Crystal Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12013] = {
+		unidentifiedDisplayName = "Shadow Arrow Quiver",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Shadow Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Shadow Arrow Quiver",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Shadow Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12014] = {
+		unidentifiedDisplayName = "Immaterial Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Immaterial Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Immaterial Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Immaterial Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12015] = {
+		unidentifiedDisplayName = "Rusty Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Rusty Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Rusty Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"A quiver with 500 Rusty Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12149] = {
+		unidentifiedDisplayName = "Cartridge",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Cartridge",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12150] = {
+		unidentifiedDisplayName = "Blood Cartridge",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Bloody Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Blood Cartridge",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Bloody Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12151] = {
+		unidentifiedDisplayName = "Silver Cartridge",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Silver Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Silver Cartridge",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Silver Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12183] = {
+		unidentifiedDisplayName = "Holy Arrow Quiver",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Holy Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Holy Arrow Quiver",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Holy Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12341] = {
+		unidentifiedDisplayName = "Special Alloy Trap Box",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Contains 500 Special Alloy Traps.", "^ffffff_^000000", "Weight: ^77777710^000000" },
+		identifiedDisplayName = "Special Alloy Trap Box",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = { "Contains 500 Special Alloy Traps.", "^ffffff_^000000", "Weight: ^77777710^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12383] = {
+		unidentifiedDisplayName = "Vulcan Bullet Magazine",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"Contains 1,000 Vulcan Bullets. ",
+			"^ffffff_^000000",
+			"Weight: ^77777750^000000"
+		},
+		identifiedDisplayName = "Vulcan Bullet Magazine",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"Contains 1,000 Vulcan Bullets. ",
+			"^ffffff_^000000",
+			"Weight: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12392] = {
+		unidentifiedDisplayName = "Repair A",
+		unidentifiedResourceName = "???A",
+		unidentifiedDescriptionName = { "Restores a set amount of Madogear's HP.", "Weight: ^7777770.1^000000" },
+		identifiedDisplayName = "Repair A",
+		identifiedResourceName = "???A",
+		identifiedDescriptionName = { "Restores a set amount of Madogear's HP.", "Weight: ^7777770.1^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12393] = {
+		unidentifiedDisplayName = "Repair B",
+		unidentifiedResourceName = "???B",
+		unidentifiedDescriptionName = { "Restores a significant amount of Madogear's HP.", "Weight: ^7777770.1^000000" },
+		identifiedDisplayName = "Repair B",
+		identifiedResourceName = "???B",
+		identifiedDescriptionName = { "Restores a significant amount of Madogear's HP.", "Weight: ^7777770.1^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12394] = {
+		unidentifiedDisplayName = "Repair C",
+		unidentifiedResourceName = "???C",
+		unidentifiedDescriptionName = { "Restores a large amount of Madogear's HP.", "Weight: ^7777770.1^000000" },
+		identifiedDisplayName = "Repair C",
+		identifiedResourceName = "???C",
+		identifiedDescriptionName = { "Restores a large amount of Madogear's HP.", "Weight: ^7777770.1^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12575] = {
+		unidentifiedDisplayName = "Elven Arrow Quiver",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Elven Arrows.",
+			"Weight: ^77777725^000000",
+			"Required Level: ^777777100^000000"
+		},
+		identifiedDisplayName = "Elven Arrow Quiver",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Elven Arrows.",
+			"Weight: ^77777725^000000",
+			"Required Level: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12576] = {
+		unidentifiedDisplayName = "Hunting Arrow Quiver ",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Hunting Arrows.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Hunting Arrow Quiver ",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Hunting Arrows.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12677] = {
+		unidentifiedDisplayName = "WoE Arrow Quiver S",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Siege Arrows S.",
+			"Level Restriction: ^777777130^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "WoE Arrow Quiver S",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Siege Arrows S.",
+			"Level Restriction: ^777777130^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12678] = {
+		unidentifiedDisplayName = "WoE Arrow Quiver A",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Siege Arrows A.",
+			"Level Restriction: ^77777795^000000",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "WoE Arrow Quiver A",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Siege Arrows A.",
+			"Level Restriction: ^77777795^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22738] = {
+		unidentifiedDisplayName = "Silver Cartridge",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Silver Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Silver Cartridge",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Silver Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22744] = {
+		unidentifiedDisplayName = "Ammo AP Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Armor-Piercing Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ammo AP Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Armor-Piercing Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22745] = {
+		unidentifiedDisplayName = "Ammo Blazing Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Blazing Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ammo Blazing Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Blazing Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22746] = {
+		unidentifiedDisplayName = "Ammo Freezing Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Freezing Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ammo Freezing Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Freezing Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22747] = {
+		unidentifiedDisplayName = "Ammo Lightning Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Lightning Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ammo Lightning Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Lightning Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22748] = {
+		unidentifiedDisplayName = "Ammo Magic Stone Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Magic Stone Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ammo Magic Stone Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Magic Stone Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22749] = {
+		unidentifiedDisplayName = "Ammo Purifying Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Purifying Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ammo Purifying Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Purifying Bullets.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23061] = {
+		unidentifiedDisplayName = "Sharp Arrow Quiver",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"Contains 500 Sharp Arrows.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Sharp Arrow Quiver",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"Contains 500 Sharp Arrows.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23123] = {
+		unidentifiedDisplayName = "Flare Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Flare Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Flare Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Flare Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23124] = {
+		unidentifiedDisplayName = "Wind Bullet Case",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Wind Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Wind Bullet Case",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Wind Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23125] = {
+		unidentifiedDisplayName = "Ice Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Ice Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ice Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Ice Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23126] = {
+		unidentifiedDisplayName = "Poison Bullet Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Poison Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Poison Bullet Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Poison Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23127] = {
+		unidentifiedDisplayName = "Blinding Bullet Case",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Blinding Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Blinding Bullet Case",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Blinding Bullets.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23711] = {
+		unidentifiedDisplayName = "Trap Pack",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Traps. ",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Trap Pack",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Traps. ",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100171] = {
+		unidentifiedDisplayName = "Cannon Ball Pack",
+		unidentifiedResourceName = "????_?",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Cannon Balls.",
+			"^ffffff_^000000 ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Cannon Ball Pack",
+		identifiedResourceName = "????_?",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Cannon Balls.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100172] = {
+		unidentifiedDisplayName = "Iron Cannon Ball Pack",
+		unidentifiedResourceName = "????_?",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Iron Cannon Balls.",
+			"^ffffff_^000000 ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Iron Cannon Ball Pack",
+		identifiedResourceName = "????_?",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Iron Cannon Balls.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100173] = {
+		unidentifiedDisplayName = "Soul Cannon Ball Pack",
+		unidentifiedResourceName = "????_?",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Soul Cannon Balls.",
+			"^ffffff_^000000 ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Soul Cannon Ball Pack",
+		identifiedResourceName = "????_?",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Soul Cannon Balls.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100174] = {
+		unidentifiedDisplayName = "Poison Arrow Quiver",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Poison Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Poison Arrow Quiver",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Contains 500 Poison Arrows.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100176] = {
+		unidentifiedDisplayName = "Dark Cannon Ball Pack",
+		unidentifiedResourceName = "????_?",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Dark Cannon Balls. ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Dark Cannon Ball Pack",
+		identifiedResourceName = "????_?",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Dark Cannon Balls. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100177] = {
+		unidentifiedDisplayName = "Holy Cannon Ball Pack",
+		unidentifiedResourceName = "????_?",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Holy Cannon Balls. ",
+			"",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Holy Cannon Ball Pack",
+		identifiedResourceName = "????_?",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Holy Cannon Balls. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100178] = {
+		unidentifiedDisplayName = "Liquid Ice Bullet Case",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Liquid Ice Bullets. ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Liquid Ice Bullet Case",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Liquid Ice Bullets. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100179] = {
+		unidentifiedDisplayName = "Large Canister of Magic Gear Fuel",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Magic Gear Fuel. ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Large Canister of Magic Gear Fuel",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Magic Gear Fuel. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100180] = {
+		unidentifiedDisplayName = "Repair Kit A",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Repair A. ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Repair Kit A",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Repair A. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100181] = {
+		unidentifiedDisplayName = "Repair Kit B",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Repair B. ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Repair Kit B",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Repair B. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100182] = {
+		unidentifiedDisplayName = "Repair Kit C",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Repair C. ",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Repair Kit C",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 units of Repair C. ",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100183] = {
+		unidentifiedDisplayName = "Flame Stone Set",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Flame Stones.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Flame Stone Set",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Flame Stones.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100184] = {
+		unidentifiedDisplayName = "Ice Stone Set",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Ice Stones.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Ice Stone Set",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Ice Stones.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100185] = {
+		unidentifiedDisplayName = "Wind Stone Set",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Wind Stones.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Wind Stone Set",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Wind Stones.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100186] = {
+		unidentifiedDisplayName = "Shadow Orb Set",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Shadow Orbs.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Shadow Orb Set",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Shadow Orbs.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100187] = {
+		unidentifiedDisplayName = "Charm Fire Set",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Fire.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Charm Fire Set",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Fire.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100188] = {
+		unidentifiedDisplayName = "Charm Ice Set",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Ice.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Charm Ice Set",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Ice.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100189] = {
+		unidentifiedDisplayName = "Charm Wind Set",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Wind.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Charm Wind Set",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Wind.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100190] = {
+		unidentifiedDisplayName = "Charm Earth Set",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Earth.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Charm Earth Set",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Charms Earth.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100191] = {
+		unidentifiedDisplayName = "Explosive Kunai Scroll",
+		unidentifiedResourceName = "??????_?",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Lets you summon 500 Explosive Kunai.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Explosive Kunai Scroll",
+		identifiedResourceName = "??????_?",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000",
+			"^ffffff_^000000",
+			"Lets you summon 500 Explosive Kunai.",
+			"^ffffff_^000000",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100192] = {
+		unidentifiedDisplayName = "Blue Gemstone Bag",
+		unidentifiedResourceName = "Gemstone_Blue",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Blue Gemstones.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Blue Gemstone Bag",
+		identifiedResourceName = "Gemstone_Blue",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Blue Gemstones.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100193] = {
+		unidentifiedDisplayName = "Yellow Gemstone Bag",
+		unidentifiedResourceName = "Gemstone_YL",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Yellow Gemstones.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Yellow Gemstone Bag",
+		identifiedResourceName = "Gemstone_YL",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Yellow Gemstones.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100194] = {
+		unidentifiedDisplayName = "Red Gemstone Bag",
+		unidentifiedResourceName = "Gemstone_Red",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Red Gemstones.",
+			"Weight: ^77777725^000000"
+		},
+		identifiedDisplayName = "Red Gemstone Bag",
+		identifiedResourceName = "Gemstone_Red",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Red Gemstones.",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100195] = {
+		unidentifiedDisplayName = "Full Metal Jacket Case",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000",
+			"Contains 500 Full Metal Jacket Bullets.",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Full Metal Jacket Case",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Full Metal Jacket Bullets. ",
+			"^ffffff_^000000 ",
+			"",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100196] = {
+		unidentifiedDisplayName = "Artillery Grenade Pack",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000",
+			"Contains 500 Artillery Grenades. ",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Artillery Grenade Pack",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Artillery Grenades. ",
+			"^ffffff_^000000 ",
+			"",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100197] = {
+		unidentifiedDisplayName = "Dragon Tail Missile Pack",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000",
+			"Contains 500 Dragon Tail Missiles. ",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Dragon Tail Missile Pack",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"^ff0000Warning! You can have no more than 30,000 projectiles of one type in your inventory. When this limit is reached, all excess projectiles are discarded.^000000 ",
+			"^ffffff_^000000 ",
+			"Contains 500 Dragon Tail Missiles. ",
+			"^ffffff_^000000 ",
+			"",
+			"Weight: ^77777725^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13250] = {
+		unidentifiedDisplayName = "Shuriken",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"A bladed throwing weapon that is small enough to be hidden in your palm.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777710^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Shuriken",
+		identifiedResourceName = "???",
+		identifiedDescriptionName = {
+			"A bladed throwing weapon that is small enough to be hidden in your palm.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777710^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13251] = {
+		unidentifiedDisplayName = "Nimbus Shuriken",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"According to an old legend, this shuriken deals more damage when it's raining.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Required Level: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Nimbus Shuriken",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"According to an old legend, this shuriken deals more damage when it's raining.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Required Level: ^77777720^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13252] = {
+		unidentifiedDisplayName = "Flash Shuriken",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"A shuriken that travels at the speed of light.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777745^000000",
+			"Required Level: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Flash Shuriken",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"A shuriken that travels at the speed of light.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777745^000000",
+			"Required Level: ^77777740^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13253] = {
+		unidentifiedDisplayName = "Sharp Leaf Shuriken",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"A well-sharpened shuriken with thin leaflike blades.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777770^000000",
+			"Required Level: ^77777760^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Sharp Leaf Shuriken",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"A well-sharpened shuriken with thin leaflike blades.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777770^000000",
+			"Required Level: ^77777760^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13254] = {
+		unidentifiedDisplayName = "Thorn Needle Shuriken",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"An intimidating shuriken with curved blades that is very difficult to extract from a wound.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^777777100^000000",
+			"Required Level: ^77777780^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		identifiedDisplayName = "Thorn Needle Shuriken",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"An intimidating shuriken with curved blades that is very difficult to extract from a wound.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^777777100^000000",
+			"Required Level: ^77777780^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13255] = {
+		unidentifiedDisplayName = "Icicle Kunai",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"A kunai made out of ice.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		identifiedDisplayName = "Icicle Kunai",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"A kunai made out of ice.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Water^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13256] = {
+		unidentifiedDisplayName = "Black Earth Kunai",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"A kunai that deals damage with the Earth property.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Earth^000000"
+		},
+		identifiedDisplayName = "Black Earth Kunai",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"A kunai that deals damage with the Earth property.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Earth^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13257] = {
+		unidentifiedDisplayName = "High Wind Kunai",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"An elegant kunai sharpened by powerful winds. A lot sharper than other kunai.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000"
+		},
+		identifiedDisplayName = "High Wind Kunai",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"An elegant kunai sharpened by powerful winds. A lot sharper than other kunai.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Wind^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13258] = {
+		unidentifiedDisplayName = "Heat Wave Kunai",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"A kunai imbued with the Fire property. Handle very carefully.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000"
+		},
+		identifiedDisplayName = "Heat Wave Kunai",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"A kunai imbued with the Fire property. Handle very carefully.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Fire^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13259] = {
+		unidentifiedDisplayName = "Fell Poison Kunai",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"The blade of this kunai is coated with deadly poison. A perfect weapon for Rebels and Assassins.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		identifiedDisplayName = "Fell Poison Kunai",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"The blade of this kunai is coated with deadly poison. A perfect weapon for Rebels and Assassins.",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777730^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Poison^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[13294] = {
+		unidentifiedDisplayName = "Explosive Kunai",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"The handle of this kunai is filled with gunpowder. Handle it very carefully!",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Required Level: ^777777100^000000"
+		},
+		identifiedDisplayName = "Explosive Kunai",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"The handle of this kunai is filled with gunpowder. Handle it very carefully!",
+			"Class: ^777777Throwing weapon^000000",
+			"Attack: ^77777750^000000",
+			"Weight: ^7777770.1^000000",
+			"Property: ^777777Neutral^000000",
+			"Required Level: ^777777100^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12725] = {
+		unidentifiedDisplayName = "Nosiege Runestone",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"With the help of runestone energy, you can eliminate most negative effects and debuffs. ",
+			"Removes debuffs for 60 sec.",
+			"Restores 25% of HP additionally.",
+			"[Removes the following effects]",
+			"Stun / Sleep / Curse / Blind / Stone / Poison / Petrification / Silence / Bleeding / Confusion / Deep Sleep / Burning / Freezing / Frozen",
+			"- Guillotine Cross' poisoning effects ",
+			"- Marsh Of Abyss effect",
+			"- Mandragora Howl effect",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Nosiege Runestone",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"With the help of runestone energy, you can eliminate most negative effects and debuffs. ",
+			"Removes debuffs for 60 sec.",
+			"Restores 25% of HP additionally.",
+			"[Removes the following effects]",
+			"Stun / Sleep / Curse / Blind / Stone / Poison / Petrification / Silence / Bleeding / Confusion / Deep Sleep / Burning / Freezing / Frozen",
+			"- Guillotine Cross' poisoning effects ",
+			"- Marsh Of Abyss effect",
+			"- Mandragora Howl effect",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12726] = {
+		unidentifiedDisplayName = "Rhydo Runestone",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"By infusing your weapon with the energy of this runestone, you will significantly increase the power of your physical attacks in close combat. ",
+			"20% chance that equipped weapon will be destroyed after the skill activation. ",
+			"Effect is disabled if player doesn't attack for 30 sec, or equipment is changed or unequipped.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Rhydo Runestone",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"By infusing your weapon with the energy of this runestone, you will significantly increase the power of your physical attacks in close combat. ",
+			"20% chance that equipped weapon will be destroyed after the skill activation. ",
+			"Effect is disabled if player doesn't attack for 30 sec, or equipment is changed or unequipped.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12727] = {
+		unidentifiedDisplayName = "Verkana Runestone",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"Summons 2-4 magical shields that defend against any damage. ",
+			"Each shield has the same DEF/MDEF as the caster, and its health bar is 1000 HP. ",
+			"If the damage exceeds the shield's HP, the shield disappears, but the remaining damage does not carry over to the next shield.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Verkana Runestone",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"Summons 2-4 magical shields that defend against any damage. ",
+			"Each shield has the same DEF/MDEF as the caster, and its health bar is 1000 HP. ",
+			"If the damage exceeds the shield's HP, the shield disappears, but the remaining damage does not carry over to the next shield.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12728] = {
+		unidentifiedDisplayName = "Isia Runestone",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"By improving your regenerative abilities with a runestone, you can increase the effectiveness of HP-restoring items and skills by 1.5 times. ",
+			"Additionally, the amount of reflected physical damage the character receives in melee combat is reduced by 50%. ",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Isia Runestone",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"By improving your regenerative abilities with a runestone, you can increase the effectiveness of HP-restoring items and skills by 1.5 times. ",
+			"Additionally, the amount of reflected physical damage the character receives in melee combat is reduced by 50%. ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12729] = {
+		unidentifiedDisplayName = "Asir Runestone",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"By using the magic of this runestone, you can temporarily increase the power of your attacks. ",
+			"Increases ATK depending on the level of Rune Mastery skill.",
+			"Increases ASPD.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Asir Runestone",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"By using the magic of this runestone, you can temporarily increase the power of your attacks. ",
+			"Increases ATK depending on the level of Rune Mastery skill.",
+			"Increases ASPD.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12730] = {
+		unidentifiedDisplayName = "Urj Runestone",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"By using the magic of this runestone you can restore your SP. ",
+			"Restores 60 SP every 10 sec. ",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Urj Runestone",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"By using the magic of this runestone you can restore your SP. ",
+			"Restores 60 SP every 10 sec. ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12731] = {
+		unidentifiedDisplayName = "Turisus Runestone",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"Using the magic of this runestone, you can become like the giant from ancient legends.",
+			"STR +30, normal short-ranged physical attack have a 30% chance to deal 2.5 times more damage. ",
+			"If the character is a Rune Knight, additionally physical damage based on ATK +250% ^800080(+125% in Siege mode and PVP zones)^000000. ",
+			"^ff0000(Rhydo Runestone: Rune Knight's Crush Strike damage is not increased by 250%.)^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Turisus Runestone",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"Using the magic of this runestone, you can become like the giant from ancient legends.",
+			"STR +30, normal short-ranged physical attack have a 30% chance to deal 2.5 times more damage. ",
+			"If the character is a Rune Knight, additionally physical damage based on ATK +250% ^800080(+125% in Siege mode and PVP zones)^000000. ",
+			"^ff0000(Rhydo Runestone: Rune Knight's Crush Strike damage is not increased by 250%.)^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12732] = {
+		unidentifiedDisplayName = "Pertz Runestone",
+		unidentifiedResourceName = "???_???",
+		unidentifiedDescriptionName = {
+			"This runestone creates a powerful shockwave that deals significant damage to all enemies in a 7x7 area around the caster.",
+			"Damage increases as Rune Mastery level increases, as does STR and Base Level; Critical Damage depends on the character's CRIT.",
+			"The skill is not interrupted when the caster takes damage.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Pertz Runestone",
+		identifiedResourceName = "???_???",
+		identifiedDescriptionName = {
+			"This runestone creates a powerful shockwave that deals significant damage to all enemies in a 7x7 area around the caster.",
+			"Damage increases as Rune Mastery level increases, as does STR and Base Level; Critical Damage depends on the character's CRIT.",
+			"The skill is not interrupted when the caster takes damage.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[12733] = {
+		unidentifiedDisplayName = "Hagalas Runestone",
+		unidentifiedResourceName = "???_????",
+		unidentifiedDescriptionName = {
+			"By using the magic of this runestone, you can sacrifice some of your health and make your skin stronger than steel. ",
+			"During the skill effect, DEF and MDEF increases; when another player makes a physical melee attack on the caster, there is a certain chance that his weapon will be destroyed. ",
+			"The shield disappears if its durability is depleted or the effect's duration expires.",
+			"If the attacker is a monster, reduces damage taken from it. (Does not affect Boss monsters.)",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Hagalas Runestone",
+		identifiedResourceName = "???_????",
+		identifiedDescriptionName = {
+			"By using the magic of this runestone, you can sacrifice some of your health and make your skin stronger than steel. ",
+			"During the skill effect, DEF and MDEF increases; when another player makes a physical melee attack on the caster, there is a certain chance that his weapon will be destroyed. ",
+			"The shield disappears if its durability is depleted or the effect's duration expires.",
+			"If the attacker is a monster, reduces damage taken from it. (Does not affect Boss monsters.)",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[22540] = {
+		unidentifiedDisplayName = "Lux Anima Runestone",
+		unidentifiedResourceName = "???_??",
+		unidentifiedDescriptionName = {
+			"By using the magic of this runestone you can increase your combat effectiveness.",
+			"When dealing base melee physical damage, there is a 15% chance to activate Storm Blast (LV 1), increasing physical/critical damage to enemies of any size by 30%.",
+			"Max HP/Max SP +30, short-ranged and long-ranged physical damage +30% additionally.",
+			"Cooldown: 5 sec.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Lux Anima Runestone",
+		identifiedResourceName = "???_??",
+		identifiedDescriptionName = {
+			"By using the magic of this runestone you can increase your combat effectiveness.",
+			"When dealing base melee physical damage, there is a 15% chance to activate Storm Blast (LV 1), increasing physical/critical damage to enemies of any size by 30%.",
+			"Max HP/Max SP +30, short-ranged and long-ranged physical damage +30% additionally.",
+			"Cooldown: 5 sec.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9123] = {
+		unidentifiedDisplayName = "Junior Steward Beta Egg",
+		unidentifiedResourceName = "Ep_17_2_C_Admin1_Egg",
+		unidentifiedDescriptionName = {
+			"An egg in which a cute Junior Steward Beta pet rests. ",
+			"A Portable Pet Incubator will help you wake up a sleeping pet.",
+			"If pet is Friend, physical and magic damage inflicted on Forgotten Valley Farm and Cleaning Station monsters +3%.",
+			"If pet is True Friend, physical and magic damage inflicted on Forgotten Valley Farm and Cleaning Station monsters +6%.",
+			"If pet is Best Friend, physical and magic damage inflicted on Forgotten Valley Farm and Cleaning Station monsters +10%.",
+			"",
+			"Type: ^777777Monster Egg^000000"
+		},
+		identifiedDisplayName = "Junior Steward Beta Egg",
+		identifiedResourceName = "Ep_17_2_C_Admin1_Egg",
+		identifiedDescriptionName = {
+			"An egg in which a cute Junior Steward Beta pet rests. ",
+			"A Portable Pet Incubator will help you wake up a sleeping pet.",
+			"If pet is Friend, physical and magic damage inflicted on Forgotten Valley Farm and Cleaning Station monsters +3%.",
+			"If pet is True Friend, physical and magic damage inflicted on Forgotten Valley Farm and Cleaning Station monsters +6%.",
+			"If pet is Best Friend, physical and magic damage inflicted on Forgotten Valley Farm and Cleaning Station monsters +10%.",
+			"",
+			"Type: ^777777Monster Egg^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9124] = {
+		unidentifiedDisplayName = "Junior Steward Alpha Egg",
+		unidentifiedResourceName = "Ep_17_2_C_Admin2_Egg",
+		unidentifiedDescriptionName = {
+			"An egg in which a cute Junior Steward Alpha pet rests. ",
+			"A Portable Pet Incubator will help you wake up a sleeping pet.",
+			"If pet is Friend, physical and magic damage inflicted on Magic Power Plant and Tartar Warehouse monsters +4%.",
+			"If pet is True Friend, physical and magic damage inflicted on Magic Power Plant and Tartar Warehouse monsters +8%.",
+			"If pet is Best Friend, physical and magic damage inflicted on Magic Power Plant and Tartar Warehouse monsters +15%.",
+			"Type: ^777777Monster Egg^000000"
+		},
+		identifiedDisplayName = "Junior Steward Alpha Egg",
+		identifiedResourceName = "Ep_17_2_C_Admin2_Egg",
+		identifiedDescriptionName = {
+			"An egg in which a cute Junior Steward Alpha pet rests. ",
+			"A Portable Pet Incubator will help you wake up a sleeping pet.",
+			"If pet is Friend, physical and magic damage inflicted on Magic Power Plant and Tartar Warehouse monsters +4%.",
+			"If pet is True Friend, physical and magic damage inflicted on Magic Power Plant and Tartar Warehouse monsters +8%.",
+			"If pet is Best Friend, physical and magic damage inflicted on Magic Power Plant and Tartar Warehouse monsters +15%.",
+			"Type: ^777777Monster Egg^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[10043] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Junior Steward Beta Hairband",
+		identifiedResourceName = "Ep_17_2_C_Admin1_Acc",
+		identifiedDescriptionName = {
+			"Junior Steward Beta's communication device.",
+			"Not just a radio antenna used for communication, but a cute accessory as well.",
+			"Type: ^777777Cute pet's equipment^000000",
+			"Used by: ^777777Junior Steward Beta^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[10044] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Steward Alpha's Hairband",
+		identifiedResourceName = "Ep_17_2_C_Admin2_Acc",
+		identifiedDescriptionName = {
+			"Junior Steward Alpha's Hairband with two antennae. Improves communication quality and creates a cute image.",
+			"Type: ^777777Cute pet's equipment^000000",
+			"Used by: ^777777Junior Steward Alpha^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300076] = {
+		unidentifiedDisplayName = "Broken Guard Beta Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"VIT +3",
+			"Max HP +10%, Vanishing Point and Cannon Spear damage +10%.",
+			"If equipped with Verporte Card and Improved Assistant Bot Card, Vanishing Point and Cannon Spear damage +20%,",
+			"for every 2 footwear upgrade levels, additional Vanishing Point damage +5%, for every 2 weapon refine levels, additional Cannon Spear damage +5%."
+		},
+		identifiedDisplayName = "Broken Guard Beta Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"VIT +3",
+			"Max HP +10%, Vanishing Point and Cannon Spear damage +10%.",
+			"If equipped with Verporte Card and Improved Assistant Bot Card, Vanishing Point and Cannon Spear damage +20%,",
+			"for every 2 footwear upgrade levels, additional Vanishing Point damage +5%, for every 2 weapon refine levels, additional Cannon Spear damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300077] = {
+		unidentifiedDisplayName = "Broken Cleaner Omega Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEX +2, VIT +1.",
+			"Max HP +10%, Axe Boomerang and Volcano damage +10%.",
+			"If equipped with Kick and Kick Card and Improved Papilla Card, Axe Boomerang and Volcano damage +20%,",
+			"for every 2 footwear upgrade levels, additional Volcano damage +5%, for every 2 weapon refine levels, additional Axe Boomerang damage +5%."
+		},
+		identifiedDisplayName = "Broken Cleaner Omega Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEX +2, VIT +1.",
+			"Max HP +10%, Axe Boomerang and Volcano damage +10%.",
+			"If equipped with Kick and Kick Card and Improved Papilla Card, Axe Boomerang and Volcano damage +20%,",
+			"for every 2 footwear upgrade levels, additional Volcano damage +5%, for every 2 weapon refine levels, additional Axe Boomerang damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300078] = {
+		unidentifiedDisplayName = "Sweety Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Fire Dance skill damage +60%.",
+			"Fire Dance skill SP consume -25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Sweety Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Fire Dance skill damage +60%.",
+			"Fire Dance skill SP consume -25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300079] = {
+		unidentifiedDisplayName = "Fire Cube Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Magic damage inflicted on Formless monsters and Fish monsters +30%.",
+			"Magic damage inflicted on Holy and Water property monsters +30%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Fire Cube Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Magic damage inflicted on Formless monsters and Fish monsters +30%.",
+			"Magic damage inflicted on Holy and Water property monsters +30%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300080] = {
+		unidentifiedDisplayName = "Improved Fire Cube Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Magic damage inflicted on Formless monsters and Fish monsters +50%.",
+			"Magic damage inflicted on Holy and Water property monsters +50%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Fire Cube Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Magic damage inflicted on Formless monsters and Fish monsters +50%.",
+			"Magic damage inflicted on Holy and Water property monsters +50%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300081] = {
+		unidentifiedDisplayName = "Assistant Bot Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Fire Ball skill damage +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Assistant Bot Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Fire Ball skill damage +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300082] = {
+		unidentifiedDisplayName = "Improved Assistant Bot Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with One-Handed Spear, Two-Handed Spear class weapon, long-ranged ATK +10%.",
+			"For every 2 weapon refine levels, additional long-ranged ATK +2%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Assistant Bot Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with One-Handed Spear, Two-Handed Spear class weapon, long-ranged ATK +10%.",
+			"For every 2 weapon refine levels, additional long-ranged ATK +2%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300083] = {
+		unidentifiedDisplayName = "Wizened Rafflesia Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"AGI +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Freezing Spear, Throw Kunai damage +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Wizened Rafflesia Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"AGI +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Freezing Spear, Throw Kunai damage +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300084] = {
+		unidentifiedDisplayName = "Improved Wizened Rafflesia Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Holy property resistance +30%. ",
+			"FLEE +5 ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Wizened Rafflesia Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Holy property resistance +30%. ",
+			"FLEE +5 ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300085] = {
+		unidentifiedDisplayName = "Special Alnoldi Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"STR +2.",
+			"Max HP +10%, Max SP +10%.",
+			"For every level of Kihop skill, ATK +7.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Special Alnoldi Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"STR +2.",
+			"Max HP +10%, Max SP +10%.",
+			"For every level of Kihop skill, ATK +7.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300086] = {
+		unidentifiedDisplayName = "Improved Special Alnoldi Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with Two-handed Sword class weapon, short-ranged physical damage +10%.",
+			"Additional physical damage +1% for every refine level.",
+			"If refined to +11 or higher, cannot be destroyed.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Special Alnoldi Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with Two-handed Sword class weapon, short-ranged physical damage +10%.",
+			"Additional physical damage +1% for every refine level.",
+			"If refined to +11 or higher, cannot be destroyed.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300087] = {
+		unidentifiedDisplayName = "Broken Gardener Beta Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"LUK + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"SV Stem Spear, Scar of Tarou damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Broken Gardener Beta Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"LUK + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"SV Stem Spear, Scar of Tarou damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300088] = {
+		unidentifiedDisplayName = "Improved Broken Gardener Beta Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a Book class weapon, HIT +20, ATK +5%, ",
+			"additional physical damage +1% for every upgrade level of the weapon, when refined to +10 or higher, Full Moon Kick and Falling Star skill damage +15%."
+		},
+		identifiedDisplayName = "Improved Broken Gardener Beta Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a Book class weapon, HIT +20, ATK +5%, ",
+			"additional physical damage +1% for every upgrade level of the weapon, when refined to +10 or higher, Full Moon Kick and Falling Star skill damage +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300089] = {
+		unidentifiedDisplayName = "Verporte Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"STR +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Increases the damage of Magnum Break skill by +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Verporte Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"STR +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Increases the damage of Magnum Break skill by +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300090] = {
+		unidentifiedDisplayName = "Verporte Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Earth property magic damage +10%.",
+			"Skills consume +5% SP.",
+			"If refined to +9 or higher, Earth property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Verporte Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Earth property magic damage +10%.",
+			"Skills consume +5% SP.",
+			"If refined to +9 or higher, Earth property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300091] = {
+		unidentifiedDisplayName = "Papilla Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEX + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"Increases the damage of Desperado, Full Blast, Spread Shot by +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Papilla Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEX + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"Increases the damage of Desperado, Full Blast, Spread Shot by +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300092] = {
+		unidentifiedDisplayName = "Improved Papilla Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"LUK + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"Increases the damage of Cart Revolution skill by +50%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Papilla Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"LUK + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"Increases the damage of Cart Revolution skill by +50%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300093] = {
+		unidentifiedDisplayName = "Ruby Papilla Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Damage of Holy Light +50%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Ruby Papilla Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Damage of Holy Light +50%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300094] = {
+		unidentifiedDisplayName = "Improved Ruby Papilla Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with Two-handed Sword class weapon, Critical Damage +20%.",
+			"Additional Critical Damage +2% for every 2 weapon refine levels.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Ruby Papilla Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with Two-handed Sword class weapon, Critical Damage +20%.",
+			"Additional Critical Damage +2% for every 2 weapon refine levels.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300095] = {
+		unidentifiedDisplayName = "Azure Papilla Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEX + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"Damage of Arrow Shower +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Azure Papilla Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEX + 2.",
+			"Max HP +10%, Max SP +10%.",
+			"Damage of Arrow Shower +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300096] = {
+		unidentifiedDisplayName = "Improved Azure Papilla Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a Musical Instrument class weapon, MATK + 20%.",
+			"If refine rate is +10 or higher, MATK + 20%, Variable Cast Time of all skills -10%.",
+			"If refine rate is +13, MATK +20.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Azure Papilla Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a Musical Instrument class weapon, MATK + 20%.",
+			"If refine rate is +10 or higher, MATK + 20%, Variable Cast Time of all skills -10%.",
+			"If refine rate is +13, MATK +20.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300097] = {
+		unidentifiedDisplayName = "Aries Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"AGI +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Envenom skill damage +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Aries Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"AGI +2.",
+			"Max HP +10%, Max SP +10%.",
+			"Envenom skill damage +25%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300098] = {
+		unidentifiedDisplayName = "Improved Aries Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"MATK +5.",
+			"Wind Blade, Freezing Spear, Flaming Petals damage +10%.",
+			"If refined to +7 or higher, Variable Cast Time of all skills -5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Improved Aries Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"MATK +5.",
+			"Wind Blade, Freezing Spear, Flaming Petals damage +10%.",
+			"If refined to +7 or higher, Variable Cast Time of all skills -5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300099] = {
+		unidentifiedDisplayName = "Forest Papillia Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Damage inflicted by normal monsters -20%.",
+			"Received healing +15%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Shield^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Forest Papillia Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Damage inflicted by normal monsters -20%.",
+			"Received healing +15%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Shield^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300100] = {
+		unidentifiedDisplayName = "Powerful Papillia Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Damage inflicted by bosses -25%.",
+			"Received healing +30%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Shield^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Powerful Papillia Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Damage inflicted by bosses -25%.",
+			"Received healing +30%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Shield^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300101] = {
+		unidentifiedDisplayName = "Broken Cleaner Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"STR +3",
+			"Max HP +10%, Dragon Breath and Dragon Water Breath damage +10%.",
+			"If equipped with Verporte Card and Improved Ruby Papilla Card, Dragon Breath and Dragon Water Breath damage +20%,",
+			"for every 2 footwear upgrade levels, additional Dragon Breath damage +5%, for every 2 weapon refine levels, additional Dragon Water Breath damage +5%."
+		},
+		identifiedDisplayName = "Broken Cleaner Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"STR +3",
+			"Max HP +10%, Dragon Breath and Dragon Water Breath damage +10%.",
+			"If equipped with Verporte Card and Improved Ruby Papilla Card, Dragon Breath and Dragon Water Breath damage +20%,",
+			"for every 2 footwear upgrade levels, additional Dragon Breath damage +5%, for every 2 weapon refine levels, additional Dragon Water Breath damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300102] = {
+		unidentifiedDisplayName = "Bath Manager Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT +3.",
+			"Max HP +10%, Cart Cannon and Spore Explosion damage +10%.",
+			"If equipped with Powerful Archer Skeleton Card and Improved Papilla Card, Cart Cannon and Spore Explosion damage +20%,",
+			"for every 2 footwear upgrade levels, additional Cart Cannon damage +5%, for every 2 weapon refine levels, additional Spore Explosion damage +5%."
+		},
+		identifiedDisplayName = "Bath Manager Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT +3.",
+			"Max HP +10%, Cart Cannon and Spore Explosion damage +10%.",
+			"If equipped with Powerful Archer Skeleton Card and Improved Papilla Card, Cart Cannon and Spore Explosion damage +20%,",
+			"for every 2 footwear upgrade levels, additional Cart Cannon damage +5%, for every 2 weapon refine levels, additional Spore Explosion damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300103] = {
+		unidentifiedDisplayName = "Azure Princess Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"MATK +15.",
+			"If refine rate is +9, magic damage inflicted on Fish and Demi-Human enemies +10%.",
+			"If refine rate is +11 or higher, Skill Delay -3%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Azure Princess Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"MATK +15.",
+			"If refine rate is +9, magic damage inflicted on Fish and Demi-Human enemies +10%.",
+			"If refine rate is +11 or higher, Skill Delay -3%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300104] = {
+		unidentifiedDisplayName = "Bookworm Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT+2, VIT+1.",
+			"Max HP +10%, Psychic Wave and Diamond Dust damage +10%.",
+			"If equipped with Blue Pitaya Card and Improved Assistant Bot Card, Psychic Wave and Diamond Dust damage +20%,",
+			"for every 2 footwear upgrade levels, additional Psychic Wave damage +5%, for every 2 weapon refine levels, additional Diamond Dust damage +5%."
+		},
+		identifiedDisplayName = "Bookworm Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT+2, VIT+1.",
+			"Max HP +10%, Psychic Wave and Diamond Dust damage +10%.",
+			"If equipped with Blue Pitaya Card and Improved Assistant Bot Card, Psychic Wave and Diamond Dust damage +20%,",
+			"for every 2 footwear upgrade levels, additional Psychic Wave damage +5%, for every 2 weapon refine levels, additional Diamond Dust damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300105] = {
+		unidentifiedDisplayName = "Roaming Spellbook Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT +3.",
+			"Max HP +5%, Max. SP +5%, Crimson Rock and Comet damage +10%.",
+			"If equipped with Red Pitaya Card and Assistant Bot Card, Crimson Rock and Comet damage +20%,",
+			"for every 2 footwear upgrade levels, additional Comet damage +5%, for every 2 weapon refine levels, additional Crimson Rock damage +5%"
+		},
+		identifiedDisplayName = "Roaming Spellbook Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT +3.",
+			"Max HP +5%, Max. SP +5%, Crimson Rock and Comet damage +10%.",
+			"If equipped with Red Pitaya Card and Assistant Bot Card, Crimson Rock and Comet damage +20%,",
+			"for every 2 footwear upgrade levels, additional Comet damage +5%, for every 2 weapon refine levels, additional Crimson Rock damage +5%",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300106] = {
+		unidentifiedDisplayName = "Red Pitaya Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Fire property magic damage +10%. ",
+			"When refined to +10 or higher, additional Fire property magic damage +10%. ",
+			"When refined to +14 or higher, additional Fire property magic damage +10%. ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Red Pitaya Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Fire property magic damage +10%. ",
+			"When refined to +10 or higher, additional Fire property magic damage +10%. ",
+			"When refined to +14 or higher, additional Fire property magic damage +10%. ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300107] = {
+		unidentifiedDisplayName = "Pitaya Boss Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Recovery from Apples and Bananas +500%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Pitaya Boss Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Recovery from Apples and Bananas +500%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300108] = {
+		unidentifiedDisplayName = "Sewage Venenum Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"AGI +2, DEX +1.",
+			"Max HP +10%, Fatal Menace and Triangle Shot damage +10%.",
+			"If equipped with the Cowraiders Class 3 Card and Aries Card, Fatal Menace and Triangle Shot damage +20%,",
+			"for every 2 footwear upgrade levels, additional Fatal Menace damage +5%, for every 2 weapon refine levels, additional Triangle Shot damage +5%"
+		},
+		identifiedDisplayName = "Sewage Venenum Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"AGI +2, DEX +1.",
+			"Max HP +10%, Fatal Menace and Triangle Shot damage +10%.",
+			"If equipped with the Cowraiders Class 3 Card and Aries Card, Fatal Menace and Triangle Shot damage +20%,",
+			"for every 2 footwear upgrade levels, additional Fatal Menace damage +5%, for every 2 weapon refine levels, additional Triangle Shot damage +5%",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300109] = {
+		unidentifiedDisplayName = "Sewage Cramp Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEX +2, STR +1.",
+			"Max HP +10%, Rolling Cutter and Counter Slash damage +10%.",
+			"If equipped with the Mutant Dolor Card and Aries Card, Rolling Cutter and Counter Slash damage +20%,",
+			"rolling Cutter and Counter Slash damage +5% for every 3 refine levels."
+		},
+		identifiedDisplayName = "Sewage Cramp Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEX +2, STR +1.",
+			"Max HP +10%, Rolling Cutter and Counter Slash damage +10%.",
+			"If equipped with the Mutant Dolor Card and Aries Card, Rolling Cutter and Counter Slash damage +20%,",
+			"rolling Cutter and Counter Slash damage +5% for every 3 refine levels.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300110] = {
+		unidentifiedDisplayName = "Sewage Waterfall Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"AGI +2, INT +1.",
+			"Max HP +10%, Kunai Explosion and Cross Slash damage +10%.",
+			"If equipped with Armed Guard Soheon Card and Wizened Rafflesia Card, Kunai Explosion and Cross Slash damage +20%,",
+			"for every 3 footwear upgrade levels, additional Kunai Explosion and Counter Slash damage +5%."
+		},
+		identifiedDisplayName = "Sewage Waterfall Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"AGI +2, INT +1.",
+			"Max HP +10%, Kunai Explosion and Cross Slash damage +10%.",
+			"If equipped with Armed Guard Soheon Card and Wizened Rafflesia Card, Kunai Explosion and Cross Slash damage +20%,",
+			"for every 3 footwear upgrade levels, additional Kunai Explosion and Counter Slash damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300111] = {
+		unidentifiedDisplayName = "Elite Bellare Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"AGI +2, INT +1.",
+			"Max HP +10%, Flaming Petals, Freezing Spear, and Wind Blade damage +10%.",
+			"If equipped with E-EA1L Card and Wizened Rafflesia Card, Flaming Petals, Freezing Spear, and Wind Blade damage +20%,",
+			"for every 3 footwear upgrade levels, additional Flaming Petals, Freezing Spear, and Wind Blade damage +5%."
+		},
+		identifiedDisplayName = "Elite Bellare Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"AGI +2, INT +1.",
+			"Max HP +10%, Flaming Petals, Freezing Spear, and Wind Blade damage +10%.",
+			"If equipped with E-EA1L Card and Wizened Rafflesia Card, Flaming Petals, Freezing Spear, and Wind Blade damage +20%,",
+			"for every 3 footwear upgrade levels, additional Flaming Petals, Freezing Spear, and Wind Blade damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300112] = {
+		unidentifiedDisplayName = "Magic-poisoned Dolor Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT+2, VIT+1.",
+			"Max HP +10%, Esu and Curse Explosion damage +10%.",
+			"If equipped with Magic-poisoned Plaga Card and Special Alnoldi Card, Esu and Curse Explosion damage +20%,",
+			"for every 2 footwear upgrade levels, additional Curse Explosion damage +5%, for every 2 weapon refine levels, additional Esu damage +5%"
+		},
+		identifiedDisplayName = "Magic-poisoned Dolor Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT+2, VIT+1.",
+			"Max HP +10%, Esu and Curse Explosion damage +10%.",
+			"If equipped with Magic-poisoned Plaga Card and Special Alnoldi Card, Esu and Curse Explosion damage +20%,",
+			"for every 2 footwear upgrade levels, additional Curse Explosion damage +5%, for every 2 weapon refine levels, additional Esu damage +5%",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300113] = {
+		unidentifiedDisplayName = "Unleashed Magic Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT+2, VIT+1.",
+			"Max HP +10%, Reverberation and Severe Rainstorm damage +10%.",
+			"If equipped with Improved Azure Papilla Card and Azure Papilla Card, Reverberation and Severe Rainstorm damage +20%,",
+			"for every 2 footwear upgrade levels, additional Reverberation damage +5%, for every 2 weapon refine levels, additional Severe Rainstorm damage +5%"
+		},
+		identifiedDisplayName = "Unleashed Magic Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT+2, VIT+1.",
+			"Max HP +10%, Reverberation and Severe Rainstorm damage +10%.",
+			"If equipped with Improved Azure Papilla Card and Azure Papilla Card, Reverberation and Severe Rainstorm damage +20%,",
+			"for every 2 footwear upgrade levels, additional Reverberation damage +5%, for every 2 weapon refine levels, additional Severe Rainstorm damage +5%",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300114] = {
+		unidentifiedDisplayName = "Magic-poisoned Plaga Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Neutral property magic damage +10%. ",
+			"When weapon refined to +10 or higher, additional Neutral property magic damage +10%. ",
+			"When weapon refined to +14 or higher, additional Neutral property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Magic-poisoned Plaga Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Neutral property magic damage +10%. ",
+			"When weapon refined to +10 or higher, additional Neutral property magic damage +10%. ",
+			"When weapon refined to +14 or higher, additional Neutral property magic damage +10%. ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300115] = {
+		unidentifiedDisplayName = "Magic-poisoned Sanare Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"INT +2, DEX +1.",
+			"Max HP +10%, Adoramus and Judex damage +10%.",
+			"If equipped with Sanare Card and Ruby Papilla Card, Adoramus and Judex damage +20%,",
+			"for every 2 footwear upgrade levels, additional Adoramus damage +5%, for every 2 weapon refine levels, additional Judex damage +5%."
+		},
+		identifiedDisplayName = "Magic-poisoned Sanare Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"INT +2, DEX +1.",
+			"Max HP +10%, Adoramus and Judex damage +10%.",
+			"If equipped with Sanare Card and Ruby Papilla Card, Adoramus and Judex damage +20%,",
+			"for every 2 footwear upgrade levels, additional Adoramus damage +5%, for every 2 weapon refine levels, additional Judex damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300116] = {
+		unidentifiedDisplayName = "Powerful Magic Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"STR +2, INT +1.",
+			"Max HP +10%, Rampage Blast and Tiger Cannon damage +10%.",
+			"If equipped with Mutant Plaga Card and Ruby Papilla Card, Rampage Blast and Tiger Cannon damage +20%,",
+			"for every 2 footwear upgrade levels, additional Tiger Cannon damage +5%, for every 2 weapon refine levels, additional Rampage Blast damage +5%."
+		},
+		identifiedDisplayName = "Powerful Magic Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"STR +2, INT +1.",
+			"Max HP +10%, Rampage Blast and Tiger Cannon damage +10%.",
+			"If equipped with Mutant Plaga Card and Ruby Papilla Card, Rampage Blast and Tiger Cannon damage +20%,",
+			"for every 2 footwear upgrade levels, additional Tiger Cannon damage +5%, for every 2 weapon refine levels, additional Rampage Blast damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300117] = {
+		unidentifiedDisplayName = "Sharp Magic Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEX +2, AGI +1.",
+			"Max HP +10%, Arrow Storm and Bomb Cluster +10%.",
+			"If equipped with Powerful Archer Skeleton Card and Azure Papilla Card, Arrow Storm and Bomb Cluster damage +20%,",
+			"for every 2 footwear upgrade levels, additional Bomb Cluster damage +5%, for every 2 weapon refine levels, additional Arrow Storm damage +5%"
+		},
+		identifiedDisplayName = "Sharp Magic Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEX +2, AGI +1.",
+			"Max HP +10%, Arrow Storm and Bomb Cluster +10%.",
+			"If equipped with Powerful Archer Skeleton Card and Azure Papilla Card, Arrow Storm and Bomb Cluster damage +20%,",
+			"for every 2 footwear upgrade levels, additional Bomb Cluster damage +5%, for every 2 weapon refine levels, additional Arrow Storm damage +5%",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300118] = {
+		unidentifiedDisplayName = "Clean Phen Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"STR +2, VIT +1.",
+			"Max HP +10%, Full Moon Kick and Falling Star damage +10%.",
+			"If equipped with Improved Broken Gardener Beta Card and Special Alnoldi Card, Full Moon Kick and Falling Star damage +20%,",
+			"for every 2 footwear upgrade levels, additional Falling Star damage +5%, for every 2 weapon refine levels, additional Full Moon Kick damage +5%."
+		},
+		identifiedDisplayName = "Clean Phen Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"STR +2, VIT +1.",
+			"Max HP +10%, Full Moon Kick and Falling Star damage +10%.",
+			"If equipped with Improved Broken Gardener Beta Card and Special Alnoldi Card, Full Moon Kick and Falling Star damage +20%,",
+			"for every 2 footwear upgrade levels, additional Falling Star damage +5%, for every 2 weapon refine levels, additional Full Moon Kick damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300119] = {
+		unidentifiedDisplayName = "Clean Swordfish Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEX +2, AGI +1.",
+			"Max HP +10%, Round Trip (Circle Dance) and God's Hammer (God's Wrath) damage +10%.",
+			"If equipped with Improved Bellare Card and Papilla Card, Round Trip (Circle Dance) and God's Hammer (God's Wrath) damage +20%,",
+			"for every 2 footwear upgrade levels, additional God's Hammer (God's Wrath) damage +5%, for every 2 weapon refine levels, additional Round Trip (Circle Dance) damage +5%"
+		},
+		identifiedDisplayName = "Clean Swordfish Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEX +2, AGI +1.",
+			"Max HP +10%, Round Trip (Circle Dance) and God's Hammer (God's Wrath) damage +10%.",
+			"If equipped with Improved Bellare Card and Papilla Card, Round Trip (Circle Dance) and God's Hammer (God's Wrath) damage +20%,",
+			"for every 2 footwear upgrade levels, additional God's Hammer (God's Wrath) damage +5%, for every 2 weapon refine levels, additional Round Trip (Circle Dance) damage +5%",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300120] = {
+		unidentifiedDisplayName = "Clean Piranha Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"MATK +2%.",
+			"If equipped with Piranha Card, MATK +10, magic damage inflicted on Water property targets +15%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Clean Piranha Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"MATK +2%.",
+			"If equipped with Piranha Card, MATK +10, magic damage inflicted on Water property targets +15%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300121] = {
+		unidentifiedDisplayName = "Clean Marc Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Water and Holy properties magic damage +5%.",
+			"Additional Water and Holy properties magic damage +1% for every 2 refine levels.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Clean Marc Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Water and Holy properties magic damage +5%.",
+			"Additional Water and Holy properties magic damage +1% for every 2 refine levels.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300122] = {
+		unidentifiedDisplayName = "Yellow Pitaya Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Neutral property resistance +15%.",
+			"Holy property magic damage +3% for every refine rate.",
+			"If equipped with Clean Marc Card, Neutral property resistance +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Yellow Pitaya Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Neutral property resistance +15%.",
+			"Holy property magic damage +3% for every refine rate.",
+			"If equipped with Clean Marc Card, Neutral property resistance +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300123] = {
+		unidentifiedDisplayName = "Purple Pitaya Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Neutral property resistance +15%.",
+			"Neutral property magic damage +3% for every refine rate.",
+			"If equipped with Clean Marc Card, Neutral property resistance +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Purple Pitaya Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Neutral property resistance +15%.",
+			"Neutral property magic damage +3% for every refine rate.",
+			"If equipped with Clean Marc Card, Neutral property resistance +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300124] = {
+		unidentifiedDisplayName = "Blue Pitaya Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Water property magic damage +10%. ",
+			"When refined to +10 or higher, additional Water property magic damage +10%. ",
+			"When refined to +14 or higher, additional Water property magic damage +10%. ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Blue Pitaya Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Water property magic damage +10%. ",
+			"When refined to +10 or higher, additional Water property magic damage +10%. ",
+			"When refined to +14 or higher, additional Water property magic damage +10%. ",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300125] = {
+		unidentifiedDisplayName = "Green Pitaya Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"LUK +2, INT +1.",
+			"Max HP +10%, Picky Peck and CN Meteor damage +10%.",
+			"If equipped with Magic-poisoned Plaga Card and Broken Gardener Beta Card, Picky Peck and CN Meteor damage +20%,",
+			"for every 2 footwear upgrade levels, additional CN Meteor damage +5%, for every 2 weapon refine levels, additional Picky Peck damage +5%."
+		},
+		identifiedDisplayName = "Green Pitaya Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"LUK +2, INT +1.",
+			"Max HP +10%, Picky Peck and CN Meteor damage +10%.",
+			"If equipped with Magic-poisoned Plaga Card and Broken Gardener Beta Card, Picky Peck and CN Meteor damage +20%,",
+			"for every 2 footwear upgrade levels, additional CN Meteor damage +5%, for every 2 weapon refine levels, additional Picky Peck damage +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300001] = {
+		unidentifiedDisplayName = "Poisonous Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"ATK against Poison property monsters +25%.",
+			"If equipped with Anacondaq Card, additional ATK against Poison property monsters +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Poisonous Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"ATK against Poison property monsters +25%.",
+			"If equipped with Anacondaq Card, additional ATK against Poison property monsters +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300002] = {
+		unidentifiedDisplayName = "Toxious Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Max. HP +10%, ranged physical damage taken -5%.",
+			"If equipped with Noxious Card, Max HP +5% and additional ranged physical damage taken -10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Toxious Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Max. HP +10%, ranged physical damage taken -5%.",
+			"If equipped with Noxious Card, Max HP +5% and additional ranged physical damage taken -10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300003] = {
+		unidentifiedDisplayName = "White Porcellio Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"ATK +20, if equipped with Porcellio Card ATK +10.",
+			"ATK +1 for every footwear refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "White Porcellio Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"ATK +20, if equipped with Porcellio Card ATK +10.",
+			"ATK +1 for every footwear refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300004] = {
+		unidentifiedDisplayName = "Neo Mineral Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"DEF +30, if equipped with Mineral Card additional DEF +20.",
+			"Def +3 for every garment refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Neo Mineral Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"DEF +30, if equipped with Mineral Card additional DEF +20.",
+			"Def +3 for every garment refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300005] = {
+		unidentifiedDisplayName = "Abyssman Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"HP +10%, Earth Grave damage +10%.",
+			"If equipped with Pitman Card, Earth Grave damage +10%. Additional Earth Grave damage +1% according to footwear refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Abyssman Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"HP +10%, Earth Grave damage +10%.",
+			"If equipped with Pitman Card, Earth Grave damage +10%. Additional Earth Grave damage +1% according to footwear refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300006] = {
+		unidentifiedDisplayName = "Jeweliant Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Physical attacks grant a certain chance to activate automatic spell Psychic Wave Lv. 1.",
+			"If equipped with Ungoliant Card, Neutral property magical damage +30%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Jeweliant Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Physical attacks grant a certain chance to activate automatic spell Psychic Wave Lv. 1.",
+			"If equipped with Ungoliant Card, Neutral property magical damage +30%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300007] = {
+		unidentifiedDisplayName = "Ungoliant Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Physical damage inflicted on Formless monsters, plant type monsters, Fire and Water property monsters +40%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Ungoliant Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Physical damage inflicted on Formless monsters, plant type monsters, Fire and Water property monsters +40%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300008] = {
+		unidentifiedDisplayName = "Angelgolt Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Magic damage inflicted on Demon race monsters +10%.",
+			"When equipped with Skeggiold Card, additional magic damage inflicted on Demon race monsters +3% for every 2 weapon refine levels.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Angelgolt Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Magic damage inflicted on Demon race monsters +10%.",
+			"When equipped with Skeggiold Card, additional magic damage inflicted on Demon race monsters +3% for every 2 weapon refine levels.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300009] = {
+		unidentifiedDisplayName = "Spectrum Plasma Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Ghost property magic damage +10%.",
+			"When weapon refined to +10 or higher, additional Ghost property magic damage +10%.",
+			"When weapon refined to +14 or higher, additional Ghost property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Spectrum Plasma Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Ghost property magic damage +10%.",
+			"When weapon refined to +10 or higher, additional Ghost property magic damage +10%.",
+			"When weapon refined to +14 or higher, additional Ghost property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300010] = {
+		unidentifiedDisplayName = "Arc Plasma Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Wind property magic damage +10%.",
+			"When weapon refined to +10 or higher, additional Wind property magic damage +10%.",
+			"When weapon refined to +14 or higher, additional Wind property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arc Plasma Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Wind property magic damage +10%.",
+			"When weapon refined to +10 or higher, additional Wind property magic damage +10%.",
+			"When weapon refined to +14 or higher, additional Wind property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300011] = {
+		unidentifiedDisplayName = "Holy Frus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Holy property magic damage +10%.",
+			"When weapon refined to +10 or higher, additional Holy property magic damage +10%.",
+			"When weapon refined to +14 or higher, additional Holy property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Holy Frus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"If equipped with a One-handed Staff or Two-handed Staff class weapon, Holy property magic damage +10%.",
+			"When weapon refined to +10 or higher, additional Holy property magic damage +10%.",
+			"When weapon refined to +14 or higher, additional Holy property magic damage +10%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300012] = {
+		unidentifiedDisplayName = "Holy Skogul Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Increases the recovery rate of recovery skills by 5%.",
+			"If footwear refine rate is +7 or higher, additional healing effectiveness +3%.",
+			"If footwear refine rate is +9 or higher, additional healing effectiveness +2%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Holy Skogul Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Increases the recovery rate of recovery skills by 5%.",
+			"If footwear refine rate is +7 or higher, additional healing effectiveness +3%.",
+			"If footwear refine rate is +9 or higher, additional healing effectiveness +2%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Footwear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300013] = {
+		unidentifiedDisplayName = "Reginleif Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Cannot be destroyed.",
+			"ATK +30%, MATK -15%.",
+			"If equipped with Randgris Card, ATK +10% and Max HP +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Reginleif Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Cannot be destroyed.",
+			"ATK +30%, MATK -15%.",
+			"If equipped with Randgris Card, ATK +10% and Max HP +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300014] = {
+		unidentifiedDisplayName = "Ingrid Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Cannot be destroyed.",
+			"Max HP +40%, Attack -15%.",
+			"If equipped, ¬гonsumes 1000 HP every 4 seconds.",
+			"Drains 10,000 HP when unequipped.",
+			"If equipped with Randgris Card, Max HP +10% and ATK +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Ingrid Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Cannot be destroyed.",
+			"Max HP +40%, Attack -15%.",
+			"If equipped, ¬гonsumes 1000 HP every 4 seconds.",
+			"Drains 10,000 HP when unequipped.",
+			"If equipped with Randgris Card, Max HP +10% and ATK +5%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[300015] = {
+		unidentifiedDisplayName = "Purple Ferus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"ATK +3%, Max HP -5%, Max SP -5%, for every 4 refine levels ATK +1%.",
+			"If equipped with Gold Acidus Card, for every 4 footwear refine levels Max HP +4%, Max SP +4%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Purple Ferus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"ATK +3%, Max HP -5%, Max SP -5%, for every 4 refine levels ATK +1%.",
+			"If equipped with Gold Acidus Card, for every 4 footwear refine levels Max HP +4%, Max SP +4%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300016] = {
+		unidentifiedDisplayName = "Treasure Mimic Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"FLEE +20, Critical Rate +5.",
+			"If equipped with Ancient Mimic Card, Critical Damage +2% for every garment refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Treasure Mimic Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"FLEE +20, Critical Rate +5.",
+			"If equipped with Ancient Mimic Card, Critical Damage +2% for every garment refine level.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Garment^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300017] = {
+		unidentifiedDisplayName = "Black Acidus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"ATK against Shadow property monsters +25%.",
+			"If equipped with Santa Poring Card, additional ATK against Shadow property monsters +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Black Acidus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"ATK against Shadow property monsters +25%.",
+			"If equipped with Santa Poring Card, additional ATK against Shadow property monsters +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300018] = {
+		unidentifiedDisplayName = "Silver Acidus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"ATK against Holy property monsters +10%.",
+			"If equipped with Orc Skeleton Card, additional ATK against Holy property monsters +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Silver Acidus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"ATK against Holy property monsters +10%.",
+			"If equipped with Orc Skeleton Card, additional ATK against Holy property monsters +15%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300019] = {
+		unidentifiedDisplayName = "Bone Ferus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Physical damage inflicted on Dragon race monsters +5%.",
+			"When equipped with Bone Acidus Card, additional physical damage inflicted on Dragon race monsters +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bone Ferus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Physical damage inflicted on Dragon race monsters +5%.",
+			"When equipped with Bone Acidus Card, additional physical damage inflicted on Dragon race monsters +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300020] = {
+		unidentifiedDisplayName = "Bone Acidus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Physical damage inflicted on Brute type monsters +5%.",
+			"When equipped with Bone Ferus Card, additional physical damage inflicted on Brute type monsters +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory (R)^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bone Acidus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Physical damage inflicted on Brute type monsters +5%.",
+			"When equipped with Bone Ferus Card, additional physical damage inflicted on Brute type monsters +5%.",
+			"Class: ^777777Card^000000",
+			"Class: ^777777Accessory (R)^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[300021] = {
+		unidentifiedDisplayName = "Bone Detardeurus Card",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Physical damage inflicted on Dragon race monsters, Undead type monsters, Undead and Ghost property monsters +40%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bone Detardeurus Card",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Physical damage inflicted on Dragon race monsters, Undead type monsters, Undead and Ghost property monsters +40%.",
+			"Class: ^777777Card^000000",
+			"Jobs: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false,
+		EffectID = 1186
+	},
+	[32248] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Earrings",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Pendant R",
+		identifiedResourceName = "Ein_SAFETY_PENDR",
+		identifiedDescriptionName = {
+			"A medal for person responsible for safety of Einbech mine. ",
+			"It is a very valuable medal, only a few got it.",
+			"All stats +5, ASPD increases (Attack Delay -5%).",
+			"^ffffff_^000000",
+			"If equipped with Safety Epaulet R,",
+			"Max HP +10%, increases ASPD (Attack Delay -15%).",
+			"^ffffff_^000000",
+			"If equipped with Safety Epaulet B,",
+			"Max HP +10%, Variable Cast Time of all skills -15%.",
+			"^ffffff_^000000",
+			"If equipped with Safety Epaulet R or Safety Epaulet B and Einbech weapon.",
+			"Fixed Cast Time of all skills -0.3 ¬г¬Ц¬Ь., Cast Delay -7%.",
+			"Physical damage inflicted by enemies of any size -3%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Accessory (R)^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[32249] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Earrings",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Pendant B",
+		identifiedResourceName = "Ein_SAFETY_PENDL",
+		identifiedDescriptionName = {
+			"A medal for person responsible for safety of Einbech mine. ",
+			"It is a very valuable medal, only a few got it.",
+			"¬Ј¬г¬Ц ¬з¬С¬в¬С¬Ь¬д¬Ц¬в¬Ъ¬г¬д¬Ъ¬Ь¬Ъ +5, Variable Cast Time of all skills -5%.",
+			"^ffffff_^000000",
+			"If equipped with Safety Epaulet B,",
+			"Max HP +10%, Variable Cast Time of all skills -15% additionally.",
+			"^ffffff_^000000",
+			"If equipped with Safety Epaulet R,",
+			"Max HP +10%, increases ASPD (Attack Delay -15%).",
+			"^ffffff_^000000",
+			"If equipped with Safety Epaulet R or Safety Epaulet B and Einbech weapon.",
+			"Fixed Cast Time of all skills -0.3 ¬г¬Ц¬Ь., Cast Delay -7%.",
+			"Magic damage inflicted by enemies of all sizes -3%.",
+			"^ffffff_^000000",
+			"Class: ^777777Accessory (R)^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[32250] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Epaulet R",
+		identifiedResourceName = "Ein_SAFETY_EPAULR",
+		identifiedDescriptionName = {
+			"A shoulder boards for person responsible for safety of Einbech mine. ",
+			"It is a very rare shoulder boards, only a few got it. ",
+			"^ffffff_^000000",
+			"ATK +5%",
+			"^ffffff_^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[32251] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Epaulet B",
+		identifiedResourceName = "Ein_SAFETY_EPAULL",
+		identifiedDescriptionName = {
+			"A shoulder boards for person responsible for safety of Einbech mine. ",
+			"It is a very rare shoulder boards, only a few got it.",
+			"^ffffff_^000000",
+			"MATK +5%",
+			"^ffffff_^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2058] = {
+		unidentifiedDisplayName = "Two-handed staff",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Detecting Staff",
+		identifiedResourceName = "Ein_BHSTAFF",
+		identifiedDescriptionName = {
+			"A detector for special minerals in Einbech mine.",
+			"After the addition of the magic enhancement effect, it began to be used frequently for purposes other than its intended use, simply carried around while using the effects.",
+			"^ffffff_^000000",
+			"MATK +330, cannot be destroyed.",
+			"MATK +10%.",
+			"If refined to +11 and higher, MATK +60%. Variable Cast Time of all skills -10%.",
+			"If refined to +9 or higher, Fire property magic damage +15%.",
+			"With a certain chance magic damage inflicted on enemies of any size +20% for 10 sec. when performing a magic attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Two-handed staff^000000",
+			"Attack: ^777777180^000000",
+			"Weight: ^777777200^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Warlock and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 23,
+		costume = false
+	},
+	[13346] = {
+		unidentifiedDisplayName = "Huuma Shuriken",
+		unidentifiedResourceName = "??_??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = " Grinder Huuma Shuriken",
+		identifiedResourceName = "Ein_BHHuuma",
+		identifiedDescriptionName = {
+			"A grinder used in the Einbech mine. ",
+			"Despite of light weight, it has excellent cutting characteristics. ",
+			"^ffffff_^000000",
+			"ATK +15%, unbreakable.",
+			"Swirling Petal damage +15%.",
+			"If refined to +7 or higher, ATK +60, Variable Cast Time of all skills -15%. ",
+			"If refine rate is +9 or higher, Swirling Petal damage +20% additionally.",
+			"With a certain chance physical damage inflicted on enemies of any size +20% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, cooldown of Swirling Petal -1 second and Cast Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Huuma Shuriken^000000",
+			"Attack: ^777777280^000000",
+			"Weight: ^777777180^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Ninja and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 22,
+		costume = false
+	},
+	[21054] = {
+		unidentifiedDisplayName = "Two-Handed Sword",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Claw Sword",
+		identifiedResourceName = "Ein_BHSWORD",
+		identifiedDescriptionName = {
+			"A tool to remove various kinds of scrap at construction sites.",
+			"Can be used for many purposes.",
+			"^ffffff_^000000",
+			"ATK +15%, Critical Rate +5.",
+			"If refine rate is +7 or higher, Critical Damage +25%, increases ASPD (Attack Delay -10%).",
+			"If refine rate is +9 or higher, with a certain chance physical damage inflicted on enemies of any size +20% for 5 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Critical Rate +7 and Cast Delay -20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Two-handed Sword^000000 Attack: ^777777300^000000",
+			"Weight: ^777777350^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Rune Knight and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 49,
+		costume = false
+	},
+	[28045] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "Katar",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Bolt Crusher",
+		identifiedResourceName = "Ein_BHKATAR",
+		identifiedDescriptionName = {
+			"A tool used in Einbech mine to cut various metals. ",
+			"It was modified for battle use and has excellent cutting characteristic. ",
+			"^ffffff_^000000",
+			"ATK +10.",
+			"Rolling Cutter damage +10%.",
+			"If refine rate is +7 or higher, ATK +60 and increases ASPD (Attack Delay -10%).",
+			"If refine rate is +9 or higher, Rolling Cutter damage +15% additionally.",
+			"With a certain chance physical damage inflicted on enemies of any size +20% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Katar^000000 Attack: ^777777300^000000",
+			"Weight: ^777777200^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Guillotine Cross and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 16,
+		costume = false
+	},
+	[28140] = {
+		unidentifiedDisplayName = "Axe",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Saw Axe",
+		identifiedResourceName = "Ein_BHAXE",
+		identifiedDescriptionName = {
+			"Improved metal cutting tool that can now be used as a weapon.",
+			"The engine sound that the weapon emits with every movement makes opponents tremble with fear.",
+			"^ffffff_^000000",
+			"ATK +10%, unbreakable.",
+			"Arm Cannon damage +10%.",
+			"If refined to +7 or higher, ATK +60, Variable Cast Time of all skills -10%.",
+			"If refined to +9 or higher, Long-Ranged Physical Damage +10%.",
+			"With a certain chance physical damage inflicted on enemies of any size +15% for 5 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Two-handed Axe^000000 Attack: ^777777350^000000",
+			"Weight: ^777777500^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Mechanic and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 59,
+		costume = false
+	},
+	[18190] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Bolt Shooter",
+		identifiedResourceName = "Ein_BHBOW",
+		identifiedDescriptionName = {
+			"A tool used in Einbech mine to drive nails. ",
+			"It's been modified to be able to shoot ammunition. ",
+			"^ffffff_^000000",
+			"ATK +10.",
+			"Aimed Bolt damage +10%.",
+			"If refined to +7 or higher, ATK +60, Variable Cast Time of all skills -10%.",
+			"If refine rate is +9 or higher, Aimed Bolt damage additionally +15%.",
+			"With a certain chance physical damage inflicted on enemies of any size +20% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Bow^000000\n Attack: ^777777210^000000",
+			"Weight: ^777777170^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Ranger and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 73,
+		costume = false
+	},
+	[25809] = {
+		unidentifiedDisplayName = "Redium",
+		unidentifiedResourceName = "Ein_REDIUM",
+		unidentifiedDescriptionName = { "A red ore with great power, discovered deep underground." },
+		identifiedDisplayName = "Redium",
+		identifiedResourceName = "Ein_REDIUM",
+		identifiedDescriptionName = {
+			"A red ore with great power, discovered deep underground.",
+			"Weight: ^7777770.5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25810] = {
+		unidentifiedDisplayName = "Rindium",
+		unidentifiedResourceName = "Ein_RINDIUM",
+		unidentifiedDescriptionName = { "A green ore with great power, discovered deep underground." },
+		identifiedDisplayName = "Rindium",
+		identifiedResourceName = "Ein_RINDIUM",
+		identifiedDescriptionName = {
+			"A green ore with great power, discovered deep underground.",
+			"Weight: ^7777770.5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25811] = {
+		unidentifiedDisplayName = "Odium",
+		unidentifiedResourceName = "Ein_ODIUM",
+		unidentifiedDescriptionName = { "An orange ore with great power, discovered deep underground." },
+		identifiedDisplayName = "Odium",
+		identifiedResourceName = "Ein_ODIUM",
+		identifiedDescriptionName = {
+			"An orange ore with great power, discovered deep underground.",
+			"Weight: ^7777770.5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25812] = {
+		unidentifiedDisplayName = "Purdium",
+		unidentifiedResourceName = "Ein_PURDIUM",
+		unidentifiedDescriptionName = { "An purple ore with great power, discovered deep underground." },
+		identifiedDisplayName = "Purdium",
+		identifiedResourceName = "Ein_PURDIUM",
+		identifiedDescriptionName = {
+			"An purple ore with great power, discovered deep underground.",
+			"Weight: ^7777770.5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25813] = {
+		unidentifiedDisplayName = "Whidium",
+		unidentifiedResourceName = "Ein_WHIDIUM",
+		unidentifiedDescriptionName = { "An white ore with great power, discovered deep underground." },
+		identifiedDisplayName = "Whidium",
+		identifiedResourceName = "Ein_WHIDIUM",
+		identifiedDescriptionName = {
+			"An white ore with great power, discovered deep underground.",
+			"Weight: ^7777770.5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25814] = {
+		unidentifiedDisplayName = "Dynite",
+		unidentifiedResourceName = "Ein_DYNITE",
+		unidentifiedDescriptionName = {
+			"An ore that is obtained by refining 5 ores of minerals.",
+			"Glows brightly in five colours."
+		},
+		identifiedDisplayName = "Dynite",
+		identifiedResourceName = "Ein_DYNITE",
+		identifiedDescriptionName = {
+			"An ore that can be obtained by mixing 5 unknown ores.",
+			"Glows brightly in five colours.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25815] = {
+		unidentifiedDisplayName = "Hardened Dust",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "A pile of dust compressed into a briquette. ", "Can be sold to a collector" },
+		identifiedDisplayName = "Hardened Dust",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"A pile of dust compressed into a briquette. ",
+			"Can be sold to a collector",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25816] = {
+		unidentifiedDisplayName = "Broken Trap",
+		unidentifiedResourceName = "Ein_RUSTHELM",
+		unidentifiedDescriptionName = {
+			"Such traps are carried by Pitmen.",
+			"It looks like it hasn't been used in a while.",
+			"Can be sold to a collector"
+		},
+		identifiedDisplayName = "Broken Trap",
+		identifiedResourceName = "Ein_RUSTHELM",
+		identifiedDescriptionName = {
+			"Such traps are carried by Pitmen.",
+			"It looks like it hasn't been used in a while.",
+			"Can be sold to a collector",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25817] = {
+		unidentifiedDisplayName = "Bizarre Stone Fragment",
+		unidentifiedResourceName = "Ein_EYEROCK",
+		unidentifiedDescriptionName = {
+			"A stone fragment that fell off from a mineral.",
+			"These shards can be in different shapes, they are beautiful and fit well for creating jewellery.",
+			"Can be sold to a collector"
+		},
+		identifiedDisplayName = "Bizarre Stone Fragment",
+		identifiedResourceName = "Ein_EYEROCK",
+		identifiedDescriptionName = {
+			"A stone fragment that fell off from a mineral.",
+			"These shards can be in different shapes, they are beautiful and fit well for creating jewellery.",
+			"Can be sold to a collector",
+			"Weight: ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[32303] = {
+		unidentifiedDisplayName = "Revolver",
+		unidentifiedResourceName = "Revolver",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Bolt Revolver",
+		identifiedResourceName = "Ein_1HGUN",
+		identifiedDescriptionName = {
+			"A tool used in Einbech mine to drive nails. ",
+			"It's been modified to be able to shoot ammunition. ",
+			"^ffffff_^000000",
+			"Long-ranged physical damage +15%.",
+			"Fire Dance skill damage +15%.",
+			"If refine rate is +7 or higher, ATK +60 and increases ASPD (Attack Delay -10%).",
+			"If refine rate is +9 or higher, Fire Dance damage additionally +20%.",
+			"With a certain chance physical damage inflicted on enemies of any size +20% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Revolver^000000\n Attack: ^777777200^000000",
+			"Weight: ^777777180^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777[When used by Rebellion Jobs]^000000"
+		},
+		slotCount = 2,
+		ClassNum = 17,
+		costume = false
+	},
+	[9514] = {
+		unidentifiedDisplayName = "Physical Modification Permit",
+		unidentifiedResourceName = "Ein_Ddbox",
+		unidentifiedDescriptionName = {
+			"A permit for special Einbech weapons modification.",
+			"Modification of physical characteristics is available.",
+			"^ffffff_^000000",
+			"[Available Item] ",
+			"Grinder Huuma Shuriken",
+			"Rubber Hammer",
+			"Welding Wand",
+			"Detecting Staff",
+			"Metal Detector Mk47",
+			"Jewel Detector Mk47",
+			"Blocking Spear",
+			"Saw Axe",
+			"Claw Sword",
+			"Safety Knuckle",
+			"Safety Whip",
+			"Safety Manual",
+			"Safety Lute",
+			"Safety Saber",
+			"Safety Foxtail",
+			"Bolt Crusher",
+			"Bolt Shooter",
+			"Bolt Revolver",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Physical Modification Permit",
+		identifiedResourceName = "Ein_Ddbox",
+		identifiedDescriptionName = {
+			"A permit for special Einbech weapons modification.",
+			"Modification of physical characteristics is available.",
+			"^ffffff_^000000",
+			"[Available Item] ",
+			"Grinder Huuma Shuriken",
+			"Rubber Hammer",
+			"Welding Wand",
+			"Detecting Staff",
+			"Metal Detector Mk47",
+			"Jewel Detector Mk47",
+			"Blocking Spear",
+			"Saw Axe",
+			"Claw Sword",
+			"Safety Knuckle",
+			"Safety Whip",
+			"Safety Manual",
+			"Safety Lute",
+			"Safety Saber",
+			"Safety Foxtail",
+			"Bolt Crusher",
+			"Bolt Shooter",
+			"Bolt Revolver",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9515] = {
+		unidentifiedDisplayName = "Einbech Weapon Box",
+		unidentifiedResourceName = "Rafin Tuk Chest",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Einbech Weapon Box",
+		identifiedResourceName = "Rafin Tuk Chest",
+		identifiedDescriptionName = { "", "Weight: ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9517] = {
+		unidentifiedDisplayName = "Unidentified Ore",
+		unidentifiedResourceName = "Ein_UNDIUM",
+		unidentifiedDescriptionName = {
+			"Unidentified mineral",
+			"If you remove a layer of earth from the surface, you can find ore."
+		},
+		identifiedDisplayName = "Unidentified Ore",
+		identifiedResourceName = "Ein_UNDIUM",
+		identifiedDescriptionName = {
+			"Unidentified mineral",
+			"If you remove a layer of earth from the surface, you can find ore.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9529] = {
+		unidentifiedDisplayName = "Magical Modification Permit",
+		unidentifiedResourceName = "Ein_Ddbox2",
+		unidentifiedDescriptionName = {
+			"A permit for special Einbech weapons modification.",
+			"Modification of magical characteristics is available.",
+			"^ffffff_^000000",
+			"[Available Item] ",
+			"Grinder Huuma Shuriken",
+			"Rubber Hammer",
+			"Welding Wand",
+			"Detecting Staff",
+			"Metal Detector Mk47",
+			"Jewel Detector Mk47",
+			"Blocking Spear",
+			"Saw Axe",
+			"Claw Sword",
+			"Safety Knuckle",
+			"Safety Whip",
+			"Safety Manual",
+			"Safety Lute",
+			"Safety Saber",
+			"Safety Foxtail",
+			"Bolt Crusher",
+			"Bolt Shooter",
+			"Bolt Revolver",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Magical Modification Permit",
+		identifiedResourceName = "Ein_Ddbox2",
+		identifiedDescriptionName = {
+			"A permit for special Einbech weapons modification.",
+			"Modification of magical characteristics is available.",
+			"^ffffff_^000000",
+			"[Available Item] ",
+			"Grinder Huuma Shuriken",
+			"Rubber Hammer",
+			"Welding Wand",
+			"Detecting Staff",
+			"Metal Detector Mk47",
+			"Jewel Detector Mk47",
+			"Blocking Spear",
+			"Saw Axe",
+			"Claw Sword",
+			"Safety Knuckle",
+			"Safety Whip",
+			"Safety Manual",
+			"Safety Lute",
+			"Safety Saber",
+			"Safety Foxtail",
+			"Bolt Crusher",
+			"Bolt Shooter",
+			"Bolt Revolver",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1867] = {
+		unidentifiedDisplayName = "Claw",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Knuckle",
+		identifiedResourceName = "Ein_1HKNUCK",
+		identifiedDescriptionName = {
+			"Allows Einbech mine workers to feel more confident.",
+			"These knuckles are so durable and handy that they were once modernised by adding useful accessories and were used in real combat.",
+			"^ffffff_^000000",
+			"ATK +10.",
+			"Knuckle Arrow damage +10%.",
+			"If refine rate is +7 or higher, ATK +40 and increases ASPD (Attack Delay -15%).",
+			"If refine rate is +9 or higher, Knuckle Arrow damage additionally +15%. ",
+			"With a certain chance physical damage inflicted on enemies of any size +15% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Knuckle^000000 Attack: ^777777210^000000",
+			"Weight: ^777777180^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Sura and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 12,
+		costume = false
+	},
+	[16099] = {
+		unidentifiedDisplayName = "Club",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Rubber Hammer",
+		identifiedResourceName = "Ein_1HHAMMER",
+		identifiedDescriptionName = {
+			"A hammer to explore Einbech mine.",
+			"Used as the primary tool for mine exploring. These hammers are very durable and handy. They can be used for combat purposes as well.",
+			"^ffffff_^000000",
+			"MATK +180, cannot be destroyed.",
+			"MATK +7%.",
+			"Heal +15%, Adoramus damage +10%",
+			"If refine rate is +7 or higher, Holy property magic damage +7% and Variable Cast Time of all skills -10%.",
+			"If refine rate is +9 or higher, Adoramus damage additionally +15%.",
+			"With a certain chance magic damage inflicted on enemies of any size +15% for 5 sec. when performing a magic attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Club^000000\n Attack: ^777777160^000000",
+			"Weight: ^777777190^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Archbishop and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 8,
+		costume = false
+	},
+	[26162] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Welding Wand",
+		identifiedResourceName = "Ein_1HWAND",
+		identifiedDescriptionName = {
+			"A welding tool charged with magical power.",
+			"Greatly enhances magical abilities, widely used in combat.",
+			"^ffffff_^000000",
+			"MATK +200. Cannot be destroyed.",
+			"Neutral, Water and Fire properties magic damage +7%.",
+			"If refined to +7 or higher, MATK +40, Variable Cast Time of all skills -10%.",
+			"If refined to +9 or higher, Earth, Neutral and Fire property magic damage +8% additionally.",
+			"With a certain chance magic damage inflicted on enemies of any size +15% for 10 sec. when performing a magic attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777One-handed staff^000000",
+			"Attack: ^777777160^000000",
+			"Weight: ^777777120^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Mage and subclasses, Medium and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 10,
+		costume = false
+	},
+	[26215] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Whip",
+		identifiedResourceName = "Ein_1HWHIP",
+		identifiedDescriptionName = {
+			"A rope whip used for rescue operations at Einbech mine. ",
+			"More often, however, it is not used for rescue, but for entirely different purposes. ",
+			"^ffffff_^000000",
+			"Long-ranged physical damage +10%.",
+			"Severe Rainstorm damage +10%.",
+			"If refined to +7 or higher, ATK +40, Variable Cast Time of all skills -10%. ",
+			"If refine rate is +9 or higher, Severe Rainstorm damage +15% additionally.",
+			"With a certain chance physical damage inflicted on enemies of any size +15% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Severe Rainstorm cooldown -2 sec. Cast Delay -20% ",
+			"^ffffff_^000000",
+			"Class: ^777777Whip^000000\n Attack: ^777777200^000000",
+			"Weight: ^777777140^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Wanderer and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 14,
+		costume = false
+	},
+	[28635] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Manual",
+		identifiedResourceName = "Ein_1HBOOK",
+		identifiedDescriptionName = {
+			"A book with useful tips about industrial accidents or natural disasters. ",
+			"When you hold it in your hands, it already feels like it's getting safer. ",
+			"^ffffff_^000000",
+			"ATK +10%, Critical Rate +3.",
+			"If refine rate is +7 or higher, ATK +40 and increases ASPD (Attack Delay -10%).",
+			"If refine rate is +9 or higher, Critical Damage +15%, with a certain chance physical damage inflicted on enemies of any size +15% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Critical Damage additionally +15%, Cast Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Book^000000 Attack: ^777777200^000000",
+			"Weight: ^77777770^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Star Emperor^000000"
+		},
+		slotCount = 2,
+		ClassNum = 15,
+		costume = false
+	},
+	[28771] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Metal Detector Mk47",
+		identifiedResourceName = "Ein_1HDAGGER",
+		identifiedDescriptionName = {
+			"A small metal detector for use in a mine.",
+			"It's light and durable, it's often used for self-defence as well.",
+			"^ffffff_^000000",
+			"ATK +10.",
+			"Sonic Blow damage +10%. ",
+			"If refine rate is +7 or higher, ATK +40 and increases ASPD (Attack Delay -10%).",
+			"If refine rate is +9 or higher, Sonic Blow damage additionally +15%.  ",
+			"With a certain chance physical damage inflicted on enemies of any size +15% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Dagger^000000\nAttack: ^777777200^000000",
+			"Weight: ^777777100^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Guillotine Cross and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 1,
+		costume = false
+	},
+	[28772] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Jewel Detector Mk47",
+		identifiedResourceName = "Ein_1HMAGGER",
+		identifiedDescriptionName = {
+			"A small jewel detector for use in a mine.",
+			"Increases the owner's power, can be used for a variety of purposes.",
+			"^ffffff_^000000",
+			"MATK +180. ",
+			"MATK +10%.",
+			"Fire and Neutral property magic damage +7%. ",
+			"If refine rate is +7 or higher, MATK +40 and increases ASPD (Attack Delay -10%).",
+			"When refined to +9 or higher, Neutral, Fire property magic damage +8% additionaly. ",
+			"With a certain chance magic damage inflicted on enemies of any size +15% for 10 sec. when performing ATK.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Dagger^000000\nAttack: ^777777190^000000",
+			"Weight: ^777777100^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Shadow Chaser and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 1,
+		costume = false
+	},
+	[32026] = {
+		unidentifiedDisplayName = "Spear",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Blocking Spear",
+		identifiedResourceName = "Ein_1HSPEAR",
+		identifiedDescriptionName = {
+			"An item blocking access to the danderous zone at Einbech mine.",
+			"The spear is so hard that it became an excellent battle weapon. ",
+			"^ffffff_^000000",
+			"ATK +10.",
+			"Vanishing Point damage +10%.",
+			"If refine rate is +7 or higher, ATK +40 and increases ASPD (Attack Delay -10%).",
+			"If refine rate is +9 or higher, Vanishing Point damage additionally +15%. ",
+			"With a certain chance physical damage inflicted on enemies of any size +15% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777One-handed spear^000000 Attack: ^777777210^000000",
+			"Weight: ^777777300^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Royal Guard and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 4,
+		costume = false
+	},
+	[32110] = {
+		unidentifiedDisplayName = "Musical Instrument",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Lute",
+		identifiedResourceName = "Ein_1HLUTE",
+		identifiedDescriptionName = {
+			"It was made to invigorate the workers of Einbech mine or to alert them to an emergency. ",
+			"Of course, it can not be compared with a guitar, but it sounds louder. ",
+			"^ffffff_^000000",
+			"Long-ranged physical damage +10%.",
+			"Severe Rainstorm damage +10%.",
+			"If refined to +7 or higher, ATK +40, Variable Cast Time of all skills -10%. ",
+			"If refine rate is +9 or higher, Severe Rainstorm damage +15% additionally.",
+			"With a certain chance physical damage inflicted on enemies of any size +15% for 10 sec. when performing a physical attack.",
+			"If refine rate is +11 or higher, Severe Rainstorm cooldown -2 sec. Cast Delay -20% ",
+			"^ffffff_^000000",
+			"Class: ^777777Musical Instrument^000000\n Attack: ^777777200^000000",
+			"Weight: ^777777140^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Maestro and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 13,
+		costume = false
+	},
+	[32352] = {
+		unidentifiedDisplayName = "Sword",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Saber",
+		identifiedResourceName = "Ein_1HSWORD",
+		identifiedDescriptionName = {
+			"A sword for lighting the way in mine and for self-defence.",
+			"Shines brightly when danger is near. ",
+			"^ffffff_^000000",
+			"ATK +10.",
+			"Cart Cannon damage +10%.",
+			"If refined to +7 or higher, ATK +40, Variable Cast Time of all skills -10%.",
+			"If refine rate is +9 or higher, Cart Cannon damage additionally +15%, ranged physical damage +7%.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"^ffffff_^000000",
+			"Class: ^777777Sword^000000 Attack: ^777777200^000000",
+			"Weight: ^777777250^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Geneticist and subclasses^000000"
+		},
+		slotCount = 2,
+		ClassNum = 2,
+		costume = false
+	},
+	[550006] = {
+		unidentifiedDisplayName = "One-handed staff",
+		unidentifiedResourceName = "Staff",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Safety Foxtail",
+		identifiedResourceName = "Ein_1H_Foxtail",
+		identifiedDescriptionName = {
+			"A foxtail that grew at Einbech mine.",
+			"It is solid like steel, perhaps because of mysterious minerals in it. ",
+			"_",
+			"MATK +350, cannot be destroyed.",
+			"ATK +7%, MATK +7%.",
+			"CN Meteor and Picky Peck damage +15%.",
+			"If refine rate is +7 or higher, ASPD increases (Attack Delay -10%) and Variable Cast Time of all skills -10%. ",
+			"If refine rate is +9 or higher, CN Meteor and Picky Peck damage additionally +20.",
+			"With a certain chance physical or magic damage inflicted on enemies of any size +10% for +10 sec. when performing a physical or magical attack.",
+			"If refine rate is +11 or higher, Skill Delay -20%. ",
+			"_",
+			"Class: ^777777One-handed staff^000000",
+			"Attack: ^777777300^000000",
+			"Weight: ^777777150^000000",
+			"Weapon level: ^7777774^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777Doram Summoner^000000"
+		},
+		slotCount = 2,
+		ClassNum = 102,
+		costume = false
+	},
+	[15391] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "Armor",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Red Dragon Plate",
+		identifiedResourceName = "DragonA_Red",
+		identifiedDescriptionName = {
+			"Armor that concentrated energy of dragon for a long time. ",
+			"Once you will put it on, you will get the dragon's power.",
+			"",
+			"STR +12, Max HP +15%, Max SP +10%.",
+			"ATK +2% for every 2 refine levels.",
+			"Physical damage inflicted on Dragon race monsters +7% for every 3 refine levels.",
+			"If refine rate is +11 or higher, physical damage inflicted on large and medium-size monsters +10%, Fixed Cast Time of all skills -0.2 sec.",
+			" ",
+			"If equipped with Dragon Scale Boots and Dragon Scale Hood",
+			"DEF +50, MDEF +8, ATK +5%.",
+			"For every 15 STR points, ATK +15.",
+			"[Dragon's Power]",
+			"With a certain chance ATK +10% for 10 sec. when receiving damage.",
+			"If STR is 120 or higher, chance of Dragon's Power activation increases, ATK additionally +15%.",
+			"",
+			"If total refine rate of Red Dragon Plate, Dragon Scale Boots, Dragon Scale Hood is +33",
+			"ASPD increases (Attack Delay -20%).",
+			"Cast Delay -25%.",
+			"Jobs: ^777777Armor^000000 Defence: ^777777110^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15392] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "Armor",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Green Dragon Plate",
+		identifiedResourceName = "DragonA_Green",
+		identifiedDescriptionName = {
+			"Armor that concentrated energy of dragon for a long time. ",
+			"Once you will put it on, you will get the dragon's speed.",
+			"",
+			"AGI +12, Max HP +10%, Max SP +10%. ",
+			"Long-ranged physical damage +2% for every 2 refine levels additionally.",
+			"Physical damage inflicted on Dragon race monsters +7% for every 3 refine levels.",
+			"If refine rate is +11 or higher, physical damage inflicted on large and medium-size monsters +10%, Fixed Cast Time of all skills -0.2 sec.",
+			" ",
+			"If equipped with Dragon Scale Boots and Dragon Scale Hood ",
+			"DEF +50, MDEF +8, long-ranged physical damage +7%.",
+			"For every 15 AGI points, ASPD increases (Attack Delay -4%).",
+			"[Dragon's Shot]",
+			"With a certain chance ATK +10% for 10 sec. when receiving damage.",
+			"If AGI is 120 or higher, chance of Dragon's Shot activation increases, ranged physical damage additionally +10%. ",
+			"",
+			"If total refine rate of Green Dragon Plate, Dragon Scale Boots, Dragon Scale Hood is +33",
+			"ASPD increases (Attack Delay -20%).",
+			"Cast Delay -25%.",
+			"Jobs: ^777777Armor^000000 Defence: ^777777110^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15393] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "Armor",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Gold Dragon Plate",
+		identifiedResourceName = "DragonA_Gold",
+		identifiedDescriptionName = {
+			"Armor that concentrated energy of dragon for a long time. ",
+			"Once you will put it on, you will get the dragon's stamina.",
+			"",
+			"VIT +12, Max. HP +20%, Max. SP +5%.",
+			"Variable Cast Time of all skills -3% and increases ASPD (Attack Delay -3%) for every 2 refine levels.",
+			"Physical and magic damage inflicted on Dragon race monsters +7% for every 3 refine levels.",
+			"If refine rate is +11 or higher, physical/magic damage inflicted on large and medium-size monsters +6%, Fixed Cast Time of all skills -0.2 sec.",
+			" ",
+			"If equipped with Dragon Scale Boots and Dragon Scale Hood",
+			"AGI +80, DEF +15, Max HP +10%.",
+			"For every 30 VIT points and more, physical/magic damage inflicted by large and medium-size monsters -1%.",
+			"[Dragon's Health]",
+			"With a certain chance physical/magic damage inflicted by all size enemies -7% for 10 sec. when receiving damage.",
+			"If VIT is 120 or higher, chance of Dragon's Health activation increases, damage inflicted by all size enemies additionally -5%.",
+			"",
+			"If total refine rate of Gold Dragon Plate, Dragon Scale Boots, Dragon Scale Hood is +33",
+			"ASPD increases (Attack Delay -20%).",
+			"Cast Delay -25%.",
+			"Jobs: ^777777Armor^000000 Defence: ^777777110^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15394] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "Armor",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Purple Dragon Plate",
+		identifiedResourceName = "DragonA_Purple",
+		identifiedDescriptionName = {
+			"Armor that concentrated energy of dragon for a long time. ",
+			"Once you will put it on, you will get the dragon's dexterity.",
+			"",
+			"DEX +12, Max HP +15%, Max SP +10%. ",
+			"Variable Cast Time of all skills -4% and increases ASPD (Attack Delay -4%) for every 2 refine levels.",
+			"Physical and magic damage inflicted on Dragon race monsters +8% for every 3 refine levels.",
+			"If refine rate is +11 or higher, physical/magic damage inflicted on large and medium-size monsters +8%, Fixed Cast Time of all skills -0.2 sec. ",
+			" ",
+			"If equipped with Dragon Scale Boots and Dragon Scale Hood ",
+			"DEF +50, MDEF +8, ATK +5%, MATK +5%.",
+			"For every 15 DEX points, ASPD increases (Attack Delay -3%) and Variable Cast Time of all skills -3%.",
+			"[Dragon's Speed]",
+			"With a certain chance FLEE +50 and Perfect Dodge +10 for 10 sec. when receiving damage.",
+			"If DEX is 120 or higher, chance of Dragon's Speed activation increases, FLEE +30, Perfect Dodge additionally +5. ",
+			"",
+			"If total refine rate of Purple Dragon Plate, Dragon Scale Boots, Dragon Scale Hood is +33 ",
+			"ASPD increases (Attack Delay -15%) and Variable Cast Time of all skills -15%.",
+			"Cast Delay -25%.",
+			"Jobs: ^777777Armor^000000 Defence: ^777777110^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15395] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "Armor",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Blue Dragon Plate",
+		identifiedResourceName = "DragonA_Blue",
+		identifiedDescriptionName = {
+			"Armor that concentrated energy of dragon for a long time. ",
+			"Once you will put it on, you will get the dragon's wisdom.",
+			"",
+			"INT +12, Max. HP +5%, Max. SP +5%.",
+			"MATK +2 and Heal +4% for every 2 refine levels.",
+			"Magic damage inflicted on Dragon race monsters +7% for every 3 refine levels.",
+			"If refine rate is +11 or higher, magic damage inflicted on large and medium-size monsters +10%, Fixed Cast Time of all skills -0.2 sec.",
+			" ",
+			"If equipped with Dragon Scale Boots and Dragon Scale Hood",
+			"DEF +50, MDEF +8, MATK +7%, Heal +15%.",
+			"For every 15 INT points, Variable Cast Time of all skills -4%.",
+			"[Dragon's Wisdom]",
+			"With a certain chance all property magic damage +10% and Heal +20% for +40 sec. when receiving damage.",
+			"If INT is 120 or higher, chance of Dragon's Wisdom activation increases, all property magic damage +10%.",
+			"",
+			"If total refine rate of Blue Dragon Plate, Dragon Scale Boots, Dragon Scale Hood is +33",
+			"Variable Cast Time of all skills -20%.",
+			"Cast Delay -25%.",
+			"Jobs: ^777777Armor^000000 Defence: ^777777110^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15396] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "Armor",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Silver Dragon Plate",
+		identifiedResourceName = "DragonA_Silver",
+		identifiedDescriptionName = {
+			"Armor that concentrated energy of dragon for a long time. ",
+			"Once you will put it on, you will get the dragon's luck.",
+			"",
+			"LUK +12, Max HP +15%, Max SP +15%. ",
+			"Critical Rate +2 for every 2 refine levels, Critical Damage +4%.",
+			"Physical damage inflicted on Dragon race monsters +7% for every 3 refine levels.",
+			"If refine rate is +11 or higher, physical damage inflicted on large and medium-size monsters +10%, Fixed Cast Time of all skills -0.2 sec.",
+			" ",
+			"If equipped with Dragon Scale Boots and Dragon Scale Hood",
+			"DEF +50, MDEF +8, ATK +5%.",
+			"For every 15 LUK points, Critical Rate +2, additional Critical Damage +3%.",
+			"[Dragon's Luck]",
+			"With a certain chance ATK +10% and Critical Damage +10% for +7 sec. when receiving damage.",
+			"If LUK is 120 or higher, chance of Dragon's Luck activation increases, ATK +7%, additional Critical Damage +10%.",
+			"",
+			"If total refine rate of Silver Dragon Plate, Dragon Scale Boots, Dragon Scale Hood is +33 ",
+			"ASPD Increase (delay after attack -20%)",
+			"Cast Delay -25%.",
+			"Jobs: ^777777Armor^000000 Defence: ^777777110^000000",
+			"Weight: ^777777120^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15397] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "Cotton Shirt",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Soutane of Strength",
+		identifiedResourceName = "CassockA_STR",
+		identifiedDescriptionName = {
+			"Wear of the priests who revered Odin's strength above all other abilities. ",
+			"Gives a blessing that increases the strength.",
+			"Max HP +10%, Max SP +10%.",
+			"ASPD increases (Attack Delay -10%).",
+			"ATK +3% for every 2 refine levels. ",
+			"STR +5 for every 3 refine levels. ",
+			"Physical damage inflicted on Angel and Demon race monsters +8% for every 4 refine levels.",
+			"",
+			"If equipped with Clergy's Boots and Clergy's Manteau ",
+			"STR +8, DEF +30, MDEF +15. ",
+			"Physical/magic damage inflicted by Angel and Demon race monsters -15%.",
+			"",
+			"If total refine rate of Soutane of Strength, Clergy's Boots and Clergy's Manteau is +27 ",
+			"ATK +10.",
+			"Cast Delay -20%. ",
+			"Fixed Cast Time of all skills -20%. ",
+			"Jobs: ^777777Armor^000000 Defence: ^777777100^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15398] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "Cotton Shirt",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Soutane of Agility",
+		identifiedResourceName = "CassockA_AGI",
+		identifiedDescriptionName = {
+			"Wear of the priests who revered Odin's agility above all other abilities. ",
+			"Gives a blessing that increases the agility.",
+			"Max HP +10%, Max SP +10%.",
+			"ASPD increases (Attack Delay -10%).",
+			"Long-ranged physical damage +3% for every 2 refine levels additionally. ",
+			"AGI +5 for every 3 refine levels. ",
+			"Physical damage inflicted on Angel and Demon race monsters +8% for every 4 refine levels.",
+			"",
+			"If equipped with Clergy's Boots and Clergy's Manteau ",
+			"AGI +8, DEF +30, MDEF +15. ",
+			"Physical/magic damage inflicted by Angel and Demon race monsters -15%.",
+			"",
+			"If total refine rate of Soutane of Agility, Clergy's Boots and Clergy's Manteau is +27 ",
+			"Long-ranged physical damage +10%.",
+			"Cast Delay -20%. ",
+			"Fixed Cast Time of all skills -20%. ",
+			"Jobs: ^777777Armor^000000 Defence: ^777777100^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15399] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "Cotton Shirt",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Soutane of Vitality",
+		identifiedResourceName = "CassockA_VIT",
+		identifiedDescriptionName = {
+			"Wear of the priests who revered Odin's vitality above all other abilities. ",
+			"Gives a blessing that increases health.",
+			"Max HP +15%, Max SP +5%.",
+			"ASPD increases (Attack Delay -7%).",
+			"Variable Cast Time of all skills -7%.",
+			"Max HP +2% for every 2 refine levels. ",
+			"VIT +5 for every 3 refine levels. ",
+			"Physical and magic damage inflicted on Angel and Demon race monsters +10% for every 4 refine levels.",
+			"",
+			"If equipped with Clergy's Boots and Clergy's Manteau ",
+			"VIT +8, DEF +50, MDEF +20. ",
+			"Physical/magic damage inflicted by Angel and Demon race monsters -20%.",
+			"",
+			"If total refine rate of Soutane of Vitality, Clergy's Boots and Clergy's Manteau is +27 ",
+			"ATK +4%, MATK +4%.",
+			"Cast Delay -20%. ",
+			"Fixed Cast Time of all skills -20%. ",
+			"Jobs: ^777777Armor^000000 Defence: ^777777100^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15400] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "Cotton Shirt",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Soutane of Dexterity",
+		identifiedResourceName = "CassockA_DEX",
+		identifiedDescriptionName = {
+			"Wear of the priests who revered Odin's dexterity above all other abilities. ",
+			"Gives a blessing that increases dexterity.",
+			"Max HP +10%, Max SP +10%.",
+			"ASPD increases (Attack Delay -10%) and Variable Cast Time of all skills -10%.",
+			"ATK +1%, MATK +1% for every 2 refine levels.",
+			"DEX +5 for every 3 refine levels. ",
+			"Physical and magic damage inflicted on Angel and Demon race monsters +6% for every 4 refine levels.",
+			"",
+			"If equipped with Clergy's Boots and Clergy's Manteau ",
+			"DEX +8, DEF +30, MDEF +15. ",
+			"Physical/magic damage inflicted by Angel and Demon race monsters -15%.",
+			"",
+			"If total refine rate of Soutane of Dexterity, Clergy's Boots and Clergy's Manteau is +27 ",
+			"ATK +7%, MATK +7%.",
+			"",
+			"Cast Delay -20%. ",
+			"Fixed Cast Time of all skills -20%. ",
+			"Jobs: ^777777Armor^000000 Defence: ^777777100^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15401] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "Cotton Shirt",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Soutane of Intellect",
+		identifiedResourceName = "CassockA_INT",
+		identifiedDescriptionName = {
+			"Wear of the priests who revered Odin's intellect above all other abilities. ",
+			"Gives a blessing that increases intellect.",
+			"Max HP +5%, Max. SP +15%.",
+			"Variable Cast Time of all skills -10%.",
+			"MATK +3% for every 2 refine levels.",
+			"INT +5 for every 3 refine levels. ",
+			"Magic damage inflicted on Angel and Demon race monsters +8% for every 4 refine levels.",
+			"",
+			"If equipped with Clergy's Boots and Clergy's Manteau ",
+			"INT +8, DEF +30, MDEF +15. ",
+			"Physical/magic damage inflicted by Angel and Demon race monsters -15%.",
+			"",
+			"If total refine rate of Soutane of Intellect, Clergy's Boots and Clergy's Manteau is +27 ",
+			"MATK +10%.",
+			"Cast Delay -20%. ",
+			"Fixed Cast Time of all skills -20%. ",
+			"Jobs: ^777777Armor^000000 Defence: ^777777100^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15402] = {
+		unidentifiedDisplayName = "Mantle",
+		unidentifiedResourceName = "Cotton Shirt",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Soutane of Luck",
+		identifiedResourceName = "CassockA_LUK",
+		identifiedDescriptionName = {
+			"Wear of the priests who revered Odin's luck above all other abilities. ",
+			"Gives a blessing that increases luck.",
+			"Max HP +10%, Max SP +10%.",
+			"ASPD increases (Attack Delay -10%).",
+			"Critical Rate +3 for every 2 refine levels, Critical Damage +4%. ",
+			"LUK +5 for every 3 refine levels. ",
+			"Physical damage inflicted on Angel and Demon race monsters +8% for every 4 refine levels.",
+			"",
+			"If equipped with Clergy's Boots and Clergy's Manteau ",
+			"LUK +8, DEF +30, MDEF +15. ",
+			"If total refine rate of Soutane of Luck, Clergy's Boots and Clergy's Manteau is +27 ",
+			"ATK +10.",
+			"Cast Delay -20%. ",
+			"Fixed Cast Time of all skills -20%. ",
+			"Jobs: ^777777Armor^000000 Defence: ^777777100^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20946] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "Scarf",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Dragon Scale Hood",
+		identifiedResourceName = "Drag_Manteau",
+		identifiedDescriptionName = {
+			"A hood made from pieces of the skin of a mighty dragon.",
+			"Once you will put it on, you will get the dragon's power.",
+			"",
+			"DEF +25, MDEF +2.",
+			"Incoming recovery skills and item effect +15%.",
+			"If refine rate is +7, damage inflicted by Dragon race monsters additionally -2%. ",
+			"If refine rate is +9 or higher, with a certain chance recovers 2000 HP per second for 3 sec. when receiving a physical/magic damage.",
+			"If refine rate is +11, damage inflicted by Dragon race monsters additionally -3%. ",
+			"Class: ^777777Garment^000000 Defence: ^77777723^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20947] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Clergy's Manteau",
+		identifiedResourceName = "Cassock_Manteau",
+		identifiedDescriptionName = {
+			"The manteau of the priests who worships Odin. ",
+			"The blessing of this cloak envelops body with special warmth.",
+			"",
+			"Max SP +5%, MDEF +10.",
+			"Variable Cast Time of all skills -10%.",
+			"Magic damage inflicted on Angel and Demon race monsters +1% for every 2 refine levels.",
+			"Magic damage inflicted by Angel and Demon race monsters -1% for every 3 refine levels.",
+			"If refine rate is +7 or higher, Variable Cast Time of all skills -10% additionally.",
+			"Class: ^777777Garment^000000 Defence: ^77777740^000000",
+			"Weight: ^77777745^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22208] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "Shoes",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Dragon Scale Boots",
+		identifiedResourceName = "Dragon_Boots",
+		identifiedDescriptionName = {
+			"Boots made from pieces of the skin of a mighty dragon. ",
+			"Once you will put it on, you will feel the dragon's might.",
+			"",
+			"Max SP +500. ",
+			"ASPD increases (Attack Delay -7%) and Variable Cast Time of all skills -7%. ",
+			"If refine rate is +7, damage inflicted by Dragon race monsters additionally -2%. ",
+			"If refine rate is +9 or higher, with a certain chance recovers 500 SP per second for 3 sec. when receiving a physical/magic damage. ",
+			"If refine rate is +11, damage inflicted by Dragon race monsters additionally -3%. ",
+			"Class: ^777777Footwear^000000 Defense: ^77777735^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22209] = {
+		unidentifiedDisplayName = "Boots",
+		unidentifiedResourceName = "Boots",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Clergy's Boots",
+		identifiedResourceName = "Cassock_Boots",
+		identifiedDescriptionName = {
+			"The boots of the priests who worships Odin. ",
+			"Consecrated boots allow you to move easier.",
+			"",
+			"Max HP +5%, DEF +30.",
+			"ASPD increases (Attack Delay -10%). ",
+			"Physical damage inflicted on Angel and Demon race monsters +1% for every 2 refine levels.",
+			"Magic damage inflicted by Angel and Demon race monsters -1% for every 3 refine levels.",
+			"If refine rate is +7 or higher, ASPD increases (Attack Delay -10%). ",
+			"Jobs: ^777777Footwear^000000 Defense: ^77777735^000000",
+			"Weight: ^77777740^000000",
+			"Required Level: ^777777170^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[25759] = {
+		unidentifiedDisplayName = "Green Dragon Orb",
+		unidentifiedResourceName = "Dragenergy_Green",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the green dragon.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Green Dragon Orb",
+		identifiedResourceName = "Dragenergy_Green",
+		identifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the green dragon.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25760] = {
+		unidentifiedDisplayName = "Blue Dragon Orb",
+		unidentifiedResourceName = "Dragenergy_Blue",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the blue dragon.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Blue Dragon Orb",
+		identifiedResourceName = "Dragenergy_Blue",
+		identifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the blue dragon.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25761] = {
+		unidentifiedDisplayName = "Red Dragon Orb",
+		unidentifiedResourceName = "Dragenergy_Red",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the red dragon.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Red Dragon Orb",
+		identifiedResourceName = "Dragenergy_Red",
+		identifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the red dragon.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25762] = {
+		unidentifiedDisplayName = "Gold Dragon Orb",
+		unidentifiedResourceName = "Dragenergy_Gold",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the gold dragon.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Gold Dragon Orb",
+		identifiedResourceName = "Dragenergy_Gold",
+		identifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the gold dragon.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25763] = {
+		unidentifiedDisplayName = "Purple Dragon Orb",
+		unidentifiedResourceName = "Dragenergy_Purple",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the purple dragon.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Purple Dragon Orb",
+		identifiedResourceName = "Dragenergy_Purple",
+		identifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the purple dragon.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25764] = {
+		unidentifiedDisplayName = "Silver Dragon Orb",
+		unidentifiedResourceName = "Dragenergy_Silver",
+		unidentifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the silver dragon.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Silver Dragon Orb",
+		identifiedResourceName = "Dragenergy_Silver",
+		identifiedDescriptionName = {
+			"A mysterious crystal that holds the power of the silver dragon.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25765] = {
+		unidentifiedDisplayName = "Bone of Huge Dragon",
+		unidentifiedResourceName = "Drabone_L",
+		unidentifiedDescriptionName = {
+			"A well-preserved bone of a huge dragon.",
+			"The ancient bone darkened, but there is still a powerful dragon energy emanating from it.",
+			"Weight: ^77777720^000000"
+		},
+		identifiedDisplayName = "Bone of Huge Dragon",
+		identifiedResourceName = "Drabone_L",
+		identifiedDescriptionName = {
+			"A well-preserved bone of a huge dragon.",
+			"The ancient bone darkened, but there is still a powerful dragon energy emanating from it.",
+			"Weight: ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25766] = {
+		unidentifiedDisplayName = "Bone of Small Dragon",
+		unidentifiedResourceName = "Drabone_S",
+		unidentifiedDescriptionName = {
+			"A well-preserved bone of a small dragon.",
+			"The ancient bone darkened, but there is still a powerful dragon energy emanating from it.",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Bone of Small Dragon",
+		identifiedResourceName = "Drabone_S",
+		identifiedDescriptionName = {
+			"A well-preserved bone of a small dragon.",
+			"The ancient bone darkened, but there is still a powerful dragon energy emanating from it.",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25767] = {
+		unidentifiedDisplayName = "Angel's Dream",
+		unidentifiedResourceName = "Angel_Dream",
+		unidentifiedDescriptionName = {
+			"A mysterious small round item.",
+			"A beautiful item that emanates warmth.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Angel's Dream",
+		identifiedResourceName = "Angel_Dream",
+		identifiedDescriptionName = {
+			"A mysterious small round item.",
+			"A beautiful item that emanates warmth.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25768] = {
+		unidentifiedDisplayName = "Valkyrie Ingrid's Armor Fragment",
+		unidentifiedResourceName = "Shard_Blue",
+		unidentifiedDescriptionName = { "A fragment of the armor worn by Valkyrie Ingrid.", "Weight: ^7777773^000000" },
+		identifiedDisplayName = "Valkyrie Ingrid's Armor Fragment",
+		identifiedResourceName = "Shard_Blue",
+		identifiedDescriptionName = { "A fragment of the armor worn by Valkyrie Ingrid.", "Weight: ^7777773^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25769] = {
+		unidentifiedDisplayName = "Valkyrie Reginleif's Armor Fragment",
+		unidentifiedResourceName = "Shard_Gold",
+		unidentifiedDescriptionName = { "A fragment of the armor worn by Valkyrie Reginleif.", "Weight: ^7777773^000000" },
+		identifiedDisplayName = "Valkyrie Reginleif's Armor Fragment",
+		identifiedResourceName = "Shard_Gold",
+		identifiedDescriptionName = { "A fragment of the armor worn by Valkyrie Reginleif.", "Weight: ^7777773^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25770] = {
+		unidentifiedDisplayName = "Valkyrie Reginleif's Armor",
+		unidentifiedResourceName = "Broken Armor Fragment",
+		unidentifiedDescriptionName = {
+			"The armor worn by Reginleif, a battle maiden who serves Odin.",
+			"Was severely damaged in battle.",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Valkyrie Reginleif's Armor",
+		identifiedResourceName = "Broken Armor Fragment",
+		identifiedDescriptionName = {
+			"The armor worn by Reginleif, a battle maiden who serves Odin.",
+			"Was severely damaged in battle.",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[25771] = {
+		unidentifiedDisplayName = "Valkyrie Ingrid's Armor",
+		unidentifiedResourceName = "Broken Armor Fragment",
+		unidentifiedDescriptionName = {
+			"The armor worn by Ingrid, a battle maiden who serves Odin.",
+			"Was severely damaged in battle.",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Valkyrie Ingrid's Armor",
+		identifiedResourceName = "Broken Armor Fragment",
+		identifiedDescriptionName = {
+			"The armor worn by Ingrid, a battle maiden who serves Odin.",
+			"Was severely damaged in battle.",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23981] = {
+		unidentifiedDisplayName = "Turbulent Dragon's Power",
+		unidentifiedResourceName = "Abyss_Ddbox",
+		unidentifiedDescriptionName = {
+			"Orb filled with the fiercely raging power of the dragon.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Red Dragon Plate",
+			"Green Dragon Plate",
+			"Gold Dragon Plate",
+			"Purple Dragon Plate",
+			"Blue Dragon Plate",
+			"Silver Dragon Plate",
+			"_ "
+		},
+		identifiedDisplayName = "Turbulent Dragon's Power",
+		identifiedResourceName = "Abyss_Ddbox",
+		identifiedDescriptionName = {
+			"Orb filled with the fiercely raging power of the dragon.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Red Dragon Plate",
+			"Green Dragon Plate",
+			"Gold Dragon Plate",
+			"Purple Dragon Plate",
+			"Blue Dragon Plate",
+			"Silver Dragon Plate",
+			"_ ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23985] = {
+		unidentifiedDisplayName = "Dragon's Treasure",
+		unidentifiedResourceName = "Rafin Tuk Chest",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Dragon's Treasure",
+		identifiedResourceName = "Rafin Tuk Chest",
+		identifiedDescriptionName = {
+			"Dragon's treasure chest",
+			"Gives one of the following items by chance.",
+			"^ffffff_^000000",
+			"[Items to obtain] ",
+			"Turbulent Dragon's Power",
+			"Burning Dragon's Power",
+			"Hot Dragon's Power",
+			"Bone of Huge Dragon",
+			"Bone of Small Dragon",
+			"Dragon Scale Boots",
+			"Dragon Scale Hood",
+			"Red Dragon Orb",
+			"Green Dragon Orb",
+			"Gold Dragon Orb",
+			"Purple Dragon Orb",
+			"Blue Dragon Orb",
+			"Silver Dragon Orb",
+			"Dragon Skin",
+			"Dragon Canine",
+			"Dragon Scale",
+			"Dragon Tail",
+			"^ffffff_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100144] = {
+		unidentifiedDisplayName = "Burning Dragon's Power",
+		unidentifiedResourceName = "Abyss_Ddbox4",
+		unidentifiedDescriptionName = {
+			"A sphere burning thanks to the power of the dragon.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Dragon Scale Hood",
+			"_ ",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Burning Dragon's Power",
+		identifiedResourceName = "Abyss_Ddbox4",
+		identifiedDescriptionName = {
+			"A sphere burning thanks to the power of the dragon.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Dragon Scale Hood",
+			"_ ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100145] = {
+		unidentifiedDisplayName = "Hot Dragon's Power",
+		unidentifiedResourceName = "Abyss_Ddbox4",
+		unidentifiedDescriptionName = {
+			"A sphere blazing thanks to the concentrated power of a dragon.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Dragon Scale Boots",
+			"_ ",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Hot Dragon's Power",
+		identifiedResourceName = "Abyss_Ddbox4",
+		identifiedDescriptionName = {
+			"A sphere blazing thanks to the concentrated power of a dragon.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Dragon Scale Boots",
+			"_ ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23986] = {
+		unidentifiedDisplayName = "Odin's Reliquary",
+		unidentifiedResourceName = "Rafin Tuk Chest",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Odin's Reliquary",
+		identifiedResourceName = "Rafin Tuk Chest",
+		identifiedDescriptionName = {
+			"The treasure chest of Odin's temple. ",
+			"Gives one of the following items by chance. ",
+			"^ffffff_^000000",
+			"[Items to obtain] ",
+			"Soutane of Strength, Soutane of Agility ",
+			"Soutane of Vitality, Soutane of Dexterity ",
+			"Soutane of Intellect, Soutane of Luck ",
+			"Clergy's Boots, Clergy's Manteau ",
+			"Angel's Dream, Rune of the Darkness ",
+			"Soft Feathers ",
+			"^ffffff_^000000",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100142] = {
+		unidentifiedDisplayName = "Stable Dragon's Power",
+		unidentifiedResourceName = "Abyss_Ddbox2",
+		unidentifiedDescriptionName = {
+			"A sphere of the dragon's stable power.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Red Dragon Plate",
+			"Green Dragon Plate",
+			"Gold Dragon Plate",
+			"Purple Dragon Plate",
+			"Blue Dragon Plate",
+			"Silver Dragon Plate",
+			"_ ",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Stable Dragon's Power",
+		identifiedResourceName = "Abyss_Ddbox2",
+		identifiedDescriptionName = {
+			"A sphere of the dragon's stable power.",
+			"Gives random stats for the following items.",
+			"_ ",
+			"[Available Item] ",
+			"Red Dragon Plate",
+			"Green Dragon Plate",
+			"Gold Dragon Plate",
+			"Purple Dragon Plate",
+			"Blue Dragon Plate",
+			"Silver Dragon Plate",
+			"_ ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310076] = {
+		unidentifiedDisplayName = "Blessing of Strength",
+		unidentifiedResourceName = "Cassock_Str",
+		unidentifiedDescriptionName = { "STR +10.", "ATK +10.", "DEF +25, MDEF +3." },
+		identifiedDisplayName = "Blessing of Strength",
+		identifiedResourceName = "Cassock_Str",
+		identifiedDescriptionName = { "STR +10.", "ATK +10.", "DEF +25, MDEF +3." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310077] = {
+		unidentifiedDisplayName = "Blessing of Agility",
+		unidentifiedResourceName = "Cassock_Agi",
+		unidentifiedDescriptionName = { "AGI +10.", "Long-ranged physical damage +10%.", "DEF +25, MDEF +3." },
+		identifiedDisplayName = "Blessing of Agility",
+		identifiedResourceName = "Cassock_Agi",
+		identifiedDescriptionName = { "AGI +10.", "Long-ranged physical damage +10%.", "DEF +25, MDEF +3." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310078] = {
+		unidentifiedDisplayName = "Blessing of Vitality",
+		unidentifiedResourceName = "Cassock_Vit",
+		unidentifiedDescriptionName = { "VIT +10.", "Max HP +10%, Max SP +10%.", "DEF +25, MDEF +3." },
+		identifiedDisplayName = "Blessing of Vitality",
+		identifiedResourceName = "Cassock_Vit",
+		identifiedDescriptionName = { "VIT +10.", "Max HP +10%, Max SP +10%.", "DEF +25, MDEF +3." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310079] = {
+		unidentifiedDisplayName = "Blessing of Dexterity",
+		unidentifiedResourceName = "Cassock_Dex",
+		unidentifiedDescriptionName = {
+			"DEX +10.",
+			"Variable Cast Time of all skills -10%.",
+			"ASPD increases (Attack Delay -10%).",
+			"DEF +25, MDEF +3."
+		},
+		identifiedDisplayName = "Blessing of Dexterity",
+		identifiedResourceName = "Cassock_Dex",
+		identifiedDescriptionName = {
+			"DEX +10.",
+			"Variable Cast Time of all skills -10%.",
+			"ASPD increases (Attack Delay -10%).",
+			"DEF +25, MDEF +3."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310080] = {
+		unidentifiedDisplayName = "Blessing of Wisdom",
+		unidentifiedResourceName = "Cassock_Int",
+		unidentifiedDescriptionName = { "INT +10.", "MATK +10%.", "DEF +25, MDEF +3." },
+		identifiedDisplayName = "Blessing of Wisdom",
+		identifiedResourceName = "Cassock_Int",
+		identifiedDescriptionName = { "INT +10.", "MATK +10%.", "DEF +25, MDEF +3." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310081] = {
+		unidentifiedDisplayName = "Blessing of Luck",
+		unidentifiedResourceName = "Cassock_Luk",
+		unidentifiedDescriptionName = { "LUK +10.", "Critical Damage +15%.", "DEF +25, MDEF +3." },
+		identifiedDisplayName = "Blessing of Luck",
+		identifiedResourceName = "Cassock_Luk",
+		identifiedDescriptionName = { "LUK +10.", "Critical Damage +15%.", "DEF +25, MDEF +3." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000092] = {
+		unidentifiedDisplayName = "Eliumina Radar",
+		unidentifiedResourceName = "ELYUMINA_RADAR",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A tracker designed by Eliumina which allows to find traitors wherever they are and punish them. It will make a loud sound if the leader of the Illusion agents is nearby.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Eliumina Radar",
+		identifiedResourceName = "ELYUMINA_RADAR",
+		identifiedDescriptionName = {
+			"A tracker designed by Eliumina which allows to find traitors wherever they are and punish them. It will make a loud sound if the leader of the Illusion agents is nearby.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000093] = {
+		unidentifiedDisplayName = "Red Pitaya Tail",
+		unidentifiedResourceName = "PITAYA_TAIL_R",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A pitaya tail that gives off a sweet, fruity fragrance. They say it's best to eat while it's still fresh.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Red Pitaya Tail",
+		identifiedResourceName = "PITAYA_TAIL_R",
+		identifiedDescriptionName = {
+			"A pitaya tail that gives off a sweet, fruity fragrance. They say it's best to eat while it's still fresh.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000094] = {
+		unidentifiedDisplayName = "Yellow Pitaya Tail",
+		unidentifiedResourceName = "PITAYA_TAIL_Y",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A pitaya tail that gives off a sweet, fruity fragrance. People usually ripen it a bit before eating it.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Yellow Pitaya Tail",
+		identifiedResourceName = "PITAYA_TAIL_Y",
+		identifiedDescriptionName = {
+			"A pitaya tail that gives off a sweet, fruity fragrance. People usually ripen it a bit before eating it.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000095] = {
+		unidentifiedDisplayName = "Blue Pitaya Tail",
+		unidentifiedResourceName = "PITAYA_TAIL_B",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A pitaya tail that gives off a sweet, fruity fragrance. The ones with a thin peel are tastier.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Blue Pitaya Tail",
+		identifiedResourceName = "PITAYA_TAIL_B",
+		identifiedDescriptionName = {
+			"A pitaya tail that gives off a sweet, fruity fragrance. The ones with a thin peel are tastier.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000096] = {
+		unidentifiedDisplayName = "Green Pitaya Tail",
+		unidentifiedResourceName = "PITAYA_TAIL_G",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A pitaya tail that gives off a sour, fruity fragrance. It's too acidic to be eaten raw. Usually, it's juiced for cooking purposes.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Green Pitaya Tail",
+		identifiedResourceName = "PITAYA_TAIL_G",
+		identifiedDescriptionName = {
+			"A pitaya tail that gives off a sour, fruity fragrance. It's too acidic to be eaten raw. Usually, it's juiced for cooking purposes.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000097] = {
+		unidentifiedDisplayName = "Purple Pitaya Tail",
+		unidentifiedResourceName = "PITAYA_TAIL_P",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A pitaya tail that gives off a sweet, fruity fragrance. This variety was specially cultivated to make it easier for people to eat.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Purple Pitaya Tail",
+		identifiedResourceName = "PITAYA_TAIL_P",
+		identifiedDescriptionName = {
+			"A pitaya tail that gives off a sweet, fruity fragrance. This variety was specially cultivated to make it easier for people to eat.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000098] = {
+		unidentifiedDisplayName = "Pitaya Boss Tail",
+		unidentifiedResourceName = "PITAYA_TAIL_BOSS",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A pitaya tail that gives off a sweet, fruity fragrance. Its sugar content is very high, thanks to the efforts to cultivate this breed.",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Pitaya Boss Tail",
+		identifiedResourceName = "PITAYA_TAIL_BOSS",
+		identifiedDescriptionName = {
+			"A pitaya tail that gives off a sweet, fruity fragrance. Its sugar content is very high, thanks to the efforts to cultivate this breed.",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000099] = {
+		unidentifiedDisplayName = "Gardener's Cookie",
+		unidentifiedResourceName = "GARDENERS_COOKIE",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A cookie calmly given by the non-so-calm gardener. By the way, what's he chewing?..",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Gardener's Cookie",
+		identifiedResourceName = "GARDENERS_COOKIE",
+		identifiedDescriptionName = {
+			"A cookie calmly given by the non-so-calm gardener. By the way, what's he chewing?..",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000100] = {
+		unidentifiedDisplayName = "Freezing Trap",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A freezing trap created by modifying a special alloy trap. When one steps on it, emits icy air freezing up everything around in an instant.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Freezing Trap",
+		identifiedResourceName = "??",
+		identifiedDescriptionName = {
+			"A freezing trap created by modifying a special alloy trap. When one steps on it, emits icy air freezing up everything around in an instant.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000101] = {
+		unidentifiedDisplayName = "Robot Part",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A part used for a robot's body, legs, arms, etc.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Robot Part",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = { "A part used for a robot's body, legs, arms, etc.", "Weight: ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000102] = {
+		unidentifiedDisplayName = "Emergency Key",
+		unidentifiedResourceName = "????????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"An emergency key that opens the doors to the storage basement.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Emergency Key",
+		identifiedResourceName = "????????",
+		identifiedDescriptionName = {
+			"An emergency key that opens the doors to the storage basement.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000225] = {
+		unidentifiedDisplayName = "Potato Chip",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A bio-potato chip used by Illusion agents.",
+			"It plays an important role in absorbing the electromagnetic waves",
+			"generated as a result of overheating.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Potato Chip",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"A bio-potato chip used by Illusion agents.",
+			"It plays an important role in absorbing the electromagnetic waves",
+			"generated as a result of overheating.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000226] = {
+		unidentifiedDisplayName = "Broken Robot Core",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"The mansion manager's core, now broken by infiltrator's assault. It seems the unstable light surrounding the core is screaming for help.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Broken Robot Core",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"The mansion manager's core, now broken by infiltrator's assault. It seems the unstable light surrounding the core is screaming for help.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000227] = {
+		unidentifiedDisplayName = "Cloud Cotton",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Cloud cotton that Junior Steward Beta enjoys.", "Weight: ^7777771^000000" },
+		identifiedDisplayName = "Cloud Cotton",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Cloud cotton that Junior Steward Beta enjoys.", "Weight: ^7777771^000000" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000231] = {
+		unidentifiedDisplayName = "Broken Robot Part",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A part of a broken robot. Looks like it might be useful for something.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Broken Robot Part",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"A part of a broken robot. Looks like it might be useful for something.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000232] = {
+		unidentifiedDisplayName = "Robot Communication Chip",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A standard communication chip built into a robot. We can still use it somewhere.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Robot Communication Chip",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A standard communication chip built into a robot. We can still use it somewhere.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100147] = {
+		unidentifiedDisplayName = "Bath Salt A",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +5%.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bath Salt A",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +5%.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100148] = {
+		unidentifiedDisplayName = "Bath Salt B",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +10%.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bath Salt B",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +10%.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100149] = {
+		unidentifiedDisplayName = "Bath Salt C",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +15%.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Bath Salt C",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +15%.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100150] = {
+		unidentifiedDisplayName = "Aromatherapy Oil",
+		unidentifiedResourceName = "???????",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"An aromatic massage oil extracted from various herbs. Very effective in improving blood circulation and overcoming fatigue.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage from monsters -10%.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Aromatherapy Oil",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"An aromatic massage oil extracted from various herbs. Very effective in improving blood circulation and overcoming fatigue.",
+			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage from monsters -10%.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[600008] = {
+		unidentifiedDisplayName = "Two-handed Sword",
+		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Hypocrisy Edge",
+		identifiedResourceName = "Ep172_Bh_Sword",
+		identifiedDescriptionName = {
+			"A giant sword which was decorated on a wall of Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"",
+			"Indestructible.",
+			"Wind Cutter damage +10%, CRIT +4.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Wind Cutter damage +10%.",
+			"When refined to +9 or higher, Post-skill delay -10%.",
+			"When refined to +11 or higher, Additional Wind Cutter damage +15%.",
+			"Class: ^777777Two-handed Sword^000000 \nATK: ^777777280^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Rune Knight Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 49,
+		costume = false
+	},
+	[610006] = {
+		unidentifiedDisplayName = "Katar",
+		unidentifiedResourceName = "Katar",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Avaritia Metal",
+		identifiedResourceName = "Ep172_Bh_Katar",
+		identifiedDescriptionName = {
+			"A mass of fragments that got fallen apart from broken robots.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Rolling Cutter damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Cross Ripper Slasher damage +10%.",
+			"When refined to +9 or higher, Increased ASPD (ASPD +10%).",
+			"When refined to +11 or higher, Additional Rolling Cutter and Cross Ripper Slasher damage +15%.",
+			"^ffffff_^000000",
+			"Class: ^777777Katar^000000 \nATK: ^777777220^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Guillotine Cross Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[630003] = {
+		unidentifiedDisplayName = "Spear",
+		unidentifiedResourceName = "·ЈЅє",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Luxuria Pierce",
+		identifiedResourceName = "Ep172_Bh_Spear",
+		identifiedDescriptionName = {
+			"A science instrument that was stored in Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Hundred Spears damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Hundred Spears damage +15%.",
+			"When refined to +9 or higher, Hundred Spears cooldown -1.5 sec.",
+			"When refined to +11 or higher, Additional Hundred Spears damage +20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Two-handed Spear^000000 \nATK: ^777777250^000000",
+			"Weight: ^777777330^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Rune Knight Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 52,
+		costume = false
+	},
+	[640005] = {
+		unidentifiedDisplayName = "Two-handed Staff",
+		unidentifiedResourceName = "·Фµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Pride Stone",
+		identifiedResourceName = "Ep172_Bh_Staff",
+		identifiedDescriptionName = {
+			"A science instrument that was stored in Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"MATK +320.",
+			"Neutral and Water Magic damage +15%",
+			"MATK +6 and Variable Cast Time -3% for every 3 refine levels",
+			"When refined to +7 or higher, Comet and Jack Frost damage +10%.",
+			"When refined to +9 or higher, Comet cooldown -10 sec., Jack Frost cooldown -1.5 sec.",
+			"When refined to +11 or higher, Additional Comet and Jack Frost damage +20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Two-handed Staff^000000",
+			"ATK: ^777777180^000000",
+			"Weight: ^777777200^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Warlock Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 96,
+		costume = false
+	},
+	[650003] = {
+		unidentifiedDisplayName = "Huuma Shuriken",
+		unidentifiedResourceName = "Зіё¶_ЖнАН",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Wrath Wheel",
+		identifiedResourceName = "Ep172_Bh_Huuma",
+		identifiedDescriptionName = {
+			"A big chunk of metal that came from somewhere in Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"Swirling Petal damage +15%.",
+			"ATK +6 and Variable Cast Time -2% for every 3 refine levels",
+			"When refined to +7 or higher, Cross Slash damage +15%.",
+			"When refined to +9 or higher, Swirling Petal cooldown -2 sec., Cross Slash cooldown -1 sec.",
+			"When refined to +11 or higher, Additional Swirling Petal and Cross Slash damage +20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Huuma Shuriken^000000",
+			"ATK: ^777777320^000000 \nProperty: ^777777Wind^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Ninja Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[700007] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "єёїм",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Superbia String",
+		identifiedResourceName = "Ep172_Bh_Bow",
+		identifiedDescriptionName = {
+			"A bow wielded by the mercenaries who used to guard the mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Arrow Storm damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Arrow Storm damage +10%.",
+			"When refined to +9 or higher, Arrow Storm cooldown -1 sec.",
+			"When refined to +11 or higher, Additional Arrow Storm damage +15%.",
+			"^ffffff_^000000",
+			"Class: ^777777Bow^000000 \nATK: ^777777220^000000",
+			"Weight: ^777777140^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Ranger Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 73,
+		costume = false
+	},
+	[700008] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "єёїм",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Gula Gun",
+		identifiedResourceName = "Ep172_Bh_Bow2",
+		identifiedDescriptionName = {
+			"A portable bow that was once used for self-defense purposes.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Triangle Shot damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Triangle Shot damage +15%.",
+			"When refined to +9 or higher, Post-skill delay -10%.",
+			"When refined to +11 or higher, Additional Triangle Shot damage +20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Bow^000000 \nATK: ^777777220^000000",
+			"Weight: ^777777120^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Shadow Chaser Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 73,
+		costume = false
+	},
+	[700009] = {
+		unidentifiedDisplayName = "Bow",
+		unidentifiedResourceName = "єёїм",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Pigritia Rhythm",
+		identifiedResourceName = "Ep172_Bh_Bow3",
+		identifiedDescriptionName = {
+			"A prototype of auto-firing bows applied with high technology.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"",
+			"Severe Rainstorm damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Severe Rainstorm damage +15%.",
+			"When refined to +9 or higher, Severe Rainstorm cooldown -2.5 sec.",
+			"When refined to +11 or higher, Additional Severe Rainstorm damage +20%,",
+			"Class: ^777777Bow^000000 \nATK: ^777777190^000000",
+			"Weight: ^777777100^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Maestro/Wanderer Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 73,
+		costume = false
+	},
+	[810000] = {
+		unidentifiedDisplayName = "Rifle",
+		unidentifiedResourceName = "¶уАМЗГ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Lust Pointer",
+		identifiedResourceName = "Ep172_1h_Rifle",
+		identifiedDescriptionName = {
+			"A Rifle wielded by the mercenaries who used to guard the mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"God's Hammer damage +10%.",
+			"ATK +6 and increased ASPD (ASPD +3%) for every 3 refine levels.",
+			"When refined to +7 or higher, Additional God's Hammer damage +15%.",
+			"When refined to +9 or higher, God's Hammer cooldown -3 sec.",
+			"When refined to +11 or higher, Additional God's Hammer cooldown -4 sec., God's Hammer damage +25% for 10 sec. upon casting Crimson Marker.",
+			"^ffffff_^000000",
+			"Class: ^777777Rifle^000000 \nATK: ^777777260^000000",
+			"Weight: ^777777130^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Gunslinger Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 18,
+		costume = false
+	},
+	[820000] = {
+		unidentifiedDisplayName = "Shotgun",
+		unidentifiedResourceName = "ЅМ±Ыј¦°З",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Lust Shatter",
+		identifiedResourceName = "Ep172_1h_Shotgun",
+		identifiedDescriptionName = {
+			"A Shotgun wielded by the mercenaries who used to guard the mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Splash damage.",
+			"Slug Shot damage +10%.",
+			"ATK +6 and increased ASPD (ASPD +3%) for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Slug Shot damage +15%, Shattering Storm damage +10%.",
+			"When refined to +9 or higher, Slug Shot cooldown -2 sec., Shattering Storm cooldown -1 sec.",
+			"When refined to +11 or higher, Additional Slug Shot damage +25%, Shattering Storm damage +25% for 10 sec. upon casting Slug Shot.",
+			"^ffffff_^000000",
+			"Class: ^777777Shotgun^000000 \nATK: ^777777310^000000",
+			"Weight: ^777777160^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Gunslinger Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[830001] = {
+		unidentifiedDisplayName = "Gatling Gun",
+		unidentifiedResourceName = "µеё®ЗБЕН",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Lust Crusher",
+		identifiedResourceName = "Ep172_1h_Gatling",
+		identifiedDescriptionName = {
+			"A Gatling Gun wielded by the mercenaries who used to guard the mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Fire Rain damage +10%.",
+			"ATK +6 and increased ASPD (ASPD +3%) for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Fire Rain damage +15%, Round Trip damage +10%.",
+			"When refined to +9 or higher, Fire Rain cooldown -2 sec.",
+			"When refined to +11 or higher, Additional Fire Rain damage +25%, additional Round Trip damage +15% for 10 sec. upon casting Fire Rain.",
+			"^ffffff_^000000",
+			"Class: ^777777Gatling Gun^000000 \nATK: ^777777230^000000",
+			"Weight: ^777777200^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Gunslinger Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[840000] = {
+		unidentifiedDisplayName = "Grenade Launcher",
+		unidentifiedResourceName = "µрЅєЖ®·ОАМѕо",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Lust Boom",
+		identifiedResourceName = "Ep172_1h_Grenade",
+		identifiedDescriptionName = {
+			"A Grenade Launcher wielded by the mercenaries who used to guard the mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Howling Mine damage +10%.",
+			"ATK +6 and increased ASPD (ASPD +3%) for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Howling Mine damage +10%, Dragon Tail damage +10%.",
+			"When refined to +9 or higher, Howling Mine cooldown -1 sec., Dragon Tail cooldown -1 sec.",
+			"When refined to +11 or higher, Additional Howling Mine damage +25%, additional Dragon Tail damage +25% for 10 sec. upon casting Crimson Marker.",
+			"^ffffff_^000000",
+			"Class: ^777777Grenade Launcher^000000",
+			"ATK: ^777777330^000000",
+			"Weight: ^777777240^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Gunslinger Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[500007] = {
+		unidentifiedDisplayName = "Sword",
+		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Hypocrisy Machine",
+		identifiedResourceName = "Ep172_1h_Sword",
+		identifiedDescriptionName = {
+			"A one-handed sword used by the guards of Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"Melee Physical damage +3% for every 2 refine levels.",
+			"CRIT +2 for every 3 refine levels.",
+			"When refined to +7 or higher, Increased ASPD (ASPD +20%).",
+			"When refined to +9 or higher, Physical damage +25% on Small and Large enemies.",
+			"When refined to +11 or higher, Enables to use Bowling Bash which has the same skill level as Sword Mastery.",
+			"^ffffff_^000000",
+			"Class: ^777777Sword^000000 \nATK: ^777777250^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Novice Classes^000000"
+		},
+		slotCount = 3,
+		ClassNum = 42,
+		costume = false
+	},
+	[500008] = {
+		unidentifiedDisplayName = "Sword",
+		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Invidia Bundle",
+		identifiedResourceName = "Ep172_1h_Sword2",
+		identifiedDescriptionName = {
+			"A science instrument that was stored in Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Cart Tornado damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Cart Tornado damage +15%.",
+			"When refined to +9 or higher, Increased ASPD (ASPD +10%).",
+			"When refined to +11 or higher, Additional Cart Tornado damage +25%.",
+			"^ffffff_^000000",
+			"Class: ^777777Sword^000000 \nATK: ^777777210^000000",
+			"Weight: ^777777180^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Geneticist Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 42,
+		costume = false
+	},
+	[510008] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "іЄАМЗБ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Wrath Rack",
+		identifiedResourceName = "Ep172_1h_Dagger",
+		identifiedDescriptionName = {
+			"Once it was an ordinary dagger you could see everywhere, but now",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"MATK +170.",
+			"Flaming Petals and Freezing Spear damage +10%.",
+			"MATK +6 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Flaming Petals and Freezing Spear damage +10%.",
+			"When refined to +9 or higher, Variable Cast Time -10%.",
+			"When refined to +11 or higher, Additional Flaming Petals and Freezing Spear damage +10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Dagger^000000 \nATK: ^777777160^000000",
+			"Weight: ^77777780^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Ninja Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 31,
+		costume = false
+	},
+	[510009] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "іЄАМЗБ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Gula Teeth",
+		identifiedResourceName = "Ep172_1h_Dagger2",
+		identifiedDescriptionName = {
+			"Once it was a tool used for various experiments, but now",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Fatal Menace damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Fatal Menace damage +10%.",
+			"When refined to +9 or higher, Post-skill delay -10%.",
+			"When refined to +11 or higher, Additional Fatal Menace damage +15%.",
+			"^ffffff_^000000",
+			"Class: ^777777Dagger^000000 \nATK: ^777777180^000000",
+			"Weight: ^77777790^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Shadow Chaser Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 31,
+		costume = false
+	},
+	[520002] = {
+		unidentifiedDisplayName = "Axe",
+		unidentifiedResourceName = "ѕЧЅє",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Pride Steel",
+		identifiedResourceName = "Ep172_1h_Axe",
+		identifiedDescriptionName = {
+			"A mass of fragments that got fallen apart from broken robots.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"Power Swing damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Power Swing damage +15%.",
+			"When refined to +9 or higher, Axe Tornado cooldown -1 sec.",
+			"When refined to +11 or higher, Axe Boomerang damage +25%.",
+			"^ffffff_^000000",
+			"Class: ^777777One-handed Axe^000000 \nATK: ^777777250^000000",
+			"Weight: ^777777300^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Mechanic Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[530002] = {
+		unidentifiedDisplayName = "Spear",
+		unidentifiedResourceName = "ЅєЗЗѕо",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Gluttony Stick",
+		identifiedResourceName = "Ep172_1h_Spear",
+		identifiedDescriptionName = {
+			"A spear which was decorated on a wall of Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"MATK +200.",
+			"Genesis Ray damage +10%.",
+			"MATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Genesis Ray damage +10%.",
+			"When refined to +9 or higher, Variable Cast Time -10%.",
+			"When refined to +11 or higher, Additional Genesis Ray damage +15%.",
+			"^ffffff_^000000",
+			"Class: ^777777One-handed Spear^000000 \nATK: ^777777190^000000",
+			"Weight: ^777777200^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Royal Guard Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[540004] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "єП",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Sloth Text",
+		identifiedResourceName = "Ep172_1h_Book",
+		identifiedDescriptionName = {
+			"A technical book which was stored in Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"New Moon Kick damage +10%.",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional New Moon Kick damage +15%.",
+			"When refined to +9 or higher, Increased ASPD (ASPD +10%).",
+			"When refined to +11 or higher, Full Moon Kick damage +25%.",
+			"^ffffff_^000000",
+			"Class: ^777777Book^000000 \nATK: ^777777210^000000",
+			"Weight: ^77777750^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Star Emperor^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[540005] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "єП",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Sloth Bible",
+		identifiedResourceName = "Ep172_1h_Book2",
+		identifiedDescriptionName = {
+			"A record storage device which was stored in Barmund Mansion.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"MATK +220.",
+			"Physical/Magic attacks create a chance of restoring 300 SP every second for 5 seconds, incoming damage -15% from Normal monsters.",
+			"MATK +6 and Variable Cast Time -3% for every 3 refine levels.",
+			"When refined to +7 or higher, Fire/Lightning Bolt damage +25%.",
+			"When refined to +9 or higher, Increased ASPD (ASPD +10%).",
+			"When refined to +11 or higher, Additional Fire/Lightning Bolt damage +30%.",
+			"^ffffff_^000000",
+			"Class: ^777777Book^000000 \nATK: ^777777160^000000",
+			"Weight: ^77777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Sorcerer Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[550008] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "·Фµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Greed Wand",
+		identifiedResourceName = "Ep172_1h_Wand",
+		identifiedDescriptionName = {
+			"A small stick which was used in Barmund Mansion for igniting or putting out a fire.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"MATK +200.",
+			"Espa damage +10%.",
+			"MATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Espa damage +15%.",
+			"When refined to +9 or higher, Variable Cast Time -10%.",
+			"When refined to +11 or higher, Eswoo damage +25%.",
+			"^ffffff_^000000",
+			"Class: ^777777One-handed Staff^000000 \nATK: ^777777130^000000",
+			"Weight: ^77777780^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Soul Reaper^000000"
+		},
+		slotCount = 2,
+		ClassNum = 69,
+		costume = false
+	},
+	[550009] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "·Фµе",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Addiction Plant",
+		identifiedResourceName = "Ep172_1h_Foxtail",
+		identifiedDescriptionName = {
+			"Once it was nothing but a weed growing in the mansion's botanical garden, but now",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"MATK +330.",
+			"When dealing magic damage, create a chance of restoring 300 SP every second for 5 seconds, incoming damage -15% from Normal monsters.",
+			"MATK +6 and Variable Cast Time -3% for every 3 refine levels.",
+			"When refined to +7 or higher, Silvervine Stem Spear and Catnip Meteor damage +15%.",
+			"When refined to +9 or higher, Catnip Meteor cooldown -1.5 sec.",
+			"When refined to +11 or higher, Additional Silvervine Stem Spear and Catnip Meteor damage +20%.",
+			"^ffffff_^000000",
+			"Class: ^777777One-handed Staff^000000",
+			"ATK: ^777777280^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Summoner (Doram)^000000"
+		},
+		slotCount = 2,
+		ClassNum = 100,
+		costume = false
+	},
+	[560004] = {
+		unidentifiedDisplayName = "Claw",
+		unidentifiedResourceName = "№Щ±Чі«",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Ira Fist",
+		identifiedResourceName = "Ep172_Bh_knuck",
+		identifiedDescriptionName = {
+			"Once these were ordinary gloves used for physical labor, but now",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Lightning Ride damage +15%",
+			"ATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Lion's Howl damage +15%.",
+			"When refined to +9 or higher, Lion's Howl cooldown -2 sec.",
+			"When refined to +11 or higher, Additional Lightning Ride and Lion's Howl damage +10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Knuckle^000000 \nATK: ^777777200^000000",
+			"Weight: ^77777780^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Sura Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 78,
+		costume = false
+	},
+	[570005] = {
+		unidentifiedDisplayName = "",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Pigritia Wave",
+		identifiedResourceName = "Ep172_1h_Inst",
+		identifiedDescriptionName = {
+			"A musical instrument which used to fill Barmund Mansion with beautiful melodies.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"MATK +210.",
+			"Metallic Sound and Reverberation damage +10%.",
+			"MATK +8 for every 3 refine levels.",
+			"When refined to +7 or higher, Variable Cast Time -10%.",
+			"When refined to +9 or higher, Additional Metallic Sound and Reverberation damage +15%.",
+			"When refined to +11 or higher, Metallic Sound cooldown -2 sec., Reverberation SP consumption -20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Instrument^000000 \nATK: ^777777150^000000",
+			"Weight: ^77777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Maestro Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[580005] = {
+		unidentifiedDisplayName = "Whip",
+		unidentifiedResourceName = "·ОЗБ",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Pigritia Spark",
+		identifiedResourceName = "Ep172_1h_Whip",
+		identifiedDescriptionName = {
+			"A tool which was made to flash light in an emergency.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"MATK +210.",
+			"Metallic Sound and Reverberation damage +10%.",
+			"MATK +8 for every 3 refine levels.",
+			"When refined to +7 or higher, Variable Cast Time -10%.",
+			"When refined to +9 or higher, Additional Metallic Sound and Reverberation damage +15%.",
+			"When refined to +11 or higher, Metallic Sound cooldown -2 sec., Reverberation SP consumption -20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Whip^000000 \nATK: ^777777150^000000",
+			"Weight: ^77777770^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Wanderer Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 0,
+		costume = false
+	},
+	[590006] = {
+		unidentifiedDisplayName = "Mace",
+		unidentifiedResourceName = "ёЮАМЅє",
+		unidentifiedDescriptionName = { "Unidentified. Can be identified with a Magnifier." },
+		identifiedDisplayName = "Envy Blunt",
+		identifiedResourceName = "Ep172_1h_Hammer",
+		identifiedDescriptionName = {
+			"A mass of fragments that got fallen apart from broken robots.",
+			"It has been horribly distorted by the magic-jamming device that Illusion has installed.",
+			"Indestructible.",
+			"MATK +210.",
+			"Duple Light damage +15%.",
+			"MATK +12 for every 3 refine levels.",
+			"When refined to +7 or higher, Additional Duple Light damage +20%.",
+			"When refined to +9 or higher, Increased ASPD (ASPD +10%).",
+			"When refined to +11 or higher, Additional Duple Light damage +35%, Duple Light's Fixed Cast Time -50%.",
+			"^ffffff_^000000",
+			"Class: ^777777Mace^000000 \nATK: ^777777180^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777774^000000",
+			"Required Level: ^777777150^000000",
+			"Job: ^777777Arch Bishop Classes^000000"
+		},
+		slotCount = 2,
+		ClassNum = 62,
+		costume = false
+	},
+	[450127] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Armor Type A",
+		identifiedResourceName = "Auto_Armor_A",
+		identifiedDescriptionName = {
+			"Combat armor improved with the technology of Varmundt's Mansion, Type A.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"ATK +125.",
+			"ATK +10 for every 2 refine levels.",
+			"If refine rate is +7 or higher, ASPD increases (Attack Delay -15%).",
+			"If equipped with Automatic Engine Wing Type A, ",
+			"ATK +50.",
+			"If equipped with Automatic Engine Wing Type B,",
+			"Cast Delay -10%.",
+			"Class: ^777777Armor^000000 \nDefense: ^777777135^000000",
+			"Weight: ^777777100^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450128] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Armor Type B",
+		identifiedResourceName = "Auto_Armor_B",
+		identifiedDescriptionName = {
+			"Combat engine improved with the technology of Varmundt's Mansion, Type B.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"MATK +125.",
+			"MATK +10 for every 2 refine levels.",
+			"If refined to +7 or higher, -15% Variable Cast Time of all skills.",
+			"If equipped with Automatic Engine Wing Type A,",
+			"ASPD increases (Attack Delay -10%).",
+			"If equipped with Automatic Engine Wing Type B,",
+			"MATK +50.",
+			"Class: ^777777Armor^000000 \nDefense: ^777777135^000000",
+			"Weight: ^777777100^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470022] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "Sandals",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Leg Type A",
+		identifiedResourceName = "Auto_Leg_A",
+		identifiedDescriptionName = {
+			"Combat boots improved with the technology of Varmundt's Mansion, Type A.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"Max SP +250.",
+			"Max For every 2 upgrade levels of the item, SP +20.",
+			"If refined to +7 or higher, Long-Ranged Physical Damage +7%.",
+			"If equipped with Automatic Armor Type A,",
+			"ATK +7%.",
+			"If equipped with Automatic Armor Type B,",
+			"ASPD increases (Attack Delay -7%).",
+			"Class: ^777777Footwear^000000 \nDefense: ^77777770^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470023] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "Sandals",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Leg Type B",
+		identifiedResourceName = "Auto_Leg_B",
+		identifiedDescriptionName = {
+			"Combat boots improved with the technology of Varmundt's Mansion, Type B.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"Max SP +250.",
+			"Max For every 2 upgrade levels of the item, SP +20.",
+			"If refined to +7 or higher, all property magic damage +7%.",
+			"If equipped with Automatic Armor Type A,",
+			"Max SP + 5%.",
+			"If equipped with Automatic Armor Type B,",
+			"MATK +7%.",
+			"Class: ^777777Footwear^000000 \nDefense: ^77777770^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480020] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Engine Wing Type A",
+		identifiedResourceName = "Auto_Engine_A",
+		identifiedDescriptionName = {
+			"Combat engine improved with the technology of Varmundt's Mansion, Type A.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"Max HP +1500.",
+			"Max HP +100 for every 2 refine levels of the item.",
+			"If refine rate is +7 or higher, ASPD increases (Attack Delay -7%).",
+			"If equipped with Automatic Leg Type A,",
+			"Critical Damage +15%.",
+			"If equipped with Automatic Leg Type B,",
+			"Variable Cast Time of all skills -15%.",
+			"Class: ^777777Garment^000000 \nDefense: ^77777770^000000",
+			"Weight: ^77777790^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480021] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Engine Wing Type B",
+		identifiedResourceName = "Auto_Engine_B",
+		identifiedDescriptionName = {
+			"Combat engine improved with the technology of Varmundt's Mansion, Type B.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"Max HP +1500.",
+			"Max HP +100 for every 2 refine levels of the item.",
+			"If refined to +7 or higher, -7% Variable Cast Time of all skills.",
+			"If equipped with Automatic Leg Type A,",
+			"long-ranged physical damage +7%.",
+			"If equipped with Automatic Leg Type B,",
+			"All property magic damage +15%.",
+			"Class: ^777777Garment^000000 \nDefense: ^77777770^000000",
+			"Weight: ^77777790^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490024] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Booster R",
+		identifiedResourceName = "Auto_B_R",
+		identifiedDescriptionName = {
+			"Battle component improved with the technology of Varmundt's Mansion.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"ATK +5%, Max HP + 5%.",
+			"Class: ^777777Accessory (R)^000000 \nDefense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490025] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Booster L",
+		identifiedResourceName = "Auto_B_L",
+		identifiedDescriptionName = {
+			"Battle component improved with the technology of Varmundt's Mansion.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"ATK +5%, Max SP +5%.",
+			"Class: ^777777Accessory (L)^000000 ",
+			"DEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490026] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Battle Chip R",
+		identifiedResourceName = "Auto_BC_R",
+		identifiedDescriptionName = {
+			"Battle chip improved with the technology of Varmundt's Mansion.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"MATK +5%, Max HP +5%.",
+			"Class: ^777777Accessory (R)^000000 \nDefense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490027] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Automatic Battle Chip L",
+		identifiedResourceName = "Auto_BC_L",
+		identifiedDescriptionName = {
+			"Battle chip improved with the technology of Varmundt's Mansion.",
+			"Various modules can be used for additional abilities.",
+			"^ffffff_^000000",
+			"MATK +5%, Max SP +5%.",
+			"Class: ^777777Accessory (L)^000000 ",
+			"DEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777160^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[310082] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (DEF)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = {
+			"DEF +150.",
+			"If refined to +9 or higher, DEF +75 additionally.",
+			"If refined to +11 or higher, DEF +75 additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (DEF)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = {
+			"DEF +150.",
+			"If refined to +9 or higher, DEF +75 additionally.",
+			"If refined to +11 or higher, DEF +75 additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310083] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (MDEF)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = {
+			"MDEF +15.",
+			"If refine rate is +9 and higher, additional MDEF +7.",
+			"If refine rate is +11 and higher, additional MDEF +7."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (MDEF)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = {
+			"MDEF +15.",
+			"If refine rate is +9 and higher, additional MDEF +7.",
+			"If refine rate is +11 and higher, additional MDEF +7."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310084] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (VIT)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = { "VIT +3, Max HP +1%." },
+		identifiedDisplayName = "Automatic Modification Orb (VIT)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = { "VIT +3, Max HP +1%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310085] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (LUK)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = { "LUK +3, Critical Damage +1%." },
+		identifiedDisplayName = "Automatic Modification Orb (LUK)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = { "LUK +3, Critical Damage +1%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310086] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (STR)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = { "STR +3, ATK +2%." },
+		identifiedDisplayName = "Automatic Modification Orb (STR)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = { "STR +3, ATK +2%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310087] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (AGI)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = { "AGI +3, ASPD increases (Attack Delay -2%)." },
+		identifiedDisplayName = "Automatic Modification Orb (AGI)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = { "AGI +3, ASPD increases (Attack Delay -2%)." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310088] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (INT)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = { "INT +3, MATK +2%." },
+		identifiedDisplayName = "Automatic Modification Orb (INT)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = { "INT +3, MATK +2%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310089] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (DEX)",
+		unidentifiedResourceName = "Magic Water Stone",
+		unidentifiedDescriptionName = { "DEX +3, long-ranged physical damage +2%." },
+		identifiedDisplayName = "Automatic Modification Orb (DEX)",
+		identifiedResourceName = "Magic Water Stone",
+		identifiedDescriptionName = { "DEX +3, long-ranged physical damage +2%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310090] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (HP Recovery)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = { "Basic HP Recovery rate +30%." },
+		identifiedDisplayName = "Automatic Modification Orb (HP Recovery)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = { "Basic HP Recovery +30%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310091] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (SP Recovery)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = { "Basic SP recovery rate +30%." },
+		identifiedDisplayName = "Automatic Modification Orb (SP Recovery)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = { "Basic SP recovery rate +30%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310092] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Spell)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = { "MATK +20, Variable Cast Time -10%. " },
+		identifiedDisplayName = "Automatic Modification Orb (Spell)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = { "MATK +20, Variable Cast Time -10%. " },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310093] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (ASPD)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = { "ATK +20, ASPD increased (Delay after attack -10%) " },
+		identifiedDisplayName = "Automatic Modification Orb (ASPD)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = { "ATK +20, ASPD increased (Delay after attack -10%) " },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310094] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Fatal)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = { "Critical Rate +10, Critical Damage +10%. " },
+		identifiedDisplayName = "Automatic Modification Orb (Fatal)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = { "Critical Rate +10, Critical Damage +10%. " },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310095] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Expert Archer)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = { "HIT +10, long-ranged physical damage +10%." },
+		identifiedDisplayName = "Automatic Modification Orb (Expert Archer)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = { "HIT +10, long-ranged physical damage +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310096] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Health)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"Max HP +5%, Max. HP +1500.",
+			"If refined to +9 or higher, Max HP +2% additionally.",
+			"If refined to +11 or higher, Max HP +3% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Health)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"Max HP +5%, Max. HP +1500.",
+			"If refined to +9 or higher, Max HP +2% additionally.",
+			"If refined to +11 or higher, Max HP +3% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310097] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Spirit)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"Max SP +5%, Max SP +300.",
+			"If refined to +9 or higher, Max SP +2% additionally.",
+			"If refined to +11 or higher, Max SP +3% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Spirit)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"Max SP +5%, Max SP +300.",
+			"If refined to +9 or higher, Max SP +2% additionally.",
+			"If refined to +11 or higher, Max SP +3% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310098] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Heal)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"Healing +5%.",
+			"If refined to +9 or higher, Max HP +5% additionally.",
+			"If refined to +11 or higher, Max HP +7% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Heal)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"Healing +5%.",
+			"If refined to +9 or higher, Max HP +5% additionally.",
+			"If refined to +11 or higher, Max HP +7% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310099] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (ATK)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"ATK +5%, ATK +75.",
+			"If refine rate is +9 or higher, short-ranged physical damage +2%.",
+			"If refine rate is +11 or higher, additional short-ranged physical damage +3%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (ATK)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"ATK +5%, ATK +75.",
+			"If refine rate is +9 or higher, short-ranged physical damage +2%.",
+			"If refine rate is +11 or higher, additional short-ranged physical damage +3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310100] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (MATK)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"MATK +5%, MATK +75.",
+			"If refined to +9 and higher, MATK +2%.",
+			"If refined to +11 and higher, MATK +3%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (MATK)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"MATK +5%, MATK +75.",
+			"If refined to +9 and higher, MATK +2%.",
+			"If refined to +11 and higher, MATK +3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310101] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Sharpshooter)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"Long-ranged physical damage +3%.",
+			"If refined to +9 or higher, Long-Ranged Physical Damage +3% additionally.",
+			"If refined to +11 or higher, Long-Ranged Physical Damage +3% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Sharpshooter)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"Long-ranged physical damage +3%.",
+			"If refined to +9 or higher, Long-Ranged Physical Damage +3% additionally.",
+			"If refined to +11 or higher, Long-Ranged Physical Damage +3% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310102] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Speed)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"ASPD +1.",
+			"If refine rate is +9 or higher, additional Attack Delay -5%.",
+			"If refine rate is +11 or higher, additional Attack Delay -5%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Speed)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"ASPD +1.",
+			"If refine rate is +9 or higher, additional Attack Delay -5%.",
+			"If refine rate is +11 or higher, additional Attack Delay -5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310103] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Caster)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"Variable Cast Time of all skills -5%.",
+			"If refine rate is +9 or higher, Variable Cast Time of all skills -5% additionally.",
+			"If refine rate is +11 or higher, Variable Cast Time of all skills -5% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Caster)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"Variable Cast Time of all skills -5%.",
+			"If refine rate is +9 or higher, Variable Cast Time of all skills -5% additionally.",
+			"If refine rate is +11 or higher, Variable Cast Time of all skills -5% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310104] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Critical)",
+		unidentifiedResourceName = "Magic Darkness Stone",
+		unidentifiedDescriptionName = {
+			"Critical Rate +10.",
+			"If refined to +9 or higher, Critical Damage +5%.",
+			"If refined to +11 or higher, Critical Damage +7% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Critical)",
+		identifiedResourceName = "Magic Darkness Stone",
+		identifiedDescriptionName = {
+			"Critical Rate +10.",
+			"If refined to +9 or higher, Critical Damage +5%.",
+			"If refined to +11 or higher, Critical Damage +7% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310105] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Magical Force)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"MATK +20, Variable Cast Time of all skills -10%, all property magic damage +2%.",
+			"If refined to +9 or higher, all property magic damage +1%.",
+			"If refined to +11 or higher, all property magic damage +2%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Magical Force)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"MATK +20, Variable Cast Time of all skills -10%, all property magic damage +2%.",
+			"If refined to +9 or higher, all property magic damage +1%.",
+			"If refined to +11 or higher, all property magic damage +2%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310106] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Attacker Force)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"ATK +20, short-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Attacker Force)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"ATK +20, short-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310107] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Ranged Force)",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"ATK +20, long-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Ranged Force)",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"ATK +20, long-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310108] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Critical Force)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Critical Rate +5, Critical Damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Critical Force)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Critical Rate +5, Critical Damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310109] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Recovery Force)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"MATK +20, Variable Cast Time of all skills -10%, HP Recovery +5%.",
+			"If refine rate is +9 or higher, HP Recovery additionally +5%.",
+			"If refine rate is +11 or higher, HP Recovery additionally +5%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Recovery Force)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"MATK +20, Variable Cast Time of all skills -10%, HP Recovery +5%.",
+			"If refine rate is +9 or higher, HP Recovery additionally +5%.",
+			"If refine rate is +11 or higher, HP Recovery additionally +5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310110] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Post-skill Delay)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Cast Delay -4%.",
+			"If refine rate is +9 or higher, additional Attack Delay -6%.",
+			"If refine rate is +11 or higher, additional Attack Delay -6%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Post-skill Delay)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Cast Delay -4%.",
+			"If refine rate is +9 or higher, additional Attack Delay -6%.",
+			"If refine rate is +11 or higher, additional Attack Delay -6%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310111] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Fixed Cast Time)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Fixed Cast Time of all skills -0.1 sec.",
+			"If refined to +9 or higher, Fixed Cast Time of all skills -0.2 sec additionally.",
+			"If refined to +11 or higher, Fixed Cast Time of all skills -0.5 sec additionally."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Fixed Cast Time)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Fixed Cast Time of all skills -0.1 sec.",
+			"If refined to +9 or higher, Fixed Cast Time of all skills -0.2 sec additionally.",
+			"If refined to +11 or higher, Fixed Cast Time of all skills -0.5 sec additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310112] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Above All)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Physical/magic damage inflicted by normal and boss monsters -7%.",
+			"If refine level is +9 or above, physical/magic damage inflicted by enemies of all sizes -5%.",
+			"If refine rate is +11 or higher, physical/magic damage inflicted by enemies of all sizes -7%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Above All)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Physical/magic damage inflicted by normal and boss monsters -7%.",
+			"If refine level is +9 or above, physical/magic damage inflicted by enemies of all sizes -5%.",
+			"If refine rate is +11 or higher, physical/magic damage inflicted by enemies of all sizes -7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310113] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Drain Life)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Physical attacks create a 2% chance of restoring HP by 3% of their inflicted damage."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Drain Life)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Physical attacks create a 2% chance of restoring HP by 3% of their inflicted damage."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310114] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Drain Soul)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Physical attacks create a 1% chance of restoring SP by 2% of their inflicted damage."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Drain Soul)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Physical attacks create a 1% chance of restoring SP by 2% of their inflicted damage."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310115] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Magic Healing)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Adds a 2% chance of recovering 500 HP every 0.4 sec. (23 times) when performing a magic attack."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Magic Healing)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Adds a 2% chance of recovering 500 HP every 0.4 sec. (23 times) when performing a magic attack."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310116] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Magic Soul)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Adds a 1% chance of recovering 120 SP every 0.4 sec. (23 times) when performing a magic attack."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Magic Soul)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Adds a 1% chance of recovering 120 SP every 0.4 sec. (23 times) when performing a magic attack."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310117] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Power Force)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"ATK +3%, MATK +3%.",
+			"If refine rate is +9 or higher, additionally ATK +3%, MATK +3%.",
+			"If refine rate is +11 or higher, additionally ATK +4%, MATK +4%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Power Force)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"ATK +3%, MATK +3%.",
+			"If refine rate is +9 or higher, additionally ATK +3%, MATK +3%.",
+			"If refine rate is +11 or higher, additionally ATK +4%, MATK +4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310118] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Robust)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Max HP +2000, Max SP +300, Max HP +5%, Max SP +5%.",
+			"If refine rate is +9 or higher, additionally Max SP +2%, Max HP +2%.",
+			"If refine rate is +11 or higher, additionally Max HP +3%, Max SP +3%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Robust)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Max HP +2000, Max SP +300, Max HP +5%, Max SP +5%.",
+			"If refine rate is +9 or higher, additionally Max SP +2%, Max HP +2%.",
+			"If refine rate is +11 or higher, additionally Max HP +3%, Max SP +3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310119] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Powerful)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Short-ranged and ranged physical damage +5%, all property magic damage +5%.",
+			"If refine rate is +9 or higher, short-ranged and ranged physical damage additionally +2%, all property magic damage additionally +2%.",
+			"If refine rate is +11 or higher, short-ranged and ranged physical damage additionally +3%, all property magic damage additionally +3%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Powerful)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Short-ranged and ranged physical damage +5%, all property magic damage +5%.",
+			"If refine rate is +9 or higher, short-ranged and ranged physical damage additionally +2%, all property magic damage additionally +2%.",
+			"If refine rate is +11 or higher, short-ranged and ranged physical damage additionally +3%, all property magic damage additionally +3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310120] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (All-Force)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Short-ranged and ranged physical damage +5%, ranged physical damage +5%, all property magic damage +5%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (All-Force)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Short-ranged and ranged physical damage +5%, ranged physical damage +5%, all property magic damage +5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310121] = {
+		unidentifiedDisplayName = "Automatic Orb (Unlimited Vitality)",
+		unidentifiedResourceName = "Magic Stone of Holiness",
+		unidentifiedDescriptionName = {
+			"Physical/magic damage has a 5% chance to activate the effect [Enhanced Undying Stamina] for 10 sec.",
+			"[Enhanced Undying Stamina]: For 10 sec., VIT +50, restores 800 HP every 0.4 sec. (23 times)."
+		},
+		identifiedDisplayName = "Automatic Orb (Unlimited Vitality)",
+		identifiedResourceName = "Magic Stone of Holiness",
+		identifiedDescriptionName = {
+			"Physical/magic damage has a 5% chance to activate the effect [Enhanced Undying Stamina] for 10 sec.",
+			"[Enhanced Undying Stamina]: For 10 sec., VIT +50, restores 800 HP every 0.4 sec. (23 times)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310122] = {
+		unidentifiedDisplayName = "Automatic Orb (Spell Buster)",
+		unidentifiedResourceName = "Magic Stone of Holiness",
+		unidentifiedDescriptionName = {
+			"Magic damage has a 3% chance to activate the effect [Enhanced Mana Storm] for 10 sec.",
+			"[Enhanced Mana Storm]: For 10 sec., INT +50, MATK +25%."
+		},
+		identifiedDisplayName = "Automatic Orb (Spell Buster)",
+		identifiedResourceName = "Magic Stone of Holiness",
+		identifiedDescriptionName = {
+			"Magic damage has a 3% chance to activate the effect [Enhanced Mana Storm] for 10 sec.",
+			"[Enhanced Mana Storm]: For 10 sec., INT +50, MATK +25%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310123] = {
+		unidentifiedDisplayName = "Automatic Orb (Fierce Shooter)",
+		unidentifiedResourceName = "Magic Stone of Holiness",
+		unidentifiedDescriptionName = {
+			"Physical damage has a 3% chance to activate the effect [Enhanced Shooter Under Fire] for 10 sec.",
+			"[Enhanced Shooter Under Fire]: For 10 sec., DEX +50, ranged physical damage +15%."
+		},
+		identifiedDisplayName = "Automatic Orb (Fierce Shooter)",
+		identifiedResourceName = "Magic Stone of Holiness",
+		identifiedDescriptionName = {
+			"Physical damage has a 3% chance to activate the effect [Enhanced Shooter Under Fire] for 10 sec.",
+			"[Enhanced Shooter Under Fire]: For 10 sec., DEX +50, ranged physical damage +15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310124] = {
+		unidentifiedDisplayName = "Automatic Orb (Overpower)",
+		unidentifiedResourceName = "Magic Stone of Holiness",
+		unidentifiedDescriptionName = {
+			"Physical damage has a 3% chance to activate the effect [Enhanced Boiling Fighting Spirit] for 10 sec.",
+			"[Enhanced Boiling Fighting Spirit]: For 10 sec., STR +50, physical attack +15%, melee physical damage +10%."
+		},
+		identifiedDisplayName = "Automatic Orb (Overpower)",
+		identifiedResourceName = "Magic Stone of Holiness",
+		identifiedDescriptionName = {
+			"Physical damage has a 3% chance to activate the effect [Enhanced Boiling Fighting Spirit] for 10 sec.",
+			"[Enhanced Boiling Fighting Spirit]: For 10 sec., STR +50, physical attack +15%, melee physical damage +10%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310125] = {
+		unidentifiedDisplayName = "Automatic Orb (Fatal Flash)",
+		unidentifiedResourceName = "Magic Stone of Holiness",
+		unidentifiedDescriptionName = {
+			"Physical damage has a 3% chance to activate the effect [Enhanced Lethal Speed Maniac] for 10 sec.",
+			"[Enhanced Lethal Speed Maniac]: For 10 sec., AGI +50, critical damage +15%."
+		},
+		identifiedDisplayName = "Automatic Orb (Fatal Flash)",
+		identifiedResourceName = "Magic Stone of Holiness",
+		identifiedDescriptionName = {
+			"Physical damage has a 3% chance to activate the effect [Enhanced Lethal Speed Maniac] for 10 sec.",
+			"[Enhanced Lethal Speed Maniac]: For 10 sec., AGI +50, critical damage +15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310126] = {
+		unidentifiedDisplayName = "Automatic Orb (Lucky Strike)",
+		unidentifiedResourceName = "Magic Stone of Holiness",
+		unidentifiedDescriptionName = {
+			"Magic damage has a 3% chance to activate the effect [Enhanced Windfall] for 10 sec.",
+			"[Enhanced Windfall]: For 10 sec., LUK +50, magic damage of all elements +15%."
+		},
+		identifiedDisplayName = "Automatic Orb (Lucky Strike)",
+		identifiedResourceName = "Magic Stone of Holiness",
+		identifiedDescriptionName = {
+			"Magic damage has a 3% chance to activate the effect [Enhanced Windfall] for 10 sec.",
+			"[Enhanced Windfall]: For 10 sec., LUK +50, magic damage of all elements +15%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310127] = {
+		unidentifiedDisplayName = "Automatic Orb (Draconic Breath)",
+		unidentifiedResourceName = "Auto_Orb_Swordman",
+		unidentifiedDescriptionName = {
+			"Dragon Breath and Dragon Water Breath damage +15%.",
+			"If refine rate is +9 or higher, Dragon Breath and Dragon Water Breath damage additionally +3%.",
+			"If refine rate is +11 or higher, Dragon Breath and Dragon Water Breath damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Draconic Breath)",
+		identifiedResourceName = "Auto_Orb_Swordman",
+		identifiedDescriptionName = {
+			"Dragon Breath and Dragon Water Breath damage +15%.",
+			"If refine rate is +9 or higher, Dragon Breath and Dragon Water Breath damage additionally +3%.",
+			"If refine rate is +11 or higher, Dragon Breath and Dragon Water Breath damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310128] = {
+		unidentifiedDisplayName = "Automatic Orb (Wave Break)",
+		unidentifiedResourceName = "Auto_Orb_Swordman",
+		unidentifiedDescriptionName = {
+			"Sonic Wave and Ignition Break damage +15%.",
+			"If refine rate is +9 or higher, Sonic Wave and Ignition Break damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Wave damage +7%, Ignition Break cooldown -0.25 sec."
+		},
+		identifiedDisplayName = "Automatic Orb (Wave Break)",
+		identifiedResourceName = "Auto_Orb_Swordman",
+		identifiedDescriptionName = {
+			"Sonic Wave and Ignition Break damage +15%.",
+			"If refine rate is +9 or higher, Sonic Wave and Ignition Break damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Wave damage +7%, Ignition Break cooldown -0.25 sec."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310129] = {
+		unidentifiedDisplayName = "Automatic Orb (Hundred Spiral)",
+		unidentifiedResourceName = "Auto_Orb_Swordman",
+		unidentifiedDescriptionName = {
+			"Clashing Spiral and Hundred Spears damage +15%.",
+			"If total refine value is +9 or higher, additionally increases the skill damage of Clashing Spiral and Hundred Spears by 3%.",
+			"If refine rate is +11 or higher, Clashing Spiral damage additionally +7%, Hundred Spears cooldown -0.25% sec."
+		},
+		identifiedDisplayName = "Automatic Orb (Hundred Spiral)",
+		identifiedResourceName = "Auto_Orb_Swordman",
+		identifiedDescriptionName = {
+			"Clashing Spiral and Hundred Spears damage +15%.",
+			"If total refine value is +9 or higher, additionally increases the skill damage of Clashing Spiral and Hundred Spears by 3%.",
+			"If refine rate is +11 or higher, Clashing Spiral damage additionally +7%, Hundred Spears cooldown -0.25% sec."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310130] = {
+		unidentifiedDisplayName = "Automatic Orb (Drive Press)",
+		unidentifiedResourceName = "Auto_Orb_Swordman",
+		unidentifiedDescriptionName = {
+			"Earth Drive and Shield Press damage +15%.",
+			"If refine rate is +9 or higher, Earth Drive and Shield Press damage additionally +3%.",
+			"If refine rate is +11 or higher, Earth Drive and Shield Press damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Drive Press)",
+		identifiedResourceName = "Auto_Orb_Swordman",
+		identifiedDescriptionName = {
+			"Earth Drive and Shield Press damage +15%.",
+			"If refine rate is +9 or higher, Earth Drive and Shield Press damage additionally +3%.",
+			"If refine rate is +11 or higher, Earth Drive and Shield Press damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310131] = {
+		unidentifiedDisplayName = "Automatic Orb (Vanishing Cannon)",
+		unidentifiedResourceName = "Auto_Orb_Swordman",
+		unidentifiedDescriptionName = {
+			"Vanishing Point and Cannon Spear damage +15%.",
+			"If refined to +9 or higher, Vanishing Point and Cannon Spear damage +3%.",
+			"If refined to +11 or higher, Vanishing Point and Cannon Spear damage +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Vanishing Cannon)",
+		identifiedResourceName = "Auto_Orb_Swordman",
+		identifiedDescriptionName = {
+			"Vanishing Point and Cannon Spear damage +15%.",
+			"If refined to +9 or higher, Vanishing Point and Cannon Spear damage +3%.",
+			"If refined to +11 or higher, Vanishing Point and Cannon Spear damage +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310132] = {
+		unidentifiedDisplayName = "Automatic Orb (Genesis Gloria)",
+		unidentifiedResourceName = "Auto_Orb_Swordman",
+		unidentifiedDescriptionName = {
+			"Gloria Domini and Genesis Ray damage +15%.",
+			"If refine rate is +9 or higher, Gloria Domini and Genesis Ray damage additionally +3%.",
+			"If refine rate is +11 or higher, Gloria Domini and Genesis Ray damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Genesis Gloria)",
+		identifiedResourceName = "Auto_Orb_Swordman",
+		identifiedDescriptionName = {
+			"Gloria Domini and Genesis Ray damage +15%.",
+			"If refine rate is +9 or higher, Gloria Domini and Genesis Ray damage additionally +3%.",
+			"If refine rate is +11 or higher, Gloria Domini and Genesis Ray damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310133] = {
+		unidentifiedDisplayName = "Automatic Orb (Boost Cannon)",
+		unidentifiedResourceName = "Auto_Orb_Merchant",
+		unidentifiedDescriptionName = {
+			"Knuckle Boost and Arm Cannon damage +15%.",
+			"If refine rate is +9 or higher, Knuckle Boost and Arm Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Knuckle Boost and Arm Cannon damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Boost Cannon)",
+		identifiedResourceName = "Auto_Orb_Merchant",
+		identifiedDescriptionName = {
+			"Knuckle Boost and Arm Cannon damage +15%.",
+			"If refine rate is +9 or higher, Knuckle Boost and Arm Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Knuckle Boost and Arm Cannon damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310134] = {
+		unidentifiedDisplayName = "Automatic Orb (Ice Flame)",
+		unidentifiedResourceName = "Auto_Orb_Merchant",
+		unidentifiedDescriptionName = {
+			"Ice Launcher and Flame Launcher damage +15%.",
+			"If refine rate is +9 or higher, Ice Launcher and Flame Launcher damage additionally +3%.",
+			"If refine rate is +11 or higher, Ice Launcher and Flame Launcher damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Ice Flame)",
+		identifiedResourceName = "Auto_Orb_Merchant",
+		identifiedDescriptionName = {
+			"Ice Launcher and Flame Launcher damage +15%.",
+			"If refine rate is +9 or higher, Ice Launcher and Flame Launcher damage additionally +3%.",
+			"If refine rate is +11 or higher, Ice Launcher and Flame Launcher damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310135] = {
+		unidentifiedDisplayName = "Automatic Orb (Tornado Swing)",
+		unidentifiedResourceName = "Auto_Orb_Merchant",
+		unidentifiedDescriptionName = {
+			"Axe Swing and Power Swing damage +15%.",
+			"If refined to +9 or higher, Axe Tornado and Power Swing damage +3% additionally.",
+			"If refined to +11 or higher, Axe Tornado and Power Swing damage +7% additionally."
+		},
+		identifiedDisplayName = "Automatic Orb (Tornado Swing)",
+		identifiedResourceName = "Auto_Orb_Merchant",
+		identifiedDescriptionName = {
+			"Axe Swing and Power Swing damage +15%.",
+			"If refined to +9 or higher, Axe Tornado and Power Swing damage +3% additionally.",
+			"If refined to +11 or higher, Axe Tornado and Power Swing damage +7% additionally."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310136] = {
+		unidentifiedDisplayName = "Automatic Orb (Cannon Tornado)",
+		unidentifiedResourceName = "Auto_Orb_Merchant",
+		unidentifiedDescriptionName = {
+			"Cart Tornado and Cart Cannon damage +15%.",
+			"If refine rate is +9 or higher, Cart Tornado and Cart Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Cart Tornado and Cart Cannon damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Cannon Tornado)",
+		identifiedResourceName = "Auto_Orb_Merchant",
+		identifiedDescriptionName = {
+			"Cart Tornado and Cart Cannon damage +15%.",
+			"If refine rate is +9 or higher, Cart Tornado and Cart Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Cart Tornado and Cart Cannon damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310137] = {
+		unidentifiedDisplayName = "Automatic Orb (Crazy Mandragora)",
+		unidentifiedResourceName = "Auto_Orb_Merchant",
+		unidentifiedDescriptionName = {
+			"Crazy Vines damage +15%, Mandragora Howl cooldown -0.3 sec.",
+			"If refine rate is +9 or higher, Crazy Vines damage additionally +3%, Mandragora Howl cooldown additionally -0.3 sec.",
+			"If refine rate is +11 or higher, Crazy Vines damage additionally +7%, Mandragora Howl cooldown additionally -0.4 sec."
+		},
+		identifiedDisplayName = "Automatic Orb (Crazy Mandragora)",
+		identifiedResourceName = "Auto_Orb_Merchant",
+		identifiedDescriptionName = {
+			"Crazy Vines damage +15%, Mandragora Howl cooldown -0.3 sec. ",
+			"If refine rate is +9 or higher, Crazy Vines damage additionally +3%, Mandragora Howl cooldown additionally -0.3 sec. ",
+			"If refine rate is +11 or higher, Crazy Vines damage additionally +7%, Mandragora Howl cooldown additionally -0.4 sec. "
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310138] = {
+		unidentifiedDisplayName = "Automatic Orb (Acid Explosion)",
+		unidentifiedResourceName = "Auto_Orb_Merchant",
+		unidentifiedDescriptionName = {
+			"Acid Bomb and Spore Explosion damage +15%.",
+			"If refine rate is +9 or higher, Acid Bomb and Spore Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Acid Bomb and Spore Explosion damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Acid Explosion)",
+		identifiedResourceName = "Auto_Orb_Merchant",
+		identifiedDescriptionName = {
+			"Acid Bomb and Spore Explosion damage +15%.",
+			"If refine rate is +9 or higher, Acid Bomb and Spore Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Acid Bomb and Spore Explosion damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310139] = {
+		unidentifiedDisplayName = "Automatic Orb (Sonic Impact)",
+		unidentifiedResourceName = "Auto_Orb_Thief",
+		unidentifiedDescriptionName = {
+			"Sonic Blow and Cross Impact damage +15%.",
+			"If refine rate is +9 or higher, Sonic Blow and Cross Impact damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Blow and Cross Impact damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Sonic Impact)",
+		identifiedResourceName = "Auto_Orb_Thief",
+		identifiedDescriptionName = {
+			"Sonic Blow and Cross Impact damage +15%.",
+			"If refine rate is +9 or higher, Sonic Blow and Cross Impact damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Blow and Cross Impact damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310140] = {
+		unidentifiedDisplayName = "Automatic Orb (Cutter Slasher)",
+		unidentifiedResourceName = "Auto_Orb_Thief",
+		unidentifiedDescriptionName = {
+			"Cross Ripper Slasher and Rolling Cutter damage +15%.",
+			"If refine rate is +9 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Cutter Slasher)",
+		identifiedResourceName = "Auto_Orb_Thief",
+		identifiedDescriptionName = {
+			"Cross Ripper Slasher and Rolling Cutter damage +15%.",
+			"If refine rate is +9 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310141] = {
+		unidentifiedDisplayName = "Automatic Orb (Berserk Slash)",
+		unidentifiedResourceName = "Auto_Orb_Thief",
+		unidentifiedDescriptionName = {
+			"Soul Destroyer and Counter Slash damage +15%.",
+			"If refine rate is +9 or higher, Soul Destroyer and Counter Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Soul Destroyer and Counter Slash damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Berserk Slash)",
+		identifiedResourceName = "Auto_Orb_Thief",
+		identifiedDescriptionName = {
+			"Soul Destroyer and Counter Slash damage +15%.",
+			"If refine rate is +9 or higher, Soul Destroyer and Counter Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Soul Destroyer and Counter Slash damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310142] = {
+		unidentifiedDisplayName = "Automatic Orb (Fatal Raid)",
+		unidentifiedResourceName = "Auto_Orb_Thief",
+		unidentifiedDescriptionName = {
+			"Fatal Menace and Sightless Mind damage +15%.",
+			"If refine rate is +9 or higher, Fatal Menace and Sightless Mind damage additionally +3%.",
+			"If refine rate is +11 or higher, Fatal Menace and Sightless Mind damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Fatal Raid)",
+		identifiedResourceName = "Auto_Orb_Thief",
+		identifiedDescriptionName = {
+			"Fatal Menace and Sightless Mind damage +15%.",
+			"If refine rate is +9 or higher, Fatal Menace and Sightless Mind damage additionally +3%.",
+			"If refine rate is +11 or higher, Fatal Menace and Sightless Mind damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310143] = {
+		unidentifiedDisplayName = "Automatic Orb (Shadow Spell)",
+		unidentifiedResourceName = "Auto_Orb_Thief",
+		unidentifiedDescriptionName = {
+			"All property magic damage +15%.",
+			"If refined to +9 or higher, all property magic damage +3%.",
+			"If refined to +11 or higher, all property magic damage +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Shadow Spell)",
+		identifiedResourceName = "Auto_Orb_Thief",
+		identifiedDescriptionName = {
+			"All property magic damage +15%.",
+			"If refined to +9 or higher, all property magic damage +3%.",
+			"If refined to +11 or higher, all property magic damage +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310144] = {
+		unidentifiedDisplayName = "Automatic Orb (Angle Shot)",
+		unidentifiedResourceName = "Auto_Orb_Thief",
+		unidentifiedDescriptionName = {
+			"Triangle Shot damage +15%, long-ranged physical damage +10%.",
+			"If refine rate is +9 or higher, Triangle Shot damage additionally +3%.",
+			"If refine rate is +11 or higher, Triangle Shot damage additionally +7%, long-ranged physical damage additionally +5%."
+		},
+		identifiedDisplayName = "Automatic Orb (Angle Shot)",
+		identifiedResourceName = "Auto_Orb_Thief",
+		identifiedDescriptionName = {
+			"Triangle Shot damage +15%, long-ranged physical damage +10%.",
+			"If refine rate is +9 or higher, Triangle Shot damage additionally +3%.",
+			"If refine rate is +11 or higher, Triangle Shot damage additionally +7%, long-ranged physical damage additionally +5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310145] = {
+		unidentifiedDisplayName = "Automatic Orb (Crimson Strain)",
+		unidentifiedResourceName = "Auto_Orb_Magician",
+		unidentifiedDescriptionName = {
+			"Crimson Rock and Earth Strain damage +15%.",
+			"If refine rate is +9 or higher, Crimson Rock and Earth Strain damage additionally +3%.",
+			"If refine rate is +11 or higher, Crimson Rock and Earth Strain damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Crimson Strain)",
+		identifiedResourceName = "Auto_Orb_Magician",
+		identifiedDescriptionName = {
+			"Crimson Rock and Earth Strain damage +15%.",
+			"If refine rate is +9 or higher, Crimson Rock and Earth Strain damage additionally +3%.",
+			"If refine rate is +11 or higher, Crimson Rock and Earth Strain damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310146] = {
+		unidentifiedDisplayName = "Automatic Orb (Jack Lightning)",
+		unidentifiedResourceName = "Auto_Orb_Magician",
+		unidentifiedDescriptionName = {
+			"Jack Frost and Chain Lightning damage +15%.",
+			"If refine rate is +9 or higher, Jack Frost and Chain Lightning damage additionally +3%.",
+			"If refine rate is +11 or higher, Jack Frost and Chain Lightning damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Jack Lightning)",
+		identifiedResourceName = "Auto_Orb_Magician",
+		identifiedDescriptionName = {
+			"Jack Frost and Chain Lightning damage +15%.",
+			"If refine rate is +9 or higher, Jack Frost and Chain Lightning damage additionally +3%.",
+			"If refine rate is +11 or higher, Jack Frost and Chain Lightning damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310147] = {
+		unidentifiedDisplayName = "Automatic Orb (Comet Vortex)",
+		unidentifiedResourceName = "Auto_Orb_Magician",
+		unidentifiedDescriptionName = {
+			"Comet and Tetra Vortex damage +15%.",
+			"If refine rate is +9 or higher, Comet and Tetra Vortex damage additionally +3%.",
+			"If refine rate is +11 or higher, Comet and Tetra Vortex damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Comet Vortex)",
+		identifiedResourceName = "Auto_Orb_Magician",
+		identifiedDescriptionName = {
+			"Comet and Tetra Vortex damage +15%.",
+			"If refine rate is +9 or higher, Comet and Tetra Vortex damage additionally +3%.",
+			"If refine rate is +11 or higher, Comet and Tetra Vortex damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310148] = {
+		unidentifiedDisplayName = "Automatic Orb (Double Bolt)",
+		unidentifiedResourceName = "Auto_Orb_Magician",
+		unidentifiedDescriptionName = {
+			"Fire Bolt, Cold Bolt, Lightning Bolt damage +15%.",
+			"If refine rate is +9, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +3%.",
+			"If refine rate is +11, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Double Bolt)",
+		identifiedResourceName = "Auto_Orb_Magician",
+		identifiedDescriptionName = {
+			"Fire Bolt, Cold Bolt, Lightning Bolt damage +15%.",
+			"If refine rate is +9, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +3%.",
+			"If refine rate is +11, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310149] = {
+		unidentifiedDisplayName = "Automatic Orb (Warmer Wave)",
+		unidentifiedResourceName = "Auto_Orb_Magician",
+		unidentifiedDescriptionName = {
+			"Psychic Wave damage +15%, Warmer cooldown -1 sec. ",
+			"If refine rate is +9 or higher, Psychic Wave damage additionally +3%, Warmer cooldown additionally -2 sec. ",
+			"If refine rate is +11 or higher, Psychic Wave damage additionally +7%, Warmer cooldown additionally -4 sec. "
+		},
+		identifiedDisplayName = "Automatic Orb (Warmer Wave)",
+		identifiedResourceName = "Auto_Orb_Magician",
+		identifiedDescriptionName = {
+			"Psychic Wave damage +15%, Warmer cooldown -1 sec. ",
+			"If refine rate is +9 or higher, Psychic Wave damage additionally +3%, Warmer cooldown additionally -2 sec. ",
+			"If refine rate is +11 or higher, Psychic Wave damage additionally +7%, Warmer cooldown additionally -4 sec. "
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310150] = {
+		unidentifiedDisplayName = "Automatic Orb (Diamond Grave)",
+		unidentifiedResourceName = "Auto_Orb_Magician",
+		unidentifiedDescriptionName = {
+			"Diamond Dust and Earth Grave damage +15%.",
+			"If refine rate is +9 or higher, Diamond Dust and Earth Grave damage additionally +3%.",
+			"If refine rate is +11 or higher, Diamond Dust and Earth Grave damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Diamond Grave)",
+		identifiedResourceName = "Auto_Orb_Magician",
+		identifiedDescriptionName = {
+			"Diamond Dust and Earth Grave damage +15%.",
+			"If refine rate is +9 or higher, Diamond Dust and Earth Grave damage additionally +3%.",
+			"If refine rate is +11 or higher, Diamond Dust and Earth Grave damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310151] = {
+		unidentifiedDisplayName = "Automatic Orb (Magnusmus)",
+		unidentifiedResourceName = "Auto_Orb_Priest",
+		unidentifiedDescriptionName = {
+			"Magnus Exorcismus and Adoramus damage +15%.",
+			"If refine rate is +9 or higher, Magnus Exorcismus and Adoramus damage additionally +3%.",
+			"If refine rate is +11 or higher, Magnus Exorcismus and Adoramus damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Magnusmus)",
+		identifiedResourceName = "Auto_Orb_Priest",
+		identifiedDescriptionName = {
+			"Magnus Exorcismus and Adoramus damage +15%.",
+			"If refine rate is +9 or higher, Magnus Exorcismus and Adoramus damage additionally +3%.",
+			"If refine rate is +11 or higher, Magnus Exorcismus and Adoramus damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310152] = {
+		unidentifiedDisplayName = "Automatic Orb (Holy Judex)",
+		unidentifiedResourceName = "Auto_Orb_Priest",
+		unidentifiedDescriptionName = {
+			"Holy Light and Judex damage +15%.",
+			"If refine rate is +9 or higher, Holy Light and Judex damage additionally +3%.",
+			"If refine rate is +11 or higher, Holy Light and Judex damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Holy Judex)",
+		identifiedResourceName = "Auto_Orb_Priest",
+		identifiedDescriptionName = {
+			"Holy Light and Judex damage +15%.",
+			"If refine rate is +9 or higher, Holy Light and Judex damage additionally +3%.",
+			"If refine rate is +11 or higher, Holy Light and Judex damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310153] = {
+		unidentifiedDisplayName = "Automatic Orb (Duplelica)",
+		unidentifiedResourceName = "Auto_Orb_Priest",
+		unidentifiedDescriptionName = {
+			"Duple Light damage +15%, Basilica cooldown -2 sec. ",
+			"If refine rate is +9 or higher, Duple Light damage additionally +3%, Basilica cooldown additionally -3 sec. ",
+			"If refine rate is +11 or higher, Duple Light damage additionally +7%, Basilica cooldown additionally -5 sec. "
+		},
+		identifiedDisplayName = "Automatic Orb (Duplelica)",
+		identifiedResourceName = "Auto_Orb_Priest",
+		identifiedDescriptionName = {
+			"Duple Light damage +15%, Basilica cooldown -2 sec. ",
+			"If refine rate is +9 or higher, Duple Light damage additionally +3%, Basilica cooldown additionally -3 sec. ",
+			"If refine rate is +11 or higher, Duple Light damage additionally +7%, Basilica cooldown additionally -5 sec. "
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310154] = {
+		unidentifiedDisplayName = "Automatic Orb (Fallen Tiger)",
+		unidentifiedResourceName = "Auto_Orb_Priest",
+		unidentifiedDescriptionName = {
+			"Tiger Cannon and Fallen Empire damage +15%.",
+			"If refine rate is +9 or higher, Tiger Cannon and Fallen Empire damage additionally +3%.",
+			"If refine rate is +11 or higher, Tiger Cannon and Fallen Empire damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Fallen Tiger)",
+		identifiedResourceName = "Auto_Orb_Priest",
+		identifiedDescriptionName = {
+			"Tiger Cannon and Fallen Empire damage +15%.",
+			"If refine rate is +9 or higher, Tiger Cannon and Fallen Empire damage additionally +3%.",
+			"If refine rate is +11 or higher, Tiger Cannon and Fallen Empire damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310155] = {
+		unidentifiedDisplayName = "Automatic Orb (Rampage Arrow)",
+		unidentifiedResourceName = "Auto_Orb_Priest",
+		unidentifiedDescriptionName = {
+			"Rampage Blast and Knuckle Arrow damage +15%.",
+			"If refine rate is +9 or higher, Rampage Blast and Knuckle Arrow damage additionally +3%.",
+			"If refine rate is +11 or higher, Rampage Blast and Knuckle Arrow damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Rampage Arrow)",
+		identifiedResourceName = "Auto_Orb_Priest",
+		identifiedDescriptionName = {
+			"Rampage Blast and Knuckle Arrow damage +15%.",
+			"If refine rate is +9 or higher, Rampage Blast and Knuckle Arrow damage additionally +3%.",
+			"If refine rate is +11 or higher, Rampage Blast and Knuckle Arrow damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310156] = {
+		unidentifiedDisplayName = "Automatic Orb (Raging Crush)",
+		unidentifiedResourceName = "Auto_Orb_Priest",
+		unidentifiedDescriptionName = {
+			"Raging Thrust and Chain Crush Combo damage +15%.",
+			"If refine rate is +9 or higher, Raging Thrust and Chain Crush Combo damage additionally +3%.",
+			"If refine rate is +11 or higher, Raging Thrust and Chain Crush Combo damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Raging Crush)",
+		identifiedResourceName = "Auto_Orb_Priest",
+		identifiedDescriptionName = {
+			"Raging Thrust and Chain Crush Combo damage +15%.",
+			"If refine rate is +9 or higher, Raging Thrust and Chain Crush Combo damage additionally +3%.",
+			"If refine rate is +11 or higher, Raging Thrust and Chain Crush Combo damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310157] = {
+		unidentifiedDisplayName = "Automatic Orb (Cluster)",
+		unidentifiedResourceName = "Auto_Orb_Archer",
+		unidentifiedDescriptionName = {
+			"Bomb Cluster damage +15%.",
+			"If refine rate is +9 or higher, Bomb Cluster damage additionally +3%.",
+			"If refine rate is +11 or higher, Bomb Cluster damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Cluster)",
+		identifiedResourceName = "Auto_Orb_Archer",
+		identifiedDescriptionName = {
+			"Bomb Cluster damage +15%.",
+			"If refine rate is +9 or higher, Bomb Cluster damage additionally +3%.",
+			"If refine rate is +11 or higher, Bomb Cluster damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310158] = {
+		unidentifiedDisplayName = "Automatic Orb (Breeze Shooting)",
+		unidentifiedResourceName = "Auto_Orb_Archer",
+		unidentifiedDescriptionName = {
+			"Focused Arrow Strike damage +15%, Critical Damage +10%.",
+			"If refine rate is +9 or higher, Focused Arrow Strike damage additionally +3%.",
+			"If refine rate is +11 or higher, Focused Arrow Strike damage additionally +7%, Critical Damage additionally +5%."
+		},
+		identifiedDisplayName = "Automatic Orb (Breeze Shooting)",
+		identifiedResourceName = "Auto_Orb_Archer",
+		identifiedDescriptionName = {
+			"Focused Arrow Strike damage +15%, Critical Damage +10%.",
+			"If refine rate is +9 or higher, Focused Arrow Strike damage additionally +3%.",
+			"If refine rate is +11 or higher, Focused Arrow Strike damage additionally +7%, Critical Damage additionally +5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310159] = {
+		unidentifiedDisplayName = "Automatic Orb (Aimed Storm)",
+		unidentifiedResourceName = "Auto_Orb_Archer",
+		unidentifiedDescriptionName = {
+			"Aimed Bolt and Arrow Storm damage +15%.",
+			"If refine rate is +9 or higher, Aimed Bolt and Arrow Storm damage additionally +3%.",
+			"If refine rate is +11 or higher, Aimed Bolt and Arrow Storm damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Aimed Storm)",
+		identifiedResourceName = "Auto_Orb_Archer",
+		identifiedDescriptionName = {
+			"Aimed Bolt and Arrow Storm damage +15%.",
+			"If refine rate is +9 or higher, Aimed Bolt and Arrow Storm damage additionally +3%.",
+			"If refine rate is +11 or higher, Aimed Bolt and Arrow Storm damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310160] = {
+		unidentifiedDisplayName = "Automatic Orb (Metallic Echo)",
+		unidentifiedResourceName = "Auto_Orb_Archer",
+		unidentifiedDescriptionName = {
+			"Metallic Sound and Great Echo damage +15%.",
+			"If refine rate is +9 or higher, Metallic Sound and Great Echo damage additionally +3%.",
+			"If refine rate is +11 or higher, Metallic Sound and Great Echo damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Metallic Echo)",
+		identifiedResourceName = "Auto_Orb_Archer",
+		identifiedDescriptionName = {
+			"Metallic Sound and Great Echo damage +15%.",
+			"If refine rate is +9 or higher, Metallic Sound and Great Echo damage additionally +3%.",
+			"If refine rate is +11 or higher, Metallic Sound and Great Echo damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310161] = {
+		unidentifiedDisplayName = "Automatic Orb (Reverberation)",
+		unidentifiedResourceName = "Auto_Orb_Archer",
+		unidentifiedDescriptionName = {
+			"Reverberation damage +15%.",
+			"If refine rate is +9 or higher, Reverberation damage additionally +3%.",
+			"If refine rate is +11 or higher, Reverberation damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Reverberation)",
+		identifiedResourceName = "Auto_Orb_Archer",
+		identifiedDescriptionName = {
+			"Reverberation damage +15%.",
+			"If refine rate is +9 or higher, Reverberation damage additionally +3%.",
+			"If refine rate is +11 or higher, Reverberation damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310162] = {
+		unidentifiedDisplayName = "Automatic Orb (Vulcan Severe)",
+		unidentifiedResourceName = "Auto_Orb_Archer",
+		unidentifiedDescriptionName = {
+			"Arrow Vulcan and Severe Rainstorm damage +15%.",
+			"If refine rate is +9 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +3%.",
+			"If refine rate is +11 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Vulcan Severe)",
+		identifiedResourceName = "Auto_Orb_Archer",
+		identifiedDescriptionName = {
+			"Arrow Vulcan and Severe Rainstorm damage +15%.",
+			"If refine rate is +9 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +3%.",
+			"If refine rate is +11 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310163] = {
+		unidentifiedDisplayName = "Automatic Orb (Blaze Explosion)",
+		unidentifiedResourceName = "Auto_Orb_Ex1",
+		unidentifiedDescriptionName = {
+			"Flaming Kick and Solar Explosion damage +15%.",
+			"If refine rate is +9 or higher, Flaming Kick and Solar Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Kick and Solar Explosion damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Blaze Explosion)",
+		identifiedResourceName = "Auto_Orb_Ex1",
+		identifiedDescriptionName = {
+			"Flaming Kick and Solar Explosion damage +15%.",
+			"If refine rate is +9 or higher, Flaming Kick and Solar Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Kick and Solar Explosion damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310164] = {
+		unidentifiedDisplayName = "Automatic Orb (Moon Kick)",
+		unidentifiedResourceName = "Auto_Orb_Ex1",
+		unidentifiedDescriptionName = {
+			"New Moon Kick and Full Moon Kick damage +15%.",
+			"If refine rate is +9 or higher, New Moon Kick and Full Moon Kick damage additionally +3%.",
+			"If refine rate is +11 or higher, New Moon Kick and Full Moon Kick damage additionally +7%, Critical Damage +5%."
+		},
+		identifiedDisplayName = "Automatic Orb (Moon Kick)",
+		identifiedResourceName = "Auto_Orb_Ex1",
+		identifiedDescriptionName = {
+			"New Moon Kick and Full Moon Kick damage +15%.",
+			"If refine rate is +9 or higher, New Moon Kick and Full Moon Kick damage additionally +3%.",
+			"If refine rate is +11 or higher, New Moon Kick and Full Moon Kick damage additionally +7%, Critical Damage +5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310165] = {
+		unidentifiedDisplayName = "Automatic Orb (Flash Star)",
+		unidentifiedResourceName = "Auto_Orb_Ex1",
+		unidentifiedDescriptionName = {
+			"Radiant Kick and Falling Star damage +15%.",
+			"If refine rate is +9 or higher, Radiant Kick and Falling Star damage additionally +3%.",
+			"If refine rate is +11 or higher, Radiant Kick and Falling Star damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Flash Star)",
+		identifiedResourceName = "Auto_Orb_Ex1",
+		identifiedDescriptionName = {
+			"Radiant Kick and Falling Star damage +15%.",
+			"If refine rate is +9 or higher, Radiant Kick and Falling Star damage additionally +3%.",
+			"If refine rate is +11 or higher, Radiant Kick and Falling Star damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310166] = {
+		unidentifiedDisplayName = "Automatic Orb (Eswoo)",
+		unidentifiedResourceName = "Auto_Orb_Ex1",
+		unidentifiedDescriptionName = {
+			"Esma and Esu damage +15%.",
+			"If refine rate is +9 or higher, Esma and Esu damage additionally +3%.",
+			"If refine rate is +11 or higher, Esma and Esu damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Eswoo)",
+		identifiedResourceName = "Auto_Orb_Ex1",
+		identifiedDescriptionName = {
+			"Esma and Esu damage +15%.",
+			"If refine rate is +9 or higher, Esma and Esu damage additionally +3%.",
+			"If refine rate is +11 or higher, Esma and Esu damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310167] = {
+		unidentifiedDisplayName = "Automatic Orb (Espa)",
+		unidentifiedResourceName = "Auto_Orb_Ex1",
+		unidentifiedDescriptionName = {
+			"Espa damage +15%.",
+			"If refine rate is +9 or higher, Espa damage additionally +3%.",
+			"If refine rate is +11 or higher, Espa damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Espa)",
+		identifiedResourceName = "Auto_Orb_Ex1",
+		identifiedDescriptionName = {
+			"Espa damage +15%.",
+			"If refine rate is +9 or higher, Espa damage additionally +3%.",
+			"If refine rate is +11 or higher, Espa damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310168] = {
+		unidentifiedDisplayName = "Automatic Orb (Curse Explosion)",
+		unidentifiedResourceName = "Auto_Orb_Ex1",
+		unidentifiedDescriptionName = {
+			"Curse Explosion damage +15%.",
+			"If refine rate is +9 or higher, Curse Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Curse Explosion damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Curse Explosion)",
+		identifiedResourceName = "Auto_Orb_Ex1",
+		identifiedDescriptionName = {
+			"Curse Explosion damage +15%.",
+			"If refine rate is +9 or higher, Curse Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Curse Explosion damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310169] = {
+		unidentifiedDisplayName = "Automatic Orb (Death Hammer Dance)",
+		unidentifiedResourceName = "Auto_Orb_Ex2",
+		unidentifiedDescriptionName = {
+			"Desperado, Fire Dance, God's Hammer damage +15%.",
+			"If refine rate is +9 or higher, Desperado, Fire Dance, God's Hammer damage additionally +3%.",
+			"If refine rate is +11 or higher, Desperado, Fire Dance, God's Hammer damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Death Hammer Dance)",
+		identifiedResourceName = "Auto_Orb_Ex2",
+		identifiedDescriptionName = {
+			"Desperado, Fire Dance, God's Hammer damage +15%.",
+			"If refine rate is +9 or higher, Desperado, Fire Dance, God's Hammer damage additionally +3%.",
+			"If refine rate is +11 or higher, Desperado, Fire Dance, God's Hammer damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310170] = {
+		unidentifiedDisplayName = "Automatic Orb (Fire Howling Tail)",
+		unidentifiedResourceName = "Auto_Orb_Ex2",
+		unidentifiedDescriptionName = {
+			"Fire Rain, Howling Mine, Dragon Tail damage +15%.",
+			"If refine rate is +9 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +3%.",
+			"If refine rate is +11 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Fire Howling Tail)",
+		identifiedResourceName = "Auto_Orb_Ex2",
+		identifiedDescriptionName = {
+			"Fire Rain, Howling Mine, Dragon Tail damage +15%.",
+			"If refine rate is +9 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +3%.",
+			"If refine rate is +11 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310171] = {
+		unidentifiedDisplayName = "Automatic Orb (Storm Buster Trip)",
+		unidentifiedResourceName = "Auto_Orb_Ex2",
+		unidentifiedDescriptionName = {
+			"Shattering Storm, Vanishing Buster, Round Trip damage +15%.",
+			"If refine rate is +9 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +3%.",
+			"If refine rate is +11 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Storm Buster Trip)",
+		identifiedResourceName = "Auto_Orb_Ex2",
+		identifiedDescriptionName = {
+			"Shattering Storm, Vanishing Buster, Round Trip damage +15%.",
+			"If refine rate is +9 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +3%.",
+			"If refine rate is +11 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310172] = {
+		unidentifiedDisplayName = "Automatic Orb (Petal Spear Blade)",
+		unidentifiedResourceName = "Auto_Orb_Ex2",
+		unidentifiedDescriptionName = {
+			"Flaming Petals, Freezing Spear, Wind Blade damage +15%.",
+			"If refine rate is +9 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Petal Spear Blade)",
+		identifiedResourceName = "Auto_Orb_Ex2",
+		identifiedDescriptionName = {
+			"Flaming Petals, Freezing Spear, Wind Blade damage +15%.",
+			"If refine rate is +9 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310173] = {
+		unidentifiedDisplayName = "Automatic Orb (Cross Slash)",
+		unidentifiedResourceName = "Auto_Orb_Ex2",
+		unidentifiedDescriptionName = {
+			"Cross Slash damage +15%.",
+			"If refine rate is +9 or higher, Cross Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Slash damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Cross Slash)",
+		identifiedResourceName = "Auto_Orb_Ex2",
+		identifiedDescriptionName = {
+			"Cross Slash damage +15%.",
+			"If refine rate is +9 or higher, Cross Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Slash damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310174] = {
+		unidentifiedDisplayName = "Automatic Orb (Dragon Draft Wind)",
+		unidentifiedResourceName = "Auto_Orb_Ex2",
+		unidentifiedDescriptionName = {
+			"Exploding Dragon, Snow Flake Draft, First Wind damage +15%.",
+			"If refine rate is +9 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +3%.",
+			"If refine rate is +11 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Dragon Draft Wind)",
+		identifiedResourceName = "Auto_Orb_Ex2",
+		identifiedDescriptionName = {
+			"Exploding Dragon, Snow Flake Draft, First Wind damage +15%.",
+			"If refine rate is +9 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +3%.",
+			"If refine rate is +11 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310175] = {
+		unidentifiedDisplayName = "Automatic Orb (Power of Sea)",
+		unidentifiedResourceName = "Auto_Orb_Summoner",
+		unidentifiedDescriptionName = {
+			"Tuna Party and Tasty Shrimp Party cooldown -0.5 sec.",
+			"If refine rate is +9 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1 sec.",
+			"If refine rate is +11 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1.5 sec."
+		},
+		identifiedDisplayName = "Automatic Orb (Power of Sea)",
+		identifiedResourceName = "Auto_Orb_Summoner",
+		identifiedDescriptionName = {
+			"Tuna Party and Tasty Shrimp Party cooldown -0.5 sec.",
+			"If refine rate is +9 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1 sec.",
+			"If refine rate is +11 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1.5 sec."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310176] = {
+		unidentifiedDisplayName = "Automatic Orb (Power of Land)",
+		unidentifiedResourceName = "Auto_Orb_Summoner",
+		unidentifiedDescriptionName = {
+			"SV Stem Spear and CN Meteor damage +15%.",
+			"If refine rate is +9 or higher, SV Stem Spear and CN Meteor damage additionally +3%.",
+			"If refine rate is +11 or higher, SV Stem Spear and CN Meteor damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Power of Land)",
+		identifiedResourceName = "Auto_Orb_Summoner",
+		identifiedDescriptionName = {
+			"SV Stem Spear and CN Meteor damage +15%.",
+			"If refine rate is +9 or higher, SV Stem Spear and CN Meteor damage additionally +3%.",
+			"If refine rate is +11 or higher, SV Stem Spear and CN Meteor damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310177] = {
+		unidentifiedDisplayName = "Automatic Orb (Power of Life)",
+		unidentifiedResourceName = "Auto_Orb_Summoner",
+		unidentifiedDescriptionName = {
+			"Picky Peck and Lunatic Carrot Beat damage +15%",
+			"If refine rate is +9 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +3%.",
+			"If refine rate is +11 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +7%."
+		},
+		identifiedDisplayName = "Automatic Orb (Power of Life)",
+		identifiedResourceName = "Auto_Orb_Summoner",
+		identifiedDescriptionName = {
+			"Picky Peck and Lunatic Carrot Beat damage +15%",
+			"If refine rate is +9 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +3%.",
+			"If refine rate is +11 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +7%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310178] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Mirror Counter)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Reflected damage taken -2%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -3%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Mirror Counter)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Reflected damage taken -2%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -3%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310179] = {
+		unidentifiedDisplayName = "Automatic Modification Orb (Reflection Reject)",
+		unidentifiedResourceName = "Magic Fire Stone",
+		unidentifiedDescriptionName = {
+			"Reflected damage taken -3%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -4%."
+		},
+		identifiedDisplayName = "Automatic Modification Orb (Reflection Reject)",
+		identifiedResourceName = "Magic Fire Stone",
+		identifiedDescriptionName = {
+			"Reflected damage taken -3%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -4%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000104] = {
+		unidentifiedDisplayName = "Magical Soapstone",
+		unidentifiedResourceName = "Magical_Igni_Stone",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"An ore that contains powerful magic.",
+			"No one knows how it came into existence and what it can be used for.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Magical Soapstone",
+		identifiedResourceName = "Magical_Igni_Stone",
+		identifiedDescriptionName = {
+			"An ore that contains powerful magic.",
+			"No one knows how it came into existence and what it can be used for.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000105] = {
+		unidentifiedDisplayName = "Automatic Modification Module (DEF)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (DEF) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"DEF +150.",
+			"If refined to +9 or higher, DEF +75 additionally.",
+			"If refined to +11 or higher, DEF +75 additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (DEF)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (DEF) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"DEF +150.",
+			"If refined to +9 or higher, DEF +75 additionally.",
+			"If refined to +11 or higher, DEF +75 additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000106] = {
+		unidentifiedDisplayName = "Automatic Modification Module (MDEF)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (MDEF) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MDEF +15.",
+			"If refine rate is +9 and higher, additional MDEF +7.",
+			"If refine rate is +11 and higher, additional MDEF +7.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (MDEF)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (MDEF) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MDEF +15.",
+			"If refine rate is +9 and higher, additional MDEF +7.",
+			"If refine rate is +11 and higher, additional MDEF +7.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000107] = {
+		unidentifiedDisplayName = "Automatic Modification Module (VIT)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (VIT) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"VIT +3, Max HP +1%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (VIT)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (VIT) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"VIT +3, Max HP +1%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000108] = {
+		unidentifiedDisplayName = "Automatic Modification Module (LUK)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (LUK) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"LUK +3, Critical Damage +1%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (LUK)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (LUK) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"LUK +3, Critical Damage +1%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000109] = {
+		unidentifiedDisplayName = "Automatic Modification Module (STR)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (STR) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"STR +3, ATK +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (STR)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (STR) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"STR +3, ATK +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000110] = {
+		unidentifiedDisplayName = "Automatic Modification Module (AGI)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (AGI) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"AGI +3, ASPD increases (Attack Delay -2%).",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (AGI)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (AGI) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"AGI +3, ASPD increases (Attack Delay -2%).",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000111] = {
+		unidentifiedDisplayName = "Automatic Modification Module (INT)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (INT) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"INT +3, MATK +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (INT)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (INT) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"INT +3, MATK +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000112] = {
+		unidentifiedDisplayName = "Automatic Modification Module (DEX)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (DEX) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"DEX +3, long-ranged physical damage +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (DEX)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor.",
+			"Adds the Automatic Modification Orb (DEX) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"DEX +3, long-ranged physical damage +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000113] = {
+		unidentifiedDisplayName = "Automatic Modification Module (HP Recovery)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (HP Recovery) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Basic HP Recovery +30%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (HP Recovery)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (HP Recovery) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Basic HP Recovery +30%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000114] = {
+		unidentifiedDisplayName = "Automatic Modification Module (SP Recovery)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (HP Recovery) ",
+			"^000088[Enchant Effect]^000000 ",
+			"Basic SP recovery rate +30%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (SP Recovery)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (HP Recovery) ",
+			"^000088[Enchant Effect]^000000 ",
+			"Basic SP recovery rate +30%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000115] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Spell)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Spell) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +20, Variable Cast Time -10%. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Spell)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Spell) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +20, Variable Cast Time -10%. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000116] = {
+		unidentifiedDisplayName = "Automatic Modification Module (ASPD)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (ASPD) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +20, increases ASPD (Attack Delay -10%).",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (ASPD)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (ASPD) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +20, increases ASPD (Attack Delay -10%).",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000117] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Fatal)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Fatal) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Critical Rate +10, Critical Damage +10%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Fatal)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Fatal) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Critical Rate +10, Critical Damage +10%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000118] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Expert Archer)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Expert Archer) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"HIT +10, long-ranged physical damage +10%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Expert Archer)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Expert Archer) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"HIT +10, long-ranged physical damage +10%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000119] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Health)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Health) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Max HP +5%, Max. HP +1500.",
+			"If refined to +9 or higher, Max HP +2% additionally.",
+			"If refined to +11 or higher, Max HP +3% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Health)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Health) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Max HP +5%, Max. HP +1500.",
+			"If refined to +9 or higher, Max HP +2% additionally.",
+			"If refined to +11 or higher, Max HP +3% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000120] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Spirit)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Spirit) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Max SP +5%, Max SP +300.",
+			"If refined to +9 or higher, Max SP +2% additionally.",
+			"If refined to +11 or higher, Max SP +3% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Spirit)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Spirit) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Max SP +5%, Max SP +300.",
+			"If refined to +9 or higher, Max SP +2% additionally.",
+			"If refined to +11 or higher, Max SP +3% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000121] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Heal)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Heal) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Healing +5%.",
+			"If refined to +9 or higher, Max HP +5% additionally.",
+			"If refined to +11 or higher, Max HP +7% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Heal)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Heal) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Healing +5%.",
+			"If refined to +9 or higher, Max HP +5% additionally.",
+			"If refined to +11 or higher, Max HP +7% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000122] = {
+		unidentifiedDisplayName = "Automatic Modification Module (ATK)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (ATK) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +5%, ATK +75.",
+			"If refine rate is +9 or higher, short-ranged physical damage +2%.",
+			"If refine rate is +11 or higher, additional short-ranged physical damage +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (ATK)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (ATK) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +5%, ATK +75.",
+			"If refine rate is +9 or higher, short-ranged physical damage +2%.",
+			"If refine rate is +11 or higher, additional short-ranged physical damage +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000123] = {
+		unidentifiedDisplayName = "Automatic Modification Module (MATK)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (MATK) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +5%, MATK +75.",
+			"If refined to +9 and higher, MATK +2%.",
+			"If refined to +11 and higher, MATK +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (MATK)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (MATK) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +5%, MATK +75.",
+			"If refined to +9 and higher, MATK +2%.",
+			"If refined to +11 and higher, MATK +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000124] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Sharpshooter)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Sharpshooter) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Long-ranged physical damage +3%.",
+			"If refined to +9 or higher, Long-Ranged Physical Damage +3% additionally.",
+			"If refined to +11 or higher, Long-Ranged Physical Damage +3% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Sharpshooter)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Sharpshooter) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Long-ranged physical damage +3%.",
+			"If refined to +9 or higher, Long-Ranged Physical Damage +3% additionally.",
+			"If refined to +11 or higher, Long-Ranged Physical Damage +3% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000125] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Speed)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Speed) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ASPD +1.",
+			"If refine rate is +9 or higher, additional Attack Delay -5%.",
+			"If refine rate is +11 or higher, additional Attack Delay -5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Speed)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Speed) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ASPD +1.",
+			"If refine rate is +9 or higher, additional Attack Delay -5%.",
+			"If refine rate is +11 or higher, additional Attack Delay -5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000126] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Caster)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Caster) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Variable Cast Time of all skills -5%.",
+			"If refine rate is +9 or higher, Variable Cast Time of all skills -5% additionally.",
+			"If refine rate is +11 or higher, Variable Cast Time of all skills -5% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Caster)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Adds the Automatic Modification Orb (Caster) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Variable Cast Time of all skills -5%.",
+			"If refine rate is +9 or higher, Variable Cast Time of all skills -5% additionally.",
+			"If refine rate is +11 or higher, Variable Cast Time of all skills -5% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000127] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Critical)",
+		unidentifiedResourceName = "Auto_Module_A",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Critical) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Critical Rate +10.",
+			"If refined to +9 or higher, Critical Damage +5%.",
+			"If refined to +11 or higher, Critical Damage +7% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Critical)",
+		identifiedResourceName = "Auto_Module_A",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Critical) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Critical Rate +10.",
+			"If refined to +9 or higher, Critical Damage +5%.",
+			"If refined to +11 or higher, Critical Damage +7% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000128] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Magical Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A module that can enhance Automatic armor. ",
+			"Activates the Automatic Modification Orb (Magical Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +20, Variable Cast Time of all skills -10%, all property magic damage +2%.",
+			"If refined to +9 or higher, all property magic damage +1%.",
+			"If refined to +11 or higher, all property magic damage +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Magical Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A module that can enhance Automatic armor. ",
+			"Activates the Automatic Modification Orb (Magical Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +20, Variable Cast Time of all skills -10%, all property magic damage +2%.",
+			"If refined to +9 or higher, all property magic damage +1%.",
+			"If refined to +11 or higher, all property magic damage +2%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000129] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Attacker Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Attacker Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +20, short-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Attacker Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Attacker Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +20, short-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000130] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Ranged Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Ranged Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +20, long-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Ranged Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Ranged Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +20, long-ranged physical damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000131] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Critical Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Critical Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Critical Rate +5, Critical Damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Critical Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Critical Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Critical Rate +5, Critical Damage +10%, physical damage inflicted on enemies of any size +3%.",
+			"If refine rate is +9 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"If refine rate is +11 or higher, physical damage inflicted on enemies of any size +1% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000132] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Recovery Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Recovery Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +20, Variable Cast Time of all skills -10%, HP Recovery +5%.",
+			"If refine rate is +9 or higher, HP Recovery additionally +5%.",
+			"If refine rate is +11 or higher, HP Recovery additionally +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Recovery Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Recovery Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"MATK +20, Variable Cast Time of all skills -10%, HP Recovery +5%.",
+			"If refine rate is +9 or higher, HP Recovery additionally +5%.",
+			"If refine rate is +11 or higher, HP Recovery additionally +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000133] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Post-skill Delay)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Post-skill Delay) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cast Delay -4%.",
+			"If refine rate is +9 or higher, additional Attack Delay -6%.",
+			"If refine rate is +11 or higher, additional Attack Delay -6%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Post-skill Delay)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Post-skill Delay) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cast Delay -4%.",
+			"If refine rate is +9 or higher, additional Attack Delay -6%.",
+			"If refine rate is +11 or higher, additional Attack Delay -6%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000134] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Fixed Cast Time)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Fixed Cast Time) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fixed Cast Time of all skills -0.1 sec.",
+			"If refined to +9 or higher, Fixed Cast Time of all skills -0.2 sec additionally.",
+			"If refined to +11 or higher, Fixed Cast Time of all skills -0.5 sec additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Fixed Cast Time)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Fixed Cast Time) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fixed Cast Time of all skills -0.1 sec.",
+			"If refined to +9 or higher, Fixed Cast Time of all skills -0.2 sec additionally.",
+			"If refined to +11 or higher, Fixed Cast Time of all skills -0.5 sec additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000135] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Above All)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Above All) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Physical/magic damage inflicted by normal and boss monsters -7%.",
+			"If refine level is +9 or above, physical/magic damage inflicted by enemies of all sizes -5%.",
+			"If refine rate is +11 or higher, physical/magic damage inflicted by enemies of all sizes -7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Above All)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Above All) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Physical/magic damage inflicted by normal and boss monsters -7%.",
+			"If refine level is +9 or above, physical/magic damage inflicted by enemies of all sizes -5%.",
+			"If refine rate is +11 or higher, physical/magic damage inflicted by enemies of all sizes -7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000136] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Drain Life)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Drain Life) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 2% chance of consuming 3% HP when performing a physical attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Drain Life)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Drain Life) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 2% chance of consuming 3% HP when performing a physical attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000137] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Drain Soul)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Drain Soul) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 1% chance of consuming 2% SP when performing a physical attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Drain Soul)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Drain Soul) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 1% chance of consuming 2% SP when performing a physical attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000138] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Magic Healing)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Magic Healing) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 2% chance of recovering 500 HP every 0.4 sec. (23 times) when performing a magical attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Magic Healing)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Magic Healing) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 2% chance of recovering 500 HP every 0.4 sec. (23 times) when performing a magical attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Battle Chip R",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000139] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Magic Soul)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Magic Soul) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 1% chance of recovering 120 SP every 0.4 sec. (23 times) when performing a magic attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Magic Soul)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Magic Soul) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Adds a 1% chance of recovering 120 SP every 0.4 sec. (23 times) when performing a magic attack.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster L",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000140] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Power Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Power Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +3%, MATK +3%.",
+			"If refine rate is +9 or higher, additionally ATK +3%, MATK +3%.",
+			"If refine rate is +11 or higher, additionally ATK +4%, MATK +4%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Power Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Power Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"ATK +3%, MATK +3%.",
+			"If refine rate is +9 or higher, additionally ATK +3%, MATK +3%.",
+			"If refine rate is +11 or higher, additionally ATK +4%, MATK +4%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000141] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Robust)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Robust) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Max HP +2000, Max SP +300, Max HP +5%, Max SP +5%.",
+			"If refine rate is +9 or higher, additionally Max SP +2%, Max HP +2%.",
+			"If refine rate is +11 or higher, additionally Max HP +3%, Max SP +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Robust)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Robust) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Max HP +2000, Max SP +300, Max HP +5%, Max SP +5%.",
+			"If refine rate is +9 or higher, additionally Max SP +2%, Max HP +2%.",
+			"If refine rate is +11 or higher, additionally Max HP +3%, Max SP +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000142] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Powerful)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Powerful) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Short-ranged and ranged physical damage +5%, all property magic damage +5%.",
+			"If refine rate is +9 or higher, short-ranged and ranged physical damage additionally +2%, all property magic damage additionally +2%.",
+			"If refine rate is +11 or higher, short-ranged and ranged physical damage additionally +3%, all property magic damage additionally +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Powerful)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Powerful) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Short-ranged and ranged physical damage +5%, all property magic damage +5%.",
+			"If refine rate is +9 or higher, short-ranged and ranged physical damage additionally +2%, all property magic damage additionally +2%.",
+			"If refine rate is +11 or higher, short-ranged and ranged physical damage additionally +3%, all property magic damage additionally +3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000143] = {
+		unidentifiedDisplayName = "Automatic Modification Module (All-Force)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (All-Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Short-ranged and ranged physical damage +5%, ranged physical damage +5%, all property magic damage +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (All-Force)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (All-Force) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Short-ranged and ranged physical damage +5%, ranged physical damage +5%, all property magic damage +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Booster R",
+			"Automatic Booster L",
+			"Automatic Battle Chip R",
+			"Automatic Battle Chip L",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000144] = {
+		unidentifiedDisplayName = "Automatic Module (Unlimited Vitality)",
+		unidentifiedResourceName = "Auto_Module_D",
+		unidentifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Unlimited Vitality).",
+			"^000088[Enchantment Effect]^000000",
+			"Receiving physical/magical damage has a 5% chance to activate [Enhanced Infinite Vitality] for 10 seconds.",
+			"[Enhanced Infinite Vitality]: +50 Vitality for 10 sec, restores 800 HP every 0.4 sec (23 times).",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Unlimited Vitality)",
+		identifiedResourceName = "Auto_Module_D",
+		identifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Unlimited Vitality).",
+			"^000088[Enchantment Effect]^000000",
+			"Receiving physical/magical damage has a 5% chance to activate [Enhanced Infinite Vitality] for 10 seconds.",
+			"[Enhanced Infinite Vitality]: +50 Vitality for 10 sec, restores 800 HP every 0.4 sec (23 times).",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000145] = {
+		unidentifiedDisplayName = "Automatic Module (Spell Buster)",
+		unidentifiedResourceName = "Auto_Module_D",
+		unidentifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Spell Buster).",
+			"^000088[Enchantment Effect]^000000",
+			"Magical damage has a 3% chance to activate [Enhanced Magic Storm] for 10 seconds.",
+			"[Enhanced Magic Storm]: +50 Intelligence, +25% Magic Attack for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Spell Buster)",
+		identifiedResourceName = "Auto_Module_D",
+		identifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Spell Buster).",
+			"^000088[Enchantment Effect]^000000",
+			"Magical damage has a 3% chance to activate [Enhanced Magic Storm] for 10 seconds.",
+			"[Enhanced Magic Storm]: +50 Intelligence, +25% Magic Attack for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000146] = {
+		unidentifiedDisplayName = "Automatic Module (Fierce Shooter)",
+		unidentifiedResourceName = "Auto_Module_D",
+		unidentifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Fierce Shooter).",
+			"^000088[Enchantment Effect]^000000",
+			"Physical damage has a 3% chance to activate [Enhanced Flame Target] for 10 seconds.",
+			"[Enhanced Flame Target]: +50 Dexterity, +15% Ranged Physical Damage for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Fierce Shooter)",
+		identifiedResourceName = "Auto_Module_D",
+		identifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Fierce Shooter).",
+			"^000088[Enchantment Effect]^000000",
+			"Physical damage has a 3% chance to activate [Enhanced Flame Target] for 10 seconds.",
+			"[Enhanced Flame Target]: +50 Dexterity, +15% Ranged Physical Damage for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000147] = {
+		unidentifiedDisplayName = "Automatic Module (Overpower)",
+		unidentifiedResourceName = "Auto_Module_D",
+		unidentifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Overpower).",
+			"^000088[Enchantment Effect]^000000",
+			"Physical damage has a 3% chance to activate [Enhanced Indomitable Will] for 10 seconds.",
+			"[Enhanced Indomitable Will]: +50 Strength, +15% Physical Attack, +10% Melee Physical Damage for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Overpower)",
+		identifiedResourceName = "Auto_Module_D",
+		identifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Overpower).",
+			"^000088[Enchantment Effect]^000000",
+			"Physical damage has a 3% chance to activate [Enhanced Indomitable Will] for 10 seconds.",
+			"[Enhanced Indomitable Will]: +50 Strength, +15% Physical Attack, +10% Melee Physical Damage for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000148] = {
+		unidentifiedDisplayName = "Automatic Module (Fatal Flash)",
+		unidentifiedResourceName = "Auto_Module_D",
+		unidentifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Fatal Flash).",
+			"^000088[Enchantment Effect]^000000",
+			"Physical damage has a 3% chance to activate [Enhanced Lethal Speed Maniac] for 10 seconds.",
+			"[Enhanced Lethal Speed Maniac]: +50 Agility, +15% Critical Damage for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Fatal Flash)",
+		identifiedResourceName = "Auto_Module_D",
+		identifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Fatal Flash).",
+			"^000088[Enchantment Effect]^000000",
+			"Physical damage has a 3% chance to activate [Enhanced Lethal Speed Maniac] for 10 seconds.",
+			"[Enhanced Lethal Speed Maniac]: +50 Agility, +15% Critical Damage for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000149] = {
+		unidentifiedDisplayName = "Automatic Module (Lucky Strike)",
+		unidentifiedResourceName = "Auto_Module_D",
+		unidentifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Lucky Strike).",
+			"^000088[Enchantment Effect]^000000",
+			"Magical attack has a 3% chance to activate [Enhanced Windfall] for 10 seconds.",
+			"[Enhanced Windfall]: +50 Luck, +15% Magic Damage of all elements for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Lucky Strike)",
+		identifiedResourceName = "Auto_Module_D",
+		identifiedDescriptionName = {
+			"A module used to enhance automatic armor.",
+			"Activates the effect of Automatic Orb (Lucky Strike).",
+			"^000088[Enchantment Effect]^000000",
+			"Magical attack has a 3% chance to activate [Enhanced Windfall] for 10 seconds.",
+			"[Enhanced Windfall]: +50 Luck, +15% Magic Damage of all elements for 10 sec.",
+			"^000088[Enchantable Equipment]^000000",
+			"Automatic Boots A",
+			"Automatic Boots B",
+			"",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000152] = {
+		unidentifiedDisplayName = "Automatic Module (Draconic Breath)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Draconic Breath) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Dragon Breath and Dragon Water Breath damage +15%.",
+			"If refine rate is +9 or higher, Dragon Breath and Dragon Water Breath damage additionally +3%.",
+			"If refine rate is +11 or higher, Dragon Breath and Dragon Water Breath damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Draconic Breath)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Draconic Breath) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Dragon Breath and Dragon Water Breath damage +15%.",
+			"If refine rate is +9 or higher, Dragon Breath and Dragon Water Breath damage additionally +3%.",
+			"If refine rate is +11 or higher, Dragon Breath and Dragon Water Breath damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000153] = {
+		unidentifiedDisplayName = "Automatic Module (Wave Break)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Wave Break) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Sonic Wave and Ignition Break damage +15%.",
+			"If refine rate is +9 or higher, Sonic Wave and Ignition Break damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Wave damage +7%, Ignition Break cooldown -0.25 sec.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Wave Break)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Wave Break) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Sonic Wave and Ignition Break damage +15%.",
+			"If refine rate is +9 or higher, Sonic Wave and Ignition Break damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Wave damage +7%, Ignition Break cooldown -0.25 sec.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000154] = {
+		unidentifiedDisplayName = "Automatic Module (Hundred Spiral)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Hundred Spiral) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Clashing Spiral and Hundred Spears damage +15%.",
+			"If total refine value is +9 or higher, additionally increases the skill damage of Clashing Spiral and Hundred Spears by 3%.",
+			"If refine rate is +11 or higher, Clashing Spiral damage additionally +7%, Hundred Spears cooldown -0.25% sec.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Hundred Spiral)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Hundred Spiral) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Clashing Spiral and Hundred Spears damage +15%.",
+			"If total refine value is +9 or higher, additionally increases the skill damage of Clashing Spiral and Hundred Spears by 3%.",
+			"If refine rate is +11 or higher, Clashing Spiral damage additionally +7%, Hundred Spears cooldown -0.25% sec.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000155] = {
+		unidentifiedDisplayName = "Automatic Module (Drive Press)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Drive Press) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Earth Drive and Shield Press damage +15%.",
+			"If refine rate is +9 or higher, Earth Drive and Shield Press damage additionally +3%.",
+			"If refine rate is +11 or higher, Earth Drive and Shield Press damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Drive Press)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Drive Press) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Earth Drive and Shield Press damage +15%.",
+			"If refine rate is +9 or higher, Earth Drive and Shield Press damage additionally +3%.",
+			"If refine rate is +11 or higher, Earth Drive and Shield Press damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000156] = {
+		unidentifiedDisplayName = "Automatic Module (Vanishing Cannon)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Vanishing Cannon) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Vanishing Point and Cannon Spear damage +15%.",
+			"If refined to +9 or higher, Vanishing Point and Cannon Spear damage +3%.",
+			"If refined to +11 or higher, Vanishing Point and Cannon Spear damage +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Vanishing Cannon)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Vanishing Cannon) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Vanishing Point and Cannon Spear damage +15%.",
+			"If refined to +9 or higher, Vanishing Point and Cannon Spear damage +3%.",
+			"If refined to +11 or higher, Vanishing Point and Cannon Spear damage +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000157] = {
+		unidentifiedDisplayName = "Automatic Module (Genesis Gloria)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Genesis Gloria) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Gloria Domini and Genesis Ray damage +15%.",
+			"If refine rate is +9 or higher, Gloria Domini and Genesis Ray damage additionally +3%.",
+			"If refine rate is +11 or higher, Gloria Domini and Genesis Ray damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Genesis Gloria)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Genesis Gloria) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Gloria Domini and Genesis Ray damage +15%.",
+			"If refine rate is +9 or higher, Gloria Domini and Genesis Ray damage additionally +3%.",
+			"If refine rate is +11 or higher, Gloria Domini and Genesis Ray damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000158] = {
+		unidentifiedDisplayName = "Automatic Module (Boost Cannon)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cannon Boost) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Knuckle Boost and Arm Cannon damage +15%.",
+			"If refine rate is +9 or higher, Knuckle Boost and Arm Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Knuckle Boost and Arm Cannon damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Boost Cannon)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cannon Boost) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Knuckle Boost and Arm Cannon damage +15%.",
+			"If refine rate is +9 or higher, Knuckle Boost and Arm Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Knuckle Boost and Arm Cannon damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000159] = {
+		unidentifiedDisplayName = "Automatic Module (Ice Flame)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Ice Flame) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Ice Launcher and Flame Launcher damage +15%.",
+			"If refine rate is +9 or higher, Ice Launcher and Flame Launcher damage additionally +3%.",
+			"If refine rate is +11 or higher, Ice Launcher and Flame Launcher damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Ice Flame)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Ice Flame) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Ice Launcher and Flame Launcher damage +15%.",
+			"If refine rate is +9 or higher, Ice Launcher and Flame Launcher damage additionally +3%.",
+			"If refine rate is +11 or higher, Ice Launcher and Flame Launcher damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000160] = {
+		unidentifiedDisplayName = "Automatic Module (Tornado Swing)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Tornado Swing) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Axe Swing and Power Swing damage +15%.",
+			"If refined to +9 or higher, Axe Tornado and Power Swing damage +3% additionally.",
+			"If refined to +11 or higher, Axe Tornado and Power Swing damage +7% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Tornado Swing)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Tornado Swing) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Axe Swing and Power Swing damage +15%.",
+			"If refined to +9 or higher, Axe Tornado and Power Swing damage +3% additionally.",
+			"If refined to +11 or higher, Axe Tornado and Power Swing damage +7% additionally.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000161] = {
+		unidentifiedDisplayName = "Automatic Module (Cannon Tornado)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cannon Tornado) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cart Tornado and Cart Cannon damage +15%.",
+			"If refine rate is +9 or higher, Cart Tornado and Cart Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Cart Tornado and Cart Cannon damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Cannon Tornado)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cannon Tornado) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cart Tornado and Cart Cannon damage +15%.",
+			"If refine rate is +9 or higher, Cart Tornado and Cart Cannon damage additionally +3%.",
+			"If refine rate is +11 or higher, Cart Tornado and Cart Cannon damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000162] = {
+		unidentifiedDisplayName = "Automatic Module (Crazy Mandragora)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Crazy Mandragora) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Crazy Vines damage +15%, Mandragora Howl cooldown -0.3 sec. ",
+			"If refine rate is +9 or higher, Crazy Vines damage additionally +3%, Mandragora Howl cooldown additionally -0.3 sec. ",
+			"If refine rate is +11 or higher, Crazy Vines damage additionally +7%, Mandragora Howl cooldown additionally -0.4 sec. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Crazy Mandragora)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Crazy Mandragora) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Crazy Vines damage +15%, Mandragora Howl cooldown -0.3 sec. ",
+			"If refine rate is +9 or higher, Crazy Vines damage additionally +3%, Mandragora Howl cooldown additionally -0.3 sec. ",
+			"If refine rate is +11 or higher, Crazy Vines damage additionally +7%, Mandragora Howl cooldown additionally -0.4 sec. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000163] = {
+		unidentifiedDisplayName = "Automatic Module (Acid Explosion)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Acid Explosion) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Acid Bomb and Spore Explosion damage +15%.",
+			"If refine rate is +9 or higher, Acid Bomb and Spore Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Acid Bomb and Spore Explosion damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Acid Explosion)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Acid Explosion) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Acid Bomb and Spore Explosion damage +15%.",
+			"If refine rate is +9 or higher, Acid Bomb and Spore Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Acid Bomb and Spore Explosion damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000164] = {
+		unidentifiedDisplayName = "Automatic Module (Sonic Impact)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Sonic Impact) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Sonic Blow and Cross Impact damage +15%.",
+			"If refine rate is +9 or higher, Sonic Blow and Cross Impact damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Blow and Cross Impact damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Sonic Impact)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Sonic Impact) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Sonic Blow and Cross Impact damage +15%.",
+			"If refine rate is +9 or higher, Sonic Blow and Cross Impact damage additionally +3%.",
+			"If refine rate is +11 or higher, Sonic Blow and Cross Impact damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000165] = {
+		unidentifiedDisplayName = "Automatic Module (Cutter Slasher)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cutter Slasher) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cross Ripper Slasher and Rolling Cutter damage +15%.",
+			"If refine rate is +9 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Cutter Slasher)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cutter Slasher) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cross Ripper Slasher and Rolling Cutter damage +15%.",
+			"If refine rate is +9 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Ripper Slasher and Rolling Cutter damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000166] = {
+		unidentifiedDisplayName = "Automatic Module (Berserk Slash)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Berserk Slash) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Soul Destroyer and Counter Slash damage +15%.",
+			"If refine rate is +9 or higher, Soul Destroyer and Counter Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Soul Destroyer and Counter Slash damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Berserk Slash)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Berserk Slash) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Soul Destroyer and Counter Slash damage +15%.",
+			"If refine rate is +9 or higher, Soul Destroyer and Counter Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Soul Destroyer and Counter Slash damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000167] = {
+		unidentifiedDisplayName = "Automatic Module (Fatal Raid)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Fatal Raid) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fatal Menace and Sightless Mind damage +15%.",
+			"If refine rate is +9 or higher, Fatal Menace and Sightless Mind damage additionally +3%.",
+			"If refine rate is +11 or higher, Fatal Menace and Sightless Mind damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Fatal Raid)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Fatal Raid) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fatal Menace and Sightless Mind damage +15%.",
+			"If refine rate is +9 or higher, Fatal Menace and Sightless Mind damage additionally +3%.",
+			"If refine rate is +11 or higher, Fatal Menace and Sightless Mind damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000168] = {
+		unidentifiedDisplayName = "Automatic Module (Shadow Spell)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Shadow Spell) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"All property magic damage +15%.",
+			"If refined to +9 or higher, all property magic damage +3%.",
+			"If refined to +11 or higher, all property magic damage +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Shadow Spell)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Shadow Spell) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"All property magic damage +15%.",
+			"If refined to +9 or higher, all property magic damage +3%.",
+			"If refined to +11 or higher, all property magic damage +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000169] = {
+		unidentifiedDisplayName = "Automatic Module (Angle Shot)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Angle Shot) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Triangle Shot damage +15%, long-ranged physical damage +10%.",
+			"If refine rate is +9 or higher, Triangle Shot damage additionally +3%.",
+			"If refine rate is +11 or higher, Triangle Shot damage additionally +7%, long-ranged physical damage additionally +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Angle Shot)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Angle Shot) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Triangle Shot damage +15%, long-ranged physical damage +10%.",
+			"If refine rate is +9 or higher, Triangle Shot damage additionally +3%.",
+			"If refine rate is +11 or higher, Triangle Shot damage additionally +7%, long-ranged physical damage additionally +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000170] = {
+		unidentifiedDisplayName = "Automatic Module (Crimson Strain)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Crimson Strain) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Crimson Rock and Earth Strain damage +15%.",
+			"If refine rate is +9 or higher, Crimson Rock and Earth Strain damage additionally +3%.",
+			"If refine rate is +11 or higher, Crimson Rock and Earth Strain damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Crimson Strain)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Crimson Strain) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Crimson Rock and Earth Strain damage +15%.",
+			"If refine rate is +9 or higher, Crimson Rock and Earth Strain damage additionally +3%.",
+			"If refine rate is +11 or higher, Crimson Rock and Earth Strain damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000171] = {
+		unidentifiedDisplayName = "Automatic Module (Jack Lightning)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Jack Lightning) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Jack Frost and Chain Lightning damage +15%.",
+			"If refine rate is +9 or higher, Jack Frost and Chain Lightning damage additionally +3%.",
+			"If refine rate is +11 or higher, Jack Frost and Chain Lightning damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Jack Lightning)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Jack Lightning) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Jack Frost and Chain Lightning damage +15%.",
+			"If refine rate is +9 or higher, Jack Frost and Chain Lightning damage additionally +3%.",
+			"If refine rate is +11 or higher, Jack Frost and Chain Lightning damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000172] = {
+		unidentifiedDisplayName = "Automatic Module (Comet Vortex)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Comet Vortex) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Comet and Tetra Vortex damage +15%.",
+			"If refine rate is +9 or higher, Comet and Tetra Vortex damage additionally +3%.",
+			"If refine rate is +11 or higher, Comet and Tetra Vortex damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Comet Vortex)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Comet Vortex) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Comet and Tetra Vortex damage +15%.",
+			"If refine rate is +9 or higher, Comet and Tetra Vortex damage additionally +3%.",
+			"If refine rate is +11 or higher, Comet and Tetra Vortex damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000173] = {
+		unidentifiedDisplayName = "Automatic Module (Double Bolt)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Double Bolt) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fire Bolt, Cold Bolt, Lightning Bolt damage +15%.",
+			"If refine rate is +9, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +3%.",
+			"If refine rate is +11, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Double Bolt)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Double Bolt) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fire Bolt, Cold Bolt, Lightning Bolt damage +15%.",
+			"If refine rate is +9, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +3%.",
+			"If refine rate is +11, Fire Bolt, Cold Bolt, Lightning Bolt damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000174] = {
+		unidentifiedDisplayName = "Automatic Module (Warmer Wave)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Warmer Wave) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Psychic Wave damage +15%, Warmer cooldown -1 sec. ",
+			"If refine rate is +9 or higher, Psychic Wave damage additionally +3%, Warmer cooldown additionally -2 sec. ",
+			"If refine rate is +11 or higher, Psychic Wave damage additionally +7%, Warmer cooldown additionally -4 sec. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Warmer Wave)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Warmer Wave) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Psychic Wave damage +15%, Warmer cooldown -1 sec. ",
+			"If refine rate is +9 or higher, Psychic Wave damage additionally +3%, Warmer cooldown additionally -2 sec. ",
+			"If refine rate is +11 or higher, Psychic Wave damage additionally +7%, Warmer cooldown additionally -4 sec. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000175] = {
+		unidentifiedDisplayName = "Automatic Module (Diamond Grave)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Diamond Grave) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Diamond Dust and Earth Grave damage +15%.",
+			"If refine rate is +9 or higher, Diamond Dust and Earth Grave damage additionally +3%.",
+			"If refine rate is +11 or higher, Diamond Dust and Earth Grave damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Diamond Grave)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Diamond Grave) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Diamond Dust and Earth Grave damage +15%.",
+			"If refine rate is +9 or higher, Diamond Dust and Earth Grave damage additionally +3%.",
+			"If refine rate is +11 or higher, Diamond Dust and Earth Grave damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000176] = {
+		unidentifiedDisplayName = "Automatic Module (Magnusmus)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Magnusmus) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Magnus Exorcismus and Adoramus damage +15%.",
+			"If refine rate is +9 or higher, Magnus Exorcismus and Adoramus damage additionally +3%.",
+			"If refine rate is +11 or higher, Magnus Exorcismus and Adoramus damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Magnusmus)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Magnusmus) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Magnus Exorcismus and Adoramus damage +15%.",
+			"If refine rate is +9 or higher, Magnus Exorcismus and Adoramus damage additionally +3%.",
+			"If refine rate is +11 or higher, Magnus Exorcismus and Adoramus damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000177] = {
+		unidentifiedDisplayName = "Automatic Module (Holy Judex)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Holy Judex) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Holy Light and Judex damage +15%.",
+			"If refine rate is +9 or higher, Holy Light and Judex damage additionally +3%.",
+			"If refine rate is +11 or higher, Holy Light and Judex damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Holy Judex)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Holy Judex) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Holy Light and Judex damage +15%.",
+			"If refine rate is +9 or higher, Holy Light and Judex damage additionally +3%.",
+			"If refine rate is +11 or higher, Holy Light and Judex damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000178] = {
+		unidentifiedDisplayName = "Automatic Module (Duplelica)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Duplelica) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Duple Light damage +15%, Basilica cooldown -2 sec. ",
+			"If refine rate is +9 or higher, Duple Light damage additionally +3%, Basilica cooldown additionally -3 sec. ",
+			"If refine rate is +11 or higher, Duple Light damage additionally +7%, Basilica cooldown additionally -5 sec. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Duplelica)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Duplelica) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Duple Light damage +15%, Basilica cooldown -2 sec. ",
+			"If refine rate is +9 or higher, Duple Light damage additionally +3%, Basilica cooldown additionally -3 sec. ",
+			"If refine rate is +11 or higher, Duple Light damage additionally +7%, Basilica cooldown additionally -5 sec. ",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000179] = {
+		unidentifiedDisplayName = "Automatic Module (Fallen Tiger)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Fallen Tiger) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Tiger Cannon and Fallen Empire damage +15%.",
+			"If refine rate is +9 or higher, Tiger Cannon and Fallen Empire damage additionally +3%.",
+			"If refine rate is +11 or higher, Tiger Cannon and Fallen Empire damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Fallen Tiger)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Fallen Tiger) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Tiger Cannon and Fallen Empire damage +15%.",
+			"If refine rate is +9 or higher, Tiger Cannon and Fallen Empire damage additionally +3%.",
+			"If refine rate is +11 or higher, Tiger Cannon and Fallen Empire damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000180] = {
+		unidentifiedDisplayName = "Automatic Module (Rampage Arrow)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Rampage Arrow) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Rampage Blast and Knuckle Arrow damage +15%.",
+			"If refine rate is +9 or higher, Rampage Blast and Knuckle Arrow damage additionally +3%.",
+			"If refine rate is +11 or higher, Rampage Blast and Knuckle Arrow damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Rampage Arrow)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Rampage Arrow) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Rampage Blast and Knuckle Arrow damage +15%.",
+			"If refine rate is +9 or higher, Rampage Blast and Knuckle Arrow damage additionally +3%.",
+			"If refine rate is +11 or higher, Rampage Blast and Knuckle Arrow damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000181] = {
+		unidentifiedDisplayName = "Automatic Module (Raging Crush)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Raging Crush) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Raging Thrust and Chain Crush Combo damage +15%.",
+			"If refine rate is +9 or higher, Raging Thrust and Chain Crush Combo damage additionally +3%.",
+			"If refine rate is +11 or higher, Raging Thrust and Chain Crush Combo damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Raging Crush)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Raging Crush) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Raging Thrust and Chain Crush Combo damage +15%.",
+			"If refine rate is +9 or higher, Raging Thrust and Chain Crush Combo damage additionally +3%.",
+			"If refine rate is +11 or higher, Raging Thrust and Chain Crush Combo damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000182] = {
+		unidentifiedDisplayName = "Automatic Module (Cluster)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cluster) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Bomb Cluster damage +15%.",
+			"If refine rate is +9 or higher, Bomb Cluster damage additionally +3%.",
+			"If refine rate is +11 or higher, Bomb Cluster damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Cluster)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cluster) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Bomb Cluster damage +15%.",
+			"If refine rate is +9 or higher, Bomb Cluster damage additionally +3%.",
+			"If refine rate is +11 or higher, Bomb Cluster damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000183] = {
+		unidentifiedDisplayName = "Automatic Module (Breeze Shooting)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Breeze Shooting) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Focused Arrow Strike damage +15%, Critical Damage +10%.",
+			"If refine rate is +9 or higher, Focused Arrow Strike damage additionally +3%.",
+			"If refine rate is +11 or higher, Focused Arrow Strike damage additionally +7%, Critical Damage additionally +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Breeze Shooting)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Breeze Shooting) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Focused Arrow Strike damage +15%, Critical Damage +10%.",
+			"If refine rate is +9 or higher, Focused Arrow Strike damage additionally +3%.",
+			"If refine rate is +11 or higher, Focused Arrow Strike damage additionally +7%, Critical Damage additionally +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000184] = {
+		unidentifiedDisplayName = "Automatic Module (Aimed Storm)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Aimed Storm) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Aimed Bolt and Arrow Storm damage +15%.",
+			"If refine rate is +9 or higher, Aimed Bolt and Arrow Storm damage additionally +3%.",
+			"If refine rate is +11 or higher, Aimed Bolt and Arrow Storm damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Aimed Storm)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Aimed Storm) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Aimed Bolt and Arrow Storm damage +15%.",
+			"If refine rate is +9 or higher, Aimed Bolt and Arrow Storm damage additionally +3%.",
+			"If refine rate is +11 or higher, Aimed Bolt and Arrow Storm damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000185] = {
+		unidentifiedDisplayName = "Automatic Module (Metallic Echo)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Metallic Echo) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Metallic Sound and Great Echo damage +15%.",
+			"If refine rate is +9 or higher, Metallic Sound and Great Echo damage additionally +3%.",
+			"If refine rate is +11 or higher, Metallic Sound and Great Echo damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Metallic Echo)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Metallic Echo) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Metallic Sound and Great Echo damage +15%.",
+			"If refine rate is +9 or higher, Metallic Sound and Great Echo damage additionally +3%.",
+			"If refine rate is +11 or higher, Metallic Sound and Great Echo damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000186] = {
+		unidentifiedDisplayName = "Automatic Module (Reverberation)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Reverberation) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Reverberation damage +15%.",
+			"If refine rate is +9 or higher, Reverberation damage additionally +3%.",
+			"If refine rate is +11 or higher, Reverberation damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Reverberation)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Reverberation) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Reverberation damage +15%.",
+			"If refine rate is +9 or higher, Reverberation damage additionally +3%.",
+			"If refine rate is +11 or higher, Reverberation damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000187] = {
+		unidentifiedDisplayName = "Automatic Module (Vulcan Severe)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Vulcan Severe) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Arrow Vulcan and Severe Rainstorm damage +15%.",
+			"If refine rate is +9 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +3%.",
+			"If refine rate is +11 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Vulcan Severe)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Vulcan Severe) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Arrow Vulcan and Severe Rainstorm damage +15%.",
+			"If refine rate is +9 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +3%.",
+			"If refine rate is +11 or higher, Arrow Vulcan and Severe Rainstorm damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000188] = {
+		unidentifiedDisplayName = "Automatic Module (Blaze Explosion)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Blaze Explosion) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Flaming Kick and Solar Explosion damage +15%.",
+			"If refine rate is +9 or higher, Flaming Kick and Solar Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Kick and Solar Explosion damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Blaze Explosion)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Blaze Explosion) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Flaming Kick and Solar Explosion damage +15%.",
+			"If refine rate is +9 or higher, Flaming Kick and Solar Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Kick and Solar Explosion damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000189] = {
+		unidentifiedDisplayName = "Automatic Module (Moon Kick)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Moon Kick) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"New Moon Kick and Full Moon Kick damage +15%.",
+			"If refine rate is +9 or higher, New Moon Kick and Full Moon Kick damage additionally +3%.",
+			"If refine rate is +11 or higher, New Moon Kick and Full Moon Kick damage additionally +7%, Critical Damage +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Moon Kick)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Moon Kick) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"New Moon Kick and Full Moon Kick damage +15%.",
+			"If refine rate is +9 or higher, New Moon Kick and Full Moon Kick damage additionally +3%.",
+			"If refine rate is +11 or higher, New Moon Kick and Full Moon Kick damage additionally +7%, Critical Damage +5%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000190] = {
+		unidentifiedDisplayName = "Automatic Module (Falling Flash)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Falling Flash) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Radiant Kick and Falling Star damage +15%.",
+			"If refine rate is +9 or higher, Radiant Kick and Falling Star damage additionally +3%.",
+			"If refine rate is +11 or higher, Radiant Kick and Falling Star damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Falling Flash)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Falling Flash) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Radiant Kick and Falling Star damage +15%.",
+			"If refine rate is +9 or higher, Radiant Kick and Falling Star damage additionally +3%.",
+			"If refine rate is +11 or higher, Radiant Kick and Falling Star damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000191] = {
+		unidentifiedDisplayName = "Automatic Module (Eswoo)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Eswoo) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Esma and Esu damage +15%.",
+			"If refine rate is +9 or higher, Esma and Esu damage additionally +3%.",
+			"If refine rate is +11 or higher, Esma and Esu damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Eswoo)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Eswoo) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Esma and Esu damage +15%.",
+			"If refine rate is +9 or higher, Esma and Esu damage additionally +3%.",
+			"If refine rate is +11 or higher, Esma and Esu damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000192] = {
+		unidentifiedDisplayName = "Automatic Module (Espa)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Espa) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Espa damage +15%.",
+			"If refine rate is +9 or higher, Espa damage additionally +3%.",
+			"If refine rate is +11 or higher, Espa damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Espa)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Espa) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Espa damage +15%.",
+			"If refine rate is +9 or higher, Espa damage additionally +3%.",
+			"If refine rate is +11 or higher, Espa damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000193] = {
+		unidentifiedDisplayName = "Automatic Module (Curse Explosion)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Curse Explosion) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Curse Explosion damage +15%.",
+			"If refine rate is +9 or higher, Curse Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Curse Explosion damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Curse Explosion)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Curse Explosion) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Curse Explosion damage +15%.",
+			"If refine rate is +9 or higher, Curse Explosion damage additionally +3%.",
+			"If refine rate is +11 or higher, Curse Explosion damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000194] = {
+		unidentifiedDisplayName = "Automatic Module (Death Hammer Dance)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Death Hammer Dance) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Desperado, Fire Dance, God's Hammer damage +15%.",
+			"If refine rate is +9 or higher, Desperado, Fire Dance, God's Hammer damage additionally +3%.",
+			"If refine rate is +11 or higher, Desperado, Fire Dance, God's Hammer damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Death Hammer Dance)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Death Hammer Dance) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Desperado, Fire Dance, God's Hammer damage +15%.",
+			"If refine rate is +9 or higher, Desperado, Fire Dance, God's Hammer damage additionally +3%.",
+			"If refine rate is +11 or higher, Desperado, Fire Dance, God's Hammer damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000195] = {
+		unidentifiedDisplayName = "Automatic Module (Fire Howling Tail)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Fire Howling Tail) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fire Rain, Howling Mine, Dragon Tail damage +15%.",
+			"If refine rate is +9 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +3%.",
+			"If refine rate is +11 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Fire Howling Tail)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Fire Howling Tail) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Fire Rain, Howling Mine, Dragon Tail damage +15%.",
+			"If refine rate is +9 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +3%.",
+			"If refine rate is +11 or higher, Fire Rain, Howling Mine, Dragon Tail damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000196] = {
+		unidentifiedDisplayName = "Automatic Module (Storm Buster Trip)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Storm Buster Trip) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Shattering Storm, Vanishing Buster, Round Trip damage +15%.",
+			"If refine rate is +9 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +3%.",
+			"If refine rate is +11 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Storm Buster Trip)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Storm Buster Trip) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Shattering Storm, Vanishing Buster, Round Trip damage +15%.",
+			"If refine rate is +9 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +3%.",
+			"If refine rate is +11 or higher, Shattering Storm, Vanishing Buster, Round Trip damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000197] = {
+		unidentifiedDisplayName = "Automatic Module (Petal Spear Blade)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Petal Spear Blade) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Flaming Petals, Freezing Spear, Wind Blade damage +15%.",
+			"If refine rate is +9 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Petal Spear Blade)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Petal Spear Blade) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Flaming Petals, Freezing Spear, Wind Blade damage +15%.",
+			"If refine rate is +9 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +3%.",
+			"If refine rate is +11 or higher, Flaming Petals, Freezing Spear, Wind Blade damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000198] = {
+		unidentifiedDisplayName = "Automatic Module (Cross Slash)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cross Slash) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cross Slash damage +15%.",
+			"If refine rate is +9 or higher, Cross Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Slash damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Cross Slash)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Cross Slash) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Cross Slash damage +15%.",
+			"If refine rate is +9 or higher, Cross Slash damage additionally +3%.",
+			"If refine rate is +11 or higher, Cross Slash damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000199] = {
+		unidentifiedDisplayName = "Automatic Module (Dragon Draft Wind)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Dragon Draft Wind) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Exploding Dragon, Snow Flake Draft, First Wind damage +15%.",
+			"If refine rate is +9 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +3%.",
+			"If refine rate is +11 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Dragon Draft Wind)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Dragon Draft Wind) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Exploding Dragon, Snow Flake Draft, First Wind damage +15%.",
+			"If refine rate is +9 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +3%.",
+			"If refine rate is +11 or higher, Exploding Dragon, Snow Flake Draft, First Wind damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000200] = {
+		unidentifiedDisplayName = "Automatic Module (Power of Sea)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Power of Sea) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Tuna Party and Tasty Shrimp Party cooldown -0.5 sec.",
+			"If refine rate is +9 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1 sec.",
+			"If refine rate is +11 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1.5 sec.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Power of Sea)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Power of Sea) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Tuna Party and Tasty Shrimp Party cooldown -0.5 sec.",
+			"If refine rate is +9 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1 sec.",
+			"If refine rate is +11 or higher, Tuna Party and Tasty Shrimp Party cooldown additionally -1.5 sec.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000201] = {
+		unidentifiedDisplayName = "Automatic Module (Power of Land)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Power of Land) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"SV Stem Spear and CN Meteor damage +15%.",
+			"If refine rate is +9 or higher, SV Stem Spear and CN Meteor damage additionally +3%.",
+			"If refine rate is +11 or higher, SV Stem Spear and CN Meteor damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Power of Land)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Power of Land) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"SV Stem Spear and CN Meteor damage +15%.",
+			"If refine rate is +9 or higher, SV Stem Spear and CN Meteor damage additionally +3%.",
+			"If refine rate is +11 or higher, SV Stem Spear and CN Meteor damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000202] = {
+		unidentifiedDisplayName = "Automatic Module (Power of Life)",
+		unidentifiedResourceName = "Auto_Module_E",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Power of Life) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Picky Peck and Lunatic Carrot Beat damage +15%",
+			"If refine rate is +9 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +3%.",
+			"If refine rate is +11 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Module (Power of Life)",
+		identifiedResourceName = "Auto_Module_E",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Orb (Power of Life) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Picky Peck and Lunatic Carrot Beat damage +15%",
+			"If refine rate is +9 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +3%.",
+			"If refine rate is +11 or higher, Picky Peck and Lunatic Carrot Beat damage additionally +7%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000207] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Mirror Counter)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Mirror Counter) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Reflected damage taken -2%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A ",
+			"Automatic Armor Type B ",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Mirror Counter)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Mirror Counter) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Reflected damage taken -2%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -3%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Armor Type A ",
+			"Automatic Armor Type B ",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000208] = {
+		unidentifiedDisplayName = "Automatic Modification Module (Reflection Reject)",
+		unidentifiedResourceName = "Auto_Module_C",
+		unidentifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Reflection Reject) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Reflected damage taken -3%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -4%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A ",
+			"Automatic Engine Wing Type B ",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Automatic Modification Module (Reflection Reject)",
+		identifiedResourceName = "Auto_Module_C",
+		identifiedDescriptionName = {
+			"A modification module that can be used on Automatic armor. ",
+			"Activates the Automatic Modification Orb (Reflection Reject) effect. ",
+			"^000088[Enchant Effect]^000000 ",
+			"Reflected damage taken -3%.",
+			"If refine rate is +9 or higher, reflected damage taken additionally -2%.",
+			"If refine rate is +11 or higher, reflected damage taken additionally -4%.",
+			"^000088[Applicable Equipment]^000000 ",
+			"Automatic Engine Wing Type A ",
+			"Automatic Engine Wing Type B ",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100160] = {
+		unidentifiedDisplayName = "Automatic Module Box",
+		unidentifiedResourceName = "Auto_M_Box",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Contains an Automatic Module.",
+			"You can obtain 1 of the Automatic Modules (except epic ones).",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Automatic Module Box",
+		identifiedResourceName = "Auto_M_Box",
+		identifiedDescriptionName = {
+			"Contains an Automatic Module.",
+			"You can obtain 1 of the Automatic Modules (except epic ones).",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100161] = {
+		unidentifiedDisplayName = "Epic Module Box",
+		unidentifiedResourceName = "Epic_M_Box",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Contains a magic mineral or a very rare Automatic Module.",
+			"You can obtain a magic mineral or an epic Module.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Epic Module Box",
+		identifiedResourceName = "Epic_M_Box",
+		identifiedDescriptionName = {
+			"Contains a magic mineral or a very rare Automatic Module.",
+			"You can obtain a magic mineral or an epic Module.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100162] = {
+		unidentifiedDisplayName = "Automatic Booster Box (Physical)",
+		unidentifiedResourceName = "Auto_M_I_Box_A",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Contains an item for enhancing a special mechanical device.",
+			"You can obtain 1 of the Boosters that enhance physical abilities.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Automatic Booster Box (Physical)",
+		identifiedResourceName = "Auto_M_I_Box_A",
+		identifiedDescriptionName = {
+			"Contains an item for enhancing a special mechanical device.",
+			"You can obtain 1 of the Boosters that enhance physical abilities.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100163] = {
+		unidentifiedDisplayName = "Automatic Booster Box (Magic)",
+		unidentifiedResourceName = "Auto_M_I_Box_B",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"Contains an item for enhancing a special mechanical device.",
+			"You can obtain 1 of the Boosters that enhance magic abilities.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Automatic Booster Box (Magic)",
+		identifiedResourceName = "Auto_M_I_Box_B",
+		identifiedDescriptionName = {
+			"Contains an item for enhancing a special mechanical device.",
+			"You can obtain 1 of the Boosters that enhance magic abilities.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100164] = {
+		unidentifiedDisplayName = "Common Automatic Booster (Physical)",
+		unidentifiedResourceName = "Auto_Imp_Melee",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1 enhancing physical effect.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Common Automatic Booster (Physical)",
+		identifiedResourceName = "Auto_Imp_Melee",
+		identifiedDescriptionName = {
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1 enhancing physical effect.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100165] = {
+		unidentifiedDisplayName = "Advanced Automatic Booster (Physical)",
+		unidentifiedResourceName = "Auto_Imp_Melee",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1-2 enhancing physical effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Advanced Automatic Booster (Physical)",
+		identifiedResourceName = "Auto_Imp_Melee",
+		identifiedDescriptionName = {
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1-2 enhancing physical effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100166] = {
+		unidentifiedDisplayName = "Elite Automatic Booster (Physical)",
+		unidentifiedResourceName = "Auto_Imp_Melee",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A device for enhancing special mechanic equipment.",
+			"You can get 3 enhancing physical effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Elite Automatic Booster (Physical)",
+		identifiedResourceName = "Auto_Imp_Melee",
+		identifiedDescriptionName = {
+			"A device for enhancing special mechanic equipment.",
+			"You can get 3 enhancing physical effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100167] = {
+		unidentifiedDisplayName = "Common Automatic Booster (Magic)",
+		unidentifiedResourceName = "Auto_Imp_Magic",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1 enhancing magic effect.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Common Automatic Booster (Magic)",
+		identifiedResourceName = "Auto_Imp_Magic",
+		identifiedDescriptionName = {
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1 enhancing magic effect.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100168] = {
+		unidentifiedDisplayName = "Advanced Automatic Booster (Magic)",
+		unidentifiedResourceName = "Auto_Imp_Magic",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1-2 enhancing magic effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Advanced Automatic Booster (Magic)",
+		identifiedResourceName = "Auto_Imp_Magic",
+		identifiedDescriptionName = {
+			"A device for enhancing special mechanic equipment.",
+			"You can get 1-2 enhancing magic effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100169] = {
+		unidentifiedDisplayName = "Elite Automatic Booster (Magic)",
+		unidentifiedResourceName = "Auto_Imp_Magic",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A device for enhancing special mechanic equipment.",
+			"You can get 3 enhancing magic effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000"
+		},
+		identifiedDisplayName = "Elite Automatic Booster (Magic)",
+		identifiedResourceName = "Auto_Imp_Magic",
+		identifiedDescriptionName = {
+			"A device for enhancing special mechanic equipment.",
+			"You can get 3 enhancing magic effects.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Hypocrisy Blade",
+			"Hypocrisy Edge",
+			"Greed Staff",
+			"Sloth Book",
+			"Pride Axe",
+			"Envy Sword",
+			"Pride String",
+			"Gluttony Arrow",
+			"Wrath Fist",
+			"Gluttony Spear",
+			"Lust Spear",
+			"Wrath Dagger",
+			"Greed Katar",
+			"Pride Stone",
+			"Sloth Scripture",
+			"Gluttony Fang",
+			"Sloth Spark",
+			"Sloth Wave",
+			"Sloth Rhythm",
+			"Wrath Wheel",
+			"Envy Mace",
+			"Addiction Stem",
+			"Lust Rifle",
+			"Lust Shotgun",
+			"Lust Gatling",
+			"Lust Grenade Launcher",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100251] = {
+		unidentifiedDisplayName = "Illusion Enchant Cube",
+		unidentifiedResourceName = "Auto_M_I_Box_A",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A cube designed for enhancing Illusion armor.",
+			"Enhances Illusion armor with refine rate +4 or higher to +7.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Illusion Armor Type A",
+			"Illusion Armor Type B",
+			"Illusion Engine Wing Type A",
+			"Illusion Engine Wing Type B",
+			"Illusion Leg Type A",
+			"Illusion Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Illusion Enchant Cube",
+		identifiedResourceName = "Auto_M_I_Box_A",
+		identifiedDescriptionName = {
+			"A cube designed for enhancing Illusion armor.",
+			"Enhances Illusion armor with refine rate +4 or higher to +7.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Illusion Armor Type A",
+			"Illusion Armor Type B",
+			"Illusion Engine Wing Type A",
+			"Illusion Engine Wing Type B",
+			"Illusion Leg Type A",
+			"Illusion Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100252] = {
+		unidentifiedDisplayName = "Automatic Enchant Cube",
+		unidentifiedResourceName = "Auto_M_I_Box_B",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A cube designed fof enhancing Automatic armor.",
+			"Enhances Automatic armor with refine rate +4 or higher to +7.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Automatic Enchant Cube",
+		identifiedResourceName = "Auto_M_I_Box_B",
+		identifiedDescriptionName = {
+			"A cube designed fof enhancing Automatic armor.",
+			"Enhances Automatic armor with refine rate +4 or higher to +7.",
+			"^ffffff_^000000",
+			"^000088[Available Items]^000000",
+			"Automatic Armor Type A",
+			"Automatic Armor Type B",
+			"Automatic Engine Wing Type A",
+			"Automatic Engine Wing Type B",
+			"Automatic Leg Type A",
+			"Automatic Leg Type B",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100003] = {
+		unidentifiedDisplayName = "Dusk Illusion Resonance Stone",
+		unidentifiedResourceName = "ILL_Piece_A",
+		unidentifiedDescriptionName = {
+			"A sunset-colored resonance stone that can resonate with powerful weapons imbued with the power of greeting to bestow power.",
+			"A Level 4 Illusion weapon can be imbued with physical abilities."
+		},
+		identifiedDisplayName = "Dusk Illusion Resonance Stone",
+		identifiedResourceName = "ILL_Piece_A",
+		identifiedDescriptionName = {
+			"A sunset-colored resonance stone that can resonate with powerful weapons imbued with the power of greeting to bestow power.",
+			"A Level 4 Illusion weapon can be imbued with physical abilities.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100004] = {
+		unidentifiedDisplayName = "Dawn Illusion Resonance Stone",
+		unidentifiedResourceName = "ILL_Piece_B",
+		unidentifiedDescriptionName = {
+			"A deep blue resonance stone that can resonate with powerful weapons imbued with the power of greeting to bestow power.",
+			"Level 4 Illusion weapons can be imbued with magical abilities."
+		},
+		identifiedDisplayName = "Dawn Illusion Resonance Stone",
+		identifiedResourceName = "ILL_Piece_B",
+		identifiedDescriptionName = {
+			"A deep blue resonance stone that can resonate with a powerful weapon imbued with the power of greeting to bestow strength.",
+			"Level 4 Illusion weapons can be imbued with magical abilities.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000103] = {
+		unidentifiedDisplayName = "Barmeal Ticket",
+		unidentifiedResourceName = "BarMealTicket",
+		unidentifiedDescriptionName = {
+			"Not identified. Can be identified with Magnifier.",
+			"A ticket issued by the Varmundt's Mansion Steward of treat the mercenaries efficiently.",
+			"It has become monetized inside Varmundt's Mansion; you can buy practically everything with this ticket there.",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Barmeal Ticket",
+		identifiedResourceName = "BarMealTicket",
+		identifiedDescriptionName = {
+			"A ticket issued by the Varmundt's Mansion Steward of treat the mercenaries efficiently.",
+			"It has become monetized inside Varmundt's Mansion; you can buy practically everything with this ticket there.",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	}
 }
 

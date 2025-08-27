@@ -2594,5 +2594,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_Bar_Plain_Circlet = 2605,
 	ACCESSORY_C_Alecsander = 2606,
 	ACCESSORY_C_Cassandra = 2607,
-	ACCESSORY_E_Hode_Head = 2608
+	ACCESSORY_E_Hode_Head = 2608,
+	ACCESSORY_C_Winner_Yel_Pur_Aura = 2609,
+	ACCESSORY_C_Winner_Red_Black_Aura = 2610
 }

@@ -307,7 +307,9 @@ StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {
 	descript = {
 		{ "Poisonous Weapon", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Make the enemy poisoned by poisonous weapon" }
+		{ "Increases short-ranged physical damage." },
+		{ "Applies an effect depending on the type of poison." },
+		{ "Poisons the target when attacking." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_DEATHPENALTY] = {
@@ -472,8 +474,8 @@ StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 	descript = {
 		{ "Shrink", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Have chance to push the enemy" },
-		{ "when used with Guard skill" }
+		{ "When the Guard skill is triggered," },
+		{ "stuns with a certain chance." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
@@ -949,10 +951,10 @@ StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Fighting Spirit", COLOR_TITLE_BUFF },
+		{ "Asir Runestone: Determination", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase ATK" },
-		{ "Increase ASPD of caster" }
+		{ "Increases ATK." },
+		{ "Increases ASPD." }
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
@@ -1187,12 +1189,13 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Giant Cross", COLOR_TITLE_BUFF },
+		{ "Turisus Runestone: Gigantic Growth", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase STR" },
-		{ "When melee attacking" },
-		{ "have chance to give gigantic damage" },
-		{ "have chance to destroy the caster's weapon" }
+		{ "Increases STR." },
+		{
+			"Has a high chance to deal a lot of damage during normal melee physical attack."
+		},
+		{ "Increases short-ranged physical damage." }
 	}
 }
 StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
@@ -1943,12 +1946,23 @@ StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Vitality Activation", COLOR_TITLE_BUFF },
+		{ "Isia Runestone: Life Force", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase the effect of" },
-		{ "HP recovery skill and healing item" },
-		{ "Cannot auto-recover SP" },
-		{ "Decrease the effect of SP recovery potion" }
+		{ "Enhances HP recovery effects." },
+		{ "Reduces received short-range physical damage." }
+	}
+}
+StateIconList[EFST_IDs.EFST_LUXANIMA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Lux Anima Runestone: Lux Anima", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "During a normal melee physical attack has a chance" },
+		{ "to activate Storm Blast (LV 1)." },
+		{ "Increases physical damage inflicted on enemies of any size." },
+		{ "Increases Critical Damage." },
+		{ "Increases short-ranged and long-ranged physical damage." }
 	}
 }
 StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
@@ -2853,11 +2867,12 @@ StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
 }
 StateIconList[EFST_IDs.EFST_DARKCROW] = {
 	haveTimeLimit = 1,
-	posTimeLimitStr = 3,
+	posTimeLimitStr = 2,
 	descript = {
-		{ "DARK CROW", COLOR_TITLE_DEBUFF },
-		{ "Expand short distance P.damage" },
-		{ "%s", COLOR_TIME }
+		{ "Dark Claw", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Increases short-ranged physical damage." },
+		{ "Reduces some damage reflection effects." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC1] = {
@@ -4093,9 +4108,9 @@ StateIconList[EFST_IDs.EFST_AURABLADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Aura blade", COLOR_TITLE_BUFF },
+		{ "Blade of Aura", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase physical attack" }
+		{ "Increases ATK." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGICPOWER] = {
@@ -4113,8 +4128,8 @@ StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 	descript = {
 		{ "Spear Dynamo", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increase ATK, ACC" },
-		{ "Decrease DEF" }
+		{ "Increases ATK and HIT." },
+		{ "Reduces Physical Defense." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
@@ -4599,5 +4614,59 @@ StateIconList[EFST_IDs.EFST_HELPANGEL] = {
 		{ "%s", COLOR_TIME },
 		{ "Restores" },
 		{ "1000 HP, 350 SP every second" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Bath Salt A", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{
+			"Physical and magic damage damage dealt to monsters in Large Meditatio Bath Dungeon"
+		},
+		{ "+5%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Bath Salt B", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{
+			"Physical and magic damage damage dealt to monsters in Large Meditatio Bath Dungeon"
+		},
+		{ "+10%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Bath Salt C", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{
+			"Physical and magic damage damage dealt to monsters in Large Meditatio Bath Dungeon"
+		},
+		{ "+15%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Aromatherapy Oil", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{
+			"Physical and magic damage damage inflicted by monsters in Large Meditatio Bath Dungeon"
+		},
+		{ "-10%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
+	descript = {
+		{ "Setting of firing points", COLOR_TITLE_DEBUFF },
+		{ "Appearance of a firing point once every certain amount of time" }
 	}
 }

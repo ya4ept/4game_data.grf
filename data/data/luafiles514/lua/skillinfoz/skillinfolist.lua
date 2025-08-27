@@ -5087,7 +5087,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONBREATH] = {
 		"RK_DRAGONBREATH",
-		SkillName = "Dragon's Breath",
+		SkillName = "Dragon Breath",
 		MaxLv = 10,
 		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -10742,7 +10742,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.RK_DRAGONBREATH_WATER] = {
 		"RK_DRAGONBREATH_WATER",
-		SkillName = "Dragon's Water Breath",
+		SkillName = "Dragon Water Breath",
 		MaxLv = 10,
 		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
@@ -11902,7 +11902,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_DRAGONBREATH] = {
 		"NPC_DRAGONBREATH",
-		SkillName = "Dragon's Breath",
+		SkillName = "Dragon Breath",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,

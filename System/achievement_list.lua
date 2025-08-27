@@ -9674,6 +9674,31 @@ achievement_tbl = {
 		resource = { [1] = { text = "Successful completions:", count = 100 } },
 		reward = { title = 1045 },
 		score = 10
+	},
+	[130005] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "The one who made the king",
+		content = {
+			summary = "The King I Made",
+			details = "Restore the glory of Terra Gloria and crown its protagonists."
+		},
+		resource = { [1] = { text = "Observe the coronation of the new king of Rune-Midgarts." } },
+		reward = { title = 1046 },
+		score = 10
+	},
+	[200035] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "LV 200 achieved!",
+		content = { summary = "Base LV 200 achieved!", details = "Get Base Level 200." },
+		resource = { [1] = { text = "Base Level 200" } },
+		reward = { buff = 10, item = 400124 },
+		score = 100
 	}
 }
 

@@ -5702,6 +5702,7 @@
 16750#Malangdo_Crab_Box(7day)#
 18107#Malang_Snow_Crab#
 18108#Brindle_Eel#
+18536#Foxtail#
 18537#Malangdo_Hat#
 6417#Silvervine_Fruit#
 6418#A_class_Coin#
@@ -5958,6 +5959,7 @@
 
 18791#Shrine_Maiden_Hat#
 18793#Magician's_Night_Cap#
+18794#Ordinary_Black_Magician_Hat#
 18795#Night_Sparrow_Hat#
 19617#Costume:_Puppy_Headband#
 19618#Costume:_Kitsune_Mask#
@@ -9037,3 +9039,6 @@
 400059#ÃµÇæ±Ã_ÇÏ´ÃÀÇ_º¸°ü#
 460004#ÀÏ·ç½Ã¿Â_½¯µå_I#
 480107#ÀÇ»ó_¿µ±¤°ú_ÆÄ¸êÀÇ_½Ö°Ë#
+56781#top1#
+56782#top13#
+

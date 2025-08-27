@@ -1024,6 +1024,15 @@ EFFECT["EF_VENOMFOG"] = 1020
 EFFECT["EF_DUSTSTORM"] = 1021
 EFFECT["EF_WHITEBODY"] = 1065
 EFFECT["EF_AMDARAIS_EFFECT"] = 1419
+EFFECT["EF_BLUE_WAVE1"] = 1611
+EFFECT["EF_BLUE_WAVE2"] = 1612
+EFFECT["EF_BLUE_WAVE3"] = 1613
+EFFECT["EF_RED_WAVE1"] = 1614
+EFFECT["EF_RED_WAVE2"] = 1615
+EFFECT["EF_RED_WAVE3"] = 1616
+EFFECT["EF_BLACK_BUBBLE1"] = 1617
+EFFECT["EF_BLACK_BUBBLE2"] = 1618
+EFFECT["EF_BLACK_BUBBLE3"] = 1619
 tbl = {
 	[2603] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_LEVEL150_SUB } },
 	[2604] = { MonsterSize = 1.2, MonsterEff = { EFFECT.EF_GREEN99_5 } },
@@ -1371,7 +1380,10 @@ tbl = {
 	[20639] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20640] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20641] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
-	[20648] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
+	[20648] = {
+		MonsterSize = 1,
+		MonsterEff = { EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 }
+	},
 	[20643] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20644] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
 	[20642] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_DOUBLEGUMGANG3 } },
@@ -1392,7 +1404,26 @@ tbl = {
 	[20580] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
 	[20813] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_AMDARAIS_EFFECT } },
 	[20846] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BOTTOM_EVILLAND } },
-	[20847] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_MAP_MAGICZONE } }
+	[20847] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_MAP_MAGICZONE } },
+	[20690] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_RED_WAVE1, EFFECT.EF_RED_WAVE2 } },
+	[20693] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUE_WAVE1, EFFECT.EF_BLUE_WAVE2 } },
+	[20694] = { MonsterSize = 1.3, MonsterEff = { EFFECT.EF_RED_WAVE1, EFFECT.EF_RED_WAVE2 } },
+	[20601] = {
+		MonsterSize = 1.2,
+		MonsterEff = { EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 }
+	},
+	[20610] = {
+		MonsterSize = 1,
+		MonsterEff = { EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 }
+	},
+	[20611] = {
+		MonsterSize = 1,
+		MonsterEff = { EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 }
+	},
+	[20618] = {
+		MonsterSize = 1,
+		MonsterEff = { EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 }
+	}
 }
 
 -- Function #0
