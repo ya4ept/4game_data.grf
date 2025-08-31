@@ -2,7 +2,7 @@ c999a0ec099ff52d3de3100a3df07d39 *4game_icon.ico
 e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
-8e068e21eb48e2f9cb4ba178de4928a2 *data.grf
+62aeaea06121f95f67880e9ddda2f3c1 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -61,7 +61,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 4b91769d28573ba2c3caa68254489ee5 *Frost\frostinfo.txt
-a39bb0b047459134673de58e2009c9c1 *Frost\frostInit.log
+e8582cc95c044417439eff9706845431 *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -70,7 +70,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 5ec1d55ad730241e2b1e18c1a11c85b2 *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-0bc85705993b5ae5faf4c974a881f25b *Frost\launcherUpdater.log
+0ca489755f737be81a208911ab472e3b *Frost\launcherUpdater.log
 d70d111fb475c21a025004df937d7b5e *Frost\ro.exe
 12471f71659cac6ee2dc0821676fec0f *Frost\.inn.meta.dir\.inn.cache.txt
 12471f71659cac6ee2dc0821676fec0f *Frost\.inn.meta.dir\.inn.cache.txt.tmp.copy
@@ -80,12 +80,11 @@ cd408c154b0a60025215fd212e7ffc3b *Frost\.inn.meta.dir\.inn.version.3.1.0.59.cont
 46989a90c681a5b95536663e1f05c851 *gameFolder\Ragexe.exe
 38c226b08c7910453466e2e0fa6e0ed2 *gameFolder\data\buyingstoreitemlist.txt
 176b1a9c6d05e826d548fa0127672354 *gameFolder\System\iteminfo.lub
-260031c97b7aa2fb3be855c19774e8bc *gameManager\gameManager.exe
-f7a807fc9b05142ea5a3a55cc9a68629 *gameManager\log.log
+1d210fbc0098e426f74fe5dbe359ad5a *gameManager\gameManager.exe
 b559a9062259eac6c14ccebc5a399b16 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 987712c9e8c7537dc368767a67afd8c6 *System\CheckAttendance.lub
-dd256738013596d386f1e6f6a2b49e83 *System\iteminfo.lub
+fbcbe7b5f3666e7e171027e94e6d9926 *System\iteminfo.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 5ddbb7a38cacbcdbe70dd7a0c86f3ead *System\mapInfo.lub
 9a9250d4476f8088e64049574d8a119f *System\monster_size_effect.lua

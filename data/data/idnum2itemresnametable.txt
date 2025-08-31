@@ -9804,7 +9804,6 @@
 20826#엔젤페더#
 31386#서바이벌오브#
 31608#마법석의은혜#
-31609#귀족의가면#
 31610#노랑마법사의모자#
 31611#C_Dark_Snake_Lord_Stall#
 31612#C_Large_Sorcerer_Crown#
@@ -12601,3 +12600,12 @@
 19172#앉아있는교황#
 20925#Commander_manteau_J#
 32007#지란트스피어#
+15430#Grace_Carrot_Robe#
+15431#Grace_Snovice_Robe#
+15432#Siege_Robe_2Tier#
+15433#Grace_Moon_Suit#
+15875#어센드크라운#
+20614#C_Kyel_hyre_Ulti_TW#
+31609#귀족의가면#
+480070#Wings_Of_Raguel#
+105121#지속성알#

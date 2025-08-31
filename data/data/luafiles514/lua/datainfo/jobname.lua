@@ -4092,5 +4092,8 @@ JobNameTable = {
 	[jobtbl.JT_KE_HODE] = "KE_HODE",
 	[jobtbl.JT_GE_HODE] = "GE_HODE",
 	[jobtbl.JT_NE_HODE] = "NE_HODE",
-	[jobtbl.JT_4_M_SOULHODE] = "4_m_soulhode"
+	[jobtbl.JT_4_M_SOULHODE] = "4_m_soulhode",
+	[jobtbl.JT_BANGUNGOT_BOSSNIA] = "BANGUNGOT",
+	[jobtbl.JT_BAKONAWA_BOSSNIA] = "BAKONAWA",
+	[jobtbl.JT_MM_EVIL_FANATICS_B] = "MM_EVIL_FANATICS"
 }
