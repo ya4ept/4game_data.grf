@@ -1,4 +1,5 @@
-.inn.meta.dir\.inn.files.3.1.0.59.control.txt|c8cb546aa7154bee4b521a6dbb3a43063555a9ff|0|1684278057
-.inn.meta.dir\.inn.installed.control.txt|8843b8b6c0a56db0af8575aa355d023b889aebc9|0|0
-.inn.meta.dir\.inn.version.3.1.0.59.control.txt|0b83272ae0e02c5bfc7e88b44b97a86593225ce0|0|0
+.inn.meta.dir\.inn.files.3.1.8.65.control.txt|127f7efdfaee5337d12abc053fb7810fa7abecea|0|1757183087
+.inn.meta.dir\.inn.installed.control.txt|22c195c89b80d90aa62ae9d74e4f273c29d89752|0|0
+.inn.meta.dir\.inn.version.3.1.8.65.control.txt|df80b18c7af9c953f9136a7ec597c55d110e5d38|0|0
 frostupdater.exe|684fec397a069cc3d786590e09c6b013dff18273|225185|1684278057
+torosupdater.exe|31c7c7ffdca0b8e0f6d0b227c6398c8a292ce4d8|227362|1757183088

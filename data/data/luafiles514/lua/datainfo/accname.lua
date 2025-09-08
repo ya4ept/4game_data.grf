@@ -1487,6 +1487,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Barrel_Helm] = "_№и·ІЗпё§",
 	[ACCESSORY_IDs.ACCESSORY_C_Poring_Soap_Pipe] = "_CЖчёµ№цєнЖДАМЗБ",
 	[ACCESSORY_IDs.ACCESSORY_C_Exploding_Wave_Red] = "_CИ«ї°АЗЖш·ДЖДµї",
+	[ACCESSORY_IDs.ACCESSORY_C_Exploding_Wave_Sca] = "_CБшИ«АЗЖш·ДЖДµї",
 	[ACCESSORY_IDs.ACCESSORY_C_Eremes_Scarf_Black] = "_CїЎ·№ёЮЅєЅєД«ЗБ°ЛБ¤",
 	[ACCESSORY_IDs.ACCESSORY_Eleanor_Wig] = "_ї¤·№ілѕЖ°Ў№Я",
 	[ACCESSORY_IDs.ACCESSORY_Hair_Bun_BU] = "_ґз°нёУё®_Г»",
