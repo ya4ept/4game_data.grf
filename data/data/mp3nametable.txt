@@ -1202,3 +1202,7 @@ ba_chess.rsw#bgm\\180.mp3#
 1@ghg.rsw#bgm\\179.mp3#
 1@bamn.rsw#bgm\\177.mp3#
 1@bamq.rsw#bgm\\177.mp3#
+
+//Hode Event
+1@hode.rsw#bgm\\65.mp3#	
+2@hode.rsw#bgm\\65.mp3#	

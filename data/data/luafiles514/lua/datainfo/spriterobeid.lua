@@ -250,5 +250,6 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_ROS2024_Wing_3 = 251,
 	ROBE_C_ROS2024_Wing_4 = 252,
 	ROBE_Blessing_Of_Yggdrasil = 253,
-	ROBE_C_CLB_KP_DMS = 254
+	ROBE_C_CLB_KP_DMS = 254,
+	ROBE_Hode_Skin = 2609
 }

@@ -1118,3 +1118,7 @@ ba_chess.rsw#Шах и мат#
 1@ghg.rsw#Ортус Аква#
 1@bamn.rsw#Сад в сумерках#
 1@bamq.rsw#Склад дирижаблей#
+
+//Hode Invasion
+1@hode.rsw#Подземелье Хоудов#
+2@hode.rsw#Подземелье Хоудов#

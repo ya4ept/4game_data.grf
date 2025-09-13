@@ -4569,3 +4569,13 @@ iz_d05_i.rsw#iz_d05_i.rsw#
 1@lost.gat#1@lost.gat#
 1@lost.rsw#1@lost.rsw#
 유저인터페이스\map\1@lost.bmp#유저인터페이스\map\1@lost.bmp#
+
+1@hode.gnd#1@hode.gnd#
+1@hode.gat#1@hode.gat#
+1@hode.rsw#1@hode.rsw#
+유저인터페이스\map\1@hode.bmp#유저인터페이스\map\1@hode.bmp#
+
+2@hode.gnd#2@hode.gnd#
+2@hode.gat#2@hode.gat#
+2@hode.rsw#2@hode.rsw#
+유저인터페이스\map\2@hode.bmp#유저인터페이스\map\2@hode.bmp#

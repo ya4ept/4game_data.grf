@@ -1392,7 +1392,11 @@ tbl = {
 	[20580] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BLUELIGHTBODY } },
 	[20813] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_AMDARAIS_EFFECT } },
 	[20846] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_BOTTOM_EVILLAND } },
-	[20847] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_MAP_MAGICZONE } }
+	[20847] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_MAP_MAGICZONE } },
+	[30020] = { MonsterSize = 2, MonsterEff = {} },
+	[30026] = { MonsterSize = 2, MonsterEff = {} },
+	[30027] = { MonsterSize = 1.8, MonsterEff = {} },
+	[30029] = { MonsterSize = 1.8, MonsterEff = {} }
 }
 
 -- Function #0

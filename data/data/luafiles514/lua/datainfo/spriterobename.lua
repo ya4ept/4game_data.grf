@@ -249,7 +249,8 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_3] = "C_ROS2024_Wing_3",
 	[SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_4] = "C_ROS2024_Wing_4",
 	[SPRITE_ROBE_IDs.ROBE_Blessing_Of_Yggdrasil] = "Blessing_Of_Yggdrasil",
-	[SPRITE_ROBE_IDs.ROBE_C_CLB_KP_DMS] = "C_CLB_KP_DMS"
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_KP_DMS] = "C_CLB_KP_DMS",
+	[SPRITE_ROBE_IDs.ROBE_Hode_Skin] = "c_hode_skin"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -502,7 +503,8 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_3] = "C_ROS2024_Wing_3",
 	[SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_4] = "C_ROS2024_Wing_4",
 	[SPRITE_ROBE_IDs.ROBE_Blessing_Of_Yggdrasil] = "Blessing_Of_Yggdrasil",
-	[SPRITE_ROBE_IDs.ROBE_C_CLB_KP_DMS] = "C_CLB_KP_DMS"
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_KP_DMS] = "C_CLB_KP_DMS",
+	[SPRITE_ROBE_IDs.ROBE_Hode_Skin] = "c_hode_skin"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -647,5 +649,6 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_3,
 	SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_4,
 	SPRITE_ROBE_IDs.ROBE_Blessing_Of_Yggdrasil,
-	SPRITE_ROBE_IDs.ROBE_C_CLB_KP_DMS
+	SPRITE_ROBE_IDs.ROBE_C_CLB_KP_DMS,
+	SPRITE_ROBE_IDs.ROBE_Hode_Skin
 }
