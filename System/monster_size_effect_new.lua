@@ -1423,7 +1423,11 @@ tbl = {
 	[20618] = {
 		MonsterSize = 1,
 		MonsterEff = { EFFECT.EF_GREEN99_3, EFFECT.EF_GREEN99_5, EFFECT.EF_GREEN99_6 }
-	}
+	},
+	[30020] = { MonsterSize = 2, MonsterEff = {} },
+	[30026] = { MonsterSize = 2, MonsterEff = {} },
+	[30027] = { MonsterSize = 1.8, MonsterEff = {} },
+	[30029] = { MonsterSize = 1.8, MonsterEff = {} }
 }
 
 -- Function #0

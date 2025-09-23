@@ -5426,4 +5426,19 @@
 25087 1 1 1 1 0 1 1 1 //Old_Doll
 25088 1 1 0 1 0 1 1 1 //Dream_Piece
 
+//Hode Event
+56769	1	1	1	1	1	1	1	1	//Hode_Soul
+56770	1	1	1	1	1	1	1	1	//E_Hode_Card
+56771	1	1	0	1	1	1	1	1	//C_Hode_Head
+56772	1	1	0	1	1	1	1	1	//C_Hode_Skin
+56774	1	1	0	1	1	1	1	1	//E_Healing_Clay
+56775	1	1	0	1	1	1	1	1	//E_Tr_Hunt_Worm
+56776	1	1	0	1	1	1	1	1	//E_Warp_Worm
+56777	1	1	0	1	1	1	1	1	//E_Agent_Spy_Worm
+12228	1	1	0	1	1	1	1	1	//Examination3
+56785	1	1	1	1	1	1	1	1	//Hode_Ticket
+56787	1	1	1	1	1	1	1	1	//Hode_Enc
+56788	1	1	1	1	1	1	1	1	//Hode_Refine
+56789	1	1	1	1	1	1	1	1	//Hode_Box
+
 //ID,	Drop,	Trade,	Storage,	Cart,	NPCshop,	Mail,	Auction,	GuildStorage

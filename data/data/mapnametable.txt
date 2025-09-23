@@ -1057,3 +1057,7 @@ ba_chess.rsw#Checkmate#
 ein_dun03.rsw#Mine Dungeon#
 abyss_04.rsw#Abyss Lake Underground Cave #
 odin_past.rsw#kuil kuno odin#
+
+//Hode Invasion
+1@hode.rsw#Hode Dungeon#
+2@hode.rsw#Hode Dungeon#

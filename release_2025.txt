@@ -1,3 +1,37 @@
+17.09.2025 11:00
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Special Packs for Genetic and Mechanic arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Special Packs for Rune Knight and Royal Guard arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+
+More: https://eu.4gameforum.com/threads/695610/
+
+================
+11.09.2025 12:37
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The The Emperor Chest arrived in launcher.
+— The Sets with Moon Knight's Shield arrived in launcher.
+— The Lucky Treasures Sets arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The "Hode Intervention (Part 2)" event has begun.
+— The "Poring Invasion: Morocc" event has begun.
+
+Changes:
+— Fixed bugs which caused items Automatic Modification Orb (Magical Force), (Powerful), (All-Force), (Lucky Strike) and (Shadow Spell) to work incorrectly.
+
+Known Issues:
+— The Emperor Chests may display incorrectly in the launher.
+
+More: https://eu.4gameforum.com/threads/695600/
+
+================
 03.09.2025 13:26
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:

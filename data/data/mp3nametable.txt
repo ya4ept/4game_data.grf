@@ -1207,3 +1207,6 @@ ba_chess.rsw#bgm\\180.mp3#
 odin_past.rsw#bgm\\10.mp3#
 abyss_04.rsw#bgm\\100.mp3#
 ein_dun03.rsw#bgm\\88.mp3#
+//Hode Event
+1@hode.rsw#bgm\\65.mp3#	
+2@hode.rsw#bgm\\65.mp3#	
