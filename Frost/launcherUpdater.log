@@ -1,6 +1,6 @@
 CmdLine = -torosGameNameType rot-ru_live -torosLauncher ro.exe -torosGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.7:80
-selected httpIp 109.105.133.7
+checking connection to 109.105.133.6:80
+selected httpIp 109.105.133.6
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
@@ -47,4 +47,4 @@ skipping download (files/img/rot-ru_live/back.bmp) -> I:\Love\4game\rusRO_Prime\
 skipping download (files/img/toros.ico) -> I:\Love\4game\rusRO_Prime\Frost\toros.ico as encountered equal md5s[0189657404450faf678f94bc222fcb50]
 started perform_delete_command()
 will start launcher with params: "I:\Love\4game\rusRO_Prime\Frost\\ro.exe" 1rag1 id:666 pw:999 -torosGame ..\Ragexe.exe -torosOptions 5 -torosGameNameType rot-ru_live, using CreateProcess
-CreateProcess: 1, lastError: 0
+CreateProcess: 1, lastError: 3
