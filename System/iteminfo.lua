@@ -212361,15 +212361,16 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Dokkebi Mask",
+		identifiedDisplayName = "Маска Доккеби (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^777777A mask that resembles a fearsome monster who once had a secret group of followers. Some say he still does...^000000",
-			"Класс: Costume",
-			"Расположение: Middle, Lower",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Маска зловещего духа, который когда-то возглавлял тайный культ. Говорят, что его последователи все еще прячутся в тени...",
+			"^777777—————————————^000000",
+			"Расположение: ^777777Глаза, Рот^000000",
 			"Вес: ^7777770^000000",
-			"Требуемый уровень: 1",
-			"Required Jobs: All Jobs"
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 0,
 		ClassNum = 689,
