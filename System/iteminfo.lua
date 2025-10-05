@@ -230642,12 +230642,14 @@ tbl = {
 		identifiedDisplayName = "Costume Dokkebi Mask",
 		identifiedResourceName = "µµ±ъєс°Ўёй",
 		identifiedDescriptionName = {
-			"^808080A mask that resembles a fearsome monster who once had a secret group of followers. Some say he still does...^000000",
-			"Class: Costume",
-			"Position: Middle, Lower",
-			"Weight: 0",
-			"Required Level: 1",
-			"Required Jobs: All Jobs"
+			"^ff0000Account Bound.^000000",
+			"A mask that resembles a fearsome monster who once had a secret group of followers. Some say he still does...",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Position: ^777777Middle, Lower^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
 		},
 		slotCount = 0,
 		ClassNum = 689,

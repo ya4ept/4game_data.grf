@@ -1,3 +1,20 @@
+01.10.2025 11:12
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Profession item packs arrived in launcher.
+— The Shadow Packs arrived in launcher.
+— The Special Packs for Warlock and Sorcerer arrived in launcher.
+— The "Increased Drop Chance +30%" event has begun.
+
+Changes:
+— The Daily Rewards got updated - By logging into the game every day and collecting rewards, you will be able to receive Costume Dokkebi Mask at the end of the season.
+— Fixed a bug that caused an item White Knight Armor to wrok incorrectly.
+
+More: https://eu.4gameforum.com/threads/695640/
+
+================
 24.09.2025 11:00
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:
