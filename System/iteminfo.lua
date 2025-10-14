@@ -92807,7 +92807,8 @@ tbl = {
 			"From +9 to +10: ^000088x4^000000",
 			"From +10 to +11: ^000088x7^000000",
 			"From +11 to +12: ^000088x11^000000",
-			"Can be used for refining up to +12 inclusive.",
+			"From +12 to +13: ^000088x16^000000",
+			"Can be used for refining up to +13 inclusive.",
 			"^777777-------------^000000",
 			"Weight: ^7777770^000000"
 		},
