@@ -2592,5 +2592,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Cassandra] = "_C_Cassandra",
 	[ACCESSORY_IDs.ACCESSORY_E_Hode_Head] = "_hodehead",
 	[ACCESSORY_IDs.ACCESSORY_C_Winner_Yel_Pur_Aura] = "_C_Winner_Yel_Pur_Aura",
-	[ACCESSORY_IDs.ACCESSORY_C_Winner_Red_Black_Aura] = "_C_Winner_Red_Black_Aura"
+	[ACCESSORY_IDs.ACCESSORY_C_Winner_Red_Black_Aura] = "_C_Winner_Red_Black_Aura",
+	[ACCESSORY_IDs.ACCESSORY_C_Streamer_Aura] = "_C_Streamer_Aura"
 }
