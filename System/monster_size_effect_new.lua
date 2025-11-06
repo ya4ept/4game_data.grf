@@ -1395,8 +1395,8 @@ tbl = {
 	[20847] = { MonsterSize = 1, MonsterEff = { EFFECT.EF_MAP_MAGICZONE } },
 	[30020] = { MonsterSize = 2, MonsterEff = {} },
 	[30026] = { MonsterSize = 2, MonsterEff = {} },
-	[30027] = { MonsterSize = 1.8, MonsterEff = {} },
-	[30029] = { MonsterSize = 1.8, MonsterEff = {} }
+	[30027] = { MonsterSize = 1.8, MonsterEff = { EFFECT.EF_LEVEL99_3 } },
+	[30029] = { MonsterSize = 1.8, MonsterEff = { EFFECT.EF_LEVEL99_3 } }
 }
 
 -- Function #0

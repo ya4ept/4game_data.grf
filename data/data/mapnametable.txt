@@ -1122,3 +1122,4 @@ ba_chess.rsw#Шах и мат#
 //Hode Invasion
 1@hode.rsw#Подземелье Хоудов#
 2@hode.rsw#Подземелье Хоудов#
+3@hode.rsw#Подземелье Хоудов#

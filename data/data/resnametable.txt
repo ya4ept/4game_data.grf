@@ -4579,3 +4579,7 @@ iz_d05_i.rsw#iz_d05_i.rsw#
 2@hode.gat#2@hode.gat#
 2@hode.rsw#2@hode.rsw#
 유저인터페이스\map\2@hode.bmp#유저인터페이스\map\2@hode.bmp#
+
+3@hode.gnd#3@hode.gnd#
+3@hode.gat#3@hode.gat#
+3@hode.rsw#3@hode.rsw#

@@ -5294,16 +5294,16 @@ A dead man in Nifflheim has asked you to help him hunt Disguises. Help him out b
 A dead man in Nifflheim has asked you to help him hunt Disguises. Help him out by hunting 150 Disguises.#
 #
 
-60176#Hunting Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 50 Loli Ruri.#
+60176#Hunting Лоли Рури#SG_FEEL#QUE_NOIMAGE#
+A dead man in Nifflheim has asked you to help him hunt Лоли Рури. Help him out by hunting 50 Лоли Рури.#
 #
 
-60177#Hunting Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 100 Loli Ruri.#
+60177#Hunting Лоли Рури#SG_FEEL#QUE_NOIMAGE#
+A dead man in Nifflheim has asked you to help him hunt Лоли Рури. Help him out by hunting 100 Лоли Рури.#
 #
 
-60178#Hunting Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-A dead man in Nifflheim has asked you to help him hunt Loli Ruri. Help him out by hunting 150 Loli Ruri.#
+60178#Hunting Лоли Рури#SG_FEEL#QUE_NOIMAGE#
+A dead man in Nifflheim has asked you to help him hunt Лоли Рури. Help him out by hunting 150 Лоли Рури.#
 #
 
 60179#Hunting Mantis#SG_FEEL#QUE_NOIMAGE#
@@ -5483,19 +5483,19 @@ You must take the Oath-taking ceremony to help release Lina's curse.#
 #
 
 9118#Lina's Curse - Deviruchi Hunt#SG_FEEL#QUE_NOIMAGE#
-Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
+Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Дуллианов^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
 ^0000FFChoose 1 monster to hunt 50 of^000000.#
 
 9119#Lina's Curse - Wraith Dead Hunt#SG_FEEL#QUE_NOIMAGE#
-Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
+Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Дуллианов^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
 ^0000FFChoose 1 monster to hunt 50 of^000000.#
 
-9120#Lina's Curse - Dullahan Hunt#SG_FEEL#QUE_NOIMAGE#
-Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
+9120#Lina's Curse - Дуллианов Hunt#SG_FEEL#QUE_NOIMAGE#
+Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Дуллианов^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
 ^0000FFChoose 1 monster to hunt 50 of^000000.#
 
 9121#Lina's Curse - Nightmare Terror Hunt#SG_FEEL#QUE_NOIMAGE#
-Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Dullahan^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
+Choose one monster ^FF0000Deviruchi,^000000 ^FF0000Wraith Dead,^000000, ^FF0000Дуллианов^000000 or ^FF0000Nightmare Terror^000000. Kill ^0000FF50^000000 of the one you choose and talk to Lina.#
 ^0000FFChoose 1 monster to hunt 50 of^000000.#
 
 9122#Lina's Curse#SG_FEEL#QUE_NOIMAGE#
@@ -7850,12 +7850,12 @@ Hunt 400 Poison Toad monsters at Amatsu Dungeon. Return to Gramps at the Eden Gr
 Hunt 400 Firelock Soldier monsters and return to Gramps at the Eden Group to get your reward.#
 Hunt 400 Firelock Soldier monsters#
 
-60467#Dullahan Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunt 400 Dullahan monsters at Nifflheim. Return to Gramps at the Eden Group to get your reward.#
+60467#Дуллианов Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt 400 Дуллианов monsters at Nifflheim. Return to Gramps at the Eden Group to get your reward.#
 #
 
-60468#Loli Ruri Hunting#SG_FEEL#QUE_NOIMAGE#
-Hunt 400 Loli Ruri monsters at Nifflheim. Return to Gramps at the Eden Group to get your reward.#
+60468#Лоли Рури Hunting#SG_FEEL#QUE_NOIMAGE#
+Hunt 400 Лоли Рури monsters at Nifflheim. Return to Gramps at the Eden Group to get your reward.#
 #
 
 60469#Gold Acidus Hunting#SG_FEEL#QUE_NOIMAGE#
@@ -9639,7 +9639,7 @@ Gather 60 Pumpkin Lanterns that you can get from hunting the Lude monsters in Ni
 #
 
 70079#Gather Wooden Gnarl#SG_FEEL#QUE_NOIMAGE#
-Gather 50 Wooden Gnarls that you can get from hunting the Gibbet monsters in Nifflheim and bring it back to the Queen of the Dead.#
+Gather 50 Wooden Gnarls that you can get from hunting the Гиббетов monsters in Nifflheim and bring it back to the Queen of the Dead.#
 #
 
 70080#Food Ingredient timer#SG_FEEL#QUE_NOIMAGE#
@@ -11887,7 +11887,7 @@ Wait for the timer to expire to try again#
 #
 
 62119#Anvian's Request#SG_FEEL#QUE_NOIMAGE#
-Hunt 30 Gibbet monsters at the Valley of Gyoll east of Nifflheim#
+Hunt 30 Гиббетов monsters at the Valley of Gyoll east of Nifflheim#
 #
 
 62120#Witch's Request#SG_FEEL#QUE_NOIMAGE#
@@ -21535,7 +21535,7 @@ Go to Niflheim and search for Rupert. He can be anywhere...#
 #
 
 63034#My Dearest Possession#SG_FEEL#QUE_NOIMAGE#
-Defeat 40 Dullahans to gain Rupert's trust.#
+Defeat 40 Дуллиановs to gain Rupert's trust.#
 #
 
 63035#My Dearest Possession#SG_FEEL#QUE_NOIMAGE#
@@ -22352,7 +22352,7 @@ Speak to Lt. Don.#
 
 63415#Blood in Prontera#SG_FEEL#QUE_NOIMAGE#
 I'm being sent on a strike mission against the nightmare realm. We need to thin their numbers out.#
-Hunt 30 Bloody Murderer, 30 Phendark, and 30 Deviruchi.#
+Hunt 30 Маньяков-убийц, 30 Phendark, and 30 Deviruchi.#
 
 63416#Blood in Prontera#SG_FEEL#QUE_NOIMAGE#
 I'm being sent to take out Charlie, Frederick's Demon Child accomplice.#
@@ -22375,8 +22375,8 @@ We've taken Big Geno and the Russo Brothers into custody. Moose & Squirrel will 
 Talk to Detective Moose inside the Station.#
 
 63421#Blood in Prontera#SG_FEEL#QUE_NOIMAGE#
-Strike Mission. Seek and destroy 30 Bloody Murderers for bounty rewards from the 1337th.#
-Hunt 30 Bloody Murderer.#
+Strike Mission. Seek and destroy 30 Маньяков-убийцs for bounty rewards from the 1337th.#
+Hunt 30 Маньяков-убийц.#
 
 63422#Blood in Prontera#SG_FEEL#QUE_NOIMAGE#
 Strike Mission. Seek and destroy 30 Phendarks for bounty rewards from the 1337th.#
@@ -22438,8 +22438,8 @@ Hunt 150 Big Bell monsters and return to the Bounty Board at Aldebaran#
 Hunt 150 Neo Punk monsters and return to the Bounty Board at Aldebaran#
 #
 
-63438#Bounty Board Loli Ruri#SG_FEEL#QUE_NOIMAGE#
-Hunt 150 Loli Ruri monsters and return to the Bounty Board at Niflheim#
+63438#Bounty Board Лоли Рури#SG_FEEL#QUE_NOIMAGE#
+Hunt 150 Лоли Рури monsters and return to the Bounty Board at Niflheim#
 #
 
 63439#Bounty Board Goat#SG_FEEL#QUE_NOIMAGE#
@@ -25352,6 +25352,22 @@ Resets at 4 am#
 12423#Осада параллельного мира#SG_FEEL#QUE_NOIMAGE#
 Защитите кристаллы от нападения ужасных монстров, а также откачайте 10 раненых героев.#
 Защитить кристаллы и откачать 10 раненых героев#
+
+12424#Осада параллельного мира#SG_FEEL#QUE_NOIMAGE#
+Защитите кристаллы от нападения ужасных монстров и убейте 5 монстров Маньяков-убийц#
+Убить 5 Маньяков-убийц#
+
+12425#Осада параллельного мира#SG_FEEL#QUE_NOIMAGE#
+Защитите кристаллы от нападения ужасных монстров и убейте 5 монстров Дуллианов#
+Убить 5 Дуллианов#
+
+12426#Осада параллельного мира#SG_FEEL#QUE_NOIMAGE#
+Защитите кристаллы от нападения ужасных монстров и убейте 5 монстров Гиббетов#
+Убить 5 Гиббетов#
+
+12427#Осада параллельного мира#SG_FEEL#QUE_NOIMAGE#
+Защитите кристаллы от нападения ужасных монстров и убейте 5 монстров Лоли Рури#
+Убить 5 Лоли Рури#
 
 17670#Охота за сокровищами.#SG_FEEL#QUE_IMAGE#
 Выбивайте лопаты из монстров и копайте.#

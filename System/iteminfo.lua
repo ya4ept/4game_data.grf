@@ -88577,25 +88577,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[6903] = {
-		unidentifiedDisplayName = "King Earthworm",
-		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "King Earthworm",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"A big and beautiful Earthworm. It perfectly suits for bait.",
-			"^FF0000Account Bound^000000",
-			"Класс: ^777777Generic^000000",
-			"Вес: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[6908] = {
 		unidentifiedDisplayName = "ASPD Stone (Garment)",
 		unidentifiedResourceName = "?????",
@@ -172327,7 +172308,9 @@ tbl = {
 	[19691] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Синий бант (Декор)",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -175266,28 +175249,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 272,
 		costume = false
-	},
-	[19910] = {
-		unidentifiedDisplayName = "Шапка",
-		unidentifiedResourceName = "C_Halloween_Hat",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Хэллоуинская шляпа",
-		identifiedResourceName = "C_Halloween_Hat",
-		identifiedDescriptionName = {
-			"Широкополый головной убор, украшенный оранжевым бантом и брошью с виде злобно ухмыляющейся тыквы.",
-			"^ff0000Предмет анимирован.^000000",
-			"^777777—————————————^000000",
-			"Класс: ^777777Декор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^7777770^000000  Вес: ^7777770^000000",
-			"Требуемый уровень: ^7777771^000000",
-			"Квалификация: ^777777Все профессии^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1098,
-		costume = true
 	},
 	[19911] = {
 		unidentifiedDisplayName = "Головной убор",
@@ -211768,7 +211729,9 @@ tbl = {
 	[31151] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Уши Чешира",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -213970,15 +213933,17 @@ tbl = {
 		costume = true
 	},
 	[31394] = {
-		unidentifiedDisplayName = "Головной убор (Декор)",
+		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume White Wizard Hat",
-		identifiedResourceName = "????????",
+		identifiedDisplayName = "Белая шляпа волшебника (Декор)",
+		identifiedResourceName = "C_White_Wizardry_Hat",
 		identifiedDescriptionName = {
-			"A must-have hat for all great wizards. It looks a bit weird but will make you look super fresh.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Необходимый аксессуар для всех великих волшебников. Выглядит немного странно, но зато заметно освежит ваш образ!",
+			"^777777—————————————^000000",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
 			"Вес: ^7777770^000000",
@@ -217153,7 +217118,9 @@ tbl = {
 	[31664] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сонный Эрнст фон Вольф XI",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -217363,7 +217330,9 @@ tbl = {
 	[31683] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "Головной убор",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ободок вечной любви (Декор)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -218379,18 +218348,23 @@ tbl = {
 		costume = true
 	},
 	[31842] = {
-		unidentifiedDisplayName = "Головной убор (Декор)",
+		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Силаiking Hat",
-		identifiedResourceName = "Силаiking_hat",
+		identifiedDisplayName = "Фуражка офицера (Декор)",
+		identifiedResourceName = "C_Striking_hat",
 		identifiedDescriptionName = {
-			"A hat that proudly displays the family crest of the Tsuyoshi Warriors.",
+			"^ff0000Привязано к учетной записи.^000000",
+			"Фуражка с символикой военной полиции Амацу.",
+			"Только если у Вас есть на то разрешение!",
+			"^777777—————————————^000000",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Голова^000000",
-			"Вес: ^7777770^000000"
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -226441,7 +226415,6 @@ tbl = {
 		identifiedDisplayName = "Эссенция Могущественной Души",
 		identifiedResourceName = "Mightysoul_Essence",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Эссенция, полученная после обработки души могущественного демона.",
 			"Никто не знает, как и кто мог выполнить такую задачу.",
 			"Возможно Серебряная Рука найдет применение этой эссенции.",
@@ -241627,7 +241600,9 @@ tbl = {
 	[20619] = {
 		unidentifiedDisplayName = "Карнавальные крылья",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Карнавальные крылья",
 		identifiedResourceName = "C_Phaya_Ploeng_Suriyan",
 		identifiedDescriptionName = {
@@ -241646,7 +241621,9 @@ tbl = {
 	[102898] = {
 		unidentifiedDisplayName = "Клубничный дар",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Клубничный дар",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -241899,7 +241876,9 @@ tbl = {
 	[31315] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шарф ангела",
 		identifiedResourceName = "C_Stall_Of_Angel",
 		identifiedDescriptionName = {
@@ -246190,7 +246169,9 @@ tbl = {
 	[32204] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Жетон бессмертного воина",
 		identifiedResourceName = "Immortal_Dog_Tag",
 		identifiedDescriptionName = {
@@ -246239,7 +246220,9 @@ tbl = {
 	[20093] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа мага",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -246257,7 +246240,9 @@ tbl = {
 	[31534] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Тиара радуги",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -246278,7 +246263,9 @@ tbl = {
 	[103032] = {
 		unidentifiedDisplayName = "Дар черных звезд",
 		unidentifiedResourceName = "???????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар черных звезд",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -246348,7 +246335,9 @@ tbl = {
 	[31386] = {
 		unidentifiedDisplayName = "Защитные сферы",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Защитные сферы",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -249060,7 +249049,9 @@ tbl = {
 	[400496] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "Головной убор",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Уши белой кицунэ (Декор)",
 		identifiedResourceName = "C_Horo_Ears_WH",
 		identifiedDescriptionName = {
@@ -249080,7 +249071,9 @@ tbl = {
 	[420306] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Котацу (Декор)",
 		identifiedResourceName = "C_Kotatsu",
 		identifiedDescriptionName = {
@@ -249100,7 +249093,9 @@ tbl = {
 	[460023] = {
 		unidentifiedDisplayName = "Щит",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Щит феникса",
 		identifiedResourceName = "Shield_Of_Phoenix",
 		identifiedDescriptionName = {
@@ -249123,7 +249118,9 @@ tbl = {
 	[480052] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Бант сакуры",
 		identifiedResourceName = "C_Sakura_Fes_TW",
 		identifiedDescriptionName = {
@@ -249143,7 +249140,9 @@ tbl = {
 	[480237] = {
 		unidentifiedDisplayName = "Капюшон",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Катаны князя тэнгу",
 		identifiedResourceName = "C_Katana_TenguMaster",
 		identifiedDescriptionName = {
@@ -249163,7 +249162,9 @@ tbl = {
 	[103150] = {
 		unidentifiedDisplayName = "Дар цветущей сакуры",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар цветущей сакуры",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249231,7 +249232,9 @@ tbl = {
 	[32258] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кольцо Юпитера",
 		identifiedResourceName = "RingofJupiter",
 		identifiedDescriptionName = {
@@ -249284,7 +249287,9 @@ tbl = {
 	[18786] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Anemos_Mask",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска северного ветра",
 		identifiedResourceName = "Anemos_Mask",
 		identifiedDescriptionName = {
@@ -249304,7 +249309,9 @@ tbl = {
 	[18876] = {
 		unidentifiedDisplayName = "Щит",
 		unidentifiedResourceName = "Achilleus_Shield",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Щит древнего героя",
 		identifiedResourceName = "Achilleus_Shield",
 		identifiedDescriptionName = {
@@ -249326,7 +249333,9 @@ tbl = {
 	[31173] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "C_Crown_Parrot",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа с попугайчиком (Декор)",
 		identifiedResourceName = "C_Crown_Parrot",
 		identifiedDescriptionName = {
@@ -249345,7 +249354,9 @@ tbl = {
 	[31192] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "C_Baby_Cat_Ears_TW",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ушки дорамы (Декор)",
 		identifiedResourceName = "C_Baby_Cat_Ears_TW",
 		identifiedDescriptionName = {
@@ -249365,7 +249376,9 @@ tbl = {
 	[490589] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кольцо с аметистом",
 		identifiedResourceName = "Shine_Ring_A",
 		identifiedDescriptionName = {
@@ -249386,7 +249399,9 @@ tbl = {
 	[19501] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "T_Spinx_Helm",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шапка фараона (Декор)",
 		identifiedResourceName = "T_Spinx_Helm",
 		identifiedDescriptionName = {
@@ -249404,7 +249419,9 @@ tbl = {
 	[19840] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "C_Helm_Of_Sun",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шлем бога солнца (Декор)",
 		identifiedResourceName = "C_Helm_Of_Sun",
 		identifiedDescriptionName = {
@@ -249422,7 +249439,9 @@ tbl = {
 	[103249] = {
 		unidentifiedDisplayName = "Дар Амона Ра",
 		unidentifiedResourceName = "2407_AmonRa_REU",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар Амона Ра",
 		identifiedResourceName = "2407_AmonRa_REU",
 		identifiedDescriptionName = {
@@ -249513,7 +249532,9 @@ tbl = {
 	[24412] = {
 		unidentifiedDisplayName = "Теневые доспехи",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневые доспехи императора",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249538,7 +249559,9 @@ tbl = {
 	[24413] = {
 		unidentifiedDisplayName = "Теневые поножи",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневые поножи императора",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249559,7 +249582,9 @@ tbl = {
 	[24414] = {
 		unidentifiedDisplayName = "Теневые доспехи",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневые доспехи жнеца",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249584,7 +249609,9 @@ tbl = {
 	[24415] = {
 		unidentifiedDisplayName = "Теневые поножи",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневые поножи жнеца",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249605,7 +249632,9 @@ tbl = {
 	[24649] = {
 		unidentifiedDisplayName = "Теневая печать",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневая печать луны",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -249630,7 +249659,9 @@ tbl = {
 	[24650] = {
 		unidentifiedDisplayName = "Теневая инсигния",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневая инсигния луны",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -249650,7 +249681,9 @@ tbl = {
 	[24651] = {
 		unidentifiedDisplayName = "Теневые поножи",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневые поножи луны",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249670,7 +249703,9 @@ tbl = {
 	[24658] = {
 		unidentifiedDisplayName = "Теневая печать",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневая печать проклятия",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -249695,7 +249730,9 @@ tbl = {
 	[24659] = {
 		unidentifiedDisplayName = "Теневая инсигния",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневая инсигния проклятия",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -249715,7 +249752,9 @@ tbl = {
 	[24660] = {
 		unidentifiedDisplayName = "Теневые поножи",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Теневые поножи проклятия",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249735,7 +249774,9 @@ tbl = {
 	[28592] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Серьги",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Серьги ангелинга",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249951,7 +249992,9 @@ tbl = {
 	[26154] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маятник души",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -249980,7 +250023,9 @@ tbl = {
 	[28631] = {
 		unidentifiedDisplayName = "Книга",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Книга солнца",
 		identifiedResourceName = "Time_Kamiji",
 		identifiedDescriptionName = {
@@ -250008,7 +250053,9 @@ tbl = {
 	[510070] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Небесный кинжал",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -250033,7 +250080,9 @@ tbl = {
 	[510071] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дивный небесный кинжал",
 		identifiedResourceName = "Up_Blessed_Knife",
 		identifiedDescriptionName = {
@@ -250061,7 +250110,9 @@ tbl = {
 	[540010] = {
 		unidentifiedDisplayName = "Книга",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дивная книга солнца",
 		identifiedResourceName = "Up_OneSkyOneSun",
 		identifiedDescriptionName = {
@@ -250090,7 +250141,9 @@ tbl = {
 	[550015] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дивный маятник души",
 		identifiedResourceName = "Up_SoulWeight",
 		identifiedDescriptionName = {
@@ -250119,7 +250172,9 @@ tbl = {
 	[550080] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Трость свободы",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -250146,7 +250201,9 @@ tbl = {
 	[550081] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дивная трость свободы",
 		identifiedResourceName = "Up_Freedom_Stick",
 		identifiedDescriptionName = {
@@ -250206,7 +250263,9 @@ tbl = {
 	[19299] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Стебель во рту",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -250241,7 +250300,9 @@ tbl = {
 	[19763] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Уставшая кошка-листок (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -250260,7 +250321,9 @@ tbl = {
 	[28517] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кольцо короля Бездны",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -250282,7 +250345,9 @@ tbl = {
 	[480336] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сачок для бабочек (Декор)",
 		identifiedResourceName = "C_Forest_S_Vacation",
 		identifiedDescriptionName = {
@@ -250301,7 +250366,9 @@ tbl = {
 	[103341] = {
 		unidentifiedDisplayName = "Дар вечного лета",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар вечного лета",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -250369,7 +250436,9 @@ tbl = {
 	[20070] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Альпакапюшон (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -250389,7 +250458,9 @@ tbl = {
 	[28903] = {
 		unidentifiedDisplayName = "Щит",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Скутум",
 		identifiedResourceName = "???",
 		identifiedDescriptionName = {
@@ -250410,7 +250481,9 @@ tbl = {
 	[19104] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Янтарные крылья",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -250454,7 +250527,9 @@ tbl = {
 	[19667] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Драконий шлем (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -250471,7 +250546,9 @@ tbl = {
 	[20009] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Череп дракона (Декор)",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -250490,7 +250567,9 @@ tbl = {
 	[20088] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска владыки драконов (Декор)",
 		identifiedResourceName = "?????????3",
 		identifiedDescriptionName = {
@@ -250509,7 +250588,9 @@ tbl = {
 	[20836] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кожа Линдворма",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -250544,7 +250625,9 @@ tbl = {
 	[20837] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кожа Гвибера",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -250578,7 +250661,9 @@ tbl = {
 	[20845] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кожа Маррако",
 		identifiedResourceName = "Skin_Of_Marraco",
 		identifiedDescriptionName = {
@@ -250609,7 +250694,9 @@ tbl = {
 	[20949] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кожа Ладона",
 		identifiedResourceName = "Skin_Of_Ladon",
 		identifiedDescriptionName = {
@@ -250643,7 +250730,9 @@ tbl = {
 	[20962] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "Плащ",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кожа Тифона",
 		identifiedResourceName = "Skin_Of_Typhon",
 		identifiedDescriptionName = {
@@ -250676,7 +250765,9 @@ tbl = {
 	[103530] = {
 		unidentifiedDisplayName = "Дар драконьих богов",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар драконьих богов",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -250752,7 +250843,9 @@ tbl = {
 	[19472] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени",
 		identifiedResourceName = "S_Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251397,7 +251490,9 @@ tbl = {
 	[19474] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Рунмейстер)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251425,7 +251520,9 @@ tbl = {
 	[19475] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Тамплиер)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251453,7 +251550,9 @@ tbl = {
 	[19476] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Механик)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251480,7 +251579,9 @@ tbl = {
 	[19477] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Генетик)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251507,7 +251608,9 @@ tbl = {
 	[19478] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Каратель)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251534,7 +251637,9 @@ tbl = {
 	[19479] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Преследователь)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251561,7 +251666,9 @@ tbl = {
 	[19480] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Архиепископ)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251588,7 +251695,9 @@ tbl = {
 	[19481] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Отшельник)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251615,7 +251724,9 @@ tbl = {
 	[19482] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Чародей)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251642,7 +251753,9 @@ tbl = {
 	[19483] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Элементалист)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251669,7 +251782,9 @@ tbl = {
 	[19484] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Рейнджер)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251696,7 +251811,9 @@ tbl = {
 	[19485] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Муза и Маэстро)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251723,7 +251840,9 @@ tbl = {
 	[19486] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Звездный император)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251750,7 +251869,9 @@ tbl = {
 	[19487] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Жнец душ)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251777,7 +251898,9 @@ tbl = {
 	[19488] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Мятежник)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251804,7 +251927,9 @@ tbl = {
 	[19489] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Оборо)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251837,7 +251962,9 @@ tbl = {
 	[19490] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Кагеро)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251864,7 +251991,9 @@ tbl = {
 	[19491] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Суперновичок)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251890,7 +252019,9 @@ tbl = {
 	[19492] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "Шлем",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец времени (Призыватель)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -251917,7 +252048,9 @@ tbl = {
 	[2060] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный посох мага",
 		identifiedResourceName = "R_Magician_Staff",
 		identifiedDescriptionName = {
@@ -251947,7 +252080,9 @@ tbl = {
 	[13347] = {
 		unidentifiedDisplayName = "Фума сюрикен",
 		unidentifiedResourceName = "??_??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный фума сюрикен",
 		identifiedResourceName = "Роскошный фума сюрикен",
 		identifiedDescriptionName = {
@@ -251978,7 +252113,9 @@ tbl = {
 	[21055] = {
 		unidentifiedDisplayName = "Двуручный меч",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Клеймор рыцаря-хранителя",
 		identifiedResourceName = "G_Knight_Sword",
 		identifiedDescriptionName = {
@@ -252008,7 +252145,9 @@ tbl = {
 	[28046] = {
 		unidentifiedDisplayName = "Катар",
 		unidentifiedResourceName = "Катар",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный катар",
 		identifiedResourceName = "R_Katar",
 		identifiedDescriptionName = {
@@ -252038,7 +252177,9 @@ tbl = {
 	[28141] = {
 		unidentifiedDisplayName = "Двуручный топор",
 		unidentifiedResourceName = "Боевой топор",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевой топор рыцаря-хранителя",
 		identifiedResourceName = "G_Knight_BattleAxe",
 		identifiedDescriptionName = {
@@ -252067,7 +252208,9 @@ tbl = {
 	[18191] = {
 		unidentifiedDisplayName = "Лук",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Арбалет рыцаря-хранителя",
 		identifiedResourceName = "G_Knight_Bow",
 		identifiedDescriptionName = {
@@ -252096,7 +252239,9 @@ tbl = {
 	[18198] = {
 		unidentifiedDisplayName = "Лук",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Длинный лук рыцаря-хранителя",
 		identifiedResourceName = "Длинный лук рыцаря-хранителя",
 		identifiedDescriptionName = {
@@ -252147,7 +252292,9 @@ tbl = {
 	[32304] = {
 		unidentifiedDisplayName = "Револьвер",
 		unidentifiedResourceName = "Револьвер",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный револьвер",
 		identifiedResourceName = "Роскошный револьвер",
 		identifiedDescriptionName = {
@@ -252177,7 +252324,9 @@ tbl = {
 	[1336] = {
 		unidentifiedDisplayName = "Топор",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Топор рыцаря-хранителя",
 		identifiedResourceName = "G_Knight_Axe",
 		identifiedDescriptionName = {
@@ -252208,7 +252357,9 @@ tbl = {
 	[1870] = {
 		unidentifiedDisplayName = "Кастет",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный кастет",
 		identifiedResourceName = "Роскошный кастет",
 		identifiedDescriptionName = {
@@ -252239,7 +252390,9 @@ tbl = {
 	[26165] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный посох клирика",
 		identifiedResourceName = "R_Cleric_Staff",
 		identifiedDescriptionName = {
@@ -252269,7 +252422,9 @@ tbl = {
 	[26166] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный жезл мага",
 		identifiedResourceName = "R_Magician_Wand",
 		identifiedDescriptionName = {
@@ -252299,7 +252454,9 @@ tbl = {
 	[26172] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный лисохвост",
 		identifiedResourceName = "Роскошный лисохвост",
 		identifiedDescriptionName = {
@@ -252330,7 +252487,9 @@ tbl = {
 	[26216] = {
 		unidentifiedDisplayName = "Кнут",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный кнут",
 		identifiedResourceName = "R_Wheep",
 		identifiedDescriptionName = {
@@ -252359,7 +252518,9 @@ tbl = {
 	[28636] = {
 		unidentifiedDisplayName = "Книга",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошная книга мудреца",
 		identifiedResourceName = "R_Sage_Book",
 		identifiedDescriptionName = {
@@ -252389,7 +252550,9 @@ tbl = {
 	[28774] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный гладий R",
 		identifiedResourceName = "R_Gladius_R",
 		identifiedDescriptionName = {
@@ -252418,7 +252581,9 @@ tbl = {
 	[28775] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный гладий L",
 		identifiedResourceName = "R_Gladius_L",
 		identifiedDescriptionName = {
@@ -252439,7 +252604,9 @@ tbl = {
 	[28776] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный кинжал мага",
 		identifiedResourceName = "R_Magician_Dagger",
 		identifiedDescriptionName = {
@@ -252468,7 +252635,9 @@ tbl = {
 	[32027] = {
 		unidentifiedDisplayName = "Копье",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Копье рыцаря-хранителя",
 		identifiedResourceName = "G_Knight_Spear",
 		identifiedDescriptionName = {
@@ -252498,7 +252667,9 @@ tbl = {
 	[32111] = {
 		unidentifiedDisplayName = "Музыкальный инструмент",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошная скрипка",
 		identifiedResourceName = "R_Cello",
 		identifiedDescriptionName = {
@@ -252527,7 +252698,9 @@ tbl = {
 	[32353] = {
 		unidentifiedDisplayName = "Одноручный меч",
 		unidentifiedResourceName = "Меч",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Инкрустированный меч рыцаря-хранителя",
 		identifiedResourceName = "G_Knight_JewelSword",
 		identifiedDescriptionName = {
@@ -252559,7 +252732,9 @@ tbl = {
 	[32401] = {
 		unidentifiedDisplayName = "Дубинка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошная дубинка",
 		identifiedResourceName = "R_Pillar",
 		identifiedDescriptionName = {
@@ -252589,7 +252764,9 @@ tbl = {
 	[32402] = {
 		unidentifiedDisplayName = "Дубинка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошный шприц",
 		identifiedResourceName = "R_Syringe",
 		identifiedDescriptionName = {
@@ -252617,7 +252794,9 @@ tbl = {
 	[32403] = {
 		unidentifiedDisplayName = "Дубинка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Посох алхимика-хранителя",
 		identifiedResourceName = "G_Alchemist_Staff",
 		identifiedDescriptionName = {
@@ -252645,7 +252824,9 @@ tbl = {
 	[450018] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Драконьи доспехи пажа",
 		identifiedResourceName = "Noblesse_Breath_Armor",
 		identifiedDescriptionName = {
@@ -252676,7 +252857,9 @@ tbl = {
 	[450019] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Рыцарские доспехи пажа",
 		identifiedResourceName = "Noblesse_Knight_Armor",
 		identifiedDescriptionName = {
@@ -252707,7 +252890,9 @@ tbl = {
 	[450020] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пикинерские доспехи пажа",
 		identifiedResourceName = "Noblesse_Spear_Armor",
 		identifiedDescriptionName = {
@@ -252738,7 +252923,9 @@ tbl = {
 	[450021] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Первозданные доспехи пажа",
 		identifiedResourceName = "Noblesse_Genesis_Armor",
 		identifiedDescriptionName = {
@@ -252769,7 +252956,9 @@ tbl = {
 	[450022] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Выходной костюм пажа",
 		identifiedResourceName = "Noblesse_Sharp_Suit",
 		identifiedDescriptionName = {
@@ -252800,7 +252989,9 @@ tbl = {
 	[450023] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Полевой костюм пажа",
 		identifiedResourceName = "Noblesse_Aim_suit",
 		identifiedDescriptionName = {
@@ -252831,7 +253022,9 @@ tbl = {
 	[450024] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сценический костюм пажа",
 		identifiedResourceName = "Noblesse_Severe_Suit",
 		identifiedDescriptionName = {
@@ -252862,7 +253055,9 @@ tbl = {
 	[450025] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Отражающий костюм пажа",
 		identifiedResourceName = "Noblesse_Reverb_Suit",
 		identifiedDescriptionName = {
@@ -252893,7 +253088,9 @@ tbl = {
 	[450026] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Освященная мантия пажа",
 		identifiedResourceName = "Noblesse_Adora_Robe",
 		identifiedDescriptionName = {
@@ -252924,7 +253121,9 @@ tbl = {
 	[450027] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сияющая мантия пажа",
 		identifiedResourceName = "Noblesse_Duple_Robe",
 		identifiedDescriptionName = {
@@ -252955,7 +253154,9 @@ tbl = {
 	[450028] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Штормовые доспехи пажа",
 		identifiedResourceName = "Noblesse_Tonado_Armor",
 		identifiedDescriptionName = {
@@ -252986,7 +253187,9 @@ tbl = {
 	[450029] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Вулканические доспехи пажа",
 		identifiedResourceName = "Noblesse_Vulcan_Armor",
 		identifiedDescriptionName = {
@@ -253017,7 +253220,9 @@ tbl = {
 	[450030] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Походный костюм пажа",
 		identifiedResourceName = "Noblesse_Kart_Suit",
 		identifiedDescriptionName = {
@@ -253048,7 +253253,9 @@ tbl = {
 	[450031] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ураганный костюм пажа",
 		identifiedResourceName = "Noblesse_Kart_Suit2",
 		identifiedDescriptionName = {
@@ -253079,7 +253286,9 @@ tbl = {
 	[450032] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Вихревой костюм пажа",
 		identifiedResourceName = "Noblesse_Rolling_Suit",
 		identifiedDescriptionName = {
@@ -253110,7 +253319,9 @@ tbl = {
 	[450033] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Убийственный костюм пажа",
 		identifiedResourceName = "Noblesse_Assasin_Suit",
 		identifiedDescriptionName = {
@@ -253141,7 +253352,9 @@ tbl = {
 	[450034] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Призрачный костюм пажа",
 		identifiedResourceName = "Noblesse_Fatal_Suit",
 		identifiedDescriptionName = {
@@ -253172,7 +253385,9 @@ tbl = {
 	[450035] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Охотничий костюм пажа",
 		identifiedResourceName = "Noblesse_Stalker_Suit",
 		identifiedDescriptionName = {
@@ -253203,7 +253418,9 @@ tbl = {
 	[450036] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Птичья мантия пажа",
 		identifiedResourceName = "Noblesse_Picky_Robe",
 		identifiedDescriptionName = {
@@ -253234,7 +253451,9 @@ tbl = {
 	[450037] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дождевая мантия пажа",
 		identifiedResourceName = "Noblesse_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -253265,7 +253484,9 @@ tbl = {
 	[450038] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Штурмовой костюм пажа",
 		identifiedResourceName = "Noblesse_Trip_Suit",
 		identifiedDescriptionName = {
@@ -253296,7 +253517,9 @@ tbl = {
 	[450039] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Огненный костюм пажа",
 		identifiedResourceName = "Noblesse_Firerain_Suit",
 		identifiedDescriptionName = {
@@ -253327,7 +253550,9 @@ tbl = {
 	[450040] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Астероидная мантия пажа",
 		identifiedResourceName = "Noblesse_Crimson_Robe",
 		identifiedDescriptionName = {
@@ -253358,7 +253583,9 @@ tbl = {
 	[450041] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ледяная мантия пажа",
 		identifiedResourceName = "Noblesse_Frost_Robe",
 		identifiedDescriptionName = {
@@ -253389,7 +253616,9 @@ tbl = {
 	[450042] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Провидческая мантия пажа",
 		identifiedResourceName = "Noblesse_Psychic_Robe",
 		identifiedDescriptionName = {
@@ -253420,7 +253649,9 @@ tbl = {
 	[450043] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пыльная мантия пажа",
 		identifiedResourceName = "Noblesse_Dust_Robe",
 		identifiedDescriptionName = {
@@ -253451,7 +253682,9 @@ tbl = {
 	[450044] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Солнечный костюм пажа",
 		identifiedResourceName = "Noblesse_Sun_Suit",
 		identifiedDescriptionName = {
@@ -253482,7 +253715,9 @@ tbl = {
 	[450045] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лунный костюм пажа",
 		identifiedResourceName = "Noblesse_Moon_Suit",
 		identifiedDescriptionName = {
@@ -253513,7 +253748,9 @@ tbl = {
 	[450046] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Скрывающий костюм пажа",
 		identifiedResourceName = "Noblesse_Ninja_Suit",
 		identifiedDescriptionName = {
@@ -253544,7 +253781,9 @@ tbl = {
 	[450047] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пронзающий костюм пажа",
 		identifiedResourceName = "Noblesse_Kunai_Suit",
 		identifiedDescriptionName = {
@@ -253575,7 +253814,9 @@ tbl = {
 	[450048] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Эзотерическая мантия пажа",
 		identifiedResourceName = "Noblesse_Swhoo_Robe",
 		identifiedDescriptionName = {
@@ -253606,7 +253847,9 @@ tbl = {
 	[450049] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Взрывная мантия пажа",
 		identifiedResourceName = "Noblesse_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -253637,7 +253880,9 @@ tbl = {
 	[450050] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Костюм пажа с кастетом",
 		identifiedResourceName = "Noblesse_Knuckle_Suit",
 		identifiedDescriptionName = {
@@ -253668,7 +253913,9 @@ tbl = {
 	[450051] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Тигриный костюм пажа",
 		identifiedResourceName = "Noblesse_Tiger_Suit",
 		identifiedDescriptionName = {
@@ -253699,7 +253946,9 @@ tbl = {
 	[450052] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Драконьи доспехи барона",
 		identifiedResourceName = "Imperial_Breath_Armor",
 		identifiedDescriptionName = {
@@ -253730,7 +253979,9 @@ tbl = {
 	[450053] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Рыцарские доспехи барона",
 		identifiedResourceName = "Imperial_Knight_Armor",
 		identifiedDescriptionName = {
@@ -253761,7 +254012,9 @@ tbl = {
 	[450054] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пикинерские доспехи барона",
 		identifiedResourceName = "Imperial_Spear_Armor",
 		identifiedDescriptionName = {
@@ -253792,7 +254045,9 @@ tbl = {
 	[450055] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Первозданные доспехи барона",
 		identifiedResourceName = "Imperial_Genesis_Armor",
 		identifiedDescriptionName = {
@@ -253823,7 +254078,9 @@ tbl = {
 	[450056] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Выходной костюм барона",
 		identifiedResourceName = "Imperial_Sharp_Suit",
 		identifiedDescriptionName = {
@@ -253854,7 +254111,9 @@ tbl = {
 	[450057] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Полевой костюм барона",
 		identifiedResourceName = "Imperial_Aim_Suit",
 		identifiedDescriptionName = {
@@ -253885,7 +254144,9 @@ tbl = {
 	[450058] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сценический костюм барона",
 		identifiedResourceName = "Imperial_Severe_Suit",
 		identifiedDescriptionName = {
@@ -253916,7 +254177,9 @@ tbl = {
 	[450059] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Отражающий костюм барона",
 		identifiedResourceName = "Imperial_Reverb_Suit",
 		identifiedDescriptionName = {
@@ -253947,7 +254210,9 @@ tbl = {
 	[450060] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Освященная мантия барона",
 		identifiedResourceName = "Imperial_Adora_Robe",
 		identifiedDescriptionName = {
@@ -253978,7 +254243,9 @@ tbl = {
 	[450061] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сияющая мантия барона",
 		identifiedResourceName = "Imperial_Duple_Robe",
 		identifiedDescriptionName = {
@@ -254009,7 +254276,9 @@ tbl = {
 	[450062] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Костюм с кастетом барона",
 		identifiedResourceName = "Imperial_Knuckle_Suit",
 		identifiedDescriptionName = {
@@ -254040,7 +254309,9 @@ tbl = {
 	[450063] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Тигриный костюм барона",
 		identifiedResourceName = "Imperial_Tiger_Suit",
 		identifiedDescriptionName = {
@@ -254071,7 +254342,9 @@ tbl = {
 	[450064] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Штормовые доспехи барона",
 		identifiedResourceName = "Imperial_Tonado_Armor",
 		identifiedDescriptionName = {
@@ -254102,7 +254375,9 @@ tbl = {
 	[450065] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Вулканические доспехи барона",
 		identifiedResourceName = "Imperial_Vulcan_Armor",
 		identifiedDescriptionName = {
@@ -254133,7 +254408,9 @@ tbl = {
 	[450066] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Походный костюм барона",
 		identifiedResourceName = "Imperial_Kart_Suit",
 		identifiedDescriptionName = {
@@ -254164,7 +254441,9 @@ tbl = {
 	[450067] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ураганный костюм барона",
 		identifiedResourceName = "Imperial_Kart_Suit2",
 		identifiedDescriptionName = {
@@ -254195,7 +254474,9 @@ tbl = {
 	[450068] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Вихревой костюм барона",
 		identifiedResourceName = "Imperial_Rolling_Suit",
 		identifiedDescriptionName = {
@@ -254226,7 +254507,9 @@ tbl = {
 	[450069] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Убийственный костюм барона",
 		identifiedResourceName = "Imperial_Assasin_Suit",
 		identifiedDescriptionName = {
@@ -254257,7 +254540,9 @@ tbl = {
 	[450070] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Призрачный костюм барона",
 		identifiedResourceName = "Imperial_Fatal_Suit",
 		identifiedDescriptionName = {
@@ -254288,7 +254573,9 @@ tbl = {
 	[450071] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Охотничий костюм барона",
 		identifiedResourceName = "Imperial_Stalker_Suit",
 		identifiedDescriptionName = {
@@ -254319,7 +254606,9 @@ tbl = {
 	[450072] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Птичья мантия барона",
 		identifiedResourceName = "Imperial_Picky_Robe",
 		identifiedDescriptionName = {
@@ -254350,7 +254639,9 @@ tbl = {
 	[450073] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дождевая мантия барона",
 		identifiedResourceName = "Imperial_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -254381,7 +254672,9 @@ tbl = {
 	[450074] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Штурмовой костюм барона",
 		identifiedResourceName = "Imperial_Trip_Suit",
 		identifiedDescriptionName = {
@@ -254412,7 +254705,9 @@ tbl = {
 	[450075] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Огненный костюм барона",
 		identifiedResourceName = "Imperial_Firerain_Suit",
 		identifiedDescriptionName = {
@@ -254443,7 +254738,9 @@ tbl = {
 	[450076] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Астероидная мантия барона",
 		identifiedResourceName = "Imperial_Crimson_Robe",
 		identifiedDescriptionName = {
@@ -254474,7 +254771,9 @@ tbl = {
 	[450077] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ледяная мантия барона",
 		identifiedResourceName = "Imperial_Frost_Robe",
 		identifiedDescriptionName = {
@@ -254505,7 +254804,9 @@ tbl = {
 	[450078] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Провидческая мантия барона",
 		identifiedResourceName = "Imperial_Psychic_Robe",
 		identifiedDescriptionName = {
@@ -254536,7 +254837,9 @@ tbl = {
 	[450079] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пыльная мантия барона",
 		identifiedResourceName = "Imperial_Dust_Robe",
 		identifiedDescriptionName = {
@@ -254567,7 +254870,9 @@ tbl = {
 	[450080] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Солнечный костюм барона",
 		identifiedResourceName = "Imperial_Sun_Suit",
 		identifiedDescriptionName = {
@@ -254598,7 +254903,9 @@ tbl = {
 	[450081] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лунный костюм барона",
 		identifiedResourceName = "Imperial_Moon_Suit",
 		identifiedDescriptionName = {
@@ -254629,7 +254936,9 @@ tbl = {
 	[450082] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Скрывающий костюм барона",
 		identifiedResourceName = "Imperial_Ninja_Suit",
 		identifiedDescriptionName = {
@@ -254660,7 +254969,9 @@ tbl = {
 	[450083] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пронзающий костюм барона",
 		identifiedResourceName = "Imperial_Kunai_Suit",
 		identifiedDescriptionName = {
@@ -254691,7 +255002,9 @@ tbl = {
 	[450084] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Эзотерическая мантия барона",
 		identifiedResourceName = "Imperial_Swhoo_Robe",
 		identifiedDescriptionName = {
@@ -254722,7 +255035,9 @@ tbl = {
 	[450085] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Взрывная мантия барона",
 		identifiedResourceName = "Imperial_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -254753,7 +255068,9 @@ tbl = {
 	[450086] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Драконьи доспехи короля",
 		identifiedResourceName = "Grace_Breath_Armor",
 		identifiedDescriptionName = {
@@ -254784,7 +255101,9 @@ tbl = {
 	[450087] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Рыцарские доспехи короля",
 		identifiedResourceName = "Grace_Knight_Armor",
 		identifiedDescriptionName = {
@@ -254815,7 +255134,9 @@ tbl = {
 	[450088] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пикинерские доспехи короля",
 		identifiedResourceName = "Grace_Spear_Armor",
 		identifiedDescriptionName = {
@@ -254846,7 +255167,9 @@ tbl = {
 	[450089] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Первозданные доспехи короля",
 		identifiedResourceName = "Grace_Genesis_Armor",
 		identifiedDescriptionName = {
@@ -254877,7 +255200,9 @@ tbl = {
 	[450090] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Выходной костюм короля",
 		identifiedResourceName = "Grace_Sharp_Suit",
 		identifiedDescriptionName = {
@@ -254908,7 +255233,9 @@ tbl = {
 	[450091] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Полевой костюм короля",
 		identifiedResourceName = "Grace_Aim_Suit",
 		identifiedDescriptionName = {
@@ -254939,7 +255266,9 @@ tbl = {
 	[450092] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сценический костюм короля",
 		identifiedResourceName = "Grace_Severe_Suit",
 		identifiedDescriptionName = {
@@ -254970,7 +255299,9 @@ tbl = {
 	[450093] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Отражающий костюм короля",
 		identifiedResourceName = "Grace_Reverb_Suit",
 		identifiedDescriptionName = {
@@ -255001,7 +255332,9 @@ tbl = {
 	[450094] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Освященная мантия короля",
 		identifiedResourceName = "Grace_Adora_Robe",
 		identifiedDescriptionName = {
@@ -255032,7 +255365,9 @@ tbl = {
 	[450095] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сияющая мантия короля",
 		identifiedResourceName = "Grace_Duple_Robe",
 		identifiedDescriptionName = {
@@ -255063,7 +255398,9 @@ tbl = {
 	[450096] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Костюм короля с кастетом",
 		identifiedResourceName = "Grace_Knuckle_Suit",
 		identifiedDescriptionName = {
@@ -255094,7 +255431,9 @@ tbl = {
 	[450097] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Тигриный костюм короля",
 		identifiedResourceName = "Grace_Tiger_Suit",
 		identifiedDescriptionName = {
@@ -255125,7 +255464,9 @@ tbl = {
 	[450098] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Штормовые доспехи короля",
 		identifiedResourceName = "Grace_Tonado_Armor",
 		identifiedDescriptionName = {
@@ -255156,7 +255497,9 @@ tbl = {
 	[450099] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Вулканические доспехи короля",
 		identifiedResourceName = "Grace_Vulcan_Armor",
 		identifiedDescriptionName = {
@@ -255187,7 +255530,9 @@ tbl = {
 	[450100] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Походный костюм короля",
 		identifiedResourceName = "Grace_Kart_Suit",
 		identifiedDescriptionName = {
@@ -255218,7 +255563,9 @@ tbl = {
 	[450101] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ураганный костюм короля",
 		identifiedResourceName = "Grace_Kart_Suit2",
 		identifiedDescriptionName = {
@@ -255249,7 +255596,9 @@ tbl = {
 	[450102] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Вихревой костюм короля",
 		identifiedResourceName = "Grace_Rolling_Suit",
 		identifiedDescriptionName = {
@@ -255280,7 +255629,9 @@ tbl = {
 	[450103] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Убийственный костюм короля",
 		identifiedResourceName = "Grace_Assasin_Suit",
 		identifiedDescriptionName = {
@@ -255311,7 +255662,9 @@ tbl = {
 	[450104] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Призрачный костюм короля",
 		identifiedResourceName = "Grace_Fatal_Suit",
 		identifiedDescriptionName = {
@@ -255342,7 +255695,9 @@ tbl = {
 	[450105] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Охотничий костюм короля",
 		identifiedResourceName = "Grace_Stalker_Suit",
 		identifiedDescriptionName = {
@@ -255373,7 +255728,9 @@ tbl = {
 	[450106] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Птичья мантия короля",
 		identifiedResourceName = "Grace_Picky_Robe",
 		identifiedDescriptionName = {
@@ -255404,7 +255761,9 @@ tbl = {
 	[450107] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дождевая мантия короля",
 		identifiedResourceName = "Grace_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -255435,7 +255794,9 @@ tbl = {
 	[450108] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Штурмовой костюм короля",
 		identifiedResourceName = "Grace_Trip_Suit",
 		identifiedDescriptionName = {
@@ -255466,7 +255827,9 @@ tbl = {
 	[450109] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Огненный костюм короля",
 		identifiedResourceName = "Grace_Firerain_Suit",
 		identifiedDescriptionName = {
@@ -255497,7 +255860,9 @@ tbl = {
 	[450110] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Астероидная мантия короля",
 		identifiedResourceName = "Grace_Crimson_Robe",
 		identifiedDescriptionName = {
@@ -255528,7 +255893,9 @@ tbl = {
 	[450111] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ледяная мантия короля",
 		identifiedResourceName = "Grace_Frost_Robe",
 		identifiedDescriptionName = {
@@ -255559,7 +255926,9 @@ tbl = {
 	[450112] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Провидческая мантия короля",
 		identifiedResourceName = "Grace_Psychic_Robe",
 		identifiedDescriptionName = {
@@ -255590,7 +255959,9 @@ tbl = {
 	[450113] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пыльная мантия короля",
 		identifiedResourceName = "Grace_Dust_Robe",
 		identifiedDescriptionName = {
@@ -255621,7 +255992,9 @@ tbl = {
 	[450114] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Солнечный костюм короля",
 		identifiedResourceName = "Grace_Sun_Suit",
 		identifiedDescriptionName = {
@@ -255652,7 +256025,9 @@ tbl = {
 	[450115] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лунный костюм короля",
 		identifiedResourceName = "Grace_Moon_Suit",
 		identifiedDescriptionName = {
@@ -255683,7 +256058,9 @@ tbl = {
 	[450116] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Скрывающий костюм короля",
 		identifiedResourceName = "Grace_Ninja_Suit",
 		identifiedDescriptionName = {
@@ -255714,7 +256091,9 @@ tbl = {
 	[450117] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пронзающий костюм короля",
 		identifiedResourceName = "Grace_Kunai_Suit",
 		identifiedDescriptionName = {
@@ -255745,7 +256124,9 @@ tbl = {
 	[450118] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Эзотерическая мантия короля",
 		identifiedResourceName = "Grace_Swhoo_Robe",
 		identifiedDescriptionName = {
@@ -255776,7 +256157,9 @@ tbl = {
 	[450119] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Взрывная мантия короля",
 		identifiedResourceName = "Grace_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -255807,7 +256190,9 @@ tbl = {
 	[450121] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Неофитский костюм пажа",
 		identifiedResourceName = "Noblesse_Snovice_Suit",
 		identifiedDescriptionName = {
@@ -255838,7 +256223,9 @@ tbl = {
 	[450122] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Неофитская мантия пажа",
 		identifiedResourceName = "Noblesse_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -255870,7 +256257,9 @@ tbl = {
 	[450123] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Неофитский костюм барона",
 		identifiedResourceName = "Imperial_Snovice_Suit",
 		identifiedDescriptionName = {
@@ -255901,7 +256290,9 @@ tbl = {
 	[450124] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Неофитская мантия барона",
 		identifiedResourceName = "Imperial_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -255933,7 +256324,9 @@ tbl = {
 	[450125] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Неофитский костюм короля",
 		identifiedResourceName = "Grace_Snovice_Suit",
 		identifiedDescriptionName = {
@@ -255964,7 +256357,9 @@ tbl = {
 	[450126] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "Хлопковая рубашка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Неофитская мантия короля",
 		identifiedResourceName = "Grace_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -255996,7 +256391,9 @@ tbl = {
 	[470016] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевые сапоги пажа",
 		identifiedResourceName = "Noblesse_Attack_Boots",
 		identifiedDescriptionName = {
@@ -256021,7 +256418,9 @@ tbl = {
 	[470017] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магические сапоги пажа",
 		identifiedResourceName = "Noblesse_Magic_Boots",
 		identifiedDescriptionName = {
@@ -256046,7 +256445,9 @@ tbl = {
 	[470018] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевые сапоги барона",
 		identifiedResourceName = "Imperial_Attack_Boots",
 		identifiedDescriptionName = {
@@ -256071,7 +256472,9 @@ tbl = {
 	[470019] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магические сапоги барона",
 		identifiedResourceName = "Imperial_Magic_Boots",
 		identifiedDescriptionName = {
@@ -256096,7 +256499,9 @@ tbl = {
 	[470020] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевые сапоги короля",
 		identifiedResourceName = "Grace_Attack_Boots",
 		identifiedDescriptionName = {
@@ -256121,7 +256526,9 @@ tbl = {
 	[470021] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Ботинки",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магические сапоги короля",
 		identifiedResourceName = "Grace_Magic_Boots",
 		identifiedDescriptionName = {
@@ -256146,7 +256553,9 @@ tbl = {
 	[480012] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевой плащ пажа",
 		identifiedResourceName = "Noblesse_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -256171,7 +256580,9 @@ tbl = {
 	[480014] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магический плащ пажа",
 		identifiedResourceName = "Noblesse_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -256196,7 +256607,9 @@ tbl = {
 	[480016] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевой плащ барона",
 		identifiedResourceName = "Imperial_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -256221,7 +256634,9 @@ tbl = {
 	[480017] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магический плащ барона",
 		identifiedResourceName = "Imperial_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -256246,7 +256661,9 @@ tbl = {
 	[480018] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевой плащ короля",
 		identifiedResourceName = "Grace_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -256271,7 +256688,9 @@ tbl = {
 	[480019] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магический плащ короля",
 		identifiedResourceName = "Grace_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -256296,7 +256715,9 @@ tbl = {
 	[490014] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевое кольцо пажа",
 		identifiedResourceName = "Noblesse_Attack_Ring",
 		identifiedDescriptionName = {
@@ -256320,7 +256741,9 @@ tbl = {
 	[490015] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магическое кольцо пажа",
 		identifiedResourceName = "Noblesse_Magic_Ring",
 		identifiedDescriptionName = {
@@ -256344,7 +256767,9 @@ tbl = {
 	[490017] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевое кольцо барона",
 		identifiedResourceName = "Imperial_Attack_Ring",
 		identifiedDescriptionName = {
@@ -256368,7 +256793,9 @@ tbl = {
 	[490018] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магическое кольцо барона",
 		identifiedResourceName = "Imperial_Magic_Ring",
 		identifiedDescriptionName = {
@@ -256392,7 +256819,9 @@ tbl = {
 	[490019] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Боевое кольцо короля",
 		identifiedResourceName = "Grace_Attack_Ring",
 		identifiedDescriptionName = {
@@ -256416,7 +256845,9 @@ tbl = {
 	[490020] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Магическое кольцо короля",
 		identifiedResourceName = "Grace_Magic_Ring",
 		identifiedDescriptionName = {
@@ -256973,7 +257404,9 @@ tbl = {
 	[15204] = {
 		unidentifiedDisplayName = "Одежда",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Платье бездны",
 		identifiedResourceName = "Abyss_Dress",
 		identifiedDescriptionName = {
@@ -257001,7 +257434,9 @@ tbl = {
 	[31371] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сонная Сорин (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -257021,7 +257456,9 @@ tbl = {
 	[31527] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Радужные перья (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -257041,7 +257478,9 @@ tbl = {
 	[31529] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Заячьи заколки (Декор)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -257355,7 +257794,9 @@ tbl = {
 	[5933] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска карасу-тенгу",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -257381,7 +257822,9 @@ tbl = {
 	[19112] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Свиток тенгу",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -257413,7 +257856,9 @@ tbl = {
 	[31735] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шарф прорицателя (Декор)",
 		identifiedResourceName = "FortunetellinSealed",
 		identifiedDescriptionName = {
@@ -257432,7 +257877,9 @@ tbl = {
 	[480319] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Крыло феникса",
 		identifiedResourceName = "Divine_Phoenix",
 		identifiedDescriptionName = {
@@ -257467,7 +257914,9 @@ tbl = {
 	[31415] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа девяти ветров (Декор)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -257486,7 +257935,9 @@ tbl = {
 	[19556] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска кабуки (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -257578,7 +258029,9 @@ tbl = {
 	[28717] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Нож валькирии",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -257639,7 +258092,9 @@ tbl = {
 	[410091] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Нейромодулятор Кор",
 		identifiedResourceName = "Cor_Core_Headset",
 		identifiedDescriptionName = {
@@ -257662,7 +258117,9 @@ tbl = {
 	[20973] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Плащ спиритолога",
 		identifiedResourceName = "Spiritual_Cloth",
 		identifiedDescriptionName = {
@@ -257695,7 +258152,9 @@ tbl = {
 	[15249] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Костюм Антонио",
 		identifiedResourceName = "Antonio_Coat",
 		identifiedDescriptionName = {
@@ -257732,7 +258191,9 @@ tbl = {
 	[19498] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Цитрусовые заколки",
 		identifiedResourceName = "CitrusRibbon",
 		identifiedDescriptionName = {
@@ -257754,7 +258215,9 @@ tbl = {
 	[19148] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Рождественский шарик",
 		identifiedResourceName = "C3????",
 		identifiedDescriptionName = {
@@ -257777,7 +258240,9 @@ tbl = {
 	[31172] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска безумной курицы (Декор)",
 		identifiedResourceName = "Roast_Memory",
 		identifiedDescriptionName = {
@@ -257798,7 +258263,9 @@ tbl = {
 	[31440] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Полярный капюшон (Декор)",
 		identifiedResourceName = "C_Snow_Bear_Hood",
 		identifiedDescriptionName = {
@@ -257818,7 +258285,9 @@ tbl = {
 	[20235] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Морозная роза (Декор)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -257950,7 +258419,9 @@ tbl = {
 	[18652] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шлем Ванарганда",
 		identifiedResourceName = "Vanargandr_Helm",
 		identifiedDescriptionName = {
@@ -257986,7 +258457,9 @@ tbl = {
 	[19597] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа третьего ока (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258005,7 +258478,9 @@ tbl = {
 	[31831] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Облачение лицемера (Декор)",
 		identifiedResourceName = "C_Disguise_Mantle",
 		identifiedDescriptionName = {
@@ -258026,7 +258501,9 @@ tbl = {
 	[32227] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Цепь Хродвитнира",
 		identifiedResourceName = "Fenrir_Chain",
 		identifiedDescriptionName = {
@@ -258060,7 +258537,9 @@ tbl = {
 	[410094] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Цепь святой печати",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258083,7 +258562,9 @@ tbl = {
 	[420076] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шипастый ошейник",
 		identifiedResourceName = "Vassalage_Necklace",
 		identifiedDescriptionName = {
@@ -258176,7 +258657,9 @@ tbl = {
 	[490146] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Перчатка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Перчатка Парацельса",
 		identifiedResourceName = "Paracelsus_Glove",
 		identifiedDescriptionName = {
@@ -258207,7 +258690,9 @@ tbl = {
 	[28411] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Серьги",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Изумрудные серьги",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -258232,7 +258717,9 @@ tbl = {
 	[20969] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Радужный горжет",
 		identifiedResourceName = "Rainbow_Muffler_Jp",
 		identifiedDescriptionName = {
@@ -258319,7 +258806,9 @@ tbl = {
 	[400021] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Красная часовая кепка",
 		identifiedResourceName = "C_Clock_Casket_RD",
 		identifiedDescriptionName = {
@@ -258367,7 +258856,9 @@ tbl = {
 	[400022] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Фуражка Игниса",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258499,7 +258990,9 @@ tbl = {
 	[19674] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска Алого Демона (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258518,7 +259011,9 @@ tbl = {
 	[19578] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Гогглы летчика (Декор)",
 		identifiedResourceName = "??",
 		identifiedDescriptionName = {
@@ -258538,7 +259033,9 @@ tbl = {
 	[20038] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "Головной убор",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шлем альфонсо (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -258558,7 +259055,9 @@ tbl = {
 	[15215] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспехи Татэнаси",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -258588,7 +259087,9 @@ tbl = {
 	[15361] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Юпитера",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258623,7 +259124,9 @@ tbl = {
 	[15362] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Аполлона",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258655,7 +259158,9 @@ tbl = {
 	[15363] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Марса",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258688,7 +259193,9 @@ tbl = {
 	[15364] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Цереры",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258721,7 +259228,9 @@ tbl = {
 	[15365] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Венеры",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258755,7 +259264,9 @@ tbl = {
 	[15366] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Вулкана",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258788,7 +259299,9 @@ tbl = {
 	[19995] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Волшебные цветы (Декор)",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -258808,7 +259321,9 @@ tbl = {
 	[31593] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Желтый шейный платок (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258829,7 +259344,9 @@ tbl = {
 	[31712] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кислородная маска (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -258849,7 +259366,9 @@ tbl = {
 	[32244] = {
 		unidentifiedDisplayName = "Ожерелье диктатора",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ожерелье диктатора",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -258904,7 +259423,9 @@ tbl = {
 	[480023] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Арабский халат",
 		identifiedResourceName = "Arabian_Manteau",
 		identifiedDescriptionName = {
@@ -259017,7 +259538,9 @@ tbl = {
 	[420302] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Бубенчик Диньдинь",
 		identifiedResourceName = "Sound_of_Catbell",
 		identifiedDescriptionName = {
@@ -259045,7 +259568,9 @@ tbl = {
 	[450180] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лягушачий дождевик",
 		identifiedResourceName = "Cute_Frog_Raincoat",
 		identifiedDescriptionName = {
@@ -259081,7 +259606,9 @@ tbl = {
 	[490149] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сверкающий ошейник",
 		identifiedResourceName = "Glittering_Cat_Choker",
 		identifiedDescriptionName = {
@@ -259118,7 +259645,9 @@ tbl = {
 	[19268] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дыхание масочного червя",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -259150,7 +259679,9 @@ tbl = {
 	[19437] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Садовый венец",
 		identifiedResourceName = "LittleGarden",
 		identifiedDescriptionName = {
@@ -259181,7 +259712,9 @@ tbl = {
 	[20405] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Красный шарф Эремеса (Декор)",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -259202,7 +259735,9 @@ tbl = {
 	[22195] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Бустерные сапоги",
 		identifiedResourceName = "Booster_shoes",
 		identifiedDescriptionName = {
@@ -259240,7 +259775,9 @@ tbl = {
 	[28438] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Толченый чаролист",
 		identifiedResourceName = "?????????",
 		identifiedDescriptionName = {
@@ -259272,7 +259809,9 @@ tbl = {
 	[28902] = {
 		unidentifiedDisplayName = "Щит",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Проклятый злой кролик",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -259312,7 +259851,9 @@ tbl = {
 	[31057] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Черный шарф Эремеса (Декор)",
 		identifiedResourceName = "C?????????",
 		identifiedDescriptionName = {
@@ -259333,7 +259874,9 @@ tbl = {
 	[31545] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Синий шарф Эремеса (Декор)",
 		identifiedResourceName = "C_Eremes_Scarf_BU",
 		identifiedDescriptionName = {
@@ -259354,7 +259897,9 @@ tbl = {
 	[480025] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Мантия Барона Сов",
 		identifiedResourceName = "Owl_Baron_Mantle",
 		identifiedDescriptionName = {
@@ -259402,7 +259947,9 @@ tbl = {
 	[104385] = {
 		unidentifiedDisplayName = "Дар Эремеса",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар Эремеса",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -259477,7 +260024,9 @@ tbl = {
 	[420017] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лист Мирового древа (сила)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259505,7 +260054,9 @@ tbl = {
 	[420018] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лист Мирового древа (сноровка)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259533,7 +260084,9 @@ tbl = {
 	[420019] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лист Мирового древа (ловкость)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259561,7 +260114,9 @@ tbl = {
 	[420020] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лист Мирового древа (удача)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259589,7 +260144,9 @@ tbl = {
 	[420021] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лист Мирового древа (живучесть)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259617,7 +260174,9 @@ tbl = {
 	[420022] = {
 		unidentifiedDisplayName = "Маска",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Лист Мирового древа (интеллект)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259645,7 +260204,9 @@ tbl = {
 	[20746] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Крылья Рудры (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -259666,7 +260227,9 @@ tbl = {
 	[400049] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "Силаipe_Hat",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кепка трех полосок",
 		identifiedResourceName = "Силаipe_Hat",
 		identifiedDescriptionName = {
@@ -259702,7 +260265,9 @@ tbl = {
 	[400061] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Небесная диадема Стрельца",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -259737,7 +260302,9 @@ tbl = {
 	[400325] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Голова бродячего волка (Декор)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -259757,7 +260324,9 @@ tbl = {
 	[400326] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа из Воловьей кожи (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -259778,7 +260347,9 @@ tbl = {
 	[28594] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Темпоральное кольцо",
 		identifiedResourceName = "Temporal_Ring",
 		identifiedDescriptionName = {
@@ -259818,7 +260389,9 @@ tbl = {
 	[480077] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Плащ магмы",
 		identifiedResourceName = "Magma_Manteau",
 		identifiedDescriptionName = {
@@ -259856,7 +260429,9 @@ tbl = {
 	[15891] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шлем скалолаза",
 		identifiedResourceName = "Mountain_Helmet",
 		identifiedDescriptionName = {
@@ -259892,7 +260467,9 @@ tbl = {
 	[28521] = {
 		unidentifiedDisplayName = "Кольцо",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Оберег великана",
 		identifiedResourceName = "Giant_Protection",
 		identifiedDescriptionName = {
@@ -259941,7 +260518,9 @@ tbl = {
 	[15892] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шлем Темиса",
 		identifiedResourceName = "Themis_Helm",
 		identifiedDescriptionName = {
@@ -259974,7 +260553,9 @@ tbl = {
 	[22207] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сапоги имперской гвардии",
 		identifiedResourceName = "Imperial_Boots",
 		identifiedDescriptionName = {
@@ -260005,7 +260586,9 @@ tbl = {
 	[490079] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кольцо призрачной дымки",
 		identifiedResourceName = "SoulExpansionRing",
 		identifiedDescriptionName = {
@@ -260036,7 +260619,9 @@ tbl = {
 	[22104] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ботинки поророки",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -260069,7 +260654,9 @@ tbl = {
 	[18794] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Заурядная шляпа мага",
 		identifiedResourceName = "?????????",
 		identifiedDescriptionName = {
@@ -260099,7 +260686,9 @@ tbl = {
 	[19426] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец владыки духов",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -260476,7 +261065,9 @@ tbl = {
 	[56771] = {
 		unidentifiedDisplayName = "Маска Хоуда (Декор)",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска Хоуда (Декор)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -260777,7 +261368,9 @@ tbl = {
 	[400053] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный шлем Морриган",
 		identifiedResourceName = "Morrigane_Helm_IL",
 		identifiedDescriptionName = {
@@ -260805,7 +261398,9 @@ tbl = {
 	[450144] = {
 		unidentifiedDisplayName = "Одежда",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерная мантия святого",
 		identifiedResourceName = "Saint_Robe_IL",
 		identifiedDescriptionName = {
@@ -260833,7 +261428,9 @@ tbl = {
 	[450145] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерная броня духов воды",
 		identifiedResourceName = "Water_Sprits_Armor_IL",
 		identifiedDescriptionName = {
@@ -260858,7 +261455,9 @@ tbl = {
 	[450146] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерная кольчуга",
 		identifiedResourceName = "Chain_Mail_IL",
 		identifiedDescriptionName = {
@@ -260887,7 +261486,9 @@ tbl = {
 	[480054] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерная накидка Морриган",
 		identifiedResourceName = "Morrigane_Manyeau_IL",
 		identifiedDescriptionName = {
@@ -260909,7 +261510,9 @@ tbl = {
 	[490069] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный пояс Морриган",
 		identifiedResourceName = "Morrigane_Belt_IL",
 		identifiedDescriptionName = {
@@ -260932,7 +261535,9 @@ tbl = {
 	[490070] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный медальон Морриган",
 		identifiedResourceName = "Morrigane_Pendant_IL",
 		identifiedDescriptionName = {
@@ -260955,7 +261560,9 @@ tbl = {
 	[600011] = {
 		unidentifiedDisplayName = "Двуручный меч",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный Проводник Смерти",
 		identifiedResourceName = "Death_Guidance_IL",
 		identifiedDescriptionName = {
@@ -260984,7 +261591,9 @@ tbl = {
 	[610012] = {
 		unidentifiedDisplayName = "Катар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный катар ледяных игл",
 		identifiedResourceName = "KatarOfCold_Icicle_IL",
 		identifiedDescriptionName = {
@@ -261012,7 +261621,9 @@ tbl = {
 	[630006] = {
 		unidentifiedDisplayName = "Копье",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный Брионак",
 		identifiedResourceName = "Brionac_IL",
 		identifiedDescriptionName = {
@@ -261042,7 +261653,9 @@ tbl = {
 	[630007] = {
 		unidentifiedDisplayName = "Копье",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный Зефирус",
 		identifiedResourceName = "Zephyrus_IL",
 		identifiedDescriptionName = {
@@ -261536,7 +262149,9 @@ tbl = {
 	[25898] = {
 		unidentifiedDisplayName = "Удочка Сируда",
 		unidentifiedResourceName = "Siroods_Fish_Rod",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Удочка Сируда",
 		identifiedResourceName = "Siroods_Fish_Rod",
 		identifiedDescriptionName = {
@@ -261569,7 +262184,9 @@ tbl = {
 	[570008] = {
 		unidentifiedDisplayName = "Музыкальный инструмент",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерная электрогитара",
 		identifiedResourceName = "Electronic_Guitar_IL",
 		identifiedDescriptionName = {
@@ -261603,7 +262220,9 @@ tbl = {
 	[580008] = {
 		unidentifiedDisplayName = "Кнут",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Химерный электрический угорь",
 		identifiedResourceName = "Electric_Eel_IL",
 		identifiedDescriptionName = {
@@ -261713,7 +262332,9 @@ tbl = {
 	[10043] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ободок младшего мажордома Бета",
 		identifiedResourceName = "Ep_17_2_C_Admin1_Acc",
 		identifiedDescriptionName = {
@@ -261729,7 +262350,9 @@ tbl = {
 	[10044] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ободок малышки-управляющей Альфа",
 		identifiedResourceName = "Ep_17_2_C_Admin2_Acc",
 		identifiedDescriptionName = {
@@ -261795,7 +262418,7 @@ tbl = {
 		unidentifiedDisplayName = "Карта Свити",
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Урон от умения [Танец огня] +60%.",
 			"Расход SP умения [Танец огня] -25%.",
 			"Класс: ^777777Карта^000000",
@@ -262998,7 +263621,9 @@ tbl = {
 	[610006] = {
 		unidentifiedDisplayName = "Катар",
 		unidentifiedResourceName = "Катар",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Катар Алчности",
 		identifiedResourceName = "Ep172_Bh_Katar",
 		identifiedDescriptionName = {
@@ -263024,7 +263649,9 @@ tbl = {
 	[630003] = {
 		unidentifiedDisplayName = "Копье",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Копье Похоти",
 		identifiedResourceName = "Ep172_Bh_Spear",
 		identifiedDescriptionName = {
@@ -263050,7 +263677,9 @@ tbl = {
 	[640005] = {
 		unidentifiedDisplayName = "Двуручный посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Камень Гордыни",
 		identifiedResourceName = "Ep172_Bh_Staff",
 		identifiedDescriptionName = {
@@ -263078,7 +263707,9 @@ tbl = {
 	[650003] = {
 		unidentifiedDisplayName = "Фума сюрикен",
 		unidentifiedResourceName = "??_??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Колесо Гнева",
 		identifiedResourceName = "Ep172_Bh_Huuma",
 		identifiedDescriptionName = {
@@ -263105,7 +263736,9 @@ tbl = {
 	[700007] = {
 		unidentifiedDisplayName = "Лук",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Струна Гордыни",
 		identifiedResourceName = "Ep172_Bh_Bow",
 		identifiedDescriptionName = {
@@ -263130,7 +263763,9 @@ tbl = {
 	[700008] = {
 		unidentifiedDisplayName = "Лук",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Стрела Чревоугодия",
 		identifiedResourceName = "Ep172_Bh_Bow2",
 		identifiedDescriptionName = {
@@ -263155,7 +263790,9 @@ tbl = {
 	[810000] = {
 		unidentifiedDisplayName = "Винтовка",
 		unidentifiedResourceName = "Винтовка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Винтовка Похоти",
 		identifiedResourceName = "Ep172_1h_Rifle",
 		identifiedDescriptionName = {
@@ -263181,7 +263818,9 @@ tbl = {
 	[820000] = {
 		unidentifiedDisplayName = "Дробовик",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дробовик Похоти",
 		identifiedResourceName = "Ep172_1h_Shotgun",
 		identifiedDescriptionName = {
@@ -263208,7 +263847,9 @@ tbl = {
 	[830001] = {
 		unidentifiedDisplayName = "Картечница Гатлинга",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пулемет Похоти",
 		identifiedResourceName = "Ep172_1h_Gatling",
 		identifiedDescriptionName = {
@@ -263235,7 +263876,9 @@ tbl = {
 	[840000] = {
 		unidentifiedDisplayName = "Гранатомет",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Гранатомет Похоти",
 		identifiedResourceName = "Ep172_1h_Grenade",
 		identifiedDescriptionName = {
@@ -263262,7 +263905,9 @@ tbl = {
 	[500007] = {
 		unidentifiedDisplayName = "Меч",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Клинок Лицемерия",
 		identifiedResourceName = "Ep172_1h_Sword",
 		identifiedDescriptionName = {
@@ -263289,7 +263934,9 @@ tbl = {
 	[600008] = {
 		unidentifiedDisplayName = "Двуручный меч",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Грань Лицемерия",
 		identifiedResourceName = "Ep172_Bh_Sword",
 		identifiedDescriptionName = {
@@ -263316,7 +263963,9 @@ tbl = {
 	[500008] = {
 		unidentifiedDisplayName = "Меч",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Меч Зависти",
 		identifiedResourceName = "Ep172_1h_Sword2",
 		identifiedDescriptionName = {
@@ -263342,7 +263991,9 @@ tbl = {
 	[510008] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кинжал Гнева",
 		identifiedResourceName = "Ep172_1h_Dagger",
 		identifiedDescriptionName = {
@@ -263368,7 +264019,9 @@ tbl = {
 	[510009] = {
 		unidentifiedDisplayName = "Кинжал",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Клык Чревоугодия",
 		identifiedResourceName = "Ep172_1h_Dagger2",
 		identifiedDescriptionName = {
@@ -263393,7 +264046,9 @@ tbl = {
 	[520002] = {
 		unidentifiedDisplayName = "Топор",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Секира Гордыни",
 		identifiedResourceName = "Ep172_1h_Axe",
 		identifiedDescriptionName = {
@@ -263420,7 +264075,9 @@ tbl = {
 	[530002] = {
 		unidentifiedDisplayName = "Копье",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Копье Чревоугодия",
 		identifiedResourceName = "Ep172_1h_Spear",
 		identifiedDescriptionName = {
@@ -263447,7 +264104,9 @@ tbl = {
 	[540004] = {
 		unidentifiedDisplayName = "Книга",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Книга Лени",
 		identifiedResourceName = "Ep172_1h_Book",
 		identifiedDescriptionName = {
@@ -263474,7 +264133,9 @@ tbl = {
 	[540005] = {
 		unidentifiedDisplayName = "Книга",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Писание Лени",
 		identifiedResourceName = "Ep172_1h_Book2",
 		identifiedDescriptionName = {
@@ -263501,7 +264162,9 @@ tbl = {
 	[550008] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Жезл Алчности",
 		identifiedResourceName = "Ep172_1h_Wand",
 		identifiedDescriptionName = {
@@ -263529,7 +264192,9 @@ tbl = {
 	[550009] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Стебель Зависимости",
 		identifiedResourceName = "Ep172_1h_Foxtail",
 		identifiedDescriptionName = {
@@ -263557,7 +264222,9 @@ tbl = {
 	[560004] = {
 		unidentifiedDisplayName = "Коготь",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кулак Гнева",
 		identifiedResourceName = "Ep172_Bh_knuck",
 		identifiedDescriptionName = {
@@ -263583,7 +264250,9 @@ tbl = {
 	[570005] = {
 		unidentifiedDisplayName = "Музыкальный инструмент",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Волна Лени",
 		identifiedResourceName = "Ep172_1h_Inst",
 		identifiedDescriptionName = {
@@ -263609,7 +264278,9 @@ tbl = {
 	[580005] = {
 		unidentifiedDisplayName = "Кнут",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Искра Лени",
 		identifiedResourceName = "Ep172_1h_Whip",
 		identifiedDescriptionName = {
@@ -263635,7 +264306,9 @@ tbl = {
 	[700009] = {
 		unidentifiedDisplayName = "Лук",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ритм Лени",
 		identifiedResourceName = "Ep172_Bh_Bow3",
 		identifiedDescriptionName = {
@@ -263660,7 +264333,9 @@ tbl = {
 	[590006] = {
 		unidentifiedDisplayName = "Дубинка",
 		unidentifiedResourceName = "Дубинка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дубина Зависти",
 		identifiedResourceName = "Ep172_1h_Hammer",
 		identifiedDescriptionName = {
@@ -263689,7 +264364,7 @@ tbl = {
 		unidentifiedResourceName = "ELYUMINA_RADAR",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Трекер, разработанный Эллюминой,чтобы найти предателей где угодно и покарать их. Издаст громкий звук, если поблизости окажется предводитель агентов Иллюзии.",
 			"Вес: ^7777771^000000"
 		},
@@ -263709,7 +264384,7 @@ tbl = {
 		unidentifiedResourceName = "PITAYA_TAIL_R",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Хвост питайи, от которого исходит сладкий фруктовый аромат. Говорят, его лучше всего есть свежим.",
 			"Вес: ^7777771^000000"
 		},
@@ -263729,7 +264404,7 @@ tbl = {
 		unidentifiedResourceName = "PITAYA_TAIL_Y",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Хвост питайи, от которого исходит сладкий фруктовый аромат. Говорят, ему надо дать немного дозреть.",
 			"Вес: ^7777771^000000"
 		},
@@ -263749,7 +264424,7 @@ tbl = {
 		unidentifiedResourceName = "PITAYA_TAIL_B",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Хвост питайи, от которого исходит сладкий фруктовый аромат. Очень вкусный из-за своей тонкой кожицы.",
 			"Вес: ^7777771^000000"
 		},
@@ -263769,7 +264444,7 @@ tbl = {
 		unidentifiedResourceName = "PITAYA_TAIL_G",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Хвост питайи, от которого исходит кисловатый фруктовый аромат. Слишком кислый, чтобы есть его просто так. Обычно для готовки используется его сок.",
 			"Вес: ^7777771^000000"
 		},
@@ -263789,7 +264464,7 @@ tbl = {
 		unidentifiedResourceName = "PITAYA_TAIL_P",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Хвост питайи, от которого исходит сладкий фруктовый аромат. Этот выведенный сорт очень удобно есть.",
 			"Вес: ^7777771^000000"
 		},
@@ -263809,7 +264484,7 @@ tbl = {
 		unidentifiedResourceName = "PITAYA_TAIL_BOSS",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Хвост питайи, от которого исходит сладкий фруктовый аромат. Выведенный сорт с самым высоким содержанием сахара.",
 			" ",
 			"Вес: ^7777771^000000"
@@ -263831,7 +264506,7 @@ tbl = {
 		unidentifiedResourceName = "GARDENERS_COOKIE",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Печенье, которое без проблем отдал беспокойный садовник. Что он там жует?",
 			"Вес: ^7777771^000000"
 		},
@@ -263851,7 +264526,7 @@ tbl = {
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Ледяная ловушка, сделанная на основе ловушки из особого сплава. Когда на нее наступают, выпускает волну ледяного воздуха, замораживающего все вокруг.",
 			"Вес: ^7777771^000000"
 		},
@@ -263871,7 +264546,7 @@ tbl = {
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Деталь, использующаяся в телах, ногах, руках и других частях тела автоматонов.",
 			"Вес: ^7777771^000000"
 		},
@@ -263891,7 +264566,7 @@ tbl = {
 		unidentifiedResourceName = "????????",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Запасной ключ от дверей, ведущих в подземную часть склада.",
 			"Вес: ^7777771^000000"
 		},
@@ -263910,7 +264585,7 @@ tbl = {
 		unidentifiedDisplayName = "Картофельный чипс",
 		unidentifiedResourceName = "????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Биологическое устройство, используемое агентами Иллюзии.",
 			"Ирает важную роль в поглощении электромагнитных волн,",
 			"генерируемых в результате перегрева.",
@@ -263933,7 +264608,7 @@ tbl = {
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Ядро поврежденного злоумышленниками мажордома поместья. Его окутывает неровно мерцающий свет, и кажется, как будто он просит о помощи.",
 			"Вес: ^7777770^000000"
 		},
@@ -263970,7 +264645,7 @@ tbl = {
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
 			"^ff0000Привязано к персонажу.^000000",
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Деталь, выпавшая из тела сломанного автоматона. Кажется, ее можно где-то использовать.",
 			"Вес: ^7777770^000000"
 		},
@@ -263989,7 +264664,7 @@ tbl = {
 		unidentifiedDisplayName = "Коммуникационный чип автоматона",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Стандартный чип связи, установленный в автоматонах. Его можно где-нибудь использовать.",
 			"Вес: ^7777770^000000"
 		},
@@ -264007,7 +264682,7 @@ tbl = {
 		unidentifiedDisplayName = "Бомбочка для ванны A",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Бомбочка для ванны, созданная администраторами купальни поместья Бармунда по особому рецепту.",
 			"Действует в подземелье Купальня Медитари, находящемся в поместье Бармунда. На 15 мин. физ./маг. урон по монстрам +5%.",
 			"Вес: ^7777771^000000"
@@ -264027,7 +264702,7 @@ tbl = {
 		unidentifiedDisplayName = "Бомбочка для ванны B",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Бомбочка для ванны, созданная администраторами купальни поместья Бармунда по особому рецепту.",
 			"Действует в подземелье Купальня Медитари, находящемся в поместье Бармунда. На 15 мин. физ./маг. урон по монстрам +10%.",
 			"Вес: ^7777771^000000"
@@ -264047,7 +264722,7 @@ tbl = {
 		unidentifiedDisplayName = "Бомбочка для ванны C",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Бомбочка для ванны, созданная администраторами купальни поместья Бармунда по особому рецепту.",
 			"Действует в подземелье Купальня Медитари, находящемся в поместье Бармунда. На 15 мин. физ./маг. урон по монстрам +15%.",
 			"Вес: ^7777771^000000"
@@ -264067,7 +264742,7 @@ tbl = {
 		unidentifiedDisplayName = "Ароматическое масло",
 		unidentifiedResourceName = "???????",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Ароматическое масло для массажа с экстрактами различных трав. Улучшает кровообращение и снимает усталость.",
 			"Действует в подземелье Купальня Медитари, находящемся в поместье Бармунда. На 15 мин. физ./маг. урон от монстров -10%.",
 			"Вес: ^7777771^000000"
@@ -264086,7 +264761,9 @@ tbl = {
 	[450127] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический доспех A",
 		identifiedResourceName = "Auto_Armor_A",
 		identifiedDescriptionName = {
@@ -264113,7 +264790,9 @@ tbl = {
 	[450128] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический доспех B",
 		identifiedResourceName = "Auto_Armor_B",
 		identifiedDescriptionName = {
@@ -264140,7 +264819,9 @@ tbl = {
 	[470022] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматические ботинки A",
 		identifiedResourceName = "Auto_Leg_A",
 		identifiedDescriptionName = {
@@ -264167,7 +264848,9 @@ tbl = {
 	[470023] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматические ботинки B",
 		identifiedResourceName = "Auto_Leg_B",
 		identifiedDescriptionName = {
@@ -264194,7 +264877,9 @@ tbl = {
 	[480020] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический двигатель A",
 		identifiedResourceName = "Auto_Engine_A",
 		identifiedDescriptionName = {
@@ -264221,7 +264906,9 @@ tbl = {
 	[480021] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический двигатель B",
 		identifiedResourceName = "Auto_Engine_B",
 		identifiedDescriptionName = {
@@ -264248,7 +264935,9 @@ tbl = {
 	[490024] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический нейромодулятор R",
 		identifiedResourceName = "Auto_B_R",
 		identifiedDescriptionName = {
@@ -264269,7 +264958,9 @@ tbl = {
 	[490025] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический нейромодулятор L",
 		identifiedResourceName = "Auto_B_L",
 		identifiedDescriptionName = {
@@ -264290,7 +264981,9 @@ tbl = {
 	[490026] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический боевой чип R",
 		identifiedResourceName = "Auto_BC_R",
 		identifiedDescriptionName = {
@@ -264311,7 +265004,9 @@ tbl = {
 	[490027] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Автоматический боевой чип L",
 		identifiedResourceName = "Auto_BC_L",
 		identifiedDescriptionName = {
@@ -266055,7 +266750,7 @@ tbl = {
 		unidentifiedDisplayName = "Купон Бармунда",
 		unidentifiedResourceName = "BarMealTicket",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Талон, выпущенный мажордомами для эффективного обслуживания наемников в поместье Бармунда.",
 			"Говорят, эти талоны уже стали валютой, за которую в поместье можно приобрести все что угодно.",
 			"Вес: ^7777770^000000"
@@ -266075,7 +266770,7 @@ tbl = {
 		unidentifiedDisplayName = "Магический минерал",
 		unidentifiedResourceName = "Magical_Igni_Stone",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Руда, наполненная мощной магией.",
 			"Неизвестно, как она появилась и для чего нужна.",
 			"Вес: ^7777770^000000"
@@ -269489,7 +270184,7 @@ tbl = {
 		unidentifiedDisplayName = "Коробка с автоматическим модулем",
 		unidentifiedResourceName = "Auto_M_Box",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Внутри находится автоматический модуль.",
 			"Можно получить 1 из автоматических модулей (кроме эпических).",
 			"Вес: ^7777770^000000"
@@ -269509,7 +270204,7 @@ tbl = {
 		unidentifiedDisplayName = "Коробка с эпическим модулем",
 		unidentifiedResourceName = "Epic_M_Box",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Внутри находится магический минерал или очень редкий автоматический модуль.",
 			"Можно получить магический минерал или эпический модуль.",
 			"Вес: ^7777770^000000"
@@ -269529,7 +270224,7 @@ tbl = {
 		unidentifiedDisplayName = "Коробка с автоматическим усилителем (физ.)",
 		unidentifiedResourceName = "Auto_M_I_Box_A",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Внутри находится предмет для усиления особого механического устройства.",
 			"Можно получить 1 из усилителей, улучшающих физические способности.",
 			"Вес: ^7777770^000000"
@@ -269549,7 +270244,7 @@ tbl = {
 		unidentifiedDisplayName = "Коробка с автоматическим усилителем (маг.)",
 		unidentifiedResourceName = "Auto_M_I_Box_B",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Внутри находится предмет для усиления особого механического устройства.",
 			"Можно получить 1 из усилителей, улучшающих магические способности.",
 			"Вес: ^7777770^000000"
@@ -269569,7 +270264,7 @@ tbl = {
 		unidentifiedDisplayName = "Обычный автоматический усилитель (физ.)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Устройство для усиления особого механического снаряжения.",
 			"Можно получить 1 усиливающий физический эффект.",
 			" ",
@@ -269646,7 +270341,7 @@ tbl = {
 		unidentifiedDisplayName = "Улучшенный автоматический усилитель (физ.)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Устройство для усиления особого механического снаряжения.",
 			"Можно получить 1-2 усиливающих физических эффекта.",
 			" ",
@@ -269723,7 +270418,7 @@ tbl = {
 		unidentifiedDisplayName = "Элитный автоматический усилитель (физ.)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Устройство для усиления особого механического снаряжения.",
 			"Можно получить 3 усиливающих физических эффекта.",
 			" ",
@@ -269800,7 +270495,7 @@ tbl = {
 		unidentifiedDisplayName = "Обычный автоматический усилитель (маг.)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Устройство для усиления особого механического снаряжения.",
 			"Можно получить 1 усиливающий магический эффект.",
 			" ",
@@ -269877,7 +270572,7 @@ tbl = {
 		unidentifiedDisplayName = "Улучшенный автоматический усилитель (маг.)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Устройство для усиления особого механического снаряжения.",
 			"Можно получить 1-2 усиливающих магических эффекта.",
 			" ",
@@ -269954,7 +270649,7 @@ tbl = {
 		unidentifiedDisplayName = "Элитный автоматический усилитель (маг.)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Устройство для усиления особого механического снаряжения.",
 			"Можно получить 3 усиливающих магических эффекта.",
 			" ",
@@ -270031,7 +270726,7 @@ tbl = {
 		unidentifiedDisplayName = "Куб усиления Иллюзий",
 		unidentifiedResourceName = "Auto_M_I_Box_A",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Куб, разработанный для усиления доспехов Иллюзий.",
 			"Усиливает доспехи Иллюзий с заточкой +4 и выше до +7.",
 			" ",
@@ -270069,7 +270764,7 @@ tbl = {
 		unidentifiedDisplayName = "Автоматический куб усиления",
 		unidentifiedResourceName = "Auto_M_I_Box_B",
 		unidentifiedDescriptionName = {
-			"Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла.",
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000.",
 			"Куб, разработанный для усиления автоматических доспехов.",
 			"Усиливает автоматические доспехи с заточкой +4 и выше до +7.",
 			" ",
@@ -273429,7 +274124,9 @@ tbl = {
 	[15283] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех священных четок",
 		identifiedResourceName = "Armor_of_Rosary",
 		identifiedDescriptionName = {
@@ -273464,7 +274161,9 @@ tbl = {
 	[15419] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех белого шелка",
 		identifiedResourceName = "Armor_of_White_Thread",
 		identifiedDescriptionName = {
@@ -273497,7 +274196,9 @@ tbl = {
 	[31562] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кукла Зилотус (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -273517,7 +274218,9 @@ tbl = {
 	[31564] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Покров темного рога (Декор)",
 		identifiedResourceName = "C_Variant_Veil",
 		identifiedDescriptionName = {
@@ -273537,7 +274240,9 @@ tbl = {
 	[400044] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа Призрака Котоперы",
 		identifiedResourceName = "Phantom_Of_Masquerade",
 		identifiedDescriptionName = {
@@ -273579,7 +274284,9 @@ tbl = {
 	[400059] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Небесная диадема Скорпиона",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -273621,7 +274328,9 @@ tbl = {
 	[460004] = {
 		unidentifiedDisplayName = "Щит",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Щит Иллюзии [1]",
 		identifiedResourceName = "Illusion_Shield_A",
 		identifiedDescriptionName = {
@@ -273642,7 +274351,9 @@ tbl = {
 	[480107] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Парные мечи охотника (Декор)",
 		identifiedResourceName = "C_Kings_Twin_Sword",
 		identifiedDescriptionName = {
@@ -273813,7 +274524,9 @@ tbl = {
 	[19314] = {
 		unidentifiedDisplayName = "Мантия",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Роскошная мантия",
 		identifiedResourceName = "Royal_Mantle",
 		identifiedDescriptionName = {
@@ -273833,7 +274546,9 @@ tbl = {
 	[19466] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Морская искра (Декор)",
 		identifiedResourceName = "C_Small_Ocean",
 		identifiedDescriptionName = {
@@ -273853,7 +274568,9 @@ tbl = {
 	[20991] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Крылья феи Эдема",
 		identifiedResourceName = "Fairy_Of_Eden",
 		identifiedDescriptionName = {
@@ -273894,7 +274611,9 @@ tbl = {
 	[22138] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сапоги демониста",
 		identifiedResourceName = "Demonist_Shoes",
 		identifiedDescriptionName = {
@@ -273955,7 +274674,9 @@ tbl = {
 	[31696] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шапка акулы (Декор)",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -273975,7 +274696,9 @@ tbl = {
 	[31785] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Уши-плавники (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -273995,7 +274718,9 @@ tbl = {
 	[32222] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Брошь героя",
 		identifiedResourceName = "Brooch_Of_Hero",
 		identifiedDescriptionName = {
@@ -274132,7 +274857,9 @@ tbl = {
 	[400054] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "Large_Sorcerer_Crown",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Церемониальная Корона Великого Мага",
 		identifiedResourceName = "Large_Sorcerer_Crown",
 		identifiedDescriptionName = {
@@ -274174,7 +274901,9 @@ tbl = {
 	[480492] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "C_Alice_Broom",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Метла Алисы (Декор)",
 		identifiedResourceName = "C_Alice_Broom",
 		identifiedDescriptionName = {
@@ -274195,7 +274924,9 @@ tbl = {
 	[520003] = {
 		unidentifiedDisplayName = "Топор",
 		unidentifiedResourceName = "Scythe_Of_Ice_Flame",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Коса Ледяного Пламени",
 		identifiedResourceName = "Scythe_Of_Ice_Flame",
 		identifiedDescriptionName = {
@@ -274232,7 +274963,9 @@ tbl = {
 	[15209] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Мундир Дрейка",
 		identifiedResourceName = "Drake_Coat",
 		identifiedDescriptionName = {
@@ -274261,7 +274994,9 @@ tbl = {
 	[19326] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "Котелок",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Стопка книг",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274296,7 +275031,9 @@ tbl = {
 	[32206] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Рукавицы воина Пронтеры",
 		identifiedResourceName = "Prta_Mil_Glove",
 		identifiedDescriptionName = {
@@ -274322,7 +275059,9 @@ tbl = {
 	[420110] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Камуфляжный шарф",
 		identifiedResourceName = "C_ScarfOfHero_TW",
 		identifiedDescriptionName = {
@@ -274344,7 +275083,9 @@ tbl = {
 	[480207] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сумка странника (Декор)",
 		identifiedResourceName = "C_Traveller_Bag",
 		identifiedDescriptionName = {
@@ -274365,7 +275106,9 @@ tbl = {
 	[480222] = {
 		unidentifiedDisplayName = "Капюшон",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Бумажный зонт (Декор)",
 		identifiedResourceName = "C_J_Umbrella",
 		identifiedDescriptionName = {
@@ -274385,7 +275128,9 @@ tbl = {
 	[480289] = {
 		unidentifiedDisplayName = "Ленточка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Колокол Лунного Света (Декор)",
 		identifiedResourceName = "C_Moonlight_Bell",
 		identifiedDescriptionName = {
@@ -274477,7 +275222,9 @@ tbl = {
 	[550021] = {
 		unidentifiedDisplayName = "Посох",
 		unidentifiedResourceName = "Палка",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Длань Провидения",
 		identifiedResourceName = "Deus_Ex_Machina_JP",
 		identifiedDescriptionName = {
@@ -274592,7 +275339,9 @@ tbl = {
 	[400078] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Овна",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274631,7 +275380,9 @@ tbl = {
 	[400079] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Рыб",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274671,7 +275422,9 @@ tbl = {
 	[400094] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Водолея",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274712,7 +275465,9 @@ tbl = {
 	[400095] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Рака",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274753,7 +275508,9 @@ tbl = {
 	[400098] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Скорпиона",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274794,7 +275551,9 @@ tbl = {
 	[400099] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Тельца",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274835,7 +275594,9 @@ tbl = {
 	[400116] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Стрельца",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274877,7 +275638,9 @@ tbl = {
 	[400117] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Весов",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274918,7 +275681,9 @@ tbl = {
 	[400118] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Девы",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -274959,7 +275724,9 @@ tbl = {
 	[400119] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Льва",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275000,7 +275767,9 @@ tbl = {
 	[400120] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Козерога",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275041,7 +275810,9 @@ tbl = {
 	[400121] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Биокорона Близнецов",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275082,7 +275853,9 @@ tbl = {
 	[400172] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "Котелок",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шапка ати (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275102,7 +275875,9 @@ tbl = {
 	[490243] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Кольцо",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кольцо серебряного когтя",
 		identifiedResourceName = "Ring_of_SilverClaw",
 		identifiedDescriptionName = {
@@ -275339,7 +276114,9 @@ tbl = {
 	[5967] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пляжник галапаго",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -275385,7 +276162,9 @@ tbl = {
 	[18712] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Веер во рту",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275410,7 +276189,9 @@ tbl = {
 	[19535] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "Котелок",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шляпа женьшеня (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275430,7 +276211,9 @@ tbl = {
 	[19886] = {
 		unidentifiedDisplayName = "Очки",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Стильные темные очки (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275450,7 +276233,9 @@ tbl = {
 	[31434] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Тучка (Декор)",
 		identifiedResourceName = "???",
 		identifiedDescriptionName = {
@@ -275470,7 +276255,9 @@ tbl = {
 	[470075] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Калиги",
 		identifiedResourceName = "Peep_Toe_Sandals",
 		identifiedDescriptionName = {
@@ -275564,7 +276351,9 @@ tbl = {
 	[19172] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Ее Святейшество",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275600,7 +276389,9 @@ tbl = {
 	[20925] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Парадный плащ командора",
 		identifiedResourceName = "Commander_manteau_J",
 		identifiedDescriptionName = {
@@ -275641,7 +276432,9 @@ tbl = {
 	[16051] = {
 		unidentifiedDisplayName = "Дубинка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Молот валькирии",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275683,7 +276476,9 @@ tbl = {
 	[32007] = {
 		unidentifiedDisplayName = "Копье",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пожиратель Богов",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275721,7 +276516,9 @@ tbl = {
 	[15430] = {
 		unidentifiedDisplayName = "Мантия",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Дианы",
 		identifiedResourceName = "Grace_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -275762,7 +276559,9 @@ tbl = {
 	[15431] = {
 		unidentifiedDisplayName = "Мантия",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Меркурия",
 		identifiedResourceName = "Grace_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -275814,7 +276613,9 @@ tbl = {
 	[15432] = {
 		unidentifiedDisplayName = "Мантия",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Вакха",
 		identifiedResourceName = "Siege_Robe_2Tier",
 		identifiedDescriptionName = {
@@ -275853,7 +276654,9 @@ tbl = {
 	[15433] = {
 		unidentifiedDisplayName = "Доспех",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех Нептуна",
 		identifiedResourceName = "Grace_Moon_Suit",
 		identifiedDescriptionName = {
@@ -275893,7 +276696,9 @@ tbl = {
 	[15875] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Венец владыки духов (Декор)",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275913,7 +276718,9 @@ tbl = {
 	[20614] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Тень Киеля (Декор)",
 		identifiedResourceName = "C_Kyel_hyre_Ulti_TW",
 		identifiedDescriptionName = {
@@ -275934,7 +276741,9 @@ tbl = {
 	[31609] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "Маска",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Маска аристократа (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275954,7 +276763,9 @@ tbl = {
 	[480070] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Крылья Рагуила",
 		identifiedResourceName = "Wings_Of_Raguel",
 		identifiedDescriptionName = {
@@ -276590,7 +277401,9 @@ tbl = {
 	[19285] = {
 		unidentifiedDisplayName = "Шлем",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шлем Зигфрида",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276624,7 +277437,9 @@ tbl = {
 	[20952] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Шарф наемного убийцы",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -276666,7 +277481,9 @@ tbl = {
 	[28433] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Сияющий синий камень",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -276707,7 +277524,9 @@ tbl = {
 	[400048] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Дар Панагии",
 		identifiedResourceName = "Gift_Of_Panagia",
 		identifiedDescriptionName = {
@@ -276770,7 +277589,9 @@ tbl = {
 	[15407] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Доспех белого рыцаря",
 		identifiedResourceName = "WhiteknightArmor",
 		identifiedDescriptionName = {
@@ -276798,7 +277619,9 @@ tbl = {
 	[19024] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Оперение защиты",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -276840,7 +277663,9 @@ tbl = {
 	[19381] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Защитная накидка",
 		identifiedResourceName = "Protect_cloth",
 		identifiedDescriptionName = {
@@ -276881,7 +277706,9 @@ tbl = {
 	[460057] = {
 		unidentifiedDisplayName = "Щит",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Спента Армаити",
 		identifiedResourceName = "Spenta_Armaiti",
 		identifiedDescriptionName = {
@@ -276911,7 +277738,9 @@ tbl = {
 	[480581] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Пара мечей самурая (Декор)",
 		identifiedResourceName = "C_I_Samurai_Sword",
 		identifiedDescriptionName = {
@@ -277028,7 +277857,9 @@ tbl = {
 	[5975] = {
 		unidentifiedDisplayName = "Шляпа",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Кукла Зилотус",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -277056,7 +277887,9 @@ tbl = {
 	[470391] = {
 		unidentifiedDisplayName = "Обувь",
 		unidentifiedResourceName = "Сандалии",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Туфли ведьмы",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -277092,7 +277925,9 @@ tbl = {
 	[480228] = {
 		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Диа де Муэртос",
 		identifiedResourceName = "Day_of_the_Dead",
 		identifiedDescriptionName = {
@@ -277134,7 +277969,9 @@ tbl = {
 	[490831] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
 		identifiedDisplayName = "Мементо Мори",
 		identifiedResourceName = "Memento_Mori",
 		identifiedDescriptionName = {
@@ -277172,17 +278009,653 @@ tbl = {
 		identifiedDisplayName = "Золотые крылья (Декор)",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
+			"^ff0000Привязано к учетной записи.^000000",
 			"Сияющие золотые крылья - символ избранных!",
 			"^777777—————————————^000000",
 			"Класс: ^777777Декор^000000",
 			"Защита: ^7777770^000000",
-			"Вес: ^77777710^000000",
+			"Вес: ^7777770^000000",
 			"Требуемый уровень: ^7777771^000000",
 			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
 		costume = true
+	},
+	[6903] = {
+		unidentifiedDisplayName = "Королевский Червь",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Королевский Червь",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Большой и красивый червь. Позволяет зачаровывать Маску Хоуда (Декор).",
+			"^777777—————————————^000000",
+			"Доступные зачарования:",
+			"^4A94F7-^000000 <ITEM>Червь Рыцарь<INFO>56810</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Тамплиер<INFO>56811</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Каратель<INFO>56812</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Грешный Червь<INFO>56813</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Темных Искусств<INFO>56814</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Иллюзионист<INFO>56815</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Священный Червь<INFO>56816</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Боевых Искусств<INFO>56817</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Охотника<INFO>56818</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Главной Сцены<INFO>56819</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Механик<INFO>56820</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Мутант<INFO>56821</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Ударный в голову Червь<INFO>56822</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Кошачий Червь<INFO>56823</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Теней<INFO>56824</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Души<INFO>56825</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Червь Суперзвезда<INFO>56826</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Скромный Червь<INFO>56827</INFO></ITEM>",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56810] = {
+		unidentifiedDisplayName = "Червь Рыцарь",
+		unidentifiedResourceName = "Hode_Knight",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Рыцарь",
+		identifiedResourceName = "Hode_Knight",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Рунмейстерами]",
+			"Увеличение урона ^0000FF[Рассекающий ветер]^000000 и ^0000FF[Тысяча копий]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Дыхание дракона]^000000, ^0000FF[Ледяное дыхание]^000000 и ^0000FF[Звуковая волна]^000000 на 100%",
+			"Увеличение урона ^0000FF[Воспламеняющий разлом]^000000 на 10%",
+			"Иммунитет к отталкиванию.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56811] = {
+		unidentifiedDisplayName = "Червь Тамплиер",
+		unidentifiedResourceName = "Hode_Guard",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Тамплиер",
+		identifiedResourceName = "Hode_Guard",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Тамплиерами]",
+			"Увеличение урона ^0000FF[Давление щитом]^000000 и ^0000FF[Проблеск бытия]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Пронзить копьем]^000000, ^0000FF[Нанесение клейма]^000000 и ^0000FF[Гарпун]^000000 на 100%",
+			"Увеличение урона ^0000FF[Сотрясение земли]^000000 и ^0000FF[Разрушающий прорыв]^000000 на 10%",
+			"Точность +1000.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56812] = {
+		unidentifiedDisplayName = "Червь Каратель",
+		unidentifiedResourceName = "Hode_Cross",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Каратель",
+		identifiedResourceName = "Hode_Cross",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Карателями]",
+			"Увеличение урона ^0000FF[Бросок лезвий]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Вихрь лезвий]^000000 на 100%",
+			"Увеличение урона ^0000FF[Сверхсветовой удар]^000000 и ^0000FF[Контрудар]^000000 на 10%",
+			"Перезарядка умения ^0000FF[Защитная иллюзия]^000000 -250 сек.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56813] = {
+		unidentifiedDisplayName = "Грешный Червь",
+		unidentifiedResourceName = "Hode_Wicked",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Грешный Червь",
+		identifiedResourceName = "Hode_Wicked",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Преследователями]",
+			"Увеличение урона ^0000FF[Огненный метеорит]^000000, ^0000FF[Воспламеняющий разлом]^000000 и ^0000FF[Ливень стрел]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Призрачный двойник]^000000 на 100%",
+			"Увеличение урона ^0000FF[Призрачное объятие]^000000 и ^0000FF[Тройной выстрел]^000000 на 10%",
+			"Маг. атака +1000",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56814] = {
+		unidentifiedDisplayName = "Червь Темных Искусств",
+		unidentifiedResourceName = "Hode_Dark",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Темных Искусств",
+		identifiedResourceName = "Hode_Dark",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Чародеями]",
+			"Увеличение урона ^0000FF[Адское пламя]^000000 и ^0000FF[Комета]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Огненный метеорит]^000000, ^0000FF[Ледяные иглы]^000000, ^0000FF[Цепная молния]^000000 и ^0000FF[Оползень]^000000 на 100%",
+			"Увеличение урона ^0000FF[Стихийное разрушение]^000000 и ^0000FF[Призрачная дымка]^000000 на 10%",
+			"Перезарядка умения ^0000FF[Усиление Призраков]^000000 -240 сек.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56815] = {
+		unidentifiedDisplayName = "Червь Иллюзионист",
+		unidentifiedResourceName = "Hode_Conjurer",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Иллюзионист",
+		identifiedResourceName = "Hode_Conjurer",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Элементалистами]",
+			"Увеличение урона ^0000FF[След огня]^000000, ^0000FF[След молнии]^000000 и ^0000FF[Интоксикация]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Смертельный туман]^000000 и ^0000FF[Копье Вератюра]^000000 на 100%",
+			"Увеличение урона ^0000FF[Ударная волна]^000000], ^0000FF[Алмазная пыль]^000000 и ^0000FF[Каменный шип]^000000 на 10%",
+			"Физ. атака +1000",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56816] = {
+		unidentifiedDisplayName = "Священный Червь",
+		unidentifiedResourceName = "Hode_Blessed",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Священный Червь",
+		identifiedResourceName = "Hode_Blessed",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Архиепископами]",
+			"Увеличение урона ^0000FF[Правосудие]^000000 и ^0000FF[Двойной свет]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Магнус Экзорцизмус]^000000 на 100%",
+			"Увеличение урона ^0000FF[Кара]^000000 на 10%",
+			"Эффективность лечащих умений и предметов +100%",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56817] = {
+		unidentifiedDisplayName = "Червь Боевых Искусств",
+		unidentifiedResourceName = "Hode_Material",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Боевых Искусств",
+		identifiedResourceName = "Hode_Material",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Отшельниками]",
+			"Увеличение урона ^0000FF[Удар дракона]^000000, ^0000FF[Павшая империя]^000000 и ^0000FF[Рев льва]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Ментальная молния]^000000, ^0000FF[Небесный вихрь]^000000 и ^0000FF[Летящий кулак]^000000 на 100%",
+			"Увеличение урона ^0000FF[Буйство энергии]^000000 на 10%",
+			"Скорость восстановления HP И SP +5000%",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56818] = {
+		unidentifiedDisplayName = "Червь Охотника",
+		unidentifiedResourceName = "Hode_Huntsman",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Охотника",
+		identifiedResourceName = "Hode_Huntsman",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Рейнджерами]",
+			"Увеличение урона ^0000FF[Осколочная бомба]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Прицельный выстрел]^000000, ^0000FF[Прыжок варга]^000000, ^0000FF[Укус варга]^000000 на 100%",
+			"Увеличение урона ^0000FF[Ливень стрел]^000000 на 10%",
+			"Перезарядка умения ^0000FF[Без ограничений]^000000  -240 сек.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56819] = {
+		unidentifiedDisplayName = "Червь Главной Сцены",
+		unidentifiedResourceName = "Hode_Main",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Главной Сцены",
+		identifiedResourceName = "Hode_Main",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Маэстро/Музами]",
+			"Увеличение урона ^0000FF[Реверберация]^000000 и ^0000FF[Великое эхо]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Акустический шок]^000000 на 100%",
+			"Увеличение урона ^0000FF[Ария поющих стрел]^000000 на 10%",
+			"При использовании ^0000FF[Импровизация]^000000: маг. атака +3000 на 3 секунды",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56820] = {
+		unidentifiedDisplayName = "Червь Механик",
+		unidentifiedResourceName = "Hode_Mechanical",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Механик",
+		identifiedResourceName = "Hode_Mechanical",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Механиками]",
+			"Увеличение урона ^0000FF[Вулкан]^000000, ^0000FF[Огнемет]^000000, ^0000FF[Криогенная пушка]^000000 и ^0000FF[Силовой удар]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Реактивный кулак]^000000, ^0000FF[Вращение топора]^000000 и ^0000FF[Потоки лавы]^000000 на 100%",
+			"Увеличение урона ^0000FF[Бросок топора]^000000 и ^0000FF[Плазменная пушка]^000000 на 10%",
+			"Физ. защита +1000",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56821] = {
+		unidentifiedDisplayName = "Червь Мутант",
+		unidentifiedResourceName = "Hode_Mutated",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Мутант",
+		identifiedResourceName = "Hode_Mutated",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Генетиками]",
+			"Увеличение урона ^0000FF[Ураган телеги]^000000 и ^0000FF[Взрыв спор]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Безумная трава]^000000 на 10%",
+			"Маг. защита +500",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56822] = {
+		unidentifiedDisplayName = "Ударный в голову Червь",
+		unidentifiedResourceName = "Hode_Headshot",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Ударный в голову Червь",
+		identifiedResourceName = "Hode_Headshot",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Мятежниками]",
+			"Увеличение урона ^0000FF[Молот бога]^000000 и ^0000FF[Хвост дракона]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Огненный дождь]^000000 и ^0000FF[Мощный выстрел]^000000 на 100%",
+			"Увеличение урона ^0000FF[Круговой обстрел]^000000 и ^0000FF[Танец огня]^000000 на 10%",
+			"Возможность использовать навык ^0000FF[Без ограничений]^000000 5 ур.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56823] = {
+		unidentifiedDisplayName = "Кошачий Червь",
+		unidentifiedResourceName = "Hode_Cat",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Кошачий Червь",
+		identifiedResourceName = "Hode_Cat",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Призывателями]",
+			"Увеличение урона ^0000FF[Дождь котовника]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Морковная атака лунатика]^000000, ^0000FF[Копье сциндапсуса]^000000 на 100%",
+			"Увеличение урона ^0000FF[Удар пикки]^000000 на 10%",
+			"Макс. HP +10000",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56824] = {
+		unidentifiedDisplayName = "Червь Теней",
+		unidentifiedResourceName = "Hode_Shadow",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Теней",
+		identifiedResourceName = "Hode_Shadow",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Кагеро/Оборо]",
+			"Увеличение урона ^0000FF[Кровавая казнь]^000000 и ^0000FF[Разрыв духовной связи]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Взрывной кунай]^000000 и ^0000FF[Пронзающий смерч]^000000 на 100%",
+			"Увеличение урона ^0000FF[Вихрь лепестков]^000000 и ^0000FF[Пылающие лепестки]^000000 на 10%",
+			"Уворот +1000",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56825] = {
+		unidentifiedDisplayName = "Червь Души",
+		unidentifiedResourceName = "Hode_Soul",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Души",
+		identifiedResourceName = "Hode_Soul",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Жнецами Душ]",
+			"Увеличение урона ^0000FF[Проклятый взрыв]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Эсу]^000000 на 100%",
+			"Увеличение урона ^0000FF[Эспа]^000000 на 10%",
+			"Позволяет использование ^0000FF[Поглощение жизни]^000000 5 ур.",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56826] = {
+		unidentifiedDisplayName = "Червь Суперзвезда",
+		unidentifiedResourceName = "Hode_Super",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Червь Суперзвезда",
+		identifiedResourceName = "Hode_Super",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Звездными Императорами]",
+			"Увеличение урона ^0000FF[Сверкающий удар]^000000 и ^0000FF[Падающая звезда]^000000 на 1000%",
+			"Увеличение урона ^0000FF[Пылающий удар]^000000 и ^0000FF[Солнечный взрыв]^000000 на 100%",
+			"Увеличение урона ^0000FF[Удар молодой луны]^000000 и ^0000FF[Удар полной луны]^000000 на 10%",
+			"При использовании навыка ^0000FF[Космическая стойка]^000000, автоматическое накладывание ^0000FF[Дух гладиатора]^000000 5 ур. на себя",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56827] = {
+		unidentifiedDisplayName = "Скромный Червь",
+		unidentifiedResourceName = "Hode_Humble",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Скромный Червь",
+		identifiedResourceName = "Hode_Humble",
+		identifiedDescriptionName = {
+			"Странный червь, который улучшает Хоуд декоры",
+			"^777777—————————————^000000",
+			"[При использовании Высшими Суперновичками]",
+			"Увеличение всех характеристик на 250",
+			"^ff0000Положительные эффекты предмета действуют в течение события 'Вторжение Хоудов'.^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[19910] = {
+		unidentifiedDisplayName = "Шапка",
+		unidentifiedResourceName = "C_Halloween_Hat",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Хэллоуинская шляпа (Декор)",
+		identifiedResourceName = "C_Halloween_Hat",
+		identifiedDescriptionName = {
+			"Широкополый головной убор, украшенный оранжевым бантом и брошью в виде злобно ухмыляющейся тыквы.",
+			"^ff0000Предмет анимирован.^000000",
+			"^777777—————————————^000000",
+			"Класс: ^777777Декор^000000",
+			"Расположение: ^777777Голова^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1098,
+		costume = true
+	},
+	[400101] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "Котелок",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Врата Преисподней",
+		identifiedResourceName = "GatesofNetherworld",
+		identifiedDescriptionName = {
+			"От тульи до полей она",
+			"Напитана тьмой дополна.",
+			"В ней зреют смерти семена,",
+			"Вселенная обречена...",
+			"^777777—————————————^000000",
+			"^ff0000Предмет анимирован.^000000",
+			"Ловкость +5, Интеллект +5.",
+			" ",
+			"Физ./Маг. урон по врагам всех элементов +10%.",
+			" ",
+			"^264696[При уровне заточки +7 и выше]^000000 дополнительно:",
+			"Физ./Маг. урон по врагам всех элементов +15%, фиксированное время применения всех умений -50%.",
+			" ",
+			"^264696[При уровне заточки +9 и выше]^000000 дополнительно:",
+			"Скорость атаки +15%",
+			"Фиксированное время применения всех умений -20%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^77777712^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777750^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2016,
+		costume = false
+	},
+	[490833] = {
+		unidentifiedDisplayName = "Кольцо падшего серафима",
+		unidentifiedResourceName = "Fallen_Seraphim_ring",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Кольцо падшего серафима",
+		identifiedResourceName = "Fallen_Seraphim_ring",
+		identifiedDescriptionName = {
+			"Потеряв сердце и поддавшись развращению,",
+			"он превратился в падшего ангела и осквернил высшую волю, которую представляет это кольцо.",
+			"^777777—————————————^000000",
+			"Маг. защита +15",
+			"Физ. урон +10%, маг. урон +10%",
+			"Дальний/ближний физ. урон +10%",
+			"Маг. урон всеми элементами +10%",
+			"Вариативное время применения всех умений -10%, задержка после умения -10%",
+			"Скорость атаки +10%",
+			"Игнорирует 20% физ./маг. защиты врагов всех типов",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^77777710^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490834] = {
+		unidentifiedDisplayName = "Ушки дьявола",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Ушки дьявола",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Аксессуар, имитирующий крылья дьявола.",
+			"^777777—————————————^000000",
+			"^264696[За каждые 5 базовых уровней]^000000",
+			"Уворот +1, маг. атака +1, крит. шанс +1",
+			" ",
+			"[Эффекты набора]",
+			"<ITEM>Шкура Вентуса<INFO>2536</INFO></ITEM>",
+			"<ITEM>Ушки дьявола<INFO>490834</INFO></ITEM>",
+			" ",
+			"^264696[При заточке шкуры Вентуса на +7 и выше:]^000000",
+			"Идеальный уворот +20",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777770^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[430016] = {
+		unidentifiedDisplayName = "Головной убор",
+		unidentifiedResourceName = "Головной убор",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Кто-то... за спиной...",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Чувствуя чьё-то присутствие позади себя, я естественным образом ускоряю шаг. Я никогда не должен оглядываться назад...",
+			"^777777—————————————^000000",
+			"^ff0000Предмет анимирован.^000000",
+			"Увеличивает скорость передвижения",
+			"Идеальный уворот +8",
+			" ",
+			"При получении физ. или маг. урона на вас могут быть наложены эффекты ужаса или проклятия.",
+			" ",
+			"При использовании умения ^0000FF[Первая помощь]^000000",
+			"скорость передвижения сильно увеличивается на 20 сек.",
+			"Перезарядка умения ^0000FF[Первая помощь]^000000 +60 сек.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^7777771^000000",
+			"Требуемый уровень: ^77777710^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1091,
+		costume = false
+	},
+	[105716] = {
+		unidentifiedDisplayName = "Дар подземного мира",
+		unidentifiedResourceName = "Kiel_Egg",
+		unidentifiedDescriptionName = {
+			"Это не шкатулка, а какое-то хтоническое чудовище! Кто знает, что обитает в его брюхе?!"
+		},
+		identifiedDisplayName = "Дар подземного мира",
+		identifiedResourceName = "Kiel_Egg",
+		identifiedDescriptionName = {
+			"Это не шкатулка, а какое-то хтоническое чудовище! Кто знает, что обитает в его брюхе?!",
+			"Откройте ларец, чтобы получить один из следующих предметов:",
+			"^777777—————————————^000000",
+			"^4A94F7»^000000 <ITEM>Монета удачи<INFO>56745</INFO></ITEM> ^777777x1600^000000",
+			"^4A94F7»^000000 <ITEM>Кольцо падшего<INFO>490833</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>серафима<INFO>490833</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Купон заточки <INFO>6229</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>оружия +8<INFO>6229</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Купон заточки <INFO>6233</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>брони +8<INFO>6233</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ящик нейтрализатора<INFO>12911</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Благословение кузнеца<INFO>6635</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Очищенный брадиум<INFO>6226</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Очищенный карниум<INFO>6225</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Кристалл забвения<INFO>6320</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Туфли ведьмы<INFO>470391</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ушки дьявола<INFO>490834</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Врата Преисподней<INFO>400101</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Кто-то... за спиной...<INFO>430016</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Хэллоуинская <INFO>19910</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>шляпа (Декор)<INFO>19910</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Монета удачи<INFO>56745</INFO></ITEM> ^777777x50^000000",
+			"^4A94F7»^000000 <ITEM>Ящик с беск. гиг.<INFO>23330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>крылом (1 ч.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Весеннее зелье маны<INFO>100005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дар забытых богов<INFO>105121</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Военный справочник<INFO>12411</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Фруктовая жвачка<INFO>12412</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Обогащенный элуниум<INFO>7619</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Обогащенный оридекон<INFO>7620</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Окровавленная ветка<INFO>12103</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Помадки парагона<INFO>22819</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Бисквиты ловкости<INFO>23225</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты сноровки<INFO>23221</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты интеллекта<INFO>23226</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты удачи<INFO>23222</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты силы<INFO>23223</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Бисквиты живучести<INFO>23224</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7»^000000 <ITEM>Свиток Ассумпцио группы<INFO>14590</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Свиток благословения<INFO>14588</INFO></ITEM> ",
+			"^4A94F7^000000 <ITEM>группы<INFO>14588</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Свиток увеличения <INFO>14589</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>ловкости группы<INFO>14589</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Особая визитка Кафры<INFO>23177</INFO></ITEM> ^777777x6^000000",
+			"^4A94F7»^000000 <ITEM>Пудинг Гуйяк<INFO>12710</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Зелье разума<INFO>100317</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Особое благословение<INFO>23047</INFO></ITEM> ",
+			"^4A94F7^000000 <ITEM>Тора<INFO>23047</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Целебная вода<INFO>12578</INFO></ITEM> ^777777x5^000000",
+			"^4A94F7»^000000 <ITEM>Великолепная сырая рыба<INFO>14524</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7»^000000 <ITEM>Вкусный шиш-кебаб<INFO>12335</INFO></ITEM> ^777777x11^000000",
+			"^4A94F7»^000000 <ITEM>Семя Ходдмимира<INFO>12405</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Большой хинкали<INFO>14522</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7»^000000 <ITEM>Конфета древнего <INFO>12709</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>обещания<INFO>12709</INFO></ITEM> ^777777x21^000000",
+			"^4A94F7»^000000 <ITEM>Сушеные ягоды <INFO>12293</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Иггдрасиля<INFO>12293</INFO></ITEM> ^777777x60^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	}
 }
 
