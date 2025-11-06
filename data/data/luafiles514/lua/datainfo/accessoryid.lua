@@ -2597,5 +2597,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_E_Hode_Head = 2608,
 	ACCESSORY_C_Winner_Yel_Pur_Aura = 2609,
 	ACCESSORY_C_Winner_Red_Black_Aura = 2610,
-	ACCESSORY_C_Exploding_Wave_Sca = 2611
+	ACCESSORY_C_Exploding_Wave_Sca = 2611,
+	ACCESSORY_C_Streamer_Aura = 2612
 }
