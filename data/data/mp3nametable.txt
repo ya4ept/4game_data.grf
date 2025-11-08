@@ -1210,3 +1210,4 @@ ein_dun03.rsw#bgm\\88.mp3#
 //Hode Event
 1@hode.rsw#bgm\\65.mp3#	
 2@hode.rsw#bgm\\65.mp3#	
+3@hode.rsw#bgm\\156.mp3#

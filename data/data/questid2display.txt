@@ -22934,6 +22934,21 @@ Protect Guardian Stones#
 Protect Guardian Stones from monsters and bring 10 wounded adventureres to life.#
 Protect Guardian Stones and bring 10 wounded adventureres to life#
 
+12424#Siege of the other world#SG_FEEL#QUE_NOIMAGE#
+Protect Guardian Stones from monsters and kill 5 Bloody Murderer monsters#
+Kill 5 Bloody Murderer monsters#
+
+12425#Siege of the other world#SG_FEEL#QUE_NOIMAGE#
+Protect Guardian Stones from monsters and kill 5 Dullahan monsters#
+Kill 5 Dullahan monsters#
+
+12426#Siege of the other world#SG_FEEL#QUE_NOIMAGE#
+Protect Guardian Stones from monsters and kill 5 Gibbet monsters#
+Kill 5 Gibbet monsters#
+
+12427#Siege of the other world#SG_FEEL#QUE_NOIMAGE#
+Protect Guardian Stones from monsters and kill 5 Loli Ruri monsters#
+Kill 5 Loli Ruri monsters#
 62838#First round - Archi#SG_FEEL#QUE_NOIMAGE#
 Defeat Archi #
 #

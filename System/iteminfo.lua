@@ -95052,27 +95052,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[6903] = {
-		unidentifiedDisplayName = "King Earthworm",
-		unidentifiedResourceName = "їХБц··АМ",
-		unidentifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"A big and beautiful Earthworm.",
-			"It perfectly suits for bait",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "King Earthworm",
-		identifiedResourceName = "їХБц··АМ",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"A big and beautiful Earthworm.",
-			"It perfectly suits for bait",
-			"Weight: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[6908] = {
 		unidentifiedDisplayName = "ASPD Stone (Garment)",
 		unidentifiedResourceName = "їµИҐАЗБ¶°ў",
@@ -187013,7 +186992,9 @@ tbl = {
 	[19409] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Black Feather",
 		identifiedResourceName = "Black_Feather",
 		identifiedDescriptionName = {
@@ -190687,7 +190668,9 @@ tbl = {
 	[19444] = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Star Eyepatch",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -190722,7 +190705,9 @@ tbl = {
 	[20859] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Phreeoni Wing",
 		identifiedResourceName = "Phreeoni_Wing",
 		identifiedDescriptionName = {
@@ -190752,7 +190737,9 @@ tbl = {
 	[20932] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Old Morroc Shawl",
 		identifiedResourceName = "Old_Moc_Shawl",
 		identifiedDescriptionName = {
@@ -190787,7 +190774,9 @@ tbl = {
 	[22071] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Applause Sandals",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -190827,7 +190816,9 @@ tbl = {
 	[22264] = {
 		unidentifiedDisplayName = "Nameless Swordsman's Boots",
 		unidentifiedResourceName = "Arrogance_P_Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Nameless Swordsman's Boots",
 		identifiedResourceName = "Arrogance_P_Shoes",
 		identifiedDescriptionName = {
@@ -190932,7 +190923,9 @@ tbl = {
 	[500009] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dragonslayer Sword",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -193298,28 +193291,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 272,
-		costume = false
-	},
-	[19910] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "ё¶№э»зАЗёрАЪ",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Fancy Witch's Hat",
-		identifiedResourceName = "ЗТ·ОА©ёрАЪ",
-		identifiedDescriptionName = {
-			"A fashionable witch's hat made specifically for this year's Halloween party.",
-			"^ff0000Animated^000000",
-			"Class: ^777777Costume^000000",
-			"Location: ^777777Headgear (Upper)^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1098,
 		costume = false
 	},
 	[19911] = {
@@ -200819,7 +200790,9 @@ tbl = {
 	[20614] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Shadow of Kiel",
 		identifiedResourceName = "C_Kyel_hyre_Ulti_TW",
 		identifiedDescriptionName = {
@@ -201778,43 +201751,6 @@ tbl = {
 			"Weight: 60",
 			"Required Level: 170",
 			"Job: All Jobs"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[20752] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"Shiny Golden Wings. A symbol of the Elite.",
-			"If base STR is 90+, All State +1, MaxHP,MaxSP +1%, STR + 1 for each refine upgrade.",
-			"If base AGI is 90+, All State +1, MaxHP,MaxSP +1%, AGI + 1 for each refine upgrade.",
-			"If base VIT is 90+, All State +1, MaxHP,MaxSP +1%, VIT + 1 for each refine upgrade.",
-			"If base INT is 90+, All State +1, MaxHP,MaxSP +1%, INT + 1 for each refine upgrade.",
-			"If base DEX is 90+, All State +1, MaxHP,MaxSP +1%, DEX + 1 for each refine upgrade.",
-			"If base LUK is 90+, All State +1, MaxHP,MaxSP +1%, LUK + 1 for each refine upgrade.",
-			"When hunting monsters, EXP and DROP rate increased by 10%.",
-			"Location: ^777777Garment^000000 Defense: ^77777715^000000",
-			"Weight: ^77777710^000000",
-			"Required LV: ^7777771^000000",
-			"Job: ^777777All jobs^000000"
-		},
-		identifiedDisplayName = "Golden Wing",
-		identifiedResourceName = "ИІ±ЭіЇ°і",
-		identifiedDescriptionName = {
-			"Shiny Golden Wings. A symbol of the Elite.",
-			"If base STR is 90+, All State +1, MaxHP,MaxSP +1%, STR + 1 for each refine upgrade.",
-			"If base AGI is 90+, All State +1, MaxHP,MaxSP +1%, AGI + 1 for each refine upgrade.",
-			"If base VIT is 90+, All State +1, MaxHP,MaxSP +1%, VIT + 1 for each refine upgrade.",
-			"If base INT is 90+, All State +1, MaxHP,MaxSP +1%, INT + 1 for each refine upgrade.",
-			"If base DEX is 90+, All State +1, MaxHP,MaxSP +1%, DEX + 1 for each refine upgrade.",
-			"If base LUK is 90+, All State +1, MaxHP,MaxSP +1%, LUK + 1 for each refine upgrade.",
-			"When hunting monsters, EXP and DROP rate increased by 10%.",
-			"Location: ^777777Garment^000000 Defense: ^77777715^000000",
-			"Weight: ^77777710^000000",
-			"Required LV: ^7777771^000000",
-			"Job: ^777777All^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -206353,7 +206289,9 @@ tbl = {
 	[22198] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Traveler's Shoes",
 		identifiedResourceName = "Traveler_Shoes",
 		identifiedDescriptionName = {
@@ -232135,19 +232073,21 @@ tbl = {
 	},
 	[31394] = {
 		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
+		unidentifiedResourceName = "?",
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Costume White Wizard Hat",
-		identifiedResourceName = "Ит»цё¶№э»зАЗёрАЪ",
+		identifiedResourceName = "C_White_Wizardry_Hat",
 		identifiedDescriptionName = {
-			"A must-have hat for all great wizards. It looks a bit weird but will make you look super fresh.",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000",
-			"Requires Level: ^8080801^000000",
-			"Usable By: ^808080All Jobs^000000"
+			"^ff0000Account Bound.^000000",
+			"A must-have hat for all great wizards. It looks a bit weird but will make you look super fresh!",
+			"--------------------",
+			"Class: ^777777Costume^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^777777^000000",
+			"Requires Level: ^7777771^000000",
+			"Jobs: ^777777All Jobs^000000"
 		},
 		slotCount = 0,
 		ClassNum = 283,
@@ -234488,7 +234428,9 @@ tbl = {
 	[31609] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Mask",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Aristocrat's Mask",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -236260,18 +236202,20 @@ tbl = {
 	},
 	[31842] = {
 		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "Дё",
+		unidentifiedResourceName = "Cap",
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
-		identifiedDisplayName = "Amatsu Provost Cap",
-		identifiedResourceName = "Striking_hat",
+		identifiedDisplayName = "Costume Officer's Cap",
+		identifiedResourceName = "C_Striking_hat",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"Cap with the symbols of the Amatsu Military Police.",
 			"Hope you have permission to wear this!",
+			"--------------------",
 			"Class: ^777777Costume^000000",
-			"Location: ^777777Upper^000000",
 			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
@@ -236995,7 +236939,9 @@ tbl = {
 	[32204] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "іЧЕ¬ё®Ѕє",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Immortal's Dog Tag",
 		identifiedResourceName = "Immortal_Dog_Tag",
 		identifiedDescriptionName = {
@@ -244518,7 +244464,6 @@ tbl = {
 		identifiedDisplayName = "Essence of Powerful Soul",
 		identifiedResourceName = "Mightysoul_Essence",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An Essence reportedly made by refining the soul of a powerful demon.",
 			"It's not known who or how such work is possible.",
 			"Perhaps the Silver Hand will find a use for this essence.",
@@ -257444,7 +257389,9 @@ tbl = {
 	[15417] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "»хЅПёрАЪ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Purple Armor",
 		identifiedResourceName = "Armor_of_Purple_Thread",
 		identifiedDescriptionName = {
@@ -257478,7 +257425,9 @@ tbl = {
 	[19274] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Open Air Headset",
 		identifiedResourceName = "OpenAir_Headset",
 		identifiedDescriptionName = {
@@ -257500,7 +257449,9 @@ tbl = {
 	[400002] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Wings of Fortune",
 		identifiedResourceName = "ёЕБцДГєОЅєЕН",
 		identifiedDescriptionName = {
@@ -257563,7 +257514,9 @@ tbl = {
 	[5966] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Kardui Ears",
 		identifiedResourceName = "Д«ёЈµаАМАЗ±Н",
 		identifiedDescriptionName = {
@@ -257585,7 +257538,9 @@ tbl = {
 	[400343] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Kitsune Hat",
 		identifiedResourceName = "C_Fox_Bamboo_Hat",
 		identifiedDescriptionName = {
@@ -257604,7 +257559,9 @@ tbl = {
 	[410194] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "Ѕєё¶АП",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "White Fox Mask",
 		identifiedResourceName = "ї©їмёрАЪ",
 		identifiedDescriptionName = {
@@ -257623,7 +257580,9 @@ tbl = {
 	[420192] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Friendly White Fox",
 		identifiedResourceName = "C_Friendly_White_Fox",
 		identifiedDescriptionName = {
@@ -257644,7 +257603,9 @@ tbl = {
 	[480362] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "White Nine Tail's Tails",
 		identifiedResourceName = "C_Ninetail_Tail_WH",
 		identifiedDescriptionName = {
@@ -257663,7 +257624,9 @@ tbl = {
 	[5963] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Winged Headphones",
 		identifiedResourceName = "іЇ°іЗмµеЖщ",
 		identifiedDescriptionName = {
@@ -257686,7 +257649,9 @@ tbl = {
 	[102751] = {
 		unidentifiedDisplayName = "Reynard's Treasure",
 		unidentifiedResourceName = " ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Reynard's Treasure",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
@@ -257750,7 +257715,9 @@ tbl = {
 	[56757] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat1",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Rookie Hat",
 		identifiedResourceName = "NY_2024_Hat1",
 		identifiedDescriptionName = {
@@ -257768,7 +257735,9 @@ tbl = {
 	[56758] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat2",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Student Hat",
 		identifiedResourceName = "NY_2024_Hat2",
 		identifiedDescriptionName = {
@@ -257786,7 +257755,9 @@ tbl = {
 	[56759] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat3",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Expert Hat",
 		identifiedResourceName = "NY_2024_Hat3",
 		identifiedDescriptionName = {
@@ -257804,7 +257775,9 @@ tbl = {
 	[56760] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat4",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Hat of an Adept",
 		identifiedResourceName = "NY_2024_Hat4",
 		identifiedDescriptionName = {
@@ -257822,7 +257795,9 @@ tbl = {
 	[56761] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat5",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Hat of a Professional",
 		identifiedResourceName = "NY_2024_Hat5",
 		identifiedDescriptionName = {
@@ -257840,7 +257815,9 @@ tbl = {
 	[56762] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat6",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Master Hat",
 		identifiedResourceName = "NY_2024_Hat6",
 		identifiedDescriptionName = {
@@ -257984,7 +257961,9 @@ tbl = {
 	[460067] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shield of Raging Chaos",
 		identifiedResourceName = "ИҐµ·АЗ№жЖР",
 		identifiedDescriptionName = {
@@ -258007,7 +257986,9 @@ tbl = {
 	[490487] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Great Shinobi Sash",
 		identifiedResourceName = "»у±ЮґСАЪАЗЗгё®¶м",
 		identifiedDescriptionName = {
@@ -258034,7 +258015,9 @@ tbl = {
 	[410080] = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "±Ы·ЎЅє",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Deep Blue Sunglasses",
 		identifiedResourceName = "Ерё¶АЗ±Ы·ЎЅє",
 		identifiedDescriptionName = {
@@ -258055,7 +258038,9 @@ tbl = {
 	[420191] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Snow Rabbit Wig",
 		identifiedResourceName = "C_Snow_Rabbit_Wig",
 		identifiedDescriptionName = {
@@ -258074,7 +258059,9 @@ tbl = {
 	[102802] = {
 		unidentifiedDisplayName = "Christmas Carol Treasure",
 		unidentifiedResourceName = "Xmas_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Christmas Carol Treasure",
 		identifiedResourceName = "Xmas_Scroll",
 		identifiedDescriptionName = {
@@ -258138,7 +258125,9 @@ tbl = {
 	[56768] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "NY_2024_Hat7",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Year's Hat of an Erudite",
 		identifiedResourceName = "NY_2024_Hat7",
 		identifiedDescriptionName = {
@@ -258156,7 +258145,9 @@ tbl = {
 	[20579] = {
 		unidentifiedDisplayName = "Raphael's Wings",
 		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Raphael's Wings",
 		identifiedResourceName = "Wings_Of_Raphael",
 		identifiedDescriptionName = {
@@ -258175,7 +258166,9 @@ tbl = {
 	[20619] = {
 		unidentifiedDisplayName = "Carnival Wings",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Carnival Wings",
 		identifiedResourceName = "C_Phaya_Ploeng_Suriyan",
 		identifiedDescriptionName = {
@@ -258194,7 +258187,9 @@ tbl = {
 	[480117] = {
 		unidentifiedDisplayName = "Guitar fish",
 		unidentifiedResourceName = "C_Elec_Guitar_Of_Phen",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guitar fish",
 		identifiedResourceName = "C_Elec_Guitar_Of_Phen",
 		identifiedDescriptionName = {
@@ -258214,7 +258209,9 @@ tbl = {
 	[102898] = {
 		unidentifiedDisplayName = "Strawberry Treasure",
 		unidentifiedResourceName = "±Чё°ЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Strawberry Treasure",
 		identifiedResourceName = "±Чё°ЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -258278,7 +258275,9 @@ tbl = {
 	[5985] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Mask",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noble Mask",
 		identifiedResourceName = "±НБ·АЗ°Ўёй",
 		identifiedDescriptionName = {
@@ -258303,7 +258302,9 @@ tbl = {
 	[31315] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "C_Stall_Of_Angel",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume: Stall Of Angel",
 		identifiedResourceName = "C_Stall_Of_Angel",
 		identifiedDescriptionName = {
@@ -258320,7 +258321,9 @@ tbl = {
 	[28982] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Angel Mirror",
 		identifiedResourceName = "Jirant_Mirror",
 		identifiedDescriptionName = {
@@ -258355,7 +258358,9 @@ tbl = {
 	[102999] = {
 		unidentifiedDisplayName = "Sky Army Treasure",
 		unidentifiedResourceName = "±вµµЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Sky Army Treasure",
 		identifiedResourceName = "±вµµЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -258537,7 +258542,9 @@ tbl = {
 	[23818] = {
 		unidentifiedDisplayName = "Big Orc Hero Helm Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Big Orc Hero Helm Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258563,7 +258570,9 @@ tbl = {
 	[23819] = {
 		unidentifiedDisplayName = "Red Rose Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Red Rose Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258589,7 +258598,9 @@ tbl = {
 	[23820] = {
 		unidentifiedDisplayName = "Grand Peco Headdress Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grand Peco Headdress Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258615,7 +258626,9 @@ tbl = {
 	[23821] = {
 		unidentifiedDisplayName = "Fox's Hood Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fox's Hood Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258643,7 +258656,9 @@ tbl = {
 	[23822] = {
 		unidentifiedDisplayName = "Purgatory Wing Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Purgatory Wing Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258671,7 +258686,9 @@ tbl = {
 	[23823] = {
 		unidentifiedDisplayName = "Loli Ruri's cat scroll",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Loli Ruri's cat scroll",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258699,7 +258716,9 @@ tbl = {
 	[23824] = {
 		unidentifiedDisplayName = "Glorious Soccer Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Glorious Soccer Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258725,7 +258744,9 @@ tbl = {
 	[23825] = {
 		unidentifiedDisplayName = "Deadman's Concert Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Deadman's Concert Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258752,7 +258773,9 @@ tbl = {
 	[23826] = {
 		unidentifiedDisplayName = "Helm of the Stray Wolves' King Recepie",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Helm of the Stray Wolves' King Recepie",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258781,7 +258804,9 @@ tbl = {
 	[23827] = {
 		unidentifiedDisplayName = "Shadow Substance Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Substance Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -258803,7 +258828,9 @@ tbl = {
 	[23828] = {
 		unidentifiedDisplayName = "Shadow Elegance Scroll",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Elegance Scroll",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -258825,7 +258852,9 @@ tbl = {
 	[23829] = {
 		unidentifiedDisplayName = "Shadow Strain Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Strain Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -258847,7 +258876,9 @@ tbl = {
 	[23830] = {
 		unidentifiedDisplayName = "Shadow Recovery Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Recovery Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -258869,7 +258900,9 @@ tbl = {
 	[23831] = {
 		unidentifiedDisplayName = "Shadow Heal Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Heal Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -258891,7 +258924,9 @@ tbl = {
 	[23832] = {
 		unidentifiedDisplayName = "Amistr Cap Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Amistr Cap Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258921,7 +258956,9 @@ tbl = {
 	[23833] = {
 		unidentifiedDisplayName = "Tiger King Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Tiger King Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258948,7 +258985,9 @@ tbl = {
 	[23834] = {
 		unidentifiedDisplayName = "Zaha Doll Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Zaha Doll Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258977,7 +259016,9 @@ tbl = {
 	[23835] = {
 		unidentifiedDisplayName = "Candy Bag Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Candy Bag Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -258999,7 +259040,9 @@ tbl = {
 	[23836] = {
 		unidentifiedDisplayName = "Goldfish Headgear Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Golden Fish Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259027,7 +259070,9 @@ tbl = {
 	[23837] = {
 		unidentifiedDisplayName = "Survival Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Survival Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259049,7 +259094,9 @@ tbl = {
 	[23838] = {
 		unidentifiedDisplayName = "Toy Syringe Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Toy Syringe Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259074,7 +259121,9 @@ tbl = {
 	[23839] = {
 		unidentifiedDisplayName = "Blue Ribbon Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Blue Ribbon Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259104,7 +259153,9 @@ tbl = {
 	[23840] = {
 		unidentifiedDisplayName = "Magic Neuromodulator Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Magic Neuromodulator Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259129,7 +259180,9 @@ tbl = {
 	[23841] = {
 		unidentifiedDisplayName = "Rosario's Necklace Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rosario's Necklace Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259156,7 +259209,9 @@ tbl = {
 	[23842] = {
 		unidentifiedDisplayName = "Spirit Crown Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Spirit Crown Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259185,7 +259240,9 @@ tbl = {
 	[23843] = {
 		unidentifiedDisplayName = "Guardsman Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardsman Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259214,7 +259271,9 @@ tbl = {
 	[23844] = {
 		unidentifiedDisplayName = "Thief Bandana Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Thief Bandana Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259244,7 +259303,9 @@ tbl = {
 	[23845] = {
 		unidentifiedDisplayName = "Fallen Angel's Blessing Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fallen Angel's Blessing Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259271,7 +259332,9 @@ tbl = {
 	[23846] = {
 		unidentifiedDisplayName = "Rabbit Magic Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rabbit Magic Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259298,7 +259361,9 @@ tbl = {
 	[23847] = {
 		unidentifiedDisplayName = "Anubis Helm Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Anubis Helm Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259327,7 +259392,9 @@ tbl = {
 	[23848] = {
 		unidentifiedDisplayName = "Imp's Headgear Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imp's Headgear Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259355,7 +259422,9 @@ tbl = {
 	[23849] = {
 		unidentifiedDisplayName = "Red Marching Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Red Marching Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259382,7 +259451,9 @@ tbl = {
 	[23850] = {
 		unidentifiedDisplayName = "Mask of Ifrit Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mask of Ifrit Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259411,7 +259482,9 @@ tbl = {
 	[23851] = {
 		unidentifiedDisplayName = "Morroc's Minion Doll Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Morroc's Minion Doll Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259439,7 +259512,9 @@ tbl = {
 	[23852] = {
 		unidentifiedDisplayName = "Samambaia Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Samambaia Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259468,7 +259543,9 @@ tbl = {
 	[23853] = {
 		unidentifiedDisplayName = "Chick Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Chick Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259496,7 +259573,9 @@ tbl = {
 	[23854] = {
 		unidentifiedDisplayName = "Shadow Item Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Item Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259516,7 +259595,9 @@ tbl = {
 	[23855] = {
 		unidentifiedDisplayName = "Shadow Spell Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Spell Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259538,7 +259619,9 @@ tbl = {
 	[23856] = {
 		unidentifiedDisplayName = "Different Shadow Items Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Different Shadow Items Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259561,7 +259644,9 @@ tbl = {
 	[23857] = {
 		unidentifiedDisplayName = "Shadow Item Race Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Item Race Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259583,7 +259668,9 @@ tbl = {
 	[23858] = {
 		unidentifiedDisplayName = "Shadow Resistance Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Resistance Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259605,7 +259692,9 @@ tbl = {
 	[23859] = {
 		unidentifiedDisplayName = "Shadow Enhancing Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Enhancing Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259627,7 +259716,9 @@ tbl = {
 	[23860] = {
 		unidentifiedDisplayName = "Shadow Strength Item Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Strength Item Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259649,7 +259740,9 @@ tbl = {
 	[23861] = {
 		unidentifiedDisplayName = "Shadow Magic Power Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Magic Power Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259672,7 +259765,9 @@ tbl = {
 	[23862] = {
 		unidentifiedDisplayName = "Shadow Experience Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Experience Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259694,7 +259789,9 @@ tbl = {
 	[23863] = {
 		unidentifiedDisplayName = "Mad Bunny Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mad Bunny Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259716,7 +259813,9 @@ tbl = {
 	[23864] = {
 		unidentifiedDisplayName = "Archangel Wing Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Archangel Wing Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259740,7 +259839,9 @@ tbl = {
 	[23865] = {
 		unidentifiedDisplayName = "Smokie's Head Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Smokie's Head Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259776,7 +259877,9 @@ tbl = {
 	[23866] = {
 		unidentifiedDisplayName = "Ears of Ifrit Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ears of Ifrit Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259805,7 +259908,9 @@ tbl = {
 	[23867] = {
 		unidentifiedDisplayName = "Bandeau of Lovers Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bandeau of Lovers Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259832,7 +259937,9 @@ tbl = {
 	[23868] = {
 		unidentifiedDisplayName = "Sigrun's Wings Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Sigrun's Wings Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259861,7 +259968,9 @@ tbl = {
 	[23869] = {
 		unidentifiedDisplayName = "Aristocat's Headband Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Aristocat's Headband Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259890,7 +259999,9 @@ tbl = {
 	[23870] = {
 		unidentifiedDisplayName = "Aristocrat's Mask Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Aristocrat's Mask Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -259921,7 +260032,9 @@ tbl = {
 	[23871] = {
 		unidentifiedDisplayName = "Shadow Gemstone Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Gemstone Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259943,7 +260056,9 @@ tbl = {
 	[23872] = {
 		unidentifiedDisplayName = "Shadow Squire Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Squire Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259966,7 +260081,9 @@ tbl = {
 	[23873] = {
 		unidentifiedDisplayName = "Shadow Hasty Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Hasty Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -259988,7 +260105,9 @@ tbl = {
 	[23874] = {
 		unidentifiedDisplayName = "Executioner's Shadow Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Executioner's Shadow Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260010,7 +260129,9 @@ tbl = {
 	[23875] = {
 		unidentifiedDisplayName = "Mortal Strike Shadow Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mortal Strike Shadow Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260032,7 +260153,9 @@ tbl = {
 	[23876] = {
 		unidentifiedDisplayName = "Fallen Angel Wings Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fallen Angel Wings Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260063,7 +260186,9 @@ tbl = {
 	[23877] = {
 		unidentifiedDisplayName = "Bravery Bag Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bravery Bag Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260095,7 +260220,9 @@ tbl = {
 	[23879] = {
 		unidentifiedDisplayName = "Diabolic Halo Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Diabolic Halo Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260130,7 +260257,9 @@ tbl = {
 	[23880] = {
 		unidentifiedDisplayName = "New Wave Sunglasses Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "New Wave Sunglasses Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260156,7 +260285,9 @@ tbl = {
 	[23881] = {
 		unidentifiedDisplayName = "Faceworm's Breath Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Faceworm's Breath Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260189,7 +260320,9 @@ tbl = {
 	[23882] = {
 		unidentifiedDisplayName = "Judge Cap Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Judge Cap Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260221,7 +260354,9 @@ tbl = {
 	[23883] = {
 		unidentifiedDisplayName = "Dog Cap Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dog Cap Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260255,7 +260390,9 @@ tbl = {
 	[23884] = {
 		unidentifiedDisplayName = "Fancy Plumed Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fancy Plumed Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260290,7 +260427,9 @@ tbl = {
 	[23885] = {
 		unidentifiedDisplayName = "Amistr Hat Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Amistr Hat Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260323,7 +260462,9 @@ tbl = {
 	[23886] = {
 		unidentifiedDisplayName = "General's Helmet Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "General's Helmet Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260356,7 +260497,9 @@ tbl = {
 	[23887] = {
 		unidentifiedDisplayName = "Moon Knight's Shield Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Moon Knight's Shield Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260390,7 +260533,9 @@ tbl = {
 	[23888] = {
 		unidentifiedDisplayName = "Shadow Armor of Impaling Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Armor of Impaling Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260412,7 +260557,9 @@ tbl = {
 	[23889] = {
 		unidentifiedDisplayName = "Hurricane of Shadows Scroll",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Hurricane of Shadows Scroll",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260434,7 +260581,9 @@ tbl = {
 	[23890] = {
 		unidentifiedDisplayName = "Lightning of Shadows Scroll",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Lightning of Shadows Scroll",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260456,7 +260605,9 @@ tbl = {
 	[23891] = {
 		unidentifiedDisplayName = "Shadow Reset Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Reset Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260478,7 +260629,9 @@ tbl = {
 	[23892] = {
 		unidentifiedDisplayName = "Shadow Strength and Spirit Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shadow Strength and Spirit Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260500,7 +260653,9 @@ tbl = {
 	[23893] = {
 		unidentifiedDisplayName = "Increased Strength Recipe",
 		unidentifiedResourceName = "Bs_Shadow_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Increased Strength Recipe",
 		identifiedResourceName = "Bs_Shadow_M_Scroll",
 		identifiedDescriptionName = {
@@ -260522,7 +260677,9 @@ tbl = {
 	[23894] = {
 		unidentifiedDisplayName = "Black Wickebine Ears Recipe",
 		unidentifiedResourceName = "Bs_Item_M_Scroll",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Black Wickebine Ears Recipe",
 		identifiedResourceName = "Bs_Item_M_Scroll",
 		identifiedDescriptionName = {
@@ -260550,7 +260707,9 @@ tbl = {
 	[28387] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Pendant of the Priest",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -260750,7 +260909,9 @@ tbl = {
 	[19439] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "White Fire Aura",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -260775,7 +260936,9 @@ tbl = {
 	[2055] = {
 		unidentifiedDisplayName = "Two-handed Staff",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Staff of Miracle",
 		identifiedResourceName = "Staff_Of_Miracle",
 		identifiedDescriptionName = {
@@ -260800,7 +260963,9 @@ tbl = {
 	[2056] = {
 		unidentifiedDisplayName = "Two-handed Staff",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Gravitation Staff",
 		identifiedResourceName = "Gravitation Staff",
 		identifiedDescriptionName = {
@@ -260824,7 +260989,9 @@ tbl = {
 	[2057] = {
 		unidentifiedDisplayName = "Two-handed Staff",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Adorar Staff",
 		identifiedResourceName = "Adorar Staff",
 		identifiedDescriptionName = {
@@ -260849,7 +261016,9 @@ tbl = {
 	[21051] = {
 		unidentifiedDisplayName = "Two-handed Sword",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Volar",
 		identifiedResourceName = "Volar",
 		identifiedDescriptionName = {
@@ -260872,7 +261041,9 @@ tbl = {
 	[21052] = {
 		unidentifiedDisplayName = "Two-handed Sword",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Vernan",
 		identifiedResourceName = "Vernan",
 		identifiedDescriptionName = {
@@ -260895,7 +261066,9 @@ tbl = {
 	[28042] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Reaper's Cross",
 		identifiedResourceName = "Reaper_Cross",
 		identifiedDescriptionName = {
@@ -260918,7 +261091,9 @@ tbl = {
 	[28044] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Agudo Filo",
 		identifiedResourceName = "Local02_Katar",
 		identifiedDescriptionName = {
@@ -260941,7 +261116,9 @@ tbl = {
 	[28138] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Maxi Spanner",
 		identifiedResourceName = "Maxi_Spanner",
 		identifiedDescriptionName = {
@@ -260964,7 +261141,9 @@ tbl = {
 	[18184] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rapid Fire",
 		identifiedResourceName = "Rapid_Fire_C_Bow",
 		identifiedDescriptionName = {
@@ -260987,7 +261166,9 @@ tbl = {
 	[18185] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Sharp Star Bow",
 		identifiedResourceName = "Sharp_Star_Bow",
 		identifiedDescriptionName = {
@@ -261010,7 +261191,9 @@ tbl = {
 	[18186] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Aiming Bow",
 		identifiedResourceName = "Well-aimed bow",
 		identifiedDescriptionName = {
@@ -261033,7 +261216,9 @@ tbl = {
 	[18187] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Falken Shooter",
 		identifiedResourceName = "Falken_Shooter",
 		identifiedDescriptionName = {
@@ -261056,7 +261241,9 @@ tbl = {
 	[18188] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Wind Gale",
 		identifiedResourceName = "Wind_Gale",
 		identifiedDescriptionName = {
@@ -261465,7 +261652,9 @@ tbl = {
 	[1333] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Golden Wrench",
 		identifiedResourceName = "Golden_Wrench",
 		identifiedDescriptionName = {
@@ -261488,7 +261677,9 @@ tbl = {
 	[1865] = {
 		unidentifiedDisplayName = "Knuckle",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Combo Fists",
 		identifiedResourceName = "Combo_Fist",
 		identifiedDescriptionName = {
@@ -261511,7 +261702,9 @@ tbl = {
 	[1866] = {
 		unidentifiedDisplayName = "Knuckle",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Asura Bandage",
 		identifiedResourceName = "Asura_Bandage",
 		identifiedDescriptionName = {
@@ -261534,7 +261727,9 @@ tbl = {
 	[16092] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Engine Pilebunker",
 		identifiedResourceName = "Engine_Pilebuncker",
 		identifiedDescriptionName = {
@@ -261558,7 +261753,9 @@ tbl = {
 	[16093] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Coolant Injection",
 		identifiedResourceName = "Coolant_Injection",
 		identifiedDescriptionName = {
@@ -261581,7 +261778,9 @@ tbl = {
 	[16094] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Gene Rod",
 		identifiedResourceName = "Gene_Rod",
 		identifiedDescriptionName = {
@@ -261604,7 +261803,9 @@ tbl = {
 	[16095] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Lucis Flail",
 		identifiedResourceName = "Lucis_Flail",
 		identifiedDescriptionName = {
@@ -261628,7 +261829,9 @@ tbl = {
 	[16096] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bright Mace",
 		identifiedResourceName = "Bright_Mace",
 		identifiedDescriptionName = {
@@ -261651,7 +261854,9 @@ tbl = {
 	[26158] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "Staff",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Crimson Rose Stick",
 		identifiedResourceName = "Crimson Rose Stick",
 		identifiedDescriptionName = {
@@ -261675,7 +261880,9 @@ tbl = {
 	[26159] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "Staff",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Psychic Spear Rod",
 		identifiedResourceName = "Psychic_Spear_Rod",
 		identifiedDescriptionName = {
@@ -261699,7 +261906,9 @@ tbl = {
 	[26160] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "Staff",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dust Grave",
 		identifiedResourceName = "Dust_Grave",
 		identifiedDescriptionName = {
@@ -261723,7 +261932,9 @@ tbl = {
 	[26161] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "Staff",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ponitendtia",
 		identifiedResourceName = "Ponitendtia",
 		identifiedDescriptionName = {
@@ -261747,7 +261958,9 @@ tbl = {
 	[26212] = {
 		unidentifiedDisplayName = "Lariat Whip",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Heart Whip",
 		identifiedResourceName = "Heart_Whip",
 		identifiedDescriptionName = {
@@ -261770,7 +261983,9 @@ tbl = {
 	[26213] = {
 		unidentifiedDisplayName = "Lariat Whip",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Scarlet Ribbon",
 		identifiedResourceName = "Scarlet_Ribbon",
 		identifiedDescriptionName = {
@@ -261792,7 +262007,9 @@ tbl = {
 	[28633] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Boltigin",
 		identifiedResourceName = "Boltigin",
 		identifiedDescriptionName = {
@@ -261815,7 +262032,9 @@ tbl = {
 	[28765] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Judgement Slasher",
 		identifiedResourceName = "Judgement_Slasher",
 		identifiedDescriptionName = {
@@ -261841,7 +262060,9 @@ tbl = {
 	[28766] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Repent Slasher",
 		identifiedResourceName = "Repent_Slasher",
 		identifiedDescriptionName = {
@@ -261861,7 +262082,9 @@ tbl = {
 	[28767] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Jack The Knife",
 		identifiedResourceName = "Jack The Knife",
 		identifiedDescriptionName = {
@@ -261885,7 +262108,9 @@ tbl = {
 	[28768] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Platinum Dagger",
 		identifiedResourceName = "Platinum_Dagger",
 		identifiedDescriptionName = {
@@ -261908,7 +262133,9 @@ tbl = {
 	[32023] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Argen Blanco",
 		identifiedResourceName = "Argen_Blanco",
 		identifiedDescriptionName = {
@@ -261931,7 +262158,9 @@ tbl = {
 	[32024] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Harve",
 		identifiedResourceName = "Harve",
 		identifiedDescriptionName = {
@@ -261954,7 +262183,9 @@ tbl = {
 	[32025] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fortrage",
 		identifiedResourceName = "Fortrage",
 		identifiedDescriptionName = {
@@ -261977,7 +262208,9 @@ tbl = {
 	[32107] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Black Circle",
 		identifiedResourceName = "Black_Circle",
 		identifiedDescriptionName = {
@@ -262001,7 +262234,9 @@ tbl = {
 	[32108] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Antique Cello",
 		identifiedResourceName = "Antique_Cello",
 		identifiedDescriptionName = {
@@ -262025,7 +262260,9 @@ tbl = {
 	[32350] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Farthezan",
 		identifiedResourceName = "Farthezan",
 		identifiedDescriptionName = {
@@ -262049,7 +262286,9 @@ tbl = {
 	[32351] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Estal",
 		identifiedResourceName = "Estal",
 		identifiedDescriptionName = {
@@ -262072,7 +262311,9 @@ tbl = {
 	[15388] = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Uniform",
 		identifiedResourceName = "Schmitz's Suits",
 		identifiedDescriptionName = {
@@ -262099,7 +262340,9 @@ tbl = {
 	[15389] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Garment",
 		identifiedResourceName = "Schmitz's Garment",
 		identifiedDescriptionName = {
@@ -262120,7 +262363,9 @@ tbl = {
 	[32228] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Strength Emblem",
 		identifiedResourceName = "Schmitz's Emblem",
 		identifiedDescriptionName = {
@@ -262142,7 +262387,9 @@ tbl = {
 	[32229] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Intelligence Emblem",
 		identifiedResourceName = "Schmitz's Emblem",
 		identifiedDescriptionName = {
@@ -262164,7 +262411,9 @@ tbl = {
 	[32230] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Luck Emblem",
 		identifiedResourceName = "Schmitz's Emblem",
 		identifiedDescriptionName = {
@@ -262186,7 +262435,9 @@ tbl = {
 	[32231] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Vitality Emblem",
 		identifiedResourceName = "Schmitz's Emblem",
 		identifiedDescriptionName = {
@@ -262208,7 +262459,9 @@ tbl = {
 	[32232] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Agility Emblem",
 		identifiedResourceName = "Schmitz's Emblem",
 		identifiedDescriptionName = {
@@ -262230,7 +262483,9 @@ tbl = {
 	[32233] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "King Schmitz's Dexterity Emblem",
 		identifiedResourceName = "Schmitz's Emblem",
 		identifiedDescriptionName = {
@@ -262383,7 +262638,9 @@ tbl = {
 	[31631] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Drooping Schmitz",
 		identifiedResourceName = "Drooping Schmitz",
 		identifiedDescriptionName = {
@@ -262401,7 +262658,9 @@ tbl = {
 	[31632] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Drooping Oscar",
 		identifiedResourceName = "Drooping Oscar",
 		identifiedDescriptionName = {
@@ -262420,7 +262679,9 @@ tbl = {
 	[31633] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Drooping Heinrich",
 		identifiedResourceName = "Drooping Heinrich",
 		identifiedDescriptionName = {
@@ -262439,7 +262700,9 @@ tbl = {
 	[19428] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Headgear",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Morpheus's Bandana",
 		identifiedResourceName = "Morpheus's Bandana",
 		identifiedDescriptionName = {
@@ -262470,7 +262733,9 @@ tbl = {
 	[20948] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Morpheus's Shawl",
 		identifiedResourceName = "Morpheus's Shawl",
 		identifiedDescriptionName = {
@@ -262491,7 +262756,9 @@ tbl = {
 	[32238] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Morpheus's Ring",
 		identifiedResourceName = "Morpheus's Ring",
 		identifiedDescriptionName = {
@@ -262513,7 +262780,9 @@ tbl = {
 	[32239] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Earrings",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Morpheus's Bracelet",
 		identifiedResourceName = "Morpheus's Bracelet",
 		identifiedDescriptionName = {
@@ -262535,7 +262804,9 @@ tbl = {
 	[21050] = {
 		unidentifiedDisplayName = "Two-handed Sword",
 		unidentifiedResourceName = "Murderer",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Tae Goo Lyeon",
 		identifiedResourceName = "Tae Goo Lyeon",
 		identifiedDescriptionName = {
@@ -263064,7 +263335,9 @@ tbl = {
 	[28254] = {
 		unidentifiedDisplayName = "Gatling Gun",
 		unidentifiedResourceName = "Butcher_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Butcher",
 		identifiedResourceName = "Butcher_IL",
 		identifiedDescriptionName = {
@@ -263095,7 +263368,9 @@ tbl = {
 	[32301] = {
 		unidentifiedDisplayName = "Revolver",
 		unidentifiedResourceName = "Gold_Lux_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Gold Revolver",
 		identifiedResourceName = "Gold_Lux_IL",
 		identifiedDescriptionName = {
@@ -263124,7 +263399,9 @@ tbl = {
 	[28762] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "Bazerald_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Bazerald",
 		identifiedResourceName = "Bazerald_IL",
 		identifiedDescriptionName = {
@@ -263153,7 +263430,9 @@ tbl = {
 	[19366] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Goibne_Helmet_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Goibne's Helm",
 		identifiedResourceName = "Goibne_Helmet_IL",
 		identifiedDescriptionName = {
@@ -263181,7 +263460,9 @@ tbl = {
 	[15348] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Goibne_Armor_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Goibne's Armor",
 		identifiedResourceName = "Goibne_Armor_IL",
 		identifiedDescriptionName = {
@@ -263202,7 +263483,9 @@ tbl = {
 	[22192] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Goibne_Boots_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Goibne's Greaves",
 		identifiedResourceName = "Goibne_Boots_IL",
 		identifiedDescriptionName = {
@@ -263224,7 +263507,9 @@ tbl = {
 	[20923] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "Goibne_Shoulder_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Goibne's Spaulders",
 		identifiedResourceName = "Goibne_Shoulder_IL",
 		identifiedDescriptionName = {
@@ -263245,7 +263530,9 @@ tbl = {
 	[18174] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "Hunter_Bow_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Hunter Bow",
 		identifiedResourceName = "Hunter_Bow_IL",
 		identifiedDescriptionName = {
@@ -263692,7 +263979,9 @@ tbl = {
 	[28626] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "Tablet_IL",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Tablet",
 		identifiedResourceName = "Tablet_IL",
 		identifiedDescriptionName = {
@@ -263720,7 +264009,9 @@ tbl = {
 	[5796] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cheer Scarf",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -263751,7 +264042,9 @@ tbl = {
 	[19033] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Accessories_Of_Goddess",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ancient Deco from Crack",
 		identifiedResourceName = "Accessories_Of_Goddess",
 		identifiedDescriptionName = {
@@ -263768,7 +264061,9 @@ tbl = {
 	[15141] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor_Of_Goddess",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ancient Armor from Crack",
 		identifiedResourceName = "Armor_Of_Goddess",
 		identifiedDescriptionName = {
@@ -263793,7 +264088,9 @@ tbl = {
 	[28105] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "Axe_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Axe of Infinity",
 		identifiedResourceName = "Axe_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263811,7 +264108,9 @@ tbl = {
 	[21014] = {
 		unidentifiedDisplayName = "Two-handed Sword",
 		unidentifiedResourceName = "D_Sword_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Two-handed Sword of Infinity",
 		identifiedResourceName = "D_Sword_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263830,7 +264129,9 @@ tbl = {
 	[2024] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "D_Staff_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Two-handed Staff of Infinity",
 		identifiedResourceName = "D_Staff_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263849,7 +264150,9 @@ tbl = {
 	[13323] = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "Huuma_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shuriken of Infinity",
 		identifiedResourceName = "Huuma_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263868,7 +264171,9 @@ tbl = {
 	[18128] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "Bow_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bow of Infinity",
 		identifiedResourceName = "Bow_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263901,7 +264206,9 @@ tbl = {
 	[13126] = {
 		unidentifiedDisplayName = "Revolver",
 		unidentifiedResourceName = "Gun_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revolver of Infinity",
 		identifiedResourceName = "Gun_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263918,7 +264225,9 @@ tbl = {
 	[16038] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "Mace_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Club of Infinity",
 		identifiedResourceName = "Mace_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263935,7 +264244,9 @@ tbl = {
 	[28703] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "Dagger_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dagger of Infinity",
 		identifiedResourceName = "Dagger_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263953,7 +264264,9 @@ tbl = {
 	[1938] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "Viollin_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Violin of Infinity",
 		identifiedResourceName = "Viollin_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263971,7 +264284,9 @@ tbl = {
 	[1994] = {
 		unidentifiedDisplayName = "Lariat Whip",
 		unidentifiedResourceName = "Whip_Of_Infinite",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Whip of Infinity",
 		identifiedResourceName = "Whip_Of_Infinite",
 		identifiedDescriptionName = {
@@ -263988,7 +264303,9 @@ tbl = {
 	[22075] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes_Of_Cracks",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shoes from Crack",
 		identifiedResourceName = "Shoes_Of_Cracks",
 		identifiedDescriptionName = {
@@ -264007,7 +264324,9 @@ tbl = {
 	[20779] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "ManteauOfCracks",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Manteau from Crack",
 		identifiedResourceName = "ManteauOfCracks",
 		identifiedDescriptionName = {
@@ -264356,7 +264675,9 @@ tbl = {
 	[20093] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Wizard Hat",
 		identifiedResourceName = "А§АъµеЗЮ",
 		identifiedDescriptionName = {
@@ -264374,7 +264695,9 @@ tbl = {
 	[31534] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rainbow Coronet",
 		identifiedResourceName = "№«Бц°іЅєЕё",
 		identifiedDescriptionName = {
@@ -264394,7 +264717,9 @@ tbl = {
 	[103032] = {
 		unidentifiedDisplayName = "Treasure of Dark Stars",
 		unidentifiedResourceName = "є°єыЗПґГЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Treasure of Dark Stars",
 		identifiedResourceName = "є°єыЗПґГЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -264463,7 +264788,9 @@ tbl = {
 	[31386] = {
 		unidentifiedDisplayName = "Protective Orb",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Protective Orbs",
 		identifiedResourceName = "ј­№ЩАМ№ъїАєк",
 		identifiedDescriptionName = {
@@ -264482,7 +264809,9 @@ tbl = {
 	[21058] = {
 		unidentifiedDisplayName = "Two-handed Sword",
 		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Dragon Slayer",
 		identifiedResourceName = "UpHetairoi_Sword",
 		identifiedDescriptionName = {
@@ -264508,7 +264837,9 @@ tbl = {
 	[600009] = {
 		unidentifiedDisplayName = "Two-handed Sword",
 		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Runic Katana",
 		identifiedResourceName = "UpOnimaru",
 		identifiedDescriptionName = {
@@ -264534,7 +264865,9 @@ tbl = {
 	[610008] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "БкёЈ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Hand of Death",
 		identifiedResourceName = "UpShiver_Katar",
 		identifiedDescriptionName = {
@@ -264561,7 +264894,9 @@ tbl = {
 	[610009] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "БкёЈ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Steel Flower",
 		identifiedResourceName = "UpScorpio_Katar",
 		identifiedDescriptionName = {
@@ -264588,7 +264923,9 @@ tbl = {
 	[620004] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "ѕЧЅє",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Avenger",
 		identifiedResourceName = "Up_Avenger",
 		identifiedDescriptionName = {
@@ -264616,7 +264953,9 @@ tbl = {
 	[640011] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Rusty Dragon's Wand",
 		identifiedResourceName = "Up_Iron_Staff",
 		identifiedDescriptionName = {
@@ -264644,7 +264983,9 @@ tbl = {
 	[640012] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rev. Wand of the Purple Orb",
 		identifiedResourceName = "Up_Blue_Crystal_Staff",
 		identifiedDescriptionName = {
@@ -264672,7 +265013,9 @@ tbl = {
 	[650004] = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "Зіё¶_ЖнАН",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Four Mirrors",
 		identifiedResourceName = "Up_Humma_Clear",
 		identifiedDescriptionName = {
@@ -264700,7 +265043,9 @@ tbl = {
 	[700013] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "єёїм",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Bow of Narcissus",
 		identifiedResourceName = "Up_Narcis_Bow",
 		identifiedDescriptionName = {
@@ -264727,7 +265072,9 @@ tbl = {
 	[700018] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "єёїм",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Empyrean",
 		identifiedResourceName = "Up_Royal_Bow_K",
 		identifiedDescriptionName = {
@@ -264754,7 +265101,9 @@ tbl = {
 	[700019] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "єёїм",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rev. Scarlet Dragon's Bow",
 		identifiedResourceName = "Up_Scalet_Dragon_L_Bow",
 		identifiedDescriptionName = {
@@ -264781,7 +265130,9 @@ tbl = {
 	[800002] = {
 		unidentifiedDisplayName = "Revolver",
 		unidentifiedResourceName = "Revolver",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Crimson Rose",
 		identifiedResourceName = "Up_Crimson_Rose",
 		identifiedDescriptionName = {
@@ -264808,7 +265159,9 @@ tbl = {
 	[810001] = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "Rifle",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Master of Souls",
 		identifiedResourceName = "Up_Master_Soul_Rifle",
 		identifiedDescriptionName = {
@@ -264837,7 +265190,9 @@ tbl = {
 	[820001] = {
 		unidentifiedDisplayName = "Shotgun",
 		unidentifiedResourceName = "ЅМ±Ыј¦°З",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Demon's Shot",
 		identifiedResourceName = "Up_Demon_S_Shot",
 		identifiedDescriptionName = {
@@ -264865,7 +265220,9 @@ tbl = {
 	[830002] = {
 		unidentifiedDisplayName = "Gatling Gun",
 		unidentifiedResourceName = "µеё®ЗБЕН",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Guttling Gun",
 		identifiedResourceName = "Up_The_Black_Gatling",
 		identifiedDescriptionName = {
@@ -264892,7 +265249,9 @@ tbl = {
 	[840001] = {
 		unidentifiedDisplayName = "Grenade Launcher",
 		unidentifiedResourceName = "µрЅєЖ®·ОАМѕо",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Big Game Trophy",
 		identifiedResourceName = "Up_Golden_L_Launcher",
 		identifiedDescriptionName = {
@@ -265663,7 +266022,9 @@ tbl = {
 	[500013] = {
 		unidentifiedDisplayName = "One-Handed Sword",
 		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Sword of Blue Fire",
 		identifiedResourceName = "Up_Sword_Of_Bluefire",
 		identifiedDescriptionName = {
@@ -265690,7 +266051,9 @@ tbl = {
 	[500014] = {
 		unidentifiedDisplayName = "One-Handed Sword",
 		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Slate Sword",
 		identifiedResourceName = "Up_Slate_Sword",
 		identifiedDescriptionName = {
@@ -265717,7 +266080,9 @@ tbl = {
 	[500017] = {
 		unidentifiedDisplayName = "One-Handed Sword",
 		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Blade of Light",
 		identifiedResourceName = "Up_Light_Blade",
 		identifiedDescriptionName = {
@@ -265746,7 +266111,9 @@ tbl = {
 	[510019] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Winged Sword",
 		identifiedResourceName = "Up_Magic_Sword",
 		identifiedDescriptionName = {
@@ -265775,7 +266142,9 @@ tbl = {
 	[510020] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Fatebringer",
 		identifiedResourceName = "Up_Fatalist",
 		identifiedDescriptionName = {
@@ -265803,7 +266172,9 @@ tbl = {
 	[510022] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Morning Dew Sword",
 		identifiedResourceName = "Up_Fog_Dew_Sword",
 		identifiedDescriptionName = {
@@ -265832,7 +266203,9 @@ tbl = {
 	[530006] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "Арє§ё°",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Trident of Undine",
 		identifiedResourceName = "Up_Undine_Spear_K",
 		identifiedDescriptionName = {
@@ -265861,7 +266234,9 @@ tbl = {
 	[540011] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "єП",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived All-Holy Book",
 		identifiedResourceName = "Up_Demon_Hunting_Bible",
 		identifiedDescriptionName = {
@@ -265890,7 +266265,9 @@ tbl = {
 	[550012] = {
 		unidentifiedDisplayName = "One-handed staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Shadow Eater",
 		identifiedResourceName = "Up_Shadow_Staff_K",
 		identifiedDescriptionName = {
@@ -265919,7 +266296,9 @@ tbl = {
 	[550013] = {
 		unidentifiedDisplayName = "One-handed staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Ice Guardian",
 		identifiedResourceName = "Up_Freezing_Rod",
 		identifiedDescriptionName = {
@@ -265948,7 +266327,9 @@ tbl = {
 	[550014] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Meow Meow Foxtail",
 		identifiedResourceName = "Up_MeawFoxtail",
 		identifiedDescriptionName = {
@@ -265976,7 +266357,9 @@ tbl = {
 	[560008] = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "Арє§ё°",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Iron Claw",
 		identifiedResourceName = "Up_Iron_Nail_K",
 		identifiedDescriptionName = {
@@ -266003,7 +266386,9 @@ tbl = {
 	[560009] = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "Арє§ё°",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Claws of the Bifrost",
 		identifiedResourceName = "Up_Ray_Knuckle",
 		identifiedDescriptionName = {
@@ -266030,7 +266415,9 @@ tbl = {
 	[570009] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "№ЩАМїГё°",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Tide Conch",
 		identifiedResourceName = "Up_Trumpet_Shell_K",
 		identifiedDescriptionName = {
@@ -266058,7 +266445,9 @@ tbl = {
 	[580009] = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "·ОЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Thorn Whip",
 		identifiedResourceName = "Up_Barb_Wire_K",
 		identifiedDescriptionName = {
@@ -266086,7 +266475,9 @@ tbl = {
 	[590011] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "Е¬·ґ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Big Badaboom",
 		identifiedResourceName = "Up_Meteor_Striker",
 		identifiedDescriptionName = {
@@ -266114,7 +266505,9 @@ tbl = {
 	[590012] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "Club",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Mace of the Righteous",
 		identifiedResourceName = "Up_Saint_Hall",
 		identifiedDescriptionName = {
@@ -266143,7 +266536,9 @@ tbl = {
 	[22238] = {
 		unidentifiedDisplayName = "Great Hero's Boots",
 		unidentifiedResourceName = "Great_Hero_Boots",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Great Hero's Boots",
 		identifiedResourceName = "Great_Hero_Boots",
 		identifiedDescriptionName = {
@@ -266211,7 +266606,9 @@ tbl = {
 	[400496] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Headgear",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C White Kitsune Ears",
 		identifiedResourceName = "C_Horo_Ears_WH",
 		identifiedDescriptionName = {
@@ -266230,7 +266627,9 @@ tbl = {
 	[420306] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Kotatsu",
 		identifiedResourceName = "C_Kotatsu",
 		identifiedDescriptionName = {
@@ -266250,7 +266649,9 @@ tbl = {
 	[460023] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "ЅЇµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Shield of Phoenix",
 		identifiedResourceName = "Shield_Of_Phoenix",
 		identifiedDescriptionName = {
@@ -266273,7 +266674,9 @@ tbl = {
 	[480052] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Sakura Ribbon",
 		identifiedResourceName = "C_Sakura_Fes_TW",
 		identifiedDescriptionName = {
@@ -266293,7 +266696,9 @@ tbl = {
 	[480237] = {
 		unidentifiedDisplayName = "Hood",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Tengu Master Katanas",
 		identifiedResourceName = "C_Katana_TenguMaster",
 		identifiedDescriptionName = {
@@ -266313,7 +266718,9 @@ tbl = {
 	[103150] = {
 		unidentifiedDisplayName = "Cherry Blossom Treasure",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cherry Blossom Treasure",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266381,7 +266788,9 @@ tbl = {
 	[32258] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ring of Jupiter",
 		identifiedResourceName = "RingofJupiter",
 		identifiedDescriptionName = {
@@ -266410,7 +266819,9 @@ tbl = {
 	[18786] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Anemos_Mask",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mask of Northern Wind",
 		identifiedResourceName = "Anemos_Mask",
 		identifiedDescriptionName = {
@@ -266428,7 +266839,9 @@ tbl = {
 	[18876] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "Achilleus_Shield",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Legendary Hero's Shield",
 		identifiedResourceName = "Achilleus_Shield",
 		identifiedDescriptionName = {
@@ -266449,7 +266862,9 @@ tbl = {
 	[31173] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "C_Crown_Parrot",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C Parrot Hat",
 		identifiedResourceName = "C_Crown_Parrot",
 		identifiedDescriptionName = {
@@ -266466,7 +266881,9 @@ tbl = {
 	[31192] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "C_Baby_Cat_Ears_TW",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C Doram Ears",
 		identifiedResourceName = "C_Baby_Cat_Ears_TW",
 		identifiedDescriptionName = {
@@ -266484,7 +266901,9 @@ tbl = {
 	[490589] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Amethyst Ring",
 		identifiedResourceName = "Shine_Ring_A",
 		identifiedDescriptionName = {
@@ -266504,7 +266923,9 @@ tbl = {
 	[19501] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "T_Spinx_Helm",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C Pharaoh's Hat",
 		identifiedResourceName = "T_Spinx_Helm",
 		identifiedDescriptionName = {
@@ -266522,7 +266943,9 @@ tbl = {
 	[19840] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "C_Helm_Of_Sun",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C Helm of the Sun God",
 		identifiedResourceName = "C_Helm_Of_Sun",
 		identifiedDescriptionName = {
@@ -266540,7 +266963,9 @@ tbl = {
 	[103249] = {
 		unidentifiedDisplayName = "Amun-Ra's Treasure",
 		unidentifiedResourceName = "2407_AmonRa_REU",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Amun-Ra's Treasure",
 		identifiedResourceName = "2407_AmonRa_REU",
 		identifiedDescriptionName = {
@@ -266632,7 +267057,9 @@ tbl = {
 	[24412] = {
 		unidentifiedDisplayName = "Shadow Armor",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Emperor's Shadow Armor",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266657,7 +267084,9 @@ tbl = {
 	[24413] = {
 		unidentifiedDisplayName = "Shadow Boots",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Emperor's Shadow Boots",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266678,7 +267107,9 @@ tbl = {
 	[24414] = {
 		unidentifiedDisplayName = "Shadow Armor",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Reaper's Shadow Armor",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266703,7 +267134,9 @@ tbl = {
 	[24415] = {
 		unidentifiedDisplayName = "Shadow Boots",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Reaper's Shadow Boots",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266724,7 +267157,9 @@ tbl = {
 	[24649] = {
 		unidentifiedDisplayName = "Shadow Earring",
 		unidentifiedResourceName = "ј­№ЩАМ№ъїАєк",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Moon Shadow Earring",
 		identifiedResourceName = "ј­№ЩАМ№ъїАєк",
 		identifiedDescriptionName = {
@@ -266749,7 +267184,9 @@ tbl = {
 	[24650] = {
 		unidentifiedDisplayName = "Shadow Pendant",
 		unidentifiedResourceName = "ј­№ЩАМ№ъїАєк",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Moon Shadow Pendant",
 		identifiedResourceName = "ј­№ЩАМ№ъїАєк",
 		identifiedDescriptionName = {
@@ -266769,7 +267206,9 @@ tbl = {
 	[24651] = {
 		unidentifiedDisplayName = "Shadow Boots",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Moon Shadow Boots",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266789,7 +267228,9 @@ tbl = {
 	[24658] = {
 		unidentifiedDisplayName = "Shadow Earring",
 		unidentifiedResourceName = "ј­№ЩАМ№ъїАєк",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cursed Shadow Earring",
 		identifiedResourceName = "ј­№ЩАМ№ъїАєк",
 		identifiedDescriptionName = {
@@ -266814,7 +267255,9 @@ tbl = {
 	[24659] = {
 		unidentifiedDisplayName = "Shadow Pendant",
 		unidentifiedResourceName = "ј­№ЩАМ№ъїАєк",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cursed Shadow Pendant",
 		identifiedResourceName = "ј­№ЩАМ№ъїАєк",
 		identifiedDescriptionName = {
@@ -266834,7 +267277,9 @@ tbl = {
 	[24660] = {
 		unidentifiedDisplayName = "Shadow Boots",
 		unidentifiedResourceName = "єўІЙЅєЕ©·С",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cursed Shadow Boots",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -266854,7 +267299,9 @@ tbl = {
 	[28592] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Earrings",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Angeling Earrings",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -267069,7 +267516,9 @@ tbl = {
 	[26154] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Spirit Pendulum",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -267098,7 +267547,9 @@ tbl = {
 	[28631] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "єП",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "All-Sun Book",
 		identifiedResourceName = "Time_Kamiji",
 		identifiedDescriptionName = {
@@ -267126,7 +267577,9 @@ tbl = {
 	[510070] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Blessed Knife",
 		identifiedResourceName = "ёЕБцДГєн·№АМµе",
 		identifiedDescriptionName = {
@@ -267151,7 +267604,9 @@ tbl = {
 	[510071] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Blessed Knife",
 		identifiedResourceName = "Up_Blessed_Knife",
 		identifiedDescriptionName = {
@@ -267179,7 +267634,9 @@ tbl = {
 	[540010] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "єП",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived All-Sun Book",
 		identifiedResourceName = "Up_OneSkyOneSun",
 		identifiedDescriptionName = {
@@ -267208,7 +267665,9 @@ tbl = {
 	[550015] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Spirit Pendulum",
 		identifiedResourceName = "Up_SoulWeight",
 		identifiedDescriptionName = {
@@ -267237,7 +267696,9 @@ tbl = {
 	[550080] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Freedom Stick",
 		identifiedResourceName = "єўІЙЅєЕ©·С",
 		identifiedDescriptionName = {
@@ -267264,7 +267725,9 @@ tbl = {
 	[550081] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Revived Freedom Stick",
 		identifiedResourceName = "Up_Freedom_Stick",
 		identifiedDescriptionName = {
@@ -267294,7 +267757,9 @@ tbl = {
 	[19299] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Tree Sprout",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -267327,7 +267792,9 @@ tbl = {
 	[19763] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C Sleepy Leaf Cat",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -267344,7 +267811,9 @@ tbl = {
 	[28517] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Abyss King's Ring",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -267364,7 +267833,9 @@ tbl = {
 	[480336] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "C Butterfly Net",
 		identifiedResourceName = "C_Forest_S_Vacation",
 		identifiedDescriptionName = {
@@ -267382,7 +267853,9 @@ tbl = {
 	[103341] = {
 		unidentifiedDisplayName = "Eternal Summer Treasure",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Eternal Summer Treasure",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -267449,7 +267922,9 @@ tbl = {
 	[20070] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Alpaca Hood",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -267467,7 +267942,9 @@ tbl = {
 	[28903] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Scutum",
 		identifiedResourceName = "???",
 		identifiedDescriptionName = {
@@ -267487,7 +267964,9 @@ tbl = {
 	[19104] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Amber Wings",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -267531,7 +268010,9 @@ tbl = {
 	[19667] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Helm of Dragoon",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -267548,7 +268029,9 @@ tbl = {
 	[20009] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Dragon Skull",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -267565,7 +268048,9 @@ tbl = {
 	[20088] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Longwang Hat",
 		identifiedResourceName = "?????????3",
 		identifiedDescriptionName = {
@@ -267584,7 +268069,9 @@ tbl = {
 	[20836] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Skin of Lindwyrm",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -267619,7 +268106,9 @@ tbl = {
 	[20837] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Skin of Gwiber",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -267652,7 +268141,9 @@ tbl = {
 	[20845] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Skin of Marraco",
 		identifiedResourceName = "Skin_Of_Marraco",
 		identifiedDescriptionName = {
@@ -267682,7 +268173,9 @@ tbl = {
 	[20949] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Skin of Ladon",
 		identifiedResourceName = "Skin_Of_Ladon",
 		identifiedDescriptionName = {
@@ -267715,7 +268208,9 @@ tbl = {
 	[20962] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "Manteau",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Skin of Typhon",
 		identifiedResourceName = "Skin_Of_Typhon",
 		identifiedDescriptionName = {
@@ -267748,7 +268243,9 @@ tbl = {
 	[103530] = {
 		unidentifiedDisplayName = "Dragon God Treasure",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dragon God Treasure",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -267818,7 +268315,9 @@ tbl = {
 	[20237] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Дё",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Pink Wool Hat",
 		identifiedResourceName = "єРИ«ЕРёрАЪ",
 		identifiedDescriptionName = {
@@ -267837,7 +268336,9 @@ tbl = {
 	[15204] = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Abyss Dress",
 		identifiedResourceName = "Abyss_Dress",
 		identifiedDescriptionName = {
@@ -267865,7 +268366,9 @@ tbl = {
 	[31371] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Sleepy Sorin",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -267886,7 +268389,9 @@ tbl = {
 	[31527] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Rainbow Feathers",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -267906,7 +268411,9 @@ tbl = {
 	[31529] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Bunny Hairpins",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -268205,7 +268712,9 @@ tbl = {
 	[5933] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Crow Tengu Mask",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -268231,7 +268740,9 @@ tbl = {
 	[19112] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Tengu Scroll",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -268263,7 +268774,9 @@ tbl = {
 	[31735] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Taoist Scarf",
 		identifiedResourceName = "FortunetellinSealed",
 		identifiedDescriptionName = {
@@ -268282,7 +268795,9 @@ tbl = {
 	[480319] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Divine Phoenix Wing",
 		identifiedResourceName = "Divine_Phoenix",
 		identifiedDescriptionName = {
@@ -268319,7 +268834,9 @@ tbl = {
 	[31415] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Hat of the Nine Winds",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -268338,7 +268855,9 @@ tbl = {
 	[19556] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Kabuki Mask",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -268427,7 +268946,9 @@ tbl = {
 	[28717] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Valkyrie's Knife",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -268487,7 +269008,9 @@ tbl = {
 	[19472] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Temporal Circlet",
 		identifiedResourceName = "S_Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269125,7 +269648,9 @@ tbl = {
 	[19474] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Rune Knight)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269154,7 +269679,9 @@ tbl = {
 	[19475] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Royal Guard)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269183,7 +269710,9 @@ tbl = {
 	[19476] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Mechanic)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269212,7 +269741,9 @@ tbl = {
 	[19477] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Geneticist)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269241,7 +269772,9 @@ tbl = {
 	[19478] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Guillotine Cross)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269270,7 +269803,9 @@ tbl = {
 	[19479] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Shadow Chaser)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269299,7 +269834,9 @@ tbl = {
 	[19480] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Arch Bishop)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269328,7 +269865,9 @@ tbl = {
 	[19481] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Sura)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269357,7 +269896,9 @@ tbl = {
 	[19482] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Warlock)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269386,7 +269927,9 @@ tbl = {
 	[19483] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Sorcerer)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269415,7 +269958,9 @@ tbl = {
 	[19484] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Ranger)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269444,7 +269989,9 @@ tbl = {
 	[19485] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Wanderer and Maestro)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269473,7 +270020,9 @@ tbl = {
 	[19486] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Star Emperor)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269502,7 +270051,9 @@ tbl = {
 	[19487] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Soul Reaper)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269531,7 +270082,9 @@ tbl = {
 	[19488] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Rebellion)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269560,7 +270113,9 @@ tbl = {
 	[19489] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Oboro)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269589,7 +270144,9 @@ tbl = {
 	[19490] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Kagerou)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269618,7 +270175,9 @@ tbl = {
 	[19491] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Super Novice)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269645,7 +270204,9 @@ tbl = {
 	[19492] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "Helmet",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Circlet (Summoner)",
 		identifiedResourceName = "Circlet_Of_Time",
 		identifiedDescriptionName = {
@@ -269674,7 +270235,9 @@ tbl = {
 	[2060] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Magician Staff",
 		identifiedResourceName = "R_Magician_Staff",
 		identifiedDescriptionName = {
@@ -269706,7 +270269,9 @@ tbl = {
 	[13347] = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "Зіё¶_ЖнАН",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Huuma Shuriken",
 		identifiedResourceName = "Luxurious Huuma Shuriken",
 		identifiedDescriptionName = {
@@ -269738,7 +270303,9 @@ tbl = {
 	[21055] = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "№ЩЅєЕёµејТµе",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Claymore",
 		identifiedResourceName = "G_Knight_Sword",
 		identifiedDescriptionName = {
@@ -269768,7 +270335,9 @@ tbl = {
 	[28046] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "Katar",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Katar",
 		identifiedResourceName = "R_Katar",
 		identifiedDescriptionName = {
@@ -269798,7 +270367,9 @@ tbl = {
 	[28141] = {
 		unidentifiedDisplayName = "Two-Handed Axe",
 		unidentifiedResourceName = "Battle Axe",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Battle Axe",
 		identifiedResourceName = "G_Knight_BattleAxe",
 		identifiedDescriptionName = {
@@ -269827,7 +270398,9 @@ tbl = {
 	[18191] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "єёїм",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Crossbow",
 		identifiedResourceName = "G_Knight_Bow",
 		identifiedDescriptionName = {
@@ -269857,7 +270430,9 @@ tbl = {
 	[18198] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "єёїм",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Archer Bow",
 		identifiedResourceName = "Guardian Knight's Longbow",
 		identifiedDescriptionName = {
@@ -269909,7 +270484,9 @@ tbl = {
 	[32304] = {
 		unidentifiedDisplayName = "Revolver",
 		unidentifiedResourceName = "Revolver",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Revolver",
 		identifiedResourceName = "Luxurious Revolver",
 		identifiedDescriptionName = {
@@ -269940,7 +270517,9 @@ tbl = {
 	[1336] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "ѕЧЅє",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Axe",
 		identifiedResourceName = "G_Knight_Axe",
 		identifiedDescriptionName = {
@@ -269971,7 +270550,9 @@ tbl = {
 	[1870] = {
 		unidentifiedDisplayName = "Knuckle",
 		unidentifiedResourceName = "Арє§ё°",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Knuckle",
 		identifiedResourceName = "Luxurious Knuckle",
 		identifiedDescriptionName = {
@@ -270003,7 +270584,9 @@ tbl = {
 	[26165] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Cleric Staff",
 		identifiedResourceName = "R_Cleric_Staff",
 		identifiedDescriptionName = {
@@ -270034,7 +270617,9 @@ tbl = {
 	[26166] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Magician Wand",
 		identifiedResourceName = "R_Magician_Wand",
 		identifiedDescriptionName = {
@@ -270064,7 +270649,9 @@ tbl = {
 	[26172] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "ё®є»",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Foxtail",
 		identifiedResourceName = "Luxurious Foxtail",
 		identifiedDescriptionName = {
@@ -270095,7 +270682,9 @@ tbl = {
 	[26216] = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "·ОЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Whip",
 		identifiedResourceName = "R_Wheep",
 		identifiedDescriptionName = {
@@ -270125,7 +270714,9 @@ tbl = {
 	[28636] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "єП",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Sage Book",
 		identifiedResourceName = "R_Sage_Book",
 		identifiedDescriptionName = {
@@ -270155,7 +270746,9 @@ tbl = {
 	[28774] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Gladius (R)",
 		identifiedResourceName = "R_Gladius_R",
 		identifiedDescriptionName = {
@@ -270185,7 +270778,9 @@ tbl = {
 	[28775] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Gladius (L)",
 		identifiedResourceName = "R_Gladius_L",
 		identifiedDescriptionName = {
@@ -270206,7 +270801,9 @@ tbl = {
 	[28776] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "іЄАМЗБ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Magician Dagger",
 		identifiedResourceName = "R_Magician_Dagger",
 		identifiedDescriptionName = {
@@ -270236,7 +270833,9 @@ tbl = {
 	[32027] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "ЅєЗЗѕо",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Spear",
 		identifiedResourceName = "G_Knight_Spear",
 		identifiedDescriptionName = {
@@ -270266,7 +270865,9 @@ tbl = {
 	[32111] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "№ЩАМїГё°",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Cello",
 		identifiedResourceName = "R_Cello",
 		identifiedDescriptionName = {
@@ -270296,7 +270897,9 @@ tbl = {
 	[32353] = {
 		unidentifiedDisplayName = "One-Handed Sword",
 		unidentifiedResourceName = "Sword",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight Jewel Sword",
 		identifiedResourceName = "G_Knight_JewelSword",
 		identifiedDescriptionName = {
@@ -270327,7 +270930,9 @@ tbl = {
 	[32401] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "Е¬·ґ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Pillar",
 		identifiedResourceName = "R_Pillar",
 		identifiedDescriptionName = {
@@ -270358,7 +270963,9 @@ tbl = {
 	[32402] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "Е¬·ґ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Syringe",
 		identifiedResourceName = "R_Syringe",
 		identifiedDescriptionName = {
@@ -270387,7 +270994,9 @@ tbl = {
 	[32403] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "Е¬·ґ",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Guardian Knight's Alchemy Staff",
 		identifiedResourceName = "G_Alchemist_Staff",
 		identifiedDescriptionName = {
@@ -270416,7 +271025,9 @@ tbl = {
 	[450018] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Breath Armor",
 		identifiedResourceName = "Noblesse_Breath_Armor",
 		identifiedDescriptionName = {
@@ -270446,7 +271057,9 @@ tbl = {
 	[450019] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Knight Armor",
 		identifiedResourceName = "Noblesse_Knight_Armor",
 		identifiedDescriptionName = {
@@ -270476,7 +271089,9 @@ tbl = {
 	[450020] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Spear Armor",
 		identifiedResourceName = "Noblesse_Spear_Armor",
 		identifiedDescriptionName = {
@@ -270506,7 +271121,9 @@ tbl = {
 	[450021] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Genesis Armor",
 		identifiedResourceName = "Noblesse_Genesis_Armor",
 		identifiedDescriptionName = {
@@ -270536,7 +271153,9 @@ tbl = {
 	[450022] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Sharp Suit",
 		identifiedResourceName = "Noblesse_Sharp_Suit",
 		identifiedDescriptionName = {
@@ -270566,7 +271185,9 @@ tbl = {
 	[450023] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Aim Suit",
 		identifiedResourceName = "Noblesse_Aim_suit",
 		identifiedDescriptionName = {
@@ -270596,7 +271217,9 @@ tbl = {
 	[450024] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Severe Suit",
 		identifiedResourceName = "Noblesse_Severe_Suit",
 		identifiedDescriptionName = {
@@ -270626,7 +271249,9 @@ tbl = {
 	[450025] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Reverberation Suit",
 		identifiedResourceName = "Noblesse_Reverb_Suit",
 		identifiedDescriptionName = {
@@ -270656,7 +271281,9 @@ tbl = {
 	[450026] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Adora Robe",
 		identifiedResourceName = "Noblesse_Adora_Robe",
 		identifiedDescriptionName = {
@@ -270686,7 +271313,9 @@ tbl = {
 	[450027] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Duple Robe",
 		identifiedResourceName = "Noblesse_Duple_Robe",
 		identifiedDescriptionName = {
@@ -270716,7 +271345,9 @@ tbl = {
 	[450028] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Tornado Armor",
 		identifiedResourceName = "Noblesse_Tonado_Armor",
 		identifiedDescriptionName = {
@@ -270746,7 +271377,9 @@ tbl = {
 	[450029] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Vulcan Armor",
 		identifiedResourceName = "Noblesse_Vulcan_Armor",
 		identifiedDescriptionName = {
@@ -270776,7 +271409,9 @@ tbl = {
 	[450030] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Cart Cannon Suit",
 		identifiedResourceName = "Noblesse_Kart_Suit",
 		identifiedDescriptionName = {
@@ -270806,7 +271441,9 @@ tbl = {
 	[450031] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Cart Tornado Suit",
 		identifiedResourceName = "Noblesse_Kart_Suit2",
 		identifiedDescriptionName = {
@@ -270836,7 +271473,9 @@ tbl = {
 	[450032] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Rolling Suit",
 		identifiedResourceName = "Noblesse_Rolling_Suit",
 		identifiedDescriptionName = {
@@ -270866,7 +271505,9 @@ tbl = {
 	[450033] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Assassin Suit",
 		identifiedResourceName = "Noblesse_Assasin_Suit",
 		identifiedDescriptionName = {
@@ -270896,7 +271537,9 @@ tbl = {
 	[450034] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Fatal Suit",
 		identifiedResourceName = "Noblesse_Fatal_Suit",
 		identifiedDescriptionName = {
@@ -270926,7 +271569,9 @@ tbl = {
 	[450035] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Stalker Suit",
 		identifiedResourceName = "Noblesse_Stalker_Suit",
 		identifiedDescriptionName = {
@@ -270956,7 +271601,9 @@ tbl = {
 	[450036] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Picky Robe",
 		identifiedResourceName = "Noblesse_Picky_Robe",
 		identifiedDescriptionName = {
@@ -270986,7 +271633,9 @@ tbl = {
 	[450037] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Catnip Robe",
 		identifiedResourceName = "Noblesse_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -271016,7 +271665,9 @@ tbl = {
 	[450038] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Trip Suit",
 		identifiedResourceName = "Noblesse_Trip_Suit",
 		identifiedDescriptionName = {
@@ -271046,7 +271697,9 @@ tbl = {
 	[450039] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Fire Rain Suit",
 		identifiedResourceName = "Noblesse_Firerain_Suit",
 		identifiedDescriptionName = {
@@ -271076,7 +271729,9 @@ tbl = {
 	[450040] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Crimson Robe",
 		identifiedResourceName = "Noblesse_Crimson_Robe",
 		identifiedDescriptionName = {
@@ -271106,7 +271761,9 @@ tbl = {
 	[450041] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Frost Robe",
 		identifiedResourceName = "Noblesse_Frost_Robe",
 		identifiedDescriptionName = {
@@ -271136,7 +271793,9 @@ tbl = {
 	[450042] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Psychic Robe",
 		identifiedResourceName = "Noblesse_Psychic_Robe",
 		identifiedDescriptionName = {
@@ -271166,7 +271825,9 @@ tbl = {
 	[450043] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Dust Robe",
 		identifiedResourceName = "Noblesse_Dust_Robe",
 		identifiedDescriptionName = {
@@ -271196,7 +271857,9 @@ tbl = {
 	[450044] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Sun Suit",
 		identifiedResourceName = "Noblesse_Sun_Suit",
 		identifiedDescriptionName = {
@@ -271226,7 +271889,9 @@ tbl = {
 	[450045] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Full Moon Suit",
 		identifiedResourceName = "Noblesse_Moon_Suit",
 		identifiedDescriptionName = {
@@ -271256,7 +271921,9 @@ tbl = {
 	[450046] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Ninja Suit",
 		identifiedResourceName = "Noblesse_Ninja_Suit",
 		identifiedDescriptionName = {
@@ -271286,7 +271953,9 @@ tbl = {
 	[450047] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Kunai Suit",
 		identifiedResourceName = "Noblesse_Kunai_Suit",
 		identifiedDescriptionName = {
@@ -271316,7 +271985,9 @@ tbl = {
 	[450048] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Eswoo Robe",
 		identifiedResourceName = "Noblesse_Swhoo_Robe",
 		identifiedDescriptionName = {
@@ -271346,7 +272017,9 @@ tbl = {
 	[450049] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Curse Robe",
 		identifiedResourceName = "Noblesse_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -271376,7 +272049,9 @@ tbl = {
 	[450050] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Knuckle Suit",
 		identifiedResourceName = "Noblesse_Knuckle_Suit",
 		identifiedDescriptionName = {
@@ -271406,7 +272081,9 @@ tbl = {
 	[450051] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Tiger Cannon Suit",
 		identifiedResourceName = "Noblesse_Tiger_Suit",
 		identifiedDescriptionName = {
@@ -271436,7 +272113,9 @@ tbl = {
 	[450052] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Breath Armor",
 		identifiedResourceName = "Imperial_Breath_Armor",
 		identifiedDescriptionName = {
@@ -271466,7 +272145,9 @@ tbl = {
 	[450053] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Knight Armor",
 		identifiedResourceName = "Imperial_Knight_Armor",
 		identifiedDescriptionName = {
@@ -271496,7 +272177,9 @@ tbl = {
 	[450054] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Spear Armor",
 		identifiedResourceName = "Imperial_Spear_Armor",
 		identifiedDescriptionName = {
@@ -271526,7 +272209,9 @@ tbl = {
 	[450055] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Genesis Armor",
 		identifiedResourceName = "Imperial_Genesis_Armor",
 		identifiedDescriptionName = {
@@ -271556,7 +272241,9 @@ tbl = {
 	[450056] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Sharp Suit",
 		identifiedResourceName = "Imperial_Sharp_Suit",
 		identifiedDescriptionName = {
@@ -271586,7 +272273,9 @@ tbl = {
 	[450057] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Aim Suit",
 		identifiedResourceName = "Imperial_Aim_Suit",
 		identifiedDescriptionName = {
@@ -271616,7 +272305,9 @@ tbl = {
 	[450058] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Severe Suit",
 		identifiedResourceName = "Imperial_Severe_Suit",
 		identifiedDescriptionName = {
@@ -271646,7 +272337,9 @@ tbl = {
 	[450059] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Reverberation Suit",
 		identifiedResourceName = "Imperial_Reverb_Suit",
 		identifiedDescriptionName = {
@@ -271676,7 +272369,9 @@ tbl = {
 	[450060] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Adora Robe",
 		identifiedResourceName = "Imperial_Adora_Robe",
 		identifiedDescriptionName = {
@@ -271706,7 +272401,9 @@ tbl = {
 	[450061] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Duple Robe",
 		identifiedResourceName = "Imperial_Duple_Robe",
 		identifiedDescriptionName = {
@@ -271736,7 +272433,9 @@ tbl = {
 	[450062] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Knuckle Suit",
 		identifiedResourceName = "Imperial_Knuckle_Suit",
 		identifiedDescriptionName = {
@@ -271766,7 +272465,9 @@ tbl = {
 	[450063] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Tiger Cannon Suit",
 		identifiedResourceName = "Imperial_Tiger_Suit",
 		identifiedDescriptionName = {
@@ -271796,7 +272497,9 @@ tbl = {
 	[450064] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Tornado Armor",
 		identifiedResourceName = "Imperial_Tonado_Armor",
 		identifiedDescriptionName = {
@@ -271826,7 +272529,9 @@ tbl = {
 	[450065] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Vulcan Armor",
 		identifiedResourceName = "Imperial_Vulcan_Armor",
 		identifiedDescriptionName = {
@@ -271856,7 +272561,9 @@ tbl = {
 	[450066] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Cart Cannon Suit",
 		identifiedResourceName = "Imperial_Kart_Suit",
 		identifiedDescriptionName = {
@@ -271886,7 +272593,9 @@ tbl = {
 	[450067] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Cart Tornado Suit",
 		identifiedResourceName = "Imperial_Kart_Suit2",
 		identifiedDescriptionName = {
@@ -271916,7 +272625,9 @@ tbl = {
 	[450068] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Rolling Suit",
 		identifiedResourceName = "Imperial_Rolling_Suit",
 		identifiedDescriptionName = {
@@ -271946,7 +272657,9 @@ tbl = {
 	[450069] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Assassin Suit",
 		identifiedResourceName = "Imperial_Assasin_Suit",
 		identifiedDescriptionName = {
@@ -271976,7 +272689,9 @@ tbl = {
 	[450070] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Fatal Suit",
 		identifiedResourceName = "Imperial_Fatal_Suit",
 		identifiedDescriptionName = {
@@ -272006,7 +272721,9 @@ tbl = {
 	[450071] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Stalker Suit",
 		identifiedResourceName = "Imperial_Stalker_Suit",
 		identifiedDescriptionName = {
@@ -272036,7 +272753,9 @@ tbl = {
 	[450072] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Picky Robe",
 		identifiedResourceName = "Imperial_Picky_Robe",
 		identifiedDescriptionName = {
@@ -272066,7 +272785,9 @@ tbl = {
 	[450073] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Catnip Robe",
 		identifiedResourceName = "Imperial_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -272096,7 +272817,9 @@ tbl = {
 	[450074] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Trip Suit",
 		identifiedResourceName = "Imperial_Trip_Suit",
 		identifiedDescriptionName = {
@@ -272126,7 +272849,9 @@ tbl = {
 	[450075] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Fire Rain Suit",
 		identifiedResourceName = "Imperial_Firerain_Suit",
 		identifiedDescriptionName = {
@@ -272156,7 +272881,9 @@ tbl = {
 	[450076] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Crimson Robe",
 		identifiedResourceName = "Imperial_Crimson_Robe",
 		identifiedDescriptionName = {
@@ -272186,7 +272913,9 @@ tbl = {
 	[450077] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Frost Mantle",
 		identifiedResourceName = "Imperial_Frost_Robe",
 		identifiedDescriptionName = {
@@ -272216,7 +272945,9 @@ tbl = {
 	[450078] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Psychic Robe",
 		identifiedResourceName = "Imperial_Psychic_Robe",
 		identifiedDescriptionName = {
@@ -272246,7 +272977,9 @@ tbl = {
 	[450079] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Dust Robe",
 		identifiedResourceName = "Imperial_Dust_Robe",
 		identifiedDescriptionName = {
@@ -272276,7 +273009,9 @@ tbl = {
 	[450080] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Sun Suit",
 		identifiedResourceName = "Imperial_Sun_Suit",
 		identifiedDescriptionName = {
@@ -272306,7 +273041,9 @@ tbl = {
 	[450081] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Full Moon Suit",
 		identifiedResourceName = "Imperial_Moon_Suit",
 		identifiedDescriptionName = {
@@ -272336,7 +273073,9 @@ tbl = {
 	[450082] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Ninja Suit",
 		identifiedResourceName = "Imperial_Ninja_Suit",
 		identifiedDescriptionName = {
@@ -272366,7 +273105,9 @@ tbl = {
 	[450083] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Kunai Suit",
 		identifiedResourceName = "Imperial_Kunai_Suit",
 		identifiedDescriptionName = {
@@ -272396,7 +273137,9 @@ tbl = {
 	[450084] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Eswoo Robe",
 		identifiedResourceName = "Imperial_Swhoo_Robe",
 		identifiedDescriptionName = {
@@ -272426,7 +273169,9 @@ tbl = {
 	[450085] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Curse Robe",
 		identifiedResourceName = "Imperial_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -272456,7 +273201,9 @@ tbl = {
 	[450086] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Breath Armor",
 		identifiedResourceName = "Grace_Breath_Armor",
 		identifiedDescriptionName = {
@@ -272486,7 +273233,9 @@ tbl = {
 	[450087] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Knight Armor",
 		identifiedResourceName = "Grace_Knight_Armor",
 		identifiedDescriptionName = {
@@ -272516,7 +273265,9 @@ tbl = {
 	[450088] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Spear Armor",
 		identifiedResourceName = "Grace_Spear_Armor",
 		identifiedDescriptionName = {
@@ -272546,7 +273297,9 @@ tbl = {
 	[450089] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Genesis Armor",
 		identifiedResourceName = "Grace_Genesis_Armor",
 		identifiedDescriptionName = {
@@ -272576,7 +273329,9 @@ tbl = {
 	[450090] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Sharp Suit",
 		identifiedResourceName = "Grace_Sharp_Suit",
 		identifiedDescriptionName = {
@@ -272606,7 +273361,9 @@ tbl = {
 	[450091] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Aim Suit",
 		identifiedResourceName = "Grace_Aim_Suit",
 		identifiedDescriptionName = {
@@ -272636,7 +273393,9 @@ tbl = {
 	[450092] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Severe Suit",
 		identifiedResourceName = "Grace_Severe_Suit",
 		identifiedDescriptionName = {
@@ -272666,7 +273425,9 @@ tbl = {
 	[450093] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Reverberation Suit",
 		identifiedResourceName = "Grace_Reverb_Suit",
 		identifiedDescriptionName = {
@@ -272696,7 +273457,9 @@ tbl = {
 	[450094] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Adora Robe",
 		identifiedResourceName = "Grace_Adora_Robe",
 		identifiedDescriptionName = {
@@ -272726,7 +273489,9 @@ tbl = {
 	[450095] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Duple Robe",
 		identifiedResourceName = "Grace_Duple_Robe",
 		identifiedDescriptionName = {
@@ -272756,7 +273521,9 @@ tbl = {
 	[450096] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Knuckle Suit",
 		identifiedResourceName = "Grace_Knuckle_Suit",
 		identifiedDescriptionName = {
@@ -272786,7 +273553,9 @@ tbl = {
 	[450097] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Tiger Cannon Suit",
 		identifiedResourceName = "Grace_Tiger_Suit",
 		identifiedDescriptionName = {
@@ -272816,7 +273585,9 @@ tbl = {
 	[450098] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Tornado Armor",
 		identifiedResourceName = "Grace_Tonado_Armor",
 		identifiedDescriptionName = {
@@ -272846,7 +273617,9 @@ tbl = {
 	[450099] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Vulcan Armor",
 		identifiedResourceName = "Grace_Vulcan_Armor",
 		identifiedDescriptionName = {
@@ -272876,7 +273649,9 @@ tbl = {
 	[450100] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Cart Cannon Suit",
 		identifiedResourceName = "Grace_Kart_Suit",
 		identifiedDescriptionName = {
@@ -272906,7 +273681,9 @@ tbl = {
 	[450101] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Cart Tornado Suit",
 		identifiedResourceName = "Grace_Kart_Suit2",
 		identifiedDescriptionName = {
@@ -272936,7 +273713,9 @@ tbl = {
 	[450102] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Rolling Suit",
 		identifiedResourceName = "Grace_Rolling_Suit",
 		identifiedDescriptionName = {
@@ -272966,7 +273745,9 @@ tbl = {
 	[450103] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Assassin Suit",
 		identifiedResourceName = "Grace_Assasin_Suit",
 		identifiedDescriptionName = {
@@ -272996,7 +273777,9 @@ tbl = {
 	[450104] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Fatal Suit",
 		identifiedResourceName = "Grace_Fatal_Suit",
 		identifiedDescriptionName = {
@@ -273026,7 +273809,9 @@ tbl = {
 	[450105] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Stalker Suit",
 		identifiedResourceName = "Grace_Stalker_Suit",
 		identifiedDescriptionName = {
@@ -273056,7 +273841,9 @@ tbl = {
 	[450106] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Picky Robe",
 		identifiedResourceName = "Grace_Picky_Robe",
 		identifiedDescriptionName = {
@@ -273086,7 +273873,9 @@ tbl = {
 	[450107] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Catnip Robe",
 		identifiedResourceName = "Grace_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -273116,7 +273905,9 @@ tbl = {
 	[450108] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Trip Suit",
 		identifiedResourceName = "Grace_Trip_Suit",
 		identifiedDescriptionName = {
@@ -273146,7 +273937,9 @@ tbl = {
 	[450109] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Fire Rain Suit",
 		identifiedResourceName = "Grace_Firerain_Suit",
 		identifiedDescriptionName = {
@@ -273176,7 +273969,9 @@ tbl = {
 	[450110] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Crimson Robe",
 		identifiedResourceName = "Grace_Crimson_Robe",
 		identifiedDescriptionName = {
@@ -273206,7 +274001,9 @@ tbl = {
 	[450111] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Frost Mantle",
 		identifiedResourceName = "Grace_Frost_Robe",
 		identifiedDescriptionName = {
@@ -273236,7 +274033,9 @@ tbl = {
 	[450112] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Psychic Robe",
 		identifiedResourceName = "Grace_Psychic_Robe",
 		identifiedDescriptionName = {
@@ -273266,7 +274065,9 @@ tbl = {
 	[450113] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Dust Robe",
 		identifiedResourceName = "Grace_Dust_Robe",
 		identifiedDescriptionName = {
@@ -273296,7 +274097,9 @@ tbl = {
 	[450114] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Sun Suit",
 		identifiedResourceName = "Grace_Sun_Suit",
 		identifiedDescriptionName = {
@@ -273326,7 +274129,9 @@ tbl = {
 	[450115] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Full Moon Suit",
 		identifiedResourceName = "Grace_Moon_Suit",
 		identifiedDescriptionName = {
@@ -273356,7 +274161,9 @@ tbl = {
 	[450116] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Ninja Suit",
 		identifiedResourceName = "Grace_Ninja_Suit",
 		identifiedDescriptionName = {
@@ -273386,7 +274193,9 @@ tbl = {
 	[450117] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Kunai Suit",
 		identifiedResourceName = "Grace_Kunai_Suit",
 		identifiedDescriptionName = {
@@ -273416,7 +274225,9 @@ tbl = {
 	[450118] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Eswoo Robe",
 		identifiedResourceName = "Grace_Swhoo_Robe",
 		identifiedDescriptionName = {
@@ -273446,7 +274257,9 @@ tbl = {
 	[450119] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Curse Robe",
 		identifiedResourceName = "Grace_Explosion_Robe",
 		identifiedDescriptionName = {
@@ -273476,7 +274289,9 @@ tbl = {
 	[450121] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Super Novice Suit",
 		identifiedResourceName = "Noblesse_Snovice_Suit",
 		identifiedDescriptionName = {
@@ -273506,7 +274321,9 @@ tbl = {
 	[450122] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Super Novice Robe",
 		identifiedResourceName = "Noblesse_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -273537,7 +274354,9 @@ tbl = {
 	[450123] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Super Novice Suit",
 		identifiedResourceName = "Imperial_Snovice_Suit",
 		identifiedDescriptionName = {
@@ -273567,7 +274386,9 @@ tbl = {
 	[450124] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Super Novice Robe",
 		identifiedResourceName = "Imperial_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -273598,7 +274419,9 @@ tbl = {
 	[450125] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Super Novice Suit",
 		identifiedResourceName = "Grace_Snovice_Suit",
 		identifiedDescriptionName = {
@@ -273628,7 +274451,9 @@ tbl = {
 	[450126] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Super Novice Robe",
 		identifiedResourceName = "Grace_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -273659,7 +274484,9 @@ tbl = {
 	[470016] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Attack Boots",
 		identifiedResourceName = "Noblesse_Attack_Boots",
 		identifiedDescriptionName = {
@@ -273683,7 +274510,9 @@ tbl = {
 	[470017] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Magic Boots",
 		identifiedResourceName = "Noblesse_Magic_Boots",
 		identifiedDescriptionName = {
@@ -273707,7 +274536,9 @@ tbl = {
 	[470018] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Attack Boots",
 		identifiedResourceName = "Imperial_Attack_Boots",
 		identifiedDescriptionName = {
@@ -273731,7 +274562,9 @@ tbl = {
 	[470019] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Magic Boots",
 		identifiedResourceName = "Imperial_Magic_Boots",
 		identifiedDescriptionName = {
@@ -273755,7 +274588,9 @@ tbl = {
 	[470020] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Attack Boots",
 		identifiedResourceName = "Grace_Attack_Boots",
 		identifiedDescriptionName = {
@@ -273779,7 +274614,9 @@ tbl = {
 	[470021] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Magic Boots",
 		identifiedResourceName = "Grace_Magic_Boots",
 		identifiedDescriptionName = {
@@ -273803,7 +274640,9 @@ tbl = {
 	[480012] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Attack Manteau",
 		identifiedResourceName = "Noblesse_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -273827,7 +274666,9 @@ tbl = {
 	[480014] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Magic Manteau",
 		identifiedResourceName = "Noblesse_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -273851,7 +274692,9 @@ tbl = {
 	[480016] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Attack Manteau",
 		identifiedResourceName = "Imperial_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -273875,7 +274718,9 @@ tbl = {
 	[480017] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Magic Manteau",
 		identifiedResourceName = "Imperial_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -273899,7 +274744,9 @@ tbl = {
 	[480018] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Attack Manteau",
 		identifiedResourceName = "Grace_Attack_Manteau",
 		identifiedDescriptionName = {
@@ -273923,7 +274770,9 @@ tbl = {
 	[480019] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Magic Manteau",
 		identifiedResourceName = "Grace_Magic_Manteau",
 		identifiedDescriptionName = {
@@ -273947,7 +274796,9 @@ tbl = {
 	[490014] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Attack Ring",
 		identifiedResourceName = "Noblesse_Attack_Ring",
 		identifiedDescriptionName = {
@@ -273970,7 +274821,9 @@ tbl = {
 	[490015] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Noblesse Magic Ring",
 		identifiedResourceName = "Noblesse_Magic_Ring",
 		identifiedDescriptionName = {
@@ -273993,7 +274846,9 @@ tbl = {
 	[490017] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Attack Ring",
 		identifiedResourceName = "Imperial_Attack_Ring",
 		identifiedDescriptionName = {
@@ -274016,7 +274871,9 @@ tbl = {
 	[490018] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Magic Ring",
 		identifiedResourceName = "Imperial_Magic_Ring",
 		identifiedDescriptionName = {
@@ -274039,7 +274896,9 @@ tbl = {
 	[490019] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Attack Ring",
 		identifiedResourceName = "Grace_Attack_Ring",
 		identifiedDescriptionName = {
@@ -274062,7 +274921,9 @@ tbl = {
 	[490020] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Grace Magic Ring",
 		identifiedResourceName = "Grace_Magic_Ring",
 		identifiedDescriptionName = {
@@ -274714,7 +275575,9 @@ tbl = {
 	[410091] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cor Core Headset",
 		identifiedResourceName = "Cor_Core_Headset",
 		identifiedDescriptionName = {
@@ -274737,7 +275600,9 @@ tbl = {
 	[20973] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Spiritual Cloth  ",
 		identifiedResourceName = "Spiritual_Cloth",
 		identifiedDescriptionName = {
@@ -274770,7 +275635,9 @@ tbl = {
 	[15249] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Antonio Coat",
 		identifiedResourceName = "Antonio_Coat",
 		identifiedDescriptionName = {
@@ -274807,7 +275674,9 @@ tbl = {
 	[19498] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Citrus Ribbon",
 		identifiedResourceName = "CitrusRibbon",
 		identifiedDescriptionName = {
@@ -274829,7 +275698,9 @@ tbl = {
 	[19148] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Santa Poring Balloon",
 		identifiedResourceName = "C3????",
 		identifiedDescriptionName = {
@@ -274852,7 +275723,9 @@ tbl = {
 	[31172] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Rooster Memorable",
 		identifiedResourceName = "Roast_Memory",
 		identifiedDescriptionName = {
@@ -274873,7 +275746,9 @@ tbl = {
 	[31440] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Snow Bear Hood",
 		identifiedResourceName = "C_Snow_Bear_Hood",
 		identifiedDescriptionName = {
@@ -274893,7 +275768,9 @@ tbl = {
 	[20235] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Ice Rose",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -274984,7 +275861,9 @@ tbl = {
 	[480081] = {
 		unidentifiedDisplayName = "Hood",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Glotoneria",
 		identifiedResourceName = "Glotoneria",
 		identifiedDescriptionName = {
@@ -275021,7 +275900,9 @@ tbl = {
 	[18652] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Vanargand Helm",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -275051,7 +275932,9 @@ tbl = {
 	[19597] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Magic Eyes",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275070,7 +275953,9 @@ tbl = {
 	[31831] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Disguise Mantle",
 		identifiedResourceName = "C_Disguise_Mantle",
 		identifiedDescriptionName = {
@@ -275090,7 +275975,9 @@ tbl = {
 	[32227] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fenrir Chain",
 		identifiedResourceName = "Fenrir_Chain",
 		identifiedDescriptionName = {
@@ -275124,7 +276011,9 @@ tbl = {
 	[410094] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Chain Of Seal",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275147,7 +276036,9 @@ tbl = {
 	[420076] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bondage Necklace",
 		identifiedResourceName = "Vassalage_Necklace",
 		identifiedDescriptionName = {
@@ -275167,7 +276058,9 @@ tbl = {
 	[103972] = {
 		unidentifiedDisplayName = "Dracolich Treasure",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dracolich Treasure",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -275238,7 +276131,9 @@ tbl = {
 	[490146] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Glove",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Paracelsus Glove",
 		identifiedResourceName = "Paracelsus_Glove",
 		identifiedDescriptionName = {
@@ -275269,7 +276164,9 @@ tbl = {
 	[28411] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Earrings",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Emerald Earrings",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -275294,7 +276191,9 @@ tbl = {
 	[20969] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rainbow Muffler",
 		identifiedResourceName = "Rainbow_Muffler_Jp",
 		identifiedDescriptionName = {
@@ -275344,7 +276243,9 @@ tbl = {
 	[400021] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Red Clock Cap",
 		identifiedResourceName = "C_Clock_Casket_RD",
 		identifiedDescriptionName = {
@@ -275392,7 +276293,9 @@ tbl = {
 	[400022] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ignis Cap",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275542,7 +276445,9 @@ tbl = {
 	[19578] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Pilot Goggles",
 		identifiedResourceName = "??",
 		identifiedDescriptionName = {
@@ -275562,7 +276467,9 @@ tbl = {
 	[20038] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Headgear",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Alphonse's Helm",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275620,7 +276527,9 @@ tbl = {
 	[15215] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Tatenashi Armor",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -275649,7 +276558,9 @@ tbl = {
 	[15361] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Jupiter Armor",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275684,7 +276595,9 @@ tbl = {
 	[15362] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Apollo Armor",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275718,7 +276631,9 @@ tbl = {
 	[15363] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mars Armor",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275754,7 +276669,9 @@ tbl = {
 	[15364] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ceres Armor",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275786,7 +276703,9 @@ tbl = {
 	[15365] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Venus Armor",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275820,7 +276739,9 @@ tbl = {
 	[15366] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Vulcan Armor",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275854,7 +276775,9 @@ tbl = {
 	[19995] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Flower Blossom",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -275874,7 +276797,9 @@ tbl = {
 	[31593] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Yellow Scarf",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275895,7 +276820,9 @@ tbl = {
 	[31712] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Oxygen Mask",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -275915,7 +276842,9 @@ tbl = {
 	[32244] = {
 		unidentifiedDisplayName = "Dictator Necklace",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dictator Necklace",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -275970,7 +276899,9 @@ tbl = {
 	[480023] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Arabian Manteau",
 		identifiedResourceName = "Arabian_Manteau",
 		identifiedDescriptionName = {
@@ -276079,7 +277010,9 @@ tbl = {
 	[420302] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ding-Ding Catbell",
 		identifiedResourceName = "Sound_of_Catbell",
 		identifiedDescriptionName = {
@@ -276107,7 +277040,9 @@ tbl = {
 	[450180] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cute Frog Raincoat",
 		identifiedResourceName = "Cute_Frog_Raincoat",
 		identifiedDescriptionName = {
@@ -276145,7 +277080,9 @@ tbl = {
 	[490149] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Glittering Cat Choker",
 		identifiedResourceName = "Glittering_Cat_Choker",
 		identifiedDescriptionName = {
@@ -276182,7 +277119,9 @@ tbl = {
 	[19268] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Faceworm's Breath",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -276214,7 +277153,9 @@ tbl = {
 	[19437] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Little Garden",
 		identifiedResourceName = "LittleGarden",
 		identifiedDescriptionName = {
@@ -276245,7 +277186,9 @@ tbl = {
 	[20405] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Red Eremes' Scarf",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -276266,7 +277209,9 @@ tbl = {
 	[22195] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Booster Shoes",
 		identifiedResourceName = "Booster_shoes",
 		identifiedDescriptionName = {
@@ -276304,7 +277249,9 @@ tbl = {
 	[28438] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fairy Leaf Powder",
 		identifiedResourceName = "?????????",
 		identifiedDescriptionName = {
@@ -276336,7 +277283,9 @@ tbl = {
 	[28902] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cursed Mad Bunny",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -276376,7 +277325,9 @@ tbl = {
 	[31057] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Black Eremes' Scarf",
 		identifiedResourceName = "C?????????",
 		identifiedDescriptionName = {
@@ -276397,7 +277348,9 @@ tbl = {
 	[31545] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Blue Eremes' Scarf",
 		identifiedResourceName = "C_Eremes_Scarf_BU",
 		identifiedDescriptionName = {
@@ -276418,7 +277371,9 @@ tbl = {
 	[480025] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Owl Baron Mantle",
 		identifiedResourceName = "Owl_Baron_Mantle",
 		identifiedDescriptionName = {
@@ -276466,7 +277421,9 @@ tbl = {
 	[104385] = {
 		unidentifiedDisplayName = "Eremes' Treasure",
 		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Eremes' Treasure",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -276537,7 +277494,9 @@ tbl = {
 	[420017] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Young Leaf of World Tree (STR)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276565,7 +277524,9 @@ tbl = {
 	[420018] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Young Leaf of World Tree (DEX)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276593,7 +277554,9 @@ tbl = {
 	[420019] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Young Leaf of World Tree (AGI)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276621,7 +277584,9 @@ tbl = {
 	[420020] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Young Leaf of World Tree (LUK)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276649,7 +277614,9 @@ tbl = {
 	[420021] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Young Leaf of World Tree (VIT)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276677,7 +277644,9 @@ tbl = {
 	[420022] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Young Leaf of World Tree (INT)",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276705,7 +277674,9 @@ tbl = {
 	[20746] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Rudra's Grace",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -276726,7 +277697,9 @@ tbl = {
 	[400049] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Stripe_Hat",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Stripe Hat",
 		identifiedResourceName = "Stripe_Hat",
 		identifiedDescriptionName = {
@@ -276760,7 +277733,9 @@ tbl = {
 	[400061] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Heavenly Sagittarius Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -276794,7 +277769,9 @@ tbl = {
 	[400325] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Wolf King Helm",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -276814,7 +277791,9 @@ tbl = {
 	[400326] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Cowhide Hat",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -276835,7 +277814,9 @@ tbl = {
 	[28594] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Temporal Ring",
 		identifiedResourceName = "Temporal_Ring",
 		identifiedDescriptionName = {
@@ -276875,7 +277856,9 @@ tbl = {
 	[480077] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Magma Manteau",
 		identifiedResourceName = "Magma_Manteau",
 		identifiedDescriptionName = {
@@ -276913,7 +277896,9 @@ tbl = {
 	[15891] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mountain Helmet",
 		identifiedResourceName = "Mountain_Helmet",
 		identifiedDescriptionName = {
@@ -276947,7 +277932,9 @@ tbl = {
 	[28521] = {
 		unidentifiedDisplayName = "Ring",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Giant's Protection",
 		identifiedResourceName = "Giant_Protection",
 		identifiedDescriptionName = {
@@ -276996,7 +277983,9 @@ tbl = {
 	[15892] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Themis Helm",
 		identifiedResourceName = "Themis_Helm",
 		identifiedDescriptionName = {
@@ -277030,7 +278019,9 @@ tbl = {
 	[22207] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Imperial Boots",
 		identifiedResourceName = "Imperial_Boots",
 		identifiedDescriptionName = {
@@ -277061,7 +278052,9 @@ tbl = {
 	[490079] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soul Expansion Ring",
 		identifiedResourceName = "SoulExpansionRing",
 		identifiedDescriptionName = {
@@ -277093,7 +278086,9 @@ tbl = {
 	[22104] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Pororoca Shoes",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -277124,7 +278119,9 @@ tbl = {
 	[18794] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ordinary Mage Hat",
 		identifiedResourceName = "?????????",
 		identifiedDescriptionName = {
@@ -277154,7 +278151,9 @@ tbl = {
 	[19426] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Spirit King's Crown",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -277542,7 +278541,9 @@ tbl = {
 	[15283] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mighty Black Threaded Armor",
 		identifiedResourceName = "Armor_of_Rosary",
 		identifiedDescriptionName = {
@@ -277577,7 +278578,9 @@ tbl = {
 	[15419] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Armor of White Thread",
 		identifiedResourceName = "Armor_of_White_Thread",
 		identifiedDescriptionName = {
@@ -277612,7 +278615,9 @@ tbl = {
 	[31562] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Zealotus Doll",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -277632,7 +278637,9 @@ tbl = {
 	[31564] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Headcloth of the Horned One",
 		identifiedResourceName = "C_Variant_Veil",
 		identifiedDescriptionName = {
@@ -277652,7 +278659,9 @@ tbl = {
 	[400044] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Phantom of Masquerade",
 		identifiedResourceName = "Phantom_Of_Masquerade",
 		identifiedDescriptionName = {
@@ -277691,7 +278700,9 @@ tbl = {
 	[400059] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Heavenly Scorpio Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -277730,7 +278741,9 @@ tbl = {
 	[460004] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Illusion Shield I",
 		identifiedResourceName = "Illusion_Shield_A",
 		identifiedDescriptionName = {
@@ -277752,7 +278765,9 @@ tbl = {
 	[480107] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Hunter's Twin Swords",
 		identifiedResourceName = "C_Kings_Twin_Sword",
 		identifiedDescriptionName = {
@@ -277919,7 +278934,9 @@ tbl = {
 	[19314] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Royal Mantle",
 		identifiedResourceName = "Royal_Mantle",
 		identifiedDescriptionName = {
@@ -277939,7 +278956,9 @@ tbl = {
 	[19466] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Small Ocean",
 		identifiedResourceName = "C_Small_Ocean",
 		identifiedDescriptionName = {
@@ -277959,7 +278978,9 @@ tbl = {
 	[20991] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Wings of Eden",
 		identifiedResourceName = "Fairy_Of_Eden",
 		identifiedDescriptionName = {
@@ -277998,7 +279019,9 @@ tbl = {
 	[22138] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Demonist Shoes",
 		identifiedResourceName = "Demonist_Shoes",
 		identifiedDescriptionName = {
@@ -278058,7 +279081,9 @@ tbl = {
 	[31696] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Shark Hat",
 		identifiedResourceName = "????",
 		identifiedDescriptionName = {
@@ -278078,7 +279103,9 @@ tbl = {
 	[31785] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Fin Ears",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -278098,7 +279125,9 @@ tbl = {
 	[32222] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Brooch of Hero",
 		identifiedResourceName = "Brooch_Of_Hero",
 		identifiedDescriptionName = {
@@ -278235,7 +279264,9 @@ tbl = {
 	[400054] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Large_Sorcerer_Crown",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Great Magician's Ceremonial Crown",
 		identifiedResourceName = "C_Large_Sorcerer_Crown",
 		identifiedDescriptionName = {
@@ -278279,7 +279310,9 @@ tbl = {
 	[480492] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "C_Alice_Broom",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Alice Broom",
 		identifiedResourceName = "C_Alice_Broom",
 		identifiedDescriptionName = {
@@ -278299,7 +279332,9 @@ tbl = {
 	[520003] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "Scythe_Of_Ice_Flame",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Scythe of Ice Flame",
 		identifiedResourceName = "Scythe_Of_Ice_Flame",
 		identifiedDescriptionName = {
@@ -278338,7 +279373,9 @@ tbl = {
 	[15209] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Drake's Coat",
 		identifiedResourceName = "Drake_Coat",
 		identifiedDescriptionName = {
@@ -278367,7 +279404,9 @@ tbl = {
 	[19326] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Cap",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Book Stack on Head",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278402,7 +279441,9 @@ tbl = {
 	[32206] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Prontera Militia Gloves",
 		identifiedResourceName = "Prta_Mil_Glove",
 		identifiedDescriptionName = {
@@ -278428,7 +279469,9 @@ tbl = {
 	[420110] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Old Camouflage Scarf",
 		identifiedResourceName = "C_ScarfOfHero_TW",
 		identifiedDescriptionName = {
@@ -278450,7 +279493,9 @@ tbl = {
 	[480207] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Traveller's Bag",
 		identifiedResourceName = "C_Traveller_Bag",
 		identifiedDescriptionName = {
@@ -278471,7 +279516,9 @@ tbl = {
 	[480222] = {
 		unidentifiedDisplayName = "Hood",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Japanese Umbrella",
 		identifiedResourceName = "C_J_Umbrella",
 		identifiedDescriptionName = {
@@ -278491,7 +279538,9 @@ tbl = {
 	[480289] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Moonlight Bell",
 		identifiedResourceName = "C_Moonlight_Bell",
 		identifiedDescriptionName = {
@@ -278582,7 +279631,9 @@ tbl = {
 	[550021] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "Stick",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Deus Ex Machina",
 		identifiedResourceName = "Deus_Ex_Machina_JP",
 		identifiedDescriptionName = {
@@ -278649,7 +279700,9 @@ tbl = {
 	[400078] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Aries Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278689,7 +279742,9 @@ tbl = {
 	[400079] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Libra Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278729,7 +279784,9 @@ tbl = {
 	[400094] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Aquarius Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278770,7 +279827,9 @@ tbl = {
 	[400095] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Aquarius Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278811,7 +279870,9 @@ tbl = {
 	[400098] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Taurus Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278852,7 +279913,9 @@ tbl = {
 	[400099] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Taurus Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278893,7 +279956,9 @@ tbl = {
 	[400116] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Virgo Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278934,7 +279999,9 @@ tbl = {
 	[400117] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Libra Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -278975,7 +280042,9 @@ tbl = {
 	[400118] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Cancer Diadem",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -279016,7 +280085,9 @@ tbl = {
 	[400119] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Lion Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -279057,7 +280128,9 @@ tbl = {
 	[400120] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Capricorn Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -279098,7 +280171,9 @@ tbl = {
 	[400121] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Biolab Gemini Crown",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -279139,7 +280214,9 @@ tbl = {
 	[400172] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Cap",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Atihan Hat",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -279159,7 +280236,9 @@ tbl = {
 	[490243] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Ring of Silver Claw",
 		identifiedResourceName = "Ring_of_SilverClaw",
 		identifiedDescriptionName = {
@@ -279398,7 +280477,9 @@ tbl = {
 	[5967] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Flying Galapago",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -279445,7 +280526,9 @@ tbl = {
 	[18712] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Fan In Mouth",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -279470,7 +280553,9 @@ tbl = {
 	[19535] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Cap",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Sinsuncho Hat",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -279490,7 +280575,9 @@ tbl = {
 	[19886] = {
 		unidentifiedDisplayName = "Glasses",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Luxury Sunglasses",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -279510,7 +280597,9 @@ tbl = {
 	[31434] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Stormy Cloud",
 		identifiedResourceName = "???",
 		identifiedDescriptionName = {
@@ -279530,7 +280619,9 @@ tbl = {
 	[470075] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Peep Toe Sandals",
 		identifiedResourceName = "Peep_Toe_Sandals",
 		identifiedDescriptionName = {
@@ -279823,7 +280914,9 @@ tbl = {
 	[19172] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Sitting Pope",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -279859,7 +280952,9 @@ tbl = {
 	[20925] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Commander's Parade Manteau",
 		identifiedResourceName = "Commander_manteau_J",
 		identifiedDescriptionName = {
@@ -279900,7 +280995,9 @@ tbl = {
 	[16051] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Valkyrie's Hammer",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -279941,7 +281038,9 @@ tbl = {
 	[32007] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "God Eater Dragon Spear",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -284619,7 +285718,9 @@ tbl = {
 	[10043] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Junior Steward Beta Hairband",
 		identifiedResourceName = "Ep_17_2_C_Admin1_Acc",
 		identifiedDescriptionName = {
@@ -284635,7 +285736,9 @@ tbl = {
 	[10044] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Steward Alpha's Hairband",
 		identifiedResourceName = "Ep_17_2_C_Admin2_Acc",
 		identifiedDescriptionName = {
@@ -284701,7 +285804,7 @@ tbl = {
 		unidentifiedDisplayName = "Sweety Card",
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Fire Dance skill damage +60%.",
 			"Fire Dance skill SP consume -25%.",
 			"Class: ^777777Card^000000",
@@ -286420,7 +287523,9 @@ tbl = {
 	[32248] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Earrings",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Pendant R",
 		identifiedResourceName = "Ein_SAFETY_PENDR",
 		identifiedDescriptionName = {
@@ -286451,7 +287556,9 @@ tbl = {
 	[32249] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Earrings",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Pendant B",
 		identifiedResourceName = "Ein_SAFETY_PENDL",
 		identifiedDescriptionName = {
@@ -286482,7 +287589,9 @@ tbl = {
 	[32250] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Epaulet R",
 		identifiedResourceName = "Ein_SAFETY_EPAULR",
 		identifiedDescriptionName = {
@@ -286504,7 +287613,9 @@ tbl = {
 	[32251] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Epaulet B",
 		identifiedResourceName = "Ein_SAFETY_EPAULL",
 		identifiedDescriptionName = {
@@ -286526,7 +287637,9 @@ tbl = {
 	[2058] = {
 		unidentifiedDisplayName = "Two-handed staff",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Detecting Staff",
 		identifiedResourceName = "Ein_BHSTAFF",
 		identifiedDescriptionName = {
@@ -286554,7 +287667,9 @@ tbl = {
 	[13346] = {
 		unidentifiedDisplayName = "Huuma Shuriken",
 		unidentifiedResourceName = "??_??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = " Grinder Huuma Shuriken",
 		identifiedResourceName = "Ein_BHHuuma",
 		identifiedDescriptionName = {
@@ -286582,7 +287697,9 @@ tbl = {
 	[21054] = {
 		unidentifiedDisplayName = "Two-Handed Sword",
 		unidentifiedResourceName = "??????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Claw Sword",
 		identifiedResourceName = "Ein_BHSWORD",
 		identifiedDescriptionName = {
@@ -286607,7 +287724,9 @@ tbl = {
 	[28045] = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "Katar",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bolt Crusher",
 		identifiedResourceName = "Ein_BHKATAR",
 		identifiedDescriptionName = {
@@ -286634,7 +287753,9 @@ tbl = {
 	[28140] = {
 		unidentifiedDisplayName = "Axe",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Saw Axe",
 		identifiedResourceName = "Ein_BHAXE",
 		identifiedDescriptionName = {
@@ -286661,7 +287782,9 @@ tbl = {
 	[18190] = {
 		unidentifiedDisplayName = "Bow",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bolt Shooter",
 		identifiedResourceName = "Ein_BHBOW",
 		identifiedDescriptionName = {
@@ -286831,7 +287954,9 @@ tbl = {
 	[32303] = {
 		unidentifiedDisplayName = "Revolver",
 		unidentifiedResourceName = "Revolver",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bolt Revolver",
 		identifiedResourceName = "Ein_1HGUN",
 		identifiedDescriptionName = {
@@ -287007,7 +288132,9 @@ tbl = {
 	[1867] = {
 		unidentifiedDisplayName = "Claw",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Knuckle",
 		identifiedResourceName = "Ein_1HKNUCK",
 		identifiedDescriptionName = {
@@ -287034,7 +288161,9 @@ tbl = {
 	[16099] = {
 		unidentifiedDisplayName = "Club",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Rubber Hammer",
 		identifiedResourceName = "Ein_1HHAMMER",
 		identifiedDescriptionName = {
@@ -287062,7 +288191,9 @@ tbl = {
 	[26162] = {
 		unidentifiedDisplayName = "Staff",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Welding Wand",
 		identifiedResourceName = "Ein_1HWAND",
 		identifiedDescriptionName = {
@@ -287090,7 +288221,9 @@ tbl = {
 	[26215] = {
 		unidentifiedDisplayName = "Whip",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Whip",
 		identifiedResourceName = "Ein_1HWHIP",
 		identifiedDescriptionName = {
@@ -287117,7 +288250,9 @@ tbl = {
 	[28635] = {
 		unidentifiedDisplayName = "Book",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Manual",
 		identifiedResourceName = "Ein_1HBOOK",
 		identifiedDescriptionName = {
@@ -287142,7 +288277,9 @@ tbl = {
 	[28771] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Metal Detector Mk47",
 		identifiedResourceName = "Ein_1HDAGGER",
 		identifiedDescriptionName = {
@@ -287169,7 +288306,9 @@ tbl = {
 	[28772] = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Jewel Detector Mk47",
 		identifiedResourceName = "Ein_1HMAGGER",
 		identifiedDescriptionName = {
@@ -287197,7 +288336,9 @@ tbl = {
 	[32026] = {
 		unidentifiedDisplayName = "Spear",
 		unidentifiedResourceName = "???",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Blocking Spear",
 		identifiedResourceName = "Ein_1HSPEAR",
 		identifiedDescriptionName = {
@@ -287224,7 +288365,9 @@ tbl = {
 	[32110] = {
 		unidentifiedDisplayName = "Musical Instrument",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Lute",
 		identifiedResourceName = "Ein_1HLUTE",
 		identifiedDescriptionName = {
@@ -287251,7 +288394,9 @@ tbl = {
 	[32352] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Saber",
 		identifiedResourceName = "Ein_1HSWORD",
 		identifiedDescriptionName = {
@@ -287277,7 +288422,9 @@ tbl = {
 	[550006] = {
 		unidentifiedDisplayName = "One-handed staff",
 		unidentifiedResourceName = "Staff",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Safety Foxtail",
 		identifiedResourceName = "Ein_1H_Foxtail",
 		identifiedDescriptionName = {
@@ -287306,7 +288453,9 @@ tbl = {
 	[15391] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Red Dragon Plate",
 		identifiedResourceName = "DragonA_Red",
 		identifiedDescriptionName = {
@@ -287340,7 +288489,9 @@ tbl = {
 	[15392] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Green Dragon Plate",
 		identifiedResourceName = "DragonA_Green",
 		identifiedDescriptionName = {
@@ -287374,7 +288525,9 @@ tbl = {
 	[15393] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Gold Dragon Plate",
 		identifiedResourceName = "DragonA_Gold",
 		identifiedDescriptionName = {
@@ -287408,7 +288561,9 @@ tbl = {
 	[15394] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Purple Dragon Plate",
 		identifiedResourceName = "DragonA_Purple",
 		identifiedDescriptionName = {
@@ -287442,7 +288597,9 @@ tbl = {
 	[15395] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Blue Dragon Plate",
 		identifiedResourceName = "DragonA_Blue",
 		identifiedDescriptionName = {
@@ -287476,7 +288633,9 @@ tbl = {
 	[15396] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "Armor",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Silver Dragon Plate",
 		identifiedResourceName = "DragonA_Silver",
 		identifiedDescriptionName = {
@@ -287510,7 +288669,9 @@ tbl = {
 	[15397] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soutane of Strength",
 		identifiedResourceName = "CassockA_STR",
 		identifiedDescriptionName = {
@@ -287542,7 +288703,9 @@ tbl = {
 	[15398] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soutane of Agility",
 		identifiedResourceName = "CassockA_AGI",
 		identifiedDescriptionName = {
@@ -287574,7 +288737,9 @@ tbl = {
 	[15399] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soutane of Vitality",
 		identifiedResourceName = "CassockA_VIT",
 		identifiedDescriptionName = {
@@ -287607,7 +288772,9 @@ tbl = {
 	[15400] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soutane of Dexterity",
 		identifiedResourceName = "CassockA_DEX",
 		identifiedDescriptionName = {
@@ -287640,7 +288807,9 @@ tbl = {
 	[15401] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soutane of Intellect",
 		identifiedResourceName = "CassockA_INT",
 		identifiedDescriptionName = {
@@ -287672,7 +288841,9 @@ tbl = {
 	[15402] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "Cotton Shirt",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Soutane of Luck",
 		identifiedResourceName = "CassockA_LUK",
 		identifiedDescriptionName = {
@@ -287702,7 +288873,9 @@ tbl = {
 	[20946] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "Scarf",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dragon Scale Hood",
 		identifiedResourceName = "Drag_Manteau",
 		identifiedDescriptionName = {
@@ -287726,7 +288899,9 @@ tbl = {
 	[20947] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Clergy's Manteau",
 		identifiedResourceName = "Cassock_Manteau",
 		identifiedDescriptionName = {
@@ -287750,7 +288925,9 @@ tbl = {
 	[22208] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Shoes",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dragon Scale Boots",
 		identifiedResourceName = "Dragon_Boots",
 		identifiedDescriptionName = {
@@ -287774,7 +288951,9 @@ tbl = {
 	[22209] = {
 		unidentifiedDisplayName = "Boots",
 		unidentifiedResourceName = "Boots",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Clergy's Boots",
 		identifiedResourceName = "Cassock_Boots",
 		identifiedDescriptionName = {
@@ -288053,7 +289232,9 @@ tbl = {
 	[23985] = {
 		unidentifiedDisplayName = "Dragon's Treasure",
 		unidentifiedResourceName = "Rafin Tuk Chest",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Dragon's Treasure",
 		identifiedResourceName = "Rafin Tuk Chest",
 		identifiedDescriptionName = {
@@ -288144,7 +289325,9 @@ tbl = {
 	[23986] = {
 		unidentifiedDisplayName = "Odin's Reliquary",
 		unidentifiedResourceName = "Rafin Tuk Chest",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Odin's Reliquary",
 		identifiedResourceName = "Rafin Tuk Chest",
 		identifiedDescriptionName = {
@@ -288283,7 +289466,7 @@ tbl = {
 		unidentifiedDisplayName = "Eliumina Radar",
 		unidentifiedResourceName = "ELYUMINA_RADAR",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A tracker designed by Eliumina which allows to find traitors wherever they are and punish them. It will make a loud sound if the leader of the Illusion agents is nearby.",
 			"Weight: ^7777771^000000"
 		},
@@ -288301,7 +289484,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Pitaya Tail",
 		unidentifiedResourceName = "PITAYA_TAIL_R",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A pitaya tail that gives off a sweet, fruity fragrance. They say it's best to eat while it's still fresh.",
 			"Weight: ^7777771^000000"
 		},
@@ -288319,7 +289502,7 @@ tbl = {
 		unidentifiedDisplayName = "Yellow Pitaya Tail",
 		unidentifiedResourceName = "PITAYA_TAIL_Y",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A pitaya tail that gives off a sweet, fruity fragrance. People usually ripen it a bit before eating it.",
 			"Weight: ^7777771^000000"
 		},
@@ -288337,7 +289520,7 @@ tbl = {
 		unidentifiedDisplayName = "Blue Pitaya Tail",
 		unidentifiedResourceName = "PITAYA_TAIL_B",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A pitaya tail that gives off a sweet, fruity fragrance. The ones with a thin peel are tastier.",
 			"Weight: ^7777771^000000"
 		},
@@ -288355,7 +289538,7 @@ tbl = {
 		unidentifiedDisplayName = "Green Pitaya Tail",
 		unidentifiedResourceName = "PITAYA_TAIL_G",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A pitaya tail that gives off a sour, fruity fragrance. It's too acidic to be eaten raw. Usually, it's juiced for cooking purposes.",
 			"Weight: ^7777771^000000"
 		},
@@ -288373,7 +289556,7 @@ tbl = {
 		unidentifiedDisplayName = "Purple Pitaya Tail",
 		unidentifiedResourceName = "PITAYA_TAIL_P",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A pitaya tail that gives off a sweet, fruity fragrance. This variety was specially cultivated to make it easier for people to eat.",
 			"Weight: ^7777771^000000"
 		},
@@ -288391,7 +289574,7 @@ tbl = {
 		unidentifiedDisplayName = "Pitaya Boss Tail",
 		unidentifiedResourceName = "PITAYA_TAIL_BOSS",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A pitaya tail that gives off a sweet, fruity fragrance. Its sugar content is very high, thanks to the efforts to cultivate this breed.",
 			"",
 			"Weight: ^7777771^000000"
@@ -288411,7 +289594,7 @@ tbl = {
 		unidentifiedDisplayName = "Gardener's Cookie",
 		unidentifiedResourceName = "GARDENERS_COOKIE",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A cookie calmly given by the non-so-calm gardener. By the way, what's he chewing?..",
 			"Weight: ^7777771^000000"
 		},
@@ -288429,7 +289612,7 @@ tbl = {
 		unidentifiedDisplayName = "Freezing Trap",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A freezing trap created by modifying a special alloy trap. When one steps on it, emits icy air freezing up everything around in an instant.",
 			"Weight: ^7777771^000000"
 		},
@@ -288447,7 +289630,7 @@ tbl = {
 		unidentifiedDisplayName = "Robot Part",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A part used for a robot's body, legs, arms, etc.",
 			"Weight: ^7777771^000000"
 		},
@@ -288462,7 +289645,7 @@ tbl = {
 		unidentifiedDisplayName = "Emergency Key",
 		unidentifiedResourceName = "????????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"An emergency key that opens the doors to the storage basement.",
 			"Weight: ^7777771^000000"
 		},
@@ -288480,7 +289663,7 @@ tbl = {
 		unidentifiedDisplayName = "Potato Chip",
 		unidentifiedResourceName = "????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A bio-potato chip used by Illusion agents.",
 			"It plays an important role in absorbing the electromagnetic waves",
 			"generated as a result of overheating.",
@@ -288502,7 +289685,7 @@ tbl = {
 		unidentifiedDisplayName = "Broken Robot Core",
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"The mansion manager's core, now broken by infiltrator's assault. It seems the unstable light surrounding the core is screaming for help.",
 			"Weight: ^7777770^000000"
 		},
@@ -288531,7 +289714,7 @@ tbl = {
 		unidentifiedDisplayName = "Broken Robot Part",
 		unidentifiedResourceName = "??????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A part of a broken robot. Looks like it might be useful for something.",
 			"Weight: ^7777770^000000"
 		},
@@ -288549,7 +289732,7 @@ tbl = {
 		unidentifiedDisplayName = "Robot Communication Chip",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A standard communication chip built into a robot. We can still use it somewhere.",
 			"Weight: ^7777770^000000"
 		},
@@ -288567,7 +289750,7 @@ tbl = {
 		unidentifiedDisplayName = "Bath Salt A",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
 			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +5%.",
 			"Weight: ^7777771^000000"
@@ -288587,7 +289770,7 @@ tbl = {
 		unidentifiedDisplayName = "Bath Salt B",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
 			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +10%.",
 			"Weight: ^7777771^000000"
@@ -288607,7 +289790,7 @@ tbl = {
 		unidentifiedDisplayName = "Bath Salt C",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Bath salt specially made by the bath managers of Varmundt's Mansion according to a special recipe.",
 			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage inflicted on monsters +15%.",
 			"Weight: ^7777771^000000"
@@ -288627,7 +289810,7 @@ tbl = {
 		unidentifiedDisplayName = "Aromatherapy Oil",
 		unidentifiedResourceName = "???????",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"An aromatic massage oil extracted from various herbs. Very effective in improving blood circulation and overcoming fatigue.",
 			"Effective in Large Meditatio Bath Dungeon in Varmundt's Mansion. For 15 min., physical and magic damage from monsters -10%.",
 			"Weight: ^7777771^000000"
@@ -289319,7 +290502,9 @@ tbl = {
 	[450127] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Armor Type A",
 		identifiedResourceName = "Auto_Armor_A",
 		identifiedDescriptionName = {
@@ -289345,7 +290530,9 @@ tbl = {
 	[450128] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Armor Type B",
 		identifiedResourceName = "Auto_Armor_B",
 		identifiedDescriptionName = {
@@ -289371,7 +290558,9 @@ tbl = {
 	[470022] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Leg Type A",
 		identifiedResourceName = "Auto_Leg_A",
 		identifiedDescriptionName = {
@@ -289397,7 +290586,9 @@ tbl = {
 	[470023] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Leg Type B",
 		identifiedResourceName = "Auto_Leg_B",
 		identifiedDescriptionName = {
@@ -289423,7 +290614,9 @@ tbl = {
 	[480020] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Engine Wing Type A",
 		identifiedResourceName = "Auto_Engine_A",
 		identifiedDescriptionName = {
@@ -289449,7 +290642,9 @@ tbl = {
 	[480021] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Engine Wing Type B",
 		identifiedResourceName = "Auto_Engine_B",
 		identifiedDescriptionName = {
@@ -289475,7 +290670,9 @@ tbl = {
 	[490024] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Booster R",
 		identifiedResourceName = "Auto_B_R",
 		identifiedDescriptionName = {
@@ -289495,7 +290692,9 @@ tbl = {
 	[490025] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Booster L",
 		identifiedResourceName = "Auto_B_L",
 		identifiedDescriptionName = {
@@ -289516,7 +290715,9 @@ tbl = {
 	[490026] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Battle Chip R",
 		identifiedResourceName = "Auto_BC_R",
 		identifiedDescriptionName = {
@@ -289536,7 +290737,9 @@ tbl = {
 	[490027] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "Ring",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Automatic Battle Chip L",
 		identifiedResourceName = "Auto_BC_L",
 		identifiedDescriptionName = {
@@ -291292,7 +292495,7 @@ tbl = {
 		unidentifiedDisplayName = "Magical Soapstone",
 		unidentifiedResourceName = "Magical_Igni_Stone",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"An ore that contains powerful magic.",
 			"No one knows how it came into existence and what it can be used for.",
 			"Weight: ^7777770^000000"
@@ -294706,7 +295909,7 @@ tbl = {
 		unidentifiedDisplayName = "Automatic Module Box",
 		unidentifiedResourceName = "Auto_M_Box",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Contains an Automatic Module.",
 			"You can obtain 1 of the Automatic Modules (except epic ones).",
 			"Weight: ^7777770^000000"
@@ -294726,7 +295929,7 @@ tbl = {
 		unidentifiedDisplayName = "Epic Module Box",
 		unidentifiedResourceName = "Epic_M_Box",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Contains a magic mineral or a very rare Automatic Module.",
 			"You can obtain a magic mineral or an epic Module.",
 			"Weight: ^7777770^000000"
@@ -294746,7 +295949,7 @@ tbl = {
 		unidentifiedDisplayName = "Automatic Booster Box (Physical)",
 		unidentifiedResourceName = "Auto_M_I_Box_A",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Contains an item for enhancing a special mechanical device.",
 			"You can obtain 1 of the Boosters that enhance physical abilities.",
 			"Weight: ^7777770^000000"
@@ -294766,7 +295969,7 @@ tbl = {
 		unidentifiedDisplayName = "Automatic Booster Box (Magic)",
 		unidentifiedResourceName = "Auto_M_I_Box_B",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"Contains an item for enhancing a special mechanical device.",
 			"You can obtain 1 of the Boosters that enhance magic abilities.",
 			"Weight: ^7777770^000000"
@@ -294786,7 +295989,7 @@ tbl = {
 		unidentifiedDisplayName = "Common Automatic Booster (Physical)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A device for enhancing special mechanic equipment.",
 			"You can get 1 enhancing physical effect.",
 			"^ffffff_^000000",
@@ -294863,7 +296066,7 @@ tbl = {
 		unidentifiedDisplayName = "Advanced Automatic Booster (Physical)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A device for enhancing special mechanic equipment.",
 			"You can get 1-2 enhancing physical effects.",
 			"^ffffff_^000000",
@@ -294940,7 +296143,7 @@ tbl = {
 		unidentifiedDisplayName = "Elite Automatic Booster (Physical)",
 		unidentifiedResourceName = "Auto_Imp_Melee",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A device for enhancing special mechanic equipment.",
 			"You can get 3 enhancing physical effects.",
 			"^ffffff_^000000",
@@ -295017,7 +296220,7 @@ tbl = {
 		unidentifiedDisplayName = "Common Automatic Booster (Magic)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A device for enhancing special mechanic equipment.",
 			"You can get 1 enhancing magic effect.",
 			"^ffffff_^000000",
@@ -295094,7 +296297,7 @@ tbl = {
 		unidentifiedDisplayName = "Advanced Automatic Booster (Magic)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A device for enhancing special mechanic equipment.",
 			"You can get 1-2 enhancing magic effects.",
 			"^ffffff_^000000",
@@ -295171,7 +296374,7 @@ tbl = {
 		unidentifiedDisplayName = "Elite Automatic Booster (Magic)",
 		unidentifiedResourceName = "Auto_Imp_Magic",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A device for enhancing special mechanic equipment.",
 			"You can get 3 enhancing magic effects.",
 			"^ffffff_^000000",
@@ -295248,7 +296451,7 @@ tbl = {
 		unidentifiedDisplayName = "Illusion Enchant Cube",
 		unidentifiedResourceName = "Auto_M_I_Box_A",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A cube designed for enhancing Illusion armor.",
 			"Enhances Illusion armor with refine rate +4 or higher to +7.",
 			"^ffffff_^000000",
@@ -295286,7 +296489,7 @@ tbl = {
 		unidentifiedDisplayName = "Automatic Enchant Cube",
 		unidentifiedResourceName = "Auto_M_I_Box_B",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A cube designed fof enhancing Automatic armor.",
 			"Enhances Automatic armor with refine rate +4 or higher to +7.",
 			"^ffffff_^000000",
@@ -295360,7 +296563,7 @@ tbl = {
 		unidentifiedDisplayName = "Barmeal Ticket",
 		unidentifiedResourceName = "BarMealTicket",
 		unidentifiedDescriptionName = {
-			"Not identified. Can be identified with Magnifier.",
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000.",
 			"A ticket issued by the Varmundt's Mansion Steward of treat the mercenaries efficiently.",
 			"It has become monetized inside Varmundt's Mansion; you can buy practically everything with this ticket there.",
 			"Weight: ^7777770^000000"
@@ -295379,7 +296582,9 @@ tbl = {
 	[15430] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Diana Armor",
 		identifiedResourceName = "Grace_Carrot_Robe",
 		identifiedDescriptionName = {
@@ -295418,7 +296623,9 @@ tbl = {
 	[15431] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mercury Armor",
 		identifiedResourceName = "Grace_Snovice_Robe",
 		identifiedDescriptionName = {
@@ -295466,7 +296673,9 @@ tbl = {
 	[15432] = {
 		unidentifiedDisplayName = "Mantle",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Bacchus Armor",
 		identifiedResourceName = "Siege_Robe_2Tier",
 		identifiedDescriptionName = {
@@ -295503,7 +296712,9 @@ tbl = {
 	[15433] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Neptune Armor",
 		identifiedResourceName = "Grace_Moon_Suit",
 		identifiedDescriptionName = {
@@ -295540,7 +296751,9 @@ tbl = {
 	[15875] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Spirit King's Crown",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -295560,7 +296773,9 @@ tbl = {
 	[480070] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Raguel's Wings",
 		identifiedResourceName = "Wings_Of_Raguel",
 		identifiedDescriptionName = {
@@ -296417,7 +297632,9 @@ tbl = {
 	[19285] = {
 		unidentifiedDisplayName = "Helmet",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Siegfried's Helmet",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
@@ -296451,7 +297668,9 @@ tbl = {
 	[20952] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Mysterious Muffler",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
@@ -296493,7 +297712,9 @@ tbl = {
 	[28433] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Luminous Blue Stone",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -296534,7 +297755,9 @@ tbl = {
 	[400048] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Gift of Panagia",
 		identifiedResourceName = "Gift_Of_Panagia",
 		identifiedDescriptionName = {
@@ -296597,7 +297820,9 @@ tbl = {
 	[15407] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "White Knight Armor",
 		identifiedResourceName = "WhiteknightArmor",
 		identifiedDescriptionName = {
@@ -296625,7 +297850,9 @@ tbl = {
 	[19024] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Feathers of Protection",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -296667,7 +297894,9 @@ tbl = {
 	[19381] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Cloth of Protection",
 		identifiedResourceName = "Protect_cloth",
 		identifiedDescriptionName = {
@@ -296708,7 +297937,9 @@ tbl = {
 	[460057] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Spenta Armaiti",
 		identifiedResourceName = "Spenta_Armaiti",
 		identifiedDescriptionName = {
@@ -296738,7 +297969,9 @@ tbl = {
 	[480581] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Costume Samurai Twin Sword",
 		identifiedResourceName = "C_I_Samurai_Sword",
 		identifiedDescriptionName = {
@@ -296832,7 +298065,9 @@ tbl = {
 	[5975] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Zealotus Doll",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
@@ -296860,7 +298095,9 @@ tbl = {
 	[470391] = {
 		unidentifiedDisplayName = "Footwear",
 		unidentifiedResourceName = "Sandals",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Witch Shoes",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
@@ -296896,7 +298133,9 @@ tbl = {
 	[480228] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Day of the Dead",
 		identifiedResourceName = "Day_of_the_Dead",
 		identifiedDescriptionName = {
@@ -296938,7 +298177,9 @@ tbl = {
 	[490831] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
 		identifiedDisplayName = "Memento Mori",
 		identifiedResourceName = "Memento_Mori",
 		identifiedDescriptionName = {
@@ -296966,6 +298207,623 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
+	},
+	[19910] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Costume Fancy Witch's Hat",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A fashionable witch's hat made specifically for this year's Halloween party.",
+			"^ff0000Animated^000000",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1098,
+		costume = true
+	},
+	[400101] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "Cap",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Gates of Netherworld",
+		identifiedResourceName = "GatesofNetherworld",
+		identifiedDescriptionName = {
+			"With wicked crown and brim most vile",
+			"This hat will fit the darkest style.",
+			"The seeds of evil grow within,",
+			"And they will sprout into sin.",
+			"^777777-------------^000000",
+			"^ff0000Animated^000000",
+			"AGI +5, INT +5.",
+			" ",
+			"Physical/Magical damage on enemies of all properties +10%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 additionally:",
+			"Physical/Magical damage on enemies of all properties +15%.",
+			"Fixed Cast Time of all skills -50%.",
+			"^264696[If refined to +9 or higher]^000000 additionally:",
+			"ASPD +15%.",
+			"Fixed Cast Time of all skills -20%.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777712^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2016,
+		costume = false
+	},
+	[490833] = {
+		unidentifiedDisplayName = "Fallen Seraphim Ring",
+		unidentifiedResourceName = "Fallen_Seraphim_ring",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Fallen Seraphim Ring",
+		identifiedResourceName = "Fallen_Seraphim_ring",
+		identifiedDescriptionName = {
+			"After losing his heart and being corrupted, he turned into a fallen angel and contaminated the supreme will that this ring represents.",
+			"^777777-------------^000000",
+			"MDEF +15.",
+			"ATK +10%, MATK +10%",
+			" ",
+			"Short/long-ranged physical damage +10%.",
+			"All property magic damage +10%.",
+			"Variable Cast Time of all skills -10%, Cast Delay -10%.",
+			"ASPD +10%.",
+			"Ignores +20% of DEF/MDEF of all class monsters.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory (R)^000000",
+			"Defense: ^77777710^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490834] = {
+		unidentifiedDisplayName = "Devil Wing Ears",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Devil Wing Ears",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"An ear accessory made with Evil Wing.",
+			"^777777-------------^000000",
+			"^264696[For every 5 Base Levels]^000000",
+			"Flee +1, MATK +1., Crit +1",
+			" ",
+			"[Set Bonus]",
+			"<ITEM>Skin of Ventus<INFO>2536</INFO></ITEM>",
+			"<ITEM>Devil Wing Ears<INFO>490834</INFO></ITEM>",
+			" ",
+			"^264696[If Skin of Ventus refined to +7 or higher]^000000",
+			"Perfect Dodge +20.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[430016] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "Headgear",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "There is... Something...",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"You feel something heavy over your shoulders, but there's nothing there! It gives off a creepy feeling.",
+			"^777777-------------^000000",
+			"^ff0000Animated^000000",
+			"Increases Movement Speed.",
+			"Perfect Dodge +8.",
+			" ",
+			"When you receive physical or magic damage, you may be inflicted with Horror and Curse effects.",
+			" ",
+			"When using the ^0000FF[First Aid]^000000 skill, greatly increases Movement Speed for 20 sec.",
+			"^0000FF[First Aid]^000000 cooldown +60 sec.",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Required Level: ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1091,
+		costume = false
+	},
+	[105716] = {
+		unidentifiedDisplayName = "Netherworld Treasure",
+		unidentifiedResourceName = "Kiel_Egg",
+		unidentifiedDescriptionName = {
+			"This is not a box, but some kind of chthonic monster! Who knows what's hidden in its belly?"
+		},
+		identifiedDisplayName = "Netherworld Treasure",
+		identifiedResourceName = "Kiel_Egg",
+		identifiedDescriptionName = {
+			"This is not a box, but some kind of chthonic monster! Who knows what's hidden in its belly?",
+			"Open the chest to receive one of the following items:",
+			"^777777-------------^000000",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x3200^000000",
+			"^4A94F7-^000000 <ITEM>Fallen Seraphim<INFO>490833</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Ring<INFO>490833</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guarantee Weapon 8Up<INFO>6229</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Armor +8 Refine Ticket<INFO>6233</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Neuralizer Box<INFO>12911</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blacksmith Blessing<INFO>6635</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Reset Stone<INFO>6320</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Carnium<INFO>6225</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HD Bradium<INFO>6226</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Witch Shoes<INFO>470391</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Devil Wing Ears<INFO>490834</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Gates of Netherworld<INFO>400101</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>There is...<INFO>430016</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Something...<INFO>430016</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Costume Fancy<INFO>19910</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Witch's Hat<INFO>19910</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x100^000000",
+			"^4A94F7-^000000 <ITEM>Inf. Giant Fly Wing<INFO>23330</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Box (1 h.)<INFO>23330</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Spring Mana Potion<INFO>100005</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Forgotten God Treasure<INFO>105121</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Battle Manual<INFO>12411</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>HE Bubble Gum<INFO>12412</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Superhuman Sweets<INFO>22819</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Elunium<INFO>7619</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Enriched Oridecon<INFO>7620</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>AGI Biscuit Stick<INFO>23225</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>DEX Biscuit Stick<INFO>23221</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>INT Biscuit Stick<INFO>23226</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>LUK Biscuit Stick<INFO>23222</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>STR Biscuit Stick<INFO>23223</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>VIT Biscuit Stick<INFO>23224</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Bloody Branch<INFO>12103</INFO></ITEM> ^777777x2^000000",
+			"^4A94F7-^000000 <ITEM>Party Assumptio<INFO>14590</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM> 5 Scroll<INFO>14590</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Blessing<INFO>14588</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>10 Scroll<INFO>14588</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Party Increase Agi<INFO>14589</INFO></ITEM> ",
+			"^4A94F7^000000 <ITEM>10 Scroll<INFO>14589</INFO></ITEM> ^777777x4^000000",
+			"^4A94F7-^000000 <ITEM>Archmage Potion<INFO>23898</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Special Blessing<INFO>23047</INFO></ITEM> ",
+			"^4A94F7^000000 <ITEM>of Tyr<INFO>23047</INFO></ITEM> ^777777x10^000000",
+			"^4A94F7-^000000 <ITEM>Special Kafra Card<INFO>23177</INFO></ITEM> ^777777x15^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Pudding<INFO>12710</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Mind Potion<INFO>100317</INFO></ITEM> ^777777x3^000000",
+			"^4A94F7-^000000 <ITEM>Water of Life<INFO>12578</INFO></ITEM> ^777777x7^000000",
+			"^4A94F7-^000000 <ITEM>Superb Fish Slice<INFO>14524</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Dried Yggdrasil<INFO>12293</INFO></ITEM>",
+			"^4A94F7^000000 <ITEM>Berries<INFO>12293</INFO></ITEM> ^777777x70^000000",
+			"^4A94F7-^000000 <ITEM>Yummy Skewered Grill<INFO>12335</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Guyak Candy<INFO>12709</INFO></ITEM> ^777777x35^000000",
+			"^4A94F7-^000000 <ITEM>Hoddmimis Seed<INFO>12405</INFO></ITEM> ^777777x25^000000",
+			"^4A94F7-^000000 <ITEM>Big Bun<INFO>14522</INFO></ITEM> ^777777x20^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6903] = {
+		unidentifiedDisplayName = "King Earthworm",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "King Earthworm",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"^ff0000Character Bound.^000000",
+			"A big and beautiful Earthworm.",
+			"Allows you to enchant the Hode Head costume.",
+			"^777777-------------^000000",
+			"Available Enchants:",
+			"^4A94F7-^000000 <ITEM>Knight Worm<INFO>56810</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Guard Worm<INFO>56811</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Cross Worm<INFO>56812</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Wicked Worm<INFO>56813</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Dark Arts Worm<INFO>56814</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Conjurer Worm<INFO>56815</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Blessed Worm<INFO>56816</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Martial Arts Worm<INFO>56817</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Huntsman Worm<INFO>56818</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Main Stage Worm<INFO>56819</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Mechanical Worm<INFO>56820</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Mutated Worm<INFO>56821</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Headshot Worm<INFO>56822</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Cat Worm<INFO>56823</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Shadow Worm<INFO>56824</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Soul Worm<INFO>56825</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Super Star Worm<INFO>56826</INFO></ITEM>",
+			"^4A94F7-^000000 <ITEM>Humble Worm<INFO>56827</INFO></ITEM>",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56810] = {
+		unidentifiedDisplayName = "Knight Worm",
+		unidentifiedResourceName = "Hode_Knight",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Knight Worm",
+		identifiedResourceName = "Hode_Knight",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Rune Knights]",
+			"Increase damage of ^0000FF[Wind Cutter]^000000 and ^0000FF[Hundred Spear]^000000 by 1000%",
+			"Increase damage of ^0000FF[Dragon Breath]^000000, ^0000FF[Dragon Water Breath]^000000 and ^0000FF[Sonic Wave]^000000 by 100%",
+			"Increase damage of ^0000FF[Ignition Break]^000000 by 10%",
+			"Immunity to knockback",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56811] = {
+		unidentifiedDisplayName = "Guard Worm",
+		unidentifiedResourceName = "Hode_Guard",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Guard Worm",
+		identifiedResourceName = "Hode_Guard",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Royal Guards]",
+			"Increase damage of ^0000FF[Shield Press]^000000 and ^0000FF[Genesis Ray]^000000 by 1000%",
+			"Increase damage of ^0000FF[Vanishing Point]^000000, ^0000FF[Overbrand]^000000 and ^0000FF[Cannon Spear]^000000 by 100%",
+			"Increase damage of ^0000FF[Earth Drive]^000000 and ^0000FF[Exceed Break]^000000 by 10%",
+			"Hit +1000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56812] = {
+		unidentifiedDisplayName = "Cross Worm",
+		unidentifiedResourceName = "Hode_Cross",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Cross Worm",
+		identifiedResourceName = "Hode_Cross",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Guillotine Crosses]",
+			"Increase damage of ^0000FF[Cross Ripper Slasher]^000000 by 1000%",
+			"Increase damage of ^0000FF[Rolling Cutter]^000000 by 100%",
+			"Increase damage of ^0000FF[Cross Impact]^000000 and ^0000FF[Counter Slash]^000000 by 10%",
+			"Reduce cooldown of ^0000FF[Hallucination Walk]^000000 by 250 sec.",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56813] = {
+		unidentifiedDisplayName = "Wicked Worm",
+		unidentifiedResourceName = "Hode_Wicked",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Wicked Worm",
+		identifiedResourceName = "Hode_Wicked",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Shadow Chasers]",
+			"Increase damage of ^0000FF[Crimson Rock]^000000, ^0000FF[Ignition Break]^000000 and  ^0000FF[Arrow Storm]^000000 by 1000%",
+			"Increase damage of ^0000FF[Feint Bomb]^000000 by 100%",
+			"Increase damage of ^0000FF[Fatal Menace]^000000 and ^0000FF[Triangle Shot]^000000 by 10%",
+			"Matk +1000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56814] = {
+		unidentifiedDisplayName = "Dark Arts Worm",
+		unidentifiedResourceName = "Hode_Dark",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Dark Arts Worm",
+		identifiedResourceName = "Hode_Dark",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Warlocks]",
+			"Increase damage of ^0000FF[Hell Inferno]^000000 and ^0000FF[Comet]^000000 by 1000%",
+			"Increase damage of ^0000FF[Crimson Rock]^000000, ^0000FF[Jack Frost]^000000, ^0000FF[Chain Lightening]^000000 and ^0000FF[Earth Strain]^000000 by 100%",
+			"Increase damage of ^0000FF[Tetra Vortex]^000000 and ^0000FF[Soul Expansion]^000000 by 10%",
+			"Reduce cooldown of ^0000FF[Intensification]^000000 by 240 sec.",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56815] = {
+		unidentifiedDisplayName = "Conjurer Worm",
+		unidentifiedResourceName = "Hode_Conjurer",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Conjurer Worm",
+		identifiedResourceName = "Hode_Conjurer",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Sorcerers]",
+			"Increase damage of ^0000FF[Fire Walk]^000000, ^0000FF[Electric Walk]^000000 and ^0000FF[Poison Burst]^000000 by 1000%",
+			"Increase damage of ^0000FF[Killing Cloud]^000000 and ^0000FF[Varetyr Spear]^000000 by 100%",
+			"Increase damage of ^0000FF[Psychic Wave]^000000, ^0000FF[Diamond Dust]^000000 and ^0000FF[Earth Grave]^000000 by 10%",
+			"Atk +1000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56816] = {
+		unidentifiedDisplayName = "Blessed Worm",
+		unidentifiedResourceName = "Hode_Blessed",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Blessed Worm",
+		identifiedResourceName = "Hode_Blessed",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Arch Bishops]",
+			"Increase damage of ^0000FF[Judex]^000000 and ^0000FF[Duple Light]^000000 by 1000%",
+			"Increase damage of ^0000FF[Magnus Exorcismus]^000000 by 100%",
+			"Increase damage of ^0000FF[Adoramus]^000000 by 10%",
+			"Heal effectiveness +100%",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56817] = {
+		unidentifiedDisplayName = "Martial Arts Worm",
+		unidentifiedResourceName = "Hode_Material",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Martial Arts Worm",
+		identifiedResourceName = "Hode_Material",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Suras]",
+			"Increase damage of ^0000FF[Dragon Combo]^000000, ^0000FF[Fallen Empire]^000000 and ^0000FF[Howling Lion]^000000 by 1000%",
+			"Increase damage of ^0000FF[Riding Lightning]^000000, ^0000FF[Sky Net Blow]^000000 and ^0000FF[Knuckle Arrow]^000000 by 100%",
+			"Increase damage of ^0000FF[Rampage Blaster]^000000 by 10%",
+			"Natural HP/SP recovery +5000%",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56818] = {
+		unidentifiedDisplayName = "Huntsman Worm",
+		unidentifiedResourceName = "Hode_Huntsman",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Huntsman Worm",
+		identifiedResourceName = "Hode_Huntsman",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Rangers]",
+			"Increase damage of ^0000FF[Bomb Cluster]^000000 by 1000%",
+			"Increase damage of ^0000FF[Aimed Bolt]^000000, ^0000FF[Warg Strike]^000000, ^0000FF[Warg Bite]^000000 by 100%",
+			"Increase damage of ^0000FF[Arrow Storm]^000000 by 10%",
+			"Reduce cooldown of ^0000FF[No Limits]^000000 by 240 sec.",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56819] = {
+		unidentifiedDisplayName = "Main Stage Worm",
+		unidentifiedResourceName = "Hode_Main",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Main Stage Worm",
+		identifiedResourceName = "Hode_Main",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Maestros/Wanderers]",
+			"Increase damage of ^0000FF[Reverberation]^000000 and ^0000FF[Great Echo]^000000 by 1000%",
+			"Increase damage of ^0000FF[Metallic Sound]^000000 by 100%",
+			"Increase damage of ^0000FF[Severe Rainstorm]^000000 by 10%",
+			"When using ^0000FF[Improvised Song]^000000: Matk +3000 for 3 seconds",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56820] = {
+		unidentifiedDisplayName = "Mechanical Worm",
+		unidentifiedResourceName = "Hode_Mechanical",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Mechanical Worm",
+		identifiedResourceName = "Hode_Mechanical",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Mechanics]",
+			"Increase damage of ^0000FF[Vulcan Arm]^000000, ^0000FF[Flame Launcher]^000000, ^0000FF[Ice Launcher]^000000 and ^0000FF[Power Swing]^000000 by 1000%",
+			"Increase damage of ^0000FF[Knuckle Boost]^000000, ^0000FF[Axe Tornado]^000000 and ^0000FF[Lava Flow]^000000 by 100%",
+			"Increase damage of ^0000FF[Axe Boomerang]^000000 and ^0000FF[Arm Cannon]^000000 by 10%",
+			"Def +1000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56821] = {
+		unidentifiedDisplayName = "Mutated Worm",
+		unidentifiedResourceName = "Hode_Mutated",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Mutated Worm",
+		identifiedResourceName = "Hode_Mutated",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Genetics]",
+			"Increase damage of ^0000FF[Cart Tornado]^000000 and ^0000FF[Spore Explosion]^000000 by 1000%",
+			"Increase damage of ^0000FF[Crazy Vines]^000000 by 10%",
+			"Mdef +500",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56822] = {
+		unidentifiedDisplayName = "Headshot Worm",
+		unidentifiedResourceName = "Hode_Headshot",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Headshot Worm",
+		identifiedResourceName = "Hode_Headshot",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Rebellions]",
+			"Increase damage of ^0000FF[God's Hammer]^000000 and ^0000FF[Dragon Tail]^000000 by 1000%",
+			"Increase damage of ^0000FF[Fire Rain]^000000 and ^0000FF[Slug Shot]^000000 by 100%",
+			"Increase damage of ^0000FF[Round Trip]^000000 and ^0000FF[Fire Dance]^000000 by 10%",
+			"Enables use of ^0000FF[No Limits]^000000 lv 5",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56823] = {
+		unidentifiedDisplayName = "Cat Worm",
+		unidentifiedResourceName = "Hode_Cat",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Cat Worm",
+		identifiedResourceName = "Hode_Cat",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Summoners]",
+			"Increase damage of ^0000FF[Catnip Meteor]^000000 by 1000%",
+			"Increase damage of ^0000FF[Lunatic Carrot Beat]^000000, ^0000FF[Silvervine Stem Spear]^000000 by 100%",
+			"Increase damage of ^0000FF[Picky Peck]^000000 by 10%",
+			"MaxHP +10000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56824] = {
+		unidentifiedDisplayName = "Shadow Worm",
+		unidentifiedResourceName = "Hode_Shadow",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Shadow Worm",
+		identifiedResourceName = "Hode_Shadow",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Kagerous/Oboros]",
+			"Increase damage of ^0000FF[Cross Slash]^000000 and ^0000FF[Soul Cutter]^000000 by 1000%",
+			"Increase damage of ^0000FF[Explosive Kunai]^000000 and ^0000FF[Kunai Splash]^000000 by 100%",
+			"Increase damage of ^0000FF[Swirling Petals]^000000 and ^0000FF[Flaming Petals]^000000 by 10%",
+			"Flee +1000",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56825] = {
+		unidentifiedDisplayName = "Soul Worm",
+		unidentifiedResourceName = "Hode_Soul",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Soul Worm",
+		identifiedResourceName = "Hode_Soul",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Soul Reapers]",
+			"Increase damage of ^0000FF[Curse Explosion]^000000 by 1000%",
+			"Increase damage of ^0000FF[Esu]^000000 by 100%",
+			"Increase damage of ^0000FF[Espa]^000000 and  by 10%",
+			"Enable use of ^0000FF[Drain Life]^000000 lv 5",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56826] = {
+		unidentifiedDisplayName = "Super Star Worm",
+		unidentifiedResourceName = "Hode_Super",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Super Star Worm",
+		identifiedResourceName = "Hode_Super",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Star Emperors]",
+			"Increase damage of  ^0000FF[Radiant Kick]^000000 and ^0000FF[Falling Stars]^000000 by 1000%",
+			"Increase damage of ^0000FF[Flaming Kick]^000000 and ^0000FF[Solar Explosion]^000000 by 100%",
+			"Increase damage of ^0000FF[New Moon Kick]^000000 and ^0000FF[Full Moon Kick]^000000 by 10%",
+			"When using ^0000FF[Cosmic Stance]^000000, autocast ^0000FF[TKM Spirit]^000000 lv5 on self",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[56827] = {
+		unidentifiedDisplayName = "Humble Worm",
+		unidentifiedResourceName = "Hode_Humble",
+		unidentifiedDescriptionName = {},
+		identifiedDisplayName = "Humble Worm",
+		identifiedResourceName = "Hode_Humble",
+		identifiedDescriptionName = {
+			"A strange worm that improves Hode costumes",
+			"[When worn by Expanded Supernovices]",
+			"Increase all stats by 250",
+			"^ff0000Item effects active during 'Hode Invasion' event.^000000",
+			"^777777-------------^000000",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0
 	}
 }
 

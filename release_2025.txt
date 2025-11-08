@@ -1,3 +1,18 @@
+06.11.2025 10:50
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The OS headgears arrived in launcher.
+— The Chronosets & FAW Sets arrived in launcher.
+— The Special Packs for Rune Knight and Royal Guard arrived in launcher.
+
+Changes:
+— Fixed a bug that caused an item Main Stage Worm to work incorrectly. Now it enhances the Reverberation skill correctly.
+
+More: https://eu.4gameforum.com/threads/695720/
+
+================
 30.10.2025 12:22
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:

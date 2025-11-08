@@ -2692,7 +2692,7 @@
 6900	1	1	0	1	0	1	1	1	//Giant_Squid
 6901	1	1	0	1	0	1	1	1	//Sturgeon
 6902	1	1	0	1	0	1	1	1	//Jumbo_Shrimp
-6903	1	1	0	1	0	1	1	1	//Giant_Earthworm
+6903	1	1	1	1	1	1	1	1	//Giant_Earthworm
 6867	1	1	0	1	0	1	1	1	//InsectCollected_BigBox
 6868	1	1	0	1	0	1	1	1	//InsectCollected_MidBox
 6869	1	1	1	1	1	1	1	1	//Dust_14ySummerEvent
@@ -5440,5 +5440,6 @@
 56787	1	1	1	1	1	1	1	1	//Hode_Enc
 56788	1	1	1	1	1	1	1	1	//Hode_Refine
 56789	1	1	1	1	1	1	1	1	//Hode_Box
+
 
 //ID,	Drop,	Trade,	Storage,	Cart,	NPCshop,	Mail,	Auction,	GuildStorage
