@@ -301,6 +301,9 @@ eb3d3d56337a52fafd856f2ce4dc0ae7 *data\2_evt02.gnd
 7cae72227b823bc7b28dc2054e2b32b2 *data\33_evt02.rsw
 11840e7c461a561f71f1e779941b59d2 *data\3@evt02.gat
 7cae72227b823bc7b28dc2054e2b32b2 *data\3@evt02.rsw
+01f10bc5e3f7f5cf1e668d55213e7ea9 *data\3@hode.gat
+a6d26466053e3081fe8017f30daa1883 *data\3@hode.gnd
+2238717a74d011124ac23395b6326bb1 *data\3@hode.rsw
 2cd63d19ce1e05ff7d9cd98094bd6a95 *data\3@thts.gat
 97ee7b62f1e19bcdb77f340aef616471 *data\3@thts.gnd
 3bcebfa40d6625b7bbc2928f5c6d20f1 *data\3@thts.rsw
@@ -593,7 +596,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-de1697f3f919f446e9ff80a6101b31c5 *data\buyingstoreitemlist.txt
+0d3bf5e56a65b2f96ee17e3dead15ed8 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 6e4ba22d5f5c25ef9812d4478939116b *data\cardpostfixnametable.txt
 e72f5246914e8c9d33bb6d7a2125c902 *data\cardprefixnametable.txt
@@ -856,7 +859,7 @@ c43f63cee89b47036163dc97febc285a *data\e_hugel.gnd
 e8bb10edb62719516ff362bcc2852373 *data\e_xmas_in.gat
 ebe8b934ca4a10583d32bfb58c221986 *data\e_xmas_in.gnd
 598711b948a7117997d8d41dddee0f60 *data\e_xmas_in.rsw
-01071c1c8c47d5e7928a0198b7eb2ea4 *data\fogparametertable.txt
+24f9518e4c49a90576140ca4698d51ba *data\fogparametertable.txt
 2d02c89841676f6c17b085d2f5b20f12 *data\force_map1.gat
 e07fc6096bc658163c54ce437872ea98 *data\force_map1.gnd
 d9967b64163d07c644160e120ca991de *data\force_map1.rsw
@@ -1159,7 +1162,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 dc9c7f86055cc265bdeb87e3e67311e0 *data\idnum2itemdisplaynametable.txt
-7ff9f66bb358f2a181b44df60b24e0f8 *data\idnum2itemresnametable.txt
+e9f6fcd8c2f8d5c55a865da429fd95ee *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1203,9 +1206,9 @@ b062cab06f5aacec1357564a738fe2ac *data\in_sphinx3.gnd
 406ef46af14ec2f43e81f9ab5208d0b0 *data\in_sphinx5.gat
 de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
-db562a8c83c938090c89633519e11fd6 *data\itemmoveinfov5.txt
+58f5180beba52db1f5b3dd0a8b94d141 *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-9d9abfb96181c6af0da36c1546289652 *data\itemslotcounttable.txt
+0efef0f87c4c986f9692947bdde341a8 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1601,7 +1604,7 @@ a47a7ccca7627ac22918b7d87a287c13 *data\man_fild03.rsw
 729d02899722d46e2b9964e5027a6fe5 *data\man_in01.gnd
 00f67abf39844b8d0bf53205ff49e133 *data\man_in01.rsw
 082d293a0db1ad419a2f18e7025c9166 *data\mapinfotable.scp
-0f60883f84c753ff7dec9c68ecb9bd0c *data\mapnametable.txt
+bd13b7b061588b6630bf78a4a226e56a *data\mapnametable.txt
 e7e148b2accaccdd8b1ee19775a43995 *data\mapobjlighttable.txt
 4c34ca89edd2745f8c4f331ceeb02506 *data\mappostable.txt
 6f3f3c057af36425cf3d471d197eff04 *data\ma_dun01.gat
@@ -1861,7 +1864,7 @@ e3676e840f0da862046fe5b7a0c6f6f1 *data\mosk_in.rsw
 91696728970e5cd0629adfd443758ff2 *data\mosk_ship.gat
 8a05c1f50a43a848ef2ba39e0b063543 *data\mosk_ship.gnd
 1b3861389813ad1c43b7f8f434de6470 *data\mosk_ship.rsw
-03e1e34007cd64abb1cb6707f67641cc *data\mp3nametable.txt
+a7a9badadfc6ee9a03d7c35fb00b5717 *data\mp3nametable.txt
 e03ef684083319195185b556e3af8bb4 *data\msgstringtable.txt
 af0c9341ba1497dee9312108b99fbf4b *data\nakhyang.gat
 3f4990913c70ad02a110c20af1858835 *data\nakhyang.gnd
@@ -1911,7 +1914,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 a571e2ca71810c56c3871f6f40a842eb *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 34403f193a19e0d2340b8aecfdd31b50 *data\num2itemdisplaynametable.txt
-3201f45371f0afbd0596de99805d665d *data\num2itemresnametable.txt
+2d94936a5b3885c3389cc15c2e7b13ed *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -2225,7 +2228,7 @@ bc9827c320496d59b75d4a6653aa435b *data\pvp_y_8-2.rsw
 eb048469e7fc7295fb7fe011a827e852 *data\p_track01.rsw
 914f0f3fc79ac0e47dbc24281044b9be *data\p_track02.gat
 f8a3946c056316227590e2a08bf75e63 *data\p_track02.rsw
-c0b6b87be6639655813c1dcfe9748390 *data\questid2display.txt
+6e7a1be11535f898aef87c3948fe50d7 *data\questid2display.txt
 01e3b5c11db4dcf65eeefee88a1842ac *data\que_avan01.gat
 983c7eaf1ceba91f95bc17a4c9287108 *data\que_avan01.gnd
 12b46cdac2e7530384a0369792cdea15 *data\que_avan01.rsw
@@ -2367,7 +2370,7 @@ c7f4ef837643ec876226a8057e2bba33 *data\ra_temsky.rsw
 b6baaa08d840c976748a57df3ca7f465 *data\rebel_in.gat
 0dfed03e4a08a55bda177a8abc4ada9d *data\rebel_in.gnd
 296446e5f59b61e1d64ebcb1b70e0b08 *data\rebel_in.rsw
-5bb99cd0f5237d8f3dcab4c513ffb189 *data\resnametable.txt
+a0a647c46f434f7d4b3c797911ab2488 *data\resnametable.txt
 c02f607e5766c79a62b39d6de67901af *data\rgsr_in.gat
 57f9583eb8a3559027b5f86354ccc86c *data\rgsr_in.gnd
 5fd31c6662a505d4cb5fb6f76c614833 *data\rgsr_in.rsw
@@ -3111,7 +3114,7 @@ ff9c5bcaa4eeaa60ba43fa527950d2f4 *data\luafiles514\lua files\datainfo\changedire
 d70739486ac39247b83fd1638a7771ea *data\luafiles514\lua files\datainfo\enumvar.lub
 602ee805ec6d775a4c2fcc395cb1c64c *data\luafiles514\lua files\datainfo\jobidentity.lub
 9e939a15f97f58bc91f2ebeea956454f *data\luafiles514\lua files\datainfo\jobname.lua
-3f56a7ee2a0474c9312f4b956c1fd73f *data\luafiles514\lua files\datainfo\jobname.lub
+b980371c63f73d9f3a8a0c6fe2c01782 *data\luafiles514\lua files\datainfo\jobname.lub
 5f2e348f33b6c76fc1d7a58165738bd1 *data\luafiles514\lua files\datainfo\jobname_f.lub
 ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovemapservicelist.lub
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
@@ -3127,8 +3130,8 @@ fac504a9cf0dfb68acc078f36facd1ea *data\luafiles514\lua files\datainfo\npcidentit
 eb23dedf98568997f9789aae7a3d5d2d *data\luafiles514\lua files\datainfo\petinfo.lub
 9c4ba4dcd9718c7892caa6ebe910fe85 *data\luafiles514\lua files\datainfo\shadowtable.lub
 f4a2aed92256b1451881f1a04741ab03 *data\luafiles514\lua files\datainfo\shadowtable_f.lub
-32e980ec1bf7a7387e764a0884c92fa4 *data\luafiles514\lua files\datainfo\spriterobeid.lub
-2977e8436bb5b0f0033debac1862e359 *data\luafiles514\lua files\datainfo\spriterobename.lub
+a4c33fe1b9670a92aa6dc24d7a07a9d3 *data\luafiles514\lua files\datainfo\spriterobeid.lub
+04663f799e5882b8bd7427a0e2deae9c *data\luafiles514\lua files\datainfo\spriterobename.lub
 0ed4a753af3bf01470b3f1c9bf95c3aa *data\luafiles514\lua files\datainfo\spriterobename_f.lub
 4bd2b12fa5985625e1e5da7623bbc8d4 *data\luafiles514\lua files\datainfo\tb_layer_priority.lub
 ba11d4b7efc48b3e536e6ed51edc4f14 *data\luafiles514\lua files\datainfo\titletable.lub
@@ -80779,6 +80782,10 @@ d5cac2f2888bc93f9272368bb7848aa8 *data\sprite\몬스터\hill_wind.spr
 b05151a3bf56b8a16f8e0ece6f6e04a3 *data\sprite\몬스터\hill_wind_1.spr
 d6afcfd3366c616b80f9ca80fe54525e *data\sprite\몬스터\hode.act
 660cea85f9302c20bf40c4b6f96a4e13 *data\sprite\몬스터\hode.spr
+e0e67043de60c4ee17162d47ec512403 *data\sprite\몬스터\hode_reaper.act
+22009505b184357892e2ad73f9fa3fef *data\sprite\몬스터\hode_reaper.spr
+3c5c597ac62e4acc38851f580e05b9ae *data\sprite\몬스터\hode_soul.act
+b09971d4f281869624f21475f6a9224e *data\sprite\몬스터\hode_soul.spr
 2b2730ea3ed2cec903960bc515f5d12a *data\sprite\몬스터\hodremlin.act
 b6c00f8948ddce62c8915d805ceeb200 *data\sprite\몬스터\hodremlin.spr
 e6b3091a8e29ea12d0eaef7599bd5017 *data\sprite\몬스터\holy_frus.act
@@ -84221,6 +84228,8 @@ fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\fairy_of_eden.act
 ed4386c0dd01ec32d0490d0da276f775 *data\sprite\아이템\falken_shooter.spr
 552819f09a1407b5ad468f345ae0957b *data\sprite\아이템\fallen_angel_valletta.act
 d80deb2819b66713eafcd781c4bb7e9d *data\sprite\아이템\fallen_angel_valletta.spr
+24c33f3dcbf9dc6a5afad899e286493b *data\sprite\아이템\fallen_seraphim_ring.act
+1ff7224b06827f4fcd589da3bb2f35a5 *data\sprite\아이템\fallen_seraphim_ring.spr
 3929c56d69d78c18b7633bfd3768098c *data\sprite\아이템\false_ears.act
 9f6408105375cc0897df3f6521693a9d *data\sprite\아이템\false_ears.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\fancy_flower_il.act
@@ -84705,42 +84714,78 @@ d729fe026a11465a12ecaeacc583708c *data\sprite\아이템\hlif_avoid.spr
 e3a024c51247c43c6c85bd3dadc457cf *data\sprite\아이템\hlif_heal.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_big.act
 a871cabd177efd8bd0172928d1641efb *data\sprite\아이템\hode_big.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_blessed.act
+620ed72041b10b9b9c14146ac232dbf6 *data\sprite\아이템\hode_blessed.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_brain.act
 15dfd4f8bdfe724e4a0e264adcfc34e6 *data\sprite\아이템\hode_brain.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_bulk.act
 3948bb624b24c7880982d1027c8c401c *data\sprite\아이템\hode_bulk.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_cast.act
 b49e59047285c7ff18f37e1b0dfb91b2 *data\sprite\아이템\hode_cast.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_cat.act
+81edaf192fea672f05153a7b9222859c *data\sprite\아이템\hode_cat.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_chance.act
 7a4278a3782b74ea908d14305af52cfc *data\sprite\아이템\hode_chance.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_conjurer.act
+e6df724307929fd65c1448f3ea43e922 *data\sprite\아이템\hode_conjurer.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_cross.act
+48aa980bdace8b83acb399c1de354174 *data\sprite\아이템\hode_cross.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_dark.act
+ae8a09f4d3790456927af2f383402239 *data\sprite\아이템\hode_dark.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_dash.act
 04ebf227bce14791e4eadd863852a83d *data\sprite\아이템\hode_dash.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_enc.act
 2007fb50b53d697043d7aff16d00a73f *data\sprite\아이템\hode_enc.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_fixed.act
 68c5d4844e22f65411ad003a0d3acd66 *data\sprite\아이템\hode_fixed.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_guard.act
+1e14a101f20b273489e014b910bee118 *data\sprite\아이템\hode_guard.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_headshot.act
+da182d32c0e4d127ce3f7baa403195f2 *data\sprite\아이템\hode_headshot.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_heavy.act
 03aa8599c06e02ff93680c55b84136a4 *data\sprite\아이템\hode_heavy.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_humble.act
+fd0b529eb6d5efd0f7b0ef02bfc7420a *data\sprite\아이템\hode_humble.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_huntsman.act
+0e3ea20ef00790b833ecda9096ad012c *data\sprite\아이템\hode_huntsman.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_iron.act
 ea7e79ffd8a96d6c484b08f202c47a1e *data\sprite\아이템\hode_iron.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_knight.act
+690ebf076ae5bdccd73ddc6a9c614d5c *data\sprite\아이템\hode_knight.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_level.act
 d190157273621e271e0c503b9bebca4b *data\sprite\아이템\hode_level.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_lucky.act
 cf9ed8c1b9bd11148d12fc440345924c *data\sprite\아이템\hode_lucky.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_main.act
+c3f445938803eab8880645d0f02a8530 *data\sprite\아이템\hode_main.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_material.act
+8900e4f6877abd8500a25d227e79db4a *data\sprite\아이템\hode_material.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_mechanical.act
+3ae6d8d790d86e48579b23aab42db795 *data\sprite\아이템\hode_mechanical.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_mind.act
 7113ed317655da02084db26fd1915956 *data\sprite\아이템\hode_mind.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_mutated.act
+1f4d60b974cdf4dd9f958e597a74a03f *data\sprite\아이템\hode_mutated.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_quick.act
 6fa656bf8efcb677832eb0d0a19fffce *data\sprite\아이템\hode_quick.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_rush.act
 3f6eb79f7142754652ece52b7d6300ac *data\sprite\아이템\hode_rush.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_shadow.act
+3e614781c84e84f2944287b515433462 *data\sprite\아이템\hode_shadow.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_shield.act
 6c15f18777f177a6c3f729261785c8b7 *data\sprite\아이템\hode_shield.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_snipe.act
 b3d073b7b3238f24a244ffc24c621f57 *data\sprite\아이템\hode_snipe.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_soul.act
+02672e1cb7d2ad0a14ee578831f72cb8 *data\sprite\아이템\hode_soul.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_strong.act
 f728f61b140539e7cce40d11a8f0b401 *data\sprite\아이템\hode_strong.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_super.act
+4d33df46f38ddd596378f9bfe90f7640 *data\sprite\아이템\hode_super.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_swift.act
 e4679b295f78f7cca95768b56cfe0ce6 *data\sprite\아이템\hode_swift.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_wicked.act
+5d0ae4f93224b1d1003d21fa4e78e2e2 *data\sprite\아이템\hode_wicked.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_wiggle.act
 e1438b964e808976cc0f0b6eda03c05c *data\sprite\아이템\hode_wiggle.spr
 efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_wise.act
@@ -85026,6 +85071,8 @@ bd4e4a11cc193d9a4b0fefdeea2195eb *data\sprite\아이템\kg_kagehumi.spr
 b49511b9c3c971562851b270ed9c3e90 *data\sprite\아이템\kg_kyomu.spr
 552819f09a1407b5ad468f345ae0957b *data\sprite\아이템\khalitzburg_kn_helm_bl.act
 27214165e4b4e9239f90830bfd9005a0 *data\sprite\아이템\khalitzburg_kn_helm_bl.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\아이템\kiel_egg.act
+cd89ecd348e04240fc202cfc404f58bb *data\sprite\아이템\kiel_egg.spr
 9340056894af2453ccb242b0367f0709 *data\sprite\아이템\kirin_wing_j.act
 99ff5b43c7889500b175897067abed00 *data\sprite\아이템\kirin_wing_j.spr
 bf1236f44bb7cd9a71ad6dcb71df4125 *data\sprite\아이템\kitcoin.act
@@ -89722,6 +89769,8 @@ d622534d82bac33765e6d1d63ccd50cd *data\sprite\아이템\마왕.spr
 3b01386b217760b4f24b0e6a5b87cafd *data\sprite\아이템\마왕의뼈투구.spr
 b1f07815dbfc4e42d0a2f0329bf153b0 *data\sprite\아이템\마왕의슬픔.act
 809a2c4e78925a65e5b937e27b69efd4 *data\sprite\아이템\마왕의슬픔.spr
+9675a1b880ee6251e3d60fbaabdb60bc *data\sprite\아이템\마왕의날개.act
+619ec19852da8a2dff73e13945ea18ea *data\sprite\아이템\마왕의날개.spr
 8073cdb17031c55eed3dc261c1ae9c98 *data\sprite\아이템\마석탄.act
 6b38065e132357719d1c78a2b347b58d *data\sprite\아이템\마석탄.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\마술사의글러브.act
@@ -97424,7 +97473,7 @@ aca5ad888d306d1d54f056cc431f5f34 *data\sprite\악세사리\남\남_fluffy_lovely_fox.s
 568e6f0ea0c90e3d0fcc8caf00abeec9 *data\sprite\악세사리\남\남_fortunetellinsealed.spr
 7d01003a7c5467399eabc57de69f0912 *data\sprite\악세사리\남\남_garden_of_eden.act
 7f5cd66834d7e738b2525348070e4eb3 *data\sprite\악세사리\남\남_garden_of_eden.spr
-a9861eec1e98a3a1816cf4274e5d890a *data\sprite\악세사리\남\남_gatesofnetherworld.act
+f8e853a0ed52c9924edc775b3c3d3de5 *data\sprite\악세사리\남\남_gatesofnetherworld.act
 6ff884f823ba6610f97bded1e003291d *data\sprite\악세사리\남\남_gatesofnetherworld.spr
 7aec118499ea60fde817cdaa1b10e69e *data\sprite\악세사리\남\남_gemini_redeyes.act
 5ba2a496e7f09c3305b0a26dd7b0b818 *data\sprite\악세사리\남\남_gemini_redeyes.spr
@@ -101021,8 +101070,8 @@ aca5ad888d306d1d54f056cc431f5f34 *data\sprite\악세사리\여\여_fluffy_lovely_fox.s
 6d5d522f70c01cd00e28e2a19bb6a7f3 *data\sprite\악세사리\여\여_fortunetellinsealed.spr
 7be4196a92f7591fd2538a3f8608b22c *data\sprite\악세사리\여\여_garden_of_eden.act
 7f5cd66834d7e738b2525348070e4eb3 *data\sprite\악세사리\여\여_garden_of_eden.spr
-3e7752b0eda8d47ef400500b08082a5d *data\sprite\악세사리\여\여_gatesofnetherworld.act
-6a2f356b0efa54cb3eb389bddc14de79 *data\sprite\악세사리\여\여_gatesofnetherworld.spr
+f8bcfc9dc339e79185baf56b74d6b27b *data\sprite\악세사리\여\여_gatesofnetherworld.act
+af932e758911975868e6972ec6d2aa39 *data\sprite\악세사리\여\여_gatesofnetherworld.spr
 a2f45e4049b9a8674cd4c885eb6f2186 *data\sprite\악세사리\여\여_gemini_redeyes.act
 5ba2a496e7f09c3305b0a26dd7b0b818 *data\sprite\악세사리\여\여_gemini_redeyes.spr
 d1f17187f38a0d3a5aee42238bae66ab *data\sprite\악세사리\여\여_gift_of_panagia.act
@@ -126956,6 +127005,7 @@ bb88e0ab3d70c20b0ec2362fb5714761 *data\texture\유저인터페이스\collection\fafnir_
 a02ad9e981a746ac5cf9eb8142626c14 *data\texture\유저인터페이스\collection\fairy_of_eden.bmp
 23040911e96b0e72b973c8214b73b706 *data\texture\유저인터페이스\collection\falken_shooter.bmp
 4007cd5bc04c400d2ffc53924f2da09f *data\texture\유저인터페이스\collection\fallen_angel_valletta.bmp
+7a71a4cc0a5e03692646422caf3ef9f2 *data\texture\유저인터페이스\collection\fallen_seraphim_ring.bmp
 9867dd1f899e527b4ec7579e6ba87d75 *data\texture\유저인터페이스\collection\false_ears.bmp
 12c170129d80580ef175a3529d78a4e2 *data\texture\유저인터페이스\collection\fancy_flower_il.bmp
 bd189c7095dbe76db091320bde9c2a6e *data\texture\유저인터페이스\collection\farthezan.bmp
@@ -127107,24 +127157,42 @@ daf3ced58c86b20eccf12ffc4b4df8af *data\texture\유저인터페이스\collection\heartof
 0313a9ac20151205ef3d2d34d67ecbdd *data\texture\유저인터페이스\collection\heart_whip.bmp
 5d6d08c0e92fcc3df8859f2921e33ca2 *data\texture\유저인터페이스\collection\herald_of_god_il.bmp
 a2dcab5d39096346d5953e313d6f5fcc *data\texture\유저인터페이스\collection\hode_big.bmp
+15a2d0da70770b677d0b775e00c2191d *data\texture\유저인터페이스\collection\hode_blessed.bmp
 e2b8d93b5377a46f1340b6bbd3b9538a *data\texture\유저인터페이스\collection\hode_brain.bmp
 95b4d795dcb4757d55f17a842b7a1a63 *data\texture\유저인터페이스\collection\hode_bulk.bmp
 c02431ab9dbf6fafbb45603ca338ece4 *data\texture\유저인터페이스\collection\hode_cast.bmp
+6d314ce39a0b1e23c7612f3afd033e3e *data\texture\유저인터페이스\collection\hode_cat.bmp
 7a0b7cabb80c2db2fab98e4785df9314 *data\texture\유저인터페이스\collection\hode_chance.bmp
+e0649ae08b11fee8251d5f9ec96ec502 *data\texture\유저인터페이스\collection\hode_conjurer.bmp
+43701fbbad6188685b628ce324726878 *data\texture\유저인터페이스\collection\hode_cross.bmp
+dd05a199ed247e67ffa77d65890e3089 *data\texture\유저인터페이스\collection\hode_dark.bmp
 e88cb925c3d6d40f28b9dfc3a86f5160 *data\texture\유저인터페이스\collection\hode_dash.bmp
 c2773367ba120aaa6fb2d6d464f4d179 *data\texture\유저인터페이스\collection\hode_enc.bmp
 098f3754c2ca194ef58bcf1a46aa3c74 *data\texture\유저인터페이스\collection\hode_fixed.bmp
+685719c7a3a5c1ec80b39cfc401f283f *data\texture\유저인터페이스\collection\hode_guard.bmp
+61f7b955c7479ad3a374155bc0f20424 *data\texture\유저인터페이스\collection\hode_headshot.bmp
 6c9e1e4551c153768fd5bf6797c729f5 *data\texture\유저인터페이스\collection\hode_heavy.bmp
+b3db9bd08062f56b8850f18eb8fa130e *data\texture\유저인터페이스\collection\hode_humble.bmp
+6e908294a59acc0a1cb08bf95ec2191e *data\texture\유저인터페이스\collection\hode_huntsman.bmp
 55eb63ed81a039f2e066f720cb60d9a5 *data\texture\유저인터페이스\collection\hode_iron.bmp
+e082ae01cbc1e164b132c1ba135f0836 *data\texture\유저인터페이스\collection\hode_knight.bmp
 3a09ca8d89b533e7d329bcfbe6e01bdb *data\texture\유저인터페이스\collection\hode_level.bmp
 875a2a952e1b3637d550d8a31520fb5e *data\texture\유저인터페이스\collection\hode_lucky.bmp
+d616c36bc04cfae229b3d1d1982d119b *data\texture\유저인터페이스\collection\hode_main.bmp
+a7c7876e0a0e90c34c46685cf0380c71 *data\texture\유저인터페이스\collection\hode_material.bmp
+052a5e9ccc27a9581ead9a7f037bdb98 *data\texture\유저인터페이스\collection\hode_mechanical.bmp
 106c2e0a93314480a0f5e3d46134d7e2 *data\texture\유저인터페이스\collection\hode_mind.bmp
+7eed823584e651a76ba6d8be95565a18 *data\texture\유저인터페이스\collection\hode_mutated.bmp
 71860db8995cf85cc5196f5db37a2b95 *data\texture\유저인터페이스\collection\hode_quick.bmp
 daede38cae5d877752e5128aa5ab8b53 *data\texture\유저인터페이스\collection\hode_rush.bmp
+4e041c29f7a20f9a2d01d5b9d5ab43c0 *data\texture\유저인터페이스\collection\hode_shadow.bmp
 b24e121b9d81ddc2c6f9a9930c401037 *data\texture\유저인터페이스\collection\hode_shield.bmp
 780305d5a9289cdfb1d9b130b5e48521 *data\texture\유저인터페이스\collection\hode_snipe.bmp
+b4b422a0823c2727a6c1e9063232f6bc *data\texture\유저인터페이스\collection\hode_soul.bmp
 80d5009f6bb9b3db4f2487bd6689d8f4 *data\texture\유저인터페이스\collection\hode_strong.bmp
+07c58b6feccb0500f17d710ed88e3b70 *data\texture\유저인터페이스\collection\hode_super.bmp
 eb8a012e4ccd01ea0055562eb0ad2acb *data\texture\유저인터페이스\collection\hode_swift.bmp
+24ef100b7fb7f2e933168caa6542b439 *data\texture\유저인터페이스\collection\hode_wicked.bmp
 41ef1b53f127097a607b6b852bf57c65 *data\texture\유저인터페이스\collection\hode_wiggle.bmp
 d55b9175858cf1851a1a560529735e8e *data\texture\유저인터페이스\collection\hode_wise.bmp
 f67d3454370f82ea89a332031ebcbc87 *data\texture\유저인터페이스\collection\holy_coat.bmp
@@ -127229,6 +127297,7 @@ ff3433d1388fe99dff1e1c82d6264e8d *data\texture\유저인터페이스\collection\junecra
 fa266d6165597ab6e2f77b4d1648ad85 *data\texture\유저인터페이스\collection\katarofcold_icicle_il.bmp
 f886e6dbb3bfc05506d4f4a291e90a1e *data\texture\유저인터페이스\collection\ketupat.bmp
 4f3cff718a2d84ab57b3b8a561dae03d *data\texture\유저인터페이스\collection\khalitzburg_kn_helm_bl.bmp
+957fd0856cf17cd04b2646467a68de39 *data\texture\유저인터페이스\collection\kiel_egg.bmp
 a89128756f3f7116dcc3560a2cb1bcbf *data\texture\유저인터페이스\collection\kirin_wing_j.bmp
 e797aa0b69a9e6229b171572272aa196 *data\texture\유저인터페이스\collection\kitcoin.bmp
 823a3e777b143220040d37b933efda18 *data\texture\유저인터페이스\collection\kitcoin_box.bmp
@@ -128878,6 +128947,7 @@ f1659b411c9965b0c92d1954de7d4b5d *data\texture\유저인터페이스\collection\마네키�
 dcb46ef65ce96832eeee73f414159830 *data\texture\유저인터페이스\collection\마왕.bmp
 50c134fd4317858fb11d8b865a3b2bbe *data\texture\유저인터페이스\collection\마왕의뼈투구.bmp
 1cf6d603a3ed61dd125f9fe9623abfe5 *data\texture\유저인터페이스\collection\마왕의슬픔.bmp
+e17770514416482cf07dd0c6684a8867 *data\texture\유저인터페이스\collection\마왕의날개.bmp
 1aab8208c7d346c516c80d7c23de4dc7 *data\texture\유저인터페이스\collection\마석탄.bmp
 633596228c996142a5c625b7fc96a824 *data\texture\유저인터페이스\collection\마술사의글러브.bmp
 41e169b55e950332a33410bfc644bd62 *data\texture\유저인터페이스\collection\마술사의모자.bmp
@@ -135050,6 +135120,7 @@ e161047ab069cd611144bd48e3ae6fb1 *data\texture\유저인터페이스\item\fairy_feather
 d0d1e6732e34d4037d93e0bd7bba598e *data\texture\유저인터페이스\item\fairy_of_eden.bmp
 45462d8d57e1ab21b4cf64ed8059a864 *data\texture\유저인터페이스\item\falken_shooter.bmp
 78e5d5ead9d16d6259338fa1adf3ca30 *data\texture\유저인터페이스\item\fallen_angel_valletta.bmp
+9ce444e8bd207c81668420bc06ae743b *data\texture\유저인터페이스\item\fallen_seraphim_ring.bmp
 cc16dac1b44e9832b4a714f133d99f06 *data\texture\유저인터페이스\item\false_ears.bmp
 a3898057082cb92740ac1eb1191ecfaf *data\texture\유저인터페이스\item\fancy_flower_il.bmp
 a49ffdfca139b50054a24cf97be06571 *data\texture\유저인터페이스\item\farthezan.bmp
@@ -135300,24 +135371,42 @@ daffc73759e981595d79a154319e44eb *data\texture\유저인터페이스\item\hlif_avoid.bm
 7433aefcc3bf39425a257670b7d8afb6 *data\texture\유저인터페이스\item\hlif_change.bmp
 1a80cb7273664ed45419730b5ec1f50d *data\texture\유저인터페이스\item\hlif_heal.bmp
 633d98b87b26b95506457a9607e9006b *data\texture\유저인터페이스\item\hode_big.bmp
+cb66be21d15735e2d5c4f57b967f511b *data\texture\유저인터페이스\item\hode_blessed.bmp
 d7c2c26e07bbba0f32fab0376e30209e *data\texture\유저인터페이스\item\hode_brain.bmp
 de904b10522319963dc342498c155a05 *data\texture\유저인터페이스\item\hode_bulk.bmp
 1ac07c0f4f79735c69ab1529356ab5d1 *data\texture\유저인터페이스\item\hode_cast.bmp
+3be4317408ca85fbf9c219e648fbb58a *data\texture\유저인터페이스\item\hode_cat.bmp
 456e4ccbfb10d6d9c8b3214f3d6bfac9 *data\texture\유저인터페이스\item\hode_chance.bmp
+e74f29d9ada25add98ecd17ef188358b *data\texture\유저인터페이스\item\hode_conjurer.bmp
+ad33a49bcce3c57bd4657feb593791ef *data\texture\유저인터페이스\item\hode_cross.bmp
+c973c6ed2fb38850ee81be40ba83ffb7 *data\texture\유저인터페이스\item\hode_dark.bmp
 7c07bc7740e59e1a22b9b45ceebc8122 *data\texture\유저인터페이스\item\hode_dash.bmp
 0098fbb4684ca2b2c0dad6526a548a29 *data\texture\유저인터페이스\item\hode_enc.bmp
 536f15f7f7428c2dc14f3cdc186c6153 *data\texture\유저인터페이스\item\hode_fixed.bmp
+a0fbd345fea55110b65deb4c9212ffdc *data\texture\유저인터페이스\item\hode_guard.bmp
+dc0fe15eaa76096c5722f63c8e5d49ff *data\texture\유저인터페이스\item\hode_headshot.bmp
 19324e56175442f8c4df236ddfa487ca *data\texture\유저인터페이스\item\hode_heavy.bmp
+9357501ecac5250de3cf0de33f08550f *data\texture\유저인터페이스\item\hode_humble.bmp
+7bc6c0571a4b5fe99eba386bbaf3823f *data\texture\유저인터페이스\item\hode_huntsman.bmp
 47f59f9290ba07a8969a37d750ad4c84 *data\texture\유저인터페이스\item\hode_iron.bmp
+259cd9fd2c6b2aa9645781501c6b44ba *data\texture\유저인터페이스\item\hode_knight.bmp
 6dc5c3029687e984eca75b67564de389 *data\texture\유저인터페이스\item\hode_level.bmp
 b7046c10f1af8a46b7d257b9e0b4b829 *data\texture\유저인터페이스\item\hode_lucky.bmp
+a9bd3334c872c22d97098099ff2ef30c *data\texture\유저인터페이스\item\hode_main.bmp
+da1933b2e4d31abc7ee92157c0cce6f2 *data\texture\유저인터페이스\item\hode_material.bmp
+1a915ccc76a54dbc4d83657c7c9bf813 *data\texture\유저인터페이스\item\hode_mechanical.bmp
 f57b2aafd987ede2cb46d469ce340142 *data\texture\유저인터페이스\item\hode_mind.bmp
+086d2ce5cb8573256dd0f8c0489d1d58 *data\texture\유저인터페이스\item\hode_mutated.bmp
 62b774f4f617044901130181f22c1ea2 *data\texture\유저인터페이스\item\hode_quick.bmp
 7e170b917e7052faaecbbd421ae46d83 *data\texture\유저인터페이스\item\hode_rush.bmp
+3bce457f1ccdf79d493ced1fbc6800db *data\texture\유저인터페이스\item\hode_shadow.bmp
 a58064ee19584b6e82f687d27c901abd *data\texture\유저인터페이스\item\hode_shield.bmp
 f44f0b6ed8fe77b8c628142e8018c312 *data\texture\유저인터페이스\item\hode_snipe.bmp
+5db967a0da96abff3fc32dfd49d5dea7 *data\texture\유저인터페이스\item\hode_soul.bmp
 6f92534aaf1977c705118a08a667eca4 *data\texture\유저인터페이스\item\hode_strong.bmp
+e6dadd5f51f7f5dda95d612011b0bca4 *data\texture\유저인터페이스\item\hode_super.bmp
 a0b2684ed9891d521ee4059370299b93 *data\texture\유저인터페이스\item\hode_swift.bmp
+1123efb4aefc78dff70e30e3e27ce945 *data\texture\유저인터페이스\item\hode_wicked.bmp
 00c6e1124fdd9cb40922b412876dcbda *data\texture\유저인터페이스\item\hode_wiggle.bmp
 75c49a520b48c296ef9703af443d9785 *data\texture\유저인터페이스\item\hode_wise.bmp
 2f50627914132402de22f3510cdeecbc *data\texture\유저인터페이스\item\holy_coat.bmp
@@ -135463,6 +135552,7 @@ b28765bb5bd58e2137e6b16bcfc836ab *data\texture\유저인터페이스\item\katarofcold_i
 3c405654637806fbd81ad263490701af *data\texture\유저인터페이스\item\kg_kagemusya.bmp
 886a16649b1bda5497eb201014cab2a4 *data\texture\유저인터페이스\item\kg_kyomu.bmp
 1391fe0ee812bba88aae3ee50412d162 *data\texture\유저인터페이스\item\khalitzburg_kn_helm_bl.bmp
+07d0836eb4b4b11b5285be2c6f316480 *data\texture\유저인터페이스\item\kiel_egg.bmp
 e6ae7095e9257a8df888e55c3725cce2 *data\texture\유저인터페이스\item\kirin_wing_j.bmp
 43d4aaa82077df3fbc180dc2e2ed07c1 *data\texture\유저인터페이스\item\kitcoin.bmp
 12ceed9fb54da7563b22e867140b1298 *data\texture\유저인터페이스\item\kitcoin_box.bmp
@@ -137893,6 +137983,7 @@ d735ab1ddbc9af60afa4082224e2bdab *data\texture\유저인터페이스\item\마녀의물약.bm
 4de1eac57a5eec7bc0fcd359677b3d7f *data\texture\유저인터페이스\item\마왕.bmp
 d368e01bd4eb88669486fbe3a88caebb *data\texture\유저인터페이스\item\마왕의뼈투구.bmp
 b5ba6b86ae2187b17e520a0a679d488d *data\texture\유저인터페이스\item\마왕의슬픔.bmp
+bdc5a66eebe0b687407db6ee6ec942ab *data\texture\유저인터페이스\item\마왕의날개.bmp
 31dce501a9becb0d5facf6ef0345b985 *data\texture\유저인터페이스\item\마석탄.bmp
 7bfb47b4ced1cf7fd4a84a6f1fa08077 *data\texture\유저인터페이스\item\마술사의글러브.bmp
 585392724a8649dff0be514fc3123741 *data\texture\유저인터페이스\item\마술사의모자.bmp

@@ -212185,7 +212185,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Swordsman Ring",
 		identifiedResourceName = "АМѕоёµЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"There are many legends about Chevalier d'Ombrage.",
 			"It is said that he wore a magic ring that made him invincible in a duel.",
 			"^777777-------------^000000",
@@ -212224,7 +212223,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Swordsman Gloves",
 		identifiedResourceName = "їюЖщЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"There are many legends about Chevalier d'Ombrage.",
 			"It is said that his fingers and wrists were covered in invisible steel.",
 			"^777777-------------^000000",
@@ -212263,7 +212261,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Swordsman Pendant",
 		identifiedResourceName = "ЖжґшЖ®Ѕ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"There are many legends about Chevalier d'Ombrage.",
 			"It is said that he captured the souls of defeated enemies in his pendant.",
 			"^777777-------------^000000",
@@ -212302,7 +212299,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Diviner Ring",
 		identifiedResourceName = "АМѕоёµЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"There are many legends about Haruspex Tenebrous.",
 			"It is said that this ring gave him the power of all his reincarnations in the past and in the future.",
 			"^777777-------------^000000",
@@ -212341,7 +212337,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Diviner Gloves",
 		identifiedResourceName = "їюЖщЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"There are many legends about Haruspex Tenebrous.",
 			"It is said that he predicted the future from the remains of enemies torn to pieces by his clawed gloves.",
 			"^777777-------------^000000",
@@ -212380,7 +212375,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Diviner Pendant",
 		identifiedResourceName = "ЖжґшЖ®Ѕ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"There are many legends about Haruspex Tenebrous.",
 			"It is said that this pendant spoke in a human voice, prophesying death to the enemies of the diviner. And all these predictions came true.",
 			"^777777-------------^000000",
@@ -212419,7 +212413,6 @@ tbl = {
 		identifiedDisplayName = "Breezy Armor Shadow",
 		identifiedResourceName = "ѕЖёУЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.",
 			"FLEE + 5.",
 			"FLEE + 10, when refined over +7.",
@@ -212443,7 +212436,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Champion Boots",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"As Olaf the Champion of God walked across the battlefield, the ground under his feet shook and hummed.",
 			"Olaf assured that everyone hears the steps of Freyr himself.",
 			"^777777-------------^000000",
@@ -212477,7 +212469,6 @@ tbl = {
 		identifiedDisplayName = "Athena Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.",
 			"DEF + 10.",
 			"Additional DEF + 10,when Refined over +7.",
@@ -212658,7 +212649,6 @@ tbl = {
 		identifiedDisplayName = "Healing Weapon Shadow",
 		identifiedResourceName = "їюЖщЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"MATK + 10.",
 			"When refined to +7, increase healing power by 5%.",
 			"Class: ^777777Shadow Armor^000000",
@@ -212772,7 +212762,6 @@ tbl = {
 		identifiedDisplayName = "Vital Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"VIT + 1.",
 			"When Refined to +7, VIT + 1.",
 			"When Refined to +9, VIT + 1.",
@@ -212796,7 +212785,6 @@ tbl = {
 		identifiedDisplayName = "Athletic Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"AGI + 1.",
 			"When Refined to +7, AGI + 1.",
 			"When Refined to +9, AGI + 1.",
@@ -212908,7 +212896,6 @@ tbl = {
 		identifiedDisplayName = "Vital Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"VIT + 1.",
 			"Increase DEF + 1 per 1 refine level.",
 			"When equipped with ^32CD32Vital Shadow Shoes^000000, VIT + 1.",
@@ -212931,7 +212918,6 @@ tbl = {
 		identifiedDisplayName = "Athletic Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"AGI + 1.",
 			"Increase FLEE + 1 per refine level.",
 			"When equipped with ^32CD32Athletic Shadow Shield^000000, AGI + 1.",
@@ -212979,7 +212965,6 @@ tbl = {
 		identifiedDisplayName = "Rapid Pendant Shadow",
 		identifiedResourceName = "ЖжґшЖ®Ѕ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is a Neckless that is known for protecting its owner. It brings out the potential from the owner.",
 			"Increase Attack spd.(reduce the delay by 1% after attacking).",
 			"When Refined by Lv.7, reduce delay after attack by 1% additionally.",
@@ -213027,7 +213012,6 @@ tbl = {
 		identifiedDisplayName = "Hard Earing Shadow",
 		identifiedResourceName = "АМѕоёµЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Sacred earring protecting the owner. Enables user's potential ability.",
 			"HP +100.",
 			"When refine level is 7, MHP +1% increase.",
@@ -213052,7 +213036,6 @@ tbl = {
 		identifiedDisplayName = "Wise Earing Shadow",
 		identifiedResourceName = "АМѕоёµЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Sacred earring protecting the owner. Enables user's potential ability.",
 			"SP +50.",
 			"When refine level is 7, MSP +1% increase.",
@@ -213100,7 +213083,6 @@ tbl = {
 		identifiedDisplayName = "Cranial Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by human type monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by human type monsters.",
@@ -213125,7 +213107,6 @@ tbl = {
 		identifiedDisplayName = "Safeguard Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by bosstype monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by bosstype monsters.",
@@ -213150,7 +213131,6 @@ tbl = {
 		identifiedDisplayName = "Tamer Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The Skin-Changers were known to be the most desperate beast hunters.",
 			"Their shields were covered with many scratches from claws and fangs.",
 			"^777777-------------^000000",
@@ -213187,7 +213167,6 @@ tbl = {
 		identifiedDisplayName = "Gargantua Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by insect type monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by insect type monsters.",
@@ -213212,7 +213191,6 @@ tbl = {
 		identifiedDisplayName = "Homer's Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by fish type monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by fish type monsters.",
@@ -213237,7 +213215,6 @@ tbl = {
 		identifiedDisplayName = "Dragonslayer Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The Dark Scales were the finest dragon hunters in all of Rune-Midgard.",
 			"These mercenaries hardened their shields in the fiery breath of their victims.",
 			"^777777-------------^000000",
@@ -213275,7 +213252,6 @@ tbl = {
 		identifiedDisplayName = "Satanic Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by angel type monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by angel type monsters.",
@@ -213300,7 +213276,6 @@ tbl = {
 		identifiedDisplayName = "Flameguard Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by non type monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by non type monsters.",
@@ -213325,7 +213300,6 @@ tbl = {
 		identifiedDisplayName = "Undertaker Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The Bone Breakers made their living by eradicating undead for money.",
 			"Their shields were rumored to emit a strange light that lured ghosts.",
 			"^777777-------------^000000",
@@ -213362,7 +213336,6 @@ tbl = {
 		identifiedDisplayName = "Cadi Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Small extra shield gives you additional defense effect. Not really effective when worn alone.",
 			"1% damage decrease when attacked by plant type monsters.",
 			"When refine level is 7, 1% extra damage decrease when attacked by plant type monsters.",
@@ -213387,7 +213360,6 @@ tbl = {
 		identifiedDisplayName = "Bloody Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes wear over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to human type monsters.",
 			"When refine level is 7, 1% extra damage to human type monsters.",
@@ -213412,7 +213384,6 @@ tbl = {
 		identifiedDisplayName = "Liberation Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes wear over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to boss type monsters.",
 			"When refine level is 7, 1% extra damage to boss type monsters.",
@@ -213437,7 +213408,6 @@ tbl = {
 		identifiedDisplayName = "Chemical Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes worn over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to plant type monsters.",
 			"When refine level is 7, 1% extra damage to plant type monsters.",
@@ -213462,7 +213432,6 @@ tbl = {
 		identifiedDisplayName = "Tamer Shadow Boots",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The Skin-Changers were known to be the most desperate beast hunters.",
 			"These daredevils adorned their boots with the tails of wild animals they killed.",
 			"^777777-------------^000000",
@@ -213499,7 +213468,6 @@ tbl = {
 		identifiedDisplayName = "Insecticide Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes worn over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to insect type monsters.",
 			"When refine level is 7, 1% extra damage to insect type monsters.",
@@ -213524,7 +213492,6 @@ tbl = {
 		identifiedDisplayName = "Fisher Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes worn over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to fish type monsters.",
 			"When refine level is 7, 1% extra damage to fish type monsters.",
@@ -213549,7 +213516,6 @@ tbl = {
 		identifiedDisplayName = "Seraphim Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes worn over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to angel type monsters.",
 			"When refine level is 7, 1% extra damage to angel type monsters.",
@@ -213574,7 +213540,6 @@ tbl = {
 		identifiedDisplayName = "Beholder Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Special shoes worn over your original shoes. Not really effective when worn alone.",
 			"2% extra damage to non type monsters.",
 			"When refine level is 7, 1% extra damage to non type monsters.",
@@ -213599,7 +213564,6 @@ tbl = {
 		identifiedDisplayName = "Undertaker Shadow Boots",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The Bone Breakers made their living by eradicating undead for money.",
 			"The soles of their boots were lined with nails pulled from old coffins.",
 			"^777777-------------^000000",
@@ -213636,7 +213600,6 @@ tbl = {
 		identifiedDisplayName = "Dragonslayer Shadow Boots",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The Dark Scales were the finest dragon hunters in all of Rune-Midgard.",
 			"It was said that their boots were black with soot and caked dragon blood.",
 			"^777777-------------^000000",
@@ -213766,7 +213729,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Shield of the Steadfast",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that this shield once belonged to Ulix the Steadfast, the great hero of antiquity.",
 			"Ulix was not afraid of cold and curses. It took an entire army to defeat this hero.",
 			"^777777-------------^000000",
@@ -213816,7 +213778,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Armor of Hypnos",
 		identifiedResourceName = "S_Insomniac_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the champions of the god Hypnos, who wore this armor, could transmit their sleepiness to others.",
 			"Enemy warriors fell around them and began to snore.",
 			"^777777-------------^000000",
@@ -213855,7 +213816,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Boots of Hypnos",
 		identifiedResourceName = "S_Insomniac_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the champions of the god Hypnos, who wore these boots, could stay awake for weeks.",
 			"However, they remained vigorous and healthy.",
 			"^777777-------------^000000",
@@ -213894,7 +213854,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Armor of Harpos",
 		identifiedResourceName = "S_Peerless_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the champions of the god Harpos, who wore this armor, could raise a storm with their cries.",
 			"Hearing them, the horses reared up and threw their riders out of the saddle.",
 			"^777777-------------^000000",
@@ -213932,7 +213891,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Boots of Harpos",
 		identifiedResourceName = "S_Peerless_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the champions of the god Harpos, who wore these boots, were famous for their sonorous voices.",
 			"Their words were louder than the clashes of weapons and enemy war cries.",
 			"^777777-------------^000000",
@@ -214048,7 +214006,6 @@ tbl = {
 		identifiedDisplayName = "Spellflow Shadow Shoes",
 		identifiedResourceName = "ЅґБоЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the shadow caster Bin-Zamar created these",
 			"boots from the starlight and the fish songs.",
 			"But should you believe such nonsense?",
@@ -214088,7 +214045,6 @@ tbl = {
 		identifiedDisplayName = "Spellflow Shadow Armor",
 		identifiedResourceName = "ѕЖёУЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the shadow caster Bin-Zamar wove this armor",
 			"from the noise of cat steps and the roots of great mountains.",
 			"But should you believe such nonsense?",
@@ -214130,7 +214086,6 @@ tbl = {
 		identifiedDisplayName = "Spellflow Shadow Shield",
 		identifiedResourceName = "ЅЇµеЅ¦µµїм",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the shadow caster Bin-Zamar forged this shield",
 			"from the agony of dying warriors and the bird trills.",
 			"But should you believe such nonsense?",
@@ -214793,7 +214748,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Strongman Gloves",
 		identifiedResourceName = "S_Force_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The strongman Ivan Maximovich could raise a horse with a rider over his head.",
 			"He had never fought in his life, no one wanted to challenge him.",
 			"^777777-------------^000000",
@@ -214830,7 +214784,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Strongman Ring",
 		identifiedResourceName = "S_Force_Earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Many people thought that the extraordinary power of Ivan Maximovich was contained in his ring.",
 			"The strongman laughed when he heard these statements.",
 			"^777777-------------^000000",
@@ -214871,7 +214824,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Strongman Pendant",
 		identifiedResourceName = "S_Force_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The strongman Ivan Maximovich always wore a medallion with a lock of his beloved wife's hair.",
 			"He never parted with it.",
 			"^777777-------------^000000",
@@ -214911,7 +214863,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Mystic Gloves",
 		identifiedResourceName = "S_Spirit_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The mystic warrior Sakrim fought his enemies with his bare hands.",
 			"He was weak in appearance, but the strongest of mortals could not overcome him.",
 			"^777777-------------^000000",
@@ -214950,7 +214901,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Mystic Ring",
 		identifiedResourceName = "S_Spirit_Earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once a peasant laughed at the mystic warrior Sakrim, who wore a ring in his nose.",
 			"This peasant called Sakrim a bull, and the mystic butted him.",
 			"The poor fellow flew through the air and fell into a ditch.",
@@ -214992,7 +214942,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Mystic Pendant",
 		identifiedResourceName = "S_Spirit_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"The mystic warrior Sakrim wore fetters with a lock on his body.",
 			"He claimed that he couldn't control his power without them.",
 			"^777777-------------^000000",
@@ -215032,7 +214981,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Knight Boots",
 		identifiedResourceName = "S_Knight_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Knight's skills.",
 			"^777777-------------^000000",
 			"[Pierce] damage +20%.",
@@ -215066,7 +215014,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Crusader Boots",
 		identifiedResourceName = "S_Crusader_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Crusader's skills.",
 			"^777777-------------^000000",
 			"[Holy Cross] SP consumption -20%.",
@@ -215100,7 +215047,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Blacksmith Boots",
 		identifiedResourceName = "S_Blacksmith_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Blacksmith's skills.",
 			"^777777-------------^000000",
 			"[Hammer Fall] SP consumption -20%.",
@@ -215136,7 +215082,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Alchemist Boots",
 		identifiedResourceName = "S_Alchemist_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Alchemist's skills.",
 			"^777777-------------^000000",
 			"Heal effectiveness +30%.",
@@ -215169,7 +215114,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Priest Boots",
 		identifiedResourceName = "S_Priest_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Priest's skills.",
 			"^777777-------------^000000",
 			"[Kyrie Eleison] SP consumption -20%.",
@@ -215205,7 +215149,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Monk Boots",
 		identifiedResourceName = "S_Monk_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Monk's skills.",
 			"^777777-------------^000000",
 			"[Raging Quadruple Blow] damage +20%.",
@@ -215240,7 +215183,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Assassin Boots",
 		identifiedResourceName = "S_Assassin_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Assassin's skills.",
 			"^777777-------------^000000",
 			"[Grimtooth] damage +20%.",
@@ -215274,7 +215216,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Rogue Boots",
 		identifiedResourceName = "S_Rogue_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Rogue's skills.",
 			"^777777-------------^000000",
 			"Increases Atk equal to level of[Sword Mastery] user learned.",
@@ -215309,7 +215250,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Wizard Boots",
 		identifiedResourceName = "S_Wizard_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Wizard's skills.",
 			"^777777-------------^000000",
 			"[Meteor Storm] variable casting time -20%.",
@@ -215349,7 +215289,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Sage Boots",
 		identifiedResourceName = "S_Sage_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Sage's skills.",
 			"^777777-------------^000000",
 			"[Heaven's Drive] damage +20%.",
@@ -215383,7 +215322,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Hunter Boots",
 		identifiedResourceName = "S_Hunter_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Hunter's skills.",
 			"^777777-------------^000000",
 			"[Blitz Beat] damage +20%.",
@@ -215420,7 +215358,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Bard Boots",
 		identifiedResourceName = "S_Bard_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Bard's skills.",
 			"^777777-------------^000000",
 			"Increases Atk equal to level of[Music Lessons] user learned.",
@@ -215456,7 +215393,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Dancer Boots",
 		identifiedResourceName = "S_Dancer_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Boots that grants bonuses to the Dancer's skills.",
 			"^777777-------------^000000",
 			"Increases Atk equal to level of[Dance Lessons] user learned.",
@@ -215492,7 +215428,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Knight Armor",
 		identifiedResourceName = "S_Knight_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Knight's skills.",
 			"^777777-------------^000000",
 			"[Bowling Bash] SP consumption -20%.",
@@ -215526,7 +215461,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Crusader Armor",
 		identifiedResourceName = "S_Crusader_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Crusader's skills.",
 			"^777777-------------^000000",
 			"[Grand Cross] damage +20%.",
@@ -215560,7 +215494,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Blacksmith Armor",
 		identifiedResourceName = "S_Blacksmith_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Blacksmith's skills.",
 			"^777777-------------^000000",
 			"When using[Weapon Perfection]:",
@@ -215597,7 +215530,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Alchemist Armor",
 		identifiedResourceName = "S_Alchemist_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Alchemist's skills.",
 			"^777777-------------^000000",
 			"Increases Atk equal to level of[Potion Research] user learned.",
@@ -215631,7 +215563,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Priest Armor",
 		identifiedResourceName = "S_Priest_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Priest's skills.",
 			"^777777-------------^000000",
 			"[Magnus Exorcismus] damage +20%.",
@@ -215665,7 +215596,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Monk Armor",
 		identifiedResourceName = "S_Monk_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Monk's skills.",
 			"^777777-------------^000000",
 			"[Throw Spirit Sphere] damage +20%.",
@@ -215702,7 +215632,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Assassin Armor",
 		identifiedResourceName = "S_Assassin_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Assassin's skills.",
 			"^777777-------------^000000",
 			"[Sonic Blow] SP consumption -20%.",
@@ -215736,7 +215665,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Rogue Armor",
 		identifiedResourceName = "S_Rogue_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Rogue's skills.",
 			"^777777-------------^000000",
 			"[Sightless Mind] damage +20%.",
@@ -215770,7 +215698,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Wizard Armor",
 		identifiedResourceName = "S_Wizard_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Wizard's skills.",
 			"^777777-------------^000000",
 			"[Jupitel Thunder] damage +20%.",
@@ -215806,7 +215733,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Sage Armor",
 		identifiedResourceName = "S_Sage_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Sage's skills.",
 			"^777777-------------^000000",
 			"^264696[For each refine lv]^000000",
@@ -215846,7 +215772,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Hunter Armor",
 		identifiedResourceName = "S_Hunter_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Hunter's skills.",
 			"^777777-------------^000000",
 			"[Claymore Trap] damage +20%.",
@@ -215883,7 +215808,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Bard Armor",
 		identifiedResourceName = "S_Bard_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Bard's skills.",
 			"^777777-------------^000000",
 			"When using[Unchained Serenade],[Magic Strings],[Impressive Riff],[Song of Lutie],[Perfect Tablature]:",
@@ -215920,7 +215844,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Dancer Armor",
 		identifiedResourceName = "S_Dancer_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Armor that grants bonuses to the Dancer's skills.",
 			"^777777-------------^000000",
 			"When using[Slow Grace],[Gypsy's Kiss],[Lady Luck],[Focus Ballet],[Hip Shaker]:",
@@ -215957,7 +215880,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Super Novice Gloves",
 		identifiedResourceName = "S_SuperNovice_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Super Novice's skills.",
 			"^777777-------------^000000",
 			"Max HP +1000.",
@@ -216005,7 +215927,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Gunslinger Gloves",
 		identifiedResourceName = "S_Gunslinger_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Gunslinger's skills.",
 			"^777777-------------^000000",
 			"ASPD +1.",
@@ -216049,7 +215970,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Taekwon Gloves",
 		identifiedResourceName = "S_Taekwon_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Taekwon's skills.",
 			"^777777-------------^000000",
 			"ASPD +1.",
@@ -216091,7 +216011,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Ninja Gloves",
 		identifiedResourceName = "S_Ninja_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Ninja's skills.",
 			"^777777-------------^000000",
 			"ATK, MATK +3%.",
@@ -216133,7 +216052,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Runeknight Gloves",
 		identifiedResourceName = "S_Runeknight_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Runeknight's skills.",
 			"^777777-------------^000000",
 			"[Sonic Wave] damage +20%.",
@@ -216167,7 +216085,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Royalguard Gloves",
 		identifiedResourceName = "S_Royalguard_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Royalguard's skills.",
 			"^777777-------------^000000",
 			"[Cannon Spear] damage +20%.",
@@ -216201,7 +216118,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Mechanic Gloves",
 		identifiedResourceName = "S_Mechanic_weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Mechanic's skills.",
 			"^777777-------------^000000",
 			"[Vulcan Arm] damage +20%.",
@@ -216235,7 +216151,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Genetic Gloves",
 		identifiedResourceName = "S_Genetic_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Genetic's skills.",
 			"^777777-------------^000000",
 			"[Cart Tornado] damage +20%.",
@@ -216270,7 +216185,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Archbishop Gloves",
 		identifiedResourceName = "S_Archbishop_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Archbishop's skills.",
 			"^777777-------------^000000",
 			"[Duple Light] damage +20%.",
@@ -216304,7 +216218,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Sura Gloves",
 		identifiedResourceName = "S_Sura_weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Sura's skills.",
 			"^777777-------------^000000",
 			"Cooldown of[Rampage Blast] -2 sec.",
@@ -216338,7 +216251,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Guillotine Cross Gloves",
 		identifiedResourceName = "S_Guillotine_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Guillotine Cross's skills.",
 			"^777777-------------^000000",
 			"[Dark Illusion] SP consumption -20%.",
@@ -216374,7 +216286,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Shadowchaser Gloves",
 		identifiedResourceName = "S_Shadowchaser_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Shadowchaser's skills.",
 			"^777777-------------^000000",
 			"[Triangle Shot] damage +20%.",
@@ -216411,7 +216322,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Warlock Gloves",
 		identifiedResourceName = "S_Warlock_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Warlock's skills.",
 			"^777777-------------^000000",
 			"[Drain Life] damage +20%.",
@@ -216445,7 +216355,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Sorcerer Gloves",
 		identifiedResourceName = "S_Sorcerer_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Sorcerer's skills.",
 			"^777777-------------^000000",
 			"Cooldown of[Diamond Dust] -1 sec.",
@@ -216479,7 +216388,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Ranger Gloves",
 		identifiedResourceName = "S_Ranger_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Ranger's skills.",
 			"^777777-------------^000000",
 			"[Bomb Cluster] damage +20%.",
@@ -216513,7 +216421,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Minstrel Gloves",
 		identifiedResourceName = "S_Minstrel_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Minstrel's skills.",
 			"^777777-------------^000000",
 			"Max HP +3%.",
@@ -216548,7 +216455,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Wanderer Gloves",
 		identifiedResourceName = "S_Wanderer_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Gloves that grants bonuses to the Wanderer's skills.",
 			"^777777-------------^000000",
 			"Max HP +3%.",
@@ -216583,7 +216489,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Runeknight Shield",
 		identifiedResourceName = "S_Runeknight_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Runeknight's skills.",
 			"^777777-------------^000000",
 			"^264696[For each refine lv]^000000",
@@ -216620,7 +216525,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Royalguard Shield",
 		identifiedResourceName = "S_Royalguard_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Royalguard's skills.",
 			"^777777-------------^000000",
 			"[Earth Drive] damage +20%.",
@@ -216654,7 +216558,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Mechanic Shield",
 		identifiedResourceName = "S_Mechanic_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Mechanic's skills.",
 			"^777777-------------^000000",
 			"[Flame Launcher] damage +20%.",
@@ -216688,7 +216591,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Genetic Shield",
 		identifiedResourceName = "S_Genetic_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Genetic's skills.",
 			"^777777-------------^000000",
 			"Max HP +3%.",
@@ -216723,7 +216625,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Archbishop Shield",
 		identifiedResourceName = "S_Archbishop_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Archbishop's skills.",
 			"^777777-------------^000000",
 			"[Adoramus] damage +20%.",
@@ -216757,7 +216658,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Sura Shield",
 		identifiedResourceName = "S_Sura_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Sura's skills.",
 			"^777777-------------^000000",
 			"[Sky Blow] damage +20%.",
@@ -216791,7 +216691,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Guillotine Cross Shield",
 		identifiedResourceName = "S_Guillotine_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Guillotine Cross's skills.",
 			"^777777-------------^000000",
 			"Cooldown of[Dark Claw] -10 sec.",
@@ -216827,7 +216726,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Shadowchaser Shield",
 		identifiedResourceName = "S_Shadowchaser_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Shadowchaser's skills.",
 			"^777777-------------^000000",
 			"^264696[For each refine lv]^000000",
@@ -216868,7 +216766,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Warlock Shield",
 		identifiedResourceName = "S_Warlock_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Warlock's skills.",
 			"^777777-------------^000000",
 			"[Earth Strain] damage +20%.",
@@ -216902,7 +216799,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Sorcerer Shield",
 		identifiedResourceName = "S_Sorcerer_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Sorcerer's skills.",
 			"^777777-------------^000000",
 			"Cooldown of[Earth Grave] -1 sec.",
@@ -216936,7 +216832,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Ranger Shield",
 		identifiedResourceName = "S_Ranger_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Ranger's skills.",
 			"^777777-------------^000000",
 			"[Aimed Bolt] SP consumption -20%.",
@@ -216970,7 +216865,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Minstrel Shield",
 		identifiedResourceName = "S_Minstrel_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Minstrel's skills.",
 			"^777777-------------^000000",
 			"Max SP +3%.",
@@ -217005,7 +216899,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Wanderer Shield",
 		identifiedResourceName = "S_Wanderer_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Wanderer's skills.",
 			"^777777-------------^000000",
 			"Max SP +3%.",
@@ -217040,7 +216933,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Ninja Shield",
 		identifiedResourceName = "S_Ninja_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Ninja's skills.",
 			"^777777-------------^000000",
 			"ASPD +1.",
@@ -217084,7 +216976,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Taekwon Shield",
 		identifiedResourceName = "S_Taekwon_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Taekwon's skills.",
 			"^777777-------------^000000",
 			"ATK, MATK +3%.",
@@ -217127,7 +217018,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Super Novice Shield",
 		identifiedResourceName = "S_SuperNovice_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Super Novice's skills.",
 			"^777777-------------^000000",
 			"Max HP +1000.",
@@ -217175,7 +217065,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Gunslinger Shield",
 		identifiedResourceName = "S_Gunslinger_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Shield that grants bonuses to the Gunslinger's skills.",
 			"^777777-------------^000000",
 			"Critical damage +5%.",
@@ -241259,7 +241148,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Battler Shield",
 		identifiedResourceName = "S_DoramPhysical_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shield that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"ATK +3%.",
@@ -241310,7 +241198,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Mage Shield",
 		identifiedResourceName = "S_DoramMagical_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shield that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"MATK +3%.",
@@ -241361,7 +241248,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Mage Gloves",
 		identifiedResourceName = "S_DoramMagical_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow gloves that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"Variable Casting Time -5%.",
@@ -241414,7 +241300,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Battler Gloves",
 		identifiedResourceName = "S_DoramPhysical_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow gloves that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"^264696[For each refine lv]^000000",
@@ -241464,7 +241349,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Battler Armor",
 		identifiedResourceName = "S_DoramPhysical_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow armor that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"Skill damage [Picky Peck] +20%.",
@@ -241506,7 +241390,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Battler Boots",
 		identifiedResourceName = "S_DoramPhysical_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shoes that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"Skill delay [Hiss] -3 s.",
@@ -241549,7 +241432,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Mage Armor",
 		identifiedResourceName = "S_DoramMagical_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow armor that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"Skill damage [Catnip Meteor] +20%.",
@@ -241591,7 +241473,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Doram Mage Boots",
 		identifiedResourceName = "S_DoramMagical_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shoes that grants bonuses to the Summoner's skills.",
 			"^777777-------------^000000",
 			"Skill delay [Chattering] -3 s.",
@@ -241634,7 +241515,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Rebellion Armor",
 		identifiedResourceName = "S_Rebellion_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow armor that grants bonuses to the Rebellion's skills.",
 			"^777777-------------^000000",
 			"Skill delay [Hit Barrel] -1 s.",
@@ -241677,7 +241557,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Rebellion Boots",
 		identifiedResourceName = "S_Rebellion_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shoes that grants bonuses to the Rebellion's skills.",
 			"^777777-------------^000000",
 			"Skill damage [God's Hammer] +20%.",
@@ -241719,7 +241598,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Kagerou Armor",
 		identifiedResourceName = "S_Kagerou_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow armor that grants bonuses to the Kagerou's skills.",
 			"^777777-------------^000000",
 			"Skill damage [Swirling Petal] +20%.",
@@ -241761,7 +241639,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Kagerou Boots",
 		identifiedResourceName = "S_Kagerou_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shoes that grants bonuses to the Kagerou's skills.",
 			"^777777-------------^000000",
 			"Skill damage [Kunai Splash] +20%.",
@@ -241803,7 +241680,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Oboro Armor",
 		identifiedResourceName = "S_Oboro_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow armor that grants bonuses to the Oboro's skills.",
 			"^777777-------------^000000",
 			"Skills damage [Flaming Petals], [Freezing Spear] and [Wind Blade] +20%.",
@@ -241845,7 +241721,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Oboro Boots",
 		identifiedResourceName = "S_Oboro_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
 			"Shadow shoes that grants bonuses to the Oboro's skills.",
 			"^777777-------------^000000",
 			"Skill delay [Illusion - Shadow] -1 s.",
@@ -246400,7 +246275,6 @@ tbl = {
 		identifiedDisplayName = "Wyrmeater's Shadow Ring",
 		identifiedResourceName = "S_F_Breath_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"According to legend, dragon blood flowed in the veins of Arund Wyrmeater.",
 			"The stone on his ring was very similar to a predatory amber eye with a vertical pupil.",
 			"[Dragon Breath] SP consumption -2%",
@@ -246434,7 +246308,6 @@ tbl = {
 		identifiedDisplayName = "Katra's Shadow Ring",
 		identifiedResourceName = "S_Katar_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Guillotine Cross Katra was considered one of the best assassins in Rune-Midgard.",
 			"A needle and a special poison reservoir were built into her ring.",
 			"Damage to all size monsters +5%.",
@@ -246467,7 +246340,6 @@ tbl = {
 		identifiedDisplayName = "Tiger Spirit Shadow Ring",
 		identifiedResourceName = "S_Tigercannon_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the spirit of a tiger is sealed in this ring.",
 			"Its owner will gain a fierce courage to slay many enemies.",
 			"[Tiger Cannon] SP consumption -2%",
@@ -246500,7 +246372,6 @@ tbl = {
 		identifiedDisplayName = "Exorcist Shadow Ring",
 		identifiedResourceName = "S_Magnus_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"This ring is forged of gold and adorned with sacred symbols.",
 			"The sign of Odin on it sparkles brightly in all possible colors.",
 			"[Magnus Exorcismus] SP consumption -2%",
@@ -246533,7 +246404,6 @@ tbl = {
 		identifiedDisplayName = "Rondius' Shadow Ring",
 		identifiedResourceName = "S_Aimed_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Rondius was considered one of the oldest Rangers in Rune-Midgard.",
 			"His ring contained a special medicine that the old man needed.",
 			"Damage to all size monsters +3%.",
@@ -246599,7 +246469,6 @@ tbl = {
 		identifiedDisplayName = "Garmia's Shadow Ring",
 		identifiedResourceName = "S_Arrowvulcan_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Garmia was famous as one of the most talented Wanderers in Rune-Midgard.",
 			"Her ring could emit sound waves that deafened enemy warriors.",
 			"Skill delay of [Arrow vulcan] -0.2 sec.",
@@ -246632,7 +246501,6 @@ tbl = {
 		identifiedDisplayName = "Osma's Shadow Ring",
 		identifiedResourceName = "S_Strain_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Osma Stoneface was a great Warlock.",
 			"With the help of a magic ring, she could dress herself in armor made from earth and roots.",
 			"Skill delay of [Earth Strain] -0.2 sec.",
@@ -246665,7 +246533,6 @@ tbl = {
 		identifiedDisplayName = "Dordaleon's Shadow Ring",
 		identifiedResourceName = "S_Shadowspell_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Chaser Dordaleon was invincible on the battlefield.",
 			"Well, almost invincible. When he lost a battle, he turned his ring into a retreat portal.",
 			"^004DFFWater^000000, ^777777Neutral^000000 and ^FF4000Fire^000000 properties magical damage +2%.",
@@ -246699,7 +246566,6 @@ tbl = {
 		identifiedDisplayName = "Sylphir's Shadow Ring",
 		identifiedResourceName = "S_Varetyr_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Sylphir was one of the most powerful Sorcerers in Rune-Midgard.",
 			"He encrusted his ring with ever-flaming Salamander scales.",
 			"[Varetyr Spear] SP consumption -4%",
@@ -246733,7 +246599,6 @@ tbl = {
 		identifiedDisplayName = "Talos' Shadow Ring",
 		identifiedResourceName = "S_Arms_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is unknown if Talos was a human or an automaton.",
 			"This thimble-like ring was once the part of his index finger.",
 			"[Arm Cannon] SP consumption -2%",
@@ -246766,7 +246631,6 @@ tbl = {
 		identifiedDisplayName = "Gunther's Shadow Ring",
 		identifiedResourceName = "S_Genesis_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Gunther Ironheart was famous for his strength.",
 			"He liked to unbend and bend back his ring, which looked like a horseshoe, for fun.",
 			"Skill delay of [Genesis Ray] -0.2 sec.",
@@ -246799,7 +246663,6 @@ tbl = {
 		identifiedDisplayName = "Wyrmeater's Shadow Pendant",
 		identifiedResourceName = "S_F_Breath_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"According to legend, dragon blood flowed in the veins of Arund Wyrmeater.",
 			"A serpentine pendant on his chest spewed fire in battle.",
 			"[Dragon Breath] damage +5%.",
@@ -246833,7 +246696,6 @@ tbl = {
 		identifiedDisplayName = "Katra's Shadow Pendant",
 		identifiedResourceName = "S_Katar_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Guillotine Cross Katra was considered one of the best assassins in Rune-Midgard.",
 			"She used her jagged-edged pendant as a throwing weapon.",
 			"Critical damage +5%.",
@@ -246866,7 +246728,6 @@ tbl = {
 		identifiedDisplayName = "Tiger Spirit Shadow Pendant",
 		identifiedResourceName = "S_Tigercannon_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the spirit of a tiger is sealed in this pendant.",
 			"Its owner will be able to emit a deafening roar that can intimidate the bravest enemy.",
 			"[Tiger Cannon] damage +5%.",
@@ -246901,7 +246762,6 @@ tbl = {
 		identifiedDisplayName = "Exorcist Shadow Pendant",
 		identifiedResourceName = "S_Magnus_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"This pendant is forged of gold and adorned with sacred symbols.",
 			"It illuminates everything around with a dim warm light.",
 			"[Magnus Exorcismus] damage +5%.",
@@ -246934,7 +246794,6 @@ tbl = {
 		identifiedDisplayName = "Rondius' Shadow Pendant",
 		identifiedResourceName = "S_Aimed_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Rondius was considered one of the oldest Rangers in Rune-Midgard.",
 			"A complex optical device was built into his pendant, which corrected the old man's farsightedness.",
 			"[Aimed Bolt] damage +5%.",
@@ -246967,7 +246826,6 @@ tbl = {
 		identifiedDisplayName = "Gunther's Shadow Pendant",
 		identifiedResourceName = "S_Genesis_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Gunther Ironheart was famous for his strength.",
 			"It is said that his pendant was heavier than a tower shield.",
 			"[Genesis Ray] damage +5%.",
@@ -247000,7 +246858,6 @@ tbl = {
 		identifiedDisplayName = "Talos' Shadow Pendant",
 		identifiedResourceName = "S_Arms_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is unknown if Talos was a human or an automaton.",
 			"According to legend, this pendant was actually his clockwork heart.",
 			"[Arm Cannon] damage +5%.",
@@ -247033,7 +246890,6 @@ tbl = {
 		identifiedDisplayName = "Sylphir's Shadow Pendant",
 		identifiedResourceName = "S_Varetyr_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Sylphir was one of the most powerful Sorcerers in Rune-Midgard.",
 			"It was said that he assembled his pendant from all ten elements of magic.",
 			"[Varetyr Spear] damage +5%.",
@@ -247067,7 +246923,6 @@ tbl = {
 		identifiedDisplayName = "Dordaleon's Shadow Pendant",
 		identifiedResourceName = "S_Shadowspell_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Chaser Dordaleon was invincible on the battlefield.",
 			"With the help of a star-shaped pendant, he brought down meteorites on the heads of his enemies.",
 			"[Meteor Storm] damage +5%.",
@@ -247101,7 +246956,6 @@ tbl = {
 		identifiedDisplayName = "Osma's Shadow Pendant",
 		identifiedResourceName = "S_Strain_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Osma Stoneface was a great Warlock.",
 			"This enchanted pendant allowed her to summon mountain spirits.",
 			"[Earth Strain] damage +5%.",
@@ -247134,7 +246988,6 @@ tbl = {
 		identifiedDisplayName = "Garmia's Shadow Pendant",
 		identifiedResourceName = "S_Arrowvulcan_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Garmia was famous as one of the most talented Wanderers in Rune-Midgard.",
 			"Her music box pendant emitted melodies that darkened the minds of enemies.",
 			"[Arrow Vulcan] damage +5%.",
@@ -247167,7 +247020,6 @@ tbl = {
 		identifiedDisplayName = "Boscard's Shadow Pendant",
 		identifiedResourceName = "S_Cannon_Cart_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Geneticist Boscard became famous for his alchemical experiments.",
 			"This many-eyed living pendant helped him in aiming and shooting.",
 			"[Cart Cannon] damage +5%.",
@@ -247200,7 +247052,6 @@ tbl = {
 		identifiedDisplayName = "Wyrmeater's Shadow Gloves",
 		identifiedResourceName = "S_F_Breath_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"According to legend, dragon blood flowed in the veins of Arund Wyrmeater.",
 			"The gloves on his forearms glowed as if they were white-hot.",
 			"Long-range physical damage +3%.",
@@ -247240,7 +247091,6 @@ tbl = {
 		identifiedDisplayName = "Katra's Shadow Gloves",
 		identifiedResourceName = "S_Katar_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Guillotine Cross Katra was considered one of the best assassins in Rune-Midgard.",
 			"They say that in her gloves she kept a whole arsenal of daggers, shurikens and darts.",
 			"Has a chance to activate effect on physical attack: crit. damage +10%, damage to all size enemies +10%",
@@ -247281,7 +247131,6 @@ tbl = {
 		identifiedDisplayName = "Tiger Spirit Shadow Gloves",
 		identifiedResourceName = "S_TigerCannon_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is said that the spirit of a tiger is sealed in these gloves.",
 			"Their owner will be able to tear enemies apart with his bare hands.",
 			"Damage to all size monsters +3%.",
@@ -247324,7 +247173,6 @@ tbl = {
 		identifiedDisplayName = "Exorcist Shadow Gloves",
 		identifiedResourceName = "S_Magnus_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"These gloves are forged of gold and adorned with sacred symbols.",
 			"You hear a soft choral singing coming from them.",
 			"^FFC501Holy^000000 property magical damage +3%.",
@@ -247364,7 +247212,6 @@ tbl = {
 		identifiedDisplayName = "Rondius' Shadow Gloves",
 		identifiedResourceName = "S_Aimed_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Rondius was considered one of the oldest Rangers in Rune-Midgard.",
 			"The old man's hands didn't tremble thanks to the mechanism built into the gloves.",
 			"Long-range physical damage +3%.",
@@ -247404,7 +247251,6 @@ tbl = {
 		identifiedDisplayName = "Gunther's Shadow Gloves",
 		identifiedResourceName = "S_Genesis_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Gunther Ironheart was famous for his strength.",
 			"It is said that he made these gloves by simply wrapping steel plates around his wrists.",
 			"^FFC501Holy^000000 property magical damage +3%.",
@@ -247444,7 +247290,6 @@ tbl = {
 		identifiedDisplayName = "Talos' Shadow Gloves",
 		identifiedResourceName = "S_Arms_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"It is unknown if Talos was a human or an automaton.",
 			"According to legend, it was originally an enchanted glove that forged a metal body for itself.",
 			"Long-range physical damage +3%.",
@@ -247483,7 +247328,6 @@ tbl = {
 		identifiedDisplayName = "Sylphir's Shadow Gloves",
 		identifiedResourceName = "S_Varetyr_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Sylphir was one of the most powerful Sorcerers in Rune-Midgard.",
 			"It was said that he forged his gloves from Aether, the primordial matter of our world.",
 			"^0095FFWind^000000 property magical damage +3%.",
@@ -247524,7 +247368,6 @@ tbl = {
 		identifiedDisplayName = "Dordaleon's Shadow Gloves",
 		identifiedResourceName = "S_Shadowspell_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Shadow Chaser Dordaleon was invincible on the battlefield.",
 			"His gloves emitted shockwaves that tossed enemies around.",
 			"Has a chance to activate [Psychic Wave] Lv 3 when inflicting physical damage",
@@ -247566,7 +247409,6 @@ tbl = {
 		identifiedDisplayName = "Osma's Shadow Gloves",
 		identifiedResourceName = "S_Strain_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Osma Stoneface was a great Warlock.",
 			"Magic gloves allowed her to easily command the elements of the earth.",
 			"^640000Earth^000000 property magical damage +3%.",
@@ -247606,7 +247448,6 @@ tbl = {
 		identifiedDisplayName = "Garmia's Shadow Gloves",
 		identifiedResourceName = "S_Arrowvulcan_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Garmia was famous as one of the most talented Wanderers in Rune-Midgard.",
 			"It was said that the notes engraved on her gloves flew at enemies like arrows.",
 			"Long-range physical damage +3%.",
@@ -247646,7 +247487,6 @@ tbl = {
 		identifiedDisplayName = "Boscard's Shadow Gloves",
 		identifiedResourceName = "S_Cannon_Cart_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Geneticist Boscard became famous for his alchemical experiments.",
 			"His living gloves were capable of spitting poison.",
 			"Long-range physical damage +3%.",
@@ -250034,7 +249874,6 @@ tbl = {
 		identifiedDisplayName = "Swordman Shadow Earring",
 		identifiedResourceName = "S_Swordman_earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this earring belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Reduces SP cost of Bash by 20%.",
@@ -250069,7 +249908,6 @@ tbl = {
 		identifiedDisplayName = "Merchant Shadow Earring",
 		identifiedResourceName = "S_Merchant_earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this earring belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increase Damage of Mammonite by 20%",
@@ -250104,7 +249942,6 @@ tbl = {
 		identifiedDisplayName = "Acolyte Shadow Earring",
 		identifiedResourceName = "S_Acolyte_earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this earring belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Reduces the SP cost of Heal by 20%.",
@@ -250139,7 +249976,6 @@ tbl = {
 		identifiedDisplayName = "Magician Shadow Earring",
 		identifiedResourceName = "S_Magician_earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this earring belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Reduces variable casting time of Fire Bolt, Cold Bolt, Lightning Bolt by 20%.",
@@ -250174,7 +250010,6 @@ tbl = {
 		identifiedDisplayName = "Swordman Shadow Pendant",
 		identifiedResourceName = "S_Swordman_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increases the damage of Magnum Break by 20%.",
@@ -250209,7 +250044,6 @@ tbl = {
 		identifiedDisplayName = "Merchant Shadow Pendant",
 		identifiedResourceName = "S_Merchant_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increases the damage of Cart Revolution by 20%.",
@@ -250244,7 +250078,6 @@ tbl = {
 		identifiedDisplayName = "Acolyte Shadow Pendant",
 		identifiedResourceName = "S_Acolyte_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increases the damage of Holy Light by 20%.",
@@ -250279,7 +250112,6 @@ tbl = {
 		identifiedDisplayName = "Thief Shadow Pendant",
 		identifiedResourceName = "S_Thief_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increases the damage of Envenom by 20%.",
@@ -250314,7 +250146,6 @@ tbl = {
 		identifiedDisplayName = "Magician Shadow Pendant",
 		identifiedResourceName = "S_Magician_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increases the damage of Fire Wall by 20%.",
@@ -250349,7 +250180,6 @@ tbl = {
 		identifiedDisplayName = "Archer Shadow Pendant",
 		identifiedResourceName = "S_Archer_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"Increases the damage of Arrow Shower by 20%.",
@@ -250384,7 +250214,6 @@ tbl = {
 		identifiedDisplayName = "Thief Shadow Earring",
 		identifiedResourceName = "S_Thief_earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"When using Stone Fling, with a 20% chance ATK, Flee +30 for 5 sec. ATK, Flee +10 per every refine level.",
@@ -250418,7 +250247,6 @@ tbl = {
 		identifiedDisplayName = "Archer Shadow Earring",
 		identifiedResourceName = "S_Archer_earring",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Once upon a time, this pendant belonged to a legendary hero.",
 			"It helps to reveal the owner's hidden talents.",
 			"When using Double Strafe, with a 20% chance ATK, HIT +30 for 5 sec. ATK, HIT +10 per every refine level.",
@@ -250845,7 +250673,6 @@ tbl = {
 		identifiedDisplayName = "Wind Spear Petal Shadow Earring",
 		identifiedResourceName = "S_Huusouka_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Increases Flaming Petals, Freezing Spear and Wind Blade damage by 3%.",
 			"If refine rate is 7 or higher, increases Flaming Petals, Freezing Spear and Wind Blade damage by additional 3%.",
 			"If refine rate is 9 or higher, increases Flaming Petals, Freezing Spear and Wind Blade damage by additional 4%.",
@@ -250875,7 +250702,6 @@ tbl = {
 		identifiedDisplayName = "Wind Spear Petal Shadow Pendant",
 		identifiedResourceName = "S_Huusouka_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"MaxSP + 2%.",
 			"additional MaxSP + 1% per 2 refine rate.",
 			"Class: ^777777Shadow Equipment^000000",
@@ -250897,7 +250723,6 @@ tbl = {
 		identifiedDisplayName = "Wind Spear Petal Shadow Shoes",
 		identifiedResourceName = "S_Huusouka_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"Increases magical damage against all size enemies by 5%.",
 			"Increases magical damage against all size enemies by additional 1% per 2 refine rate.",
 			"Class: ^777777Shadow Equipment^000000",
@@ -250919,7 +250744,6 @@ tbl = {
 		identifiedDisplayName = "Fire Dance Shadow Earring",
 		identifiedResourceName = "S_Flare_Dance_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A sacred earring that is said to protect the wearer. Brings out the wearer's potential.",
 			"MaxHP +10 per refine rate.",
 			"MaxHP + 5%.",
@@ -250950,7 +250774,6 @@ tbl = {
 		identifiedDisplayName = "Fire Dance Shadow Pendant",
 		identifiedResourceName = "S_Flare_Dance_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"A sacred necklace said to protect the wearer. Brings out the wearer's potential.",
 			"MaxHP +10 per refine rate.",
 			"Increases Fire Dance damage by 5%.",
@@ -255460,7 +255283,6 @@ tbl = {
 		identifiedDisplayName = "Sharpshooter's Shadow Ring",
 		identifiedResourceName = "S_Shatter_Buster_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"This ring used to belong to the legendary gunslinger Doc Derringe.",
 			"Even though many wished him harm, noone dared to challenge him to his face.",
 			"Max. SP +5%.",
@@ -255500,7 +255322,6 @@ tbl = {
 		identifiedDisplayName = "Sharpshooter's Shadow Pendant",
 		identifiedResourceName = "S_Shatter_B_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"This pendant used to belong to the legendary gunslinger Doc Derringe.",
 			"According to the legend, it once saved Doc's life during a duel when a bullet hit it.",
 			"Increases the damage of the Shattering Storm skill by 5%.",
@@ -255524,7 +255345,6 @@ tbl = {
 		identifiedDisplayName = "Sharpshooter's Shadow Boots",
 		identifiedResourceName = "S_Shatter_Buster_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"These boots used to belong to the legendary gunslinger Doc Derringe.",
 			"It is said that his footsteps were as loud and striking as gunshots.",
 			"Increases the damage of the Vanishing Buster skill by 5%.",
@@ -255548,7 +255368,6 @@ tbl = {
 		identifiedDisplayName = "Scout's Shadow Ring",
 		identifiedResourceName = "S_Syuriken_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"This ring once belonged to the famed ninja Hebimaru.",
 			"He was as fast as a snake and just as slippery.",
 			"Increases long range physical damage by 3%.",
@@ -255586,7 +255405,6 @@ tbl = {
 		identifiedDisplayName = "Scout's Shadow Pendant",
 		identifiedResourceName = "S_Syuriken_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"This pendant once belonged to the famed ninja Hebimaru.",
 			"He could turn into other people by shedding his skin like a snake.",
 			"Increases the damage of the Swirling Petal skill by 5%.",
@@ -255610,7 +255428,6 @@ tbl = {
 		identifiedDisplayName = "Scout's Shadow Boots",
 		identifiedResourceName = "S_Syuriken_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
 			"These boots once belonged to the famed ninja Hebimaru.",
 			"It is said that he soaked them in the cursed blood of an ancient serpent.",
 			"Increases the damage of the Cross Slash skill by 5%.",
@@ -277995,10 +277812,10 @@ tbl = {
 			" ",
 			"Increase damage of ^0000FF[Grand Cross]^000000 and ^0000FF[Genesis Ray]^000000 by 20%.",
 			" ",
-			"^264696[If Inspiration LV is 5 or higher]^000000, INT +20, immune to Stone Curse.",
+			"^264696[If Inspiration LV is 5]^000000, INT +20, immune to Stone Curse.",
 			" ",
-			"^264696[If Devotion LV is 5 or higher]^000000, healing +20%.",
-			"Increase magical damage to ^640000Earth^000000, ^777777Neutral^000000, ^7338CBUndead^000000, ^FF43E0Ghost^000000 type monsters per 1 skill level of ^0000FF[Hesperus Lit]^000000.",
+			"^264696[If Devotion LV is 5]^000000, effectiveness of healing skills +20%.",
+			"Increase magical damage to ^640000Earth^000000, ^777777Neutral^000000, ^7338CBUndead^000000, ^FF43E0Ghost^000000 type monsters by 1% per skill level of ^0000FF[Hesperus Lit]^000000.",
 			" ",
 			"Def +30 for every refine level.",
 			"^264696[If refine rate is +7 or higher]^000000, increase damage of ^0000FF[Grand Cross]^000000 and ^0000FF[Genesis Ray]^000000 by additional 30%.",
@@ -278030,14 +277847,14 @@ tbl = {
 			"Mdef +10, Max HP +3%, Max SP +3%",
 			"Enables Increase Agility (LV 1)",
 			" ",
-			"^264696[If ^0000FF[Inspiration is LV 5 or higher]^000000, ^0000FF[Shield Spell]^000000 cooldown -2 sec.",
+			"^264696[If ^0000FF[Inspiration is LV 5]^000000, ^0000FF[Shield Spell]^000000 cooldown -2 sec.",
 			"^0000FF[Vanishing Point]^000000 damage +10% for every ^0000FF[Cannon Spear]^000000 LV.",
-			"ATK +4% for every ^0000FF[Sacrifice]^000000 LV.",
+			"+4% damage to all class enemies for every LV of ^0000FF[Sacrifice]^000000 known.",
 			"All class enemies' DEF -20% for each ^0000FF[Pinpoint Attack]^000000 LV.",
 			" ",
-			"^264696[If refine rate is +5 or higher]^000000, Max HP +7%, Max SP +7%, long range physical damage +5%.",
+			"^264696[If refine rate is +5 or higher]^000000, Max HP +4%, Max SP +4%, long range physical damage +5% additionally.",
 			" ",
-			"^264696[If refine rate is +7 or higher]^000000, Max HP +10%, Max SP +10%, long range physical damage +5%.",
+			"^264696[If refine rate is +7 or higher]^000000, Max HP +3%, Max SP +3% additionally.",
 			"^777777-------------^000000",
 			"Class: ^777777Footwear^000000",
 			"Defense: ^77777712^000000",
