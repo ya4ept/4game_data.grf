@@ -18951,7 +18951,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Жезл Рафини",
+		identifiedDisplayName = "Жезл Лафин",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
 			"Посох, изготовленный племенем Лафин, при помощи обработки камня, наполненного магической энергией.",
@@ -26953,39 +26953,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 0,
-		costume = false
-	},
-	[2198] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Laphine Shield",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"A shield of the Laphine tribe that has mysterious powers.",
-			"Класс: ^777777Щит^000000",
-			"Защита: ^77777725^000000",
-			"Вес: ^777777100^000000",
-			"Требуемый уровень: ^777777100^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Маг. защита + 10",
-			" ",
-			"If upgrade level is +7 or higher,",
-			"Matk + 20",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Laphine Shield[1]^000000",
-			"^008080Laphine Staff^000000",
-			"If ^008080Laphine Shield[1]^000000 upgrade level is +9 or higher",
-			"Matk + 15 per upgrade level of ^008080Laphine Staff^000000.",
-			"If ^008080Laphine Shield[1]^000000 upgrade level is +9 or higher and ^008080Laphine Staff^000000 upgrade level is +10 or higher,",
-			"Additional Matk + 50",
-			"Reduces the variable casting time of skills by 10%."
-		},
-		slotCount = 1,
-		ClassNum = 3,
 		costume = false
 	},
 	[2199] = {
@@ -145039,57 +145006,6 @@ tbl = {
 		ClassNum = 1471,
 		costume = false
 	},
-	[15169] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Kardui Robe",
-		identifiedResourceName = "???????",
-		identifiedDescriptionName = {
-			"A magical robe worn by the king of the Laphine tribe.",
-			"Класс: ^777777Броня^000000",
-			"Защита: ^77777760^000000",
-			"Элемент: ^777777Нейтральный^000000",
-			"Вес: ^77777780^000000",
-			"Требуемый уровень: ^77777790^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Matk + 10",
-			"Маг. защита + 5",
-			"Reduces damage taken from Demi-Human race enemies by 1%.",
-			"Reduces damage taken from Human Player race enemies by 1%.",
-			" ",
-			"If upgrade level is +7 or higher,",
-			"Reduces damage taken from Demi-Human race enemies by an additional 2%.",
-			"Reduces damage taken from Human Player race enemies by an additional 2%.",
-			"If upgrade level is +8 or higher,",
-			"Reduces damage taken from Demi-Human race enemies by an additional 2%.",
-			"Reduces damage taken from Human Player race enemies by an additional 2%.",
-			"This item is indeСилаuctible in battle.",
-			"If upgrade level is +9 or higher,",
-			"Reduces damage taken from Demi-Human race enemies by an additional 2%.",
-			"Reduces damage taken from Human Player race enemies by an additional 2%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Angeling Card^000000",
-			"^008080Kardui Robe[1]^000000",
-			"If upgrade level is +9 or higher,",
-			"Immune to ^800000Frozen^000000.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Kardui Robe[1]^000000",
-			"^008080Laphine Staff^000000",
-			"Matk + 3 per upgrade level of ^008080Laphine Staff^000000.",
-			"If ^008080Kardui Robe[1]^000000 upgrade level is +7 or higher,",
-			"Additional Matk + 5 per upgrade level of ^008080Laphine Staff^000000.",
-			"If ^008080Kardui Robe[1]^000000 upgrade level is +8 or higher,",
-			"Additional Matk + 7 per upgrade level of ^008080Laphine Staff^000000."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[15174] = {
 		unidentifiedDisplayName = "Броня",
 		unidentifiedResourceName = "?",
@@ -168264,39 +168180,6 @@ tbl = {
 		ClassNum = 704,
 		costume = false
 	},
-	[19163] = {
-		unidentifiedDisplayName = "Headgear",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Catherina Von Blood",
-		identifiedResourceName = "????????60?",
-		identifiedDescriptionName = {
-			"Headgear modeled after the famed succubus. It's quite charming!",
-			"^FF0000This item cannot be upgraded.^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^7777770^000000",
-			"Вес: ^77777730^000000",
-			"Требуемый уровень: ^7777771^000000",
-			"Квалификация: ^777777Все профессии^000000",
-			"Restores 500 HP and 50 SP to the user when a monster is killed.",
-			"Drains 5000 HP and 500 SP from the user when the item is unequipped.",
-			"^800080Set Bonus^000000",
-			"^008080Catherina Von Blood[1]^000000",
-			"^008080Succubus Cute Pet^000000",
-			"Restores 500 HP to the user every 5 seconds.",
-			"Restores 20 SP to the user every 5 seconds.",
-			" ",
-			"If pet is Loyal,",
-			"Restores additional 500 HP to the user every 5 seconds.",
-			"Restores additional 20 SP to the user every 5 seconds."
-		},
-		slotCount = 1,
-		ClassNum = 1527,
-		costume = false
-	},
 	[19170] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
@@ -184263,7 +184146,7 @@ tbl = {
 		identifiedDisplayName = "Майка Этрана",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"Одежда древнего героя племени Рафини по имени Этран.",
+			"Одежда древнего героя племени Лафин по имени Этран.",
 			"Класс: ^808080Накидка^000000",
 			"Защита: ^8080800^000000",
 			"Вес: ^80808015^000000",
@@ -194082,7 +193965,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Weapon",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"A glove worn to enhance Сноровкаterity.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Weapon^000000",
@@ -194113,7 +193995,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Armor",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"An armor worn to enhance luck.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Armor^000000",
@@ -194144,7 +194025,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Shoes",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"A pair of shoes worn to enhance agility.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Shoes^000000",
@@ -194175,7 +194055,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Shield",
 		identifiedResourceName = "???????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"A shield worn to enhance vitality.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Shield^000000",
@@ -194206,7 +194085,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Earring",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"An earring worn to enhance intelligence.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Earring^000000",
@@ -194237,7 +194115,6 @@ tbl = {
 		identifiedDisplayName = "Shadow Pendant",
 		identifiedResourceName = "????????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"A pendant worn to enhance Силаength.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Pendant^000000",
@@ -194602,7 +194479,6 @@ tbl = {
 		identifiedDisplayName = "Теневой доспех поборника",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Воин веры Олаф Неколебимый всегда выходил на поле боя без доспехов.",
 			"Он утверждал, что его защищает благословение Фрейра.",
 			"^777777—————————————^000000",
@@ -194643,7 +194519,6 @@ tbl = {
 		identifiedDisplayName = "Теневой доспех цареубийцы",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Говорят, Деметрис Птицелов в одиночку сразил всех защитников царя-колдуна, а затем убил его самого. И никаких доспехов на цареубийце будто бы не было.",
 			"^777777—————————————^000000",
 			"Точность +10",
@@ -194685,7 +194560,6 @@ tbl = {
 		identifiedDisplayName = "Теневой доспех палача",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Если верить слухам, королевский экзекутор Ланквиста носил белые одежды.",
 			"Он убивал своих жертв одним метким ударом, не проливая ни капли крови.",
 			"^777777—————————————^000000",
@@ -194724,7 +194598,6 @@ tbl = {
 		identifiedDisplayName = "Теневые наручи цареубийцы",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Рассказывают, что Деметрис Птицелов умел отводить удары меча ладонью. Каких только небылиц не сочиняют про героев прошлого!",
 			"^777777—————————————^000000",
 			"Физ. атака +10",
@@ -194766,7 +194639,6 @@ tbl = {
 		identifiedDisplayName = "Теневые рукавицы палача",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Говорят, что королевский экзекутор Ланквиста был невероятно силен.",
 			"Своим топором он рассекал шею жертвы, плаху и землю под ней.",
 			"^777777—————————————^000000",
@@ -195574,7 +195446,6 @@ tbl = {
 		identifiedDisplayName = "Теневые наручи Бодри",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Бодри Неустрашимый был искушен в магии так же хорошо, как и в воинском искусстве.",
 			"Одна его рука разила врагов мечом, другая же складывала пальцы в оккультные жесты.",
 			"^777777—————————————^000000",
@@ -195617,7 +195488,6 @@ tbl = {
 		identifiedDisplayName = "Теневая печать Бодри",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Говорят, этой печатью Бодри Неустрашимый прижигал свои раны прямо во время боя.",
 			"И становился после этого еще сильнее и яростнее.",
 			"^777777—————————————^000000",
@@ -195659,7 +195529,6 @@ tbl = {
 		identifiedDisplayName = "Теневая инсигния Бодри",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"В тайнике внутри инсигнии Бодри Неустрашимый хранил локоны жены и дочери, что погибли от рук врагов.",
 			"Он позаботился о том, чтобы враги заплатили за их смерть сполна.",
 			"^777777—————————————^000000",
@@ -195701,7 +195570,6 @@ tbl = {
 		identifiedDisplayName = "Теневой доспех Бадри",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Рассказывают, что доспехи Бадри Неуязвимого могли увеличиваться и уменьшаться, подстраиваясь под владельца.",
 			"Сын Бадри вырос невысоким и стройным, однако латы отца-великана сидели на нем как влитые.",
 			"^777777—————————————^000000",
@@ -195743,7 +195611,6 @@ tbl = {
 		identifiedDisplayName = "Теневые поножи Бадри",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Когда в тело Бадри Неуязвимого вонзилась сотая стрела, он погиб, но остался стоять на ногах.",
 			"Враги целый час не решались подойти к нему.",
 			"^777777—————————————^000000",
@@ -195785,7 +195652,6 @@ tbl = {
 		identifiedDisplayName = "Теневой щит Бадри",
 		identifiedResourceName = " ",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Выйдя на бой, Бадри Неуязвимый позволял нанести себе рану, чтобы оставить шрам в память о поединке.",
 			"Затем он убивал врага одним ударом.",
 			"^777777—————————————^000000",
@@ -196013,7 +195879,6 @@ tbl = {
 		identifiedDisplayName = "Unfreezing Shadow Weapon",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"A glove worn to enhance frozen resistance.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Weapon^000000",
@@ -196045,7 +195910,6 @@ tbl = {
 		identifiedDisplayName = "Unfreezing Shadow Earring",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"An earring worn to enhance frozen resistance.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Earring^000000",
@@ -196077,7 +195941,6 @@ tbl = {
 		identifiedDisplayName = "Unfreezing Shadow Pendant",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"A pendant worn to enhance frozen resistance.",
 			"^FF0000Account Bound^000000",
 			"Класс: ^777777Shadow Pendant^000000",
@@ -199026,7 +198889,6 @@ tbl = {
 		identifiedDisplayName = "Теневой доспех витязя",
 		identifiedResourceName = "RU_Promotion_Armor",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Волшебные латы, некогда принадлежавшие Драгану Темнородному, одному из лучших воинов Московии. По слухам, они скованы из незримой стали и закалены в черном огне.",
 			"^777777—————————————^000000",
 			"^000088Удача +1^000000",
@@ -199066,7 +198928,6 @@ tbl = {
 		identifiedDisplayName = "Теневые поножи витязя",
 		identifiedResourceName = "RU_Promotion_Shoes",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Волшебные поножи, некогда принадлежавшие Драгану Темнородному, одному из лучших воинов Московии. По слухам, они скованы из незримой стали и закалены в черном огне.",
 			"^777777—————————————^000000",
 			"^000088Ловкость +1^000000",
@@ -199106,7 +198967,6 @@ tbl = {
 		identifiedDisplayName = "Теневой щит витязя",
 		identifiedResourceName = "RU_Promotion_Shield",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Волшебный щит, некогда принадлежавший Драгану Темнородному, одному из лучших воинов Московии. По слухам, он скован из незримой стали и закален в черном огне.",
 			"^777777—————————————^000000",
 			"^000088Живучесть +1^000000",
@@ -199146,7 +199006,6 @@ tbl = {
 		identifiedDisplayName = "Теневая печать витязя",
 		identifiedResourceName = "RU_Promotion_Earring",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Волшебное кольцо, некогда принадлежавшее Драгану Темнородному, одному из лучших воинов Московии. По слухам, оно сковано из незримой стали и закалено в черном огне.",
 			"^777777—————————————^000000",
 			"^000088Интеллект +1^000000",
@@ -199186,7 +199045,6 @@ tbl = {
 		identifiedDisplayName = "Теневая инсигния витязя",
 		identifiedResourceName = "RU_Promotion_Pendant",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Орденский знак, некогда принадлежавший Драгану Темнородному, одному из лучших воинов Московии. По слухам, он скован из незримой стали и закален в черном огне.",
 			"^777777—————————————^000000",
 			"^000088Сила +1^000000",
@@ -199226,7 +199084,6 @@ tbl = {
 		identifiedDisplayName = "Теневые наручи витязя",
 		identifiedResourceName = "RU_Promotion_Weapon",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Волшебные наручи, некогда принадлежавшие Драгану Темнородному, одному из лучших воинов Московии. По слухам, они скованы из незримой стали и закалены в черном огне.",
 			"^777777—————————————^000000",
 			"^000088Сноровка +1^000000",
@@ -229892,7 +229749,6 @@ tbl = {
 		identifiedDisplayName = "Теневое кольцо Боскарда",
 		identifiedResourceName = "S_Cannon_Cart_Earing",
 		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
 			"Генетик Боскард стал знаменитым благодаря своим алхимическим экспериментам.",
 			"Когда кольцо, похожее на змейку, кусало Боскарда за палец, он превращался в могучего великана, способного победить целую армию.",
 			"Урон по монстрам всех размеров +5%",
@@ -260352,9 +260208,9 @@ tbl = {
 			" ",
 			"Урон от умения ^0000FF[Великий крест]^000000 и ^0000FF[Проблеск бытия]^000000 +20%.",
 			" ",
-			"^264696[Если ^0000FF[Воодушевления]^000000 ур. 5 или выше]^000000, интеллект +20, иммунитет к окаменению",
-			"^264696[Если ^0000FF[Преданность]^000000 ур. 5 или выше]^000000, лечение +20%",
-			"Усиливает маг. урон по монстрам с элементами ^640000Земля^000000, ^777777Нейтральный^000000, ^7338CBНежить^000000 и ^FF43E0Призрак^000000 за каждый уровень ^0000FF[Звездного света]^000000.",
+			"^264696[Если ^0000FF[Воодушевления]^000000 ур. 5]^000000, интеллект +20, иммунитет к окаменению",
+			"^264696[Если ^0000FF[Преданность]^000000 ур. 5]^000000, эффективность лечащих умений +20%",
+			"Усиливает маг. урон по монстрам с элементами ^640000Земля^000000, ^777777Нейтральный^000000, ^7338CBНежить^000000 и ^FF43E0Призрак^000000 на 1% за каждый уровень ^0000FF[Звездного света]^000000.",
 			" ",
 			"Защита +30 за каждый уровень заточки",
 			"^264696[При заточке на +7 и выше]^000000 дополнительно +30% к урону ^0000FF[Великого креста]^000000 и ^0000FF[Проблеска бытия]^000000",
@@ -260386,14 +260242,14 @@ tbl = {
 			"Маг. защита +10, Макс. HP +3%, макс. SP +3%",
 			"Можно использовать умение [Повышение ловкости] (ур. 1)",
 			" ",
-			"^264696[Если умение ^0000FF[Воодушевление]^000000 уровня 5 или выше]^000000, перезарядка ^0000FF[Магии щита]^000000 -2 сек.",
+			"^264696[Если умение ^0000FF[Воодушевление]^000000 уровня 5]^000000, перезарядка ^0000FF[Магии щита]^000000 -2 сек.",
 			"Урон от умения ^0000FF[Пронзить копьем]^000000 +10% за каждый уровень ^0000FF[Гарпуна]^000000",
-			"Физ. атака +4% за каждый уровень умения ^0000FF[Преданность]^000000",
-			"Защита врагов всех типов -20% за каждый уровень умения ^0000FF[Бронебойный удар]^000000",
+			"Урон по всем типам +4% за каждый уровень умения ^0000FF[Преданность]^000000",
+			"Защита врагов всех рас -20% за каждый уровень умения ^0000FF[Бронебойный удар]^000000",
 			" ",
-			"^264696[При заточке на +5 и выше]^000000 макс. HP +7%, макс. SP +7%, урон от дальних физ. атак +5%",
+			"^264696[При заточке на +5 и выше]^000000 дополнительно макс. HP +4%, макс. SP +4%, урон от дальних физ. атак +5%",
 			" ",
-			"^264696[При заточке на +7 и выше]^000000 макс. HP +10%, макс. SP +10%, урон от дальних физ. атак +5%",
+			"^264696[При заточке на +7 и выше]^000000 дополнительно макс. HP +3%, макс. SP +3%",
 			"^777777—————————————^000000",
 			"Класс: ^777777Обувь^000000",
 			"Защита: ^77777712^000000",
@@ -278477,6 +278333,169 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 0,
+		costume = false
+	},
+	[2198] = {
+		unidentifiedDisplayName = "Щит",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Щит Лафин",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Искусно сделанный щит народа Лафин, обладающий особой мистической силой.",
+			"^777777—————————————^000000",
+			"Маг. защита +10",
+			" ",
+			"^264696[За каждые 4 уровня заточки]:^000000",
+			"Маг. атака +20, маг. защита +4, вариативное время применения всех умений -4%.",
+			" ",
+			"[Бонус комплекта]",
+			"^4A94F7»^000000 <ITEM>Щит Лафин<INFO>2198</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Жезл Лафин<INFO>1649</INFO></ITEM>",
+			"Маг. атака +20 за каждый уровень заточки жезла Лафин.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Щит^000000",
+			"Защита: ^77777725^000000",
+			"Вес: ^777777100^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 3,
+		costume = false
+	},
+	[15169] = {
+		unidentifiedDisplayName = "Броня",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Одежды Кардуи",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"Изящное одеяние, некогда принадлежавшее Кардуи, королю лафинов.",
+			"^777777—————————————^000000",
+			"Маг. защита +5",
+			" ",
+			"^264696[За каждые 4 уровня заточки]:^000000",
+			"Маг. атака +40, маг. защита +4, урон от человекоподобных монстров -4%.",
+			" ",
+			"[Бонус комплекта]",
+			"^4A94F7»^000000 <ITEM>Одежды Кардуи<INFO>15169</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Карта Ангелинга<INFO>4054</INFO></ITEM>",
+			"Иммунитет к заморозке.",
+			" ",
+			"[Бонус комплекта]",
+			"^4A94F7»^000000 <ITEM>Одежды Кардуи<INFO>15169</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Жезл Лафин<INFO>1649</INFO></ITEM>",
+			"Маг. урон +8% за каждый уровень заточки жезла Лафин.",
+			" ",
+			"[Бонус комплекта]",
+			"^4A94F7»^000000 <ITEM>Одежды Кардуи<INFO>15169</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ушки Кардуи<INFO>5966</INFO></ITEM>",
+			"Фиксированное время применения всех умений -0.1 сек.",
+			"Применение умения нельзя прервать вне осады.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Броня^000000",
+			"Защита: ^7777760^000000",
+			"Вес: ^77777780^000000",
+			"Требуемый уровень: ^77777790^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[19163] = {
+		unidentifiedDisplayName = "Головной убор",
+		unidentifiedResourceName = "?",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Катарина фон Блад",
+		identifiedResourceName = "????????60?",
+		identifiedDescriptionName = {
+			"Очаровательная маленькая куколка, которую можно оставить на голове.",
+			"^777777—————————————^000000",
+			"Восстанавливает 500 HP, 50 SP при убийстве монстра маг. или физ. атакой.",
+			" ",
+			"[Бонус комплекта]",
+			"^4A94F7»^000000 <ITEM>Катарина фон Блад<INFO>19163</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Яйцо Суккуба<INFO>9055</INFO></ITEM>",
+			" ",
+			"Если питомец-суккуб призван, восстанавливает 500 HP, 20 SP каждые 5 сек.",
+			"При уровне верности питомца-суккуба 'преданный' дополнительно восстанавливает 500 HP, 20 SP каждые 5 сек.",
+			" ",
+			"При снятии тратится 5000 HP, 500 SP",
+			"^777777—————————————^000000",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777730^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1527,
+		costume = false
+	},
+	[410071] = {
+		unidentifiedDisplayName = "Головной убор",
+		unidentifiedResourceName = "Головной убор",
+		unidentifiedDescriptionName = {
+			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
+		},
+		identifiedDisplayName = "Фамильяр демона",
+		identifiedResourceName = "Demons_Familiar",
+		identifiedDescriptionName = {
+			"^ff0000Предмет анимирован.^000000",
+			"Автономная камера дистанционного наблюдения из поместья Бармунда.",
+			"Она обрела разум из-за магических флуктуаций, вызванных феноменом иллюзий.",
+			"^777777—————————————^000000",
+			"+10 ко всем характеристикам.",
+			" ",
+			"^264696[При экипировке вместе с одним из следующих предметов:]^000000",
+			" ",
+			"^4A94F7»^000000 <ITEM>Грань Лицемерия<INFO>600008</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дробовик Похоти<INFO>820000</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Пулемет Похоти<INFO>830001</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Гранатомет Похоти<INFO>840000</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Клинок Лицемерия<INFO>500007</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Меч Зависти<INFO>500008</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Кинжал Гнева<INFO>510008</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Клык Чревоугодия<INFO>510009</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Секира Гордыни<INFO>520002</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Копье Чревоугодия<INFO>530002</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Книга Лени<INFO>540004</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Катар Алчности<INFO>610006</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Писание Лени<INFO>540005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Жезл Алчности<INFO>550008</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Стебель Зависимости<INFO>550009</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Кулак Гнева<INFO>560004</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Волна Лени<INFO>570005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Искра Лени<INFO>580005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Дубина Зависти<INFO>590006</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Копье Похоти<INFO>630003</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Камень Гордыни<INFO>640005</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Колесо Гнева<INFO>650003</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Струна Гордыни<INFO>700007</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Стрела Чревоугодия<INFO>700008</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Ритм Лени<INFO>700009</INFO></ITEM>",
+			"^4A94F7»^000000 <ITEM>Винтовка Похоти<INFO>810000</INFO></ITEM>",
+			" ",
+			"Физ. атака +200, маг. атака +200.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Глаза^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2127,
 		costume = false
 	}
 }

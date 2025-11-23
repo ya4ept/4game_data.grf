@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-808c69cf5752b0f6a6130268bac70b4e *data\buyingstoreitemlist.txt
+a52baa19f1028670714411c4f638c7a0 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 d15056fe8aa2a00bf998484974148c1d *data\cardpostfixnametable.txt
 e319bd5ed6b78f7763f75d219f2e2321 *data\cardprefixnametable.txt
@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 a2fd0149f129fb301f054398a420a3a5 *data\idnum2itemdisplaynametable.txt
-d101b21fa63e03bf8b03c7583c8e3f51 *data\idnum2itemresnametable.txt
+033e36dc85e37012783ca3b0614f5e20 *data\idnum2itemresnametable.txt
 d6e7c5ac6f066199a8339bdeb6ed947d *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-aff9e2fdc6404705717b174082bcd781 *data\itemslotcounttable.txt
+68214abab35f87d6b5188471711b6a59 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 8ed6595c945334aa589210167eee0a2b *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 fc06bf121d46c8c27dcb1c59a56d12e4 *data\num2itemdisplaynametable.txt
-d6cba5ab7586c796aff67c72ab929838 *data\num2itemresnametable.txt
+9443d6ccfd2cf6f9d9143e23773dcf17 *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -128745,7 +128745,7 @@ bf9f8105d8fd0aac7247677de7e5413f *data\texture\유저인터페이스\collection\카츠발�
 0d0fabe4906f2e02c0f243361ffee029 *data\texture\유저인터페이스\collection\카카오.bmp
 a50228ea2684b96b7dbf6c0b01162548 *data\texture\유저인터페이스\collection\카카오99.bmp
 13320d28998a6241fabca9208584cb05 *data\texture\유저인터페이스\collection\카카오콩.bmp
-75f301ca1dbbb3890c827b79d46d33fb *data\texture\유저인터페이스\collection\카타리나폰브레드60세.bmp
+9d9c9919366c358f37a8e98604011c3f *data\texture\유저인터페이스\collection\카타리나폰브레드60세.bmp
 d1bb38384288610d06b0294a070f5e04 *data\texture\유저인터페이스\collection\카타르.bmp
 bbc5796b7922ec416f6173a29fad6299 *data\texture\유저인터페이스\collection\카타나.bmp
 10ad84abbf3a09785b054ee914aa8640 *data\texture\유저인터페이스\collection\카트파츠.bmp
