@@ -280495,14 +280495,13 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
-		identifiedDisplayName = "learn2pay",
-		identifiedResourceName = "C_Winner_Yel_Pur_Aura",
+		identifiedDisplayName = "MrsGod",
+		identifiedResourceName = "C_Winner_Yellow_Purple_Aura",
 		identifiedDescriptionName = {
 			"^ff0000Account Bound.^000000",
 			"Level 200 is not just a number. It is a symbol of absolute superiority.",
 			"Now your name is forever inscribed in the history of the server - as the first, as the greatest, as unsurpassed.",
 			"^ff0000Animated^000000",
-			"^777777-------------^000000",
 			"Class: ^777777Costume^000000",
 			"Location: ^777777Lower^000000",
 			"Defense: ^7777770^000000",
@@ -280527,7 +280526,6 @@ tbl = {
 			"Level 200 - and no one else is even close! You are not just a leader, you are the standard of skill.",
 			"Keep it up! The server bows its head before your result.",
 			"^ff0000Animated^000000",
-			"^777777-------------^000000",
 			"Class: ^777777Costume^000000",
 			"Location: ^777777Lower^000000",
 			"Defense: ^7777770^000000",
@@ -280536,7 +280534,7 @@ tbl = {
 			"Jobs: ^777777All^000000"
 		},
 		slotCount = 0,
-		ClassNum = 2610,
+		ClassNum = 2609,
 		costume = true
 	},
 	[56783] = {
