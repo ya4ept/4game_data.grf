@@ -697,8 +697,7 @@ EndableMap = {
 	"yuno_fild12"
 }
 NeedItem = {
-	{ 25464, "World_Tour_Ticket" },
-	{ 56776, "E_Warp_Worm" }
+	{ 25464, "World_Tour_Ticket" }
 }
 
 -- Function #0
