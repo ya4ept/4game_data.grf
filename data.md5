@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-710cd020eeeab9b9882c7e64c4174db8 *data\buyingstoreitemlist.txt
+52869ec17f83d71288829c3d308a6fce *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 d15056fe8aa2a00bf998484974148c1d *data\cardpostfixnametable.txt
 e319bd5ed6b78f7763f75d219f2e2321 *data\cardprefixnametable.txt
@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 a2fd0149f129fb301f054398a420a3a5 *data\idnum2itemdisplaynametable.txt
-b463403cc0583a64d592ff6bd730a973 *data\idnum2itemresnametable.txt
+73d944e289fbd14ab78e124b012f7f53 *data\idnum2itemresnametable.txt
 1d0219bcdcf333cd9b83f43a7a0f3f19 *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-713c897e2729662103161bc5ddce1401 *data\itemslotcounttable.txt
+ba23e763c59b0ebe0298efa97e182f5f *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 8ed6595c945334aa589210167eee0a2b *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 fc06bf121d46c8c27dcb1c59a56d12e4 *data\num2itemdisplaynametable.txt
-d17968cebfc2511700fe6a12d30ad1d0 *data\num2itemresnametable.txt
+de07982e3bae6e7809f6f352af40b0f0 *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
