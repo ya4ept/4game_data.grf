@@ -596,7 +596,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-c067a29677f0f555b526030d03296f77 *data\buyingstoreitemlist.txt
+57366571759a19128f7bfef744513fab *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 6e4ba22d5f5c25ef9812d4478939116b *data\cardpostfixnametable.txt
 e72f5246914e8c9d33bb6d7a2125c902 *data\cardprefixnametable.txt
@@ -1162,7 +1162,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 dc9c7f86055cc265bdeb87e3e67311e0 *data\idnum2itemdisplaynametable.txt
-89ce353199d9c7afd5df5ac352d454c6 *data\idnum2itemresnametable.txt
+57e7c049f92712cb1d1d36e11f815a3e *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1208,7 +1208,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 58f5180beba52db1f5b3dd0a8b94d141 *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-6761330eee4eaf3986b3ad29f3a281d5 *data\itemslotcounttable.txt
+1c052594515777f54151dd7b641a90bb *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1914,7 +1914,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 a571e2ca71810c56c3871f6f40a842eb *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 34403f193a19e0d2340b8aecfdd31b50 *data\num2itemdisplaynametable.txt
-0cadc0503928fb83ce2256850d528d65 *data\num2itemresnametable.txt
+0883d6b920b9a9b5af9c04ccf51b6d68 *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -85401,8 +85401,8 @@ abe04bd9dc0790792d55cd6e6e6a22d3 *data\sprite\아이템\melon_bread.spr
 2aba8f8d97daef6e069fdd6b667dc4c3 *data\sprite\아이템\memento_mori.act
 aef506219aefd70c6a046abbd9751d09 *data\sprite\아이템\memento_mori.spr
 f46e53817155cb043f71ff6386296d1b *data\sprite\아이템\memleaks.log
-dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\menblattwing.act
-a5fe620bb35eebee06121694171e3b30 *data\sprite\아이템\menblattwing.spr
+a0b6d02f9ae47fc2addfe7c141a91d64 *data\sprite\아이템\menblattwing.act
+0bfa166c32ecf8357015719fabe0d9ae *data\sprite\아이템\menblattwing.spr
 83dab646fba4066a5f0b763537e98d56 *data\sprite\아이템\mer_autoberserk.act
 bb0b415ecda1b4a473e8498a9ea5d95a *data\sprite\아이템\mer_autoberserk.spr
 abeace634666c84f1020b67ca294f94e *data\sprite\아이템\mer_benediction.act
@@ -85891,8 +85891,8 @@ d93412d2613ed3110cc9335756450d66 *data\sprite\아이템\ny_2024_hat7.spr
 d3fe49dde788975227c4766fff168ca1 *data\sprite\아이템\ob_oborogensou.spr
 3a50d0fba87e6f8e4dfbd0ed7be303a9 *data\sprite\아이템\ob_zangetsu.act
 cb872f4df477e95ca1f3e1244b90120f *data\sprite\아이템\ob_zangetsu.spr
-51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\old_detachmentsring.act
-eec6d940be5b546c86559d6c4603f722 *data\sprite\아이템\old_detachmentsring.spr
+42a62383e023aa99ee35460e34927238 *data\sprite\아이템\old_detachmentsring.act
+82b1238a8e77502404ff2a38d6d0d1f8 *data\sprite\아이템\old_detachmentsring.spr
 db4fab6f0951fc54ebf8b402e3821213 *data\sprite\아이템\old_moc_shawl.act
 c43b3818d502287a47e0af5743c2de11 *data\sprite\아이템\old_moc_shawl.spr
 f3995fc6ee44095a0f058ceb929e90f8 *data\sprite\아이템\openair_headset.act
@@ -87223,6 +87223,8 @@ b912fbaceb29b03e7521f7d6390812cf *data\sprite\아이템\virtual_bow_os.spr
 3929c56d69d78c18b7633bfd3768098c *data\sprite\아이템\volume_low_twin.act
 f163be6fbff74852a72dccdb609a1197 *data\sprite\아이템\volume_low_twin.spr
 5e47c6a5c835defc6eff0bf4f57641e7 *data\sprite\아이템\vs_weaponresearch.spr
+dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\wakwak_manteau.act
+18c8c6088a00b1a2143693b039ecca04 *data\sprite\아이템\wakwak_manteau.spr
 013b102dafb2c22cce3c107d5aaebf69 *data\sprite\아이템\wand_of_flame.act
 f227e1a6899e7a1ce91dd37145e38389 *data\sprite\아이템\wand_of_flame.spr
 013b102dafb2c22cce3c107d5aaebf69 *data\sprite\아이템\wand_of_ice.act
@@ -92068,8 +92070,8 @@ ed1aa4550ec533c009858a9e435ccc86 *data\sprite\아이템\엘프의화살통.act
 951902bcf88c88bc161bfba818c13af0 *data\sprite\아이템\엘프의화살통.spr
 515e6890e5c771b58e6aec94338d52a7 *data\sprite\아이템\엘더의가지.act
 5f119794dfeb3091c2c552dd2088c96e *data\sprite\아이템\엘더의가지.spr
-f93902657a8726872e2a57cb80585563 *data\sprite\아이템\엘더의영혼.act
-eb334a95e4bb67758d996f943a76c269 *data\sprite\아이템\엘더의영혼.spr
+de3873d71c02c33a889fbff29a8348c8 *data\sprite\아이템\엘더의영혼.act
+4fd060b5ca14a513c9756e4642ec6b7d *data\sprite\아이템\엘더의영혼.spr
 44b05100a27fd917c4db07baeb7c649d *data\sprite\아이템\엘더크라운.act
 e962b09352e2a0eb54a68f123a285362 *data\sprite\아이템\엘더크라운.spr
 27d2320a6768a945898e319e175d86f3 *data\sprite\아이템\엣지.act
@@ -127368,7 +127370,7 @@ dac7dfed943b458ef7cbd4bf29d5f4e8 *data\texture\유저인터페이스\collection\margroo
 8b3cc3ab744dd534a703010258023c75 *data\texture\유저인터페이스\collection\meawfoxtail.bmp
 a869d7b35f46a0d5901a8c9f9592ada4 *data\texture\유저인터페이스\collection\melon_bread.bmp
 5bbd38246bed53ae7925ebf12f8494aa *data\texture\유저인터페이스\collection\memento_mori.bmp
-114e9a54291a3ecfebbac15fd6addc3e *data\texture\유저인터페이스\collection\menblattwing.bmp
+0aae2344892c0372456f8c637ddbeeb4 *data\texture\유저인터페이스\collection\menblattwing.bmp
 faaddb6584cb2df7efc2d547ba59144e *data\texture\유저인터페이스\collection\metal_foxtail.bmp
 2fc4c50cfe7b1577ef71fed70229327c *data\texture\유저인터페이스\collection\metal_stick.bmp
 cd09d820a0d4204a4987bc612e23de52 *data\texture\유저인터페이스\collection\meuchler_os.bmp
@@ -127454,7 +127456,7 @@ f83de5763f54ad95abcba228876f2b2f *data\texture\유저인터페이스\collection\ny_2024
 dd8f2f738b26aaaca7fb106ddf19fcd2 *data\texture\유저인터페이스\collection\ny_2024_hat5.bmp
 26247d11941ebd54e18bbc802d847f2a *data\texture\유저인터페이스\collection\ny_2024_hat6.bmp
 fae5ea0175b85fdbf1d12508676091d9 *data\texture\유저인터페이스\collection\ny_2024_hat7.bmp
-93619373af3b1578fcc263e67fdd0c8e *data\texture\유저인터페이스\collection\old_detachmentsring.bmp
+be411970d2bd298f2fd109d1d25c5ce0 *data\texture\유저인터페이스\collection\old_detachmentsring.bmp
 83463d052fee68bad9c469a450236f9c *data\texture\유저인터페이스\collection\old_moc_shawl.bmp
 87a5b9891680cf13fbd55e41acd1ad2a *data\texture\유저인터페이스\collection\openair_headset.bmp
 df55bf5dd2f3217bd1709f9e9b2a57a2 *data\texture\유저인터페이스\collection\owl_baron_mantle.bmp
@@ -127746,6 +127748,7 @@ aa11971ebce3c244c9d690f946bc1073 *data\texture\유저인터페이스\collection\vip_hai
 f8dd86db5f1b35bf2b73fdb6f6583141 *data\texture\유저인터페이스\collection\virtual_bow_os.bmp
 ece3bc8097b3f43f961b78f25e29101d *data\texture\유저인터페이스\collection\volar.bmp
 c992b778fb5ec4bfe9b4e3ad1ebf1968 *data\texture\유저인터페이스\collection\volume_low_twin.bmp
+a7aada6f8860aa2bd8938542a00e6bee *data\texture\유저인터페이스\collection\wakwak_manteau.bmp
 e9b76f96f919823a7d35998671b2383e *data\texture\유저인터페이스\collection\wand_of_flame.bmp
 a7d282b692a788068ba26fc666ac5b7a *data\texture\유저인터페이스\collection\wand_of_ice.bmp
 de1264f29076e43153dc215802aceda6 *data\texture\유저인터페이스\collection\warm_cat_muffler.bmp
@@ -130137,7 +130140,7 @@ c4679cdca2a6aa07454b4ed9d213a4cb *data\texture\유저인터페이스\collection\엘리스�
 73b4d92fb0b43c87c633b7c4bfb883a9 *data\texture\유저인터페이스\collection\엘프의화살.bmp
 9e7378ac5e4496d9b372eb06a4c4dee9 *data\texture\유저인터페이스\collection\엘프의화살통.bmp
 fcfc1a92674ab511183b911a0910eb0a *data\texture\유저인터페이스\collection\엘더의가지.bmp
-143482c2f6f262d68abba5cf643e08a7 *data\texture\유저인터페이스\collection\엘더의영혼.bmp
+2d652b479a099fc4213e29d1aa0f42a5 *data\texture\유저인터페이스\collection\엘더의영혼.bmp
 e0e9a0887ec905e927a2595cb6fb9330 *data\texture\유저인터페이스\collection\엘더크라운.bmp
 05b5e7a775306b7adeff2ffc2a1e3792 *data\texture\유저인터페이스\collection\엣지.bmp
 4f24a0f5c5e61f57f863a96da4f5ef63 *data\texture\유저인터페이스\collection\여러권의책.bmp
@@ -135718,7 +135721,7 @@ aef50a2565ade91eda7960cb12da302a *data\texture\유저인터페이스\item\mc_overcharge
 c29017631609aa48e147816dbf077ee9 *data\texture\유저인터페이스\item\meawfoxtail.bmp
 1fcfea006b2de981575d2b43f050ebfe *data\texture\유저인터페이스\item\melon_bread.bmp
 5fb7e07a681401c45d59d7df8d8a3105 *data\texture\유저인터페이스\item\memento_mori.bmp
-914d3ff0830d8990eb394c6822e89997 *data\texture\유저인터페이스\item\menblattwing.bmp
+57f5a92c586f16cc41c2c8557b74bcac *data\texture\유저인터페이스\item\menblattwing.bmp
 ae07897375aced23ab7178921d067975 *data\texture\유저인터페이스\item\mer_autoberserk.bmp
 d25750c170d19088ba7e55c22ca6589e *data\texture\유저인터페이스\item\mer_benediction.bmp
 a4e603088c3ec74a618630537935d138 *data\texture\유저인터페이스\item\mer_blessing.bmp
@@ -135964,7 +135967,7 @@ ee90e141aa7319c47ace93b7d0780877 *data\texture\유저인터페이스\item\nv_trickdead.
 1523bc3cf769707a1ec1803197163363 *data\texture\유저인터페이스\item\ob_akaitsuki.bmp
 fd20c8ff6bdd1221dfea996d6f9679e1 *data\texture\유저인터페이스\item\ob_oborogensou.bmp
 f22a469ca744a33e85577b12b4cce9b9 *data\texture\유저인터페이스\item\ob_zangetsu.bmp
-d13428e71d755f5e551eaae0831be743 *data\texture\유저인터페이스\item\old_detachmentsring.bmp
+1e494963187c9eb61cc982e3a39a8570 *data\texture\유저인터페이스\item\old_detachmentsring.bmp
 8377be9e8e4d31982a7f848b23d84988 *data\texture\유저인터페이스\item\old_moc_shawl.bmp
 311b4eabc723b9c63c9c11ce18450f18 *data\texture\유저인터페이스\item\openair_headset.bmp
 ade780804a824f0ad6b25db0e3a80299 *data\texture\유저인터페이스\item\owl_baron_mantle.bmp
@@ -136679,6 +136682,7 @@ b5a19a2aca3ac487b9094ac38532cbca *data\texture\유저인터페이스\item\virtual_bow_o
 f7d7447995bbd2e4b2bb3e3c33c691d3 *data\texture\유저인터페이스\item\volar.bmp
 8562a8cbc41d36cb55bf9fdd01ae5f2a *data\texture\유저인터페이스\item\volume_low_twin.bmp
 ff89861cb863a3558b999ada187e9ef0 *data\texture\유저인터페이스\item\vssver.scc
+20b4f0a8c3c8b0ea90d6363328d472e1 *data\texture\유저인터페이스\item\wakwak_manteau.bmp
 b897ae90a0142a4de11169fe3ac585ac *data\texture\유저인터페이스\item\wand_of_flame.bmp
 f71e88f998e20cb60f43b6933e5dc72d *data\texture\유저인터페이스\item\wand_of_ice.bmp
 b53176ed95bec5a0609a7808bc8adcbe *data\texture\유저인터페이스\item\warm_cat_muffler.bmp
@@ -139164,7 +139168,7 @@ ec4293ee1ffb885c8c8ba64bb1fc772b *data\texture\유저인터페이스\item\엘븐보우.bmp
 ce5079372b2ae31074875aa31ff80c66 *data\texture\유저인터페이스\item\엘프의화살.bmp
 7fe205fa0b91a84fe5d83e6d04158497 *data\texture\유저인터페이스\item\엘프의화살통.bmp
 3fcfcf32aaedf46c019080d82be5aa6a *data\texture\유저인터페이스\item\엘더의가지.bmp
-bc96b60874e3d967ddf0746f0fbb9908 *data\texture\유저인터페이스\item\엘더의영혼.bmp
+dcf217948e4f4df53dd44bdef9c39a9c *data\texture\유저인터페이스\item\엘더의영혼.bmp
 9c26d68ef12472a215a3398a0ae574d5 *data\texture\유저인터페이스\item\엘더크라운.bmp
 e86def678d5ed5ccb14cf11523bac8e4 *data\texture\유저인터페이스\item\엣지.bmp
 4272aeb9962eed79b5a1518358de1ab9 *data\texture\유저인터페이스\item\여러권의책.bmp
