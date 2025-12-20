@@ -828,7 +828,7 @@ c04ec330a4ad27fd6dc6665c65f6340c *data\eprt_maze03.rsw
 d496870d755cc55acc2337a6cb8c8696 *data\era_fild05.gat
 1c1f912d1054345d711a3c500af2dd92 *data\era_fild05.gnd
 eeec87b4dc2cb19abd41e5885881550d *data\era_fild05.rsw
-cc4e8061110096a9e533096fe38d2431 *data\etcinfo.txt
+d93f27c829909f96e190e0bad933880b *data\etcinfo.txt
 3fc59aec5500ec664b3abef6a429b01d *data\etur_dun01.gat
 612f64392e518baf3402a365dcc64a25 *data\etur_dun01.gnd
 ad36ce683c808beef0047653ece382dd *data\etur_dun01.rsw
@@ -1162,7 +1162,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 dc9c7f86055cc265bdeb87e3e67311e0 *data\idnum2itemdisplaynametable.txt
-57e7c049f92712cb1d1d36e11f815a3e *data\idnum2itemresnametable.txt
+032aa73570e3bf0c768b645b01434de0 *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1914,7 +1914,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 a571e2ca71810c56c3871f6f40a842eb *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 34403f193a19e0d2340b8aecfdd31b50 *data\num2itemdisplaynametable.txt
-0883d6b920b9a9b5af9c04ccf51b6d68 *data\num2itemresnametable.txt
+449f4e9872342bb8b99b981cf76c862c *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -84792,6 +84792,8 @@ efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\hode_wise.act
 020a290eb8ce32d591c17665b119ae6d *data\sprite\아이템\hode_wise.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\holy_coat.act
 78120c0e139b65a45876b9c2f478274f *data\sprite\아이템\holy_coat.spr
+671bb715cd1f5b6b8f3eacba7c3267ac *data\sprite\아이템\horse_king_red.act
+5de09b62f97aef0b680acfd92df5a8a6 *data\sprite\아이템\horse_king_red.spr
 83dab646fba4066a5f0b763537e98d56 *data\sprite\아이템\hp_assumptio.act
 2b1308906d45a0059295e2dd8f86a3e6 *data\sprite\아이템\hp_assumptio.spr
 83dab646fba4066a5f0b763537e98d56 *data\sprite\아이템\hp_basilica.act
@@ -97503,6 +97505,8 @@ cf2a236fc6e7a618cdb66cfa393a3cdc *data\sprite\악세사리\남\남_heart_card_in_mouth
 fcc4a258f360693fb82b0dde55c4d346 *data\sprite\악세사리\남\남_heart_card_in_mouth.spr
 979a96fa71a035005a00df40de971ca2 *data\sprite\악세사리\남\남_hodehead.act
 edff17a4953b0085eaa26b4e27c7db6f *data\sprite\악세사리\남\남_hodehead.spr
+fdd1407ffea7dcbc971e1d1a4c50f6df *data\sprite\악세사리\남\남_horse_king_red.act
+df30cc123a31ae72ec4b64ef2948e77a *data\sprite\악세사리\남\남_horse_king_red.spr
 52f2db049664116c1d6fb804e862ca13 *data\sprite\악세사리\남\남_imperial_attack_ring.act
 046eb826cbecac07b8b9b6be40dc0f11 *data\sprite\악세사리\남\남_imperial_attack_ring.spr
 52f2db049664116c1d6fb804e862ca13 *data\sprite\악세사리\남\남_imperial_magic_ring.act
@@ -101100,6 +101104,8 @@ ed20651393a5df36a64ec7e1d1634d38 *data\sprite\악세사리\여\여_heartofcat.spr
 fcc4a258f360693fb82b0dde55c4d346 *data\sprite\악세사리\여\여_heart_card_in_mouth.spr
 84746b97ebc4e50d20e48ee87decd235 *data\sprite\악세사리\여\여_hodehead.act
 28f27d3cc8f980c9d59ee5c88564726f *data\sprite\악세사리\여\여_hodehead.spr
+aef04d23fbff896736ef34e1ddeeb3d1 *data\sprite\악세사리\여\여_horse_king_red.act
+df30cc123a31ae72ec4b64ef2948e77a *data\sprite\악세사리\여\여_horse_king_red.spr
 08bb8719701942d49ab701266d38a58e *data\sprite\악세사리\여\여_imperial_attack_ring.act
 046eb826cbecac07b8b9b6be40dc0f11 *data\sprite\악세사리\여\여_imperial_attack_ring.spr
 08bb8719701942d49ab701266d38a58e *data\sprite\악세사리\여\여_imperial_magic_ring.act
@@ -127198,6 +127204,7 @@ eb8a012e4ccd01ea0055562eb0ad2acb *data\texture\유저인터페이스\collection\hode_sw
 41ef1b53f127097a607b6b852bf57c65 *data\texture\유저인터페이스\collection\hode_wiggle.bmp
 d55b9175858cf1851a1a560529735e8e *data\texture\유저인터페이스\collection\hode_wise.bmp
 f67d3454370f82ea89a332031ebcbc87 *data\texture\유저인터페이스\collection\holy_coat.bmp
+b82c86a641fd371de20304bc6d72c7f5 *data\texture\유저인터페이스\collection\horse_king_red.bmp
 4c42a2f28b314747669c302a2f7eb108 *data\texture\유저인터페이스\collection\hp증가포션_소.bmp
 d4182702139cfc967d7120eca7507453 *data\texture\유저인터페이스\collection\hp증가포션_중.bmp
 b4f14c58ab75ceca6c65dc9fb81d6611 *data\texture\유저인터페이스\collection\hp증가포션_대.bmp
@@ -135413,6 +135420,7 @@ a0b2684ed9891d521ee4059370299b93 *data\texture\유저인터페이스\item\hode_swift.bm
 00c6e1124fdd9cb40922b412876dcbda *data\texture\유저인터페이스\item\hode_wiggle.bmp
 75c49a520b48c296ef9703af443d9785 *data\texture\유저인터페이스\item\hode_wise.bmp
 2f50627914132402de22f3510cdeecbc *data\texture\유저인터페이스\item\holy_coat.bmp
+17d338e748d504d63cfa60035c0ab9f6 *data\texture\유저인터페이스\item\horse_king_red.bmp
 1d5d5e03a1a21341de1697c32962cbf7 *data\texture\유저인터페이스\item\hp_assumptio.bmp
 b1096ea9464d8dff025264bf236007c0 *data\texture\유저인터페이스\item\hp_basilica.bmp
 ea8275218965f9a9625a3c55dc465856 *data\texture\유저인터페이스\item\hp_manarecharge.bmp

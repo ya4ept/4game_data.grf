@@ -234287,31 +234287,6 @@ tbl = {
 		ClassNum = 1822,
 		costume = true
 	},
-	[31628] = {
-		unidentifiedDisplayName = "Hat",
-		unidentifiedResourceName = "µµ±ъєсёрАЪ",
-		unidentifiedDescriptionName = {
-			"A miniature Dokebi made for children. Don't worry, it won't attack you!",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000",
-			"Requires Level: ^8080801^000000",
-			"Usable By: ^808080All Jobs^000000"
-		},
-		identifiedDisplayName = "Costume Dokebi",
-		identifiedResourceName = "µµ±ъєсёрАЪ",
-		identifiedDescriptionName = {
-			"A miniature Dokebi made for children. Don't worry, it won't attack you!",
-			"Class: ^808080Costume^000000",
-			"Position: ^808080Upper^000000",
-			"Weight: ^8080800^000000",
-			"Requires Level: ^8080801^000000",
-			"Usable By: ^808080All Jobs^000000"
-		},
-		slotCount = 0,
-		ClassNum = 430,
-		costume = false
-	},
 	[31635] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Дё",
@@ -248713,7 +248688,7 @@ tbl = {
 		identifiedDisplayName = "Santa's Helper Hat",
 		identifiedResourceName = "??????",
 		identifiedDescriptionName = {
-			"^ff0000Effects are active only during the 'Candy business' event (until 11.01.2023).^000000",
+			"^ff0000Effects are active only during the 'Candy business' event (until 11.01.2025).^000000",
 			"^ff0000Account bound^000000",
 			"This snowman hat can turn you into a Santa's little helper.",
 			"But no one knows whether it will be good or evil!",
@@ -248743,13 +248718,25 @@ tbl = {
 			"Damage to DemiHuman type of monster +6%.",
 			"Exp from killing monsters +17%",
 			"Max HP +17%",
-			"Max SP +7%",
+			"Max SP +6%",
 			"^777777-------------^000000",
 			"[If refine Lv +5]",
 			"Damage to DemiHuman type of monster +10%.",
 			"Exp from killing monsters +20%",
 			"Max HP +20%",
 			"Max SP +7%",
+			"^777777-------------^000000",
+			"[If refine Lv +6]",
+			"Damage to DemiHuman type of monster +14%.",
+			"Exp from killing monsters +23%",
+			"Max HP +23%",
+			"Max SP +8%",
+			"^777777-------------^000000",
+			"[If refine Lv +7]",
+			"Damage to DemiHuman type of monster +18%.",
+			"Exp from killing monsters +26%",
+			"Max HP +26%",
+			"Max SP +9%",
 			"Has a chance to transform into an Elf for 30 seconds while taking damage",
 			"^777777-------------^000000",
 			"^800080[During transformation]^000000",
@@ -298558,6 +298545,52 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 48,
 		costume = false
+	},
+	[31254] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Costume Red Horse King",
+		identifiedResourceName = "Horse_King_Red",
+		identifiedDescriptionName = {
+			"^ff0000Character Bound.^000000",
+			"Worn by the mighty ruler of the red steeds.",
+			"This regal costume channels the power of a legendary warhorse king.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Upper, Middle, Lower^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1631,
+		costume = true
+	},
+	[31628] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "???",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Costume Miniature Dokebi",
+		identifiedResourceName = "C_Bogy_Cap_TW",
+		identifiedDescriptionName = {
+			"^ff0000Character Bound.^000000",
+			"A miniature Dokebi made for children. Don't worry, it won't attack you!",
+			"^777777-------------^000000",
+			"Class: ^808080Costume^000000",
+			"Position: ^808080Upper^000000",
+			"Weight: ^8080800^000000",
+			"Requires Level: ^8080801^000000",
+			"Usable By: ^808080All Jobs^000000"
+		},
+		slotCount = 0,
+		ClassNum = 430,
+		costume = true
 	}
 }
 
