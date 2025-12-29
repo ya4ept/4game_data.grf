@@ -12675,3 +12675,10 @@
 21053#FullForce#
 31254#Horse_King_Red#
 
+22174#Scaraba_High_Heels#
+410120#Guardian_Helm#
+460014#Illusion_Shield_B#
+480223#C_Muranyasa#
+480288#C_Dark_Lord_Cloak#
+100436#膠紫辦聽粽#
+100684#膠紫辦聽粽#

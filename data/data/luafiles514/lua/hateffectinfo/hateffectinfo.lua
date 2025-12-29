@@ -173,7 +173,8 @@ HatEFID = {
 	HAT_EF_C_Disapear_Time_TW_2 = 172,
 	HAT_EF_C_Melody_Wing = 173,
 	HAT_EF_C_Spot_Light = 174,
-	HAT_EF_C_Astra_Blessing = 175
+	HAT_EF_C_Astra_Blessing = 175,
+	HAT_EF_C_Dark_Lord_Cloak = 176
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -849,6 +850,15 @@ hatEffectTable = {
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Dark_Lord_Cloak] = {
+		resourceFileName = "efst_C_Dark_Lord_Cloak\\darklordcloak.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	}
 }
 effectHatItemTable = {
@@ -895,7 +905,8 @@ effectHatItemTable = {
 	400149,
 	480131,
 	31957,
-	480168
+	480168,
+	410120
 }
 
 -- Function #0
