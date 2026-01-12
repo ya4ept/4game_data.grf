@@ -2221,6 +2221,57 @@ tblLapineUpgradeBox = {
 				{ "Dragon_Boots", 22208 }
 			},
 			NeedSource_String = "The Power of the Burning Dragon"
+		},
+		Circlet_Refine_Cube = {
+			ItemID = 100436,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "S_Circlet_Of_Time_RK", 19474 },
+				{ "S_Circlet_Of_Time_LG", 19475 },
+				{ "S_Circlet_Of_Time_NC", 19476 },
+				{ "S_Circlet_Of_Time_GN", 19477 },
+				{ "S_Circlet_Of_Time_GC", 19478 },
+				{ "S_Circlet_Of_Time_SC", 19479 },
+				{ "S_Circlet_Of_Time_AB", 19480 },
+				{ "S_Circlet_Of_Time_SR", 19481 },
+				{ "S_Circlet_Of_Time_WL", 19482 },
+				{ "S_Circlet_Of_Time_SO", 19483 },
+				{ "S_Circlet_Of_Time_RA", 19484 },
+				{ "S_Circlet_Of_Time_WM", 19485 },
+				{ "S_Circlet_Of_Time_SJ", 19486 },
+				{ "S_Circlet_Of_Time_SP", 19487 },
+				{ "S_Circlet_Of_Time_RL", 19488 },
+				{ "S_Circlet_Of_Time_OB", 19489 },
+				{ "S_Circlet_Of_Time_KG", 19490 },
+				{ "S_Circlet_Of_Time_NV", 19491 },
+				{ "S_Circlet_Of_Time_SU", 19492 }
+			},
+			NeedSource_String = "Temporal Circlets"
+		},
+		Bio_Helm_Refine_Cube = {
+			ItemID = 100684,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "BioWeapon_Helm_RK", 400078 },
+				{ "BioWeapon_Helm_LG", 400079 },
+				{ "BioWeapon_Helm_WL", 400094 },
+				{ "BioWeapon_Helm_SO", 400095 },
+				{ "BioWeapon_Helm_NC", 400098 },
+				{ "BioWeapon_Helm_GN", 400099 },
+				{ "BioWeapon_Helm_RA", 400116 },
+				{ "BioWeapon_Helm_WM", 400117 },
+				{ "BioWeapon_Helm_AB", 400118 },
+				{ "BioWeapon_Helm_SR", 400119 },
+				{ "BioWeapon_Helm_SC", 400120 },
+				{ "BioWeapon_Helm_GC", 400121 }
+			},
+			NeedSource_String = "Biolab Crowns"
 		}
 	},
 	results = {
@@ -2351,7 +2402,19 @@ tblLapineUpgradeBox = {
 		Abyss_Ddbox3 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "ABH1", FailureItems = {} },
 		Abyss_Ddbox4 = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "ABS1", FailureItems = {} },
 		ILL_Piece_A = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "ILLA", FailureItems = {} },
-		ILL_Piece_B = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "ILLB", FailureItems = {} }
+		ILL_Piece_B = { SuccessRate = 10000, RefineProbability = {}, RandomOptionCode = "ILLB", FailureItems = {} },
+		Circlet_Refine_Cube = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Bio_Helm_Refine_Cube = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		}
 	},
 	serverMain = function()
 	for ScrollItemID, info in pairs(tblLapineUpgradeBox.targets) do
