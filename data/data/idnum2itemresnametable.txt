@@ -12646,3 +12646,9 @@
 480288#C_Dark_Lord_Cloak#
 100436#½¦µµ¿ìÅ¥ºê#
 100684#½¦µµ¿ìÅ¥ºê#
+
+32296#Crystal_Blade_Necklace#
+420103#Ã±¿Àºê¹Ì½ºÆ½ÇÁ·ÎÁð#
+420156#C_Flower_L_Knitting#
+480251#C_Mystical_Wing#
+106158#Xmas_Scroll#

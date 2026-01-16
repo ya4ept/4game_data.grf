@@ -1,3 +1,23 @@
+14.01.2026 11:35
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Lucky Treasures Sets arrived in launcher.
+— The Chronosets & FAW Sets arrived in launcher.
+— The OS headgears arrived in launcher.
+— The Luckybox Sets arrived in launcher.
+— The Old Year Treasure arrived in launcher.
+— The "Poring Invasion: Geffen" event has begun.
+
+Changes:
+— Turned off snow and winter decorations.
+— Fixed bugs that caused items Temporal Ring, Guardian Helm and Shadow Dancer Boots to work incorrectly.
+— Effects of Santa's Helper Hats from the event "Candy business" will keep their effects for a week after the event ends.
+
+More: https://eu.4gameforum.com/threads/695895/
+
+================
 06.01.2026 10:40
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:
