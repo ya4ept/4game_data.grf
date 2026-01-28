@@ -596,7 +596,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-04c75f90eb68bfac97b88d6be6988021 *data\buyingstoreitemlist.txt
+da53740b7e9d9d000fb7fe1190feaa5a *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 6e4ba22d5f5c25ef9812d4478939116b *data\cardpostfixnametable.txt
 e72f5246914e8c9d33bb6d7a2125c902 *data\cardprefixnametable.txt
@@ -1162,7 +1162,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 dc9c7f86055cc265bdeb87e3e67311e0 *data\idnum2itemdisplaynametable.txt
-d12e32b7c4bdb0600d3e48b9509b0f6c *data\idnum2itemresnametable.txt
+8aa6f93162317fe96ddbe57a42c5d92d *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1208,7 +1208,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 58f5180beba52db1f5b3dd0a8b94d141 *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-8f4776fe47d9d718a0bc063cacd134f2 *data\itemslotcounttable.txt
+8f1565ebb3d2c4947870d6f3fcd34b77 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1914,7 +1914,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 a571e2ca71810c56c3871f6f40a842eb *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 34403f193a19e0d2340b8aecfdd31b50 *data\num2itemdisplaynametable.txt
-58268d6733c206fe176c952229e005e5 *data\num2itemresnametable.txt
+5aea2325e9a5436db752b0b653da59e3 *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -85054,6 +85054,8 @@ d298ab2d4f224f511840aa43c7ada2b2 *data\sprite\아이템\c_99lv_sura_orange.spr
 0f1b0589cd52d8d049acd19d569a2489 *data\sprite\아이템\c_ab_hair_pk.spr
 c2eebf1a2c2d5f3f81e4c5d19a509020 *data\sprite\아이템\c_adventure_cat_bag.act
 f3e3ee3ff8732ed4dcd306c7e8d86723 *data\sprite\아이템\c_adventure_cat_bag.spr
+446c6c913377421716c7bee40ceda419 *data\sprite\아이템\c_airy_two_side_up_wh.act
+1b7959942a8e68453ff14c4af589f74f *data\sprite\아이템\c_airy_two_side_up_wh.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\c_alchemist_square_bag.act
 f333127d0a6eeb9fdd212310b6a63d81 *data\sprite\아이템\c_alchemist_square_bag.spr
 cb56b90fa6e5607307d74c840587cc67 *data\sprite\아이템\c_alice_broom.act
@@ -88637,6 +88639,8 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\staff_of_bordeaux_il.act
 ba36221ccf1ac55f2d13ea4fa0bf220f *data\sprite\아이템\staff_of_bordeaux_il.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\staff_of_miracle.act
 c6d7cf2d24b08a5cdcfee22cf804dfbb *data\sprite\아이템\staff_of_miracle.spr
+83649f5e55c276aa687652b292b54297 *data\sprite\아이템\starry_sky_twin_prime.act
+96a68380f9848a3b0a89ac95e932979c *data\sprite\아이템\starry_sky_twin_prime.spr
 db4fab6f0951fc54ebf8b402e3821213 *data\sprite\아이템\starsoul_scroll.act
 51954802ac424c79688b399c720e4ea1 *data\sprite\아이템\starsoul_scroll.spr
 05cbb0845095cf2b1958de2f0aa4625f *data\sprite\아이템\straight_long_bl.act
@@ -88992,6 +88996,8 @@ a94749c48e6390b220ba7f3d92279647 *data\sprite\아이템\verus_core.spr
 c84a660b610d92cafeb74a2522c434ac *data\sprite\아이템\vip_hair_male.spr
 25a2cace337ba112b27b770ccd839536 *data\sprite\아이템\virtual_bow_os.act
 b912fbaceb29b03e7521f7d6390812cf *data\sprite\아이템\virtual_bow_os.spr
+ff5216dd06a7b6b0a57c123a8e5e8671 *data\sprite\아이템\vohu_manah.act
+9fe3077997ad2575e32587c660ed5dd0 *data\sprite\아이템\vohu_manah.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\volar.act
 4d64cadc3b835c68816f0881fc58e403 *data\sprite\아이템\volar.spr
 3929c56d69d78c18b7633bfd3768098c *data\sprite\아이템\volume_low_twin.act
@@ -91537,8 +91543,8 @@ e3f82e1d638ba6d2232a5e7f4389d4ad *data\sprite\아이템\마녀의증표.spr
 3f9494a9782fe6f269cf758400705e04 *data\sprite\아이템\마녀의물약.spr
 bf1236f44bb7cd9a71ad6dcb71df4125 *data\sprite\아이템\마노.act
 07c6707491c38ed7e9dc9345e87379d5 *data\sprite\아이템\마노.spr
-d6a8f37f77035d179dbc2a02bb0f8a41 *data\sprite\아이템\마네키모치바나.act
-bd51401a304d9e99c2ed09b568c5bb80 *data\sprite\아이템\마네키모치바나.spr
+fcce4569bbd90e1a94df1871180bd31e *data\sprite\아이템\마네키모치바나.act
+f77bfb6ed17c31f918bb9144fa7b42b7 *data\sprite\아이템\마네키모치바나.spr
 9d6259b8c4f108d6147b1e3cd77424b1 *data\sprite\아이템\마왕.act
 d622534d82bac33765e6d1d63ccd50cd *data\sprite\아이템\마왕.spr
 77f1b70a4efdf32222eaa4783a2e2755 *data\sprite\아이템\마왕의뼈투구.act
@@ -98707,6 +98713,8 @@ a3bd716e8cbbd234e81af3df58b11e7f *data\sprite\악세사리\남\남_cons_of_fire.spr
 0d5b6b0af3e5623db9dd2f0e5493a04f *data\sprite\악세사리\남\남_crushed_snow_man.spr
 80f713ab795e75de12243fe18d5ea6a6 *data\sprite\악세사리\남\남_c_ab_hair_pk.act
 db08b3bf2ff35f5c00d4a0db1f99d925 *data\sprite\악세사리\남\남_c_ab_hair_pk.spr
+cbe83fe7357089ff31bff462ce68f5f4 *data\sprite\악세사리\남\남_c_airy_two_side_up_wh.act
+4421b94dce6806ddc1675e669bd9aead *data\sprite\악세사리\남\남_c_airy_two_side_up_wh.spr
 ab44f64da555ffd1b81061ea2db3718c *data\sprite\악세사리\남\남_c_alchemist_square_bag.act
 b3163999a5d58a7873d8a9316f5ffa7c *data\sprite\악세사리\남\남_c_alchemist_square_bag.spr
 ee07562455381a0e8bd003ab6cd61799 *data\sprite\악세사리\남\남_c_alpha_long_pony.act
@@ -100119,8 +100127,8 @@ a547e67c88ac2b842eb8721043daaff4 *data\sprite\악세사리\남\남_마스크.act
 d2d1fc3f377a5597b42b72fc63028b72 *data\sprite\악세사리\남\남_마스크.spr
 c3e7c413ff841357faa6c0d39fdf32ca *data\sprite\악세사리\남\남_마녀의모자.act
 294a5be290a17eea4d95af7697428d7f *data\sprite\악세사리\남\남_마녀의모자.spr
-f6d937c898b8dc1d8d5de4078abb182f *data\sprite\악세사리\남\남_마네키모치바나.act
-eacb3516ec7e28d7fa673c4843ae62e0 *data\sprite\악세사리\남\남_마네키모치바나.spr
+27170b67997d4abcfe79fd9a4f879d79 *data\sprite\악세사리\남\남_마네키모치바나.act
+d251d613132a5e7c0ab75b3c685423b1 *data\sprite\악세사리\남\남_마네키모치바나.spr
 9509375d83b0fa56ed196dc50e09ad15 *data\sprite\악세사리\남\남_마왕.act
 5a1de26bf75477c551e9cae5885da8d7 *data\sprite\악세사리\남\남_마왕.spr
 3e4ba8c774e04c9fbfa3e74fc34fee89 *data\sprite\악세사리\남\남_마왕의뼈투구.act
@@ -102310,6 +102318,8 @@ ba07b823b003dc62fe4e5d430babe78a *data\sprite\악세사리\여\여_crushed_snow_man.ac
 3a87c50bda6860a77f34989a73033732 *data\sprite\악세사리\여\여_crushed_snow_man.spr
 bb0a8d911a3d8b6aafd57c1f45364458 *data\sprite\악세사리\여\여_c_ab_hair_pk.act
 db08b3bf2ff35f5c00d4a0db1f99d925 *data\sprite\악세사리\여\여_c_ab_hair_pk.spr
+335b82ebc02e37c241d95ddefba8a972 *data\sprite\악세사리\여\여_c_airy_two_side_up_wh.act
+4421b94dce6806ddc1675e669bd9aead *data\sprite\악세사리\여\여_c_airy_two_side_up_wh.spr
 36bc921f4c2ce5966da3d99a7891ac59 *data\sprite\악세사리\여\여_c_alchemist_square_bag.act
 b3163999a5d58a7873d8a9316f5ffa7c *data\sprite\악세사리\여\여_c_alchemist_square_bag.spr
 922196584f6c9526d8e7b992d3005f8c *data\sprite\악세사리\여\여_c_alpha_long_pony.act
@@ -103726,8 +103736,8 @@ b6577694d2290c82a6e6be53ff1cba16 *data\sprite\악세사리\여\여_마리오넷모자.act
 eebde200f9fc848444e14005fd0eb967 *data\sprite\악세사리\여\여_마스크.spr
 1f427d92c71d5bd52fe7d4cb0ed4d287 *data\sprite\악세사리\여\여_마녀의모자.act
 294a5be290a17eea4d95af7697428d7f *data\sprite\악세사리\여\여_마녀의모자.spr
-e933ded5c1e53db93a03f3b4d16902c5 *data\sprite\악세사리\여\여_마네키모치바나.act
-eacb3516ec7e28d7fa673c4843ae62e0 *data\sprite\악세사리\여\여_마네키모치바나.spr
+d15239326abff7418c8ef2fbb5315f35 *data\sprite\악세사리\여\여_마네키모치바나.act
+c57a8c863667a9aade5a786c7fb42896 *data\sprite\악세사리\여\여_마네키모치바나.spr
 545145625caa4ea52499331d46fee96e *data\sprite\악세사리\여\여_마왕.act
 5a1de26bf75477c551e9cae5885da8d7 *data\sprite\악세사리\여\여_마왕.spr
 e169fd81c58925d16e36af7e0a330c10 *data\sprite\악세사리\여\여_마왕의뼈투구.act
@@ -128357,6 +128367,7 @@ b267ce4d6bcd0e28ce19f26377133b73 *data\texture\유저인터페이스\collection\c_99lv_
 57a7d4d96d38d8ea0b18b8d2cbb81d67 *data\texture\유저인터페이스\collection\c_99lv_warlock_violet.bmp
 86674ca2ed13573450f2397c3968c160 *data\texture\유저인터페이스\collection\c_ab_hair_pk.bmp
 f36bd2f9e4ff460e06a6296118359429 *data\texture\유저인터페이스\collection\c_adventure_cat_bag.bmp
+d0ade79ee07c522c8f321f6c0b392937 *data\texture\유저인터페이스\collection\c_airy_two_side_up_wh.bmp
 c37db7781b3d71ebfa635bb066c51290 *data\texture\유저인터페이스\collection\c_alchemist_square_bag.bmp
 39b6d0803cb5f253f6d45fb30f7b41a1 *data\texture\유저인터페이스\collection\c_alice_broom.bmp
 0afce7e3a0584f54620509eba1e3d55c *data\texture\유저인터페이스\collection\c_alpha_long_pony.bmp
@@ -129461,6 +129472,7 @@ d8be679594473d40459477d1412d099d *data\texture\유저인터페이스\collection\sp증가�
 74efb48a4a6d4061288a8172a7e8930a *data\texture\유저인터페이스\collection\staff_of_blue_flame.bmp
 1e2bf62fa2f970f638eef04ced666dcb *data\texture\유저인터페이스\collection\staff_of_bordeaux_il.bmp
 f2bc130117fc9d5e464b03b288c2d99b *data\texture\유저인터페이스\collection\staff_of_miracle.bmp
+568c5b88a0a31f9d2d74dce01dd2e290 *data\texture\유저인터페이스\collection\starry_sky_twin_prime.bmp
 bd537e88c1b500addeb9bd1f163f1518 *data\texture\유저인터페이스\collection\starsoul_scroll.bmp
 77fa6bfbc1ad5af9a719d7b217c113e8 *data\texture\유저인터페이스\collection\straight_long_bl.bmp
 a8d28133e9260bcb646bcb8b56051154 *data\texture\유저인터페이스\collection\straight_long_wh.bmp
@@ -129564,6 +129576,7 @@ f995798d3cd901b83dc3653e50402339 *data\texture\유저인터페이스\collection\vend_ar
 6f8c00d1c46e8ededfdd26d187f1eaf1 *data\texture\유저인터페이스\collection\vip_hair_female.bmp
 aa11971ebce3c244c9d690f946bc1073 *data\texture\유저인터페이스\collection\vip_hair_male.bmp
 f8dd86db5f1b35bf2b73fdb6f6583141 *data\texture\유저인터페이스\collection\virtual_bow_os.bmp
+78fe3aad7f8642985a8dff6618feb3bc *data\texture\유저인터페이스\collection\vohu_manah.bmp
 ece3bc8097b3f43f961b78f25e29101d *data\texture\유저인터페이스\collection\volar.bmp
 c992b778fb5ec4bfe9b4e3ad1ebf1968 *data\texture\유저인터페이스\collection\volume_low_twin.bmp
 a7aada6f8860aa2bd8938542a00e6bee *data\texture\유저인터페이스\collection\wakwak_manteau.bmp
@@ -130764,7 +130777,7 @@ b99ee224a56b21c6b6989363f19bb27f *data\texture\유저인터페이스\collection\마녀의�
 74a80ea95e3971c67ad0c8157f2a02df *data\texture\유저인터페이스\collection\마녀의주문서.bmp
 dbb1def53fd9221dea5c32c127fcfa10 *data\texture\유저인터페이스\collection\마녀의물약.bmp
 00185c41c2432d07150b591edfc03b0d *data\texture\유저인터페이스\collection\마노.bmp
-f1659b411c9965b0c92d1954de7d4b5d *data\texture\유저인터페이스\collection\마네키모치바나.bmp
+536daecf753eb661768d738df893aa38 *data\texture\유저인터페이스\collection\마네키모치바나.bmp
 dcb46ef65ce96832eeee73f414159830 *data\texture\유저인터페이스\collection\마왕.bmp
 50c134fd4317858fb11d8b865a3b2bbe *data\texture\유저인터페이스\collection\마왕의뼈투구.bmp
 1cf6d603a3ed61dd125f9fe9623abfe5 *data\texture\유저인터페이스\collection\마왕의슬픔.bmp
@@ -136469,6 +136482,7 @@ bbd1bf81fe579e5c4cb83d847dbb559a *data\texture\유저인터페이스\item\c_99lv_shadow
 c525bc985888b467aebcf89900ab1422 *data\texture\유저인터페이스\item\c_99lv_warlock_violet.bmp
 7c15f185cffc8082d085bf84101772c7 *data\texture\유저인터페이스\item\c_ab_hair_pk.bmp
 b4c797c0c85548fb2e7fe1963a25eda5 *data\texture\유저인터페이스\item\c_adventure_cat_bag.bmp
+014f77d672346b01133e6a4bb20e5aa9 *data\texture\유저인터페이스\item\c_airy_two_side_up_wh.bmp
 61b11153b447690c5474264b2f15acf2 *data\texture\유저인터페이스\item\c_alchemist_square_bag.bmp
 21055a36b1ec7a11951c9e5b673d6769 *data\texture\유저인터페이스\item\c_alice_broom.bmp
 ae2113a2e0ebf445d2867a1cb0f2e772 *data\texture\유저인터페이스\item\c_alpha_long_pony.bmp
@@ -138326,6 +138340,7 @@ a1a4bad5d5426bb33cca47a6808ef21a *data\texture\유저인터페이스\item\sr_windmill.b
 c90a8725bbc13672fd72b22fe0331cd4 *data\texture\유저인터페이스\item\staff_of_blue_flame.bmp
 384527bba6dea0f1016386771e15ccdf *data\texture\유저인터페이스\item\staff_of_bordeaux_il.bmp
 cf4b48aa26b14b16e1e5e7c35277b223 *data\texture\유저인터페이스\item\staff_of_miracle.bmp
+137d414adfac473556f76ed9f5ceebbf *data\texture\유저인터페이스\item\starry_sky_twin_prime.bmp
 fdff9b9e974e49a00aa506f6ad15b03b *data\texture\유저인터페이스\item\starsoul_scroll.bmp
 9488ebbfdcbb8e1df1d1239febbff326 *data\texture\유저인터페이스\item\straight_long_bl.bmp
 da52b80e27021228183acb26a96fdd2c *data\texture\유저인터페이스\item\straight_long_wh.bmp
@@ -138507,6 +138522,7 @@ f7caceb2c77e127a61d1f9a92ab8b75b *data\texture\유저인터페이스\item\verus_core.bm
 889a64531d85f11e0fc2ab0177df3e47 *data\texture\유저인터페이스\item\vip_hair_female.bmp
 c60d3da83ff7370ac345390f7339db16 *data\texture\유저인터페이스\item\vip_hair_male.bmp
 b5a19a2aca3ac487b9094ac38532cbca *data\texture\유저인터페이스\item\virtual_bow_os.bmp
+354d6d01d391674c622f279aa1d416af *data\texture\유저인터페이스\item\vohu_manah.bmp
 f7d7447995bbd2e4b2bb3e3c33c691d3 *data\texture\유저인터페이스\item\volar.bmp
 8562a8cbc41d36cb55bf9fdd01ae5f2a *data\texture\유저인터페이스\item\volume_low_twin.bmp
 ff89861cb863a3558b999ada187e9ef0 *data\texture\유저인터페이스\item\vssver.scc
@@ -139811,7 +139827,7 @@ df4a222d6123ddaa7e0b08ffa235f6e6 *data\texture\유저인터페이스\item\마녀의모자.bm
 e45a405cdd86ff4697c96cca3abea8b9 *data\texture\유저인터페이스\item\마녀의주문서.bmp
 d735ab1ddbc9af60afa4082224e2bdab *data\texture\유저인터페이스\item\마녀의물약.bmp
 2e2aa578c1fce1a0ab5ade3cb1f7860b *data\texture\유저인터페이스\item\마노.bmp
-65a1e26d0d5ed51e71e2c89136069f07 *data\texture\유저인터페이스\item\마네키모치바나.bmp
+4277d1f8161eefcc2676e6653f5b4df0 *data\texture\유저인터페이스\item\마네키모치바나.bmp
 4de1eac57a5eec7bc0fcd359677b3d7f *data\texture\유저인터페이스\item\마왕.bmp
 d368e01bd4eb88669486fbe3a88caebb *data\texture\유저인터페이스\item\마왕의뼈투구.bmp
 b5ba6b86ae2187b17e520a0a679d488d *data\texture\유저인터페이스\item\마왕의슬픔.bmp
