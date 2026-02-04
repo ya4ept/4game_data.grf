@@ -2272,6 +2272,32 @@ tblLapineUpgradeBox = {
 				{ "BioWeapon_Helm_GC", 400121 }
 			},
 			NeedSource_String = "Biolab Crowns"
+		},
+		OS_Weapon_Refine_Cube = {
+			ItemID = 100321,
+			NeedRefineMin = 7,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "AC_B44_OS", 18180 },
+				{ "Beam_Claymore_OS", 21047 },
+				{ "Blasti_OS", 28136 },
+				{ "Boost_Lance_OS", 32019 },
+				{ "Burning_Knuckle_OS", 1862 },
+				{ "Cannon_Rapier_OS", 13493 },
+				{ "Circuit_Board_OS", 28629 },
+				{ "ElectricFox_OS", 26164 },
+				{ "HR_S55_OS", 28253 },
+				{ "Kuroiro_OS", 28755 },
+				{ "Meuchler_OS", 28038 },
+				{ "MH_P89_OS", 18179 },
+				{ "Rutilus_Stick_OS", 26151 },
+				{ "Saphir_Hall_OS", 16088 },
+				{ "Ultio_Spes_OS", 16089 },
+				{ "Virtual_Bow_OS", 18178 }
+			},
+			NeedSource_String = "OS Weapon +11 Refinement Cube"
 		}
 	},
 	results = {
@@ -2410,6 +2436,12 @@ tblLapineUpgradeBox = {
 			FailureItems = {}
 		},
 		Bio_Helm_Refine_Cube = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		OS_Weapon_Refine_Cube = {
 			SuccessRate = 10000,
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
 			RandomOptionCode = "",

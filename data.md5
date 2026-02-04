@@ -596,7 +596,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-da53740b7e9d9d000fb7fe1190feaa5a *data\buyingstoreitemlist.txt
+9601846e073efaae803988059fc54538 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 6e4ba22d5f5c25ef9812d4478939116b *data\cardpostfixnametable.txt
 e72f5246914e8c9d33bb6d7a2125c902 *data\cardprefixnametable.txt
@@ -1161,8 +1161,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 3104c3c140ae41201d546f857b32a249 *data\ice_dun04.gnd
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
-dc9c7f86055cc265bdeb87e3e67311e0 *data\idnum2itemdisplaynametable.txt
-8aa6f93162317fe96ddbe57a42c5d92d *data\idnum2itemresnametable.txt
+2731809c6efcc5eca2fc16f733dfc12e *data\idnum2itemdisplaynametable.txt
+b7a43ac91e17e22c478da0e7db74519d *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1913,8 +1913,8 @@ f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 a571e2ca71810c56c3871f6f40a842eb *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
-34403f193a19e0d2340b8aecfdd31b50 *data\num2itemdisplaynametable.txt
-5aea2325e9a5436db752b0b653da59e3 *data\num2itemresnametable.txt
+22b7d1708b81a808dddac4cda0b54898 *data\num2itemdisplaynametable.txt
+88939f635faa4d0ab888129f61b98b42 *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -3120,7 +3120,7 @@ ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovem
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
 40452fb584dca04693aa693b44fa35e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 fb56ab5870906135b5b845f009907d95 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-ab55fd915cf977807448456b5816c63e *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+4d51c001df4122602cb36fc56e1586a7 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 fac504a9cf0dfb68acc078f36facd1ea *data\luafiles514\lua files\datainfo\npcidentity.lua
 02a9fca46ec5cfd4827493963afaebbf *data\luafiles514\lua files\datainfo\npcidentity.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
@@ -84312,6 +84312,8 @@ bd4b9b67808e021fc2ceca311fa29a04 *data\sprite\아이템\ac_double.spr
 198a8cdf9d13fb77550cfa54b39ffd62 *data\sprite\아이템\ac_vulture.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\adorare_staff.act
 a4f5257c1206a1916fff147eebb8f550 *data\sprite\아이템\adorare_staff.spr
+76375d62345f36a7b3930bca0a1cafe7 *data\sprite\아이템\aegis_system.act
+424d03c4f624b3277818a69b82dd7ef6 *data\sprite\아이템\aegis_system.spr
 b3259d44918bc69fc40b6624cf06486a *data\sprite\아이템\agave_syrup.act
 d4abf60a7fd8c3cdcad52482c5ebfbac *data\sprite\아이템\agave_syrup.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\aiming_bow.act
@@ -128139,6 +128141,7 @@ ed5df2bc1bf69e205076078f43e65daf *data\texture\유저인터페이스\collection\abyss_d
 0ce66db576491c7bef1cc51fc9f996c6 *data\texture\유저인터페이스\collection\accelerator_chip.bmp
 b28709f791d216eb682c435c2aa2975e *data\texture\유저인터페이스\collection\ac_b44_os.bmp
 c9be76c0d0a3405b7cb50c21333c85e1 *data\texture\유저인터페이스\collection\adorare_staff.bmp
+c1d6938d282e34ebff1473841f5614d0 *data\texture\유저인터페이스\collection\aegis_system.bmp
 4c8e9c0cd93f2f10f67d919d00b79e76 *data\texture\유저인터페이스\collection\agave_syrup.bmp
 cf0f26bbd0da627589fd16fe7167ebff *data\texture\유저인터페이스\collection\aiming_bow.bmp
 953c21f790adef411233f913e8c0265f *data\texture\유저인터페이스\collection\alice_wig.bmp
@@ -136102,6 +136105,7 @@ b54791d89670619281af2b0d8e05004e *data\texture\유저인터페이스\item\ac_double.bmp
 b106cb322045866991601b4cbc24991e *data\texture\유저인터페이스\item\ac_shower.bmp
 a414287540bd2335a7249b434b67328f *data\texture\유저인터페이스\item\ac_vulture.bmp
 b19457cbef2bed8c218d86b227693355 *data\texture\유저인터페이스\item\adorare_staff.bmp
+1bf432a09379684be5cf195de1dba575 *data\texture\유저인터페이스\item\aegis_system.bmp
 58da271c1836d6de8df1ac8677a0e0e9 *data\texture\유저인터페이스\item\agave_syrup.bmp
 13c28a62ec898541b37db6c6d944636f *data\texture\유저인터페이스\item\aiming_bow.bmp
 2b4e066c7eafab67099bc93e9d2a60c3 *data\texture\유저인터페이스\item\alice_wig.bmp
