@@ -1,3 +1,42 @@
+13.02.2026, 15:21
+Ragnarok Online Prime EU
+On 13.02 our Server will undergo extra maintenance.
+The server will be closed from 15:00 CET until 17:00 CET
+
+Changes:
+
+Fixing bug that allowed double logins on the same character.
+
+As a reminder to guild leaders, the drop from the WoE chests must be collected before the maintenance begins.
+If you haven't had a chance to collect a drop from the WoE chests, please email support 
+
+More: https://eu.4gameforum.com/threads/695970/
+
+=================
+11.02.2026, 11:08
+Ragnarok Online Prime EU
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The "Chronosets & FAW Sets" has started.
+— The "Transmutator Packs" has started.
+— The "OS headgears" has started.
+— The "Dovmihr's Legendary WIN-WIN Machine" has started.
+— The "Colorful runaways" has started.
+
+Finished activities:
+— The Lucky Treasures Sets left the launcher.
+— The Special Packs for Genetic and Mechanic left the launcher.
+— The Profession item packs left the launcher.
+— The Shadow Packs left the launcher.
+— The "X Marks the Spot" event has come to an end.
+
+Changes:
+— Alternate costumes for 3rd jobs have finally been added to the game.
+
+More: https://eu.4gameforum.com/threads/695965/
+
+=================
 04.02.2026, 10:51
 Ragnarok Online Prime EU
 The maintenance is over, the server is online. Changelog:

@@ -299413,6 +299413,31 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
+	},
+	[6959] = {
+		unidentifiedDisplayName = "Second Costume Ticket",
+		unidentifiedResourceName = "Costume_Ticket",
+		unidentifiedDescriptionName = {
+			"A ticket to change your costume.",
+			"It allows player to change their appearance.",
+			"Take it to the ^ffffff<NAVI>^4D4DFF[Costume^000000<INFO>prt_in,285,165,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFFstylist]^000000<INFO>prt_in,285,165,0,100,0,0</INFO></NAVI>^000000.",
+			"^777777-------------^000000",
+			"Weight : ^7777770^000000"
+		},
+		identifiedDisplayName = "Second Costume Ticket",
+		identifiedResourceName = "Costume_Ticket",
+		identifiedDescriptionName = {
+			"A ticket to change your costume.",
+			"It allows player to change their appearance.",
+			"Take it to the ^ffffff<NAVI>^4D4DFF[Costume^000000<INFO>prt_in,285,165,0,100,0,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFFstylist]^000000<INFO>prt_in,285,165,0,100,0,0</INFO></NAVI>^000000.",
+			"^777777-------------^000000",
+			"Weight : ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	}
 }
 
