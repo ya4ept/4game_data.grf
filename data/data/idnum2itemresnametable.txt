@@ -12642,6 +12642,7 @@
 400325#集給檜期渠諾癱掘#
 410120#Guardian_Helm#
 460014#Illusion_Shield_B#
+460099#Illusion_Shield_C#
 480223#C_Muranyasa#
 480288#C_Dark_Lord_Cloak#
 100436#膠紫辦聽粽#

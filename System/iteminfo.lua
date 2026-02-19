@@ -199638,22 +199638,18 @@ tbl = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "ИДµе",
 		unidentifiedDescriptionName = {
-			"White wings of a holy Archangel.",
-			"Bring this to[Lace La Zard] in Malangdo at the building location 115 150 to add enchantments to it.",
-			"Class: ^777777Costume^000000",
-			"Defense: ^77777718^000000",
-			"Weight: ^77777720^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
 		},
 		identifiedDisplayName = "Costume Archangel Wing",
 		identifiedResourceName = "Гµ»зіЇ°і±Н",
 		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
 			"White wings of a holy Archangel.",
-			"Bring this to[Lace La Zard] in Malangdo at the building location 115 150 to add enchantments to it.",
+			"^777777-------------^000000",
 			"Class: ^777777Costume^000000",
-			"Defense: ^77777718^000000",
-			"Weight: ^77777720^000000",
+			"Location: ^777777Garment^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
 		},
@@ -299437,6 +299433,28 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 0,
+		costume = false
+	},
+	[460099] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Illusion Shield C",
+		identifiedResourceName = "Illusion_Shield_C",
+		identifiedDescriptionName = {
+			"A combat shield created by collecting the essence of Illusion technology.",
+			"^777777-------------^000000",
+			"Max HP +10%, Max SP +10%; if Base Level is 170 or higher, Neutral property resistance +5%.",
+			"For every 3 refine levels, Max HP +500, Max SP +50.",
+			"^777777-------------^000000",
+			"Class: ^777777Shield^000000",
+			"Defense: ^77777780^000000",
+			"Weight: ^77777780^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All Jobs^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2,
 		costume = false
 	}
 }
