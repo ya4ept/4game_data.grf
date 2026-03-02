@@ -181407,15 +181407,18 @@ tbl = {
 		costume = true
 	},
 	[20500] = {
-		unidentifiedDisplayName = "Costume Garment",
+		unidentifiedDisplayName = "Накидка",
 		unidentifiedResourceName = "??",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume Archangel Wing",
+		identifiedDisplayName = "Крылья Архангела (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"White wings of a holy Archangel.",
+			"^ff0000Привязано к аккаунту.^000000",
+			"Белые крылья святого Архангела.",
+			"Пережившему возврат из прошлого награда из будущего.",
+			"^777777—————————————^000000",
 			"Класс: ^777777Декор^000000",
 			"Расположение: ^777777Накидка^000000",
 			"Вес: ^7777770^000000",
@@ -279332,6 +279335,30 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 0,
+		costume = false
+	},
+	[460099] = {
+		unidentifiedDisplayName = "Щит",
+		unidentifiedResourceName = "",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Щит Иллюзии С",
+		identifiedResourceName = "Illusion_Shield_C",
+		identifiedDescriptionName = {
+			"Боевой щит, созданный путем сбора эссенции технологии Иллюзии.",
+			"^777777—————————————^000000",
+			"Макс. HP +10%, макс. SP +10%",
+			"Если базовый уровень 170 или выше, сопротивление атакам элемента ^777777Нейтральный^000000 +5%.",
+			"^264696[За каждые 3 уровня заточки]^000000",
+			"Макс. HP +500, макс. SP +50",
+			"^777777—————————————^000000",
+			"Класс: ^777777Щит^000000",
+			"Защита: ^77777780^000000",
+			"Вес: ^77777780^000000",
+			"Требуемый уровень: ^777777100^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2,
 		costume = false
 	}
 }

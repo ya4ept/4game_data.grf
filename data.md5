@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-67f1dfc4c683cd6a645449daa10b7082 *data\buyingstoreitemlist.txt
+940a47ee33f1cb5c39bf5b41f825123d *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 d15056fe8aa2a00bf998484974148c1d *data\cardpostfixnametable.txt
 e319bd5ed6b78f7763f75d219f2e2321 *data\cardprefixnametable.txt
@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 4734f6b6d44065783ca1d4bd64b5b20b *data\idnum2itemdisplaynametable.txt
-34fbc8bd57e359c4f9bd8461e5f9693a *data\idnum2itemresnametable.txt
+a4d722f580661e6f3f22301e8a5e5092 *data\idnum2itemresnametable.txt
 1d0219bcdcf333cd9b83f43a7a0f3f19 *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-0826229dddc37db59594ed421e8af092 *data\itemslotcounttable.txt
+2bca8ad4d705aee59707285dc476053e *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 8ed6595c945334aa589210167eee0a2b *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 6171dd9640901b3e32cfbecd2d491c21 *data\num2itemdisplaynametable.txt
-04d70dce2ace7edea2947d100ae2bb82 *data\num2itemresnametable.txt
+bd2da774af719e896e8e0fc8c0ea3094 *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -19508,7 +19508,7 @@ d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\건
 93f548407b8fb44dec4ce928da87183b *data\sprite\로브\c_20th_anniversary_wing\여\검사_여.act
 d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\검사_여.spr
 f7c919564395df9ed2695e97e7bd92a0 *data\sprite\로브\c_20th_anniversary_wing\여\구페코크루세이더_여.act
-d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\구페코크루세이더_여.spr
+253893ca536524dee92d6ebc45503aa5 *data\sprite\로브\c_20th_anniversary_wing\여\구페코크루세이더_여.spr
 f807572a123a55a584445c3d0fcb178e *data\sprite\로브\c_20th_anniversary_wing\여\기사_여.act
 d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\기사_여.spr
 c2fb096afca329014e4743c238161c33 *data\sprite\로브\c_20th_anniversary_wing\여\궁수_여.act
@@ -84878,6 +84878,8 @@ a72b4be4b18711895674d717d9794942 *data\sprite\아이템\illusion_leg_b.spr
 2ccaad747c6274c02164bd9a5fa6e30b *data\sprite\아이템\illusion_shield_a.spr
 fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\illusion_shield_b.act
 90ab96f00aca9cafb17e34218b2d5587 *data\sprite\아이템\illusion_shield_b.spr
+efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\illusion_shield_c.act
+6e2ca06cf2131e22fdb4e14af68bfb76 *data\sprite\아이템\illusion_shield_c.spr
 33d9d8c5d25d242c28fa9d9c5806bbc1 *data\sprite\아이템\ill_piece_a.act
 6e60d28f4155823122e60b0afe7f8110 *data\sprite\아이템\ill_piece_a.spr
 33d9d8c5d25d242c28fa9d9c5806bbc1 *data\sprite\아이템\ill_piece_b.act
@@ -127623,6 +127625,7 @@ d1cadd8a094dabc3d4976e40991254ad *data\texture\유저인터페이스\collection\illusio
 8ad683fcc5f29b286f0ca90598f42071 *data\texture\유저인터페이스\collection\illusion_leg_b.bmp
 b4c6a722276305e7c4d9d9f630233904 *data\texture\유저인터페이스\collection\illusion_shield_a.bmp
 b53a40f589950407322ce8a68794bc0e *data\texture\유저인터페이스\collection\illusion_shield_b.bmp
+f0aae5d4c7ca5be8c6aecfb3e798c8af *data\texture\유저인터페이스\collection\illusion_shield_c.bmp
 74e4f43d5ed0f5e52a6afea6d0fae6f0 *data\texture\유저인터페이스\collection\ill_piece_a.bmp
 d70dd5cf1ef1d8480d5bbbbf990fa44c *data\texture\유저인터페이스\collection\ill_piece_b.bmp
 f4ef9964bbd07bd8f7b8da6d3c18bbf5 *data\texture\유저인터페이스\collection\immaterial_sword_il.bmp
@@ -135709,6 +135712,7 @@ be23353986bff8b3db85d94cdfa75f5c *data\texture\유저인터페이스\item\illusion_engi
 14bf865b22ebeadb758c83593e8d1932 *data\texture\유저인터페이스\item\illusion_leg_b.bmp
 479cb83d8c603c6eeccdc7d3903c72fa *data\texture\유저인터페이스\item\illusion_shield_a.bmp
 246d7864b8144625464a006e2b4cfac9 *data\texture\유저인터페이스\item\illusion_shield_b.bmp
+8316f21f248241b18d68a045e924c6da *data\texture\유저인터페이스\item\illusion_shield_c.bmp
 057141570145eb35aeba556440a2bb76 *data\texture\유저인터페이스\item\ill_piece_a.bmp
 08eb4d51a03aef35157926d4144f901b *data\texture\유저인터페이스\item\ill_piece_b.bmp
 cb3aeaab6b40b3525f816b46c4d1f2ae *data\texture\유저인터페이스\item\immaterial_sword_il.bmp

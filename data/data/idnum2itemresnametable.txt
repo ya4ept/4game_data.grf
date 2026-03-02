@@ -12678,6 +12678,7 @@
 22174#Scaraba_High_Heels#
 410120#Guardian_Helm#
 460014#Illusion_Shield_B#
+460099#Illusion_Shield_C#
 480223#C_Muranyasa#
 480288#C_Dark_Lord_Cloak#
 100436#쉐도우큐브#
