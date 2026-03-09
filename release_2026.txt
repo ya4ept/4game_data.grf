@@ -1,4 +1,22 @@
 Ragnarok Online Prime EU
+04.03.2026 12:16
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Lucky Treasures Sets arrived in launcher.
+— The Chronosets & FAW Sets arrived in launcher.
+— The OS headgears arrived in launcher.
+
+Changes:
+— The Old Camouflage Scarf slot has been removed. Each character who owned the Old Camouflage Scarf received its slotless version and the card that inserted into it. As a compensation players with the Old Camouflage Scarf will receive 3,200 Lucky Coins a bit later during the day.
+— The ability to exchange Sprout of World Tree Eggs and Biolab Helmet Boxes has been added to Dovmihr. Any three items dropped from these World Tree Eggs or Boxes can be exchanged for two new World Tree Eggs or Boxes, respectively.
+— 60 and 90 Day Premium Boxes have been removed from the store.
+— Transfer restrictions on the Temporal Refine Cube +11 item have been removed.
+
+More: https://eu.4gameforum.com/threads/696017/
+
+========
+Ragnarok Online Prime EU
 25.02.2026 11:20
 The maintenance is over, the server is online. Changelog:
 

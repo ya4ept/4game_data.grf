@@ -2298,6 +2298,40 @@ tblLapineUpgradeBox = {
 				{ "Virtual_Bow_OS", 18178 }
 			},
 			NeedSource_String = "OS Weapon +11 Refinement Cube"
+		},
+		Royal_Refine_Cube = {
+			ItemID = 106489,
+			NeedRefineMin = 7,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "R_Gladius_R", 28774 },
+				{ "R_Gladius_L", 28775 },
+				{ "R_Katar", 28046 },
+				{ "R_Magician_Dagger", 28776 },
+				{ "R_Magician_Wand", 26166 },
+				{ "R_Magician_Staff", 2060 },
+				{ "R_Knuckle", 1870 },
+				{ "R_Cleric_Staff", 26165 },
+				{ "R_Sage_Book", 28636 },
+				{ "R_Revolver", 32304 },
+				{ "R_Wheep", 26216 },
+				{ "R_Cello", 32111 },
+				{ "R_Pillar", 32401 },
+				{ "R_Syringe", 32402 },
+				{ "R_Huuma_Shuriken", 13347 },
+				{ "R_Foxtail_rod", 26172 },
+				{ "G_Knight_Axe", 1336 },
+				{ "G_Knight_BattleAxe", 28141 },
+				{ "G_Knight_Archer_Bow", 18198 },
+				{ "G_Knight_Bow", 18191 },
+				{ "G_Knight_Sword", 21055 },
+				{ "G_Knight_JewelSword", 32353 },
+				{ "G_Knight_Spear", 32027 },
+				{ "G_Alchemist_Staff", 32403 }
+			},
+			NeedSource_String = "Luxurious Refine Cube"
 		}
 	},
 	results = {
@@ -2442,6 +2476,12 @@ tblLapineUpgradeBox = {
 			FailureItems = {}
 		},
 		OS_Weapon_Refine_Cube = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Royal_Refine_Cube = {
 			SuccessRate = 10000,
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
 			RandomOptionCode = "",

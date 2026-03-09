@@ -12663,3 +12663,13 @@
 480156#Aegis_System#
 100321#쉐도우큐브#
 6959#코스츔변경티켓#
+
+470255#HalfBloodPrincess_Shoes#
+470258#HalfBloodPrincess_Shoes#
+470263#HalfBloodPrincess_Shoes#
+470267#HalfBloodPrincess_Shoes#
+470270#HalfBloodPrincess_Shoes#
+470272#HalfBloodPrincess_Shoes#
+490114#Paradise_Lost#
+103097#백금보물상자#
+106489#쉐도우큐브#
