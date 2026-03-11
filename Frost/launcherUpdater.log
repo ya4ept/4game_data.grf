@@ -1,6 +1,6 @@
 CmdLine = -torosGameNameType rot-ru_live -torosLauncher ro.exe -torosGame ..\Ragexe.exe 1rag1 id:666 pw:999
-checking connection to 109.105.133.4:80
-selected httpIp 109.105.133.4
+checking connection to 109.105.133.6:80
+selected httpIp 109.105.133.6
 get_game64_name
 get_custom_command_line_arg end
 get_32bit_client_setting
@@ -39,8 +39,7 @@ create_screen_info() failed no screen info
 create_mouse_info() failed no mouse info
 create_keyboard_info() failed no keyboard info
 frbl not found in shared memory
-download_url_to_file(toros/gameshield_32/39.50.8.46/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll in 0 seconds, err = 0(OK/200), sysErr = 0
-download_file(toros/gameshield_32/39.50.8.46/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll encountered currupted md5(92099ee88fbc565af5280a625fce26cf)
+skipping download (toros/gameshield_32/39.50.8.46/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll as encountered equal md5s[92099ee88fbc565af5280a625fce26cf]
 skipping download (toros/driver_32/12.50.3.19/toros_32.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_32.sys as encountered equal md5s[fe975e34193fe6fead3e501c03e4d6c0]
 skipping download (toros/driver_64/12.50.4.19/toros_64.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_64.sys as encountered equal md5s[44d1d1b14be23471cd71f3263115557a]
 skipping download (toros/launcher_32/12.3.8.20/launcher.exe) -> I:\Love\4game\rusRO_Prime\Frost\launcher.exe as encountered equal md5s[3e11a4c9263193d2ee10c766654774b4]

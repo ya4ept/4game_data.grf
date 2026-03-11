@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 4734f6b6d44065783ca1d4bd64b5b20b *data\idnum2itemdisplaynametable.txt
-a4d722f580661e6f3f22301e8a5e5092 *data\idnum2itemresnametable.txt
+dd1d7701b4d666250e04303ac4224443 *data\idnum2itemresnametable.txt
 1d0219bcdcf333cd9b83f43a7a0f3f19 *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-2bca8ad4d705aee59707285dc476053e *data\itemslotcounttable.txt
+7817ed4fd72c24a4fe88d5084b8634a1 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 8ed6595c945334aa589210167eee0a2b *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 6171dd9640901b3e32cfbecd2d491c21 *data\num2itemdisplaynametable.txt
-bd2da774af719e896e8e0fc8c0ea3094 *data\num2itemresnametable.txt
+e051e4c41b01866e76c9f8366ce12995 *data\num2itemresnametable.txt
 3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -3182,7 +3182,7 @@ a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovem
 9587dda67ebe63976dd61a039769a6e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lua
 3bf53e2960e24c6ae425ccd287092420 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 83db199fc175bdf26a4a5dd52ee2a153 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-3e39af38b9d1d44d2c9fe7f11d95e5b1 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+b351cb0a559a819ce4cdb61453e4dd36 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 6aba4fd2c5a17ffcfa3fef2af51ccc02 *data\luafiles514\lua files\datainfo\npcidentity.lua
 2591cde904986f6a9c84d2efd34ed42e *data\luafiles514\lua files\datainfo\npcidentity.lub
 bb137187f5b4160a029bfbfd77a346e6 *data\luafiles514\lua files\datainfo\npcidentitysvr.lua
@@ -19508,7 +19508,7 @@ d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\건
 93f548407b8fb44dec4ce928da87183b *data\sprite\로브\c_20th_anniversary_wing\여\검사_여.act
 d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\검사_여.spr
 f7c919564395df9ed2695e97e7bd92a0 *data\sprite\로브\c_20th_anniversary_wing\여\구페코크루세이더_여.act
-253893ca536524dee92d6ebc45503aa5 *data\sprite\로브\c_20th_anniversary_wing\여\구페코크루세이더_여.spr
+d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\구페코크루세이더_여.spr
 f807572a123a55a584445c3d0fcb178e *data\sprite\로브\c_20th_anniversary_wing\여\기사_여.act
 d41d32ae6d7b97921eda02d0f40f7e3a *data\sprite\로브\c_20th_anniversary_wing\여\기사_여.spr
 c2fb096afca329014e4743c238161c33 *data\sprite\로브\c_20th_anniversary_wing\여\궁수_여.act
@@ -84595,6 +84595,8 @@ ab9f2f88aabf96e18802817cd828eb17 *data\sprite\아이템\g_mental_potion.spr
 af99fc117dfbdd751a053cb63ee919ab *data\sprite\아이템\g명예증표.spr
 2c682ca083d1413171dbe39982e05f3b *data\sprite\아이템\g방어구교환티켓.act
 add5c8bd5edde4da58541a7bd13b02ca *data\sprite\아이템\g방어구교환티켓.spr
+5f7f3734f320ea1940c46857808cd31d *data\sprite\아이템\halfbloodprincess_shoes.act
+e6385a98777ca1575d5fac95d3452fcb *data\sprite\아이템\halfbloodprincess_shoes.spr
 8ca7b1bde083ce134cdb244421b31ce3 *data\sprite\아이템\halloween_package.act
 557193db72da1f4c0933f0a71171de16 *data\sprite\아이템\halloween_package.spr
 8ca7b1bde083ce134cdb244421b31ce3 *data\sprite\아이템\halloween_packagebox.act
@@ -84878,8 +84880,8 @@ a72b4be4b18711895674d717d9794942 *data\sprite\아이템\illusion_leg_b.spr
 2ccaad747c6274c02164bd9a5fa6e30b *data\sprite\아이템\illusion_shield_a.spr
 fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\illusion_shield_b.act
 90ab96f00aca9cafb17e34218b2d5587 *data\sprite\아이템\illusion_shield_b.spr
-efaa2cce2f99b25c0e8180a62b21f99b *data\sprite\아이템\illusion_shield_c.act
-6e2ca06cf2131e22fdb4e14af68bfb76 *data\sprite\아이템\illusion_shield_c.spr
+2af8a74a779959733abb5af6d9edd4d3 *data\sprite\아이템\illusion_shield_c.act
+77a5a6e71f7d35b5d8a4f4eadb23007d *data\sprite\아이템\illusion_shield_c.spr
 33d9d8c5d25d242c28fa9d9c5806bbc1 *data\sprite\아이템\ill_piece_a.act
 6e60d28f4155823122e60b0afe7f8110 *data\sprite\아이템\ill_piece_a.spr
 33d9d8c5d25d242c28fa9d9c5806bbc1 *data\sprite\아이템\ill_piece_b.act
@@ -85876,6 +85878,8 @@ f3995fc6ee44095a0f058ceb929e90f8 *data\sprite\아이템\openair_headset.act
 e68eebfed8a91dabecb1d0049dab18ea *data\sprite\아이템\owl_baron_mantle.spr
 fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\paracelsus_glove.act
 3c8e1b203e3941357602e88b9923b3c1 *data\sprite\아이템\paracelsus_glove.spr
+fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\paradise_lost.act
+6db25c699d9d33ee664075568454d015 *data\sprite\아이템\paradise_lost.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\parfait.act
 5e0b60a055b3731a398672659c38aefb *data\sprite\아이템\parfait.spr
 7d423be43eda61ef4ce5982ddf6861ab *data\sprite\아이템\pawsnclaws.act
@@ -127530,6 +127534,7 @@ e3ff772c4a99f4385eb95cca6b1c636a *data\texture\유저인터페이스\collection\g_knigh
 59ce0af4f9c984bbf5ad149f46f172e3 *data\texture\유저인터페이스\collection\g_small_mana_potion.bmp
 d25f1e2d25e2c4ec09dcd1ddb175f245 *data\texture\유저인터페이스\collection\g명예증표.bmp
 906332d21b0325905f621a49d46a09d5 *data\texture\유저인터페이스\collection\g방어구교환티켓.bmp
+1014150a2f1a830f33de927080eefb2b *data\texture\유저인터페이스\collection\halfbloodprincess_shoes.bmp
 09ebe4216e26a2081c5fd5b0073e724d *data\texture\유저인터페이스\collection\halloween_package.bmp
 4de25928a68e87bbbd067c26c503faab *data\texture\유저인터페이스\collection\halloween_packagebox.bmp
 23198b0f593d49382421b1760ab6ebf3 *data\texture\유저인터페이스\collection\halloween_poring_bag.bmp
@@ -127625,7 +127630,7 @@ d1cadd8a094dabc3d4976e40991254ad *data\texture\유저인터페이스\collection\illusio
 8ad683fcc5f29b286f0ca90598f42071 *data\texture\유저인터페이스\collection\illusion_leg_b.bmp
 b4c6a722276305e7c4d9d9f630233904 *data\texture\유저인터페이스\collection\illusion_shield_a.bmp
 b53a40f589950407322ce8a68794bc0e *data\texture\유저인터페이스\collection\illusion_shield_b.bmp
-f0aae5d4c7ca5be8c6aecfb3e798c8af *data\texture\유저인터페이스\collection\illusion_shield_c.bmp
+c6258a906ae2958f39c33a3a6624afed *data\texture\유저인터페이스\collection\illusion_shield_c.bmp
 74e4f43d5ed0f5e52a6afea6d0fae6f0 *data\texture\유저인터페이스\collection\ill_piece_a.bmp
 d70dd5cf1ef1d8480d5bbbbf990fa44c *data\texture\유저인터페이스\collection\ill_piece_b.bmp
 f4ef9964bbd07bd8f7b8da6d3c18bbf5 *data\texture\유저인터페이스\collection\immaterial_sword_il.bmp
@@ -127867,6 +127872,7 @@ be411970d2bd298f2fd109d1d25c5ce0 *data\texture\유저인터페이스\collection\old_det
 87a5b9891680cf13fbd55e41acd1ad2a *data\texture\유저인터페이스\collection\openair_headset.bmp
 df55bf5dd2f3217bd1709f9e9b2a57a2 *data\texture\유저인터페이스\collection\owl_baron_mantle.bmp
 6b4c50eb9f5096ace25be20f39e2bc67 *data\texture\유저인터페이스\collection\paracelsus_glove.bmp
+d7260f7e9a8265873bd0766ac4e1f971 *data\texture\유저인터페이스\collection\paradise_lost.bmp
 3ed08be0102db851d00f51dca17439bd *data\texture\유저인터페이스\collection\parfait.bmp
 92f531c6520fb281d6abfabe5c5ee804 *data\texture\유저인터페이스\collection\pawsnclaws.bmp
 0087096d05b172983bf2136512872925 *data\texture\유저인터페이스\collection\peep_toe_sandals.bmp
@@ -135569,6 +135575,7 @@ eb36ad81d914853f008fdbb0ebef6366 *data\texture\유저인터페이스\item\g_knight_bow.
 8a22befa2464eed751f60ed124624463 *data\texture\유저인터페이스\item\g_small_mana_potion.bmp
 cd24a608fcaa0a83916efd83fa9e8885 *data\texture\유저인터페이스\item\g명예증표.bmp
 3a1b0b2f03d44da1ab121adb6b5e3878 *data\texture\유저인터페이스\item\g방어구교환티켓.bmp
+1f85368dc2c669f2b7ab3c89bf61087b *data\texture\유저인터페이스\item\halfbloodprincess_shoes.bmp
 6658adb5011e4a49da06140f8e632113 *data\texture\유저인터페이스\item\halloween_package.bmp
 7691c5c66b37aa456181f596a1d0d636 *data\texture\유저인터페이스\item\halloween_packagebox.bmp
 16465081a2525a38edc46d973a5f5b38 *data\texture\유저인터페이스\item\halloween_poring_bag.bmp
@@ -135712,7 +135719,7 @@ be23353986bff8b3db85d94cdfa75f5c *data\texture\유저인터페이스\item\illusion_engi
 14bf865b22ebeadb758c83593e8d1932 *data\texture\유저인터페이스\item\illusion_leg_b.bmp
 479cb83d8c603c6eeccdc7d3903c72fa *data\texture\유저인터페이스\item\illusion_shield_a.bmp
 246d7864b8144625464a006e2b4cfac9 *data\texture\유저인터페이스\item\illusion_shield_b.bmp
-8316f21f248241b18d68a045e924c6da *data\texture\유저인터페이스\item\illusion_shield_c.bmp
+e771908821fdfdcd8e17e9535219aeba *data\texture\유저인터페이스\item\illusion_shield_c.bmp
 057141570145eb35aeba556440a2bb76 *data\texture\유저인터페이스\item\ill_piece_a.bmp
 08eb4d51a03aef35157926d4144f901b *data\texture\유저인터페이스\item\ill_piece_b.bmp
 cb3aeaab6b40b3525f816b46c4d1f2ae *data\texture\유저인터페이스\item\immaterial_sword_il.bmp
@@ -136215,6 +136222,7 @@ f22a469ca744a33e85577b12b4cce9b9 *data\texture\유저인터페이스\item\ob_zangetsu.b
 311b4eabc723b9c63c9c11ce18450f18 *data\texture\유저인터페이스\item\openair_headset.bmp
 ade780804a824f0ad6b25db0e3a80299 *data\texture\유저인터페이스\item\owl_baron_mantle.bmp
 e4921565d31f798f1ae67f09e9ca8d18 *data\texture\유저인터페이스\item\paracelsus_glove.bmp
+4685bffe7b454ed7e0961d8a25fef0e8 *data\texture\유저인터페이스\item\paradise_lost.bmp
 41ac0236f120c67d86f845f4dd793362 *data\texture\유저인터페이스\item\parfait.bmp
 06686d2b684305c034be3c3542e3d441 *data\texture\유저인터페이스\item\pawsnclaws.bmp
 4cc28b73821cb1f53fa4b3448d391e87 *data\texture\유저인터페이스\item\pa_gospel.bmp
