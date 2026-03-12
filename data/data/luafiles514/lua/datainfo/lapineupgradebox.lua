@@ -2227,7 +2227,7 @@ tblLapineUpgradeBox = {
 				{ "G_Knight_Spear", 32027 },
 				{ "G_Alchemist_Staff", 32403 }
 			},
-			NeedSource_String = "Роскошное оружие или оружие рыцаря-хранителя"
+			NeedSource_String = "Оружие роскошное/рыцаря-хранителя"
 		}
 	},
 	results = {
