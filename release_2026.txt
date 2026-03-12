@@ -1,5 +1,23 @@
 Ragnarok Online Prime EU
-04.03.2026 12:16
+12.03.2026 11:20
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Special Packs for Shadow Chaser arrived in launcher.
+— The Special Packs for Warlock and Sorcerer arrived in launcher.
+— The Special Packs for Summoner arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The "Midgardian style Fishing in Prontera" event has begun.
+
+Changes:
+— Dovmihr's Legendary Reward List was updated.
+— All owners of the Old Camouflage Scarf as of 03/03 will recieve the Premium Lubricant as an additional compensation for the slot removal.
+
+More: https://eu.4gameforum.com/threads/696028/
+
+========
+Ragnarok Online Prime EU
+04.03.2026, 12:16
 The maintenance is over, the server is online. Changelog:
 
 Events and Shop:
@@ -17,7 +35,7 @@ More: https://eu.4gameforum.com/threads/696017/
 
 ========
 Ragnarok Online Prime EU
-25.02.2026 11:20
+25.02.2026, 11:20
 The maintenance is over, the server is online. Changelog:
 
 Events and Shop:
@@ -122,7 +140,7 @@ More: https://eu.4gameforum.com/threads/695918/
 
 ========
 Ragnarok Online Prime EU
-21.01.2026 10:57
+21.01.2026, 10:57
 The maintenance is over, the server is online. Changelog:
 
 Events and Shop:
@@ -140,7 +158,7 @@ More: https://eu.4gameforum.com/threads/695909/
 
 ========
 Ragnarok Online Prime EU
-14.01.2026 11:35
+14.01.2026, 11:35
 The maintenance is over, the server is online. Changelog:
 
 Events and Shop:
@@ -160,7 +178,7 @@ More: https://eu.4gameforum.com/threads/695895/
 
 ========
 Ragnarok Online Prime EU
-06.01.2026 10:40
+06.01.2026, 10:40
 The maintenance is over, the server is online. Changelog:
 
 Events and Shop:
