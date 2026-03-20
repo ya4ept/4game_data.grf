@@ -299788,6 +299788,7 @@ tbl = {
 			"Adds a 3% chance of increasing DEX by 200 for 10 sec. when performing a physical attack.",
 			"^264696[If total refine value of helmet, footwear and weapons is +35 or higher]^000000 ",
 			"Ignores 40% of DEF of all enemy races (except player characters).",
+			"The listed set bonuses with Eremes' Memories work with weapons: Repentance Slasher + Judgment Slasher, Reaper Cross, Agudo Filo",
 			"^777777-------------^000000",
 			"Class: ^777777Footwear^000000",
 			"Defense: ^77777760^000000",

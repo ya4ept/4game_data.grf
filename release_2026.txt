@@ -1,4 +1,20 @@
 Ragnarok Online Prime EU
+18.03.2026, 10:50
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Special Packs for Maestro, Wanderer, Ranger arrived in launcher.
+— The Transmutator Packs arrived in launcher.
+— The Survivor Sets arrived in launcher.
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+
+Changes:
+— Changed the functionality and description of the item Zodiac Boots (Thief).
+
+More: https://eu.4gameforum.com/threads/696042/
+
+========
+Ragnarok Online Prime EU
 12.03.2026 11:20
 The maintenance is over, the server is online. Changelog:
 
