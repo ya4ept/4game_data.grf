@@ -12673,3 +12673,10 @@
 490114#Paradise_Lost#
 103097#백금보물상자#
 106489#쉐도우큐브#
+
+15350#Elephangel_TH#
+31970#C_AB_Hair_OM#
+420233#C_TV_Hair_PK#
+480167#C_Heart_Stick_Choco#
+490068#RingofVenus#
+106486#하트스크롤#
