@@ -12680,3 +12680,4 @@
 480167#C_Heart_Stick_Choco#
 490068#RingofVenus#
 106486#하트스크롤#
+480246#C_Valkyrie_Spear#
