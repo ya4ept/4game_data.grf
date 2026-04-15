@@ -1,3 +1,4 @@
+7404d8364f6a34af10443ad97026ba1d *mapnametable.txt
 19b6d6e653c6d4dddd185dc2a7cff840 *data\06guild_r.gat
 0f2d974f87ccb1468d8e40b2072678e6 *data\06guild_r.gnd
 e0767d3471213df6bc2e2fa6b0f7685e *data\06guild_r.rsw
@@ -619,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-fc98de2ac22339c7fa77acdaa365d2d7 *data\buyingstoreitemlist.txt
+ce3fe4f55b8dde89a96ab50dfd34455e *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 d15056fe8aa2a00bf998484974148c1d *data\cardpostfixnametable.txt
 e319bd5ed6b78f7763f75d219f2e2321 *data\cardprefixnametable.txt
@@ -1198,8 +1199,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 4734f6b6d44065783ca1d4bd64b5b20b *data\idnum2itemdisplaynametable.txt
-e131f7a2fe573d6c6bff95312bea3132 *data\idnum2itemresnametable.txt
-1d0219bcdcf333cd9b83f43a7a0f3f19 *data\idnum2itemresnametable_new.txt
+1b2fee2240e194860324e9540075852e *data\idnum2itemresnametable.txt
+66b89bc7dbd9b427bcd99f33f74eca0d *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1955,8 +1956,8 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 8ed6595c945334aa589210167eee0a2b *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 6171dd9640901b3e32cfbecd2d491c21 *data\num2itemdisplaynametable.txt
-3facdb89bb9c25dd32559f4c33c1efb0 *data\num2itemresnametable.txt
-3168962f4799e519baace457f932d03f *data\num2itemresnametable_new.txt
+8281bd34e44486d8be5d46b114ca1856 *data\num2itemresnametable.txt
+1e9fa56d9543cfebc4b83566a42cac4b *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
