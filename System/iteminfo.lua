@@ -28373,39 +28373,6 @@ tbl = {
 		ClassNum = 5,
 		costume = false
 	},
-	[2158] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Lamor Shield",
-		identifiedResourceName = "¶уёрёЈЅЇµе_ѕрµҐµе",
-		identifiedDescriptionName = {
-			"A magical shield endowed with the power of undead.",
-			"Class: ^808080Shield^000000",
-			"Defense: ^80808050^000000",
-			"Weight: ^808080130^000000",
-			"Requires Level: ^80808065^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Reduces damage taken from Undead property enemies by 5%.",
-			"Increases damage taken from Human race enemies by 5%.",
-			"Increases the experience given from monsters by 10% if the user has active vip.",
-			"^800080Set Bonus^000000",
-			"^008080Lamor Manteau^000000",
-			"^008080Lamor Shield^000000",
-			"Increases damage on Undead property targets by 1% per upgrade level of ^008080Lamor Shield^000000.",
-			"Reduces damage taken from Demi-Human race enemies by 1% per upgrade level of ^008080Lamor Manteau^000000.",
-			"^800080Set Bonus^000000",
-			"^008080Lamor Shield^000000",
-			"^008080Lamor Shoes^000000",
-			"Reduces damage taken from Undead property enemies by 5%.",
-			"Reduces damage taken from Undead property attacks by 2% per upgrade level of ^008080Lamor Shield^000000."
-		},
-		slotCount = 1,
-		ClassNum = 3,
-		costume = false
-	},
 	[2160] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "°Ўµе",
@@ -28488,39 +28455,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 5,
-		costume = false
-	},
-	[2165] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Sol Shield",
-		identifiedResourceName = "¶уёрёЈЅЇµе_Бц",
-		identifiedDescriptionName = {
-			"A magical shield endowed with the power of earth.",
-			"Class: ^808080Shield^000000",
-			"Defense: ^80808050^000000",
-			"Weight: ^808080130^000000",
-			"Requires Level: ^80808065^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Reduces damage taken from Earth property enemies by 5%.",
-			"Increases damage taken from Plant race enemies by 5%.",
-			"Increases the experience given from monsters by 10% if the user has active VIP.",
-			"^800080Set Bonus^000000",
-			"^008080Sol Manteau^000000",
-			"^008080Sol Shield^000000",
-			"Increases physical damage on Earth property targets by 1% per upgrade level of ^008080Sol Shield^000000.",
-			"Reduces damage taken from Fish race enemies by 1% per upgrade level of ^008080Sol Manteau^000000.",
-			"^800080Set Bonus^000000",
-			"^008080Sol Shield^000000",
-			"^008080Sol Shoes^000000",
-			"Reduces damage taken from Earth property enemies by 5%.",
-			"Reduces damage taken from Earth property attacks by 2% per upgrade level of ^008080Sol Shield^000000."
-		},
-		slotCount = 1,
-		ClassNum = 3,
 		costume = false
 	},
 	[2168] = {
@@ -28658,33 +28592,6 @@ tbl = {
 			"Weight: ^77777725^000000",
 			"Required Level: ^777777100^000000",
 			"Applicable Job: ^777777Ninja Class^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[2174] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "¶уёрёЈЅЇµе_јє",
-		unidentifiedDescriptionName = {
-			"Holy spiritual magical shield.",
-			"Reduce damage from Holy property monsters by 5%.",
-			"Increase damage from Dragon Race monsters by 5%.",
-			"Class: ^777777Shield^000000 Defense: ^77777750^000000",
-			"Weight: ^777777130^000000",
-			"Required Level: ^77777765^000000",
-			"Job: ^777777All^000000"
-		},
-		identifiedDisplayName = "Lumiere Shield",
-		identifiedResourceName = "¶уёрёЈЅЇµе_јє",
-		identifiedDescriptionName = {
-			"Holy spiritual magical shield.",
-			"Reduce damage from Holy property monsters by 5%.",
-			"Increase damage from Dragon Race monsters by 5%.",
-			"Class: ^777777Shield^000000 Defense: ^77777750^000000",
-			"Weight: ^777777130^000000",
-			"Required Level: ^77777765^000000",
-			"Job: ^777777All^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -29136,39 +29043,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 0,
-		costume = false
-	},
-	[2195] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Lian Shield",
-		identifiedResourceName = "ё®ѕИЅЇµе",
-		identifiedDescriptionName = {
-			"A shield with mystical powers.",
-			"Class: ^808080Shield^000000",
-			"Defense: ^80808050^000000",
-			"Weight: ^808080130^000000",
-			"Requires Level: ^80808065^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Reduces damage taken from Neutral property enemies by 5%.",
-			"Increases damage taken from Formless race enemies by 5%.",
-			"Increases the experience given from monsters by 10% if the user has active VIP.",
-			"^800080Set Bonus^000000",
-			"^008080Lian Robe^000000",
-			"^008080Lian Shield^000000",
-			"Increases physical and magical damage on Neutral property targets by 1% per upgrade level of ^008080Lian Shield^000000.",
-			"Reduces damage taken from Formless race enemies by 1% per upgrade level of ^008080Lian Robe^000000.",
-			"^800080Set Bonus^000000",
-			"^008080Lian Shield^000000",
-			"^008080Lian Shoes^000000",
-			"Reduces damage taken from Neutral property enemies by 5%.",
-			"Reduces damage taken from Neutral property enemies by an additional 1% per upgrade level of ^008080Lian Shield^000000."
-		},
-		slotCount = 1,
-		ClassNum = 3,
 		costume = false
 	},
 	[2196] = {
@@ -38281,68 +38155,6 @@ tbl = {
 			"Weight: ^77777720^000000",
 			"Required Lv.: ^7777771^000000",
 			"Job: ^777777All Jobs^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[2596] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"a magical manteau with property resistance in it ",
-			"decrease damage -5% from fire property monster",
-			"increase damage +5% from evil type monster",
-			"if equipped with Sharel Shield, can decrease damage 1% from evil type monster per refined lv 1",
-			"if equipped with Sharel Shield, can increase damage 1% from fire property monster per refined lv 1",
-			"Class: ^777777robe^000000  Def: ^77777720^000000",
-			"weight: ^77777770^000000",
-			"Required level: ^77777765^000000",
-			"Jobs: ^777777All Jobs Jobs available^000000"
-		},
-		identifiedDisplayName = "Sharel Manteau",
-		identifiedResourceName = "»ю·јёБЕд",
-		identifiedDescriptionName = {
-			"a magical manteau with property resistance in it ",
-			"decrease damage -5% from fire property monster",
-			"increase damage +5% from evil type monster",
-			"if equipped with Sharel Shield, can decrease damage 1% from evil type monster per refined lv 1",
-			"if equipped with Sharel Shield, can increase damage 1% from fire property monster per refined lv 1",
-			"Class: ^777777robe^000000  Def: ^77777720^000000",
-			"Weight: ^77777770^000000",
-			"Required Level: ^77777765^000000",
-			"Jobs: ^777777All Jobs Jobs available^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[2598] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"a magical manteau with property in it",
-			"decrese damage -5% from undead property monster",
-			"increase damage +5% from demi-human monster",
-			"if equipped with Ramor Shield , each refined lv 1 can decrease damage 1% from demi-human monster",
-			"if equipped with Ramor Shield , each refined lv 1 can decrease damage 1% from undead property monster",
-			"Class: ^777777robe^000000  Def: ^77777720^000000",
-			"weight: ^77777770^000000",
-			"Req level: ^77777765^000000",
-			"Jobs: ^777777All Jobs Jobs available^000000"
-		},
-		identifiedDisplayName = "Lamor Manteau",
-		identifiedResourceName = "¶уёрёЈёБЕд",
-		identifiedDescriptionName = {
-			"a magical manteau with property in it",
-			"decrese damage -5% from undead property monster",
-			"increase damage +5% from demi-human monster",
-			"if equipped with Ramor Shield , each refined lv 1 can decrease damage 1% from demi-human monster",
-			"if equipped with Ramor Shield , each refined lv 1 can decrease damage 1% from undead property monster",
-			"Class: ^777777robe^000000  Def: ^77777720^000000",
-			"Weight: ^77777770^000000",
-			"Req level: ^77777765^000000",
-			"Jobs: ^777777All Jobs Jobs available^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -158720,31 +158532,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[15135] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Dragon Cloth",
-		identifiedResourceName = "µе·Ў°пЕ¬·ОЅє",
-		identifiedDescriptionName = {
-			"^808080Ritualistic clothing that appears to offend dragons far and wide.^000000",
-			"Class: Armor",
-			"Defense: 30",
-			"Property: Neutral",
-			"Weight: 120",
-			"Required Level: 70",
-			"Required Jobs: All Jobs",
-			"Mdef + 5",
-			"Additional Mdef + 1 per upgrade level of the item.",
-			"Reduces damage taken from Dragon race enemies by 5%.",
-			"Reduces damage taken from Dragon race enemies by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[15138] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "їмµзёЮАП",
@@ -158766,137 +158553,6 @@ tbl = {
 			"Weight: ^777777160^000000",
 			"Required LvL: ^77777740^000000",
 			"Job: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[15139] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Shepherd Clothes",
-		identifiedResourceName = "Ѕ¦ЖЫµеЕ¬·ОЅє",
-		identifiedDescriptionName = {
-			"Ritualistic clothing that appears to offend animals far and wide.",
-			"Class: ^808080Armor^000000",
-			"Defense: ^80808030^000000",
-			"Property: ^777777Neutral^000000",
-			"Weight: ^808080120^000000",
-			"Requires Level: ^80808070^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 5",
-			"Additional Mdef + 1 per upgrade level of the item.",
-			"Reduces damage taken from Brute race enemies by 5%.",
-			"Reduces damage taken from Brute race enemies by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[15140] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Natural Clothes",
-		identifiedResourceName = "і»Гт·ІЕ¬·ОЅє",
-		identifiedDescriptionName = {
-			"^808080Natural clothes for the natural adventurer.^000000",
-			"^777777-------------^000000",
-			"Type: Equipment",
-			"Class: Armor",
-			"Defense: 30",
-			"Property: N/A",
-			"Weight: 120",
-			"Required Level: 70",
-			"Required Jobs: All Jobs",
-			"^777777-------------^000000",
-			"Mdef + 5",
-			"Additional Mdef + 1 per upgrade level of the item.",
-			"Reduces damage taken from Formless race enemies by 5%.",
-			"Reduces damage taken from Formless race enemies by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[15142] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Orca Clothes",
-		identifiedResourceName = "їАёЈД«Е¬·ОЅє",
-		identifiedDescriptionName = {
-			"^808080These clothes possess the power to reject sea creatures. It seems to be used when performing special rituals.^000000",
-			"^777777-------------^000000",
-			"Type: Equipment",
-			"Class: Armor",
-			"Defense: 30",
-			"Property: Neutral",
-			"Weight: 120",
-			"Required Level: 70",
-			"Required Jobs: All Jobs",
-			"^777777-------------^000000",
-			"Mdef + 5",
-			"Additional Mdef + 1 per upgrade level of the item.",
-			"Reduces damage taken from Fish race enemies by 5%.",
-			"Reduces damage taken from Fish race enemies by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[15143] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Vermin Cloth",
-		identifiedResourceName = "№ц№ОЕ¬·ОЅє",
-		identifiedDescriptionName = {
-			"Ritualistic clothing that contains the power of nature.",
-			"Class: ^808080Armor^000000",
-			"Defense: ^80808030^000000",
-			"Property: ^777777Neutral^000000",
-			"Weight: ^808080120^000000",
-			"Requires Level: ^80808070^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 5",
-			"Additional Mdef + 1 per upgrade level of the item.",
-			"Reduces damage taken from Plant race enemies by 5%.",
-			"Reduces damage taken from Plant race enemies by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[15144] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Agriculture Clothes",
-		identifiedResourceName = "ѕо±Чё®ДГЕ¬·ОЅє",
-		identifiedDescriptionName = {
-			"Ritualistic clothing that appears to repel insects.",
-			"Class: ^808080Armor^000000",
-			"Defense: ^80808030^000000",
-			"Property: ^777777Neutral^000000",
-			"Weight: ^808080120^000000",
-			"Requires Level: ^80808070^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 5",
-			"Additional Mdef + 1 per upgrade level of the item.",
-			"Reduces damage taken from Insect race enemies by 5%.",
-			"Reduces damage taken from Insect race enemies by an additional 1% per upgrade level of the item."
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -159693,52 +159349,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[15352] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Nature Dress",
-		identifiedResourceName = "Nature_Dress",
-		identifiedDescriptionName = {
-			"A dress empowered with nature's essence. Wearing this will prove that you are a member of Nature's Children.",
-			"Class: ^808080Armor^000000",
-			"Defense: ^808080120^000000",
-			"Property: ^808080Earth^000000",
-			"Weight: ^80808040^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Prevents the user from being knocked back.",
-			" ",
-			"If upgrade level is +5 or higher,",
-			"Increases physical and magical damage on Demi-Human race targets by 10%.",
-			"Increases physical and magical damage on Player race targets by 10%.",
-			"Increases physical and magical damage on Brute race targets by 10%.",
-			"Increases physical and magical damage on Wind property targets by 10%.",
-			"Increases physical and magical damage on Earth property targets by 10%.",
-			" ",
-			"If upgrade level is +7 or higher,",
-			"Increases physical and magical damage on Demi-Human race targets by an additional 15%.",
-			"Increases physical and magical damage on Player race targets by an additional 15%.",
-			"Increases physical and magical damage on Brute race targets by an additional 15%.",
-			"Increases physical and magical damage on Wind property targets by an additional 15%.",
-			"Increases physical and magical damage on Earth property targets by an additional 15%.",
-			" ",
-			"If upgrade level is +9 or higher,",
-			"Increases physical and magical damage on Demi-Human race targets by an additional 15%.",
-			"Increases physical and magical damage on Player race targets by an additional 15%.",
-			"Increases physical and magical damage on Brute race targets by an additional 15%.",
-			"Increases physical and magical damage on Wind property targets by an additional 15%.",
-			"Increases physical and magical damage on Earth property targets by an additional 15%.",
-			" ",
-			"This item is indestructible in battle.",
-			"^800080Disabled during WoE TE^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[15405] = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "їмµзёЮАП",
@@ -159773,45 +159383,6 @@ tbl = {
 			"Additional Max HP + 20%.",
 			"Additional Max SP + 20%.",
 			"Reduces the global delay of skills by an additional 5%."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[15420] = {
-		unidentifiedDisplayName = "Armor",
-		unidentifiedResourceName = "ДЪЖ°јЕГч",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Icefall Dress",
-		identifiedResourceName = "Icefall_Dress",
-		identifiedDescriptionName = {
-			"A blue dress made from icy rivers. It is said it contains powers to create ice that cannot be melted for eternity.",
-			"Class: ^808080Armor^000000",
-			"Defense: ^808080120^000000",
-			"Property: ^808080Water^000000",
-			"Weight: ^80808040^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Prevents the user from being knocked back.",
-			"This item is indestructible in battle.",
-			" ",
-			"If upgrade level is +5 or higher,",
-			"Increases physical and magical damage on Formless and Demi-Human race targets by 10%.",
-			"Increases physical and magical damage on Doram Player and Human Player race targets by 10%.",
-			"Increases physical and magical damage on Fire and Water property targets by 10%.",
-			" ",
-			"If upgrade level is +7 or higher,",
-			"Increases physical and magical damage on Formless and Demi-Human race targets by an additional 15%.",
-			"Increases physical and magical damage on Doram Player and Human Player race targets by an additional 15%.",
-			"Increases physical and magical damage on Fire and Water property targets by an additional 15%.",
-			" ",
-			"If upgrade level is +9 or higher,",
-			"Increases physical and magical damage on Formless and Demi-Human race targets by an additional 15%.",
-			"Increases physical and magical damage on Doram Player and Human Player race targets by an additional 15%.",
-			"Increases physical and magical damage on Fire and Water property targets by an additional 15%.",
-			"^800080Disabled during WoE TE^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -183234,38 +182805,6 @@ tbl = {
 		ClassNum = 0,
 		costume = true
 	},
-	[18937] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
-		identifiedDisplayName = "Pendant of Heartfelt Feelings",
-		identifiedResourceName = "Pendant of Heartfelt Feelings",
-		identifiedDescriptionName = {
-			"A gift that was given to a cyborg girl by her owner. When he died, she cried for days mourning their lost love.",
-			"The pendant is full of happy loving memories.",
-			"^777777-------------^000000",
-			"MDEF +7, Max HP +2%.",
-			"^264696[If equipped with any Vesper Core:]^000000",
-			"All Stats +5",
-			"Atk + 20",
-			"Matk + 20",
-			"Hit + 20",
-			"Flee + 20",
-			"Crit + 20",
-			"Def + 20",
-			"Mdef + 20",
-			"^777777-------------^000000",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Middle ^000000",
-			"Weight: ^77777710^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 1072,
-		costume = false
-	},
 	[18944] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "µҐєс·зДЎЗіј±",
@@ -194211,29 +193750,6 @@ tbl = {
 		ClassNum = 1158,
 		costume = true
 	},
-	[19992] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
-		identifiedDisplayName = "Costume Chilly Breath",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"Everything around is covered in snow, blizzards are swirling... It's so cold! Clouds of frosty steam fly out of your mouth with every breath.",
-			"^777777-------------^000000",
-			"INT +5.",
-			"After a successful ATK with a 10% chance casts Freezing on enemy.",
-			"^777777-------------^000000",
-			"Class: ^777777 Costume^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Lower ^000000",
-			"Weight : ^7777771^000000",
-			"Required Level: ^77777710^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 885,
-		costume = true
-	},
 	[19994] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "Дё",
@@ -200419,29 +199935,6 @@ tbl = {
 		ClassNum = 101,
 		costume = true
 	},
-	[20614] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Shadow of Kiel",
-		identifiedResourceName = "C_Kyel_hyre_Ulti_TW",
-		identifiedDescriptionName = {
-			"^ff0000Animated^000000",
-			"A monstrous intelligent weapon created by Kiel Hyre.",
-			"^777777-------------^000000",
-			"Class: ^777777Costume^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Garment^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 102,
-		costume = true
-	},
 	[20700] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "№ЯЕ°ё®АЗёБЕд",
@@ -200472,39 +199965,6 @@ tbl = {
 			"Jobs: ^777777All^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[20701] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Sol Manteau",
-		identifiedResourceName = "јЦёБЕд",
-		identifiedDescriptionName = {
-			"^808080A magical manteau endowed with the power of earth.^000000",
-			"Class: Garment",
-			"Defense: 20",
-			"Weight: 70",
-			"Required Level: 65",
-			"Required Jobs: All Jobs",
-			"Reduces damage taken from Earth property enemies by 5%.",
-			"Increases damage taken from Fish race enemies by 5%.",
-			"^800080Set Bonus^000000",
-			"^008080Sol Manteau^000000",
-			"^008080Sol Shield^000000",
-			"Increases damage on Earth property targets by 1% per upgrade level of ^008080Sol Shield^000000.",
-			"Reduces damage taken from Fish race enemies by 1% per upgrade level of ^008080Sol Manteau^000000.",
-			"^800080Set Bonus^000000",
-			"^008080Sol Manteau^000000",
-			"^008080Sol Shoes^000000",
-			"Max HP + 1% per upgrade level of ^008080Sol Manteau^000000.",
-			"Max SP + 1% per upgrade level of ^008080Sol Manteau^000000.",
-			"Increases damage on Earth property targets by 5%."
-		},
-		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},
@@ -200585,37 +200045,6 @@ tbl = {
 			"Job: ^777777Novice / Mage / Acolyte / Soul Linker^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[20705] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"Holy spiritual magical Manteau.",
-			"Reduce damage from Holy property monsters by 5%.",
-			"Increase damage from Dragon Race monsters by 5%.",
-			"+Lumiere Shield[1], Each refine rate of Lumiere Manteau gives 1% of damage reduction from Dragon Race.",
-			"+Lumiere Shield[1], Each refine rate of Lumiere Shield gives 1% additional damage to Holy property monsters.",
-			"Class: ^777777Garment^000000 Defense: ^77777720^000000",
-			"Weight: ^77777770^000000",
-			"Required Level: ^77777765^000000",
-			"Job: ^777777All^000000"
-		},
-		identifiedDisplayName = "Lumiere Manteau",
-		identifiedResourceName = "·щ№Мї¤ёБЕд",
-		identifiedDescriptionName = {
-			"Holy spiritual magical Manteau.",
-			"Reduce damage from Holy property monsters by 5%.",
-			"Increase damage from Dragon Race monsters by 5%.",
-			"+Lumiere Shield[1], Each refine rate of Lumiere Manteau gives 1% of damage reduction from Dragon Race.",
-			"+Lumiere Shield[1], Each refine rate of Lumiere Shield gives 1% additional damage to Holy property monsters.",
-			"Class: ^777777Garment^000000 Defense: ^77777720^000000",
-			"Weight: ^77777770^000000",
-			"Required Level: ^77777765^000000",
-			"Job: ^777777All^000000"
-		},
-		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},
@@ -201383,39 +200812,6 @@ tbl = {
 			"Weight: 60",
 			"Required Level: 170",
 			"Job: All Jobs"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[20753] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Lian Robe",
-		identifiedResourceName = "ё®ѕИёБЕд",
-		identifiedDescriptionName = {
-			"A garment with mystical powers.",
-			"Class: ^808080Garment^000000",
-			"Defense: ^80808020^000000",
-			"Weight: ^80808070^000000",
-			"Requires Level: ^80808065^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Reduces damage taken from Neutral property enemies by 5%.",
-			"Increases damage taken from Formless race enemies by 5%.",
-			"^800080Set Bonus^000000",
-			"^008080Lian Robe^000000",
-			"^008080Lian Shield^000000",
-			"Increases physical and magical damage on Neutral property targets by 1% per upgrade level of ^008080Lian Shield^000000.",
-			"Reduces damage taken from Formless race enemies by 1% per upgrade level of ^008080Lian Robe^000000.",
-			"^800080Set Bonus^000000",
-			"^008080Lian Robe^000000",
-			"^008080Lian Shoes^000000",
-			"Max HP + 1% per upgrade level of ^008080Lian Robe^000000.",
-			"Max SP + 1% per upgrade level of ^008080Lian Robe^000000.",
-			"Increases physical and magical damage on Formless race targets by 5%."
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -202758,41 +202154,6 @@ tbl = {
 		ClassNum = 19,
 		costume = false
 	},
-	[20922] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Leviathan Muffler",
-		identifiedResourceName = "Leviathan_muffler",
-		identifiedDescriptionName = {
-			"Muffler made with the scales of the strongest sea monsters.",
-			"Class: ^808080Garment^000000",
-			"Defense: ^80808018^000000",
-			"Weight: ^80808020^000000",
-			"Requires Level: ^808080100^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 5",
-			"Increases physical and magical damage on Water property targets by 15%.",
-			"Reduces damage taken from Demi-Human and Human Player race enemies by 5%.",
-			" ",
-			"For every upgrade level of ^008080Leviathan Muffler[1]^000000,",
-			"Aspd + 1%",
-			"Increases physical and magical damage on Water property targets by an additional 1%.",
-			"If upgrade level is +10 or higher,",
-			"Reduces damage taken from Water property attacks by 100%.",
-			"^800080Set Bonus^000000",
-			"^008080Leviathan Muffler[1]^000000",
-			"^008080Toad Card^000000",
-			"Max HP +10%",
-			"Additional Mdef + 10",
-			"Reduces damage taken from Neutral property attacks by 20%."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[20931] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "ИДµе",
@@ -202888,43 +202249,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 39,
-		costume = false
-	},
-	[20941] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Phoenix Muffler",
-		identifiedResourceName = "Phoenix_Muffler",
-		identifiedDescriptionName = {
-			"A magnificent muffler modeled after the wings of a phoenix. The way it wraps around you is beautiful and terrifying.",
-			"Class: ^808080Garment^000000",
-			"Defense: ^80808018^000000",
-			"Weight: ^80808020^000000",
-			"Requires Level: ^808080100^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 5",
-			"Increases physical and magical damage on Fire property targets by 15%",
-			"Reduces damage taken from Human Player and Doram race enemies by 5%.",
-			" ",
-			"For every upgrade level of the item,",
-			"Aspd + 1%",
-			"Increases physical and magical damage on Fire property targets by an additional 1%",
-			" ",
-			"If upgrade level is +10 or higher,",
-			"Reduces damage taken from Fire property attacks by 100%.",
-			" ",
-			"^800080Set Bonus^000000",
-			"^008080Phoenix Muffler[1]^000000",
-			"^008080Mastering Card^000000",
-			"Mdef + 10",
-			"Flee + 20",
-			"Reduces damage taken from Neutral property attacks by 20%."
-		},
-		slotCount = 1,
-		ClassNum = 0,
 		costume = false
 	},
 	[20942] = {
@@ -204266,42 +203590,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22049] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Sol Shoes",
-		identifiedResourceName = "јЦЅґБо",
-		identifiedDescriptionName = {
-			"^808080A pair of magical shoes endowed with the power of earth.^000000",
-			"Class: Shoes",
-			"Defense: 12",
-			"Weight: 25",
-			"Required Level: 90",
-			"Required Jobs: All Jobs",
-			"Max HP + 1% per upgrade level of the item.",
-			"Max SP + 1% per upgrade level of the item.",
-			"Mdef + 3",
-			"Reduces damage taken from Earth property attacks by 5%.",
-			"Increases the drop rate of items by 10% if the user has active vip.",
-			"^800080Set Bonus^000000",
-			"^008080Sol Manteau^000000",
-			"^008080Sol Shoes^000000",
-			"Max HP + 1% per upgrade level of ^008080Sol Manteau^000000.",
-			"Max SP + 1% per upgrade level of ^008080Sol Manteau^000000.",
-			"Increases physical damage on Earth property targets by 5%.",
-			"^800080Set Bonus^000000",
-			"^008080Sol Shield^000000",
-			"^008080Sol Shoes^000000",
-			"Reduces damage taken from Earth property attacks by 5%.",
-			"Reduces damage taken from Earth property attacks by an additional 2% per upgrade level of ^008080Sol Shield^000000."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[22050] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "»чµй",
@@ -204324,42 +203612,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22051] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Lamor Shoes",
-		identifiedResourceName = "¶уёрёЈЅґБо",
-		identifiedDescriptionName = {
-			"A pair of magical shoes endowed with the power of undead.",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808012^000000",
-			"Weight: ^80808025^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Max HP + 1% per upgrade level of the item.",
-			"Max SP + 1% per upgrade level of the item.",
-			"Mdef + 3",
-			"Reduces damage taken from Undead property attacks by 5%.",
-			"Increases the drop rate of items by 10% if the user has active vip.",
-			"^800080Set Bonus^000000",
-			"^008080Lamor Manteau^000000",
-			"^008080Lamor Shoes^000000",
-			"Max HP + 1% per upgrade level of ^008080Lamor Manteau^000000.",
-			"Max SP + 1% per upgrade level of ^008080Lamor Manteau^000000.",
-			"Increases physical damage on Undead property targets by 5%.",
-			"^800080Set Bonus^000000",
-			"^008080Lamor Shield^000000",
-			"^008080Lamor Shoes^000000",
-			"Reduces damage taken from Undead property enemies by 5%.",
-			"Reduces damage taken from Undead property attacks by 2% per upgrade level of ^008080Lamor Shield^000000."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[22052] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "»чµй",
@@ -204379,42 +203631,6 @@ tbl = {
 			"Increases the experience given from Undead race monsters by an additional 1% per upgrade level of the item."
 		},
 		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22055] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Sharel Shoes",
-		identifiedResourceName = "»ю·јЅґБо",
-		identifiedDescriptionName = {
-			"A magical pair of shoes containing the power of fire.",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808012^000000",
-			"Weight: ^80808025^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Max HP + 1% per upgrade level of the item.",
-			"Max SP + 1% per upgrade level of the item.",
-			"Mdef + 3",
-			"Reduces damage taken from Fire property attacks by 5%.",
-			"Increases the drop rate of items by 10% if the user has active vip.",
-			"^800080Set Bonus^000000",
-			"^008080Sharel Manteau^000000",
-			"^008080Sharel Shoes^000000",
-			"Max HP + 1% per upgrade level of ^008080Sharel Shield^000000.",
-			"Max SP + 1% per upgrade level of ^008080Sharel Shield^000000.",
-			"Increases physical damage on Fire property targets by 5%.",
-			"^800080Set Bonus^000000",
-			"^008080Sharel Shield^000000",
-			"^008080Sharel Shoes^000000",
-			"Reduces damage taken from Fire property attacks by 2% per upgrade level of ^008080Sharel Shield^000000.",
-			"Reduces damage taken from Fire property enemies by 5%."
-		},
-		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},
@@ -204494,35 +203710,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[22061] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"Holy spiritual shoes.",
-			"MDefense +3.",
-			"Reduce damage from Holy property attack by 5%.",
-			"Each refine increase MaxHP +1% and MaxSP +1%",
-			"Class: ^777777Shoes^000000 Defense: ^77777712^000000",
-			"Weight: ^77777725^000000",
-			"Required Level: ^77777790^000000",
-			"Job: ^777777All^000000"
-		},
-		identifiedDisplayName = "Lumiere Shoes",
-		identifiedResourceName = "·щ№Мї¤ЅґБо",
-		identifiedDescriptionName = {
-			"Holy spiritual shoes.",
-			"MDefense +3.",
-			"Reduce damage from Holy property attack by 5%.",
-			"Each refine increase MaxHP +1% and MaxSP +1%",
-			"Class: ^777777Shoes^000000 Defense: ^77777712^000000",
-			"Weight: ^77777725^000000",
-			"Required Level: ^77777790^000000",
-			"Job: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[22062] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "»чµй",
@@ -204595,42 +203782,6 @@ tbl = {
 			"Job: ^777777All except for Novice^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22069] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Lian Shoes",
-		identifiedResourceName = "ё®ѕИЅґБо",
-		identifiedDescriptionName = {
-			"A pair of shoes with mystical powers.",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808012^000000",
-			"Weight: ^80808025^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Max HP + 1% per upgrade level of the item.",
-			"Max SP + 1% per upgrade level of the item.",
-			"Mdef + 3",
-			"Reduces damage taken from Neutral property attacks by 5%.",
-			"Increases the drop rate of items by 10% if the user has active vip.",
-			"^800080Set Bonus^000000",
-			"^008080Lian Robe^000000",
-			"^008080Lian Shoes^000000",
-			"Max HP + 1% per upgrade level of ^008080Lian Robe^000000.",
-			"Max SP + 1% per upgrade level of ^008080Lian Robe^000000.",
-			"Increases physical and magical damage on Formless race enemies by 5%.",
-			"^800080Set Bonus^000000",
-			"^008080Lian Shield^000000",
-			"^008080Lian Shoes^000000",
-			"Reduces damage taken from Neutral property enemies by 5%.",
-			"Reduces damage taken from Neutral property enemies by an additional 1% per upgrade level of ^008080Lian Shield^000000."
-		},
-		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},
@@ -204870,184 +204021,6 @@ tbl = {
 			"Weight: ^80808070^000000",
 			"Requires Level: ^808080175^000000",
 			"Jobs: ^808080Summoner^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22091] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Fisherman's Shoes",
-		identifiedResourceName = "ЅґБо",
-		identifiedDescriptionName = {
-			"Shoes that men wear to keep a living by fishing. The old experience comes out of the shoes. Even foot odor and fish smell ... ?\n",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"EXP from fish monster + 5%",
-			"For every refinement upgrade, EXP from fish monster increases by +1%."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22092] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = " ",
-		unidentifiedDescriptionName = {
-			"^FF0000^000000",
-			"Class: ^808080^000000",
-			"Position: ^808080^000000",
-			"Compounds On: ^808080^000000",
-			"Weight: ^8080800^000000"
-		},
-		identifiedDisplayName = " ",
-		identifiedResourceName = " ",
-		identifiedDescriptionName = {
-			"^FF0000^000000",
-			"Class: ^808080^000000",
-			"Position: ^808080^000000",
-			"Compounds On: ^808080^000000",
-			"Weight: ^8080800^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[22093] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Exorcist's Shoes",
-		identifiedResourceName = "ЅґБо",
-		identifiedDescriptionName = {
-			"These shoes were worn by a man who made a living out of performing exorcisms. These shoes contains the man's many years of experience.\n",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Increases the experience given from Demon race monsters by 5%.",
-			"Increases the experience given from Demon race monsters by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22094] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Gardener Shoes",
-		identifiedResourceName = "ЅґБо",
-		identifiedDescriptionName = {
-			"These shoes were worn by a man who made a living out of taking care of gardens. These shoes contains the man's many years of experience.\n",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Increases the experience given from Plant race monsters by 5%.",
-			"Increases the experience given from Plant race monsters by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22095] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Gravekeeper Shoes",
-		identifiedResourceName = "ЅґБо",
-		identifiedDescriptionName = {
-			"These shoes were worn by a man who made a living out of taking care of cemetery's. These shoes contains the man's many years of experience.",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Increases the experience given from Undead race monsters by 5%.",
-			"Increases the experience given from Undead race monsters by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22096] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Fallen Angel Shoes",
-		identifiedResourceName = "ЅґБо",
-		identifiedDescriptionName = {
-			"Shoes worn by the Seraphs themselves. Their eons of experience can be felt within them.",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Increases the experience given from Angel race monsters by 5%.",
-			"Increases the experience given from Angel race monsters by an additional 1% per upgrade level of the item."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22097] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Dragon Trainer Shoes",
-		identifiedResourceName = "ЅґБо",
-		identifiedDescriptionName = {
-			"These shoes were worn by a man who made a living out of raising dragons. These shoes contains the man's many years of experience.\n",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Increases the experience given from Dragon race monsters by 5%.",
-			"Increases the experience given from Dragon race monsters by an additional 1% per upgrade level of the item.",
-			" "
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[22099] = {
-		unidentifiedDisplayName = "Shoes",
-		unidentifiedResourceName = "»чµй",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Mechanic Shoes",
-		identifiedResourceName = "Shoes",
-		identifiedDescriptionName = {
-			"These shoes were worn by a man who made a living out of engineering. They contain the man's many years of experience.",
-			"Class: ^808080Shoes^000000",
-			"Defense: ^80808010^000000",
-			"Weight: ^77777730^000000",
-			"Requires Level: ^80808030^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Increases the experience given from Formless race monsters by 5%.",
-			"Increases the experience given from Formless race monsters by an additional 1% per upgrade level of the item."
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -226201,40 +225174,6 @@ tbl = {
 		ClassNum = 3,
 		costume = false
 	},
-	[28916] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Gaia Shield",
-		identifiedResourceName = "°ЎАМѕЖЅЇµе",
-		identifiedDescriptionName = {
-			"A shield that contains the power of the earth.",
-			"Class: ^808080Shield^000000",
-			"Defense: ^808080150^000000",
-			"Weight: ^808080200^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 10",
-			"Increases physical and magical damage on Earth property targets by 5%.",
-			"Reduces damage taken from Earth property attacks by 10%.",
-			"This item is indestructible in battle.",
-			"If upgrade level is +6 or higher,",
-			"Increases physical and magical damage on Earth property targets by an additional 10%.",
-			"Reduces damage taken from Earth property attacks by an additional 15%.",
-			"If upgrade level is +8 or higher,",
-			"Atk + 50, if the users base Str is 90 or higher.",
-			"Matk + 30, if the users base Int is 90 or higher.",
-			"Aspd + 5%, if the users base Agi is 90 or higher.",
-			"Reduces the variable casting time of skills by 5%, if the users base Dex is 90 or higher.",
-			"Increases critical damage on targets by 5%, if the users base Luk is 90 or higher.",
-			"Increases the recovery rate of recovery items by 10%, if the users base Vit is 90 or higher."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[28918] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "°Ўµе",
@@ -226258,46 +225197,6 @@ tbl = {
 			"Weight: ^80808050^000000",
 			"Requires Level: ^80808090^000000",
 			"Usable By: ^808080All Jobs^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[28921] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Anemos Shield",
-		identifiedResourceName = "Anemos_Shield",
-		identifiedDescriptionName = {
-			"^808080A shield that contains the power of the wind.^000000",
-			"Class: Shield",
-			"Defense: 150",
-			"Weight: 350",
-			"Required Level: 90",
-			"Required Jobs: All Jobs",
-			"Mdef + 15",
-			"Increases physical and magical damage on Wind property targets by 5%.",
-			"Reduces damage taken from Wind property attacks by 10%.",
-			"This item is indestructible in battle.",
-			"If upgrade level is +6 or higher,",
-			"Increases physical and magical damage on Wind property targets by an additional 10%.",
-			"Reduces damage taken from Wind property attacks by an additional 15%.",
-			"If upgrade level is +8 or higher,",
-			"If the users base Str is 90 or higher,",
-			"Atk + 50",
-			"If the users base Agi is 90 or higher,",
-			"Aspd + 5%",
-			"If the users base Vit is 90 or higher,",
-			"Increases the recovery rate of recovery items by 10%.",
-			"If the users base Int is 90 or higher,",
-			"Matk + 30",
-			"If the users base Dex is 90 or higher,",
-			"Reduces the variable casting time of skills by 5%.",
-			"If the users base Luk is 90 or higher,",
-			"Increases critical damage on targets by 5%."
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -226509,79 +225408,6 @@ tbl = {
 			"For every 3 upgrade levels of the item,",
 			"Atk + 30",
 			"Matk + 30"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[28951] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Nero Shield",
-		identifiedResourceName = "Nero_Shield",
-		identifiedDescriptionName = {
-			"A shield that harnesses the power of water.",
-			"^FF0000This item is indestructible in battle.^000000",
-			"Class: ^808080Shield^000000",
-			"Defense: ^80808080^000000",
-			"Weight: ^80808050^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 5",
-			"Increases physical and magical damage on Water property targets by 5%.",
-			"Reduces damage taken from Water property attacks by 10%.",
-			" ",
-			"If upgrade level is +6 or higher,",
-			"Increases physical and magical damage on Water property targets by an additional 10%.",
-			"Reduces damage taken from Water property attacks by an additional 15%.",
-			" ",
-			"If upgrade level is +8 or higher,",
-			"Atk + 50, if the users base Str is 90 or higher.",
-			"Aspd + 5%, if the users base Agi is 90 or higher.",
-			"Matk + 30, if the users base Int is 90 or higher.",
-			"Increases the recovery rate of recovery items by 10%, if the users base Vit is 90 or higher.",
-			"Reduces the variable casting time of skills by 5%, if the users base Dex is 90 or higher.",
-			"Increases critical damage on targets by 5%, if the users base Luk is 90 or higher."
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[28955] = {
-		unidentifiedDisplayName = "Shield",
-		unidentifiedResourceName = "°Ўµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Fotia Shield",
-		identifiedResourceName = "Fotia_Shield",
-		identifiedDescriptionName = {
-			"A shield with the power of fire. There are various effects depending on the user's stats.",
-			"Class: ^808080Shield^000000",
-			"Defense: ^808080120^000000",
-			"Weight: ^808080100^000000",
-			"Requires Level: ^80808090^000000",
-			"Usable By: ^808080All Jobs^000000",
-			"Mdef + 10",
-			"This item is indestructible in battle.",
-			"Reduces damage taken from Fire property attacks by 10%.",
-			"Increases physical and magical damage on Fire property targets by 5%.",
-			" ",
-			"If ^008080Fotia Shield[1]^000000 upgrade level is +6 or higher,",
-			"Reduces damage taken from Fire property attacks by an additional 15%.",
-			"Increases physical and magical damage on Fire property targets by an additional 10%.",
-			" ",
-			"If upgrade level is +8 or higher,",
-			"If the user's base Str is 90 or higher, Atk + 50.",
-			"If the user's base Agi is 90 or higher, Aspd + 5%.",
-			"If the user's base Vit is 90 or higher, increases the recovery rate of recovery skills and recovery items by 10%.",
-			"If the user's base Int is 90 or higher, Matk + 30.",
-			"If the user's base Dex is 90 or higher, reduces the variable casting time of skills by 5%.",
-			"If the user's base Luk is 90 or higher, increases critical damage on targets by 5%.",
-			" "
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -233805,28 +232631,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1420,
-		costume = true
-	},
-	[31609] = {
-		unidentifiedDisplayName = "Accessory",
-		unidentifiedResourceName = "Mask",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Costume Aristocrat's Mask",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"People say this silver mask belonged to a mysterious noble man.",
-			"^777777-------------^000000",
-			"Class: ^777777Costume^000000",
-			"Defense: ^7777770^000000",
-			"Location: ^777777Middle ^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 1409,
 		costume = true
 	},
 	[31610] = {
@@ -267234,180 +266038,6 @@ tbl = {
 		ClassNum = 1247,
 		costume = true
 	},
-	[20836] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Skin of Lindwyrm",
-		identifiedResourceName = "???????",
-		identifiedDescriptionName = {
-			"The skin of a dragon whose scales were as strong as steel,",
-			"but light as a feather.",
-			" ",
-			"MDEF +10.",
-			"AGI +5, VIT +5.",
-			"Fire and Water property resistance +5%.",
-			"Resistance against Dragon and Demi-Human monsters +5%.",
-			" ",
-			"[If refined to +7 or higher]",
-			"Enables Invisibility (LV 1)",
-			" ",
-			"[If refined to +8 or higher]",
-			"For every 20 points of the total value of VIT and AGI,",
-			"Max HP +1%, Variable Cast Time of all skills -2%.",
-			" ",
-			"[If refined to +9 or higher]",
-			"Enables Cloaking (LV 1)",
-			" ",
-			"Jobs: ^777777Garment^000000",
-			"Defense: ^77777715^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[20837] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Skin of Gwiber",
-		identifiedResourceName = "??????",
-		identifiedDescriptionName = {
-			"The skin of a legendary white dragon, slain by\r\nheroes in ancient times.",
-			" ",
-			"MDEF +10.",
-			"INT +5, DEX +5.",
-			"Damage taken from Undead and Demon\r\nmonsters -5%.",
-			"Resistance to Shadow and Undead property\r\nattacks +5%",
-			" ",
-			"[If refined to +9 or higher]",
-			"Restores 10 SP to the user when a monster is\r\nkilled by a physical attack.",
-			" ",
-			"[If refined to +10 or higher]",
-			"For every 20 points of the total value of DEX and\r\nINT,",
-			"ATK +5, cooldown of all skills -1%.",
-			" ",
-			"[If refined to +11 or higher]",
-			"Additionally restores +10 SP to the user when a monster is killed by a physical attack.",
-			" ",
-			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[20845] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Skin of Marraco",
-		identifiedResourceName = "Skin_Of_Marraco",
-		identifiedDescriptionName = {
-			"The skin of an ancient dragon with a huge mouth.They say that a whole cow could fit inside it!",
-			" ",
-			"MDEF +10.",
-			"STR +5, LUK +5.",
-			"Damage taken from Angel and Formless\r\nmonsters -5%.",
-			"Protection from Holy and Ghost property +5%.",
-			" ",
-			"If refined to +9 or higher, Critical Damage +5%.",
-			" ",
-			"If refined to +10 or higher, for every 20 points of\r\nthe total value of STR and LUK",
-			"Critical Rate +1, ASPD Increase (delay after attack -1%).",
-			" ",
-			"If refined to +11 or higher, Critical Damage +5%\r\nadditionally.",
-			" ",
-			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[20949] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Skin of Ladon",
-		identifiedResourceName = "Skin_Of_Ladon",
-		identifiedDescriptionName = {
-			"The skin of a legendary hundred-headed dragon\r\nthat guarded the apple tree of Hesperides.",
-			" ",
-			"MDEF +10.",
-			"AGI +5, VIT +5.",
-			"Reduces damage taken from Demi-Human and Brute monsters by 5%.",
-			"Damage taken from Human and Doram characters -5%.",
-			"Protection from Wind and Earth property +5%.",
-			" ",
-			"^264696[If refined to +9 or higher]^000000 ",
-			"Restores 10 SP to the user when a monster is\r\nkilled by a physical attack.",
-			" ",
-			"^264696[If refined to +10 or higher]^000000 ",
-			"For every 20 points of the total value of base VIT and AGI: ATK +15, HIT +5. ",
-			" ",
-			"^264696[If refined to +11 or higher]^000000 ",
-			"Additionally restores +10 SP to the user when a monster is killed by a physical attack.",
-			" ",
-			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
-	[20962] = {
-		unidentifiedDisplayName = "Garment",
-		unidentifiedResourceName = "Manteau",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Skin of Typhon",
-		identifiedResourceName = "Skin_Of_Typhon",
-		identifiedDescriptionName = {
-			"The skin of a legendary dragon that gave birth to\r\ncountless monsters.",
-			" ",
-			"MDEF +10.",
-			"AGI +5, VIT +5.",
-			"Damage taken from Demi-Human and Fish\r\nmonsters -5%.",
-			"Damage taken from Human players -5%.",
-			"Protection from Neutral and Poison property +5%.",
-			" ",
-			"^264696[If refined to +9 or higher]^000000",
-			"Restores 10 SP to the user when a monster is\r\nkilled by a magic attack.",
-			" ",
-			"^264696[If refined to +10 or higher]^000000",
-			"For every 20 points of the total value of base VIT and AGI: MATK +15, DEF +20.",
-			" ",
-			"^264696[If refined to +11 or higher]^000000",
-			"Additionally restores 10 SP to the user when a\r\nmonster is killed by a magic attack.",
-			" ",
-			"Jobs: ^777777Garment^000000\r\nDefense: ^77777715^000000",
-			"Weight: ^77777760^000000",
-			"Required Level: ^777777100^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 1,
-		ClassNum = 0,
-		costume = false
-	},
 	[103530] = {
 		unidentifiedDisplayName = "Dragon God Treasure",
 		unidentifiedResourceName = "????",
@@ -267500,36 +266130,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 281,
 		costume = true
-	},
-	[15204] = {
-		unidentifiedDisplayName = "Clothes",
-		unidentifiedResourceName = "????",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Abyss Dress",
-		identifiedResourceName = "Abyss_Dress",
-		identifiedDescriptionName = {
-			"The fabric of this dress seems to absorb light completely. It seems to be woven from primordial darkness.",
-			"Cannot be destroyed.",
-			"Gives armor the Shadow property.",
-			"Prevents the user from being knocked back.",
-			"[If refined to +8 or higher] ",
-			"Physical/Magic damage inflicted on Shadow and Undead property monsters +15% additionally.",
-			"Physical/Magic damage inflicted on Demon and Undead race monsters +15% additionally.",
-			"[If refined to +11 or higher] ",
-			"Physical/Magic damage inflicted on Shadow and Undead property monsters +15% additionally.",
-			"Physical/Magic damage inflicted on Demon and Undead race monsters +15% additionally.",
-			" ",
-			"Jobs: ^777777Armor^000000",
-			"Defense: ^777777120^000000",
-			"Weight: ^77777740^000000",
-			"Required Level: ^77777790^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
 	},
 	[31371] = {
 		unidentifiedDisplayName = "Hat",
@@ -280035,30 +278635,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2610,
-		costume = true
-	},
-	[56783] = {
-		unidentifiedDisplayName = "Aura",
-		unidentifiedResourceName = "ИДµе",
-		unidentifiedDescriptionName = {
-			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
-		},
-		identifiedDisplayName = "Streamer's Aura",
-		identifiedResourceName = "C_Streamer_Aura",
-		identifiedDescriptionName = {
-			"^ff0000Account Bound.^000000",
-			"Camera flashes capture every moment of the battle. Only official content creators shine like that!",
-			"^ff0000Animated^000000",
-			"^777777-------------^000000",
-			"Class: ^777777Costume^000000",
-			"Location: ^777777Lower^000000",
-			"Defense: ^7777770^000000",
-			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
-			"Jobs: ^777777All^000000"
-		},
-		slotCount = 0,
-		ClassNum = 2613,
 		costume = true
 	},
 	[19172] = {
@@ -295920,6 +294496,51 @@ tbl = {
 		ClassNum = 1118,
 		costume = true
 	},
+	[20614] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Costume Shadow of Kiel",
+		identifiedResourceName = "C_Kyel_hyre_Ulti_TW",
+		identifiedDescriptionName = {
+			"^ff0000Animated^000000",
+			"A monstrous intelligent weapon created by Kiel Hyre.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 102,
+		costume = true
+	},
+	[31609] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Mask",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Costume Aristocrat's Mask",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"People say this silver mask belonged to a mysterious noble man.",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Middle ^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1409,
+		costume = true
+	},
 	[480070] = {
 		unidentifiedDisplayName = "Garment",
 		unidentifiedResourceName = "??",
@@ -297090,6 +295711,30 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
+	},
+	[56783] = {
+		unidentifiedDisplayName = "Aura",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Streamer's Aura",
+		identifiedResourceName = "C_Streamer_Aura",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Camera flashes capture every moment of the battle. Only official content creators shine like that!",
+			"^ff0000Animated^000000",
+			"^777777-------------^000000",
+			"Class: ^777777Costume^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2613,
+		costume = true
 	},
 	[5975] = {
 		unidentifiedDisplayName = "Headgear",
@@ -298681,6 +297326,29 @@ tbl = {
 		ClassNum = 71,
 		costume = true
 	},
+	[19992] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Costume Chilly Breath",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Everything around is covered in snow, blizzards are swirling... It's so cold! Clouds of frosty steam fly out of your mouth with every breath.",
+			"^777777-------------^000000",
+			"INT +5.",
+			"After a successful ATK with a 10% chance casts Freezing on enemy.",
+			"^777777-------------^000000",
+			"Class: ^777777 Costume^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^7777771^000000",
+			"Required Level: ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 885,
+		costume = true
+	},
 	[32296] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
@@ -299955,6 +298623,38 @@ tbl = {
 		ClassNum = 1745,
 		costume = false
 	},
+	[18937] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Pendant of Heartfelt Feelings",
+		identifiedResourceName = "Pendant of Heartfelt Feelings",
+		identifiedDescriptionName = {
+			"A gift that was given to a cyborg girl by her owner. When he died, she cried for days mourning their lost love.",
+			"The pendant is full of happy loving memories.",
+			"^777777-------------^000000",
+			"MDEF +7, Max HP +2%.",
+			"^264696[If equipped with any Vesper Core:]^000000",
+			"All Stats +5",
+			"Atk + 20",
+			"Matk + 20",
+			"Hit + 20",
+			"Flee + 20",
+			"Crit + 20",
+			"Def + 20",
+			"Mdef + 20",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Middle ^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^7777771^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1072,
+		costume = false
+	},
 	[31970] = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "??",
@@ -300127,6 +298827,2588 @@ tbl = {
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23385] = {
+		unidentifiedDisplayName = "Premium (14 d.)",
+		unidentifiedResourceName = "ЗПЖ®»уАЪ",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Gives the Premium buff for all characters on the account.",
+			"Duration: 14 days.",
+			"Effect:",
+			"^0000ff- Exp +50%",
+			"- Item drop rate +30%",
+			"- Death penalty Exp loss -2%%",
+			"- Storage slots +300^000000",
+			"Allows to use <ITEM>Premium Wand<INFO>23165</INFO></ITEM>",
+			"Merchant Classes with the[Push Cart] skill learned have the opportunity to learn the ^0000ff[Cart Decoration]^000000 skill from Cart Tuner Gaijo in Prontera (164 196).",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Premium (14 d.)",
+		identifiedResourceName = "ЗПЖ®»уАЪ",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Gives the Premium buff for all characters on the account.",
+			"Duration: 14 days.",
+			"Effect:",
+			"^0000ff- Exp +50%",
+			"- Item drop rate +30%",
+			"- Death penalty Exp loss -2%%",
+			"- Storage slots +300^000000",
+			"Allows to use <ITEM>Premium Wand<INFO>23165</INFO></ITEM>",
+			"Merchant Classes with the ^0000ff[Push Cart]^000000 skill learned have the opportunity to learn the ^0000ff[Cart Decoration]^000000 skill from Cart Tuner Gaijo in Prontera (164 196).",
+			"^777777-------------^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23386] = {
+		unidentifiedDisplayName = "Premium Box (14 d.)",
+		unidentifiedResourceName = "їА·ЎµИєё¶у»уАЪ",
+		unidentifiedDescriptionName = {
+			"Contains 1 Premium (14 d.).",
+			"[Premium]",
+			"Gives the Premium buff for all characters on the account.",
+			"Duration: 14 days.",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Premium Box (14 d.)",
+		identifiedResourceName = "їА·ЎµИєё¶у»уАЪ",
+		identifiedDescriptionName = {
+			"Contains:",
+			"^4A94F7-^000000 <ITEM>Premium (14 d.).<INFO>23385</INFO></ITEM> ",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[15352] = {
+		unidentifiedDisplayName = "Clothes",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Nature Dress",
+		identifiedResourceName = "Nature_Dress",
+		identifiedDescriptionName = {
+			"A dress empowered with nature's essence. Wearing this will prove that you are a member of Nature's Children.",
+			"-------------",
+			"This item is indestructible in battle.",
+			"Prevents the user from being knocked back.",
+			" ",
+			"^264696[If refined to +5 or higher]^000000 ",
+			"Increases physical and magical damage on Wind and Earth property targets by 10%.",
+			"Increases physical and magical damage on Brute and Demi-Human race targets by 10%.",
+			"Increases physical and magical damage on Player and Doram race targets by 10%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Increases physical and magical damage on Wind and Earth property targets by an additional 15%.",
+			"Increases physical and magical damage on Brute and Demi-Human race targets by an additional 15%.",
+			"Increases physical and magical damage on Player and Doram race targets by an additional 15%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Increases physical and magical damage on Wind and Earth property targets by an additional 15%.",
+			"Increases physical and magical damage on Brute and Demi-Human race targets by an additional 15%.",
+			"Increases physical and magical damage on Player and Doram race targets by an additional 15%.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^808080120^000000",
+			"Property: ^808080Earth^000000",
+			"Weight: ^80808040^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[15204] = {
+		unidentifiedDisplayName = "Clothes",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Abyss Dress",
+		identifiedResourceName = "Abyss_Dress",
+		identifiedDescriptionName = {
+			"A dress that looks to absorb all the light in the world.",
+			"-------------",
+			"This item is indestructible in battle.",
+			"Prevents the user from being knocked back.",
+			" ",
+			"^264696[If refined to +5 or higher]^000000 ",
+			"Increases physical and magical damage on Shadow and Undead property targets by 10%.",
+			"Increases physical and magical damage on Demon and Undead race targets by 10%.",
+			"Increases physical and magical damage on Doram and Human race targets by 10%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Increases physical and magical damage on Shadow and Undead property targets by an additional 15%.",
+			"Increases physical and magical damage on Demon and Undead race targets by an additional 15%.",
+			"Increases physical and magical damage on Doram and Human race targets by additional 15%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Increases physical and magical damage on Shadow and Undead property targets by an additional 15%.",
+			"Increases physical and magical damage on Demon and Undead race targets by an additional 15%.",
+			"Increases physical and magical damage on Doram and Human race targets by additional 15%.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^808080120^000000",
+			"Property: ^808080Shadow^000000",
+			"Weight: ^80808040^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[15420] = {
+		unidentifiedDisplayName = "Clothes",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Icefall Dress",
+		identifiedResourceName = "Icefall_Dress",
+		identifiedDescriptionName = {
+			"A blue dress made from icy rivers. It is said it contains powers to create ice that cannot be melted for eternity.",
+			"-------------",
+			"This item is indestructible in battle.",
+			"Prevents the user from being knocked back.",
+			" ",
+			"^264696[If refined to +5 or higher]^000000 ",
+			"Increases physical and magical damage on Formless and Demi-Human race targets by 10%.",
+			"Increases physical and magical damage on Doram Player and Human Player race targets by 10%.",
+			"Increases physical and magical damage on Fire and Water property targets by 10%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Increases physical and magical damage on Formless and Demi-Human race targets by an additional 15%.",
+			"Increases physical and magical damage on Doram Player and Human Player race targets by an additional 15%.",
+			"Increases physical and magical damage on Fire and Water property targets by an additional 15%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Increases physical and magical damage on Formless and Demi-Human race targets by an additional 15%.",
+			"Increases physical and magical damage on Doram Player and Human Player race targets by an additional 15%.",
+			"Increases physical and magical damage on Fire and Water property targets by an additional 15%.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^808080120^000000",
+			"Property: ^808080Water^000000",
+			"Weight: ^80808040^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[450143] = {
+		unidentifiedDisplayName = "Clothes",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Samael Dress",
+		identifiedResourceName = "Samael_Dress",
+		identifiedDescriptionName = {
+			"This item is indestructible in battle.",
+			"Prevents the user from being knocked back.",
+			" ",
+			"^264696[If refined to +5 or higher]^000000 ",
+			"Increases physical and magical damage on Holy and Poison property targets by 10%.",
+			"Increases physical and magical damage on Insect and Plant race targets by 10%.",
+			"Increases physical and magical damage on Doram Player and Human Player race targets by 10%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Increases physical and magical damage on Holy and Poison property targets by an additional 15%.",
+			"Increases physical and magical damage on Insect and Plant race targets by an additional 15%.",
+			"Increases physical and magical damage on Doram Player and Human Player race targets by an additional 15%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Increases physical and magical damage on Holy and Poison property targets by an additional 15%.",
+			"Increases physical and magical damage on Insect and Plant race targets by an additional 15%.",
+			"Increases physical and magical damage on Doram Player and Human Player race targets by an additional 15%.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^808080120^000000",
+			"Property: ^808080Holy^000000",
+			"Weight: ^80808040^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[420068] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "ё¶ЅєЕ©",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lord of Royals",
+		identifiedResourceName = "lord_of_royals",
+		identifiedDescriptionName = {
+			"Replica of the insignia used by the king who commanded the Royal Guard in the old days.",
+			"-------------",
+			"^264696[For every 50 of total base STR and INT]^000000",
+			"Increase physical and magical damage to all size enemies by 4%.",
+			"-------------",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2128,
+		costume = false
+	},
+	[19499] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "ё¶ЅєЕ©",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Fortunetelling Sealed",
+		identifiedResourceName = "FortunetellinSealed",
+		identifiedDescriptionName = {
+			"A muffler with Yawata seal on it.",
+			"-------------",
+			"^264696[For every 50 of total base INT and DEX]^000000",
+			"ASPD + 2%,",
+			"increase magical damage to all size enemies + 4%.",
+			"-------------",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1901,
+		costume = false
+	},
+	[420028] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "ё¶ЅєЕ©",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Imperial Glory",
+		identifiedResourceName = "Imperial_Glory",
+		identifiedDescriptionName = {
+			"The replica worn by the legendary guard.",
+			"-------------",
+			"^264696[For every 50 of total base AGI and VIT]^000000",
+			"DEF + 4, MDEF +4, reduce cast delay by 3%.",
+			"-------------",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2056,
+		costume = true
+	},
+	[420006] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "ё¶ЅєЕ©",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Vassalage Necklace",
+		identifiedResourceName = "Vassalage_Necklace",
+		identifiedDescriptionName = {
+			"A necklace with strong bond.",
+			"-------------",
+			"^264696[For every 50 of total base STR and LUK]^000000",
+			"Increases accuracy by 5%,",
+			"Increase physical damage to all size monsters by 4%.",
+			"-------------",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2056,
+		costume = true
+	},
+	[28921] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Anemos Shield",
+		identifiedResourceName = "Anemos_Shield",
+		identifiedDescriptionName = {
+			"^808080A shield that contains the power of the wind.^000000",
+			"-------------",
+			"^FF0000This item is indestructible in battle.^000000",
+			"MDEF +15",
+			"Increases physical and magical damage on Wind property targets by 5%.",
+			"Reduces damage taken from Wind property attacks by 10%.",
+			" ",
+			"^264696[If refined to +6 or higher]^000000 ",
+			"Increases physical and magical damage on Wind property targets by an additional 10%.",
+			"Reduces damage taken from Wind property attacks by an additional 15%.",
+			" ",
+			"^264696[If refined to +8 or higher and base stats is 90 or higher]^000000 ",
+			"STR: Atk + 50.",
+			"AGI: Aspd + 5%.",
+			"VIT: recovery rate of skills and items by 10%.",
+			"INT: Matk + 30.",
+			"DEX: reduces the variable casting time of skills by 5%.",
+			"LUK: increases critical damage by 5%.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^808080150^000000",
+			"Weight: ^808080100^000000",
+			"Required Level: ^80808090^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[28916] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Gaia Shield",
+		identifiedResourceName = "°ЎАМѕЖЅЇµе",
+		identifiedDescriptionName = {
+			"^808080A shield that contains the power of the earth.^000000",
+			"-------------",
+			"^FF0000This item is indestructible in battle.^000000",
+			"MDEF +15",
+			"Increases physical and magical damage on Earth property targets by 5%.",
+			"Reduces damage taken from Earth property attacks by 10%.",
+			" ",
+			"^264696[If refined to +6 or higher]^000000 ",
+			"Increases physical and magical damage on Earth property targets by an additional 10%.",
+			"Reduces damage taken from Earth property attacks by an additional 15%.",
+			" ",
+			"^264696[If refined to +8 or higher and base stats is 90 or higher]^000000 ",
+			"STR: Atk + 50.",
+			"AGI: Aspd + 5%.",
+			"VIT: recovery rate of skills and items by 10%.",
+			"INT: Matk + 30.",
+			"DEX: reduces the variable casting time of skills by 5%.",
+			"LUK: increases critical damage by 5%.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^808080150^000000",
+			"Weight: ^808080100^000000",
+			"Required Level: ^80808090^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[28955] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Fotia Shield",
+		identifiedResourceName = "Fotia_Shield",
+		identifiedDescriptionName = {
+			"^808080A shield that contains the power of the fire.^000000",
+			"-------------",
+			"^FF0000This item is indestructible in battle.^000000",
+			"MDEF +15",
+			"Increases physical and magical damage on Fire property targets by 5%.",
+			"Reduces damage taken from Fire property attacks by 10%.",
+			" ",
+			"^264696[If refined to +6 or higher]^000000 ",
+			"Increases physical and magical damage on Fire property targets by an additional 10%.",
+			"Reduces damage taken from Fire property attacks by an additional 15%.",
+			" ",
+			"^264696[If refined to +8 or higher and base stats is 90 or higher]^000000 ",
+			"STR: Atk + 50.",
+			"AGI: Aspd + 5%.",
+			"VIT: recovery rate of skills and items by 10%.",
+			"INT: Matk + 30.",
+			"DEX: reduces the variable casting time of skills by 5%.",
+			"LUK: increases critical damage by 5%.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^808080150^000000",
+			"Weight: ^808080100^000000",
+			"Required Level: ^80808090^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[28951] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Nero Shield",
+		identifiedResourceName = "Nero_Shield",
+		identifiedDescriptionName = {
+			"^808080A shield that contains the power of the water.^000000",
+			"-------------",
+			"^FF0000This item is indestructible in battle.^000000",
+			"MDEF +15",
+			"Increases physical and magical damage on Water property targets by 5%.",
+			"Reduces damage taken from Water property attacks by 10%.",
+			" ",
+			"If refined to +6 or higher,",
+			"Increases physical and magical damage on Water property targets by an additional 10%.",
+			"Reduces damage taken from Water property attacks by an additional 15%.",
+			" ",
+			"[If refine level is +8 or higher and base stats is 90 or higher]^000000 ",
+			"STR: Atk + 50.",
+			"AGI: Aspd + 5%.",
+			"VIT: recovery rate of skills and items by 10%.",
+			"INT: Matk + 30.",
+			"DEX: reduces the variable casting time of skills by 5%.",
+			"LUK: increases critical damage by 5%.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^808080150^000000",
+			"Weight: ^808080100^000000",
+			"Required Level: ^80808090^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[20837] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Skin of Gwiber",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"The skin of a legendary white dragon, slain by",
+			"heroes in ancient times.",
+			"-------------",
+			"MDEF +10.",
+			"INT +5, DEX +5.",
+			"Damage taken from Undead and Demon monsters -5%.",
+			"Resistance to Shadow and Undead property attacks +5%",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Restores 10 SP to the user when a monster is killed by a physical attack.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"For every 20 of total base DEX and INT: ATK +5, After Cast Delay -1%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000 ",
+			"Additionally restores +10 SP to the user when a monster is killed by a physical attack.",
+			"-------------",
+			"Class: ^777777Garment^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20949] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Skin of Ladon",
+		identifiedResourceName = "Skin_Of_Ladon",
+		identifiedDescriptionName = {
+			"The skin of a legendary hundred-headed dragon\r\nthat guarded the apple tree of Hesperides.",
+			"-------------",
+			"MDEF +10.",
+			"AGI +5, VIT +5.",
+			"Reduces damage taken from Demi-Human and Brute monsters by 5%.",
+			"Reduces damage taken from Human and Doram players by 5%.",
+			"Resistance to Wind and Earth property attacks +5%",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Restores 10 SP to the user when a monster is killed by a physical attack.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"For every 20 of total base VIT and AGI: ATK +15, HIT +5.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000 ",
+			"Additionally restores +10 SP to the user when a monster is killed by a physical attack.",
+			"-------------",
+			"Jobs: ^777777Garment^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20845] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Skin of Marraco",
+		identifiedResourceName = "Skin_Of_Marraco",
+		identifiedDescriptionName = {
+			"The skin of an ancient dragon with a huge mouth.They say that a whole cow could fit inside it!",
+			"-------------",
+			"MDEF +10.",
+			"STR +5, LUK +5.",
+			"Damage taken from Angel and Formless monsters -5%.",
+			"Resistance to Holy and Ghost property attacks +5%",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Critical Damage +5%.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000",
+			"For every 20 of total base STR and LUK: Critical Rate +1%, ASPD +1%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Critical Damage +5% additionally.",
+			"-------------",
+			"Jobs: ^777777Garment^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20962] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "Manteau",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Skin of Typhon",
+		identifiedResourceName = "Skin_Of_Typhon",
+		identifiedDescriptionName = {
+			"The skin of a legendary dragon that gave birth to\r\ncountless monsters.",
+			"-------------",
+			"MDEF +10.",
+			"AGI +5, VIT +5.",
+			"Damage taken from Demi-Human and Fish monsters -5%.",
+			"Damage taken from Human players -5%.",
+			"Resistance to Neutral and Poison property attacks +5%",
+			" ",
+			"^264696[If refined to +9 or higher]^000000",
+			"Restores 10 SP to the user when a monster is killed by a magic attack.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000",
+			"For every 20 of total base VIT and AGI: MATK +15, DEF +20.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000",
+			"Additionally restores 10 SP to the user when a monster is killed by a magic attack.",
+			"-------------",
+			"Jobs: ^777777Garment^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20836] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Skin of Lindwyrm",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"The skin of a dragon whose scales were as strong as steel,",
+			"but light as a feather.",
+			"-------------",
+			"MDEF +10.",
+			"AGI +5, VIT +5.",
+			"Damage taken from Dragon and Demi-Human monsters -5%.",
+			"Damage taken from Human players -5%.",
+			"Resistance to Fire and Water property attacks +5%",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Allows the use of [Hiding] (Lv. 1)",
+			" ",
+			"^264696[If refined to +8 or higher]^000000 ",
+			"For every 20 of total base VIT and AGI: Max HP +1%, Variable Cast Time of all skills -2%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Allows the use of [Cloaking] (Lv. 1)",
+			"-------------",
+			"Jobs: ^777777Garment^000000",
+			"Defense: ^77777715^000000",
+			"Weight: ^77777760^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15135] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Dragon Cloth",
+		identifiedResourceName = "µе·Ў°пЕ¬·ОЅє",
+		identifiedDescriptionName = {
+			"^808080Ritualistic clothing that appears to repel dragons.^000000",
+			"-------------",
+			"MDEF +5",
+			"Reduces damage taken from Dragon race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Additional MDEF +1",
+			"Reduces damage taken from Dragon race enemies by an additional 1%.",
+			" ",
+			"^264696[if base level is 100 or higher]^000000",
+			"For every refine: ATK and MATK +10.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^80808030^000000",
+			"Property: ^777777Neutral^000000",
+			"Weight: ^808080120^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15139] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Shepherd Clothes",
+		identifiedResourceName = "Ѕ¦ЖЫµеЕ¬·ОЅє",
+		identifiedDescriptionName = {
+			"^808080Ritualistic clothing that appears to repel animals.^000000",
+			"-------------",
+			"MDEF +5",
+			"Reduces damage taken from Brute race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Additional MDEF +1",
+			"Reduces damage taken from Brute race enemies by an additional 1%.",
+			" ",
+			"^264696[if base level is 100 or higher]^000000",
+			"For every refine: ATK and MATK +10.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^80808030^000000",
+			"Property: ^777777Neutral^000000",
+			"Weight: ^808080120^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15140] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Natural Clothes",
+		identifiedResourceName = "і»Гт·ІЕ¬·ОЅє",
+		identifiedDescriptionName = {
+			"^808080Ritualistic clothing that appears to repel formless monsters.^000000",
+			"-------------",
+			"MDEF +5",
+			"Reduces damage taken from Formless race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Additional MDEF +1",
+			"Reduces damage taken from Formless race enemies by an additional 1%.",
+			" ",
+			"^264696[if base level is 100 or higher]^000000",
+			"For every refine: ATK and MATK +10.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^80808030^000000",
+			"Property: ^777777Neutral^000000",
+			"Weight: ^808080120^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15142] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Orca Clothes",
+		identifiedResourceName = "їАёЈД«Е¬·ОЅє",
+		identifiedDescriptionName = {
+			"^808080Ritualistic clothing that appears to repel sea creatures.^000000",
+			"-------------",
+			"MDEF +5",
+			"Reduces damage taken from Fish race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Additional MDEF +1",
+			"Reduces damage taken from Fish race enemies by an additional 1%.",
+			" ",
+			"^264696[if base level is 100 or higher]^000000",
+			"For every refine: ATK and MATK +10.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^80808030^000000",
+			"Property: ^777777Neutral^000000",
+			"Weight: ^808080120^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15143] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Vermin Cloth",
+		identifiedResourceName = "№ц№ОЕ¬·ОЅє",
+		identifiedDescriptionName = {
+			"^808080Ritualistic clothing that appears to repel plant type monsters.^000000",
+			"-------------",
+			"MDEF +5",
+			"Reduces damage taken from Plant race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Additional MDEF +1",
+			"Reduces damage taken from Plant race enemies by an additional 1%.",
+			" ",
+			"^264696[if base level is 100 or higher]^000000",
+			"For every refine: ATK and MATK +10.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^80808030^000000",
+			"Property: ^777777Neutral^000000",
+			"Weight: ^808080120^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[15144] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ДЪЖ°јЕГч",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Agriculture Clothes",
+		identifiedResourceName = "ѕо±Чё®ДГЕ¬·ОЅє",
+		identifiedDescriptionName = {
+			"^808080Ritualistic clothing that appears to repel insects.^000000",
+			"-------------",
+			"MDEF +5",
+			"Reduces damage taken from Insect race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Additional MDEF +1",
+			"Reduces damage taken from Insect race enemies by an additional 1%.",
+			" ",
+			"^264696[if base level is 100 or higher]^000000",
+			"For every refine: ATK and MATK +10.",
+			"-------------",
+			"Class: ^808080Armor^000000",
+			"Defense: ^80808030^000000",
+			"Property: ^777777Neutral^000000",
+			"Weight: ^808080120^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22090] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Assassin Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made his living as an assassin. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Demi-Human race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Demi-Human race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22091] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Fisherman Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"Shoes that men wear to keep a living by fishing. The old experience comes out of the shoes. Even foot odor and fish smell ... ?",
+			"-------------",
+			"Increases the experience given from Fish race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Fish race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22092] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Bug Catcher Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who makes a living collecting insects. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Insect race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Insect race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22093] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Exorcism Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made a living out of performing exorcisms. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Demon race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Demon race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22094] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Gardener Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made a living out of taking care of gardens. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Plant race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Plant race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22095] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Gravekeeper Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made a living out of taking care of cemetery's. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Undead race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Undead race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22096] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Fallen Angel Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"Shoes worn by the Seraphs themselves. Their eons of experience can be felt within them.",
+			"-------------",
+			"Increases the experience given from Angel race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Angel race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22097] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Dragon Trainer Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made a living out of raising dragons. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Dragon race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Dragon race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22098] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Hunter Shoes",
+		identifiedResourceName = "ЅґБо",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made a living by hunting animals. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Brute race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Brute race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[22099] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Mechanic Shoes",
+		identifiedResourceName = "Shoes",
+		identifiedDescriptionName = {
+			"These shoes were worn by a man who made a living out of engineering. They hold the man's many years of experience.",
+			"-------------",
+			"Increases the experience given from Formless race monsters by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Increases the experience given from Formless race monsters by an additional 1%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808010^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^80808030^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20922] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Leviathan Muffler",
+		identifiedResourceName = "Leviathan_muffler",
+		identifiedDescriptionName = {
+			"Muffler made with the scales of the strongest sea monsters.",
+			"-------------",
+			"MDEF +5",
+			"Increases physical and magical damage on Water property targets by 15%.",
+			"Reduces damage taken from Human Player and Doram race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Aspd + 1%",
+			"Increases physical and magical damage on Water property targets by an additional 1%.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"Reduces damage taken from Water property attacks by 100%.",
+			" ",
+			"^264696[If used with Toad Card]^000000 ",
+			"Max HP +30%, MaxSP +10%.",
+			"Reduces damage taken from Neutral property attacks by 30%.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808018^000000",
+			"Weight: ^80808020^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480053] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Behemoth Muffler",
+		identifiedResourceName = "behemoth_muffler",
+		identifiedDescriptionName = {
+			"A cloak made from the skin of a perfect beast, known as a masterpiece of the gods.",
+			"-------------",
+			"MDEF +5",
+			"Increases physical and magical damage on Earth property targets by 15%.",
+			"Reduces damage taken from Human Player and Doram race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Aspd + 1%",
+			"Increases physical and magical damage on Earth property targets by an additional 1%.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"Reduces damage taken from Earth property attacks by 100%.",
+			" ",
+			"^264696[If used with Vocal Card]^000000 ",
+			"Def +300, MDEF +30.",
+			"Reduces damage taken from Neutral property attacks by 30%.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808018^000000",
+			"Weight: ^80808020^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20941] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Phoenix Muffler",
+		identifiedResourceName = "Phoenix_Muffler",
+		identifiedDescriptionName = {
+			"A magnificent muffler modeled after the wings of a phoenix. The way it wraps around you is beautiful and terrifying.",
+			"-------------",
+			"MDEF +5",
+			"Increases physical and magical damage on Fire property targets by 15%.",
+			"Reduces damage taken from Human Player and Doram race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Aspd + 1%",
+			"Increases physical and magical damage on Fire property targets by an additional 1%.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"Reduces damage taken from Fire property attacks by 100%.",
+			" ",
+			"^264696[If used with Mastering Card]^000000 ",
+			"ATK and MATK + 100",
+			"ATK and MATK + 10%",
+			"Reduces damage taken from Neutral property attacks by 30%.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808018^000000",
+			"Weight: ^80808020^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[56828] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sylph Muffler",
+		identifiedResourceName = "Sylph_Manteau",
+		identifiedDescriptionName = {
+			"A garment made from the feathers of a legendary flying creature.",
+			"-------------",
+			"MDEF +5",
+			"Increases physical and magical damage on Wind property targets by 15%.",
+			"Reduces damage taken from Human Player and Doram race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Aspd + 1%",
+			"Increases physical and magical damage on Wind property targets by an additional 1%.",
+			" ",
+			"^264696[If refined to +10 or higher]^000000 ",
+			"Reduces damage taken from Wind property attacks by 100%.",
+			" ",
+			"^264696[If used with Dragonfly Card]^000000 ",
+			"Aspd +5, Flee + 50",
+			"Reduces damage taken from Neutral property attacks by 30%.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808018^000000",
+			"Weight: ^80808020^000000",
+			"Required Level: ^808080100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[460074] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Glacies Aranea",
+		identifiedResourceName = "Glacies_Aranea",
+		identifiedDescriptionName = {
+			"A shield modeled after an ice spider, covered in perpetual frost and able to withstand even absolute zero.",
+			"-------------",
+			"Reduce damage taken from Boss enemies by 40%.",
+			"Reduce damage taken from Human and Doram Player by 35%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP +3%,",
+			"Max SP +3%.",
+			" ",
+			"^264696[If refined to +11 or higher]^000000 ",
+			"increase movement speed.",
+			" ",
+			"^264696[If refined to +14 or higher]^000000 ",
+			"reduce Fixed Casting Time by 70%.",
+			"-------------",
+			"Class: ^777777Shield^000000",
+			"Defense: ^77777760^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1,
+		costume = false
+	},
+	[420093] = {
+		unidentifiedDisplayName = "Lower Headgear",
+		unidentifiedResourceName = "ё®є»",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Einherjar Mantle",
+		identifiedResourceName = "Einherial_Mantle",
+		identifiedDescriptionName = {
+			"A mantle that was distributed to certain special forces.",
+			"It's known to be used for operations in mountainous areas.",
+			"-------------",
+			"Max HP +10%,",
+			"Max SP +10%,",
+			"Recover 50 HP and 10 SP every 10 seconds.",
+			"-------------",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Lower^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2200,
+		costume = false
+	},
+	[2593] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Flow Manteau",
+		identifiedResourceName = "ЗГ·ОїцёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of water.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^004DFFWater^000000 property enemies by 5%.",
+			"Increases damage taken from Brute race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"ATK +5, MATK +5.",
+			" ",
+			"^008080[If used with Flow Shield]^000000",
+			"Physical and magical damage on ^004DFFWater^000000 property targets +2% per upgrade level of ^008080Flow Shield^000000.",
+			"Reduce damage from Brute race enemies by 1% per upgrade level of ^008080Flow Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2163] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Flow Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_јц",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of water.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^004DFFWater^000000 property enemies by 5%.",
+			"Increases damage taken from Brute race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^004DFFWater^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Flow Shoes]^000000",
+			"Reduces damage taken from ^004DFFWater^000000 property enemies by 5%.",
+			"Reduces damage taken from ^004DFFWater^000000 property enemies by an additional 1% per upgrade level of ^008080Flow Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22057] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Flow Shoes",
+		identifiedResourceName = "ЗГ·ОїцЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of water.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^004DFFWater^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"MaxHP +1%.",
+			"MaxSP +1%.",
+			" ",
+			"^008080[If used with Flow Manteau]^000000",
+			"MaxHP +1%, MaxSP +1% per upgrade level of ^008080Flow Manteau^000000.",
+			"Increases physical and magical damage on ^004DFFWater^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[56829] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Apparition Manteau",
+		identifiedResourceName = "Apparition_Manteau",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with immaterial power.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^FF43E0Ghost^000000 property enemies by 5%.",
+			"Increases damage taken from Angel race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Apparition Shield]^000000",
+			"Increases physical and magical damage on ^FF43E0Ghost^000000 property targets by 2% per upgrade level of ^008080Apparition Shield^000000.",
+			"Reduces damage taken from Angel race enemies by 1% per upgrade level of ^008080Apparition Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[56830] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Apparition Shield",
+		identifiedResourceName = "Apparition_Shield",
+		identifiedDescriptionName = {
+			"A magical shield endowed with immaterial power.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^FF43E0Ghost^000000 property enemies by 5%.",
+			"Increases damage taken from Angel race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^FF43E0Ghost^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Apparition Shoes]^000000",
+			"Reduces damage taken from ^FF43E0Ghost^000000 property enemies by 5%.",
+			"Reduces damage taken from ^FF43E0Ghost^000000 property enemies by an additional 1% per upgrade level of ^008080Apparition Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[56831] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Apparition Shoes",
+		identifiedResourceName = "Apparition_Shoes",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with immaterial power.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^FF43E0Ghost^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Apparition Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Apparition Manteau^000000.",
+			"Increases physical and magical damage on ^FF43E0Ghost^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2598] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lamor Manteau",
+		identifiedResourceName = "¶уёрёЈёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of undead.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^7338CBUndead^000000 property enemies by 5%.",
+			"Increases damage taken from Demi-Human race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Lamor Shield]^000000",
+			"Increases physical and magical damage on ^7338CBUndead^000000 property targets by 2% per upgrade level of ^008080Lamor Shield^000000.",
+			"Reduces damage taken from Demi-Human race enemies by 1% per upgrade level of ^008080Lamor Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2158] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lamor Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_ѕрµҐµе",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of undead.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^7338CBUndead^000000 property enemies by 5%.",
+			"Increases damage taken from Demi-Human race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^7338CBUndead^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Lamor Shoes]^000000",
+			"Reduces damage taken from ^7338CBUndead^000000 property enemies by 5%.",
+			"Reduces damage taken from ^7338CBUndead^000000 property enemies by an additional 1% per upgrade level of ^008080Lamor Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22051] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lamor Shoes",
+		identifiedResourceName = "¶уёрёЈЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of undead.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^7338CBUndead^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Lamor Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Lamor Manteau^000000.",
+			"Increases physical and magical damage on ^7338CBUndead^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20753] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lian Robe",
+		identifiedResourceName = "ё®ѕИёБЕд",
+		identifiedDescriptionName = {
+			"A garment with mystical powers.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^777777Neutral^000000 property enemies by 5%.",
+			"Increases damage taken from Formless race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Lian Shield]^000000",
+			"Increases physical and magical damage on ^777777Neutral^000000 property targets by 2% per upgrade level of ^008080Lian Shield^000000.",
+			"Reduces damage taken from Formless race enemies by 1% per upgrade level of ^008080Lian Robe^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2195] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lian Shield",
+		identifiedResourceName = "ё®ѕИЅЇµе",
+		identifiedDescriptionName = {
+			"A shield with mystical powers.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^777777Neutral^000000 property enemies by 5%.",
+			"Increases damage taken from Formless race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^777777Neutral^000000 property attacks by 1%",
+			" ",
+			"^008080[If used with Lian Shoes]^000000",
+			"Reduces damage taken from ^777777Neutral^000000 property enemies by 5%.",
+			"Reduces damage taken from ^777777Neutral^000000 property enemies by an additional 1% per upgrade level of ^008080Lian Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22069] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lian Shoes",
+		identifiedResourceName = "ё®ѕИЅґБо",
+		identifiedDescriptionName = {
+			"A pair of shoes with mystical powers.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^777777Neutral^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Lian Robe]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Lian Robe^000000.",
+			"Increases physical and magical damage on ^777777Neutral^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20705] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lumiere Manteau",
+		identifiedResourceName = "·щ№Мї¤ёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with holy power.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^FFC501Holy^000000 property enemies by 5%.",
+			"Increases damage taken from Dragon race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Lumiere Shield]^000000",
+			"Increases physical and magical damage on ^FFC501Holy^000000 property targets by 2% per upgrade level of ^008080Lumiere Shield^000000.",
+			"Reduces damage taken from Dragon race enemies by 1% per upgrade level of ^008080Lumiere Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2174] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lumiere Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_јє",
+		identifiedDescriptionName = {
+			"A magical shield endowed with holy power.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^FFC501Holy^000000 property enemies by 5%.",
+			"Increases damage taken from Dragon race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^FFC501Holy^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Lumiere Shoes]^000000",
+			"Reduces damage taken from ^FFC501Holy^000000 property enemies by 5%.",
+			"Reduces damage taken from ^FFC501Holy^000000 property enemies by an additional 1% per upgrade level of ^008080Lumiere Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22061] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Lumiere Shoes",
+		identifiedResourceName = "·щ№Мї¤ЅґБо",
+		identifiedDescriptionName = {
+			"A pair of shoes that feel radiant.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^FFC501Holy^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Lumiere Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Lumiere Manteau^000000.",
+			"Increases physical and magical damage on ^FFC501Holy^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20708] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Poison Manteau",
+		identifiedResourceName = "ЖчАМБрёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of poison.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^00bb00Poison^000000 property enemies by 5%.",
+			"Increases damage taken from Plant race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Poison Shield]^000000",
+			"Increases physical and magical damage on ^00bb00Poison^000000 property targets by 2% per upgrade level of ^008080Poison Shield^000000.",
+			"Reduces damage taken from Plant race enemies by 1% per upgrade level of ^008080Poison Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2167] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Poison Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_µ¶",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of poison.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^00bb00Poison^000000 property enemies by 5%.",
+			"Increases damage taken from Plant race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^00bb00Poison^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Poison Shoes]^000000",
+			"Reduces damage taken from ^00bb00Poison^000000 property enemies by 5%.",
+			"Reduces damage taken from ^00bb00Poison^000000 property enemies by an additional 1% per upgrade level of ^008080Poison Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22065] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Poison Shoes",
+		identifiedResourceName = "ЖчАМБрЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of poison.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^00bb00Poison^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Poison Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Poison Manteau^000000.",
+			"Increases physical and magical damage on ^00bb00Poison^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20750] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Rouban Manteau",
+		identifiedResourceName = "·з№ЭёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of wind.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^0095FFWind^000000 property enemies by 5%.",
+			"Increases damage taken from Insect race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Rouban Shield]^000000",
+			"Increases physical and magical damage on ^0095FFWind^000000 property targets by 2% per upgrade level of ^008080Rouban Shield^000000.",
+			"Reduces damage taken from Insect race enemies by 1% per upgrade level of ^008080Rouban Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2194] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Rouban Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_Зі",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of wind.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^0095FFWind^000000 property enemies by 5%.",
+			"Increases damage taken from Insect race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^0095FFWind^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Rouban Shoes]^000000",
+			"Reduces damage taken from ^0095FFWind^000000 property enemies by 5%.",
+			"Reduces damage taken from ^0095FFWind^000000 property enemies by an additional 1% per upgrade level of ^008080Rouban Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22063] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Rouban Shoes",
+		identifiedResourceName = "·з№ЭЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of wind.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^0095FFWind^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Rouban Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Rouban Manteau^000000.",
+			"Increases physical and magical damage on ^0095FFWind^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2596] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sharel Manteau",
+		identifiedResourceName = "»ю·јёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of fire.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^FF4000Fire^000000 property enemies by 5%.",
+			"Increases damage taken from Demon race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Sharel Shield]^000000",
+			"Increases physical and magical damage on ^FF4000Fire^000000 property targets by 2% per upgrade level of ^008080Sharel Shield^000000.",
+			"Reduces damage taken from Demon race enemies by 1% per upgrade level of ^008080Sharel Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2159] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sharel Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_И­",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of fire.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^FF4000Fire^000000 property enemies by 5%.",
+			"Increases damage taken from Demon race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^FF4000Fire^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Sharel Shoes]^000000",
+			"Reduces damage taken from ^FF4000Fire^000000 property enemies by 5%.",
+			"Reduces damage taken from ^FF4000Fire^000000 property enemies by an additional 1% per upgrade level of ^008080Sharel Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22055] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sharel Shoes",
+		identifiedResourceName = "»ю·јЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of fire.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^FF4000Fire^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Sharel Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Sharel Manteau^000000.",
+			"Increases physical and magical damage on ^FF4000Fire^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[20701] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sol Manteau",
+		identifiedResourceName = "јЦёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of earth.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^640000Earth^000000 property enemies by 5%.",
+			"Increases damage taken from Fish race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Sol Shield]^000000",
+			"Increases physical and magical damage on ^640000Earth^000000 property targets by 2% per upgrade level of ^008080Sol Shield^000000.",
+			"Reduces damage taken from Fish race enemies by 1% per upgrade level of ^008080Sol Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2165] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sol Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_Бц",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of earth.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^640000Earth^000000 property enemies by 5%.",
+			"Increases damage taken from Fish race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^640000Earth^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Sol Shoes]^000000",
+			"Reduces damage taken from ^640000Earth^000000 property enemies by 5%.",
+			"Reduces damage taken from ^640000Earth^000000 property enemies by an additional 1% per upgrade level of ^008080Sol Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22049] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sol Shoes",
+		identifiedResourceName = "јЦЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of earth.",
+			"-------------",
+			"Mdef + 3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^640000Earth^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^800080For every refine level^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Sol Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Sol Manteau^000000.",
+			"Increases physical and magical damage on ^640000Earth^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2595] = {
+		unidentifiedDisplayName = "Hood",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sombre Manteau",
+		identifiedResourceName = "јХєнёБЕд",
+		identifiedDescriptionName = {
+			"A magical manteau endowed with the power of darkness.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces Variable Cast Time by 20%.",
+			"Reduces damage taken from ^21024BDark^000000 property enemies by 5%.",
+			"Increases damage taken from Undead race enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Atk + 5, Matk + 5.",
+			" ",
+			"^008080[If used with Sombre Shield]^000000",
+			"Increases physical and magical damage on ^21024BDark^000000 property targets by 2% per upgrade level of ^008080Sombre Shield^000000.",
+			"Reduces damage taken from Undead race enemies by 1% per upgrade level of ^008080Sombre Manteau^000000.",
+			"-------------",
+			"Class: ^808080Garment^000000",
+			"Defense: ^80808020^000000",
+			"Weight: ^80808050^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[2164] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sombre Shield",
+		identifiedResourceName = "¶уёрёЈЅЇµе_ѕП",
+		identifiedDescriptionName = {
+			"A magical shield endowed with the power of darkness.",
+			"-------------",
+			"MDEF +3.",
+			"Reduces damage taken from ^21024BDark^000000 property enemies by 5%.",
+			"Increases damage taken from Undead race enemies by 5%.",
+			"Increases the experience given from monsters by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Reduce damage taken from ^21024BDark^000000 property attacks by 2%",
+			" ",
+			"^008080[If used with Sombre Shoes]^000000",
+			"Reduces damage taken from ^21024BDark^000000 property enemies by 5%.",
+			"Reduces damage taken from ^21024BDark^000000 property enemies by an additional 1% per upgrade level of ^008080Sombre Shield^000000.",
+			"-------------",
+			"Class: ^808080Shield^000000",
+			"Defense: ^80808080^000000",
+			"Weight: ^80808075^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[22048] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "»чµй",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Sombre Shoes",
+		identifiedResourceName = "јХєнЅґБо",
+		identifiedDescriptionName = {
+			"A pair of magical shoes endowed with the power of darkness.",
+			"-------------",
+			"MDEF +3",
+			"Reduces Fixed Casting Time by 0.3 seconds.",
+			"Reduces damage taken from ^21024BDark^000000 property attacks by 5%.",
+			"Increases the drop rate of items by 10% if the user has active Premium.",
+			" ",
+			"^264696[For every refine]^000000",
+			"Max HP + 1%, Max SP + 1%",
+			" ",
+			"^008080[If used with Sombre Manteau]^000000",
+			"Max HP + 1%, Max SP + 1% per upgrade level of ^008080Sombre Manteau^000000.",
+			"Increases physical and magical damage on ^21024BDark^000000 property targets by 5%.",
+			"-------------",
+			"Class: ^808080Shoes^000000",
+			"Defense: ^80808012^000000",
+			"Weight: ^80808025^000000",
+			"Required Level: ^80808065^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450165] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "їмµзёЮАП",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Striking Mail",
+		identifiedResourceName = "Striking_Mail",
+		identifiedDescriptionName = {
+			"An armor decorated with historic family crest.",
+			"It was once used by a legendary bow user known for his unparalleled bravery.",
+			"-------------",
+			"All Base Stats +10.",
+			" ",
+			"^264696[For every 2 refines]^000000",
+			"ATK + 4% and ATK + 40.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Striking Mail^000000",
+			"^008080Striking Armguard^000000",
+			"^008080Striking Shoes^000000",
+			"Increase long ranged physical and melee physical damage by 20%.",
+			"Ignores 40% of Def from all class enemies.",
+			"Removes size penalty from weapons.",
+			"Increased movement speed.",
+			"Enables to see hidden enemies.",
+			"-------------",
+			"Class: ^777777Armor^000000",
+			"Defense: ^777777120^000000",
+			"Weight: ^777777100^000000",
+			"Required Level: ^777777100^000000",
+			"Class: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470048] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "ЅґБо",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Striking Shoes",
+		identifiedResourceName = "Striking_Shoes",
+		identifiedDescriptionName = {
+			"A pair of shoes decorated with historic family crest.",
+			"It was once used by a legendary bow user known for his unparalleled bravery.",
+			"-------------",
+			"Reduce Fixed Cast Time by 0,5 seconds.",
+			" ",
+			"^264696[For every 2 refines]^000000",
+			"Reduce Cast Delay by 5% and gains +5 Perfect Hit.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Striking Mail^000000",
+			"^008080Striking Armguard^000000",
+			"^008080Striking Shoes^000000",
+			"Increase long ranged physical and melee physical damage by 20%.",
+			"Ignores 40% of Def from all class enemies.",
+			"Removes size penalty from weapons.",
+			"Increased movement speed.",
+			"Enables to see hidden enemies.",
+			"-------------",
+			"Class: ^777777Shoes^000000",
+			"Defense: ^77777718^000000",
+			"Weight: ^77777740^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[460052] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "°Ўµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Striking Armguard",
+		identifiedResourceName = "Striking_Armguard",
+		identifiedDescriptionName = {
+			"A gauntlet decorated with historic family crest.",
+			"It was once used by a legendary bow user known for his unparalleled bravery.",
+			"-------------",
+			"MaxHP + 5000.",
+			" ",
+			"^264696[For every 2 refines]^000000",
+			"MaxHP + 3%, MaxSP + 3%, Agi +3, Dex +3.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Striking Mail^000000",
+			"^008080Striking Armguard^000000",
+			"^008080Striking Shoes^000000",
+			"Increase long ranged physical and melee physical damage by 20%.",
+			"Ignores 40% of Def from all class enemies.",
+			"Removes size penalty from weapons.",
+			"Increased movement speed.",
+			"Enables to see hidden enemies.",
+			"-------------",
+			"Class: ^777777Shield^000000",
+			"Defense: ^77777760^000000",
+			"Weight: ^77777740^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[400213] = {
+		unidentifiedDisplayName = "Ribbon",
+		unidentifiedResourceName = "ё®є»",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Faith of Yggdrasil",
+		identifiedResourceName = "Faith_Of_Yggdrasil",
+		identifiedDescriptionName = {
+			"A hat worn by a believer in the Yggdrasil.",
+			"It was made using Alfheim tech, which can withstand the power of the world tree.",
+			"-------------",
+			"All Basic Status + 3",
+			"Reduce damage taken from normal and boss monsters by 10%.",
+			"Increase physical and magic damage against all size enemies by 10%.",
+			" ",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Increase physical and magic damage against all size enemies by 15%.",
+			"Reduce After Cast Delay by 20%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"Increase physical and magic damage against all size enemies by 15%.",
+			"Reduce damage taken from Players by 10%.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Faith of Yggdrasil^000000",
+			"^008080Majesty of Yggdrasil^000000",
+			"^008080Blessing Of Yggdrasil^000000",
+			"All Basic Status + 10",
+			"Increased movement speed.",
+			"Enables to see hidden enemies.",
+			"Fully restores HP and SP when revived.",
+			"Ignores Mdef of all class enemies by 40%.",
+			"-------------",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^77777710^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2198,
+		costume = false
+	},
+	[480516] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "ИДµе",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Blessing of Yggdrasil",
+		identifiedResourceName = "Blessing_Of_Yggdrasil",
+		identifiedDescriptionName = {
+			"A robe worn by a clan that worships the World Tree.",
+			"Made with Alfheim technology, it tolerates all powers, just like the Yggdrasil itself.",
+			"-------------",
+			"All Basic Status + 3.",
+			"Reduce damage taken from Normal and Boss class enemies by 5%.",
+			" ",
+			"^264696[For every refine]^000000",
+			"MaxHP + 2%, MaxSP + 2%",
+			"",
+			"^264696[If refined to +7 or higher]^000000 ",
+			"Reduce After Cast Delay by 20%",
+			"Reduce damage taken from Neutral property attacks by additional 10%.",
+			" ",
+			"^264696[If refined to +9 or higher]^000000 ",
+			"ASPD + 20%",
+			"Reduce damage taken from Human and Doram Players by 5%.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Faith of Yggdrasil^000000",
+			"^008080Majesty of Yggdrasil^000000",
+			"^008080Blessing Of Yggdrasil^000000",
+			"All Basic Status + 10",
+			"Increased movement speed.",
+			"Enables to see hidden enemies.",
+			"Fully restores HP and SP when revived.",
+			"Ignores Mdef of all class enemies by 40%.",
+			"-------------",
+			"Class: ^777777Garment^000000",
+			"Defense: ^77777760^000000",
+			"Weight: ^777777100^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490381] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "іЧЕ¬ё®Ѕє",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Majesty of Yggdrasil",
+		identifiedResourceName = "Majesty_of_Yggdrasil",
+		identifiedDescriptionName = {
+			"An accessory worn by a believer in the Yggdrasil.",
+			"It was made using Alfheim tech, which can withstand the power of the world tree.",
+			"-------------",
+			"All Basic Status + 3",
+			"ASPD + 10%",
+			"Reduce After Cast Delay by 15%",
+			"ATK + 25%, MATK + 25%",
+			"Reduce damage taken from Players by 3%.",
+			" ",
+			"^800080Set Bonus^000000",
+			"^008080Faith of Yggdrasil^000000",
+			"^008080Majesty of Yggdrasil^000000",
+			"^008080Blessing Of Yggdrasil^000000",
+			"All Basic Status + 10",
+			"Increased movement speed.",
+			"Enables to see hidden enemies.",
+			"Fully restores HP and SP when revived.",
+			"Ignores Mdef of all class enemies by 40%.",
+			"-------------",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777100^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[56832] = {
+		unidentifiedDisplayName = "Dovmihr's Coin Bag",
+		unidentifiedResourceName = "Згё§ЗСБЦёУґП",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "Dovmihr's Coin Bag",
+		identifiedResourceName = "Згё§ЗСБЦёУґП",
+		identifiedDescriptionName = {
+			"A small, bag which makes a tiny sound. Cling!",
+			"Contains <ITEM>Lucky Coin<INFO>56745</INFO></ITEM> ^777777x100^000000",
+			" ",
+			"Type: ^777777Item Giver^000000",
+			"Weight: ^77777750^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[15099] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "ѕЖёУ",
+		unidentifiedDescriptionName = {
+			"An unknown item that requires appraisal. It can be identified by using a ^008080Magnifier^000000."
+		},
+		identifiedDisplayName = "White Tiger Armor",
+		identifiedResourceName = "№йИЈАЗ°©їК",
+		identifiedDescriptionName = {
+			"Armor said to seal the soul of the White Tiger, the holy beast that protects the west.",
+			"-------------",
+			"Grants earth property to armor.",
+			"Increases physical damage dealt to Earth property monsters by 10%",
+			"-------------",
+			"Class: ^777777Armor^000000",
+			"Defense: ^77777755^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^808080All^000000"
+		},
+		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	}

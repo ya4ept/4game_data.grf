@@ -1,4 +1,23 @@
 Ragnarok Online Prime EU
+15.04.2026 11:30
+The maintenance is over, the server is online. Changelog:
+
+Update:
+— The "WoE Changes" update has been installed.
+The update is described in detail in our patch note: https://ragnarok-db.com/content/patchnotes/?name=124_woe-changes
+
+Events and Shop:
+— The Dovmihr's Legendary WIN-WIN Machine arrived in launcher.
+— The Battle manual packs arrived in launcher.
+— The Special Packs for Genetic and Mechanic arrived in launcher.
+
+Changes:
+— Fixed bugs, causing items Adventurer's Spirit [1] and Lapine Shield [1] to work incorrectly.
+
+More: https://eu.4gameforum.com/threads/696081/
+
+========
+Ragnarok Online Prime EU
 08.04.2026 11:02
 The maintenance is over, the server is online. Changelog:
 
