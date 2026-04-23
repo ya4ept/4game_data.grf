@@ -12721,3 +12721,13 @@
 490068#RingofVenus#
 106486#하트스크롤#
 480246#C_Valkyrie_Spear#
+
+19272#Garden_Of_Eden#
+410141#GorgonCoronet#
+420029#Imperial_Glory#
+420221#C_Skia_Two_Side_Up#
+420239#입에문네잎클로버#
+460050#Symbol_Of_Eden#
+480315#C_Milky#
+480316#C_Labrys#
+106515#풍자리스크롤#
