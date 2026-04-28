@@ -366,8 +366,8 @@ b7b251993c8bd43b825ee95c54b387fc *data\7480.txt
 63a52edc95e579857fb195ff72d64a46 *data\7@thts.gnd
 1d7c9f1b08e6bdd0fda278de8c7d1aa9 *data\7@thts.rsw
 22f53f66f8636a47ac58ce8b67d70381 *data\8@thts.gat
-13b0352f964ae5e7874ac13ed0c86391 *data\8@thts.gnd
-4cd472ec9a8b9b6d079bbf29c28d6d76 *data\8@thts.rsw
+14fa8384051f4b9df113eb1b6a35cbaa *data\8@thts.gnd
+fc1365c385184b5fd3968cfa24ef557a *data\8@thts.rsw
 cfaedb3e810e5e572d448a88fbd83537 *data\abbey01.gat
 0ffe45b140f522ecfcc7e1e010c7196c *data\abbey01.gnd
 1b83088d69f6726b73888bda64aed5b6 *data\abbey01.rsw
@@ -620,10 +620,10 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-69bc632564dee9b8b5056da28c68e1f9 *data\buyingstoreitemlist.txt
+0c863756fa04252a9dd1df66d8645f83 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
-d15056fe8aa2a00bf998484974148c1d *data\cardpostfixnametable.txt
-e319bd5ed6b78f7763f75d219f2e2321 *data\cardprefixnametable.txt
+fbd8ab26a8c83ed1f9a165004eb2f454 *data\cardpostfixnametable.txt
+5a7d19aaa643bfc82e6b3cd482172aad *data\cardprefixnametable.txt
 57886ddffe8057e50bd53ef5dbdf4be3 *data\cave.gat
 fb12f350fc192bbd52247c7eab62ed21 *data\cave.gnd
 ab0d98ad296174c495843ffb39e60a2c *data\cave.rsw
@@ -1198,8 +1198,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 3104c3c140ae41201d546f857b32a249 *data\ice_dun04.gnd
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
-4734f6b6d44065783ca1d4bd64b5b20b *data\idnum2itemdisplaynametable.txt
-e79bb9c71b61a28fd5255453055ce422 *data\idnum2itemresnametable.txt
+4a8ab920c9d3ed52c2fcc87741ec3159 *data\idnum2itemdisplaynametable.txt
+9c54032a8fe90fd454759a8fbe496f53 *data\idnum2itemresnametable.txt
 66b89bc7dbd9b427bcd99f33f74eca0d *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-f763a069bc88fd704d4e8a54d883dc59 *data\itemslotcounttable.txt
+c0f4b8cd049f7a2321670eda6b6aedbb *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1690,8 +1690,8 @@ bc41a7b983570bb1459ae5323799c2a7 *data\ma_zif08.rsw
 44b740892884c10c10e76cac27c536d9 *data\ma_zif09.gat
 1a7da1033aadc8bdeaa73711353cbe82 *data\ma_zif09.gnd
 8070fb428156dc42043ee8fdd4937ef0 *data\ma_zif09.rsw
-48e00dbfed644f2d0914465285583379 *data\metalprocessitemlist.txt
-f967507f82ca3090e17a64b0f2a26ce8 *data\metalprocessitemtable.txt
+8880395aa7e467bdf4853b4b68566861 *data\metalprocessitemlist.txt
+8a8c4cdfdcdb86d34fb93ef01f21f500 *data\metalprocessitemtable.txt
 e9e44370f413bf0ef62f9806e52b724d *data\mid_camp.gat
 2ba4f0ffdf93127272450cae814809d4 *data\mid_camp.gnd
 f0dcc7122e97153f8002707419f59c4a *data\mid_camp.rsw
@@ -1905,8 +1905,8 @@ e3676e840f0da862046fe5b7a0c6f6f1 *data\mosk_in.rsw
 91696728970e5cd0629adfd443758ff2 *data\mosk_ship.gat
 8a05c1f50a43a848ef2ba39e0b063543 *data\mosk_ship.gnd
 1b3861389813ad1c43b7f8f434de6470 *data\mosk_ship.rsw
-1a8cf07a7421e3627748125ce00d4631 *data\mp3nametable.txt
-c88582bc617c52a51fb44f10d1f8a9ea *data\msgstringtable.txt
+83cbdb799be918bf1e4bb698b3d34b3d *data\mp3nametable.txt
+ea4ea4bf422b7059bd68d824ab8d957c *data\msgstringtable.txt
 02cfde0c5612b9fcf5533887d4d9b76b *data\msgstringtable_.txt
 af0c9341ba1497dee9312108b99fbf4b *data\nakhyang.gat
 3f4990913c70ad02a110c20af1858835 *data\nakhyang.gnd
@@ -1953,10 +1953,10 @@ f0e88e8334064fefefb3c96f5012e29e *data\nif_fild01.gat
 78b539469b2363dae6a85252c535a031 *data\nif_in.gat
 f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
-8ed6595c945334aa589210167eee0a2b *data\num2cardillustnametable.txt
+08406309f2c9905a31d702610deab08a *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
-6171dd9640901b3e32cfbecd2d491c21 *data\num2itemdisplaynametable.txt
-502a1fe4d213ddf2a0b24feb1d448e06 *data\num2itemresnametable.txt
+fd765c6a2aa01f1cc172d6e25f296ccb *data\num2itemdisplaynametable.txt
+11c0ec4ca9e9d129fe33c90ce8aacfe5 *data\num2itemresnametable.txt
 1e9fa56d9543cfebc4b83566a42cac4b *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -2268,7 +2268,7 @@ bc9827c320496d59b75d4a6653aa435b *data\pvp_y_8-2.rsw
 eb048469e7fc7295fb7fe011a827e852 *data\p_track01.rsw
 914f0f3fc79ac0e47dbc24281044b9be *data\p_track02.gat
 f8a3946c056316227590e2a08bf75e63 *data\p_track02.rsw
-1411e0596058c07dde614ed02e7a4523 *data\questid2display.txt
+f9f32edb481420b1d800559cebd7c4e7 *data\questid2display.txt
 bd09a751a95e590912278956de2dde79 *data\questid2display_17.1.txt
 c9f5ad55b07ded21f2abb873d5a590f2 *data\questmission.txt
 01e3b5c11db4dcf65eeefee88a1842ac *data\que_avan01.gat
@@ -2413,7 +2413,7 @@ b6baaa08d840c976748a57df3ca7f465 *data\rebel_in.gat
 0dfed03e4a08a55bda177a8abc4ada9d *data\rebel_in.gnd
 296446e5f59b61e1d64ebcb1b70e0b08 *data\rebel_in.rsw
 34f979439132124dcbc0b9e14beb929c *data\recvpackets.txt
-54f33e2af133270a66bc3ffbf7e2c1bc *data\resnametable.txt
+6c8c1272aece0863368ad7c8df277c39 *data\resnametable.txt
 c02f607e5766c79a62b39d6de67901af *data\rgsr_in.gat
 57f9583eb8a3559027b5f86354ccc86c *data\rgsr_in.gnd
 5fd31c6662a505d4cb5fb6f76c614833 *data\rgsr_in.rsw
@@ -2475,7 +2475,7 @@ bc9376aaebb37b7b6e38544bb1787b5d *data\silk_lair.rsw
 2ac9d3b4dfa08ee6e8500bd0291402f4 *data\skilldesctable.txt
 f43514a2b12086dfc23947a792efcd21 *data\skilldesctable2.txt
 1d0e1096de45098288675d54943419ec *data\skillnametable.txt
-c42c1d8aeeec9674e6f744667d44f7a1 *data\skilltreeview.txt
+6be765613ac3e61a40829931c9419555 *data\skilltreeview.txt
 6696fe158fe393e1b92b2034b24a0bd6 *data\slabw01.gat
 01f097330140285d2e29790c1abea037 *data\slabw01.gnd
 c2b66d61f7cfe4d355a088b244a951cb *data\slabw01.rsw
@@ -2889,7 +2889,7 @@ b021c36219c11a2808e652767d09b5a7 *data\book\11060.txt
 32eb2308876a5fc08969039e8d2e2d4a *data\book\7131.txt
 e14a4b6c52d561a237f41afebfa7beb1 *data\book\7132.txt
 ca24a3fd2a8e2612569faefefde8228a *data\book\7133.txt
-182cc228917aa7e41ebad28a7492505e *data\book\7144.txt
+fe358bdb0e0ce5ce715238898ee1e406 *data\book\7144.txt
 03c922fb7f2e11e8c34c1922b62ab47f *data\book\7434.txt
 dd92b0e74b626f5ca35531949e16614e *data\book\7472.txt
 cdbc5eb4b5451d747ce6d314b53ef14f *data\book\7473.txt
@@ -3175,16 +3175,16 @@ ff9c5bcaa4eeaa60ba43fa527950d2f4 *data\luafiles514\lua files\datainfo\changedire
 d70739486ac39247b83fd1638a7771ea *data\luafiles514\lua files\datainfo\enumvar.lub
 3ec650b94bc1136786ce3c4a4f478afa *data\luafiles514\lua files\datainfo\jobidentity.lub
 66b46b5368cc017f041d97c2893ca725 *data\luafiles514\lua files\datainfo\jobname.lua
-7a2e2b200e193a9c988e723ae7219e1a *data\luafiles514\lua files\datainfo\jobname.lub
+e5b994f0ca319e7554c35f57eb3e76fc *data\luafiles514\lua files\datainfo\jobname.lub
 5f2e348f33b6c76fc1d7a58165738bd1 *data\luafiles514\lua files\datainfo\jobname_f.lub
 ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovemapservicelist.lub
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
 9587dda67ebe63976dd61a039769a6e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lua
 3bf53e2960e24c6ae425ccd287092420 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 83db199fc175bdf26a4a5dd52ee2a153 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-c4790752e4fa2b806a4dbea2e9634774 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+6197dbd09d55f413294c1c14704a97ec *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 6aba4fd2c5a17ffcfa3fef2af51ccc02 *data\luafiles514\lua files\datainfo\npcidentity.lua
-2591cde904986f6a9c84d2efd34ed42e *data\luafiles514\lua files\datainfo\npcidentity.lub
+5057c324129e3966eef7bc9e5db6bd1a *data\luafiles514\lua files\datainfo\npcidentity.lub
 bb137187f5b4160a029bfbfd77a346e6 *data\luafiles514\lua files\datainfo\npcidentitysvr.lua
 4da1446c9ce8536ab0395823074c29bc *data\luafiles514\lua files\datainfo\npcidentitysvr.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
@@ -3192,7 +3192,7 @@ bb137187f5b4160a029bfbfd77a346e6 *data\luafiles514\lua files\datainfo\npcidentit
 6163ebc7b47333d969b8e865cb352593 *data\luafiles514\lua files\datainfo\pcjobnamegender.lub
 cc2dd15dc3b2f5e62dde98d8207e1ff0 *data\luafiles514\lua files\datainfo\pcjobnamegender_f.lub
 b6d6c664b3dbca825a4422c8c1137257 *data\luafiles514\lua files\datainfo\petinfo.lub
-9c4ba4dcd9718c7892caa6ebe910fe85 *data\luafiles514\lua files\datainfo\shadowtable.lub
+3e92995e3eace4d54f26103584218f0e *data\luafiles514\lua files\datainfo\shadowtable.lub
 f4a2aed92256b1451881f1a04741ab03 *data\luafiles514\lua files\datainfo\shadowtable_f.lub
 c4a4d8f8feefbff29114985bf5474cf3 *data\luafiles514\lua files\datainfo\spriterobeid.lua
 a4c33fe1b9670a92aa6dc24d7a07a9d3 *data\luafiles514\lua files\datainfo\spriterobeid.lub
@@ -3251,7 +3251,7 @@ a4cca377d52ff5f4c614b36b813cdc93 *data\luafiles514\lua files\effecttool\ba_pw02.
 91bf220d1b752fca11add27827bb16a3 *data\luafiles514\lua files\effecttool\effectmsgid.lub
 81eb8dc4cde344a7a1dfea0960839128 *data\luafiles514\lua files\effecttool\effecttoolutil.lub
 956c1b254cbb0498864bcd9ca1409494 *data\luafiles514\lua files\effecttool\effecttoolutil_ver_2.lub
-28a7a8f4ce69414b70048a619da1b5c5 *data\luafiles514\lua files\effecttool\forcerendereffect.lub
+d199fda7bdf67bd542ae1b4ada6cb8a5 *data\luafiles514\lua files\effecttool\forcerendereffect.lub
 f9615d7c954ad225b63caf3c31a86f32 *data\luafiles514\lua files\effecttool\harboro1.lub
 8f76159df11d420964a14a1b23a354cb *data\luafiles514\lua files\effecttool\harboro2.lub
 f24d59c76b1dec1986ac6db7f0571b12 *data\luafiles514\lua files\effecttool\har_in01.lub
@@ -3346,11 +3346,11 @@ e6b4cadd01d1d4814557b7455765f9ac *data\luafiles514\lua files\ridingspreditinfo\r
 594b2f22a835fd42e5d4026a6f119007 *data\luafiles514\lua files\skilleffectinfo\skilleffectinfolist.lub
 d2891bc29cd5610efebc515d2d6bebcd *data\luafiles514\lua files\skilleffectinfo\skilleffectinfo_f.lub
 be4d52bbb96959ee9e2ec011e385bf41 *data\luafiles514\lua files\skillinfoz\jobinheritlist.lub
-ba067d34eee52374d837b9259aaa4d92 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
+6984dad5312bcb4efb853f486838ee84 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
 874444afc6b5d86fe674b28e418c3f2c *data\luafiles514\lua files\skillinfoz\skillid.lub
-e67a017d0097e4d857c58bba8f8e623f *data\luafiles514\lua files\skillinfoz\skillinfolist.lub
+c86f640689b86601586c6eb2079a9f91 *data\luafiles514\lua files\skillinfoz\skillinfolist.lub
 4bdb0b56c07f903ec69c4d89524f5d56 *data\luafiles514\lua files\skillinfoz\skillinfo_f.lub
-36c2f40067e38c862c8f0cb8bb1cfdcd *data\luafiles514\lua files\skillinfoz\skilltreeview.lub
+cc469bc5200a42bd1e0a01f086a2177a *data\luafiles514\lua files\skillinfoz\skilltreeview.lub
 3f57dfad065edc205b1c178771a361a7 *data\luafiles514\lua files\skillinoz\skilldescript.lub
 fe71df509570f23f75ee3fadb694f9b6 *data\luafiles514\lua files\skillinoz\skillid.lub
 ad7d3b810236fcd885d0b71c74643376 *data\luafiles514\lua files\skillinoz\skillinfolist.lub
@@ -3370,7 +3370,7 @@ ffe6754d1d0197f205f2c2c325194b39 *data\luafiles514\lua files\spreditinfo\_new_bi
 d595b5e5a28d4f76982ddd07a3d613be *data\luafiles514\lua files\spreditinfo\_new_smalllayerdir_male.lub
 70bd9445a23f91c4632120b855aa3f0a *data\luafiles514\lua files\stateicon\efstids.lub
 f484ebc696f72f0bceb8d52add76dabc *data\luafiles514\lua files\stateicon\stateiconimginfo.lub
-a4e994a0ed41d8a356d16a551018cfd8 *data\luafiles514\lua files\stateicon\stateiconinfo.lub
+6759a2d6ec2f6f07610f04fb58bbb4c9 *data\luafiles514\lua files\stateicon\stateiconinfo.lub
 1dd848316c754cfcaf284b082016d64d *data\luafiles514\lua files\stateicon\stateiconinfo_f.lub
 b28d7c9e4d02602f349fbba6387c7fa0 *data\luafiles514\lua files\stylingshop\stylingshopinfo.lub
 671f762a3bbaa3e4438335af603be9e9 *data\luafiles514\lua files\stylingshop\stylingshopinfo_f.lub
@@ -41118,6 +41118,7 @@ cae49102949afe314006030c51778e46 *data\sprite\로브\c_labrys\남\elemetal_master_r
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\elemetal_master_riding_남.spr
 1b2d0a6da29a4905289587d70bee009f *data\sprite\로브\c_labrys\남\elemetal_master_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\elemetal_master_남.spr
+7d71ad91032c3497a6e55ef5be26f28c *data\sprite\로브\c_labrys\남\frog_kagerou_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\frog_kagerou_남.spr
 a6011e03bc1e4d91bab84531bf28367b *data\sprite\로브\c_labrys\남\hyper_novice_riding_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\hyper_novice_riding_남.spr
@@ -41133,6 +41134,7 @@ eccfb66b177c47df040f6d2ba6b8085b *data\sprite\로브\c_labrys\남\imperial_guard_남
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\inquisitor_riding_남.spr
 21424622d67d36554459facc669418a7 *data\sprite\로브\c_labrys\남\inquisitor_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\inquisitor_남.spr
+a2db1881def878f61fa5c9a4672f6da0 *data\sprite\로브\c_labrys\남\kagerou_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\kagerou_남.spr
 7b31f376ebb2d77c56cf733784786882 *data\sprite\로브\c_labrys\남\meister_riding_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\meister_riding_남.spr
@@ -41220,6 +41222,7 @@ ac1e807ed23e2d65991b2efd35fec4b6 *data\sprite\로브\c_labrys\남\도둑_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\도둑_남.spr
 3e1d436bad2d08450c505c08a35bd129 *data\sprite\로브\c_labrys\남\두꺼비소울링커_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\두꺼비소울링커_남.spr
+1fad4e2473821a45075df16818d3e760 *data\sprite\로브\c_labrys\남\두꺼비닌자_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\두꺼비닌자_남.spr
 da521527b13ea236f5cf5600f9ab1e34 *data\sprite\로브\c_labrys\남\룬나이트_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\룬나이트_남.spr
@@ -41277,6 +41280,7 @@ da0200de987d021e3e595996b303bbd7 *data\sprite\로브\c_labrys\남\아크비숍알파카_남
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\어쌔신크로스_남.spr
 e726a5bdfa6ddb916c3caa8c6d4fa0a0 *data\sprite\로브\c_labrys\남\어세신_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\어세신_남.spr
+4ee29d3ff7bef93c1fa5402d3e0c69ce *data\sprite\로브\c_labrys\남\슈라_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\슈라_남.spr
 0f4bb76b3cb7eaf07998671e8d60986b *data\sprite\로브\c_labrys\남\슈라알파카_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\슈라알파카_남.spr
@@ -41286,6 +41290,7 @@ c40a36c20664082ebf0255257931609a *data\sprite\로브\c_labrys\남\슈퍼노비스_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\슈퍼노비스포링_남.spr
 0c6f45f8d106ca6d13c07de4af88884c *data\sprite\로브\c_labrys\남\노비스포링_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\노비스포링_남.spr
+09b71412ccb91a2b45a28dec6d18088f *data\sprite\로브\c_labrys\남\여름2_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\여름2_남.spr
 dddeb4cd2c104b60d00282449d58af23 *data\sprite\로브\c_labrys\남\여름_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\여름_남.spr
@@ -41331,6 +41336,7 @@ b8234695039290d00f0551e0c7811cab *data\sprite\로브\c_labrys\남\성제융합_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\제네릭_남.spr
 0b01e5de61d46e31966d3e30295279ad *data\sprite\로브\c_labrys\남\제네릭멧돼지_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\제네릭멧돼지_남.spr
+c58d7ea2be8de7d35467d632a9e47ce8 *data\sprite\로브\c_labrys\남\제철공_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\제철공_남.spr
 0372f6b9424247f25170b5173370406a *data\sprite\로브\c_labrys\남\제철공멧돼지_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\제철공멧돼지_남.spr
@@ -41414,6 +41420,7 @@ e22f0f8dc2c274982d6ad80a3c92bb00 *data\sprite\로브\c_labrys\남\해태소울리퍼_남.a
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\화이트스미스_남.spr
 fb109580c0400872ae317cdb00715dc7 *data\sprite\로브\c_labrys\남\화이트스미스멧돼지_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\화이트스미스멧돼지_남.spr
+b3d528733a5de6330b57fb35bca9e208 *data\sprite\로브\c_labrys\남\닌자_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\닌자_남.spr
 3e3e4e6f7c272d05d8773f91b7a297ff *data\sprite\로브\c_labrys\남\미케닉_남.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\남\미케닉_남.spr
@@ -41455,6 +41462,7 @@ b760bd0017a3796e3c779012e04e410e *data\sprite\로브\c_labrys\여\elemetal_master_r
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\elemetal_master_riding_여.spr
 7721f9e58a5f63694999a5acdc31bbc3 *data\sprite\로브\c_labrys\여\elemetal_master_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\elemetal_master_여.spr
+ca106f1ab75bd5a4639a6c0fe488ebb0 *data\sprite\로브\c_labrys\여\frog_oboro_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\frog_oboro_여.spr
 2d3dfdf2bea108bb69152e327339bff5 *data\sprite\로브\c_labrys\여\hyper_novice_riding_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\hyper_novice_riding_여.spr
@@ -41478,6 +41486,7 @@ af1507808975e8d41174b982f6fa8576 *data\sprite\로브\c_labrys\여\meister_riding_여
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\night_watch_riding_여.spr
 a59d73ad43d09e153cfbab32d9b0cf75 *data\sprite\로브\c_labrys\여\night_watch_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\night_watch_여.spr
+f845d1b0da0c7819d553502cb5ef2076 *data\sprite\로브\c_labrys\여\oboro_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\oboro_여.spr
 ea01649e0c3e5b9ebb46750c50696221 *data\sprite\로브\c_labrys\여\peco_rebellion_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\peco_rebellion_여.spr
@@ -41557,6 +41566,7 @@ df9e4dda7d9d2d812612dfde8dd297be *data\sprite\로브\c_labrys\여\그리폰가드_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\도둑_여.spr
 fa18203ef862e0aa09121f251956d484 *data\sprite\로브\c_labrys\여\두꺼비소울링커_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\두꺼비소울링커_여.spr
+c85e04b630870da86465dd692f0b1d90 *data\sprite\로브\c_labrys\여\두꺼비닌자_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\두꺼비닌자_여.spr
 8f05194742b8a02b5a5b377d36dfbb57 *data\sprite\로브\c_labrys\여\룬나이트_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\룬나이트_여.spr
@@ -41756,6 +41766,7 @@ c1b10bd8d5c855c4ba948885032a41ec *data\sprite\로브\c_labrys\여\화이트스미스_여.a
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\화이트스미스_여.spr
 dbd15ad020eff5da399f8be5e52c2c7e *data\sprite\로브\c_labrys\여\화이트스미스멧돼지_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\화이트스미스멧돼지_여.spr
+d2dd381a83bbac053e27e64a73c5a7d7 *data\sprite\로브\c_labrys\여\닌자_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\닌자_여.spr
 b889cf826823e0d2b55b045939918cde *data\sprite\로브\c_labrys\여\무희_여.act
 09e6d365dfd038942a0070e70e65bd8a *data\sprite\로브\c_labrys\여\무희_여.spr
@@ -96436,6 +96447,8 @@ a38f6a4211ac0c387d8fc830587c8fa9 *data\sprite\아이템\정령의왕관.spr
 4057530df843e2d383d329568b0d69d2 *data\sprite\아이템\정령포링풍선.spr
 c4991e05230d7682eeecd4bc69bcbab6 *data\sprite\아이템\정비금견스크롤.act
 ea2c91629ef09a378ce3d16f4845bc28 *data\sprite\아이템\정비금견스크롤.spr
+9675a1b880ee6251e3d60fbaabdb60bc *data\sprite\아이템\정신력의반지.act
+51a0f993ea7183099af6a3cf3f66bb28 *data\sprite\아이템\정신력의반지.spr
 c7566e2ed78734d5de4f550ae7ecec52 *data\sprite\아이템\정신봉.act
 fc15c8e159d147652655af7dc9b7ea68 *data\sprite\아이템\정신봉.spr
 4b4dfe7688b6987352989d9a2c807f95 *data\sprite\아이템\정제한브라디움.act
@@ -134170,6 +134183,7 @@ e292b8eea451d36b70fa8e5edea225f6 *data\texture\유저인터페이스\collection\정령의�
 2636cf04c866ba7fa13ac7b06da4f772 *data\texture\유저인터페이스\collection\정령의왕관.bmp
 ca9201594ecdc9f609d441ae7c8165df *data\texture\유저인터페이스\collection\정령포링풍선.bmp
 1214cd311214044ff13af7d95c1e7896 *data\texture\유저인터페이스\collection\정비금견스크롤.bmp
+6c1cae25bc7452e20baae1ad0bfcccc0 *data\texture\유저인터페이스\collection\정신력의반지.bmp
 fe71b730af50789db581cd762c42223e *data\texture\유저인터페이스\collection\정신봉.bmp
 36ce550bd1733a9a620613ed121178f3 *data\texture\유저인터페이스\collection\정제한브라디움.bmp
 c3f089dabf5b876b7dc84e03ec7a40a6 *data\texture\유저인터페이스\collection\정지표지판.bmp
@@ -143048,6 +143062,7 @@ acec469024d602e0a1f93910340fda7e *data\texture\유저인터페이스\item\정령의결정01.
 53eed1cde24c31885b9fa34a79a10b70 *data\texture\유저인터페이스\item\정령의왕관.bmp
 0f7251abb1c081b873428ccaa8c932b6 *data\texture\유저인터페이스\item\정령포링풍선.bmp
 cd39fccde504cee6c4562954cdf63120 *data\texture\유저인터페이스\item\정비금견스크롤.bmp
+4b2e1b83d7e4a21b44b2b08201521987 *data\texture\유저인터페이스\item\정신력의반지.bmp
 a9ded2847089da50147f1ff0cabec7c4 *data\texture\유저인터페이스\item\정신봉.bmp
 1835af183184ec36db40084510449330 *data\texture\유저인터페이스\item\정제한브라디움.bmp
 b6442aa234dfb4889bd77ba6e94c78d1 *data\texture\유저인터페이스\item\정지표지판.bmp
@@ -144940,6 +144955,7 @@ e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@air1.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@air2.bmp
 ec58ad8d7cda07bee261687bddff2624 *data\texture\유저인터페이스\map\1@bamn.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@bamq.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@begi.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\1@cash.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\1@cata.bmp
 e21e6b93fca8b4a4d6a7e5d13b176f78 *data\texture\유저인터페이스\map\1@cor.bmp
@@ -145004,6 +145020,7 @@ e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@tnm3.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\1@tower.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@uns.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@xm_d.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@xm_d2.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\2009rwc_02.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\2009rwc_03.bmp
 1fc8a75a7f43f968dd133280f4905ad7 *data\texture\유저인터페이스\map\2@cata.bmp

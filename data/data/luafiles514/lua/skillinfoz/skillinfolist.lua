@@ -1403,7 +1403,7 @@ SKILL_INFO_LIST = {
 		"RK_WINDCUTTER",
 		SkillName = "Рассекающий ветер",
 		MaxLv = 5,
-		SpAmount = { 20, 24, 28, 32, 36 },
+		SpAmount = { 23, 26, 29, 32, 35 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -4046,7 +4046,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 20, 22, 24, 26, 28, 30, 32, 34, 36, 38 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		AttackRange = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
 			{ SKID.NC_AXEBOOMERANG, 3 }
 		}
@@ -4121,18 +4121,18 @@ SKILL_INFO_LIST = {
 		"LG_CANNONSPEAR",
 		SkillName = "Гарпун",
 		MaxLv = 5,
-		SpAmount = { 12, 16, 20, 24, 28 },
+		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
-		AttackRange = { 11, 11, 11, 11, 11 },
+		AttackRange = { 7, 7, 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.LG_PINPOINTATTACK, 1 }
 		}
 	},
 	[SKID.LG_REFLECTDAMAGE] = {
 		"LG_REFLECTDAMAGE",
-		SkillName = "Отражение",
+		SkillName = "Уменьшение отраженного урона",
 		MaxLv = 5,
-		SpAmount = { 60, 80, 100, 120, 140 },
+		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -4720,14 +4720,6 @@ SKILL_INFO_LIST = {
 		SpAmount = { 30, 40, 50, 60, 70 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 }
-	},
-	[SKID.MH_NEEDLE_OF_PARALYZE] = {
-		"MH_NEEDLE_OF_PARALYZE",
-		SkillName = "Паралич",
-		MaxLv = 10,
-		SpAmount = { 42, 48, 54, 60, 66, 72, 78, 84, 90, 96 },
-		bSeperateLv = true,
-		AttackRange = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 }
 	},
 	[SKID.MH_STYLE_CHANGE] = {
 		"MH_STYLE_CHANGE",
@@ -5705,7 +5697,7 @@ SKILL_INFO_LIST = {
 		"NC_BOOSTKNUCKLE",
 		SkillName = "Реактивный кулак",
 		MaxLv = 5,
-		SpAmount = { 3, 6, 9, 12, 15 },
+		SpAmount = { 5, 10, 15, 20, 25 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -5793,7 +5785,7 @@ SKILL_INFO_LIST = {
 		"NC_AXETORNADO",
 		SkillName = "Вращение топора",
 		MaxLv = 5,
-		SpAmount = { 18, 20, 22, 24, 26 },
+		SpAmount = { 45, 45, 45, 45, 45 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -5905,7 +5897,7 @@ SKILL_INFO_LIST = {
 		"LG_HESPERUSLIT",
 		SkillName = "Звездный свет",
 		MaxLv = 5,
-		SpAmount = { 80, 90, 100, 110, 120 },
+		SpAmount = { 37, 44, 51, 58, 65 },
 		bSeperateLv = true,
 		AttackRange = { 3, 3, 3, 3, 3 },
 		_NeedSkillList = {
@@ -6150,7 +6142,7 @@ SKILL_INFO_LIST = {
 		"GN_BLOOD_SUCKER",
 		SkillName = "Пиявка",
 		MaxLv = 5,
-		SpAmount = { 30, 35, 40, 45, 50 },
+		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -6296,7 +6288,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 17, 19, 21, 23, 25, 27, 29, 31, 33, 35 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
+		AttackRange = { 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 }
 	},
 	[SKID.MH_CBC] = {
 		"MH_CBC",
@@ -6621,7 +6613,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		AttackRange = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
 			{ SKID.MO_TRIPLEATTACK, 5 }
 		}
@@ -7238,7 +7230,7 @@ SKILL_INFO_LIST = {
 		"SR_RIDEINLIGHTNING",
 		SkillName = "Ментальная молния",
 		MaxLv = 5,
-		SpAmount = { 22, 24, 26, 28, 30 },
+		SpAmount = { 25, 30, 35, 40, 45 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -7249,7 +7241,7 @@ SKILL_INFO_LIST = {
 		"SR_HOWLINGOFLION",
 		SkillName = "Рев льва",
 		MaxLv = 5,
-		SpAmount = { 80, 90, 100, 110, 120 },
+		SpAmount = { 70, 70, 70, 70, 70 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -7548,7 +7540,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 18, 21, 24, 27, 30, 33, 36, 39, 42, 45 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
+		AttackRange = { 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 }
 	},
 	[SKID.MH_EQC] = {
 		"MH_EQC",
@@ -8279,7 +8271,7 @@ SKILL_INFO_LIST = {
 		"RA_ARROWSTORM",
 		SkillName = "Ливень стрел",
 		MaxLv = 10,
-		SpAmount = { 30, 32, 34, 36, 38, 40, 42, 44, 46, 48 },
+		SpAmount = { 24, 28, 32, 36, 40, 44, 48, 52, 56, 60 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
@@ -8524,7 +8516,7 @@ SKILL_INFO_LIST = {
 		"LG_RAYOFGENESIS",
 		SkillName = "Проблеск бытия",
 		MaxLv = 10,
-		SpAmount = { 45, 50, 55, 60, 65, 70, 75, 80, 85, 90 },
+		SpAmount = { 30, 40, 50, 60, 70, 80, 90, 100, 110, 120 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -8545,7 +8537,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 18, 21, 24, 27, 30, 33, 36, 39, 42, 45 },
 		bSeperateLv = false,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		AttackRange = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
 			{ SKID.SR_DRAGONCOMBO, 3 }
 		}
@@ -8677,22 +8669,6 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
-	[SKID.WM_REVERBERATION] = {
-		"WM_REVERBERATION",
-		SkillName = "Реверберация",
-		MaxLv = 5,
-		SpAmount = { 28, 32, 38, 42, 48 },
-		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9 },
-		NeedSkillList = {
-			[JOBID.JT_MINSTREL] = {
-				{ SKID.BA_DISSONANCE, 5 }
-			},
-			[JOBID.JT_WANDERER] = {
-				{ SKID.DC_UGLYDANCE, 5 }
-			}
-		}
-	},
 	[SKID.SA_GRAVITY] = {
 		"SA_GRAVITY",
 		SkillName = "Корпорация Gravity",
@@ -8700,17 +8676,6 @@ SKILL_INFO_LIST = {
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
-	},
-	[SKID.WM_METALICSOUND] = {
-		"WM_METALICSOUND",
-		SkillName = "Акустический шок",
-		MaxLv = 10,
-		SpAmount = { 62, 64, 66, 68, 70, 72, 74, 76, 78, 80 },
-		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
-		_NeedSkillList = {
-			{ SKID.WM_DOMINION_IMPULSE, 1 }
-		}
 	},
 	[SKID.SA_LEVELUP] = {
 		"SA_LEVELUP",
@@ -9582,7 +9547,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 11, 11, 13 },
+		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
 			{ SKID.NC_FLAMELAUNCHER, 2 },
 			{ SKID.NC_COLDSLOWER, 2 }
@@ -9592,7 +9557,7 @@ SKILL_INFO_LIST = {
 		"NC_VULCANARM",
 		SkillName = "Вулкан",
 		MaxLv = 3,
-		SpAmount = { 2, 4, 6 },
+		SpAmount = { 9, 12, 15 },
 		bSeperateLv = true,
 		AttackRange = { 13, 13, 13 },
 		_NeedSkillList = {
@@ -10142,7 +10107,7 @@ SKILL_INFO_LIST = {
 		"HW_MAGICPOWER",
 		SkillName = "Усиление магии",
 		MaxLv = 10,
-		SpAmount = { 14, 18, 22, 26, 30, 34, 38, 42, 46, 50 },
+		SpAmount = { 35, 40, 45, 50, 55, 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
@@ -10320,14 +10285,6 @@ SKILL_INFO_LIST = {
 			{ SKID.SA_SPELLBREAKER, 2 }
 		}
 	},
-	[SKID.MH_STAHL_HORN] = {
-		"MH_STAHL_HORN",
-		SkillName = "Стальной рог",
-		MaxLv = 10,
-		SpAmount = { 43, 46, 49, 52, 55, 58, 61, 64, 67, 70 },
-		bSeperateLv = true,
-		AttackRange = { 5, 5, 6, 6, 7, 7, 8, 8, 9, 9 }
-	},
 	[SKID.PF_SOULBURN] = {
 		"PF_SOULBURN",
 		SkillName = "Сжигание магии",
@@ -10408,9 +10365,9 @@ SKILL_INFO_LIST = {
 		"ASC_BREAKER",
 		SkillName = "Уничтожение души",
 		MaxLv = 10,
-		SpAmount = { 20, 20, 20, 20, 20, 30, 30, 30, 30, 30 },
+		SpAmount = { 60, 60, 60, 60, 60, 60, 60, 60, 60, 60 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
+		AttackRange = { 4, 4, 4, 4, 4, 4, 4, 4, 4, 4 },
 		_NeedSkillList = {
 			{ SKID.TF_DOUBLE, 5 },
 			{ SKID.TF_POISON, 5 },
@@ -10477,9 +10434,9 @@ SKILL_INFO_LIST = {
 		"SN_SHARPSHOOTING",
 		SkillName = "Пронзающая стрела",
 		MaxLv = 5,
-		SpAmount = { 18, 21, 24, 27, 30 },
+		SpAmount = { 16, 18, 20, 22, 24 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9 },
+		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
 			{ SKID.AC_DOUBLE, 5 },
 			{ SKID.AC_CONCENTRATION, 10 }
@@ -12935,5 +12892,48 @@ SKILL_INFO_LIST = {
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
+	},
+	[SKID.WM_REVERBERATION] = {
+		"WM_REVERBERATION",
+		SkillName = "Реверберация",
+		MaxLv = 5,
+		SpAmount = { 56, 62, 68, 74, 80 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9 },
+		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{ SKID.BA_DISSONANCE, 5 }
+			},
+			[JOBID.JT_WANDERER] = {
+				{ SKID.DC_UGLYDANCE, 5 }
+			}
+		}
+	},
+	[SKID.WM_METALICSOUND] = {
+		"WM_METALICSOUND",
+		SkillName = "Акустический шок",
+		MaxLv = 10,
+		SpAmount = { 62, 64, 66, 68, 70, 72, 74, 76, 78, 80 },
+		bSeperateLv = true,
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
+		_NeedSkillList = {
+			{ SKID.WM_REVERBERATION, 5 }
+		}
+	},
+	[SKID.MH_NEEDLE_OF_PARALYZE] = {
+		"MH_NEEDLE_OF_PARALYZE",
+		SkillName = "Паралич",
+		MaxLv = 10,
+		SpAmount = { 42, 48, 54, 60, 66, 72, 78, 84, 90, 96 },
+		bSeperateLv = true,
+		AttackRange = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 }
+	},
+	[SKID.MH_STAHL_HORN] = {
+		"MH_STAHL_HORN",
+		SkillName = "Стальной рог",
+		MaxLv = 10,
+		SpAmount = { 43, 46, 49, 52, 55, 58, 61, 64, 67, 70 },
+		bSeperateLv = true,
+		AttackRange = { 5, 5, 6, 6, 7, 7, 8, 8, 9, 9 }
 	}
 }

@@ -1006,3 +1006,4 @@
 300123#Pitaya_V_Card#
 300124#Pitaya_B_Card#
 300125#Pitaya_G_Card#
+300274#Tha_Anger_Card#

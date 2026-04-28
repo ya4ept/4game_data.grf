@@ -1207,3 +1207,13 @@ ba_chess.rsw#bgm\\180.mp3#
 1@hode.rsw#bgm\\65.mp3#	
 2@hode.rsw#bgm\\65.mp3#	
 3@hode.rsw#bgm\\156.mp3#
+
+// 17.2.1
+1@thts.rsw#bgm\\108.mp3#
+2@thts.rsw#bgm\\108.mp3#
+3@thts.rsw#bgm\\108.mp3#
+4@thts.rsw#bgm\\108.mp3#
+5@thts.rsw#bgm\\108.mp3#
+6@thts.rsw#bgm\\108.mp3#
+7@thts.rsw#bgm\\108.mp3#
+8@thts.rsw#bgm\\103.mp3#

@@ -60113,24 +60113,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[4875] = {
-		unidentifiedDisplayName = "Чары медвежьей силы",
-		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Чары медвежьей силы",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"При получении физ. урона шанс на 5 секунд активировать эффект:",
-			"Превращает в монстра Бигфут",
-			"Сила +200.",
-			"HP -500 при активации эффекта."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[4876] = {
 		unidentifiedDisplayName = "Чары ускользающей магии",
 		unidentifiedResourceName = "?????",
@@ -60143,42 +60125,6 @@ tbl = {
 			"При получении маг. урона шанс на 10 секунд активировать эффект:",
 			"Интеллект +200.",
 			"SP -200 при активации эффекта."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[4877] = {
-		unidentifiedDisplayName = "Чары скорости света",
-		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Чары скорости света",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"При нанесении физ. урона шанс на 5 секунд активировать эффект:",
-			"Скорость атаки +100%.",
-			"Идеальный уворот +100.",
-			"HP -400 и SP -40 при активации эффекта."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[4878] = {
-		unidentifiedDisplayName = "Чары защитника",
-		unidentifiedResourceName = "?????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Чары защитника",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"При получении физ. урона шанс на 5 секунд активировать эффект:",
-			"Физ. защита +1000.",
-			"Физ. урон оружием -50%.",
-			"Маг. урон -50%."
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -82864,26 +82810,6 @@ tbl = {
 			"Семя терна: ^000088Колючий фрукт 10 шт.^000000",
 			"Семя вампирического растения: ^000088Корень растения-людоеда 10шт.^000000",
 			"Спора взрывающегося гриба: ^000088Грибная спора 10 шт., Спора ядовитого гриба 5 шт., Оружейная пудра 2 шт.^000000",
-			"Вес: ^7777771^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[6285] = {
-		unidentifiedDisplayName = "Книга о высших зельях",
-		unidentifiedResourceName = "?????????",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Книга о высших зельях",
-		identifiedResourceName = "?????????",
-		identifiedDescriptionName = {
-			"Инструкция для изготовления: Белого зелья обогощения Z, Вита-500, Обогощенного сока Селомайна",
-			"Белое зелье обогощения Z: ^000088Пустая колба 10 шт. + Белое зелье 20 шт. + Белая трава 10 шт. + Спирт 1 шт.^000000",
-			"Вита-500: ^000088Пустая колба 10 шт. + Виноград 10 шт. + Мед 10 шт. + Синяя трава 10 шт.^000000",
-			"Обогощенный сок Селомайна. ^000088Пустая колба 10 шт. + Зелье пробуждения 5 шт. + Острый соус 5 шт. + Зелье концентрации 5 шт.^000000",
-			"Очищение свободы: ^000088Пустая колба 10 шт. + Панацея 5 шт. + Зеленая трава 20 шт. + Фрукт мастелы 1 шт. + Лист Иггдрасиля 1 шт.^000000",
 			"Вес: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -166513,40 +166439,6 @@ tbl = {
 		ClassNum = 626,
 		costume = false
 	},
-	[18974] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Старый ободок механика (желтый)",
-		identifiedResourceName = "??????_",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"Давным-давно потерявший своего владельца ободок, источающий загадочную ауру.",
-			"^777777—————————————^000000",
-			"Все характеристики +1.",
-			"^264696[За каждый уровень заточки]^000000",
-			"Физ. атака +4.",
-			"^264696[За каждые 2 уровня заточки]^000000",
-			"Макс. HP и SP +1%.",
-			"Урон умения [Плазменная пушка] +5%.",
-			"^264696[За каждые 4 уровня заточки]^000000",
-			"Задержка после использования умения [Самоуничтожение] -10 сек.",
-			"^264696[За каждые 5 уровней заточки]^000000",
-			"Скорость атаки +1.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^777777170^000000",
-			"Квалификация: ^777777Механик^000000"
-		},
-		slotCount = 1,
-		ClassNum = 637,
-		costume = false
-	},
 	[18975] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
@@ -166584,37 +166476,6 @@ tbl = {
 		ClassNum = 627,
 		costume = false
 	},
-	[18976] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Старая шляпа менестреля",
-		identifiedResourceName = "????????",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"Давным-давно потерявшая своего владельца шляпа, источающая загадочную ауру.",
-			"^777777—————————————^000000",
-			"Все характеристики +1.",
-			"^264696[За каждый уровень заточки]^000000",
-			"Дальний физ. урон +1%.",
-			"^264696[За каждые 2 уровня заточки]^000000",
-			"Макс. HP и SP +1%.",
-			"Урон умения [Вулкан стрел] +20%.",
-			"Урон умения [Ария поющих стрел] +5%.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^777777170^000000",
-			"Квалификация: ^777777Маэстро^000000"
-		},
-		slotCount = 1,
-		ClassNum = 628,
-		costume = false
-	},
 	[18977] = {
 		unidentifiedDisplayName = "Головной убор",
 		unidentifiedResourceName = "?",
@@ -166644,40 +166505,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 629,
-		costume = false
-	},
-	[18978] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Старая шапка с магическим камнем",
-		identifiedResourceName = "??????",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"Давным-давно потерявшая своего владельца шапка с магическим камнем, источающая загадочную ауру.",
-			"^777777—————————————^000000",
-			"Все характеристики +1.",
-			"Маг. защита +5.",
-			"Скорость восстановления SP +20%.",
-			"Задержка после использования умения [Огненный метеорит] -1 сек.",
-			"^264696[За каждый уровень заточки]^000000",
-			"Маг. атака +1%.",
-			"Задержка после использования умения [Огненный метеорит] -0.1 сек.",
-			"^264696[За каждые 2 уровня заточки]^000000",
-			"Макс. HP и SP +1%.",
-			"Урон умения [Призрачная дымка] +5%.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^777777170^000000",
-			"Квалификация: ^777777Чародей^000000"
-		},
-		slotCount = 1,
-		ClassNum = 630,
 		costume = false
 	},
 	[18979] = {
@@ -166743,103 +166570,6 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 633,
-		costume = false
-	},
-	[18981] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Старый увядающий лебедь",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"Давным-давно потерявший своего владельца увядающий лебедь, источающий загадочную ауру.",
-			"^777777—————————————^000000",
-			"Все характеристики +1.",
-			"^264696[За каждый уровень заточки]^000000",
-			"Дальний физ. урон +1%.",
-			"^264696[За каждые 2 уровня заточки]^000000",
-			"Макс. HP и SP +1%.",
-			"Урон умения [Вулкан стрел] +20%.",
-			"Урон умения [Ария поющих стрел] +5%.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^777777170^000000",
-			"Квалификация: ^777777Муза^000000"
-		},
-		slotCount = 1,
-		ClassNum = 635,
-		costume = false
-	},
-	[18982] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Старый венец с черепом",
-		identifiedResourceName = "?????",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"Давным-давно потерявший своего владельца венец с черепом, источающий загадочную ауру.",
-			"^777777—————————————^000000",
-			"Все характеристики +1.",
-			"^264696[За каждый уровень заточки]^000000",
-			"Сила крит. удара +1%.",
-			"Скорость атаки +1%.",
-			"^264696[За каждые 2 уровня заточки]^000000",
-			"Макс. HP и SP +1%.",
-			"Урон умения [Сверхсветовой удар] +10%.",
-			"Урон умения [Бросок лезвий] +20%.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^777777170^000000",
-			"Квалификация: ^777777Каратель^000000"
-		},
-		slotCount = 1,
-		ClassNum = 1141,
-		costume = false
-	},
-	[18983] = {
-		unidentifiedDisplayName = "Головной убор",
-		unidentifiedResourceName = "?",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Старое забрало покровительства",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"^ff0000Привязано к учетной записи.^000000",
-			"Давным-давно потерявшее своего владельца забрало, источающее загадочную ауру.",
-			"^777777—————————————^000000",
-			"Все характеристики +1.",
-			"Маг. защита +5.",
-			"^264696[За каждый уровень заточки]^000000",
-			"Физ. атака +4.",
-			"^264696[За каждые 2 уровня заточки]^000000",
-			"Макс. HP и SP +1%.",
-			"Урон умения [Гарпун] +20%.",
-			"Урон умения [Нанесение клейма] +5%.",
-			"^264696[За каждые 5 уровней заточки]^000000",
-			"Скорость атаки +1.",
-			"^777777—————————————^000000",
-			"Класс: ^777777Головной убор^000000",
-			"Расположение: ^777777Голова^000000",
-			"Защита: ^77777710^000000",
-			"Вес: ^77777710^000000",
-			"Требуемый уровень: ^777777170^000000",
-			"Квалификация: ^777777Тамплиер^000000"
-		},
-		slotCount = 1,
-		ClassNum = 1140,
 		costume = false
 	},
 	[18984] = {
@@ -176138,29 +175868,6 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 1158,
-		costume = true
-	},
-	[19992] = {
-		unidentifiedDisplayName = "Аксессуар",
-		unidentifiedResourceName = "??",
-		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
-		identifiedDisplayName = "Дыхание зимы (Декор)",
-		identifiedResourceName = "????",
-		identifiedDescriptionName = {
-			"Все кругом замело снегом, кружат метели... Как холодно! Облачка морозного пара вылетают из вашего рта с каждым дыханием.",
-			"^777777—————————————^000000",
-			"Интеллект +5.",
-			"При успешной физ. атаке с шансом 10% накладывает на противника заморозку.",
-			"^777777—————————————^000000",
-			"Класс: ^777777 Декор^000000",
-			"Защита: ^7777770^000000",
-			"Расположение: ^777777Рот^000000",
-			"Вес: ^7777771^000000",
-			"Требуемый уровень: ^77777710^000000",
-			"Квалификация: ^777777Все профессии^000000"
-		},
-		slotCount = 0,
-		ClassNum = 885,
 		costume = true
 	},
 	[19994] = {
@@ -209104,528 +208811,6 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[29071] = {
-		unidentifiedDisplayName = "Дух магии I",
-		unidentifiedResourceName = "MagicEessence1",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии I",
-		identifiedResourceName = "MagicEessence1",
-		identifiedDescriptionName = {
-			"Маг. атака +4%.",
-			"Фикс. время чтения умений -0,1 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29072] = {
-		unidentifiedDisplayName = "Дух магии II",
-		unidentifiedResourceName = "MagicEessence2",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии II",
-		identifiedResourceName = "MagicEessence2",
-		identifiedDescriptionName = {
-			"Маг. атака +8%.",
-			"Фикс. время чтения умений -0,2 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29073] = {
-		unidentifiedDisplayName = "Дух магии III",
-		unidentifiedResourceName = "MagicEessence3",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии III",
-		identifiedResourceName = "MagicEessence3",
-		identifiedDescriptionName = {
-			"Маг. атака +12%.",
-			"Фикс. время чтения умений -0,3 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29074] = {
-		unidentifiedDisplayName = "Дух магии IV",
-		unidentifiedResourceName = "MagicEessence4",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии IV",
-		identifiedResourceName = "MagicEessence4",
-		identifiedDescriptionName = {
-			"Маг. атака +16%.",
-			"Фикс. время чтения умений -0,4 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29076] = {
-		unidentifiedDisplayName = "Дух магии VI",
-		unidentifiedResourceName = "MagicEessence6",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии VI",
-		identifiedResourceName = "MagicEessence6",
-		identifiedDescriptionName = {
-			"Маг. атака +24%.",
-			"Фикс. время чтения умений -0,6 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29077] = {
-		unidentifiedDisplayName = "Дух магии VII",
-		unidentifiedResourceName = "MagicEessence7",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии VII",
-		identifiedResourceName = "MagicEessence7",
-		identifiedDescriptionName = {
-			"Маг. атака +28%.",
-			"Фикс. время чтения умений -0,7 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29078] = {
-		unidentifiedDisplayName = "Дух магии VIII",
-		unidentifiedResourceName = "MagicEessence8",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии VIII",
-		identifiedResourceName = "MagicEessence8",
-		identifiedDescriptionName = {
-			"Маг. атака +32%.",
-			"Фикс. время чтения умений -0,8 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29079] = {
-		unidentifiedDisplayName = "Дух магии IX",
-		unidentifiedResourceName = "MagicEessence9",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии IX",
-		identifiedResourceName = "MagicEessence9",
-		identifiedDescriptionName = {
-			"Маг. атака +36%.",
-			"Фикс. время чтения умений -0,9 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29080] = {
-		unidentifiedDisplayName = "Дух магии X",
-		unidentifiedResourceName = "MagicEessence10",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии X",
-		identifiedResourceName = "MagicEessence10",
-		identifiedDescriptionName = {
-			"Маг. атака +44%.",
-			"Фикс. время чтения умений 1 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29081] = {
-		unidentifiedDisplayName = "Энергия решительности I",
-		unidentifiedResourceName = "Acute1",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности I",
-		identifiedResourceName = "Acute1",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +3.",
-			"Сила крит. удара +20%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29082] = {
-		unidentifiedDisplayName = "Энергия решительности II",
-		unidentifiedResourceName = "Acute2",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности II",
-		identifiedResourceName = "Acute2",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +6.",
-			"Сила крит. удара +35%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29083] = {
-		unidentifiedDisplayName = "Энергия решительности III",
-		unidentifiedResourceName = "Acute3",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности III",
-		identifiedResourceName = "Acute3",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +9.",
-			"Сила крит. удара +50%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29084] = {
-		unidentifiedDisplayName = "Энергия решительности IV",
-		unidentifiedResourceName = "Acute4",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности IV",
-		identifiedResourceName = "Acute4",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +12.",
-			"Сила крит. удара +65%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29085] = {
-		unidentifiedDisplayName = "Энергия решительности V",
-		unidentifiedResourceName = "Acute5",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности V",
-		identifiedResourceName = "Acute5",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +15.",
-			"Сила крит. удара +80%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29086] = {
-		unidentifiedDisplayName = "Энергия решительности VI",
-		unidentifiedResourceName = "Acute6",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности VI",
-		identifiedResourceName = "Acute6",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +18.",
-			"Сила крит. удара +95%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29087] = {
-		unidentifiedDisplayName = "Энергия решительности VII",
-		unidentifiedResourceName = "Acute7",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности VII",
-		identifiedResourceName = "Acute7",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +21.",
-			"Сила крит. удара +110%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29088] = {
-		unidentifiedDisplayName = "Энергия решительности VIII",
-		unidentifiedResourceName = "Acute8",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности VIII",
-		identifiedResourceName = "Acute8",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +24.",
-			"Сила крит. удара +125%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29089] = {
-		unidentifiedDisplayName = "Энергия решительности IX",
-		unidentifiedResourceName = "Acute9",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности IX",
-		identifiedResourceName = "Acute9",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +27.",
-			"Сила крит. удара +140%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29090] = {
-		unidentifiedDisplayName = "Энергия решительности X",
-		unidentifiedResourceName = "Acute10",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Энергия решительности X",
-		identifiedResourceName = "Acute10",
-		identifiedDescriptionName = {
-			"Шанс крит. удара +30.",
-			"Сила крит. удара +170%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29091] = {
-		unidentifiedDisplayName = "Меткость лучника I",
-		unidentifiedResourceName = "MasterArcher1",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника I",
-		identifiedResourceName = "MasterArcher1",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +4%.",
-			"Скорость атаки +1%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29092] = {
-		unidentifiedDisplayName = "Меткость лучника II",
-		unidentifiedResourceName = "MasterArcher2",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника II",
-		identifiedResourceName = "MasterArcher2",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +8%.",
-			"Скорость атаки +2%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29093] = {
-		unidentifiedDisplayName = "Меткость лучника III",
-		unidentifiedResourceName = "MasterArcher3",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника III",
-		identifiedResourceName = "MasterArcher3",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +12%.",
-			"Скорость атаки +3%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29094] = {
-		unidentifiedDisplayName = "Меткость лучника IV",
-		unidentifiedResourceName = "MasterArcher4",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника IV",
-		identifiedResourceName = "MasterArcher4",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +16%.",
-			"Скорость атаки +4%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29095] = {
-		unidentifiedDisplayName = "Меткость лучника V",
-		unidentifiedResourceName = "MasterArcher5",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника V",
-		identifiedResourceName = "MasterArcher5",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +20%.",
-			"Скорость атаки +5%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29096] = {
-		unidentifiedDisplayName = "Меткость лучника VI",
-		unidentifiedResourceName = "MasterArcher6",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника VI",
-		identifiedResourceName = "MasterArcher6",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +24%.",
-			"Скорость атаки +6%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29097] = {
-		unidentifiedDisplayName = "Меткость лучника VII",
-		unidentifiedResourceName = "MasterArcher7",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника VII",
-		identifiedResourceName = "MasterArcher7",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +28%.",
-			"Скорость атаки +7%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29098] = {
-		unidentifiedDisplayName = "Меткость лучника VIII",
-		unidentifiedResourceName = "MasterArcher8",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника VIII",
-		identifiedResourceName = "MasterArcher8",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +32%.",
-			"Скорость атаки +8%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29099] = {
-		unidentifiedDisplayName = "Меткость лучника IX",
-		unidentifiedResourceName = "MasterArcher9",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника IX",
-		identifiedResourceName = "MasterArcher9",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +36%.",
-			"Скорость атаки +9%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29100] = {
-		unidentifiedDisplayName = "Меткость лучника X",
-		unidentifiedResourceName = "MasterArcher10",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Меткость лучника X",
-		identifiedResourceName = "MasterArcher10",
-		identifiedDescriptionName = {
-			"Дальний физ. урон +44%.",
-			"Скорость атаки +10%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
 	[31016] = {
 		unidentifiedDisplayName = "Карта Злого нарядного дерева",
 		unidentifiedResourceName = "??????",
@@ -227043,574 +226228,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 43,
 		costume = true
-	},
-	[29061] = {
-		unidentifiedDisplayName = "Горячая кровь I",
-		unidentifiedResourceName = "Mettle1",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь I",
-		identifiedResourceName = "Mettle1",
-		identifiedDescriptionName = {
-			"Физ. атака +4%.",
-			"Точность +10.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29062] = {
-		unidentifiedDisplayName = "Горячая кровь II",
-		unidentifiedResourceName = "Mettle2",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь II",
-		identifiedResourceName = "Mettle2",
-		identifiedDescriptionName = {
-			"Физ. атака +8%.",
-			"Точность +20.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29063] = {
-		unidentifiedDisplayName = "Горячая кровь III",
-		unidentifiedResourceName = "Mettle3",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь III",
-		identifiedResourceName = "Mettle3",
-		identifiedDescriptionName = {
-			"Физ. атака +12%.",
-			"Точность +30.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29064] = {
-		unidentifiedDisplayName = "Горячая кровь IV",
-		unidentifiedResourceName = "Mettle4",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь IV",
-		identifiedResourceName = "Mettle4",
-		identifiedDescriptionName = {
-			"Физ. атака +16%.",
-			"Точность +40.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29065] = {
-		unidentifiedDisplayName = "Горячая кровь V",
-		unidentifiedResourceName = "Mettle5",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь V",
-		identifiedResourceName = "Mettle5",
-		identifiedDescriptionName = {
-			"Физ. атака +20%.",
-			"Точность +50.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29066] = {
-		unidentifiedDisplayName = "Горячая кровь VI",
-		unidentifiedResourceName = "Mettle6",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь VI",
-		identifiedResourceName = "Mettle6",
-		identifiedDescriptionName = {
-			"Физ. атака +24%.",
-			"Точность +60.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29067] = {
-		unidentifiedDisplayName = "Горячая кровь VII",
-		unidentifiedResourceName = "Mettle7",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь VII",
-		identifiedResourceName = "Mettle7",
-		identifiedDescriptionName = {
-			"Физ. атака +28%.",
-			"Точность +70.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29068] = {
-		unidentifiedDisplayName = "Горячая кровь VIII",
-		unidentifiedResourceName = "Mettle8",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь VIII",
-		identifiedResourceName = "Mettle8",
-		identifiedDescriptionName = {
-			"Физ. атака +32%.",
-			"Точность +80.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29069] = {
-		unidentifiedDisplayName = "Горячая кровь IX",
-		unidentifiedResourceName = "Mettle9",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь IX",
-		identifiedResourceName = "Mettle9",
-		identifiedDescriptionName = {
-			"Физ. атака +36%.",
-			"Точность +90.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29070] = {
-		unidentifiedDisplayName = "Горячая кровь X",
-		unidentifiedResourceName = "Mettle10",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Горячая кровь X",
-		identifiedResourceName = "Mettle10",
-		identifiedDescriptionName = {
-			"Физ. атака +44%.",
-			"Точность +100.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29075] = {
-		unidentifiedDisplayName = "Дух магии V",
-		unidentifiedResourceName = "MagicEessence5",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Дух магии V",
-		identifiedResourceName = "MagicEessence5",
-		identifiedDescriptionName = {
-			"Маг. атака +20%.",
-			"Фикс. время чтения умений -0,5 сек.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29101] = {
-		unidentifiedDisplayName = "Адамантин I",
-		unidentifiedResourceName = "Adamatine1",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин I",
-		identifiedResourceName = "Adamatine1",
-		identifiedDescriptionName = {
-			"Макс. HP +5%.",
-			"Физ. защита +140.",
-			"Маг. защита +20.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29102] = {
-		unidentifiedDisplayName = "Адамантин II",
-		unidentifiedResourceName = "Adamatine2",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин II",
-		identifiedResourceName = "Adamatine2",
-		identifiedDescriptionName = {
-			"Макс. HP +10%.",
-			"Физ. защита +180.",
-			"Маг. защита +40.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29103] = {
-		unidentifiedDisplayName = "Адамантин III",
-		unidentifiedResourceName = "Adamatine3",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин III",
-		identifiedResourceName = "Adamatine3",
-		identifiedDescriptionName = {
-			"Макс. HP +15%.",
-			"Физ. защита +220.",
-			"Маг. защита +60.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29104] = {
-		unidentifiedDisplayName = "Адамантин IV",
-		unidentifiedResourceName = "Adamatine4",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин IV",
-		identifiedResourceName = "Adamatine4",
-		identifiedDescriptionName = {
-			"Макс. HP +20%.",
-			"Физ. защита +260.",
-			"Маг. защита +80.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29105] = {
-		unidentifiedDisplayName = "Адамантин V",
-		unidentifiedResourceName = "Adamatine5",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин V",
-		identifiedResourceName = "Adamatine5",
-		identifiedDescriptionName = {
-			"Макс. HP +25%.",
-			"Физ. защита +300.",
-			"Маг. защита +100.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29106] = {
-		unidentifiedDisplayName = "Адамантин VI",
-		unidentifiedResourceName = "Adamatine6",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин VI",
-		identifiedResourceName = "Adamatine6",
-		identifiedDescriptionName = {
-			"Макс. HP +30%.",
-			"Физ. защита +340.",
-			"Маг. защита +120.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29107] = {
-		unidentifiedDisplayName = "Адамантин VII",
-		unidentifiedResourceName = "Adamatine7",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин VII",
-		identifiedResourceName = "Adamatine7",
-		identifiedDescriptionName = {
-			"Макс. HP +35%.",
-			"Физ. защита +380.",
-			"Маг. защита +140.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29108] = {
-		unidentifiedDisplayName = "Адамантин VIII",
-		unidentifiedResourceName = "Adamatine8",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин VIII",
-		identifiedResourceName = "Adamatine8",
-		identifiedDescriptionName = {
-			"Макс. HP +40%.",
-			"Физ. защита +420.",
-			"Маг. защита +160.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29109] = {
-		unidentifiedDisplayName = "Адамантин IX",
-		unidentifiedResourceName = "Adamatine9",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин IX",
-		identifiedResourceName = "Adamatine9",
-		identifiedDescriptionName = {
-			"Макс. HP +45%.",
-			"Физ. защита +460.",
-			"Маг. защита +180.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29110] = {
-		unidentifiedDisplayName = "Адамантин X",
-		unidentifiedResourceName = "Adamatine10",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Адамантин X",
-		identifiedResourceName = "Adamatine10",
-		identifiedDescriptionName = {
-			"Макс. HP +55%.",
-			"Физ. защита +500.",
-			"Маг. защита +200.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29111] = {
-		unidentifiedDisplayName = "Забота I",
-		unidentifiedResourceName = "Affection1",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота I",
-		identifiedResourceName = "Affection1",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +5%.",
-			"Макс. SP +3%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29112] = {
-		unidentifiedDisplayName = "Забота II",
-		unidentifiedResourceName = "Affection2",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота II",
-		identifiedResourceName = "Affection2",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +10%.",
-			"Макс. SP +6%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29113] = {
-		unidentifiedDisplayName = "Забота III",
-		unidentifiedResourceName = "Affection3",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота III",
-		identifiedResourceName = "Affection3",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +15%.",
-			"Макс. SP +9%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29114] = {
-		unidentifiedDisplayName = "Забота IV",
-		unidentifiedResourceName = "Affection4",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота IV",
-		identifiedResourceName = "Affection4",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +20%.",
-			"Макс. SP +12%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29115] = {
-		unidentifiedDisplayName = "Забота V",
-		unidentifiedResourceName = "Affection5",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота V",
-		identifiedResourceName = "Affection5",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +25%.",
-			"Макс. SP +15%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29116] = {
-		unidentifiedDisplayName = "Забота VI",
-		unidentifiedResourceName = "Affection6",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота VI",
-		identifiedResourceName = "Affection6",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +30%.",
-			"Макс. SP +18%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29117] = {
-		unidentifiedDisplayName = "Забота VII",
-		unidentifiedResourceName = "Affection7",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота VII",
-		identifiedResourceName = "Affection7",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +35%.",
-			"Макс. SP +21%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29118] = {
-		unidentifiedDisplayName = "Забота VIII",
-		unidentifiedResourceName = "Affection8",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота VIII",
-		identifiedResourceName = "Affection8",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +40%.",
-			"Макс. SP +24%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29119] = {
-		unidentifiedDisplayName = "Забота IX",
-		unidentifiedResourceName = "Affection9",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота IX",
-		identifiedResourceName = "Affection9",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +45%.",
-			"Макс. SP +27%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29120] = {
-		unidentifiedDisplayName = "Забота X",
-		unidentifiedResourceName = "Affection10",
-		unidentifiedDescriptionName = {
-			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
-		},
-		identifiedDisplayName = "Забота X",
-		identifiedResourceName = "Affection10",
-		identifiedDescriptionName = {
-			"Эффективность исходящих исцеляющих умений +55%.",
-			"Макс. SP +30%.",
-			"^777777—————————————^000000",
-			"Вес: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
 	},
 	[4906] = {
 		unidentifiedDisplayName = "Маг. атака +6%",
@@ -250614,63 +249231,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"Атака из лука +3% за каждые 2 уровня заточки шлема.",
 			"Точность +7 за каждые 2 уровня заточки шлема.",
-			"Физ. атака +3% за каждые 5 уровней заточки шлема."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29687] = {
-		unidentifiedDisplayName = "Кристалл времени (Удача) (ур. 1)",
-		unidentifiedResourceName = "Time_Jewely_Luk",
-		unidentifiedDescriptionName = {
-			"Крит. урон +2% за каждые 2 уровня заточки шлема.",
-			"Шанс крит. удара +1 за каждые 2 уровня заточки шлема.",
-			"Физ. атака +1% за каждые 5 уровней заточки шлема."
-		},
-		identifiedDisplayName = "Кристалл времени (Удача) (ур. 1)",
-		identifiedResourceName = "Time_Jewely_Luk",
-		identifiedDescriptionName = {
-			"Крит. урон +2% за каждые 2 уровня заточки шлема.",
-			"Шанс крит. удара +1 за каждые 2 уровня заточки шлема.",
-			"Физ. атака +1% за каждые 5 уровней заточки шлема."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29688] = {
-		unidentifiedDisplayName = "Кристалл времени (Удача) (ур. 2)",
-		unidentifiedResourceName = "Time_Jewely_Luk",
-		unidentifiedDescriptionName = {
-			"Крит. урон +4% за каждые 2 уровня заточки шлема.",
-			"Шанс крит. удара +2 за каждые 2 уровня заточки шлема.",
-			"Физ. атака +2% за каждые 5 уровней заточки шлема."
-		},
-		identifiedDisplayName = "Кристалл времени (Удача) (ур. 2)",
-		identifiedResourceName = "Time_Jewely_Luk",
-		identifiedDescriptionName = {
-			"Крит. урон +4% за каждые 2 уровня заточки шлема.",
-			"Шанс крит. удара +2 за каждые 2 уровня заточки шлема.",
-			"Физ. атака +2% за каждые 5 уровней заточки шлема."
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[29689] = {
-		unidentifiedDisplayName = "Кристалл времени (Удача) (ур. 3)",
-		unidentifiedResourceName = "Time_Jewely_Luk",
-		unidentifiedDescriptionName = {
-			"Крит. урон +6% за каждые 2 уровня заточки шлема.",
-			"Шанс крит. удара +3 за каждые 2 уровня заточки шлема.",
-			"Физ. атака +3% за каждые 5 уровней заточки шлема."
-		},
-		identifiedDisplayName = "Кристалл времени (Удача) (ур. 3)",
-		identifiedResourceName = "Time_Jewely_Luk",
-		identifiedDescriptionName = {
-			"Крит. урон +6% за каждые 2 уровня заточки шлема.",
-			"Шанс крит. удара +3 за каждые 2 уровня заточки шлема.",
 			"Физ. атака +3% за каждые 5 уровней заточки шлема."
 		},
 		slotCount = 0,
@@ -278578,6 +277138,29 @@ tbl = {
 		ClassNum = 71,
 		costume = true
 	},
+	[19992] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Дыхание зимы (Декор)",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = {
+			"Все кругом замело снегом, кружат метели... Как холодно! Облачка морозного пара вылетают из вашего рта с каждым дыханием.",
+			"^777777—————————————^000000",
+			"Интеллект +5.",
+			"При успешной физ. атаке с шансом 10% накладывает на противника заморозку.",
+			"^777777—————————————^000000",
+			"Класс: ^777777 Декор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Рот^000000",
+			"Вес: ^7777771^000000",
+			"Требуемый уровень: ^77777710^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 885,
+		costume = true
+	},
 	[32296] = {
 		unidentifiedDisplayName = "Аксессуар",
 		unidentifiedResourceName = "??",
@@ -280442,6 +279025,3533 @@ tbl = {
 			"^4A94F7»^000000 <ITEM>Сушеные ягоды Иггдрасиля<INFO>12293</INFO></ITEM> ^777777x60^000000",
 			"^777777—————————————^000000",
 			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6285] = {
+		unidentifiedDisplayName = "Книга о высших зельях",
+		unidentifiedResourceName = "Книга о высших зельях",
+		unidentifiedDescriptionName = {
+			"Руководство по изготовления сложных зелий, таких как белое зелье обогащения, Вита-500, обогащенный сок Селомайна и так далее.",
+			" ",
+			"Белое зелье обогащения: ^000088пустая колба (10 шт.) + белое зелье (20 шт.) + белая трава (10 шт.) + спирт (1 шт.)^000000",
+			" ",
+			"Вита-500: ^000088пустая колба (10 шт.) + синяя трава (10 шт.) + виноград (10 шт.) + мед (1 шт.)^000000",
+			" ",
+			"Обогащенный сок Селомайна: ^000088пустая колба (10 шт.) + зелье концентрации (5 шт.) + зелье пробуждения (5 шт.) + острый соус (5 шт.)^000000",
+			" ",
+			"Очищение свободы: ^000088пустая колба (10 шт.) + зеленая трава (20 шт.) + панацея (5 шт.) + фрукт мастелы (1 шт.) + лист Иггдрасиля (1 шт.)^000000",
+			" ",
+			"Золотое зелье: ^000088пустая колба (10 шт.) + ягода Иггдрасиля (10 шт.) + золото (5 шт.)^000000",
+			" ",
+			"Зелье красной травы: ^000088пустая колба (10 шт.) + красная трава (45 шт.) + семя Иггдрасиля (5 шт.)^000000",
+			" ",
+			"Зелье синей травы: ^000088пустая колба (10 шт.) + синяя трава (15 шт.) + семя Иггдрасиля (5 шт.)^000000",
+			" ",
+			"Обогащенный красный настой: ^000088пустая бутылка (10 шт.) + пустой пузырек (5 шт.) + красный настой (15 шт.)^000000",
+			" ",
+			"Обогащенный синий настой: ^000088пустая бутылка (10 шт.) + пустой пузырек (5 шт.) + синий настой (15 шт.)^000000",
+			" ",
+			"Обогащенный золотой настой: ^000088пустая бутылка (10 шт.) + пустой пузырек (5 шт.) + белый настой (10 шт.) + желтый настой (10 шт.)^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		identifiedDisplayName = "Книга о высших зельях",
+		identifiedResourceName = "Книга о высших зельях",
+		identifiedDescriptionName = {
+			"Руководство по изготовления сложных зелий, таких как белое зелье обогащения, Вита-500, обогащенный сок Селомайна и так далее.",
+			" ",
+			"Белое зелье обогащения: ^000088пустая колба (10 шт.) + белое зелье (20 шт.) + белая трава (10 шт.) + спирт (1 шт.)^000000",
+			" ",
+			"Вита-500: ^000088пустая колба (10 шт.) + синяя трава (10 шт.) + виноград (10 шт.) + мед (1 шт.)^000000",
+			" ",
+			"Обогащенный сок Селомайна: ^000088пустая колба (10 шт.) + зелье концентрации (5 шт.) + зелье пробуждения (5 шт.) + острый соус (5 шт.)^000000",
+			" ",
+			"Очищение свободы: ^000088пустая колба (10 шт.) + зеленая трава (20 шт.) + панацея (5 шт.) + фрукт мастелы (1 шт.) + лист Иггдрасиля (1 шт.)^000000",
+			" ",
+			"Золотое зелье: ^000088пустая колба (10 шт.) + ягода Иггдрасиля (10 шт.) + золото (5 шт.)^000000",
+			" ",
+			"Зелье красной травы: ^000088пустая колба (10 шт.) + красная трава (45 шт.) + семя Иггдрасиля (5 шт.)^000000",
+			" ",
+			"Зелье синей травы: ^000088пустая колба (10 шт.) + синяя трава (15 шт.) + семя Иггдрасиля (5 шт.)^000000",
+			" ",
+			"Обогащенный красный настой: ^000088пустая бутылка (10 шт.) + пустой пузырек (5 шт.) + красный настой (15 шт.)^000000",
+			" ",
+			"Обогащенный синий настой: ^000088пустая бутылка (10 шт.) + пустой пузырек (5 шт.) + синий настой (15 шт.)^000000",
+			" ",
+			"Обогащенный золотой настой: ^000088пустая бутылка (10 шт.) + пустой пузырек (5 шт.) + белый настой (10 шт.) + желтый настой (10 шт.)^000000",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1100003] = {
+		unidentifiedDisplayName = "Обогащенный красный настой",
+		unidentifiedResourceName = "Concentrated_R_P",
+		unidentifiedDescriptionName = {
+			"Концентрированный красный настой.",
+			"Прошел несколько дополнительных стадий обработки для улучшения его качества.",
+			"Перед применением проконсультируйтесь со своим лечащим врачом.",
+			"Восстанавливает ^000000примерно 675 HP^000000.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777120^000000",
+			"Вес: ^7777770,2^000000"
+		},
+		identifiedDisplayName = "Обогащенный красный настой",
+		identifiedResourceName = "Concentrated_R_P",
+		identifiedDescriptionName = {
+			"Концентрированный красный настой.",
+			"Прошел несколько дополнительных стадий обработки для улучшения его качества.",
+			"Перед применением проконсультируйтесь со своим лечащим врачом.",
+			"Восстанавливает ^000000примерно 675 HP^000000.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777120^000000",
+			"Вес: ^7777770,2^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1100004] = {
+		unidentifiedDisplayName = "Обогащенный синий настой",
+		unidentifiedResourceName = "Concentrated_B_P",
+		unidentifiedDescriptionName = {
+			"Концентрированный синий настой.",
+			"Прошел несколько дополнительных стадий обработки для улучшения его качества.",
+			"Перед применением проконсультируйтесь со своим лечащим врачом.",
+			"Восстанавливает ^000000примерно 360 SP.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777120^000000",
+			"Вес: ^7777770,2^000000"
+		},
+		identifiedDisplayName = "Обогащенный синий настой",
+		identifiedResourceName = "Concentrated_B_P",
+		identifiedDescriptionName = {
+			"Концентрированный синий настой.",
+			"Прошел несколько дополнительных стадий обработки для улучшения его качества.",
+			"Перед применением проконсультируйтесь со своим лечащим врачом.",
+			"Восстанавливает ^000000примерно 360 SP.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777120^000000",
+			"Вес: ^7777770,2^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1100005] = {
+		unidentifiedDisplayName = "Обогащенный золотой настой",
+		unidentifiedResourceName = "Concentrated_G_P",
+		unidentifiedDescriptionName = {
+			"Препарат, созданный с помощью смешения белого и желтого настоев.",
+			"Прошел несколько дополнительных стадий обработки для улучшения его качества.",
+			"Перед применением проконсультируйтесь со своим лечащим врачом.",
+			"Восстанавливает ^000000примерно 2750 HP^000000.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777180^000000",
+			"Вес: ^7777770,2^000000"
+		},
+		identifiedDisplayName = "Обогащенный золотой настой",
+		identifiedResourceName = "Concentrated_G_P",
+		identifiedDescriptionName = {
+			"Препарат, созданный с помощью смешения белого и желтого настоев.",
+			"Прошел несколько дополнительных стадий обработки для улучшения его качества.",
+			"Перед применением проконсультируйтесь со своим лечащим врачом.",
+			"Восстанавливает ^000000примерно 2750 HP^000000.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777180^000000",
+			"Вес: ^7777770,2^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100231] = {
+		unidentifiedDisplayName = "Золотое зелье",
+		unidentifiedResourceName = "Ref_T_Potion",
+		unidentifiedDescriptionName = {
+			"Дает иммунитет к отраженному физическому и магическому урону.",
+			"Время действия: 30 сек.",
+			"^777777—————————————^000000",
+			"Вес: ^7777773^000000"
+		},
+		identifiedDisplayName = "Золотое зелье",
+		identifiedResourceName = "Ref_T_Potion",
+		identifiedDescriptionName = {
+			"Дает иммунитет к отраженному физическому и магическому урону.",
+			"Время действия: 30 сек.",
+			"^777777—————————————^000000",
+			"Вес: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100232] = {
+		unidentifiedDisplayName = "Зелье красной травы",
+		unidentifiedResourceName = "Add_Atk_Potion",
+		unidentifiedDescriptionName = {
+			"Зелье, приготовленное из отвара красной травы и растертых семян Иггдрасиля.",
+			"Временно увеличивает дальний и ближний физ. урон на 15%.",
+			"Время действия: 500 сек.",
+			"^777777—————————————^000000",
+			"Вес: ^7777773^000000"
+		},
+		identifiedDisplayName = "Зелье красной травы",
+		identifiedResourceName = "Add_Atk_Potion",
+		identifiedDescriptionName = {
+			"Зелье, приготовленное из отвара красной травы и растертых семян Иггдрасиля.",
+			"Временно увеличивает дальний и ближний физ. урон на 15%.",
+			"Время действия: 500 сек.",
+			"^777777—————————————^000000",
+			"Вес: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100233] = {
+		unidentifiedDisplayName = "Зелье синей травы",
+		unidentifiedResourceName = "Add_Matk_Potion",
+		unidentifiedDescriptionName = {
+			"Зелье, приготовленное из отвара синей травы и растертых семян Иггдрасиля.",
+			"Временно увеличивает маг. урон всеми элементами на 15%.",
+			"Время действия: 500 сек.",
+			"^777777—————————————^000000",
+			"Вес: ^7777773^000000"
+		},
+		identifiedDisplayName = "Зелье синей травы",
+		identifiedResourceName = "Add_Matk_Potion",
+		identifiedDescriptionName = {
+			"Зелье, приготовленное из отвара синей травы и растертых семян Иггдрасиля.",
+			"Временно увеличивает маг. урон всеми элементами на 15%.",
+			"Время действия: 500 сек.",
+			"^777777—————————————^000000",
+			"Вес: ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11621] = {
+		unidentifiedDisplayName = "Красный настой",
+		unidentifiedResourceName = "????-??",
+		unidentifiedDescriptionName = {
+			"Целебное средство, приготовленное из измельченной красной травы.^000088",
+			"Восстанавливает ^000000примерно 325 HP.",
+			"^777777—————————————^000000",
+			"Вес: ^7777777^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^7777771 сек.^000000"
+		},
+		identifiedDisplayName = "Красный настой",
+		identifiedResourceName = "????-??",
+		identifiedDescriptionName = {
+			"Целебное средство, приготовленное из измельченной красной травы.^000088",
+			"Восстанавливает ^000000примерно 325 HP.",
+			"^777777—————————————^000000",
+			"Вес: ^7777777^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^7777771 сек.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11622] = {
+		unidentifiedDisplayName = "Желтый настой",
+		unidentifiedResourceName = "????-??",
+		unidentifiedDescriptionName = {
+			"Целебное средство, приготовленное из измельченной желтой травы.^000088",
+			"Восстанавливает ^000000примерно 900 HP.",
+			"^777777—————————————^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^7777771 сек.^000000"
+		},
+		identifiedDisplayName = "Желтый настой",
+		identifiedResourceName = "????-??",
+		identifiedDescriptionName = {
+			"Целебное средство, приготовленное из измельченной желтой травы.^000088",
+			"Восстанавливает ^000000примерно 900 HP.",
+			"^777777—————————————^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^7777771 сек.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11623] = {
+		unidentifiedDisplayName = "Белый настой",
+		unidentifiedResourceName = "????-??",
+		unidentifiedDescriptionName = {
+			"Целебное средство, приготовленное из измельченной белой травы.^000088",
+			"Восстанавливает ^000000примерно 1800 HP.",
+			"^777777—————————————^000000",
+			"Вес: ^77777714^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^7777771 сек.^000000"
+		},
+		identifiedDisplayName = "Белый настой",
+		identifiedResourceName = "????-??",
+		identifiedDescriptionName = {
+			"Целебное средство, приготовленное из измельченной белой травы.^000088",
+			"Восстанавливает ^000000примерно 1800 HP.",
+			"^777777—————————————^000000",
+			"Вес: ^77777714^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^7777771 сек.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[11624] = {
+		unidentifiedDisplayName = "Синий настой",
+		unidentifiedResourceName = "????-??",
+		unidentifiedDescriptionName = {
+			"Восполняющее силы средство, приготовленное из измельченной синей травы.^000088",
+			"Восстанавливает ^000000примерно 180 SP.",
+			"^777777—————————————^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^77777710 сек.^000000"
+		},
+		identifiedDisplayName = "Синий настой",
+		identifiedResourceName = "????-??",
+		identifiedDescriptionName = {
+			"Восполняющее силы средство, приготовленное из измельченной синей травы.^000088",
+			"Восстанавливает ^000000примерно 180 SP.",
+			"^777777—————————————^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777760^000000",
+			"Перезарядка: ^77777710 сек.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300274] = {
+		unidentifiedDisplayName = "Карта истинного Гнева Танатоса",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Физ. атака -10% ",
+			"Физ. атака +3% за каждые 3 уровня заточки.",
+			"При заточке на +11 и выше физ. атака +5%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Карта^000000",
+			"Класс: ^777777Щит^000000",
+			"Вес: ^7777771^000000"
+		},
+		identifiedDisplayName = "Карта истинного Гнева Танатоса",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Физ. атака -10% ",
+			"Физ. атака +3% за каждые 3 уровня заточки.",
+			"При заточке на +11 и выше физ. атака +5%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Карта^000000",
+			"Класс: ^777777Щит^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[6728] = {
+		unidentifiedDisplayName = "Красная ключ-карта",
+		unidentifiedResourceName = "??_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает красные врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		identifiedDisplayName = "Красная ключ-карта",
+		identifiedResourceName = "??_??",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает красные врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6729] = {
+		unidentifiedDisplayName = "Синяя ключ-карта",
+		unidentifiedResourceName = "??_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает синие врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		identifiedDisplayName = "Синяя ключ-карта",
+		identifiedResourceName = "??_??",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает синие врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6730] = {
+		unidentifiedDisplayName = "Зеленая ключ-карта",
+		unidentifiedResourceName = "??_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает зеленые врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		identifiedDisplayName = "Зеленая ключ-карта",
+		identifiedResourceName = "??_??",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает зеленые врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[6731] = {
+		unidentifiedDisplayName = "Золотая ключ-карта",
+		unidentifiedResourceName = "??_??",
+		unidentifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает золотые врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		identifiedDisplayName = "Золотая ключ-карта",
+		identifiedResourceName = "??_??",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к персонажу.^000000",
+			"Открывает золотые врата.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[490044] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Рубиновое кольцо греха",
+		identifiedResourceName = "Sin_Ring_R",
+		identifiedDescriptionName = {
+			"Черное кольцо, украшенное зловеще мерцающим рубином.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с броней красного дракона, сапогами из чешуи дракона и капюшоном из чешуи дракона]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-драконам +20%.",
+			"Защита от монстров-ангелов и монстров-драконов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490045] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Рубиновое ожерелье греха",
+		identifiedResourceName = "Sin_Necklace_R",
+		identifiedDescriptionName = {
+			"Черное ожерелье, украшенное зловеще мерцающим рубином.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с рубиновым кольцом греха]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,3 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-драконам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490046] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Изумрудное кольцо греха",
+		identifiedResourceName = "Sin_Ring_E",
+		identifiedDescriptionName = {
+			"Черное кольцо, украшенное зловеще мерцающим изумрудом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с броней зеленого дракона, сапогами из чешуи дракона и капюшоном из чешуи дракона]^000000  ",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек. дополнительно.",
+			"Физ. урон по монстрам-ангелам и монстрам-драконам +20%.",
+			"Защита от монстров-ангелов и монстров-драконов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490047] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Изумрудное ожерелье греха",
+		identifiedResourceName = "Sin_Necklace_E",
+		identifiedDescriptionName = {
+			"Черное ожерелье, украшенное зловеще мерцающим изумрудом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с изумрудным кольцом греха]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,3 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-драконам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490048] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Топазовое кольцо греха",
+		identifiedResourceName = "Sin_Ring_T",
+		identifiedDescriptionName = {
+			"Черное кольцо, украшенное зловеще мерцающим топазом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Маг. атака +7%, физ. атака +7%, увеличивается скорость атаки (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с броней золотого дракона, сапогами из чешуи дракона и капюшоном из чешуи дракона]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек. дополнительно.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-драконам +20%.",
+			"Защита от монстров-ангелов и монстров-драконов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490049] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Топазовое ожерелье греха",
+		identifiedResourceName = "Sin_Necklace_T",
+		identifiedDescriptionName = {
+			"Черное ожерелье, украшенное зловеще мерцающим топазом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +7%, маг. атака +7%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с топазовым кольцом греха]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,3 сек.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-драконам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490050] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Аметистовое кольцо греха",
+		identifiedResourceName = "Sin_Ring_A",
+		identifiedDescriptionName = {
+			"Черное кольцо, украшенное зловеще мерцающим аметистом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Маг. атака +7%, физ. атака +7%, увеличивается скорость атаки (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с броней фиолетового дракона, сапогами из чешуи дракона и капюшоном из чешуи дракона]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек. дополнительно.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-драконам +20%.",
+			"Защита от монстров-ангелов и монстров-драконов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490051] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Аметистовое ожерелье греха",
+		identifiedResourceName = "Sin_Necklace_A",
+		identifiedDescriptionName = {
+			"Черное ожерелье, украшенное зловеще мерцающим аметистом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +7%, маг. атака +7%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с аметистовым кольцом греха]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,3 сек.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-драконам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490052] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сапфировое кольцо греха",
+		identifiedResourceName = "Sin_Ring_S",
+		identifiedDescriptionName = {
+			"Черное кольцо, украшенное зловеще мерцающим сапфиром.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Маг. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с броней синего дракона, сапогами из чешуи дракона и капюшоном из чешуи дракона]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек. дополнительно.",
+			"Маг. урон по монстрам-ангелам и монстрам-драконам +20%.",
+			"Защита от монстров-ангелов и монстров-драконов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490053] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сапфировое ожерелье греха",
+		identifiedResourceName = "Sin_Necklace_S",
+		identifiedDescriptionName = {
+			"Черное ожерелье, украшенное зловеще мерцающим сапфиром.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Маг. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с сапфировым кольцом греха]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,3 сек.",
+			"Маг. урон по монстрам-ангелам и монстрам-драконам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490054] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Опаловое кольцо греха",
+		identifiedResourceName = "Sin_Ring_O",
+		identifiedDescriptionName = {
+			"Черное кольцо, украшенное зловеще мерцающим опалом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с броней серебряного дракона, сапогами из чешуи дракона и капюшоном из чешуи дракона]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек. дополнительно.",
+			"Физ. урон по монстрам-ангелам и монстрам-драконам +20%.",
+			"Защита от монстров-ангелов и монстров-драконов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490055] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Опаловое ожерелье греха",
+		identifiedResourceName = "Sin_Necklace_O",
+		identifiedDescriptionName = {
+			"Черное ожерелье, украшенное зловеще мерцающим опалом.",
+			"Вы ощущаете исходящие от него эманации темной магии.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с опаловым кольцом греха]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,3 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-драконам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490056] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Рубиновое кольцо света",
+		identifiedResourceName = "Shine_Ring_R",
+		identifiedDescriptionName = {
+			"Золотое кольцо, украшенное рубином, сияющим мягким светом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с сутаной силы, плащом жреца и сапогами жреца]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-демонам +20%.",
+			"Защита от монстров-ангелов и монстров-демонов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490057] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Рубиновое ожерелье света",
+		identifiedResourceName = "Shine_Necklace_R",
+		identifiedDescriptionName = {
+			"Изящное ожерелье, украшенное сверкающим рубином.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с рубиновым кольцом света]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-демонам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490058] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Аметистовое кольцо света",
+		identifiedResourceName = "Shine_Ring_A",
+		identifiedDescriptionName = {
+			"Кольцо с сияющим фиолетовым аметистом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Маг. атака +7%, физ. атака +7%, увеличивается скорость атаки (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с сутаной сноровки, плащом жреца и сапогами жреца]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-демонам +20%.",
+			"Защита от монстров-ангелов и монстров-демонов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490059] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Аметистовое ожерелье света",
+		identifiedResourceName = "Shine_Necklace_A",
+		identifiedDescriptionName = {
+			"Изящное ожерелье, украшенное сверкающим аметистом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +7%, маг. атака +7%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с аметистовым кольцом света]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-демонам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490060] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Изумрудное кольцо света",
+		identifiedResourceName = "Shine_Ring_E",
+		identifiedDescriptionName = {
+			"Кольцо с сияющим зеленым изумрудом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Маг. атака +7%, физ. атака +7%, увеличивается скорость атаки (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с сутаной выносливости, плащом жреца и сапогами жреца]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-демонам +20%.",
+			"Защита от монстров-ангелов и монстров-демонов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490061] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Изумрудное ожерелье света",
+		identifiedResourceName = "Shine_Necklace_E",
+		identifiedDescriptionName = {
+			"Изящное ожерелье, украшенное сверкающим изумрудом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +7%, маг. атака +7%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с изумрудным кольцом света]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ./маг. урон по монстрам-ангелам и монстрам-демонам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490062] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Цирконовое кольцо света",
+		identifiedResourceName = "Shine_Ring_Z",
+		identifiedDescriptionName = {
+			"Кольцо с сияющим голубым цирконом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с сутаной ловкости, плащом жреца и сапогами жреца]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-демонам +20%.",
+			"Защита от монстров-ангелов и монстров-демонов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490063] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Цирконовое ожерелье света",
+		identifiedResourceName = "Shine_Necklace_Z",
+		identifiedDescriptionName = {
+			"Изящное ожерелье, украшенное сверкающим цирконом.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с цирконовым кольцом света]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-демонам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490064] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сапфировое кольцо света",
+		identifiedResourceName = "Shine_Ring_S",
+		identifiedDescriptionName = {
+			"Кольцо с сияющим синим сапфиром.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Маг. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с сутаной интеллекта, плащом жреца и сапогами жреца]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Маг. урон по монстрам-ангелам и монстрам-демонам +20%.",
+			"Защита от монстров-ангелов и монстров-демонов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490065] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сапфировое ожерелье света",
+		identifiedResourceName = "Shine_Necklace_S",
+		identifiedDescriptionName = {
+			"Изящное ожерелье, украшенное сверкающим сапфиром.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Маг. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с сапфировым кольцом света]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Маг. урон по монстрам-ангелам и монстрам-демонам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490066] = {
+		unidentifiedDisplayName = "Кольцо",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Аквамариновое кольцо света",
+		identifiedResourceName = "Shine_Ring_AQ",
+		identifiedDescriptionName = {
+			"Кольцо с сияющим зеленовато-голубым аквамарином.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, скорость атаки увеличивается (задержка после атаки -7%).",
+			" ",
+			"^264696[При экипировке вместе с сутаной удачи, плащом жреца и сапогами жреца]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-демонам +20%.",
+			"Защита от монстров-ангелов и монстров-демонов +10%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490067] = {
+		unidentifiedDisplayName = "Рубиновое ожерелье греха",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Аквамариновое ожерелье света",
+		identifiedResourceName = "Shine_Necklace_AQ",
+		identifiedDescriptionName = {
+			"Изящное ожерелье, украшенное сверкающим аквамарином.",
+			"Вы ощущаете исходящую от него благодать.",
+			"^777777—————————————^000000",
+			"Физ. атака +10%, вариативное время применения всех умений -7%.",
+			" ",
+			"^264696[При экипировке вместе с аквамариновым кольцом света]^000000",
+			"Задержка после умения -5%.",
+			"Фиксированное время применения всех умений -0,2 сек.",
+			"Физ. урон по монстрам-ангелам и монстрам-демонам +15%.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[310197] = {
+		unidentifiedDisplayName = "Гнев I",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Гнев I",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Физ. атака +1%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310198] = {
+		unidentifiedDisplayName = "Гнев II",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Гнев II",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Физ. атака +3%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310199] = {
+		unidentifiedDisplayName = "Гнев III",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Гнев III",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Физ. атака +5%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310200] = {
+		unidentifiedDisplayName = "Гнев IV",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Гнев IV",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "физ. атака +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310201] = {
+		unidentifiedDisplayName = "Гнев V",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Гнев V",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Физ. атака +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310202] = {
+		unidentifiedDisplayName = "Ужас I",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ужас I",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Маг. атака +1%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310203] = {
+		unidentifiedDisplayName = "Ужас II",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ужас II",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Маг. атака +3%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310204] = {
+		unidentifiedDisplayName = "Ужас III",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ужас III",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Маг. атака +5%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310205] = {
+		unidentifiedDisplayName = "Ужас IV",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ужас IV",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Маг. атака +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310206] = {
+		unidentifiedDisplayName = "Ужас V",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ужас V",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Маг. атака +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310207] = {
+		unidentifiedDisplayName = "Горечь I",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Горечь I",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Крит. урон +1%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310208] = {
+		unidentifiedDisplayName = "Горечь II",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Горечь II",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Крит. урон +3%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310209] = {
+		unidentifiedDisplayName = "Горечь III",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Горечь III",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Крит. урон +5%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310210] = {
+		unidentifiedDisplayName = "Горечь IV",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Горечь IV",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Крит. урон +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310211] = {
+		unidentifiedDisplayName = "Горечь V",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Горечь V",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Крит. урон 10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310212] = {
+		unidentifiedDisplayName = "Сожаление I",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сожаление I",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +1%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310213] = {
+		unidentifiedDisplayName = "Сожаление II",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сожаление II",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +3%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310214] = {
+		unidentifiedDisplayName = "Сожаление III",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сожаление III",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +5%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310215] = {
+		unidentifiedDisplayName = "Сожаление IV",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сожаление IV",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +7%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310216] = {
+		unidentifiedDisplayName = "Сожаление V",
+		unidentifiedResourceName = "Крупица энергии",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Сожаление V",
+		identifiedResourceName = "Крупица энергии",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +10%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310217] = {
+		unidentifiedDisplayName = "Ангел-целитель I",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел-целитель I",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Физ. атака +1%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310218] = {
+		unidentifiedDisplayName = "Ангел-целитель II",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел-целитель II",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Физ. атака +3%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310219] = {
+		unidentifiedDisplayName = "Ангел-целитель III",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел-целитель III",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Физ. атака +5%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310220] = {
+		unidentifiedDisplayName = "Ангел-целитель IV",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел-целитель IV",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "физ. атака +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310221] = {
+		unidentifiedDisplayName = "Ангел-целитель V",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел-целитель V",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Физ. атака +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310222] = {
+		unidentifiedDisplayName = "Ангел счастья I",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел счастья I",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Маг. атака +1%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310223] = {
+		unidentifiedDisplayName = "Ангел счастья II",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел счастья II",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Маг. атака +3%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310224] = {
+		unidentifiedDisplayName = "Ангел счастья III",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел счастья III",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Маг. атака +5%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310225] = {
+		unidentifiedDisplayName = "Ангел счастья IV",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел счастья IV",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Маг. атака +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310226] = {
+		unidentifiedDisplayName = "Ангел счастья V",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел счастья V",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Маг. атака +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310227] = {
+		unidentifiedDisplayName = "Ангел защиты I",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел защиты I",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Крит. урон +1%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310228] = {
+		unidentifiedDisplayName = "Ангел защиты II",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел защиты II",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Крит. урон +3%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310229] = {
+		unidentifiedDisplayName = "Ангел защиты III",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел защиты III",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Крит. урон +5%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310230] = {
+		unidentifiedDisplayName = "Ангел защиты IV",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел защиты IV",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Крит. урон +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310231] = {
+		unidentifiedDisplayName = "Ангел защиты V",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел защиты V",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Крит. урон +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310232] = {
+		unidentifiedDisplayName = "Ангел покоя I",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел покоя I",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +1%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310233] = {
+		unidentifiedDisplayName = "Ангел покоя II",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел покоя II",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +3%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310234] = {
+		unidentifiedDisplayName = "Ангел покоя III",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел покоя III",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +5%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310235] = {
+		unidentifiedDisplayName = "Ангел покоя IV",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел покоя IV",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +7%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310236] = {
+		unidentifiedDisplayName = "Ангел покоя V",
+		unidentifiedResourceName = "Проклятая искра",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ангел покоя V",
+		identifiedResourceName = "Проклятая искра",
+		identifiedDescriptionName = { "Макс. HP, макс. SP +10%" },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310237] = {
+		unidentifiedDisplayName = "Бич крылатых I",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич крылатых I",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-драконам и монстрам-ангелам +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310238] = {
+		unidentifiedDisplayName = "Бич крылатых II",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич крылатых II",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-драконам и монстрам-ангелам +15%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310239] = {
+		unidentifiedDisplayName = "Бич крылатых III",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич крылатых III",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-драконам и монстрам-ангелам +20%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310240] = {
+		unidentifiedDisplayName = "Бич крылатых IV",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич крылатых IV",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-драконам и монстрам-ангелам +25%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310241] = {
+		unidentifiedDisplayName = "Бич крылатых V",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич крылатых V",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-драконам и монстрам-ангелам +35%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310242] = {
+		unidentifiedDisplayName = "Порча крылатых I",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча крылатых I",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-драконам и монстрам-ангелам +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310243] = {
+		unidentifiedDisplayName = "Порча крылатых II",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча крылатых II",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-драконам и монстрам-ангелам +15%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310244] = {
+		unidentifiedDisplayName = "Порча крылатых III",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча крылатых III",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-драконам и монстрам-ангелам +20%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310245] = {
+		unidentifiedDisplayName = "Порча крылатых IV",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча крылатых IV",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-драконам и монстрам-ангелам +25%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310246] = {
+		unidentifiedDisplayName = "Порча крылатых V",
+		unidentifiedResourceName = "????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча крылатых V",
+		identifiedResourceName = "????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-драконам и монстрам-ангелам +35%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310247] = {
+		unidentifiedDisplayName = "Бич духов I",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич духов I",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-демонам и монстрам-ангелам +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310248] = {
+		unidentifiedDisplayName = "Бич духов II",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич духов II",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-демонам и монстрам-ангелам +15%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310249] = {
+		unidentifiedDisplayName = "Бич духов III",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич духов III",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-демонам и монстрам-ангелам +20%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310250] = {
+		unidentifiedDisplayName = "Бич духов IV",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич духов IV",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-демонам и монстрам-ангелам +25%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310251] = {
+		unidentifiedDisplayName = "Бич духов V",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Бич духов V",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Физ. урон по монстрам-демонам и монстрам-ангелам +35%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310252] = {
+		unidentifiedDisplayName = "Порча духов I",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча духов I",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-демонам и монстрам-ангелам +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310253] = {
+		unidentifiedDisplayName = "Порча духов II",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча духов II",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-демонам и монстрам-ангелам +15%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310254] = {
+		unidentifiedDisplayName = "Порча духов III",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча духов III",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-демонам и монстрам-ангелам +20%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310255] = {
+		unidentifiedDisplayName = "Порча духов IV",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча духов IV",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-демонам и монстрам-ангелам +25%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310256] = {
+		unidentifiedDisplayName = "Порча духов V",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Порча духов V",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = { "Маг. урон по монстрам-демонам и монстрам-ангелам +35%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000243] = {
+		unidentifiedDisplayName = "Фрагмент Гнева",
+		unidentifiedResourceName = "Sin_Shard_A",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент гнева",
+		identifiedResourceName = "Sin_Shard_A",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка греха. Говорят, фрагменты осколков греха принимают разные формы, и это одна из них. Вы ощущаете гнев, который исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000244] = {
+		unidentifiedDisplayName = "Фрагмент ужаса",
+		unidentifiedResourceName = "Sin_Shard_B",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент ужаса",
+		identifiedResourceName = "Sin_Shard_B",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка греха. Говорят, фрагменты осколков греха принимают разные формы, и это одна из них. Вы ощущаете ужас, который исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000245] = {
+		unidentifiedDisplayName = "Фрагмент горечи",
+		unidentifiedResourceName = "Sin_Shard_C",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент горечи",
+		identifiedResourceName = "Sin_Shard_C",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка греха. Говорят, фрагменты осколков греха принимают разные формы, и это одна из них. Вы ощущаете горечь, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000255] = {
+		unidentifiedDisplayName = "Фрагмент сожаления",
+		unidentifiedResourceName = "Sin_Shard_D",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент сожаления",
+		identifiedResourceName = "Sin_Shard_D",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка греха. Говорят, фрагменты осколков греха принимают разные формы, и это одна из них. Вы ощущаете сожаление, которое исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000256] = {
+		unidentifiedDisplayName = "Фрагмент скорби",
+		unidentifiedResourceName = "Sin_Shard_E",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент скорби",
+		identifiedResourceName = "Sin_Shard_E",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка греха. Говорят, фрагменты осколков греха принимают разные формы, и это одна из них. Вы ощущаете скорбь, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000257] = {
+		unidentifiedDisplayName = "Осколок греха",
+		unidentifiedResourceName = "Sin_Fragment",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Осколок греха",
+		identifiedResourceName = "Sin_Fragment",
+		identifiedDescriptionName = {
+			"Кристалл, пропитанный зловещей и темной аурой греха. Этот камень источает энергии гнева, ужаса, горечи, сожаления и скорби.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000258] = {
+		unidentifiedDisplayName = "Фрагмент исцеления",
+		unidentifiedResourceName = "Fate_Shard_A",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент исцеления",
+		identifiedResourceName = "Fate_Shard_A",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка блага. Говорят, фрагменты осколков блага принимают разные формы, и это одна из них. Вы ощущаете целительную энергию, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000259] = {
+		unidentifiedDisplayName = "Фрагмент счастья",
+		unidentifiedResourceName = "Fate_Shard_B",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент счастья",
+		identifiedResourceName = "Fate_Shard_B",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка блага. Говорят, фрагменты осколков блага принимают разные формы, и это одна из них. Вы ощущаете энергию счастья, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000260] = {
+		unidentifiedDisplayName = "Фрагмент защиты",
+		unidentifiedResourceName = "Fate_Shard_C",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент защиты",
+		identifiedResourceName = "Fate_Shard_C",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка блага. Говорят, фрагменты осколков блага принимают разные формы, и это одна из них. Вы ощущаете энергию защиты, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000261] = {
+		unidentifiedDisplayName = "Фрагмент покоя",
+		unidentifiedResourceName = "Fate_Shard_D",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент покоя",
+		identifiedResourceName = "Fate_Shard_D",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка блага. Говорят, фрагменты осколков блага принимают разные формы, и это одна из них. Вы ощущаете энергию покоя, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000262] = {
+		unidentifiedDisplayName = "Фрагмент молитвы",
+		unidentifiedResourceName = "Fate_Shard_E",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Фрагмент молитвы",
+		identifiedResourceName = "Fate_Shard_E",
+		identifiedDescriptionName = {
+			"Частица раскрошившегося осколка блага. Говорят, фрагменты осколков блага принимают разные формы, и это одна из них. Вы ощущаете энергию молитвы, которая исходит от этого фрагмента.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000263] = {
+		unidentifiedDisplayName = "Осколок блага",
+		unidentifiedResourceName = "Fate_Fragment",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Осколок блага",
+		identifiedResourceName = "Fate_Fragment",
+		identifiedDescriptionName = {
+			"Кристалл, пропитанный добродетельной и светлой аурой блага. Этот камень источает энергии молитвы, покоя, защиты, исцеления и счастья.",
+			"^777777—————————————^000000",
+			"Вес: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9785] = {
+		unidentifiedDisplayName = "Ящик морозных чар",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик морозных чар",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии заледеневших, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный сюрикен метели,",
+			"химерный комбо-кастет, химерный котелок,",
+			"химерный оживляющий плащ, химерный вестник бога.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100391] = {
+		unidentifiedDisplayName = "Ящик лунных чар",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик лунных чар",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии лунного света, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерное призрачное копье, химерный лунный кинжал,",
+			"химерный длинный жезл, химерный посох дирижера,",
+			"химерное кашне, химерные сапоги, химерная шапка медсестры,",
+			"химерная мантия Пюэнте, химерное яблоко лучника.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100392] = {
+		unidentifiedDisplayName = "Особый ящик лунных чар",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик лунных чар",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии лунного света, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевое оружие]^000000",
+			"Химерное призрачное копье, химерный лунный кинжал,",
+			"химерный длинный жезл, химерный посох дирижера,",
+			"химерное кашне, химерные сапоги, химерная шапка медсестры,",
+			"химерная мантия Пюэнте, химерное яблоко лучника.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100414] = {
+		unidentifiedDisplayName = "Ящик чар вампиризма",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик чар вампиризма",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии вампиризма, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный колдовской посох, химерный инфильтратор,",
+			"химерная баллиста, химерная книга Апокалипсиса,",
+			"химерный катар костей зомби,",
+			"химерный плащ старого маркиза.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100415] = {
+		unidentifiedDisplayName = "Особый ящик чар вампиризма",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик чар вампиризма",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии вампиризма, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный колдовской посох, химерный инфильтратор,",
+			"химерная баллиста, химерная книга Апокалипсиса,",
+			"химерный катар костей зомби,",
+			"химерный плащ старого маркиза.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100416] = {
+		unidentifiedDisplayName = "Особый ящик морозных чар",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик морозных чар",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии заледеневших, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный сюрикен метели,",
+			"химерный комбо-кастет, химерный котелок,",
+			"химерный оживляющий плащ, химерный вестник бога.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100417] = {
+		unidentifiedDisplayName = "Ящик чар Черепашьего острова",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик чар Черепашьего острова",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии Черепашьего острова, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный фума сюрикен ветра,",
+			"химерный военный топор, химерный нематериальный меч,",
+			"химерная железная клюшка,",
+			"химерный причудливый цветок, химерный поллэкс.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100418] = {
+		unidentifiedDisplayName = "Особый ящик чар Черепашьего острова",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик чар Черепашьего острова",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии Черепашьего острова, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный фума сюрикен ветра,",
+			"химерный военный топор, химерный нематериальный меч,",
+			"химерная железная клюшка,",
+			"химерный причудливый цветок, химерный поллэкс.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100419] = {
+		unidentifiedDisplayName = "Ящик чар плюшевого мишки",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик чар плюшевого мишки",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии плюшевого мишки, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный посох жизни,",
+			"химерный привратник-ДД,",
+			"химерный контркинжал,",
+			"химерная повязка на голову,",
+			"химерные сапоги.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100420] = {
+		unidentifiedDisplayName = "Особый ящик чар плюшевого мишки",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик чар плюшевого мишки",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии плюшевого мишки, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный посох жизни,",
+			"химерный привратник-ДД,",
+			"химерный контркинжал,",
+			"химерная повязка на голову,",
+			"химерные сапоги.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100421] = {
+		unidentifiedDisplayName = "Ящик чар Луанды",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик чар Луанды",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии Луанды, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерная скрижаль, химерный охотничий лук,",
+			"химерная броня Гоибниу",
+			"химерный шлем Гоибниу",
+			"химерные наплечники Гоибниу",
+			"химерная обувь Гоибниу",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100422] = {
+		unidentifiedDisplayName = "Особый ящик чар Луанды",
+		unidentifiedResourceName = "?????",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик чар Луанды",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии Луанды, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерная скрижаль, химерный охотничий лук,",
+			"химерная броня Гоибниу",
+			"химерный шлем Гоибниу",
+			"химерные наплечники Гоибниу",
+			"химерная обувь Гоибниу",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100423] = {
+		unidentifiedDisplayName = "Ящик чар лабиринта",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик чар лабиринта",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии лабиринта, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный тэгурен, химерный мясник,",
+			"химерный золотой револьвер, химерный базеральд, ",
+			"химерная бандана Морфея,",
+			"химерная накидка Морфея.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100424] = {
+		unidentifiedDisplayName = "Особый ящик чар лабиринта",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик чар лабиринта",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии лабиринта, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный тэгурен, химерный мясник,",
+			"химерный золотой револьвер, химерный базеральд, ",
+			"химерная бандана Морфея,",
+			"химерная накидка Морфея.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100425] = {
+		unidentifiedDisplayName = "Ящик глубоководных чар",
+		unidentifiedResourceName = "Теневой куб Бора",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Ящик глубоководных чар",
+		identifiedResourceName = "Теневой куб Бора",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии глубоководья, улучшенное до 4-го уровня и выше, до 7-10 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный Проводник Смерти,",
+			"химерный катар ледяных игл,",
+			"химерный Зефирус, химерный Брионак,",
+			"химерный электрический угорь, химерная электрогитара,",
+			"химерная мантия святого, химерная броня духов воды,",
+			"химерная кольчуга, химерный шлем Морриган,",
+			"химерная накидка Морриган.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100426] = {
+		unidentifiedDisplayName = "Особый ящик глубоководных чар",
+		unidentifiedResourceName = "Теневой куб",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Особый ящик глубоководных чар",
+		identifiedResourceName = "Теневой куб",
+		identifiedDescriptionName = {
+			"Таинственный ящик, который зачаровывает снаряжение Иллюзии глубоководья, улучшенное до 4-го уровня и выше, до 9-12 уровней.",
+			"^777777—————————————^000000",
+			"^000088[Целевой предмет]^000000",
+			"Химерный Проводник Смерти,",
+			"химерный катар ледяных игл,",
+			"химерный Зефирус, химерный Брионак,",
+			"химерный электрический угорь, химерная электрогитара,",
+			"химерная мантия святого, химерная броня духов воды,",
+			"химерная кольчуга, химерный шлем Морриган,",
+			"химерная накидка Морриган.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100371] = {
+		unidentifiedDisplayName = "Пищевая добавка для гомункулов",
+		unidentifiedResourceName = "Желтый препарат",
+		unidentifiedDescriptionName = {
+			"Любимая подкормка для гомункулов.",
+			"Применение повышает привязанность гомункула."
+		},
+		identifiedDisplayName = "Пищевая добавка для гомункулов",
+		identifiedResourceName = "Желтый препарат",
+		identifiedDescriptionName = {
+			"Любимая подкормка для гомункулов.",
+			"Применение повышает привязанность гомункула.",
+			"^777777—————————————^000000",
+			"Вес: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[18974] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "Котелок",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Старый ободок механика (ж.)",
+		identifiedResourceName = "Повязка леди-Механика_",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к аккаунту^000000",
+			"Все характеристики +1.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Физ. атака +4.",
+			" ",
+			"^264696[За каждые 2 уровня заточки]^000000",
+			"Макс. HP и SP +1%.",
+			"Урон умения ^0000FF[Плазменная пушка]^000000 +15%.",
+			" ",
+			"^264696[За каждые 4 уровня заточки]^000000",
+			"Задержка после использования умения ^0000FF[Самоуничтожение]^000000 -10 сек.",
+			" ",
+			"^264696[За каждые 5 уровней заточки]^000000",
+			"Скорость атаки +1.",
+			"^777777—————————————^000000",
+			"Квалификация: ^777777Головной убор^000000",
+			"Защита: ^77777710^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Механик^000000"
+		},
+		slotCount = 1,
+		ClassNum = 637,
+		costume = false
+	},
+	[18976] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "Котелок",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Старая шляпа менестреля",
+		identifiedResourceName = "Песнь Маэстро",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к аккаунту^000000",
+			"Все характеристики +1.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Дальний физ. урон +1%.",
+			" ",
+			"^264696[За каждые 2 уровня заточки]^000000",
+			"Макс. HP и SP +1%.",
+			"Урон умения ^0000FF[Вулкан стрел]^000000 +20%.",
+			"Урон умения ^0000FF[Ария поющих стрел]^000000 +15%.",
+			"^777777—————————————^000000",
+			"Квалификация: ^777777Головной убор^000000",
+			"Защита: ^77777710^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Маэстро^000000"
+		},
+		slotCount = 1,
+		ClassNum = 628,
+		costume = false
+	},
+	[18978] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "Котелок",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Старая шапка с магическим камнем",
+		identifiedResourceName = "Шляпа магических минералов",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к аккаунту^000000",
+			"Все характеристики +1.",
+			"Маг. урон +5.",
+			"Скорость восстановления SP +20%.",
+			"Задержка после использования умения ^0000FF[Огненный метеорит]^000000 -1 сек.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Маг. урон +1%.",
+			"Задержка после использования умения ^0000FF[Огненный метеорит]^000000 -0.1 сек.",
+			" ",
+			"^264696[За каждые 2 уровня заточки]^000000",
+			"Макс. HP и SP +1%.",
+			"Урон умения ^0000FF[Призрачная дымка]^000000 +15%",
+			"^777777—————————————^000000",
+			"Квалификация: ^777777Головной убор^000000",
+			"Защита: ^77777710^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Чародей^000000"
+		},
+		slotCount = 1,
+		ClassNum = 630,
+		costume = false
+	},
+	[18981] = {
+		unidentifiedDisplayName = "Шляпа",
+		unidentifiedResourceName = "Котелок",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Старый Увядающий лебедь",
+		identifiedResourceName = "Увядающий лебедь",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к аккаунту^000000",
+			"Все характеристики +1.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Дальний физ. урон +1%.",
+			" ",
+			"^264696[За каждые 2 уровня заточки]^000000",
+			"Макс. HP и SP +1%.",
+			"Урон умения ^0000FF[Вулкан стрел]^000000 +20%.",
+			"Урон умения ^0000FF[Ария поющих стрел]^000000 +15%.",
+			"^777777—————————————^000000",
+			"Квалификация: ^777777Головной убор^000000",
+			"Защита: ^77777710^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Муза^000000"
+		},
+		slotCount = 1,
+		ClassNum = 635,
+		costume = false
+	},
+	[18982] = {
+		unidentifiedDisplayName = "Шлем",
+		unidentifiedResourceName = "Шлем",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Старый венец с черепом",
+		identifiedResourceName = "Венец с черепом",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к аккаунту^000000",
+			"Все характеристики +1.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Крит. урон +1%.",
+			"Скорость атаки +1%.",
+			" ",
+			"^264696[За каждые 2 уровня заточки]^000000",
+			"Макс. HP и SP +1%.",
+			"Урон умения ^0000FF[Сверхсветовой удар]^000000 +15%.",
+			"Урон умения ^0000FF[Бросок лезвий]^000000 +20%.",
+			"^777777—————————————^000000",
+			"Квалификация: ^777777Головной убор^000000",
+			"Защита: ^77777710^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Каратель^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1141,
+		costume = false
+	},
+	[18983] = {
+		unidentifiedDisplayName = "Шлем",
+		unidentifiedResourceName = "Шлем",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Старое забрало покровительства",
+		identifiedResourceName = "Шлем покровительства",
+		identifiedDescriptionName = {
+			"^ff0000Привязано к аккаунту^000000",
+			"Все характеристики +1.",
+			"Маг. защита +5.",
+			" ",
+			"^264696[За каждый уровень заточки]^000000",
+			"Физ. атака +4.",
+			" ",
+			"^264696[За каждые 2 уровня заточки]^000000",
+			"Макс. HP и SP +1%.",
+			"Урон умения ^0000FF[Гарпун]^000000 +20%.",
+			"Урон умения ^0000FF[Нанесение клейма]^000000 +15%.",
+			" ",
+			"^264696[За каждые 5 уровней заточки]^000000",
+			"Скорость атаки +1.",
+			"^777777—————————————^000000",
+			"Квалификация: ^777777Головной убор^000000",
+			"Защита: ^77777710^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^777777170^000000",
+			"Квалификация: ^777777Тамплиер^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1140,
+		costume = false
+	},
+	[4875] = {
+		unidentifiedDisplayName = "Чары медвежьей силы",
+		unidentifiedResourceName = "Маленький брадиум",
+		unidentifiedDescriptionName = {
+			"При получении физ. урона шанс на 5 секунд активировать Чары медвежьей силы:",
+			"Сила +200.",
+			"HP -500 каждую секунду.",
+			"При снятии предмета SP -300."
+		},
+		identifiedDisplayName = "Чары медвежьей силы",
+		identifiedResourceName = "Маленький брадиум",
+		identifiedDescriptionName = {
+			"При получении физ. урона шанс на 5 секунд активировать Чары медвежьей силы:",
+			"Сила +200.",
+			"HP -500 каждую секунду.",
+			"При снятии предмета SP -300."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[4877] = {
+		unidentifiedDisplayName = "Чары скорости света",
+		unidentifiedResourceName = "Маленький брадиум",
+		unidentifiedDescriptionName = {
+			"При нанесении физ. урона шанс на 5 секунд активировать Чары скорости света:",
+			"Ловкость +200.",
+			"SP -50 каждую секунду",
+			"При снятии предмета SP -300."
+		},
+		identifiedDisplayName = "Чары скорости света",
+		identifiedResourceName = "Маленький брадиум",
+		identifiedDescriptionName = {
+			"При нанесении физ. урона шанс на 5 секунд активировать Чары скорости света:",
+			"Ловкость +200.",
+			"SP -50 каждую секунду",
+			"При снятии предмета SP -300."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[4878] = {
+		unidentifiedDisplayName = "Очки мачо",
+		unidentifiedResourceName = "Маленький брадиум",
+		unidentifiedDescriptionName = {
+			"При получении физ. урона шанс на 5 секунд активировать Чары защитника:",
+			"Живучесть +200.",
+			"SP -50 каждую секунду",
+			"При снятии предмета SP -300."
+		},
+		identifiedDisplayName = "Чары защитника",
+		identifiedResourceName = "Маленький брадиум",
+		identifiedDescriptionName = {
+			"При получении физ. урона шанс на 5 секунд активировать Чары защитника:",
+			"Живучесть +200.",
+			"SP -50 каждую секунду",
+			"При снятии предмета SP -300."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29061] = {
+		unidentifiedDisplayName = "Горячая кровь I",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +4%, точность +10." },
+		identifiedDisplayName = "Горячая кровь I",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +4%, точность +10." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29062] = {
+		unidentifiedDisplayName = "Горячая кровь II",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +8%, точность +20." },
+		identifiedDisplayName = "Горячая кровь II",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +8%, точность +20." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29063] = {
+		unidentifiedDisplayName = "Горячая кровь III",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +12%, точность +30." },
+		identifiedDisplayName = "Горячая кровь III",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +12%, точность +30." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29064] = {
+		unidentifiedDisplayName = "Горячая кровь IV",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +16%, точность +40." },
+		identifiedDisplayName = "Горячая кровь IV",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +16%, точность +40." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29065] = {
+		unidentifiedDisplayName = "Горячая кровь V",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +20%, точность +50." },
+		identifiedDisplayName = "Горячая кровь V",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +20%, точность +50." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29066] = {
+		unidentifiedDisplayName = "Горячая кровь VI",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +24%, точность +60." },
+		identifiedDisplayName = "Горячая кровь VI",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +24%, точность +60." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29067] = {
+		unidentifiedDisplayName = "Горячая кровь VII",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +28%, точность +70." },
+		identifiedDisplayName = "Горячая кровь VII",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +28%, точность +70." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29068] = {
+		unidentifiedDisplayName = "Горячая кровь VIII",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +32%, точность +80." },
+		identifiedDisplayName = "Горячая кровь VIII",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +32%, точность +80." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29069] = {
+		unidentifiedDisplayName = "Горячая кровь IX",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +36%, точность +90." },
+		identifiedDisplayName = "Горячая кровь IX",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +36%, точность +90." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29070] = {
+		unidentifiedDisplayName = "Горячая кровь X",
+		unidentifiedResourceName = "Сверкающий алый кристалл",
+		unidentifiedDescriptionName = { "Физ. атака +44%, точность +100." },
+		identifiedDisplayName = "Горячая кровь X",
+		identifiedResourceName = "Сверкающий алый кристалл",
+		identifiedDescriptionName = { "Физ. атака +44%, точность +100." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29071] = {
+		unidentifiedDisplayName = "Дух магии I",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +4%, фиксированное время применения всех умений -0.1 сек." },
+		identifiedDisplayName = "Дух магии I",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +4%, фиксированное время применения всех умений -0.1 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29072] = {
+		unidentifiedDisplayName = "Дух магии II",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +8%, фиксированное время применения всех умений -0.2 сек." },
+		identifiedDisplayName = "Дух магии II",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +8%, фиксированное время применения всех умений -0.2 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29073] = {
+		unidentifiedDisplayName = "Дух магии III",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +12%, фиксированное время применения всех умений -0.3 сек." },
+		identifiedDisplayName = "Дух магии III",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +12%, фиксированное время применения всех умений -0.3 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29074] = {
+		unidentifiedDisplayName = "Дух магии IV",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +16%, фиксированное время применения всех умений -0.4 сек." },
+		identifiedDisplayName = "Дух магии IV",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +16%, фиксированное время применения всех умений -0.4 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29075] = {
+		unidentifiedDisplayName = "Дух магии V",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +20%, фиксированное время применения всех умений -0.5 сек." },
+		identifiedDisplayName = "Дух магии V",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +20%, фиксированное время применения всех умений -0.5 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29076] = {
+		unidentifiedDisplayName = "Дух магии VI",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +24%, фиксированное время применения всех умений -0.6 сек." },
+		identifiedDisplayName = "Дух магии VI",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +24%, фиксированное время применения всех умений -0.6 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29077] = {
+		unidentifiedDisplayName = "Дух магии VII",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +28%, фиксированное время применения всех умений -0.7 сек." },
+		identifiedDisplayName = "Дух магии VII",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +28%, фиксированное время применения всех умений -0.7 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29078] = {
+		unidentifiedDisplayName = "Дух магии VIII",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +32%, фиксированное время применения всех умений -0.8 сек." },
+		identifiedDisplayName = "Дух магии VIII",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +32%, фиксированное время применения всех умений -0.8 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29079] = {
+		unidentifiedDisplayName = "Дух магии IX",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +36%, фиксированное время применения всех умений -0.9 сек." },
+		identifiedDisplayName = "Дух магии IX",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +36%, фиксированное время применения всех умений -0.9 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29080] = {
+		unidentifiedDisplayName = "Дух магии X",
+		unidentifiedResourceName = "Сверкающий синий кристалл",
+		unidentifiedDescriptionName = { "Маг. атака +44%, фиксированное время применения всех умений -1 сек." },
+		identifiedDisplayName = "Дух магии X",
+		identifiedResourceName = "Сверкающий синий кристалл",
+		identifiedDescriptionName = { "Маг. атака +44%, фиксированное время применения всех умений -1 сек." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29081] = {
+		unidentifiedDisplayName = "Энергия решительности I",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +3, крит. урон +20%." },
+		identifiedDisplayName = "Энергия решительности I",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +3, крит. урон +20%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29082] = {
+		unidentifiedDisplayName = "Энергия решительности II",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +6, крит. урон +35%." },
+		identifiedDisplayName = "Энергия решительности II",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +6, крит. урон +35%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29083] = {
+		unidentifiedDisplayName = "Энергия решительности III",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +9, крит. урон +50%." },
+		identifiedDisplayName = "Энергия решительности III",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +9, крит. урон +50%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29084] = {
+		unidentifiedDisplayName = "Энергия решительности IV",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +12, крит. урон +65%." },
+		identifiedDisplayName = "Энергия решительности IV",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +12, крит. урон +65%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29085] = {
+		unidentifiedDisplayName = "Энергия решительности V",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +15, крит. урон +80%." },
+		identifiedDisplayName = "Энергия решительности V",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +15, крит. урон +80%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29086] = {
+		unidentifiedDisplayName = "Энергия решительности VI",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +18, крит. урон +95%." },
+		identifiedDisplayName = "Энергия решительности VI",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +18, крит. урон +95%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29087] = {
+		unidentifiedDisplayName = "Энергия решительности VII",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +21, крит. урон +110%." },
+		identifiedDisplayName = "Энергия решительности VII",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +21, крит. урон +110%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29088] = {
+		unidentifiedDisplayName = "Энергия решительности VIII",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +24, крит. урон +125%." },
+		identifiedDisplayName = "Энергия решительности VIII",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +24, крит. урон +125%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29089] = {
+		unidentifiedDisplayName = "Энергия решительности IX",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +27, крит. урон +140%." },
+		identifiedDisplayName = "Энергия решительности IX",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +27, крит. урон +140%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29090] = {
+		unidentifiedDisplayName = "Энергия решительности X",
+		unidentifiedResourceName = "Сверкающий зеленый кристалл",
+		unidentifiedDescriptionName = { "Шанс крит. удара +30, крит. урон +170%." },
+		identifiedDisplayName = "Энергия решительности X",
+		identifiedResourceName = "Сверкающий зеленый кристалл",
+		identifiedDescriptionName = { "Шанс крит. удара +30, крит. урон +170%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29091] = {
+		unidentifiedDisplayName = "Меткость лучника I",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +4%, скорость атаки увеличивается (задержка после атаки -1%)."
+		},
+		identifiedDisplayName = "Меткость лучника I",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +4%, скорость атаки увеличивается (задержка после атаки -1%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29092] = {
+		unidentifiedDisplayName = "Меткость лучника II",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +8%, скорость атаки увеличивается (задержка после атаки -2%)."
+		},
+		identifiedDisplayName = "Меткость лучника II",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +8%, скорость атаки увеличивается (задержка после атаки -2%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29093] = {
+		unidentifiedDisplayName = "Меткость лучника III",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +12%, скорость атаки увеличивается (задержка после атаки -2%)."
+		},
+		identifiedDisplayName = "Меткость лучника III",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +12%, скорость атаки увеличивается (задержка после атаки -2%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29094] = {
+		unidentifiedDisplayName = "Меткость лучника IV",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +16%, скорость атаки увеличивается (задержка после атаки -4%)."
+		},
+		identifiedDisplayName = "Меткость лучника IV",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +16%, скорость атаки увеличивается (задержка после атаки -4%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29095] = {
+		unidentifiedDisplayName = "Меткость лучника V",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +20%, скорость атаки увеличивается (задержка после атаки -5%)."
+		},
+		identifiedDisplayName = "Меткость лучника V",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +20%, скорость атаки увеличивается (задержка после атаки -5%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29096] = {
+		unidentifiedDisplayName = "Меткость лучника VI",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +24%, скорость атаки увеличивается (задержка после атаки -6%)."
+		},
+		identifiedDisplayName = "Меткость лучника VI",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +24%, скорость атаки увеличивается (задержка после атаки -6%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29097] = {
+		unidentifiedDisplayName = "Меткость лучника VII",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +28%, скорость атаки увеличивается (задержка после атаки -7%)."
+		},
+		identifiedDisplayName = "Меткость лучника VII",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +28%, скорость атаки увеличивается (задержка после атаки -7%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29098] = {
+		unidentifiedDisplayName = "Меткость лучника VIII",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +32%, скорость атаки увеличивается (задержка после атаки -8%)."
+		},
+		identifiedDisplayName = "Меткость лучника VIII",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +32%, скорость атаки увеличивается (задержка после атаки -8%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29099] = {
+		unidentifiedDisplayName = "Меткость лучника IX",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +36%, скорость атаки увеличивается (задержка после атаки -9%)."
+		},
+		identifiedDisplayName = "Меткость лучника IX",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +36%, скорость атаки увеличивается (задержка после атаки -9%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29100] = {
+		unidentifiedDisplayName = "Меткость лучника X",
+		unidentifiedResourceName = "Сверкающий желтый кристалл",
+		unidentifiedDescriptionName = {
+			"Дальний физ. урон +44%, скорость атаки увеличивается (задержка после атаки -10%)."
+		},
+		identifiedDisplayName = "Меткость лучника X",
+		identifiedResourceName = "Сверкающий желтый кристалл",
+		identifiedDescriptionName = {
+			"Дальний физ. урон +44%, скорость атаки увеличивается (задержка после атаки -10%)."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29101] = {
+		unidentifiedDisplayName = "Адамантин I",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +5%, физ. защита +140, маг. защита +20." },
+		identifiedDisplayName = "Адамантин I",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +5%, физ. защита +140, маг. защита +20." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29102] = {
+		unidentifiedDisplayName = "Адамантин II",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +10%, физ. защита +180, маг. защита +40." },
+		identifiedDisplayName = "Адамантин II",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +10%, физ. защита +180, маг. защита +40." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29103] = {
+		unidentifiedDisplayName = "Адамантин III",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +15%, физ. защита +220, маг. защита +60." },
+		identifiedDisplayName = "Адамантин III",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +15%, физ. защита +220, маг. защита +60." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29104] = {
+		unidentifiedDisplayName = "Адамантин IV",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +20%, физ. защита +260, маг. защита +80." },
+		identifiedDisplayName = "Адамантин IV",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +20%, физ. защита +260, маг. защита +80." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29105] = {
+		unidentifiedDisplayName = "Адамантин V",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +25%, физ. защита +300, маг. защита +100." },
+		identifiedDisplayName = "Адамантин V",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +25%, физ. защита +300, маг. защита +100." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29106] = {
+		unidentifiedDisplayName = "Адамантин VI",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +30%, физ. защита +340, маг. защита +120." },
+		identifiedDisplayName = "Адамантин VI",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +30%, физ. защита +340, маг. защита +120." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29107] = {
+		unidentifiedDisplayName = "Адамантин VI",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +35%, физ. защита +380, маг. защита +140." },
+		identifiedDisplayName = "Адамантин VI",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +35%, физ. защита +380, маг. защита +140." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29108] = {
+		unidentifiedDisplayName = "Адамантин VIII",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +40%, физ. защита +420, маг. защита +160." },
+		identifiedDisplayName = "Адамантин VIII",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +40%, физ. защита +420, маг. защита +160." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29109] = {
+		unidentifiedDisplayName = "Адамантин IX",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +45%, физ. защита +460, маг. защита +180." },
+		identifiedDisplayName = "Адамантин IX",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +45%, физ. защита +460, маг. защита +180." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29110] = {
+		unidentifiedDisplayName = "Адамантин X",
+		unidentifiedResourceName = "Сверкающий фиолетовый кристалл",
+		unidentifiedDescriptionName = { "Макс. HP +55%, физ. защита +500, маг. защита +200." },
+		identifiedDisplayName = "Адамантин X",
+		identifiedResourceName = "Сверкающий фиолетовый кристалл",
+		identifiedDescriptionName = { "Макс. HP +55%, физ. защита +500, маг. защита +200." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29111] = {
+		unidentifiedDisplayName = "Забота I",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +5%, макс. SP +3%." },
+		identifiedDisplayName = "Забота I",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +5%, макс. SP +3%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29112] = {
+		unidentifiedDisplayName = "Забота II",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +10%, макс. SP +6%." },
+		identifiedDisplayName = "Забота II",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +10%, макс. SP +6%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29113] = {
+		unidentifiedDisplayName = "Забота III",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +15%, макс. SP +9%." },
+		identifiedDisplayName = "Забота III",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +15%, макс. SP +9%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29114] = {
+		unidentifiedDisplayName = "Забота IV",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +20%, макс. SP +12%." },
+		identifiedDisplayName = "Забота IV",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +20%, макс. SP +12%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29115] = {
+		unidentifiedDisplayName = "Забота V",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +25%, макс. SP +15%." },
+		identifiedDisplayName = "Забота V",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +25%, макс. SP +15%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29116] = {
+		unidentifiedDisplayName = "Забота VI",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +30%, макс. SP +18%." },
+		identifiedDisplayName = "Забота VI",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +30%, макс. SP +18%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29117] = {
+		unidentifiedDisplayName = "Забота VII",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +35%, макс. SP +21%." },
+		identifiedDisplayName = "Забота VII",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +35%, макс. SP +21%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29118] = {
+		unidentifiedDisplayName = "Забота VIII",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +40%, макс. SP +24%." },
+		identifiedDisplayName = "Забота VIII",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +40%, макс. SP +24%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29119] = {
+		unidentifiedDisplayName = "Забота IX",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +45%, макс. SP +27%." },
+		identifiedDisplayName = "Забота IX",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +45%, макс. SP +27%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29120] = {
+		unidentifiedDisplayName = "Забота X",
+		unidentifiedResourceName = "Сверкающий белый кристалл",
+		unidentifiedDescriptionName = { "Исцеление +55%, макс. SP +30%." },
+		identifiedDisplayName = "Забота X",
+		identifiedResourceName = "Сверкающий белый кристалл",
+		identifiedDescriptionName = { "Исцеление +55%, макс. SP +30%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29687] = {
+		unidentifiedDisplayName = "Кристалл времени (Удача) (ур. 1)",
+		unidentifiedResourceName = "Time_Jewely_Luk",
+		unidentifiedDescriptionName = {
+			"Крит. урон +3% за каждые 2 уровня заточки шлема.",
+			"Шанс крит. удара +1 за каждые 2 уровня заточки шлема.",
+			"Физ. атака +1% за каждые 5 уровней заточки шлема."
+		},
+		identifiedDisplayName = "Кристалл времени (Удача) (ур. 1)",
+		identifiedResourceName = "Time_Jewely_Luk",
+		identifiedDescriptionName = {
+			"Крит. урон +3% за каждые 2 уровня заточки шлема.",
+			"Шанс крит. удара +1 за каждые 2 уровня заточки шлема.",
+			"Физ. атака +1% за каждые 5 уровней заточки шлема."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29688] = {
+		unidentifiedDisplayName = "Кристалл времени (Удача) (ур. 2)",
+		unidentifiedResourceName = "Time_Jewely_Luk",
+		unidentifiedDescriptionName = {
+			"Крит. урон +6% за каждые 2 уровня заточки шлема.",
+			"Шанс крит. удара +2 за каждые 2 уровня заточки шлема.",
+			"Физ. атака +2% за каждые 5 уровней заточки шлема."
+		},
+		identifiedDisplayName = "Кристалл времени (Удача) (ур. 2)",
+		identifiedResourceName = "Time_Jewely_Luk",
+		identifiedDescriptionName = {
+			"Крит. урон +6% за каждые 2 уровня заточки шлема.",
+			"Шанс крит. удара +2 за каждые 2 уровня заточки шлема.",
+			"Физ. атака +2% за каждые 5 уровней заточки шлема."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29689] = {
+		unidentifiedDisplayName = "Кристалл времени (Удача) (ур. 3)",
+		unidentifiedResourceName = "Time_Jewely_Luk",
+		unidentifiedDescriptionName = {
+			"Крит. урон +9% за каждые 2 уровня заточки шлема.",
+			"Шанс крит. удара +3 за каждые 2 уровня заточки шлема.",
+			"Физ. атака +3% за каждые 5 уровней заточки шлема."
+		},
+		identifiedDisplayName = "Кристалл времени (Удача) (ур. 3)",
+		identifiedResourceName = "Time_Jewely_Luk",
+		identifiedDescriptionName = {
+			"Крит. урон +9% за каждые 2 уровня заточки шлема.",
+			"Шанс крит. удара +3 за каждые 2 уровня заточки шлема.",
+			"Физ. атака +3% за каждые 5 уровней заточки шлема."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29706] = {
+		unidentifiedDisplayName = "Неукротимость I",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +4%, идеальная атака +1%." },
+		identifiedDisplayName = "Неукротимость I",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +4%, идеальная атака +1%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29707] = {
+		unidentifiedDisplayName = "Неукротимость II",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +8%, идеальная атака +2%." },
+		identifiedDisplayName = "Неукротимость II",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +8%, идеальная атака +2%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29708] = {
+		unidentifiedDisplayName = "Неукротимость III",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +12%, идеальная атака +3%." },
+		identifiedDisplayName = "Неукротимость III",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +12%, идеальная атака +3%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29709] = {
+		unidentifiedDisplayName = "Неукротимость IV",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +16%, идеальная атака +4%." },
+		identifiedDisplayName = "Неукротимость IV",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +16%, идеальная атака +4%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29710] = {
+		unidentifiedDisplayName = "Неукротимость V",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +20%, идеальная атака +5%." },
+		identifiedDisplayName = "Неукротимость V",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +20%, идеальная атака +5%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29711] = {
+		unidentifiedDisplayName = "Неукротимость VI",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +24%, идеальная атака +6%." },
+		identifiedDisplayName = "Неукротимость VI",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +24%, идеальная атака +6%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29712] = {
+		unidentifiedDisplayName = "Неукротимость VII",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +28%, идеальная атака +7%." },
+		identifiedDisplayName = "Неукротимость VII",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +28%, идеальная атака +7%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29713] = {
+		unidentifiedDisplayName = "Неукротимость VIII",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +32%, идеальная атака +8%." },
+		identifiedDisplayName = "Неукротимость VIII",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +32%, идеальная атака +8%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29714] = {
+		unidentifiedDisplayName = "Неукротимость IX",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +36%, идеальная атака +9%." },
+		identifiedDisplayName = "Неукротимость IX",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +36%, идеальная атака +9%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[29715] = {
+		unidentifiedDisplayName = "Неукротимость X",
+		unidentifiedResourceName = "Crystal_Piece_BL",
+		unidentifiedDescriptionName = { "Ближний физ. урон +44%, идеальная атака +10%." },
+		identifiedDisplayName = "Неукротимость X",
+		identifiedResourceName = "Crystal_Piece_BL",
+		identifiedDescriptionName = { "Ближний физ. урон +44%, идеальная атака +10%." },
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[19238] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Лук Деревни порингов",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Свежий зеленый лук из Деревни порингов.",
+			"При физ. атаке с определенным шансом превращает в Смоки на 5 сек. Во время действия эффекта увеличивается скорость передвижения. (Не суммируется с бонусом к Ловкости.)",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Рот^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777730^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 824,
+		costume = false
+	},
+	[19239] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Морковь Деревни порингов",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"Свежая морковка из Деревни порингов.",
+			"При физ. атаке с определенным шансом превращает в лунатика на 5 сек. Во время действия эффекта увеличивается скорость передвижения. (Не суммируется с бонусом к Ловкости.)",
+			"Класс: ^777777Головной убор^000000",
+			"Защита: ^7777770^000000",
+			"Расположение: ^777777Рот^000000",
+			"Вес: ^77777710^000000",
+			"Требуемый уровень: ^77777730^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 829,
+		costume = false
+	},
+	[23302] = {
+		unidentifiedDisplayName = "Шкатулка порингов",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"Таинственная шкатулка, которую достали из сундука с сокровищами, найденного в подземелье порингов. ",
+			"Что находится внутри - неизвестно.",
+			"Требуемый уровень: ^77777730^000000",
+			"Вес: ^77777720^000000"
+		},
+		identifiedDisplayName = "Шкатулка порингов",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Таинственная шкатулка, которую достали из сундука с сокровищами, найденного в подземелье порингов. ",
+			"Что находится внутри - неизвестно.",
+			"Требуемый уровень: ^77777730^000000",
+			"Вес: ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[28522] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Кольцо скверны",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"От него исходят тихие, еле уловимые звуки.",
+			"Среди авантюристов ходят слухи, что если долго внимать шепоту кольца, в сердце поселится тьма...",
+			"^777777—————————————^000000",
+			"Макс. HP +200.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (правый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^7777771^000000",
+			"Требуемый уровень: ^77777710^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[28523] = {
+		unidentifiedDisplayName = "Аксессуар",
+		unidentifiedResourceName = "Кольцо",
+		unidentifiedDescriptionName = { "Не идентифицировано. Можно идентифицировать с помощью увеличительного стекла." },
+		identifiedDisplayName = "Кольцо несчастья",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"Кольцо со странным узором на самоцвете.",
+			"Среди авантюристов ходят слухи, что если долго рассматривать этот камень, можно навлечь на себя проклятие...",
+			"^777777—————————————^000000",
+			"Макс. SP +150.",
+			"^777777—————————————^000000",
+			"Класс: ^777777Аксессуар (левый)^000000",
+			"Защита: ^7777770^000000",
+			"Вес: ^7777771^000000",
+			"Требуемый уровень: ^77777710^000000",
+			"Квалификация: ^777777Все профессии^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[100158] = {
+		unidentifiedDisplayName = "Экстренный Мадо",
+		unidentifiedResourceName = "Mado_Box02",
+		unidentifiedDescriptionName = {
+			"Позволяет 1 раз призвать особый Мадо для экстренных ситуаций.",
+			"Для использования требуется изучить умение [Лицензия Мадо] (ур. 1) ",
+			"Можно использовать раз в 3 минуты.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777100^000000 ",
+			"Вес: ^77777730^000000"
+		},
+		identifiedDisplayName = "Экстренный Мадо",
+		identifiedResourceName = "Mado_Box02",
+		identifiedDescriptionName = {
+			"Позволяет 1 раз призвать особый Мадо для экстренных ситуаций.",
+			"Для использования требуется изучить умение [Лицензия Мадо] (ур. 1) ",
+			"Можно использовать раз в 3 минуты.",
+			"^777777—————————————^000000",
+			"Требуемый уровень: ^777777100^000000 ",
+			"Вес: ^77777730^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,

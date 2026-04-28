@@ -107,6 +107,57 @@ mapTbl = {
 		notifyEnter = true,
 		signName = { mainTitle = "Склад дирижаблей" },
 		backgroundBmp = "dungeon_s2"
+	},
+	1@thts.rsw = {
+		displayName = "Башня Танатоса",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Башня Танатоса" },
+		backgroundBmp = "dungeon"
+	},
+	2@thts.rsw = {
+		displayName = "Ангельское терпение",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Ангельское терпение" },
+		backgroundBmp = "dungeon"
+	},
+	3@thts.rsw = {
+		displayName = "Память о ненависти",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Память о ненависти" },
+		backgroundBmp = "dungeon"
+	},
+	4@thts.rsw = {
+		displayName = "Память об агонии",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Память об агонии" },
+		backgroundBmp = "dungeon"
+	},
+	5@thts.rsw = {
+		displayName = "Память о скорби",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Память о скорби" },
+		backgroundBmp = "dungeon"
+	},
+	6@thts.rsw = {
+		displayName = "Память об отчаянии",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Память об отчаянии" },
+		backgroundBmp = "dungeon"
+	},
+	7@thts.rsw = {
+		displayName = "Память о ярости",
+		notifyEnter = true,
+		signName = { subTitle = "Воспоминания Танатоса", mainTitle = "Память о ярости" },
+		backgroundBmp = "dungeon"
+	},
+	8@thts.rsw = {
+		displayName = "Башня Танатоса",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Воспоминания Танатоса",
+			mainTitle = "Воспоминания рыцаря-чародея Танатоса"
+		},
+		backgroundBmp = "dungeon"
 	}
 }
 

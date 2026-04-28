@@ -240,16 +240,6 @@ StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {
 		{ "атаки противника." }
 	}
 }
-StateIconList[EFST_IDs.EFST_BANDING] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Объединение", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Увеличивает физическую атаку и физическую защиту" },
-		{ "при одновременной активации несколькими Тамплиерами." }
-	}
-}
 StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -1492,15 +1482,6 @@ StateIconList[EFST_IDs.EFST_TOXIN] = {
 		{ "Каждые 10 секунд потребляет 3% SP." }
 	}
 }
-StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
-	descript = {
-		{ "Энергия Дракона", COLOR_TITLE_BUFF },
-		{ "Увеличивает макс. кол-во доступных Энергетических Сфер." },
-		{ "Повышает Maкс. HP/SP и скорость атаки." },
-		{ "Сохраняет состояние Энергетического Взрыва." },
-		{ "Ежесекундно потребляет некоторое количество HP." }
-	}
-}
 StateIconList[EFST_IDs.EFST_HARMONIZE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -1584,17 +1565,6 @@ StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
 		{ "Абразив", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Повышает Шанс критического удара." }
-	}
-}
-StateIconList[EFST_IDs.EFST_INSPIRATION] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Воодушевление", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Увеличивает точность, базовые характеристики," },
-		{ "силу атаки и мaкс. HP" },
-		{ "Персонаж периодически теряет HP и SP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
@@ -1788,16 +1758,6 @@ StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
 		{ "Смертельная Связь", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Позвляется спрятаться в чьей-то тени" }
-	}
-}
-StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Заклинание Тени", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Позволяет использовать умения,." },
-		{ "выученные при помощи [Плагиата] или [Воспроизведения]" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SHAPESHIFT] = {
@@ -2078,16 +2038,6 @@ StateIconList[EFST_IDs.EFST_PROPERTYFIRE] = {
 		{ "Наделяет оружие силами Огня." }
 	}
 }
-StateIconList[EFST_IDs.EFST_STRIKING] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Стихийное усиление", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Повышает силу физической атаки и вероятность" },
-		{ "нанесения критического удара." }
-	}
-}
 StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
 		{ "Стойка Метеора", COLOR_TITLE_BUFF },
@@ -2334,16 +2284,6 @@ StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
 		{ "в зависимости от количества SP." }
 	}
 }
-StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Болеутоляющее", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Снижает скорость атаки." },
-		{ "Уменьшает урон, наносимый противником." }
-	}
-}
 StateIconList[EFST_IDs.EFST_LIGHT_OF_REGENE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -2385,16 +2325,6 @@ StateIconList[EFST_IDs.EFST_GRANITIC_ARMOR] = {
 		{ "Каменная броня", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "По окончании действия умения потребляет HP." }
-	}
-}
-StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Вулканическое оружие", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Наделяет оружие силами Огня." },
-		{ "Увеличивает силу атаки." }
 	}
 }
 StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
@@ -2601,16 +2531,6 @@ StateIconList[EFST_IDs.EFST_STEELBODY] = {
 		{ "Долгое время поддерживает защиту и магическую защиту на высоком уровне." },
 		{ "Уменьшается скорость перемещения и атаки." },
 		{ "Нельзя использовать умения." }
-	}
-}
-StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Отражение Урона", COLOR_TITLE_TOGGLE },
-		{ "%s", COLOR_TIME },
-		{ "Возвращает врагу часть полученного физ./маг. урона." },
-		{ "Умение каждую секунду расходует определенное кол-во SP." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MVPCARD_TAOGUNKA] = {
@@ -3151,16 +3071,6 @@ StateIconList[EFST_IDs.EFST_REBOUND] = {
 		{ "Отдача", COLOR_TITLE_DEBUFF },
 		{ "Скорость передвижения уменьшена." },
 		{ "Базовое восстановление HP/SP отменено." },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_UNLIMIT] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 4,
-	descript = {
-		{ "Без ограничений", COLOR_TITLE_BUFF },
-		{ "Увеличение дальнего физ. урона." },
-		{ "Снижение физ. и маг. защиты." },
 		{ "%s", COLOR_TIME }
 	}
 }
@@ -4612,16 +4522,6 @@ StateIconList[EFST_IDs.EFST_FULL_SWING_K] = {
 		{ "Физ. атака +50" }
 	}
 }
-StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Пиявка", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "С определенной вероятностью при физ. атаке" },
-		{ "может поглотить некоторое количество HP." }
-	}
-}
 StateIconList[EFST_IDs.EFST_DEADLY_DEFEASANCE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -5136,15 +5036,6 @@ StateIconList[EFST_IDs.EFST_BO_HELL_DUSTY] = {
 		{ "%s", COLOR_TIME }
 	}
 }
-StateIconList[EFST_IDs.EFST_HOMUN_TIME] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Вызов гомункула", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Активное состояние гомункула" }
-	}
-}
 StateIconList[EFST_IDs.EFST_SERVANTWEAPON] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -5197,44 +5088,6 @@ StateIconList[EFST_IDs.EFST_SPELL_ENCHANTING] = {
 		{ "%s", COLOR_TIME }
 	}
 }
-StateIconList[EFST_IDs.EFST_STONE_WALL] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Каменная стена", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Увеличивает физическую" },
-		{ "и магическую защиту." }
-	}
-}
-StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Пироклассический", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Увеличение урона от оружия" }
-	}
-}
-StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Вознесение Спящего Дракона", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Увеличение максимальное количество духовных сфер." },
-		{ "Увеличение макс. HP и SP" },
-		{ "Увеличение скорости атаки" }
-	}
-}
-StateIconList[EFST_IDs.EFST_MAGICPOWER] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Увеличение магической силы", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
 StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -5243,40 +5096,6 @@ StateIconList[EFST_IDs.EFST_LKCONCENTRATION] = {
 		{ "%s", COLOR_TIME },
 		{ "Увеличивает физ. атаку и точность." },
 		{ "Уменьшает физ. защиту." }
-	}
-}
-StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Готовность", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_SHIELDSPELL] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Магия щита", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Кровопийца", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Болеутоляющее", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Нет задержки движения при получении урона." },
-		{ "Уменьшен получаемый урон." }
 	}
 }
 StateIconList[EFST_IDs.EFST_CURSE_R_CUBE] = {
@@ -5349,17 +5168,6 @@ StateIconList[EFST_IDs.EFST_NYANGGRASS] = {
 	descript = {
 		{ "Кошачья трава", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME }
-	}
-}
-StateIconList[EFST_IDs.EFST_ANCILLA] = {
-	haveTimeLimit = 1,
-	posTimeLimitStr = 2,
-	descript = {
-		{ "Анцилла", COLOR_TITLE_BUFF },
-		{ "%s", COLOR_TIME },
-		{ "Входящее лечение увеличено на 15%." },
-		{ "Скорость восстановления " },
-		{ "SP увеличена на 30%." }
 	}
 }
 StateIconList[EFST_IDs.EFST_LAUDAAGNUS] = {
@@ -5655,5 +5463,237 @@ StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
 		{ "Настройка огневых точек", COLOR_TITLE_DEBUFF },
 		{ "Появление огневой точки раз в определенное количество времени" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELLS_PLANT_ARMOR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Плотоядное растение]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Применяется к целям в определенном радиусе." },
+		{ "Наносит ближний физ. урон" }
+	}
+}
+StateIconList[EFST_IDs.EFST_REF_T_POTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Золотое зелье]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Получаемый отраженный урон -100%." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Зелье красной травы]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Ближний физ. урон +15%" },
+		{ "Дальний физ. урон +15%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Зелье синей травы]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Маг. урон всеми элементами +15%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Энергия дракона]", COLOR_TITLE_BUFF },
+		{ "Увеличивает число энергетических сфер" },
+		{ "Увеличивает максимум HP и SP" },
+		{ "Увеличивает скорость атаки" },
+		{ "Поддерживает статус энергетического потока" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ANCILLA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Анцилла]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Эффективность исцеления +15%" },
+		{ "Скорость восстановления SP +30%" },
+		{ "Умение [Кара] наносит урон нейтральным элементом" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Отражение]", COLOR_TITLE_TOGGLE },
+		{ "%s", COLOR_TIME },
+		{ "Уменьшает получаемый отраженный урон" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BANDING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Объединение]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает физ. защиту." }
+	}
+}
+StateIconList[EFST_IDs.EFST_INSPIRATION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Вдохновение]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает точность" },
+		{ "Увеличивает физ. урон, маг. урон и макс. HP" },
+		{ "Снимает положительные и негативные эффекты" },
+		{ "Постоянно расходует HP и SP" }
+	}
+}
+StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Заклинание тени]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает маг. атаку" },
+		{ "Изучение через Копирование или Воспроизведение" },
+		{ "Позволяет использовать магические умения" }
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGICPOWER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Усиление магической силы]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Усиливает маг. урон" }
+	}
+}
+StateIconList[EFST_IDs.EFST_OVERBRANDREADY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Усиление клейма]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Усиливает эффект умения [Нанесение клейма]" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SHIELDSPELL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Магия щита]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Дает эффект магического щита" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CLOUD_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Ядовитое облако]", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Уменьшает сопротивление элементу Яд" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SPORE_EXPLOSION_DEBUFF] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Взрыв спор]", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает получаемый дальний физ. урон" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BLOOD_SUCKER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Пиявка]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "При физ. атаке с определенным шансом " },
+		{ "поглощает HP " }
+	}
+}
+StateIconList[EFST_IDs.EFST_UNLIMIT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "без ограничений", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает дальний физ. урон" }
+	}
+}
+StateIconList[EFST_IDs.EFST_STRIKING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Стихийное усиление]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает силу атаки" },
+		{ "Увеличивает шанс идеальной атаки" }
+	}
+}
+StateIconList[EFST_IDs.EFST_POISON_MIST] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Ядовитый туман]", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Снижает шанс на уворот" }
+	}
+}
+StateIconList[EFST_IDs.EFST_STONE_WALL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Каменная стена]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает физ. защиту" },
+		{ "Увеличивает маг. защиту" }
+	}
+}
+StateIconList[EFST_IDs.EFST_HOMUN_TIME] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Призвать гомункула]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Пробуждает гомункула" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Обезболивающее]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "При получении урона скорость перемещения не снижается" },
+		{ "Уменьшает получаемый урон" }
+	}
+}
+StateIconList[EFST_IDs.EFST_NEEDLE_OF_PARALYZE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Паралич]", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "Не позволяет двигаться" },
+		{ "Уменьшает физ. и маг. защиту" }
+	}
+}
+StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "[Пирокластика]", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Увеличивает урон оружия" }
 	}
 }
