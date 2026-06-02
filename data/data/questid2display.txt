@@ -26936,6 +26936,90 @@ Collect Broken Cores (at least 10 pcs.)#
 After a while this quest can be obtained from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> from the Airship Dock.#
 Resets at 04:00 a.m.#
 
+18026#Memories of Thanatos#SG_FEEL#QUE_NOIMAGE#
+They say, Thanatos who defeated demon lord Morocc in ancient times has appeared in the tower. Explore the upper floors of the Thanatos Tower and find the knight-warlock at the request of Loomin who wants to check this curious rumor.#
+Get rid of the incarnate memories of Thanatos#
+
+18027#Memories of Thanatos#SG_FEEL#QUE_NOIMAGE#
+They say, Thanatos who defeated demon lord Morocc in ancient times has appeared in the tower. Explore the upper floors of the Thanatos Tower and find the knight-warlock at the request of Loomin who wants to check this curious rumor.#
+Get rid of the Broken Memories of Thanatos#
+
+18028#Memories of Thanatos#SG_FEEL#QUE_NOIMAGE#
+After a while this quest can be obtained from <NAVI>[Loomin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+27408#Mercenary contract for Thanatos Tower#SG_FEEL#QUE_NOIMAGE#
+Sign a contract for Thanatos Tower with Rekenber corp.#
+Sign a contract#
+
+27409#Discovering the Red Key#SG_FEEL#QUE_NOIMAGE#
+The Red Key is swinging in streams of scarlet energy. This energy <NAVI>[flows]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI> in some definite direction.#
+Follow the stream of energy#
+
+27410#Discovering the Yellow Key#SG_FEEL#QUE_NOIMAGE#
+The Yellow Key is swinging in streams of golden energy. This energy <NAVI>[flows]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI> in some definite direction.#
+Follow the stream of energy#
+
+27411#Discovering the Blue Key#SG_FEEL#QUE_NOIMAGE#
+The Blue Key is swinging in streams of azure energy. This energy <NAVI>[flows]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI> in some definite direction.#
+Follow the stream of energy#
+
+27412#Discovering the Green Key#SG_FEEL#QUE_NOIMAGE#
+The Green Key is swinging in streams of emerald energy. This energy <NAVI>[flows]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI> in some definite direction.#
+Follow the stream of energy#
+
+27413#Discovering the Black Key#SG_FEEL#QUE_NOIMAGE#
+The Black Key is swinging in streams of dark energy. This energy <NAVI>[flows]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI> in some definite direction.#
+Follow the stream of energy#
+
+27414#The Secret of Thanatos Tower#SG_FEEL#QUE_NOIMAGE#
+Show the records you discovered to the <NAVI>[guide]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>.#
+Visit the guide#
+
+27415#Accept the mission#SG_FEEL#QUE_NOIMAGE#
+Turn to Solice for a quest.#
+Take a quest#
+
+27416#[Daily] Kill the monsters on the 9th floor#SG_FEEL#QUE_NOIMAGE#
+You need to defeat 20 Crow Barons and 20 Crow Dukes on the 9th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Misery, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Bring the Fragments of Misery (10 pcs.)#
+
+27417#[Daily] Kill the monsters on the 10th floor#SG_FEEL#QUE_NOIMAGE#
+You need to defeat 15 Void Mimic, 15 Books of Death, and 15 Elders on the 10th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Despair, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Bring the Fragments of Despair (10 pcs.)#
+
+27418#[Daily] Kill the monsters on the 11th floor#SG_FEEL#QUE_NOIMAGE#
+You need to defeat 15 Empathies and 15 Happiness Givers on the 11th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Hatred, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Bring the Fragments of Hatred (10 pcs.)#
+
+27419#[Daily] Kill the monsters on the 11th floor (II)#SG_FEEL#QUE_NOIMAGE#
+You need to defeat 15 Pray Givers and 15 Smile Givers on the 11th floor of Thanatos Tower. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Kill 15 Pray Givers and Smile Givers#
+
+27420#[Daily] Kill the monsters on the 12th floor#SG_FEEL#QUE_NOIMAGE#
+You need to defeat Angers and Horrors of Thanatos, 10 of each type, on the 12th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Agony, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Bring the Fragments of Agony (10 pcs.)#
+
+27421#[Daily] Kill the monsters on the 12th floor#SG_FEEL#QUE_NOIMAGE#
+You need to defeat Regrets and Resentments of Thanatos, 10 of each type, on the 12th floor of Thanatos Tower. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Kill 10 Regrets and Resentments of Thanatos#
+
+27422#Thanatos Tower, 9th floor (Pending)#SG_FEEL#QUE_NOIMAGE#
+We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+27423#Thanatos Tower, 10th floor (Pending)#SG_FEEL#QUE_NOIMAGE#
+We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+27424#Thanatos Tower, 11th floor (Pending)#SG_FEEL#QUE_NOIMAGE#
+We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
+27425#Thanatos Tower, 12th floor (Pending)#SG_FEEL#QUE_NOIMAGE#
+We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>#
+Resets at 04:00 a.m.#
+
 7879#New Toxic Gas Research#SG_FEEL#QUE_NOIMAGE#
 <NAVI>[Research Assistant Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> told she studies Smokes and Toxins which appear on the 3rd dungeon floor of Einbech mine, and asked you to hunt them.#
 Smokes and Toxins Hunt#

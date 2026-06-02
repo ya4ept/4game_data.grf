@@ -343,8 +343,8 @@ a76d6daffb64e81295226f5a17559ec6 *data\6@tower.gat
 63a52edc95e579857fb195ff72d64a46 *data\7@thts.gnd
 1d7c9f1b08e6bdd0fda278de8c7d1aa9 *data\7@thts.rsw
 22f53f66f8636a47ac58ce8b67d70381 *data\8@thts.gat
-13b0352f964ae5e7874ac13ed0c86391 *data\8@thts.gnd
-4cd472ec9a8b9b6d079bbf29c28d6d76 *data\8@thts.rsw
+14fa8384051f4b9df113eb1b6a35cbaa *data\8@thts.gnd
+fc1365c385184b5fd3968cfa24ef557a *data\8@thts.rsw
 cfaedb3e810e5e572d448a88fbd83537 *data\abbey01.gat
 0ffe45b140f522ecfcc7e1e010c7196c *data\abbey01.gnd
 1b83088d69f6726b73888bda64aed5b6 *data\abbey01.rsw
@@ -596,10 +596,10 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-43b328bda471c91702ddfc1233753c1f *data\buyingstoreitemlist.txt
+fbf853e77a8ac1a61ccc930f2d8615d7 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
-6e4ba22d5f5c25ef9812d4478939116b *data\cardpostfixnametable.txt
-e72f5246914e8c9d33bb6d7a2125c902 *data\cardprefixnametable.txt
+6c7bc01aeb3a95f585f59422b9a3f830 *data\cardpostfixnametable.txt
+fffb6687c3de2469e735976b80b9cbf6 *data\cardprefixnametable.txt
 57886ddffe8057e50bd53ef5dbdf4be3 *data\cave.gat
 fb12f350fc192bbd52247c7eab62ed21 *data\cave.gnd
 ab0d98ad296174c495843ffb39e60a2c *data\cave.rsw
@@ -1161,8 +1161,8 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 3104c3c140ae41201d546f857b32a249 *data\ice_dun04.gnd
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
-2731809c6efcc5eca2fc16f733dfc12e *data\idnum2itemdisplaynametable.txt
-98a5ea7ca560ec5076ee187f4bd28c61 *data\idnum2itemresnametable.txt
+0fdca5f79c576f4931ed046046ed7f7b *data\idnum2itemdisplaynametable.txt
+9c19ddc8beef7321bc18d6a907489d9b *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1208,7 +1208,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 21823796462c65c6f228ab2e8ba5af6a *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-31ad502198173cafc4211b87e18d8851 *data\itemslotcounttable.txt
+b01cff4407d63d312995026033419a7f *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1604,7 +1604,7 @@ a47a7ccca7627ac22918b7d87a287c13 *data\man_fild03.rsw
 729d02899722d46e2b9964e5027a6fe5 *data\man_in01.gnd
 00f67abf39844b8d0bf53205ff49e133 *data\man_in01.rsw
 082d293a0db1ad419a2f18e7025c9166 *data\mapinfotable.scp
-bd13b7b061588b6630bf78a4a226e56a *data\mapnametable.txt
+b4d06fc4d059b42b58da194d9046c354 *data\mapnametable.txt
 e7e148b2accaccdd8b1ee19775a43995 *data\mapobjlighttable.txt
 4c34ca89edd2745f8c4f331ceeb02506 *data\mappostable.txt
 6f3f3c057af36425cf3d471d197eff04 *data\ma_dun01.gat
@@ -1649,7 +1649,7 @@ bc41a7b983570bb1459ae5323799c2a7 *data\ma_zif08.rsw
 44b740892884c10c10e76cac27c536d9 *data\ma_zif09.gat
 1a7da1033aadc8bdeaa73711353cbe82 *data\ma_zif09.gnd
 8070fb428156dc42043ee8fdd4937ef0 *data\ma_zif09.rsw
-abd632747382a56a0d800f5bcf7a30ed *data\metalprocessitemlist.txt
+d128523e39f40e592fc7cb5094737d31 *data\metalprocessitemlist.txt
 7cf51e6b2ae8b22a1292aff81640ccf3 *data\metalprocessitemtable.txt
 e9e44370f413bf0ef62f9806e52b724d *data\mid_camp.gat
 2ba4f0ffdf93127272450cae814809d4 *data\mid_camp.gnd
@@ -1864,8 +1864,8 @@ e3676e840f0da862046fe5b7a0c6f6f1 *data\mosk_in.rsw
 91696728970e5cd0629adfd443758ff2 *data\mosk_ship.gat
 8a05c1f50a43a848ef2ba39e0b063543 *data\mosk_ship.gnd
 1b3861389813ad1c43b7f8f434de6470 *data\mosk_ship.rsw
-a7a9badadfc6ee9a03d7c35fb00b5717 *data\mp3nametable.txt
-e03ef684083319195185b556e3af8bb4 *data\msgstringtable.txt
+96644c6654517d4ab72fafdfdd1982d9 *data\mp3nametable.txt
+86906a43f4f3ca65d46539d66219c5c3 *data\msgstringtable.txt
 af0c9341ba1497dee9312108b99fbf4b *data\nakhyang.gat
 3f4990913c70ad02a110c20af1858835 *data\nakhyang.gnd
 d836b89dd1246e6ebf6aa1f53b86bbf9 *data\nakhyang.rsw
@@ -1911,10 +1911,10 @@ f0e88e8334064fefefb3c96f5012e29e *data\nif_fild01.gat
 78b539469b2363dae6a85252c535a031 *data\nif_in.gat
 f254464bd2afc044a77046d57d5805c7 *data\nif_in.gnd
 ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
-a571e2ca71810c56c3871f6f40a842eb *data\num2cardillustnametable.txt
+b847e845b4c9d949d9a328560487733f *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
-22b7d1708b81a808dddac4cda0b54898 *data\num2itemdisplaynametable.txt
-f7b252923fc9b86f8ea4eed29498075d *data\num2itemresnametable.txt
+2f11383c92b5f02fdd50db86da4b4387 *data\num2itemdisplaynametable.txt
+00505c6a3e4d77a4dff016ebdce4e5c3 *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -2228,7 +2228,7 @@ bc9827c320496d59b75d4a6653aa435b *data\pvp_y_8-2.rsw
 eb048469e7fc7295fb7fe011a827e852 *data\p_track01.rsw
 914f0f3fc79ac0e47dbc24281044b9be *data\p_track02.gat
 f8a3946c056316227590e2a08bf75e63 *data\p_track02.rsw
-6e7a1be11535f898aef87c3948fe50d7 *data\questid2display.txt
+8dc71a55560a590e498ffec074ba744d *data\questid2display.txt
 01e3b5c11db4dcf65eeefee88a1842ac *data\que_avan01.gat
 983c7eaf1ceba91f95bc17a4c9287108 *data\que_avan01.gnd
 12b46cdac2e7530384a0369792cdea15 *data\que_avan01.rsw
@@ -2370,7 +2370,7 @@ c7f4ef837643ec876226a8057e2bba33 *data\ra_temsky.rsw
 b6baaa08d840c976748a57df3ca7f465 *data\rebel_in.gat
 0dfed03e4a08a55bda177a8abc4ada9d *data\rebel_in.gnd
 296446e5f59b61e1d64ebcb1b70e0b08 *data\rebel_in.rsw
-a0a647c46f434f7d4b3c797911ab2488 *data\resnametable.txt
+d2ce81d913b1cdc5d89c5a9d55c418c7 *data\resnametable.txt
 c02f607e5766c79a62b39d6de67901af *data\rgsr_in.gat
 57f9583eb8a3559027b5f86354ccc86c *data\rgsr_in.gnd
 5fd31c6662a505d4cb5fb6f76c614833 *data\rgsr_in.rsw
@@ -3105,8 +3105,8 @@ d492cb88283caaa7b3fb03ca70736b87 *data\luafiles514\lua files\signboardlist.lub
 433b8009deaf22a1f01b6719f0ef3d98 *data\luafiles514\lua files\admin\pcidentity.lub
 042d59932c59b95e6de4f40dd8cfa6e8 *data\luafiles514\lua files\chatwndinfo\chatwndinfo.lub
 f7277fc4b80548253274e957e5dc6deb *data\luafiles514\lua files\chatwndinfo\chatwndinfo_f.lub
-ce30941cf5c897b6b3d33b051fac09a0 *data\luafiles514\lua files\datainfo\accessoryid.lub
-4b979f49620fb0d227b1455d40b6c978 *data\luafiles514\lua files\datainfo\accname.lub
+5899686fd87e1aff69213bff0ed52545 *data\luafiles514\lua files\datainfo\accessoryid.lub
+dd3fbf7998c93ad53215801bd19fa703 *data\luafiles514\lua files\datainfo\accname.lub
 983d8b86d6734032a0531d722726468c *data\luafiles514\lua files\datainfo\accname_f.lub
 f3baaea4c778f400aceb954debb48c4c *data\luafiles514\lua files\datainfo\addrandomoptionnametable.lub
 32da69b483098ab7a17ce5a55e1f1cb9 *data\luafiles514\lua files\datainfo\addrandomoption_f.lub
@@ -3114,21 +3114,21 @@ ff9c5bcaa4eeaa60ba43fa527950d2f4 *data\luafiles514\lua files\datainfo\changedire
 d70739486ac39247b83fd1638a7771ea *data\luafiles514\lua files\datainfo\enumvar.lub
 602ee805ec6d775a4c2fcc395cb1c64c *data\luafiles514\lua files\datainfo\jobidentity.lub
 9e939a15f97f58bc91f2ebeea956454f *data\luafiles514\lua files\datainfo\jobname.lua
-0afeebdbbb72c2adfd132b11c793e55a *data\luafiles514\lua files\datainfo\jobname.lub
+a3ff399a03cb54114a05bd1ddd7bd6a1 *data\luafiles514\lua files\datainfo\jobname.lub
 5f2e348f33b6c76fc1d7a58165738bd1 *data\luafiles514\lua files\datainfo\jobname_f.lub
 ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovemapservicelist.lub
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
 40452fb584dca04693aa693b44fa35e1 *data\luafiles514\lua files\datainfo\lapineddukddakbox.lub
 fb56ab5870906135b5b845f009907d95 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
-f639c4da897f5d75344d6ce5cfbb1efc *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
+f0fec6fbf4ceb734a7bbda48f1db3c91 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 fac504a9cf0dfb68acc078f36facd1ea *data\luafiles514\lua files\datainfo\npcidentity.lua
-9c020aa4ff664c733a28730b1e16ec22 *data\luafiles514\lua files\datainfo\npcidentity.lub
+c2e5cb4c72a7c3957ce285afb5d83835 *data\luafiles514\lua files\datainfo\npcidentity.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
 108465fac3eb114f145eba289132bf3c *data\luafiles514\lua files\datainfo\npclocationradius_f.lub
 1db911b037469cbc772d2cbc097c6d6f *data\luafiles514\lua files\datainfo\pcjobnamegender.lub
 9eaa9083a41c04605d748dceae103451 *data\luafiles514\lua files\datainfo\pcjobnamegender_f.lub
 eb23dedf98568997f9789aae7a3d5d2d *data\luafiles514\lua files\datainfo\petinfo.lub
-9c4ba4dcd9718c7892caa6ebe910fe85 *data\luafiles514\lua files\datainfo\shadowtable.lub
+8521dd73ef8e693a08a4e8f40964c7df *data\luafiles514\lua files\datainfo\shadowtable.lub
 f4a2aed92256b1451881f1a04741ab03 *data\luafiles514\lua files\datainfo\shadowtable_f.lub
 a4c33fe1b9670a92aa6dc24d7a07a9d3 *data\luafiles514\lua files\datainfo\spriterobeid.lub
 04663f799e5882b8bd7427a0e2deae9c *data\luafiles514\lua files\datainfo\spriterobename.lub
@@ -3187,7 +3187,7 @@ bfde33e4229a18e9e787f4883e44dffb *data\luafiles514\lua files\effecttool\effectms
 7ffcba0bd4276a6a4776032c1d4c2929 *data\luafiles514\lua files\effecttool\effecttoolutil.lub
 956c1b254cbb0498864bcd9ca1409494 *data\luafiles514\lua files\effecttool\effecttoolutil_ver_2.lub
 3b84da3aa0f7768ccd94be870dd4a9b5 *data\luafiles514\lua files\effecttool\ein_dun03.lub
-5410393ce28633fccfce31e86c420f27 *data\luafiles514\lua files\effecttool\forcerendereffect.lub
+f78c34652acbbd25065bc4a43881ba6e *data\luafiles514\lua files\effecttool\forcerendereffect.lub
 f9615d7c954ad225b63caf3c31a86f32 *data\luafiles514\lua files\effecttool\harboro1.lub
 8f76159df11d420964a14a1b23a354cb *data\luafiles514\lua files\effecttool\harboro2.lub
 f24d59c76b1dec1986ac6db7f0571b12 *data\luafiles514\lua files\effecttool\har_in01.lub
@@ -3270,13 +3270,13 @@ e6b4cadd01d1d4814557b7455765f9ac *data\luafiles514\lua files\ridingspreditinfo\r
 d2891bc29cd5610efebc515d2d6bebcd *data\luafiles514\lua files\skilleffectinfo\skilleffectinfo_f.lub
 a311359d28d2a235065ed65b19a79037 *data\luafiles514\lua files\skillinfoz\jobinheritlist.lub
 e2bd45e989a2052dbc98a33e8a083f6f *data\luafiles514\lua files\skillinfoz\skilldescript.lua
-057121fc65ff8b4e837b051cae197050 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
+cf50ace993294b6ee8d9a66e205097cb *data\luafiles514\lua files\skillinfoz\skilldescript.lub
 fc705aa87b944ea221283f0c6530ddae *data\luafiles514\lua files\skillinfoz\skillid.lua
-5c8536a192533e023352810c29a5e522 *data\luafiles514\lua files\skillinfoz\skillid.lub
+874444afc6b5d86fe674b28e418c3f2c *data\luafiles514\lua files\skillinfoz\skillid.lub
 9222c96fe3fdf35d5eec41d73f5ab558 *data\luafiles514\lua files\skillinfoz\skillinfolist.lua
-c5e05ecf675d4f143f8f2f081cefe820 *data\luafiles514\lua files\skillinfoz\skillinfolist.lub
+e07c8980653910536730dc067bd9d8ba *data\luafiles514\lua files\skillinfoz\skillinfolist.lub
 4bdb0b56c07f903ec69c4d89524f5d56 *data\luafiles514\lua files\skillinfoz\skillinfo_f.lub
-36c2f40067e38c862c8f0cb8bb1cfdcd *data\luafiles514\lua files\skillinfoz\skilltreeview.lub
+cc469bc5200a42bd1e0a01f086a2177a *data\luafiles514\lua files\skillinfoz\skilltreeview.lub
 d2e1474765842fb72b1043f67fa8f309 *data\luafiles514\lua files\spreditinfo\2dlayerdir_f.lub
 8900cd382d0d98d39cdf43751d9ae5d2 *data\luafiles514\lua files\spreditinfo\biglayerdir_female.lub
 704cd0e068bde84fa6e014381eaaba29 *data\luafiles514\lua files\spreditinfo\biglayerdir_male.lub
@@ -3289,10 +3289,10 @@ ffe6754d1d0197f205f2c2c325194b39 *data\luafiles514\lua files\spreditinfo\_new_bi
 76144439944ff04808eabebd780637d6 *data\luafiles514\lua files\spreditinfo\_new_biglayerdir_male.lub
 2ca7b945ae445646070999e208902ad3 *data\luafiles514\lua files\spreditinfo\_new_smalllayerdir_female.lub
 d595b5e5a28d4f76982ddd07a3d613be *data\luafiles514\lua files\spreditinfo\_new_smalllayerdir_male.lub
-cd566d33f57d34338f683827590bf6b6 *data\luafiles514\lua files\stateicon\efstids.lub
+6b75b0bfeece32fb6fffcdc747165a48 *data\luafiles514\lua files\stateicon\efstids.lub
 ca3fdacfb3fd961cd8248bdefb5c1e71 *data\luafiles514\lua files\stateicon\stateiconimginfo.lub
 8ab780a1948bc3d6d662be44ba601022 *data\luafiles514\lua files\stateicon\stateiconinfo.lua
-73687b2bf3991c56ff20444a9ba33451 *data\luafiles514\lua files\stateicon\stateiconinfo.lub
+1c5cb1e58dd28044ad08933150545900 *data\luafiles514\lua files\stateicon\stateiconinfo.lub
 1dd848316c754cfcaf284b082016d64d *data\luafiles514\lua files\stateicon\stateiconinfo_f.lub
 d559738b4f0ef0d603b1c43789fb69d2 *data\luafiles514\lua files\stylingshop\stylingshopinfo.lub
 671f762a3bbaa3e4438335af603be9e9 *data\luafiles514\lua files\stylingshop\stylingshopinfo_f.lub
@@ -11978,13 +11978,13 @@ f82dcd3a8e163a4fe801b1cad6139c36 *data\palette\¸ö\ÅÂ±Ç¼Ò³â_¿©_0.pal
 dced0386f9cdcc300b7e89d3396e4bae *data\palette\¸ö\ÅÂ±Ç¼Ò³â_¿©_3.pal
 425e18b2aeb91e1259770efd55a12f52 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_0.pal
 425e18b2aeb91e1259770efd55a12f52 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_1.pal
-2c73c99b3fb165f40dd38de22f495aee *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_2.pal
-c0991eeb55d4106b91446d11577c22f3 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_3.pal
+c92ef7cb68a4c48187fb97c65bbb33c1 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_2.pal
+a1ecbb9309475139dd6df13d660b5324 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_3.pal
 22955fd5301dd2c1b132fdff431dd45c *data\palette\¸ö\ÆäÄÚ°Ç³Ê_³²_4.pal
 425e18b2aeb91e1259770efd55a12f52 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_0.pal
 425e18b2aeb91e1259770efd55a12f52 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_1.pal
-2c73c99b3fb165f40dd38de22f495aee *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_2.pal
-c0991eeb55d4106b91446d11577c22f3 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_3.pal
+c92ef7cb68a4c48187fb97c65bbb33c1 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_2.pal
+a1ecbb9309475139dd6df13d660b5324 *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_3.pal
 22955fd5301dd2c1b132fdff431dd45c *data\palette\¸ö\ÆäÄÚ°Ç³Ê_¿©_4.pal
 042232726e423b03806596a4242d5452 *data\palette\¸ö\ÆäÄÚ·Î³ª_³²_0.pal
 15e1f7a4c5a7d1b7477aa21d4988b1f6 *data\palette\¸ö\ÆäÄÚ·Î³ª_³²_1.pal
@@ -12113,6 +12113,14 @@ c32e71331507b878332e36554232013f *data\palette\¸ö\¹«Èñ_¿©_1.pal
 ac0e54e492cc32e0a541c1ec7107f490 *data\palette\¸ö\¹«Èñ_¿©_2.pal
 103bbe800e6ac689159dc32ce4b346e8 *data\palette\¸ö\¹«Èñ_¿©_3.pal
 2450a6a1a04547b351c4365834dab448 *data\palette\¸ö\¹«Èñ_¿©_4.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_0.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_1.pal
+d53d9674ddceb80a2f507e430f2e7464 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_2.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_3.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_0.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_1.pal
+06cdc7fe04d54dae63f72c1511706abf *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_2.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_3.pal
 a27932b001b5855f3db06d8ed08b532e *data\palette\¸ö\¹ÌÄÉ´Ğ_³²_0.pal
 42ff39f0e816a041d3ff776de9fb4e82 *data\palette\¸ö\¹ÌÄÉ´Ğ_³²_1.pal
 99d69e23321b1a18aaba9bad7052606c *data\palette\¸ö\¹ÌÄÉ´Ğ_³²_2.pal
@@ -12832,6 +12840,30 @@ b6a2a4d35d090498e97bffbdef4e9aa1 *data\palette\¸ö\costume_1\¹Ùµå_³²_1_1.pal
 c7d2b220e0dcfd5ef337c88d86d291f8 *data\palette\¸ö\costume_1\¹Ùµå_³²_2_1.pal
 a99150604659ea3b15b0e01e58100dec *data\palette\¸ö\costume_1\¹Ùµå_³²_3_1.pal
 76dee81291abde77c55d5b3615162785 *data\palette\¸ö\costume_1\¹Ùµå_³²_4_1.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_0_2.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_1_2.pal
+d53d9674ddceb80a2f507e430f2e7464 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_2_2.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_3_2.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_0_2.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_1_2.pal
+06cdc7fe04d54dae63f72c1511706abf *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_2_2.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\costume_2\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_3_2.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_0_3.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_1_3.pal
+d53d9674ddceb80a2f507e430f2e7464 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_2_3.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_3_3.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_0_3.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_1_3.pal
+06cdc7fe04d54dae63f72c1511706abf *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_2_3.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\costume_3\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_3_3.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_0_4.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_1_4.pal
+d53d9674ddceb80a2f507e430f2e7464 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_2_4.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_³²_3_4.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_0_4.pal
+e3eeed389190d87986c9b466aa4bfa70 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_1_4.pal
+06cdc7fe04d54dae63f72c1511706abf *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_2_4.pal
+f5f591e4930d22719b8ffc2214abcf01 *data\palette\¸ö\costume_4\¹ÌÄÉ´Ğ_¸¶µµ¾Æ¸Ó_¿©_3_4.pal
 5442c9fe41b4ed4ff3cee1605b8c590f *data\sprite\collection_slotmachine.act
 81458ba13b64189a0d0792d9c3a586f8 *data\sprite\collection_slotmachine.spr
 52e243412486c1611a51480efec49057 *data\sprite\count.spr
@@ -15340,31 +15372,67 @@ efb4a8e21d1f7302f2c15ae50868bbda *data\sprite\µµ¶÷Á·\¸öÅë\¿©\°áÈ¥_¿©.act
 5d61818aaeb470f616fc88bcb574ba89 *data\sprite\·Îºê\°Ë¾ÆÀÌÅÛ.spr
 26620086833a0bd70a2e468ca006a519 *data\sprite\·Îºê\º¸ÀÚ±â.act
 89d140dce3f9f2309bacd16e979b2e55 *data\sprite\·Îºê\º¸ÀÚ±â.spr
+9537c5a4ee4cd415853c8f3b43c33433 *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\peco_rebellion_³².act
+eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\peco_rebellion_³².spr
+76a8ab196529df754093496564a0dc9c *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\peco_rebellion_¿©.act
+eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\peco_rebellion_¿©.spr
+a89fafba7d8d717366332792c4566ec8 *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\ÆäÄÚ°Ç³Ê_³².act
+eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\ÆäÄÚ°Ç³Ê_³².spr
+3121247acdb2e6471585e10a17331988 *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\ÆäÄÚ°Ç³Ê_¿©.act
+eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\³²\ÆäÄÚ°Ç³Ê_¿©.spr
+210f140c3e99bc0fed31de6dc37a688e *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\peco_rebellion_¿©.act
+eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\peco_rebellion_¿©.spr
 1798d59b42fdf4a6cd97f93e3ee9535f *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\¼ºÁ¦_¿©.act
 eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\¼ºÁ¦_¿©.spr
 99aaf1ff17fd5019e180c0ad48bf0bbb *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+0b9d1270805cf1922edeca4fb9740910 *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+eed2d0c01e541dee69d8236c75fa46ed *data\sprite\·Îºê\2018_rtc_cape1_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
+fe6cde4f419b86a0b57f97086c29f3cd *data\sprite\·Îºê\2018_rtc_cape2_tw\³²\peco_rebellion_³².act
+63c259323f37e158f5f9deda6ecc0bdf *data\sprite\·Îºê\2018_rtc_cape2_tw\³²\peco_rebellion_³².spr
+694ce29ecab3fbaee5ded56a48c89235 *data\sprite\·Îºê\2018_rtc_cape2_tw\³²\ÆäÄÚ°Ç³Ê_³².act
+63c259323f37e158f5f9deda6ecc0bdf *data\sprite\·Îºê\2018_rtc_cape2_tw\³²\ÆäÄÚ°Ç³Ê_³².spr
+6f83aec20fec8a10b188d60d0a9908d1 *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\peco_rebellion_¿©.act
+63c259323f37e158f5f9deda6ecc0bdf *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\peco_rebellion_¿©.spr
 1466a99bba945c9e5f7bc541cb635af4 *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\¼ºÁ¦_¿©.act
 63c259323f37e158f5f9deda6ecc0bdf *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\¼ºÁ¦_¿©.spr
 689eaefde52869e0b1fa4010323ee473 *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+868c37aed7eae89b3f2b3f9245505566 *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+63c259323f37e158f5f9deda6ecc0bdf *data\sprite\·Îºê\2018_rtc_cape2_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
+f3d733b3244e9d1a7b923c73324bf95c *data\sprite\·Îºê\2018_rtc_cape3_tw\³²\peco_rebellion_³².act
+8e3722014f5995d0befa3e165ce10dcb *data\sprite\·Îºê\2018_rtc_cape3_tw\³²\peco_rebellion_³².spr
+9c04765d7e37f91ddcbe180291352b17 *data\sprite\·Îºê\2018_rtc_cape3_tw\³²\ÆäÄÚ°Ç³Ê_³².act
+8e3722014f5995d0befa3e165ce10dcb *data\sprite\·Îºê\2018_rtc_cape3_tw\³²\ÆäÄÚ°Ç³Ê_³².spr
+147f80f35e870a8a79f25e2c5ff72fa7 *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\peco_rebellion_¿©.act
+8e3722014f5995d0befa3e165ce10dcb *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\peco_rebellion_¿©.spr
 66fd9e175b3e8c71e8d6569105126e76 *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\¼ºÁ¦_¿©.act
 8e3722014f5995d0befa3e165ce10dcb *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\¼ºÁ¦_¿©.spr
 09dce5c20083627a9229572de8c14c19 *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+dfeac92c265485be7f8629507d69bd5c *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+8e3722014f5995d0befa3e165ce10dcb *data\sprite\·Îºê\2018_rtc_cape3_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
+cf21caf1df80b90c7e10e0e9d63c048e *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\peco_rebellion_³².act
+a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\peco_rebellion_³².spr
 e73a410db3608863930ddd9f5a540c7c *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\¼ºÁ¦_³².act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\¼ºÁ¦_³².spr
 68db7fcaf4986e8efd6380611dda269a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\¼ºÁ¦À¶ÇÕ_³².act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\¼ºÁ¦À¶ÇÕ_³².spr
 71fbce02569a98405bc18ccc7419a270 *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\¼Ò¿ï¸®ÆÛ_³².act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\¼Ò¿ï¸®ÆÛ_³².spr
+9c04765d7e37f91ddcbe180291352b17 *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\ÆäÄÚ°Ç³Ê_³².act
+a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\ÆäÄÚ°Ç³Ê_³².spr
 2a9028ab7a7ee8284061558b7a88bb5a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\ÇØÅÂ¼ºÁ¦_³².act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\ÇØÅÂ¼ºÁ¦_³².spr
 8abac72467f3dd2be5978574cd391bbd *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\ÇØÅÂ¼Ò¿ï¸®ÆÛ_³².act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\³²\ÇØÅÂ¼Ò¿ï¸®ÆÛ_³².spr
+8ced471cfe028bf55d9176fb0d439ac1 *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\peco_rebellion_¿©.act
+a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\peco_rebellion_¿©.spr
 244e44d49819d657553f45d655bf28fd *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\¼ºÁ¦_¿©.act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\¼ºÁ¦_¿©.spr
 6b895fc8c1f6ec52309bf66b2db768f3 *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\¼ºÁ¦À¶ÇÕ_¿©.spr
 1ff497662764ebcbcaf06a2f3c0f20bb *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\¼Ò¿ï¸®ÆÛ_¿©.act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\¼Ò¿ï¸®ÆÛ_¿©.spr
+26c2af4d943d18dbbe4619e0a4b1f04d *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 573d367b8c13d6cb2d7f53ec85da7b5f *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\ÇØÅÂ¼ºÁ¦_¿©.act
 a354d9a0b4d66fb677bd74776cfd900a *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\ÇØÅÂ¼ºÁ¦_¿©.spr
 feba1eb5acde0b5d894621056953e9bd *data\sprite\·Îºê\2018_rtc_cape4_tw\¿©\ÇØÅÂ¼Ò¿ï¸®ÆÛ_¿©.act
@@ -16725,6 +16793,7 @@ faed461de12cd2204921baeae66bda1c *data\sprite\·Îºê\balloon_wing\³²\Å¸Á¶¹Ùµå_³².a
 f9fd45e7bd4053929122abd4fa312039 *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚrebellion_³².act
 1359961bbb2fab890b318a52c5598a13 *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚrebellion_³².spr
 31e0a0fd77f158fbe3dfbd9bea8a9c7a *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚ°Ç³Ê_³².act
+1359961bbb2fab890b318a52c5598a13 *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚ°Ç³Ê_³².spr
 0deeb4e469e491e7a9c1b9d6bae65599 *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚ°Ë»ç_³².act
 f8a280b8d8488b0aae68d0f6c356c2dd *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚÆäÄÚ_±â»ç_³².act
 4d4aa981a662dddaa5e09300f5252faf *data\sprite\·Îºê\balloon_wing\³²\ÆäÄÚÆÈ¶óµò_³².act
@@ -16896,6 +16965,7 @@ f6f4fec5e71708c181bdffb3385ee94d *data\sprite\·Îºê\balloon_wing\¿©\Å¸Á¶Â¤½Ã_¿©.a
 659b1a823c5780c8089215e69698fc35 *data\sprite\·Îºê\balloon_wing\¿©\ÅÂ±Ç¼Ò³â_¿©.act
 dbea810e8d01e8ac8a05857682c340a3 *data\sprite\·Îºê\balloon_wing\¿©\ÅÂ±Ç¼Ò³âÆ÷¸µ_¿©.act
 08706d2311c2b6ba988bd430adb1e298 *data\sprite\·Îºê\balloon_wing\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+1359961bbb2fab890b318a52c5598a13 *data\sprite\·Îºê\balloon_wing\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 76a53de98eae7840e58f4c0726a85b0a *data\sprite\·Îºê\balloon_wing\¿©\ÆäÄÚ°Ë»ç_¿©.act
 ae5d28a49e6ea02343ff46979bc57c70 *data\sprite\·Îºê\balloon_wing\¿©\ÆäÄÚÆäÄÚ_±â»ç_¿©.act
 db84b6d2e4b811baeca1c12d2c5fff12 *data\sprite\·Îºê\balloon_wing\¿©\ÆäÄÚÆÈ¶óµò_¿©.act
@@ -24791,6 +24861,8 @@ af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\³²\peco_r
 af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\³²\rebellion_³².spr
 6169e75ff9121877f4bdeaa1fe8f9b2f *data\sprite\·Îºê\c_blueangeling_wing\³²\ÆäÄÚrebellion_³².act
 af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\³²\ÆäÄÚrebellion_³².spr
+6f4f308cc602c6ab3dea69e8f50e26f3 *data\sprite\·Îºê\c_blueangeling_wing\³²\ÆäÄÚ°Ç³Ê_³².act
+af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\³²\ÆäÄÚ°Ç³Ê_³².spr
 21976cca3a17e7e89288b4dfb5a6d738 *data\sprite\·Îºê\c_blueangeling_wing\¿©\frog_oboro_¿©.act
 af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\¿©\frog_oboro_¿©.spr
 d2dc6cfa10e58edef60f71261fb4bdee *data\sprite\·Îºê\c_blueangeling_wing\¿©\oboro_¿©.act
@@ -24802,6 +24874,8 @@ af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\¿©\rebell
 55087d9fe83d24dbecc888f59c6223a5 *data\sprite\·Îºê\c_blueangeling_wing\¿©\¼ºÁ¦_¿©.act
 af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\¿©\¼ºÁ¦_¿©.spr
 3e707baa6dc43309920d11b957284b45 *data\sprite\·Îºê\c_blueangeling_wing\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+9ac7ded8b552f5efc244dc807106fb75 *data\sprite\·Îºê\c_blueangeling_wing\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+af2a95ecc4497429212ce36a0f1f3f3c *data\sprite\·Îºê\c_blueangeling_wing\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 5c699b189ec7c87c6ab1bd5ad76fd338 *data\sprite\·Îºê\c_blue_rose_garden\³²\abyss_chaser_riding_³².act
 4e22dfeab35bdff5c2a57e4a321611df *data\sprite\·Îºê\c_blue_rose_garden\³²\abyss_chaser_riding_³².spr
 e94a36180fbedf3b101bb59c70bbc93e *data\sprite\·Îºê\c_blue_rose_garden\³²\abyss_chaser_³².act
@@ -29098,6 +29172,7 @@ a550daa02d63fc1e648da143a6752e6b *data\sprite\·Îºê\c_evil_druid_cross\³²\cart_su
 c2edd43257f87aefeb581259a8421ab2 *data\sprite\·Îºê\c_evil_druid_cross\³²\frog_kagerou_³².act
 e618a6b55c960b481f81b254494fb497 *data\sprite\·Îºê\c_evil_druid_cross\³²\kagerou_³².act
 b8bb5beb1ee209f51b203bd59a769116 *data\sprite\·Îºê\c_evil_druid_cross\³²\peco_rebellion_³².act
+419658dc7266d65940702091dafe8187 *data\sprite\·Îºê\c_evil_druid_cross\³²\peco_rebellion_³².spr
 2d02acd721f91395421e2930e3242790 *data\sprite\·Îºê\c_evil_druid_cross\³²\rebellion_³².act
 09a4f527ddfbe263b706a73080309726 *data\sprite\·Îºê\c_evil_druid_cross\³²\summoner_³².act
 6eb596344b0d369acb258392ebd5572b *data\sprite\·Îºê\c_evil_druid_cross\³²\°¡µå_³².act
@@ -29198,6 +29273,7 @@ f7f76ce7bc2ba00f7da2a2e6b22392eb *data\sprite\·Îºê\c_evil_druid_cross\³²\ÅÂ±Ç¼Ò³
 a0f443200897ce5b49c6840c5843e5c3 *data\sprite\·Îºê\c_evil_druid_cross\³²\ÅÂ±Ç¼Ò³âÆ÷¸µ_³².act
 2ffb4fbde7f8a8601f3ed3134cd12971 *data\sprite\·Îºê\c_evil_druid_cross\³²\ÆäÄÚrebellion_³².act
 fb861fb5d1508e20622b174a06e6f48c *data\sprite\·Îºê\c_evil_druid_cross\³²\ÆäÄÚ°Ç³Ê_³².act
+419658dc7266d65940702091dafe8187 *data\sprite\·Îºê\c_evil_druid_cross\³²\ÆäÄÚ°Ç³Ê_³².spr
 3c07a35d32186587335cb000ea45528e *data\sprite\·Îºê\c_evil_druid_cross\³²\ÆäÄÚ°Ë»ç_³².act
 d46fb7cc0c7fa1e22ac44c59be65eb46 *data\sprite\·Îºê\c_evil_druid_cross\³²\ÆäÄÚÆäÄÚ_±â»ç_³².act
 409492423620042ecc887e19a0ea1497 *data\sprite\·Îºê\c_evil_druid_cross\³²\ÆäÄÚÆÈ¶óµò_³².act
@@ -29225,6 +29301,7 @@ d9cb2a42ea515d8d8e6eafbc5a473b8a *data\sprite\·Îºê\c_evil_druid_cross\³²\¹Ùµå_³²
 765ca754615131df99688ae2745214e1 *data\sprite\·Îºê\c_evil_druid_cross\¿©\kagerou_¿©.act
 cdb159df797b69bc73830653276b68fa *data\sprite\·Îºê\c_evil_druid_cross\¿©\oboro_¿©.act
 5155a0d21b192544e0fcc7c3ae23d010 *data\sprite\·Îºê\c_evil_druid_cross\¿©\peco_rebellion_¿©.act
+419658dc7266d65940702091dafe8187 *data\sprite\·Îºê\c_evil_druid_cross\¿©\peco_rebellion_¿©.spr
 229b552490d06e6851682f597afef721 *data\sprite\·Îºê\c_evil_druid_cross\¿©\rebellion_¿©.act
 dcfa21f7fa18e70ba5ee246d4b2c642e *data\sprite\·Îºê\c_evil_druid_cross\¿©\summoner_¿©.act
 bed6a5a78c1b51d4deb23f7c57da8649 *data\sprite\·Îºê\c_evil_druid_cross\¿©\°¡µå_¿©.act
@@ -29332,6 +29409,7 @@ c5205f7259bfa2b966cf9b7060a420d6 *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÅÂ±Ç¼Ò³
 91363ea29d15a44bb4466bede4de2b61 *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÅÂ±Ç¼Ò³âÆ÷¸µ_¿©.act
 94211ad8a0d056fa293f05b73fd41bdd *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÆäÄÚrebellion_¿©.act
 b43960af84e71758ef083aaa466cc0fc *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+419658dc7266d65940702091dafe8187 *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 35c05865004700bd4e22eb0e4a38ad63 *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÆäÄÚ°Ë»ç_¿©.act
 af0692e1eff132eb41ff5bd9aeda8748 *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÆäÄÚÆäÄÚ_±â»ç_¿©.act
 2311070d87b0d45e56ad08c321f230fe *data\sprite\·Îºê\c_evil_druid_cross\¿©\ÆäÄÚÆÈ¶óµò_¿©.act
@@ -78039,6 +78117,8 @@ ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\³²\peco_rebell
 ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\³²\rebellion_³².spr
 79c1d2991378c1f6c16922abd2c898f6 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\³²\ÆäÄÚrebellion_³².act
 ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\³²\ÆäÄÚrebellion_³².spr
+fbf620f6739be8a2b21aef7f35bb0135 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\³²\ÆäÄÚ°Ç³Ê_³².act
+ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\³²\ÆäÄÚ°Ç³Ê_³².spr
 5f0f739272efa3c240d2c4a605b13767 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\frog_kagerou_¿©.act
 ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\frog_kagerou_¿©.spr
 bb3a350e3252fc7b13f319f68417f5cb *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\frog_oboro_¿©.act
@@ -78054,6 +78134,8 @@ ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\rebellion_¿
 ddce118a9250f17db9adf668e5086268 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\¼ºÁ¦_¿©.act
 ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\¼ºÁ¦_¿©.spr
 c9cb5eaa6df061eb929e5bb50505e337 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+6ea59a5e762c900e3fc5269da84b681a *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+ac050f079f0b13b8809296385e458af4 *data\sprite\·Îºê\ºĞÈ«Å¥ÇÇÆ®³¯°³\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 9ae6eb81d36b534b5848782cdd15c364 *data\sprite\·Îºê\ºû°ú¾îµÒÀÇ³¯°³\³²\abyss_chaser_riding_³².act
 6271c53304d3b9be4680863cca18ed14 *data\sprite\·Îºê\ºû°ú¾îµÒÀÇ³¯°³\³²\abyss_chaser_riding_³².spr
 150c7cbf5bc07755d83d942e0a8fe413 *data\sprite\·Îºê\ºû°ú¾îµÒÀÇ³¯°³\³²\abyss_chaser_³².act
@@ -79961,6 +80043,8 @@ ab14428338363657dc108476481ec98d *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\peco_rebellio
 59aef5ff6d78386bfb198774e26abdb5 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\rebellion_³².spr
 d257f6aeaee2682d165144da547e56d3 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\ÆäÄÚrebellion_³².act
 59aef5ff6d78386bfb198774e26abdb5 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\ÆäÄÚrebellion_³².spr
+d81a615b1565c7d85d2f6776e0819eb0 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\ÆäÄÚ°Ç³Ê_³².act
+59aef5ff6d78386bfb198774e26abdb5 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\ÆäÄÚ°Ç³Ê_³².spr
 5fdf1fe497c64b39aa21d50ef67bbe99 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\frog_kagerou_¿©.act
 59aef5ff6d78386bfb198774e26abdb5 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\frog_kagerou_¿©.spr
 709317bc8fdd97bb1aeab1854e957c49 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\frog_oboro_¿©.act
@@ -79976,6 +80060,8 @@ d257f6aeaee2682d165144da547e56d3 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\³²\ÆäÄÚrebellion
 6e38d03e6b7bb31c98511cbc2415c66d *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\¼ºÁ¦_¿©.act
 59aef5ff6d78386bfb198774e26abdb5 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\¼ºÁ¦_¿©.spr
 f625a1db3361a578fc5bf67712cd118e *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+e21f2053fbfd7c2200e32070bed0d697 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+59aef5ff6d78386bfb198774e26abdb5 *data\sprite\·Îºê\¾ÈÅä´Ï¿À°¡¹æ\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 4a7f157085be697871478e8ae1327942 *data\sprite\·Îºê\³²\frog_kagerou_³².act
 025deda8addb2fbc7dbb34ac42913ca1 *data\sprite\·Îºê\³²\frog_kagerou_³².spr
 aafa6499e1e84465bf5b1ef6ad94bc21 *data\sprite\·Îºê\³²\kagerou_³².act
@@ -84413,9 +84499,17 @@ d0191359220b0087a69290c1204d2baa *data\sprite\·Îºê\ÇÇ¾Æ¸äÆ®ÀÇ¸®º»\¿©\rebellion_¿
 90d9b9a471ccf64ba0387fe8eb47d3d7 *data\sprite\·Îºê\ÇÇ¾Æ¸äÆ®ÀÇ¸®º»\¿©\rebellion_¿©.spr
 e48ebaeec0ed58f5bf3a6bb9393c08ca *data\sprite\·Îºê\ÇÇ¾Æ¸äÆ®ÀÇ¸®º»\¿©\summoner_¿©.act
 793f33ac2a4d5dd9dfb83c4e2ddf2f32 *data\sprite\·Îºê\ÇÇ¾Æ¸äÆ®ÀÇ¸®º»\¿©\summoner_¿©.spr
+af9e38a6d4522288739dbedc6130bd9f *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\³²\peco_rebellion_³².act
+a7a5806e1d8e34b5e06834d8c80f3bdd *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\³²\peco_rebellion_³².spr
+92baf1727df95f56780571492e1bf2be *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\³²\ÆäÄÚ°Ç³Ê_³².act
+a7a5806e1d8e34b5e06834d8c80f3bdd *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\³²\ÆäÄÚ°Ç³Ê_³².spr
+4ee370ad2f2188f4a029e9e63f6ff9e3 *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\peco_rebellion_¿©.act
+a7a5806e1d8e34b5e06834d8c80f3bdd *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\peco_rebellion_¿©.spr
 cad76131d9d13bab914d7d9b61de0e02 *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\¼ºÁ¦_¿©.act
 a7a5806e1d8e34b5e06834d8c80f3bdd *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\¼ºÁ¦_¿©.spr
 aebec6178f5bd30eeda3301ee0d9c04c *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\¼ºÁ¦À¶ÇÕ_¿©.act
+16964b92f74c7c517bde2794a30f071a *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\ÆäÄÚ°Ç³Ê_¿©.act
+a7a5806e1d8e34b5e06834d8c80f3bdd *data\sprite\·Îºê\ÇÏ´Ã»öÅ¥ÇÇÆ®³¯°³\¿©\ÆäÄÚ°Ç³Ê_¿©.spr
 f06500718aa2bd379f7e990e5573d264 *data\sprite\·Îºê\´ë¾Ç¸¶³¯°³\³²\cart_summoner_³².act
 149969ee40725e61373ade1b3692c37e *data\sprite\·Îºê\´ë¾Ç¸¶³¯°³\³²\cart_summoner_³².spr
 faca11ad10bbe6703e7d19d1ce6945e6 *data\sprite\·Îºê\´ë¾Ç¸¶³¯°³\³²\frog_kagerou_³².act
@@ -84914,8 +85008,14 @@ cfe6a59f3b8910b5001fe4700e73b326 *data\sprite\·Îºê\´ë¾Ç¸¶³¯°³\¿©\¹ÌÄÉ´Ğ_¿©.act
 d103ea9d7dd6fc5562209995aad78d8d *data\sprite\¸ó½ºÅÍ\14_3_mercenary_a.spr
 fd25419f15b0b09e84ff54a389b497bf *data\sprite\¸ó½ºÅÍ\14_3_mercenary_b.act
 505b6dcade1fe0b791d21aceecc64f9d *data\sprite\¸ó½ºÅÍ\14_3_mercenary_b.spr
+11b07424dce6f57192bc061aa93fc462 *data\sprite\¸ó½ºÅÍ\4_m_ac_rumin.act
+898625839d72b8b9bf1e62c10611bc1d *data\sprite\¸ó½ºÅÍ\4_m_ac_rumin.spr
+effe16225c47a137e3794b02d4f5fb93 *data\sprite\¸ó½ºÅÍ\4_m_kng_reno.act
+8ef33528496b675295b55bfd06721086 *data\sprite\¸ó½ºÅÍ\4_m_kng_reno.spr
 d0de69de5f78c2598cfe5a26bc552dc3 *data\sprite\¸ó½ºÅÍ\4_m_soulhode.act
 1b40817815cba6727b77961f34168046 *data\sprite\¸ó½ºÅÍ\4_m_soulhode.spr
+99a1cf1185319f278d11a31e5386ea77 *data\sprite\¸ó½ºÅÍ\4_m_swd_reno.act
+a04a6a378f17ec4e2546b5f636edc026 *data\sprite\¸ó½ºÅÍ\4_m_swd_reno.spr
 5cb79992c73cf0feb14a8233bb4fb5f5 *data\sprite\¸ó½ºÅÍ\4_woodbox.act
 d2d70558b7937869524caa3af4060531 *data\sprite\¸ó½ºÅÍ\4_woodbox.spr
 c3926e1b54dfa89eac83f1211c17aa76 *data\sprite\¸ó½ºÅÍ\8w_soldier.act
@@ -87780,6 +87880,10 @@ bd4b9b67808e021fc2ceca311fa29a04 *data\sprite\¾ÆÀÌÅÛ\ac_double.spr
 7b5640ad5538cb103e83a9a8a42f882c *data\sprite\¾ÆÀÌÅÛ\ac_shower.spr
 54fa295159eb8b5fb12180db308a10ea *data\sprite\¾ÆÀÌÅÛ\ac_vulture.act
 198a8cdf9d13fb77550cfa54b39ffd62 *data\sprite\¾ÆÀÌÅÛ\ac_vulture.spr
+40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\add_atk_potion.act
+eacad92655fcee3def4ef3734e7c97ce *data\sprite\¾ÆÀÌÅÛ\add_atk_potion.spr
+40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\add_matk_potion.act
+5e85817379d406dce83926af5fadd11c *data\sprite\¾ÆÀÌÅÛ\add_matk_potion.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\¾ÆÀÌÅÛ\adorare_staff.act
 a4f5257c1206a1916fff147eebb8f550 *data\sprite\¾ÆÀÌÅÛ\adorare_staff.spr
 76375d62345f36a7b3930bca0a1cafe7 *data\sprite\¾ÆÀÌÅÛ\aegis_system.act
@@ -88280,6 +88384,8 @@ b3259d44918bc69fc40b6624cf06486a *data\sprite\¾ÆÀÌÅÛ\calf_kingcobra.act
 9353fcf037ab09960221728b93c1191c *data\sprite\¾ÆÀÌÅÛ\calf_kingcobra.spr
 b3259d44918bc69fc40b6624cf06486a *data\sprite\¾ÆÀÌÅÛ\calf_python.act
 ac112c1037a37559124fc342fc042265 *data\sprite\¾ÆÀÌÅÛ\calf_python.spr
+51805fed50ec21d6300a722fee3cbf3d *data\sprite\¾ÆÀÌÅÛ\cancer_shoes.act
+01c565cd9beb819a00984af66220f80a *data\sprite\¾ÆÀÌÅÛ\cancer_shoes.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\candycanerod.act
 35720ab96e7bdfe689f9736545439a96 *data\sprite\¾ÆÀÌÅÛ\candycanerod.spr
 bab345397aad98f074a12b76677c7745 *data\sprite\¾ÆÀÌÅÛ\cannon_rapier_os.act
@@ -88390,6 +88496,12 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\combo_battle_glove_il.act
 c3d482768c9e260d6ea344c5bb90e50a *data\sprite\¾ÆÀÌÅÛ\combo_fist.spr
 db4fab6f0951fc54ebf8b402e3821213 *data\sprite\¾ÆÀÌÅÛ\commander_manteau_j.act
 2c8ae85ad20f5d2fcfeb9d3433a9beb5 *data\sprite\¾ÆÀÌÅÛ\commander_manteau_j.spr
+40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\concentrated_b_p.act
+848bae75ab6f2ebb2200fe3f65e426ff *data\sprite\¾ÆÀÌÅÛ\concentrated_b_p.spr
+40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\concentrated_g_p.act
+a6d47c32bc64ad322178d163bc49fc21 *data\sprite\¾ÆÀÌÅÛ\concentrated_g_p.spr
+40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\concentrated_r_p.act
+41e44f3990ccc0405b325aca4391525e *data\sprite\¾ÆÀÌÅÛ\concentrated_r_p.spr
 5b671fea35d5b5b09c27fd63e249226f *data\sprite\¾ÆÀÌÅÛ\cons_of_darkness.act
 d31c67804b9d5f29d8eb2185adda5192 *data\sprite\¾ÆÀÌÅÛ\cons_of_darkness.spr
 778c1b86ec8c9a763f7b96cf9156159a *data\sprite\¾ÆÀÌÅÛ\cons_of_earth.act
@@ -88460,6 +88572,8 @@ ef657d54465587d950fb865e9c9c65f0 *data\sprite\¾ÆÀÌÅÛ\crushed_snow_man.spr
 2271446d301d63ef2d43b86c291ba609 *data\sprite\¾ÆÀÌÅÛ\crystal_blade_necklace.spr
 e1c08f66639b103938a0fa7e4af4262a *data\sprite\¾ÆÀÌÅÛ\crystal_blade_necklace_.act
 5b75e5546251474860b51dd469655fb3 *data\sprite\¾ÆÀÌÅÛ\crystal_blade_necklace_.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\crystal_piece_bl.act
+d92d86f318cb4fd317425e52ffd91e4a *data\sprite\¾ÆÀÌÅÛ\crystal_piece_bl.spr
 3eaf4c97da8f60ca1bf05f94ca13cbf1 *data\sprite\¾ÆÀÌÅÛ\cr_aciddemonstration.act
 0e0af93e176f4e1601a9706145792d21 *data\sprite\¾ÆÀÌÅÛ\cr_aciddemonstration.spr
 83dab646fba4066a5f0b763537e98d56 *data\sprite\¾ÆÀÌÅÛ\cr_alchemy.act
@@ -88960,6 +89074,8 @@ e6a1667f327cfebbc35a0e2b390122cd *data\sprite\¾ÆÀÌÅÛ\c_put_on_coat.spr
 33a16fad60bfa96640e3205cd542265a *data\sprite\¾ÆÀÌÅÛ\c_rabbit_hopping_bl.spr
 778c1b86ec8c9a763f7b96cf9156159a *data\sprite\¾ÆÀÌÅÛ\c_rabbit_winged_robe.act
 c1fe4340411f1937afbafa03afa0641f *data\sprite\¾ÆÀÌÅÛ\c_rabbit_winged_robe.spr
+49a6bf155138ca234e0cfcdbffefb4dc *data\sprite\¾ÆÀÌÅÛ\c_ra_hair_pk.act
+c272a696c011e9e5d8ec489491ec5cd8 *data\sprite\¾ÆÀÌÅÛ\c_ra_hair_pk.spr
 fb0117f477544b73b9119a872e0044cd *data\sprite\¾ÆÀÌÅÛ\c_released_ground.act
 76363378f23b185a1e46a4afda140479 *data\sprite\¾ÆÀÌÅÛ\c_released_ground.spr
 071dd74216c01c43e701e126fe5a8bc9 *data\sprite\¾ÆÀÌÅÛ\c_rk_hair_bl.act
@@ -89088,6 +89204,10 @@ b5acbded5ce79bb09dd94f260d6e37a0 *data\sprite\¾ÆÀÌÅÛ\c_sweet_chef_hat.act
 f66cb5639dda90a682b4910c324c7610 *data\sprite\¾ÆÀÌÅÛ\c_sweet_corone.spr
 4f460d42521a52ad8d03a2f83d71ff8c *data\sprite\¾ÆÀÌÅÛ\c_swirling_flame.act
 4ca6e2391bf222d69eea7a6a26f88fcb *data\sprite\¾ÆÀÌÅÛ\c_swirling_flame.spr
+7aceb2a13410e58b3b7edc7467901500 *data\sprite\¾ÆÀÌÅÛ\c_s_two_side_up_blp.act
+d3f837406d52e2a3f2caafdfeb284c89 *data\sprite\¾ÆÀÌÅÛ\c_s_two_side_up_blp.spr
+76beb34d34b15e34edd01b9b5e0940d0 *data\sprite\¾ÆÀÌÅÛ\c_tent.act
+10e98366417d7d72c53f7535d0c8e6ec *data\sprite\¾ÆÀÌÅÛ\c_tent.spr
 9efbc2eb3b13cc79b6eee75df637cbef *data\sprite\¾ÆÀÌÅÛ\c_tiger.act
 f27a5dbcccc60b3afb442cfd3aa820f5 *data\sprite\¾ÆÀÌÅÛ\c_tiger.spr
 76beb34d34b15e34edd01b9b5e0940d0 *data\sprite\¾ÆÀÌÅÛ\c_traveller_bag.act
@@ -89510,6 +89630,18 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\fancy_flower_il.act
 566d981516d2b13ae9addce8544a9f9e *data\sprite\¾ÆÀÌÅÛ\fancy_flower_il.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\¾ÆÀÌÅÛ\farthezan.act
 a890b9ba8a9d6ed37e92a60e6b6355d1 *data\sprite\¾ÆÀÌÅÛ\farthezan.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\fate_fragment.act
+a86c048110114d454d71d1d5495373c1 *data\sprite\¾ÆÀÌÅÛ\fate_fragment.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\fate_shard_a.act
+2c55b5d3af969c721d5f95d68a445fce *data\sprite\¾ÆÀÌÅÛ\fate_shard_a.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\fate_shard_b.act
+731087b6d67387d42252603731986110 *data\sprite\¾ÆÀÌÅÛ\fate_shard_b.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\fate_shard_c.act
+21f79493ecbc7bb905e6f10575baf9b9 *data\sprite\¾ÆÀÌÅÛ\fate_shard_c.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\fate_shard_d.act
+26ef8b6c7b6d11b1f2a1232b5b8b4b13 *data\sprite\¾ÆÀÌÅÛ\fate_shard_d.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\fate_shard_e.act
+af812b9a34ba143bb4dead8f30bc0178 *data\sprite\¾ÆÀÌÅÛ\fate_shard_e.spr
 05cbb0845095cf2b1958de2f0aa4625f *data\sprite\¾ÆÀÌÅÛ\feather_fedora_tw.act
 f0632aca4e064b88e42425a3172713af *data\sprite\¾ÆÀÌÅÛ\feather_fedora_tw.spr
 e1518a2433f32e5b0e42dc760abc67f1 *data\sprite\¾ÆÀÌÅÛ\feather_of_seraphim.act
@@ -90604,6 +90736,8 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\macaron.act
 3f851a97300be1ef28a961797fab0b0c *data\sprite\¾ÆÀÌÅÛ\macaron.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\mado_box.act
 028dbf57db7ae55f9be923f7385b769f *data\sprite\¾ÆÀÌÅÛ\mado_box.spr
+b89d124603313889beb8dc5f644a99fb *data\sprite\¾ÆÀÌÅÛ\mado_box02.act
+a310305375a6f54e53b22c13b4fa2dcc *data\sprite\¾ÆÀÌÅÛ\mado_box02.spr
 86986f5bc74dfbf3ad45bd0ecbc367ee *data\sprite\¾ÆÀÌÅÛ\magical_igni_stone.act
 8377e2701c5883448fd0700a14ab4704 *data\sprite\¾ÆÀÌÅÛ\magical_igni_stone.spr
 29d466470d2acf18a68e38c0d3a2cd42 *data\sprite\¾ÆÀÌÅÛ\magic_celestial_globe.act
@@ -91405,6 +91539,8 @@ b3259d44918bc69fc40b6624cf06486a *data\sprite\¾ÆÀÌÅÛ\reactor_z.act
 cca2bb9c445e6f39c07750055eed3b2a *data\sprite\¾ÆÀÌÅÛ\reaper_cross.spr
 adca1f45b69324b58511e05625fbbe5c *data\sprite\¾ÆÀÌÅÛ\red_fog_garnet.act
 b3119e9c43853612cf99fc45cddcf422 *data\sprite\¾ÆÀÌÅÛ\red_fog_garnet.spr
+40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\ref_t_potion.act
+ad52fb2e7c27d88fae70ecd36ada8e68 *data\sprite\¾ÆÀÌÅÛ\ref_t_potion.spr
 27d2320a6768a945898e319e175d86f3 *data\sprite\¾ÆÀÌÅÛ\remixcarepackage.act
 3dff633d0e4c001daa238d9ce74e8e54 *data\sprite\¾ÆÀÌÅÛ\remixcarepackage.spr
 40f1ca48ff779300593fbef4567a134d *data\sprite\¾ÆÀÌÅÛ\remodelcube.act
@@ -91461,6 +91597,8 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\ring_il.act
 508242d68693e0756e0b379f329e9d22 *data\sprite\¾ÆÀÌÅÛ\ring_il.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\ring_of_brave.act
 9cf7681901ba95e1ae30dec90706efd0 *data\sprite\¾ÆÀÌÅÛ\ring_of_brave.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\ring_of_nature.act
+60a09cee9c9d2b5c705bceff21003184 *data\sprite\¾ÆÀÌÅÛ\ring_of_nature.spr
 7b13eb2f90650d82d5dd53900d2dfdaa *data\sprite\¾ÆÀÌÅÛ\ring_of_silverclaw.act
 4e9648925b53c5e21ac8c424a432cae7 *data\sprite\¾ÆÀÌÅÛ\ring_of_silverclaw.spr
 17fdc1a1d817eb4cf9f742460dac2ad8 *data\sprite\¾ÆÀÌÅÛ\rite_robe.act
@@ -91813,6 +91951,30 @@ cc5569e449c85a15ddaa697b235cb10a *data\sprite\¾ÆÀÌÅÛ\shield_ring.act
 836f529c0e443e809f2f129f16efc5b6 *data\sprite\¾ÆÀÌÅÛ\shield_ring.spr
 b3259d44918bc69fc40b6624cf06486a *data\sprite\¾ÆÀÌÅÛ\shinee_opal.act
 b36398379eb8eeb244c861da03f8eb60 *data\sprite\¾ÆÀÌÅÛ\shinee_opal.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_necklace_a.act
+beea8acf57545b60c9833a76e6b6c58f *data\sprite\¾ÆÀÌÅÛ\shine_necklace_a.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_necklace_aq.act
+f3adcd6673413166a09eb21efc57e1d0 *data\sprite\¾ÆÀÌÅÛ\shine_necklace_aq.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_necklace_e.act
+36f213a1ad33f68642b5f9bd9297fdeb *data\sprite\¾ÆÀÌÅÛ\shine_necklace_e.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_necklace_r.act
+7c12fac15a9cdc20be188afb2d71f95b *data\sprite\¾ÆÀÌÅÛ\shine_necklace_r.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_necklace_s.act
+412b958a905d8dee8c2148d572201612 *data\sprite\¾ÆÀÌÅÛ\shine_necklace_s.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_necklace_z.act
+6f2bbd2b0dd5710a50ce680e689bca15 *data\sprite\¾ÆÀÌÅÛ\shine_necklace_z.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_ring_a.act
+b0823bcfa8818c69a31e9a4ff189b48c *data\sprite\¾ÆÀÌÅÛ\shine_ring_a.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_ring_aq.act
+ec4250f1fd8f97f942924092805d441c *data\sprite\¾ÆÀÌÅÛ\shine_ring_aq.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_ring_e.act
+87c7855f8b52eff55334aafbade88271 *data\sprite\¾ÆÀÌÅÛ\shine_ring_e.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_ring_r.act
+baad256a9308b1605396a83e8cbbeb1b *data\sprite\¾ÆÀÌÅÛ\shine_ring_r.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_ring_s.act
+c0dfe1427e3ba2d654e91b98b7352fb2 *data\sprite\¾ÆÀÌÅÛ\shine_ring_s.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\shine_ring_z.act
+2683b23685418266d51d29cce8073363 *data\sprite\¾ÆÀÌÅÛ\shine_ring_z.spr
 4ba52c9c11703430e79c5cad86b0b653 *data\sprite\¾ÆÀÌÅÛ\shining_spore.act
 706086d97fa7a816d54bda5ff0c5e9dc *data\sprite\¾ÆÀÌÅÛ\shining_spore.spr
 8f04d9a40e4dd3b95d994f7b36970b4e *data\sprite\¾ÆÀÌÅÛ\shockwave.act
@@ -91845,6 +92007,42 @@ f3995fc6ee44095a0f058ceb929e90f8 *data\sprite\¾ÆÀÌÅÛ\side_pigtail_yl.act
 a7984785da3aaec70511d165a054b887 *data\sprite\¾ÆÀÌÅÛ\side_pigtail_yl.spr
 2f515187eefdfaf266cce5bac2c42df1 *data\sprite\¾ÆÀÌÅÛ\siege_robe_2tier.act
 b6bd7a727b81fc88260bb42a6f96aec0 *data\sprite\¾ÆÀÌÅÛ\siege_robe_2tier.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_fragment.act
+7a6101a7a761c26528ed2097cb7727b8 *data\sprite\¾ÆÀÌÅÛ\sin_fragment.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_necklace_a.act
+9b97f8330d227bee3b0874922f3f9b73 *data\sprite\¾ÆÀÌÅÛ\sin_necklace_a.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_necklace_e.act
+e63c21aabfdda21093cefca2d4f4640b *data\sprite\¾ÆÀÌÅÛ\sin_necklace_e.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_necklace_o.act
+52da676e827375bfd5c497a95ddd822c *data\sprite\¾ÆÀÌÅÛ\sin_necklace_o.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_necklace_r.act
+006ebd6cf86653790108f55d12334e6d *data\sprite\¾ÆÀÌÅÛ\sin_necklace_r.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_necklace_s.act
+b3afc30c86e98a42e6f7c5a7dc1c3c23 *data\sprite\¾ÆÀÌÅÛ\sin_necklace_s.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_necklace_t.act
+694a89e46596ccb387424f6a771a65ba *data\sprite\¾ÆÀÌÅÛ\sin_necklace_t.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_ring_a.act
+a77329292e3a442aee19fb62bac830ff *data\sprite\¾ÆÀÌÅÛ\sin_ring_a.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_ring_e.act
+f5044c98eb014511c3814211405f2d37 *data\sprite\¾ÆÀÌÅÛ\sin_ring_e.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_ring_o.act
+aa049f5c57d911f8ff8fadf7778a3160 *data\sprite\¾ÆÀÌÅÛ\sin_ring_o.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_ring_r.act
+33b55e9c40014f6efbcff96b5928632f *data\sprite\¾ÆÀÌÅÛ\sin_ring_r.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_ring_s.act
+f955fdcc701dede228d231b55821b67d *data\sprite\¾ÆÀÌÅÛ\sin_ring_s.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_ring_t.act
+a8348f67abdbaad70f07b19eb57bd6fb *data\sprite\¾ÆÀÌÅÛ\sin_ring_t.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_shard_a.act
+40cebb98efc3e5c5d932a36918ba9984 *data\sprite\¾ÆÀÌÅÛ\sin_shard_a.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_shard_b.act
+0a73a69fb02fc515c2e255fb94db20f6 *data\sprite\¾ÆÀÌÅÛ\sin_shard_b.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_shard_c.act
+0a919f4387d8274c0a36209c5f3e093e *data\sprite\¾ÆÀÌÅÛ\sin_shard_c.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_shard_d.act
+8d89c352cbc4371788124268bbbe535a *data\sprite\¾ÆÀÌÅÛ\sin_shard_d.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\sin_shard_e.act
+71177c504686b721f9a7a7fab78f2f50 *data\sprite\¾ÆÀÌÅÛ\sin_shard_e.spr
 642e67cef67e5516523e86051ff88baa *data\sprite\¾ÆÀÌÅÛ\siroods_fish_rod.act
 126eaed3b7bad9ea7ff26f8a375adc2a *data\sprite\¾ÆÀÌÅÛ\siroods_fish_rod.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\sj_bookofcreatingstar.act
@@ -94783,6 +94981,14 @@ c2f8cb3a37aa96cae0bff05142f269c6 *data\sprite\¾ÆÀÌÅÛ\»ÏÁ·±¸µÎ.act
 1deb2503d89b3a2f0c5b1e143c95c591 *data\sprite\¾ÆÀÌÅÛ\»ÏÁ·±¸µÎ.spr
 fcce4569bbd90e1a94df1871180bd31e *data\sprite\¾ÆÀÌÅÛ\»ñ°«.act
 cead3c275054a109a1f2297df9e2edb0 *data\sprite\¾ÆÀÌÅÛ\»ñ°«.spr
+db4fab6f0951fc54ebf8b402e3821213 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-»¡°­.act
+631fee119f874c9435c572a2acdeeef6 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-»¡°­.spr
+db4fab6f0951fc54ebf8b402e3821213 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-³ë¶û.act
+f350af154990ef65680da4dc341fc824 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-³ë¶û.spr
+db4fab6f0951fc54ebf8b402e3821213 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-ÆÄ¶û.act
+33122aa4d9b4df0bd557cfeb09ca12fc *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-ÆÄ¶û.spr
+db4fab6f0951fc54ebf8b402e3821213 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-ÇÏ¾ç.act
+6487d98584086bac8d04983347c90e54 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼Ç-ÇÏ¾ç.spr
 ae3ec589a70cbdcfa27d26d5c9fcae02 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼ÇÁ¦Á¶¸Å´º¾ó.act
 d2eb49d07fd6ce098e8d322d4c5cbb09 *data\sprite\¾ÆÀÌÅÛ\»ó±ŞÆ÷¼ÇÁ¦Á¶¸Å´º¾ó.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\¾ÆÀÌÅÛ\»ó±Ş´ÑÀÚÀÇÇã¸®¶ì.act
@@ -97225,6 +97431,8 @@ ad9ad94740c21820f668bc44e799f3c2 *data\sprite\¾ÆÀÌÅÛ\³Ê´ú³Ê´úÇÑ¿Ê.act
 09201fb0e1c06d8c8600f0ec9cc6bdc6 *data\sprite\¾ÆÀÌÅÛ\³Ê´ú³Ê´úÇÑ¿Ê.spr
 d75f9ad0a3c9ee9b5071efe7cda13c5b *data\sprite\¾ÆÀÌÅÛ\³ë¶õ¶óÇÃ·¹¼ö¾×.act
 4a99eeccac684953d512349e5115f8ea *data\sprite\¾ÆÀÌÅÛ\³ë¶õ¶óÇÃ·¹¼ö¾×.spr
+c8af9b3637ef4807fac67b4d65848da7 *data\sprite\¾ÆÀÌÅÛ\³ë¶õ»ö°¨±â¾à.act
+316891eab970d5a182567285abb424da *data\sprite\¾ÆÀÌÅÛ\³ë¶õ»ö°¨±â¾à.spr
 a0f10b4fc461ee5bbc3156e104c48366 *data\sprite\¾ÆÀÌÅÛ\³ë¶õ»ö°¡·ç.act
 32ac7267a50ad68c033d5ed147b4e395 *data\sprite\¾ÆÀÌÅÛ\³ë¶õ»ö°¡·ç.spr
 0be95649a8372b52b3c64ef305cc63c6 *data\sprite\¾ÆÀÌÅÛ\³ë¶õ»öµÎ°Ç.act
@@ -102547,6 +102755,8 @@ bb797cb3710ea1c02d703507bf3064ea *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_protect_cloth_b.s
 f88183599e72d26967f5942ae9807e8d *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_rabbit_hopping_bl.spr
 ee98a08c2b65c241f097869f543bf6c0 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_rabbit_winged_robe.act
 430609bda75fb30cde6187c007a8b58c *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_rabbit_winged_robe.spr
+dfe6f619f2dc0085ef06ff782bc64e48 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_ra_hair_pk.act
+24a16362d31257a8c3ad1ec422a6ecbf *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_ra_hair_pk.spr
 5c2363c53d5a502c40f07061ff9f3f1a *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_released_ground.act
 3a8bad79622129d32ea721d0f60a4cab *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_released_ground.spr
 77866f5468c794a2183a9382dbb7a725 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_rk_hair_bl.act
@@ -102649,6 +102859,10 @@ ed69f3455be1af7df25bc5b5c8735d2b *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_sudden_wealth_tw.
 6cf280bd8e5eb8516b13f707d30ffe0c *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_sweet_chef_hat.spr
 527522ea3f85b4cdaa6a53065fac495a *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_sweet_corone.act
 88a2f1ff071af99d1b512b4ef662dc74 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_sweet_corone.spr
+e73833f903166bf6937bebb0214ad234 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_s_two_side_up_blp.act
+f93cf45df6a2179cd5308a3ef7635d25 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_s_two_side_up_blp.spr
+6f62a0d55766f10622d60d8ff5bbeca4 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_tent.spr
 38b5a2a46af88358f22aa1016d08701a *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_tiger.spr
 374b789a6e5179ddb6dee255e308254b *data\sprite\¾Ç¼¼»ç¸®\³²\³²_c_traveller_oil_lantern.act
@@ -105746,6 +105960,8 @@ df2b2b57e704ed6acd0529979f79e700 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_poulet_tw.s
 e1943424830c15bb45629e67a4448eb5 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_shadow_devil.spr
 af441137b38a9e954df5a95b432aca36 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_streamer_aura.act
 fe76639173fb3ad38782315055426d5b *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_streamer_aura.spr
+690b021c5220889af67a6fbae7289389 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_tent.spr
 6250caeee9b43813c6eea0e7a549d6fc *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_c_tiger.spr
 f9a42cdb4e26bb049460938549a8f7f6 *data\sprite\¾Ç¼¼»ç¸®\³²_doram\³²_demons_familiar.act
@@ -106168,6 +106384,8 @@ de062a3518e639bedf8821bf05db1f01 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_princess_ribbon_c
 f88183599e72d26967f5942ae9807e8d *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_rabbit_hopping_bl.spr
 d0b9de6cd38e376aeb2ec50016c55f2a *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_rabbit_winged_robe.act
 430609bda75fb30cde6187c007a8b58c *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_rabbit_winged_robe.spr
+1813f573a48adb73147878f68f497432 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_ra_hair_pk.act
+24a16362d31257a8c3ad1ec422a6ecbf *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_ra_hair_pk.spr
 3725f00e2cb0aa91796614b72f1467a2 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_released_ground.act
 3a8bad79622129d32ea721d0f60a4cab *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_released_ground.spr
 40099c50fddc006a8e2e382e2c9384c1 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_rk_hair_bl.act
@@ -106270,6 +106488,10 @@ c37d7757f3d4aa8e8766318f07cfbb28 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_sweet_chef_hat.ac
 089cdddf3cc831ba56430e84dbc4b858 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_sweet_chef_hat.spr
 28f2f6a2d0006d9cf5aa6405611f8706 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_sweet_corone.act
 88a2f1ff071af99d1b512b4ef662dc74 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_sweet_corone.spr
+88e2ab13fb9008af73841e09e7b658ea *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_s_two_side_up_blp.act
+f93cf45df6a2179cd5308a3ef7635d25 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_s_two_side_up_blp.spr
+f0e3ed84becf352e63dfdeb0972a3a6b *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_tent.spr
 0ae14c38faa05d8d2c970e2344252c4f *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_tiger.spr
 60831f5cb6f7356301c81aba12908a3c *data\sprite\¾Ç¼¼»ç¸®\¿©\¿©_c_traveller_oil_lantern.act
@@ -109359,6 +109581,8 @@ c33f15c96ec5e121ea0af6545cb2f69b *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_panda_rabbi
 ba1fe0c97e08d3f00a7bd4fc2c3cf3fc *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_shadow_devil.spr
 24652fe29b1ee02c52c5828f140c5b5c *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_streamer_aura.act
 fe76639173fb3ad38782315055426d5b *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_streamer_aura.spr
+a412fed142bde4efbfddbc0ffb3f9f3d *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_tent.spr
 9866c339139ec948f01b60407129a9ef *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_c_tiger.spr
 ea5a6377ccaa35748e1c4cc5019e866c *data\sprite\¾Ç¼¼»ç¸®\¿©_doram\¿©_demons_familiar.act
@@ -109544,6 +109768,10 @@ d67ba84440a3f1db6fab874c07553615 *data\sprite\ÀÌÆÑÆ®\µ¥½ºÆä¶óµµ.act
 c59a469802b18243a70b86ab566d74d1 *data\sprite\ÀÌÆÑÆ®\¶óÀÌÆ®´×½ºÇÇ¾î.spr
 ab1345b2cf979aabd9a6d41a29f6b49d *data\sprite\ÀÌÆÑÆ®\·¡ÇÇµå»ş¿ö.act
 484f5fb854d0a17495dec216f4831d9d *data\sprite\ÀÌÆÑÆ®\·¡ÇÇµå»ş¿ö.spr
+882d15e33ed7b1297bf83652dcab52cf *data\sprite\ÀÌÆÑÆ®\¸¶µµÄ«Æ®.act
+fe8672c2957dca49623e0970211cc5b0 *data\sprite\ÀÌÆÑÆ®\¸¶µµÄ«Æ®.spr
+4faad0d2b29049c982e6af61362e9841 *data\sprite\ÀÌÆÑÆ®\¸¶µµÄ«Æ®_¹Ì´Ï.act
+fe8672c2957dca49623e0970211cc5b0 *data\sprite\ÀÌÆÑÆ®\¸¶µµÄ«Æ®_¹Ì´Ï.spr
 63eca3818ecbbcc76869ccb40e28566f *data\sprite\ÀÌÆÑÆ®\¸Å.act
 f5c88b66302eb44d8f49d061823baa8a *data\sprite\ÀÌÆÑÆ®\¸Å.spr
 50599eee198be25c81ab725b4b7aa22d *data\sprite\ÀÌÆÑÆ®\¸Å2.act
@@ -111809,6 +112037,10 @@ ef3b319605415daddd85c463a369ce9d *data\sprite\ÀÎ°£Á·\»óÀÎ\»óÀÎ_¿©_´Ü°Ë.act
 8b584e97e5b7c20e295892d171f1df44 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ±â¾î_³²_°Ë±¤.spr
 2abb953f1b8f56398ca465ef6be81ed4 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ±â¾î_¿©_°Ë±¤.act
 8b584e97e5b7c20e295892d171f1df44 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ±â¾î_¿©_°Ë±¤.spr
+d7fefd1e4a29708ae31e020977e63b29 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ¾Æ¸Ó_³²_°Ë±¤.act
+c7de0e7b8ff1f9db554b05321e9da566 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ¾Æ¸Ó_³²_°Ë±¤.spr
+ab20df7712d2c7475bc34abdc67b5477 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ¾Æ¸Ó_¿©_°Ë±¤.act
+691cef2e354042ecb416131671553f08 *data\sprite\ÀÎ°£Á·\¸¶µµ±â¾î\¸¶µµ¾Æ¸Ó_¿©_°Ë±¤.spr
 d6399fd45ca68ccdc9a009677dd1d00b *data\sprite\ÀÎ°£Á·\¸¶¹ı»ç\¸¶¹ı»ç_³²_1207.act
 78cd040e3e98dfec5163014307c57bba *data\sprite\ÀÎ°£Á·\¸¶¹ı»ç\¸¶¹ı»ç_³²_1207.spr
 d6399fd45ca68ccdc9a009677dd1d00b *data\sprite\ÀÎ°£Á·\¸¶¹ı»ç\¸¶¹ı»ç_³²_1208.act
@@ -112111,6 +112343,8 @@ d6c2937e907c7f497ec86b93fbd373d2 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\»óÀÎ¸äµÅÁö_³².act
 a2891a9a1e6f6865289947d89637b640 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\»óÀÎ¸äµÅÁö_³².spr
 68e54d6c6670f4809108e40cdfe33999 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸¶µµ±â¾î_³².act
 3d627ee508b5832542ff997a96b1082a *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸¶µµ±â¾î_³².spr
+7cadd0bf60435c9076364d6ce4e5b5d0 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸¶µµ¾Æ¸Ó_³².act
+adf48445cae56ad784f46bd2deff96b7 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸¶µµ¾Æ¸Ó_³².spr
 e507915a67480ef1c82ad6a5a19c200f *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸¶¹ı»ç_³².act
 e9c6be631d537ada084a9383b475e878 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸¶¹ı»ç_³².spr
 1619cf81c6e50866db7fcda4d660040c *data\sprite\ÀÎ°£Á·\¸öÅë\³²\¸ùÅ©_h_³².act
@@ -112409,6 +112643,12 @@ dbe2b656bc166a2b204d573b5ab89b0a *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_1\¹ÌÄÉ´Ğ_³²
 70a2a0a5e237c9273c77f6c9c4f9c989 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_1\¹ÌÄÉ´Ğ¸äµÅÁö_³²_1.spr
 bcaee1aa2285d7c5883de62e8c6e9c41 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_1\¹Î½ºÆ®·²_³²_1.act
 8b3a6939cb3d5cc6c02475da19e5d746 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_1\¹Î½ºÆ®·²_³²_1.spr
+7cadd0bf60435c9076364d6ce4e5b5d0 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_2\¸¶µµ¾Æ¸Ó_³²_2.act
+adf48445cae56ad784f46bd2deff96b7 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_2\¸¶µµ¾Æ¸Ó_³²_2.spr
+7cadd0bf60435c9076364d6ce4e5b5d0 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_3\¸¶µµ¾Æ¸Ó_³²_3.act
+adf48445cae56ad784f46bd2deff96b7 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_3\¸¶µµ¾Æ¸Ó_³²_3.spr
+7cadd0bf60435c9076364d6ce4e5b5d0 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_4\¸¶µµ¾Æ¸Ó_³²_4.act
+adf48445cae56ad784f46bd2deff96b7 *data\sprite\ÀÎ°£Á·\¸öÅë\³²\costume_4\¸¶µµ¾Æ¸Ó_³²_4.spr
 dfac7e81b4a0dd1b160ca5b5dfb771b0 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\frog_oboro_¿©.act
 1d3ca6078d35e099451a62675a1eefab *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\frog_oboro_¿©.spr
 1090528a4f3bd95e95ff825ccf83c25a *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\oboro_¿©.act
@@ -112499,6 +112739,8 @@ c9b2c35c7360424b6e1024b979b293a0 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\»óÀÎ¸äµÅÁö_¿©.act
 dc9980c708ba51c187bb1e416352f35f *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\»óÀÎ¸äµÅÁö_¿©.spr
 198c9415f9668e7484474372af3b612b *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸¶µµ±â¾î_¿©.act
 2ed30e0aef8628d3a25a339c533b5913 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸¶µµ±â¾î_¿©.spr
+46d14bf64ac493d7dfbbec8403cfd0b8 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸¶µµ¾Æ¸Ó_¿©.act
+74514f9ab37e6db6d44b11a1a46a9c0b *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸¶µµ¾Æ¸Ó_¿©.spr
 5fb1a09a88b37eb9f77e334443c85df0 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸¶¹ı»ç_¿©.act
 1f7559a3f3bf32e99a78246071dcf1bd *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸¶¹ı»ç_¿©.spr
 feeda0f7dc95e52dea6b6159d941d56f *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\¸ùÅ©_h_¿©.act
@@ -112806,6 +113048,12 @@ c259d85f45a3197fa9a8137baf768dab *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_1\¹ÌÄÉ´Ğ_¿©
 b61ccd4d955cd0e7996db6bd2ccefc12 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_1\¹ÌÄÉ´Ğ_¿©_1.spr
 d1dac0293cb6c1f8e309e556045b17e9 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_1\¹ÌÄÉ´Ğ¸äµÅÁö_¿©_1.act
 f00ab26d135b507a0276b2a572a79083 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_1\¹ÌÄÉ´Ğ¸äµÅÁö_¿©_1.spr
+46d14bf64ac493d7dfbbec8403cfd0b8 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_2\¸¶µµ¾Æ¸Ó_¿©_2.act
+74514f9ab37e6db6d44b11a1a46a9c0b *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_2\¸¶µµ¾Æ¸Ó_¿©_2.spr
+46d14bf64ac493d7dfbbec8403cfd0b8 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_3\¸¶µµ¾Æ¸Ó_¿©_3.act
+74514f9ab37e6db6d44b11a1a46a9c0b *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_3\¸¶µµ¾Æ¸Ó_¿©_3.spr
+46d14bf64ac493d7dfbbec8403cfd0b8 *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_4\¸¶µµ¾Æ¸Ó_¿©_4.act
+74514f9ab37e6db6d44b11a1a46a9c0b *data\sprite\ÀÎ°£Á·\¸öÅë\¿©\costume_4\¸¶µµ¾Æ¸Ó_¿©_4.spr
 c44607efcbf57b78af4e089de9fb5632 *data\sprite\ÀÎ°£Á·\¸ùÅ©\¸ùÅ©_³²_1524.act
 de04089a81a16921ef356d22d16be322 *data\sprite\ÀÎ°£Á·\¸ùÅ©\¸ùÅ©_³²_1524.spr
 c44607efcbf57b78af4e089de9fb5632 *data\sprite\ÀÎ°£Á·\¸ùÅ©\¸ùÅ©_³²_1539.act
@@ -120167,6 +120415,97 @@ a2cbba1ac98e871819734a0080133cdc *data\texture\effect\meteorstorm\meteo_comet_d.
 baa1fd5a12bd803c83b6a10526a6ddc3 *data\texture\effect\meteorstorm\meteo_comet_e.bmp
 e739a68a47d2f6cc54ef567ba6ef12ec *data\texture\effect\meteorstorm\meteo_comet_f.bmp
 0adc37194d94a964ad5bb9670b9c7f43 *data\texture\effect\meteorstorm\thumbs.db
+c9dee72d9ef1c27c607863832ac05fc4 *data\texture\effect\mineffect\new_reverberation\melody_a.bmp
+065f669ceb9de3c4833ff3ebbe7ec4d1 *data\texture\effect\mineffect\new_reverberation\rev_note_01.tga
+4646d008e81a76472c142f112b506e55 *data\texture\effect\mineffect\new_reverberation\rev_note_02.tga
+ee992009cc32b4093b87dcb846d403f6 *data\texture\effect\mineffect\new_reverberation\new_reverberation_hit\new_reverberation_hit.str
+b777a382a7d3a0eb0652b5429d131241 *data\texture\effect\mineffect\new_reverberation\new_reverberation_hit\rev_circle_1.bmp
+13eb5560203c506432da48e7d0c7cb3f *data\texture\effect\mineffect\new_reverberation\new_reverberation_hit\rev_particle_1.bmp
+0550425036999dd7687cdca51615273a *data\texture\effect\mineffect\new_reverberation\new_reverberation_hit\rev_particle_2.bmp
+8d3e936988c8415310f70e4c59fa03b2 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_00.tga
+611264e2f2f40b201f48738101c39646 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_01.tga
+0d747c5253e1c89b9008da0216dc0e7a *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_02.tga
+9fa2715fbd0f18d0393269e15550dafd *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_03.tga
+20efbdea2d430c99bc9349cd36674239 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_04.tga
+43facf222e12da530d9eae09e71d038f *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_05.tga
+776285088601b0c404a5cdd4d475749a *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_06.tga
+b8ffef88c54a8f1b9d3a7a8aa9d106f7 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_07.tga
+f9a9df6b040e0b9baa78d568a41a00a2 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_08.tga
+a2e8da51426dbf22ee5f30a8116390ac *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_09.tga
+87faba43cbca72c6f6a69b432f5e5f1c *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_blade_10.tga
+ef7a02295bf7233b814b414b251f4fbc *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_ex_01.tga
+f9c271d5e735b04b46cb826e11380bf6 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\cut_ex_02.tga
+6257cf21a95b53752e3e6bd95dee1ed3 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter\new_rollingcutter_cast.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\cut_n03.bmp
+7db755c073d6303749ad7ca577016a28 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_01\new_rollingcutter_count_01.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\cut_n03.bmp
+7550bd6c5f419b2d5da1675630cbba66 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_02\new_rollingcutter_count_02.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\cut_n03.bmp
+2f46dc34dfd558d00ce415826f9db05d *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_03\new_rollingcutter_count_03.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\cut_n03.bmp
+25bea54e7a7ebcd8016888a6139fce11 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_04\new_rollingcutter_count_04.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\cut_n03.bmp
+6a9ce4a894ece3eb67d64820a8167f8e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_05\new_rollingcutter_count_05.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\cut_n03.bmp
+c2492ba07d8bb4546de97652a751c7ab *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_06\new_rollingcutter_count_06.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\cut_n03.bmp
+68b0f6d5c5a51e0041aac3ec67e06767 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_07\new_rollingcutter_count_07.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\cut_n03.bmp
+f4dab1a99bfd860517cc6ea8cfba0dba *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_08\new_rollingcutter_count_08.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\cut_n03.bmp
+ecbbcddb3198bf49101f2521fc7e2553 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_09\new_rollingcutter_count_09.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\cut_n03.bmp
+849f00d32430eec95561bb8ffe9f83a4 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\cut_number.bmp
+5ab698fbda0199a36965bb8ea3427d83 *data\texture\effect\mineffect\new_rollingcutter\new_rollingcutter_count_10\new_rollingcutter_count_10.str
 ca5bacb75beffb16af34b1a61112af3e *data\texture\effect\newmoon_kick\freeze_a.bmp
 801adf585fe498facfd25a8ae1422b7c *data\texture\effect\newmoon_kick\moon.bmp
 defae1aa49461f852a04b50ca4fbe7bf *data\texture\effect\newmoon_kick\moon1.bmp
@@ -120345,6 +120684,177 @@ e923587a1a5c73e062ea45c7d071c8d5 *data\texture\effect\new_meteostorm\new_meteost
 24d986a4e107c4e83dbbc024e30b164b *data\texture\effect\new_meteostorm\new_meteostorm_bottom\p_27.tga
 6cf529387f8b9e847bba3757729e62db *data\texture\effect\new_meteostorm\new_meteostorm_bottom\p_28.tga
 686310b1299a2444aa7909e8af31cfae *data\texture\effect\new_meteostorm\new_meteostorm_bottom\p_29.tga
+37b48a2c364c263da73963fb6a915b52 *data\texture\effect\new_reverberation\melody_a.bmp
+0c28717367cce28dd7b90d8cfb3f960a *data\texture\effect\new_reverberation\rev_note_01.bmp
+065f669ceb9de3c4833ff3ebbe7ec4d1 *data\texture\effect\new_reverberation\rev_note_01.tga
+51a761341b9f8e490c3eb072c7c9d4be *data\texture\effect\new_reverberation\rev_note_02.bmp
+4646d008e81a76472c142f112b506e55 *data\texture\effect\new_reverberation\rev_note_02.tga
+434b022bc565915db3fac507b39f48ce *data\texture\effect\new_reverberation\new_reverberation_hit\new_reverberation_hit.str
+b777a382a7d3a0eb0652b5429d131241 *data\texture\effect\new_reverberation\new_reverberation_hit\rev_circle_1.bmp
+9431c5e931e1f0aa7b2ddd9cf7f37eb9 *data\texture\effect\new_reverberation\new_reverberation_hit\rev_flare_1.bmp
+13eb5560203c506432da48e7d0c7cb3f *data\texture\effect\new_reverberation\new_reverberation_hit\rev_particle_1.bmp
+0550425036999dd7687cdca51615273a *data\texture\effect\new_reverberation\new_reverberation_hit\rev_particle_2.bmp
+84560a9af079ed55b267241f608f0363 *data\texture\effect\new_reverberation\new_reverberation_hit\rev_particle_3.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\blank_box.tga
+6dcfa90e23c83dce2fe62d6d784a019b *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_00.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_00.tga
+4a41759fa1eabe2657848f3f2cdda70b *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_01.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_01.tga
+f49e710f160beff78e63a9e11673f87d *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_02.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_02.tga
+0621c0a0a5abadbe2e45974a18508e70 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_03.tga
+c3291d4bf9f644b5d80bb638f8a9d560 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_04.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_04.tga
+b942d98ad4e7f8cecedff7f8e96514e4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_05.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_05.tga
+c03b0cc47c035f08b20be3481c96c282 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_06.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_06.tga
+0896a857c19bb7fc76daf21782d74c56 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_07.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_07.tga
+8a9a773c292c59ef9130bb3bfc306290 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_08.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_08.tga
+3a6bc2274588f87b8c632c2fa9ac5207 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_09.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_09.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_10.tga
+1754fb1b2667aed6e02a5330a4aac9b8 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_line.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_line.tga
+78c9494ea24b047f00c7d2ffbda03407 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_line_01.bmp
+2a35b9d1aac04579445600d0d63b104f *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_blade_line_02.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_color.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_ex_01.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter\cut_ex_02.tga
+847c8107da62ea231e41344d57fdbe57 *data\texture\effect\new_rollingcutter\new_rollingcutter\new_rollingcutter.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_n03.tga
+7db755c073d6303749ad7ca577016a28 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_01\new_rollingcutter_count_01.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_n03.tga
+7550bd6c5f419b2d5da1675630cbba66 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_02\new_rollingcutter_count_02.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_n03.tga
+2f46dc34dfd558d00ce415826f9db05d *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_03\new_rollingcutter_count_03.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_n03.tga
+25bea54e7a7ebcd8016888a6139fce11 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_04\new_rollingcutter_count_04.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_n03.tga
+6a9ce4a894ece3eb67d64820a8167f8e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_05\new_rollingcutter_count_05.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_n03.tga
+c2492ba07d8bb4546de97652a751c7ab *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_06\new_rollingcutter_count_06.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_n03.tga
+68b0f6d5c5a51e0041aac3ec67e06767 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_07\new_rollingcutter_count_07.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_n03.tga
+f4dab1a99bfd860517cc6ea8cfba0dba *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_08\new_rollingcutter_count_08.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_n03.tga
+ecbbcddb3198bf49101f2521fc7e2553 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_09\new_rollingcutter_count_09.str
+de3de2c734efacf489a057375f59064e *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_exp_01.bmp
+d009bd9a0b7b3e1ff97e32281011bdf8 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_exp_02.bmp
+5a27a7d921b9a4dcda32cdb75952eba4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_exp_light.bmp
+85280acf69617497838c567d84906428 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_n01.tga
+83391ae319708f57307846e4fd1dcfae *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_n03.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_n03.tga
+849f00d32430eec95561bb8ffe9f83a4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_number.bmp
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_number.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_suriken.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\cut_suriken_light.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\light_1.tga
+dd39db31e9fd15712b5f425c1384a8c4 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\light_2.tga
+6ab0cdd40aa5e23c8aae1e0ce8e62338 *data\texture\effect\new_rollingcutter\new_rollingcutter_count_10\new_rollingcutter_count_10.str
 10c7c548a9dec37066f637ed8f9fb13b *data\texture\effect\new_splash\new_splash.str
 ecb43d3dc8d514aabc6c5a9d1ea1f86d *data\texture\effect\new_splash\splash_00.bmp
 55c4f43f76626f0d5d33fe75de59bddf *data\texture\effect\new_splash\splash_01.bmp
@@ -130096,6 +130606,8 @@ fbc1c277d48476641ae0880d80a4612c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\ba
 1e12ce4aebc71d4def7638d6d6a68933 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\battle_option2_b.bmp
 c7c5d9d0f79c8c0efd8d2ec6c371ec74 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\battle_option_a.bmp
 95958fc17c6d622bc3312c7cf2c425be *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\battle_option_b.bmp
+cc8dc5474b074f491674bfa4b0df3c13 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\big_sys_close_off.bmp
+7c887bf1de1d4f5427bd46a340b1db04 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\big_sys_close_on.bmp
 995f22e07eb6e295664be033da73e5f8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\booking1.bmp
 da513dd68a24ca2f9239b881a3b02f91 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\booking2.bmp
 3fe3a3c0135e20b05c1bee6e63bc471c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\booking3.bmp
@@ -130339,6 +130851,9 @@ b234868a920cb886e5b1b013dfd40e9a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gz
 87ec290767a95cc6dcbcefe40c9404a2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gzered_right.bmp
 051499e41c0286c90f0b8e2ca2f8d6fc *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gze_bg.bmp
 48c0172328738d26d427ce0b44dd611f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gze_bg1.bmp
+1446340dad9b623e84d54cc94b77ac99 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gze_bg_left.bmp
+20b7abe6cfe0186497cb3bcf23c9c739 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gze_bg_mid.bmp
+5234ca8cbe1ecebbb185f10339dbd02f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\gze_bg_right.bmp
 a55a169eab3175414395e5ed70a1117d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\homuninfo_bg.bmp
 03a46ff9f0c24f8e6499e8d282da5bae *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\ico_confusion.bmp
 2a5691cea1c7455147d6646e154fe853 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\ico_curse.bmp
@@ -130401,6 +130916,9 @@ aabed2f674bce6fd2d7581c82439f067 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\me
 93c2639df46f55f006850b1603485add *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_09_b.bmp
 cff4deab77e9a3bf05b2dd0188d34fee *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_left.bmp
 4e8840a6386dab4d36cdf5028f0dbdc1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_mid.bmp
+2115a0ff6b18a3a9abc43b67e3a492c8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_partymaster_01.bmp
+b9953d73bbb487233071a8029a902559 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_partymaster_01_a.bmp
+c9cb90ee8e5359b25eb024ec2de42c65 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_partymaster_01_b.bmp
 450c811e17dbb420b83c20eac4062385 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\mesbtn_right.bmp
 15309f38ae32fc7a79a908bbb64c2a45 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\more_info.bmp
 f2cc8e2ff4dcc220f4b4ec52798a135b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\basic_interface\nc_background.bmp
@@ -130965,6 +131483,7 @@ a21ff2bd5aa172536c343dc15336f5f6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\schmidt_ca
 5bfde9cb8b1dca01ba92b7903db3fcc0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\silva_papilia_card.bmp
 fc9e22b1c3f6e43bf2582a8c08e5e5f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\sorry.bmp
 79700b1112c76d3fa95477f856fed98f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\sweety_card.bmp
+cac4ebdcbfc45c4463eaadf914790901 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\tha_anger_card.bmp
 855750100bddbd5704e3dba4544a1663 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\thumbs.db
 0708a87d8883dc48b10a1ccba0c05326 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\tiyanak_card.bmp
 e97da76a2488d3455829981da2eab7c7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\cardbmp\toucan_card.bmp
@@ -131790,6 +132309,8 @@ ed5df2bc1bf69e205076078f43e65daf *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\abyss_d
 9c32eba83fd883c620d139d1c3cdb742 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\abyss_scroll_tw.bmp
 0ce66db576491c7bef1cc51fc9f996c6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\accelerator_chip.bmp
 b28709f791d216eb682c435c2aa2975e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ac_b44_os.bmp
+d88d4596030f2f26d4d53e36c46bf4cf *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\add_atk_potion.bmp
+0e47e71a6dd3521eef307960b9a637ba *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\add_matk_potion.bmp
 c9be76c0d0a3405b7cb50c21333c85e1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\adorare_staff.bmp
 c1d6938d282e34ebff1473841f5614d0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\aegis_system.bmp
 4c8e9c0cd93f2f10f67d919d00b79e76 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\agave_syrup.bmp
@@ -131925,6 +132446,7 @@ cf61b63809592dff06a41caefa2bcee9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c8ÇĞ³âÇ
 5828d03c5049be6a4f5d5d02caca4d6b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\calf_diamondback.bmp
 3590ab67cacd55e1a9f670d6900e9bd0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\calf_kingcobra.bmp
 01105d163f6e3d054bcee8655b586c0d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\calf_python.bmp
+043c98431a28631e3da9b137f494a387 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cancer_shoes.bmp
 dabfadcf3240c98a966034a1343654b3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\candycanerod.bmp
 a3902cd9aa2df9705f09d836aeee8241 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cannon_rapier_os.bmp
 bca6f26e2e165d6c18982bbb53afd9f0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cape_of_ancient_lord_il.bmp
@@ -131970,6 +132492,9 @@ fda5a0694bc427bb03e53df30429e416 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\clover_
 63f8e05b0897160dcadb7ed7dd188b1f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\combo_battle_glove_il.bmp
 55e228c5144bdcd812c4c38088c3c9e8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\combo_fist.bmp
 5cbdf9f6f290b164b34a363c1af8601a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\commander_manteau_j.bmp
+aab65c77cb3d460380727926068ae4ba *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\concentrated_b_p.bmp
+684a4bcc8a4f33ab3a88991505260846 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\concentrated_g_p.bmp
+53fa1a22101a26b6e6ff86f670092ad9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\concentrated_r_p.bmp
 8eab7240af01408c74c2b9caca487778 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cons_of_darkness.bmp
 ba089f16b8c63347e8b1b4ca8d43ab49 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cons_of_earth.bmp
 4c48087340d8b9feb34d2818a1f4aac1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cons_of_fire.bmp
@@ -132005,6 +132530,7 @@ e2ea6137e4488d2fabc79291b798f4a9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\crown_o
 5474d2be6b29be991639bdac46ffb2d1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\crushed_snow_man.bmp
 8f0892c42b69ec5dd7e3411ee4a43e51 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\crystal_blade_necklace.bmp
 c9fa6f014b832fd32e7408665c231dab *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\crystal_blade_necklace_.bmp
+0f93be332403cbb07d076bcc8b16db41 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\crystal_piece_bl.bmp
 61edd7a98eee69197115f151abc8efc6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cursed_emerald.bmp
 f2bdfe0657ccb09a10ca422fbef85a43 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cursed_knight_shield.bmp
 1518644dee342de8430e3079b3b47b8d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\cute_frog_raincoat.bmp
@@ -132236,6 +132762,7 @@ b4f6da5258330642ebb19576958e845d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_prote
 aae46a63ac6f41bf112a74f63dc57c92 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_put_on_coat.bmp
 e4916f1f94bdf2bc982c6cda450307d6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_rabbit_hopping_bl.bmp
 d2e054bf3e9fe1346e03280d884861ab *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_rabbit_winged_robe.bmp
+b031eb3fe43e8d2e10ea28261ee1c6db *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_ra_hair_pk.bmp
 6cc33d44a19556b3ba0336ef8e48ce89 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_released_ground.bmp
 0ce1e6ce6f4e82660e08b52ca11f5d6b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_rk_hair_bl.bmp
 e45688dbbf7e0a5a55ea2a5d198218f5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_rk_hair_bu.bmp
@@ -132300,6 +132827,8 @@ b2c5d3059ddbdd58c4e846d2bc103901 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_strai
 57e712d883fbf570cce2acaa317837b0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_sweet_chef_hat.bmp
 926c95a0c5cd5d77266bb9bd5db82293 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_sweet_corone.bmp
 613ef3d5de377874dedc552c46ce5391 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_swirling_flame.bmp
+8c4864aa74a51bb214f5821e54a11710 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_s_two_side_up_blp.bmp
+9375c85d4cb25137862773ff5a6bcb3d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_tent.bmp
 466a84443e58be6b3722d8a03b93012f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_tiger.bmp
 55c4f52b24bb38d5a28612f7f28a81af *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_traveller_bag.bmp
 390ede831248c809412b96533484e2ea *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\c_traveller_oil_lantern.bmp
@@ -132506,6 +133035,12 @@ a02ad9e981a746ac5cf9eb8142626c14 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fairy_o
 9867dd1f899e527b4ec7579e6ba87d75 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\false_ears.bmp
 12c170129d80580ef175a3529d78a4e2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fancy_flower_il.bmp
 bd189c7095dbe76db091320bde9c2a6e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\farthezan.bmp
+1a4552951fb510bc5c2f094b4632198e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fate_fragment.bmp
+7ab9a969cf70e71595caea4e7ab6b6f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fate_shard_a.bmp
+05dffc6406ffd7e690c378b24e09a90b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fate_shard_b.bmp
+c70bff3493d2a42cc5cb19501ab2567c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fate_shard_c.bmp
+ce9dfd1ff194be28847a8698ef5267c5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fate_shard_d.bmp
+46a90e382c1d02cf19b7a99d545220a9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\fate_shard_e.bmp
 408252df39cf469a3046a5009c518421 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\feather_fedora_tw.bmp
 19a90d33683d2d8f838b585451172495 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\feather_of_seraphim.bmp
 650ec0a2a96369c6f9df6405d01c30c1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\febcarepackage.bmp
@@ -132857,6 +133392,7 @@ e882b4d209eea9e2648cf7426364d7d2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\l_ribbo
 f9ae41148592735a10d90828f81b08a2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\lí¬-l¦¦v.bmp
 044d29df0375c83066dcc46a58dd5f32 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\macaron.bmp
 f3afafd2d94000b2b321a001b567c606 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\mado_box.bmp
+29012f900ffb604e2a7bacefabd23cee *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\mado_box02.bmp
 b661fe82ecdc6361b9836702fedde775 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\magical_igni_stone.bmp
 16a72b787672ff17982a4cb5a1473939 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\magic_celestial_globe.bmp
 3a635618e7b8989f86e38159964ff392 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\magic_circle.bmp
@@ -133018,6 +133554,7 @@ c6e24637bceb8c3ab3c9916714aaeed9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\rapid_f
 cb77d95380348d0e83aef5eb39914dfa *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\reactor_z.bmp
 77578783d2fd2bb39b4bae3a7522e158 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\reaper_cross.bmp
 55120ee684403f6eee19ef5797ab2a35 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\red_fog_garnet.bmp
+e8e80bd26b3d1f27a3f69a520aa8f025 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ref_t_potion.bmp
 c597c651ac3ec8a27c091c59962207c3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\remixcarepackage.bmp
 ad2b15ac855efb23a6d70a358dcb2f3e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\remodelcube.bmp
 080e5bb8ba6f6d0505d84b04ce24745f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\repent_slasher.bmp
@@ -133033,6 +133570,7 @@ b8b0a737a1add575450adbb62faa6fbe *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\rgÈ²±İ»
 36ac8c95eff1b97b841a5ae61436947d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ringofvenus.bmp
 52f5788cc26005c80ab0eb8f0454af60 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ring_il.bmp
 9bc8b9e9e71a7c8566cc9d4e4b7e8b36 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ring_of_brave.bmp
+d19f6ff38454d37dd1a1016bafca08e8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ring_of_nature.bmp
 65a09999e7974c850601a68ff98c8d8c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\ring_of_silverclaw.bmp
 f2b8af037944586e766489e200242a8b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\rite_robe.bmp
 ade769511df0fbcd293d3507e6a03c40 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\rjc±İ¸ñ°ÉÀÌ.bmp
@@ -133107,6 +133645,18 @@ b104c16b44b06cbc5cd7d75244721597 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sharp_s
 00337826669124e810ccb3835bb2e492 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shield_of_phoenix.bmp
 32cc77917e5509f77ccd6854e8d46484 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shield_ring.bmp
 52f9b27c762e97573fcef9d80408b708 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shinee_opal.bmp
+ae9b1621b0b083153931a2a555c76647 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_necklace_a.bmp
+4d1472f3def910de8cdd914faeea3326 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_necklace_aq.bmp
+5a42aab8bfa917bf2ae030e4adc9aab5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_necklace_e.bmp
+93492e036c83a78b53d142abee08bf3b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_necklace_r.bmp
+157e2f3160fe10099cfdb2910718fc1e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_necklace_s.bmp
+271f6be5b3a450b910f9c5896ca87bb5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_necklace_z.bmp
+69aa17abaadcfaea331c90b8cf4f8628 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_ring_a.bmp
+00ae173d43766edd42f2b6e41e155c8d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_ring_aq.bmp
+bebd0f640ff3320d8c53fc371a3cb854 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_ring_e.bmp
+e1a401f749fc41a7780b225f724cb9ef *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_ring_r.bmp
+fcb605cd98e6d7d666fa82718ef158e1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_ring_s.bmp
+d21cebae06495f17c429ade122109906 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shine_ring_z.bmp
 53be19a0c513f445e562722189bd2723 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shining_spore.bmp
 7f2aa7c82de603493078d401463492b8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shoes.bmp
 3a763e25ac491cee0c2932accf286e56 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\shoesofguardsman.bmp
@@ -133122,6 +133672,24 @@ e9aa1ae81ace9059c478080e70937b89 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\side_pi
 f3cd0ea4c3edd3a4f9355d2c8837b2d3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\side_pigtail_wh.bmp
 829275dc75b7da60f9a27f379981f655 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\side_pigtail_yl.bmp
 03fdb0743e0d1e0b39ce4649c3b123a7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\siege_robe_2tier.bmp
+ad13524b31ed6630f2b9602a1ef01abb *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_fragment.bmp
+d4a5308d3c08948d28f807943d6f83aa *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_necklace_a.bmp
+76093ffe4ca97b4c09df5ecd10929041 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_necklace_e.bmp
+c0b6a7aac00fdc91cff67e2058b5cd58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_necklace_o.bmp
+894a53ce7b70907d9a43399574137cb5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_necklace_r.bmp
+5434bff73f1ce9200d590ba77f99eacd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_necklace_s.bmp
+bcc59b5cd668a6e1359ae34a86572cec *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_necklace_t.bmp
+c16e3ef61a6c61170147c49517c24512 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_ring_a.bmp
+0ba792151e047ddd2a87569020dcba64 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_ring_e.bmp
+29c0927a894425d6aebfc205e5dbb379 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_ring_o.bmp
+40b66ee48340c15e0675a89d0ca162a0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_ring_r.bmp
+d48ca00a7e62f95a47c12cda253722ce *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_ring_s.bmp
+834c1c92424a0f2648b8009220e8c56a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_ring_t.bmp
+7fcf6e97ce327325f80bcaca13662cc4 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_shard_a.bmp
+3119c84922ab3ca953854f98bf8a84ab *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_shard_b.bmp
+c04184dc8d90e9c0ef83fb82e20aec4e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_shard_c.bmp
+d7785079af3d2d78319e2e2fe40576a7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_shard_d.bmp
+5edd5ce37bdc6a23afae039204592d58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\sin_shard_e.bmp
 3738f7ef7ce4eed724fb98ca6b82bb3d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\siroods_fish_rod.bmp
 8113d168621c075b8b93c8e5c958354d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\skin_of_ladon.bmp
 8ef72ba53aab12d83e74f93bec8f2b6f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\skin_of_marraco.bmp
@@ -134311,6 +134879,10 @@ df2558aa72e9e544760ca2bee27d7666 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ï°¢ÆÒÆ
 9d3b05ef20fb71219715392c808f6c42 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ïµÎ·æÀÇ¸ñ.bmp
 9666b94e283d2c9e6bf06da9734cf088 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ÏÁ·±¸µÎ.bmp
 9e161c5f580cde701ad6d52ca5409094 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ñ°«.bmp
+899b74651d8ebc6916bb84e7e2b9b8c1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó±ŞÆ÷¼Ç-»¡°­.bmp
+55f117c124f7e01f794e59d17359ffda *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó±ŞÆ÷¼Ç-³ë¶û.bmp
+b9acd24f0d8ba73ac2f4c7fd2e47a75c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó±ŞÆ÷¼Ç-ÆÄ¶û.bmp
+941a4373ffbeafcc50ac3b85ad55b61f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó±ŞÆ÷¼Ç-ÇÏ¾ç.bmp
 5a951741814fee3e3a15eafe6042e700 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó±ŞÆ÷¼ÇÁ¦Á¶¸Å´º¾ó.bmp
 a60182682f7b98b2cf0d39b02d008c80 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó±Ş´ÑÀÚÀÇÇã¸®¶ì.bmp
 2860935c4728d692c3ca531a3592fb4b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\»ó¾î.bmp
@@ -135573,6 +136145,7 @@ c4e5e78dc0d25126911d921e40f1b07b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³Ê±¸¸®³
 69c3eca1e612f917545bf09422d820a6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³Ê´ú°Å¸®´Â¸ÁÅä.bmp
 90aefc04be0421567aa5bb50539b1903 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³Ê´ú³Ê´úÇÑ¿Ê.bmp
 d665a4d0b5887f2d2c87aa74d456a41d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³ë¶õ¶óÇÃ·¹¼ö¾×.bmp
+d0c40d59b0cd93b3aecfdba847b51ae0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³ë¶õ»ö°¨±â¾à.bmp
 a757887c2e8c43ee1ef2adca8eec77d8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³ë¶õ»ö°¡·ç.bmp
 4af2475b4648c6abd053a80132fba0f1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³ë¶õ»öµÎ°Ç.bmp
 5b2ec27c73070374debeee1d6a49bd7e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\collection\³ë¶õ»ö¸®º».bmp
@@ -139198,6 +139771,12 @@ e64c3f43ead3c51c4b692ff0549f510f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\looke_rapez
 4f27d6a85dba9f2fadab7a7e054d87ed *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\loo_nor.bmp
 af51480e885eb6b04b925671c0f0b7c7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\loo_sim.bmp
 e646737579a2fd9c9bd858484e251458 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\loo_smi.bmp
+09babaf0d972bef599f9e7fec2254590 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lumin_ac_01.bmp
+c8cb61b6ba7cf6c9dc626e6c58040b62 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lumin_ac_02.bmp
+10a731d33c9e0bba7493e26a3adc4433 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lumin_ac_03.bmp
+3a3d06f547476e8b88bfaa0682a531d9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lumin_ac_04.bmp
+ec3d89c737e8039ada7937af5fcc5e15 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lumin_ac_05.bmp
+057ba463c376178d6a8cf5428bf019ec *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lumin_ac_06.bmp
 393d68093fe022372819f51ee63b3a21 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lunain01.bmp
 a4e938189ae25eba65c52ebe96808111 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lunain02.bmp
 1e96f1cb4bc07abc07b9f224eee94775 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\illust\lunain03.bmp
@@ -139794,6 +140373,8 @@ b54791d89670619281af2b0d8e05004e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ac_double.bmp
 2fe3715b97bdda6dd028820ce0976302 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ac_owl.bmp
 b106cb322045866991601b4cbc24991e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ac_shower.bmp
 a414287540bd2335a7249b434b67328f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ac_vulture.bmp
+13be7e278a96e7b9ac004fde95776508 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\add_atk_potion.bmp
+59768e9cd10defabdbb59ac7246612ae *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\add_matk_potion.bmp
 b19457cbef2bed8c218d86b227693355 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\adorare_staff.bmp
 1bf432a09379684be5cf195de1dba575 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\aegis_system.bmp
 58da271c1836d6de8df1ac8677a0e0e9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\agave_syrup.bmp
@@ -140051,6 +140632,7 @@ c2f08852ed9d9d010c49dee8ac05ad89 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\calf_deathadd
 f13007500c1047edcd1429f3c5bb23ee *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\calf_diamondback.bmp
 5479ae1568b5986b0f48b661617af874 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\calf_kingcobra.bmp
 60ad0fb5d0ac190847cd0a532ad0553c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\calf_python.bmp
+2770be3ffd4bc22435b782b92b166a5e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cancer_shoes.bmp
 23712e6f0efc0d11d9c628db3aa6ad23 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\candycanerod.bmp
 1a5b7f1810d6451af8d2cfe563cdc9f2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cannon_rapier_os.bmp
 2c31043da377e4a28809b1b10ae36695 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cape_of_ancient_lord_il.bmp
@@ -140108,6 +140690,9 @@ fce1a7350c5531eafeb9a664fb5d8d26 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\collider.bmp
 78643429b2a2d7a91dd34631a2e4e6da *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\combo_battle_glove_il.bmp
 c7b2d7ae9bc345acf261ea9f2a2329f5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\combo_fist.bmp
 fe2923e635d1874d5af097781bd5fe46 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\commander_manteau_j.bmp
+c5e32da98b909a3b000ed2509922cdb3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\concentrated_b_p.bmp
+3de507347960d930af686e2ec47ac5ba *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\concentrated_g_p.bmp
+c3eaf360cc6a7dd2581436fca6e937e5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\concentrated_r_p.bmp
 7259c12922f3f980b40882b7d80e41ba *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cons_of_darkness.bmp
 0eb111dc70cbff9885377bac4eb7bbad *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cons_of_earth.bmp
 18148c51a86802896d9a4337cc116ebc *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cons_of_fire.bmp
@@ -140143,6 +140728,7 @@ d2bcd568545d6221b27454e3246aaf68 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\crimson_rose_
 4e09f5b405ea519a623655ea65fa7570 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\crushed_snow_man.bmp
 bf92baa5bdfaab3a941e9d48bfbdc158 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\crystal_blade_necklace.bmp
 61ca714116ca8d47cb22259a9a0cdec9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\crystal_blade_necklace_.bmp
+4f508f495ee42e9e7f93cd79d9ec32f5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\crystal_piece_bl.bmp
 4c3b2bd7dec7143254bc2733444b9f6e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cr_aciddemonstration.bmp
 03ab3ec117c403feb97e5bb960a6cbe6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cr_alchemy.bmp
 493ae9fd5461cd50fb54759578187f93 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\cr_autoguard.bmp
@@ -140392,6 +140978,7 @@ b7194ba2bd8a4acfcfb9af758689e3cb *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_princess_ri
 8975320036719ea363e09dabb35fd026 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_put_on_coat.bmp
 c56df123de6b9d5239e7bc40939f1689 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_rabbit_hopping_bl.bmp
 7c810028c391ac6a49de3421288d2aff *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_rabbit_winged_robe.bmp
+3a0e9c99cc65f450d1ca0368107f571b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_ra_hair_pk.bmp
 19a20807d5df14881dfad190482f13a5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_released_ground.bmp
 54f37f633ba67f816e753f8269eee6c8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_rk_hair_bl.bmp
 27eec70154be19e936362931267753dc *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_rk_hair_bu.bmp
@@ -140456,6 +141043,8 @@ ea2b76a30625adc827e2158c0dc1cb77 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_sunglass_be
 c48c7d74db01745cbbd68086ef45f17a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_sweet_chef_hat.bmp
 8b0045d3d3e32f7524a6fa74621bfb57 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_sweet_corone.bmp
 6796704736821ceb9898a819f045e86b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_swirling_flame.bmp
+cc9d19abe0423ebce64c84051e44d683 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_s_two_side_up_blp.bmp
+19d1459da8c139ac0ca2ba682504b7fd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_tent.bmp
 e1a3b4a4905effb5329731de0d277938 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_tiger.bmp
 947eeb633aada591b29358c45c2a8fc6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_traveller_bag.bmp
 badd1a514c3d9d160ad162d166f1062b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\c_traveller_oil_lantern.bmp
@@ -140676,6 +141265,12 @@ d0d1e6732e34d4037d93e0bd7bba598e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fairy_of_eden
 cc16dac1b44e9832b4a714f133d99f06 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\false_ears.bmp
 a3898057082cb92740ac1eb1191ecfaf *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fancy_flower_il.bmp
 a49ffdfca139b50054a24cf97be06571 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\farthezan.bmp
+9b2740594b019b0a5280ab5b167854c3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fate_fragment.bmp
+f9492b79ad2a6cb259a0235b3307d9ae *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fate_shard_a.bmp
+708da3fc9b2c8db67e3e4d859da1442a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fate_shard_b.bmp
+d8c1bce6298b56c522deaf965a30ecc6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fate_shard_c.bmp
+428cf79f30a16ac4f76b7c10b994905b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fate_shard_d.bmp
+a0fa4c214a2703bb9c22349665d9b59f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\fate_shard_e.bmp
 6e91a4b4f818314f1c12e392eb067003 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\feather_fedora_tw.bmp
 953c12a30486fde3e85e62db4ee03897 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\feather_of_seraphim.bmp
 11933b55a296abba186aa198ebd379b5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\febcarepackage.bmp
@@ -141235,6 +141830,7 @@ adc038ce9f65685ee288b4d1e9de022a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\lí¬-l¦¦v.bmp
 983edf2d9555f44a193c3f666e3bbe3b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\macaron.bmp
 6858736aea734730d262934815bc0746 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\macemastery.bmp
 cb02621149459879ed5cd41a00641144 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\mado_box.bmp
+d3d0b02fea3966792d4120ea7963f209 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\mado_box02.bmp
 1d8094d8d9f005a915c01b8a3a2d5493 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\magical_igni_stone.bmp
 3334df8f9702848b44ade6d430a50e3c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\magic_celestial_globe.bmp
 f9d7a0823c87f796c435f5ec81b2c48c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\magic_circle.bmp
@@ -141672,6 +142268,7 @@ aa0b25ad777eedd17cbc0320eedca1b1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ra_verduretra
 e9b2fd9bd16b42ccf7ea2694b50d0cbb *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\reactor_z.bmp
 1add7c677fc2f48c9c34724fcc6b5fe8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\reaper_cross.bmp
 2056de9353acf00fe8d207df05f0bc35 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\red_fog_garnet.bmp
+79c00d3b19ad8a5f4b71a3753ceb9e4a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ref_t_potion.bmp
 11933b55a296abba186aa198ebd379b5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\remixcarepackage.bmp
 94fb0cf2e2cacdef36168615151cf871 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\remodelcube.bmp
 ba010bd8b808286bf01651cd129854a9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\repent_slasher.bmp
@@ -141707,6 +142304,7 @@ f49f1fd62e2e3bfcc2c28f077cb40ed1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ringofdevil.b
 359c2c2ffe3974dd89a58c3c33554d00 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ring_il.bmp
 8271d1f816fbf956cd393cbb221315db *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ring_line.tga
 29b748fa7c3d527487350e7ec9f6a9a9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ring_of_brave.bmp
+fb47ea4852db369412ddd16adc4f4b7e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ring_of_nature.bmp
 6fc4b8566fd91e6aa98d5d7e2c757ab0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ring_of_silverclaw.bmp
 915b591c0511330dc620365ec96b6497 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\rite_robe.bmp
 35a06fcd527071185cc370da63147a5b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\rjc±İ¸ñ°ÉÀÌ.bmp
@@ -141884,6 +142482,18 @@ e05a07c159f51733e719e19b3ef379d1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sharkhead.bmp
 7fdd669a9040e231126b7de056bdaedc *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shield_of_phoenix.bmp
 21e6628faffcae032b3ad34197c50178 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shield_ring.bmp
 1335a43d68b2ddfda3bd148d6981cefd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shinee_opal.bmp
+58799d921a1cbe7d144478ec8e0619d4 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_necklace_a.bmp
+1c7d9b98534cd8c1cbb15e2ac136582e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_necklace_aq.bmp
+da85a10919ea1c1aaed5b17160539657 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_necklace_e.bmp
+821512ea96d9b93f8439ea7accf07020 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_necklace_r.bmp
+9cb380d5996445d28aba5d9d33beaebd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_necklace_s.bmp
+90636ed15aa6a9969a8e661f9d904eac *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_necklace_z.bmp
+901945621da26f022c4a7413e1d1f0b3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_ring_a.bmp
+a2a08bc2611a251248c1d043f2c8c0f2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_ring_aq.bmp
+c4251804ef86afcac49f1cbbbbabbb30 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_ring_e.bmp
+f99305b814bdc5986a65375bb76a0cd5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_ring_r.bmp
+646e34810fea0884484c24b83279ef53 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_ring_s.bmp
+9c0ed790353bc7709ed460546bc2e5f5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shine_ring_z.bmp
 3bc1e311fb7f144201d1f0a5b008eb88 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shining_spore.bmp
 7137dc910c5f9f15ed867f11646af170 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\ship_ticket.bmp
 ad68b9d06b98be030c96e4b6884b5242 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shoes.bmp
@@ -141900,6 +142510,24 @@ f5decafc9b3f29937ae18a1223a895e0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\shoes_of_serv
 26e50984646c45ab113543d184f836c1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\side_pigtail_wh.bmp
 2c52bd0c2a1a65426782b2698d27f8a0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\side_pigtail_yl.bmp
 1932d9774e2bfc43bffd413aaa63dcbe *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\siege_robe_2tier.bmp
+14216d989e88a9b4e0d9cd1cec6f79a6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_fragment.bmp
+069fe59ec022eabd552f1dc079b99acd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_necklace_a.bmp
+eb75e0c96e8fc0ddf6fabf11f6036c74 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_necklace_e.bmp
+bdc8362aa4182c5698d3f4d3cff08d0e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_necklace_o.bmp
+f161c5f4696039326ca28e09b8bad7b6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_necklace_r.bmp
+1b03beb49cad72f53d7d6684238f7565 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_necklace_s.bmp
+da0264c00fecbf23cc68927c5d217e51 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_necklace_t.bmp
+6cf6121acf5080f9ff6afb135df9b57a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_ring_a.bmp
+fe71959487f9faf39c4015bc5ddfac23 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_ring_e.bmp
+4e86dae46de8d993204a22aafdc3911a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_ring_o.bmp
+83b5c82b13cf2cca36d86604ff0e1bd2 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_ring_r.bmp
+c8287e0e85f6193a0b4751eb93eef126 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_ring_s.bmp
+94e08c12c00a28114400e87afe8c0d83 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_ring_t.bmp
+69f26ca8e3d4bea96994fc520af0a747 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_shard_a.bmp
+6383dfba6aa2171cd672c2daa8a857ea *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_shard_b.bmp
+82bce2736d9e73fcb548a6124549f70c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_shard_c.bmp
+4927d4bdd78bbea63ed4df1435ebd65f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_shard_d.bmp
+b5212d22739ab7f7ca219a362927ccbb *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sin_shard_e.bmp
 210534dc6deb24dbc4a6ef6971d71eeb *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\siroods_fish_rod.bmp
 a8847cae0d1b40cc287737ba5200f98c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sj_bookofcreatingstar.bmp
 4548aff8e3e78c764a0f6e71af7df33d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\sj_bookofdimension.bmp
@@ -143402,6 +144030,10 @@ e0457b4397712f51d9e390ce972e13f8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»êÅ¸ÀÎÇü¸Ó¸®¶
 3766e520842e15d4ddded5924ac7adb5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ïµÎ·æÀÇ¸ñ.bmp
 e542a74fc76fa5ab39dfa0feb8a20740 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ÏÁ·±¸µÎ.bmp
 9caf85d6c219bdbf549db1c0ff8b7fbd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ñ°«.bmp
+ec893093a7d3c1ffe7dd88fd72100a83 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó±ŞÆ÷¼Ç-»¡°­.bmp
+ba7bfe83b5979e1972e475bc152d7e5e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó±ŞÆ÷¼Ç-³ë¶û.bmp
+6fe082195608c82e7a1ec5d86380bcc6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó±ŞÆ÷¼Ç-ÆÄ¶û.bmp
+85db564ad7c8fe04f74bee1f1dd89b16 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó±ŞÆ÷¼Ç-ÇÏ¾ç.bmp
 24fd9a9c6033f6b52714e45322503b06 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó±ŞÆ÷¼ÇÁ¦Á¶¸Å´º¾ó.bmp
 d5f6e319f19acfc28926cf3e2f74f107 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó±Ş´ÑÀÚÀÇÇã¸®¶ì.bmp
 08da658937081cb22c6e0a6b3378af43 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\»ó¾î.bmp
@@ -144656,6 +145288,7 @@ b2cda0687309f899dbe6c1aa667fc4bb *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³Ê±¸¸®³ª¹µÀÙ.
 e2036cc9f9bc204296e0e49c2a2a073a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³Ê´ú°Å¸®´Â¸ÁÅä.bmp
 0e3cb32c767367181ecbcd31c23d95a9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³Ê´ú³Ê´úÇÑ¿Ê.bmp
 ab1d1cec401bd00fe4d7b2061e7b6126 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³ë¶õ¶óÇÃ·¹¼ö¾×.bmp
+e15beeddd3a1dee3d7cc3fe3d67ccce8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³ë¶õ»ö°¨±â¾à.bmp
 9739748571909098fb35c055a6f459c7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³ë¶õ»ö°¡·ç.bmp
 3c69a198448e47a711295bc38b300c3f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³ë¶õ»öµÎ°Ç.bmp
 4d27cde4dd6bbcf8e5e8cda50aa0bb0c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\item\³ë¶õ»ö¸®º».bmp
@@ -147463,6 +148096,7 @@ e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@sthb.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@sthc.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@sthd.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@swat.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@thts.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@tnm1.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@tnm2.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\1@tnm3.bmp
@@ -147480,11 +148114,18 @@ e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\2@mir.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\2@nyd.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\2@orcs.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\2@pump.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\2@thts.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\2@tower.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\3@thts.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\3@tower.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\4@thts.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\4@tower.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\5@thts.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\5@tower.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\6@thts.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\6@tower.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\7@thts.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\8@thts.bmp
 d6922d780d9893132c641169fcc86a1b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\abbey01.bmp
 744b6d47d8f05d46d14c679213834ab7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\abbey02.bmp
 6b48c829cad08d19475e792072800b2d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\abbey03.bmp
@@ -148226,6 +148867,8 @@ ed162a0ffb68d1af2103b3acc0f98192 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\map\yuno_fild09.bm
 215d9ab2246ed2501155504db99e5614 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_achievement_new.bmp
 4f4f80bcc0b222a1a32366014ab5805e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_achievement_new_press.bmp
 63723dd25234a824a24ee5cbad2c912f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_achievement_press.bmp
+d27e251c69eee286f4a2176bc5968e0d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_adventureragency.bmp
+a2933ac2bfa68c8f5f9ff2885e070d12 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_adventureragency_press.bmp
 94e8be99ca1c67361d02dcb5bc36fe0c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_attendance.bmp
 15dc6f6eef032fbd2d33ee31e4d815b0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_attendance_new.bmp
 b1bbafb34e9a12b98cfc7d35e8310922 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\menu_icon\bt_attendance_new_press.bmp
@@ -149640,6 +150283,46 @@ ad667ba08a32572d29e32af9ec30734a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\tipbox\tip00027.bm
 0a492b408c592ebfe9606e6bdbbbc688 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\tipbox\tip00029.bmp
 5840c70e8f391a4c9127c73885ee3c61 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\tipbox\tip08086.bmp
 1edea0d93064404d7f0b8cfb24d26d50 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\tipbox\tipboxbg.bmp
+d8d03c383d6bdf1b6d011ef5ef7e707b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\bg_agencylist.bmp
+613a475a45994b854159f929d2a0018f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\bg_agency_admit.bmp
+6490ee00934c4502c9cfa1ac4a5cfff0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\bg_agency_register.bmp
+4b35f99a94a30a839ae5ce137c44a1a4 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_block_off.bmp
+d4a16e2c0e2516f812df99e5e3f29175 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_block_on.bmp
+ae4ad91f954c7151cd702e834097823c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_dropdown_out.bmp
+f7543ce583ab2ebd8e2dc8a3b1b4dcd9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_dropdown_over.bmp
+6687de06745c3a13462af780b55df7aa *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_dropdown_press.bmp
+8c8cc0e52b8bffa785af9b758be820b7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_initialize.bmp
+f74b6e9083dd6861b8f1fe6516780d77 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_initialize_disable.bmp
+2dfd6976b5a44af76b401c52a2fff53a *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_initialize_over.bmp
+f75bcae85261237dd6b6bba1ff489fa8 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_initialize_press.bmp
+6209a9924cdd3b2e593b0a3473c5831f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_atk_off.bmp
+51ec901118cd9cc482e55ac52ae7a0d4 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_atk_on.bmp
+bd6a221957945c6caf94b8e914290bd3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_buf_off.bmp
+41f9f54046963ce202c561d88446966f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_buf_on.bmp
+2ee213bd49f2a53feb9f28cf4e652ae0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_def_off.bmp
+c9bf518d2ca5ff4ad7310c31a116750e *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_def_on.bmp
+4c2b2bcae4b1ac2ce3b23b07ba04ef49 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_heal_off.bmp
+9fa583fa8afaa2ae890d4cb4f7d6361f *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_job_heal_on.bmp
+aeac2fec3388f1ee6063cd9ff5c60df3 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list.bmp
+ddf7042e46f557d6e286d1acfe00924c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_disable.bmp
+379ea7b0c666f9f9aa2cefa030d85ec4 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_left.bmp
+b6b274d40b6c427b67067c14663bcc88 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_left_disable.bmp
+810d5e84597b870b387b3db230cbece5 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_over.bmp
+5f3c610ec00ceae5d6464072d8477a3b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_press.bmp
+55b259d44c1c1775905d5b860945604d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_right.bmp
+de8561b0e565671a4c5cdcaf57c2a20d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_list_right_disable.bmp
+0aa371b07d9b02bd2455ea1a533bd3c6 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_recruit.bmp
+1412528564906541fd19763aa10143d1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_recruit_disable.bmp
+4ef5c2c7ab3856e3e2cf48ecc28ab95b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_recruit_on.bmp
+0c10704d80d806bdf68e3cac79650a58 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_recruit_press.bmp
+0548443714bff71de0eccb507fdf781d *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_refresh.bmp
+2b4a06adfe460ee35bd0c8590146b4ec *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_refresh_disable.bmp
+0bde34b060ab7d86bc6270df90d35ef0 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_refresh_over.bmp
+5d7722c81b2e7ea9040ef0ac74379cc7 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_refresh_press.bmp
+26c8b07930f52cec1b418da6cd8270ab *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_search.bmp
+e6171e30c4768f866342284521e9a1a9 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_search_disable.bmp
+79a06734566243652560bfa85fa8eaff *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_search_over.bmp
+716a981c99d3093f3f67495b4e9ba54c *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\uiadventureragency\btn_search_press.bmp
 8c03ae40b7b424b21a863ea7d9a6aaa1 *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\worldview_interface\airplen32.bmp
 169f9017132e233ce42cfcd8233e10cd *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\worldview_interface\thumbs.db
 e1de304c16408f810d9ed90b1cadf41b *data\texture\À¯ÀúÀÎÅÍÆäÀÌ½º\worldview_interface\wv_airf.bmp
@@ -151474,6 +152157,7 @@ e21c5cef068e339bf491889df66098c1 *data\wav\chung_e_die.wav
 852fa365c0ba0f011c27ab378bb1f74d *data\wav\chung_e_move.wav
 228cd5ba5cdeba5e28c742ab59338aee *data\wav\chunithm_atk.wav
 55656da6d8ea57349c85b00d2dcde001 *data\wav\chunithm_dmg.wav
+41cec6de10a474fe0feb262601c51e7c *data\wav\chunithm_std.wav
 8062f7f94a348e23c501d545c93add7a *data\wav\civil_servant_attack.wav
 7e9f054539666fa3638c98ca51b486b7 *data\wav\civil_servant_attack2.wav
 6abb276bfa53a698c3da9e7461c035f6 *data\wav\civil_servant_damage.wav
@@ -151531,6 +152215,7 @@ cfce4e31bc5929989c9a4f7c43c81a7d *data\wav\crack.wav
 59cfb82d9412acf672f5b659337b8512 *data\wav\creamy_move.wav
 8a4cee726ca844f207e3f47c7e732e61 *data\wav\creeper_die.wav
 c1443fac117cb3639ba1744092c7e105 *data\wav\crimson_r.wav
+76da2f5674ca313133134c8ebed3c6c5 *data\wav\crow_duke_attack.wav
 11e192a56a58baeb5deec4c1d7037c9f *data\wav\cruiser_attack.wav
 1e3a752371b9b57a6dddc5a876b4051a *data\wav\cruiser_die1.wav
 ad369d28f07cbb11a67a354dd5b4004a *data\wav\cruiser_die2.wav

@@ -50,7 +50,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_PIERROTS_NOSE] = "_±¤ґлДЪ",
 	[ACCESSORY_IDs.ACCESSORY_PIRATES_EYEBANDAGE] = "_АЗАыѕИґл",
 	[ACCESSORY_IDs.ACCESSORY_MUNAK_TURBAN] = "_№«і«ёрАЪ",
-	[ACCESSORY_IDs.ACCESSORY_HIP_HOP_MASK] = "_ЅГА§їлё¶ЅєЕ©",
 	[ACCESSORY_IDs.ACCESSORY_IRONCANE] = "_ѕЖАМѕрДЙАО",
 	[ACCESSORY_IDs.ACCESSORY_CIGAR] = "_ґг№и",
 	[ACCESSORY_IDs.ACCESSORY_CIGAR_PIPE] = "_ЖДАМЗБґг№и",
@@ -2593,5 +2592,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_E_Hode_Head] = "_hodehead",
 	[ACCESSORY_IDs.ACCESSORY_C_Winner_Yel_Pur_Aura] = "_C_Winner_Yel_Pur_Aura",
 	[ACCESSORY_IDs.ACCESSORY_C_Winner_Red_Black_Aura] = "_C_Winner_Red_Black_Aura",
-	[ACCESSORY_IDs.ACCESSORY_C_Streamer_Aura] = "_C_Streamer_Aura"
+	[ACCESSORY_IDs.ACCESSORY_C_Streamer_Aura] = "_C_Streamer_Aura",
+	[ACCESSORY_IDs.ACCESSORY_C_S_Two_Side_Up_BLP] = "_C_S_Two_Side_Up_BLP"
 }

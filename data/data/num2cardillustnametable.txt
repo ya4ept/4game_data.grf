@@ -1021,3 +1021,4 @@
 300019#Bone_Ferus_Card#
 300020#Bone_Acidus_Card#
 300021#Bone_Detale_Card#
+300274#tha_anger_card#

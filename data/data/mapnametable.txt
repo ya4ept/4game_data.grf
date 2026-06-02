@@ -294,6 +294,14 @@ que_job01.rsw#Private Pub#
 abyss_01.rsw#Abyss Lake Underground Cave#
 abyss_02.rsw#Abyss Lake Underground Cave#
 abyss_03.rsw#Abyss Lake Underground Cave#
+1@thts.rsw#Thanatos Tower#
+2@thts.rsw#Angel's Warning#
+3@thts.rsw#Memory of Hatred#
+4@thts.rsw#Memory of Agony#
+5@thts.rsw#Memory of Sorrow#
+6@thts.rsw#Memory of Despair#
+7@thts.rsw#Memory of Anger#
+8@thts.rsw#Thanatos Tower#
 tha_t01.rsw#Thanatos Tower - Lower Level#
 tha_t02.rsw#Thanatos Tower - Lower Level#
 tha_t03.rsw#Thanatos Tower - Lower Level#
@@ -308,7 +316,7 @@ tha_t11.rsw#Thanatos Tower - Upper Level#
 tha_t12.rsw#Thanatos Tower - Upper Level#
 thana_step.rsw#Thanatos Tower - Upper Level#
 thana_boss.rsw#Thanatos Tower - Unknown Area#
-thana_scene01.rsw#Thanatos Tower Entrance#
+tha_scene01.rsw#Thanatos Tower Entrance#
 job_soul.rsw#Your Heart#
 job_star.rsw#The Sun, the Moon and the Stars#
 hu_fild07.rsw#Hugel Field#

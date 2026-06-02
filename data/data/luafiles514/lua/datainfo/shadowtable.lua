@@ -771,5 +771,10 @@ ShadowFactorTable = {
 	[jobtbl.JT_PAD_MUSPELHEIM] = 3,
 	[jobtbl.JT_PAD_ZAEROG] = 3,
 	[jobtbl.JT_IMMORTAL_CO_CMDER] = 3,
-	[jobtbl.JT_MYSTCASE_GIANT] = 5
+	[jobtbl.JT_MYSTCASE_GIANT] = 5,
+	[jobtbl.JT_WARPNPC] = 0,
+	[jobtbl.JT_MD_THANATOS] = 2,
+	[jobtbl.JT_MD_BROKEN_THANATOS] = 2,
+	[jobtbl.JT_THA_ANGER] = 1.5,
+	[jobtbl.JT_MD_THA_ANGER] = 1.5
 }

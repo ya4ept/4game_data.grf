@@ -38729,1193 +38729,1356 @@ QuestInfoList = {
 		Summary = "04ЅГ ГК±вИ­"
 	},
 	[3389] = {
-		Title = "»эГј АьАЪ №жЗШ ДЁ Б¦°Е",
+		Title = "Removal of Bionic Jammer Chips",
 		IconName = "ico_dq.bmp",
-		Description = { "ДЁ Б¦°ЕїЎ јє°шЗПї© їЎїАёЈЖДїНАЗ јТЕлАМ їшИ°ЗП°Ф µЗѕъґЩ." },
-		Summary = "їЎїАёЈЖДАЗ ЅГЅєЕЫАМ АзЅГАЫ µЗёй ё»А» °ЙѕоєёАЪ."
+		Description = {
+			"You have successfully removed the Chips and established communication with Eorpa."
+		},
+		Summary = "Try to talk to her again once the system reboots."
 	},
 	[3390] = {
-		Title = "Б¦ 2 ё¶·В №ЯАьјТ °ьё®АЪ їЎїАёЈЖД",
+		Title = "Magic Power Plant 2 Manager Eorpa",
 		IconName = "ico_dq.bmp",
-		Description = { "^4d4dffё¶·ВБЯµ¶ »зіЄ·№^000000·ОєОЕН °ЁАЪДЁА» »©ѕСѕЖ їААЪ!" },
-		Summary = "°ЁАЪДЁ 10°іё¦ ИёјцЗШ їААЪ."
+		Description = { "Take Potato Chips from ^4d4dffMagic-poisoned Sanares^000000 and come back!" },
+		Summary = "Collect Potato Chips (10 pcs.)"
 	},
 	[3391] = {
-		Title = "АП·зЅГїВАМ »Сё° °ЁАЪДЁ - ґл±в",
+		Title = "Chips Scattered by Illusion Agents (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ ґЩЅГ №ЮѕЖ јцЗаЗТ јц АЦЅАґПґЩ. <NAVI>[їЎїАёЈЖД]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ДщЅєЖ® јцБЦ°Ў °ЎґЙЗХґПґЩ."
+			"It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI> to start the quest again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[3392] = {
-		Title = "АП·зЅГїВАМ »Сё° °ЁАЪДЁ",
+		Title = "Chips Scattered by Illusion Agents",
 		IconName = "ico_dq.bmp",
-		Description = { "^4d4dffё¶·ВБЯµ¶ »зіЄ·№^000000·ОєОЕН °ЁАЪДЁА» »©ѕСѕЖ їААЪ!" },
-		Summary = "°ЁАЪДЁ 10°іё¦ ИёјцЗШ їААЪ."
+		Description = { "Take Potato Chips from ^4d4dffMagic-poisoned Sanares^000000 and come back!" },
+		Summary = "Collect Potato Chips (10 pcs.)"
 	},
 	[5892] = {
-		Title = "Г»јТ·ОєїҐШ",
+		Title = "Cleaner Omega",
 		IconName = "ico_nq.bmp",
-		Description = { "Г»јТ·ОєїҐШ" },
-		Summary = "Г»јТ·ОєїҐШїН ґлИ­ їП·б"
+		Description = { "Cleaner Omega" },
+		Summary = "Finish talking to Cleaner Omega"
 	},
 	[5893] = {
-		Title = "ЗПјцГіё®Ае Г»јТҐ°",
+		Title = "Cleaning Station Waste Removal I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>ґВ Г»јТё¦ ёшЗШ ЅЅЖЫЗП°н АЦґЩ.",
-			"<NAVI>[ЗПјц єЈіЧґ®]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI> 44 °іГјё¦ ^0000FFёЙёЕ^000000ЗШБЦАЪ.",
-			" ",
-			"єё»уАє ЗПјцГіё®Ае Г»јТҐ°, ЗПјцГіё®Ае Г»јТҐ±, ЗПјцГіё®Ае Г»јТҐІё¦ ёрµО їП·бЗШѕЯ №ЮА» јц АЦЅАґПґЩ."
+			"<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties.",
+			"^0000FFKill^000000 44 <NAVI>[Sewage<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI> <NAVI>Venenums]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
+			"You will receive a reward after completing all of the following quests: 'Cleaning Station Waste Removal I', 'Cleaning Station Waste Removal II', 'Cleaning Station Waste Removal III'."
 		},
-		Summary = "ЗПјц єЈіЧґ® 44°іГј",
+		Summary = "Kill Sewage Venenum (44 pcs.)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5894] = {
-		Title = "ЗПјцГіё®Ае Г»јТҐ±",
+		Title = "Cleaning Station Waste Removal II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>ґВ Г»јТё¦ ёшЗШ ЅЅЖЫЗП°н АЦґЩ.",
-			"<NAVI>[ЗПјц Е©·ҐЗБ]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI> 44 °іГјё¦ ^0000FFёЙёЕ^000000ЗШБЦАЪ.",
-			" ",
-			"єё»уАє ЗПјцГіё®Ае Г»јТҐ°, ЗПјцГіё®Ае Г»јТҐ±, ЗПјцГіё®Ае Г»јТҐІё¦ ёрµО їП·бЗШѕЯ №ЮА» јц АЦЅАґПґЩ."
+			"<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties.",
+			"^0000FFKill^000000 44 <NAVI>[Sewage<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI> <NAVI>Cramps]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
+			"You will receive a reward after completing all of the following quests: 'Cleaning Station Waste Removal I', 'Cleaning Station Waste Removal II', 'Cleaning Station Waste Removal III'."
 		},
-		Summary = "ЗПјц Е©·ҐЗБ 44°іГј",
+		Summary = "Kill Sewage Cramps (44 pcs.)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5895] = {
-		Title = "ЗПјцГіё®Ае Г»јТҐІ",
+		Title = "Cleaning Station Waste Removal III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>ґВ Г»јТё¦ ёшЗШ ЅЅЖЫЗП°н АЦґЩ.",
-			"<NAVI>[ЗПјц їцЕНЖъ]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI> 44 °іГјё¦ ^0000FFёЙёЕ^000000ЗШБЦАЪ.",
-			" ",
-			"єё»уАє ЗПјцГіё®Ае Г»јТҐ°, ЗПјцГіё®Ае Г»јТҐ±, ЗПјцГіё®Ае Г»јТҐІё¦ ёрµО їП·бЗШѕЯ №ЮА» јц АЦЅАґПґЩ."
+			"<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties.",
+			"^0000FFKill^000000 44 <NAVI>[Sewage<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI> <NAVI>Waterfalls]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
+			"You will receive a reward after completing all of the following quests: 'Cleaning Station Waste Removal I', 'Cleaning Station Waste Removal II', 'Cleaning Station Waste Removal III'."
 		},
-		Summary = "ЗПјц їцЕНЖъ 44°іГј",
+		Summary = "Kill Sewage Waterfalls (44 pcs.)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5896] = {
-		Title = "[ґл±в]ЗПјцГіё®Ае Г»јТ",
+		Title = "Cleaning Station Waste Removal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АПБ¤ ЅГ°ЈАМ Бці­ ИД",
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>їЎ°Ф ЗПјцГіё®Ае Г»јТ ДщЅєЖ®ё¦ ґЩЅГ №ЮА» јц АЦЅАґПґЩ."
+			"Please wait a moment.",
+			"Talk to <NAVI>[Cleaner<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> <NAVI>Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> to start the Cleaning Station Waste Removal quest again."
 		},
-		Summary = "ГК±вИ­ 04ЅГ",
+		Summary = "Resets at 04:00 a.m.",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5897] = {
-		Title = "Б¦1 ё¶·В№ЯАьјТ Г»јТҐ°",
+		Title = "Magic Power Plant 1 Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>ґВ Г»јТё¦ ёшЗШ ЅЅЖЫЗП°н АЦґЩ.",
-			"<NAVI>[ї¤ё®Ж® є§¶у·№]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI> 44 °іГјё¦ ^0000FFёЙёЕ^000000ЗШБЦАЪ.",
-			" ",
-			"єё»уАє Б¦1 ё¶·В№ЯАьјТ Г»јТҐ°, Б¦1 ё¶·В№ЯАьјТ Г»јТҐ±, Б¦1 ё¶·В№ЯАьјТ Г»јТҐІё¦ ёрµО їП·бЗШѕЯ №ЮА» јц АЦЅАґПґЩ."
+			"<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties.",
+			"^0000FFKill^000000 44 <NAVI>[Elite<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI> <NAVI>Bellares]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
+			"You will receive a reward after completing all of the following quests: 'Magic Power Plant 1 Cleanup I', 'Magic Power Plant 1 Cleanup II', 'Magic Power Plant 1 Cleanup III'."
 		},
-		Summary = "ї¤ё®Ж® є§¶у·№ 44°іГј",
+		Summary = "Kill Elite Bellares (44 pcs.)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5898] = {
-		Title = "Б¦1 ё¶·В№ЯАьјТ Г»јТҐ±",
+		Title = "Magic Power Plant 1 Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>ґВ Г»јТё¦ ёшЗШ ЅЅЖЫЗП°н АЦґЩ.",
-			"<NAVI>[ё¶·ВБЯµ¶ µ№·ОёЈ]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI> 44 °іГјё¦ ^0000FFёЙёЕ^000000ЗШБЦАЪ.",
-			" ",
-			"єё»уАє Б¦1 ё¶·В№ЯАьјТ Г»јТҐ°, Б¦1 ё¶·В№ЯАьјТ Г»јТҐ±, Б¦1 ё¶·В№ЯАьјТ Г»јТҐІё¦ ёрµО їП·бЗШѕЯ №ЮА» јц АЦЅАґПґЩ."
+			"<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties.",
+			"^0000FFKill^000000 44 <NAVI>[Magic-poisoned<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI> <NAVI>Dolors]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
+			"You will receive a reward after completing all of the following quests: 'Magic Power Plant 1 Cleanup I', 'Magic Power Plant 1 Cleanup II', 'Magic Power Plant 1 Cleanup III'."
 		},
-		Summary = "ё¶·ВБЯµ¶ µ№·ОёЈ 44°іГј",
+		Summary = "Kill Magic-poisoned Dolors (44 pcs.)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5899] = {
-		Title = "Б¦1 ё¶·В№ЯАьјТ Г»јТҐІ",
+		Title = "Magic Power Plant 1 Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>ґВ Г»јТё¦ ёшЗШ ЅЅЖЫЗП°н АЦґЩ.",
-			"<NAVI>[З®·Бі­ ё¶·В]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI> 44 °іГјё¦ ^0000FFёЙёЕ^000000ЗШБЦАЪ.",
-			" ",
-			"єё»уАє Б¦1 ё¶·В№ЯАьјТ Г»јТҐ°, Б¦1 ё¶·В№ЯАьјТ Г»јТҐ±, Б¦1 ё¶·В№ЯАьјТ Г»јТҐІё¦ ёрµО їП·бЗШѕЯ №ЮА» јц АЦЅАґПґЩ."
+			"<NAVI>[Cleaner Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad because it can't perform its duties.",
+			"^0000FFDestroy^000000 44 instances of <NAVI>[Unleashed<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI> <NAVI>Magic]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
+			"You will receive a reward after completing all of the following quests: 'Magic Power Plant 1 Cleanup I', 'Magic Power Plant 1 Cleanup II', 'Magic Power Plant 1 Cleanup III'."
 		},
-		Summary = "З®·Бі­ ё¶·В 44°іГј",
+		Summary = "Destroy Unleashed Magic (44 pcs.)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5900] = {
-		Title = "[ґл±в]Б¦1 ё¶·В№ЯАьјТ Г»јТ",
+		Title = "Magic Power Plant 1 Cleanup",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АПБ¤ ЅГ°ЈАМ Бці­ ИД",
-			"<NAVI>[Г»јТ·ОєїҐШ]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>їЎ°Ф Б¦1 ё¶·В№ЯАьјТ ДщЅєЖ®ё¦ ґЩЅГ №ЮА» јц АЦЅАґПґЩ."
+			"Please wait a moment",
+			"Talk to <NAVI>[Cleaner<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> <NAVI>Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> to start the Magic Power Plant 1 Cleanup quest again."
 		},
-		Summary = "ГК±вИ­ 04ЅГ",
+		Summary = "Resets at 04:00 a.m.",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[8586] = {
-		Title = "»зА°Ае ѕИі»",
+		Title = "Farm Briefing",
 		Description = {
-			"»зА°АеАє ЅГјі ѕИі»їН БЦАЗ »зЗЧА» µиБц ѕКАёёй АФАеА» Зг°ЎЗТ јц ѕшґЩ°н ЗСґЩ. <NAVI>[·зАМі­]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>їЎ°Ф АЪјјЗС АМѕЯ±вё¦ µйѕо єёАЪ."
+			"You have to listen to a safety briefing before you can enter the farm. Talk to <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> to learn more."
 		},
-		Summary = "·зАМі­°ъ ґлИ­"
+		Summary = "Talk to Ruinan"
 	},
 	[8587] = {
-		Title = "АПАП іуАе ГјЗи - ґл±в",
+		Title = "Daily Farm Chores (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[·зАМі­]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>Ає ѕрБ¦іЄ ґзЅЕА» ±вґЩёіґПґЩ. і»АП ґЩЅГ ілµїА» ЗП°н ґл°Ўё¦ їд±ёЗХЅГґЩ."
+			"<NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> is always ready to meet with you. Tomorrow you can complete the quest and receive the reward again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[8588] = {
-		Title = "Іїё® Иёјц",
+		Title = "Collecting Tails",
 		Description = {
-			"іуАе ГјЗиА» ЗПґВ µїѕИ ёрАє ЗЗЕёѕЯАЗ ї©·Ї °ЎБц Іїё®ё¦ ГјЗи ё¶№«ё® БЎ°ЛА» ЗПґВ АЪµїАОЗь ЅЗЕ©їЎ°Ф °ЗіЧБЦёй µИґЩ."
+			"You need to collect Pitaya's tails while working on the farm and then give them to automaton Silk."
 		},
-		Summary = "ґшАь іЎАЗ ЅЗЕ©їЎ°Ф Іїё® АьґЮ"
+		Summary = "Take the tails to Silk at the end of the dungeon"
 	},
 	[8589] = {
-		Title = "єёЅє ѕЯїЛАМ°Ў!",
+		Title = "Pitaya Boss!",
 		Description = {
-			"ЅЗЕ©ґВ ·зАМі­їЎ°Ф і»єО ј­№ц·О єё°нё¦ ё¶ГЖАёіЄ, ±Ч·Ўµµ єРАМ З®ё®Бц ѕКґВБц јХґФАё·Ој­ <NAVI>[·зАМі­]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>їЎ°Ф БчБў Е¬·№АУА» іЦѕо ґЮ¶у°н єОЕ№ЗЯґЩ."
+			"Silk has finished her report and asked you to take it to <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>."
 		},
-		Summary = "·зАМі­°ъ ґлИ­"
+		Summary = "Talk to Ruinan"
 	},
 	[8590] = {
-		Title = "»Ў°Ј ЗЗЕёѕЯїН іоѕЖБЦ±в",
+		Title = "Elimination of Red Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АЪµїАОЗь <NAVI>[ДЪЖ°]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>Ає БцБ¤µИ ілµї·®А» Г¤їм±в А§ЗШј­¶уёй №«Ѕј јц¶уµµ ѕІ°н ЅНѕоЗСґЩ. јХґФїЎ°Ф ілµїА» єО°ъЗПґВ °НБ¶Вч ёБјіАМБц ѕКґВґЩ. »Ў°Ј ЗЗЕёѕЯ 20ё¶ё®їН іоѕЖБЦёй ДЪЖ°Ає ґл°Ўё¦ БЩ °НАМґЩ."
+			"Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Red Pitayas."
 		},
-		Summary = "»Ў°Ј ЗЗЕёѕЯ ГіДЎ"
+		Summary = "Kill Red Pitayas"
 	},
 	[8591] = {
-		Title = "іл¶х ЗЗЕёѕЯїН іоѕЖБЦ±в",
+		Title = "Elimination of Yellow Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АЪµїАОЗь <NAVI>[ДЪЖ°]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>Ає БцБ¤µИ ілµї·®А» Г¤їм±в А§ЗШј­¶уёй №«Ѕј јц¶уµµ ѕІ°н ЅНѕоЗСґЩ. јХґФїЎ°Ф ілµїА» єО°ъЗПґВ °НБ¶Вч ёБјіАМБц ѕКґВґЩ. іл¶х ЗЗЕёѕЯ 20ё¶ё®їН іоѕЖБЦёй ДЪЖ°Ає ґл°Ўё¦ БЩ °НАМґЩ."
+			"Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Yellow Pitayas."
 		},
-		Summary = "іл¶х ЗЗЕёѕЯ ГіДЎ"
+		Summary = "Kill Yellow Pitayas"
 	},
 	[8592] = {
-		Title = "ЖД¶х ЗЗЕёѕЯїН іоѕЖБЦ±в",
+		Title = "Elimination of Blue Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АЪµїАОЗь <NAVI>[ДЪЖ°]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>Ає БцБ¤µИ ілµї·®А» Г¤їм±в А§ЗШј­¶уёй №«Ѕј јц¶уµµ ѕІ°н ЅНѕоЗСґЩ. јХґФїЎ°Ф ілµїА» єО°ъЗПґВ °НБ¶Вч ёБјіАМБц ѕКґВґЩ. ЖД¶х ЗЗЕёѕЯ 20ё¶ё®їН іоѕЖБЦёй ДЪЖ°Ає ґл°Ўё¦ БЩ °НАМґЩ."
+			"Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Blue Pitayas."
 		},
-		Summary = "ЖД¶х ЗЗЕёѕЯ ГіДЎ"
+		Summary = "Kill Blue Pitayas"
 	},
 	[8593] = {
-		Title = "єё¶у ЗЗЕёѕЯїН іоѕЖБЦ±в",
+		Title = "Elimination of Purple Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АЪµїАОЗь <NAVI>[ДЪЖ°]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>Ає БцБ¤µИ ілµї·®А» Г¤їм±в А§ЗШј­¶уёй №«Ѕј јц¶уµµ ѕІ°н ЅНѕоЗСґЩ. јХґФїЎ°Ф ілµїА» єО°ъЗПґВ °НБ¶Вч ёБјіАМБц ѕКґВґЩ. єё¶у ЗЗЕёѕЯ 20ё¶ё®їН іоѕЖБЦёй ДЪЖ°Ає ґл°Ўё¦ БЩ °НАМґЩ."
+			"Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Purple Pitayas."
 		},
-		Summary = "єё¶у ЗЗЕёѕЯ ГіДЎ"
+		Summary = "Kill Purple Pitayas"
 	},
 	[8594] = {
-		Title = "ГК·П ЗЗЕёѕЯїН іоѕЖБЦ±в",
+		Title = "Elimination of Green Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"АЪµїАОЗь <NAVI>[ДЪЖ°]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>Ає БцБ¤µИ ілµї·®А» Г¤їм±в А§ЗШј­¶уёй №«Ѕј јц¶уµµ ѕІ°н ЅНѕоЗСґЩ. јХґФїЎ°Ф ілµїА» єО°ъЗПґВ °НБ¶Вч ёБјіАМБц ѕКґВґЩ. ГК·П ЗЗЕёѕЯ 20ё¶ё®їН іоѕЖБЦёй ДЪЖ°Ає ґл°Ўё¦ БЩ °НАМґЩ."
+			"Automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> uses all means to reach her goals. She even has guests running her errands. Cotton will give you a reward if you kill 20 Green Pitayas."
 		},
-		Summary = "ГК·П ЗЗЕёѕЯ ГіДЎ"
+		Summary = "Kill Green Pitayas"
 	},
 	[8595] = {
-		Title = "ЗЗЕёѕЯїН іоѕЖБЦ±в - ґл±в",
+		Title = "Elimination of Pitayas (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[ДЪЖ°]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>Ає ѕрБ¦іЄ ґзЅЕА» ±вґЩёіґПґЩ. і»АП ґЩЅГ ілµїА» ЗП°н ґл°Ўё¦ їд±ёЗХЅГґЩ."
+			"<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> trusts that you will continue helping her in the future. Tomorrow you can complete the quest and receive the reward again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[11615] = {
-		Title = "ЗПјц°ьАЗ і«їААЪ",
+		Title = "Failure in the Sewers",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"№°їЎ єьБш »з¶чАМ АьЕхєТґЙ »уЕВАО °Н °°ґЩ. АМ±Чµе¶уЅЗАЗ іЄ№µАЩА» »зїлЗШј­ Иёє№ЅГДС БЦАЪ."
+			"Whoever it was that fell into the water, he doesn't look fit to fight. Use an Yggdrasil Leaf to heal him."
 		},
-		Summary = "АМ±Чµе¶уЅЗАЗ іЄ№µАЩ 1°і"
+		Summary = "Use an Yggdrasil Leaf (1 pc.)"
 	},
 	[11616] = {
-		Title = "ЗПјц°ьАЗ і«їААЪ",
+		Title = "Failure in the Sewers",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"µа АПЗаµµ ё®є§ё®їВАЗ їЬ·Ъё¦ №Ю°н АъЕГА» Б¶»зЗП°Ф µЗѕъґЩ°н ЗСґЩ. ґЩёҐ АПЗаµй°ъ ЗХ·щЗПАЪ."
-		},
-		Summary = "ё¶±вАЗ ёсјТё®°Ў µйё®ґВ °чАё·О"
+		Description = { "Dew was also sent here by the Rebels to explore the mansion. Join his party." },
+		Summary = "Find Maggie"
 	},
 	[11617] = {
-		Title = "ЗПјц°ьАЗ і«їААЪ",
+		Title = "Failure in the Sewers",
 		IconName = "ico_ep.bmp",
-		Description = { "А§·О їГ¶у°ЎґВ №®А» ГЈѕТґЩ. ЗФІІ АМµїЗПАЪ." },
-		Summary = "ѕЛЗБ°Ў АЦґВ °чАё·О"
+		Description = { "You found a door that leads upstairs. Go up together." },
+		Summary = "Find Alf"
 	},
 	[11618] = {
-		Title = "ЗПјц°ьАЗ і«їААЪ",
+		Title = "Failure in the Sewers",
 		IconName = "ico_ep.bmp",
-		Description = { "µеµрѕо Бц»уАё·О їГ¶уїВ °Н °°ґЩ. ¶уЅГЅєїН ґлИ­ЗПАЪ." },
-		Summary = "¶уЅГЅєїН ґлИ­"
+		Description = { "Looks like you are finally outside. You need to talk to Lasis." },
+		Summary = "Talk to Lasis"
 	},
 	[11620] = {
-		Title = "ЗПјц°ьАЗ і«їААЪ",
+		Title = "Failure in the Sewers",
 		IconName = "ico_ep.bmp",
-		Description = { "ѕИВК №®Ає Аб°ЬАЦґВ µн ЗПґЩ. №ЫАё·О іЄ°Ўј­ АПЗа°ъ ґлИ­ЗПАЪ." },
-		Summary = "Еёё¶ё°°ъ ґлИ­"
+		Description = {
+			"The door seems to be locked from the inside. Go outside and talk to your companions."
+		},
+		Summary = "Talk to Tamarin"
 	},
 	[11621] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = { "µа°Ў °©АЪ±в єРјцґл°Ў АЦґВ °чАё·О ¶Щѕо°¬ґЩ. µаё¦ µы¶у°ЎєёАЪ." },
-		Summary = "єРјцґлё¦ И®АО"
+		Description = { "Dew took off towards the fountain. Follow him." },
+		Summary = "Investigate the fountain"
 	},
 	[11622] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = { "ёрµО°Ў ±Г±ЭЗШЗПґВ µµј­°ьА» Б¶»зЗПАЪ." },
-		Summary = "µµј­°ь і»єО·О"
+		Description = { "Explore the library that everyone is talking about." },
+		Summary = "Find a way into the library"
 	},
 	[11623] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = { "№®їЎ єЩѕоАЦґВ єТА» Іф°н µµј­°ьАё·О АФАеЗЯґЩ." },
-		Summary = "µµј­°ь °ьё®АЪҐвїН ґлИ­"
+		Description = { "You put out the fire and entered the library." },
+		Summary = "Talk to Librarian Beta"
 	},
 	[11624] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"µµј­°ьїЎј­ґВ ГЯ°Ў·О µµј­°ь АМїл µо·ПАМ ЗКїдЗПґЩ°н ЗСґЩ. ё¶Е©їЎ°Ф АМѕЯ±в ЗШБЦАЪ."
-		},
-		Summary = "µµј­°ьїЎ АЦґВ ё¶Е©їН ґлИ­"
+		Description = { "To use the library, you need to register first. Talk to Mark." },
+		Summary = "Talk to Mark in the library"
 	},
 	[11625] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"µµј­°ьїЎј­ґВ ГЯ°Ў·О µµј­°ь АМїл µо·ПАМ ЗКїдЗПґЩ°н ЗСґЩ. ё¶±вїЎ°Ф АМѕЯ±в ЗШБЦАЪ."
-		},
-		Summary = "µµј­°ьїЎ АЦґВ ё¶±вїН ґлИ­"
+		Description = { "To use the library, you need to register first. Talk to Maggie." },
+		Summary = "Talk to Maggie in the library"
 	},
 	[11626] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"µµј­°ьїЎј­ґВ ГЯ°Ў·О µµј­°ь АМїл µо·ПАМ ЗКїдЗПґЩ°н ЗСґЩ. ѕЛЗБїЎ°Ф АМѕЯ±в ЗШБЦАЪ."
-		},
-		Summary = "µµј­°ьїЎ АЦґВ ѕЛЗБїН ґлИ­"
+		Description = { "To use the library, you need to register first. Talk to Alf." },
+		Summary = "Talk to Alf in the library"
 	},
 	[11627] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"µµј­°ьїЎј­ґВ ГЯ°Ў·О µµј­°ь АМїл µо·ПАМ ЗКїдЗПґЩ°н ЗСґЩ. Еёё¶ё°їЎ°Ф АМѕЯ±в ЗШБЦАЪ."
-		},
-		Summary = "µµј­°ьїЎ АЦґВ Еёё¶ё°°ъ ґлИ­"
+		Description = { "To use the library, you need to register first. Talk to Tamarin." },
+		Summary = "Talk to Tamarin in the library"
 	},
 	[11628] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"µµј­°ьїЎј­ґВ ГЯ°Ў·О µµј­°ь АМїл µо·ПАМ ЗКїдЗПґЩ°н ЗСґЩ. їГё®№цїЎ°Ф АМѕЯ±в ЗШБЦАЪ."
-		},
-		Summary = "µµј­°ьїЎ АЦґВ їГё®№цїН ґлИ­"
+		Description = { "To use the library, you need to register first. Talk to Oliver." },
+		Summary = "Talk to Oliver in the library"
 	},
 	[11629] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ё¶Е©їН ґлИ­ё¦ іЄґ©ѕъґЩ. ґЩёҐ АПЗаµй°ъµµ ґлИ­°Ў іЎіЄёй µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"You talked to Mark. After talking to the other party members, return to Librarian Beta."
 		},
-		Summary = "µµј­°ь °ьё®АЪҐвїЎ°Ф·О"
+		Summary = "Return to Librarian Beta"
 	},
 	[11630] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ё¶±вїН ґлИ­ё¦ іЄґ©ѕъґЩ. ґЩёҐ АПЗаµй°ъµµ ґлИ­°Ў іЎіЄёй µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"You talked to Maggie. After talking to the other party members, return to Librarian Beta."
 		},
-		Summary = "µµј­°ь °ьё®АЪҐвїЎ°Ф·О"
+		Summary = "Return to Librarian Beta"
 	},
 	[11631] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ѕЛЗБїН ґлИ­ё¦ іЄґ©ѕъґЩ. ґЩёҐ АПЗаµй°ъµµ ґлИ­°Ў іЎіЄёй µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"You talked to Alf. After talking to the other party members, return to Librarian Beta."
 		},
-		Summary = "µµј­°ь °ьё®АЪҐвїЎ°Ф·О"
+		Summary = "Return to Librarian Beta"
 	},
 	[11632] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Еёё¶ё°°ъ ґлИ­ё¦ іЄґ©ѕъґЩ. ґЩёҐ АПЗаµй°ъµµ ґлИ­°Ў іЎіЄёй µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"You talked to Tamarin. After talking to the other party members, return to Librarian Beta."
 		},
-		Summary = "µµј­°ь °ьё®АЪҐвїЎ°Ф·О"
+		Summary = "Return to Librarian Beta"
 	},
 	[11633] = {
-		Title = "µµј­°ьїЎј­ґВ Б¶їлИч!",
+		Title = "Silence in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ё¶їГё®№цїН ґлИ­ё¦ іЄґ©ѕъґЩ. ґЩёҐ АПЗаµй°ъµµ ґлИ­°Ў іЎіЄёй µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"You talked to Oliver. After talking to the other party members, return to Librarian Beta."
 		},
-		Summary = "µµј­°ь °ьё®АЪҐвїЎ°Ф·О"
+		Summary = "Return to Librarian Beta"
 	},
 	[11634] = {
-		Title = "±Г±ШАЗ ГҐ№ъ·№ »зіЙ",
+		Title = "Hunting the Bookworms",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ё¶№эј­ё¦ °¦ѕЖёФґВ ГҐ№ъ·№ ¶§№®їЎ µµј­°ь °ьё®їЎ °сёУё®ё¦ ѕО°н АЦґВ µн ЗПґЩ. ГҐ№ъ·№ё¦ ГіДЎЗП°н µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"Looks like the library has problems dealing with the Bookworms that keep damaging magic books. Kill the Bookworms and return to Librarian Beta."
 		},
-		Summary = "ГҐ№ъ·№ 20ё¶ё® »зіЙ"
+		Summary = "Kill the Bookworms (20 pcs.)"
 	},
 	[11635] = {
-		Title = "±Г±ШАЗ ГҐ№ъ·№ »зіЙ",
+		Title = "Hunting the Bookworms",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ <NAVI>[µµј­°ь °ьё®АЪҐв]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ґЩЅГ №ЮА» јц АЦЅАґПґЩ."
+			"It's a daily quest. After some time you can start it again by talking to <NAVI>[Librarian Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[11636] = {
-		Title = "±Г±ШАЗ ГҐБ¤ё®",
+		Title = "Book Arrangement",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ГҐАеА» єьБ®іЄ°Ў №иИёЗПґВ ё¶№эј­µй ¶§№®їЎ ГҐАеАМ ѕыёББшГўАО µнЗПґЩ. №иИёЗПґВ ё¶№эј­ё¦ ИёјцЗШј­ µµј­°ь °ьё®АЪҐвїЎ°Ф µ№ѕЖ°ЎАЪ."
+			"Spellbooks have escaped their bookshelves and are now running amok. Collect the Roaming Spellbooks and return to Librarian Beta."
 		},
-		Summary = "№иИёЗПґВ ё¶№эј­ 20±З Иёјц"
+		Summary = "Collect Roaming Spellbooks (20 pcs.)"
 	},
 	[11637] = {
-		Title = "±Г±ШАЗ ГҐБ¤ё®",
+		Title = "Book Arrangement",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ <NAVI>[µµј­°ь °ьё®АЪҐв]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ґЩЅГ №ЮА» јц АЦЅАґПґЩ."
+			"It's a daily quest. After some time you can start it again by talking to <NAVI>[Librarian Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[11638] = {
-		Title = "±Г±ШАЗ °нГ¶јцБэ",
+		Title = "Scrap Metal Collecting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"єОј­Бш °ЎµрѕрАЗ єОЗ°А» ИёјцЗШј­ °ЎБ®їАёй °ЎµрѕрА» јцё®ЗТ јц АЦґЩ°н ЗСґЩ. °ЎµрѕрАЗ єОЗ°А» ИёјцЗШј­ Б¦ 1ї¬±ёјТ ѕХАЗ Еёё¶ё°їЎ°Ф µ№ѕЖ°ЎАЪ."
+			"If you collect the Guardian Parts, it will be possible to fix it. Collect the Guardian Parts and return to Lab 1."
 		},
-		Summary = "°ЎµрѕрАЗ АЬЗШ 20°і Иёјц"
+		Summary = "Collect Guardian Parts (20 pcs.)"
 	},
 	[11639] = {
-		Title = "±Г±ШАЗ °нГ¶јцБэ",
+		Title = "Scrap Metal Collecting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ <NAVI>[Еёё¶ё°]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>А» ЕлЗШ ґЩЅГ №ЮА» јц АЦЅАґПґЩ."
+			"It's a daily quest. After some time you can start it again by talking to <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[12496] = {
-		Title = "И­їш ГвАФЗг°Ў ґл±в",
+		Title = "Waiting for Permission to Enter Flower Garden",
 		Description = {
-			"ЗШґз ёЮёрё®ѕу ґшАьАє ґл±вЅГ°Ј ёё·б ЅГ <NAVI>[єёѕИ±ёїЄ ГвАФ ґгґзАЪ]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>ё¦ ЕлЗШ АзАФАе °ЎґЙЗХґПґЩ"
+			"After some time you can enter the Memorial Dungeon by talking to <NAVI>[Gatekeeper]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ГвАФ Зг°Ў ґл±в"
+		Summary = "Wait for the permission to enter"
 	},
 	[12497] = {
-		Title = "єёѕИ±ёїЄ ГвАФ Зг°Ў",
-		Description = { "єёѕИ±ёїЄАЗ ГвАФАМ Зг°ЎµЗѕъЅАґПґЩ." },
-		Summary = "єёѕИ±ёїЄ ГвАФ Зг°Ў"
+		Title = "Permission to Enter Protected Area",
+		Description = { "You may enter the protected area." },
+		Summary = "Enter the protected area"
 	},
 	[12498] = {
-		Title = "єёѕИ±ёїЄ ГвАФЗг°Ў ґл±в",
+		Title = "Waiting for Permission to Enter Protected Area",
 		Description = {
-			"ЗШґз ёЮёрё®ѕу ґшАьАє ґл±вЅГ°Ј ёё·б ЅГ <NAVI>[єёѕИ±ёїЄ ГвАФ ґгґзАЪ]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>ё¦ ЕлЗШ АзАФАе °ЎґЙЗХґПґЩ"
+			"After some time you can enter the Memorial Dungeon by talking to <NAVI>[Gatekeeper]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
 		},
-		Summary = "іІАє ґл±вЅГ°Ј 1АП"
+		Summary = "Time left: 1 d."
 	},
 	[12499] = {
-		Title = "·№µеЖдЖЫ-Д«ЖД Б¦ѕР",
+		Title = "Fire Cube - suppressing Kapha",
 		Description = {
-			"єёѕИ±ёїЄ °ьё®АЪ 3АО№жБЯ ЗПіЄАО ·№µеЖдЖЫ Д«ЖДё¦ Б¦ѕРЗП°н °ьё®АЪ ±ЗЗСА» »©ѕСѕЖѕЯЗХґПґЩ. №°·Р ЅГ°ЈАМ БціЄёй ґЩЅГ Иёє№ЗП°ЪБцёё..."
+			"Defeat Kapha, one of the Fire Cubes that secure the protected area of the mansion, and strip it of control privileges. Eventually they will be restored, but..."
 		},
-		Summary = "ЅГ°Ј №ъ±в"
+		Summary = "Buy some time"
 	},
 	[12500] = {
-		Title = "·№µеЖдЖЫ-¶чґЩ Б¦ѕР",
+		Title = "Fire Cube - suppressing Lambda",
 		Description = {
-			"єёѕИ±ёїЄ °ьё®АЪ 3АО№жБЯ ЗПіЄАО ·№µеЖдЖЫ ¶чґЩё¦ Б¦ѕРЗП°н °ьё®АЪ ±ЗЗСА» »©ѕСѕЖѕЯЗХґПґЩ. №°·Р ЅГ°ЈАМ БціЄёй ґЩЅГ Иёє№ЗП°ЪБцёё..."
+			"Defeat Lambda, one of the Fire Cubes that secure the protected area of the mansion, and strip it of control privileges. Eventually they will be restored, but..."
 		},
-		Summary = "ЅГ°Ј №ъ±в"
+		Summary = "Buy some time"
 	},
 	[16427] = {
-		Title = "БЯµ¶",
+		Title = "Intoxication",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ї¤·щ№МіЄ°Ў АЇЗШ№°БъїЎ ілГвµЗѕъґЩ. <NAVI>[АъЕГ ВК]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI>Аё·О °Ў µµїтА» їдГ»ЗШ єёАЪ."
+			"Eliumina has been exposed to some dangerous substances. Go to <NAVI>[Varmundt's Mansion]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> and get some help."
 		},
-		Summary = "АъЕГАё·О АМµї"
+		Summary = "Go to the mansion"
 	},
 	[16428] = {
-		Title = "ЗШµ¶Б¦ Б¦АЫ",
+		Title = "Making an Antidote",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"АЪµїАОЗьµйАМ ї¤·щ№МіЄё¦ №иГґЗШ, ґлЅЕ Б¤єёё¦ ѕтѕъґЩ. јц»уБ¤їшАё·О °Ў±в А§ЗШ <NAVI>[іЄ·зЕН]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>·О °ЎАЪ."
+			"Automatons couldn't help Eliumina, but they provided some important information. Go to the <NAVI>[crossing]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to enter the Water Garden."
 		},
-		Summary = "іЄ·зЕН·О АМµї"
+		Summary = "Go to the crossing"
 	},
 	[16429] = {
-		Title = "ЅЗ№Щ ЖДЗКё®ѕЖ",
+		Title = "Forest Papillia",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ЗШµ¶Б¦ё¦ ёёµй±в А§ЗШ ЅЗ№Щ ЖДЗКё®ѕЖё¦ »зіЙЗС µЪ <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>їЎ°Ф µ№ѕЖ°ЎАЪ."
+			"Kill Forest Papillias to make the antidote and return to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ЅЗ№Щ ЖДЗКё®ѕЖ »зіЙ"
+		Summary = "Kill Forest Papillias"
 	},
 	[16430] = {
-		Title = "ЗШµ¶Б¦ їПјє",
+		Title = "Antidote's Ready",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"јјАМИЮїЎ°Ф єОЕ№ЗШ їПјєЗС ЗШµ¶Б¦ё¦ <NAVI>[ї¤·щ№МіЄ]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>їЎ°Ф АьЗШ БЦАЪ."
+			"Take the antidote that Sayhu told you to make to <NAVI>[Eliumina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>. "
 		},
-		Summary = "ї¤·щ№МіЄїН ґлИ­"
+		Summary = "Talk to Eliumina"
 	},
 	[16431] = {
-		Title = "ЅЗ№Щ ЖДЗКё®ѕЖ »зіЙ",
+		Title = "Hunt for Forest Papillias",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"јц»уБ¤їш ѕИАЗ ЅЗ№Щ ЖДЗКё®ѕЖё¦ »зіЙЗС µЪ <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>їЎ°Ф µ№ѕЖ°ЎАЪ."
+			"Kill Forest Papillias in the Water Garden and return to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ЅЗ№Щ ЖДЗКё®ѕЖ »зіЙ"
+		Summary = "Kill Forest Papillias"
 	},
 	[16432] = {
-		Title = "ЅЗ№Щ ЖДЗКё®ѕЖ »зіЙ-ґл±в",
+		Title = "Hunt for Forest Papillias (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ ґЩЅГ №ЮѕЖ јцЗаЗТ јц АЦЅАґПґЩ. <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ДщЅєЖ® јцБЦ°Ў °ЎґЙЗХґПґЩ."
+			"It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[16433] = {
-		Title = "±Ч¶ы ЖДЗКё®ѕЖ »зіЙ",
+		Title = "Hunt for Powerful Papillias",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"јц»уБ¤їш ѕИАЗ ±Ч¶ы ЖДЗКё®ѕЖё¦ »зіЙЗС µЪ <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>їЎ°Ф µ№ѕЖ°ЎАЪ."
+			"Kill Powerful Papillias in the Water Garden and return to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "±Ч¶ы ЖДЗКё®ѕЖ »зіЙ"
+		Summary = "Kill Powerful Papillias"
 	},
 	[16434] = {
-		Title = "±Ч¶ы ЖДЗКё®ѕЖ »зіЙ-ґл±в",
+		Title = "Hunt for Powerful Papillias (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ ґЩЅГ №ЮѕЖ јцЗаЗТ јц АЦЅАґПґЩ. <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ДщЅєЖ® јцБЦ°Ў °ЎґЙЗХґПґЩ."
+			"It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[16435] = {
-		Title = "Б¤їш»з ЕЅ»ц",
+		Title = "Looking for the Gardener",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"№М·О Б¤їшїЎј­ іЄїАБц ѕКАє Б¤їш»з°Ў АЦґЩ°н ЗСґЩ. ГЈѕЖі»ѕо ѕИєОё¦ И®АОЗС µЪ <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>їЎ°Ф єё°нЗПАЪ."
+			"Apparently, one of the Gardeners got lost in the Maze Garden. Find the lost automaton, see if it is okay and report back to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[16436] = {
-		Title = "Б¤їш»з ЕЅ»ц-ґл±в",
+		Title = "Looking for the Gardener (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ ґЩЅГ №ЮѕЖ јцЗаЗТ јц АЦЅАґПґЩ. <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ДщЅєЖ® јцБЦ°Ў °ЎґЙЗХґПґЩ."
+			"It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[16437] = {
-		Title = "јц»уБ¤їш",
+		Title = "Water Garden",
 		IconName = "ico_dq.bmp",
-		Description = { "јц»уБ¤їш єёЕл і­АМµµїЎ µµАьЗЯґЩ." },
-		Summary = "јц»уБ¤їш АП№Э"
+		Description = { "You have entered the Water Garden on Normal difficulty." },
+		Summary = "Water Garden (Normal)"
 	},
 	[16438] = {
-		Title = "јц»уБ¤їш ѕо·Бїт",
+		Title = "Water Garden (Hard)",
 		IconName = "ico_dq.bmp",
-		Description = { "јц»уБ¤їш ѕо·Бїт і­АМµµїЎ µµАьЗЯґЩ.." },
-		Summary = "јц»уБ¤їш ѕо·Бїт"
+		Description = { "You have entered the Water Garden on Hard difficulty." },
+		Summary = "Water Garden (Hard)"
 	},
 	[16439] = {
-		Title = "јц»уБ¤їш-ґл±в",
-		IconName = "ico_dq.bmp",
+		Title = "Water Garden (Pending)",
+		IconName = "ico_ep.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ АПАП ДщЅєЖ®·О, ґл±вЅГ°Ј ёё·б ЅГ ґЩЅГ №ЮѕЖ јцЗаЗТ јц АЦЅАґПґЩ. <NAVI>[јјАМИЮ]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>ё¦ ЕлЗШ ДщЅєЖ® јцБЦ°Ў °ЎґЙЗХґПґЩ."
+			"It's a daily quest. It can be completed again after certain time. Talk to <NAVI>[Sayhu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to start the quest again."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[16440] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[µрїЈ]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>їЎ°Ф ё»А» °Йѕо їш·ОµйАМ ЗК·ОЖщЕЧЅєїН ґлёіЗПґВ АМАЇё¦ µйѕо єёАЪ."
+			"Talk to <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> and find out why the leaders are against Philopontess."
 		},
-		Summary = "µрїЈ°ъ ґлИ­"
+		Summary = "Talk to Dien"
 	},
 	[16441] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"АъЕГ °ьё®АЪµйїЎ°Ф ґЩѕзЗС АМѕЯ±вё¦ µйѕо є» µЪ <NAVI>[ВюБэ]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>Аё·О µ№ѕЖїН єё°нЗПАЪ."
+			"Listen to the Stewards' stories, return to <NAVI>[tea house]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> and relay what you have learned."
 		},
-		Summary = "°ьё®АЪїН ґлИ­"
+		Summary = "Talk to a Steward"
 	},
 	[16442] = {
-		Title = "±Ч °ьё®АЪАЗ АМѕЯ±в",
+		Title = "Talk with a Steward",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"АъЕГ <NAVI>[°ьё®АЪ]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>їЎ°Ф АМѕЯ±вё¦ µйѕо єёАЪ."
-		},
-		Summary = "°ьё®АЪїН ґлИ­"
+		Description = { "Listen to <NAVI>[Steward]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>." },
+		Summary = "Talk to a Steward"
 	},
 	[16443] = {
-		Title = "±Ч °ьё®АЪАЗ АМѕЯ±в",
+		Title = "Talk with a Steward",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"АъЕГ <NAVI>[°ьё®АЪ]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>їЎ°Ф АМѕЯ±вё¦ µйѕо єёАЪ."
-		},
-		Summary = "°ьё®АЪїН ґлИ­"
+		Description = { "Listen to <NAVI>[Steward]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>." },
+		Summary = "Talk to a Steward"
 	},
 	[16444] = {
-		Title = "±Ч °ьё®АЪАЗ АМѕЯ±в",
+		Title = "Talk with a Steward",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"АъЕГ <NAVI>[°ьё®АЪ]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>їЎ°Ф АМѕЯ±вё¦ µйѕо єёАЪ."
-		},
-		Summary = "°ьё®АЪїН ґлИ­"
+		Description = { "Listen to <NAVI>[Steward]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>." },
+		Summary = "Talk to a Steward"
 	},
 	[16445] = {
-		Title = "±Ч °ьё®АЪАЗ АМѕЯ±в",
+		Title = "Talk with a Steward",
 		IconName = "ico_ep.bmp",
-		Description = {
-			"АъЕГ <NAVI>[°ьё®АЪ]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>їЎ°Ф АМѕЯ±вё¦ µйѕо єёАЪ."
-		},
-		Summary = "°ьё®АЪїН ґлИ­"
+		Description = { "Listen to <NAVI>[Steward]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>." },
+		Summary = "Talk to a Steward"
 	},
 	[16446] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"±ЧµїѕИ јы°ЬБ® АЦґш АМѕЯ±в°Ў °ијУµИґЩ. <NAVI>[ё®µеЅ¬]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI>їЎ°Ф ё»А» °Йѕо ё¶Аъ АМѕЯ±вё¦ µйѕо єёАЪ."
+			"The story that has once been forgotten continues. Talk to <NAVI>[Ridsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI> and listen to what she has to say."
 		},
-		Summary = "ё®µеЅ¬їН ґлИ­"
+		Summary = "Talk to Ridsh"
 	},
 	[16447] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"±вѕчАМ јы±в°н АЦґш АМѕЯ±в°Ў °ијУµИґЩ. <NAVI>[Д«ѕЯ ЕдЅє]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI>їЎ°Ф ё»А» °Йѕо ё¶Аъ АМѕЯ±вё¦ µйѕо єёАЪ."
+			"The story that the corporation tried to keep quiet is far from over. Talk to <NAVI>[Kaya Tos]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI> and listen to what he has to say."
 		},
-		Summary = "Д«ѕЯїН ґлИ­"
+		Summary = "Talk to Kaya"
 	},
 	[16448] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Д«ѕЯ°Ў АЪё®ё¦ єсїмАЪ ·зЕ°°Ў ё»А» °ЙѕоїФґЩ. <NAVI>[·зЕ°]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>АЗ їл№«ё¦ µйѕо єёАЪ."
+			"After Kaya left, Rookie became talkative. Listen to what <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "·зЕ°їН ґлИ­"
+		Summary = "Talk to Rookie"
 	},
 	[16449] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Д«ѕЯ ЕдЅєґВ И¦·О Б¤їшїЎ іЄїН АЦґЩ. ѕЖґП, ИҐАЪАО°Ў? <NAVI>[Д«ѕЯ ЕдЅє]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>їЎ°Ф ґЩ°Ў°Ў єёАЪ."
+			"Kaya Tos went into the garden by himself. But is he really alone? Approach <NAVI>[Kaya Tos]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Д«ѕЯїН ґлИ­"
+		Summary = "Talk to Kaya"
 	},
 	[16450] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"µрїЈАє »э°ўАМ Б¶±Э №ЩІоѕъґВБцµµ ёрёҐґЩ. <NAVI>[µрїЈ]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI>АЗ АМѕЯ±вё¦ µйѕо єёАЪ."
+			"Dien might have changed her mind. Listen to what <NAVI>[Dien]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "µрїЈ°ъ ґлИ­"
+		Summary = "Talk to Dien"
 	},
 	[16451] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Д«ѕЯґВ ГЦґлЗС »Ўё® АПА» БшАьЅГЕ°·Б°н ЗСґЩ. <NAVI>[Д«ѕЯ]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>АЗ АМѕЯ±вё¦ µйѕо єёАЪ."
+			"Kaya is trying to move things forward as quickly as possible. Listen to what <NAVI>[Kaya]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "Д«ѕЯїН ґлИ­"
+		Summary = "Talk to Kaya"
 	},
 	[16452] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[ЕёЖјїА]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI>°Ў µµВшЗЯґЩ. ±ЧїЎ°Фј­ ±вѕчАЗ ѕХіЇїЎ ґлЗС АМѕЯ±вё¦ µиµµ·П ЗПАЪ."
+			"<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> has arrived. Listen to what he has to say about the corporation's future."
 		},
-		Summary = "ЕёЖјїАїН ґлИ­"
+		Summary = "Talk to Tatio"
 	},
 	[16453] = {
-		Title = "±Ч°НАМ ѕЛ°н ЅНґЩ",
+		Title = "Searching for Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[ѕИі»]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>їЎ µы¶у АМµїЗПї©, їЎАМДЎ°Ў іёј± »з¶ч°ъ АМѕЯ±вЗПґш АејТїЎ ГЈѕЖ°Ў ЕЅ»цЗШ єёАЪ."
+			"According to <NAVI>[instructions]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>, move to the place where H. was talking to the stranger and examine it."
 		},
-		Summary = "ѕИі»їЎ µы¶у АМµї"
+		Summary = "Go to the specified location"
 	},
 	[17333] = {
-		Title = "АъЕГАЗ јХґФ",
+		Title = "Guest of the Mansion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"АъЕГ і»АЗ іЧЖ®їцЕ©·О јХґФ ё®ЅєЖ® °шАЇё¦ ЗПґш БЯїЎ №®Б¦°Ў »э±д °Н °°ґЩ. <NAVI>[АъЕГ °ьё®АЪҐб]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>їЎ°Ф И®АОЗШєёАЪ."
+			"It seems there was an error while transmitting the guest list over the Mansion's intranet. Find out from <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> what happened."
 		},
-		Summary = "АъЕГ °ьё®АЪҐб"
+		Summary = "Talk to Steward Alpha"
 	},
 	[17334] = {
-		Title = "БЯ°и±в И®АО: ЅДґз",
+		Title = "Repeater Check: Dining Room",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"°ЎАе °Ў±оїо <NAVI>[ЅДґз]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>ВКАё·О °ЎєёЅГґВ °НАМ ББА» °Н °°ЅАґПґЩ. °нАеі­ БЯ°и±в БЦєЇАЗ АЪµї АОЗьїЎ°Ф °нАе »зЗЧА» АьґЮЗПёй ѕЛѕЖј­ Гіё®ЗТ °НАФґПґЩ."
+			"Go to the <NAVI>[dining room]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Report to the automaton about the broken repeater and ask to fix it."
 		},
-		Summary = "ЅДґзАё·О"
+		Summary = "Go to dining room"
 	},
 	[17335] = {
-		Title = "БЯ°и±вАЗ єОЗ°",
+		Title = "Repeater Component",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"°нАеі­ єЈЕёё¦ Гіё®ЗС ґЩАЅїЎ АЪµїАОЗь ЕлЅЕДЁ 1°іёё °ЎБц°н їН. БЯ°и±вё¦ №Щ·О °нГДѕЯ ЗПґП±о. - <NAVI>[ёАВЇ]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
+			"Deal with Broken Beta and bring Robot Communication Chip. I need to repair the repeater immediately. - <NAVI>[Sweet Tooth]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
 		},
-		Summary = "єОЗ° 1°і"
+		Summary = "Find a spare part (1 pc.)"
 	},
 	[17336] = {
-		Title = "БЯ°и±в И®АО: Б¤АЪ",
+		Title = "Repeater Check: Pavilion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Б¤АЪ]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>ґВ АМ ±жА» ВЯ µы¶уј­ °Ўёй µЕ. °нАеі­ БЯ°и±вґВ ЗФєО·О ёёБцБц ё»°н БЦєЇАЗ АЪµї АОЗьµйїЎ°Ф ѕк±вЗПёй µЙ °ЕѕЯ."
+			"You can get to the <NAVI>[pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI> following this road. Don't touch the broken repeater. Better ask the nearest automatons for help."
 		},
-		Summary = "Б¤АЪ·О"
+		Summary = "Go to the pavilion"
 	},
 	[17337] = {
-		Title = "БЯ°и±в И®АО: БЯѕУ Б¤їш",
+		Title = "Repeater Check: Central Garden",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"АъЕГАЗ <NAVI>[БЯѕУ Б¤їш]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>Ає Б¤АЪ ВКїЎј­ А§·О ВЯ їГ¶у°Ўј­ їЮВКАё·О ІЄАёЅГёй µЕїд."
+			"To get to the <NAVI>[central garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI> of the mansion go up this road and turn left."
 		},
-		Summary = "БЯѕУ Б¤їшАё·О"
+		Summary = "Go to the central garden"
 	},
 	[17338] = {
-		Title = "БЯ°и±в И®АО їП·б",
+		Title = "Repeaters Check Complete",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"°нАеі­ БЯ°и±вё¦ И®АОЗС ИД АЪµї АОЗьїЎ°Ф °нАе »зЗЧА» АьґЮЗЯґЩ. <NAVI>[АъЕГ °ьё®АЪҐб]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>їЎ°Ф µ№ѕЖ°Ў єё°нЗПАЪ."
+			"You've checked the broken repeaters and told the automatons about them. Go back to <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "АъЕГ °ьё®АЪҐбїЎ°Ф"
+		Summary = "Return to Steward Alpha"
 	},
 	[17339] = {
-		Title = "ї№єс єОЗ° јц±Ю",
+		Title = "Spare Parts Delivery",
 		IconName = "ico_ep.bmp",
-		Description = { "ї№єс єОЗ°А» °ЎБ®ґЩ ґЮ¶уґВ єОЕ№А» №ЮѕТґЩ." },
-		Summary = "єОЗ° јц±Ю"
+		Description = { "You are asked to bring some spare parts." },
+		Summary = "Bring spare parts"
 	},
 	[17340] = {
-		Title = "ї№єс єОЗ° јц±Ю",
+		Title = "Spare Parts Delivery",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"°нАеі­ єЈЕёµйА» Гіё®ЗП°н БЯ°и±вїЎ »зїлЗТ єОЗ°А» 10°іёё °ЎБ®ґЩ БЦЅКЅГїА. ЗП·зДЎАЗ ї№єсєР·®АМ ±Ч Б¤µµАФґПґЩ. - <NAVI>[АъЕГ °ьё®АЪҐб]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Deal with Broken Betas and bring 10 repeater parts. This amount is usually enough for a day. - <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "єОЗ° 10°і"
+		Summary = "Bring spare parts (10 pcs.)"
 	},
 	[17341] = {
-		Title = "ґл±в: ЅЕИЈ ѕшАЅ",
+		Title = "No Signal (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"»зБ¤АМ ±¦ВъАёЅГґЩёй і»АП »хє®АМ Бці­ ИДїЎ ¶З єОЕ№А» µеё®°н ЅНЅАґПґЩ. АМёё З« Ѕ¬ЅКЅГїА. - <NAVI>[АъЕГ °ьё®АЪҐб]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"If you don't mind I will ask for your help again tomorrow. Have some rest. - <NAVI>[Steward Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[17342] = {
-		Title = "ББѕЖЗПґВ °З ѕЖґСµҐ",
+		Title = "Weird Feeling",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"±Ч·і єОЕ№А» µе·Бµµ µЗ°ЪЅАґПґЩ. °нАеі­ Г»јТ·Оєї 5Гј Б¤µµ Гіё®ё¦ єОЕ№µеёіґПґЩ. ±Ч·і, АЇИсё¦ Бс±вЅГ±ж №Щ¶шґПґЩ. - <NAVI>[В±]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Can I ask for your help? Please destroy 5 broken cleaner robots. Have a good luck. - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "°нАеі­ Г»јТ·Оєї 5Гј"
+		Summary = "Destroy broken cleaner robots (5 pcs.)"
 	},
 	[17343] = {
-		Title = "№«ј­їц...",
+		Title = "I am scared...",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[°иґЬ]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>А» і»·Б°ЎјЕј­ БцЗПАЗ »уИІАМ ѕо¶ІБц И®АОЗП°н їАЅКЅГїА."
+			"Go down the <NAVI>[stairs]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> and check out what's going on in the basement."
 		},
-		Summary = "БцЗП »уИІ И®АО"
+		Summary = "Inspect the basement"
 	},
 	[17344] = {
-		Title = "ї­ји°Ў ѕшѕо",
+		Title = "Missing Key",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"°иґЬАё·О ЕлЗПґВ №®АєАЪ№°ји·О ±»°Ф Аб°ЬАЦґЩ. <NAVI>[В±]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>їЎ°Ф ї­јиё¦ №ЮѕЖїНѕЯ°ЪґЩ."
+			"The door to the stairs is locked. You need to get the key from <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "В±їЎ°Ф"
+		Summary = "Talk to Jacky"
 	},
 	[17345] = {
-		Title = "°иґЬЅЗАЗ ї­ји 1",
+		Title = "Stairwell Key 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[µ№°нАЦґВ јј»у]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. ±Ч №ШїЎ ёрµз Бшё®°Ў АЦґЩ ЗПјМБцїд."
+			"Look under the <NAVI>[world that spins]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Something might be hidden there."
 		},
-		Summary = "єс»у ї­ји ГЈ±в"
+		Summary = "Find the Emergency Key"
 	},
 	[17346] = {
-		Title = "°иґЬЅЗАЗ ї­ји 2",
+		Title = "Stairwell Key 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"јыё¶Аъ ѕуѕоєЩґВ <NAVI>[°ч]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>їЎј­ґВ ёрµз °НАМ їµїшИч єЇБъµЗБц ѕК°н ±Ч ёрЅА ±Чґл·Оё¦ АЇБцЗСґЩ°н ЗПјМЅАґПґЩ."
+			"The master said even breath gets frozen in this <NAVI>[place]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>."
 		},
-		Summary = "єс»у ї­ји ГЈ±в"
+		Summary = "Find the Emergency Key"
 	},
 	[17347] = {
-		Title = "°иґЬЅЗАЗ ї­ји 3",
+		Title = "Stairwell Key 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёрµз °ш±вґВ Ик·ЇѕЯ ЗСґЩ°н ЗПјМЅАґПґЩ. °Е±вїЈ °ЕґлЗС їЎіКБцµµ »зїлµИґЩ°нµµ ЗПјМБцїд. <NAVI>[±Ч·± АејТ]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>°Ў ѕоµтБц БьАЫµµ °ЎБц ѕКБцёёїд."
+			"The air flow never stops there. But it requires lots of energy. <NAVI>[This place]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>... It can be anywhere."
 		},
-		Summary = "єс»у ї­ји ГЈ±в"
+		Summary = "Find the Emergency Key"
 	},
 	[17348] = {
-		Title = "ї­ји И®єё",
+		Title = "Keys Found",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"єс»уї­јиё¦ ґЩ ГЈѕТАёґП <NAVI>[Аб±д №®]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>А» ї­·Ї °Ў єёАЪ."
+			"All the emergency keys are found, go to the <NAVI>[locked door]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> and open it."
 		},
-		Summary = "°иґЬЅЗАЗ №®Аё·О"
+		Summary = "Go to the stairwell door"
 	},
 	[17349] = {
-		Title = "№®АМ ї­·ИґЩ",
+		Title = "Door Open",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"БцЗП·О ЕлЗПґВ №®АМ ї­·ИґЩ. ѕој­ і»·Б°Ўј­ <NAVI>[јТё®°Ў іЄґВ °ч]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>А» И®АОЗШєёАЪ."
+			"The door to the basement is open. Go downstairs and check the place where <NAVI>[the sound comes from]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
 		},
-		Summary = "БцЗП·О"
+		Summary = "Go down to the basement"
 	},
 	[17350] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[ёцАМ АЦґВ °ч]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>АМ Б¦АП °Ў±оїмґП±о ±ЧВК ёХАъ °Ўёй µЗЃЩґ? єьёЈ°Ф °®ґЩ Ба. іЄ №«ј­їц."
+			"<NAVI>[The place where the body can be found]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> is not far, go there first. Bring it here as soon as possible. This place is pretty scary."
 		},
-		Summary = "ёцА» ГЈАё·Ї"
+		Summary = "Find the body"
 	},
 	[17351] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёцАє ГЈѕТАёґП ґЩАЅАє <NAVI>[ЖИ]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>А» ГЈАё·Ї °ЎѕЯ°ЪґЩ."
+			"The body is found, now go search for <NAVI>[arms]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ЖИА» ГЈАё·Ї"
+		Summary = "Find arms"
 	},
 	[17352] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ЖИА» ГЈѕТАёґП <NAVI>[ґЩё®]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>ё¦ ГЈАё·Ї °ЎѕЯ°ЪґЩ."
+			"The arms are found, now go search for <NAVI>[legs]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ґЩё®ё¦ ГЈАё·Ї"
+		Summary = "Find legs"
 	},
 	[17353] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёц, ЖИ, ґЩё®·О ѕµёёЗС °НА» ГЈѕТАёґП <NAVI>[ёУё®]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>їЎ°Ф·О µ№ѕЖ°ЎАЪ."
+			"You've found suitable body, arms and legs, return to the <NAVI>[head]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ёУё®їЎ°Ф·О"
+		Summary = "Find the head"
 	},
 	[17354] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
-		Description = { "ёЪБш ЗьЕВ·О Б¶ёіµЗѕъґЩ." },
-		Summary = "Б¶ёі їП·б"
+		Description = { "Assemble the body parts together." },
+		Summary = "Complete the assembling"
 	},
 	[17355] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
-		Description = { "ёЪБш ЗьЕВ·О Б¶ёіµЗѕъґЩ." },
-		Summary = "Б¶ёі їП·б"
+		Description = { "Assemble the body parts together." },
+		Summary = "Complete the assembling"
 	},
 	[17356] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
-		Description = { "ёЪБш ЗьЕВ·О Б¶ёіµЗѕъґЩ." },
-		Summary = "Б¶ёі їП·б"
+		Description = { "Assemble the body parts together." },
+		Summary = "Complete the assembling"
 	},
 	[17357] = {
-		Title = "ёУё® ёц ЖИ ґЩё®",
+		Title = "Head, body, arms, legs",
 		IconName = "ico_ep.bmp",
-		Description = { "ёЪБш ЗьЕВ·О Б¶ёіµЗѕъґЩ." },
-		Summary = "Б¶ёі їП·б"
+		Description = { "Assemble the body parts together." },
+		Summary = "Complete the assembling"
 	},
 	[17358] = {
-		Title = "БцЗП »уИІ И®АО їП·б",
+		Title = "Inspecting the Basement (Completed)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"АМ Б¤µµёй іЄё¦ БцЕі јц АЦ°Ъѕо! їГ¶у°Ўј­ ґЩёҐ <NAVI>[АЪµїАОЗь]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>їЎ°Ф єё°нЗШѕЯ ЗСґЩ°н ЗЯБц? ѕој­ °Ў."
+			"Proper defense is provided! Better go upstairs and tell another <NAVI>[automaton]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI> about this, right? Hurry."
 		},
-		Summary = "В±їЎ°Ф·О"
+		Summary = "Talk to Jacky"
 	},
 	[17359] = {
-		Title = "Бц»у Гў°н Б¤ё®",
+		Title = "Cleaning the Ground Warehouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Б¤ё» АьЕхё¦ ББѕЖЗПЅГґВ±єїд. ±Ч·і Бц»уГюАЗ ЗПЖ®ЗеЕН ГґИДєґ 20ён Гіё®ё¦ єОЕ№µеёіґПґЩ. - <NAVI>[В±]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"It seems you enjoy fighting. Then can you defeat 20 Heart Hunter Archers on the ground floor? - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "ЗПЖ®ЗеЕН ГґИДєґ 20"
+		Summary = "Kill Heart Hunter Archers (20 pcs.)"
 	},
 	[17360] = {
-		Title = "ґл±в: Бц»у Гў°н Б¤ё®",
+		Title = "Cleaning the Ground Warehouse (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"°іГјјц°Ў БЩѕоµз °НАМ И®АОµЛґПґЩ. АМБ¦ Б¦ АПА» ЅГАЫЗШµµ µЗ°ЪЅАґПґЩ. °Ё»зЗХґПґЩ. »хє®АМ Бці­ ИДїЎ ґЩЅГ ГЈѕЖБЦЅКЅГїА. - <NAVI>[В±]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"There are less intruders indeed. Now I can get down to my work. Thanks. Come back tomorrow if you want to help me again. - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[17361] = {
-		Title = "БцЗП Гў°н Б¤ё®",
+		Title = "Cleaning the Underground Warehouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Б¤ё» АьЕхё¦ ББѕЖЗПЅГґВ±єїд. ±Ч·і БцЗПГюАЗ °нАеі­ °жєсЗь єЈЕё 20Гј Гіё®ё¦ єОЕ№µеёіґПґЩ. - <NAVI>[В±]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"It seems you enjoy fighting. Then can you defeat 20 Broken Guard Betas on the underground floor? - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "БцЗПГю 20Гј"
+		Summary = "Kill Broken Guard Betas on the underground floor (20 pcs.)"
 	},
 	[17362] = {
-		Title = "ґл±в: БцЗП Гў°н Б¤ё®",
+		Title = "Cleaning the Underground Warehouse (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"°іГјјц°Ў БЩѕоµз °НАМ И®АОµЛґПґЩ. АМБ¦ Б¦ АПА» ЅГАЫЗШµµ µЗ°ЪЅАґПґЩ. °Ё»зЗХґПґЩ. »хє®АМ Бці­ ИДїЎ ґЩЅГ ГЈѕЖБЦЅКЅГїА. - <NAVI>[В±]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"There are less intruders indeed. Now I can get down to my work. Thanks. Come back tomorrow if you want to help me again. - <NAVI>[Jacky]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[17363] = {
-		Title = "ёсїеЕБ ЕЅ»ц",
+		Title = "To the Bathhouse",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёсїеЕБ <NAVI>[ѕИАё·О]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> µйѕо°Ўёй №Щ·О ЕЅ»цА» ЅГАЫЗТ °Еї№їд."
+			"Go to the <NAVI>[bathhouse]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> and examine it."
 		},
-		Summary = "ёсїеЕБ ѕИАё·О"
+		Summary = "Go to the bathhouse"
 	},
 	[17364] = {
-		Title = "єёАП·Ї АЫµї БЯБц їдГ»",
+		Title = "Turning off the Boiler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёрЗи°ЎґФАє <NAVI>[єёАП·ЇЅЗ]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>·О °Ўј­ єёАП·Ї АЫµїА» БЯБцЗШґЮ¶у°н ЗШБЦјјїд. °р µы¶у°Ґ°Фїд."
+			"Go to the <NAVI>[boiler room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask to turn off the boiler. I'll follow you in a moment."
 		},
-		Summary = "єёАП·ЇЅЗ·О"
+		Summary = "Go to the boiler room"
 	},
 	[17365] = {
-		Title = "АМ№М БЯБцЗЯґВµҐ?",
+		Title = "Is the Boiler Shut Down?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"єёАП·ЇґВ АМ№М АЫµїА» БЯБцЗЯґЩ°н ЗСґЩ. <NAVI>[·зЕ°]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI>їЎ°Ф·О µ№ѕЖ°Ўј­ єё°нЗПАЪ."
+			"The boiler is off. Return to <NAVI>[Rookie]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI> and talk to him."
 		},
-		Summary = "·зЕ°їЎ°Ф·О"
+		Summary = "Return to Rookie"
 	},
 	[17366] = {
-		Title = "АМ·ё°Ф °©АЪ±в?",
+		Title = "Now, really?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Г»јТ БЯїЎ №ијц±ёё¦ АЯёш №вАёёй ЗПјцГіё®Ае ґлЅЕ ИЈјц·О єьБшґЩ°нЗПґП №є°Ў АЦА»Бцµµ ёрёЁґПґЩ. <NAVI>[±Ч°ч]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>А» »мЖмєё°н їАЅКЅГїА."
+			"They say if you misstep while cleaning, you can fall down the drain pipe. But the flow will take you to the lake instead of the Cleaning Station. Look around <NAVI>[this place]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> and come back."
 		},
-		Summary = "ИЈјц ЕЅ»ц"
+		Summary = "Inspect the lake"
 	},
 	[17367] = {
-		Title = "ґлГҐ ё¶·Г",
+		Title = "Preparing Counter Measures",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"№№°Ў µЖµз ґх Е« ИҐ¶хїЎ єьБц±в АьїЎ јцЅАЗШѕЯ°Ъѕоїд. ёрЗи°ЎґФµµ <NAVI>[ИЮ°ФЅЗ]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>·О °Ўїд."
+			"We need to deal with this thing, whatever it is. Go to the <NAVI>[recreation room]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ИЮ°ФЅЗ·О"
+		Summary = "Go to the recreation room"
 	},
 	[17368] = {
-		Title = "Ж®·¦ јіДЎ 1",
+		Title = "Setting the Trap 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёрЗи°ЎґФ, АМ°Й ёсїеЕБ <NAVI>[±ёј®]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI>їЎ јіДЎЗШБЦјјїд. АЪё®їЎ µО°н Изµйё®Бц ѕК°Ф °нБ¤ёё ЗШµОЅГёй µЕїд."
+			"Adventurer, place this item in the <NAVI>[corner]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI> of the bathhouse. Just put this thing to the floor and secure in place."
 		},
-		Summary = "БцБ¤µИ АејТ·О АМµї"
+		Summary = "Go to the specified location"
 	},
 	[17369] = {
-		Title = "Ж®·¦ јіДЎ 2",
+		Title = "Setting the Trap 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ж®·¦А» °нБ¤ЗПАЪ іГ±в°Ў Ик·ЇіЄїФґЩ. ґЩАЅ <NAVI>[ґЩАЅ АејТ]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>·О АМµїЗПАЪ."
+			"The trap is set. You sense the cold emitting from it. Go to the <NAVI>[next place]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ґЩАЅ АејТ·О АМµї"
+		Summary = "Go to the next place"
 	},
 	[17370] = {
-		Title = "Ж®·¦ јіДЎ 3",
+		Title = "Setting the Trap 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"·зЕ°°Ў АМѕЯ±вЗС АејТїЎ Ж®·¦А» °нБ¤ЗЯґЩ. <NAVI>[ґЩАЅ АејТ]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>·О АМµїЗПАЪ."
+			"The trap is set exactly where Rookie said. Go to the <NAVI>[next place]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ґЩАЅ АејТ·О АМµї"
+		Summary = "Go to the next place"
 	},
 	[17371] = {
-		Title = "Ж®·¦ јіДЎ 4",
+		Title = "Setting the Trap 4",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ЗҐЅГµИ АејТїЎ Ж®·¦А» іхѕЖ ґЬґЬИч °нБ¤ЅГДЧґЩ. <NAVI>[ґЩАЅ АејТ]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>·О АМµїЗПАЪ."
+			"The trap is set and secured in the marked location. Go to the <NAVI>[next place]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ґЩАЅ АејТ·О АМµї"
+		Summary = "Go to the next place"
 	},
 	[17372] = {
-		Title = "Ж®·¦ јіДЎ їП·б",
+		Title = "Setting the Trap (Completed)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ж®·¦Ає ґЩ јіДЎЗПјМѕоїд? АМВКАє №ъЅб ЅГАЫµЖѕоїд. ј­µС·Ї <NAVI>[АЫАь АејТ]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>·О АМµїЗШїд."
+			"Have you set all the traps? It's time to start. Head to the <NAVI>[operation site]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
-		Summary = "АЫАьБц·О АМµї"
+		Summary = "Go to the operation site"
 	},
 	[17373] = {
-		Title = "ѕоВ·µз ґлИ­ё¦ ЗШєёАЪ",
+		Title = "Time to Talk",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"°нґПАЗ ёрЅАА» ЗС Б¤ГјєТёнАЗ <NAVI>[»з¶ч]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>Ає ЗТ ё»А» °нёЈґВ µн ЗЯґЩ. ґЩЅГ ґлИ­ё¦ ЅГµµЗШєёАЪ."
+			"<NAVI>[Stranger]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI> looking like Goni seems to be thinking what to say next. Talk to him again."
 		},
-		Summary = "°ЎВҐ °нґПїН ґлИ­"
+		Summary = "Talk to Goni"
 	},
 	[17374] = {
-		Title = "ґлГј їЦ ±Ч·ЇјМѕоїд?",
+		Title = "What is the Reason?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"·зЕ°°Ў <NAVI>[АОѕо]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>їН є»°ЭАыАО ґлИ­ё¦ ЅГАЫЗТ ёрѕзАМґЩ."
+			"Looks like Rookie decided to talk to the <NAVI>[Mermaid]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
-		Summary = "АОѕоїН ґлИ­"
+		Summary = "Talk to the Mermaid"
 	},
 	[17375] = {
-		Title = "єёАП·ЇАЗ їдГ»",
+		Title = "Technician's Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"°нАеі­ јјЅЕ»з 20ГјБ¤µµ Гіё®ЗП°н °нАеі­ АЪµїАОЗь єОЗ°µµ 5°іБ¤µµ °ЎБ®ґЩ БЦјјї©. - <NAVI>[єёАП·Ї]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Eliminate 20 Broken Cleaners and bring 5 broken robot parts. - <NAVI>[Technician]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "єёАП·ЇАЗ їдГ»А» µйѕъґЩ"
+		Summary = "Listen to Technician's request"
 	},
 	[17376] = {
-		Title = "ї­ЕБ°ъ іГЕБ»зАМ",
+		Title = "Amidst the Refreshing Steam",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"°нАеі­ јјЅЕ»з 20ГјБ¤µµ Гіё®ЗП°н °нАеі­ АЪµїАОЗь єОЗ°µµ 5°іБ¤µµ °ЎБ®ґЩ БЦјјї©. - <NAVI>[єёАП·Ї]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Eliminate 20 Broken Cleaners and bring 5 broken robot parts. - <NAVI>[Technician]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "°нАеі­ АЪµїАОЗь Гіё®"
+		Summary = "Destroy broken automatons"
 	},
 	[17377] = {
-		Title = "ґл±в: ї­ЕБ°ъ іГЕБ»зАМ",
+		Title = "Amidst the Refreshing Steam (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"їАґГАє АМёё Ѕ¬ЅГ±ё, »хє®АМ Бці­ ИД ґЩЅГ ГЈѕЖїАёй °нёї°Ъѕої©. - <NAVI>[єёАП·Ї]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Have some rest today! I'll be happy if you come back tomorrow. - <NAVI>[Technician]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[17378] = {
-		Title = "ЅПѕµАМАЗ їдГ»",
+		Title = "Cleaner's Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ї­ЕБ ё¶ёЈЕ© 15ё¶ё®їН ї­ЕБ ЗЗ¶уґПѕЖ 15ё¶ё® јТёкА» єОЕ№ЗСґЩ. ёрµО АМ ѕИїЎј­ Гіё®ЗПёй µИґЩ. - <NAVI>[ЅПѕµАМ]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Please kill 15 Clean Marcs and 15 Clean Piranhas. Better start cleaning up. - <NAVI>[Cleaner]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "ЅПѕµАМАЗ їдГ»А» µйѕъґЩ."
+		Summary = "Listen to Cleaner's request"
 	},
 	[17379] = {
-		Title = "ёсїеЕБ Г»јТБЯАФґПґЩ",
+		Title = "Cleaning the Bathhouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ї­ЕБ ё¶ёЈЕ© 15ё¶ё®їН ї­ЕБ ЗЗ¶уґПѕЖ 15ё¶ё® јТёкА» єОЕ№ЗСґЩ. ёрµО АМ ѕИїЎј­ Гіё®ЗПёй µИґЩ. - <NAVI>[ЅПѕµАМ]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Please kill 15 Clean Marcs and 15 Clean Piranhas. Better start cleaning up. - <NAVI>[Cleaner]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "№°°н±в 30ё¶ё®"
+		Summary = "Kill fish (30 pcs.)"
 	},
 	[17380] = {
-		Title = "ґл±в: ёсїеЕБ Г»јТБЯАФґПґЩ",
+		Title = "Cleaning the Bathhouse (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"»хє®АМ Бці­ ИД ґЩЅГ ГЈѕЖїАґВ °НАМ ББ°ЪґЩ. »эј±Ає ±Ч¶§µµ іСГДіЇ ЕЧґП. - <NAVI>[ЅПѕµАМ]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"You should come back tomorrow. There will be plenty of fish. - <NAVI>[Cleaner]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[17381] = {
-		Title = "АПЗа°ъ ЗХ·щ",
+		Title = "Joining the Party",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёХАъ їАЅЕ АПЗаєРµйАє ЗцАз <NAVI>[ВюБэ]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>їЎ ёУ№°°н °иЅГґП ЗС №ш µС·Ї єёЅГёз ґгјТ іЄґ©ЅКЅГїА."
+			"The guests who arrived first are now in the <NAVI>[tea house]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Stop by and chat with them."
 		},
-		Summary = "ВюБэАё·О"
+		Summary = "Go to the tea house"
 	},
 	[18000] = {
-		Title = "БшАФ БШєс",
+		Title = "Getting Ready",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"µеµрѕо ЗПјц°ьАЗ Аб±ЭАеДЎ ЗШБ¦їЎ јє°шЗС ё®є§ё®їВ. ·зЕ°ґВ ЗПјц°ьАё·О БшАФЗТ БШєс°Ў ґЩ µЗёй ґЩЅГ ё»А» °Йѕо ґЮ¶у°н ЗЯґЩ."
+			"The Rebels managed to gain access to the sewer. Rookie asked you to talk to him when you are ready to enter the sewer pipe."
 		},
-		Summary = "·зЕ°їН ґлИ­"
+		Summary = "Talk to Rookie"
 	},
 	[18001] = {
-		Title = "АъЕГАЗ °і±ёёЫ",
+		Title = "Secret Path to the Mansion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ДЪёЈАЗ ·зЕ°ґВ ЗПјц°ьА» ЕлЗШ і»єО·О БшАФЗП¶у°н ЗСґЩ. ЗПјц°ь і»їЎј­ ЗмёЕ°н АЦґВ µї·бё¦ №Я°ЯЗПёй ЗФІІ АМµїЗП¶у°н ЗЯґЩ."
+			"Rookie from Cor says you should go inside through the sewer. If you meet allies in the sewer, you'd better move forward together."
 		},
-		Summary = "µаё®ѕИ°ъ ґлИ­"
+		Summary = "Talk to Dew"
 	},
 	[18002] = {
-		Title = "ёБ°ЎБш ДЪѕо Иёјц",
+		Title = "Returning Broken Cores",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"·зЕ°їН ЗФІІ ЗПЖ®ЗеЕНїЎ°Ф °ш°Э№ЮАє АЪµїАОЗьµйАЗ ДЪѕоё¦ ИёјцЗП±в·О ЗЯґЩ. ДЪѕоё¦ ИёјцЗПёз ·зЕ°їН ѕајУЗС БцБ¤БцБЎАё·О ЗвЗПАЪ."
+			"Together with Rookie you've decided to collect the cores of automatons that were attacked by Heart Hunters. Collect the cores and meet with Rookie."
 		},
-		Summary = "ёБ°ЎБш ДЪѕо 5°і АМ»у Иёјц"
+		Summary = "Collect Broken Cores (at least 5 pcs.)"
 	},
 	[18003] = {
-		Title = "ёБ°ЎБш ДЪѕо01",
+		Title = "Broken Core 01",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18004] = {
-		Title = "ёБ°ЎБш ДЪѕо02",
+		Title = "Broken Core 02",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18005] = {
-		Title = "ёБ°ЎБш ДЪѕо03",
+		Title = "Broken Core 03",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18006] = {
-		Title = "ёБ°ЎБш ДЪѕо04",
+		Title = "Broken Core 04",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18007] = {
-		Title = "ёБ°ЎБш ДЪѕо05",
+		Title = "Broken Core 05",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18008] = {
-		Title = "ёБ°ЎБш ДЪѕо06",
+		Title = "Broken Core 06",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18009] = {
-		Title = "ёБ°ЎБш ДЪѕо07",
+		Title = "Broken Core 07",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18010] = {
-		Title = "ёБ°ЎБш ДЪѕо08",
+		Title = "Broken Core 08",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18011] = {
-		Title = "ёБ°ЎБш ДЪѕо09",
+		Title = "Broken Core 09",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18012] = {
-		Title = "ёБ°ЎБш ДЪѕо10",
+		Title = "Broken Core 10",
 		IconName = "ico_ep.bmp",
-		Description = { "єОј­Бш °ьё®АЪАЗ јТГјїЎј­ ДЪѕоё¦ И®АОЗХґПґЩ." },
+		Description = { "Inspect the core of a broken steward." },
 		Summary = ""
 	},
 	[18013] = {
-		Title = "БцБ¤ БцБЎАё·О",
+		Title = "To the Appointed Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ёБ°ЎБш °ьё®АЪАЗ ДЪѕоё¦ АПєО ИёјцЗЯґЩ.  ·зЕ°їН ёёіЄ±в·О ЗС <NAVI>[БцБЎ]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI> їЎј­ ЗХ·щЗШѕЯ ЗСґЩ."
+			"You've collected some cores of broken stewards.  You should meet Rookie in the appointed <NAVI>[place]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ї¤·№іЄ єјДЪ№ЩїН ґлИ­"
+		Summary = "Talk to Elena Volkova"
 	},
 	[18014] = {
-		Title = "¶ж№ЫАЗ їщГґ",
+		Title = "Surprise Catch",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ї¤·№іЄАЗ ±вБц·О ѕЖАМБЁ єЈёЈіКё¦ »эЖчЗЯґЩ. ї¤·№іЄґВ ѕЖАМєҐ єЈёЈіКё¦ ґлµїЗП°н ї¤·щ№МіЄ°Ў ѕп·щµЗѕо АЦґВ <NAVI>[»зїлАОјчјТ]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>·О ЗвЗЯґЩ. ЗХ·щЗШј­ ѕЖАМБЁА» ГлБ¶ЗПАЪ."
+			"Thanks to Elena's smart moves Eisen Werner was captured. Elena took Eisen Werner to the <NAVI>[living quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI> where captured Eliumina is held. Join the interrogation of Eisen."
 		},
-		Summary = "·зЕ°їН ґлИ­"
+		Summary = "Talk to Rookie"
 	},
 	[18015] = {
-		Title = "АП·зЅГїВ ГЯАы±в",
+		Title = "Tracker for Illusion Agents",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ї¤·щ№МіЄґВ АП·зЅГїВА» ГЯАыЗТ јц АЦґВ ГЯАы±вё¦ ёёµйѕо БЦ°ЪґЩ°н ЗСґЩ. ГЯАы±в Б¦АЫїЎ ЗКїдЗС Аз·бґВ <ITEM>[Зь±¤»цАЗ ѕЧГј]<INFO>7326</INFO></ITEM> 10°і, <ITEM>[±ъБш °Л]<INFO>7110</INFO></ITEM> 10°іґЩ."
+			"Eliumina says she'll construct a tracker that can locate Illusion agents. Materials required to make the tracker are as follows: <ITEM>[Fluorescent Liquid]<INFO>7326</INFO></ITEM> 10 pcs., <ITEM>[Broken Sword]<INFO>7110</INFO></ITEM> 10 pcs."
 		},
-		Summary = "ї¤·щ№МіЄїЎ°Ф Зь±¤»цАЗ ѕЧГј, ±ъБш °Л АьґЮ"
+		Summary = "Bring Fluorescent Liquid and Broken Sword to Eliumina"
 	},
 	[18016] = {
-		Title = "АЫАь ИёАЗ",
+		Title = "Tactical Meeting",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"їЎЅєЖ®їН ЗФІІ, №ЩёЈ№®Ж® АъЕГА» јц»цЗШ јыАє ЗПЖ®ЗеЕНїН АП·зЅГїВА» ГЈѕЖіѕ АЫАьА» ВҐАЪ."
+			"Examine Varmundt's Mansion together with Est and make a plan that will help you capture Heart Hunters and Illusion agents."
 		},
-		Summary = "їЎЅєЖ®їН ґлИ­"
+		Summary = "Talk to Est"
 	},
 	[18017] = {
-		Title = "ЗШГж №Ъёк АЫАь",
+		Title = "Pest Control Operation",
 		IconName = "ico_ep.bmp",
-		Description = { "ЗШ°Ў Бш АъЕГАЗ Б¤їшА» јц»цЗШ АП·зЅГїВА» ѕР№ЪЗПАЪ. »зіЙАє ёфѕЖѕЯ Б¦ ёААМґЩ." },
-		Summary = "ЅєА§Жј ГіДЎ"
+		Description = {
+			"Inspect the Twilight Garden and search for the Illusion agents. You should lose yourself in hunting."
+		},
+		Summary = "Kill Sweety"
 	},
 	[18018] = {
-		Title = "єс°шБ¤ °ЕДЎАеАё·О",
+		Title = "To the Airship Dock",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"»з·ОАвАє ЅєА§Жјё¦ ЕлЗШ №«ѕр°Ў Б¤єёё¦ ѕтА» јц АЦА»Бцµµ ёрёҐґЩ. єс°шБ¤ °ЕДЎАеАё·О."
+			"Maybe you can get some information from captured Sweety. Go to the Airship Dock"
 		},
-		Summary = "ѕЛЖДїН ґлИ­"
+		Summary = "Talk to Alpha"
 	},
 	[18019] = {
-		Title = "ЅєА§ЖјїН ґлИ­",
+		Title = "Talk to Sweety",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"єс°шБ¤ °ЕДЎАеїЎј­ ЅєА§Жјё¦ јцё®ЗПґш ѕЖёуµеґВ ЅєА§Жј°Ў ±ъѕоіµАёґП АМѕЯ±вё¦ іЄґІєё¶у°н ЗСґЩ."
+			"Almond who was repairing Sweety in the Airship Dock said that Sweety had woken up and you can talk to him."
 		},
-		Summary = "ЅєА§ЖјїН ґлИ­"
+		Summary = "Talk to Sweety"
 	},
 	[18020] = {
-		Title = "АО»з",
+		Title = "Greetings",
 		IconName = "ico_ep.bmp",
-		Description = { "ґПИъ°ъ ВЄ°Ф ґлИ­ё¦ іЄґ©ѕъґЩ." },
-		Summary = "ґПИъ°ъ  ґлИ­"
+		Description = { "You need o talk to Nihil." },
+		Summary = "Talk to Nihil"
 	},
 	[18021] = {
-		Title = "ГЈѕЖїВ јХґФ",
+		Title = "Arrived Guest",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"ЗБ·РЕЧ¶у їХ±ГїЎј­ Е©·иЅє°Ў ГЈѕЖїФґЩ. їХ±ГАё·О µҐ·Б°Ў±в їФґЩґВ Е©·иЅє. »зїлАО јчјТ ИЮ°ФЅЗАЗ Е©·иЅєїЎ°Ф ё»А» °ЙѕоєёАЪ."
+			"Crux has arrived from the royal palace of Prontera. He is ready to take you to the palace. Talk to Crux near the recreation room."
 		},
-		Summary = "Е©·иЅєїН ґлИ­"
+		Summary = "Talk to Crux"
 	},
 	[18022] = {
-		Title = "ЗмАМ! ЅєА§Жј",
+		Title = "Sparring with Sweety",
 		IconName = "ico_dq.bmp",
-		Description = { "єс°шБ¤ °ЕДЎАеїЎј­ °ьё® БЯАО ЅєА§Жј°Ў і­ЖшЗП°Ф іЇ¶Щёй АыґзИч »уґлЗШБЦАЪ." },
-		Summary = "ЅєА§ЖјїН АьЕх"
+		Description = {
+			"If Sweety who is being repaired in the Airship Dock suddenly goes wild, help calm him down."
+		},
+		Summary = "Fight Sweety"
 	},
 	[18023] = {
-		Title = "ЗмАМ! ЅєА§Жј ґл±в",
+		Title = "Sparring with Sweety (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗС№ЩЕБ іЇ ¶Ъ ЅєА§ЖјАЗ ёцГјґВ ѕа°ЈАЗ ѕИБ¤°ъ јцё®°Ў ЗКїдЗПґЩ. ЗШґз ДщЅєЖ®ґВ ґл±вЅГ°ЈАМ Бці­ µЪ єс°шБ¤ °ЕДЎАеАЗ <NAVI>[ЅєА§Жј]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>їЎ°Фј­ №ЮА» јц АЦЅАґПґЩ."
+			"Sweety's body is pretty damaged and needs mending. After a while this quest can be obtained from <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
 	},
 	[18024] = {
-		Title = "ДЪѕо јцБэ",
+		Title = "Collecting Cores",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"єс°шБ¤ °ЕДЎАеАЗ ѕЖёуµеґВ, ЅєА§ЖјїН ґл·Г БЯїЎ ЅГ°ЈАМ µЗёй №гАМ µИ АъЕГАЗ Б¤їшА» јшВыЗП°н 'ёБ°ЎБш АОЗьАЗ ДЪѕо'ё¦ ёрѕЖ ґЮ¶у°н ЗЯґЩ."
+			"After your fight with Sweety Almond from the Airship Dock asked you to search the garden and collect broken robot cores."
 		},
-		Summary = "ёБ°ЎБш ДЪѕо 10°і АМ»у Иёјц"
+		Summary = "Collect Broken Cores (at least 10 pcs.)"
 	},
 	[18025] = {
-		Title = "ДЪѕо јцБэ - ґл±в",
+		Title = "Collecting Cores (Pending)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"ЗШґз ДщЅєЖ®ґВ ґл±вЅГ°ЈАМ Бці­ µЪ єс°шБ¤ °ЕДЎАеАЗ <NAVI>[ѕЖёуµе]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI>їЎ°Фј­ №ЮА» јц АЦЅАґПґЩ."
+			"After a while this quest can be obtained from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> from the Airship Dock."
 		},
-		Summary = "04ЅГ ГК±вИ­"
+		Summary = "Resets at 04:00 a.m."
+	},
+	[18026] = {
+		Title = "Memories of Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"They say, Thanatos who defeated demon lord Morocc in ancient times has appeared in the tower. Explore the upper floors of the Thanatos Tower and find the knight-warlock at the request of Loomin who wants to check this curious rumor."
+		},
+		Summary = "Get rid of the incarnate memories of Thanatos",
+		NpcSpr = "4_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[18027] = {
+		Title = "Memories of Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"They say, Thanatos who defeated demon lord Morocc in ancient times has appeared in the tower. Explore the upper floors of the Thanatos Tower and find the knight-warlock at the request of Loomin who wants to check this curious rumor."
+		},
+		Summary = "Get rid of the Brkn. Memories of Thanatos",
+		NpcSpr = "5_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[18028] = {
+		Title = "Memories of Thanatos (Pending)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"After a while this quest can be obtained from <NAVI>[Loomin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00 a.m.",
+		CoolTimeQuest = 1,
+		NpcSpr = "6_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[27408] = {
+		Title = "Mercenary contract for Thanatos Tower",
+		IconName = "ico_nq.bmp",
+		Description = { "Sign a contract for Thanatos Tower with Rekenber corp." },
+		Summary = "Sign a contract"
+	},
+	[27409] = {
+		Title = "Discovering the Red Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The Red Key is swinging in streams of scarlet energy. This energy <NAVI>[flows]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI> in some definite direction."
+		},
+		Summary = "Follow the stream of energy"
+	},
+	[27410] = {
+		Title = "Discovering the Yellow Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The Yellow Key is swinging in streams of golden energy. This energy <NAVI>[flows]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI> in some definite direction."
+		},
+		Summary = "Follow the stream of energy"
+	},
+	[27411] = {
+		Title = "Discovering the Blue Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The Blue Key is swinging in streams of azure energy. This energy <NAVI>[flows]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI> in some definite direction."
+		},
+		Summary = "Follow the stream of energy"
+	},
+	[27412] = {
+		Title = "Discovering the Green Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The Green Key is swinging in streams of emerald energy. This energy <NAVI>[flows]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI> in some definite direction."
+		},
+		Summary = "Follow the stream of energy"
+	},
+	[27413] = {
+		Title = "Discovering the Black Key",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"The Black Key is swinging in streams of dark energy. This energy <NAVI>[flows]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI> in some definite direction."
+		},
+		Summary = "Follow the stream of energy"
+	},
+	[27414] = {
+		Title = "The Secret of Thanatos Tower",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Show the records you discovered to the <NAVI>[guide]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Visit the guide"
+	},
+	[27415] = {
+		Title = "Accept the mission",
+		IconName = "ico_dq.bmp",
+		Description = { "Turn to Solice for a quest." },
+		Summary = "Take a quest"
+	},
+	[27416] = {
+		Title = "[Daily] Kill the monsters on the 9th floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 20 Crow Barons and 20 Crow Dukes on the 9th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Misery, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Bring the Fragments of Misery (10 pcs.)"
+	},
+	[27417] = {
+		Title = "[Daily] Kill the monsters on the 10th floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 15 Void Mimic, 15 Books of Death, and 15 Elders on the 10th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Despair, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Bring the Fragments of Despair (10 pcs.)"
+	},
+	[27418] = {
+		Title = "[Daily] Kill the monsters on the 11th floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 15 Empathies and 15 Happiness Givers on the 11th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Hatred, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Bring the Fragments of Hatred (10 pcs.)"
+	},
+	[27419] = {
+		Title = "[Daily] Kill the monsters on the 11th floor (II)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat 15 Pray Givers and 15 Smile Givers on the 11th floor of Thanatos Tower. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
+	},
+	[27420] = {
+		Title = "[Daily] Kill the monsters on the 12th floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat Angers and Horrors of Thanatos, 10 of each type, on the 12th floor of Thanatos Tower. If you manage to defeat them and bring me 10 Fragments of Agony, I will increase your reward. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Bring the Fragments of Agony (10 pcs.)"
+	},
+	[27421] = {
+		Title = "[Daily] Kill the monsters on the 12th floor",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You need to defeat Regrets and Resentments of Thanatos, 10 of each type, on the 12th floor of Thanatos Tower. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
+	},
+	[27422] = {
+		Title = "Thanatos Tower, 9th floor (Pending)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Resets at 04:00 a.m.",
+		CoolTimeQuest = 1
+	},
+	[27423] = {
+		Title = "Thanatos Tower, 10th floor (Pending)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Resets at 04:00 a.m.",
+		CoolTimeQuest = 1
+	},
+	[27424] = {
+		Title = "Thanatos Tower, 11th floor (Pending)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Resets at 04:00 a.m.",
+		CoolTimeQuest = 1
+	},
+	[27425] = {
+		Title = "Thanatos Tower, 12th floor (Pending)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"We need to process the collected data, so please come back after dawn. - <NAVI>[Solice]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Resets at 04:00 a.m.",
+		CoolTimeQuest = 1
 	}
 }

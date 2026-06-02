@@ -309,4 +309,8 @@
 1 Seed of Life
 1 Glass Tube
 #
-
+100371#
+1 Seed of Life
+1 Yellow Herb
+1 Empty Bottle
+#

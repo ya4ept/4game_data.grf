@@ -2332,6 +2332,274 @@ tblLapineUpgradeBox = {
 				{ "G_Alchemist_Staff", 32403 }
 			},
 			NeedSource_String = "Guardian Knight/Royal Weapon"
+		},
+		Frozen_Box_IL = {
+			ItemID = 9785,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Huuma_Flutter_Snow_IL", 13337 },
+				{ "Combo_Battle_Glove_IL", 1846 },
+				{ "Cap_IL", 19223 },
+				{ "Clack_Of_Servival_IL", 20847 },
+				{ "Herald_Of_GOD_IL", 28922 }
+			},
+			NeedSource_String = "Frozen Refine Box"
+		},
+		Moonlight_Box_IL = {
+			ItemID = 100391,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Spectral_Spear_IL", 26007 },
+				{ "Moonlight_Sword_IL", 28725 },
+				{ "Long_Mace_IL", 16063 },
+				{ "Staff_Of_Bordeaux_IL", 26109 },
+				{ "Muffler_IL", 20838 },
+				{ "Shoes_IL", 22133 },
+				{ "Nurse_Cap_IL", 19209 },
+				{ "Puente_Robe_IL", 15195 },
+				{ "Apple_Of_Archer_IL", 19210 }
+			},
+			NeedSource_String = "Moonlight Refine Box"
+		},
+		S_Moonlight_Box_IL = {
+			ItemID = 100392,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Spectral_Spear_IL", 26007 },
+				{ "Moonlight_Sword_IL", 28725 },
+				{ "Long_Mace_IL", 16063 },
+				{ "Staff_Of_Bordeaux_IL", 26109 },
+				{ "Muffler_IL", 20838 },
+				{ "Shoes_IL", 22133 },
+				{ "Nurse_Cap_IL", 19209 },
+				{ "Puente_Robe_IL", 15195 },
+				{ "Apple_Of_Archer_IL", 19210 }
+			},
+			NeedSource_String = "Special Moonlight Refine Box"
+		},
+		Vampire_Box_IL = {
+			ItemID = 100414,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Wizardy_Staff_IL", 2039 },
+				{ "Infiltrator_IL", 28022 },
+				{ "Balistar_IL", 18149 },
+				{ "Book_Of_The_Apo_IL", 28612 },
+				{ "Ghoul_Leg_IL", 28023 },
+				{ "Cape_Of_Ancient_Lord_IL", 20840 }
+			},
+			NeedSource_String = "Vampire Refine Box"
+		},
+		S_Vampire_Box_IL = {
+			ItemID = 100415,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Wizardy_Staff_IL", 2039 },
+				{ "Infiltrator_IL", 28022 },
+				{ "Balistar_IL", 18149 },
+				{ "Book_Of_The_Apo_IL", 28612 },
+				{ "Ghoul_Leg_IL", 28023 },
+				{ "Cape_Of_Ancient_Lord_IL", 20840 }
+			},
+			NeedSource_String = "Special Vampire Refine Box"
+		},
+		S_Frozen_Box_IL = {
+			ItemID = 100416,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Huuma_Flutter_Snow_IL", 13337 },
+				{ "Combo_Battle_Glove_IL", 1846 },
+				{ "Cap_IL", 19223 },
+				{ "Clack_Of_Servival_IL", 20847 },
+				{ "Herald_Of_GOD_IL", 28922 }
+			},
+			NeedSource_String = "Special Frozen Refine Box"
+		},
+		Turtle_Is_Box_IL = {
+			ItemID = 100417,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Huuma_Bird_Wing_IL", 13338 },
+				{ "War_Axe_IL", 1326 },
+				{ "Immaterial_Sword_IL", 13469 },
+				{ "Iron_Driver_IL", 16065 },
+				{ "Pole_Axe_IL", 32005 },
+				{ "Fancy_Flower_IL", 19247 }
+			},
+			NeedSource_String = "Turtle Island Refine Box"
+		},
+		S_Turtle_Is_Box_IL = {
+			ItemID = 100418,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Huuma_Bird_Wing_IL", 13338 },
+				{ "War_Axe_IL", 1326 },
+				{ "Immaterial_Sword_IL", 13469 },
+				{ "Iron_Driver_IL", 16065 },
+				{ "Pole_Axe_IL", 32005 },
+				{ "Fancy_Flower_IL", 19247 }
+			},
+			NeedSource_String = "Special Turtle Island Refine Box"
+		},
+		Teddy_Bear_Box_IL = {
+			ItemID = 100419,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Survival_Staff_IL", 2051 },
+				{ "Gate_KeeperDD_IL", 28244 },
+				{ "Counter_Dagger_IL", 28745 },
+				{ "Headband_Of_Power_IL", 19344 },
+				{ "Boots_IL", 22190 }
+			},
+			NeedSource_String = "Teddy Bear Refine Box"
+		},
+		S_Teddy_Bear_Box_IL = {
+			ItemID = 100420,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Survival_Staff_IL", 2051 },
+				{ "Gate_KeeperDD_IL", 28244 },
+				{ "Counter_Dagger_IL", 28745 },
+				{ "Headband_Of_Power_IL", 19344 },
+				{ "Boots_IL", 22190 }
+			},
+			NeedSource_String = "Special Teddy Bear Refine Box"
+		},
+		Luanda_Box_IL = {
+			ItemID = 100421,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Hunter_Bow_IL", 18174 },
+				{ "Tablet_IL", 28626 },
+				{ "Goibne_Armor_IL", 15348 },
+				{ "Goibne_Helmet_IL", 19366 },
+				{ "Goibne_Shoulder_IL", 20923 },
+				{ "Goibne_Boots_IL", 22192 }
+			},
+			NeedSource_String = "Luanda Refine Box"
+		},
+		S_Luanda_Box_IL = {
+			ItemID = 100422,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Hunter_Bow_IL", 18174 },
+				{ "Tablet_IL", 28626 },
+				{ "Goibne_Armor_IL", 15348 },
+				{ "Goibne_Helmet_IL", 19366 },
+				{ "Goibne_Shoulder_IL", 20923 },
+				{ "Goibne_Boots_IL", 22192 }
+			},
+			NeedSource_String = "Special Luanda Refine Box"
+		},
+		Labyrinth_Box_IL = {
+			ItemID = 100423,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Taegoolyeon_IL", 21050 },
+				{ "Butcher_IL", 28254 },
+				{ "Gold_Lux_IL", 32301 },
+				{ "Bazerald_IL", 28762 },
+				{ "Morpheus_Hood_IL", 19428 },
+				{ "Morpheus_Shawl_IL", 20948 }
+			},
+			NeedSource_String = "Labyrinth Refine Box"
+		},
+		S_Teddy_Labyrinth_IL = {
+			ItemID = 100424,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Taegoolyeon_IL", 21050 },
+				{ "Butcher_IL", 28254 },
+				{ "Gold_Lux_IL", 32301 },
+				{ "Bazerald_IL", 28762 },
+				{ "Morpheus_Hood_IL", 19428 },
+				{ "Morpheus_Shawl_IL", 20948 }
+			},
+			NeedSource_String = "Special Labyrinth Refine Box"
+		},
+		Underwater_Box_IL = {
+			ItemID = 100425,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Death_Guidance_IL", 600011 },
+				{ "KatarOfCold_Icicle_IL", 610012 },
+				{ "Brionac_IL", 630006 },
+				{ "Zephyrus_IL", 630007 },
+				{ "Electronic_Guitar_IL", 570008 },
+				{ "Electric_Eel_IL", 580008 },
+				{ "Saint_Robe_IL", 450144 },
+				{ "Water_Sprits_Armor_IL", 450145 },
+				{ "Chain_Mail_IL", 450146 },
+				{ "Morrigane_Helm_IL", 400053 },
+				{ "Morrigane_Manyeau_IL", 480054 }
+			},
+			NeedSource_String = "Underwater Refine Box"
+		},
+		S_Underwater_Box_IL = {
+			ItemID = 100426,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{ "Death_Guidance_IL", 600011 },
+				{ "KatarOfCold_Icicle_IL", 610012 },
+				{ "Brionac_IL", 630006 },
+				{ "Zephyrus_IL", 630007 },
+				{ "Electronic_Guitar_IL", 570008 },
+				{ "Electric_Eel_IL", 580008 },
+				{ "Saint_Robe_IL", 450144 },
+				{ "Water_Sprits_Armor_IL", 450145 },
+				{ "Chain_Mail_IL", 450146 },
+				{ "Morrigane_Helm_IL", 400053 },
+				{ "Morrigane_Manyeau_IL", 480054 }
+			},
+			NeedSource_String = "Special Underwater Refine Box"
 		}
 	},
 	results = {
@@ -2484,6 +2752,102 @@ tblLapineUpgradeBox = {
 		Royal_Refine_Cube = {
 			SuccessRate = 10000,
 			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Frozen_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Moonlight_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Moonlight_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Vampire_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Vampire_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Frozen_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Turtle_Is_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Turtle_Is_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Teddy_Bear_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Teddy_Bear_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Luanda_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Luanda_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Labyrinth_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Teddy_Labyrinth_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		Underwater_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 650, 220, 100, 30 },
+			RandomOptionCode = "",
+			FailureItems = {}
+		},
+		S_Underwater_Box_IL = {
+			SuccessRate = 10000,
+			RefineProbability = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 650, 285, 50, 15 },
 			RandomOptionCode = "",
 			FailureItems = {}
 		}

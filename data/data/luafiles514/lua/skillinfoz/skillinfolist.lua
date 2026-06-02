@@ -3978,9 +3978,9 @@ SKILL_INFO_LIST = {
 		"LG_CANNONSPEAR",
 		SkillName = "Cannon Spear",
 		MaxLv = 5,
-		SpAmount = { 12, 16, 20, 24, 28 },
+		SpAmount = { 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
-		AttackRange = { 11, 11, 11, 11, 11 },
+		AttackRange = { 7, 7, 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.LG_PINPOINTATTACK, 1 }
 		}
@@ -6153,7 +6153,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 17, 19, 21, 23, 25, 27, 29, 31, 33, 35 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
+		AttackRange = { 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 }
 	},
 	[SKID.MH_CBC] = {
 		"MH_CBC",
@@ -7413,7 +7413,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 18, 21, 24, 27, 30, 33, 36, 39, 42, 45 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
+		AttackRange = { 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 }
 	},
 	[SKID.MH_EQC] = {
 		"MH_EQC",
@@ -8132,7 +8132,7 @@ SKILL_INFO_LIST = {
 		"RA_ARROWSTORM",
 		SkillName = "Arrow Storm",
 		MaxLv = 10,
-		SpAmount = { 30, 32, 34, 36, 38, 40, 42, 44, 46, 48 },
+		SpAmount = { 24, 28, 32, 36, 40, 44, 48, 52, 56, 60 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
@@ -8534,7 +8534,7 @@ SKILL_INFO_LIST = {
 		"WM_REVERBERATION",
 		SkillName = "Reverberation",
 		MaxLv = 5,
-		SpAmount = { 60, 66, 72, 78, 84 },
+		SpAmount = { 56, 62, 68, 74, 80 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		NeedSkillList = {
@@ -8562,7 +8562,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
-			{ SKID.WM_DOMINION_IMPULSE, 1 }
+			{ SKID.WM_REVERBERATION, 5 }
 		}
 	},
 	[SKID.SA_LEVELUP] = {

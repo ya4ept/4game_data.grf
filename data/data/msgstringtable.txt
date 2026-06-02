@@ -3354,21 +3354,21 @@ Item cannot be used.#
 You're already here#
 When you die, you cannot move.#
 Character Creation#
-Adventurer Brokerage Registration#
-Register at an adventurer agency#
-Recruitment halted.#
-memo#
-quest#
-field#
-dungeon#
-M.D.#
-paradise#
-etc#
-search#
-reset#
-Party membership application#
-purpose#
-¡Ø You may be punished if you use it for purposes that violate the operating rules, such as profanity or current transactions.#
+Adventurers' Guild Registration#
+Adventurers' Guild Registration#
+Stop Recruiting#
+Memo#
+Quest#
+Field#
+Dungeon#
+MD#
+Eden Quest#
+Etc#
+Search#
+Reset#
+Join#
+Purpose#
+You may be punished if you use it for purposes that violate operating rules.#
 Register#
 Contains words that cannot be used.#
 Join the party#
@@ -3413,12 +3413,12 @@ Save ID#
 password#
 id#
 join the membership#
-party hall#
-You are not at the level to join the party.#
-Registration at the adventurer agency failed.#
-Registered at Adventurer Brokerage.#
-Enter search details#
-tanker#
+Party Leader#
+You haven't reached the level necessary to join the party.#
+Registration with the Adventurers' Guild failed.#
+You have successfully registered with the Adventurers' Guild.#
+Enter search request#
+Tank#
 %.1f%% (+ %sserver %.1f%%)#
 /ex (character name) or /block (character name): Block all chat and whispers for that character.#
 /in (character name) or /off (character name): Allow full chat and whispering for the character.#
@@ -3440,9 +3440,9 @@ Flat rate service#
 Connection is currently delayed. You can connect sequentially, so please reconnect later.#
 There is currently a connection delay, so please reconnect later.#
 Names containing bad words cannot be searched.#
-The party master is unable to receive requests.#
+Party leader cannot accept the request.#
 Party not found.#
-dealer#
+Damage dealer#
 http://ro.gnjoy.com#
 ¡ã#
 ¡å#
@@ -3487,26 +3487,26 @@ Hello, Adventurer.\r\nWe closed your part time vending because there is a policy
 Guild tax cannot be set above 50%. #
 The party is registered at the adventurer agency, and the party leader cannot be changed.#
 You cannot register your party at the adventurer agency.#
-acceptance#
-refusal#
-healer#
-The character cannot be found.#
-Forced Removal#
-The party leader for that party cannot be found.#
-Your job level is low and you cannot join the party.#
-The requester is currently in a region where party membership is not possible.#
-The number of party members has been exceeded.#
-The party leader of %s party has approved your party membership.#
-The party leader of %s party refused to join the party.#
-%s is already joining the party.#
-%s has been accepted to join the party.#
-%s has been rejected from joining the party.#
-%s' application has been rejected because we are unable to receive party requests.#
-Adventurer Agency List#
-Request to join party#
-If you are not the party leader, you cannot register your party at the adventurer agency.#
-Party recruitment cannot be stopped.#
-assistance#
+Accept#
+Decline#
+Healer#
+Character not found.#
+Delete street vendors.#
+Party leader not found.#
+You haven't reached the job level necessary to join the party.#
+The character is currently in a place where it is impossible to accept the invitation.#
+Party is full.#
+Party leader %s has accepted your request.#
+Party leader %s has declined your request.#
+%s has already joined the party.#
+Player %s's request has been accepted.#
+Player %s's request has been declined.#
+The invitation has been declined automatically because you cannot accept it.#
+Adventurers' Guild List#
+Request to join the party#
+Only the party leader can register it with the Adventurers' Guild.#
+Party matching cannot be stopped.#
+Support#
 Zoom Out#
 %s: Zoom Out can be turned on or off. On Off#
 Turn on the Zoom Out function (On)#
@@ -3514,9 +3514,9 @@ Disable the Zoom Out function (Off)#
 /zoom#
 adventurer agency#
 If you are the party leader, you cannot request to join.#
-The maximum level you can join a party must be higher than the minimum level setting.#
+The max level of party members must be higher than the minimal level.#
 You can no longer choose a job.#
-We do not accept requests for registration from the user during the game. (Valid until client termination)#
+You will not receive join requests from this player (valid until you exit the game).#
 Please open it again later.#
 This function cannot be used for %d minutes before the siege begins.#
 /viewclear#
