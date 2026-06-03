@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-f66600fedb53724404088e89de41829c *data\buyingstoreitemlist.txt
+818716152b4e206dee6bd25e1d20e209 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 fbd8ab26a8c83ed1f9a165004eb2f454 *data\cardpostfixnametable.txt
 5a7d19aaa643bfc82e6b3cd482172aad *data\cardprefixnametable.txt
@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 4a8ab920c9d3ed52c2fcc87741ec3159 *data\idnum2itemdisplaynametable.txt
-daa8b71a5dcd9805d70f5649f8713471 *data\idnum2itemresnametable.txt
+e1b3d0e3dd2fc79b23ff834b50bacc56 *data\idnum2itemresnametable.txt
 66b89bc7dbd9b427bcd99f33f74eca0d *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-dc0b0afc3bbf5b3534c4f563ace41530 *data\itemslotcounttable.txt
+cc635188d0c4d5f5b352457cb0b2863d *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 08406309f2c9905a31d702610deab08a *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 fd765c6a2aa01f1cc172d6e25f296ccb *data\num2itemdisplaynametable.txt
-d64b38cf766e2f504fe695d353ec5c33 *data\num2itemresnametable.txt
+4e6138525636b7e8a35a974303189e8f *data\num2itemresnametable.txt
 1e9fa56d9543cfebc4b83566a42cac4b *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -85751,6 +85751,8 @@ b3259d44918bc69fc40b6624cf06486a *data\sprite\æ∆¿Ã≈€\calf_kingcobra.act
 9353fcf037ab09960221728b93c1191c *data\sprite\æ∆¿Ã≈€\calf_kingcobra.spr
 b3259d44918bc69fc40b6624cf06486a *data\sprite\æ∆¿Ã≈€\calf_python.act
 ac112c1037a37559124fc342fc042265 *data\sprite\æ∆¿Ã≈€\calf_python.spr
+51805fed50ec21d6300a722fee3cbf3d *data\sprite\æ∆¿Ã≈€\cancer_shoes.act
+01c565cd9beb819a00984af66220f80a *data\sprite\æ∆¿Ã≈€\cancer_shoes.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\æ∆¿Ã≈€\candycanerod.act
 35720ab96e7bdfe689f9736545439a96 *data\sprite\æ∆¿Ã≈€\candycanerod.spr
 bab345397aad98f074a12b76677c7745 *data\sprite\æ∆¿Ã≈€\cannon_rapier_os.act
@@ -86439,6 +86441,8 @@ e6a1667f327cfebbc35a0e2b390122cd *data\sprite\æ∆¿Ã≈€\c_put_on_coat.spr
 33a16fad60bfa96640e3205cd542265a *data\sprite\æ∆¿Ã≈€\c_rabbit_hopping_bl.spr
 778c1b86ec8c9a763f7b96cf9156159a *data\sprite\æ∆¿Ã≈€\c_rabbit_winged_robe.act
 c1fe4340411f1937afbafa03afa0641f *data\sprite\æ∆¿Ã≈€\c_rabbit_winged_robe.spr
+49a6bf155138ca234e0cfcdbffefb4dc *data\sprite\æ∆¿Ã≈€\c_ra_hair_pk.act
+c272a696c011e9e5d8ec489491ec5cd8 *data\sprite\æ∆¿Ã≈€\c_ra_hair_pk.spr
 fb0117f477544b73b9119a872e0044cd *data\sprite\æ∆¿Ã≈€\c_released_ground.act
 76363378f23b185a1e46a4afda140479 *data\sprite\æ∆¿Ã≈€\c_released_ground.spr
 071dd74216c01c43e701e126fe5a8bc9 *data\sprite\æ∆¿Ã≈€\c_rk_hair_bl.act
@@ -86567,6 +86571,10 @@ b5acbded5ce79bb09dd94f260d6e37a0 *data\sprite\æ∆¿Ã≈€\c_sweet_chef_hat.act
 f66cb5639dda90a682b4910c324c7610 *data\sprite\æ∆¿Ã≈€\c_sweet_corone.spr
 4f460d42521a52ad8d03a2f83d71ff8c *data\sprite\æ∆¿Ã≈€\c_swirling_flame.act
 4ca6e2391bf222d69eea7a6a26f88fcb *data\sprite\æ∆¿Ã≈€\c_swirling_flame.spr
+7aceb2a13410e58b3b7edc7467901500 *data\sprite\æ∆¿Ã≈€\c_s_two_side_up_blp.act
+d3f837406d52e2a3f2caafdfeb284c89 *data\sprite\æ∆¿Ã≈€\c_s_two_side_up_blp.spr
+76beb34d34b15e34edd01b9b5e0940d0 *data\sprite\æ∆¿Ã≈€\c_tent.act
+10e98366417d7d72c53f7535d0c8e6ec *data\sprite\æ∆¿Ã≈€\c_tent.spr
 9efbc2eb3b13cc79b6eee75df637cbef *data\sprite\æ∆¿Ã≈€\c_tiger.act
 f27a5dbcccc60b3afb442cfd3aa820f5 *data\sprite\æ∆¿Ã≈€\c_tiger.spr
 76beb34d34b15e34edd01b9b5e0940d0 *data\sprite\æ∆¿Ã≈€\c_traveller_bag.act
@@ -88948,6 +88956,8 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\æ∆¿Ã≈€\ring_il.act
 508242d68693e0756e0b379f329e9d22 *data\sprite\æ∆¿Ã≈€\ring_il.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\æ∆¿Ã≈€\ring_of_brave.act
 9cf7681901ba95e1ae30dec90706efd0 *data\sprite\æ∆¿Ã≈€\ring_of_brave.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\æ∆¿Ã≈€\ring_of_nature.act
+60a09cee9c9d2b5c705bceff21003184 *data\sprite\æ∆¿Ã≈€\ring_of_nature.spr
 7b13eb2f90650d82d5dd53900d2dfdaa *data\sprite\æ∆¿Ã≈€\ring_of_silverclaw.act
 4e9648925b53c5e21ac8c424a432cae7 *data\sprite\æ∆¿Ã≈€\ring_of_silverclaw.spr
 3794299c66cfdcbd4d1fa8df7b6b08cb *data\sprite\æ∆¿Ã≈€\rite_robe.act
@@ -100062,6 +100072,8 @@ bb797cb3710ea1c02d703507bf3064ea *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_protect_cloth_b.s
 f88183599e72d26967f5942ae9807e8d *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_rabbit_hopping_bl.spr
 ee98a08c2b65c241f097869f543bf6c0 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_rabbit_winged_robe.act
 430609bda75fb30cde6187c007a8b58c *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_rabbit_winged_robe.spr
+dfe6f619f2dc0085ef06ff782bc64e48 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_ra_hair_pk.act
+24a16362d31257a8c3ad1ec422a6ecbf *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_ra_hair_pk.spr
 5c2363c53d5a502c40f07061ff9f3f1a *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_released_ground.act
 3a8bad79622129d32ea721d0f60a4cab *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_released_ground.spr
 77866f5468c794a2183a9382dbb7a725 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_rk_hair_bl.act
@@ -100160,6 +100172,10 @@ fe76639173fb3ad38782315055426d5b *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_streamer_aura.spr
 6cf280bd8e5eb8516b13f707d30ffe0c *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_sweet_chef_hat.spr
 527522ea3f85b4cdaa6a53065fac495a *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_sweet_corone.act
 88a2f1ff071af99d1b512b4ef662dc74 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_sweet_corone.spr
+e73833f903166bf6937bebb0214ad234 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_s_two_side_up_blp.act
+f93cf45df6a2179cd5308a3ef7635d25 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_s_two_side_up_blp.spr
+6f62a0d55766f10622d60d8ff5bbeca4 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_tent.spr
 38b5a2a46af88358f22aa1016d08701a *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_tiger.spr
 374b789a6e5179ddb6dee255e308254b *data\sprite\æ«ººªÁ∏Æ\≥≤\≥≤_c_traveller_oil_lantern.act
@@ -103244,6 +103260,8 @@ df2b2b57e704ed6acd0529979f79e700 *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_poulet_tw.s
 e1943424830c15bb45629e67a4448eb5 *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_shadow_devil.spr
 35fe213a35c95a4cc58931d96464525d *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_streamer_aura.act
 fe76639173fb3ad38782315055426d5b *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_streamer_aura.spr
+690b021c5220889af67a6fbae7289389 *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_tent.spr
 6250caeee9b43813c6eea0e7a549d6fc *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_c_tiger.spr
 f9a42cdb4e26bb049460938549a8f7f6 *data\sprite\æ«ººªÁ∏Æ\≥≤_doram\≥≤_demons_familiar.act
@@ -103656,6 +103674,8 @@ de062a3518e639bedf8821bf05db1f01 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_princess_ribbon_c
 f88183599e72d26967f5942ae9807e8d *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_rabbit_hopping_bl.spr
 d0b9de6cd38e376aeb2ec50016c55f2a *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_rabbit_winged_robe.act
 430609bda75fb30cde6187c007a8b58c *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_rabbit_winged_robe.spr
+1813f573a48adb73147878f68f497432 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_ra_hair_pk.act
+24a16362d31257a8c3ad1ec422a6ecbf *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_ra_hair_pk.spr
 3725f00e2cb0aa91796614b72f1467a2 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_released_ground.act
 3a8bad79622129d32ea721d0f60a4cab *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_released_ground.spr
 40099c50fddc006a8e2e382e2c9384c1 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_rk_hair_bl.act
@@ -103754,6 +103774,10 @@ c37d7757f3d4aa8e8766318f07cfbb28 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_sweet_chef_hat.ac
 089cdddf3cc831ba56430e84dbc4b858 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_sweet_chef_hat.spr
 28f2f6a2d0006d9cf5aa6405611f8706 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_sweet_corone.act
 88a2f1ff071af99d1b512b4ef662dc74 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_sweet_corone.spr
+88e2ab13fb9008af73841e09e7b658ea *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_s_two_side_up_blp.act
+f93cf45df6a2179cd5308a3ef7635d25 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_s_two_side_up_blp.spr
+f0e3ed84becf352e63dfdeb0972a3a6b *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_tent.spr
 0ae14c38faa05d8d2c970e2344252c4f *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_tiger.spr
 60831f5cb6f7356301c81aba12908a3c *data\sprite\æ«ººªÁ∏Æ\ø©\ø©_c_traveller_oil_lantern.act
@@ -106834,6 +106858,8 @@ c33f15c96ec5e121ea0af6545cb2f69b *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_panda_rabbi
 ba1fe0c97e08d3f00a7bd4fc2c3cf3fc *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_shadow_devil.spr
 35fe213a35c95a4cc58931d96464525d *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_streamer_aura.act
 fe76639173fb3ad38782315055426d5b *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_streamer_aura.spr
+a412fed142bde4efbfddbc0ffb3f9f3d *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_tent.act
+f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_tent.spr
 9866c339139ec948f01b60407129a9ef *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_tiger.act
 079caae3cafabf9d6ab9b52a4251f257 *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_c_tiger.spr
 ea5a6377ccaa35748e1c4cc5019e866c *data\sprite\æ«ººªÁ∏Æ\ø©_doram\ø©_demons_familiar.act
@@ -129665,6 +129691,7 @@ cf61b63809592dff06a41caefa2bcee9 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c8«–≥‚«
 5828d03c5049be6a4f5d5d02caca4d6b *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\calf_diamondback.bmp
 3590ab67cacd55e1a9f670d6900e9bd0 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\calf_kingcobra.bmp
 01105d163f6e3d054bcee8655b586c0d *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\calf_python.bmp
+043c98431a28631e3da9b137f494a387 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\cancer_shoes.bmp
 dabfadcf3240c98a966034a1343654b3 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\candycanerod.bmp
 a3902cd9aa2df9705f09d836aeee8241 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\cannon_rapier_os.bmp
 bca6f26e2e165d6c18982bbb53afd9f0 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\cape_of_ancient_lord_il.bmp
@@ -129980,6 +130007,7 @@ b4f6da5258330642ebb19576958e845d *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_prote
 aae46a63ac6f41bf112a74f63dc57c92 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_put_on_coat.bmp
 e4916f1f94bdf2bc982c6cda450307d6 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_rabbit_hopping_bl.bmp
 d2e054bf3e9fe1346e03280d884861ab *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_rabbit_winged_robe.bmp
+b031eb3fe43e8d2e10ea28261ee1c6db *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_ra_hair_pk.bmp
 6cc33d44a19556b3ba0336ef8e48ce89 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_released_ground.bmp
 0ce1e6ce6f4e82660e08b52ca11f5d6b *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_rk_hair_bl.bmp
 e45688dbbf7e0a5a55ea2a5d198218f5 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_rk_hair_bu.bmp
@@ -130044,6 +130072,8 @@ b2c5d3059ddbdd58c4e846d2bc103901 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_strai
 57e712d883fbf570cce2acaa317837b0 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_sweet_chef_hat.bmp
 926c95a0c5cd5d77266bb9bd5db82293 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_sweet_corone.bmp
 613ef3d5de377874dedc552c46ce5391 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_swirling_flame.bmp
+8c4864aa74a51bb214f5821e54a11710 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_s_two_side_up_blp.bmp
+9375c85d4cb25137862773ff5a6bcb3d *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_tent.bmp
 466a84443e58be6b3722d8a03b93012f *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_tiger.bmp
 55c4f52b24bb38d5a28612f7f28a81af *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_traveller_bag.bmp
 390ede831248c809412b96533484e2ea *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\c_traveller_oil_lantern.bmp
@@ -130781,6 +130811,7 @@ b8b0a737a1add575450adbb62faa6fbe *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\rg»≤±›ª
 36ac8c95eff1b97b841a5ae61436947d *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\ringofvenus.bmp
 52f5788cc26005c80ab0eb8f0454af60 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\ring_il.bmp
 9bc8b9e9e71a7c8566cc9d4e4b7e8b36 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\ring_of_brave.bmp
+d19f6ff38454d37dd1a1016bafca08e8 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\ring_of_nature.bmp
 65a09999e7974c850601a68ff98c8d8c *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\ring_of_silverclaw.bmp
 84d473fd77279939c0253fb6c9ae86fd *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\rite_robe.bmp
 ade769511df0fbcd293d3507e6a03c40 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\collection\rjc±›∏Ò∞…¿Ã.bmp
@@ -137590,6 +137621,7 @@ c2f08852ed9d9d010c49dee8ac05ad89 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\calf_deathadd
 f13007500c1047edcd1429f3c5bb23ee *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\calf_diamondback.bmp
 5479ae1568b5986b0f48b661617af874 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\calf_kingcobra.bmp
 60ad0fb5d0ac190847cd0a532ad0553c *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\calf_python.bmp
+2770be3ffd4bc22435b782b92b166a5e *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\cancer_shoes.bmp
 23712e6f0efc0d11d9c628db3aa6ad23 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\candycanerod.bmp
 1a5b7f1810d6451af8d2cfe563cdc9f2 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\cannon_rapier_os.bmp
 2c31043da377e4a28809b1b10ae36695 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\cape_of_ancient_lord_il.bmp
@@ -137935,6 +137967,7 @@ b7194ba2bd8a4acfcfb9af758689e3cb *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_princess_ri
 8975320036719ea363e09dabb35fd026 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_put_on_coat.bmp
 c56df123de6b9d5239e7bc40939f1689 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_rabbit_hopping_bl.bmp
 7c810028c391ac6a49de3421288d2aff *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_rabbit_winged_robe.bmp
+3a0e9c99cc65f450d1ca0368107f571b *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_ra_hair_pk.bmp
 19a20807d5df14881dfad190482f13a5 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_released_ground.bmp
 54f37f633ba67f816e753f8269eee6c8 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_rk_hair_bl.bmp
 27eec70154be19e936362931267753dc *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_rk_hair_bu.bmp
@@ -137999,6 +138032,8 @@ ea2b76a30625adc827e2158c0dc1cb77 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_sunglass_be
 c48c7d74db01745cbbd68086ef45f17a *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_sweet_chef_hat.bmp
 8b0045d3d3e32f7524a6fa74621bfb57 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_sweet_corone.bmp
 6796704736821ceb9898a819f045e86b *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_swirling_flame.bmp
+cc9d19abe0423ebce64c84051e44d683 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_s_two_side_up_blp.bmp
+19d1459da8c139ac0ca2ba682504b7fd *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_tent.bmp
 e1a3b4a4905effb5329731de0d277938 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_tiger.bmp
 947eeb633aada591b29358c45c2a8fc6 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_traveller_bag.bmp
 badd1a514c3d9d160ad162d166f1062b *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\c_traveller_oil_lantern.bmp
@@ -139254,6 +139289,7 @@ f49f1fd62e2e3bfcc2c28f077cb40ed1 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\ringofdevil.b
 359c2c2ffe3974dd89a58c3c33554d00 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\ring_il.bmp
 8271d1f816fbf956cd393cbb221315db *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\ring_line.tga
 29b748fa7c3d527487350e7ec9f6a9a9 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\ring_of_brave.bmp
+fb47ea4852db369412ddd16adc4f4b7e *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\ring_of_nature.bmp
 6fc4b8566fd91e6aa98d5d7e2c757ab0 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\ring_of_silverclaw.bmp
 49f41331c7f56487210a207c6cd29703 *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\rite_robe.bmp
 35a06fcd527071185cc370da63147a5b *data\texture\¿Ø¿˙¿Œ≈Õ∆‰¿ÃΩ∫\item\rjc±›∏Ò∞…¿Ã.bmp

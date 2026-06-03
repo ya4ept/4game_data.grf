@@ -12949,3 +12949,10 @@
 410290#C_Jellyfish#
 480149#Phoenix_Muffler#
 490084#이어링#
+400327#C_RA_Hair_PK#
+420165#C_Tent#
+420396#C_S_Two_Side_Up_BLP#
+470292#Cancer_Shoes#
+490076#Ring_Of_Nature#
+107353#열혈스크롤#
+
