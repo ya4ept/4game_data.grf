@@ -12960,3 +12960,15 @@
 20774#절무의망토#
 420112#Guardian_Claus#
 510031#Rotten_Garden_knife#
+
+19329#용발톱헬멧#
+28485#상급닌자의허리띠#
+32262#Ball_Of_RasenHuuma#
+410185#Rebel_Pocket_Watch#
+420031#오로치마루의마스크#
+470027#Juggernaut#
+480085#Devil_Manteau_JP#
+28564#Valkyrie_Drop#
+400113#승리의귀장식#
+410199#C_Midnight_Candle#
+480121#Striking_Mikoshi#
