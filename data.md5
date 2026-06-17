@@ -1162,7 +1162,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 0fdca5f79c576f4931ed046046ed7f7b *data\idnum2itemdisplaynametable.txt
-9c19ddc8beef7321bc18d6a907489d9b *data\idnum2itemresnametable.txt
+ae1a944f2599f549e035083fa7436013 *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1208,7 +1208,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 21823796462c65c6f228ab2e8ba5af6a *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-b01cff4407d63d312995026033419a7f *data\itemslotcounttable.txt
+b21e83a7ecf96a15a3e4ae5720b6a1f0 *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1914,7 +1914,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 b847e845b4c9d949d9a328560487733f *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 2f11383c92b5f02fdd50db86da4b4387 *data\num2itemdisplaynametable.txt
-00505c6a3e4d77a4dff016ebdce4e5c3 *data\num2itemresnametable.txt
+bdebf39fd3f7b0cfb389d362de263e9d *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -90010,6 +90010,8 @@ bc84be39a86982675f735dfe2bd7a8f7 *data\sprite\아이템\gs_rapidshower.spr
 79a6d6cfbcc4d9cff1f04ee9e0b9c7f1 *data\sprite\아이템\gs_tracking.spr
 4a1742f1bef2d3872b29bce9d8f7691e *data\sprite\아이템\gs_tripleaction.act
 72e1f76574db8c690a4af0aca15eab11 *data\sprite\아이템\gs_tripleaction.spr
+6ef8e0582a6d335740d42b175667094d *data\sprite\아이템\guardian_claus.act
+a2b3268a978af2c1a47bf57ae974dbb9 *data\sprite\아이템\guardian_claus.spr
 dbb4b52206068940efb8aa20c467975a *data\sprite\아이템\guardian_helm.act
 4aba115beded21dbc654c05253c106ac *data\sprite\아이템\guardian_helm.spr
 2cf952870b58b786cf379c776e0ee7d0 *data\sprite\아이템\gusli.act
@@ -91695,6 +91697,8 @@ da14c80f245debabd2e0441bcb8b36f8 *data\sprite\아이템\rl_s_storm.spr
 95652013053ae67b206d82e56bd54cb0 *data\sprite\아이템\roast_memory.spr
 a0b6d02f9ae47fc2addfe7c141a91d64 *data\sprite\아이템\roost_of_skelion.act
 5eb6ff70095eadc06fcff81427b6a788 *data\sprite\아이템\roost_of_skelion.spr
+fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\rotten_garden_knife.act
+28ef6230db3e33cabc7728d086cded4e *data\sprite\아이템\rotten_garden_knife.spr
 51e6d6d9982a445e33cff9badc876863 *data\sprite\아이템\royalguard_necklace.act
 ed8d6c8d16640142d68a9ceae36f290f *data\sprite\아이템\royalguard_necklace.spr
 6dc253afc16fdbda0e0f66959e3d5767 *data\sprite\아이템\royal_mantle.act
@@ -99113,6 +99117,8 @@ a6854fbd9c8325823f8754b303ad17f6 *data\sprite\아이템\전투휘장.act
 6e15858c6fea056dbf9c452dd6afdae6 *data\sprite\아이템\전투휘장.spr
 df59a4cc351436311e289e89d4207d7b *data\sprite\아이템\전파안테나.act
 1c879b10e63998a691c105a216c564f1 *data\sprite\아이템\전파안테나.spr
+e8bbb3fa32585baeb61be3bae611ca22 *data\sprite\아이템\절무의망토.act
+2ead609cbb0b7ef37704a97e9d923670 *data\sprite\아이템\절무의망토.spr
 18e5bb752abbb5b6e47c21d4706707f6 *data\sprite\아이템\잘구운쿠키.act
 fba20b6920be9febe5f5afc734cafb26 *data\sprite\아이템\잘구운쿠키.spr
 083c8705e15acb833ea4f47a69fa99e9 *data\sprite\아이템\잘마른하얀줄기.act
@@ -103061,6 +103067,8 @@ bab8dc471d034742e1237371d7ff5ae2 *data\sprite\악세사리\남\남_gorgoncoronet.spr
 046eb826cbecac07b8b9b6be40dc0f11 *data\sprite\악세사리\남\남_grace_magic_ring.spr
 c166f4bdbe9ca637236fb55e2cb314de *data\sprite\악세사리\남\남_greater_dracul_horn.act
 d47f0cfe3cf166b6ca5d1d0ddaa69d29 *data\sprite\악세사리\남\남_greater_dracul_horn.spr
+b5409211054fd2c1ec43332879c94464 *data\sprite\악세사리\남\남_guardian_claus.act
+6bc89983b47c6c6c278715b926a5b745 *data\sprite\악세사리\남\남_guardian_claus.spr
 0875cf698c64d53c67aa3c68dad55257 *data\sprite\악세사리\남\남_guardian_helm.act
 59b98bede17fc65c9adf7c085722cd92 *data\sprite\악세사리\남\남_guardian_helm.spr
 c0f4bdb7b8a5e1f5e42a2deb6dba9ea1 *data\sprite\악세사리\남\남_harvest_festa_hat.act
@@ -106690,6 +106698,8 @@ cc9d067bfed4c89ed2d12e0a726497e3 *data\sprite\악세사리\여\여_gothic_pumpkin_head
 046eb826cbecac07b8b9b6be40dc0f11 *data\sprite\악세사리\여\여_grace_magic_ring.spr
 cdc867c688910ba363ac9665ca6f2792 *data\sprite\악세사리\여\여_greater_dracul_horn.act
 d47f0cfe3cf166b6ca5d1d0ddaa69d29 *data\sprite\악세사리\여\여_greater_dracul_horn.spr
+c0152254be20bcebcfd3ac4b7a38eae1 *data\sprite\악세사리\여\여_guardian_claus.act
+2c1066f74f30ae6978d035401e7ad190 *data\sprite\악세사리\여\여_guardian_claus.spr
 9da1d70e538e9306db7463d3dfe5d43d *data\sprite\악세사리\여\여_guardian_helm.act
 3ad7059923fe13dc6919c11189d35cd7 *data\sprite\악세사리\여\여_guardian_helm.spr
 46947a42f12f2e5931f05e9aeedaf154 *data\sprite\악세사리\여\여_harvest_festa_hat.act
@@ -133146,6 +133156,7 @@ af3033cd022d933ce8e6d468fc30b45d *data\texture\유저인터페이스\collection\gray_wi
 b7b5ce1aefe1248756ecdad21f873238 *data\texture\유저인터페이스\collection\greater_dracul_horn.bmp
 015eecf742dc83ca96af0742e0e972a4 *data\texture\유저인터페이스\collection\green_bearopy.bmp
 aa3e2c345b861359c9f75e6a9b15c1be *data\texture\유저인터페이스\collection\green_box.bmp
+12044cbaabd225ee5d3f3de08376d386 *data\texture\유저인터페이스\collection\guardian_claus.bmp
 c8d4351b7f34338a284a14eef8cbd593 *data\texture\유저인터페이스\collection\guardian_helm.bmp
 7a6a68e96dfe5eeaa61ed53afcef9098 *data\texture\유저인터페이스\collection\gusli.bmp
 e161e232e541b3a0ee9716ff3ddb10bf *data\texture\유저인터페이스\collection\gviporingcoin.bmp
@@ -133578,6 +133589,7 @@ c6147348a7d86796f5eb5544097f5343 *data\texture\유저인터페이스\collection\rjc카츄
 ae9dfa41680c5abdbc8433fcaf207545 *data\texture\유저인터페이스\collection\rk은반지.bmp
 57ad51c734daf2e8800cc56e01d32cb7 *data\texture\유저인터페이스\collection\roast_memory.bmp
 adf6b7c925cab4cb94b66d23588977e7 *data\texture\유저인터페이스\collection\roost_of_skelion.bmp
+aca4951c0c7ca48a3b5c9f07fe77d79b *data\texture\유저인터페이스\collection\rotten_garden_knife.bmp
 250818b8bdd06bf7da7bee63efeda4d1 *data\texture\유저인터페이스\collection\royalguard_necklace.bmp
 663ebe637283c30a84c59dfc2d83d95b *data\texture\유저인터페이스\collection\royal_mantle.bmp
 bf0ceeeb7a0588e3b6d619c20349771b *data\texture\유저인터페이스\collection\royal_rabbit_crown.bmp
@@ -136989,6 +137001,7 @@ da8b190f0a740ebd56e880a8fdac4926 *data\texture\유저인터페이스\collection\전투교�
 f0b4e762ce5cb2cdedf7388537d57cf5 *data\texture\유저인터페이스\collection\전투교범풍선껌.bmp
 9c042b6fc3dc64a1955805adbd71f7d2 *data\texture\유저인터페이스\collection\전투휘장.bmp
 1ada46c16af9bd7fb0b962fc6505ca5a *data\texture\유저인터페이스\collection\전파안테나.bmp
+a774d4be25eb13879ebfe08e268e7a38 *data\texture\유저인터페이스\collection\절무의망토.bmp
 0b1583508d393f9478d475bccbfbfd2c *data\texture\유저인터페이스\collection\잘구운쿠키.bmp
 d0e79229becd156a7c99aeb8d1aa6989 *data\texture\유저인터페이스\collection\잘마른하얀줄기.bmp
 95a449ffe9eb1e4ff45ba23cd397a8fc *data\texture\유저인터페이스\collection\잘익은수박.bmp
@@ -141462,6 +141475,7 @@ fce0004f5d39e6dd6a4b0709fb20d352 *data\texture\유저인터페이스\item\gs_snakeeye.b
 9714269050c32d371c7ed1e14106e646 *data\texture\유저인터페이스\item\gs_spreadattack.bmp
 685a981b60de7c8845107e0834ecc7be *data\texture\유저인터페이스\item\gs_tracking.bmp
 d27a720ee403c0069a06de5bd016c2d9 *data\texture\유저인터페이스\item\gs_tripleaction.bmp
+9f5d987a60a60ce85939764fe04937a0 *data\texture\유저인터페이스\item\guardian_claus.bmp
 f1b2cae58d0d4afb30808e85f90e6def *data\texture\유저인터페이스\item\guardian_helm.bmp
 fedd6626a723a59562170c59beb2dbcb *data\texture\유저인터페이스\item\gusli.bmp
 c8485438552748417a990f5b060037ec *data\texture\유저인터페이스\item\gviporingcoin.bmp
@@ -142353,6 +142367,7 @@ a2e8706f96e70895789f24817dcb7a31 *data\texture\유저인터페이스\item\rl_r_trip.bmp
 fcd3cda27bcb6ece0537527001430a68 *data\texture\유저인터페이스\item\rl_s_storm.bmp
 6f495df916e07b3228ee64a0f81a4dd4 *data\texture\유저인터페이스\item\roast_memory.bmp
 6b63b64ef04a02ef23e44bb915ff0474 *data\texture\유저인터페이스\item\roost_of_skelion.bmp
+a4b9293db828f6893ef8fc15cb022d59 *data\texture\유저인터페이스\item\rotten_garden_knife.bmp
 61240b99dcd34c2bcaa4dbc108684491 *data\texture\유저인터페이스\item\royalguard_necklace.bmp
 23a4910186ad14b0f9ff85ac1ebf3a10 *data\texture\유저인터페이스\item\royal_mantle.bmp
 b35936062811acef773a306fac9c5c08 *data\texture\유저인터페이스\item\royal_rabbit_crown.bmp
@@ -146130,6 +146145,7 @@ fd27ae8abdf8cfd77bd49c3615b23b96 *data\texture\유저인터페이스\item\전투교범x3.bm
 1755323dd62f043708712f39b4aa7c59 *data\texture\유저인터페이스\item\전투교범풍선껌.bmp
 57c0101a5b7cfd37fb1a1ca878ff2cbf *data\texture\유저인터페이스\item\전투휘장.bmp
 67e8401e03f4f5eef0657b7026b4bbbb *data\texture\유저인터페이스\item\전파안테나.bmp
+419e40eaf0fff52d286346b10e8a5338 *data\texture\유저인터페이스\item\절무의망토.bmp
 80a01478fe1dd49ab43b1ce59e544a73 *data\texture\유저인터페이스\item\잘구운쿠키.bmp
 d1f5c29751ea477f5439ca5c4c4291e5 *data\texture\유저인터페이스\item\잘마른하얀줄기.bmp
 65414d73e900c12141323b0563e1ba04 *data\texture\유저인터페이스\item\잘익은수박.bmp

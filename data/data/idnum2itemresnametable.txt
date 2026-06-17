@@ -12950,3 +12950,8 @@
 470292#Cancer_Shoes#
 490076#Ring_Of_Nature#
 107353#열혈스크롤#
+
+5969#퀸안즈리벤지#
+20774#절무의망토#
+420112#Guardian_Claus#
+510031#Rotten_Garden_knife#
