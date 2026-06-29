@@ -5445,7 +5445,7 @@
 19206#Classic_Insurance_10_Box#
 19207#Classic_Token_of_Siegfried_10_Box#
 19208#Classic_Small_Life_Potion_10_Box#
-19209#Classic_Giant_Flywing_500_Box#
+19209#Nurse_Cap_IL#
 19001#Classic_Apple_of_Archer_2_Week_Rental_Box#
 19002#Classic_Asura_2_Week_Rental_Box#
 19003#Classic_Rudra_Bow_2_Week_Rental_Box#

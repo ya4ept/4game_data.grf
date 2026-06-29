@@ -1070,3 +1070,6 @@ odin_past.rsw#kuil kuno odin#
 1@hode.rsw#Hode Dungeon#
 2@hode.rsw#Hode Dungeon#
 3@hode.rsw#Hode Dungeon#
+
+1@annba.rsw#Han's Basement#
+1@anngar.rsw#Fan Club's Garden#

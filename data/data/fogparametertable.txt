@@ -1566,3 +1566,9 @@ prt_evt.rsw#
 0.9#
 0xffffffff#
 0.3#
+
+1@anngar.rsw#
+0.0#
+0.0#
+0xff601B00#
+0.0#

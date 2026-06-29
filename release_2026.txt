@@ -1,3 +1,35 @@
+Ragnarok Online Prime [EU]
+26.06.2026 13:43
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The Ancient Hero, Enchantment and Amistr Box sets arrived in launcher.
+— The Special Packs for Rebellion and Ninja arrived in launcher.
+— The Special Packs for Arch Bishop and Sura arrived in launcher.
+— The Happy 5th Birthday! Gift arrived in launcher.
+— The +50% ALL Experience Boost and Increased Drop Chance +50% event has started.
+— The 5 YEARS OF GLORY: The Fan Club event has started.
+
+Finished activities:
+— The HD refine sets left the launcher.
+— The The Packs with Blacksmith Blessing left the launcher.
+— The Refine Hats Sets left the launcher.
+— The OS headgears left the launcher.
+— The "Boosted Refinement Rates" event finished.
+
+Notes:
+5 YEARS OF GLORY: THE FAN CLUB
+
+Celebrate five years of tradition, grind, and battle glory! Hans' basement was just a test — the real festivities are waiting in the anniversary instance. A lively crowd of adventurers who know absolutely everything about your PvP fights, achievement marks, and in-game days are waiting in bewilderment just to get an autograph from their absolute favorite hero.
+
+To take the quest, meet the Disstressed stranger NPC at Prontera 125 125.
+
+Known issues:
+— There might be problems with incorrect display of days in the game, information about loot picked up from the ground, and items received via mail.
+
+More: https://eu.4gameforum.com/threads/696214/
+
+==============
 [PM] nine tail
 10.06.2026 11:13
 The maintenance is over, the server is online. Changelog:

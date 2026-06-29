@@ -2852,3 +2852,13 @@ iz_d05_i.rsw#iz_d05_i.rsw#
 8@thts.gat#8@thts.gat#
 8@thts.rsw#8@thts.rsw#
 유저인터페이스\map\8@thts.bmp#유저인터페이스\map\8@thts.bmp#
+
+1@annba.gnd#1@annba.gnd#
+1@annba.gat#1@annba.gat#
+1@annba.rsw#1@annba.rsw#
+유저인터페이스\map\1@annba.bmp#유저인터페이스\map\1@annba.bmp#
+
+1@anngar.gnd#1@anngar.gnd#
+1@anngar.gat#1@anngar.gat#
+1@anngar.rsw#1@anngar.rsw#
+유저인터페이스\map\1@anngar.bmp#유저인터페이스\map\1@anngar.bmp#

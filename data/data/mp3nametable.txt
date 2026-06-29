@@ -1220,3 +1220,6 @@ ein_dun03.rsw#bgm\\88.mp3#
 6@thts.rsw#bgm\\108.mp3#
 7@thts.rsw#bgm\\108.mp3#
 8@thts.rsw#bgm\\103.mp3#
+
+1@anngar.rsw#bgm\\117.mp3#
+1@annba.rsw#bgm\\123.mp3#
