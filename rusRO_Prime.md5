@@ -4,7 +4,7 @@ e58a20c9e7b342d5ca1f5ba75f1d1108 *binkw32.dll
 8651e6272e310d5c64d0c91ca975b029 *concrt140.dll
 aa0af6f7cc27b34497fbf44118a50a43 *cps.dll
 86e39e9161c3d930d93822f1563c280d *D3DX9_43.dll
-d256cc9540a86b9d8d6f94920fb63564 *data.grf
+184fc5d46a56681835216833eab9cd99 *data.grf
 aa0af6f7cc27b34497fbf44118a50a43 *defcps.dll
 4afc9b77be0625f7e8582c8be3156b61 *dinput.dll
 1e9a4ddefc22efa3647cf3e8b69fe2f6 *event.grf
@@ -64,7 +64,7 @@ d85b0ca97ecb6394abd13175302faf40 *AI\USER_AI\Util.lua
 e5353a45f26563243e276dcc4c57b8d3 *Frost\frost.sys
 bc14ab6c17f3d721af5dc0249928f0a7 *Frost\frostcollector.dll
 4b91769d28573ba2c3caa68254489ee5 *Frost\frostinfo.txt
-7dcf73bfab9041663e1e220587fe2c16 *Frost\frostInit.log
+95f638087beb68f84e12321e4345142c *Frost\frostInit.log
 cc76b17dad21813bb735dc46e8879173 *Frost\frostUpdater.dll
 b0524f8d8e1be74df6342addf9090313 *Frost\frostUpdater.exe
 0471123a81c6d503fcd81a5a7642a1f1 *Frost\frost_32.sys
@@ -73,7 +73,7 @@ e5353a45f26563243e276dcc4c57b8d3 *Frost\frost_64.sys
 362ad535bbd55a1fa99ac3fd02850516 *Frost\frost_redirip_info.txt
 92099ee88fbc565af5280a625fce26cf *Frost\gameShieldDll.dll
 8c9f02a3dccce796d5e7a530bab8a448 *Frost\launcher.dll
-3fa96945001f94316bd352bbd1efc2d3 *Frost\launcherUpdater.log
+44135c36c9feb5c82daffd13d0c6742e *Frost\launcherUpdater.log
 3e11a4c9263193d2ee10c766654774b4 *Frost\ro.exe
 0189657404450faf678f94bc222fcb50 *Frost\toros.ico
 44d1d1b14be23471cd71f3263115557a *Frost\toros.sys
@@ -99,7 +99,7 @@ fdadafbbc895089ec784577e598d605c *gameFolder\Ragexe.exe
 b559a9062259eac6c14ccebc5a399b16 *System\achievement_list.lub
 2cfffa34b07b08eb443963315daa5619 *System\CheckAttendance.lua
 b147542b9f570916c50479e6bfda9ec2 *System\CheckAttendance.lub
-25ba97a29b0d994980552ee38972015f *System\iteminfo.lub
+3f9de9d611d8e5aae4a5b39dc75b288e *System\iteminfo.lub
 6249558057a73412ea7bc225c2a0f943 *System\iteminfo_cleaned.lub
 61d3739a5e678dc81826091a4032b91c *System\iteminfo_sak.lub
 d5f8f24a073788e78d522d3f378bb03f *System\mapInfo.lub
