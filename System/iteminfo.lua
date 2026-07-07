@@ -304496,7 +304496,7 @@ tbl = {
 			" ",
 			"When ^0000FF[Anti Material Blast]^000000 reaches LV 5,100% of DEF of all race monsters is ignored. Also, using ^0000FF[God's Hammer]^000000 triggers ^0000FF[Rich's Coin]^000000 level 1.",
 			" ",
-			"For every level of ^0000FF[Vanishing Buster]^000000, its Fixed Cast Time -20% and its damage +60%.",
+			"For every level of ^0000FF[Vanishing Buster]^000000, its Fixed Cast Time -20% (capped at -100%) and its damage +60%.",
 			" ",
 			"For every level of ^0000FF[Fire Rain]^000000, physical damage against normal, boss and guardian monsters +4%, ^0000FF[Fire Rain]^000000 damage +50%.",
 			" ",

@@ -3287,7 +3287,7 @@ e6b4cadd01d1d4814557b7455765f9ac *data\luafiles514\lua files\ridingspreditinfo\r
 d2891bc29cd5610efebc515d2d6bebcd *data\luafiles514\lua files\skilleffectinfo\skilleffectinfo_f.lub
 a311359d28d2a235065ed65b19a79037 *data\luafiles514\lua files\skillinfoz\jobinheritlist.lub
 e2bd45e989a2052dbc98a33e8a083f6f *data\luafiles514\lua files\skillinfoz\skilldescript.lua
-cf50ace993294b6ee8d9a66e205097cb *data\luafiles514\lua files\skillinfoz\skilldescript.lub
+694301d9042f0ba15f4ebe14425d39f8 *data\luafiles514\lua files\skillinfoz\skilldescript.lub
 fc705aa87b944ea221283f0c6530ddae *data\luafiles514\lua files\skillinfoz\skillid.lua
 874444afc6b5d86fe674b28e418c3f2c *data\luafiles514\lua files\skillinfoz\skillid.lub
 9222c96fe3fdf35d5eec41d73f5ab558 *data\luafiles514\lua files\skillinfoz\skillinfolist.lua
@@ -89395,6 +89395,8 @@ d002bda5ba4e7222f4c8d59ddc5a03c8 *data\sprite\아이템\cg_longingfreedom.spr
 253095294924e923b8813923f18b5fd5 *data\sprite\아이템\cg_marionette.spr
 83dab646fba4066a5f0b763537e98d56 *data\sprite\아이템\cg_moonlit.act
 ebd666b4994d0b61cd8d5e921c61dc48 *data\sprite\아이템\cg_moonlit.spr
+3eaf4c97da8f60ca1bf05f94ca13cbf1 *data\sprite\아이템\cg_specialsinger.act
+d002bda5ba4e7222f4c8d59ddc5a03c8 *data\sprite\아이템\cg_specialsinger.spr
 3eaf4c97da8f60ca1bf05f94ca13cbf1 *data\sprite\아이템\cg_tarotcard.act
 a92c8717a530105f078df29bd0ec187e *data\sprite\아이템\cg_tarotcard.spr
 642e67cef67e5516523e86051ff88baa *data\sprite\아이템\chain_mail_il.act
@@ -131032,39 +131034,39 @@ dee8312e718c0f992f67e97c613e79c3 *data\texture\유저인터페이스\chk_saveon.bmp
 acaffb43efcd0a15c4702bc0d8559850 *data\texture\유저인터페이스\crack_of_dimension1.jpg
 2bfb5e53d262bf05fbeef017b21ffd59 *data\texture\유저인터페이스\disable_card_slot.bmp
 361f1e7c22020e76ec73fa03f98191ca *data\texture\유저인터페이스\empty_card_slot.bmp
-a10508c4ecf2503caf92d13bd669b8a3 *data\texture\유저인터페이스\esc_001a.bmp
-4102eb5381bc0399585b14a1a3a6dd41 *data\texture\유저인터페이스\esc_001b.bmp
-260d96c2afe81f918d6112d26fe6dd9b *data\texture\유저인터페이스\esc_001c.bmp
-c4783d0d96103f3d757824c4f3f3af4a *data\texture\유저인터페이스\esc_01a.bmp
-05d0d8e824691672ea3269a4b080e268 *data\texture\유저인터페이스\esc_01b.bmp
-5dacf2286b8ce413fea1610a3d8ed430 *data\texture\유저인터페이스\esc_01c.bmp
-56a50c5a0cc91e8eb5b4145bf113e71b *data\texture\유저인터페이스\esc_02a.bmp
-847079aa470f5513760764717dc6195c *data\texture\유저인터페이스\esc_02b.bmp
-c2a83eb452392863023f244d451332ef *data\texture\유저인터페이스\esc_02c.bmp
-e5a435b86aa9a151aadc653bd03fff70 *data\texture\유저인터페이스\esc_03a.bmp
-b11808021e92163d8560c69e0323049e *data\texture\유저인터페이스\esc_03b.bmp
-d0f927e9676725109c3f79a515540237 *data\texture\유저인터페이스\esc_03c.bmp
-6b480e771bebca2fdf849b22222be042 *data\texture\유저인터페이스\esc_04a.bmp
-8c175f7c9513a0242d021b482c142f47 *data\texture\유저인터페이스\esc_04b.bmp
-745256849c3a65eb60ad983623a7d2de *data\texture\유저인터페이스\esc_04c.bmp
-96b965f6d065b771dfe9e61828be8007 *data\texture\유저인터페이스\esc_05a.bmp
-ec6e15b1724baa99e3bd8256ea83b94e *data\texture\유저인터페이스\esc_05b.bmp
-0b3815b4459f9bcd558e8d0360b73ad5 *data\texture\유저인터페이스\esc_05c.bmp
+4f580e5b522ff535be12f573308c4ef0 *data\texture\유저인터페이스\esc_001a.bmp
+dfb307903a93cd99822c86e979b84607 *data\texture\유저인터페이스\esc_001b.bmp
+daf9f7accf53f1bbd033008550d08c7b *data\texture\유저인터페이스\esc_001c.bmp
+febd53f36c646cdf8e4933570b48b8c9 *data\texture\유저인터페이스\esc_01a.bmp
+c6d44e3fd4bd7998f0fff93333e3862b *data\texture\유저인터페이스\esc_01b.bmp
+d592d14d5a7480517d46792167c61c7b *data\texture\유저인터페이스\esc_01c.bmp
+f89992771cb1a9ae45a507f1dfe1422c *data\texture\유저인터페이스\esc_02a.bmp
+20457ae50e01ef70b959af429601f5ef *data\texture\유저인터페이스\esc_02b.bmp
+5c7802d0df79eb2b2934354b26f1e8e7 *data\texture\유저인터페이스\esc_02c.bmp
+f981503a15cb175b405eaadacabb0321 *data\texture\유저인터페이스\esc_03a.bmp
+8ffe0084aec535fc70b8080b6d252031 *data\texture\유저인터페이스\esc_03b.bmp
+32cc58544db94ca1a2283847720452cb *data\texture\유저인터페이스\esc_03c.bmp
+ff81e83b7746dcc41a21376be86d46d6 *data\texture\유저인터페이스\esc_04a.bmp
+3522350b86603bacbfc18564e44c8d08 *data\texture\유저인터페이스\esc_04b.bmp
+87d209158661cdf10c4489488841c369 *data\texture\유저인터페이스\esc_04c.bmp
+5847e8c84f80872623ba352fe1ca253e *data\texture\유저인터페이스\esc_05a.bmp
+e4163c80442abdd4a03a2428a7231ed4 *data\texture\유저인터페이스\esc_05b.bmp
+5a7c89b25b27fd2a89cdb06e98446d5e *data\texture\유저인터페이스\esc_05c.bmp
 38688334d6080a3cc35b2ddb1f75b7ee *data\texture\유저인터페이스\esc_06a.bmp
 37dacd059ea56e5dad805db6d466b08f *data\texture\유저인터페이스\esc_06b.bmp
 cc37a6d6bf16495319939cfb049d3851 *data\texture\유저인터페이스\esc_06c.bmp
 03d1d1d79a50d660316676ce7236f38c *data\texture\유저인터페이스\esc_07a.bmp
 e7d52ec9a6b59dff7edeac749b987430 *data\texture\유저인터페이스\esc_07b.bmp
 5dbf7f1d9291476d84be4d20c015d5ed *data\texture\유저인터페이스\esc_07c.bmp
-352588a4a18f76d49db415d95b82529b *data\texture\유저인터페이스\esc_08a.bmp
-70b39bf6fbe92150786b5b623587a321 *data\texture\유저인터페이스\esc_08b.bmp
-076fdf06870a5305ffe1bd75c80c4bac *data\texture\유저인터페이스\esc_08c.bmp
-e5a435b86aa9a151aadc653bd03fff70 *data\texture\유저인터페이스\esc_09a.bmp
-b11808021e92163d8560c69e0323049e *data\texture\유저인터페이스\esc_09b.bmp
-d0f927e9676725109c3f79a515540237 *data\texture\유저인터페이스\esc_09c.bmp
-6b480e771bebca2fdf849b22222be042 *data\texture\유저인터페이스\esc_10a.bmp
-8c175f7c9513a0242d021b482c142f47 *data\texture\유저인터페이스\esc_10b.bmp
-745256849c3a65eb60ad983623a7d2de *data\texture\유저인터페이스\esc_10c.bmp
+db0d830da8feb73ad5dda54207efe276 *data\texture\유저인터페이스\esc_08a.bmp
+13949734a8a2e073a203a7aa8256b7a9 *data\texture\유저인터페이스\esc_08b.bmp
+e5125d09f91ec9e102c54268479867b6 *data\texture\유저인터페이스\esc_08c.bmp
+f981503a15cb175b405eaadacabb0321 *data\texture\유저인터페이스\esc_09a.bmp
+8ffe0084aec535fc70b8080b6d252031 *data\texture\유저인터페이스\esc_09b.bmp
+32cc58544db94ca1a2283847720452cb *data\texture\유저인터페이스\esc_09c.bmp
+ff81e83b7746dcc41a21376be86d46d6 *data\texture\유저인터페이스\esc_10a.bmp
+3522350b86603bacbfc18564e44c8d08 *data\texture\유저인터페이스\esc_10b.bmp
+87d209158661cdf10c4489488841c369 *data\texture\유저인터페이스\esc_10c.bmp
 0b4c82935437e93e09df71bbc87767c8 *data\texture\유저인터페이스\esrb.bmp
 655f5e7e4421a069b5e7e2cc70120e6a *data\texture\유저인터페이스\etc_empty.bmp
 26e2a87bd22ef286cfd3362ada451620 *data\texture\유저인터페이스\exchange_bg2.bmp
@@ -141676,6 +141678,7 @@ fce1a7350c5531eafeb9a664fb5d8d26 *data\texture\유저인터페이스\item\cavaliermaste
 89554f9715f1ffa6ef6f506c7e3ec16b *data\texture\유저인터페이스\item\cg_longingfreedom.bmp
 7d1748d67e25ad61778df2e4d9e01353 *data\texture\유저인터페이스\item\cg_marionette.bmp
 ce443887c13f03eaf7a85fb880f4c98f *data\texture\유저인터페이스\item\cg_moonlit.bmp
+89554f9715f1ffa6ef6f506c7e3ec16b *data\texture\유저인터페이스\item\cg_specialsinger.bmp
 ed3ad6d6c78e93a19b98dec95e968fb4 *data\texture\유저인터페이스\item\cg_tarotcard.bmp
 39fe856c64e8eed30fa20119dd36f7bf *data\texture\유저인터페이스\item\chain_mail_il.bmp
 16503dfbd71a0aa060564cc7f0de9a39 *data\texture\유저인터페이스\item\charcoal_stove.bmp
