@@ -174,7 +174,19 @@ HatEFID = {
 	HAT_EF_C_Melody_Wing = 173,
 	HAT_EF_C_Spot_Light = 174,
 	HAT_EF_C_Astra_Blessing = 175,
-	HAT_EF_C_Dark_Lord_Cloak = 176
+	HAT_EF_C_Dark_Lord_Cloak = 176,
+	HAT_EF_SUBJECT_AURA_NAVY = 177,
+	HAT_EF_20th_Scarf_J = 178,
+	HAT_EF_Ghost_Fire = 179,
+	HAT_EF_SERPENT_SHADOW = 180,
+	HAT_EF_C_1st_Evt_Hat_MSP = 181,
+	HAT_EF_C_1st_Evt_Balloon_MSP = 182,
+	HAT_EF_rabbit_aura = 183,
+	HAT_EF_alice_tea = 184,
+	HAT_EF_efst_C_20th_Anniversary_Hat = 185,
+	HAT_EF_c_sakura_fubuki = 186,
+	HAT_EF_C_Dark_Lord_Manteau = 187,
+	HAT_EF_decoration_of_music = 188
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -859,6 +871,78 @@ hatEffectTable = {
 		isIgnoreRiding = true,
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_SUBJECT_AURA_NAVY] = { hatEffectID = 2301 },
+	[HatEFID.HAT_EF_20th_Scarf_J] = {
+		resourceFileName = "efst_20th_Scarf_J\\singa.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_Ghost_Fire] = {
+		resourceFileName = "Efst_Ghost_Fire\\strangelights2.str",
+		hatEffectPos = -4,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_SERPENT_SHADOW] = { hatEffectID = 2394 },
+	[HatEFID.HAT_EF_C_1st_Evt_Hat_MSP] = {
+		resourceFileName = "efst_C_1st_Evt_Hat_MSP\\firework.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_1st_Evt_Balloon_MSP] = {
+		resourceFileName = "efst_C_1st_Evt_Balloon_MSP\\ggh1st.str",
+		hatEffectPos = -13,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_rabbit_aura] = {
+		resourceFileName = "efst_rabbit_aura\\toto.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_alice_tea] = {
+		resourceFileName = "efst_alice_tea\\Alice02.str",
+		hatEffectPos = -7,
+		hatEffectPosX = 0.5,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_c_sakura_fubuki] = {
+		resourceFileName = "efst_c_sakura_fubuki\\sakura_fubuki.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_C_Dark_Lord_Manteau] = {
+		resourceFileName = "C_Dark_Lord_Manteau\\darklordcloak02.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	},
+	[HatEFID.HAT_EF_decoration_of_music] = {
+		resourceFileName = "efst_decoration_of_music\\note_1.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
 	}
 }
 effectHatItemTable = {
@@ -906,7 +990,8 @@ effectHatItemTable = {
 	480131,
 	31957,
 	480168,
-	410120
+	410120,
+	20621
 }
 
 -- Function #0

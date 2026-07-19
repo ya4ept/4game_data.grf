@@ -12966,3 +12966,10 @@
 400052#요르문간드투구#
 490413#쌍룡의반지#
 107513#화염의빛#
+
+20621#C_Dark_Lord_Manteau#
+420312#Sparkler_Stick#
+420313#일본술잔#
+420314#C_Friendly_White_Fox#
+480188#Valkyrie_Curse_blight#
+
