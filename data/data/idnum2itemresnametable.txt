@@ -12985,3 +12985,13 @@
 420313#¿œ∫ªº˙¿‹#
 420314#C_Friendly_White_Fox#
 480188#Valkyrie_Curse_blight#
+
+400203#Wolf_Officer_Hat#
+450176#Supplement_Part_Wing		#
+450209#Imp_Powered_Suit#
+450210#Fluffy_Shark_Pajama#
+470008#Fluffy_DandelionShoes_J#
+480075#Baby_Boar_Bib#
+490038#Sixth_Sense_Ring#
+490096#Ring_Of_Hunter#
+490098#Ring_of_Pazuzu#
