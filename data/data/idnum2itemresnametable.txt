@@ -12987,7 +12987,7 @@
 480188#Valkyrie_Curse_blight#
 
 400203#Wolf_Officer_Hat#
-450176#Supplement_Part_Wing		#
+450176#Supplement_Part_Wing#
 450209#Imp_Powered_Suit#
 450210#Fluffy_Shark_Pajama#
 470008#Fluffy_DandelionShoes_J#
