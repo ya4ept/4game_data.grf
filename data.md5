@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-774af967bcf6fb363d8e3f0fcd6aa696 *data\buyingstoreitemlist.txt
+1b0ceda97af45bf3e3645e00e23a56aa *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 fbd8ab26a8c83ed1f9a165004eb2f454 *data\cardpostfixnametable.txt
 5a7d19aaa643bfc82e6b3cd482172aad *data\cardprefixnametable.txt
@@ -87501,6 +87501,8 @@ c1adbf3285ce3a902e80757317206506 *data\sprite\아이템\auto_orb_summoner.act
 5b20c2cfaa631f21e90b64218f6a0025 *data\sprite\아이템\auto_orb_thief.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\autumnal_flavor.act
 cab9bde7c40afc14e91a6528f27f98cb *data\sprite\아이템\autumnal_flavor.spr
+642e67cef67e5516523e86051ff88baa *data\sprite\아이템\baby_boar_bib.act
+9454e1026b315bd614635c152fc5cc22 *data\sprite\아이템\baby_boar_bib.spr
 1f82b5b82d61e448759f2b6f3052b201 *data\sprite\아이템\backside_ribbon_bell.act
 92837dd35d851c9137361a0db19c70bc *data\sprite\아이템\backside_ribbon_bell.spr
 dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\balistar_il.act
@@ -89015,10 +89017,14 @@ dd1b4f2d5ba28af760129e630ec7a65e *data\sprite\아이템\flora_cookie.act
 f688534bfd637a891a84683f99b1de26 *data\sprite\아이템\flowery_vision_th.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\fluffywing.act
 d6584b0e5dfb03bfac87d52cd98cf086 *data\sprite\아이템\fluffywing.spr
+1995d1ca164b87791734acefd581c1fe *data\sprite\아이템\fluffy_dandelionshoes_j.act
+5ccef83b34e54dcc9423bd6f5953bb07 *data\sprite\아이템\fluffy_dandelionshoes_j.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\fluffy_fishshoes.act
 4b4d9ab316ceee686fd7ab9e0486b45d *data\sprite\아이템\fluffy_fishshoes.spr
 dbb4b52206068940efb8aa20c467975a *data\sprite\아이템\fluffy_lovely_fox.act
 dd9a95dc0b9f5473855539b3e29aafd1 *data\sprite\아이템\fluffy_lovely_fox.spr
+76375d62345f36a7b3930bca0a1cafe7 *data\sprite\아이템\fluffy_shark_pajama.act
+eaf591bafd29dfefecd0e1d6305bba72 *data\sprite\아이템\fluffy_shark_pajama.spr
 51805fed50ec21d6300a722fee3cbf3d *data\sprite\아이템\fortrage.act
 4d7a64042a4f655a31772d1138979998 *data\sprite\아이템\fortrage.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\fortunetellinsealed.act
@@ -131684,6 +131690,7 @@ b5b52321fd1ff0687697b61384c6a1bc *data\texture\유저인터페이스\collection\auto_or
 9e71e01f767c68c6dd6541c848b5a7a8 *data\texture\유저인터페이스\collection\auto_orb_swordman.bmp
 e73dc1e95c1db2d3d13f0b0b1de4b963 *data\texture\유저인터페이스\collection\auto_orb_thief.bmp
 c50d0d715960b4b39b0f01049da5d8c0 *data\texture\유저인터페이스\collection\autumnal_flavor.bmp
+e4a6dea1ec0bdfdba32e76bbda7b3010 *data\texture\유저인터페이스\collection\baby_boar_bib.bmp
 f4651707d52d8536b7b74e56fe82db44 *data\texture\유저인터페이스\collection\backside_ribbon_bell.bmp
 669bbed6ac7066516d845c81a34c13a5 *data\texture\유저인터페이스\collection\balistar_il.bmp
 0cedbfea437c57e35b31544191c10b3b *data\texture\유저인터페이스\collection\balloon_wing.bmp
@@ -132364,8 +132371,10 @@ a368629cb4afd3968be5e5f778ad42fa *data\texture\유저인터페이스\collection\fenrir_
 999e6df8dbdf7f199884bed444f7e505 *data\texture\유저인터페이스\collection\flora_cookie.bmp
 5c91b4e18c2d33787ba906a57e6ccbf5 *data\texture\유저인터페이스\collection\flowery_vision_th.bmp
 871b268929ce7a416eb95fc227ab24c2 *data\texture\유저인터페이스\collection\fluffywing.bmp
+d5b6e4495820cea355d8f2b1d9cec417 *data\texture\유저인터페이스\collection\fluffy_dandelionshoes_j.bmp
 40bbd57269e00da8747fd72784fac590 *data\texture\유저인터페이스\collection\fluffy_fishshoes.bmp
 7e1e6768352ead2afd6d5bb5fad81921 *data\texture\유저인터페이스\collection\fluffy_lovely_fox.bmp
+2de8daad3de2c6e8c81dd3e721b0765c *data\texture\유저인터페이스\collection\fluffy_shark_pajama.bmp
 07e97a7ad9b6824708f65d895f76e717 *data\texture\유저인터페이스\collection\fortrage.bmp
 2aaaede031f8e622099e6a94f69abace *data\texture\유저인터페이스\collection\fortunetellinsealed.bmp
 4ff4d0b9d98261d767c4fe0ee5c824fe *data\texture\유저인터페이스\collection\fotia_shield.bmp
@@ -139588,6 +139597,7 @@ ae314e80b886dd5d4c211be343c6aac2 *data\texture\유저인터페이스\item\auto_orb_prie
 2350b9e59777e08fc7a90ce3772e28a9 *data\texture\유저인터페이스\item\auto_orb_swordman.bmp
 01ce6968968d2d88bdeb15cbfc5baf9d *data\texture\유저인터페이스\item\auto_orb_thief.bmp
 5bee674c09d9895195881733e3cda81d *data\texture\유저인터페이스\item\autumnal_flavor.bmp
+9e9595cef97113ad167aedf4cdfcf1ca *data\texture\유저인터페이스\item\baby_boar_bib.bmp
 3d4ced21c904e0797e9e7735f9340f26 *data\texture\유저인터페이스\item\backside_ribbon_bell.bmp
 4f1eaa2bfadce0edbce73975deadb54f *data\texture\유저인터페이스\item\balistar_il.bmp
 802b78f578d4f1a68e2d2fb5b167c63c *data\texture\유저인터페이스\item\balloon_wing.bmp
@@ -140357,8 +140367,10 @@ f1e2aa33d22d777dae171952b3504c2c *data\texture\유저인터페이스\item\feruscoin.bmp
 1bc9f0b73377db2369e64988fd288e65 *data\texture\유저인터페이스\item\flora_cookie.bmp
 60325afb1eb75938c732580f36d88654 *data\texture\유저인터페이스\item\flowery_vision_th.bmp
 e9372e7288b0d5cc64dbffe970e817c2 *data\texture\유저인터페이스\item\fluffywing.bmp
+0c7da6b5ee7e829472a787e36a798353 *data\texture\유저인터페이스\item\fluffy_dandelionshoes_j.bmp
 16da8c574ba35b00ae22710a39af3f85 *data\texture\유저인터페이스\item\fluffy_fishshoes.bmp
 838bef54ffed878c1ecce9b136c3a3f8 *data\texture\유저인터페이스\item\fluffy_lovely_fox.bmp
+c9994499e68af2198b23bb421e71ec2a *data\texture\유저인터페이스\item\fluffy_shark_pajama.bmp
 8ecff514103a4b79b5913ba8fec672c8 *data\texture\유저인터페이스\item\fortrage.bmp
 4824903011de1b7983a7681eaaff891b *data\texture\유저인터페이스\item\fortunetellinsealed.bmp
 f32ac53297128f71abdc569595e4fac2 *data\texture\유저인터페이스\item\fotia_shield.bmp
