@@ -12995,3 +12995,12 @@
 490038#Sixth_Sense_Ring#
 490096#Ring_Of_Hunter#
 490098#Ring_of_Pazuzu#
+
+410348#Phalanx#
+420321#C_Neon_Half_Long#
+460003#Feather_Shield#
+470128#Pegasus_Shoes#
+480045#Guardian_Soul#
+480272#C_Angelic_Long_RBD#
+480344#C_HDP_Scythe#
+107713#Spider_Scroll_TW#
