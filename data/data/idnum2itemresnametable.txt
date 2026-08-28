@@ -13004,3 +13004,9 @@
 480272#C_Angelic_Long_RBD#
 480344#C_HDP_Scythe#
 107713#Spider_Scroll_TW#
+
+410289#C_Baby_Gloom#
+420105#Cons_Of_Darkness#
+420310#얼어붙은땅의장미#
+420311#BearBalloon#
+420315#C_Ghost_Bat_TW#

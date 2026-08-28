@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-b753a747067b03908b3fed6ea442f036 *data\buyingstoreitemlist.txt
+faee3ac8a091b7f0525a0c7d93c3bb40 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 fbd8ab26a8c83ed1f9a165004eb2f454 *data\cardpostfixnametable.txt
 5a7d19aaa643bfc82e6b3cd482172aad *data\cardprefixnametable.txt
@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 4a8ab920c9d3ed52c2fcc87741ec3159 *data\idnum2itemdisplaynametable.txt
-4a36b5c9d3add6536ba8d3c358ab68b3 *data\idnum2itemresnametable.txt
+4e333af35926dbb0ce63f205bafb4f6d *data\idnum2itemresnametable.txt
 66b89bc7dbd9b427bcd99f33f74eca0d *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 08406309f2c9905a31d702610deab08a *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 fd765c6a2aa01f1cc172d6e25f296ccb *data\num2itemdisplaynametable.txt
-abbbf1659cc19eeb5f668b635d7227f2 *data\num2itemresnametable.txt
+99e6f9d9e9c4e66cd7778bdac5a9cf18 *data\num2itemresnametable.txt
 1e9fa56d9543cfebc4b83566a42cac4b *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -88735,6 +88735,8 @@ ec87e7e2a1f1ae44ea5713efbe5fdd65 *data\sprite\아이템\c_astrologer_t_hat.act
 02fd4a8daa3409e544b2426715750676 *data\sprite\아이템\c_astrologer_t_hat.spr
 ae1f7bf26bd555dae7eeaecbba8ea5c5 *data\sprite\아이템\c_avenger.act
 3f8eb1e1b123e2c2820f350f0b3e9569 *data\sprite\아이템\c_avenger.spr
+cc534b87fd283ffbf901aa5f7edd03cc *data\sprite\아이템\c_baby_gloom.act
+d245535a8480c3ed266b8712feb3d118 *data\sprite\아이템\c_baby_gloom.spr
 23795dbc2b13e22e651ab864bb66d687 *data\sprite\아이템\c_baby_leopard_cat.act
 3a4ade166b580331636c1dc7632c5f82 *data\sprite\아이템\c_baby_leopard_cat.spr
 e3a380f4d22e6603df9a0766c4c21856 *data\sprite\아이템\c_baby_panda.act
@@ -88927,6 +88929,8 @@ b3259d44918bc69fc40b6624cf06486a *data\sprite\아이템\c_full_bloomcherry_tree.act
 d7642d3e763983f696471061c048ad39 *data\sprite\아이템\c_full_bloomcherry_tree.spr
 038c4df02ee8a73834793f6ef5263c3b *data\sprite\아이템\c_geisha_make.act
 ba6317e6fa1cb6ca12fe8268fed91004 *data\sprite\아이템\c_geisha_make.spr
+1ca428e6cb8a4443f136eb87de15a18a *data\sprite\아이템\c_ghost_bat_tw.act
+e848aca5946a4e8432427330561a7c00 *data\sprite\아이템\c_ghost_bat_tw.spr
 0ad6475cfd5864b49bd54a58a9237672 *data\sprite\아이템\c_ghost_effect.act
 4cae9c954fd9a32f896284415ba3887e *data\sprite\아이템\c_ghost_effect.spr
 552819f09a1407b5ad468f345ae0957b *data\sprite\아이템\c_ghost_holiday.act
@@ -102570,6 +102574,8 @@ a8b8d87121ec1f3bde72a012618999b3 *data\sprite\악세사리\남\남_c_angola_intention.
 356184260a62bbf6f87f6086de479705 *data\sprite\악세사리\남\남_c_astrologer_t_hat.spr
 3cd086d3540b26b05521e810cfa535d9 *data\sprite\악세사리\남\남_c_avenger.act
 1b93ea4a187c1314b3e76b64c616d14e *data\sprite\악세사리\남\남_c_avenger.spr
+5da6d8415cef5cd921b658393794e977 *data\sprite\악세사리\남\남_c_baby_gloom.act
+8b0670bf1cc66639418ee547d018c800 *data\sprite\악세사리\남\남_c_baby_gloom.spr
 bb6d0b32d992f19cbbc7f2a79e90583d *data\sprite\악세사리\남\남_c_baby_leopard_cat.act
 252a51d3dd2e3e4ae774ccda373924ac *data\sprite\악세사리\남\남_c_baby_leopard_cat.spr
 42e618b0526e0525d88a51eb83dde404 *data\sprite\악세사리\남\남_c_baby_panda.act
@@ -102704,6 +102710,8 @@ ed9125900f56540c89e784e19cf79ebf *data\sprite\악세사리\남\남_c_frog_hood.act
 9510800dcec83712b7dedb38ea65c00f *data\sprite\악세사리\남\남_c_frog_hood.spr
 ffd5104603710c89c7830be1b8002dd5 *data\sprite\악세사리\남\남_c_geisha_make.act
 43d2d76b74d61d876bb5a8b44c706987 *data\sprite\악세사리\남\남_c_geisha_make.spr
+bcc094946ea42da8d6d994fe2ba7d8f3 *data\sprite\악세사리\남\남_c_ghost_bat_tw.act
+4daf8d0e7c6d662e629c7db349619f0d *data\sprite\악세사리\남\남_c_ghost_bat_tw.spr
 18cdcf59b999ed88004bb2f400d6ff9e *data\sprite\악세사리\남\남_c_ghost_holiday.act
 0ab47f635fc986e3046c86d46e1a506c *data\sprite\악세사리\남\남_c_ghost_holiday.spr
 d6a8e044460281b15b95927da7de6988 *data\sprite\악세사리\남\남_c_glory_symbol_tw.act
@@ -105992,6 +106000,8 @@ cf1ef7ad5d654fbe28950625fa3a8f2e *data\sprite\악세사리\남\여_여친구함모자.act
 f5b1cd60247dd162eb42e61f979fb7a4 *data\sprite\악세사리\남_doram\남_c_alchemist_square_bag.spr
 a796af56eedd7bbd1f877b01e3a1413a *data\sprite\악세사리\남_doram\남_c_angelic_long_rbd.act
 7239bdf3e63421125c56600ab812b3cc *data\sprite\악세사리\남_doram\남_c_angelic_long_rbd.spr
+67560d018c1f9cb15f34f6d1fb8be75a *data\sprite\악세사리\남_doram\남_c_baby_gloom.act
+8b0670bf1cc66639418ee547d018c800 *data\sprite\악세사리\남_doram\남_c_baby_gloom.spr
 7ac833689e482af5dc669ad715ffda26 *data\sprite\악세사리\남_doram\남_c_baby_panda.act
 9b45e83a69e3b4c8fa6346d4fbba6f41 *data\sprite\악세사리\남_doram\남_c_baby_panda.spr
 6ba5a56d01ec7d6a2e5a33e9ecf910c1 *data\sprite\악세사리\남_doram\남_c_baby_penguin.act
@@ -106190,6 +106200,8 @@ a8b8d87121ec1f3bde72a012618999b3 *data\sprite\악세사리\여\여_c_angola_intention.
 356184260a62bbf6f87f6086de479705 *data\sprite\악세사리\여\여_c_astrologer_t_hat.spr
 974cf6fb8b2b9389bfd11d6181721289 *data\sprite\악세사리\여\여_c_avenger.act
 5a980ef9b1af5da840c64785040839a8 *data\sprite\악세사리\여\여_c_avenger.spr
+cf968a06a3d14fab054b2db5ca02b23b *data\sprite\악세사리\여\여_c_baby_gloom.act
+8b0670bf1cc66639418ee547d018c800 *data\sprite\악세사리\여\여_c_baby_gloom.spr
 867390fac1615ed6e3d51062e3e28421 *data\sprite\악세사리\여\여_c_baby_leopard_cat.act
 c26fdd78d2ed7b6d59d24c4287faf44b *data\sprite\악세사리\여\여_c_baby_leopard_cat.spr
 7f326a5ea33409030aba0cede15a7d87 *data\sprite\악세사리\여\여_c_baby_panda.act
@@ -106324,6 +106336,8 @@ f559325559deffa13cf9596e5ed39742 *data\sprite\악세사리\여\여_c_frill_collar.spr
 9510800dcec83712b7dedb38ea65c00f *data\sprite\악세사리\여\여_c_frog_hood.spr
 3dfdba786db6f5b74b74b2735c9da5e4 *data\sprite\악세사리\여\여_c_geisha_make.act
 43d2d76b74d61d876bb5a8b44c706987 *data\sprite\악세사리\여\여_c_geisha_make.spr
+b71449044d2ab94ff8d0eb6454d19192 *data\sprite\악세사리\여\여_c_ghost_bat_tw.act
+4daf8d0e7c6d662e629c7db349619f0d *data\sprite\악세사리\여\여_c_ghost_bat_tw.spr
 7a11917881f464af2c7f8982121cf4a5 *data\sprite\악세사리\여\여_c_ghost_holiday.act
 0ab47f635fc986e3046c86d46e1a506c *data\sprite\악세사리\여\여_c_ghost_holiday.spr
 04d2d977cb97243229373642fe3ea785 *data\sprite\악세사리\여\여_c_glory_symbol_tw.act
@@ -109608,6 +109622,8 @@ d933a493a38362f7495b2f3c532f7ccc *data\sprite\악세사리\여\여_발할라아이돌.spr
 f5b1cd60247dd162eb42e61f979fb7a4 *data\sprite\악세사리\여_doram\여_c_alchemist_square_bag.spr
 0c91a3b578aa2921e93b7fe01a51dbad *data\sprite\악세사리\여_doram\여_c_angelic_long_rbd.act
 7239bdf3e63421125c56600ab812b3cc *data\sprite\악세사리\여_doram\여_c_angelic_long_rbd.spr
+17318aa9a5d47e34febb912692a7926d *data\sprite\악세사리\여_doram\여_c_baby_gloom.act
+8b0670bf1cc66639418ee547d018c800 *data\sprite\악세사리\여_doram\여_c_baby_gloom.spr
 22da726f93f43239bdaa580caa7d2cf6 *data\sprite\악세사리\여_doram\여_c_baby_panda.act
 9b45e83a69e3b4c8fa6346d4fbba6f41 *data\sprite\악세사리\여_doram\여_c_baby_panda.spr
 6aa3f7141ea85e58c5b0a261bc53bbef *data\sprite\악세사리\여_doram\여_c_baby_penguin.act
@@ -132617,6 +132633,7 @@ c37db7781b3d71ebfa635bb066c51290 *data\texture\유저인터페이스\collection\c_alche
 fd3d6943e73042f91ff80d60cf1d0e2b *data\texture\유저인터페이스\collection\c_astra_blessing.bmp
 08b94c09295ededa671c752eceec7ee4 *data\texture\유저인터페이스\collection\c_astrologer_t_hat.bmp
 07d8c8aa859f668a66aa898021ce5f36 *data\texture\유저인터페이스\collection\c_avenger.bmp
+dd75c0400640b6df8eacd38eb2cc81e4 *data\texture\유저인터페이스\collection\c_baby_gloom.bmp
 0ffb2c5f98403e1f9bc2814126ad3564 *data\texture\유저인터페이스\collection\c_baby_leopard_cat.bmp
 36ba49c2150813505aeebc4738d387bc *data\texture\유저인터페이스\collection\c_baby_panda.bmp
 e30a73c725d002cc5ed7bc9eb2309b11 *data\texture\유저인터페이스\collection\c_baby_penguin.bmp
@@ -132712,6 +132729,7 @@ c682e99f5f62e2a0eb85ed5ab5d4a04d *data\texture\유저인터페이스\collection\c_frill
 851a6e9ce825945fc601a81b4564737a *data\texture\유저인터페이스\collection\c_frog_hood.bmp
 4d99bd9db0ad73c43e4d0cedfc31bd44 *data\texture\유저인터페이스\collection\c_full_bloomcherry_tree.bmp
 84962c64409fa731ab93feeacb92a7d2 *data\texture\유저인터페이스\collection\c_geisha_make.bmp
+633d53999bdab1994dd40399806b546d *data\texture\유저인터페이스\collection\c_ghost_bat_tw.bmp
 6592f3b407d338b795cb1d8d08dfa4a9 *data\texture\유저인터페이스\collection\c_ghost_effect.bmp
 5cfb127968ffe17cf7147d7e3dadf310 *data\texture\유저인터페이스\collection\c_ghost_holiday.bmp
 aea87829c0e2bd89a43f17857245c267 *data\texture\유저인터페이스\collection\c_giantcatbag_jp_bl.bmp
@@ -140370,7 +140388,7 @@ ca6066a26fde207cf5d95d04d2f087f7 *data\texture\유저인터페이스\item\bd_ringnibelu
 155960db046e6299ef80af4ecd3ea76f *data\texture\유저인터페이스\item\bd_siegfried.bmp
 86e96dd9dc73b03d038475c8d349eb95 *data\texture\유저인터페이스\item\beachball.bmp
 c6e4ebf51262371e174773c3503544f0 *data\texture\유저인터페이스\item\beam_claymore_os.bmp
-9999b3db7a4e91d01b5b308f5ecae20d *data\texture\유저인터페이스\item\bearballoon.bmp
+017a3cb88bbd7d89acfce14a598549c0 *data\texture\유저인터페이스\item\bearballoon.bmp
 8e259ce455f104ec4a2c93378f2738c7 *data\texture\유저인터페이스\item\bearopy.bmp
 35d1122a8f4fe3c39b61a625452505ee *data\texture\유저인터페이스\item\belka_strelka.bmp
 20ffe88c5ddce9ff9b4f0cb4d35e8589 *data\texture\유저인터페이스\item\benedictio.bmp
@@ -140606,6 +140624,7 @@ deba8087668dfea21bb6d045e94b6788 *data\texture\유저인터페이스\item\c_american_s_
 648c75d8ffb99f25be664443e236c25a *data\texture\유저인터페이스\item\c_astra_blessing.bmp
 6847ac07e6db6e1e6e5f6cc50ca7ce42 *data\texture\유저인터페이스\item\c_astrologer_t_hat.bmp
 6faf03fa0e74849a070546ace635d1b3 *data\texture\유저인터페이스\item\c_avenger.bmp
+fadd644e3c2472597561e931cdc81f2e *data\texture\유저인터페이스\item\c_baby_gloom.bmp
 d64cb891e8b5106705c25ec7e229c159 *data\texture\유저인터페이스\item\c_baby_leopard_cat.bmp
 c86d3e7856a585c665ca12fdff98a87b *data\texture\유저인터페이스\item\c_baby_panda.bmp
 9c87c2296fd09a5d66decf814a0c7184 *data\texture\유저인터페이스\item\c_baby_penguin.bmp
@@ -140701,6 +140720,7 @@ f3a2b15ba3b3f58665a94f9f6e50176c *data\texture\유저인터페이스\item\c_forest_s_va
 aae79e4baed9d7551d306bc1bcb2de44 *data\texture\유저인터페이스\item\c_frog_hood.bmp
 5ace87f1615a3fd860759417f8a6517e *data\texture\유저인터페이스\item\c_full_bloomcherry_tree.bmp
 00849c39419dd179d4dd028d385789bb *data\texture\유저인터페이스\item\c_geisha_make.bmp
+5fef2277030a2a5044d81c3223b44a82 *data\texture\유저인터페이스\item\c_ghost_bat_tw.bmp
 d3acad1d017f0f0e761e1bfe6ec1f6a3 *data\texture\유저인터페이스\item\c_ghost_effect.bmp
 4bc96e3d101d3c5dd86dfa3116787fc6 *data\texture\유저인터페이스\item\c_ghost_holiday.bmp
 426f2af836ad05b50680f69abbdd7cba *data\texture\유저인터페이스\item\c_giantcatbag_jp_bl.bmp
