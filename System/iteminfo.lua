@@ -305188,6 +305188,115 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 131,
 		costume = false
+	},
+	[19238] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Poring Village Leek",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"Fresh leek from Poring Village.",
+			"^777777-------------^000000",
+			"Upon a physical attack, there is a chance to turn into Smokie for 5 sec. Movement Speed is increased for the duration of the effect. (Does not stack with AGI bonus.)",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^77777710^000000",
+			"Required Level: ^77777730^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 824,
+		costume = false
+	},
+	[19239] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "??",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Poring Village Carrot",
+		identifiedResourceName = "???????",
+		identifiedDescriptionName = {
+			"Fresh carrot from Poring Village.",
+			"^777777-------------^000000",
+			"Upon a physical attack, there is a chance to turn into a Lunatic for 5 sec. Movement Speed is increased for the duration of the effect. (Does not stack with AGI bonus.)",
+			"^777777-------------^000000",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777770^000000",
+			"Location: ^777777Lower ^000000",
+			"Weight : ^77777710^000000",
+			"Required Level: ^77777730^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 829,
+		costume = false
+	},
+	[23302] = {
+		unidentifiedDisplayName = "Poring Treasure Box",
+		unidentifiedResourceName = "??????",
+		unidentifiedDescriptionName = {
+			"A mysterious box coming from a treasure chest found in a Poring dungeon. ",
+			"Nobody knows what's inside.",
+			"^777777-------------^000000",
+			"Required Level: ^77777730^000000",
+			"Weight: ^77777720^000000"
+		},
+		identifiedDisplayName = "Poring Treasure Box",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"A mysterious box coming from a treasure chest found in a Poring dungeon. ",
+			"Nobody knows what's inside.",
+			"^777777-------------^000000",
+			"Required Level: ^77777730^000000",
+			"Weight: ^77777720^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[28522] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Ring of The Fallen",
+		identifiedResourceName = "??????",
+		identifiedDescriptionName = {
+			"You can hear soft sounds coming from it, almost on the edge of hearing.",
+			"There is a rumor among adventurers that darkness will creep into one's heart if they listen to the ring's whispers for too long.",
+			"^777777-------------^000000",
+			"Max HP +200.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory (R)^000000",
+			"Def: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Required Level: ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[28523] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "Ring",
+		unidentifiedDescriptionName = { "Not identified. Can be identified with Magnifier." },
+		identifiedDisplayName = "Ring of Calamity",
+		identifiedResourceName = "?????",
+		identifiedDescriptionName = {
+			"A ring with a strange engraving on the stone.",
+			"There is a rumor among adventurers that one can bring a curse upon themselves if they stare at the stone for too long.",
+			"^777777-------------^000000",
+			"Max SP +150.",
+			"^777777-------------^000000",
+			"Class: ^777777Accessory (L)^000000",
+			"Def: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Required Level: ^77777710^000000",
+			"Jobs: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
 	}
 }
 

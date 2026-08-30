@@ -23811,6 +23811,30 @@ Enter Novice Glast Heim#
 You can enter Novice Glast Heim on Thursday.#
 Wait till Thursday 04:00#
 
+12414#Horror Toy Factory - waiting#SG_FEEL#QUE_NOIMAGE#
+Horror Toy Factory beginner mode is only available on Thursdays.#
+Reset time: Thursday, 04:00#
+
+12416#Agreement with Emily#SG_FEEL#QUE_NOIMAGE#
+You about Emily agreed on the split of the profits.#
+Agreement with Emily#
+
+12417#Fatigue Relieve#SG_FEEL#QUE_NOIMAGE#
+It looks like you won't be able to return to the Poring Village before tomorrow.#
+Resets at 04:00 a.m.#
+
+12418#First Visit to the Poring Village#SG_FEEL#QUE_NOIMAGE#
+Now is the time to visit the Poring Village and make new friends!#
+Or destroy everyone who lives there.#
+
+12419#Orc's Memory 1st Floor Exploration#SG_FEEL#QUE_NOIMAGE#
+Complete the 1st floor of the orc dungeon to learn what has happened there.#
+Orc's Memory, the 1st floor#
+
+12420#Fatigue Relieve#SG_FEEL#QUE_NOIMAGE#
+You can't go back to Orc's Memory until your fatigue goes away.#
+Resets at 04:00 a.m.#
+
 5727#Sudden Responsibility#SG_FEEL#QUE_NOIMAGE#
 A man named Vero suddenly appeared and suggested that you take this case with him. Departure is scheduled after 4:00 am the next day, so it's worth coming when the time is up.#
 #

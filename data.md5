@@ -1177,7 +1177,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 106144e8606b276673c83886da118f78 *data\idnum2itemdesctable.txt
 971925ad1eee2ea0ac3cc7ae8d17742b *data\idnum2itemdisplaynametable.txt
-15f7f0bf0567fe34cf742dc1e2c06adf *data\idnum2itemresnametable.txt
+b43fc15490d15ee828de8e76d008d20b *data\idnum2itemresnametable.txt
 9f3ac8f6faf7535e79084b367393e6cc *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
 0319cc6bd2bae5908d3197e72bbf2c50 *data\int_land.gnd
@@ -1619,7 +1619,7 @@ a47a7ccca7627ac22918b7d87a287c13 *data\man_fild03.rsw
 729d02899722d46e2b9964e5027a6fe5 *data\man_in01.gnd
 00f67abf39844b8d0bf53205ff49e133 *data\man_in01.rsw
 082d293a0db1ad419a2f18e7025c9166 *data\mapinfotable.scp
-ce995b3d21678e1c88cf9bc0f2f1af4a *data\mapnametable.txt
+f7bd175dfcea96b925d62dfde8aea214 *data\mapnametable.txt
 e7e148b2accaccdd8b1ee19775a43995 *data\mapobjlighttable.txt
 4c34ca89edd2745f8c4f331ceeb02506 *data\mappostable.txt
 6f3f3c057af36425cf3d471d197eff04 *data\ma_dun01.gat
@@ -1929,7 +1929,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 b847e845b4c9d949d9a328560487733f *data\num2cardillustnametable.txt
 eaf94b9468afa84713ca93364b4e61bc *data\num2itemdesctable.txt
 a3d239cc384cf8ac66a08cf9095badd5 *data\num2itemdisplaynametable.txt
-3b69e6452933f6df06af1f6ce225979b *data\num2itemresnametable.txt
+3ce4444c217f2636734be10afd2276ad *data\num2itemresnametable.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
 80ee4ee4a04ad7e81ef3a60cf99a8251 *data\nydevent_01.rsw
@@ -2243,7 +2243,7 @@ bc9827c320496d59b75d4a6653aa435b *data\pvp_y_8-2.rsw
 eb048469e7fc7295fb7fe011a827e852 *data\p_track01.rsw
 914f0f3fc79ac0e47dbc24281044b9be *data\p_track02.gat
 f8a3946c056316227590e2a08bf75e63 *data\p_track02.rsw
-8dc71a55560a590e498ffec074ba744d *data\questid2display.txt
+51fa3b1af7f7e595b70bfb6b55740b23 *data\questid2display.txt
 01e3b5c11db4dcf65eeefee88a1842ac *data\que_avan01.gat
 983c7eaf1ceba91f95bc17a4c9287108 *data\que_avan01.gnd
 12b46cdac2e7530384a0369792cdea15 *data\que_avan01.rsw
@@ -3129,7 +3129,7 @@ ff9c5bcaa4eeaa60ba43fa527950d2f4 *data\luafiles514\lua files\datainfo\changedire
 d70739486ac39247b83fd1638a7771ea *data\luafiles514\lua files\datainfo\enumvar.lub
 602ee805ec6d775a4c2fcc395cb1c64c *data\luafiles514\lua files\datainfo\jobidentity.lub
 9e939a15f97f58bc91f2ebeea956454f *data\luafiles514\lua files\datainfo\jobname.lua
-a3ff399a03cb54114a05bd1ddd7bd6a1 *data\luafiles514\lua files\datainfo\jobname.lub
+e9c1dc483e0c270cf62baa0e71ee6103 *data\luafiles514\lua files\datainfo\jobname.lub
 5f2e348f33b6c76fc1d7a58165738bd1 *data\luafiles514\lua files\datainfo\jobname_f.lub
 ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovemapservicelist.lub
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
@@ -3137,7 +3137,7 @@ a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovem
 fb56ab5870906135b5b845f009907d95 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
 f0fec6fbf4ceb734a7bbda48f1db3c91 *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 fac504a9cf0dfb68acc078f36facd1ea *data\luafiles514\lua files\datainfo\npcidentity.lua
-c2e5cb4c72a7c3957ce285afb5d83835 *data\luafiles514\lua files\datainfo\npcidentity.lub
+3ac345130c91298b3f32a1082ca85fd3 *data\luafiles514\lua files\datainfo\npcidentity.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
 108465fac3eb114f145eba289132bf3c *data\luafiles514\lua files\datainfo\npclocationradius_f.lub
 1db911b037469cbc772d2cbc097c6d6f *data\luafiles514\lua files\datainfo\pcjobnamegender.lub
@@ -101390,6 +101390,8 @@ a38f6a4211ac0c387d8fc830587c8fa9 *data\sprite\아이템\정령의왕관.spr
 4057530df843e2d383d329568b0d69d2 *data\sprite\아이템\정령포링풍선.spr
 c4991e05230d7682eeecd4bc69bcbab6 *data\sprite\아이템\정비금견스크롤.act
 ea2c91629ef09a378ce3d16f4845bc28 *data\sprite\아이템\정비금견스크롤.spr
+9675a1b880ee6251e3d60fbaabdb60bc *data\sprite\아이템\정신력의반지.act
+51a0f993ea7183099af6a3cf3f66bb28 *data\sprite\아이템\정신력의반지.spr
 c7566e2ed78734d5de4f550ae7ecec52 *data\sprite\아이템\정신봉.act
 fc15c8e159d147652655af7dc9b7ea68 *data\sprite\아이템\정신봉.spr
 4b4dfe7688b6987352989d9a2c807f95 *data\sprite\아이템\정제한브라디움.act
@@ -126500,8 +126502,8 @@ da7dbf68488cd1de2890f5492c1a4778 *data\texture\splen\splen_rock1.bmp
 3344fb28033806e981b8431947e752a8 *data\texture\splen\splen_stembody.bmp
 6757a8418ca43abdb1cf525a09d75e65 *data\texture\splen\splen_stemleaf.bmp
 2e56d02749bc235d38c17a71686df9ae *data\texture\splen\splen_whiteflower.bmp
-f23c6f657542d2135e6c624cc054ec29 *data\texture\splen\splen_yellow01.bmp
-706e8c31c18f69b8a11198fb1aa82728 *data\texture\splen\splen_yellow02.bmp
+9b708f8565ea1c7f143156910b5787bc *data\texture\splen\splen_yellow01.bmp
+fe70d8501d0db9931935ceca775ff4ec *data\texture\splen\splen_yellow02.bmp
 c7387f73a82fee46c3a0a9476d442656 *data\texture\splen\splen_yellow03.bmp
 ec0eac76249cf551633c05d1d474a525 *data\texture\splen\thumbs.db
 6bb06523bc59035cf77dacb9ed0ed504 *data\texture\swap_equipment\equipwin_bg2_change.bmp
@@ -139317,6 +139319,7 @@ e292b8eea451d36b70fa8e5edea225f6 *data\texture\유저인터페이스\collection\정령의�
 2636cf04c866ba7fa13ac7b06da4f772 *data\texture\유저인터페이스\collection\정령의왕관.bmp
 ca9201594ecdc9f609d441ae7c8165df *data\texture\유저인터페이스\collection\정령포링풍선.bmp
 1214cd311214044ff13af7d95c1e7896 *data\texture\유저인터페이스\collection\정비금견스크롤.bmp
+6c1cae25bc7452e20baae1ad0bfcccc0 *data\texture\유저인터페이스\collection\정신력의반지.bmp
 fe71b730af50789db581cd762c42223e *data\texture\유저인터페이스\collection\정신봉.bmp
 36ce550bd1733a9a620613ed121178f3 *data\texture\유저인터페이스\collection\정제한브라디움.bmp
 c3f089dabf5b876b7dc84e03ec7a40a6 *data\texture\유저인터페이스\collection\정지표지판.bmp
@@ -148478,6 +148481,7 @@ acec469024d602e0a1f93910340fda7e *data\texture\유저인터페이스\item\정령의결정01.
 f3ae563d23702f87de3397f470f63b96 *data\texture\유저인터페이스\item\정령의왕관.bmp
 0f7251abb1c081b873428ccaa8c932b6 *data\texture\유저인터페이스\item\정령포링풍선.bmp
 cd39fccde504cee6c4562954cdf63120 *data\texture\유저인터페이스\item\정비금견스크롤.bmp
+4b2e1b83d7e4a21b44b2b08201521987 *data\texture\유저인터페이스\item\정신력의반지.bmp
 a9ded2847089da50147f1ff0cabec7c4 *data\texture\유저인터페이스\item\정신봉.bmp
 1835af183184ec36db40084510449330 *data\texture\유저인터페이스\item\정제한브라디움.bmp
 b6442aa234dfb4889bd77ba6e94c78d1 *data\texture\유저인터페이스\item\정지표지판.bmp
@@ -150376,6 +150380,7 @@ e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@air2.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@anngar.bmp
 ec58ad8d7cda07bee261687bddff2624 *data\texture\유저인터페이스\map\1@bamn.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@bamq.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@begi.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\1@cash.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\1@cata.bmp
 e21e6b93fca8b4a4d6a7e5d13b176f78 *data\texture\유저인터페이스\map\1@cor.bmp
@@ -150440,6 +150445,7 @@ e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@tnm3.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\1@tower.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@uns.bmp
 e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@xm_d.bmp
+e057cb931ac5421e6af115ba18dd5a58 *data\texture\유저인터페이스\map\1@xm_d2.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\2009rwc_02.bmp
 0372553758a153ff8c2482b9c62831f3 *data\texture\유저인터페이스\map\2009rwc_03.bmp
 1fc8a75a7f43f968dd133280f4905ad7 *data\texture\유저인터페이스\map\2@cata.bmp

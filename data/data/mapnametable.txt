@@ -1073,3 +1073,7 @@ odin_past.rsw#kuil kuno odin#
 
 1@annba.rsw#Han's Basement#
 1@anngar.rsw#Fan Club's Garden#
+
+//17.2.3
+1@xm_d2.rsw#Horror Toy Factory (newbie)#
+1@begi.rsw#Poring Village (newbie)#

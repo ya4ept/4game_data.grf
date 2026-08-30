@@ -1,4 +1,48 @@
 Ragnarok Online Prime [EU]
+26.08.2026 11:03
+The maintenance is over, the server is online. Changelog:
+
+Changes:
+— The Novice Dungeon is now available. It will be active until server's shutdown.
+
+========
+Ragnarok Online Prime [EU]
+12.08.2026 10:29
+The maintenance is over, the server is online.
+
+========
+Ragnarok Online Prime [EU]
+05.08.2026 11:37
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— Added a vending machine in Prontera (/mm prontera.gat 130 130).
+
+========
+Ragnarok Online Prime [EU]
+29.07.2026 10:52
+The maintenance is over, the server is online. Changelog:
+
+Events and Shop:
+— The +50% ALL Experience Boost and Increased Drop Chance +50% event has started.
+
+========
+Ragnarok Online Prime [EU]
+22.07.2026 12:46
+The maintenance is over, the server is online. Changelog:
+
+Finished activities:
+— The Special Packs for Rune Knight and Royal Guard left the launcher.
+— The Special Packs for Rebellion and Ninja left the launcher.
+— The Special Packs for Arch Bishop and Sura left the launcher.
+— The Dovmihr's Legendary WIN-WIN Machine left the launcher.
+— The Fantastic Eggfall! left the launcher.
+— The Happy 5th Birthday! left the launcher.
+
+More: https://eu.4gameforum.com/threads/696261/
+
+========
+Ragnarok Online Prime [EU]
 15.07.2026 11:34
 The maintenance is over, the server is online. Changelog:
 
