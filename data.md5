@@ -1645,7 +1645,7 @@ a47a7ccca7627ac22918b7d87a287c13 *data\man_fild03.rsw
 729d02899722d46e2b9964e5027a6fe5 *data\man_in01.gnd
 00f67abf39844b8d0bf53205ff49e133 *data\man_in01.rsw
 082d293a0db1ad419a2f18e7025c9166 *data\mapinfotable.scp
-fc0d842b381119f51c29ddee1521b3ca *data\mapnametable.txt
+a1ed936bc14cc0e2f727968dcc8c83ba *data\mapnametable.txt
 e7e148b2accaccdd8b1ee19775a43995 *data\mapobjlighttable.txt
 4c34ca89edd2745f8c4f331ceeb02506 *data\mappostable.txt
 6f3f3c057af36425cf3d471d197eff04 *data\ma_dun01.gat
@@ -3175,7 +3175,7 @@ ff9c5bcaa4eeaa60ba43fa527950d2f4 *data\luafiles514\lua files\datainfo\changedire
 d70739486ac39247b83fd1638a7771ea *data\luafiles514\lua files\datainfo\enumvar.lub
 3ec650b94bc1136786ce3c4a4f478afa *data\luafiles514\lua files\datainfo\jobidentity.lub
 66b46b5368cc017f041d97c2893ca725 *data\luafiles514\lua files\datainfo\jobname.lua
-e5b994f0ca319e7554c35f57eb3e76fc *data\luafiles514\lua files\datainfo\jobname.lub
+b6ff0e5f1cb89b6ae768e6d201627498 *data\luafiles514\lua files\datainfo\jobname.lub
 5f2e348f33b6c76fc1d7a58165738bd1 *data\luafiles514\lua files\datainfo\jobname_f.lub
 ba676a40e253ecdba9b827583a983d17 *data\luafiles514\lua files\datainfo\kaframovemapservicelist.lub
 a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovemapservicelist_f.lub
@@ -3184,9 +3184,9 @@ a13fcb301fb9ef9d11088522bc382862 *data\luafiles514\lua files\datainfo\kaframovem
 83db199fc175bdf26a4a5dd52ee2a153 *data\luafiles514\lua files\datainfo\lapineupgradebox.lua
 6197dbd09d55f413294c1c14704a97ec *data\luafiles514\lua files\datainfo\lapineupgradebox.lub
 6aba4fd2c5a17ffcfa3fef2af51ccc02 *data\luafiles514\lua files\datainfo\npcidentity.lua
-5057c324129e3966eef7bc9e5db6bd1a *data\luafiles514\lua files\datainfo\npcidentity.lub
+534c553a61229451dbce0c20f838e57e *data\luafiles514\lua files\datainfo\npcidentity.lub
 bb137187f5b4160a029bfbfd77a346e6 *data\luafiles514\lua files\datainfo\npcidentitysvr.lua
-4da1446c9ce8536ab0395823074c29bc *data\luafiles514\lua files\datainfo\npcidentitysvr.lub
+17784c744ba53a9286bf30835d0068b0 *data\luafiles514\lua files\datainfo\npcidentitysvr.lub
 4a10b11665b9978496593588308ead1c *data\luafiles514\lua files\datainfo\npclocationradius.lub
 108465fac3eb114f145eba289132bf3c *data\luafiles514\lua files\datainfo\npclocationradius_f.lub
 6163ebc7b47333d969b8e865cb352593 *data\luafiles514\lua files\datainfo\pcjobnamegender.lub
@@ -119484,7 +119484,7 @@ efe546af5863ac162a2dda997053f084 *data\texture\effect\w_c_24.tga
 49f3c19017cc8c532c136c9ce90f6cfd *data\texture\effect\w_c_30.tga
 d270e225c47201b6eef50d5a1699b7fc *data\texture\effect\w_c_31.tga
 54d9fe0a2b914815c3a305cf54117c70 *data\texture\effect\w_c_32.tga
-489ac9c7203d9a41328ad33193207b46 *data\texture\effect\w_c_33.tga
+7f981451c517021a83b2969eff9f924c *data\texture\effect\w_c_33.tga
 65a26f40d4f6bc1fffe15eac3abae079 *data\texture\effect\w_c_34.tga
 f13c1b2207ff4fe1205485faa607885a *data\texture\effect\w_c_35.tga
 feb98bd89d08605370a8dbefc5d2359a *data\texture\effect\w_c_36.tga

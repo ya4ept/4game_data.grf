@@ -3126,7 +3126,11 @@ main = function()
 { jobtbl.JT_MD_EL_A17T, "MD_EL_A17T", "MD_EL_A17T" },
 { jobtbl.JT_4_STEELBOX, " 4_STEELBOX", "nil" },
 { jobtbl.JT_4_SYS_MSG, " 4_SYS_MSG", "nil" },
-{ jobtbl.JT_GUILD_SKILL_FLAG, "GUILD_SKILL_FLAG", "GUILD_SKILL_FLAG" }
+{ jobtbl.JT_GUILD_SKILL_FLAG, "GUILD_SKILL_FLAG", "GUILD_SKILL_FLAG" },
+{ jobtbl.JT_MD_ORC_ZOMBIE, "MD_ORC_ZOMBIE", "MD_ORC_ZOMBIE" },
+{ jobtbl.JT_MD_ORC_SKELETON, "MD_ORC_SKELETON", "MD_ORC_SKELETON" },
+{ jobtbl.JT_MD_ORK_HERO, "MD_ORK_HERO", "MD_ORK_HERO" },
+{ jobtbl.JT_MD_ORC_FLOWER, "MD_ORC_FLOWER", "MD_ORC_FLOWER" }
 }
 	for k, v in pairs(tbl) do
 		result, msg = settable(v[1], v[2], v[3])
