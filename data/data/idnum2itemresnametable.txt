@@ -13010,3 +13010,13 @@
 420310#얼어붙은땅의장미#
 420311#BearBalloon#
 420315#C_Ghost_Bat_TW#
+
+15953#C_Somtam#
+19140#다람쥐귀모자#
+22214#Authority_Sandals#
+31501#Sparkler_Fountain#
+410064#Diving_Goggles#
+410296#C_One_Sho_Bottle#
+490337#Amulet_of_GenesisStone#
+23044#엘비아캔디#
+107759#보충스크롤#
