@@ -13020,3 +13020,10 @@
 490337#Amulet_of_GenesisStone#
 23044#엘비아캔디#
 107759#보충스크롤#
+
+410240#C_Gods_Rabbit_Pet#
+450215#Aramazd_revelation#
+490104#Ring_Of_Phoenix#
+490130#SkynetBlowRing#
+490183#Military_Glove#
+107714#크루스크롤#

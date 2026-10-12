@@ -39,14 +39,10 @@ create_screen_info() failed no screen info
 create_mouse_info() failed no mouse info
 create_keyboard_info() failed no keyboard info
 frbl not found in shared memory
-download_url_to_file(toros/gameshield_32/39.50.8.55/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll in 0 seconds, err = 0(OK/200), sysErr = 0
-download_file(toros/gameshield_32/39.50.8.55/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll encountered currupted md5(f4cd90d1dde945b37e04cec7d37a9558)
-download_url_to_file(toros/driver_32/12.50.10.22/toros_32.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_32.sys in 0 seconds, err = 0(OK/200), sysErr = 0
-download_file(toros/driver_32/12.50.10.22/toros_32.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_32.sys encountered currupted md5(92c54c6dd080c86adc0a8f5778f20320)
-download_url_to_file(toros/driver_64/12.50.11.22/toros_64.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_64.sys in 0 seconds, err = 0(OK/200), sysErr = 0
-download_file(toros/driver_64/12.50.11.22/toros_64.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_64.sys encountered currupted md5(c2aaf555886cf79243dcd61c515b6e66)
-download_url_to_file(toros/launcher_32/12.3.8.22/launcher.exe) -> I:\Love\4game\rusRO_Prime\Frost\launcher.exe in 2 seconds, err = 0(OK/200), sysErr = 0
-download_file(toros/launcher_32/12.3.8.22/launcher.exe) -> I:\Love\4game\rusRO_Prime\Frost\launcher.exe encountered currupted md5(b0424d64950c5c2f768ea09e427598b3)
+skipping download (toros/gameshield_32/39.50.8.55/gameShieldDll.dll) -> I:\Love\4game\rusRO_Prime\Frost\gameShieldDll.dll as encountered equal md5s[f4cd90d1dde945b37e04cec7d37a9558]
+skipping download (toros/driver_32/12.50.10.22/toros_32.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_32.sys as encountered equal md5s[92c54c6dd080c86adc0a8f5778f20320]
+skipping download (toros/driver_64/12.50.11.22/toros_64.sys) -> I:\Love\4game\rusRO_Prime\Frost\toros_64.sys as encountered equal md5s[c2aaf555886cf79243dcd61c515b6e66]
+skipping download (toros/launcher_32/12.3.8.22/launcher.exe) -> I:\Love\4game\rusRO_Prime\Frost\launcher.exe as encountered equal md5s[b0424d64950c5c2f768ea09e427598b3]
 skipping download (files/img/rot-ru_live/back.bmp) -> I:\Love\4game\rusRO_Prime\Frost\back.bmp as encountered equal md5s[1a69e5527fe89864667ce0d340185f01]
 skipping download (files/img/toros.ico) -> I:\Love\4game\rusRO_Prime\Frost\toros.ico as encountered equal md5s[0189657404450faf678f94bc222fcb50]
 started perform_delete_command()
