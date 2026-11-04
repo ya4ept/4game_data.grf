@@ -975,7 +975,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Vajra] = "_№ЩБк¶у",
 	[ACCESSORY_IDs.ACCESSORY_ASSASSIN_SKULL_MASK] = "_ѕП»мАЪЗШ°с°Ўёй",
 	[ACCESSORY_IDs.ACCESSORY_TARE_ZONDA] = "_БёґЩАОЗьёрАЪ",
-	[ACCESSORY_IDs.ACCESSORY_Snake_Hat] = "_№мёрАЪ",
 	[ACCESSORY_IDs.ACCESSORY_BARON_EVIL_EYE] = "_№Щ·САЗё¶ѕИ",
 	[ACCESSORY_IDs.ACCESSORY_C_Saint_Frill_Ribbon] = "_CјјАОЖ®ЗБё±ё®є»",
 	[ACCESSORY_IDs.ACCESSORY_C_Light_Darkness_Crown] = "_Cєы°ъѕоµТАЗБшИҐ°ь",

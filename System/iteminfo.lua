@@ -177125,24 +177125,25 @@ tbl = {
 		costume = false
 	},
 	[20135] = {
-		unidentifiedDisplayName = "Costume: 12th Anniversary Crown",
+		unidentifiedDisplayName = "Шапка",
 		unidentifiedResourceName = "?????",
 		unidentifiedDescriptionName = {
 			"Неизвестный предмет. Для идентификации используйте ^008080увеличительное стекло^000000."
 		},
-		identifiedDisplayName = "Costume: 12th Anniversary Crown",
+		identifiedDisplayName = "Корона защитника Рун-Мидгарда (Декор)",
 		identifiedResourceName = "?????",
 		identifiedDescriptionName = {
-			"A Crown that celebrates the 12th Anniversary of Ragnarok Online.",
-			"Item Set",
-			"Costume: 12th Anniversary Crown",
-			"Costume: 12th Anniversary ElvenEars",
-			"If worn together increases all stats by +12",
-			"Вес: ^7777771^000000"
+			"Говорят, эта корона была дана тем, кто был по-настоящему верен",
+			"^777777—————————————^000000",
+			"Класс: ^777777Декор^000000",
+			"Расположение: ^777777Голова^000000",
+			"Вес: ^7777770^000000",
+			"Требуемый уровень: ^7777771^000000",
+			"Квалификация: ^777777Все профессии^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1117,
-		costume = false
+		costume = true
 	},
 	[20136] = {
 		unidentifiedDisplayName = "Costume: 12th Anniversary ElvenEars",
