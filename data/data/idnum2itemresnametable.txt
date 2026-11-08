@@ -13027,3 +13027,11 @@
 490130#SkynetBlowRing#
 490183#Military_Glove#
 107714#크루스크롤#
+
+15906#Northern_Cross#
+31634#루돌프머리띠#
+410219#C_Jumbo_Rabbit#
+420241#C_Temari_Candy_Hair#
+450208#Paracelsus_Coat#
+108064#매드바니스크롤#
+540018#Military_Law_Book#

@@ -620,7 +620,7 @@ f0e30a8a44a831d86cac108845f25c5f *data\bra_fild01.rsw
 5fbbcb2606d6dfaa1994cfa5f8f17834 *data\bra_in01.gat
 cebb41af96437d6d1c33e8f44b16e0d6 *data\bra_in01.gnd
 c1f1e179edf7c9e10998afe937965a9e *data\bra_in01.rsw
-cf18f91285461041d68774efa77a7397 *data\buyingstoreitemlist.txt
+13e3bb6c7873d44abf55efca3bd98f94 *data\buyingstoreitemlist.txt
 bd922d9f66d88566a18674d6862d407d *data\carditemnametable.txt
 fbd8ab26a8c83ed1f9a165004eb2f454 *data\cardpostfixnametable.txt
 5a7d19aaa643bfc82e6b3cd482172aad *data\cardprefixnametable.txt
@@ -1199,7 +1199,7 @@ ab32676e8211046f20e02b2390e7d374 *data\ice_dun03.rsw
 69ad0ad66c8bd09e903f28eac044dbeb *data\ice_dun04.rsw
 cf53c3d11b132847d755d42181e1c55f *data\idnum2itemdesctable.txt
 4a8ab920c9d3ed52c2fcc87741ec3159 *data\idnum2itemdisplaynametable.txt
-931849e3e522a67c27b275cdede04711 *data\idnum2itemresnametable.txt
+cbf395ab74e89b5c31b03bb8a84e0337 *data\idnum2itemresnametable.txt
 66b89bc7dbd9b427bcd99f33f74eca0d *data\idnum2itemresnametable_new.txt
 e0d18fe59709282d4cb787610138e96a *data\indoorrswtable.txt
 436f60a5b3d043dff283e605ba6b4663 *data\int_land.gat
@@ -1246,7 +1246,7 @@ de918eec85959cabf876a1a7d915ee44 *data\in_sphinx5.gnd
 aaaa93d5238bc60fb0c918288fe96990 *data\in_sphinx5.rsw
 9e83a2b8ba56a7cb9bcda034bb75d35d *data\itemmoveinfov5.txt
 2f40e229d680b1429b07dc672164d8be *data\itemparamtable.txt
-082edc684665f2e0b9c98ed96100c13f *data\itemslotcounttable.txt
+86ff6f6cb01e151b5bb2203c2bff8f3a *data\itemslotcounttable.txt
 23360092e5b37db9a1612bc54c35f0d1 *data\itemslottable.txt
 4004a7168aa318437522ad061cacb004 *data\izlu2dun.gat
 c3b0f367f8965283e36ecb8fd55e00fd *data\izlu2dun.gnd
@@ -1956,7 +1956,7 @@ ce0507b0a210278374ac3948c4c5ffc5 *data\nif_in.rsw
 08406309f2c9905a31d702610deab08a *data\num2cardillustnametable.txt
 731f83e3b7d0fd7981ee0e8077a7c630 *data\num2itemdesctable.txt
 fd765c6a2aa01f1cc172d6e25f296ccb *data\num2itemdisplaynametable.txt
-c8d034b90776295e705a9b1a6bc18779 *data\num2itemresnametable.txt
+9536c407ce6cca151182c314ef338348 *data\num2itemresnametable.txt
 1e9fa56d9543cfebc4b83566a42cac4b *data\num2itemresnametable_new.txt
 f9f2b2830a69649012a5d4c3d42d02ea *data\nydevent_01.gat
 b6abd5fcb77ec6fe7a153c45d0edd902 *data\nydevent_01.gnd
@@ -2268,7 +2268,7 @@ bc9827c320496d59b75d4a6653aa435b *data\pvp_y_8-2.rsw
 eb048469e7fc7295fb7fe011a827e852 *data\p_track01.rsw
 914f0f3fc79ac0e47dbc24281044b9be *data\p_track02.gat
 f8a3946c056316227590e2a08bf75e63 *data\p_track02.rsw
-f9f32edb481420b1d800559cebd7c4e7 *data\questid2display.txt
+ebf56ac16b2f260396bc020636aaf137 *data\questid2display.txt
 bd09a751a95e590912278956de2dde79 *data\questid2display_17.1.txt
 c9f5ad55b07ded21f2abb873d5a590f2 *data\questmission.txt
 01e3b5c11db4dcf65eeefee88a1842ac *data\que_avan01.gat
@@ -89003,6 +89003,8 @@ b8cecaab0626751769709ec2ee05fe4d *data\sprite\아이템\c_jitterbug_cap.act
 1bfc513d911c6be960ea1b5dd1bac83e *data\sprite\아이템\c_jitterbug_cap.spr
 6dc253afc16fdbda0e0f66959e3d5767 *data\sprite\아이템\c_jjakk.act
 b4efc4d9cbee1c00d8b8993f95f4f6f9 *data\sprite\아이템\c_jjakk.spr
+3c7d4b2e2498498e1176bf70f4347de8 *data\sprite\아이템\c_jumbo_rabbit.act
+6734d2be89ef13008c32329513b07301 *data\sprite\아이템\c_jumbo_rabbit.spr
 3b37c5335730bb69bca9d9de9b69f9be *data\sprite\아이템\c_j_umbrella.act
 7d51107c23d7f2c3c35ccde96602daa3 *data\sprite\아이템\c_j_umbrella.spr
 a8604a19a2632c0edef2c027274e30f1 *data\sprite\아이템\c_katana_tengumaster.act
@@ -89295,6 +89297,8 @@ f66cb5639dda90a682b4910c324c7610 *data\sprite\아이템\c_sweet_corone.spr
 4ca6e2391bf222d69eea7a6a26f88fcb *data\sprite\아이템\c_swirling_flame.spr
 7aceb2a13410e58b3b7edc7467901500 *data\sprite\아이템\c_s_two_side_up_blp.act
 d3f837406d52e2a3f2caafdfeb284c89 *data\sprite\아이템\c_s_two_side_up_blp.spr
+26420bf38ffde6d42952795c472825b4 *data\sprite\아이템\c_temari_candy_hair.act
+e35fa002a7dfe07eb2a6ce4e53131919 *data\sprite\아이템\c_temari_candy_hair.spr
 76beb34d34b15e34edd01b9b5e0940d0 *data\sprite\아이템\c_tent.act
 10e98366417d7d72c53f7535d0c8e6ec *data\sprite\아이템\c_tent.spr
 9efbc2eb3b13cc79b6eee75df637cbef *data\sprite\아이템\c_tiger.act
@@ -91060,6 +91064,8 @@ a0b6d02f9ae47fc2addfe7c141a91d64 *data\sprite\아이템\mightysoul_essence.act
 b6f017df10d8c7be1f3ddf8abece3ca9 *data\sprite\아이템\mightysoul_essence.spr
 76375d62345f36a7b3930bca0a1cafe7 *data\sprite\아이템\military_glove.act
 5858741c55379001bd3217486c5f99f0 *data\sprite\아이템\military_glove.spr
+fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\military_law_book.act
+96c1e1885489ec4b9d3f2fcde9611b7c *data\sprite\아이템\military_law_book.spr
 db4fab6f0951fc54ebf8b402e3821213 *data\sprite\아이템\mini_melon.act
 411cb183c24eb51b35ba69ec2f3e95eb *data\sprite\아이템\mini_melon.spr
 9675a1b880ee6251e3d60fbaabdb60bc *data\sprite\아이템\mi_echosong.act
@@ -91370,6 +91376,8 @@ b32f82baf6e10963835510bd83e035d2 *data\sprite\아이템\nofear신발.spr
 e43cd14ff891d0f6ac4e902b4f25d7a7 *data\sprite\아이템\nofear언더웨어.spr
 474a582587ecf4cbb3689202c53208c6 *data\sprite\아이템\nofear파워헤드기어.act
 94c9cc91e0e8f39fc1608aaed510db36 *data\sprite\아이템\nofear파워헤드기어.spr
+5b671fea35d5b5b09c27fd63e249226f *data\sprite\아이템\northern_cross.act
+ae515e94834d79265370a806ffa4f02b *data\sprite\아이템\northern_cross.spr
 888743c62cbf6a05f608a52a640bf8e5 *data\sprite\아이템\nostalgiacherryblossom.act
 a78c5616b93800020009e91c9d638c84 *data\sprite\아이템\nostalgiacherryblossom.spr
 a46abf9272df10a327a52b95130d2fab *data\sprite\아이템\novgroove.act
@@ -91424,6 +91432,8 @@ f3995fc6ee44095a0f058ceb929e90f8 *data\sprite\아이템\openair_headset.act
 2ff568ebf74b9e1a79f1c4fcca22f8f1 *data\sprite\아이템\openair_headset.spr
 8dd472d6923a3918233b92b71e296b1a *data\sprite\아이템\owl_baron_mantle.act
 e68eebfed8a91dabecb1d0049dab18ea *data\sprite\아이템\owl_baron_mantle.spr
+76375d62345f36a7b3930bca0a1cafe7 *data\sprite\아이템\paracelsus_coat.act
+0e818d191a6b9fbe50224fa570250751 *data\sprite\아이템\paracelsus_coat.spr
 fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\paracelsus_glove.act
 3c8e1b203e3941357602e88b9923b3c1 *data\sprite\아이템\paracelsus_glove.spr
 fd2738bb6910e383d47c65aedc721c24 *data\sprite\아이템\paradise_lost.act
@@ -102768,6 +102778,8 @@ e8b25ebb44a7144b432264bcc576c3ec *data\sprite\악세사리\남\남_c_inner_color_long.
 6feebedc596ed0f26257f9769fc90302 *data\sprite\악세사리\남\남_c_jitterbug_cap.spr
 e3f28a2c6cc1b5e1b96b21d35a7a5af3 *data\sprite\악세사리\남\남_c_jjakk.act
 e9340a2ee920e65825dabd83f3a694b7 *data\sprite\악세사리\남\남_c_jjakk.spr
+c21f5c1dac4fbf47ab322551270b2d36 *data\sprite\악세사리\남\남_c_jumbo_rabbit.act
+eb07ddf9c64a2c827ed4874deff47f8d *data\sprite\악세사리\남\남_c_jumbo_rabbit.spr
 be999bee9323cfa5ef9f770592c83bf3 *data\sprite\악세사리\남\남_c_katashiro_flying.act
 8064c3f95e8b2818b2bdc68001363179 *data\sprite\악세사리\남\남_c_katashiro_flying.spr
 c22b7c336c6f67e16e6c0476d029f081 *data\sprite\악세사리\남\남_c_kishu_inu.act
@@ -102972,6 +102984,8 @@ fe76639173fb3ad38782315055426d5b *data\sprite\악세사리\남\남_c_streamer_aura.spr
 88a2f1ff071af99d1b512b4ef662dc74 *data\sprite\악세사리\남\남_c_sweet_corone.spr
 e73833f903166bf6937bebb0214ad234 *data\sprite\악세사리\남\남_c_s_two_side_up_blp.act
 f93cf45df6a2179cd5308a3ef7635d25 *data\sprite\악세사리\남\남_c_s_two_side_up_blp.spr
+3229c59c2e0a75b357e4dfe8ddf4c0ce *data\sprite\악세사리\남\남_c_temari_candy_hair.act
+ea685b8ccef7b6db394cc2baa5eb96d0 *data\sprite\악세사리\남\남_c_temari_candy_hair.spr
 6f62a0d55766f10622d60d8ff5bbeca4 *data\sprite\악세사리\남\남_c_tent.act
 f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\악세사리\남\남_c_tent.spr
 38b5a2a46af88358f22aa1016d08701a *data\sprite\악세사리\남\남_c_tiger.act
@@ -103269,6 +103283,8 @@ ab515e226323d0533369f80801b66f97 *data\sprite\악세사리\남\남_mono_gothic_bonnet.
 046eb826cbecac07b8b9b6be40dc0f11 *data\sprite\악세사리\남\남_noblesse_magic_ring.spr
 c55a797815ef3021c9711283020ae014 *data\sprite\악세사리\남\남_nofear파워헤드기어.act
 b04ea3b45037c06e80f7d4a0b4b71bc0 *data\sprite\악세사리\남\남_nofear파워헤드기어.spr
+08d0482d481f8f087f5f5a7e0364b525 *data\sprite\악세사리\남\남_northern_cross.act
+20a9495d392ecdb63f5455c93d73f2b6 *data\sprite\악세사리\남\남_northern_cross.spr
 3d27c6d32734a118d2a3572e78c231d8 *data\sprite\악세사리\남\남_nostalgiacherryblossom.act
 a77b91fc0cfeb176141f4bb220e92030 *data\sprite\악세사리\남\남_nostalgiacherryblossom.spr
 f4353c37271d95e9b7a62c9cd29833c1 *data\sprite\악세사리\남\남_nut_cracker.act
@@ -106060,6 +106076,8 @@ c8d63f70a810598a29fce5ee5315f961 *data\sprite\악세사리\남_doram\남_c_desert_wolf
 f4b015fd1c9b9953137d714c27d9a04b *data\sprite\악세사리\남_doram\남_c_gods_rabbit_pet.spr
 cf81147783121885bffb490fe7ab842f *data\sprite\악세사리\남_doram\남_c_happening_clover.act
 e90a4cacc45c39a03d58c7304f5307ed *data\sprite\악세사리\남_doram\남_c_happening_clover.spr
+4765d08a173ad9313553a625e372b17f *data\sprite\악세사리\남_doram\남_c_jumbo_rabbit.act
+eb07ddf9c64a2c827ed4874deff47f8d *data\sprite\악세사리\남_doram\남_c_jumbo_rabbit.spr
 3f8bc9dacef1396a973d29aca23129dd *data\sprite\악세사리\남_doram\남_c_kotatsu.act
 ef2ecb1a13d99033bd9b70047b3808b3 *data\sprite\악세사리\남_doram\남_c_kotatsu.spr
 c3a502014357244c468333574cc38342 *data\sprite\악세사리\남_doram\남_c_lady_tanee.act
@@ -106414,6 +106432,8 @@ a88f0e96badc9f29037d954778deae59 *data\sprite\악세사리\여\여_c_jellyfish.spr
 5b56fb86644f1779c20c13fc47464f25 *data\sprite\악세사리\여\여_c_jitterbug_cap.spr
 5ab7437c31b32740f37f0e1b91c717e9 *data\sprite\악세사리\여\여_c_jjakk.act
 43c5677a91287ce03f95c4f6c8411c97 *data\sprite\악세사리\여\여_c_jjakk.spr
+bfa5ad596747f6475ff8dd868db528f4 *data\sprite\악세사리\여\여_c_jumbo_rabbit.act
+eb07ddf9c64a2c827ed4874deff47f8d *data\sprite\악세사리\여\여_c_jumbo_rabbit.spr
 fd14d1716cb4a421ac60c027d2bd3e4b *data\sprite\악세사리\여\여_c_katashiro_flying.act
 8064c3f95e8b2818b2bdc68001363179 *data\sprite\악세사리\여\여_c_katashiro_flying.spr
 63ce8e0301c13c23ffea4f423b743c91 *data\sprite\악세사리\여\여_c_kishu_inu.act
@@ -106618,6 +106638,8 @@ c37d7757f3d4aa8e8766318f07cfbb28 *data\sprite\악세사리\여\여_c_sweet_chef_hat.ac
 88a2f1ff071af99d1b512b4ef662dc74 *data\sprite\악세사리\여\여_c_sweet_corone.spr
 88e2ab13fb9008af73841e09e7b658ea *data\sprite\악세사리\여\여_c_s_two_side_up_blp.act
 f93cf45df6a2179cd5308a3ef7635d25 *data\sprite\악세사리\여\여_c_s_two_side_up_blp.spr
+741750421ed21494559ad6eb1dfeeace *data\sprite\악세사리\여\여_c_temari_candy_hair.act
+ea685b8ccef7b6db394cc2baa5eb96d0 *data\sprite\악세사리\여\여_c_temari_candy_hair.spr
 f0e3ed84becf352e63dfdeb0972a3a6b *data\sprite\악세사리\여\여_c_tent.act
 f8c14db74f9821ed4a46ca4d236a43d1 *data\sprite\악세사리\여\여_c_tent.spr
 0ae14c38faa05d8d2c970e2344252c4f *data\sprite\악세사리\여\여_c_tiger.act
@@ -106915,6 +106937,8 @@ fc5e3db21cd4785dabebbec6626c8061 *data\sprite\악세사리\여\여_mountain_helmet.act
 046eb826cbecac07b8b9b6be40dc0f11 *data\sprite\악세사리\여\여_noblesse_magic_ring.spr
 98805f6e74f9899d179508ad06d94f38 *data\sprite\악세사리\여\여_nofear파워헤드기어.act
 b04ea3b45037c06e80f7d4a0b4b71bc0 *data\sprite\악세사리\여\여_nofear파워헤드기어.spr
+2aa3c57ef2f383d03cba91276710ab0f *data\sprite\악세사리\여\여_northern_cross.act
+31be2c1314985f558d865d18ccd4ca1b *data\sprite\악세사리\여\여_northern_cross.spr
 a475a9b663a4eb3cb6dfc97242c8bf21 *data\sprite\악세사리\여\여_nostalgiacherryblossom.act
 a77b91fc0cfeb176141f4bb220e92030 *data\sprite\악세사리\여\여_nostalgiacherryblossom.spr
 800e7fb28106a2c2d5f9d828a10a6b17 *data\sprite\악세사리\여\여_nut_cracker.act
@@ -109702,6 +109726,8 @@ ead4a414e4160785710a88dd081be9e8 *data\sprite\악세사리\여_doram\여_c_gods_rabbit
 f4b015fd1c9b9953137d714c27d9a04b *data\sprite\악세사리\여_doram\여_c_gods_rabbit_pet.spr
 ff182dab44df537e5bd02948c272a8a1 *data\sprite\악세사리\여_doram\여_c_happening_clover.act
 88c39fb90aef9481accf66baec9cbff0 *data\sprite\악세사리\여_doram\여_c_happening_clover.spr
+ed3378c1f31273756ba796ac7ac332fd *data\sprite\악세사리\여_doram\여_c_jumbo_rabbit.act
+eb07ddf9c64a2c827ed4874deff47f8d *data\sprite\악세사리\여_doram\여_c_jumbo_rabbit.spr
 fe757e4aa2e3ad9635549941e9650c84 *data\sprite\악세사리\여_doram\여_c_kotatsu.act
 ef2ecb1a13d99033bd9b70047b3808b3 *data\sprite\악세사리\여_doram\여_c_kotatsu.spr
 ca2864997f6b6f2a4887a5a6a8038e4a *data\sprite\악세사리\여_doram\여_c_lady_tanee.act
@@ -132830,6 +132856,7 @@ e095c1694544ffafb98e04081fc3ceec *data\texture\유저인터페이스\collection\c_i_sam
 1d59a2a983b2166a65136f47632452ab *data\texture\유저인터페이스\collection\c_jellyfish.bmp
 6d96e2a3904968f36513044ed2b58a85 *data\texture\유저인터페이스\collection\c_jitterbug_cap.bmp
 88bc66d403b943ec09531efd95895e22 *data\texture\유저인터페이스\collection\c_jjakk.bmp
+0c55e4ddaa1d8b283c78f702af1e0ef0 *data\texture\유저인터페이스\collection\c_jumbo_rabbit.bmp
 f4be0e032d024dcef09c1aca255d80a7 *data\texture\유저인터페이스\collection\c_j_umbrella.bmp
 52af9a52ab64a8cb4edb856c21818113 *data\texture\유저인터페이스\collection\c_katana_tengumaster.bmp
 118bbb2becea63a53681723d2e806e37 *data\texture\유저인터페이스\collection\c_katashiro_flying.bmp
@@ -132976,6 +133003,7 @@ b2c5d3059ddbdd58c4e846d2bc103901 *data\texture\유저인터페이스\collection\c_strai
 926c95a0c5cd5d77266bb9bd5db82293 *data\texture\유저인터페이스\collection\c_sweet_corone.bmp
 613ef3d5de377874dedc552c46ce5391 *data\texture\유저인터페이스\collection\c_swirling_flame.bmp
 8c4864aa74a51bb214f5821e54a11710 *data\texture\유저인터페이스\collection\c_s_two_side_up_blp.bmp
+4ffbf41be8004fef14b529c3391ffbf8 *data\texture\유저인터페이스\collection\c_temari_candy_hair.bmp
 9375c85d4cb25137862773ff5a6bcb3d *data\texture\유저인터페이스\collection\c_tent.bmp
 466a84443e58be6b3722d8a03b93012f *data\texture\유저인터페이스\collection\c_tiger.bmp
 55c4f52b24bb38d5a28612f7f28a81af *data\texture\유저인터페이스\collection\c_traveller_bag.bmp
@@ -133570,6 +133598,7 @@ cd09d820a0d4204a4987bc612e23de52 *data\texture\유저인터페이스\collection\meuchle
 604c0d159526f43135287ab435d586c5 *data\texture\유저인터페이스\collection\midgard_coin.bmp
 40bd71b10f4d862c2432cef23cf446c1 *data\texture\유저인터페이스\collection\mightysoul_essence.bmp
 24f98e90c87a7fa31a63e5584e0e6d38 *data\texture\유저인터페이스\collection\military_glove.bmp
+78b2ddad8a1ec7fadac1ce1caa11965f *data\texture\유저인터페이스\collection\military_law_book.bmp
 ac94bb96aa66ae29c7734e55e8a2c5a2 *data\texture\유저인터페이스\collection\mini_melon.bmp
 bc5eb7b5e170e57b8edab3aa43323d0d *data\texture\유저인터페이스\collection\mono_gothic_bonnet.bmp
 47a22b706881490495f84de2137dfc06 *data\texture\유저인터페이스\collection\moonlight_egg.bmp
@@ -133637,6 +133666,7 @@ fd9fcc6a89e83c7c52ee5e4ecd5bc0fe *data\texture\유저인터페이스\collection\nobless
 2ca997d27b98d5813262796be5dd28cb *data\texture\유저인터페이스\collection\nofear신발.bmp
 cdeaf9f5ee57fce2cedac0c6a1429d63 *data\texture\유저인터페이스\collection\nofear언더웨어.bmp
 5256cef24cf362f2cdc6237fdb215564 *data\texture\유저인터페이스\collection\nofear파워헤드기어.bmp
+1226c45dba47b5fbf413ea304b4b74e4 *data\texture\유저인터페이스\collection\northern_cross.bmp
 57d4e49d54159adf62fc5ebaa961cdda *data\texture\유저인터페이스\collection\nostalgiacherryblossom.bmp
 0df04b0dd5f512173b7dc2115bba5f06 *data\texture\유저인터페이스\collection\novgroove.bmp
 493b8175c3cbf8be406f479f9c2a0857 *data\texture\유저인터페이스\collection\nurse_cap_il.bmp
@@ -133653,6 +133683,7 @@ be411970d2bd298f2fd109d1d25c5ce0 *data\texture\유저인터페이스\collection\old_det
 83463d052fee68bad9c469a450236f9c *data\texture\유저인터페이스\collection\old_moc_shawl.bmp
 87a5b9891680cf13fbd55e41acd1ad2a *data\texture\유저인터페이스\collection\openair_headset.bmp
 df55bf5dd2f3217bd1709f9e9b2a57a2 *data\texture\유저인터페이스\collection\owl_baron_mantle.bmp
+f4f58ff6a9b22096388a846ba93dc8f0 *data\texture\유저인터페이스\collection\paracelsus_coat.bmp
 6b4c50eb9f5096ace25be20f39e2bc67 *data\texture\유저인터페이스\collection\paracelsus_glove.bmp
 d7260f7e9a8265873bd0766ac4e1f971 *data\texture\유저인터페이스\collection\paradise_lost.bmp
 3ed08be0102db851d00f51dca17439bd *data\texture\유저인터페이스\collection\parfait.bmp
@@ -140833,6 +140864,7 @@ d34b67d2ed3a70275229d5cd4c4ac3ea *data\texture\유저인터페이스\item\c_inner_color
 bea18a34db495f7ac581af5be770f59d *data\texture\유저인터페이스\item\c_jellyfish.bmp
 e64a40faf298837ab82597e9a6046791 *data\texture\유저인터페이스\item\c_jitterbug_cap.bmp
 b9f1558d1fec6f4c02fe2763063bbe14 *data\texture\유저인터페이스\item\c_jjakk.bmp
+af41d351967c22a44debe3bff7a2750a *data\texture\유저인터페이스\item\c_jumbo_rabbit.bmp
 5506cc0a363f5dc96c4fa6c4e968d65a *data\texture\유저인터페이스\item\c_j_umbrella.bmp
 38286e5a34931c7f1bb1f321c2c5dc40 *data\texture\유저인터페이스\item\c_katana_tengumaster.bmp
 bd1deb993382b28d45167ea99f8554b4 *data\texture\유저인터페이스\item\c_katashiro_flying.bmp
@@ -140979,6 +141011,7 @@ c48c7d74db01745cbbd68086ef45f17a *data\texture\유저인터페이스\item\c_sweet_chef_
 8b0045d3d3e32f7524a6fa74621bfb57 *data\texture\유저인터페이스\item\c_sweet_corone.bmp
 6796704736821ceb9898a819f045e86b *data\texture\유저인터페이스\item\c_swirling_flame.bmp
 cc9d19abe0423ebce64c84051e44d683 *data\texture\유저인터페이스\item\c_s_two_side_up_blp.bmp
+43d760d926110b34a3b81495d6c64a06 *data\texture\유저인터페이스\item\c_temari_candy_hair.bmp
 19d1459da8c139ac0ca2ba682504b7fd *data\texture\유저인터페이스\item\c_tent.bmp
 e1a3b4a4905effb5329731de0d277938 *data\texture\유저인터페이스\item\c_tiger.bmp
 947eeb633aada591b29358c45c2a8fc6 *data\texture\유저인터페이스\item\c_traveller_bag.bmp
@@ -141883,6 +141916,7 @@ e5d69d7ce58f63370d75d3e86503dce1 *data\texture\유저인터페이스\item\mh_tinder_bre
 963f270b81d723dd270ba5f1689f693d *data\texture\유저인터페이스\item\midgard_coin.bmp
 c7070da942f1c5759abd7a3683d672f8 *data\texture\유저인터페이스\item\mightysoul_essence.bmp
 5027c424ec0f4f01c1925d0ac79f5dad *data\texture\유저인터페이스\item\military_glove.bmp
+111846f47119ba2b77e672eb283c4d7c *data\texture\유저인터페이스\item\military_law_book.bmp
 18bec10fc1ad4e9f1d979fcc56de45e4 *data\texture\유저인터페이스\item\mini_melon.bmp
 2e82d884f3b9c2b6af153fb82f7ab4dc *data\texture\유저인터페이스\item\mi_echosong.bmp
 eeb70dbd0b125bf547a647a1c8ac8edd *data\texture\유저인터페이스\item\mi_harmonize.bmp
@@ -142038,6 +142072,7 @@ a10e2bfcc62a1492517b7c7ebefe2a04 *data\texture\유저인터페이스\item\nofear벨트.bm
 c94c802af837b10164f6f68de1b48d89 *data\texture\유저인터페이스\item\nofear신발.bmp
 420681a5e00d22dc877f7bb275454ed2 *data\texture\유저인터페이스\item\nofear언더웨어.bmp
 75c9768b3fa21d95524cd0d0615d7213 *data\texture\유저인터페이스\item\nofear파워헤드기어.bmp
+4c0710bdee4a60ed9649293fa512ccc2 *data\texture\유저인터페이스\item\northern_cross.bmp
 67c6d90beb22db75f02a5f53fe4d7105 *data\texture\유저인터페이스\item\nostalgiacherryblossom.bmp
 215ebe086107ab77bc6c2f69fcdbb400 *data\texture\유저인터페이스\item\novgroove.bmp
 b7cd7c077fe48d21c0c61da4972ed2d2 *data\texture\유저인터페이스\item\nurse_cap_il.bmp
@@ -142065,6 +142100,7 @@ f22a469ca744a33e85577b12b4cce9b9 *data\texture\유저인터페이스\item\ob_zangetsu.b
 8377be9e8e4d31982a7f848b23d84988 *data\texture\유저인터페이스\item\old_moc_shawl.bmp
 311b4eabc723b9c63c9c11ce18450f18 *data\texture\유저인터페이스\item\openair_headset.bmp
 ade780804a824f0ad6b25db0e3a80299 *data\texture\유저인터페이스\item\owl_baron_mantle.bmp
+1c107d60f98989fc1a1c40477fbd1561 *data\texture\유저인터페이스\item\paracelsus_coat.bmp
 e4921565d31f798f1ae67f09e9ca8d18 *data\texture\유저인터페이스\item\paracelsus_glove.bmp
 4685bffe7b454ed7e0961d8a25fef0e8 *data\texture\유저인터페이스\item\paradise_lost.bmp
 41ac0236f120c67d86f845f4dd793362 *data\texture\유저인터페이스\item\parfait.bmp
